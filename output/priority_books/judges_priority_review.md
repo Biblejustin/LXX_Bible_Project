@@ -29,7 +29,7 @@ Selected verses: 6
 ## Judges 15:6
 - score: 18
 - reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=law; crossref_top_vote=6; reco=keep
-- fresh: And the foreigners said, Who did this? And they said, Sampsōn, son-in-law of the Thamnathite, because he took his wife and gave her to his companion. And the foreigners went up and burned the house of her father and her and her father with fire.
+- fresh: And the foreigners said, Who did this? And they said, Samson, son-in-law of the Thamnathite, because he took his wife and gave her to his companion. And the foreigners went up and burned the house of her father and her and her father with fire.
 - brenton: And the Philistines said, Who has done these things? and they said, Sampson the son-in-law of the Thamnite, because he has taken his wife, and given her to one of his friends; and the Philistines went up, and burnt her and her father's house with fire.
 
 ## Judges 21:4

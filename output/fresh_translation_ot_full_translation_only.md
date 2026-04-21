@@ -16388,7 +16388,7 @@ from the tribe of Judah, Caleb son of Jephonnē;
 
 **Numbers 13:7**
 
-from the tribe of Issachar, Igaal son of Iōsēph;
+from the tribe of Issachar, Igaal son of Joseph;
 
 **Numbers 13:8**
 
@@ -16412,7 +16412,7 @@ from the tribe of Dan, Amiēl son of Gamali;
 
 **Numbers 13:13**
 
-from the tribe of Asher, Sathour son of Michaēl;
+from the tribe of Asher, Sathour son of Michael;
 
 **Numbers 13:14**
 
@@ -26506,11 +26506,11 @@ And the sons of Israel served Eglom king of Moab eighteen years.
 
 **Judges 3:15**
 
-And the sons of Israel cried out to the Lord, and the Lord raised up for them a savior, Aōd son of Gēra, son of the Jeminite, an ambidextrous man. And the sons of Israel sent gifts by his hand to Eglom king of Moab.
+And the sons of Israel cried out to the Lord, and the Lord raised up for them a savior, Ehud son of Gēra, son of the Jeminite, an ambidextrous man. And the sons of Israel sent gifts by his hand to Eglom king of Moab.
 
 **Judges 3:16**
 
-And Aōd made for himself a double-edged sword a span in length and girded it under his cloak on his right thigh.
+And Ehud made for himself a double-edged sword a span in length and girded it under his cloak on his right thigh.
 
 **Judges 3:17**
 
@@ -26518,19 +26518,19 @@ And he brought the gifts to Eglom king of Moab, and Eglom was a very imposing ma
 
 **Judges 3:18**
 
-And it came to be, when Aōd finished presenting the gifts, he sent away those carrying the gifts.
+And it came to be, when Ehud finished presenting the gifts, he sent away those carrying the gifts.
 
 **Judges 3:19**
 
-And Eglom turned back from the carved images near Galgala, and Aōd said, I have a secret word for you, O king. And Eglom said, Silence, everyone out from my presence. And all those standing by him went out from him.
+And Eglom turned back from the carved images near Galgala, and Ehud said, I have a secret word for you, O king. And Eglom said, Silence, everyone out from my presence. And all those standing by him went out from him.
 
 **Judges 3:20**
 
-And Aōd went in to him, and he was sitting alone in his summer upper room. And Aōd said, I have a word of God for you, O king. And Eglom rose from the throne near him.
+And Ehud went in to him, and he was sitting alone in his summer upper room. And Ehud said, I have a word of God for you, O king. And Eglom rose from the throne near him.
 
 **Judges 3:21**
 
-And it came to be, as he rose up, Aōd stretched out his left hand and took the sword from his right thigh and drove it into the belly of Eglom.
+And it came to be, as he rose up, Ehud stretched out his left hand and took the sword from his right thigh and drove it into the belly of Eglom.
 
 **Judges 3:22**
 
@@ -26538,7 +26538,7 @@ And indeed he drove in the hilt behind the blade, and the fat closed over the bl
 
 **Judges 3:23**
 
-And Aōd went out into the vestibule and shut the doors of the upper room upon him and locked them.
+And Ehud went out into the vestibule and shut the doors of the upper room upon him and locked them.
 
 **Judges 3:24**
 
@@ -26550,7 +26550,7 @@ And they waited until they were ashamed, and behold, there was no one opening th
 
 **Judges 3:26**
 
-And Aōd escaped while they were in confusion, and there was no one paying him heed, and he himself passed by the carved images and escaped to Seirōtha.
+And Ehud escaped while they were in confusion, and there was no one paying him heed, and he himself passed by the carved images and escaped to Seirōtha.
 
 **Judges 3:27**
 
@@ -26566,7 +26566,7 @@ And they struck Moab at that time, about ten thousand men, every fighting man am
 
 **Judges 3:30**
 
-And Moab was put to shame on that day under the hand of Israel, and the land was at rest eighty years. And Aōd judged them until he died.
+And Moab was put to shame on that day under the hand of Israel, and the land was at rest eighty years. And Ehud judged them until he died.
 
 **Judges 3:31**
 
@@ -26588,15 +26588,15 @@ And the sons of Israel cried out to the Lord, because he had nine hundred iron c
 
 **Judges 4:4**
 
-And Debbōra, a woman prophet, wife of Lapidōth, she was judging Israel at that time.
+And Deborah, a woman prophet, wife of Lapidōth, she was judging Israel at that time.
 
 **Judges 4:5**
 
-And she sat under the palm of Debbōra between Rama and between Baethel in the hill-country of Ephraim, and the sons of Israel went up to her there for judgment.
+And she sat under the palm of Deborah between Rama and between Baethel in the hill-country of Ephraim, and the sons of Israel went up to her there for judgment.
 
 **Judges 4:6**
 
-And Debbōra sent and called Barak son of Abineem from Kedes of Naphtali and said to him, Has not the Lord God of Israel commanded you? And you shall depart to Mount Thabor and take with yourself ten thousand men from the sons of Naphtali and from the sons of Zebulun.
+And Deborah sent and called Barak son of Abineem from Kedes of Naphtali and said to him, Has not the Lord God of Israel commanded you? And you shall depart to Mount Thabor and take with yourself ten thousand men from the sons of Naphtali and from the sons of Zebulun.
 
 **Judges 4:7**
 
@@ -26608,11 +26608,11 @@ And Barak said to her, If you go with me, I will go, and if you do not go with m
 
 **Judges 4:9**
 
-And Debbōra said to him, Going, I will go with you. Only know that the advantage shall not be yours on the way by which you are going, because into a woman's hand the Lord will give Sisara. And Debbōra rose and went with Barak to Kedes.
+And Deborah said to him, Going, I will go with you. Only know that the advantage shall not be yours on the way by which you are going, because into a woman's hand the Lord will give Sisara. And Deborah rose and went with Barak to Kedes.
 
 **Judges 4:10**
 
-And Barak summoned Zebulun and Naphtali to Kedes, and ten thousand men went up at his feet, and Debbōra went up with him.
+And Barak summoned Zebulun and Naphtali to Kedes, and ten thousand men went up at his feet, and Deborah went up with him.
 
 **Judges 4:11**
 
@@ -26628,7 +26628,7 @@ And Sisara called together all his chariots, because he had nine hundred iron ch
 
 **Judges 4:14**
 
-And Debbōra said to Barak, Rise up, because this is the day in which the Lord has given Sisara into your hand. Look, the Lord will go out before you. And Barak went down from Mount Thabor, and ten thousand men after him.
+And Deborah said to Barak, Rise up, because this is the day in which the Lord has given Sisara into your hand. Look, the Lord will go out before you. And Barak went down from Mount Thabor, and ten thousand men after him.
 
 **Judges 4:15**
 
@@ -26640,11 +26640,11 @@ And Barak pursued after the chariots and after the camp as far as the oak grove 
 
 **Judges 4:17**
 
-And Sisara withdrew on his feet to the tent of Jaēl, wife of Chaber the Kenite, because there was peace between Jabin king of Asor and the house of Chaber the Kenite.
+And Sisara withdrew on his feet to the tent of Jael, wife of Chaber the Kenite, because there was peace between Jabin king of Asor and the house of Chaber the Kenite.
 
 **Judges 4:18**
 
-And Jaēl went out to meet Sisara and said to him, Turn aside, my lord, turn aside to me, do not fear. And he turned aside to her into the tent, and she covered him with her cloak.
+And Jael went out to meet Sisara and said to him, Turn aside, my lord, turn aside to me, do not fear. And he turned aside to her into the tent, and she covered him with her cloak.
 
 **Judges 4:19**
 
@@ -26656,11 +26656,11 @@ And he said to her, Stand at the door of the tent, and it shall be, if someone c
 
 **Judges 4:21**
 
-And Jaēl wife of Chaber took the tent peg and put the hammer in her hand and came in to him quietly and drove the peg into his jaw and it went through into the ground. And he writhed between her knees and breathed out and died.
+And Jael wife of Chaber took the tent peg and put the hammer in her hand and came in to him quietly and drove the peg into his jaw and it went through into the ground. And he writhed between her knees and breathed out and died.
 
 **Judges 4:22**
 
-And behold, Barak was pursuing Sisara, and Jaēl went out to meet him and said to him, Come, and I will show you the man whom you seek. And he went in to her, and behold, Sisara had fallen dead, and the peg was in his jaw.
+And behold, Barak was pursuing Sisara, and Jael went out to meet him and said to him, Come, and I will show you the man whom you seek. And he went in to her, and behold, Sisara had fallen dead, and the peg was in his jaw.
 
 **Judges 4:23**
 
@@ -26674,7 +26674,7 @@ And the hand of the sons of Israel went on, going and hardening against Jabin ki
 
 **Judges 5:1**
 
-And Debbōra sang, and Barak son of Abineem, on that day, and said,
+And Deborah sang, and Barak son of Abineem, on that day, and said,
 
 **Judges 5:2**
 
@@ -26694,11 +26694,11 @@ Mountains were shaken from before the Lord, this Sinai, from before the Lord God
 
 **Judges 5:6**
 
-In the days of Samegar son of Anath, in the days of Jaēl, kings ceased, and ways went on twisted roads.
+In the days of Samegar son of Anath, in the days of Jael, kings ceased, and ways went on twisted roads.
 
 **Judges 5:7**
 
-Rule ceased in Israel, it ceased until Debbōra arose, because a mother arose in Israel.
+Rule ceased in Israel, it ceased until Deborah arose, because a mother arose in Israel.
 
 **Judges 5:8**
 
@@ -26718,7 +26718,7 @@ sound forth the voice of those striking up among rejoicing ones. There they will
 
 **Judges 5:12**
 
-Awake, awake, Debbōra. Awaken myriads with the people. Awake, awake, speak with song. Strengthening one, rise up, Barak, and strengthen, Debbōra, Barak. Take captive your captivity, son of Abineem.
+Awake, awake, Deborah. Awaken myriads with the people. Awake, awake, speak with song. Strengthening one, rise up, Barak, and strengthen, Deborah, Barak. Take captive your captivity, son of Abineem.
 
 **Judges 5:13**
 
@@ -26730,7 +26730,7 @@ The people of Ephraim punished them in the valley. Benjamin, your brother, among
 
 **Judges 5:15**
 
-In Issachar with Debbōra he sent his footmen into the valley. Why do you dwell between the lips? He stretched out at his feet. In the divisions of Reuben were great searchings of heart.
+In Issachar with Deborah he sent his footmen into the valley. Why do you dwell between the lips? He stretched out at his feet. In the divisions of Reuben were great searchings of heart.
 
 **Judges 5:16**
 
@@ -26766,7 +26766,7 @@ Curse Marōz, said the angel of the Lord; with a curse curse its inhabitants, be
 
 **Judges 5:24**
 
-Blessed among women be Jaēl, wife of Chaber the Kenite; among women in the tent let her be blessed.
+Blessed among women be Jael, wife of Chaber the Kenite; among women in the tent let her be blessed.
 
 **Judges 5:25**
 
@@ -27080,15 +27080,15 @@ And Gideon came to the Jordan and crossed over, he and the three hundred men wit
 
 **Judges 8:5**
 
-And he said to the men of Sokchōth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zēbee and Salmana, kings of Midian.
+And he said to the men of Sokchōth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zebah and Salmana, kings of Midian.
 
 **Judges 8:6**
 
-And the leaders of Sokchōth said, Is the hand of Zēbee and Salmana now in your hand, that we should give bread to your army?
+And the leaders of Sokchōth said, Is the hand of Zebah and Salmana now in your hand, that we should give bread to your army?
 
 **Judges 8:7**
 
-And Gideon said, Not so. When the Lord gives Zēbee and Salmana into my hand, I will thresh your flesh with the thorns of the wilderness and with the barkonnim.
+And Gideon said, Not so. When the Lord gives Zebah and Salmana into my hand, I will thresh your flesh with the thorns of the wilderness and with the barkonnim.
 
 **Judges 8:8**
 
@@ -27100,15 +27100,15 @@ And he said to the men of Phanouēl, saying, When I return in peace, I will dig 
 
 **Judges 8:10**
 
-And Zēbee and Salmana were in Karkar, and their camp with them was about fifteen thousand, those left in all the camp of the sons of the east, and those fallen were one hundred twenty thousand men drawing sword.
+And Zebah and Salmana were in Karkar, and their camp with them was about fifteen thousand, those left in all the camp of the sons of the east, and those fallen were one hundred twenty thousand men drawing sword.
 
 **Judges 8:11**
 
-And Gideon went up by the way of those dwelling in tents east of Nabeth, opposite Zēbee, and struck the camp, and the camp was confident.
+And Gideon went up by the way of those dwelling in tents east of Nabeth, opposite Zebah, and struck the camp, and the camp was confident.
 
 **Judges 8:12**
 
-And Zēbee and Salmana fled, and he pursued after them and seized the two kings of Midian, Zēbee and Salmana, and crushed all their camp.
+And Zebah and Salmana fled, and he pursued after them and seized the two kings of Midian, Zebah and Salmana, and crushed all their camp.
 
 **Judges 8:13**
 
@@ -27120,7 +27120,7 @@ And he captured a young servant from the men of Sokchōth and questioned him, an
 
 **Judges 8:15**
 
-And Gideon came to the leaders of Sokchōth and said to them, Behold, Zēbee and Salmana, about whom you reproached me, saying, Is the hand of Zēbee and Salmana now in your hand, that we should give loaves to your exhausted men?
+And Gideon came to the leaders of Sokchōth and said to them, Behold, Zebah and Salmana, about whom you reproached me, saying, Is the hand of Zebah and Salmana now in your hand, that we should give loaves to your exhausted men?
 
 **Judges 8:16**
 
@@ -27132,7 +27132,7 @@ And he dug down the tower of Phanouēl and killed the men of the city.
 
 **Judges 8:18**
 
-And he said to Zēbee and Salmana, Where are the men whom you killed at Thabor? And they said, As you are, so were they, like the appearance, the form, of sons of kings.
+And he said to Zebah and Salmana, Where are the men whom you killed at Thabor? And they said, As you are, so were they, like the appearance, the form, of sons of kings.
 
 **Judges 8:19**
 
@@ -27144,7 +27144,7 @@ And he said to Jether his firstborn, Rise, kill them. But the young man did not 
 
 **Judges 8:21**
 
-And Zēbee and Salmana said, Rise yourself and fall upon us, because as the man is, so is his strength. And Gideon rose and killed Zēbee and Salmana and took the crescents that were on the necks of their camels.
+And Zebah and Salmana said, Rise yourself and fall upon us, because as the man is, so is his strength. And Gideon rose and killed Zebah and Salmana and took the crescents that were on the necks of their camels.
 
 **Judges 8:22**
 
@@ -27500,7 +27500,7 @@ And they removed the foreign gods from their midst and served the Lord. And it w
 
 **Judges 10:17**
 
-And the sons of Ammon went up and encamped in Gilead, and the sons of Israel went out and encamped in Massēpha.
+And the sons of Ammon went up and encamped in Gilead, and the sons of Israel went out and encamped in Mizpah.
 
 **Judges 10:18**
 
@@ -27550,7 +27550,7 @@ And the elders of Gilead said to Jephthae, The Lord shall be the one hearing bet
 
 **Judges 11:11**
 
-And Jephthae went with the elders of Gilead, and they placed him over them as head, as leader, and Jephthae spoke all his words before the Lord in Massēpha.
+And Jephthae went with the elders of Gilead, and they placed him over them as head, as leader, and Jephthae spoke all his words before the Lord in Mizpah.
 
 **Judges 11:12**
 
@@ -27642,7 +27642,7 @@ And he struck them from Aroēr and until one comes to Semōith, twenty cities, a
 
 **Judges 11:34**
 
-And Jephthae came to Massēpha, to his house, and behold, his daughter was coming out to meet him with tambourines and dances, and she was his only child, beloved, and besides her he had neither son nor daughter.
+And Jephthae came to Mizpah, to his house, and behold, his daughter was coming out to meet him with tambourines and dances, and she was his only child, beloved, and besides her he had neither son nor daughter.
 
 **Judges 11:35**
 
@@ -27708,7 +27708,7 @@ And there were to him thirty sons and thirty daughters sent outside, and he brou
 
 **Judges 12:10**
 
-And Esebōn died and was buried in Bēthleem.
+And Esebōn died and was buried in Bethlehem.
 
 **Judges 12:11**
 
@@ -27738,7 +27738,7 @@ And the sons of Israel again added to do evil before the Lord, and the Lord gave
 
 **Judges 13:2**
 
-And there was a man from Saraa, from the tribe of Dan, and his name was Manōe, and his wife was barren and did not bear.
+And there was a man from Saraa, from the tribe of Dan, and his name was Manoah, and his wife was barren and did not bear.
 
 **Judges 13:3**
 
@@ -27762,11 +27762,11 @@ And he said to me, Behold, you shall conceive and bear a son, and now do not dri
 
 **Judges 13:8**
 
-And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
+And Manoah prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
 
 **Judges 13:9**
 
-And God listened to the voice of Manōe, and the angel of God came again to the woman while she was sitting in the field, and Manōe her husband was not with her.
+And God listened to the voice of Manoah, and the angel of God came again to the woman while she was sitting in the field, and Manoah her husband was not with her.
 
 **Judges 13:10**
 
@@ -27774,15 +27774,15 @@ And the woman hurried and ran and reported to her husband and said to him, Behol
 
 **Judges 13:11**
 
-And Manōe rose and went after his wife to the man and said to him, Are you the man who spoke to the woman? And the angel said, I am.
+And Manoah rose and went after his wife to the man and said to him, Are you the man who spoke to the woman? And the angel said, I am.
 
 **Judges 13:12**
 
-And Manōe said, Now then, when your word comes, what shall be the ordinance for the child and his deeds?
+And Manoah said, Now then, when your word comes, what shall be the ordinance for the child and his deeds?
 
 **Judges 13:13**
 
-And the angel of the Lord said to Manōe, From all that I said to the woman, let her keep herself.
+And the angel of the Lord said to Manoah, From all that I said to the woman, let her keep herself.
 
 **Judges 13:14**
 
@@ -27790,15 +27790,15 @@ From everything that comes out of the vine she shall not eat, and wine and stron
 
 **Judges 13:15**
 
-And Manōe said to the angel of the Lord, Let us constrain you now, and we will prepare before you a kid of the goats.
+And Manoah said to the angel of the Lord, Let us constrain you now, and we will prepare before you a kid of the goats.
 
 **Judges 13:16**
 
-And the angel of the Lord said to Manōe, If you constrain me, I will not eat your bread, but if you make a whole burnt offering, you shall offer it to the Lord. For Manōe did not know that he was an angel of the Lord.
+And the angel of the Lord said to Manoah, If you constrain me, I will not eat your bread, but if you make a whole burnt offering, you shall offer it to the Lord. For Manoah did not know that he was an angel of the Lord.
 
 **Judges 13:17**
 
-And Manōe said to the angel of the Lord, What is your name, so that when your word comes we may glorify you?
+And Manoah said to the angel of the Lord, What is your name, so that when your word comes we may glorify you?
 
 **Judges 13:18**
 
@@ -27806,19 +27806,19 @@ And the angel of the Lord said to him, Why is this that you ask my name? It is w
 
 **Judges 13:19**
 
-And Manōe took the kid of the goats and the sacrifice and offered it on the rock to the Lord, to the Lord who does wonders, while Manōe and his wife were watching.
+And Manoah took the kid of the goats and the sacrifice and offered it on the rock to the Lord, to the Lord who does wonders, while Manoah and his wife were watching.
 
 **Judges 13:20**
 
-And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manōe and his wife were watching, and they fell on their faces to the ground.
+And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manoah and his wife were watching, and they fell on their faces to the ground.
 
 **Judges 13:21**
 
-And the angel of the Lord did not continue any longer to appear to Manōe and to his wife; then Manōe knew that he was an angel of the Lord.
+And the angel of the Lord did not continue any longer to appear to Manoah and to his wife; then Manoah knew that he was an angel of the Lord.
 
 **Judges 13:22**
 
-And Manōe said to his wife, We shall surely die, because we have seen God.
+And Manoah said to his wife, We shall surely die, because we have seen God.
 
 **Judges 13:23**
 
@@ -27826,7 +27826,7 @@ And his wife said to him, If the Lord desired to kill us, he would not have rece
 
 **Judges 13:24**
 
-And the woman bore a son and called his name Sampsōn, and the Lord blessed him, and the child grew.
+And the woman bore a son and called his name Samson, and the Lord blessed him, and the child grew.
 
 **Judges 13:25**
 
@@ -27836,7 +27836,7 @@ And the Spirit of the Lord began to go with him in the camp of Dan, between Sara
 
 **Judges 14:1**
 
-And Sampsōn went down to Thamnatha and saw a woman in Thamnatha from the daughters of the foreigners, and she was pleasing before him.
+And Samson went down to Thamnatha and saw a woman in Thamnatha from the daughters of the foreigners, and she was pleasing before him.
 
 **Judges 14:2**
 
@@ -27844,7 +27844,7 @@ And he went up and reported to his father and to his mother and said, I saw a wo
 
 **Judges 14:3**
 
-And his father and his mother said to him, Is there no woman from the daughters of your brothers and among all my people, that you are going to take a wife from the uncircumcised foreigners? And Sampsōn said to his father, Take this one for me, because she is pleasing in my eyes.
+And his father and his mother said to him, Is there no woman from the daughters of your brothers and among all my people, that you are going to take a wife from the uncircumcised foreigners? And Samson said to his father, Take this one for me, because she is pleasing in my eyes.
 
 **Judges 14:4**
 
@@ -27852,7 +27852,7 @@ And his father and his mother did not know that it was from the Lord, because he
 
 **Judges 14:5**
 
-And Sampsōn and his father and his mother went down to Thamnatha and turned aside into the vineyard of Thamnatha, and behold, a lion cub roaring to meet him.
+And Samson and his father and his mother went down to Thamnatha and turned aside into the vineyard of Thamnatha, and behold, a lion cub roaring to meet him.
 
 **Judges 14:6**
 
@@ -27860,7 +27860,7 @@ And the Spirit of the Lord rushed upon him, and he tore it apart as one tears ap
 
 **Judges 14:7**
 
-And they went down and spoke to the woman, and she was pleasing before Sampsōn.
+And they went down and spoke to the woman, and she was pleasing before Samson.
 
 **Judges 14:8**
 
@@ -27872,7 +27872,7 @@ And he took it out into his mouth, and he went on walking and eating, and he wen
 
 **Judges 14:10**
 
-And his father went down to the woman, and Sampsōn made there a drinking feast seven days, because so the young men used to do.
+And his father went down to the woman, and Samson made there a drinking feast seven days, because so the young men used to do.
 
 **Judges 14:11**
 
@@ -27880,7 +27880,7 @@ And it came to be, in their fearing him, they appointed thirty companions for hi
 
 **Judges 14:12**
 
-And Sampsōn said to them, I will now put forth a riddle to you, and if you tell me the riddle within the seven days of the feast, I will give you thirty linen cloths and thirty changes of garments.
+And Samson said to them, I will now put forth a riddle to you, and if you tell me the riddle within the seven days of the feast, I will give you thirty linen cloths and thirty changes of garments.
 
 **Judges 14:13**
 
@@ -27892,11 +27892,11 @@ And he said to them, Out of the eater came food, and out of the strong came swee
 
 **Judges 14:15**
 
-And it came to be on the fourth day they said to Sampsōn's wife, Deceive your husband, and let him tell you the riddle, lest we burn you and your father's house with fire. Did you call us to impoverish us?
+And it came to be on the fourth day they said to Samson's wife, Deceive your husband, and let him tell you the riddle, lest we burn you and your father's house with fire. Did you call us to impoverish us?
 
 **Judges 14:16**
 
-And Sampsōn's wife wept over him and said to him, You hate me and do not love me, because the riddle that you set forth to the sons of my people you have not told to me. And Sampsōn said to her, Behold, to my father and to my mother I have not told it, and shall I tell you?
+And Samson's wife wept over him and said to him, You hate me and do not love me, because the riddle that you set forth to the sons of my people you have not told to me. And Samson said to her, Behold, to my father and to my mother I have not told it, and shall I tell you?
 
 **Judges 14:17**
 
@@ -27904,21 +27904,21 @@ And she wept over him during the seven days in which the feast was with them, an
 
 **Judges 14:18**
 
-And the men of the city said to him on the seventh day before the sun went down, What is sweeter than honey, and what is stronger than a lion? And Sampsōn said to them, If you had not plowed with my heifer, you would not have found my riddle.
+And the men of the city said to him on the seventh day before the sun went down, What is sweeter than honey, and what is stronger than a lion? And Samson said to them, If you had not plowed with my heifer, you would not have found my riddle.
 
 **Judges 14:19**
 
-And the Spirit of the Lord rushed upon him, and he went down to Ascalon and struck from there thirty men and took their garments and gave them to those telling the riddle. And the anger of Sampsōn burned, and he went up to his father's house.
+And the Spirit of the Lord rushed upon him, and he went down to Ascalon and struck from there thirty men and took their garments and gave them to those telling the riddle. And the anger of Samson burned, and he went up to his father's house.
 
 **Judges 14:20**
 
-And Sampsōn's wife lived with his bridal companion, who had been his associate.
+And Samson's wife lived with his bridal companion, who had been his associate.
 
 ### Chapter 15
 
 **Judges 15:1**
 
-And it came to be after days, in the days of wheat harvest, Sampsōn visited his wife, bringing a kid of the goats, and said, I will go in to my wife in the bedroom. And her father did not allow him to go in to her.
+And it came to be after days, in the days of wheat harvest, Samson visited his wife, bringing a kid of the goats, and said, I will go in to my wife in the bedroom. And her father did not allow him to go in to her.
 
 **Judges 15:2**
 
@@ -27926,11 +27926,11 @@ And her father said, Saying, I said that in hating you hated her, and I gave her
 
 **Judges 15:3**
 
-And Sampsōn said to him, This once I am innocent from the foreigners, because I am doing evil things with you.
+And Samson said to him, This once I am innocent from the foreigners, because I am doing evil things with you.
 
 **Judges 15:4**
 
-And Sampsōn went and caught three hundred foxes and took torches and tied tail to tail and put one torch between two tails in the middle.
+And Samson went and caught three hundred foxes and took torches and tied tail to tail and put one torch between two tails in the middle.
 
 **Judges 15:5**
 
@@ -27938,11 +27938,11 @@ And he set fire in the torches and let them loose into the sheaves of the foreig
 
 **Judges 15:6**
 
-And the foreigners said, Who did this? And they said, Sampsōn, son-in-law of the Thamnathite, because he took his wife and gave her to his companion. And the foreigners went up and burned the house of her father and her and her father with fire.
+And the foreigners said, Who did this? And they said, Samson, son-in-law of the Thamnathite, because he took his wife and gave her to his companion. And the foreigners went up and burned the house of her father and her and her father with fire.
 
 **Judges 15:7**
 
-And Sampsōn said to them, If you do this, I will not be pleased until I make my vengeance on each one of you.
+And Samson said to them, If you do this, I will not be pleased until I make my vengeance on each one of you.
 
 **Judges 15:8**
 
@@ -27954,15 +27954,15 @@ And the foreigners went up and encamped against Judah and were spread out in Lec
 
 **Judges 15:10**
 
-And every man of Judah said to them, Why did you come up against us? And the foreigners said, We came up to bind Sampsōn and do to him as he did to us.
+And every man of Judah said to them, Why did you come up against us? And the foreigners said, We came up to bind Samson and do to him as he did to us.
 
 **Judges 15:11**
 
-And three thousand men from Judah went down to the cleft of the rock Etam and said to Sampsōn, Do you not know that the foreigners rule over us? And why did you do these things to us? And Sampsōn said to them, Just as they did to me, so I did to them.
+And three thousand men from Judah went down to the cleft of the rock Etam and said to Samson, Do you not know that the foreigners rule over us? And why did you do these things to us? And Samson said to them, Just as they did to me, so I did to them.
 
 **Judges 15:12**
 
-And they said to him, We came down to bind you and hand you over into the hands of the foreigners. And Sampsōn said to them, Swear to me that you yourselves will not kill me and hand me over to them, lest you yourselves fall upon me.
+And they said to him, We came down to bind you and hand you over into the hands of the foreigners. And Samson said to them, Swear to me that you yourselves will not kill me and hand me over to them, lest you yourselves fall upon me.
 
 **Judges 15:13**
 
@@ -27978,7 +27978,7 @@ And he found a jawbone of a donkey thrown on the road and stretched out his hand
 
 **Judges 15:16**
 
-And Sampsōn said, With the jawbone of a donkey, wiping out, I wiped them out, because with the jawbone of a donkey I struck a thousand men.
+And Samson said, With the jawbone of a donkey, wiping out, I wiped them out, because with the jawbone of a donkey I struck a thousand men.
 
 **Judges 15:17**
 
@@ -28000,15 +28000,15 @@ And he judged Israel in the days of the foreigners twenty years.
 
 **Judges 16:1**
 
-And Sampsōn went from there to Gaza and saw there a prostitute woman and went in to her.
+And Samson went from there to Gaza and saw there a prostitute woman and went in to her.
 
 **Judges 16:2**
 
-And it was reported to the Gazites, saying, Sampsōn came here. And they surrounded and lay in ambush for him all night at the gate of the city and kept quiet all night, saying, Let us wait until morning light and kill him.
+And it was reported to the Gazites, saying, Samson came here. And they surrounded and lay in ambush for him all night at the gate of the city and kept quiet all night, saying, Let us wait until morning light and kill him.
 
 **Judges 16:3**
 
-And Sampsōn slept until midnight and rose about midnight and took hold of the doors of the gate of the city and the two posts and lifted them up with the bar and put them on his shoulders and carried them up to the top of the mountain that is opposite Hebron and put them there.
+And Samson slept until midnight and rose about midnight and took hold of the doors of the gate of the city and the two posts and lifted them up with the bar and put them on his shoulders and carried them up to the top of the mountain that is opposite Hebron and put them there.
 
 **Judges 16:4**
 
@@ -28020,11 +28020,11 @@ And the satraps of the foreigners went up to her and said to her, Deceive him an
 
 **Judges 16:6**
 
-And Dalila said to Sampsōn, Tell me wherein your great strength lies and in what way you may be bound for your humbling.
+And Dalila said to Samson, Tell me wherein your great strength lies and in what way you may be bound for your humbling.
 
 **Judges 16:7**
 
-And Sampsōn said to her, If they bind me with seven fresh sinews not dried out, I will grow weak and become like one of the men.
+And Samson said to her, If they bind me with seven fresh sinews not dried out, I will grow weak and become like one of the men.
 
 **Judges 16:8**
 
@@ -28032,11 +28032,11 @@ And the satraps of the foreigners brought up to her seven fresh sinews not dried
 
 **Judges 16:9**
 
-And the ambush was sitting in the inner room, and she said to him, Foreigners are upon you, Sampsōn. And he tore the sinews just as a strand of tow is torn when it smells fire, and his strength was not known.
+And the ambush was sitting in the inner room, and she said to him, Foreigners are upon you, Samson. And he tore the sinews just as a strand of tow is torn when it smells fire, and his strength was not known.
 
 **Judges 16:10**
 
-And Dalila said to Sampsōn, Behold, you mocked me and spoke lies to me. Now then tell me in what you may be bound.
+And Dalila said to Samson, Behold, you mocked me and spoke lies to me. Now then tell me in what you may be bound.
 
 **Judges 16:11**
 
@@ -28044,15 +28044,15 @@ And he said to her, If they bind me with seven new cords in which no work has be
 
 **Judges 16:12**
 
-And Dalila took new cords for him and bound him with them and said to him, The foreigners are upon you, Sampsōn. And the ambush was sitting in the inner room. And he tore them from his arms like thread.
+And Dalila took new cords for him and bound him with them and said to him, The foreigners are upon you, Samson. And the ambush was sitting in the inner room. And he tore them from his arms like thread.
 
 **Judges 16:13**
 
-And Dalila said to Sampsōn, Until now you have mocked me and spoken lies to me. Tell me in what you may be bound. And he said to her, If you weave the seven locks of my head with the web and fasten it with the peg into the wall, I will become weak like one of the men.
+And Dalila said to Samson, Until now you have mocked me and spoken lies to me. Tell me in what you may be bound. And he said to her, If you weave the seven locks of my head with the web and fasten it with the peg into the wall, I will become weak like one of the men.
 
 **Judges 16:14**
 
-And Dalila put him to sleep and wove the seven curls of his head with the web and fastened them with the pegs into the wall and said to him, The foreigners are upon you, Sampsōn. And he woke from his sleep and pulled out the pegs together with the woven cloth from the wall and the web, and his strength was not known.
+And Dalila put him to sleep and wove the seven curls of his head with the web and fastened them with the pegs into the wall and said to him, The foreigners are upon you, Samson. And he woke from his sleep and pulled out the pegs together with the woven cloth from the wall and the web, and his strength was not known.
 
 **Judges 16:15**
 
@@ -28076,7 +28076,7 @@ And she put him to sleep between her knees and called the barber and shaved the 
 
 **Judges 16:20**
 
-And Dalila said to him, The foreigners are upon you, Sampsōn. And he woke from his sleep and said, I will go out and do as always and shake myself free. And he did not know that the Lord had departed from him.
+And Dalila said to him, The foreigners are upon you, Samson. And he woke from his sleep and said, I will go out and do as always and shake myself free. And he did not know that the Lord had departed from him.
 
 **Judges 16:21**
 
@@ -28088,7 +28088,7 @@ And the hair of his head began to grow back when he was shaved.
 
 **Judges 16:23**
 
-And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Sampsōn our enemy into our hand.
+And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Samson our enemy into our hand.
 
 **Judges 16:24**
 
@@ -28096,31 +28096,31 @@ And the people saw him and praised their gods and said, Our god gave our enemy i
 
 **Judges 16:25**
 
-And it came to be when their heart grew good, they said, Call Sampsōn out of the prison house and let him play before us. And they called Sampsōn out of the prison house, and they mocked him, and they set him between the two pillars.
+And it came to be when their heart grew good, they said, Call Samson out of the prison house and let him play before us. And they called Samson out of the prison house, and they mocked him, and they set him between the two pillars.
 
 **Judges 16:26**
 
-And Sampsōn said to the young servant guiding his hand, Let me rest now and let me feel the pillars upon which the house has been supported, and I will lean upon them. And the boy did so.
+And Samson said to the young servant guiding his hand, Let me rest now and let me feel the pillars upon which the house has been supported, and I will lean upon them. And the boy did so.
 
 **Judges 16:27**
 
-And the house was full of men and women, and all the satraps of the foreigners were there, and on the roof were about three thousand men and women looking on as Sampsōn was mocked.
+And the house was full of men and women, and all the satraps of the foreigners were there, and on the roof were about three thousand men and women looking on as Samson was mocked.
 
 **Judges 16:28**
 
-And Sampsōn cried out to the Lord and said, Lord, Lord, remember me and strengthen me now, only this once, and I will exact one vengeance for my two eyes from the foreigners.
+And Samson cried out to the Lord and said, Lord, Lord, remember me and strengthen me now, only this once, and I will exact one vengeance for my two eyes from the foreigners.
 
 **Judges 16:29**
 
-And Sampsōn took hold of the two middle pillars upon which the house had been supported and leaned upon them, one with his right hand and one with his left.
+And Samson took hold of the two middle pillars upon which the house had been supported and leaned upon them, one with his right hand and one with his left.
 
 **Judges 16:30**
 
-And Sampsōn said, Let my soul die with the foreigners. And he bent in strength, and the house fell upon the satraps and upon all the people in it, and the dead whom Sampsōn killed in his death were more than those whom he killed in his life.
+And Samson said, Let my soul die with the foreigners. And he bent in strength, and the house fell upon the satraps and upon all the people in it, and the dead whom Samson killed in his death were more than those whom he killed in his life.
 
 **Judges 16:31**
 
-And his brothers and all the house of his father went down and took him and went up and buried him between Saraa and between Esthaol in the tomb of Manōe his father. And he judged Israel twenty years.
+And his brothers and all the house of his father went down and took him and went up and buried him between Saraa and between Esthaol in the tomb of Manoah his father. And he judged Israel twenty years.
 
 ### Chapter 17
 
@@ -28428,7 +28428,7 @@ And it came to be, everyone seeing said, Such a thing neither happened nor was s
 
 **Judges 20:1**
 
-And all the sons of Israel went out, and all the congregation was assembled as one man from Dan and as far as Bersabee and the land of Gilead, to the Lord at Massēpha.
+And all the sons of Israel went out, and all the congregation was assembled as one man from Dan and as far as Bersabee and the land of Gilead, to the Lord at Mizpah.
 
 **Judges 20:2**
 
@@ -28436,7 +28436,7 @@ And the whole assembly of the people, all the tribes of Israel, stood in the gat
 
 **Judges 20:3**
 
-And the sons of Benjamin heard that the sons of Israel had gone up to the Lord at Massēpha. And the sons of Israel said, Speak, where did this evil happen?
+And the sons of Benjamin heard that the sons of Israel had gone up to the Lord at Mizpah. And the sons of Israel said, Speak, where did this evil happen?
 
 **Judges 20:4**
 
@@ -28622,11 +28622,11 @@ And the men of Israel shut in the sons of Benjamin and struck them with the edge
 
 **Judges 21:1**
 
-And a man of Israel swore at Massēpha, saying, No man from us will give his daughter to Benjamin as wife.
+And a man of Israel swore at Mizpah, saying, No man from us will give his daughter to Benjamin as wife.
 
 **Judges 21:2**
 
-And all the people came to Massēpha and Baethel and sat there until evening before God and lifted up their voice and wept with great weeping.
+And all the people came to Mizpah and Baethel and sat there until evening before God and lifted up their voice and wept with great weeping.
 
 **Judges 21:3**
 
@@ -28638,7 +28638,7 @@ And it came to be on the next day, the people rose early and built there an alta
 
 **Judges 21:5**
 
-And the sons of Israel said, Who is there that did not go up in the assembly from all the tribes of Israel to the Lord? For a great oath had been made against whoever did not go up to the Lord at Massēpha, saying, He shall surely die.
+And the sons of Israel said, Who is there that did not go up in the assembly from all the tribes of Israel to the Lord? For a great oath had been made against whoever did not go up to the Lord at Mizpah, saying, He shall surely die.
 
 **Judges 21:6**
 
@@ -28650,7 +28650,7 @@ What shall we do for those left for wives, since we swore by the Lord not to giv
 
 **Judges 21:8**
 
-And they said, Which one from the tribes of Israel is it that did not go up to the Lord at Massēpha? And behold, no man had come from Jabis Gilead to the camp to the assembly.
+And they said, Which one from the tribes of Israel is it that did not go up to the Lord at Mizpah? And behold, no man had come from Jabis Gilead to the camp to the assembly.
 
 **Judges 21:9**
 
@@ -29152,11 +29152,11 @@ And they rose early in the morning and bowed down to the Lord and went on their 
 
 **1 Samuel 1:20**
 
-And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samouēl, and said, Because from the Lord God Sabaōth I asked him.
+And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samuel, and said, Because from the Lord God Sabaōth I asked him.
 
 **1 Samuel 1:21**
 
-And the man Elkana went up, and all his house, to sacrifice in Shilōm the sacrifice of the days and his vows and all the tithes of his land.
+And the man Elkana went up, and all his house, to sacrifice in Shiloh the sacrifice of the days and his vows and all the tithes of his land.
 
 **1 Samuel 1:22**
 
@@ -29168,7 +29168,7 @@ And Elkana her husband said to her, Do what is good in your eyes; sit until you 
 
 **1 Samuel 1:24**
 
-And she went up with him to Shilōm with a three-year-old calf and breads and an ephah of fine flour and a skin of wine, and she entered into the house of the Lord in Shilōm, and the child was with them.
+And she went up with him to Shiloh with a three-year-old calf and breads and an ephah of fine flour and a skin of wine, and she entered into the house of the Lord in Shiloh, and the child was with them.
 
 **1 Samuel 1:25**
 
@@ -29242,7 +29242,7 @@ And the ordinance of the priest from the people, everyone sacrificing, was this:
 
 **1 Samuel 2:14**
 
-and he struck it into the great cauldron or into the bronze pot or into the cooking pot. Everything that came up with the flesh-hook the priest took for himself. According to these things they were doing to all Israel who came to sacrifice to the Lord in Shilōm.
+and he struck it into the great cauldron or into the bronze pot or into the cooking pot. Everything that came up with the flesh-hook the priest took for himself. According to these things they were doing to all Israel who came to sacrifice to the Lord in Shiloh.
 
 **1 Samuel 2:15**
 
@@ -29258,7 +29258,7 @@ And the sin of the young servants before the Lord was very great, because they w
 
 **1 Samuel 2:18**
 
-And Samouēl was ministering before the Lord, a child girded with a linen ephod.
+And Samuel was ministering before the Lord, a child girded with a linen ephod.
 
 **1 Samuel 2:19**
 
@@ -29270,7 +29270,7 @@ And Heli blessed Elkana and his wife, saying, May the Lord repay you seed from t
 
 **1 Samuel 2:21**
 
-And the Lord visited Anna, and she bore yet three sons and two daughters, and the child Samouēl was magnified before the Lord.
+And the Lord visited Anna, and she bore yet three sons and two daughters, and the child Samuel was magnified before the Lord.
 
 **1 Samuel 2:22**
 
@@ -29290,7 +29290,7 @@ If a man sins by sinning against a man, then they will pray concerning him to th
 
 **1 Samuel 2:26**
 
-And the child Samouēl was going on and growing and good both with the Lord and with men.
+And the child Samuel was going on and growing and good both with the Lord and with men.
 
 **1 Samuel 2:27**
 
@@ -29336,7 +29336,7 @@ And it shall be that the one left over in your house will come to bow down to hi
 
 **1 Samuel 3:1**
 
-And the child Samouēl was ministering to the Lord before Heli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
+And the child Samuel was ministering to the Lord before Heli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
 
 **1 Samuel 3:2**
 
@@ -29344,11 +29344,11 @@ And it came to be on that day, and Heli was sleeping in his place, and his eyes 
 
 **1 Samuel 3:3**
 
-And the lamp of God was before being set in order, and Samouēl was sleeping in the temple where the ark of God was.
+And the lamp of God was before being set in order, and Samuel was sleeping in the temple where the ark of God was.
 
 **1 Samuel 3:4**
 
-And the Lord called, Samouēl, Samouēl. And he said, Behold, here I am.
+And the Lord called, Samuel, Samuel. And he said, Behold, here I am.
 
 **1 Samuel 3:5**
 
@@ -29356,27 +29356,27 @@ And he ran to Heli and said, Behold, here I am, because you called me. And he sa
 
 **1 Samuel 3:6**
 
-And the Lord added and called, Samouēl, Samouēl. And he went to Heli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
+And the Lord added and called, Samuel, Samuel. And he went to Heli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
 
 **1 Samuel 3:7**
 
-And Samouēl was before knowing God and before the word of the Lord was revealed to him.
+And Samuel was before knowing God and before the word of the Lord was revealed to him.
 
 **1 Samuel 3:8**
 
-And the Lord added to call Samouēl a third time, and he rose and went to Heli and said, Behold, here I am, because you called me. And Heli understood that the Lord had called the child.
+And the Lord added to call Samuel a third time, and he rose and went to Heli and said, Behold, here I am, because you called me. And Heli understood that the Lord had called the child.
 
 **1 Samuel 3:9**
 
-And he said, Go back, sleep, child, and it shall be if he calls you, then you shall say, Speak, Lord, because your servant hears. And Samouēl went and lay down in his place.
+And he said, Go back, sleep, child, and it shall be if he calls you, then you shall say, Speak, Lord, because your servant hears. And Samuel went and lay down in his place.
 
 **1 Samuel 3:10**
 
-And the Lord came and stood and called him as once and again, and Samouēl said, Speak, because your servant hears.
+And the Lord came and stood and called him as once and again, and Samuel said, Speak, because your servant hears.
 
 **1 Samuel 3:11**
 
-And the Lord said to Samouēl, Behold, I am doing my words in Israel, so that whoever hears them, both his ears will ring.
+And the Lord said to Samuel, Behold, I am doing my words in Israel, so that whoever hears them, both his ears will ring.
 
 **1 Samuel 3:12**
 
@@ -29392,11 +29392,11 @@ I swore to the house of Heli whether the injustice of the house of Heli will be 
 
 **1 Samuel 3:15**
 
-And Samouēl slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samouēl feared to report the vision to Heli.
+And Samuel slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samuel feared to report the vision to Heli.
 
 **1 Samuel 3:16**
 
-And Heli said to Samouēl, Samouēl, child. And he said, Behold, here I am.
+And Heli said to Samuel, Samuel, child. And he said, Behold, here I am.
 
 **1 Samuel 3:17**
 
@@ -29404,19 +29404,19 @@ And he said, What is the word spoken to you? Do not hide it from me. Thus may Go
 
 **1 Samuel 3:18**
 
-And Samouēl reported all the words and did not hide from him, and Heli said, He is the Lord; what is good before him he will do.
+And Samuel reported all the words and did not hide from him, and Heli said, He is the Lord; what is good before him he will do.
 
 **1 Samuel 3:19**
 
-And Samouēl grew great, and the Lord was with him, and not one of all his words fell to the ground.
+And Samuel grew great, and the Lord was with him, and not one of all his words fell to the ground.
 
 **1 Samuel 3:20**
 
-And all Israel knew, from Dan and as far as Bersabee, that Samouēl was faithful as prophet to the Lord.
+And all Israel knew, from Dan and as far as Bersabee, that Samuel was faithful as prophet to the Lord.
 
 **1 Samuel 3:21**
 
-And the Lord again made himself known in Shilōm, because the Lord was revealed to Samouēl, and Samouēl was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Heli was very old, and his sons were going on and their way was evil before the Lord.
+And the Lord again made himself known in Shiloh, because the Lord was revealed to Samuel, and Samuel was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Heli was very old, and his sons were going on and their way was evil before the Lord.
 
 ### Chapter 4
 
@@ -29430,11 +29430,11 @@ And the foreigners lined up for battle against Israel, and the battle turned, an
 
 **1 Samuel 4:3**
 
-And the people came into the camp, and the elders of Israel said, Why did the Lord make us stumble today before the foreigners? Let us take the ark of our God from Shilōm, and let it come out in our midst and save us from the hand of our enemies.
+And the people came into the camp, and the elders of Israel said, Why did the Lord make us stumble today before the foreigners? Let us take the ark of our God from Shiloh, and let it come out in our midst and save us from the hand of our enemies.
 
 **1 Samuel 4:4**
 
-And the people sent to Shilōm, and they took from there the ark of the Lord seated on cherubim, and both sons of Heli were with the ark, Ophni and Phinees.
+And the people sent to Shiloh, and they took from there the ark of the Lord seated on cherubim, and both sons of Heli were with the ark, Ophni and Phinees.
 
 **1 Samuel 4:5**
 
@@ -29466,7 +29466,7 @@ And the ark of God was taken, and both sons of Heli died, Ophni and Phinees.
 
 **1 Samuel 4:12**
 
-And a Jeminite man ran from the battle line and came to Shilōm on that day, and his garments were torn and earth was on his head.
+And a Jeminite man ran from the battle line and came to Shiloh on that day, and his garments were torn and earth was on his head.
 
 **1 Samuel 4:13**
 
@@ -29656,7 +29656,7 @@ And it came to be from the day the ark was in Kariathiarim, the days multiplied 
 
 **1 Samuel 7:3**
 
-And Samouēl said to all the house of Israel, saying, If with your whole heart you are turning to the Lord, remove the foreign gods from your midst and the groves, and prepare your hearts toward the Lord and serve him alone, and he will deliver you from the hand of the foreigners.
+And Samuel said to all the house of Israel, saying, If with your whole heart you are turning to the Lord, remove the foreign gods from your midst and the groves, and prepare your hearts toward the Lord and serve him alone, and he will deliver you from the hand of the foreigners.
 
 **1 Samuel 7:4**
 
@@ -29664,39 +29664,39 @@ And the sons of Israel removed the Baals and the groves of Astarōth and served 
 
 **1 Samuel 7:5**
 
-And Samouēl said, Gather all Israel to Massēphath, and I will pray concerning you to the Lord.
+And Samuel said, Gather all Israel to Mizpah, and I will pray concerning you to the Lord.
 
 **1 Samuel 7:6**
 
-And they gathered to Massēphath and drew water and poured it out before the Lord upon the ground and fasted on that day and said, We sinned before the Lord. And Samouēl was judging the sons of Israel in Massēphath.
+And they gathered to Mizpah and drew water and poured it out before the Lord upon the ground and fasted on that day and said, We sinned before the Lord. And Samuel was judging the sons of Israel in Mizpah.
 
 **1 Samuel 7:7**
 
-And the foreigners heard that all the sons of Israel had gathered to Massēphath, and the satraps of the foreigners went up against Israel. And the sons of Israel heard and feared from before the foreigners.
+And the foreigners heard that all the sons of Israel had gathered to Mizpah, and the satraps of the foreigners went up against Israel. And the sons of Israel heard and feared from before the foreigners.
 
 **1 Samuel 7:8**
 
-And the sons of Israel said to Samouēl, Do not be silent away from us from crying to the Lord your God, and he will save us from the hand of the foreigners.
+And the sons of Israel said to Samuel, Do not be silent away from us from crying to the Lord your God, and he will save us from the hand of the foreigners.
 
 **1 Samuel 7:9**
 
-And Samouēl took one suckling lamb and offered it up whole with all the people to the Lord, and Samouēl cried out to the Lord concerning Israel, and the Lord listened to him.
+And Samuel took one suckling lamb and offered it up whole with all the people to the Lord, and Samuel cried out to the Lord concerning Israel, and the Lord listened to him.
 
 **1 Samuel 7:10**
 
-And Samouēl was offering up the whole burnt offering, and the foreigners drew near for battle against Israel, and the Lord thundered with a great voice on that day against the foreigners and confused them, and they stumbled before Israel.
+And Samuel was offering up the whole burnt offering, and the foreigners drew near for battle against Israel, and the Lord thundered with a great voice on that day against the foreigners and confused them, and they stumbled before Israel.
 
 **1 Samuel 7:11**
 
-And men of Israel went out from Massēphath and pursued the foreigners and struck them as far as below Baithchor.
+And men of Israel went out from Mizpah and pursued the foreigners and struck them as far as below Baithchor.
 
 **1 Samuel 7:12**
 
-And Samouēl took one stone and set it between Massēphath and between the old place and called its name Abenezēr, Stone of the Helper, and said, Until here the Lord has helped us.
+And Samuel took one stone and set it between Mizpah and between the old place and called its name Abenezēr, Stone of the Helper, and said, Until here the Lord has helped us.
 
 **1 Samuel 7:13**
 
-And the Lord humbled the foreigners, and they no longer continued to come into the border of Israel, and the hand of the Lord was upon the foreigners all the days of Samouēl.
+And the Lord humbled the foreigners, and they no longer continued to come into the border of Israel, and the hand of the Lord was upon the foreigners all the days of Samuel.
 
 **1 Samuel 7:14**
 
@@ -29704,11 +29704,11 @@ And the cities that the foreigners took from the sons of Israel were given back,
 
 **1 Samuel 7:15**
 
-And Samouēl judged Israel all the days of his life.
+And Samuel judged Israel all the days of his life.
 
 **1 Samuel 7:16**
 
-And he went year by year and made circuit of Baethel and Galgala and Massēphath and judged Israel in all these consecrated places.
+And he went year by year and made circuit of Baethel and Galgala and Mizpah and judged Israel in all these consecrated places.
 
 **1 Samuel 7:17**
 
@@ -29718,7 +29718,7 @@ And his return was to Armathaim, because there was his house, and there he judge
 
 **1 Samuel 8:1**
 
-And it came to be when Samouēl grew old that he appointed his sons as judges for Israel.
+And it came to be when Samuel grew old that he appointed his sons as judges for Israel.
 
 **1 Samuel 8:2**
 
@@ -29730,7 +29730,7 @@ And his sons did not walk in his way, and they turned aside after gain and were 
 
 **1 Samuel 8:4**
 
-And men of Israel gathered together and came to Armathaim to Samouēl.
+And men of Israel gathered together and came to Armathaim to Samuel.
 
 **1 Samuel 8:5**
 
@@ -29738,11 +29738,11 @@ And they said to him, Behold, you have grown old, and your sons do not walk in y
 
 **1 Samuel 8:6**
 
-And the word was evil in the eyes of Samouēl as they said, Give us a king to judge us, and Samouēl prayed to the Lord.
+And the word was evil in the eyes of Samuel as they said, Give us a king to judge us, and Samuel prayed to the Lord.
 
 **1 Samuel 8:7**
 
-And the Lord said to Samouēl, Hear the voice of the people according to whatever they say to you, because they have not despised you, but me they have despised, from reigning over them.
+And the Lord said to Samuel, Hear the voice of the people according to whatever they say to you, because they have not despised you, but me they have despised, from reigning over them.
 
 **1 Samuel 8:8**
 
@@ -29754,7 +29754,7 @@ And now hear their voice; only in protesting protest to them and declare to them
 
 **1 Samuel 8:10**
 
-And Samouēl spoke every word of the Lord to the people asking from him a king.
+And Samuel spoke every word of the Lord to the people asking from him a king.
 
 **1 Samuel 8:11**
 
@@ -29790,7 +29790,7 @@ And you will cry out in that day because of your king whom you chose for yoursel
 
 **1 Samuel 8:19**
 
-And the people was not willing to hear Samouēl, and they said to him, No, but a king shall be over us.
+And the people was not willing to hear Samuel, and they said to him, No, but a king shall be over us.
 
 **1 Samuel 8:20**
 
@@ -29798,11 +29798,11 @@ And we also will be like all the nations, and our king will judge us and go out 
 
 **1 Samuel 8:21**
 
-And Samouēl heard all the words of the people and spoke them into the ears of the Lord.
+And Samuel heard all the words of the people and spoke them into the ears of the Lord.
 
 **1 Samuel 8:22**
 
-And the Lord said to Samouēl, Hear their voice and make a king reign over them. And Samouēl said to the men of Israel, Let each man run back to his city.
+And the Lord said to Samuel, Hear their voice and make a king reign over them. And Samuel said to the men of Israel, Let each man run back to his city.
 
 ### Chapter 9
 
@@ -29860,11 +29860,11 @@ As soon as you enter the city, so you will find him in the city before he goes u
 
 **1 Samuel 9:14**
 
-And they go up to the city. As they were entering into the middle of the city, behold, Samouēl came out to meet them, to go up to the high place.
+And they go up to the city. As they were entering into the middle of the city, behold, Samuel came out to meet them, to go up to the high place.
 
 **1 Samuel 9:15**
 
-And the Lord had uncovered the ear of Samouēl one day before Saul came to him, saying,
+And the Lord had uncovered the ear of Samuel one day before Saul came to him, saying,
 
 **1 Samuel 9:16**
 
@@ -29872,15 +29872,15 @@ About this time tomorrow I will send to you a man from the land of Benjamin, and
 
 **1 Samuel 9:17**
 
-And Samouēl saw Saul, and the Lord answered him, Behold, the man of whom I spoke to you; this one will rule among my people.
+And Samuel saw Saul, and the Lord answered him, Behold, the man of whom I spoke to you; this one will rule among my people.
 
 **1 Samuel 9:18**
 
-And Saul came near to Samouēl in the middle of the city and said, Tell me now, where is the house of the seer?
+And Saul came near to Samuel in the middle of the city and said, Tell me now, where is the house of the seer?
 
 **1 Samuel 9:19**
 
-And Samouēl answered Saul and said, I am he. Go up before me to the high place and eat with me today, and I will send you away in the morning, and all the things in your heart I will report to you.
+And Samuel answered Saul and said, I am he. Go up before me to the high place and eat with me today, and I will send you away in the morning, and all the things in your heart I will report to you.
 
 **1 Samuel 9:20**
 
@@ -29892,15 +29892,15 @@ And Saul answered and said, Am I not son of a Jeminaian man, from the least scep
 
 **1 Samuel 9:22**
 
-And Samouēl took Saul and his young man and brought them into the guest room and set for them a place among the first of those who had been called, about seventy men.
+And Samuel took Saul and his young man and brought them into the guest room and set for them a place among the first of those who had been called, about seventy men.
 
 **1 Samuel 9:23**
 
-And Samouēl said to the cook, Give me the portion that I gave to you, which I said to you to set beside you.
+And Samuel said to the cook, Give me the portion that I gave to you, which I said to you to set beside you.
 
 **1 Samuel 9:24**
 
-And the cook lifted up the haunch and set it before Saul, and Samouēl said to Saul, Behold, what has been left over; set it before you and eat, because it has been kept for you for this appointed witness beside the others. And Saul ate with Samouēl on that day.
+And the cook lifted up the haunch and set it before Saul, and Samuel said to Saul, Behold, what has been left over; set it before you and eat, because it has been kept for you for this appointed witness beside the others. And Saul ate with Samuel on that day.
 
 **1 Samuel 9:25**
 
@@ -29908,17 +29908,17 @@ And he came down from the high place into the city, and they spread a bed for Sa
 
 **1 Samuel 9:26**
 
-And he slept. And it came to be, as dawn was rising, Samouēl called Saul on the roof, saying, Rise, and I will send you away. And Saul rose, and both he and Samouēl went out.
+And he slept. And it came to be, as dawn was rising, Samuel called Saul on the roof, saying, Rise, and I will send you away. And Saul rose, and both he and Samuel went out.
 
 **1 Samuel 9:27**
 
-As they were going down to the outskirts of the city, Samouēl said to Saul, Tell the young man, and let him pass on before us. But you stand like today, and hear the word of God.
+As they were going down to the outskirts of the city, Samuel said to Saul, Tell the young man, and let him pass on before us. But you stand like today, and hear the word of God.
 
 ### Chapter 10
 
 **1 Samuel 10:1**
 
-And Samouēl took the flask of oil and poured it on his head and kissed him and said to him, Has not the Lord anointed you as ruler over his people, over Israel? And you will rule among the people of the Lord, and you will save him from the hand of his enemies round about. And this is the sign to you that the Lord has anointed you over his inheritance as ruler.
+And Samuel took the flask of oil and poured it on his head and kissed him and said to him, Has not the Lord anointed you as ruler over his people, over Israel? And you will rule among the people of the Lord, and you will save him from the hand of his enemies round about. And this is the sign to you that the Lord has anointed you over his inheritance as ruler.
 
 **1 Samuel 10:2**
 
@@ -29926,7 +29926,7 @@ When you depart from me today, you will find two men by the tombs of Rachel in t
 
 **1 Samuel 10:3**
 
-And you will pass on from there and beyond, and you will come as far as the oak of Thabor, and you will find there three men going up to God at Baithēl, one carrying three kids, one carrying three vessels of breads, and one carrying a skin of wine.
+And you will pass on from there and beyond, and you will come as far as the oak of Thabor, and you will find there three men going up to God at Bethel, one carrying three kids, one carrying three vessels of breads, and one carrying a skin of wine.
 
 **1 Samuel 10:4**
 
@@ -29950,7 +29950,7 @@ And you will go down before me to Galgala, and behold, I am coming down to you t
 
 **1 Samuel 10:9**
 
-And it came to be when he turned his shoulder to depart from Samouēl, God turned for him another heart, and all these signs came on that day.
+And it came to be when he turned his shoulder to depart from Samuel, God turned for him another heart, and all these signs came on that day.
 
 **1 Samuel 10:10**
 
@@ -29970,11 +29970,11 @@ And he finished prophesying and comes to the hill.
 
 **1 Samuel 10:14**
 
-And his kinsman said to him and to his young man, Where did you go? And they said, To seek the donkeys, and we saw that they are not there, and we entered to Samouēl.
+And his kinsman said to him and to his young man, Where did you go? And they said, To seek the donkeys, and we saw that they are not there, and we entered to Samuel.
 
 **1 Samuel 10:15**
 
-And the kinsman said to Saul, Tell me now, what did Samouēl say to you?
+And the kinsman said to Saul, Tell me now, what did Samuel say to you?
 
 **1 Samuel 10:16**
 
@@ -29982,7 +29982,7 @@ And Saul said to his kinsman, He plainly told me that the donkeys have been foun
 
 **1 Samuel 10:17**
 
-And Samouēl summoned all the people to the Lord at Massēpha,
+And Samuel summoned all the people to the Lord at Mizpah,
 
 **1 Samuel 10:18**
 
@@ -29994,7 +29994,7 @@ And you today have counted as nothing your God, who himself is your savior from 
 
 **1 Samuel 10:20**
 
-And Samouēl brought near all the scepters of Israel, and the scepter of Benjamin was taken by lot.
+And Samuel brought near all the scepters of Israel, and the scepter of Benjamin was taken by lot.
 
 **1 Samuel 10:21**
 
@@ -30002,7 +30002,7 @@ And he brings near the scepter of Benjamin by tribes, and the tribe of Mattari i
 
 **1 Samuel 10:22**
 
-And Samouēl inquired yet again of the Lord whether the man comes here. And the Lord said, Behold, he is hidden among the baggage.
+And Samuel inquired yet again of the Lord whether the man comes here. And the Lord said, Behold, he is hidden among the baggage.
 
 **1 Samuel 10:23**
 
@@ -30010,11 +30010,11 @@ And they ran and take him from there, and he stood in the midst of the people, a
 
 **1 Samuel 10:24**
 
-And Samouēl said to all the people, Have you seen whom the Lord has chosen for himself, that there is none like him among all of you? And all the people knew and said, Long live the king.
+And Samuel said to all the people, Have you seen whom the Lord has chosen for himself, that there is none like him among all of you? And all the people knew and said, Long live the king.
 
 **1 Samuel 10:25**
 
-And Samouēl told the people the righteous judgment of the king, and he wrote it in a scroll and set it before the Lord. And Samouēl sent away all the people, and each went to his place.
+And Samuel told the people the righteous judgment of the king, and he wrote it in a scroll and set it before the Lord. And Samuel sent away all the people, and each went to his place.
 
 **1 Samuel 10:26**
 
@@ -30052,7 +30052,7 @@ And the Spirit of the Lord leapt upon Saul as he heard these words, and his ange
 
 **1 Samuel 11:7**
 
-And he took two oxen and cut them in pieces and sent them through every border of Israel by the hand of messengers, saying, Whoever is not coming out after Saul and after Samouēl, thus they will do to his oxen. And the astonishment of the Lord came upon the people of Israel, and they cried out like one man.
+And he took two oxen and cut them in pieces and sent them through every border of Israel by the hand of messengers, saying, Whoever is not coming out after Saul and after Samuel, thus they will do to his oxen. And the astonishment of the Lord came upon the people of Israel, and they cried out like one man.
 
 **1 Samuel 11:8**
 
@@ -30072,7 +30072,7 @@ And it came to be on the next day that Saul set the people in three heads, and t
 
 **1 Samuel 11:12**
 
-And the people said to Samouēl, Who is the one who said, Shall Saul not reign over us? Hand over the men, and we will put them to death.
+And the people said to Samuel, Who is the one who said, Shall Saul not reign over us? Hand over the men, and we will put them to death.
 
 **1 Samuel 11:13**
 
@@ -30080,17 +30080,17 @@ And Saul said, No one will be put to death on this day, because today the Lord h
 
 **1 Samuel 11:14**
 
-And Samouēl said to the people, saying, Let us go to Galgala, and let us renew the kingship there.
+And Samuel said to the people, saying, Let us go to Galgala, and let us renew the kingship there.
 
 **1 Samuel 11:15**
 
-And all the people went to Galgala, and Samouēl anointed Saul there as king before the Lord in Galgala, and he sacrificed there sacrifices, even peaceful ones, before the Lord. And Samouēl and all Israel rejoiced there very greatly.
+And all the people went to Galgala, and Samuel anointed Saul there as king before the Lord in Galgala, and he sacrificed there sacrifices, even peaceful ones, before the Lord. And Samuel and all Israel rejoiced there very greatly.
 
 ### Chapter 12
 
 **1 Samuel 12:1**
 
-And Samouēl said to every man of Israel, Behold, I have listened to your voice in everything whatever you said to me, and I made a king reign over you.
+And Samuel said to every man of Israel, Behold, I have listened to your voice in everything whatever you said to me, and I made a king reign over you.
 
 **1 Samuel 12:2**
 
@@ -30102,15 +30102,15 @@ Behold me. Answer against me before the Lord and before his anointed. Whose calf
 
 **1 Samuel 12:4**
 
-And they said to Samouēl, You have not wronged us, and you have not oppressed us, and you have not crushed us, and you have not taken anything from the hand of anyone.
+And they said to Samuel, You have not wronged us, and you have not oppressed us, and you have not crushed us, and you have not taken anything from the hand of anyone.
 
 **1 Samuel 12:5**
 
-And Samouēl said to the people, The Lord is witness among you, and his anointed is witness today in this day, that you have not found anything in my hand. And they said, Witness.
+And Samuel said to the people, The Lord is witness among you, and his anointed is witness today in this day, that you have not found anything in my hand. And they said, Witness.
 
 **1 Samuel 12:6**
 
-And Samouēl said to the people, saying, The Lord is witness, the one who made Moses and Aarōn, the one who brought our fathers up from Egypt.
+And Samuel said to the people, saying, The Lord is witness, the one who made Moses and Aaron, the one who brought our fathers up from Egypt.
 
 **1 Samuel 12:7**
 
@@ -30118,11 +30118,11 @@ And now stand, and I will judge you before the Lord, and I will recount to you a
 
 **1 Samuel 12:8**
 
-When Iakōb and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aarōn and brought our fathers out of Egypt and settled them in this place.
+When Jacob and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aaron and brought our fathers out of Egypt and settled them in this place.
 
 **1 Samuel 12:9**
 
-And they forgot the Lord their God, and he sold them into the hands of Sisara, commander of the army of Iabin king of Asōr, and into the hands of foreigners, and into the hands of the king of Mōab, and they fought against them.
+And they forgot the Lord their God, and he sold them into the hands of Sisara, commander of the army of Iabin king of Asōr, and into the hands of foreigners, and into the hands of the king of Moab, and they fought against them.
 
 **1 Samuel 12:10**
 
@@ -30130,7 +30130,7 @@ And they cried out to the Lord and said, We have sinned, because we abandoned th
 
 **1 Samuel 12:11**
 
-And the Lord sent Ierobaal and Barak and Iephthae and Samouēl, and he delivered you from the hand of your enemies round about, and you lived trusting.
+And the Lord sent Ierobaal and Barak and Iephthae and Samuel, and he delivered you from the hand of your enemies round about, and you lived trusting.
 
 **1 Samuel 12:12**
 
@@ -30158,15 +30158,15 @@ Is it not wheat harvest today? I will call upon the Lord, and he will give voice
 
 **1 Samuel 12:18**
 
-And Samouēl called upon the Lord, and the Lord gave voices and rain on that day, and all the people greatly feared the Lord and Samouēl.
+And Samuel called upon the Lord, and the Lord gave voices and rain on that day, and all the people greatly feared the Lord and Samuel.
 
 **1 Samuel 12:19**
 
-And all the people said to Samouēl, Pray concerning your servants to the Lord your God, and let us not die, because we have added to all our sins this evil, asking a king for ourselves.
+And all the people said to Samuel, Pray concerning your servants to the Lord your God, and let us not die, because we have added to all our sins this evil, asking a king for ourselves.
 
 **1 Samuel 12:20**
 
-And Samouēl said to the people, Do not fear. You have done all this evil; only do not turn aside from behind the Lord, and serve the Lord with your whole heart.
+And Samuel said to the people, Do not fear. You have done all this evil; only do not turn aside from behind the Lord, and serve the Lord with your whole heart.
 
 **1 Samuel 12:21**
 
@@ -30192,11 +30192,11 @@ But if you do evil in doing evil, both you and your king will be swept away.
 
 **1 Samuel 13:2**
 
-And Saul chose for himself three thousand men from the men of Israel, and two thousand were with Saul in Machmas and on the hill of Baithēl, and one thousand were with Iōnathan in Gabee of Benjamin, and the rest of the people he sent away, each to his tent.
+And Saul chose for himself three thousand men from the men of Israel, and two thousand were with Saul in Machmas and on the hill of Bethel, and one thousand were with Jonathan in Gabee of Benjamin, and the rest of the people he sent away, each to his tent.
 
 **1 Samuel 13:3**
 
-And Iōnathan struck the foreign garrison on the hill, and the foreigners heard, and Saul blew the trumpet through all the land, saying, The slaves have revolted.
+And Jonathan struck the foreign garrison on the hill, and the foreigners heard, and Saul blew the trumpet through all the land, saying, The slaves have revolted.
 
 **1 Samuel 13:4**
 
@@ -30216,7 +30216,7 @@ And the ones crossing over crossed the Jordan into the land of Gad and Galaad. A
 
 **1 Samuel 13:8**
 
-And he waited seven days for the testimony, as Samouēl said, and Samouēl did not arrive in Galgala, and his people were scattered from him.
+And he waited seven days for the testimony, as Samuel said, and Samuel did not arrive in Galgala, and his people were scattered from him.
 
 **1 Samuel 13:9**
 
@@ -30224,11 +30224,11 @@ And Saul said, Bring near, so I may offer whole burnt offerings and peace offeri
 
 **1 Samuel 13:10**
 
-And it came to be, as he finished offering the whole burnt offering, Samouēl arrives, and Saul went out to meet him, to bless him.
+And it came to be, as he finished offering the whole burnt offering, Samuel arrives, and Saul went out to meet him, to bless him.
 
 **1 Samuel 13:11**
 
-And Samouēl said, What have you done? And Saul said, Because I saw that the people were scattered from me, and you did not come as you ordered in the testimony of the days, and the foreigners were gathered in Machmas,
+And Samuel said, What have you done? And Saul said, Because I saw that the people were scattered from me, and you did not come as you ordered in the testimony of the days, and the foreigners were gathered in Machmas,
 
 **1 Samuel 13:12**
 
@@ -30236,7 +30236,7 @@ I said, Now the foreigners will come down against me to Galgala, and I have not 
 
 **1 Samuel 13:13**
 
-And Samouēl said to Saul, It has been made foolish for you, because you did not keep the commandment that the Lord commanded you. For now the Lord would have prepared your kingdom over Israel forever.
+And Samuel said to Saul, It has been made foolish for you, because you did not keep the commandment that the Lord commanded you. For now the Lord would have prepared your kingdom over Israel forever.
 
 **1 Samuel 13:14**
 
@@ -30244,11 +30244,11 @@ And now your kingdom will not stand, and the Lord will seek for himself a man ac
 
 **1 Samuel 13:15**
 
-And Samouēl rose and went away from Galgala on his road, and the remnant of the people went up after Saul to meet their fighting people, from Galgala to Gabaa of Benjamin. And Saul mustered the people found with him, about six hundred men.
+And Samuel rose and went away from Galgala on his road, and the remnant of the people went up after Saul to meet their fighting people, from Galgala to Gabaa of Benjamin. And Saul mustered the people found with him, about six hundred men.
 
 **1 Samuel 13:16**
 
-And Saul and Iōnathan his son and the people found with them were staying in Gabee of Benjamin and were weeping, and the foreigners had camped in Machmas.
+And Saul and Jonathan his son and the people found with them were staying in Gabee of Benjamin and were weeping, and the foreigners had camped in Machmas.
 
 **1 Samuel 13:17**
 
@@ -30272,7 +30272,7 @@ And the harvest was ready for reaping, and the implements were at three shekels 
 
 **1 Samuel 13:22**
 
-And it came to be in the days of the war at Machmas, sword and spear were not found in the hand of any of the people with Saul and with Iōnathan, but they were found for Saul and for Iōnathan his son.
+And it came to be in the days of the war at Machmas, sword and spear were not found in the hand of any of the people with Saul and with Jonathan, but they were found for Saul and for Jonathan his son.
 
 **1 Samuel 13:23**
 
@@ -30282,7 +30282,7 @@ And the station of the foreigners came out to the region beyond Machmas.
 
 **1 Samuel 14:1**
 
-And it came to be on a day, Iōnathan son of Saul said to the young man carrying his equipment, Come, and let us cross over to the station of the foreigners that is over there beyond. But to his father he did not report it.
+And it came to be on a day, Jonathan son of Saul said to the young man carrying his equipment, Come, and let us cross over to the station of the foreigners that is over there beyond. But to his father he did not report it.
 
 **1 Samuel 14:2**
 
@@ -30290,11 +30290,11 @@ And Saul was sitting on the edge of the hill under the pomegranate tree in Magd�
 
 **1 Samuel 14:3**
 
-And Achia son of Achitōb, brother of Iōchabēd, son of Phinees, son of Heli, priest of God in Sēlōm, was carrying an ephod. And the people did not know that Iōnathan had gone.
+And Achia son of Ahitub, brother of Iōchabēd, son of Phinees, son of Heli, priest of God in Sēlōm, was carrying an ephod. And the people did not know that Jonathan had gone.
 
 **1 Samuel 14:4**
 
-And between the passage where Iōnathan was seeking to cross over to the station of the foreigners, there was a rocky spur on this side and a rocky spur on that side. The name of the one was Bazez, and the name of the other Senna.
+And between the passage where Jonathan was seeking to cross over to the station of the foreigners, there was a rocky spur on this side and a rocky spur on that side. The name of the one was Bazez, and the name of the other Senna.
 
 **1 Samuel 14:5**
 
@@ -30302,7 +30302,7 @@ The one road was northward, toward Machmas, and the other southward, toward Gabe
 
 **1 Samuel 14:6**
 
-And Iōnathan said to the young man carrying his equipment, Come, let us cross over to the station of these uncircumcised ones; perhaps the Lord may act for us, because for the Lord there is no restraint to save by many or by few.
+And Jonathan said to the young man carrying his equipment, Come, let us cross over to the station of these uncircumcised ones; perhaps the Lord may act for us, because for the Lord there is no restraint to save by many or by few.
 
 **1 Samuel 14:7**
 
@@ -30310,7 +30310,7 @@ And the one carrying his equipment said to him, Do everything whatever your hear
 
 **1 Samuel 14:8**
 
-And Iōnathan said, Behold, we are crossing over to the men, and we will roll ourselves down to them.
+And Jonathan said, Behold, we are crossing over to the men, and we will roll ourselves down to them.
 
 **1 Samuel 14:9**
 
@@ -30326,15 +30326,15 @@ And both entered into the station of the foreigners, and the foreigners say, Beh
 
 **1 Samuel 14:12**
 
-And the men of the station answered Iōnathan and the one carrying his equipment and say, Come up to us, and we will make a word known to you. And Iōnathan said to the one carrying his equipment, Come up after me, because the Lord has delivered them into the hands of Israel.
+And the men of the station answered Jonathan and the one carrying his equipment and say, Come up to us, and we will make a word known to you. And Jonathan said to the one carrying his equipment, Come up after me, because the Lord has delivered them into the hands of Israel.
 
 **1 Samuel 14:13**
 
-And Iōnathan went up on his hands and on his feet, and the one carrying his equipment after him. And they looked into the face of Iōnathan, and he struck them down, and the one carrying his equipment kept finishing them off behind him.
+And Jonathan went up on his hands and on his feet, and the one carrying his equipment after him. And they looked into the face of Jonathan, and he struck them down, and the one carrying his equipment kept finishing them off behind him.
 
 **1 Samuel 14:14**
 
-And the first blow that Iōnathan and the one carrying his equipment struck was about twenty men, with darts and sling-stones and field-pebbles.
+And the first blow that Jonathan and the one carrying his equipment struck was about twenty men, with darts and sling-stones and field-pebbles.
 
 **1 Samuel 14:15**
 
@@ -30346,7 +30346,7 @@ And the watchmen of Saul in Gabee of Benjamin saw, and behold, the camp was trou
 
 **1 Samuel 14:17**
 
-And Saul said to the people with him, Muster now and see who has gone out from you. And they mustered, and behold, Iōnathan and the one carrying his equipment were not found.
+And Saul said to the people with him, Muster now and see who has gone out from you. And they mustered, and behold, Jonathan and the one carrying his equipment were not found.
 
 **1 Samuel 14:18**
 
@@ -30362,7 +30362,7 @@ And Saul cried out, and all the people with him, and they came as far as the bat
 
 **1 Samuel 14:21**
 
-And the slaves who were with the foreigners yesterday and the third day, who had gone up into the camp, they also turned to be with Israel, those with Saul and Iōnathan.
+And the slaves who were with the foreigners yesterday and the third day, who had gone up into the camp, they also turned to be with Israel, those with Saul and Jonathan.
 
 **1 Samuel 14:22**
 
@@ -30386,7 +30386,7 @@ And the people entered into the honey-place, and behold, honey was going along, 
 
 **1 Samuel 14:27**
 
-And Iōnathan had not heard when his father put the people under oath, and he stretched out the tip of his staff that was in his hand and dipped it into the comb of the honey and turned his hand to his mouth, and his eyes looked up.
+And Jonathan had not heard when his father put the people under oath, and he stretched out the tip of his staff that was in his hand and dipped it into the comb of the honey and turned his hand to his mouth, and his eyes looked up.
 
 **1 Samuel 14:28**
 
@@ -30394,7 +30394,7 @@ And one from the people answered and said, Your father bound the people with an 
 
 **1 Samuel 14:29**
 
-And Iōnathan understood and said, My father has troubled the land. See now that my eyes have brightened because I tasted a little of this honey.
+And Jonathan understood and said, My father has troubled the land. See now that my eyes have brightened because I tasted a little of this honey.
 
 **1 Samuel 14:30**
 
@@ -30434,23 +30434,23 @@ And Saul said, Bring near here all the corners of Israel, and know and see in wh
 
 **1 Samuel 14:39**
 
-Because the Lord lives, who saved Israel, that if it is found in Iōnathan my son, he will surely die. And there was not one answering from all the people.
+Because the Lord lives, who saved Israel, that if it is found in Jonathan my son, he will surely die. And there was not one answering from all the people.
 
 **1 Samuel 14:40**
 
-And he said to all Israel, You will be for one side, and I and Iōnathan my son will be for one side. And the people said to Saul, Do what is good in your sight.
+And he said to all Israel, You will be for one side, and I and Jonathan my son will be for one side. And the people said to Saul, Do what is good in your sight.
 
 **1 Samuel 14:41**
 
-And Saul said, Lord God of Israel, why have you not answered your servant today? If the wrong is in me or in Iōnathan my son, Lord God of Israel, give clear signs; and if thus you say, In your people Israel, give holiness. And Iōnathan and Saul were taken by lot, and the people went out.
+And Saul said, Lord God of Israel, why have you not answered your servant today? If the wrong is in me or in Jonathan my son, Lord God of Israel, give clear signs; and if thus you say, In your people Israel, give holiness. And Jonathan and Saul were taken by lot, and the people went out.
 
 **1 Samuel 14:42**
 
-And Saul said, Cast lot between me and between Iōnathan my son; whomever the Lord may take by lot, let him die. And the people said to Saul, This word is not right. But Saul prevailed over the people, and they cast lot between him and between Iōnathan his son, and Iōnathan was taken by lot.
+And Saul said, Cast lot between me and between Jonathan my son; whomever the Lord may take by lot, let him die. And the people said to Saul, This word is not right. But Saul prevailed over the people, and they cast lot between him and between Jonathan his son, and Jonathan was taken by lot.
 
 **1 Samuel 14:43**
 
-And Saul said to Iōnathan, Tell me what you have done. And Iōnathan told him and said, Tasting, I tasted a little honey on the tip of the staff that was in my hand. Behold, I am dying.
+And Saul said to Jonathan, Tell me what you have done. And Jonathan told him and said, Tasting, I tasted a little honey on the tip of the staff that was in my hand. Behold, I am dying.
 
 **1 Samuel 14:44**
 
@@ -30458,7 +30458,7 @@ And Saul said to him, Thus may God do to me and thus may he add, because you wil
 
 **1 Samuel 14:45**
 
-And the people said to Saul, Will the one who worked this great salvation in Israel be put to death today? The Lord lives, if a hair of his head will fall to the ground, because he worked with the people of God on this day. And the people prayed for Iōnathan on that day, and he did not die.
+And the people said to Saul, Will the one who worked this great salvation in Israel be put to death today? The Lord lives, if a hair of his head will fall to the ground, because he worked with the people of God on this day. And the people prayed for Jonathan on that day, and he did not die.
 
 **1 Samuel 14:46**
 
@@ -30466,23 +30466,23 @@ And Saul went up from after the foreigners, and the foreigners went away to thei
 
 **1 Samuel 14:47**
 
-And Saul took up rule over Israel and fought all his enemies round about, against Mōab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king Souba and against the foreigners. Wherever he turned, he was being saved.
+And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king Souba and against the foreigners. Wherever he turned, he was being saved.
 
 **1 Samuel 14:48**
 
-And he worked might and struck Amalēk and delivered Israel from the hand of those trampling him.
+And he worked might and struck Amalek and delivered Israel from the hand of those trampling him.
 
 **1 Samuel 14:49**
 
-And the sons of Saul were Iōnathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Melchol.
+And the sons of Saul were Jonathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Melchol.
 
 **1 Samuel 14:50**
 
-And the name of his wife was Achinoom, daughter of Achimaas, and the name of the commander of his army was Abennēr, son of Nēr, son of a kinsman of Saul.
+And the name of his wife was Achinoom, daughter of Achimaas, and the name of the commander of his army was Abner, son of Ner, son of a kinsman of Saul.
 
 **1 Samuel 14:51**
 
-And Kis, father of Saul, and Nēr, father of Abennēr, were sons of Iamin, son of Abiēl.
+And Kis, father of Saul, and Ner, father of Abner, were sons of Iamin, son of Abiēl.
 
 **1 Samuel 14:52**
 
@@ -30492,15 +30492,15 @@ And the war against the foreigners was fierce all the days of Saul, and when Sau
 
 **1 Samuel 15:1**
 
-And Samouēl said to Saul, The Lord sent me to anoint you as king over Israel, and now hear the voice of the Lord.
+And Samuel said to Saul, The Lord sent me to anoint you as king over Israel, and now hear the voice of the Lord.
 
 **1 Samuel 15:2**
 
-Thus says the Lord Sabaōth, Now I will avenge what Amalēk did to Israel, how he met him on the road when he was coming up out of Egypt.
+Thus says the Lord Sabaōth, Now I will avenge what Amalek did to Israel, how he met him on the road when he was coming up out of Egypt.
 
 **1 Samuel 15:3**
 
-And now go, and you will strike Amalēk and devote all that is his, and you will not preserve anything from him, and you will utterly destroy him and devote him and all his things, and you will not spare from him, and you will kill from man to woman and from infant to one nursing and from calf to sheep and from camel to donkey.
+And now go, and you will strike Amalek and devote all that is his, and you will not preserve anything from him, and you will utterly destroy him and devote him and all his things, and you will not spare from him, and you will kill from man to woman and from infant to one nursing and from calf to sheep and from camel to donkey.
 
 **1 Samuel 15:4**
 
@@ -30508,19 +30508,19 @@ And Saul gave orders to the people and musters them in Galgala, four hundred tho
 
 **1 Samuel 15:5**
 
-And Saul came as far as the cities of Amalēk and lay in ambush in the wadi.
+And Saul came as far as the cities of Amalek and lay in ambush in the wadi.
 
 **1 Samuel 15:6**
 
-And Saul said to the Kainite, Go away and turn aside from the midst of Amalēk, lest I add you with him, because you worked mercy with the sons of Israel when they were coming up out of Egypt. And the Kainite turned aside from the midst of Amalēk.
+And Saul said to the Kainite, Go away and turn aside from the midst of Amalek, lest I add you with him, because you worked mercy with the sons of Israel when they were coming up out of Egypt. And the Kainite turned aside from the midst of Amalek.
 
 **1 Samuel 15:7**
 
-And Saul struck Amalēk from Heuila as far as Sour, in front of Egypt.
+And Saul struck Amalek from Heuila as far as Sour, in front of Egypt.
 
 **1 Samuel 15:8**
 
-And he captured Agag king of Amalēk alive, and all the people he killed by the mouth of the sword.
+And he captured Agag king of Amalek alive, and all the people he killed by the mouth of the sword.
 
 **1 Samuel 15:9**
 
@@ -30528,39 +30528,39 @@ And Saul and all the people preserved Agag alive and the good things of the floc
 
 **1 Samuel 15:10**
 
-And the word of the Lord came to Samouēl, saying,
+And the word of the Lord came to Samuel, saying,
 
 **1 Samuel 15:11**
 
-I have been comforted that I made Saul king, because he turned from behind me and did not keep my words. And Samouēl was troubled, and he cried out to the Lord all the night.
+I have been comforted that I made Saul king, because he turned from behind me and did not keep my words. And Samuel was troubled, and he cried out to the Lord all the night.
 
 **1 Samuel 15:12**
 
-And Samouēl rose early and went to meet Israel in the morning, and it was reported to Samouēl, saying, Saul has come to Karmēlos and has raised a hand for himself and turned the chariot and gone down to Galgala toward Saul. And behold, he had offered whole burnt offerings to the Lord, the first of the spoil that he brought from Amalēk.
+And Samuel rose early and went to meet Israel in the morning, and it was reported to Samuel, saying, Saul has come to Karmēlos and has raised a hand for himself and turned the chariot and gone down to Galgala toward Saul. And behold, he had offered whole burnt offerings to the Lord, the first of the spoil that he brought from Amalek.
 
 **1 Samuel 15:13**
 
-And Samouēl came to Saul, and he said to him, Blessed are you to the Lord. I have established everything whatever the Lord spoke.
+And Samuel came to Saul, and he said to him, Blessed are you to the Lord. I have established everything whatever the Lord spoke.
 
 **1 Samuel 15:14**
 
-And Samouēl said, And what is this voice of the flock in my ears, and the voice of cattle that I hear?
+And Samuel said, And what is this voice of the flock in my ears, and the voice of cattle that I hear?
 
 **1 Samuel 15:15**
 
-And Saul said, I brought them from Amalēk, the things that the people preserved, the strongest of the flock and of the herds, so that they may be sacrificed to the Lord your God, and the rest I destroyed.
+And Saul said, I brought them from Amalek, the things that the people preserved, the strongest of the flock and of the herds, so that they may be sacrificed to the Lord your God, and the rest I destroyed.
 
 **1 Samuel 15:16**
 
-And Samouēl said to Saul, Let it be, and I will report to you what the Lord spoke to me in the night. And he said to him, Speak.
+And Samuel said to Saul, Let it be, and I will report to you what the Lord spoke to me in the night. And he said to him, Speak.
 
 **1 Samuel 15:17**
 
-And Samouēl said to Saul, Were you not small before him, leader of the scepter of a tribe of Israel? And the Lord anointed you as king over Israel.
+And Samuel said to Saul, Were you not small before him, leader of the scepter of a tribe of Israel? And the Lord anointed you as king over Israel.
 
 **1 Samuel 15:18**
 
-And the Lord sent you on a road and said to you, Go, and utterly destroy Amalēk, the ones sinning against me, and you will fight them until you finish them.
+And the Lord sent you on a road and said to you, Go, and utterly destroy Amalek, the ones sinning against me, and you will fight them until you finish them.
 
 **1 Samuel 15:19**
 
@@ -30568,7 +30568,7 @@ And why did you not hear the voice of the Lord, but rushed to set yourself on th
 
 **1 Samuel 15:20**
 
-And Saul said to Samouēl, Because I heard the voice of the people, I went on the road on which the Lord sent me, and I brought Agag king of Amalēk, and Amalēk I destroyed utterly.
+And Saul said to Samuel, Because I heard the voice of the people, I went on the road on which the Lord sent me, and I brought Agag king of Amalek, and Amalek I destroyed utterly.
 
 **1 Samuel 15:21**
 
@@ -30576,7 +30576,7 @@ And the people took from the spoil flocks and herds, the first of the devoted de
 
 **1 Samuel 15:22**
 
-And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
+And Samuel said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
 
 **1 Samuel 15:23**
 
@@ -30584,7 +30584,7 @@ Because sin is divination, and pain and grief bring on teraphim, because you cou
 
 **1 Samuel 15:24**
 
-And Saul said to Samouēl, I have sinned, because I transgressed the word of the Lord and your saying, because I feared the people and heard their voice.
+And Saul said to Samuel, I have sinned, because I transgressed the word of the Lord and your saying, because I feared the people and heard their voice.
 
 **1 Samuel 15:25**
 
@@ -30592,15 +30592,15 @@ And now take away my sin, and turn back with me, and I will bow down to the Lord
 
 **1 Samuel 15:26**
 
-And Samouēl said to Saul, I will not turn back with you, because you counted the word of the Lord as nothing, and the Lord will count you as nothing from being king over Israel.
+And Samuel said to Saul, I will not turn back with you, because you counted the word of the Lord as nothing, and the Lord will count you as nothing from being king over Israel.
 
 **1 Samuel 15:27**
 
-And Samouēl turned his face to go away, and Saul seized the wing of his double cloak and tore it.
+And Samuel turned his face to go away, and Saul seized the wing of his double cloak and tore it.
 
 **1 Samuel 15:28**
 
-And Samouēl said to him, The Lord has torn the kingdom of Israel from your hand today and will give it to your neighbor, the good one beyond you.
+And Samuel said to him, The Lord has torn the kingdom of Israel from your hand today and will give it to your neighbor, the good one beyond you.
 
 **1 Samuel 15:29**
 
@@ -30612,33 +30612,33 @@ And Saul said, I have sinned, but glorify me now before the elders of Israel and
 
 **1 Samuel 15:31**
 
-And Samouēl turned back after Saul, and he bowed down to the Lord.
+And Samuel turned back after Saul, and he bowed down to the Lord.
 
 **1 Samuel 15:32**
 
-And Samouēl said, Bring near to me Agag king of Amalēk. And Agag came to him trembling, and Agag said, Is death thus bitter?
+And Samuel said, Bring near to me Agag king of Amalek. And Agag came to him trembling, and Agag said, Is death thus bitter?
 
 **1 Samuel 15:33**
 
-And Samouēl said to Agag, As your sword made women childless, so your mother will be made childless among women. And Samouēl slaughtered Agag before the Lord in Galgala.
+And Samuel said to Agag, As your sword made women childless, so your mother will be made childless among women. And Samuel slaughtered Agag before the Lord in Galgala.
 
 **1 Samuel 15:34**
 
-And Samouēl went away to Armathaim, and Saul went up to his house at Gabaa.
+And Samuel went away to Armathaim, and Saul went up to his house at Gabaa.
 
 **1 Samuel 15:35**
 
-And Samouēl did not add again to see Saul until the day of his death, because Samouēl was mourning for Saul, and the Lord repented that he had made Saul king over Israel.
+And Samuel did not add again to see Saul until the day of his death, because Samuel was mourning for Saul, and the Lord repented that he had made Saul king over Israel.
 
 ### Chapter 16
 
 **1 Samuel 16:1**
 
-And the Lord said to Samouēl, How long do you mourn over Saul, while I have counted him as nothing from reigning over Israel? Fill your horn with oil and come, I will send you to Iessai in Bēthleem, because I have seen among his sons one for me to reign.
+And the Lord said to Samuel, How long do you mourn over Saul, while I have counted him as nothing from reigning over Israel? Fill your horn with oil and come, I will send you to Iessai in Bethlehem, because I have seen among his sons one for me to reign.
 
 **1 Samuel 16:2**
 
-And Samouēl said, How shall I go? Saul will hear and kill me. And the Lord said, Take a heifer of the cattle in your hand, and you will say, I have come to sacrifice to the Lord.
+And Samuel said, How shall I go? Saul will hear and kill me. And the Lord said, Take a heifer of the cattle in your hand, and you will say, I have come to sacrifice to the Lord.
 
 **1 Samuel 16:3**
 
@@ -30646,7 +30646,7 @@ And you will call Iessai to the sacrifice, and I will make known to you what you
 
 **1 Samuel 16:4**
 
-And Samouēl did everything whatever the Lord spoke to him, and he came to Bēthleem, and the elders of the city stood outside themselves to meet him and said, Seer, is your coming peace?
+And Samuel did everything whatever the Lord spoke to him, and he came to Bethlehem, and the elders of the city stood outside themselves to meet him and said, Seer, is your coming peace?
 
 **1 Samuel 16:5**
 
@@ -30658,11 +30658,11 @@ And it came to be as they were entering, he saw Eliab and said, Then indeed his 
 
 **1 Samuel 16:7**
 
-And the Lord said to Samouēl, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
+And the Lord said to Samuel, Do not look on his appearance, nor on the condition of his stature, because I have counted him as nothing. For God will not see as a human sees, because a human sees into the face, but God sees into the heart.
 
 **1 Samuel 16:8**
 
-And Iessai called Aminadab and brought him before Samouēl, and he said, Neither has the Lord chosen this one.
+And Iessai called Aminadab and brought him before Samuel, and he said, Neither has the Lord chosen this one.
 
 **1 Samuel 16:9**
 
@@ -30670,19 +30670,19 @@ And Iessai brought Sama, and he said, Neither in this one has the Lord chosen.
 
 **1 Samuel 16:10**
 
-And Iessai brought his seven sons before Samouēl, and Samouēl said, The Lord has not chosen among these.
+And Iessai brought his seven sons before Samuel, and Samuel said, The Lord has not chosen among these.
 
 **1 Samuel 16:11**
 
-And Samouēl said to Iessai, Have the young men failed? And he said, There is still the small one; behold, he is shepherding among the flock. And Samouēl said to Iessai, Send and take him, because we certainly will not recline until he comes here.
+And Samuel said to Iessai, Have the young men failed? And he said, There is still the small one; behold, he is shepherding among the flock. And Samuel said to Iessai, Send and take him, because we certainly will not recline until he comes here.
 
 **1 Samuel 16:12**
 
-And he sent and brought him in. And he was ruddy, with beauty of eyes, and good in appearance to the Lord. And the Lord said to Samouēl, Rise and anoint David, because this one is good.
+And he sent and brought him in. And he was ruddy, with beauty of eyes, and good in appearance to the Lord. And the Lord said to Samuel, Rise and anoint David, because this one is good.
 
 **1 Samuel 16:13**
 
-And Samouēl took the horn of oil and anointed him in the midst of his brothers, and the Spirit of the Lord leapt upon David from that day and beyond. And Samouēl rose and went away to Armathaim.
+And Samuel took the horn of oil and anointed him in the midst of his brothers, and the Spirit of the Lord leapt upon David from that day and beyond. And Samuel rose and went away to Armathaim.
 
 **1 Samuel 16:14**
 
@@ -30852,7 +30852,7 @@ And the men of Israel returned, turning aside from after the foreigners, and the
 
 **1 Samuel 17:54**
 
-And David took the head of the foreigner and brought it into Ierousalēm, and his equipment he placed in his tent.
+And David took the head of the foreigner and brought it into Jerusalem, and his equipment he placed in his tent.
 
 ### Chapter 18
 
@@ -30936,11 +30936,11 @@ And Saul added still more to stand in awe from before David.
 
 **1 Samuel 19:1**
 
-And Saul spoke to Iōnathan his son and to all his servants to put David to death, but Iōnathan son of Saul preferred David greatly.
+And Saul spoke to Jonathan his son and to all his servants to put David to death, but Jonathan son of Saul preferred David greatly.
 
 **1 Samuel 19:2**
 
-And Iōnathan reported to David, saying, Saul seeks to put you to death. Therefore guard yourself tomorrow morning and hide and sit concealed.
+And Jonathan reported to David, saying, Saul seeks to put you to death. Therefore guard yourself tomorrow morning and hide and sit concealed.
 
 **1 Samuel 19:3**
 
@@ -30948,7 +30948,7 @@ And I will go out and stand beside my father in the field where you are there, a
 
 **1 Samuel 19:4**
 
-And Iōnathan spoke good things concerning David to Saul his father and said to him, Let not the king sin against your servant David, because he has not sinned against you, and his deeds are very good.
+And Jonathan spoke good things concerning David to Saul his father and said to him, Let not the king sin against your servant David, because he has not sinned against you, and his deeds are very good.
 
 **1 Samuel 19:5**
 
@@ -30956,11 +30956,11 @@ And he put his life in his hand and struck the foreigner, and the Lord worked a 
 
 **1 Samuel 19:6**
 
-And Saul listened to the voice of Iōnathan, and Saul swore, saying, As the Lord lives, he will not die.
+And Saul listened to the voice of Jonathan, and Saul swore, saying, As the Lord lives, he will not die.
 
 **1 Samuel 19:7**
 
-And Iōnathan called David and reported to him all these words, and Iōnathan brought David in to Saul, and he was before him as yesterday and the third day.
+And Jonathan called David and reported to him all these words, and Jonathan brought David in to Saul, and he was before him as yesterday and the third day.
 
 **1 Samuel 19:8**
 
@@ -31004,7 +31004,7 @@ And Saul said to Melchol, Why did you thus deceive me and send away my enemy, an
 
 **1 Samuel 19:18**
 
-And David fled and was saved and comes to Samouēl at Armathaim and reports to him all that Saul did to him. And David and Samouēl went and sat in Nauath at Rama.
+And David fled and was saved and comes to Samuel at Armathaim and reports to him all that Saul did to him. And David and Samuel went and sat in Nauath at Rama.
 
 **1 Samuel 19:19**
 
@@ -31012,7 +31012,7 @@ And it was reported to Saul, saying, Behold, David is in Nauath at Rama.
 
 **1 Samuel 19:20**
 
-And Saul sent messengers to take David, and they saw the assembly of the prophets, and Samouēl stood appointed over them. And the Spirit of God came upon the messengers of Saul, and they prophesy.
+And Saul sent messengers to take David, and they saw the assembly of the prophets, and Samuel stood appointed over them. And the Spirit of God came upon the messengers of Saul, and they prophesy.
 
 **1 Samuel 19:21**
 
@@ -31020,7 +31020,7 @@ And it was reported to Saul, and he sent other messengers, and they also prophes
 
 **1 Samuel 19:22**
 
-And the anger of Saul burned, and he also went to Armathaim, and he comes as far as the well of the threshing floor in Sephi and asked and said, Where are Samouēl and David? And they said, Behold, in Nauath at Rama.
+And the anger of Saul burned, and he also went to Armathaim, and he comes as far as the well of the threshing floor in Sephi and asked and said, Where are Samuel and David? And they said, Behold, in Nauath at Rama.
 
 **1 Samuel 19:23**
 
@@ -31034,27 +31034,27 @@ And he stripped off his garments and prophesied before them and fell naked all t
 
 **1 Samuel 20:1**
 
-And David fled from Nauath at Rama and comes before Iōnathan and said, What have I done, and what is my wrongdoing, and in what have I sinned before your father, that he seeks my life?
+And David fled from Nauath at Rama and comes before Jonathan and said, What have I done, and what is my wrongdoing, and in what have I sinned before your father, that he seeks my life?
 
 **1 Samuel 20:2**
 
-And Iōnathan said to him, Far from you. You certainly will not die. Behold, my father will not do a great word or a small one without uncovering my ear, and why should my father hide this word from me? It is not so.
+And Jonathan said to him, Far from you. You certainly will not die. Behold, my father will not do a great word or a small one without uncovering my ear, and why should my father hide this word from me? It is not so.
 
 **1 Samuel 20:3**
 
-And David answered Iōnathan and said, Knowing, your father knows that I have found favor in your eyes, and he said, Let not Iōnathan know this, lest he not be willing. But as the Lord lives and as your life lives, as I said, there is only the fullness between me and death.
+And David answered Jonathan and said, Knowing, your father knows that I have found favor in your eyes, and he said, Let not Jonathan know this, lest he not be willing. But as the Lord lives and as your life lives, as I said, there is only the fullness between me and death.
 
 **1 Samuel 20:4**
 
-And Iōnathan said to David, Whatever your soul desires, I will do for you.
+And Jonathan said to David, Whatever your soul desires, I will do for you.
 
 **1 Samuel 20:5**
 
-And David said to Iōnathan, Behold now, new moon is tomorrow, and sitting I will not sit with the king to eat, and you will send me away, and I will hide in the field until evening.
+And David said to Jonathan, Behold now, new moon is tomorrow, and sitting I will not sit with the king to eat, and you will send me away, and I will hide in the field until evening.
 
 **1 Samuel 20:6**
 
-If your father inspecting should inspect for me, then you will say, David earnestly asked leave from me to run to Bēthleem his city, because there is there a sacrifice of days for all the tribe.
+If your father inspecting should inspect for me, then you will say, David earnestly asked leave from me to run to Bethlehem his city, because there is there a sacrifice of days for all the tribe.
 
 **1 Samuel 20:7**
 
@@ -31066,23 +31066,23 @@ And you will do mercy with your servant, because you brought your servant into a
 
 **1 Samuel 20:9**
 
-And Iōnathan said, Far from you. For if in knowing I know that evil has been completed by my father to come upon you, will I not report it to you even into your cities?
+And Jonathan said, Far from you. For if in knowing I know that evil has been completed by my father to come upon you, will I not report it to you even into your cities?
 
 **1 Samuel 20:10**
 
-And David said to Iōnathan, Who will report to me if your father answers you harshly?
+And David said to Jonathan, Who will report to me if your father answers you harshly?
 
 **1 Samuel 20:11**
 
-And Iōnathan said to David, Go and remain in the field. And both went out into the field.
+And Jonathan said to David, Go and remain in the field. And both went out into the field.
 
 **1 Samuel 20:12**
 
-And Iōnathan said to David, The Lord God of Israel knows that I will search out my father about this time tomorrow and the third day, and behold, if there is good concerning David and I do not send to you into the field,
+And Jonathan said to David, The Lord God of Israel knows that I will search out my father about this time tomorrow and the third day, and behold, if there is good concerning David and I do not send to you into the field,
 
 **1 Samuel 20:13**
 
-thus may God do to Iōnathan and thus may he add, if I bring the evils upon you and do not uncover your ear and send you away, and you go in peace. And the Lord will be with you as he was with my father.
+thus may God do to Jonathan and thus may he add, if I bring the evils upon you and do not uncover your ear and send you away, and you go in peace. And the Lord will be with you as he was with my father.
 
 **1 Samuel 20:14**
 
@@ -31094,15 +31094,15 @@ you will not remove your mercy from my house forever, and not even when the Lord
 
 **1 Samuel 20:16**
 
-May the name of Iōnathan be removed from the house of David, and may the Lord seek out the enemies of David.
+May the name of Jonathan be removed from the house of David, and may the Lord seek out the enemies of David.
 
 **1 Samuel 20:17**
 
-And Iōnathan added still to swear to David, because he loved the soul of the one loving him.
+And Jonathan added still to swear to David, because he loved the soul of the one loving him.
 
 **1 Samuel 20:18**
 
-And Iōnathan said, Tomorrow is new moon, and you will be missed, because your seat will be inspected.
+And Jonathan said, Tomorrow is new moon, and you will be missed, because your seat will be inspected.
 
 **1 Samuel 20:19**
 
@@ -31130,7 +31130,7 @@ And David hid in the field, and the month arrives, and the king comes to the tab
 
 **1 Samuel 20:25**
 
-And the king sat on his seat, as once and once, on the seat by the wall, and he came before Iōnathan, and Abennēr sat by the side of Saul, and David’s place was inspected.
+And the king sat on his seat, as once and once, on the seat by the wall, and he came before Jonathan, and Abner sat by the side of Saul, and David’s place was inspected.
 
 **1 Samuel 20:26**
 
@@ -31138,11 +31138,11 @@ And Saul did not speak anything on that day, because he said, An incident appear
 
 **1 Samuel 20:27**
 
-And it came to be on the next day of the month, the second day, David’s place was inspected, and Saul said to Iōnathan his son, Why is the son of Iessai not present, both yesterday and today, at the table?
+And it came to be on the next day of the month, the second day, David’s place was inspected, and Saul said to Jonathan his son, Why is the son of Iessai not present, both yesterday and today, at the table?
 
 **1 Samuel 20:28**
 
-And Iōnathan answered Saul and said to him, David has earnestly requested from me to go to Bēthleem his city,
+And Jonathan answered Saul and said to him, David has earnestly requested from me to go to Bethlehem his city,
 
 **1 Samuel 20:29**
 
@@ -31150,7 +31150,7 @@ and he said, Send me away now, because there is for us a tribal sacrifice in the
 
 **1 Samuel 20:30**
 
-And the anger of Saul burned very greatly against Iōnathan, and he said to him, Son of fleeing girls, for I know that you share with the son of Iessai to your shame and to the shame of your mother’s nakedness.
+And the anger of Saul burned very greatly against Jonathan, and he said to him, Son of fleeing girls, for I know that you share with the son of Iessai to your shame and to the shame of your mother’s nakedness.
 
 **1 Samuel 20:31**
 
@@ -31158,19 +31158,19 @@ Because all the days that the son of Iessai lives upon the earth, your kingdom w
 
 **1 Samuel 20:32**
 
-And Iōnathan answered Saul, Why should he die? What has he done?
+And Jonathan answered Saul, Why should he die? What has he done?
 
 **1 Samuel 20:33**
 
-And Saul lifted the spear against Iōnathan to put him to death, and Iōnathan knew that this evil from his father had been completed, to put David to death.
+And Saul lifted the spear against Jonathan to put him to death, and Jonathan knew that this evil from his father had been completed, to put David to death.
 
 **1 Samuel 20:34**
 
-And Iōnathan sprang up from the table in anger of wrath and did not eat bread on the second of the month, because he was shattered over David, because his father had brought it to completion against him.
+And Jonathan sprang up from the table in anger of wrath and did not eat bread on the second of the month, because he was shattered over David, because his father had brought it to completion against him.
 
 **1 Samuel 20:35**
 
-And it came to be in the morning, Iōnathan went out into the field, as he had appointed, for the testimony with David, and a little young man was with him.
+And it came to be in the morning, Jonathan went out into the field, as he had appointed, for the testimony with David, and a little young man was with him.
 
 **1 Samuel 20:36**
 
@@ -31178,19 +31178,19 @@ And he said to the young man, Run, find for me the arrows in which I am shooting
 
 **1 Samuel 20:37**
 
-And the young man came as far as the place of the arrow that Iōnathan shot, and Iōnathan cried out behind the young boy and said, Is not the arrow from you and beyond?
+And the young man came as far as the place of the arrow that Jonathan shot, and Jonathan cried out behind the young boy and said, Is not the arrow from you and beyond?
 
 **1 Samuel 20:38**
 
-And Iōnathan cried out behind his young man, saying, Hurry, make haste, do not stand. And the young man of Iōnathan gathered the arrows to his lord.
+And Jonathan cried out behind his young man, saying, Hurry, make haste, do not stand. And the young man of Jonathan gathered the arrows to his lord.
 
 **1 Samuel 20:39**
 
-And the young man knew nothing, except that Iōnathan and David knew the word.
+And the young man knew nothing, except that Jonathan and David knew the word.
 
 **1 Samuel 20:40**
 
-And Iōnathan gave his equipment to his young man and said to his young man, Go, enter into the city.
+And Jonathan gave his equipment to his young man and said to his young man, Go, enter into the city.
 
 **1 Samuel 20:41**
 
@@ -31198,13 +31198,13 @@ And as the young man entered, David arose from Ergab and fell on his face and bo
 
 **1 Samuel 20:42**
 
-And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
+And Jonathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
 
 ### Chapter 21
 
 **1 Samuel 21:1**
 
-And David rose and went away, and Iōnathan entered into the city.
+And David rose and went away, and Jonathan entered into the city.
 
 **1 Samuel 21:2**
 
@@ -31278,11 +31278,11 @@ And everyone in distress and everyone in debt and everyone bitter in soul gather
 
 **1 Samuel 22:3**
 
-And David went from there to Massēpha of Mōab and said to the king of Mōab, Let now my father and my mother be with you until I know what God will do to me.
+And David went from there to Mizpah of Moab and said to the king of Moab, Let now my father and my mother be with you until I know what God will do to me.
 
 **1 Samuel 22:4**
 
-And he entreated the face of the king of Mōab, and they stayed with him all the days David was in the stronghold.
+And he entreated the face of the king of Moab, and they stayed with him all the days David was in the stronghold.
 
 **1 Samuel 22:5**
 
@@ -31302,7 +31302,7 @@ that all of you conspire against me, and there is no one uncovering my ear when 
 
 **1 Samuel 22:9**
 
-And Dōēk the Syrian answered, the one set over the mules of Saul, and said, I saw the son of Iessai coming to Nomba to Abimelech son of Achitōb the priest.
+And Dōēk the Syrian answered, the one set over the mules of Saul, and said, I saw the son of Iessai coming to Nomba to Abimelech son of Ahitub the priest.
 
 **1 Samuel 22:10**
 
@@ -31310,11 +31310,11 @@ And he inquired for him through God and gave him provisions and gave him the swo
 
 **1 Samuel 22:11**
 
-And the king sent to call Abimelech son of Achitōb and all the sons of his father, the priests in Nomba, and all came to the king.
+And the king sent to call Abimelech son of Ahitub and all the sons of his father, the priests in Nomba, and all came to the king.
 
 **1 Samuel 22:12**
 
-And Saul said, Hear now, son of Achitōb. And he said, Behold, I am here, speak, lord.
+And Saul said, Hear now, son of Ahitub. And he said, Behold, I am here, speak, lord.
 
 **1 Samuel 22:13**
 
@@ -31346,7 +31346,7 @@ And he struck Nomba, the city of the priests, by the mouth of the sword, from ma
 
 **1 Samuel 22:20**
 
-And one son of Abimelech son of Achitōb escaped, and his name was Abiathar, and he fled after David.
+And one son of Abimelech son of Ahitub escaped, and his name was Abiathar, and he fled after David.
 
 **1 Samuel 22:21**
 
@@ -31420,7 +31420,7 @@ And David saw that Saul was going out to seek David, and David was on the dry mo
 
 **1 Samuel 23:16**
 
-And Iōnathan son of Saul rose and went to David into the New Place and strengthened his hands in the Lord.
+And Jonathan son of Saul rose and went to David into the New Place and strengthened his hands in the Lord.
 
 **1 Samuel 23:17**
 
@@ -31428,7 +31428,7 @@ And he said to him, Do not fear, because the hand of Saul my father certainly wi
 
 **1 Samuel 23:18**
 
-And both made a covenant before the Lord, and David sat in the New Place, and Iōnathan went away to his house.
+And both made a covenant before the Lord, and David sat in the New Place, and Jonathan went away to his house.
 
 **1 Samuel 23:19**
 
@@ -31568,11 +31568,11 @@ And David swore to Saul, and Saul went away to his place, and David and his men 
 
 **1 Samuel 25:1**
 
-And Samouēl died, and all Israel gathered and mourned for him and buried him in his house at Armathaim. And David rose and went down into the wilderness of Maan.
+And Samuel died, and all Israel gathered and mourned for him and buried him in his house at Armathaim. And David rose and went down into the wilderness of Maan.
 
 **1 Samuel 25:2**
 
-And there was a man in Maan, and his flocks were in Karmēl, and the man was very great, and he had three thousand sheep and one thousand goats. And it came to be when he was shearing his flock in Karmēl,
+And there was a man in Maan, and his flocks were in Carmel, and the man was very great, and he had three thousand sheep and one thousand goats. And it came to be when he was shearing his flock in Carmel,
 
 **1 Samuel 25:3**
 
@@ -31584,7 +31584,7 @@ And David heard in the wilderness that Nabal the Karmelite was shearing his floc
 
 **1 Samuel 25:5**
 
-And David sent ten young men and said to the young men, Go up to Karmēl and go to Nabal and ask him in my name about peace.
+And David sent ten young men and said to the young men, Go up to Carmel and go to Nabal and ask him in my name about peace.
 
 **1 Samuel 25:6**
 
@@ -31592,7 +31592,7 @@ And you will say these things at the season: And you are in health, and your hou
 
 **1 Samuel 25:7**
 
-And now behold, I have heard that they are shearing for you. Now your shepherds who were with us in the wilderness, we did not hinder them, and we did not command anything from them all the days they were in Karmēl.
+And now behold, I have heard that they are shearing for you. Now your shepherds who were with us in the wilderness, we did not hinder them, and we did not command anything from them all the days they were in Carmel.
 
 **1 Samuel 25:8**
 
@@ -31724,7 +31724,7 @@ And David heard and said, Blessed be the Lord, who judged the judgment of my rep
 
 **1 Samuel 25:40**
 
-And the servants of David came to Abigaia at Karmēl and spoke to her, saying, David has sent us to you, to take you for himself as wife.
+And the servants of David came to Abigaia at Carmel and spoke to her, saying, David has sent us to you, to take you for himself as wife.
 
 **1 Samuel 25:41**
 
@@ -31762,15 +31762,15 @@ And David sent spies and knew that Saul came prepared from Keila.
 
 **1 Samuel 26:5**
 
-And David rose secretly and enters into the place where Saul was sleeping there, and there was Abennēr son of Nēr, his commander, and Saul was sleeping in the wagon circle, and the people had camped around him.
+And David rose secretly and enters into the place where Saul was sleeping there, and there was Abner son of Ner, his commander, and Saul was sleeping in the wagon circle, and the people had camped around him.
 
 **1 Samuel 26:6**
 
-And David answered and said to Achimelech the Hittite and to Abessa son of Sarouia, brother of Iōab, saying, Who will go in with me to Saul into the camp? And Abessa said, I will go in with you.
+And David answered and said to Achimelech the Hittite and to Abessa son of Sarouia, brother of Joab, saying, Who will go in with me to Saul into the camp? And Abessa said, I will go in with you.
 
 **1 Samuel 26:7**
 
-And David and Abessa enter into the people by night, and behold, Saul was sleeping in slumber in the wagon circle, and the spear was fixed in the ground at his head, and Abennēr and his people were sleeping around him.
+And David and Abessa enter into the people by night, and behold, Saul was sleeping in slumber in the wagon circle, and the spear was fixed in the ground at his head, and Abner and his people were sleeping around him.
 
 **1 Samuel 26:8**
 
@@ -31798,11 +31798,11 @@ And David crossed over to the other side and stood on the top of the mountain fa
 
 **1 Samuel 26:14**
 
-And David called to the people and spoke to Abennēr, saying, Will you not answer, Abennēr? And Abennēr answered and said, Who are you, the one calling me?
+And David called to the people and spoke to Abner, saying, Will you not answer, Abner? And Abner answered and said, Who are you, the one calling me?
 
 **1 Samuel 26:15**
 
-And David said to Abennēr, Are you not a man, and who is like you in Israel? And why do you not guard your lord the king? Because one from the people entered to destroy your lord the king.
+And David said to Abner, Are you not a man, and who is like you in Israel? And why do you not guard your lord the king? Because one from the people entered to destroy your lord the king.
 
 **1 Samuel 26:16**
 
@@ -31856,7 +31856,7 @@ And David rose, and the four hundred men with him, and went to Anchous son of Am
 
 **1 Samuel 27:3**
 
-And David sat with Anchous in Geth, he and his men, each and his household, and David and both his wives, Achinaam the Iezraēlite and Abigaia the wife of Nabal the Karmelite.
+And David sat with Anchous in Geth, he and his men, each and his household, and David and both his wives, Achinaam the Jezreelite and Abigaia the wife of Nabal the Karmelite.
 
 **1 Samuel 27:4**
 
@@ -31906,7 +31906,7 @@ And David said to Anchous, Thus now you will know what your servant will do. And
 
 **1 Samuel 28:3**
 
-And Samouēl died, and all Israel mourned for him and buried him in Armathaim, in his city. And Saul removed the ventriloquists and the knowers from the land.
+And Samuel died, and all Israel mourned for him and buried him in Armathaim, in his city. And Saul removed the ventriloquists and the knowers from the land.
 
 **1 Samuel 28:4**
 
@@ -31938,11 +31938,11 @@ And Saul swore to her, saying, As the Lord lives, wrongdoing will not meet you i
 
 **1 Samuel 28:11**
 
-And the woman said, Whom shall I bring up for you? And he said, Bring up Samouēl for me.
+And the woman said, Whom shall I bring up for you? And he said, Bring up Samuel for me.
 
 **1 Samuel 28:12**
 
-And the woman saw Samouēl and cried out with a great voice, and the woman said to Saul, Why did you deceive me? And you are Saul.
+And the woman saw Samuel and cried out with a great voice, and the woman said to Saul, Why did you deceive me? And you are Saul.
 
 **1 Samuel 28:13**
 
@@ -31950,15 +31950,15 @@ And the king said to her, Do not fear. Tell me, what have you seen? And she said
 
 **1 Samuel 28:14**
 
-And he said to her, What did you recognize? And she said to him, An upright man coming up from the earth, and he had a double cloak wrapped around him. And Saul knew that this was Samouēl, and he bent on his face to the ground and bowed down to him.
+And he said to her, What did you recognize? And she said to him, An upright man coming up from the earth, and he had a double cloak wrapped around him. And Saul knew that this was Samuel, and he bent on his face to the ground and bowed down to him.
 
 **1 Samuel 28:15**
 
-And Samouēl said, Why have you disturbed me, to bring me up? And Saul said, I am in great distress, and the foreigners are fighting against me, and God has departed from me and no longer listened to me, both by the hand of prophets and in dreams. And now I have called you to make known to me what I shall do.
+And Samuel said, Why have you disturbed me, to bring me up? And Saul said, I am in great distress, and the foreigners are fighting against me, and God has departed from me and no longer listened to me, both by the hand of prophets and in dreams. And now I have called you to make known to me what I shall do.
 
 **1 Samuel 28:16**
 
-And Samouēl said, Why do you ask me, since the Lord has departed from you and has come to be with your neighbor?
+And Samuel said, Why do you ask me, since the Lord has departed from you and has come to be with your neighbor?
 
 **1 Samuel 28:17**
 
@@ -31966,7 +31966,7 @@ And the Lord has done for you just as he spoke by my hand, and the Lord will tea
 
 **1 Samuel 28:18**
 
-Because you did not hear the voice of the Lord and did not carry out the anger of his wrath in Amalēk, because of this thing the Lord has done this to you on this day.
+Because you did not hear the voice of the Lord and did not carry out the anger of his wrath in Amalek, because of this thing the Lord has done this to you on this day.
 
 **1 Samuel 28:19**
 
@@ -31974,7 +31974,7 @@ And the Lord will deliver Israel with you into the hands of the foreigners, and 
 
 **1 Samuel 28:20**
 
-And Saul hurried and fell standing to the ground, and he feared greatly from the words of Samouēl, and there was no strength in him still, because he had not eaten bread all that day and all that night.
+And Saul hurried and fell standing to the ground, and he feared greatly from the words of Samuel, and there was no strength in him still, because he had not eaten bread all that day and all that night.
 
 **1 Samuel 28:21**
 
@@ -32046,7 +32046,7 @@ And David rose early, he and his men, to depart and keep the land of the foreign
 
 **1 Samuel 30:1**
 
-And it came to be when David and his men entered into Sekelak on the third day, Amalēk attacked the south and Sekelak and struck Sekelak and burned it with fire.
+And it came to be when David and his men entered into Sekelak on the third day, Amalek attacked the south and Sekelak and struck Sekelak and burned it with fire.
 
 **1 Samuel 30:2**
 
@@ -32062,7 +32062,7 @@ And David and his men lifted up their voice and wept until there was no longer s
 
 **1 Samuel 30:5**
 
-And both David’s wives had been taken captive, Achinoom the Iezraēlite and Abigaia the wife of Nabal the Karmelite.
+And both David’s wives had been taken captive, Achinoom the Jezreelite and Abigaia the wife of Nabal the Karmelite.
 
 **1 Samuel 30:6**
 
@@ -32158,7 +32158,7 @@ and to those in Aroēr and to those in Ammadi and to those in Saphi and to those
 
 **1 Samuel 30:29**
 
-and to those in Karmēl and to those in the cities of Ieramēli and to those in the cities of the Kenezite,
+and to those in Carmel and to those in the cities of Ieramēli and to those in the cities of the Kenezite,
 
 **1 Samuel 30:30**
 
@@ -32166,7 +32166,7 @@ and to those in Ierimouth and to those in Bērsabee and to those in Noo,
 
 **1 Samuel 30:31**
 
-and to those in Chebrōn and to all the places through which David passed, he and his men.
+and to those in Hebron and to all the places through which David passed, he and his men.
 
 ### Chapter 31
 
@@ -32176,7 +32176,7 @@ And the foreigners were fighting against Israel, and the men of Israel fled from
 
 **1 Samuel 31:2**
 
-And the foreigners closed with Saul and his sons, and the foreigners struck Iōnathan and Aminadab and Melchisa, sons of Saul.
+And the foreigners closed with Saul and his sons, and the foreigners struck Jonathan and Aminadab and Melchisa, sons of Saul.
 
 **1 Samuel 31:3**
 
@@ -32216,7 +32216,7 @@ And the inhabitants of Iabis of Galaaditēs heard what the foreigners had done t
 
 **1 Samuel 31:12**
 
-And every mighty man rose and went all the night and took the body of Saul and the body of Iōnathan his son from the wall of Baithsan and bring them into Iabis and burn them there.
+And every mighty man rose and went all the night and took the body of Saul and the body of Jonathan his son from the wall of Baithsan and bring them into Iabis and burn them there.
 
 **1 Samuel 31:13**
 
@@ -32228,7 +32228,7 @@ And they took their bones and buried them under the tamarisk tree at Iabis and f
 
 **2 Samuel 1:1**
 
-And it came to be after the death of Saul, David returned from striking Amalēk, and David sat in Sekelak two days.
+And it came to be after the death of Saul, David returned from striking Amalek, and David sat in Sekelak two days.
 
 **2 Samuel 1:2**
 
@@ -32240,11 +32240,11 @@ And David said to him, From where do you come? And he said to him, I have escape
 
 **2 Samuel 1:4**
 
-And David said to him, What is this word? Report to me. And he said, The people fled from the battle, and many of the people have fallen and died, and both Saul and Iōnathan his son have died.
+And David said to him, What is this word? Report to me. And he said, The people fled from the battle, and many of the people have fallen and died, and both Saul and Jonathan his son have died.
 
 **2 Samuel 1:5**
 
-And David said to the young man reporting to him, How do you know that Saul and Iōnathan his son have died?
+And David said to the young man reporting to him, How do you know that Saul and Jonathan his son have died?
 
 **2 Samuel 1:6**
 
@@ -32272,7 +32272,7 @@ And David seized his garments and tore them, and all the men with him tore their
 
 **2 Samuel 1:12**
 
-And they mourned and wept and fasted until evening over Saul and over Iōnathan his son and over the people of Judah and over the house of Israel, because they were struck by the sword.
+And they mourned and wept and fasted until evening over Saul and over Jonathan his son and over the people of Judah and over the house of Israel, because they were struck by the sword.
 
 **2 Samuel 1:13**
 
@@ -32292,7 +32292,7 @@ And David said to him, Your blood is on your head, because your mouth answered a
 
 **2 Samuel 1:17**
 
-And David lamented this lament over Saul and over Iōnathan his son.
+And David lamented this lament over Saul and over Jonathan his son.
 
 **2 Samuel 1:18**
 
@@ -32312,11 +32312,11 @@ Mountains of Gelboue, let no dew come down on you and no rain on you, nor fields
 
 **2 Samuel 1:22**
 
-From the blood of the wounded, from the fat of the mighty, the bow of Iōnathan did not turn back empty, and the sword of Saul did not return empty.
+From the blood of the wounded, from the fat of the mighty, the bow of Jonathan did not turn back empty, and the sword of Saul did not return empty.
 
 **2 Samuel 1:23**
 
-Saul and Iōnathan, the beloved and beautiful, not separated, lovely in their life and in their death they were not divided; swifter than eagles, they were made stronger than lions.
+Saul and Jonathan, the beloved and beautiful, not separated, lovely in their life and in their death they were not divided; swifter than eagles, they were made stronger than lions.
 
 **2 Samuel 1:24**
 
@@ -32324,11 +32324,11 @@ Daughters of Israel, weep over Saul, the one clothing you in scarlet with your o
 
 **2 Samuel 1:25**
 
-How the mighty have fallen in the midst of battle. Iōnathan, wounded on your high places.
+How the mighty have fallen in the midst of battle. Jonathan, wounded on your high places.
 
 **2 Samuel 1:26**
 
-I am in pain for you, my brother Iōnathan. You were made very beautiful to me; your love to me was made wonderful beyond the love of women.
+I am in pain for you, my brother Jonathan. You were made very beautiful to me; your love to me was made wonderful beyond the love of women.
 
 **2 Samuel 1:27**
 
@@ -32338,15 +32338,15 @@ How the mighty have fallen, and the weapons of war have perished.
 
 **2 Samuel 2:1**
 
-And it came to be after these things, David inquired of the Lord, saying, Shall I go up into one of the cities of Judah? And the Lord said to him, Go up. And David said, Where shall I go up? And he said, To Chebrōn.
+And it came to be after these things, David inquired of the Lord, saying, Shall I go up into one of the cities of Judah? And the Lord said to him, Go up. And David said, Where shall I go up? And he said, To Hebron.
 
 **2 Samuel 2:2**
 
-And David went up there to Chebrōn, and both his wives, Achinoom the Iezraēlite and Abigaia the wife of Nabal the Karmelite.
+And David went up there to Hebron, and both his wives, Achinoom the Jezreelite and Abigaia the wife of Nabal the Karmelite.
 
 **2 Samuel 2:3**
 
-And the men with him, each and his household, and they lived in the cities of Chebrōn.
+And the men with him, each and his household, and they lived in the cities of Hebron.
 
 **2 Samuel 2:4**
 
@@ -32354,7 +32354,7 @@ And men of Judah come and anoint David there to reign over the house of Judah. A
 
 **2 Samuel 2:5**
 
-And David sent messengers to the leaders of Iabis of Galaaditēs and said to them, Blessed are you to the Lord, because you did this mercy for your lord, for Saul the anointed of the Lord, and buried him and Iōnathan his son.
+And David sent messengers to the leaders of Iabis of Galaaditēs and said to them, Blessed are you to the Lord, because you did this mercy for your lord, for Saul the anointed of the Lord, and buried him and Jonathan his son.
 
 **2 Samuel 2:6**
 
@@ -32366,7 +32366,7 @@ And now let your hands be strengthened, and become sons of strength, because you
 
 **2 Samuel 2:8**
 
-And Abennēr son of Nēr, commander of Saul, took Iebosthe son of Saul and brought him up from the camp into Manaem.
+And Abner son of Ner, commander of Saul, took Iebosthe son of Saul and brought him up from the camp into Manaem.
 
 **2 Samuel 2:9**
 
@@ -32378,19 +32378,19 @@ Forty years old was Iebosthe son of Saul when he reigned over Israel, and he rei
 
 **2 Samuel 2:11**
 
-And the days that David reigned in Chebrōn over the house of Judah were seven years and six months.
+And the days that David reigned in Hebron over the house of Judah were seven years and six months.
 
 **2 Samuel 2:12**
 
-And Abennēr son of Nēr and the servants of Iebosthe son of Saul went out from Manaem to Gabaōn.
+And Abner son of Ner and the servants of Iebosthe son of Saul went out from Manaem to Gibeon.
 
 **2 Samuel 2:13**
 
-And Iōab son of Sarouia and the servants of David went out from Chebrōn and met them by the pool of Gabaōn together. And these sat by the pool of Gabaōn on this side, and those by the pool on that side.
+And Joab son of Sarouia and the servants of David went out from Hebron and met them by the pool of Gibeon together. And these sat by the pool of Gibeon on this side, and those by the pool on that side.
 
 **2 Samuel 2:14**
 
-And Abennēr said to Iōab, Let the young men rise now and play before us. And Iōab said, Let them rise.
+And Abner said to Joab, Let the young men rise now and play before us. And Joab said, Let them rise.
 
 **2 Samuel 2:15**
 
@@ -32398,71 +32398,71 @@ And they rose and passed over by number, twelve of the sons of Benjamin belongin
 
 **2 Samuel 2:16**
 
-And each seized the head of his neighbor by the hand, and his knife into the side of his neighbor, and they fall together. And the name of that place was called Portion of the Plotters, which is in Gabaōn.
+And each seized the head of his neighbor by the hand, and his knife into the side of his neighbor, and they fall together. And the name of that place was called Portion of the Plotters, which is in Gibeon.
 
 **2 Samuel 2:17**
 
-And the battle became very hard on that day, and Abennēr and the men of Israel stumbled before the servants of David.
+And the battle became very hard on that day, and Abner and the men of Israel stumbled before the servants of David.
 
 **2 Samuel 2:18**
 
-And there were there three sons of Sarouia: Iōab and Abessa and Asaēl, and Asaēl was swift in his feet like one gazelle in the field.
+And there were there three sons of Sarouia: Joab and Abessa and Asahel, and Asahel was swift in his feet like one gazelle in the field.
 
 **2 Samuel 2:19**
 
-And Asaēl pursued behind Abennēr, and he did not turn aside in going to the right or to the left from behind Abennēr.
+And Asahel pursued behind Abner, and he did not turn aside in going to the right or to the left from behind Abner.
 
 **2 Samuel 2:20**
 
-And Abennēr looked behind him and said, Are you this Asaēl? And he said, I am.
+And Abner looked behind him and said, Are you this Asahel? And he said, I am.
 
 **2 Samuel 2:21**
 
-And Abennēr said to him, Turn aside to the right or to the left and seize for yourself one of the young men and take for yourself his armor. But Asaēl did not want to turn aside from behind him.
+And Abner said to him, Turn aside to the right or to the left and seize for yourself one of the young men and take for yourself his armor. But Asahel did not want to turn aside from behind him.
 
 **2 Samuel 2:22**
 
-And Abennēr added still, saying to Asaēl, Stand away from me, lest I strike you to the ground. And how shall I lift my face to Iōab your brother? And where are these things? Turn toward Iōab your brother.
+And Abner added still, saying to Asahel, Stand away from me, lest I strike you to the ground. And how shall I lift my face to Joab your brother? And where are these things? Turn toward Joab your brother.
 
 **2 Samuel 2:23**
 
-And he was not willing to stand away, and Abennēr struck him with the back of the spear in the belly, and the spear came out from behind him, and he fell there and died under him. And it came to be, everyone coming to the place where Asaēl fell there and died, would stand still.
+And he was not willing to stand away, and Abner struck him with the back of the spear in the belly, and the spear came out from behind him, and he fell there and died under him. And it came to be, everyone coming to the place where Asahel fell there and died, would stand still.
 
 **2 Samuel 2:24**
 
-And Iōab and Abessa pursued behind Abennēr, and the sun went down, and they came as far as the hill of Amman, which is opposite Gai on the road to the wilderness of Gabaōn.
+And Joab and Abessa pursued behind Abner, and the sun went down, and they came as far as the hill of Amman, which is opposite Gai on the road to the wilderness of Gibeon.
 
 **2 Samuel 2:25**
 
-And the sons of Benjamin gathered behind Abennēr and became one meeting group, and they stood on the head of one hill.
+And the sons of Benjamin gathered behind Abner and became one meeting group, and they stood on the head of one hill.
 
 **2 Samuel 2:26**
 
-And Abennēr called to Iōab and said, Will the sword devour into victory? Do you not know that it will be bitter at the end? And until when will you not tell the people to turn back from after our brothers?
+And Abner called to Joab and said, Will the sword devour into victory? Do you not know that it will be bitter at the end? And until when will you not tell the people to turn back from after our brothers?
 
 **2 Samuel 2:27**
 
-And Iōab said, As the Lord lives, if you had not spoken, then from morning the people would have gone up, each from after his brother.
+And Joab said, As the Lord lives, if you had not spoken, then from morning the people would have gone up, each from after his brother.
 
 **2 Samuel 2:28**
 
-And Iōab sounded with the trumpet, and all the people stood back and did not pursue after Israel, and they no longer added to fight.
+And Joab sounded with the trumpet, and all the people stood back and did not pursue after Israel, and they no longer added to fight.
 
 **2 Samuel 2:29**
 
-And Abennēr and his men went away westward all that night and crossed the Jordan and went the whole extended route and come to the camp.
+And Abner and his men went away westward all that night and crossed the Jordan and went the whole extended route and come to the camp.
 
 **2 Samuel 2:30**
 
-And Iōab turned back from after Abennēr and gathered all the people, and they were missing from the servants of David nineteen men and Asaēl.
+And Joab turned back from after Abner and gathered all the people, and they were missing from the servants of David nineteen men and Asahel.
 
 **2 Samuel 2:31**
 
-And the servants of David struck from the sons of Benjamin, from the men of Abennēr, three hundred and sixty men beside him.
+And the servants of David struck from the sons of Benjamin, from the men of Abner, three hundred and sixty men beside him.
 
 **2 Samuel 2:32**
 
-And they take Asaēl and bury him in the tomb of his father in Bēthleem, and Iōab and the men with him went all night, and it grew light for them in Chebrōn.
+And they take Asahel and bury him in the tomb of his father in Bethlehem, and Joab and the men with him went all night, and it grew light for them in Hebron.
 
 ### Chapter 3
 
@@ -32472,11 +32472,11 @@ And the war became long between the house of Saul and between the house of David
 
 **2 Samuel 3:2**
 
-And sons were born to David in Chebrōn, and his firstborn was Amnōn by Achinoom the Iezraēlite,
+And sons were born to David in Hebron, and his firstborn was Amnon by Achinoom the Jezreelite,
 
 **2 Samuel 3:3**
 
-and his second Dalouia by Abigaia the Karmelite, and the third Abessalōm son of Maacha daughter of Tholmi king of Gesir,
+and his second Dalouia by Abigaia the Karmelite, and the third Absalom son of Maacha daughter of Tholmi king of Gesir,
 
 **2 Samuel 3:4**
 
@@ -32484,23 +32484,23 @@ and the fourth Ornia son of Phenggith, and the fifth Sabatia by Abital,
 
 **2 Samuel 3:5**
 
-and the sixth Ietheraam by Aigla wife of David. These were born to David in Chebrōn.
+and the sixth Ietheraam by Aigla wife of David. These were born to David in Hebron.
 
 **2 Samuel 3:6**
 
-And it came to be while the war was between the house of Saul and between the house of David, Abennēr was holding strong the house of Saul.
+And it came to be while the war was between the house of Saul and between the house of David, Abner was holding strong the house of Saul.
 
 **2 Samuel 3:7**
 
-And Saul had a concubine, Respha daughter of Ial, and Mephibosthe son of Saul said to Abennēr, Why did you go in to my father’s concubine?
+And Saul had a concubine, Respha daughter of Ial, and Mephibosthe son of Saul said to Abner, Why did you go in to my father’s concubine?
 
 **2 Samuel 3:8**
 
-And Abennēr became very angry over the word of Mephibosthe and said to him, Am I a dog’s head? Today I did mercy with the house of Saul your father and with brothers and acquaintances, and I did not defect to the house of David, and yet you seek against me over the wrongdoing of a woman today.
+And Abner became very angry over the word of Mephibosthe and said to him, Am I a dog’s head? Today I did mercy with the house of Saul your father and with brothers and acquaintances, and I did not defect to the house of David, and yet you seek against me over the wrongdoing of a woman today.
 
 **2 Samuel 3:9**
 
-Thus may God do to Abennēr and thus may he add to him, because as the Lord swore to David, thus I will do for him on this day,
+Thus may God do to Abner and thus may he add to him, because as the Lord swore to David, thus I will do for him on this day,
 
 **2 Samuel 3:10**
 
@@ -32508,11 +32508,11 @@ to take away the kingdom from the house of Saul and to raise up the throne of Da
 
 **2 Samuel 3:11**
 
-And Mephibosthe was no longer able to answer Abennēr a word, because he feared him.
+And Mephibosthe was no longer able to answer Abner a word, because he feared him.
 
 **2 Samuel 3:12**
 
-And Abennēr sent messengers to David in Thailaim, where he was at once, saying, Make your covenant with me, and behold, my hand is with you, to turn all the house of Israel to you.
+And Abner sent messengers to David in Thailaim, where he was at once, saying, Make your covenant with me, and behold, my hand is with you, to turn all the house of Israel to you.
 
 **2 Samuel 3:13**
 
@@ -32528,11 +32528,11 @@ And Mephibosthe sent and took her from her husband, from Phaltiēl son of Sellē
 
 **2 Samuel 3:16**
 
-And her husband went with her, weeping behind her until Barakim, and Abennēr said to him, Go, return. And he returned.
+And her husband went with her, weeping behind her until Barakim, and Abner said to him, Go, return. And he returned.
 
 **2 Samuel 3:17**
 
-And Abennēr spoke to the elders of Israel, saying, Yesterday and the third day you were seeking David to reign over you.
+And Abner spoke to the elders of Israel, saying, Yesterday and the third day you were seeking David to reign over you.
 
 **2 Samuel 3:18**
 
@@ -32540,63 +32540,63 @@ And now do it, because the Lord spoke concerning David, saying, By the hand of m
 
 **2 Samuel 3:19**
 
-And Abennēr spoke in the ears of Benjamin, and Abennēr went to speak in the ears of David in Chebrōn all that pleased in the eyes of Israel and in the eyes of all the house of Benjamin.
+And Abner spoke in the ears of Benjamin, and Abner went to speak in the ears of David in Hebron all that pleased in the eyes of Israel and in the eyes of all the house of Benjamin.
 
 **2 Samuel 3:20**
 
-And Abennēr came to David in Chebrōn, and with him were twenty men, and David made a feast for Abennēr and for the men with him.
+And Abner came to David in Hebron, and with him were twenty men, and David made a feast for Abner and for the men with him.
 
 **2 Samuel 3:21**
 
-And Abennēr said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abennēr away, and he went in peace.
+And Abner said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abner away, and he went in peace.
 
 **2 Samuel 3:22**
 
-And behold, the servants of David and Iōab were coming from the raid and bringing much spoil with them, and Abennēr was not with David in Chebrōn, because he had sent him away and he had gone in peace.
+And behold, the servants of David and Joab were coming from the raid and bringing much spoil with them, and Abner was not with David in Hebron, because he had sent him away and he had gone in peace.
 
 **2 Samuel 3:23**
 
-And Iōab and all his army were brought in, and it was reported to Iōab, saying, Abennēr son of Nēr came to David, and he sent him away, and he went in peace.
+And Joab and all his army were brought in, and it was reported to Joab, saying, Abner son of Ner came to David, and he sent him away, and he went in peace.
 
 **2 Samuel 3:24**
 
-And Iōab came in to the king and said, What is this you have done? Behold, Abennēr came to you, and why did you send him away and he has gone in peace?
+And Joab came in to the king and said, What is this you have done? Behold, Abner came to you, and why did you send him away and he has gone in peace?
 
 **2 Samuel 3:25**
 
-Do you not know the evil of Abennēr son of Nēr, that he came to deceive you and to know your going out and your coming in and to know all that you do?
+Do you not know the evil of Abner son of Ner, that he came to deceive you and to know your going out and your coming in and to know all that you do?
 
 **2 Samuel 3:26**
 
-And Iōab turned back from David and sent messengers after Abennēr, and they brought him back from the well of Seiram, and David did not know.
+And Joab turned back from David and sent messengers after Abner, and they brought him back from the well of Seiram, and David did not know.
 
 **2 Samuel 3:27**
 
-And Abennēr returned to Chebrōn, and Iōab turned him aside by the side of the gate to speak with him in ambush, and struck him there in the belly, and he died for the blood of Asaēl brother of Iōab.
+And Abner returned to Hebron, and Joab turned him aside by the side of the gate to speak with him in ambush, and struck him there in the belly, and he died for the blood of Asahel brother of Joab.
 
 **2 Samuel 3:28**
 
-And David heard after this and said, Innocent am I and my kingdom from the Lord forever from the bloods of Abennēr son of Nēr.
+And David heard after this and said, Innocent am I and my kingdom from the Lord forever from the bloods of Abner son of Ner.
 
 **2 Samuel 3:29**
 
-Let them come down on the head of Iōab and on all the house of his father, and let there not fail from the house of Iōab one with discharge and leper and one holding a staff and one falling by the sword and one lacking breads.
+Let them come down on the head of Joab and on all the house of his father, and let there not fail from the house of Joab one with discharge and leper and one holding a staff and one falling by the sword and one lacking breads.
 
 **2 Samuel 3:30**
 
-And Iōab and Abessa his brother were lying in wait for Abennēr, because he killed Asaēl their brother in Gabaōn in the battle.
+And Joab and Abessa his brother were lying in wait for Abner, because he killed Asahel their brother in Gibeon in the battle.
 
 **2 Samuel 3:31**
 
-And David said to Iōab and to all the people with him, Tear your garments and gird on sackcloth and mourn before Abennēr. And king David was going behind the bier.
+And David said to Joab and to all the people with him, Tear your garments and gird on sackcloth and mourn before Abner. And king David was going behind the bier.
 
 **2 Samuel 3:32**
 
-And they bury Abennēr in Chebrōn, and the king lifted up his voice and wept over his tomb, and all the people wept over Abennēr.
+And they bury Abner in Hebron, and the king lifted up his voice and wept over his tomb, and all the people wept over Abner.
 
 **2 Samuel 3:33**
 
-And the king lamented over Abennēr and said, Should Abennēr die according to the death of Nabal?
+And the king lamented over Abner and said, Should Abner die according to the death of Nabal?
 
 **2 Samuel 3:34**
 
@@ -32612,7 +32612,7 @@ And all the people knew, and it was pleasing before them, all that the king did 
 
 **2 Samuel 3:37**
 
-And all the people and all Israel knew on that day that it did not come from the king to put Abennēr son of Nēr to death.
+And all the people and all Israel knew on that day that it did not come from the king to put Abner son of Ner to death.
 
 **2 Samuel 3:38**
 
@@ -32626,7 +32626,7 @@ And I am today a relative and appointed by a king, but these men, sons of Saroui
 
 **2 Samuel 4:1**
 
-And Mephibosthe son of Saul heard that Abennēr had died in Chebrōn, and his hands were loosed, and all the men of Israel were let down.
+And Mephibosthe son of Saul heard that Abner had died in Hebron, and his hands were loosed, and all the men of Israel were let down.
 
 **2 Samuel 4:2**
 
@@ -32638,7 +32638,7 @@ And the Bērōthaites fled into Geththaim and were sojourning there until this d
 
 **2 Samuel 4:4**
 
-And to Iōnathan son of Saul there was a son, stricken in the feet, five years old. He was this age when the news came of Saul and Iōnathan his son from Iezraēl, and his nurse took him up and fled. And it came to be as she hurried and withdrew, he fell and became lame, and his name was Mephibosthe.
+And to Jonathan son of Saul there was a son, stricken in the feet, five years old. He was this age when the news came of Saul and Jonathan his son from Iezraēl, and his nurse took him up and fled. And it came to be as she hurried and withdrew, he fell and became lame, and his name was Mephibosthe.
 
 **2 Samuel 4:5**
 
@@ -32654,7 +32654,7 @@ And they entered into the house, and Mephibosthe was sleeping on his bed in his 
 
 **2 Samuel 4:8**
 
-And they brought the head of Mephibosthe to David in Chebrōn and said to the king, Behold, the head of Mephibosthe son of Saul your enemy who sought your life, and the Lord has given to my lord the king vengeance from your enemies as this day, from Saul your enemy and from his seed.
+And they brought the head of Mephibosthe to David in Hebron and said to the king, Behold, the head of Mephibosthe son of Saul your enemy who sought your life, and the Lord has given to my lord the king vengeance from your enemies as this day, from Saul your enemy and from his seed.
 
 **2 Samuel 4:9**
 
@@ -32670,13 +32670,13 @@ And now evil men have killed a righteous man in his house on his bed, and now I 
 
 **2 Samuel 4:12**
 
-And David commanded his young men, and they kill them and cut off their hands and their feet and hanged them by the pool in Chebrōn. And they buried the head of Mephibosthe in the tomb of Abennēr son of Nēr.
+And David commanded his young men, and they kill them and cut off their hands and their feet and hanged them by the pool in Hebron. And they buried the head of Mephibosthe in the tomb of Abner son of Ner.
 
 ### Chapter 5
 
 **2 Samuel 5:1**
 
-And all the tribes of Israel come to David in Chebrōn and said to him, Behold, we are your bones and your flesh.
+And all the tribes of Israel come to David in Hebron and said to him, Behold, we are your bones and your flesh.
 
 **2 Samuel 5:2**
 
@@ -32684,7 +32684,7 @@ And yesterday and the third day, while Saul was king over us, you were the one b
 
 **2 Samuel 5:3**
 
-And all the elders of Israel come to the king in Chebrōn, and king David made a covenant with them in Chebrōn before the Lord, and they anointed David as king over all Israel.
+And all the elders of Israel come to the king in Hebron, and king David made a covenant with them in Hebron before the Lord, and they anointed David as king over all Israel.
 
 **2 Samuel 5:4**
 
@@ -32692,15 +32692,15 @@ David was thirty years old when he began to reign, and he reigned forty years.
 
 **2 Samuel 5:5**
 
-In Chebrōn he reigned over Judah seven years and six months, and in Ierousalēm he reigned thirty-three years over all Israel and Judah.
+In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.
 
 **2 Samuel 5:6**
 
-And David and his men went to Ierousalēm, to the Iebousaite inhabiting the land, and it was said to David, You will not enter here, because the blind and the lame withstood him, saying, David will not enter here.
+And David and his men went to Jerusalem, to the Iebousaite inhabiting the land, and it was said to David, You will not enter here, because the blind and the lame withstood him, saying, David will not enter here.
 
 **2 Samuel 5:7**
 
-And David captured the stronghold of Siōn; this is the City of David.
+And David captured the stronghold of Zion; this is the City of David.
 
 **2 Samuel 5:8**
 
@@ -32724,11 +32724,11 @@ And David knew that the Lord had prepared him as king over Israel and that his k
 
 **2 Samuel 5:13**
 
-And David took still more wives and concubines from Ierousalēm after he came from Chebrōn, and there came to be still more sons and daughters to David.
+And David took still more wives and concubines from Jerusalem after he came from Hebron, and there came to be still more sons and daughters to David.
 
 **2 Samuel 5:14**
 
-And these are the names of the ones born to him in Ierousalēm: Sammous and Sōbab and Nathan and Salōmōn,
+And these are the names of the ones born to him in Jerusalem: Sammous and Sōbab and Nathan and Solomon,
 
 **2 Samuel 5:15**
 
@@ -32772,7 +32772,7 @@ And it will be, when you hear the voice of the closing together of the grove of 
 
 **2 Samuel 5:25**
 
-And David did just as the Lord commanded him and struck the foreigners from Gabaōn to the land of Gazēra.
+And David did just as the Lord commanded him and struck the foreigners from Gibeon to the land of Gazēra.
 
 ### Chapter 6
 
@@ -32994,7 +32994,7 @@ And it came to be after these things, David struck the foreigners and routed the
 
 **2 Samuel 8:2**
 
-And David struck Mōab and measured them with lines, laying them on the ground, and there came to be the two line-measures for putting to death, and the two line-measures he kept alive, and Mōab became for David as servants bringing gifts.
+And David struck Moab and measured them with lines, laying them on the ground, and there came to be the two line-measures for putting to death, and the two line-measures he kept alive, and Moab became for David as servants bringing gifts.
 
 **2 Samuel 8:3**
 
@@ -33014,11 +33014,11 @@ And David placed a garrison in Syria by Damascus, and Syria became to David as s
 
 **2 Samuel 8:7**
 
-And David took the golden bracelets that were upon the servants of Adraazar king of Souba and brought them to Ierousalēm. And Sousakim king of Egypt took them when he came up to Ierousalēm in the days of Rehoboam son of Solōmōn.
+And David took the golden bracelets that were upon the servants of Adraazar king of Souba and brought them to Jerusalem. And Sousakim king of Egypt took them when he came up to Jerusalem in the days of Rehoboam son of Solōmōn.
 
 **2 Samuel 8:8**
 
-And from Masbak, from the chosen cities of Adraazar, king David took very much bronze. In it Salōmōn made the bronze sea and the pillars and the basins and all the vessels.
+And from Masbak, from the chosen cities of Adraazar, king David took very much bronze. In it Solomon made the bronze sea and the pillars and the basins and all the vessels.
 
 **2 Samuel 8:9**
 
@@ -33034,7 +33034,7 @@ And king David consecrated these things to the Lord, along with the silver and a
 
 **2 Samuel 8:12**
 
-from Idoumaia and from the land of Mōab and from the sons of Ammon and from the foreigners and from Amalēk and from the spoils of Adraazar son of Raab king of Souba.
+from Idoumaia and from the land of Moab and from the sons of Ammon and from the foreigners and from Amalek and from the spoils of Adraazar son of Raab king of Souba.
 
 **2 Samuel 8:13**
 
@@ -33050,11 +33050,11 @@ And David reigned over Israel, and David was doing judgment and righteousness ov
 
 **2 Samuel 8:16**
 
-And Iōab son of Sarouia was over the army, and Iōsaphat son of Achia was over the records,
+And Joab son of Sarouia was over the army, and Jehoshaphat son of Achia was over the records,
 
 **2 Samuel 8:17**
 
-and Saddouk son of Achitōb and Achimelech son of Abiathar were priests, and Asa the scribe,
+and Saddouk son of Ahitub and Achimelech son of Abiathar were priests, and Asa the scribe,
 
 **2 Samuel 8:18**
 
@@ -33064,7 +33064,7 @@ and Banaias son of Iōdae was counselor, and the Cheletthi and the Pheletti, and
 
 **2 Samuel 9:1**
 
-And David said, Is there still one left of the house of Saul, that I may do mercy with him for the sake of Iōnathan?
+And David said, Is there still one left of the house of Saul, that I may do mercy with him for the sake of Jonathan?
 
 **2 Samuel 9:2**
 
@@ -33072,7 +33072,7 @@ And from the house of Saul there was a servant, and his name was Siba, and they 
 
 **2 Samuel 9:3**
 
-And the king said, Is there still a man left from the house of Saul, that I may do mercy of God with him? And Siba said to the king, There is still a son for Iōnathan, stricken in the feet.
+And the king said, Is there still a man left from the house of Saul, that I may do mercy of God with him? And Siba said to the king, There is still a son for Jonathan, stricken in the feet.
 
 **2 Samuel 9:4**
 
@@ -33084,11 +33084,11 @@ And king David sent and took him from the house of Machir son of Amiēl, from La
 
 **2 Samuel 9:6**
 
-And Mephibosthe son of Iōnathan son of Saul comes to king David and fell on his face and bowed down to him, and David said to him, Mephibosthe. And he said, Behold, your servant.
+And Mephibosthe son of Jonathan son of Saul comes to king David and fell on his face and bowed down to him, and David said to him, Mephibosthe. And he said, Behold, your servant.
 
 **2 Samuel 9:7**
 
-And David said to him, Do not fear, because in doing I will do mercy with you for the sake of Iōnathan your father, and I will restore to you all the field of Saul father of your father, and you will eat bread at my table continually.
+And David said to him, Do not fear, because in doing I will do mercy with you for the sake of Jonathan your father, and I will restore to you all the field of Saul father of your father, and you will eat bread at my table continually.
 
 **2 Samuel 9:8**
 
@@ -33112,7 +33112,7 @@ And to Mephibosthe there was a little son, and his name was Micha, and all the d
 
 **2 Samuel 9:13**
 
-And Mephibosthe lived in Ierousalēm, because he continually was eating at the table of the king, and he was lame in both his feet.
+And Mephibosthe lived in Jerusalem, because he continually was eating at the table of the king, and he was lame in both his feet.
 
 ### Chapter 10
 
@@ -33134,7 +33134,7 @@ And Anōn took the servants of David and shaved their beards and cut their cloak
 
 **2 Samuel 10:5**
 
-And they reported to David concerning the men, and he sent to meet them, because the men were very greatly dishonored. And the king said, Sit in Ierichō until your beards grow, and then you will return.
+And they reported to David concerning the men, and he sent to meet them, because the men were very greatly dishonored. And the king said, Sit in Jericho until your beards grow, and then you will return.
 
 **2 Samuel 10:6**
 
@@ -33142,7 +33142,7 @@ And the sons of Ammon saw that the people of David had been put to shame, and th
 
 **2 Samuel 10:7**
 
-And David heard and sent Iōab and all the force, the mighty men.
+And David heard and sent Joab and all the force, the mighty men.
 
 **2 Samuel 10:8**
 
@@ -33150,7 +33150,7 @@ And the sons of Ammon went out and arrayed for war by the entrance of the gate, 
 
 **2 Samuel 10:9**
 
-And Iōab saw that the front of the battle had come to be against him from the front opposite and from the rear, and he chose from all the young men of Israel and arrayed them opposite Syria.
+And Joab saw that the front of the battle had come to be against him from the front opposite and from the rear, and he chose from all the young men of Israel and arrayed them opposite Syria.
 
 **2 Samuel 10:10**
 
@@ -33166,11 +33166,11 @@ Be manly, and let us be strengthened for our people and for the cities of our Go
 
 **2 Samuel 10:13**
 
-And Iōab and the people with him came near to war against Syria, and they fled from before him.
+And Joab and the people with him came near to war against Syria, and they fled from before him.
 
 **2 Samuel 10:14**
 
-And the sons of Ammon saw that Syria fled, and they fled from before Abessa and entered into the city, and Iōab returned from the sons of Ammon and came into Ierousalēm.
+And the sons of Ammon saw that Syria fled, and they fled from before Abessa and entered into the city, and Joab returned from the sons of Ammon and came into Jerusalem.
 
 **2 Samuel 10:15**
 
@@ -33196,7 +33196,7 @@ And all the kings, servants of Adraazar, saw that they had stumbled before Israe
 
 **2 Samuel 11:1**
 
-And it came to be at the turning of the year, at the season of the campaigns of kings, David sent Iōab and his servants with him and all Israel, and they ravaged the sons of Ammon and sat down against Rabbath, but David sat in Ierousalēm.
+And it came to be at the turning of the year, at the season of the campaigns of kings, David sent Joab and his servants with him and all Israel, and they ravaged the sons of Ammon and sat down against Rabbath, but David sat in Jerusalem.
 
 **2 Samuel 11:2**
 
@@ -33216,11 +33216,11 @@ And the woman conceived, and having sent, she reported to David and said, I am w
 
 **2 Samuel 11:6**
 
-And David sent to Iōab, saying, Send to me Ourias the Hittite, and Iōab sent Ourias to David.
+And David sent to Joab, saying, Send to me Ourias the Hittite, and Joab sent Ourias to David.
 
 **2 Samuel 11:7**
 
-And Ourias comes and entered to him, and David asked concerning the peace of Iōab and concerning the peace of the people and concerning the peace of the war.
+And Ourias comes and entered to him, and David asked concerning the peace of Joab and concerning the peace of the people and concerning the peace of the war.
 
 **2 Samuel 11:8**
 
@@ -33236,11 +33236,11 @@ And they reported to David, saying that Ourias did not go down to his house, and
 
 **2 Samuel 11:11**
 
-And Ourias said to David, The ark and Israel and Judah dwell in tents, and my lord Iōab and the servants of my lord camp on the face of the field, and shall I enter into my house to eat and drink and to lie with my wife? As your life lives, if I do this thing.
+And Ourias said to David, The ark and Israel and Judah dwell in tents, and my lord Joab and the servants of my lord camp on the face of the field, and shall I enter into my house to eat and drink and to lie with my wife? As your life lives, if I do this thing.
 
 **2 Samuel 11:12**
 
-And David said to Ourias, Sit here today also, and tomorrow I will send you away. And Ourias sat in Ierousalēm on that day and the next day.
+And David said to Ourias, Sit here today also, and tomorrow I will send you away. And Ourias sat in Jerusalem on that day and the next day.
 
 **2 Samuel 11:13**
 
@@ -33248,7 +33248,7 @@ And David called him, and he ate before him and drank, and he made him drunk, an
 
 **2 Samuel 11:14**
 
-And it came to be in the morning, David wrote a letter to Iōab and sent it by the hand of Ourias.
+And it came to be in the morning, David wrote a letter to Joab and sent it by the hand of Ourias.
 
 **2 Samuel 11:15**
 
@@ -33256,15 +33256,15 @@ And he wrote in the letter, saying, Bring Ourias into the front of the hard batt
 
 **2 Samuel 11:16**
 
-And it came to be while Iōab was guarding the city, he put Ourias in the place where he knew men of strength were there.
+And it came to be while Joab was guarding the city, he put Ourias in the place where he knew men of strength were there.
 
 **2 Samuel 11:17**
 
-And the men of the city came out and were fighting with Iōab, and some of the people from the servants of David fell, and also Ourias the Hittite died.
+And the men of the city came out and were fighting with Joab, and some of the people from the servants of David fell, and also Ourias the Hittite died.
 
 **2 Samuel 11:18**
 
-And Iōab sent and reported to the king all the words of the war,
+And Joab sent and reported to the king all the words of the war,
 
 **2 Samuel 11:19**
 
@@ -33280,7 +33280,7 @@ Who struck Abimelech son of Ierobaal? Did not a woman throw a piece of millstone
 
 **2 Samuel 11:22**
 
-And the messenger of Iōab went to the king in Ierousalēm and came and reported to David all that Iōab reported to him, all the words of the war. And David became angry at Iōab and said to the messenger, Why did you go near the city to fight? Did you not know that you would be struck from the wall? Who struck Abimelech son of Ierobaal? Did not a woman throw a piece of millstone on him from the wall, and he died in Themas? Why did you go near the wall?
+And the messenger of Joab went to the king in Jerusalem and came and reported to David all that Joab reported to him, all the words of the war. And David became angry at Joab and said to the messenger, Why did you go near the city to fight? Did you not know that you would be struck from the wall? Who struck Abimelech son of Ierobaal? Did not a woman throw a piece of millstone on him from the wall, and he died in Themas? Why did you go near the wall?
 
 **2 Samuel 11:23**
 
@@ -33292,7 +33292,7 @@ and the archers shot at your servants from above the wall, and some of the serva
 
 **2 Samuel 11:25**
 
-And David said to the messenger, Thus you will say to Iōab: Let not this word be evil in your eyes, because once thus and once thus the sword will eat. Strengthen your battle against the city and tear it down, and strengthen him.
+And David said to the messenger, Thus you will say to Joab: Let not this word be evil in your eyes, because once thus and once thus the sword will eat. Strengthen your battle against the city and tear it down, and strengthen him.
 
 **2 Samuel 11:26**
 
@@ -33398,7 +33398,7 @@ And now he has died. Why now am I fasting? Shall I be able to bring him back sti
 
 **2 Samuel 12:24**
 
-And David comforted Bērsabee his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Salōmōn, and the Lord loved him.
+And David comforted Bērsabee his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
 
 **2 Samuel 12:25**
 
@@ -33406,11 +33406,11 @@ And he sent by the hand of Nathan the prophet, and he called his name Idedi beca
 
 **2 Samuel 12:26**
 
-And Iōab fought at Rabbath of the sons of Ammon and captured the city of the kingdom.
+And Joab fought at Rabbath of the sons of Ammon and captured the city of the kingdom.
 
 **2 Samuel 12:27**
 
-And Iōab sent messengers to David and said, I fought at Rabbath and captured the city of waters.
+And Joab sent messengers to David and said, I fought at Rabbath and captured the city of waters.
 
 **2 Samuel 12:28**
 
@@ -33426,49 +33426,49 @@ And he took the crown of Melchol their king from his head, and its weight was a 
 
 **2 Samuel 12:31**
 
-And the people in it he brought out and set with the saw and with the iron threshing sledges and made them pass through the brickworks. And thus he did to all the cities of the sons of Ammon. And David and all the people returned to Ierousalēm.
+And the people in it he brought out and set with the saw and with the iron threshing sledges and made them pass through the brickworks. And thus he did to all the cities of the sons of Ammon. And David and all the people returned to Jerusalem.
 
 ### Chapter 13
 
 **2 Samuel 13:1**
 
-And it came to be after these things, to Abessalōm son of David there was a sister very beautiful in appearance, and her name was Thēmar, and Amnōn son of David loved her.
+And it came to be after these things, to Absalom son of David there was a sister very beautiful in appearance, and her name was Tamar, and Amnon son of David loved her.
 
 **2 Samuel 13:2**
 
-And Amnōn was distressed so as to become sick because of Thēmar his sister, because she was a virgin, and it was over-large in the eyes of Amnōn to do anything to her.
+And Amnon was distressed so as to become sick because of Tamar his sister, because she was a virgin, and it was over-large in the eyes of Amnon to do anything to her.
 
 **2 Samuel 13:3**
 
-And to Amnōn there was a companion, and his name was Iōnadab son of Samaa, brother of David, and Iōnadab was a very wise man.
+And to Amnon there was a companion, and his name was Iōnadab son of Samaa, brother of David, and Iōnadab was a very wise man.
 
 **2 Samuel 13:4**
 
-And he said to him, Why are you thus weak, son of the king, morning by morning? Will you not report to me? And Amnōn said to him, I love Thēmar, sister of Abessalōm my brother.
+And he said to him, Why are you thus weak, son of the king, morning by morning? Will you not report to me? And Amnon said to him, I love Tamar, sister of Absalom my brother.
 
 **2 Samuel 13:5**
 
-And Iōnadab said to him, Lie on your bed and make yourself weak, and your father will enter to see you, and you will say to him, Let Thēmar my sister now come to me and feed me morsels and prepare food before my eyes, so that I may see and eat from her hands.
+And Iōnadab said to him, Lie on your bed and make yourself weak, and your father will enter to see you, and you will say to him, Let Tamar my sister now come to me and feed me morsels and prepare food before my eyes, so that I may see and eat from her hands.
 
 **2 Samuel 13:6**
 
-And Amnōn lay down and became sick, and the king entered to see him, and Amnōn said to the king, Let Thēmar my sister now come to me and make before my eyes two cakes, and I will eat from her hand.
+And Amnon lay down and became sick, and the king entered to see him, and Amnon said to the king, Let Tamar my sister now come to me and make before my eyes two cakes, and I will eat from her hand.
 
 **2 Samuel 13:7**
 
-And David sent to Thēmar to the house, saying, Go now to the house of Amnōn your brother and make food for him.
+And David sent to Tamar to the house, saying, Go now to the house of Amnon your brother and make food for him.
 
 **2 Samuel 13:8**
 
-And Thēmar went to the house of Amnōn her brother, and he was lying down, and she took dough and kneaded it and made cakes before his eyes and baked the cakes.
+And Tamar went to the house of Amnon her brother, and he was lying down, and she took dough and kneaded it and made cakes before his eyes and baked the cakes.
 
 **2 Samuel 13:9**
 
-And she took the pan and emptied it out before him, and he was not willing to eat. And Amnōn said, Put out every man from me, and they put out every man from him.
+And she took the pan and emptied it out before him, and he was not willing to eat. And Amnon said, Put out every man from me, and they put out every man from him.
 
 **2 Samuel 13:10**
 
-And Amnōn said to Thēmar, Bring the food into the inner room, and I will eat from your hand. And Thēmar took the cakes that she had made and brought them in to Amnōn her brother into the bedroom.
+And Amnon said to Tamar, Bring the food into the inner room, and I will eat from your hand. And Tamar took the cakes that she had made and brought them in to Amnon her brother into the bedroom.
 
 **2 Samuel 13:11**
 
@@ -33484,15 +33484,15 @@ And I, where will I carry away my reproach? And you, you will be as one of the f
 
 **2 Samuel 13:14**
 
-And Amnōn was not willing to hear her voice, and he grew strong beyond her and humbled her and lay with her.
+And Amnon was not willing to hear her voice, and he grew strong beyond her and humbled her and lay with her.
 
 **2 Samuel 13:15**
 
-And Amnōn hated her with a very great hatred, because the hatred with which he hated her was greater than the love with which he loved her. And Amnōn said to her, Rise and go.
+And Amnon hated her with a very great hatred, because the hatred with which he hated her was greater than the love with which he loved her. And Amnon said to her, Rise and go.
 
 **2 Samuel 13:16**
 
-And Thēmar said to him, No, my brother, because this last evil is greater than the first, which you did with me, by sending me away. And Amnōn was not willing to hear her voice.
+And Tamar said to him, No, my brother, because this last evil is greater than the first, which you did with me, by sending me away. And Amnon was not willing to hear her voice.
 
 **2 Samuel 13:17**
 
@@ -33504,51 +33504,51 @@ And upon her was a full-length tunic, because thus the king’s virgin daughters
 
 **2 Samuel 13:19**
 
-And Thēmar took ashes and put them upon her head, and the full-length tunic that was upon her she tore, and she put her hands on her head and went on, going and crying out.
+And Tamar took ashes and put them upon her head, and the full-length tunic that was upon her she tore, and she put her hands on her head and went on, going and crying out.
 
 **2 Samuel 13:20**
 
-And Abessalōm her brother said to her, Has Amnōn your brother been with you? And now, my sister, be deaf, because he is your brother; do not set your heart to speak concerning this word. And Thēmar sat desolate in the house of Abessalōm her brother.
+And Absalom her brother said to her, Has Amnon your brother been with you? And now, my sister, be deaf, because he is your brother; do not set your heart to speak concerning this word. And Tamar sat desolate in the house of Absalom her brother.
 
 **2 Samuel 13:21**
 
-And king David heard all these words and was greatly angered, and he did not grieve the spirit of Amnōn his son, because he loved him, because he was his firstborn.
+And king David heard all these words and was greatly angered, and he did not grieve the spirit of Amnon his son, because he loved him, because he was his firstborn.
 
 **2 Samuel 13:22**
 
-And Abessalōm did not speak with Amnōn from evil to good, because Abessalōm hated Amnōn over the matter in which he humbled Thēmar his sister.
+And Absalom did not speak with Amnon from evil to good, because Absalom hated Amnon over the matter in which he humbled Tamar his sister.
 
 **2 Samuel 13:23**
 
-And it came to be at a two-year cycle of days, they were shearing for Abessalōm at Belasōr by Ephraim, and Abessalōm called all the sons of the king.
+And it came to be at a two-year cycle of days, they were shearing for Absalom at Belasōr by Ephraim, and Absalom called all the sons of the king.
 
 **2 Samuel 13:24**
 
-And Abessalōm came to the king and said, Behold now, they are shearing for your servant. Let the king and his servants now go with your servant.
+And Absalom came to the king and said, Behold now, they are shearing for your servant. Let the king and his servants now go with your servant.
 
 **2 Samuel 13:25**
 
-And the king said to Abessalōm, No, my son, let us not all go, and we certainly will not weigh heavily upon you. And he pressed him, and he was not willing to go, and he blessed him.
+And the king said to Absalom, No, my son, let us not all go, and we certainly will not weigh heavily upon you. And he pressed him, and he was not willing to go, and he blessed him.
 
 **2 Samuel 13:26**
 
-And Abessalōm said, And if not, let Amnōn my brother now go with us. And the king said to him, Why should he go with you?
+And Absalom said, And if not, let Amnon my brother now go with us. And the king said to him, Why should he go with you?
 
 **2 Samuel 13:27**
 
-And Abessalōm pressed him, and he sent with him Amnōn and all the sons of the king, and Abessalōm made a feast like the feast of the king.
+And Absalom pressed him, and he sent with him Amnon and all the sons of the king, and Absalom made a feast like the feast of the king.
 
 **2 Samuel 13:28**
 
-And Abessalōm commanded his young men, saying, See when the heart of Amnōn is made good with wine, and I say to you, Strike Amnōn and kill him. Do not fear, because am not I the one commanding you? Be manly and become sons of strength.
+And Absalom commanded his young men, saying, See when the heart of Amnon is made good with wine, and I say to you, Strike Amnon and kill him. Do not fear, because am not I the one commanding you? Be manly and become sons of strength.
 
 **2 Samuel 13:29**
 
-And the young men of Abessalōm did to Amnōn just as Abessalōm commanded them, and all the sons of the king rose and mounted, each on his mule, and fled.
+And the young men of Absalom did to Amnon just as Absalom commanded them, and all the sons of the king rose and mounted, each on his mule, and fled.
 
 **2 Samuel 13:30**
 
-And it came to be while they were on the road, the report came to David, saying, Abessalōm struck all the sons of the king, and not one was left from them.
+And it came to be while they were on the road, the report came to David, saying, Absalom struck all the sons of the king, and not one was left from them.
 
 **2 Samuel 13:31**
 
@@ -33556,15 +33556,15 @@ And the king rose and tore his garments and lay on the ground, and all his serva
 
 **2 Samuel 13:32**
 
-And Iōnadab son of Samaa brother of David answered and said, Let not my lord the king say that he killed all the young men, the sons of the king, because only Amnōn has died, because by the mouth of Abessalōm it was laid from the day when he humbled Thēmar his sister.
+And Iōnadab son of Samaa brother of David answered and said, Let not my lord the king say that he killed all the young men, the sons of the king, because only Amnon has died, because by the mouth of Absalom it was laid from the day when he humbled Tamar his sister.
 
 **2 Samuel 13:33**
 
-And now let not my lord the king set on his heart a word, saying, All the sons of the king have died, because only Amnōn has died.
+And now let not my lord the king set on his heart a word, saying, All the sons of the king have died, because only Amnon has died.
 
 **2 Samuel 13:34**
 
-And Abessalōm fled. And the young man, the watchman, lifted up his eyes and saw, and behold, many people were coming on the road behind him from the side of the mountain on the descent, and the watchman came and reported to the king and said, I have seen men from the road of Ōrōnēn from the side of the mountain.
+And Absalom fled. And the young man, the watchman, lifted up his eyes and saw, and behold, many people were coming on the road behind him from the side of the mountain on the descent, and the watchman came and reported to the king and said, I have seen men from the road of Ōrōnēn from the side of the mountain.
 
 **2 Samuel 13:35**
 
@@ -33576,29 +33576,29 @@ And it came to be when he finished speaking, behold, the sons of the king came a
 
 **2 Samuel 13:37**
 
-And Abessalōm fled and went to Tholmai son of Emioud, king of Gedsour, to the land of Machad, and king David mourned for his son all the days.
+And Absalom fled and went to Tholmai son of Emioud, king of Gedsour, to the land of Machad, and king David mourned for his son all the days.
 
 **2 Samuel 13:38**
 
-And Abessalōm fled and went to Gedsour and was there three years.
+And Absalom fled and went to Gedsour and was there three years.
 
 **2 Samuel 13:39**
 
-And the spirit of the king ceased from going out after Abessalōm, because he was comforted over Amnōn, because he died.
+And the spirit of the king ceased from going out after Absalom, because he was comforted over Amnon, because he died.
 
 ### Chapter 14
 
 **2 Samuel 14:1**
 
-And Iōab son of Sarouia knew that the heart of the king was upon Abessalōm.
+And Joab son of Sarouia knew that the heart of the king was upon Absalom.
 
 **2 Samuel 14:2**
 
-And Iōab sent to Thekōe and took from there a wise woman and said to her, Mourn now and put on mourning garments and do not anoint with oil, and you will be as a woman mourning over one dead for many days.
+And Joab sent to Thekōe and took from there a wise woman and said to her, Mourn now and put on mourning garments and do not anoint with oil, and you will be as a woman mourning over one dead for many days.
 
 **2 Samuel 14:3**
 
-And you will come to the king and speak to him according to this word. And Iōab put the words in her mouth.
+And you will come to the king and speak to him according to this word. And Joab put the words in her mouth.
 
 **2 Samuel 14:4**
 
@@ -33662,31 +33662,31 @@ And the king answered and said to the woman, Do not hide from me now a word whic
 
 **2 Samuel 14:19**
 
-And the king said, Is the hand of Iōab with you in all this? And the woman said to the king, As your life lives, my lord king, there is not to the right or to the left from all that my lord the king spoke, because your servant Iōab, he himself commanded me, and he himself put in the mouth of your servant all these words.
+And the king said, Is the hand of Joab with you in all this? And the woman said to the king, As your life lives, my lord king, there is not to the right or to the left from all that my lord the king spoke, because your servant Joab, he himself commanded me, and he himself put in the mouth of your servant all these words.
 
 **2 Samuel 14:20**
 
-For the sake of turning the face of this matter, your servant Iōab did this thing, and my lord is wise like the wisdom of an angel of God, to know all the things on the earth.
+For the sake of turning the face of this matter, your servant Joab did this thing, and my lord is wise like the wisdom of an angel of God, to know all the things on the earth.
 
 **2 Samuel 14:21**
 
-And the king said to Iōab, Behold now, I have done for you according to this word of yours. Go, bring back the young man Abessalōm.
+And the king said to Joab, Behold now, I have done for you according to this word of yours. Go, bring back the young man Absalom.
 
 **2 Samuel 14:22**
 
-And Iōab fell on his face to the ground and bowed down and blessed the king, and Iōab said, Today your servant knows that I have found favor in your eyes, my lord king, because my lord the king has done the word of his servant.
+And Joab fell on his face to the ground and bowed down and blessed the king, and Joab said, Today your servant knows that I have found favor in your eyes, my lord king, because my lord the king has done the word of his servant.
 
 **2 Samuel 14:23**
 
-And Iōab rose and went to Gedsour and brought Abessalōm into Ierousalēm.
+And Joab rose and went to Gedsour and brought Absalom into Jerusalem.
 
 **2 Samuel 14:24**
 
-And the king said, Let him turn to his own house, and let him not see my face. And Abessalōm turned to his house, and he did not see the face of the king.
+And the king said, Let him turn to his own house, and let him not see my face. And Absalom turned to his house, and he did not see the face of the king.
 
 **2 Samuel 14:25**
 
-And as for Abessalōm, there was no man in all Israel praised so greatly. From the sole of his foot to his crown there was no blemish in him.
+And as for Absalom, there was no man in all Israel praised so greatly. From the sole of his foot to his crown there was no blemish in him.
 
 **2 Samuel 14:26**
 
@@ -33694,49 +33694,49 @@ And when he cut his head, and it came to be from beginning of days to days as he
 
 **2 Samuel 14:27**
 
-And there were born to Abessalōm three sons and one daughter, and her name was Thēmar. She was a very beautiful woman and became wife to Rehoboam son of Salōmōn and bore to him Abia.
+And there were born to Absalom three sons and one daughter, and her name was Tamar. She was a very beautiful woman and became wife to Rehoboam son of Solomon and bore to him Abia.
 
 **2 Samuel 14:28**
 
-And Abessalōm sat in Ierousalēm two years of days, and he did not see the face of the king.
+And Absalom sat in Jerusalem two years of days, and he did not see the face of the king.
 
 **2 Samuel 14:29**
 
-And Abessalōm sent to Iōab to send him to the king, and he was not willing to come to him, and he sent a second time to him, and he was not willing to come.
+And Absalom sent to Joab to send him to the king, and he was not willing to come to him, and he sent a second time to him, and he was not willing to come.
 
 **2 Samuel 14:30**
 
-And Abessalōm said to his servants, See, the portion in the field of Iōab lies next to mine, and barley is there. Go and burn it with fire. And the servants of Abessalōm burned them, and the servants of Iōab came to him with garments torn and said, The servants of Abessalōm burned the portion with fire.
+And Absalom said to his servants, See, the portion in the field of Joab lies next to mine, and barley is there. Go and burn it with fire. And the servants of Absalom burned them, and the servants of Joab came to him with garments torn and said, The servants of Absalom burned the portion with fire.
 
 **2 Samuel 14:31**
 
-And Iōab rose and came to Abessalōm at the house and said to him, Why did your servants burn my portion with fire?
+And Joab rose and came to Absalom at the house and said to him, Why did your servants burn my portion with fire?
 
 **2 Samuel 14:32**
 
-And Abessalōm said to Iōab, Behold, I sent to you, saying, Come here and I will send you to the king, saying, Why did I come from Gedsour? It was good for me still to be there. And now behold, I have not seen the face of the king, and if there is wrongdoing in me, then put me to death.
+And Absalom said to Joab, Behold, I sent to you, saying, Come here and I will send you to the king, saying, Why did I come from Gedsour? It was good for me still to be there. And now behold, I have not seen the face of the king, and if there is wrongdoing in me, then put me to death.
 
 **2 Samuel 14:33**
 
-And Iōab entered to the king and reported to him, and he called Abessalōm, and he entered to the king and bowed down to him and fell on his face to the ground before the king, and the king kissed Abessalōm.
+And Joab entered to the king and reported to him, and he called Absalom, and he entered to the king and bowed down to him and fell on his face to the ground before the king, and the king kissed Absalom.
 
 ### Chapter 15
 
 **2 Samuel 15:1**
 
-And it came to be after these things, Abessalōm made for himself chariots and horses and fifty men to run before him.
+And it came to be after these things, Absalom made for himself chariots and horses and fifty men to run before him.
 
 **2 Samuel 15:2**
 
-And Abessalōm rose early and stood by the side of the road of the gate, and it came to be every man who had a judgment came to the king for judgment, and Abessalōm would cry out to him and say to him, From what city are you? And the man would say, Your servant is from one of the tribes of Israel.
+And Absalom rose early and stood by the side of the road of the gate, and it came to be every man who had a judgment came to the king for judgment, and Absalom would cry out to him and say to him, From what city are you? And the man would say, Your servant is from one of the tribes of Israel.
 
 **2 Samuel 15:3**
 
-And Abessalōm said to him, Behold, your words are good and easy, but there is no one hearing you from the king.
+And Absalom said to him, Behold, your words are good and easy, but there is no one hearing you from the king.
 
 **2 Samuel 15:4**
 
-And Abessalōm said, Who will appoint me judge in the land? And to me every man with dispute and judgment will come, and I will justify him.
+And Absalom said, Who will appoint me judge in the land? And to me every man with dispute and judgment will come, and I will justify him.
 
 **2 Samuel 15:5**
 
@@ -33744,39 +33744,39 @@ And it came to be, when a man came near to bow down to him, he stretched out his
 
 **2 Samuel 15:6**
 
-And Abessalōm did according to this word to all Israel who were coming for judgment to the king, and Abessalōm was stealing the heart of the men of Israel.
+And Absalom did according to this word to all Israel who were coming for judgment to the king, and Absalom was stealing the heart of the men of Israel.
 
 **2 Samuel 15:7**
 
-And it came to be at the end of forty years, Abessalōm said to his father, I will now go and pay my vows that I vowed to the Lord in Chebrōn.
+And it came to be at the end of forty years, Absalom said to his father, I will now go and pay my vows that I vowed to the Lord in Hebron.
 
 **2 Samuel 15:8**
 
-Because your servant vowed a vow while I was dwelling in Gedsour in Syria, saying, If in returning the Lord returns me to Ierousalēm, I will serve the Lord.
+Because your servant vowed a vow while I was dwelling in Gedsour in Syria, saying, If in returning the Lord returns me to Jerusalem, I will serve the Lord.
 
 **2 Samuel 15:9**
 
-And the king said to him, Go in peace. And rising, he went to Chebrōn.
+And the king said to him, Go in peace. And rising, he went to Hebron.
 
 **2 Samuel 15:10**
 
-And Abessalōm sent spies into all the tribes of Israel, saying, When you hear the sound of the horn, then you will say, King Abessalōm has become king in Chebrōn.
+And Absalom sent spies into all the tribes of Israel, saying, When you hear the sound of the horn, then you will say, King Absalom has become king in Hebron.
 
 **2 Samuel 15:11**
 
-And with Abessalōm went two hundred men from Ierousalēm, invited and going in their simplicity, and they knew no word.
+And with Absalom went two hundred men from Jerusalem, invited and going in their simplicity, and they knew no word.
 
 **2 Samuel 15:12**
 
-And Abessalōm sent and called Achitophel the Gelmōnaian, counselor of David, from his city, from Gōla, while he was sacrificing, and the conspiracy became strong, and the people going with Abessalōm were many.
+And Absalom sent and called Achitophel the Gelmōnaian, counselor of David, from his city, from Gōla, while he was sacrificing, and the conspiracy became strong, and the people going with Absalom were many.
 
 **2 Samuel 15:13**
 
-And the one reporting came to David, saying, The heart of the men of Israel has come to be behind Abessalōm.
+And the one reporting came to David, saying, The heart of the men of Israel has come to be behind Absalom.
 
 **2 Samuel 15:14**
 
-And David said to all his servants with him in Ierousalēm, Rise, and let us flee, because there is no salvation for us from before Abessalōm. Hurry to go, lest he hurry and overtake us and drive evil upon us and strike the city with the mouth of the sword.
+And David said to all his servants with him in Jerusalem, Rise, and let us flee, because there is no salvation for us from before Absalom. Hurry to go, lest he hurry and overtake us and drive evil upon us and strike the city with the mouth of the sword.
 
 **2 Samuel 15:15**
 
@@ -33816,11 +33816,11 @@ And all the land was weeping with a great voice, and all the people were passing
 
 **2 Samuel 15:24**
 
-And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
+And behold, also Zadok and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
 
 **2 Samuel 15:25**
 
-And the king said to Saddōk, Turn back the ark of God into the city. If I find favor in the eyes of the Lord, he will return me and show me it and its beauty.
+And the king said to Zadok, Turn back the ark of God into the city. If I find favor in the eyes of the Lord, he will return me and show me it and its beauty.
 
 **2 Samuel 15:26**
 
@@ -33828,7 +33828,7 @@ And if he says thus, I have not delighted in you, behold, here I am; let him do 
 
 **2 Samuel 15:27**
 
-And the king said to Saddōk the priest, See, you are returning into the city in peace, and Achimaas your son and Iōnathan son of Abiathar, your two sons with you.
+And the king said to Zadok the priest, See, you are returning into the city in peace, and Achimaas your son and Jonathan son of Abiathar, your two sons with you.
 
 **2 Samuel 15:28**
 
@@ -33836,7 +33836,7 @@ See, I am encamping in the plains of the wilderness until a word comes from you 
 
 **2 Samuel 15:29**
 
-And Saddōk and Abiathar turned the ark into Ierousalēm and sat there.
+And Zadok and Abiathar turned the ark into Jerusalem and sat there.
 
 **2 Samuel 15:30**
 
@@ -33844,7 +33844,7 @@ And David was going up in the ascent of the olives, going up and weeping, and hi
 
 **2 Samuel 15:31**
 
-And it was reported to David, saying, And Achitophel is among the conspirators with Abessalōm. And David said, Scatter now the counsel of Achitophel, Lord my God.
+And it was reported to David, saying, And Achitophel is among the conspirators with Absalom. And David said, Scatter now the counsel of Achitophel, Lord my God.
 
 **2 Samuel 15:32**
 
@@ -33856,19 +33856,19 @@ And David said to him, If you cross over with me, you will be a burden upon me.
 
 **2 Samuel 15:34**
 
-But if you return to the city and say to Abessalōm, Your brothers have passed through, and the king behind me, your father, has passed through, and now I am your servant, king; then I was servant of your father and now again and now I am your servant, and you will scatter for me the counsel of Achitophel.
+But if you return to the city and say to Absalom, Your brothers have passed through, and the king behind me, your father, has passed through, and now I am your servant, king; then I was servant of your father and now again and now I am your servant, and you will scatter for me the counsel of Achitophel.
 
 **2 Samuel 15:35**
 
-And behold, with you there are Saddōk and Abiathar the priests, and every word whatever you hear from the house of the king, you will report to Saddōk and Abiathar the priests.
+And behold, with you there are Zadok and Abiathar the priests, and every word whatever you hear from the house of the king, you will report to Zadok and Abiathar the priests.
 
 **2 Samuel 15:36**
 
-Behold, there with them are their two sons, Achimaas to Saddōk and Iōnathan to Abiathar, and you will send by their hand to me every word whatever you hear.
+Behold, there with them are their two sons, Achimaas to Zadok and Jonathan to Abiathar, and you will send by their hand to me every word whatever you hear.
 
 **2 Samuel 15:37**
 
-And Chousi, companion of David, entered into the city, and Abessalōm was entering into Ierousalēm.
+And Chousi, companion of David, entered into the city, and Absalom was entering into Jerusalem.
 
 ### Chapter 16
 
@@ -33882,7 +33882,7 @@ And the king said to Siba, What are these to you? And Siba said, The pack animal
 
 **2 Samuel 16:3**
 
-And the king said, And where is the son of your lord? And Siba said to the king, Behold, he sits in Ierousalēm, because he said, Today the house of Israel will return to me the kingdom of my father.
+And the king said, And where is the son of your lord? And Siba said to the king, Behold, he sits in Jerusalem, because he said, Today the house of Israel will return to me the kingdom of my father.
 
 **2 Samuel 16:4**
 
@@ -33902,7 +33902,7 @@ And thus Semei was saying while cursing him: Go out, go out, man of bloods and l
 
 **2 Samuel 16:8**
 
-The Lord has returned upon you all the bloods of the house of Saul, because you reigned instead of him, and the Lord has given the kingdom into the hand of Abessalōm your son, and behold, you are in your evil, because you are a man of bloods.
+The Lord has returned upon you all the bloods of the house of Saul, because you reigned instead of him, and the Lord has given the kingdom into the hand of Absalom your son, and behold, you are in your evil, because you are a man of bloods.
 
 **2 Samuel 16:9**
 
@@ -33930,19 +33930,19 @@ And the king came and all his people faint, and they refreshed themselves there.
 
 **2 Samuel 16:15**
 
-And Abessalōm and every man of Israel entered into Ierousalēm, and Achitophel with him.
+And Absalom and every man of Israel entered into Jerusalem, and Achitophel with him.
 
 **2 Samuel 16:16**
 
-And it came to be, when Chousi, chief companion of David, came to Abessalōm, Chousi said to Abessalōm, Long live the king.
+And it came to be, when Chousi, chief companion of David, came to Absalom, Chousi said to Absalom, Long live the king.
 
 **2 Samuel 16:17**
 
-And Abessalōm said to Chousi, Is this your mercy with your companion? Why did you not go with your companion?
+And Absalom said to Chousi, Is this your mercy with your companion? Why did you not go with your companion?
 
 **2 Samuel 16:18**
 
-And Chousi said to Abessalōm, No, but behind whom the Lord chose and this people and every man of Israel, to him I will belong and with him I will sit.
+And Chousi said to Absalom, No, but behind whom the Lord chose and this people and every man of Israel, to him I will belong and with him I will sit.
 
 **2 Samuel 16:19**
 
@@ -33950,19 +33950,19 @@ And the second thing: whom shall I serve? Shall it not be before his son? As I s
 
 **2 Samuel 16:20**
 
-And Abessalōm said to Achitophel, Bring counsel for yourselves. What shall we do?
+And Absalom said to Achitophel, Bring counsel for yourselves. What shall we do?
 
 **2 Samuel 16:21**
 
-And Achitophel said to Abessalōm, Go in to the concubines of your father whom he left to guard his house, and all Israel will hear that you have put your father to shame, and the hands of all those with you will be strengthened.
+And Achitophel said to Absalom, Go in to the concubines of your father whom he left to guard his house, and all Israel will hear that you have put your father to shame, and the hands of all those with you will be strengthened.
 
 **2 Samuel 16:22**
 
-And they pitched the tent for Abessalōm on the roof, and Abessalōm went in to the concubines of his father before the eyes of all Israel.
+And they pitched the tent for Absalom on the roof, and Absalom went in to the concubines of his father before the eyes of all Israel.
 
 **2 Samuel 16:23**
 
-And the counsel of Achitophel that he counseled in the former days was as if one inquired in the word of God. Thus was all the counsel of Achitophel, both to David and to Abessalōm.
+And the counsel of Achitophel that he counseled in the former days was as if one inquired in the word of God. Thus was all the counsel of Achitophel, both to David and to Absalom.
 
 ### Chapter 17
 
@@ -36792,7 +36792,7 @@ And the king took counsel and went and made two golden heifers and said to the p
 
 **1 Kings 12:29**
 
-And he placed one in Baithēl and one he gave in Dan.
+And he placed one in Bethel and one he gave in Dan.
 
 **1 Kings 12:30**
 
@@ -36804,7 +36804,7 @@ And he made houses upon high places and made priests from a part of the people, 
 
 **1 Kings 12:32**
 
-And Jeroboam made a feast in the eighth month, on the fifteenth day of the month, according to the feast in the land of Judah, and he went up upon the altar that he made in Baithēl to sacrifice to the heifers that he made, and he stationed in Baithēl the priests of the high places that he made.
+And Jeroboam made a feast in the eighth month, on the fifteenth day of the month, according to the feast in the land of Judah, and he went up upon the altar that he made in Bethel to sacrifice to the heifers that he made, and he stationed in Bethel the priests of the high places that he made.
 
 **1 Kings 12:33**
 
@@ -36814,7 +36814,7 @@ And he went up upon the altar that he made on the fifteenth day in the eighth mo
 
 **1 Kings 13:1**
 
-And behold, a man of God came from Judah to Baithēl by the word of the Lord, and Jeroboam had stood by the altar to sacrifice.
+And behold, a man of God came from Judah to Bethel by the word of the Lord, and Jeroboam had stood by the altar to sacrifice.
 
 **1 Kings 13:2**
 
@@ -36826,7 +36826,7 @@ And on that day he gave a sign, saying, This is the word that the Lord spoke, sa
 
 **1 Kings 13:4**
 
-And it came to be when King Jeroboam heard the words of the man of God, the one who cried against the altar in Baithēl, the king stretched out his hand from the altar, saying, Seize him. And behold, his hand that he stretched out against him dried up, and he could not turn it back to himself.
+And it came to be when King Jeroboam heard the words of the man of God, the one who cried against the altar in Bethel, the king stretched out his hand from the altar, saying, Seize him. And behold, his hand that he stretched out against him dried up, and he could not turn it back to himself.
 
 **1 Kings 13:5**
 
@@ -36850,11 +36850,11 @@ For thus the Lord commanded me by word, saying, Eat no bread and drink no water 
 
 **1 Kings 13:10**
 
-And he went away by another road and did not return by the road on which he came into Baithēl.
+And he went away by another road and did not return by the road on which he came into Bethel.
 
 **1 Kings 13:11**
 
-And one old prophet lived in Baithēl, and his sons came and recounted to him all the deeds that the man of God did on that day in Baithēl and the words that he spoke to the king, and they told them before their father.
+And one old prophet lived in Bethel, and his sons came and recounted to him all the deeds that the man of God did on that day in Bethel and the words that he spoke to the king, and they told them before their father.
 
 **1 Kings 13:12**
 
@@ -36934,7 +36934,7 @@ And it came to be after mourning for him, he said to his sons, saying, If I die,
 
 **1 Kings 13:32**
 
-For the word that he spoke by the word of the Lord against the altar in Baithēl and against the houses of the high places in Samaria will surely happen.
+For the word that he spoke by the word of the Lord against the altar in Bethel and against the houses of the high places in Samaria will surely happen.
 
 **1 Kings 13:33**
 
@@ -37632,7 +37632,7 @@ And he turned back from after him and took the pairs of oxen and sacrificed and 
 
 **1 Kings 20:1**
 
-And one vineyard belonged to Nabouthai the Iezraēlite beside the threshing floor of Ahab king of Samaria.
+And one vineyard belonged to Nabouthai the Jezreelite beside the threshing floor of Ahab king of Samaria.
 
 **1 Kings 20:2**
 
@@ -37652,11 +37652,11 @@ And Iezabel his wife came in to him and spoke to him, Why is your spirit trouble
 
 **1 Kings 20:6**
 
-And he said to her, Because I spoke to Nabouthai the Iezraēlite, saying, Give me your vineyard for silver, and if you wish, I will give you another vineyard in place of it, and he said, I will not give you the inheritance of my fathers.
+And he said to her, Because I spoke to Nabouthai the Jezreelite, saying, Give me your vineyard for silver, and if you wish, I will give you another vineyard in place of it, and he said, I will not give you the inheritance of my fathers.
 
 **1 Kings 20:7**
 
-And Iezabel his wife said to him, Do you now act as king over Israel? Rise, eat bread, and become your own man. I will give you the vineyard of Nabouthai the Iezraēlite.
+And Iezabel his wife said to him, Do you now act as king over Israel? Rise, eat bread, and become your own man. I will give you the vineyard of Nabouthai the Jezreelite.
 
 **1 Kings 20:8**
 
@@ -37688,11 +37688,11 @@ And they sent to Iezabel, saying, Nabouthai has been stoned and is dead.
 
 **1 Kings 20:15**
 
-And it came to be when Iezabel heard, she said to Ahab, Rise, inherit the vineyard of Nabouthai the Iezraēlite, who did not give it to you for silver, because Nabouthai is not alive; he is dead.
+And it came to be when Iezabel heard, she said to Ahab, Rise, inherit the vineyard of Nabouthai the Jezreelite, who did not give it to you for silver, because Nabouthai is not alive; he is dead.
 
 **1 Kings 20:16**
 
-And it came to be when Ahab heard that Nabouthai the Iezraēlite was dead, he tore his garments and put on sackcloth, and after these things Ahab rose and went down into the vineyard of Nabouthai the Iezraēlite to inherit it.
+And it came to be when Ahab heard that Nabouthai the Jezreelite was dead, he tore his garments and put on sackcloth, and after these things Ahab rose and went down into the vineyard of Nabouthai the Jezreelite to inherit it.
 
 **1 Kings 20:17**
 
@@ -37736,7 +37736,7 @@ And he was greatly abominated by going after abominations, according to all that
 
 **1 Kings 20:27**
 
-And because of the word, as Ahab was pierced to the heart from before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Nabouthai the Iezraēlite.
+And because of the word, as Ahab was pierced to the heart from before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Nabouthai the Jezreelite.
 
 **1 Kings 20:28**
 
@@ -38206,19 +38206,19 @@ And it came to be when the Lord was taking Elijah up in a storm as into heaven, 
 
 **2 Kings 2:2**
 
-And Elijah said to Elisha, Stay here now, because the Lord has sent me as far as Baithēl. And Elisha said, As the Lord lives and as your soul lives, I will not leave you. And they went to Baithēl.
+And Elijah said to Elisha, Stay here now, because the Lord has sent me as far as Bethel. And Elisha said, As the Lord lives and as your soul lives, I will not leave you. And they went to Bethel.
 
 **2 Kings 2:3**
 
-And the sons of the prophets in Baithēl came to Elisha and said to him, Do you know that today the Lord is taking your lord away from over your head? And he said, I also know. Be silent.
+And the sons of the prophets in Bethel came to Elisha and said to him, Do you know that today the Lord is taking your lord away from over your head? And he said, I also know. Be silent.
 
 **2 Kings 2:4**
 
-And Elijah said to Elisha, Stay here now, because the Lord has sent me to Ierichō. And Elisha said, As the Lord lives and as your soul lives, I will not leave you. And they came to Ierichō.
+And Elijah said to Elisha, Stay here now, because the Lord has sent me to Jericho. And Elisha said, As the Lord lives and as your soul lives, I will not leave you. And they came to Jericho.
 
 **2 Kings 2:5**
 
-And the sons of the prophets in Ierichō came near to Elisha and said to him, Do you know that today the Lord is taking your lord away from over your head? And he said, I too know. Be silent.
+And the sons of the prophets in Jericho came near to Elisha and said to him, Do you know that today the Lord is taking your lord away from over your head? And he said, I too know. Be silent.
 
 **2 Kings 2:6**
 
@@ -38258,7 +38258,7 @@ And he took Elijah's sheepskin cloak that fell from above him and struck the wat
 
 **2 Kings 2:15**
 
-And the sons of the prophets in Ierichō saw him from opposite them and said, The spirit of Elijah has come to rest upon Elisha. And they came to meet him and bowed to him to the ground.
+And the sons of the prophets in Jericho saw him from opposite them and said, The spirit of Elijah has come to rest upon Elisha. And they came to meet him and bowed to him to the ground.
 
 **2 Kings 2:16**
 
@@ -38270,7 +38270,7 @@ And they pressed him until he was ashamed, and he said, Send them. And they sent
 
 **2 Kings 2:18**
 
-And they returned to him, and he was sitting in Ierichō, and Elisha said, Did I not tell you, Do not go?
+And they returned to him, and he was sitting in Jericho, and Elisha said, Did I not tell you, Do not go?
 
 **2 Kings 2:19**
 
@@ -38290,7 +38290,7 @@ And the waters were healed until this day, according to the word Elisha spoke.
 
 **2 Kings 2:23**
 
-And he went up from there to Baithēl, and as he was going up on the road, little boys came out from the city and mocked him and said to him, Go up, baldhead, go up.
+And he went up from there to Bethel, and as he was going up on the road, little boys came out from the city and mocked him and said to him, Go up, baldhead, go up.
 
 **2 Kings 2:24**
 
@@ -39298,7 +39298,7 @@ And Iou destroyed Baal from Israel.
 
 **2 Kings 10:29**
 
-Only, from the sins of Jeroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan.
+Only, from the sins of Jeroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Bethel and in Dan.
 
 **2 Kings 10:30**
 
@@ -39740,7 +39740,7 @@ Only, the high places he did not remove. The people still sacrificed and burned 
 
 **2 Kings 15:5**
 
-And the Lord touched the king, and he was afflicted with skin-disease until the day of his death, and he reigned in a separate house, and Iōatham son of the king was over the house, judging the people of the land.
+And the Lord touched the king, and he was afflicted with skin-disease until the day of his death, and he reigned in a separate house, and Jotham son of the king was over the house, judging the people of the land.
 
 **2 Kings 15:6**
 
@@ -39748,7 +39748,7 @@ And the rest of the words of Azarias and all that he did, are these not written 
 
 **2 Kings 15:7**
 
-And Azarias slept with his fathers, and they buried him with his fathers in the city of David, and Iōatham his son reigned in his place.
+And Azarias slept with his fathers, and they buried him with his fathers in the city of David, and Jotham his son reigned in his place.
 
 **2 Kings 15:8**
 
@@ -39776,7 +39776,7 @@ And Selloum son of Iabis reigned, and in the thirty-ninth year of Azarias king o
 
 **2 Kings 15:14**
 
-And Manaēm son of Gaddi went up from Tharsila and came to Samaria and struck Selloum son of Iabis in Samaria and killed him.
+And Menahem son of Gaddi went up from Tharsila and came to Samaria and struck Selloum son of Iabis in Samaria and killed him.
 
 **2 Kings 15:15**
 
@@ -39784,11 +39784,11 @@ And the rest of the words of Selloum and his conspiracy which he conspired, beho
 
 **2 Kings 15:16**
 
-Then Manaēm struck Thersa and all that was in it and its borders from Thersa, because they did not open to him, and he struck it, and the pregnant women he ripped open.
+Then Menahem struck Thersa and all that was in it and its borders from Thersa, because they did not open to him, and he struck it, and the pregnant women he ripped open.
 
 **2 Kings 15:17**
 
-In the thirty-ninth year of Azarias king of Judah, Manaēm son of Gaddi reigned over Israel ten years in Samaria.
+In the thirty-ninth year of Azarias king of Judah, Menahem son of Gaddi reigned over Israel ten years in Samaria.
 
 **2 Kings 15:18**
 
@@ -39796,23 +39796,23 @@ And he did evil in the eyes of the Lord. He did not depart from all the sins of 
 
 **2 Kings 15:19**
 
-In his days Phoul king of the Assyrians came up against the land, and Manaēm gave to Phoul a thousand talents of silver, that his hand might be with him.
+In his days Phoul king of the Assyrians came up against the land, and Menahem gave to Phoul a thousand talents of silver, that his hand might be with him.
 
 **2 Kings 15:20**
 
-And Manaēm brought out the silver upon Israel, upon every mighty man of strength, to give to the king of the Assyrians fifty shekels to one man. And the king of the Assyrians turned back and did not remain there in the land.
+And Menahem brought out the silver upon Israel, upon every mighty man of strength, to give to the king of the Assyrians fifty shekels to one man. And the king of the Assyrians turned back and did not remain there in the land.
 
 **2 Kings 15:21**
 
-And the rest of the words of Manaēm and all that he did, are these not written in the book of the words of the days for the kings of Israel?
+And the rest of the words of Menahem and all that he did, are these not written in the book of the words of the days for the kings of Israel?
 
 **2 Kings 15:22**
 
-And Manaēm slept with his fathers, and Phakeias his son reigned in his place.
+And Menahem slept with his fathers, and Phakeias his son reigned in his place.
 
 **2 Kings 15:23**
 
-In the fiftieth year of Azarias king of Judah, Phakeias son of Manaēm reigned over Israel in Samaria two years.
+In the fiftieth year of Azarias king of Judah, Phakeias son of Menahem reigned over Israel in Samaria two years.
 
 **2 Kings 15:24**
 
@@ -39840,7 +39840,7 @@ In the days of Phakee king of Israel, Thaglathphellasar king of the Assyrians ca
 
 **2 Kings 15:30**
 
-And Ōsēe son of Ela made a conspiracy against Phakee son of Romeliou and struck him and killed him and reigned in his place, in the twentieth year of Iōatham son of Azarias.
+And Ōsēe son of Ela made a conspiracy against Phakee son of Romeliou and struck him and killed him and reigned in his place, in the twentieth year of Jotham son of Azarias.
 
 **2 Kings 15:31**
 
@@ -39848,7 +39848,7 @@ And the rest of the words of Phakee and all that he did, behold, they are writte
 
 **2 Kings 15:32**
 
-In the second year of Phakee son of Romeliou king of Israel, Iōatham son of Azarias king of Judah reigned.
+In the second year of Phakee son of Romeliou king of Israel, Jotham son of Azarias king of Judah reigned.
 
 **2 Kings 15:33**
 
@@ -39864,7 +39864,7 @@ Only, the high places he did not remove. The people still sacrificed and burned 
 
 **2 Kings 15:36**
 
-And the rest of the words of Iōatham and all that he did, are these not written in the book of the words of the days for the kings of Judah?
+And the rest of the words of Jotham and all that he did, are these not written in the book of the words of the days for the kings of Judah?
 
 **2 Kings 15:37**
 
@@ -39872,13 +39872,13 @@ In those days the Lord began to send into Judah Raassōn king of Syria and Phake
 
 **2 Kings 15:38**
 
-And Iōatham slept with his fathers and was buried with his fathers in the city of David his father, and Ahaz his son reigned in his place.
+And Jotham slept with his fathers and was buried with his fathers in the city of David his father, and Ahaz his son reigned in his place.
 
 ### Chapter 16
 
 **2 Kings 16:1**
 
-In the seventeenth year of Phakee son of Romeliou, Ahaz son of Iōatham king of Judah reigned.
+In the seventeenth year of Phakee son of Romeliou, Ahaz son of Jotham king of Judah reigned.
 
 **2 Kings 16:2**
 
@@ -40068,7 +40068,7 @@ And the king of the Assyrians commanded, saying, Take there one of the priests w
 
 **2 Kings 17:28**
 
-And they brought one of the priests whom they deported from Samaria, and he dwelt in Baithēl and was enlightening them how they should fear the Lord.
+And they brought one of the priests whom they deported from Samaria, and he dwelt in Bethel and was enlightening them how they should fear the Lord.
 
 **2 Kings 17:29**
 
@@ -40092,7 +40092,7 @@ They feared the Lord and served their gods according to the custom of the nation
 
 **2 Kings 17:34**
 
-Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Jacob, whom he named Israel.
 
 **2 Kings 17:35**
 
@@ -40174,7 +40174,7 @@ because they did not listen to the voice of the Lord their God and transgressed 
 
 **2 Kings 18:13**
 
-And in the fourteenth year of king Hezekiah, Sennachērim king of the Assyrians came up against the fortified cities of Judah and captured them.
+And in the fourteenth year of king Hezekiah, Sennacherib king of the Assyrians came up against the fortified cities of Judah and captured them.
 
 **2 Kings 18:14**
 
@@ -40190,7 +40190,7 @@ At that time Hezekiah cut off the doors of the temple of the Lord and the suppor
 
 **2 Kings 18:17**
 
-And the king of the Assyrians sent Tharthan and Raphis and Rapsakēs from Lachis to king Hezekiah with a heavy force against Jerusalem, and they came up and came to Jerusalem and stood by the conduit of the upper pool on the way of the fuller's field.
+And the king of the Assyrians sent Tharthan and Raphis and Rabshakeh from Lachis to king Hezekiah with a heavy force against Jerusalem, and they came up and came to Jerusalem and stood by the conduit of the upper pool on the way of the fuller's field.
 
 **2 Kings 18:18**
 
@@ -40198,7 +40198,7 @@ And they called to Hezekiah, and Eliakim son of Chelkias the steward and Somnas 
 
 **2 Kings 18:19**
 
-And Rapsakēs said to them, Say now to Hezekiah, Thus says the great king, king of the Assyrians: What is this confidence in which you have trusted?
+And Rabshakeh said to them, Say now to Hezekiah, Thus says the great king, king of the Assyrians: What is this confidence in which you have trusted?
 
 **2 Kings 18:20**
 
@@ -40226,15 +40226,15 @@ And now, was it without the Lord that we came up against this place to destroy i
 
 **2 Kings 18:26**
 
-And Eliakim son of Chelkias and Somnas and Iōas said to Rapsakēs, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
+And Eliakim son of Chelkias and Somnas and Iōas said to Rabshakeh, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
 
 **2 Kings 18:27**
 
-And Rapsakēs said to them, Was it to your lord and to you that my lord sent me to speak these words? Was it not to the men sitting on the wall, to eat their dung and drink their urine with you?
+And Rabshakeh said to them, Was it to your lord and to you that my lord sent me to speak these words? Was it not to the men sitting on the wall, to eat their dung and drink their urine with you?
 
 **2 Kings 18:28**
 
-And Rapsakēs stood and cried with a great voice in Judean and spoke and said, Hear the words of the great king, king of the Assyrians.
+And Rabshakeh stood and cried with a great voice in Judean and spoke and said, Hear the words of the great king, king of the Assyrians.
 
 **2 Kings 18:29**
 
@@ -40270,7 +40270,7 @@ And they kept silent and did not answer him a word, because it was the king's co
 
 **2 Kings 18:37**
 
-And Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rapsakēs.
+And Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
 
 ### Chapter 19
 
@@ -40280,7 +40280,7 @@ And it came to be, when king Hezekiah heard, he tore his garments and wrapped hi
 
 **2 Kings 19:2**
 
-And he sent Eliakim the steward and Somnas the scribe and the elders of the priests clothed in sackcloth to Isaiah the prophet son of Amōs.
+And he sent Eliakim the steward and Somnas the scribe and the elders of the priests clothed in sackcloth to Isaiah the prophet son of Amoz.
 
 **2 Kings 19:3**
 
@@ -40288,7 +40288,7 @@ And they said to him, Thus says Hezekiah: This day is a day of affliction and re
 
 **2 Kings 19:4**
 
-If perhaps the Lord your God will hear all the words of Rapsakēs, whom the king of the Assyrians his lord sent to reproach the living God and to blaspheme in words which the Lord your God heard, then you shall take up prayer for the remnant that is found.
+If perhaps the Lord your God will hear all the words of Rabshakeh, whom the king of the Assyrians his lord sent to reproach the living God and to blaspheme in words which the Lord your God heard, then you shall take up prayer for the remnant that is found.
 
 **2 Kings 19:5**
 
@@ -40304,7 +40304,7 @@ Behold, I am putting a spirit in him, and he will hear a report and return to hi
 
 **2 Kings 19:8**
 
-And Rapsakēs returned and found the king of the Assyrians warring against Lobna, because he heard that he departed from Lachis.
+And Rabshakeh returned and found the king of the Assyrians warring against Lobna, because he heard that he departed from Lachis.
 
 **2 Kings 19:9**
 
@@ -40336,7 +40336,7 @@ And he said, Lord God of Israel, the one sitting upon the cherubim, you are God 
 
 **2 Kings 19:16**
 
-Incline, Lord, your ear and hear. Open, Lord, your eyes and see. And hear the words of Sennachērim which he sent to reproach the living God.
+Incline, Lord, your ear and hear. Open, Lord, your eyes and see. And hear the words of Sennacherib which he sent to reproach the living God.
 
 **2 Kings 19:17**
 
@@ -40352,11 +40352,11 @@ And now, Lord our God, save us from his hand, and all the kingdoms of the earth 
 
 **2 Kings 19:20**
 
-And Isaiah son of Amōs sent to Hezekiah, saying, Thus says the Lord God of the forces, the God of Israel: I heard what you prayed to me concerning Sennachērim king of the Assyrians.
+And Isaiah son of Amoz sent to Hezekiah, saying, Thus says the Lord God of the forces, the God of Israel: I heard what you prayed to me concerning Sennacherib king of the Assyrians.
 
 **2 Kings 19:21**
 
-This is the word which the Lord spoke against him: Virgin daughter of Siōn despised you and mocked you. Daughter Jerusalem shook her head over you.
+This is the word which the Lord spoke against him: Virgin daughter of Zion despised you and mocked you. Daughter Jerusalem shook her head over you.
 
 **2 Kings 19:22**
 
@@ -40396,7 +40396,7 @@ And the remnant of the house of Judah that escaped and was left will again take 
 
 **2 Kings 19:31**
 
-Because from Jerusalem a remnant will go out, and one preserved from Mount Siōn. The zeal of the Lord of forces will do this.
+Because from Jerusalem a remnant will go out, and one preserved from Mount Zion. The zeal of the Lord of forces will do this.
 
 **2 Kings 19:32**
 
@@ -40416,7 +40416,7 @@ And it came to be by night, and an angel of the Lord went out and struck in the 
 
 **2 Kings 19:36**
 
-And Sennachērim king of the Assyrians departed and went and returned and dwelt in Nineuē.
+And Sennacherib king of the Assyrians departed and went and returned and dwelt in Nineuē.
 
 **2 Kings 19:37**
 
@@ -40426,7 +40426,7 @@ And it came to be, while he was bowing in the house of Neserach his god, Adramel
 
 **2 Kings 20:1**
 
-In those days Hezekiah became sick unto death, and Isaiah son of Amōs the prophet entered to him and said to him, Thus says the Lord: Give command to your house, because you are dying and will not live.
+In those days Hezekiah became sick unto death, and Isaiah son of Amoz the prophet entered to him and said to him, Thus says the Lord: Give command to your house, because you are dying and will not live.
 
 **2 Kings 20:2**
 
@@ -40506,13 +40506,13 @@ And the rest of the words of Hezekiah and all his might and what he did, the spr
 
 **2 Kings 20:21**
 
-And Hezekiah slept with his fathers and was buried in the city of David, and Manassēs his son reigned in his place.
+And Hezekiah slept with his fathers and was buried in the city of David, and Manasseh his son reigned in his place.
 
 ### Chapter 21
 
 **2 Kings 21:1**
 
-Manassēs was twelve years old when he became king, and he reigned fifty-five years in Jerusalem, and the name of his mother was Opsiaba.
+Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem, and the name of his mother was Opsiaba.
 
 **2 Kings 21:2**
 
@@ -40536,7 +40536,7 @@ And he made his sons pass through fire and practiced divination and omens and ma
 
 **2 Kings 21:7**
 
-And he set the carved image of the grove in the house, of which the Lord said to David and to Salōmōn his son, In this house and in Jerusalem, which I chose from all the tribes of Israel, I will put my name there forever.
+And he set the carved image of the grove in the house, of which the Lord said to David and to Solomon his son, In this house and in Jerusalem, which I chose from all the tribes of Israel, I will put my name there forever.
 
 **2 Kings 21:8**
 
@@ -40544,7 +40544,7 @@ And I will not again add to shake the foot of Israel from the land which I gave 
 
 **2 Kings 21:9**
 
-And they did not listen, and Manassēs led them astray to do evil in the eyes of the Lord beyond the nations which the Lord destroyed from before the sons of Israel.
+And they did not listen, and Manasseh led them astray to do evil in the eyes of the Lord beyond the nations which the Lord destroyed from before the sons of Israel.
 
 **2 Kings 21:10**
 
@@ -40552,7 +40552,7 @@ And the Lord spoke by the hand of his servants the prophets, saying,
 
 **2 Kings 21:11**
 
-Because Manassēs king of Judah did these evil abominations, beyond all that the Amorrite who was before him did, and even caused Judah to sin with their idols,
+Because Manasseh king of Judah did these evil abominations, beyond all that the Amorrite who was before him did, and even caused Judah to sin with their idols,
 
 **2 Kings 21:12**
 
@@ -40572,23 +40572,23 @@ because they did evil in my eyes and were provoking me from the day I brought ou
 
 **2 Kings 21:16**
 
-And Manassēs also poured out very much innocent blood until he filled Jerusalem from mouth to mouth, besides his sins with which he made Judah sin by doing evil in the eyes of the Lord.
+And Manasseh also poured out very much innocent blood until he filled Jerusalem from mouth to mouth, besides his sins with which he made Judah sin by doing evil in the eyes of the Lord.
 
 **2 Kings 21:17**
 
-And the rest of the words of Manassēs and all that he did and the sin which he sinned, are these not written in the book of the words of the days for the kings of Judah?
+And the rest of the words of Manasseh and all that he did and the sin which he sinned, are these not written in the book of the words of the days for the kings of Judah?
 
 **2 Kings 21:18**
 
-And Manassēs slept with his fathers and was buried in the garden of his house, in the garden of Oza, and Amōn his son reigned in his place.
+And Manasseh slept with his fathers and was buried in the garden of his house, in the garden of Oza, and Amon his son reigned in his place.
 
 **2 Kings 21:19**
 
-Amōn was twenty-two years old when he became king, and he reigned two years in Jerusalem, and the name of his mother was Mesollam daughter of Arōs from Ieteba.
+Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem, and the name of his mother was Mesollam daughter of Arōs from Ieteba.
 
 **2 Kings 21:20**
 
-And he did evil in the eyes of the Lord, as Manassēs his father did.
+And he did evil in the eyes of the Lord, as Manasseh his father did.
 
 **2 Kings 21:21**
 
@@ -40600,25 +40600,25 @@ And he abandoned the Lord God of his fathers and did not walk in the way of the 
 
 **2 Kings 21:23**
 
-And the servants of Amōn conspired against him and put the king to death in his house.
+And the servants of Amon conspired against him and put the king to death in his house.
 
 **2 Kings 21:24**
 
-And all the people of the land struck down all those conspiring against king Amōn, and the people of the land made Iōsias his son king in his place.
+And all the people of the land struck down all those conspiring against king Amon, and the people of the land made Josiah his son king in his place.
 
 **2 Kings 21:25**
 
-And the rest of the words of Amōn, what he did, are these not written in the book of the words of the days for the kings of Judah?
+And the rest of the words of Amon, what he did, are these not written in the book of the words of the days for the kings of Judah?
 
 **2 Kings 21:26**
 
-And they buried him in his tomb in the garden of Oza, and Iōsias his son reigned in his place.
+And they buried him in his tomb in the garden of Oza, and Josiah his son reigned in his place.
 
 ### Chapter 22
 
 **2 Kings 22:1**
 
-Iōsias was eight years old when he became king, and he reigned thirty-one years in Jerusalem, and the name of his mother was Iedida daughter of Edeia from Basourōth.
+Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem, and the name of his mother was Iedida daughter of Edeia from Basourōth.
 
 **2 Kings 22:2**
 
@@ -40626,7 +40626,7 @@ And he did what was right in the eyes of the Lord and walked in every way of Dav
 
 **2 Kings 22:3**
 
-And it came to be in the eighteenth year of king Iōsias, in the eighth month, the king sent Saphphan son of Eseliou son of Mesollam, the scribe of the house of the Lord, saying,
+And it came to be in the eighteenth year of king Josiah, in the eighth month, the king sent Saphphan son of Eseliou son of Mesollam, the scribe of the house of the Lord, saying,
 
 **2 Kings 22:4**
 
@@ -40650,7 +40650,7 @@ And Chelkias the high priest said to Saphphan the scribe, I found a book of the 
 
 **2 Kings 22:9**
 
-And Saphphan brought it to king Iōsias and brought word back to the king and said, Your servants poured out the silver found in the house of the Lord and gave it into the hand of those doing the works, those appointed in the house of the Lord.
+And Saphphan brought it to king Josiah and brought word back to the king and said, Your servants poured out the silver found in the house of the Lord and gave it into the hand of those doing the works, those appointed in the house of the Lord.
 
 **2 Kings 22:10**
 
@@ -40712,7 +40712,7 @@ And the king stood by the pillar and made a covenant before the Lord, to walk af
 
 **2 Kings 23:4**
 
-And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kedrōn and carried their dust to Baithēl.
+And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kedrōn and carried their dust to Bethel.
 
 **2 Kings 23:5**
 
@@ -40744,11 +40744,11 @@ And he put an end to the horses which the kings of Judah gave to the sun at the 
 
 **2 Kings 23:12**
 
-And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manassēs made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kedrōn.
+And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manasseh made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kedrōn.
 
 **2 Kings 23:13**
 
-And the house that was before Jerusalem, to the right of the mount of Mosoath, which Salōmōn king of Israel built to Astartē, abomination of the Sidonians, and to Chamōs, abomination of Moab, and to Molochol, abomination of the sons of Ammon, the king defiled.
+And the house that was before Jerusalem, to the right of the mount of Mosoath, which Solomon king of Israel built to Astartē, abomination of the Sidonians, and to Chamōs, abomination of Moab, and to Molochol, abomination of the sons of Ammon, the king defiled.
 
 **2 Kings 23:14**
 
@@ -40756,15 +40756,15 @@ And he crushed the pillars and destroyed the groves and filled their places with
 
 **2 Kings 23:15**
 
-And indeed the altar in Baithēl, the high place which Jeroboam son of Nabat made, who made Israel sin, indeed that altar and the high place he tore down and crushed its stones and beat them small to dust and burned the grove.
+And indeed the altar in Bethel, the high place which Jeroboam son of Nabat made, who made Israel sin, indeed that altar and the high place he tore down and crushed its stones and beat them small to dust and burned the grove.
 
 **2 Kings 23:16**
 
-And Iōsias turned and saw the tombs there in the city, and he sent and took the bones from the tombs and burned them upon the altar and defiled it, according to the word of the Lord which the man of God spoke.
+And Josiah turned and saw the tombs there in the city, and he sent and took the bones from the tombs and burned them upon the altar and defiled it, according to the word of the Lord which the man of God spoke.
 
 **2 Kings 23:17**
 
-And he said, What is that marker which I see? And the men of the city said to him, It is the man of God who came out from Judah and called out these words which he called out against the altar of Baithēl.
+And he said, What is that marker which I see? And the men of the city said to him, It is the man of God who came out from Judah and called out these words which he called out against the altar of Bethel.
 
 **2 Kings 23:18**
 
@@ -40772,7 +40772,7 @@ And he said, Leave him. Let no man move his bones. And they preserved his bones 
 
 **2 Kings 23:19**
 
-And also all the houses of the high places which were in the cities of Samaria, which the kings of Israel made to provoke the Lord, Iōsias removed and did to them according to all the deeds that he did in Baithēl.
+And also all the houses of the high places which were in the cities of Samaria, which the kings of Israel made to provoke the Lord, Josiah removed and did to them according to all the deeds that he did in Bethel.
 
 **2 Kings 23:20**
 
@@ -40788,11 +40788,11 @@ Because this Passover was not held from the days of the judges who judged Israel
 
 **2 Kings 23:23**
 
-except in the eighteenth year of king Iōsias this Passover was held to the Lord in Jerusalem.
+except in the eighteenth year of king Josiah this Passover was held to the Lord in Jerusalem.
 
 **2 Kings 23:24**
 
-And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Iōsias removed, to establish the words of the law written upon the book which Chelkias the priest found in the house of the Lord.
+And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Josiah removed, to establish the words of the law written upon the book which Chelkias the priest found in the house of the Lord.
 
 **2 Kings 23:25**
 
@@ -40800,7 +40800,7 @@ Like him there was no king before him who turned to the Lord with all his heart 
 
 **2 Kings 23:26**
 
-Only, the Lord did not turn away from the fury of his great anger, with which his anger burned in Judah, because of the provocations with which Manassēs provoked him.
+Only, the Lord did not turn away from the fury of his great anger, with which his anger burned in Judah, because of the provocations with which Manasseh provoked him.
 
 **2 Kings 23:27**
 
@@ -40808,15 +40808,15 @@ And the Lord said, Also Judah I will remove from before my face, as I removed Is
 
 **2 Kings 23:28**
 
-And the rest of the words of Iōsias and all that he did, are these not written in the book of the words of the days for the kings of Judah?
+And the rest of the words of Josiah and all that he did, are these not written in the book of the words of the days for the kings of Judah?
 
 **2 Kings 23:29**
 
-And in his days Pharaoh Nechao king of Egypt went up against the king of the Assyrians by the river Euphrates, and Iōsias went to meet him, and Nechao put him to death in Mageddō when he saw him.
+And in his days Pharaoh Nechao king of Egypt went up against the king of the Assyrians by the river Euphrates, and Josiah went to meet him, and Nechao put him to death in Mageddō when he saw him.
 
 **2 Kings 23:30**
 
-And his servants set him on the chariot, dead from Mageddō, and brought him to Jerusalem and buried him in his tomb in the city of David. And the people of the land took Ioachas son of Iōsias and anointed him and made him king in place of his father.
+And his servants set him on the chariot, dead from Mageddō, and brought him to Jerusalem and buried him in his tomb in the city of David. And the people of the land took Ioachas son of Josiah and anointed him and made him king in place of his father.
 
 **2 Kings 23:31**
 
@@ -40832,7 +40832,7 @@ And Pharaoh Nechao removed him in Deblatha in the land of Emath so that he shoul
 
 **2 Kings 23:34**
 
-And Pharaoh Nechao made Eliakim son of Iōsias king of Judah king in place of Iōsias his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there.
+And Pharaoh Nechao made Eliakim son of Josiah king of Judah king in place of Josiah his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there.
 
 **2 Kings 23:35**
 
@@ -40858,7 +40858,7 @@ And the Lord sent against him raiding bands of the Chaldeans and raiding bands o
 
 **2 Kings 24:3**
 
-Only, it was upon the anger of the Lord in Judah to remove him from before his face, because of the sins of Manassēs according to all that he did,
+Only, it was upon the anger of the Lord in Judah to remove him from before his face, because of the sins of Manasseh according to all that he did,
 
 **2 Kings 24:4**
 
@@ -40898,7 +40898,7 @@ And Ioakim king of Judah went out to the king of Babylon, he and his servants an
 
 **2 Kings 24:13**
 
-And he carried out from there all the treasures of the house of the Lord and the treasures of the king's house and cut in pieces all the golden vessels which Salōmōn king of Israel made in the temple of the Lord, according to the word of the Lord.
+And he carried out from there all the treasures of the house of the Lord and the treasures of the king's house and cut in pieces all the golden vessels which Solomon king of Israel made in the temple of the Lord, according to the word of the Lord.
 
 **2 Kings 24:14**
 
@@ -40948,7 +40948,7 @@ And the city was breached, and all the men of war went out by night by way of th
 
 **2 Kings 25:5**
 
-And the force of the Chaldeans pursued the king and overtook him in the plains of Ierichō, and all his force was scattered from upon him.
+And the force of the Chaldeans pursued the king and overtook him in the plains of Jericho, and all his force was scattered from upon him.
 
 **2 Kings 25:6**
 
@@ -40992,7 +40992,7 @@ And the firepans and the bowls, those of gold and those of silver, the chief gua
 
 **2 Kings 25:16**
 
-The two pillars, the one sea, and the bases which Salōmōn made for the house of the Lord, there was no weight to the bronze of all the vessels.
+The two pillars, the one sea, and the bases which Solomon made for the house of the Lord, there was no weight to the bronze of all the vessels.
 
 **2 Kings 25:17**
 
@@ -41020,7 +41020,7 @@ And the people left in the land of Judah, whom Nebuchadnezzar king of Babylon le
 
 **2 Kings 25:23**
 
-And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Massēphath, even Ismaēl son of Nathaniou and Iōanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
+And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Mizpah, even Ishmael son of Nathaniou and Iōanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
 
 **2 Kings 25:24**
 
@@ -41028,7 +41028,7 @@ And Godolias swore to them and to their men and said to them, Do not fear the se
 
 **2 Kings 25:25**
 
-And it came to be in the seventh month, Ismaēl son of Nathaniou son of Elisama from the seed of the kings, and ten men with him, came and struck Godolias, and he died, and also the Judeans and the Chaldeans who were with him at Massēphath.
+And it came to be in the seventh month, Ishmael son of Nathaniou son of Elisama from the seed of the kings, and ten men with him, came and struck Godolias, and he died, and also the Judeans and the Chaldeans who were with him at Mizpah.
 
 **2 Kings 25:26**
 
@@ -41784,7 +41784,7 @@ They dwelt in Galaad in Basan and in its towns and all the surrounding regions o
 
 **1 Chronicles 5:17**
 
-The enrollment of all of them was in the days of Iōatham king of Judah and in the days of Jeroboam king of Israel.
+The enrollment of all of them was in the days of Jotham king of Judah and in the days of Jeroboam king of Israel.
 
 **1 Chronicles 5:18**
 
@@ -41812,7 +41812,7 @@ And the half tribe of Manassē dwelt in the land from Basan to Baalermon and San
 
 **1 Chronicles 5:24**
 
-And these were chiefs of houses of their fathers: Opher and Isei and Eliēl and Esdriēl and Iermia and Odouia and Iediēl, mighty men of power, men of name, chiefs of houses of their fathers.
+And these were chiefs of houses of their fathers: Opher and Isei and Eliel and Esdriēl and Iermia and Odouia and Iediēl, mighty men of power, men of name, chiefs of houses of their fathers.
 
 **1 Chronicles 5:25**
 
@@ -41828,7 +41828,7 @@ Sons of Levi: Gedson, Kaath, and Merari.
 
 **1 Chronicles 5:28**
 
-And sons of Kaath: Ambram, Issaar, Chebron, and Oziēl.
+And sons of Kaath: Ambram, Issaar, Chebron, and Uzziel.
 
 **1 Chronicles 5:29**
 
@@ -41894,7 +41894,7 @@ And these are names of the sons of Gedson: Lobeni and Semei.
 
 **1 Chronicles 6:3**
 
-Sons of Kaath: Ambram, Issaar, Chebron, and Oziēl.
+Sons of Kaath: Ambram, Issaar, Chebron, and Uzziel.
 
 **1 Chronicles 6:4**
 
@@ -41958,7 +41958,7 @@ And these are those standing, and their sons. From sons of Kaath: Aiman the sing
 
 **1 Chronicles 6:19**
 
-son of Elkana son of Edad son of Eliēl son of Thie,
+son of Elkana son of Edad son of Eliel son of Thie,
 
 **1 Chronicles 6:20**
 
@@ -41982,7 +41982,7 @@ And his brother Asaph stood at his right hand: Asaph son of Barachia son of Sama
 
 **1 Chronicles 6:25**
 
-son of Michaēl son of Maasia son of Melchia,
+son of Michael son of Maasia son of Melchia,
 
 **1 Chronicles 6:26**
 
@@ -42156,11 +42156,11 @@ And to the sons of Issachar: Thola and Phoua and Iasoub and Semeron, four.
 
 **1 Chronicles 7:2**
 
-And sons of Thola: Ozi and Raphaia and Ieriēl and Iemou and Iebasam and Samouēl, chiefs of houses of their fathers, to Thola, mighty men of power according to their generations. Their number in the days of David was twenty-two thousand six hundred.
+And sons of Thola: Ozi and Raphaia and Ieriēl and Iemou and Iebasam and Samuel, chiefs of houses of their fathers, to Thola, mighty men of power according to their generations. Their number in the days of David was twenty-two thousand six hundred.
 
 **1 Chronicles 7:3**
 
-And sons of Ozi: Iezria. And sons of Iezria: Michael and Obdia and Ioēl and Iesia, five, all chiefs.
+And sons of Ozi: Iezria. And sons of Iezria: Michael and Obdia and Joel and Iesia, five, all chiefs.
 
 **1 Chronicles 7:4**
 
@@ -42176,7 +42176,7 @@ Beniamin: Bale and Bachir and Iadiēl, three.
 
 **1 Chronicles 7:7**
 
-And sons of Bale: Asebon and Ozi and Oziēl and Ierimoth and Ouri, five, chiefs of houses of fathers, mighty men of power, and their number was twenty-two thousand thirty-four.
+And sons of Bale: Asebon and Ozi and Uzziel and Ierimoth and Ouri, five, chiefs of houses of fathers, mighty men of power, and their number was twenty-two thousand thirty-four.
 
 **1 Chronicles 7:8**
 
@@ -42260,7 +42260,7 @@ Noum his son, Iēsoue his son.
 
 **1 Chronicles 7:28**
 
-And their possession and their dwelling were Baithēl and its villages, eastward Naaran, westward Gazer and its villages, and Sychem and its villages as far as Gaian and its villages.
+And their possession and their dwelling were Bethel and its villages, eastward Naaran, westward Gazer and its villages, and Sychem and its villages as far as Gaian and its villages.
 
 **1 Chronicles 7:29**
 
@@ -42430,7 +42430,7 @@ And in Gabaon dwelt father of Gabaon, and name of his wife was Maacha.
 
 **1 Chronicles 8:30**
 
-And her firstborn son was Abadōn, and Sour and Kis and Baal and Nēr and Nadab,
+And her firstborn son was Abadōn, and Sour and Kis and Baal and Ner and Nadab,
 
 **1 Chronicles 8:31**
 
@@ -42442,7 +42442,7 @@ And Makalōth begot Semaa, and these also dwelt opposite their brothers in Jerus
 
 **1 Chronicles 8:33**
 
-And Nēr begot Kis, and Kis begot Saul, and Saul begot Ionathan and Melchisoue and Aminadab and Asabal.
+And Ner begot Kis, and Kis begot Saul, and Saul begot Ionathan and Melchisoue and Aminadab and Asabal.
 
 **1 Chronicles 8:34**
 
@@ -42462,7 +42462,7 @@ And Maisa begot Baana, Raphaia his son, Elasa his son, Esel his son.
 
 **1 Chronicles 8:38**
 
-And Esel had six sons, and these are their names: Ezrikam his firstborn, and Ismaēl and Saraias and Abdia and Anan. All these were sons of Esel.
+And Esel had six sons, and these are their names: Ezrikam his firstborn, and Ishmael and Saraias and Abdia and Anan. All these were sons of Esel.
 
 **1 Chronicles 8:39**
 
@@ -42616,7 +42616,7 @@ And in Gabaon dwelt father of Gabaon, Iiiēl, and name of his wife was Moocha.
 
 **1 Chronicles 9:36**
 
-And her firstborn son was Abadōn, and Sir and Kis and Baal and Nēr and Nadab,
+And her firstborn son was Abadōn, and Sir and Kis and Baal and Ner and Nadab,
 
 **1 Chronicles 9:37**
 
@@ -42628,7 +42628,7 @@ And Makelloth begot Samaa. And these also dwelt in Jerusalem in midst of their b
 
 **1 Chronicles 9:39**
 
-And Nēr begot Kis, and Kis begot Saul, and Saul begot Ionathan and Melchisoue and Aminadab and Isbaal.
+And Ner begot Kis, and Kis begot Saul, and Saul begot Ionathan and Melchisoue and Aminadab and Isbaal.
 
 **1 Chronicles 9:40**
 
@@ -42648,7 +42648,7 @@ And Masa begot Baana, Raphaia his son, Eleasa his son, Esel his son.
 
 **1 Chronicles 9:44**
 
-And Esel had six sons, and these were their names: Esdrikam his firstborn, Ismaēl and Saria and Abdia and Anan. These were sons of Esel.
+And Esel had six sons, and these were their names: Esdrikam his firstborn, Ishmael and Saria and Abdia and Anan. These were sons of Esel.
 
 ### Chapter 10
 
@@ -42892,7 +42892,7 @@ Iediēl son of Sameri and Ioazae his brother the Ieasite,
 
 **1 Chronicles 11:46**
 
-Eliēl the Mii, and Iaribi, and Iosia son of Elnaam, and Iethemas the Moabite,
+Eliel the Mii, and Iaribi, and Iosia son of Elnaam, and Iethemas the Moabite,
 
 **1 Chronicles 11:47**
 
@@ -42982,7 +42982,7 @@ And from Manasse some joined David when Philistines came against Saul for battle
 
 **1 Chronicles 12:21**
 
-When he went to Sekelag, there joined him from Manasse: Edna and Iozabath and Iodiēl and Michaēl and Iosabeth and Elimouth and Selathi, heads of thousands of Manasse.
+When he went to Sekelag, there joined him from Manasse: Edna and Iozabath and Iodiēl and Michael and Iosabeth and Elimouth and Selathi, heads of thousands of Manasse.
 
 **1 Chronicles 12:22**
 
@@ -43220,7 +43220,7 @@ from sons of Merari, Asaia chief, and his brothers, two hundred fifty;
 
 **1 Chronicles 15:7**
 
-from sons of Gērsam, Ioēl chief, and his brothers, one hundred fifty;
+from sons of Gērsam, Joel chief, and his brothers, one hundred fifty;
 
 **1 Chronicles 15:8**
 
@@ -43228,15 +43228,15 @@ from sons of Elisaphan, Samaias chief, and his brothers, two hundred;
 
 **1 Chronicles 15:9**
 
-from sons of Chebron, Eliēl chief, and his brothers, eighty;
+from sons of Chebron, Eliel chief, and his brothers, eighty;
 
 **1 Chronicles 15:10**
 
-from sons of Oziēl, Aminadab chief, and his brothers, one hundred twelve.
+from sons of Uzziel, Aminadab chief, and his brothers, one hundred twelve.
 
 **1 Chronicles 15:11**
 
-And David called Sadok and Abiathar the priests, and Levites Ouriēl, Asaia, Ioēl, Samaian, Eliēl, Aminadab,
+And David called Sadok and Abiathar the priests, and Levites Ouriēl, Asaia, Joel, Samaian, Eliel, Aminadab,
 
 **1 Chronicles 15:12**
 
@@ -43260,11 +43260,11 @@ And David said to chiefs of Levites, Station their brothers, singers with instru
 
 **1 Chronicles 15:17**
 
-And Levites stationed Haiman son of Ioēl, and from his brothers Asaph son of Barachia, and from sons of Merari, their brothers, Aithan son of Kisaiou,
+And Levites stationed Haiman son of Joel, and from his brothers Asaph son of Barachia, and from sons of Merari, their brothers, Aithan son of Kisaiou,
 
 **1 Chronicles 15:18**
 
-and with them their brothers of second rank: Zacharias and Oziēl and Semiramoth and Iiēl and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Iiēl and Uzziah, gatekeepers.
+and with them their brothers of second rank: Zacharias and Uzziel and Semiramoth and Iiēl and Ouni and Eliab and Banaia and Maasaia and Mattathia and Eliphalia and Makenia and Abdedom and Iiēl and Uzziah, gatekeepers.
 
 **1 Chronicles 15:19**
 
@@ -43272,7 +43272,7 @@ And singers Haiman, Asaph, and Aithan had bronze cymbals to make sound heard.
 
 **1 Chronicles 15:20**
 
-Zacharias and Oziēl, Semiramoth, Iiēl, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
+Zacharias and Uzziel, Semiramoth, Iiēl, Ouni, Eliab, Masaias, Banaias, with harps on alamoth.
 
 **1 Chronicles 15:21**
 
@@ -43288,7 +43288,7 @@ And Barachia and Ēlkana were gatekeepers of ark.
 
 **1 Chronicles 15:24**
 
-And Sobnia and Iosaphat and Nathanaēl and Amasai and Zacharia and Banai and Eliezer, the priests, were blowing trumpets before ark of God, and Abdedom and Iia were gatekeepers of ark of God.
+And Sobnia and Iosaphat and Nathanael and Amasai and Zacharia and Banai and Eliezer, the priests, were blowing trumpets before ark of God, and Abdedom and Iia were gatekeepers of ark of God.
 
 **1 Chronicles 15:25**
 
@@ -43334,7 +43334,7 @@ Asaph leader, and second to him Zacharias, Iiēl, Semiramoth, Iiēl, Mattathias,
 
 **1 Chronicles 16:6**
 
-and Banaias and Oziēl the priests with trumpets continually before ark of covenant of God.
+and Banaias and Uzziel the priests with trumpets continually before ark of covenant of God.
 
 **1 Chronicles 16:7**
 
@@ -44004,7 +44004,7 @@ And to Parosōm, to Edan and to Semei.
 
 **1 Chronicles 23:8**
 
-Sons of Edan: chief Iiēl, and Zethom, and Ioēl, three.
+Sons of Edan: chief Iiēl, and Zethom, and Joel, three.
 
 **1 Chronicles 23:9**
 
@@ -44020,7 +44020,7 @@ And Ieth was chief and Ziza second; Ioas and Beria did not multiply sons, and th
 
 **1 Chronicles 23:12**
 
-Sons of Kaath: Ambram, Issaar, Chebrōn, Oziēl, four.
+Sons of Kaath: Ambram, Issaar, Hebron, Uzziel, four.
 
 **1 Chronicles 23:13**
 
@@ -44048,11 +44048,11 @@ Sons of Issaar: Salōmōth chief.
 
 **1 Chronicles 23:19**
 
-Sons of Chebrōn: Idoud chief, Amadia second, Oziēl third, Ikemias fourth.
+Sons of Hebron: Idoud chief, Amadia second, Uzziel third, Ikemias fourth.
 
 **1 Chronicles 23:20**
 
-Sons of Oziēl: Michas chief, and Isia second.
+Sons of Uzziel: Michas chief, and Isia second.
 
 **1 Chronicles 23:21**
 
@@ -44126,7 +44126,7 @@ And he divided them by lots, these with those, because they were chiefs of holy 
 
 **1 Chronicles 24:6**
 
-And Samaias son of Nathanaēl, scribe from Levi, wrote them before king and rulers and Sadok priest and Achimelech son of Abiathar and chiefs of father-houses of priests and Levites, one father-house taken for Eleazar and one taken for Ithamar.
+And Samaias son of Nathanael, scribe from Levi, wrote them before king and rulers and Sadok priest and Achimelech son of Abiathar and chiefs of father-houses of priests and Levites, one father-house taken for Eleazar and one taken for Ithamar.
 
 **1 Chronicles 24:7**
 
@@ -44198,7 +44198,7 @@ Sons of Iediou: Amadia second, Iaziēl third, Iokom fourth.
 
 **1 Chronicles 24:24**
 
-Sons of Oziēl: Micha; sons of Micha: Samēr.
+Sons of Uzziel: Micha; sons of Micha: Samēr.
 
 **1 Chronicles 24:25**
 
@@ -44236,7 +44236,7 @@ And king David and rulers of force appointed for works sons of Asaph and Haiman 
 
 **1 Chronicles 25:2**
 
-Sons of Asaph: Zakkhour and Iōsēph and Nathanias and Eraēl, sons of Asaph, under Asaph the prophet, under king.
+Sons of Asaph: Zakkhour and Joseph and Nathanias and Eraēl, sons of Asaph, under Asaph the prophet, under king.
 
 **1 Chronicles 25:3**
 
@@ -44264,7 +44264,7 @@ And they also cast lots for courses, small like great, perfect like learners.
 
 **1 Chronicles 25:9**
 
-And first lot came out for sons of him and brothers of Asaph, to Iōsēph; Godolias second, he and his brothers and sons, twelve.
+And first lot came out for sons of him and brothers of Asaph, to Joseph; Godolias second, he and his brothers and sons, twelve.
 
 **1 Chronicles 25:10**
 
@@ -44370,7 +44370,7 @@ And to Mosollamia, sons: Zacharias firstborn, Idiēl second, Zabadias third, Iet
 
 **1 Chronicles 26:4**
 
-And to Abdedom, sons: Samaias firstborn, Iōzabad second, Iōaa third, Sōchar fourth, Nathanaēl fifth,
+And to Abdedom, sons: Samaias firstborn, Iōzabad second, Iōaa third, Sōchar fourth, Nathanael fifth,
 
 **1 Chronicles 26:5**
 
@@ -44442,11 +44442,11 @@ Sons of Ladan, sons of Gērsōni for Ladan, chiefs of fathers for Ladan the Gēr
 
 **1 Chronicles 26:22**
 
-And sons of Iiēl, Zethom and Ioēl his brother, were over treasuries of house of Lord.
+And sons of Iiēl, Zethom and Joel his brother, were over treasuries of house of Lord.
 
 **1 Chronicles 26:23**
 
-For Ambram and Issaar, Chebrōn and Oziēl.
+For Ambram and Issaar, Hebron and Uzziel.
 
 **1 Chronicles 26:24**
 
@@ -44466,7 +44466,7 @@ which he took from wars and from spoils, and from them he dedicated, to avoid de
 
 **1 Chronicles 26:28**
 
-And over all holy things which Samuel prophet and Saul son of Kis and Abennēr son of Nēr and Joab son of Sarouia dedicated, all dedicated things by hand of Salōmōth and his brothers.
+And over all holy things which Samuel prophet and Saul son of Kis and Abner son of Ner and Joab son of Sarouia dedicated, all dedicated things by hand of Salōmōth and his brothers.
 
 **1 Chronicles 26:29**
 
@@ -44512,7 +44512,7 @@ This Banaias was mightier than thirty and over thirty, and over his division was
 
 **1 Chronicles 27:7**
 
-Fourth for fourth month was Asaēl brother of Joab and Zabadias his son and brothers, and over his division twenty-four thousand.
+Fourth for fourth month was Asahel brother of Joab and Zabadias his son and brothers, and over his division twenty-four thousand.
 
 **1 Chronicles 27:8**
 
@@ -44556,7 +44556,7 @@ for Levi, Asabias son of Kamouēl; for Aaron, Sadok;
 
 **1 Chronicles 27:18**
 
-for Judah, Eliab from brothers of David; for Issachar, Ambri son of Michaēl;
+for Judah, Eliab from brothers of David; for Issachar, Ambri son of Michael;
 
 **1 Chronicles 27:19**
 
@@ -44564,11 +44564,11 @@ for Zabulon, Samaias son of Abdiou; for Nephthali, Ierimōth son of Esriēl;
 
 **1 Chronicles 27:20**
 
-for Ephraim, Ōsē son of Oziou; for half tribe of Manasse, Ioēl son of Phadaia;
+for Ephraim, Ōsē son of Oziou; for half tribe of Manasse, Joel son of Phadaia;
 
 **1 Chronicles 27:21**
 
-for half tribe of Manasse in Galaad, Iaddai son of Zabdiou; for sons of Beniamin, Asiēl son of Abennēr;
+for half tribe of Manasse in Galaad, Iaddai son of Zabdiou; for sons of Beniamin, Asiēl son of Abner;
 
 **1 Chronicles 27:22**
 
@@ -45772,7 +45772,7 @@ and Adōraim and Lachis and Azēka,
 
 **2 Chronicles 11:10**
 
-and Saraa and Aialōn and Chebrōn, which are of Judah and Beniamin, fortified cities.
+and Saraa and Aialōn and Hebron, which are of Judah and Beniamin, fortified cities.
 
 **2 Chronicles 11:11**
 
@@ -45812,11 +45812,11 @@ And she bore him sons, Iaous and Samarian and Roōllam.
 
 **2 Chronicles 11:20**
 
-And after these things he took for himself Maacha daughter of Abessalōm, and she bore him Abia and Ieththi and Ziza and Emmōth.
+And after these things he took for himself Maacha daughter of Absalom, and she bore him Abia and Ieththi and Ziza and Emmōth.
 
 **2 Chronicles 11:21**
 
-And Rehoboam loved Maacha daughter of Abessalōm above all his wives and concubines, because he had eighteen wives and thirty concubines, and he fathered twenty-eight sons and sixty daughters.
+And Rehoboam loved Maacha daughter of Absalom above all his wives and concubines, because he had eighteen wives and thirty concubines, and he fathered twenty-eight sons and sixty daughters.
 
 **2 Chronicles 11:22**
 
@@ -45968,7 +45968,7 @@ And sons of Israel were humbled in that day, and sons of Judah prevailed, becaus
 
 **2 Chronicles 13:19**
 
-And Abia pursued after Jeroboam and seized from him cities: Baithēl and its villages, and Isana and its villages, and Ephrōn and its villages.
+And Abia pursued after Jeroboam and seized from him cities: Bethel and its villages, and Isana and its villages, and Ephrōn and its villages.
 
 **2 Chronicles 13:20**
 
@@ -46184,7 +46184,7 @@ And they buried him in tomb which he dug for himself in City of David and laid h
 
 **2 Chronicles 17:1**
 
-And Iōsaphat his son reigned in his place, and Iōsaphat prevailed over Israel.
+And Jehoshaphat his son reigned in his place, and Jehoshaphat prevailed over Israel.
 
 **2 Chronicles 17:2**
 
@@ -46192,7 +46192,7 @@ And he put force in all fortified cities of Judah and set rulers in all cities o
 
 **2 Chronicles 17:3**
 
-And Lord was with Iōsaphat, because he walked in first ways of his father and did not seek idols,
+And Lord was with Jehoshaphat, because he walked in first ways of his father and did not seek idols,
 
 **2 Chronicles 17:4**
 
@@ -46200,7 +46200,7 @@ but sought Lord God of his father and walked in commandments of his father and n
 
 **2 Chronicles 17:5**
 
-And Lord directed kingdom in his hand, and all Judah gave gifts to Iōsaphat, and he had much wealth and glory.
+And Lord directed kingdom in his hand, and all Judah gave gifts to Jehoshaphat, and he had much wealth and glory.
 
 **2 Chronicles 17:6**
 
@@ -46208,7 +46208,7 @@ And his heart was lifted high in way of Lord, and he further removed high places
 
 **2 Chronicles 17:7**
 
-And in third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zacharian and Nathanaēl and Michaian, to teach in cities of Judah,
+And in third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zacharian and Nathanael and Michaian, to teach in cities of Judah,
 
 **2 Chronicles 17:8**
 
@@ -46220,15 +46220,15 @@ And they were teaching in Judah, and with them was book of law of Lord, and they
 
 **2 Chronicles 17:10**
 
-And terror of Lord came upon all kingdoms of earth around Judah, and they did not war against Iōsaphat.
+And terror of Lord came upon all kingdoms of earth around Judah, and they did not war against Jehoshaphat.
 
 **2 Chronicles 17:11**
 
-And from Philistines they were bringing to Iōsaphat gifts and silver and tribute, and Arabs brought him seven thousand seven hundred rams of sheep.
+And from Philistines they were bringing to Jehoshaphat gifts and silver and tribute, and Arabs brought him seven thousand seven hundred rams of sheep.
 
 **2 Chronicles 17:12**
 
-And Iōsaphat was becoming greater and greater on high, and he built dwellings in Judah and fortified cities.
+And Jehoshaphat was becoming greater and greater on high, and he built dwellings in Judah and fortified cities.
 
 **2 Chronicles 17:13**
 
@@ -46262,31 +46262,31 @@ These were those ministering to king, besides those whom king placed in fortifie
 
 **2 Chronicles 18:1**
 
-And Iōsaphat had still much wealth and glory, and he joined by marriage with house of Ahab.
+And Jehoshaphat had still much wealth and glory, and he joined by marriage with house of Ahab.
 
 **2 Chronicles 18:2**
 
-And after end of years he went down to Ahab in Samareia, and Ahab sacrificed to him many sheep and calves and to people with him, and deceived him to go up with him to Ramōth of Galaaditis.
+And after end of years he went down to Ahab in Samareia, and Ahab sacrificed to him many sheep and calves and to people with him, and deceived him to go up with him to Ramoth of Galaaditis.
 
 **2 Chronicles 18:3**
 
-And Ahab king of Israel said to Iōsaphat king of Judah, Will you go with me to Ramōth of Galaaditis? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
+And Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth of Galaaditis? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
 
 **2 Chronicles 18:4**
 
-And Iōsaphat said to king of Israel, Seek now today Lord.
+And Jehoshaphat said to king of Israel, Seek now today Lord.
 
 **2 Chronicles 18:5**
 
-And king of Israel gathered prophets, four hundred men, and said to them, Shall I go to Ramōth Galaad for battle, or shall I hold back? And they said, Go up, and God will give into hands of king.
+And king of Israel gathered prophets, four hundred men, and said to them, Shall I go to Ramoth Galaad for battle, or shall I hold back? And they said, Go up, and God will give into hands of king.
 
 **2 Chronicles 18:6**
 
-And Iōsaphat said, Is there not here still prophet of Lord, and shall we seek through him?
+And Jehoshaphat said, Is there not here still prophet of Lord, and shall we seek through him?
 
 **2 Chronicles 18:7**
 
-And king of Israel said to Iōsaphat, There is still one man through whom to seek Lord, and I hated him, because he is not prophesying good concerning me, but all his days evil. This is Michaias son of Iemla. And Iōsaphat said, Let not king speak thus.
+And king of Israel said to Jehoshaphat, There is still one man through whom to seek Lord, and I hated him, because he is not prophesying good concerning me, but all his days evil. This is Michaias son of Iemla. And Jehoshaphat said, Let not king speak thus.
 
 **2 Chronicles 18:8**
 
@@ -46294,7 +46294,7 @@ And king of Israel called one eunuch and said, Quickly, Michaias son of Iemla.
 
 **2 Chronicles 18:9**
 
-And king of Israel and Iōsaphat king of Judah were sitting each on his throne, clothed in robes, sitting in broad place of gate of Samareia, and all prophets were prophesying before them.
+And king of Israel and Jehoshaphat king of Judah were sitting each on his throne, clothed in robes, sitting in broad place of gate of Samareia, and all prophets were prophesying before them.
 
 **2 Chronicles 18:10**
 
@@ -46302,7 +46302,7 @@ And Sedekias son of Chanaana made for himself iron horns and said, Thus says Lor
 
 **2 Chronicles 18:11**
 
-And all prophets were prophesying thus, saying, Go up to Ramōth Galaad and prosper, and Lord will give into hands of king.
+And all prophets were prophesying thus, saying, Go up to Ramoth Galaad and prosper, and Lord will give into hands of king.
 
 **2 Chronicles 18:12**
 
@@ -46314,7 +46314,7 @@ And Michaias said, Lord lives, whatever God says to me, this I will speak.
 
 **2 Chronicles 18:14**
 
-And he came to king, and king said to him, Michaias, shall I go to Ramōth Galaad for battle, or shall I hold back? And he said, Go up, and you will prosper, and they shall be given into your hands.
+And he came to king, and king said to him, Michaias, shall I go to Ramoth Galaad for battle, or shall I hold back? And he said, Go up, and you will prosper, and they shall be given into your hands.
 
 **2 Chronicles 18:15**
 
@@ -46326,7 +46326,7 @@ And he said, I saw Israel scattered on mountains like sheep which have no shephe
 
 **2 Chronicles 18:17**
 
-And king of Israel said to Iōsaphat, Did I not say to you that he would not prophesy good concerning me, but evil?
+And king of Israel said to Jehoshaphat, Did I not say to you that he would not prophesy good concerning me, but evil?
 
 **2 Chronicles 18:18**
 
@@ -46334,7 +46334,7 @@ And he said, Not so. Hear word of Lord: I saw Lord sitting on his throne, and al
 
 **2 Chronicles 18:19**
 
-And Lord said, Who will deceive Ahab king of Israel, and he will go up and fall in Ramōth Galaad? And one said thus and another said thus.
+And Lord said, Who will deceive Ahab king of Israel, and he will go up and fall in Ramoth Galaad? And one said thus and another said thus.
 
 **2 Chronicles 18:20**
 
@@ -46370,11 +46370,11 @@ And Michaias said, If you indeed return in peace, Lord did not speak in me. Hear
 
 **2 Chronicles 18:28**
 
-And king of Israel and Iōsaphat king of Judah went up to Ramōth Galaad.
+And king of Israel and Jehoshaphat king of Judah went up to Ramoth Galaad.
 
 **2 Chronicles 18:29**
 
-And king of Israel said to Iōsaphat, I will disguise myself and enter into battle, and you put on my clothing. And king of Israel disguised himself and entered into battle.
+And king of Israel said to Jehoshaphat, I will disguise myself and enter into battle, and you put on my clothing. And king of Israel disguised himself and entered into battle.
 
 **2 Chronicles 18:30**
 
@@ -46382,7 +46382,7 @@ And king of Syria commanded chiefs of chariots with him, saying, Do not fight sm
 
 **2 Chronicles 18:31**
 
-And it came to pass when chiefs of chariots saw Iōsaphat, they said, It is king of Israel. And they surrounded him to fight, and Iōsaphat cried out, and Lord saved him, and God turned them away from him.
+And it came to pass when chiefs of chariots saw Jehoshaphat, they said, It is king of Israel. And they surrounded him to fight, and Jehoshaphat cried out, and Lord saved him, and God turned them away from him.
 
 **2 Chronicles 18:32**
 
@@ -46400,11 +46400,11 @@ And battle turned in that day, and king of Israel was standing on chariot until 
 
 **2 Chronicles 19:1**
 
-And Iōsaphat king of Judah returned to his house in peace, to Jerusalem.
+And Jehoshaphat king of Judah returned to his house in peace, to Jerusalem.
 
 **2 Chronicles 19:2**
 
-And Iou son of Anani the prophet went out to meet him and said to him, King Iōsaphat, do you help sinner, or make friendship with one hated by Lord? Because of this wrath came upon you from Lord.
+And Iou son of Anani the prophet went out to meet him and said to him, King Jehoshaphat, do you help sinner, or make friendship with one hated by Lord? Because of this wrath came upon you from Lord.
 
 **2 Chronicles 19:3**
 
@@ -46412,7 +46412,7 @@ Yet good matters were found in you, because you removed groves from land of Juda
 
 **2 Chronicles 19:4**
 
-And Iōsaphat dwelt in Jerusalem and again went out to people from Bersabee to mountain of Ephraim and turned them back to Lord God of their fathers.
+And Jehoshaphat dwelt in Jerusalem and again went out to people from Bersabee to mountain of Ephraim and turned them back to Lord God of their fathers.
 
 **2 Chronicles 19:5**
 
@@ -46428,7 +46428,7 @@ And now let fear of Lord be upon you, and keep and do, because with Lord our God
 
 **2 Chronicles 19:8**
 
-And also in Jerusalem Iōsaphat appointed from priests and Levites and patriarchs of Israel for judgment of Lord and to judge those dwelling in Jerusalem.
+And also in Jerusalem Jehoshaphat appointed from priests and Levites and patriarchs of Israel for judgment of Lord and to judge those dwelling in Jerusalem.
 
 **2 Chronicles 19:9**
 
@@ -46440,21 +46440,21 @@ Every case that comes upon you from your brothers dwelling in their cities, betw
 
 **2 Chronicles 19:11**
 
-And behold, Amarias the priest is leader over you for every matter of Lord, and Zabdias son of Ismaēl is leader for house of Judah for every matter of king, and scribes and Levites are before you. Be strong and do, and Lord shall be with good man.
+And behold, Amarias the priest is leader over you for every matter of Lord, and Zabdias son of Ishmael is leader for house of Judah for every matter of king, and scribes and Levites are before you. Be strong and do, and Lord shall be with good man.
 
 ### Chapter 20
 
 **2 Chronicles 20:1**
 
-And after these things sons of Moab and sons of Ammon and with them from Minaeans came against Iōsaphat for battle.
+And after these things sons of Moab and sons of Ammon and with them from Minaeans came against Jehoshaphat for battle.
 
 **2 Chronicles 20:2**
 
-And they came and reported to Iōsaphat, saying, Great multitude has come against you from beyond sea, from Syria, and behold, they are in Asasanthamar, this is Engaddi.
+And they came and reported to Jehoshaphat, saying, Great multitude has come against you from beyond sea, from Syria, and behold, they are in Asasanthamar, this is Engaddi.
 
 **2 Chronicles 20:3**
 
-And he feared, and Iōsaphat set his face to seek Lord and proclaimed fast in all Judah.
+And he feared, and Jehoshaphat set his face to seek Lord and proclaimed fast in all Judah.
 
 **2 Chronicles 20:4**
 
@@ -46462,7 +46462,7 @@ And Judah gathered to seek Lord, and from all cities of Judah they came to seek 
 
 **2 Chronicles 20:5**
 
-And Iōsaphat stood in assembly of Judah in Jerusalem, in house of Lord, before new court,
+And Jehoshaphat stood in assembly of Judah in Jerusalem, in house of Lord, before new court,
 
 **2 Chronicles 20:6**
 
@@ -46482,7 +46482,7 @@ If evils come upon us, sword, judgment, death, famine, we shall stand before thi
 
 **2 Chronicles 20:10**
 
-And now, behold, sons of Ammon and Moab and mount Sēir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
+And now, behold, sons of Ammon and Moab and mount Seir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
 
 **2 Chronicles 20:11**
 
@@ -46498,11 +46498,11 @@ And all Judah stood before Lord, and their little children and wives.
 
 **2 Chronicles 20:14**
 
-And upon Oziēl son of Zachariou, from sons of Banaiou, from sons of Elēēl, from Mathaniou the Levite, from sons of Asaph, spirit of Lord came in assembly,
+And upon Uzziel son of Zachariou, from sons of Banaiou, from sons of Elēēl, from Mathaniou the Levite, from sons of Asaph, spirit of Lord came in assembly,
 
 **2 Chronicles 20:15**
 
-and he said, Hear, all Judah and inhabitants of Jerusalem and king Iōsaphat. Thus says Lord to you: Do not fear and do not be dismayed before this great multitude, because battle is not yours but God’s.
+and he said, Hear, all Judah and inhabitants of Jerusalem and king Jehoshaphat. Thus says Lord to you: Do not fear and do not be dismayed before this great multitude, because battle is not yours but God’s.
 
 **2 Chronicles 20:16**
 
@@ -46514,7 +46514,7 @@ It is not for you to fight in this. Stand and see salvation of Lord with you, Ju
 
 **2 Chronicles 20:18**
 
-And Iōsaphat bowed with face to ground, and all Judah and inhabitants of Jerusalem fell before Lord to worship Lord.
+And Jehoshaphat bowed with face to ground, and all Judah and inhabitants of Jerusalem fell before Lord to worship Lord.
 
 **2 Chronicles 20:19**
 
@@ -46522,7 +46522,7 @@ And Levites from sons of Kaath and from sons of Korē rose to praise Lord God of
 
 **2 Chronicles 20:20**
 
-And they rose early in morning and went out into wilderness of Thekōe, and as they went out, Iōsaphat stood and cried, saying, Hear me, Judah and inhabitants of Jerusalem. Trust in Lord your God and you shall be trusted; trust in his prophet and you shall prosper.
+And they rose early in morning and went out into wilderness of Thekōe, and as they went out, Jehoshaphat stood and cried, saying, Hear me, Judah and inhabitants of Jerusalem. Trust in Lord your God and you shall be trusted; trust in his prophet and you shall prosper.
 
 **2 Chronicles 20:21**
 
@@ -46530,11 +46530,11 @@ And he took counsel with people and set singers and praisers to give thanks and 
 
 **2 Chronicles 20:22**
 
-And when he began praise of thanksgiving, Lord made sons of Ammon fight against Moab and mount Sēir, those coming out against Judah, and they were routed.
+And when he began praise of thanksgiving, Lord made sons of Ammon fight against Moab and mount Seir, those coming out against Judah, and they were routed.
 
 **2 Chronicles 20:23**
 
-And sons of Ammon and Moab rose against inhabitants of mount Sēir to destroy and wipe out, and when they finished inhabitants of Sēir, they rose against one another for destruction.
+And sons of Ammon and Moab rose against inhabitants of mount Seir to destroy and wipe out, and when they finished inhabitants of Seir, they rose against one another for destruction.
 
 **2 Chronicles 20:24**
 
@@ -46542,7 +46542,7 @@ And Judah came to watchtower of wilderness and looked, and saw multitude, and be
 
 **2 Chronicles 20:25**
 
-And Iōsaphat and his people came to plunder their spoils and found many cattle and baggage and spoils and desirable vessels, and they plundered for themselves, and it was three days they plundered spoils, because it was much.
+And Jehoshaphat and his people came to plunder their spoils and found many cattle and baggage and spoils and desirable vessels, and they plundered for themselves, and it was three days they plundered spoils, because it was much.
 
 **2 Chronicles 20:26**
 
@@ -46550,7 +46550,7 @@ And on fourth day they were gathered to valley of blessing, because there they b
 
 **2 Chronicles 20:27**
 
-And every man of Judah returned to Jerusalem, and Iōsaphat leading them, with great gladness, because Lord gladdened them from their enemies.
+And every man of Judah returned to Jerusalem, and Jehoshaphat leading them, with great gladness, because Lord gladdened them from their enemies.
 
 **2 Chronicles 20:28**
 
@@ -46562,11 +46562,11 @@ And terror of Lord came upon all kingdoms of earth when they heard that Lord fou
 
 **2 Chronicles 20:30**
 
-And kingdom of Iōsaphat was at peace, and his God gave him rest all around.
+And kingdom of Jehoshaphat was at peace, and his God gave him rest all around.
 
 **2 Chronicles 20:31**
 
-And Iōsaphat reigned over Judah, being thirty-five years old when he reigned, and he reigned twenty-five years in Jerusalem, and his mother’s name was Azouba daughter of Sali.
+And Jehoshaphat reigned over Judah, being thirty-five years old when he reigned, and he reigned twenty-five years in Jerusalem, and his mother’s name was Azouba daughter of Sali.
 
 **2 Chronicles 20:32**
 
@@ -46578,11 +46578,11 @@ But high places still existed, and people still did not direct heart toward Lord
 
 **2 Chronicles 20:34**
 
-And rest of matters of Iōsaphat, first and last, behold, written in words of Iou son of Anani, who wrote book of kings of Israel.
+And rest of matters of Jehoshaphat, first and last, behold, written in words of Iou son of Anani, who wrote book of kings of Israel.
 
 **2 Chronicles 20:35**
 
-And after these things Iōsaphat king of Judah joined himself with Ochozias king of Israel, and he acted lawlessly.
+And after these things Jehoshaphat king of Judah joined himself with Ochozias king of Israel, and he acted lawlessly.
 
 **2 Chronicles 20:36**
 
@@ -46590,17 +46590,17 @@ In making and going with him to make ships to go to Tharsis, he made ships in Ga
 
 **2 Chronicles 20:37**
 
-And Eliezer son of Dōdia from Marisa prophesied against Iōsaphat, saying, Because you made friendship with Ochozias, Lord broke your work, and your ships were wrecked and were not able to go to Tharsis.
+And Eliezer son of Dōdia from Marisa prophesied against Jehoshaphat, saying, Because you made friendship with Ochozias, Lord broke your work, and your ships were wrecked and were not able to go to Tharsis.
 
 ### Chapter 21
 
 **2 Chronicles 21:1**
 
-And Iōsaphat slept with his fathers and was buried beside his fathers in City of David, and Iōram his son reigned in his place.
+And Jehoshaphat slept with his fathers and was buried beside his fathers in City of David, and Iōram his son reigned in his place.
 
 **2 Chronicles 21:2**
 
-And he had brothers, sons of Iōsaphat: Azarias and Iiēl and Zacharias and Azarias and Michaēl and Saphatias; all these were sons of Iōsaphat king of Judah.
+And he had brothers, sons of Jehoshaphat: Azarias and Iiēl and Zacharias and Azarias and Michael and Saphatias; all these were sons of Jehoshaphat king of Judah.
 
 **2 Chronicles 21:3**
 
@@ -46624,15 +46624,15 @@ And Lord did not want to destroy house of David because of covenant which he mad
 
 **2 Chronicles 21:8**
 
-In those days Edōm rebelled from Judah and made king over themselves.
+In those days Edom rebelled from Judah and made king over themselves.
 
 **2 Chronicles 21:9**
 
-And Iōram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edōm encircling him and commanders of chariots, and people fled to their tents.
+And Iōram went with rulers and all cavalry with him, and it came to pass, he rose by night and struck Edom encircling him and commanders of chariots, and people fled to their tents.
 
 **2 Chronicles 21:10**
 
-And Edōm rebelled from Judah until this day. Then Lobna rebelled at that time from his hand, because he forsook Lord God of his fathers.
+And Edom rebelled from Judah until this day. Then Lobna rebelled at that time from his hand, because he forsook Lord God of his fathers.
 
 **2 Chronicles 21:11**
 
@@ -46640,7 +46640,7 @@ And he too made high places in cities of Judah and prostituted inhabitants of Je
 
 **2 Chronicles 21:12**
 
-And writing came to him from Ēlias the prophet, saying, Thus says Lord God of David your father: Because you did not walk in way of Iōsaphat your father and in ways of Asa king of Judah,
+And writing came to him from Ēlias the prophet, saying, Thus says Lord God of David your father: Because you did not walk in way of Jehoshaphat your father and in ways of Asa king of Judah,
 
 **2 Chronicles 21:13**
 
@@ -46710,7 +46710,7 @@ And it came to pass when Iou avenged house of Ahab and found rulers of Judah and
 
 **2 Chronicles 22:9**
 
-And he told them to seek Ochozias, and they seized him while he was being healed in Samareia and brought him to Iou, and he killed him and buried him, because they said, He is son of Iōsaphat who sought Lord with whole heart. And there was none in house of Ochozias strong enough for kingdom.
+And he told them to seek Ochozias, and they seized him while he was being healed in Samareia and brought him to Iou, and he killed him and buried him, because they said, He is son of Jehoshaphat who sought Lord with whole heart. And there was none in house of Ochozias strong enough for kingdom.
 
 **2 Chronicles 22:10**
 
@@ -46728,7 +46728,7 @@ And he was with her in house of God, hidden six years, and Gotholia reigned over
 
 **2 Chronicles 23:1**
 
-And in seventh year Iōdae strengthened himself and took the centurions, Azarian son of Iōram and Ismaēl son of Iōanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+And in seventh year Iōdae strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Iōanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
 
 **2 Chronicles 23:2**
 
@@ -46964,7 +46964,7 @@ And Amaziah separated force that came to him from Ephraim to go to their place, 
 
 **2 Chronicles 25:11**
 
-And Amaziah strengthened himself and took his people and went to valley of salt pits and struck there ten thousand sons of Sēir.
+And Amaziah strengthened himself and took his people and went to valley of salt pits and struck there ten thousand sons of Seir.
 
 **2 Chronicles 25:12**
 
@@ -46976,7 +46976,7 @@ And sons of force whom Amaziah sent back from not going with him to war attacked
 
 **2 Chronicles 25:14**
 
-And it came to pass after Amaziah came from striking Idoumaia, he brought to them gods of sons of Sēir and set them up for himself as gods, and bowed before them and burned sacrifice to them.
+And it came to pass after Amaziah came from striking Idoumaia, he brought to them gods of sons of Seir and set them up for himself as gods, and bowed before them and burned sacrifice to them.
 
 **2 Chronicles 25:15**
 
@@ -47118,7 +47118,7 @@ And chief priest and priests turned to him, and behold, he was leprous in forehe
 
 **2 Chronicles 26:21**
 
-And Uzziah the king was leprous until day of his death, and as leper he sat in house Aphphousōth, because he was cut off from house of Lord, and Iōatham his son was over kingdom, judging people of land.
+And Uzziah the king was leprous until day of his death, and as leper he sat in house Aphphousōth, because he was cut off from house of Lord, and Jotham his son was over kingdom, judging people of land.
 
 **2 Chronicles 26:22**
 
@@ -47126,13 +47126,13 @@ And rest of matters of Oziou, first and last, were written by Iēssiou the proph
 
 **2 Chronicles 26:23**
 
-And Uzziah slept with his fathers, and they buried him with his fathers in field of burial of kings, because they said he is leprous, and Iōatham his son reigned in his place.
+And Uzziah slept with his fathers, and they buried him with his fathers in field of burial of kings, because they said he is leprous, and Jotham his son reigned in his place.
 
 ### Chapter 27
 
 **2 Chronicles 27:1**
 
-Iōatham was twenty-five years old when he reigned, and sixteen years he reigned in Jerusalem, and name of his mother was Ierousa daughter of Sadok.
+Jotham was twenty-five years old when he reigned, and sixteen years he reigned in Jerusalem, and name of his mother was Ierousa daughter of Sadok.
 
 **2 Chronicles 27:2**
 
@@ -47152,15 +47152,15 @@ He fought against king of sons of Ammon and prevailed over him, and sons of Ammo
 
 **2 Chronicles 27:6**
 
-And Iōatham grew strong, because he prepared his ways before Lord his God.
+And Jotham grew strong, because he prepared his ways before Lord his God.
 
 **2 Chronicles 27:7**
 
-And rest of matters of Iōatham and war and deeds of him, behold, written in book of kings of Judah and Israel.
+And rest of matters of Jotham and war and deeds of him, behold, written in book of kings of Judah and Israel.
 
 **2 Chronicles 27:9**
 
-And Iōatham slept with his fathers and was buried in City of David, and Ahaz his son reigned in his place.
+And Jotham slept with his fathers and was buried in City of David, and Ahaz his son reigned in his place.
 
 ### Chapter 28
 
@@ -47320,7 +47320,7 @@ And now do not fail, because Lord chose in you to stand before him to minister a
 
 **2 Chronicles 29:12**
 
-And Levites rose: Maath son of Amasi and Ioēl son of Azariou from sons of Kaath, and from sons of Merari, Kis son of Abdi and Azarias son of Iallēl, and from sons of Gedsōni, Iōa son of Zemmath and Iōdan son of Iōacha,
+And Levites rose: Maath son of Amasi and Joel son of Azariou from sons of Kaath, and from sons of Merari, Kis son of Abdi and Azarias son of Iallēl, and from sons of Gedsōni, Iōa son of Zemmath and Iōdan son of Iōacha,
 
 **2 Chronicles 29:13**
 
@@ -47328,7 +47328,7 @@ and from sons of Elisaphan, Sambri and Iiēl, and from sons of Asaph, Zacharias 
 
 **2 Chronicles 29:14**
 
-and from sons of Haiman, Iiēl and Semei, and from sons of Idithōn, Samaias and Oziēl.
+and from sons of Haiman, Iiēl and Semei, and from sons of Idithōn, Samaias and Uzziel.
 
 **2 Chronicles 29:15**
 
@@ -47580,7 +47580,7 @@ And they brought there firstfruits and tithes in faithfulness, and over them ove
 
 **2 Chronicles 31:13**
 
-And Iiēl and Ozazias and Naeth and Asaēl and Ierimōth and Iōzabath and Eliēl and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
+And Iiēl and Ozazias and Naeth and Asahel and Ierimōth and Iōzabath and Eliel and Samachia and Maath and Banaias and his sons were set under Chōneniou and Semei his brother, as king Hezekiah and Azarias leader of house of Lord commanded.
 
 **2 Chronicles 31:14**
 
@@ -47618,11 +47618,11 @@ And in every work which he began in service in house of Lord and in law and in o
 
 **2 Chronicles 32:1**
 
-And after these words and this faithfulness, Sennachērim king of Assyrians came, and he came against Judah and encamped against fortified cities and said to seize them.
+And after these words and this faithfulness, Sennacherib king of Assyrians came, and he came against Judah and encamped against fortified cities and said to seize them.
 
 **2 Chronicles 32:2**
 
-And Hezekiah saw that Sennachērim had come and that his face was set to fight against Jerusalem.
+And Hezekiah saw that Sennacherib had come and that his face was set to fight against Jerusalem.
 
 **2 Chronicles 32:3**
 
@@ -47650,11 +47650,11 @@ With him fleshly arms, but with us Lord our God, to save and to fight our battle
 
 **2 Chronicles 32:9**
 
-And after these things Sennachērim king of Assyrians sent his servants to Jerusalem, while he himself was at Lachis and all force with him, and he sent to Hezekiah king of Judah and to all Judah in Jerusalem, saying,
+And after these things Sennacherib king of Assyrians sent his servants to Jerusalem, while he himself was at Lachis and all force with him, and he sent to Hezekiah king of Judah and to all Judah in Jerusalem, saying,
 
 **2 Chronicles 32:10**
 
-Thus says Sennachērim king of Assyrians: Upon what do you trust and remain in siege in Jerusalem?
+Thus says Sennacherib king of Assyrians: Upon what do you trust and remain in siege in Jerusalem?
 
 **2 Chronicles 32:11**
 
@@ -47694,7 +47694,7 @@ And he spoke against God of Jerusalem as also against gods of peoples of earth, 
 
 **2 Chronicles 32:20**
 
-And Hezekiah king and Isaiah son of Amōs prophet prayed about these things and cried out to heaven.
+And Hezekiah king and Isaiah son of Amoz prophet prayed about these things and cried out to heaven.
 
 **2 Chronicles 32:21**
 
@@ -47702,7 +47702,7 @@ And Lord sent angel and crushed every mighty warrior and ruler and commander in 
 
 **2 Chronicles 32:22**
 
-And Lord saved Hezekiah and those dwelling in Jerusalem from hand of Sennachērim king of Assour and from hand of all, and gave them rest round about.
+And Lord saved Hezekiah and those dwelling in Jerusalem from hand of Sennacherib king of Assour and from hand of all, and gave them rest round about.
 
 **2 Chronicles 32:23**
 
@@ -47742,17 +47742,17 @@ And so, with ambassadors of rulers from Babylōnos who had been sent to him to i
 
 **2 Chronicles 32:32**
 
-And rest of words of Hezekiah and his mercy, behold, written in prophecy of Isaiah son of Amōs the prophet and in book of kings of Judah and Israel.
+And rest of words of Hezekiah and his mercy, behold, written in prophecy of Isaiah son of Amoz the prophet and in book of kings of Judah and Israel.
 
 **2 Chronicles 32:33**
 
-And Hezekiah slept with his fathers, and they buried him in ascent of tombs of sons of David, and all Judah and those dwelling in Jerusalem gave him glory and honor in his death, and Manassēs his son reigned in his place.
+And Hezekiah slept with his fathers, and they buried him in ascent of tombs of sons of David, and all Judah and those dwelling in Jerusalem gave him glory and honor in his death, and Manasseh his son reigned in his place.
 
 ### Chapter 33
 
 **2 Chronicles 33:1**
 
-Manassēs was twelve years old when he reigned, and fifty-five years he reigned in Jerusalem.
+Manasseh was twelve years old when he reigned, and fifty-five years he reigned in Jerusalem.
 
 **2 Chronicles 33:2**
 
@@ -47776,23 +47776,23 @@ And he himself brought his children through fire in Gai-Banai-Ennom, and practic
 
 **2 Chronicles 33:7**
 
-And he set carved and molten image which he made in house of God, of which God said to David and to Salōmōn his son, In this house and Jerusalem, which I chose from all tribes of Israel, I will put my name forever.
+And he set carved and molten image which he made in house of God, of which God said to David and to Solomon his son, In this house and Jerusalem, which I chose from all tribes of Israel, I will put my name forever.
 
 **2 Chronicles 33:8**
 
-And I will not again add to move foot of Israel from land which I gave to their fathers, only if they keep to do all things which I commanded them, according to all law and ordinances and judgments by hand of Mōusēs.
+And I will not again add to move foot of Israel from land which I gave to their fathers, only if they keep to do all things which I commanded them, according to all law and ordinances and judgments by hand of Moses.
 
 **2 Chronicles 33:9**
 
-And Manassēs led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which Lord removed from before sons of Israel.
+And Manasseh led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which Lord removed from before sons of Israel.
 
 **2 Chronicles 33:10**
 
-And Lord spoke against Manassēs and against his people, and they did not listen.
+And Lord spoke against Manasseh and against his people, and they did not listen.
 
 **2 Chronicles 33:11**
 
-And Lord brought upon them commanders of force of king of Assour, and they seized Manassēs in bonds and bound him in fetters and brought him to Babylōn.
+And Lord brought upon them commanders of force of king of Assour, and they seized Manasseh in bonds and bound him in fetters and brought him to Babylon.
 
 **2 Chronicles 33:12**
 
@@ -47800,7 +47800,7 @@ And when he was afflicted, he sought face of Lord his God and humbled himself gr
 
 **2 Chronicles 33:13**
 
-And he prayed to him, and he heard him and heard his cry and restored him to Jerusalem, to his kingdom. And Manassēs knew that Lord, he is God.
+And he prayed to him, and he heard him and heard his cry and restored him to Jerusalem, to his kingdom. And Manasseh knew that Lord, he is God.
 
 **2 Chronicles 33:14**
 
@@ -47820,7 +47820,7 @@ Except that people still sacrificed on high places, only to Lord their God.
 
 **2 Chronicles 33:18**
 
-And rest of words of Manassēs and his prayer to God and words of seers speaking to him in name of Lord God of Israel, behold, upon records.
+And rest of words of Manasseh and his prayer to God and words of seers speaking to him in name of Lord God of Israel, behold, upon records.
 
 **2 Chronicles 33:19**
 
@@ -47828,19 +47828,19 @@ And his prayer and how he was heard, and all his sins and his rebellions and pla
 
 **2 Chronicles 33:20**
 
-And Manassēs slept with his fathers, and they buried him in garden of his house, and Amōn his son reigned in his place.
+And Manasseh slept with his fathers, and they buried him in garden of his house, and Amon his son reigned in his place.
 
 **2 Chronicles 33:21**
 
-Amōn was twenty-two years old when he reigned, and two years he reigned in Jerusalem.
+Amon was twenty-two years old when he reigned, and two years he reigned in Jerusalem.
 
 **2 Chronicles 33:22**
 
-And he did evil before Lord as Manassēs his father did, and to all idols which Manassēs his father made Amōn sacrificed and served them.
+And he did evil before Lord as Manasseh his father did, and to all idols which Manasseh his father made Amon sacrificed and served them.
 
 **2 Chronicles 33:23**
 
-And he did not humble himself before Lord as Manassēs his father humbled himself, because this Amōn multiplied trespass.
+And he did not humble himself before Lord as Manasseh his father humbled himself, because this Amon multiplied trespass.
 
 **2 Chronicles 33:24**
 
@@ -47848,13 +47848,13 @@ And his servants attacked him and struck him in his house.
 
 **2 Chronicles 33:25**
 
-And people of land struck those attacking king Amōn, and people of land made Iōsias his son king in his place.
+And people of land struck those attacking king Amon, and people of land made Josiah his son king in his place.
 
 ### Chapter 34
 
 **2 Chronicles 34:1**
 
-Iōsias was eight years old when he reigned, and thirty-one years he reigned in Jerusalem.
+Josiah was eight years old when he reigned, and thirty-one years he reigned in Jerusalem.
 
 **2 Chronicles 34:2**
 
@@ -47906,7 +47906,7 @@ and over burden bearers and over all those doing works, work by work. And from L
 
 **2 Chronicles 34:14**
 
-And when they were bringing out money brought into house of Lord, Chelkias the priest found book of law of Lord by hand of Mōusēs.
+And when they were bringing out money brought into house of Lord, Chelkias the priest found book of law of Lord by hand of Moses.
 
 **2 Chronicles 34:15**
 
@@ -47982,13 +47982,13 @@ And he made all found in Jerusalem and Beniamin stand to it, and those dwelling 
 
 **2 Chronicles 34:33**
 
-And Iōsias removed all abominations from all land that belonged to sons of Israel and made all found in Jerusalem and in Israel serve Lord their God. All his days they did not turn away from behind Lord God of their fathers.
+And Josiah removed all abominations from all land that belonged to sons of Israel and made all found in Jerusalem and in Israel serve Lord their God. All his days they did not turn away from behind Lord God of their fathers.
 
 ### Chapter 35
 
 **2 Chronicles 35:1**
 
-And Iōsias kept Passover to Lord his God, and they sacrificed Passover on fourteenth of first month.
+And Josiah kept Passover to Lord his God, and they sacrificed Passover on fourteenth of first month.
 
 **2 Chronicles 35:2**
 
@@ -47996,11 +47996,11 @@ And he set priests in their charges and strengthened them for works of house of 
 
 **2 Chronicles 35:3**
 
-And he said to Levites, mighty in all Israel, when they had sanctified themselves to Lord and placed holy ark in house which Salōmōn son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to Lord your God and to his people Israel.
+And he said to Levites, mighty in all Israel, when they had sanctified themselves to Lord and placed holy ark in house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to Lord your God and to his people Israel.
 
 **2 Chronicles 35:4**
 
-And prepare yourselves by houses of your fathers and by your courses, according to writing of David king of Israel and by hand of Salōmōn his son.
+And prepare yourselves by houses of your fathers and by your courses, according to writing of David king of Israel and by hand of Solomon his son.
 
 **2 Chronicles 35:5**
 
@@ -48008,11 +48008,11 @@ And stand in house according to divisions of houses of your fathers, for your br
 
 **2 Chronicles 35:6**
 
-And sacrifice Passover and prepare holy things for your brothers, to do according to word of Lord by hand of Mōusēs.
+And sacrifice Passover and prepare holy things for your brothers, to do according to word of Lord by hand of Moses.
 
 **2 Chronicles 35:7**
 
-And Iōsias contributed to sons of people sheep and lambs and kids of goats, all for Passover, to all found, to number of thirty thousand, and three thousand calves; these were from king's possessions.
+And Josiah contributed to sons of people sheep and lambs and kids of goats, all for Passover, to all found, to number of thirty thousand, and three thousand calves; these were from king's possessions.
 
 **2 Chronicles 35:8**
 
@@ -48020,7 +48020,7 @@ And his rulers contributed to people and to priests and Levites. Chelkias and Za
 
 **2 Chronicles 35:9**
 
-And Chōnenias and Banaias and Samaias and Nathanaēl his brother and Asabias and Iiēl and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
+And Chōnenias and Banaias and Samaias and Nathanael his brother and Asabias and Iiēl and Iōzabad, rulers of Levites, contributed to Levites for Passover five thousand sheep and five hundred calves.
 
 **2 Chronicles 35:10**
 
@@ -48032,7 +48032,7 @@ And they sacrificed Passover, and priests poured out blood from their hand, and 
 
 **2 Chronicles 35:12**
 
-And they prepared whole burnt offering to give to them according to division by houses of fathers for sons of people, to bring to Lord, as written in book of Mōusēs, and thus till morning.
+And they prepared whole burnt offering to give to them according to division by houses of fathers for sons of people, to bring to Lord, as written in book of Moses, and thus till morning.
 
 **2 Chronicles 35:13**
 
@@ -48040,7 +48040,7 @@ And they roasted Passover in fire according to ordinance, and holy things they b
 
 **2 Chronicles 35:14**
 
-And after preparing for themselves and for priests, because priests were in offering fats and whole burnt offerings until night, Levites prepared for themselves and for their brothers, sons of Aarōn.
+And after preparing for themselves and for priests, because priests were in offering fats and whole burnt offerings until night, Levites prepared for themselves and for their brothers, sons of Aaron.
 
 **2 Chronicles 35:15**
 
@@ -48048,7 +48048,7 @@ And singers sons of Asaph were at their station according to commands of David a
 
 **2 Chronicles 35:16**
 
-And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Iōsias.
+And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Josiah.
 
 **2 Chronicles 35:17**
 
@@ -48056,15 +48056,15 @@ And sons of Israel found there kept Passover at that time and feast of unleavene
 
 **2 Chronicles 35:18**
 
-And no Passover like it came to be in Israel from days of Samouēl the prophet, and all kings of Israel did not keep such Passover as Iōsias kept, and priests and Levites and all Judah and Israel found there and those dwelling in Jerusalem, to Lord.
+And no Passover like it came to be in Israel from days of Samuel the prophet, and all kings of Israel did not keep such Passover as Josiah kept, and priests and Levites and all Judah and Israel found there and those dwelling in Jerusalem, to Lord.
 
 **2 Chronicles 35:19**
 
-In eighteenth year of reign of Iōsias this Passover was kept.
+In eighteenth year of reign of Josiah this Passover was kept.
 
 **2 Chronicles 35:20**
 
-And Pharaoh Nechao king of Egypt went up against king of Assyrians at river Euphratēs, and king Iōsias went to meet him.
+And Pharaoh Nechao king of Egypt went up against king of Assyrians at river Euphratēs, and king Josiah went to meet him.
 
 **2 Chronicles 35:21**
 
@@ -48072,23 +48072,23 @@ And he sent messengers to him, saying, What to me and to you, king of Judah? I d
 
 **2 Chronicles 35:22**
 
-And Iōsias did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Nechao from mouth of God, and came to fight in plain of Mageddō.
+And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Nechao from mouth of God, and came to fight in plain of Mageddō.
 
 **2 Chronicles 35:23**
 
-And archers shot at king Iōsias, and king said to his servants, Bring me out, because I am badly wounded.
+And archers shot at king Josiah, and king said to his servants, Bring me out, because I am badly wounded.
 
 **2 Chronicles 35:24**
 
-And his servants brought him out from chariot and lifted him onto second chariot which was his and brought him to Jerusalem, and he died and was buried with his fathers. And all Judah and Jerusalem mourned over Iōsias.
+And his servants brought him out from chariot and lifted him onto second chariot which was his and brought him to Jerusalem, and he died and was buried with his fathers. And all Judah and Jerusalem mourned over Josiah.
 
 **2 Chronicles 35:25**
 
-And Ieremias lamented over Iōsias, and all rulers and ruling women spoke lament over Iōsias until this day, and they gave it as ordinance upon Israel, and behold, written upon laments.
+And Ieremias lamented over Josiah, and all rulers and ruling women spoke lament over Josiah until this day, and they gave it as ordinance upon Israel, and behold, written upon laments.
 
 **2 Chronicles 35:26**
 
-And words of Iōsias and his hope are written in law of Lord.
+And words of Josiah and his hope are written in law of Lord.
 
 **2 Chronicles 35:27**
 
@@ -48098,7 +48098,7 @@ And his first words and his last, behold, written upon book of kings of Israel a
 
 **2 Chronicles 36:1**
 
-And people of land took Iōachaz son of Iōsias and anointed him and made him king in place of his father in Jerusalem.
+And people of land took Iōachaz son of Josiah and anointed him and made him king in place of his father in Jerusalem.
 
 **2 Chronicles 36:2**
 
@@ -48110,19 +48110,19 @@ And king removed him to Egypt and imposed tribute on land, one hundred talents o
 
 **2 Chronicles 36:4**
 
-And Pharaoh Nechao made Eliakim son of Iōsias king of Judah in place of Iōsias his father and changed his name to Iōakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
+And Pharaoh Nechao made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Iōakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
 
 **2 Chronicles 36:5**
 
-Iōakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylōn came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manassēs in all things he did, and in innocent blood which Iōakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
+Iōakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Iōakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
 
 **2 Chronicles 36:6**
 
-And Nebuchadnezzar king of Babylōn came up against him and bound him in bronze fetters and brought him to Babylōn.
+And Nebuchadnezzar king of Babylon came up against him and bound him in bronze fetters and brought him to Babylon.
 
 **2 Chronicles 36:7**
 
-And he carried part of vessels of house of Lord to Babylōn and put them in his temple in Babylōn.
+And he carried part of vessels of house of Lord to Babylon and put them in his temple in Babylon.
 
 **2 Chronicles 36:8**
 
@@ -48134,7 +48134,7 @@ Iechonias was eighteen years old when he reigned, and three months and ten days 
 
 **2 Chronicles 36:10**
 
-And when year turned, king Nebuchadnezzar sent and brought him into Babylōn with desirable vessels of house of Lord, and he made Sedekias his father's brother king over Judah and Jerusalem.
+And when year turned, king Nebuchadnezzar sent and brought him into Babylon with desirable vessels of house of Lord, and he made Sedekias his father's brother king over Judah and Jerusalem.
 
 **2 Chronicles 36:11**
 
@@ -48166,7 +48166,7 @@ And he brought upon them king of Chaldeans, and he killed their young men with s
 
 **2 Chronicles 36:18**
 
-And all vessels of house of God, great and small, and treasures and all treasures of king and nobles, he brought all into Babylōn.
+And all vessels of house of God, great and small, and treasures and all treasures of king and nobles, he brought all into Babylon.
 
 **2 Chronicles 36:19**
 
@@ -48174,7 +48174,7 @@ And he burned house of Lord and broke down wall of Jerusalem, and her towers he 
 
 **2 Chronicles 36:20**
 
-And he transported remnant to Babylōn, and they were servants to him and to his sons until kingdom of Medes,
+And he transported remnant to Babylon, and they were servants to him and to his sons until kingdom of Medes,
 
 **2 Chronicles 36:21**
 
@@ -50666,7 +50666,7 @@ to Esdra, Mesoulam; to Amaria, Iōanan;
 
 **Nehemiah 12:14**
 
-to Mallouch, Ionathan; to Sechenia, Iōsēph;
+to Mallouch, Ionathan; to Sechenia, Joseph;
 
 **Nehemiah 12:15**
 
@@ -50754,7 +50754,7 @@ and from sons of the priests with trumpets, Zacharias son of Ionathan, son of Sa
 
 **Nehemiah 12:36**
 
-and his brothers, Samaia and Oziēl, praising in songs of David man of God, and Ezra the scribe before them,
+and his brothers, Samaia and Uzziel, praising in songs of David man of God, and Ezra the scribe before them,
 
 **Nehemiah 12:37**
 
@@ -51610,7 +51610,7 @@ And Mardochaios succeeded King Artaxerxes and was great in the kingdom and glori
 
 **Job 1:1**
 
-There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
+There was a certain man in the land of Ausitis, whose name was Job, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 
 **Job 1:2**
 
@@ -51626,7 +51626,7 @@ And his sons, going to one another, were making a feast each day, bringing along
 
 **Job 1:5**
 
-And when days of the feast were completed, Iōb sent and purified them. Rising early, he offered sacrifices for them according to their number, and one calf for sin concerning their souls. For Iōb said, Lest my sons thought evil things in their mind toward God. Thus Iōb was doing all the days.
+And when days of the feast were completed, Job sent and purified them. Rising early, he offered sacrifices for them according to their number, and one calf for sin concerning their souls. For Job said, Lest my sons thought evil things in their mind toward God. Thus Job was doing all the days.
 
 **Job 1:6**
 
@@ -51638,11 +51638,11 @@ And the Lord said to the slanderer, From where are you here? And answering, the 
 
 **Job 1:8**
 
-And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
+And the Lord said to him, Did you set your mind against my servant Job, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 
 **Job 1:9**
 
-And the slanderer answered and said before the Lord, Does Iōb fear God for nothing?
+And the slanderer answered and said before the Lord, Does Job fear God for nothing?
 
 **Job 1:10**
 
@@ -51658,11 +51658,11 @@ Then the Lord said to the slanderer, Behold, all things that are his I give into
 
 **Job 1:13**
 
-And it happened on a day when Iōb's sons and daughters were drinking wine in house of their elder brother,
+And it happened on a day when Job's sons and daughters were drinking wine in house of their elder brother,
 
 **Job 1:14**
 
-and behold, a messenger came to Iōb and said to him, The yoke of oxen were plowing, and the she-donkeys were grazing beside them,
+and behold, a messenger came to Job and said to him, The yoke of oxen were plowing, and the she-donkeys were grazing beside them,
 
 **Job 1:15**
 
@@ -51670,15 +51670,15 @@ and the raiders came and took them captive, and the servants they killed with sw
 
 **Job 1:16**
 
-While this one was still speaking, another messenger came and said to Iōb, Fire fell from heaven and burned up the sheep and devoured the shepherds likewise. And I alone escaped and came to report to you.
+While this one was still speaking, another messenger came and said to Job, Fire fell from heaven and burned up the sheep and devoured the shepherds likewise. And I alone escaped and came to report to you.
 
 **Job 1:17**
 
-While this one was still speaking, another messenger came and said to Iōb, The horsemen made against us three heads, and they surrounded the camels and took them captive, and the servants they killed with swords. And I alone escaped and came to report to you.
+While this one was still speaking, another messenger came and said to Job, The horsemen made against us three heads, and they surrounded the camels and took them captive, and the servants they killed with swords. And I alone escaped and came to report to you.
 
 **Job 1:18**
 
-While this one was still speaking, another messenger came, saying to Iōb, Your sons and your daughters were eating and drinking at their elder brother's house,
+While this one was still speaking, another messenger came, saying to Job, Your sons and your daughters were eating and drinking at their elder brother's house,
 
 **Job 1:19**
 
@@ -51686,7 +51686,7 @@ and suddenly a great wind came from the wilderness and touched the four corners 
 
 **Job 1:20**
 
-So Iōb rose, tore his garments, shaved hair of his head, and falling to the ground worshiped and said,
+So Job rose, tore his garments, shaved hair of his head, and falling to the ground worshiped and said,
 
 **Job 1:21**
 
@@ -51694,7 +51694,7 @@ Naked I came out from womb of my mother, naked also I will go away there. The Lo
 
 **Job 1:22**
 
-In all these things that happened to him, Iōb sinned in nothing before the Lord and gave no folly to God.
+In all these things that happened to him, Job sinned in nothing before the Lord and gave no folly to God.
 
 ### Chapter 2
 
@@ -51708,7 +51708,7 @@ And the Lord said to the slanderer, From where do you come? Then the slanderer s
 
 **Job 2:3**
 
-And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
+And the Lord said to the slanderer, Did you then give attention to my servant Job, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing.
 
 **Job 2:4**
 
@@ -51724,7 +51724,7 @@ And the Lord said to the slanderer, Behold, I hand him over to you; only preserv
 
 **Job 2:7**
 
-And the slanderer went out from the Lord and struck Iōb with a grievous sore from feet to head.
+And the slanderer went out from the Lord and struck Job with a grievous sore from feet to head.
 
 **Job 2:8**
 
@@ -51736,7 +51736,7 @@ And when much time had passed, his wife said to him, How long will you endure, s
 
 **Job 2:10**
 
-And looking at her, he said to her, You spoke like one of the foolish women. If we accepted good things from hand of the Lord, shall we not bear evil things? In all these things that happened to him, Iōb sinned in nothing with his lips before God.
+And looking at her, he said to her, You spoke like one of the foolish women. If we accepted good things from hand of the Lord, shall we not bear evil things? In all these things that happened to him, Job sinned in nothing with his lips before God.
 
 **Job 2:11**
 
@@ -51754,7 +51754,7 @@ They sat with him seven days and seven nights, and none of them spoke, for they 
 
 **Job 3:1**
 
-After this Iōb opened his mouth
+After this Job opened his mouth
 
 **Job 3:2**
 
@@ -52056,7 +52056,7 @@ Behold, these things we searched out. These are what we heard. But you, know for
 
 **Job 6:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 6:2**
 
@@ -52354,7 +52354,7 @@ But their enemies will clothe themselves with shame, and dwelling of ungodly wil
 
 **Job 9:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 9:2**
 
@@ -52668,7 +52668,7 @@ But salvation will fail them, for their hope is destruction, and eyes of ungodly
 
 **Job 12:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 12:2**
 
@@ -53116,7 +53116,7 @@ In belly he will receive pains, and empty things will turn out for him, and his 
 
 **Job 16:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 16:2**
 
@@ -53358,7 +53358,7 @@ These are houses of unjust men, and this is place of those not knowing Lord.
 
 **Job 19:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 19:2**
 
@@ -53594,7 +53594,7 @@ This is portion of ungodly man from Lord, and possession of his goods from the O
 
 **Job 21:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 21:2**
 
@@ -53854,7 +53854,7 @@ He will rescue innocent one, and be saved through purity of your hands.
 
 **Job 23:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 23:2**
 
@@ -54048,7 +54048,7 @@ how much less man, rot, and son of man, worm.
 
 **Job 26:1**
 
-And taking up the matter, Iōb says,
+And taking up the matter, Job says,
 
 **Job 26:2**
 
@@ -54106,7 +54106,7 @@ Behold, these are parts of his way, and upon mere drop of word we will hear in h
 
 **Job 27:1**
 
-And again adding, Iōb said in his opening discourse,
+And again adding, Job said in his opening discourse,
 
 **Job 27:2**
 
@@ -54314,7 +54314,7 @@ And he said to man, Behold, godliness is wisdom, and to abstain from evils is un
 
 **Job 29:1**
 
-And again adding, Iōb said in his opening discourse,
+And again adding, Job said in his opening discourse,
 
 **Job 29:2**
 
@@ -54698,25 +54698,25 @@ and if I ate its strength alone without payment, and grieving I cast out soul of
 
 **Job 31:40**
 
-then let nettle come out for me instead of wheat, and thorn-bush instead of barley. And Iōb ceased from words.
+then let nettle come out for me instead of wheat, and thorn-bush instead of barley. And Job ceased from words.
 
 ### Chapter 32
 
 **Job 32:1**
 
-And his three friends were quiet, no longer answering Iōb, for Iōb was righteous before them.
+And his three friends were quiet, no longer answering Job, for Job was righteous before them.
 
 **Job 32:2**
 
-And Elious son of Barachiēl the Buzite of kin of Ram from country of Ausitis was angered; and against Iōb he was greatly angered because he declared himself righteous before Lord.
+And Elious son of Barachiēl the Buzite of kin of Ram from country of Ausitis was angered; and against Job he was greatly angered because he declared himself righteous before Lord.
 
 **Job 32:3**
 
-And against the three friends he was greatly angered, because they were not able to answer contrary things to Iōb, and they made him out to be ungodly.
+And against the three friends he was greatly angered, because they were not able to answer contrary things to Job, and they made him out to be ungodly.
 
 **Job 32:4**
 
-But Elious waited to give answer to Iōb because they were older than he in days.
+But Elious waited to give answer to Job because they were older than he in days.
 
 **Job 32:5**
 
@@ -54748,7 +54748,7 @@ Give ear to my words, for I will speak with you listening, until you test saying
 
 **Job 32:12**
 
-And up to you I will understand. And behold, there was none from you reproving Iōb or answering his words.
+And up to you I will understand. And behold, there was none from you reproving Job or answering his words.
 
 **Job 32:13**
 
@@ -54794,7 +54794,7 @@ For I do not know how to admire face, else moths would eat even me.
 
 **Job 33:1**
 
-Yet hear my words, Iōb, and give ear to my speech.
+Yet hear my words, Job, and give ear to my speech.
 
 **Job 33:2**
 
@@ -54914,7 +54914,7 @@ but he rescued my soul from death, so that my life in light may praise him.
 
 **Job 33:31**
 
-Give ear, Iōb, and hear me; be silent, and I will speak.
+Give ear, Job, and hear me; be silent, and I will speak.
 
 **Job 33:32**
 
@@ -54944,7 +54944,7 @@ Let us choose judgment for ourselves; let us know among ourselves what is good.
 
 **Job 34:5**
 
-For Iōb said, I am righteous; the Lord took away my judgment.
+For Job said, I am righteous; the Lord took away my judgment.
 
 **Job 34:6**
 
@@ -54952,7 +54952,7 @@ And he lied against my judgment; my arrow is violent without injustice.
 
 **Job 34:7**
 
-What man is like Iōb, drinking mockery like water,
+What man is like Job, drinking mockery like water,
 
 **Job 34:8**
 
@@ -55064,11 +55064,11 @@ Therefore men of understanding heart will say these things, and wise man heard m
 
 **Job 34:35**
 
-But Iōb did not speak with understanding, and his words were not with knowledge.
+But Job did not speak with understanding, and his words were not with knowledge.
 
 **Job 34:36**
 
-Yet learn, Iōb: do not yet give answer like foolish men,
+Yet learn, Job: do not yet give answer like foolish men,
 
 **Job 34:37**
 
@@ -55138,7 +55138,7 @@ And now, because there is no one visiting his wrath, and he did not know the tre
 
 **Job 35:16**
 
-Iōb opens his mouth vainly; in ignorance he makes words heavy.
+Job opens his mouth vainly; in ignorance he makes words heavy.
 
 ### Chapter 36
 
@@ -55330,7 +55330,7 @@ Whether for correction, or for his land, or for mercy, he will find him.
 
 **Job 37:14**
 
-Give ear to these things, Iōb; stand still and understand power of Lord.
+Give ear to these things, Job; stand still and understand power of Lord.
 
 **Job 37:15**
 
@@ -55376,7 +55376,7 @@ Therefore men will fear him, and wise of heart will fear him.
 
 **Job 38:1**
 
-And after Elioun ceased from speech, Lord said to Iōb through whirlwind and clouds,
+And after Elioun ceased from speech, Lord said to Job through whirlwind and clouds,
 
 **Job 38:2**
 
@@ -55664,7 +55664,7 @@ And its young wallow in blood, and wherever corpses are, they are immediately fo
 
 **Job 40:1**
 
-And Lord God answered Iōb and said,
+And Lord God answered Job and said,
 
 **Job 40:2**
 
@@ -55672,7 +55672,7 @@ Will one turning aside judgment with Sufficient One, reproving God, answer this?
 
 **Job 40:3**
 
-And taking up the matter, Iōb says to Lord,
+And taking up the matter, Job says to Lord,
 
 **Job 40:4**
 
@@ -55684,7 +55684,7 @@ Once I spoke, but on second time I will not add.
 
 **Job 40:6**
 
-And again taking up the matter, Lord said to Iōb out of cloud,
+And again taking up the matter, Lord said to Job out of cloud,
 
 **Job 40:7**
 
@@ -55900,7 +55900,7 @@ It sees every high thing; and it is king of all things in waters.
 
 **Job 42:1**
 
-And taking up the matter, Iōb says to Lord,
+And taking up the matter, Job says to Lord,
 
 **Job 42:2**
 
@@ -55924,19 +55924,19 @@ Therefore I despised myself and melted away, and I count myself earth and ashes.
 
 **Job 42:7**
 
-And it happened after Lord spoke all these words to Iōb, Lord said to Eliphas the Thaimanite, You and your two friends sinned, for you spoke nothing true before me, as my servant Iōb did.
+And it happened after Lord spoke all these words to Job, Lord said to Eliphas the Thaimanite, You and your two friends sinned, for you spoke nothing true before me, as my servant Job did.
 
 **Job 42:8**
 
-Now then take seven calves and seven rams and go to my servant Iōb, and he will make fruit-offering concerning you. And my servant Iōb will pray concerning you, because unless I receive his face, for his sake I would have destroyed you, for you did not speak truth concerning my servant Iōb.
+Now then take seven calves and seven rams and go to my servant Job, and he will make fruit-offering concerning you. And my servant Job will pray concerning you, because unless I receive his face, for his sake I would have destroyed you, for you did not speak truth concerning my servant Job.
 
 **Job 42:9**
 
-And Eliphas the Thaimanite and Baldad the Sauchite and Sophar the Minaian went and did as Lord instructed them, and through Iōb he loosed their sin.
+And Eliphas the Thaimanite and Baldad the Sauchite and Sophar the Minaian went and did as Lord instructed them, and through Job he loosed their sin.
 
 **Job 42:10**
 
-And Lord increased Iōb. And when he prayed also concerning his friends, he forgave them their sin. And Lord gave double whatever had been before Iōb, for doubling.
+And Lord increased Job. And when he prayed also concerning his friends, he forgave them their sin. And Lord gave double whatever had been before Job, for doubling.
 
 **Job 42:11**
 
@@ -55944,7 +55944,7 @@ And all his brothers and sisters heard all things that happened to him, and they
 
 **Job 42:12**
 
-And Lord blessed last things of Iōb more than former things. And his livestock was fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female grazing donkeys.
+And Lord blessed last things of Job more than former things. And his livestock was fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female grazing donkeys.
 
 **Job 42:13**
 
@@ -55956,15 +55956,15 @@ And he called first Day, second Cassia, and third Horn of Amaltheia.
 
 **Job 42:15**
 
-And no women under heaven were found better than daughters of Iōb, and father gave them inheritance among their brothers.
+And no women under heaven were found better than daughters of Job, and father gave them inheritance among their brothers.
 
 **Job 42:16**
 
-And Iōb lived after the blow one hundred seventy years; altogether he lived two hundred forty-eight years, and Iōb saw his sons and sons of his sons, fourth generation.
+And Job lived after the blow one hundred seventy years; altogether he lived two hundred forty-eight years, and Job saw his sons and sons of his sons, fourth generation.
 
 **Job 42:17**
 
-And Iōb died old and full of days. And it is written that he will rise again with those whom Lord raises up. This man, interpreted from Syriac book, dwelt in land Ausitis on borders of Idumaia and Arabia, and his former name was Iōbab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zare, one of sons of Esau, from mother Bosorra, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beōr, and name of his city was Dennaba; after Balak, Iōbab called Iōb; after him Asom, ruler from country of Thaimanitis; after him Adad son of Barad, who cut down Madiam in plain of Mōab, and name of his city was Geththaim. And friends coming to him were Eliphas king of sons of Esau from Thaimanites, Baldad tyrant of Sauchites, and Sophar king of Minaians.
+And Job died old and full of days. And it is written that he will rise again with those whom Lord raises up. This man, interpreted from Syriac book, dwelt in land Ausitis on borders of Idumaia and Arabia, and his former name was Iōbab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zare, one of sons of Esau, from mother Bosorra, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beōr, and name of his city was Dennaba; after Balak, Iōbab called Job; after him Asom, ruler from country of Thaimanitis; after him Adad son of Barad, who cut down Madiam in plain of Moab, and name of his city was Geththaim. And friends coming to him were Eliphas king of sons of Esau from Thaimanites, Baldad tyrant of Sauchites, and Sophar king of Minaians.
 
 ## Psalms
 
@@ -56048,7 +56048,7 @@ Take hold of instruction lest Lord be angered and you perish from righteous way 
 
 **Psalms 3:1**
 
-Psalm of David, when he fled from face of Abessalōm his son.
+Psalm of David, when he fled from face of Absalom his son.
 
 **Psalms 3:2**
 
@@ -56616,7 +56616,7 @@ You shamed counsel of poor man, because Lord is his hope.
 
 **Psalms 13:7**
 
-Who will give from Sion salvation of Israel? When Lord turns back captivity of his people, let Iakōb rejoice and Israel be glad.
+Who will give from Sion salvation of Israel? When Lord turns back captivity of his people, let Jacob rejoice and Israel be glad.
 
 ### Chapter 14
 
@@ -57024,7 +57024,7 @@ For end. Psalm of David.
 
 **Psalms 19:2**
 
-May Lord hear you in day of affliction; may name of God of Iakōb defend you.
+May Lord hear you in day of affliction; may name of God of Jacob defend you.
 
 **Psalms 19:3**
 
@@ -57212,7 +57212,7 @@ I will recount your name to my brothers; in midst of assembly I will hymn you.
 
 **Psalms 21:24**
 
-You fearing Lord, praise him; all seed of Iakōb, glorify him; let all seed of Israel fear him,
+You fearing Lord, praise him; all seed of Jacob, glorify him; let all seed of Israel fear him,
 
 **Psalms 21:25**
 
@@ -57296,7 +57296,7 @@ This one will receive blessing from Lord and mercy from God his savior.
 
 **Psalms 23:6**
 
-This is generation of those seeking him, seeking face of God of Iakōb. Interlude.
+This is generation of those seeking him, seeking face of God of Jacob. Interlude.
 
 **Psalms 23:7**
 

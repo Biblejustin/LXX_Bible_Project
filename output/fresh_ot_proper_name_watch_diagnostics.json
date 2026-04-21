@@ -1,95 +1,77 @@
 {
-  "rows": 61,
-  "top_rows": [
+  "rows": 0,
+  "top_rows": [],
+  "context_dependent_rows": 10,
+  "context_dependent_top_rows": [
     {
-      "current_form": "Samou\u0113l",
-      "preferred_form": "Samuel",
+      "current_form": "I\u014ddae",
       "kind": "person",
-      "occurrences": "134",
-      "sample_refs": "1 Samuel 1:20, 1 Samuel 2:18, 1 Samuel 2:21, 1 Samuel 2:26, 1 Samuel 3:1, 1 Samuel 3:3, 1 Samuel 3:4, 1 Samuel 3:6",
-      "meaning": "Heard of God; God has heard",
-      "status": ""
+      "occurrences": "33",
+      "sample_refs": "2 Samuel 8:18, 2 Kings 11:4, 2 Kings 11:9, 2 Kings 11:15, 2 Kings 11:17, 2 Kings 12:3, 2 Kings 12:8, 2 Kings 12:10",
+      "note": "Context-dependent: often Jehoiada, but Jedaiah in some priest-list contexts."
     },
     {
-      "current_form": "I\u014dnathan",
-      "preferred_form": "Jonathan",
+      "current_form": "I\u014dram",
       "kind": "person",
-      "occurrences": "89",
-      "sample_refs": "1 Samuel 13:2, 1 Samuel 13:3, 1 Samuel 13:16, 1 Samuel 13:22, 1 Samuel 14:1, 1 Samuel 14:3, 1 Samuel 14:4, 1 Samuel 14:6",
-      "meaning": "",
-      "status": ""
+      "occurrences": "23",
+      "sample_refs": "1 Kings 22:51, 2 Kings 1:18, 2 Kings 3:1, 2 Kings 3:6, 1 Chronicles 26:25, 1 Chronicles 27:22, 2 Chronicles 17:8, 2 Chronicles 21:1",
+      "note": "Context-dependent: Joram and Jehoram vary by king/person context."
     },
     {
-      "current_form": "Abessal\u014dm",
-      "preferred_form": "Absalom",
+      "current_form": "Ii\u0113l",
       "kind": "person",
-      "occurrences": "70",
-      "sample_refs": "2 Samuel 3:3, 2 Samuel 13:1, 2 Samuel 13:4, 2 Samuel 13:20, 2 Samuel 13:22, 2 Samuel 13:23, 2 Samuel 13:24, 2 Samuel 13:25",
-      "meaning": "",
-      "status": ""
+      "occurrences": "22",
+      "sample_refs": "1 Chronicles 9:6, 1 Chronicles 11:44, 1 Chronicles 15:18, 1 Chronicles 15:20, 1 Chronicles 15:21, 1 Chronicles 16:5, 1 Chronicles 23:8, 1 Chronicles 23:9",
+      "note": "Context-dependent: Jeiel, Jeuel, or Jehiel by genealogy context."
     },
     {
-      "current_form": "I\u014dab",
-      "preferred_form": "Joab",
+      "current_form": "I\u014das",
       "kind": "person",
-      "occurrences": "60",
-      "sample_refs": "1 Samuel 26:6, 2 Samuel 2:13, 2 Samuel 2:14, 2 Samuel 2:18, 2 Samuel 2:22, 2 Samuel 2:24, 2 Samuel 2:26, 2 Samuel 2:27",
-      "meaning": "",
-      "status": ""
+      "occurrences": "22",
+      "sample_refs": "1 Kings 22:26, 2 Kings 18:18, 2 Kings 18:26, 2 Kings 18:37, 1 Chronicles 26:14, 1 Chronicles 27:28, 2 Chronicles 18:25, 2 Chronicles 22:11",
+      "note": "Context-dependent: Joash and Jehoash vary by king/person context."
     },
     {
-      "current_form": "I\u014db",
-      "preferred_form": "Job",
-      "kind": "person",
-      "occurrences": "60",
-      "sample_refs": "Job 1:1, Job 1:5, Job 1:8, Job 1:9, Job 1:14, Job 1:16, Job 1:17, Job 1:18",
-      "meaning": "",
-      "status": ""
+      "current_form": "Sokch\u014dth",
+      "kind": "place",
+      "occurrences": "12",
+      "sample_refs": "Judges 8:5, Judges 8:6, Judges 8:8, Judges 8:14, Judges 8:15, Judges 8:16, 1 Samuel 17:1, 1 Kings 21:16",
+      "note": "Context-dependent: Succoth in Judges 8, but Socoh/Socchoh in 1 Samuel 17."
     },
     {
-      "current_form": "Abenn\u0113r",
-      "preferred_form": "Abner",
-      "kind": "person",
-      "occurrences": "57",
-      "sample_refs": "1 Samuel 14:50, 1 Samuel 14:51, 1 Samuel 20:25, 1 Samuel 26:5, 1 Samuel 26:7, 1 Samuel 26:14, 1 Samuel 26:15, 2 Samuel 2:8",
-      "meaning": "",
-      "status": ""
+      "current_form": "Kedr\u014dn",
+      "kind": "place",
+      "occurrences": "10",
+      "sample_refs": "Judges 1:30, 2 Samuel 15:23, 2 Kings 23:4, 2 Kings 23:6, 2 Kings 23:12, 2 Chronicles 15:16, 2 Chronicles 29:16, 2 Chronicles 30:14",
+      "note": "Context-dependent: usually Kidron in Jerusalem-wadi contexts, but Kitron at Judges 1:30."
     },
     {
-      "current_form": "I\u014dsaphat",
-      "preferred_form": "Jehoshaphat",
+      "current_form": "I\u014dakim",
       "kind": "person",
-      "occurrences": "43",
-      "sample_refs": "2 Samuel 8:16, 2 Chronicles 17:1, 2 Chronicles 17:3, 2 Chronicles 17:5, 2 Chronicles 17:10, 2 Chronicles 17:11, 2 Chronicles 17:12, 2 Chronicles 18:1",
-      "meaning": "",
-      "status": ""
+      "occurrences": "9",
+      "sample_refs": "2 Chronicles 36:4, 2 Chronicles 36:5, 2 Chronicles 36:8, Nehemiah 12:10, Nehemiah 12:12, Nehemiah 12:26",
+      "note": "Context-dependent: Jehoiakim as king, Joiakim in Nehemiah priestly contexts."
     },
     {
-      "current_form": "Samps\u014dn",
-      "preferred_form": "Samson",
+      "current_form": "J\u014das",
       "kind": "person",
-      "occurrences": "40",
-      "sample_refs": "Judges 13:24, Judges 14:1, Judges 14:3, Judges 14:5, Judges 14:7, Judges 14:10, Judges 14:12, Judges 14:16",
-      "meaning": "",
-      "status": ""
+      "occurrences": "9",
+      "sample_refs": "Judges 6:11, Judges 6:29, Judges 6:30, Judges 6:31, Judges 7:14, Judges 8:13, Judges 8:29, Judges 8:32",
+      "note": "Context-dependent: Joash and Jehoash vary by king/person context."
     },
     {
-      "current_form": "I\u014dsias",
-      "preferred_form": "Josiah",
-      "kind": "person",
-      "occurrences": "32",
-      "sample_refs": "2 Kings 21:24, 2 Kings 21:26, 2 Kings 22:1, 2 Kings 22:3, 2 Kings 22:9, 2 Kings 23:16, 2 Kings 23:19, 2 Kings 23:23",
-      "meaning": "",
-      "status": ""
+      "current_form": "B\u0113rsabee",
+      "kind": "place/person",
+      "occurrences": "8",
+      "sample_refs": "1 Samuel 30:30, 2 Samuel 3:10, 2 Samuel 6:19, 2 Samuel 11:3, 2 Samuel 12:24, 1 Kings 19:3, 2 Kings 12:2, 2 Kings 23:8",
+      "note": "Context-dependent: Beersheba as place, Bathsheba as person in David/Solomon contexts."
     },
     {
-      "current_form": "Amn\u014dn",
-      "preferred_form": "Amnon",
+      "current_form": "I\u014danan",
       "kind": "person",
-      "occurrences": "29",
-      "sample_refs": "2 Samuel 3:2, 2 Samuel 13:1, 2 Samuel 13:2, 2 Samuel 13:3, 2 Samuel 13:4, 2 Samuel 13:6, 2 Samuel 13:7, 2 Samuel 13:8",
-      "meaning": "",
-      "status": ""
+      "occurrences": "8",
+      "sample_refs": "2 Kings 25:23, 1 Chronicles 26:3, 2 Chronicles 17:15, 2 Chronicles 23:1, Nehemiah 12:13, Nehemiah 12:22, Nehemiah 12:23, Nehemiah 12:42",
+      "note": "Context-dependent: Johanan and Jehohanan vary by person context."
     }
   ],
   "public_md": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_proper_name_watch.md",

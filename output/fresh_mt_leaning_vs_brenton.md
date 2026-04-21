@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 413
+Rows: 419
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -113,9 +113,9 @@ Rows: 413
 ## 2 Samuel 14:33
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.791`
-- fresh_brenton_ratio: `0.042`
-- fresh: And Iōab entered to the king and reported to him, and he called Abessalōm, and he entered to the king and bowed down to him and fell on his face to the ground before the king, and the king kissed Abessalōm.
+- fresh_mt_ratio: `0.820`
+- fresh_brenton_ratio: `0.067`
+- fresh: And Joab entered to the king and reported to him, and he called Absalom, and he entered to the king and bowed down to him and fell on his face to the ground before the king, and the king kissed Absalom.
 - mt: So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom.
 - brenton: And Joab went in to the king, and brought him word: and he called Abessalom, and he went in to the king, and did him obeisance, and fell upon his face to the ground, even in the presence of the king; and the king kissed Abessalom.
 
@@ -145,6 +145,15 @@ Rows: 413
 - fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
 - mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
 - brenton: and said,
+
+## 2 Samuel 15:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.840`
+- fresh_brenton_ratio: `0.108`
+- fresh: And behold, also Zadok and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
+- mt: And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
+- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## Exodus 26:12
 - priority: `0`
@@ -190,15 +199,6 @@ Rows: 413
 - fresh: and you turned back and ate bread and drank water in the place of which he spoke to you, saying, Eat no bread and drink no water, your body shall certainly not enter into the tomb of your fathers.
 - mt: But came back, and have eaten bread and drunk water in the place, of the which the Lord did say to you, Eat no bread, and drink no water; your carcass shall not come unto the tomb of your fathers.
 - brenton: but hast returned, and eaten bread and drunk water in the place of which he spoke to thee, saying, Thou shalt not eat bread, and shalt not drink water; therefore thy body shall in nowise enter into the sepulchre of thy fathers.
-
-## 2 Samuel 15:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.833`
-- fresh_brenton_ratio: `0.121`
-- fresh: And behold, also Saddōk and all the Levites with him carrying the ark of the covenant of the Lord from Baithar, and they set the ark of God down, and Abiathar went up until all the people ceased passing out of the city.
-- mt: And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
-- brenton: And behold also Sadoc, and all the Levites were with him, bearing the ark of the covenant of the Lord from Bæthar: and they set down the ark of God; and Abiathar went up, until all the people had passed out of the city.
 
 ## Nehemiah 9:10
 - priority: `0`
@@ -353,14 +353,14 @@ Rows: 413
 - mt: And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God has done unto us?
 - brenton: And he said to his brethren, My money has been restored to me, and behold this is in my sack. And their heart was wonder-struck, and they were troubled, saying one to another, What is this that God has done to us?
 
-## 2 Samuel 13:15
+## 2 Samuel 3:27
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.126`
-- fresh: And Amnōn hated her with a very great hatred, because the hatred with which he hated her was greater than the love with which he loved her. And Amnōn said to her, Rise and go.
-- mt: Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.
-- brenton: Then Amnon hated her with very great hatred; for the hatred with which he hated her was greater than the love with which he had loved her, for the last wickedness was greater than the first: and Amnon said to her, Rise, and begone.
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.128`
+- fresh: And Abner returned to Hebron, and Joab turned him aside by the side of the gate to speak with him in ambush, and struck him there in the belly, and he died for the blood of Asahel brother of Joab.
+- mt: And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and stroke him there under the fifth rib, that he died, for the blood of Asahel his brother.
+- brenton: And he brought back Abenner to Chebron, and Joab caused him to turn aside from the gate to speak to him, laying wait for him: and he smote him there in the loins, and he died for the blood of Asael the brother of Joab.
 
 ## Judges 6:8
 - priority: `0`
@@ -578,6 +578,15 @@ Rows: 413
 - mt: And he rose up that night, and took his two wives, and his two female servants, and his eleven sons, and passed over the ford Jabbok.
 - brenton: So the presents went on before him, but he himself lodged that night in the camp.
 
+## 1 Samuel 7:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.755`
+- fresh_brenton_ratio: `0.187`
+- fresh: And they gathered to Mizpah and drew water and poured it out before the Lord upon the ground and fasted on that day and said, We sinned before the Lord. And Samuel was judging the sons of Israel in Mizpah.
+- mt: And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.
+- brenton: And they were gathered together to Massephath, and they drew water, and poured it out upon the earth before the Lord. And they fasted on that day, and said, We have sinned before the Lord. And Samuel judged the children of Israel in Massephath.
+
 ## Numbers 22:18
 - priority: `0`
 - importance: `none`
@@ -605,6 +614,15 @@ Rows: 413
 - mt: Every bed whereon she lies all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sits upon shall be unclean, as the uncleanness of her separation.
 - brenton: And every bed on which she shall lie all the days of her flux shall be to her as the bed of her separation, and every seat whereon she shall sit shall be unclean according to the uncleanness of her separation.
 
+## 2 Samuel 13:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.774`
+- fresh_brenton_ratio: `0.212`
+- fresh: And Amnon hated her with a very great hatred, because the hatred with which he hated her was greater than the love with which he loved her. And Amnon said to her, Rise and go.
+- mt: Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.
+- brenton: Then Amnon hated her with very great hatred; for the hatred with which he hated her was greater than the love with which he had loved her, for the last wickedness was greater than the first: and Amnon said to her, Rise, and begone.
+
 ## 1 Samuel 17:49
 - priority: `0`
 - importance: `none`
@@ -613,6 +631,15 @@ Rows: 413
 - fresh: And David stretched out his hand into the pouch and took from there one stone and slung it and struck the foreigner on his forehead, and the stone went through the helmet into his forehead, and he fell on his face to the ground.
 - mt: And David put his hand in his bag, and took thence a stone, and slang it, and stroke the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.
 - brenton: And David stretched out his hand to his scrip, and took thence a stone, and slang it, and smote the Philistine on his forehead, and the stone penetrated through the helmet into his forehead, and he fell upon his face to the ground.
+
+## Judges 8:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.828`
+- fresh_brenton_ratio: `0.275`
+- fresh: And Zebah and Salmana said, Rise yourself and fall upon us, because as the man is, so is his strength. And Gideon rose and killed Zebah and Salmana and took the crescents that were on the necks of their camels.
+- mt: Then Zebah and Zalmunna said, Rise you, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks.
+- brenton: And Zebee and Salmana said, Rise thou and fall upon us, for thy power is as that of a man; and Gedeon arose, and slew Zebee and Salmana; and he took the round ornaments that were on the necks of their camels.
 
 ## 1 Kings 8:32
 - priority: `0`
@@ -631,6 +658,15 @@ Rows: 413
 - fresh: And it shall be, when the Lord your God brings you into the land that he swore to your fathers, to Abraham and Isaac and Jacob, to give you, cities great and good that you did not build,
 - mt: And it shall be, when the LORD your God shall have brought you into the land which he swore unto your fathers, to Abraham, to Isaac, and to Jacob, to give you great and goodly cities, which you builded not,
 - brenton: And it shall come to pass when the Lord thy God shall have brought thee into the land which he sware to thy fathers, to Abraam, and to Isaac, and to Jacob, to give thee great and beautiful cities which thou didst not build,
+
+## 2 Chronicles 18:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.266`
+- fresh: And Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth of Galaaditis? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
+- mt: And Ahab king of Israel said unto Jehoshaphat king of Judah, Will you go with me to Ramothgilead? And he answered him, I am as you are, and my people as your people; and we will be with you in the war.
+- brenton: And Achaab king of Israel said to Josaphat king of Juda, Wilt thou go with me to Ramoth of the country of Galaad? And he said to him, As I am, so also art thou, as thy people, so also is my people with thee for the war.
 
 ## Genesis 17:19
 - priority: `0`
@@ -695,15 +731,6 @@ Rows: 413
 - mt: And Elkanah her husband said unto her, Do what seems you good; tarry until you have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him.
 - brenton: And Helkana her husband said to her, Do that which is good in thine eyes, abide still until thou shalt have weaned him; but may the Lord establish that which comes out of thy mouth: and the woman tarried, and suckled her son until she had weaned him.
 
-## 2 Chronicles 18:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.783`
-- fresh_brenton_ratio: `0.268`
-- fresh: And Ahab king of Israel said to Iōsaphat king of Judah, Will you go with me to Ramōth of Galaaditis? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
-- mt: And Ahab king of Israel said unto Jehoshaphat king of Judah, Will you go with me to Ramothgilead? And he answered him, I am as you are, and my people as your people; and we will be with you in the war.
-- brenton: And Achaab king of Israel said to Josaphat king of Juda, Wilt thou go with me to Ramoth of the country of Galaad? And he said to him, As I am, so also art thou, as thy people, so also is my people with thee for the war.
-
 ## 2 Kings 17:6
 - priority: `0`
 - importance: `none`
@@ -740,15 +767,6 @@ Rows: 413
 - mt: The feast of unleavened bread shall you keep. Seven days you shall eat unleavened bread, as I commanded you, in the time of the month Abib: for in the month Abib you came out from Egypt.
 - brenton: And thou shalt keep the feast of unleavened bread: seven days shalt thou eat unleavened bread, as I have charged thee, at the season in the month of new corn; for in the month of new corn thou camest out from Egypt.
 
-## 2 Chronicles 20:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.791`
-- fresh_brenton_ratio: `0.300`
-- fresh: And now, behold, sons of Ammon and Moab and mount Sēir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
-- mt: And now, behold, the children of Ammon and Moab and mount Seir, whom you would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
-- brenton: And now, behold, the children of Ammon, and Moab, and mount Seir, with regard to whom thou didst not permit Israel to pass through their border, when they had come out of the land of Egypt, (for they turned away from them, and did not destroy them;)—
-
 ## Leviticus 8:26
 - priority: `0`
 - importance: `none`
@@ -766,6 +784,15 @@ Rows: 413
 - fresh: And there was famine in the days of David three years, year following year. And David sought the face of the Lord, and the Lord said, There is guilt on Saul and on his house for blood, because he put the Gabaonites to death.
 - mt: Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.
 - brenton: And there was a famine in the days of David three years, year after year; and David sought the face of the Lord. And the Lord said, There is guilt upon Saul and his house because of his bloody murder, whereby he slew the Gabaonites.
+
+## 2 Chronicles 20:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.796`
+- fresh_brenton_ratio: `0.318`
+- fresh: And now, behold, sons of Ammon and Moab and mount Seir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
+- mt: And now, behold, the children of Ammon and Moab and mount Seir, whom you would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
+- brenton: And now, behold, the children of Ammon, and Moab, and mount Seir, with regard to whom thou didst not permit Israel to pass through their border, when they had come out of the land of Egypt, (for they turned away from them, and did not destroy them;)—
 
 ## Deuteronomy 18:3
 - priority: `0`
@@ -923,20 +950,11 @@ Rows: 413
 ## 2 Chronicles 35:16
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.803`
-- fresh_brenton_ratio: `0.388`
-- fresh: And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Iōsias.
+- fresh_mt_ratio: `0.821`
+- fresh_brenton_ratio: `0.415`
+- fresh: And all service of Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of Lord according to command of king Josiah.
 - mt: So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah.
 - brenton: So all the service of the Lord was duly ordered and prepared in that day, for keeping the passover, and offering the whole-burnt-sacrifices on the altar of the Lord, according to the command of king Josias.
-
-## 1 Samuel 15:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.793`
-- fresh_brenton_ratio: `0.386`
-- fresh: And Samouēl said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
-- mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
-- brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
 
 ## Judges 2:7
 - priority: `0`
@@ -1001,15 +1019,6 @@ Rows: 413
 - mt: Six days shall you labour, and do all your work:
 - brenton: Six days thou shalt labour, and shalt perform all thy work.
 
-## Judges 8:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.778`
-- fresh_brenton_ratio: `0.393`
-- fresh: And Zēbee and Salmana said, Rise yourself and fall upon us, because as the man is, so is his strength. And Gideon rose and killed Zēbee and Salmana and took the crescents that were on the necks of their camels.
-- mt: Then Zebah and Zalmunna said, Rise you, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks.
-- brenton: And Zebee and Salmana said, Rise thou and fall upon us, for thy power is as that of a man; and Gedeon arose, and slew Zebee and Salmana; and he took the round ornaments that were on the necks of their camels.
-
 ## Exodus 23:6
 - priority: `0`
 - importance: `none`
@@ -1037,6 +1046,15 @@ Rows: 413
 - mt: And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses' part; as the LORD commanded Moses.
 - brenton: And Moses took of the anointing oil, and of the blood that was on the altar, and sprinkled it on Aaron, and on his garments, and his sons, and the garments of his sons with him.
 
+## 1 Samuel 15:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.800`
+- fresh_brenton_ratio: `0.427`
+- fresh: And Samuel said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams.
+- mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
+- brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
+
 ## Exodus 16:4
 - priority: `0`
 - importance: `none`
@@ -1054,6 +1072,15 @@ Rows: 413
 - fresh: For when I cast out the nations before your face and enlarge your borders, no one shall desire your land when you go up to appear before the Lord your God three times in the year.
 - mt: For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shall go up to appear before the LORD your God three times in the year.
 - brenton: For when I shall have cast out the nations before thy face, and shall have enlarged thy coasts, no one shall desire thy land, whenever thou mayest go up to appear before the Lord thy God, three times in the year.
+
+## 2 Samuel 5:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.985`
+- fresh_brenton_ratio: `0.621`
+- fresh: In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.
+- mt: In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
+- brenton: Seven years and six months he reigned in Chebron over Juda, and thirty-three years he reigned over all Israel and Juda in Jerusalem.
 
 ## Ezra 1:3
 - priority: `0`
@@ -1117,15 +1144,6 @@ Rows: 413
 - fresh: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
 - mt: Thirty milk giving camels with their colts, forty cattle, and ten bulls, twenty she asses, and ten foals.
 - brenton: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
-
-## 2 Samuel 5:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.955`
-- fresh_brenton_ratio: `0.616`
-- fresh: In Chebrōn he reigned over Judah seven years and six months, and in Ierousalēm he reigned thirty-three years over all Israel and Judah.
-- mt: In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
-- brenton: Seven years and six months he reigned in Chebron over Juda, and thirty-three years he reigned over all Israel and Juda in Jerusalem.
 
 ## Exodus 33:18
 - priority: `0`
@@ -1478,14 +1496,14 @@ Rows: 413
 - mt: And one kid of the goats, to make an atonement for you.
 - brenton: for a sin-offering, to make atonement for you; beside the perpetual whole-burnt-offering: and
 
-## 2 Samuel 3:22
+## 2 Kings 23:34
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.784`
-- fresh_brenton_ratio: `0.547`
-- fresh: And behold, the servants of David and Iōab were coming from the raid and bringing much spoil with them, and Abennēr was not with David in Chebrōn, because he had sent him away and he had gone in peace.
-- mt: And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
-- brenton: And, behold, the servants of David and Joab arrived from their expedition, and they brought much spoil with them: and Abenner was not with David in Chebron, because he had sent him away, and he had departed in peace.
+- fresh_mt_ratio: `0.787`
+- fresh_brenton_ratio: `0.551`
+- fresh: And Pharaoh Nechao made Eliakim son of Josiah king of Judah king in place of Josiah his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there.
+- mt: And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
+- brenton: And Pharao Nechao made Eliakim son of Josias king of Juda king over them in the place of his father Josias, and he changed his name to Joakim, and he took Joachaz and brought him to Egypt, and he died there.
 
 ## 1 Kings 9:27
 - priority: `0`
@@ -1541,6 +1559,15 @@ Rows: 413
 - mt: The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel.
 - brenton: The mountains were shaken before the face of the Lord Eloi, this Sina before the face of the Lord God of Israel.
 
+## 2 Chronicles 21:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.807`
+- fresh_brenton_ratio: `0.578`
+- fresh: And writing came to him from Ēlias the prophet, saying, Thus says Lord God of David your father: Because you did not walk in way of Jehoshaphat your father and in ways of Asa king of Judah,
+- mt: And there came a writing to him from Elijah the prophet, saying, Thus says the LORD God of David your father, Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,
+- brenton: And there came to him a message in writing from Eliu the prophet, saying, Thus saith the Lord God of thy father David, Because thou hast not walked in the way of thy father Josaphat, nor in the ways of Asa king of Juda,
+
 ## 1 Chronicles 23:31
 - priority: `0`
 - importance: `none`
@@ -1586,6 +1613,15 @@ Rows: 413
 - mt: You shall fear the LORD your God, and serve him, and shall swear by his name.
 - brenton: Thou shalt fear the Lord thy God, and him only shalt thou serve; and thou shalt cleave to him, and by his name thou shalt swear.
 
+## 2 Samuel 3:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.810`
+- fresh_brenton_ratio: `0.586`
+- fresh: And behold, the servants of David and Joab were coming from the raid and bringing much spoil with them, and Abner was not with David in Hebron, because he had sent him away and he had gone in peace.
+- mt: And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
+- brenton: And, behold, the servants of David and Joab arrived from their expedition, and they brought much spoil with them: and Abenner was not with David in Chebron, because he had sent him away, and he had departed in peace.
+
 ## Exodus 9:15
 - priority: `0`
 - importance: `none`
@@ -1621,6 +1657,15 @@ Rows: 413
 - fresh: "and showing mercy into thousands for those who love me and keep my commandments."
 - mt: And showing mercy unto thousands of them that love me, and keep my commandments.
 - brenton: and bestowing mercy on them that love me to thousands of them, and on them that keep my commandments.
+
+## 2 Chronicles 35:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.875`
+- fresh_brenton_ratio: `0.656`
+- fresh: In eighteenth year of reign of Josiah this Passover was kept.
+- mt: In the eighteenth year of the reign of Josiah was this passover kept.
+- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ## 2 Chronicles 9:9
 - priority: `0`
@@ -1684,15 +1729,6 @@ Rows: 413
 - fresh: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed.
 - mt: He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 - brenton: Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.
-
-## 2 Kings 23:34
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.760`
-- fresh_brenton_ratio: `0.545`
-- fresh: And Pharaoh Nechao made Eliakim son of Iōsias king of Judah king in place of Iōsias his father, and he changed his name to Ioakim, and he took Ioachas and brought him into Egypt, and he died there.
-- mt: And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
-- brenton: And Pharao Nechao made Eliakim son of Josias king of Juda king over them in the place of his father Josias, and he changed his name to Joakim, and he took Joachaz and brought him to Egypt, and he died there.
 
 ## 1 Samuel 1:4
 - priority: `0`
@@ -1766,6 +1802,15 @@ Rows: 413
 - mt: The LORD bless you, and keep you:
 - brenton: The Lord bless thee and keep thee;
 
+## 1 Chronicles 15:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.754`
+- fresh_brenton_ratio: `0.552`
+- fresh: And Levites stationed Haiman son of Joel, and from his brothers Asaph son of Barachia, and from sons of Merari, their brothers, Aithan son of Kisaiou,
+- mt: So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
+- brenton: So the Levites appointed Æman the son of Joel; Asaph the son of Barachias was one of his brethren; and Æthan the son of Kisæus was of the sons of Merari their brethren;
+
 ## Leviticus 1:1
 - priority: `0`
 - importance: `none`
@@ -1775,14 +1820,14 @@ Rows: 413
 - mt: And the LORD called unto Moses, and spoke unto him out of the tabernacle of the congregation, saying,
 - brenton: And the Lord called Moses again and spoke to him out of the tabernacle of witness, saying, Speak to the children of Israel, and thou shalt say to them,
 
-## 2 Chronicles 35:19
+## Judges 13:13
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.844`
-- fresh_brenton_ratio: `0.644`
-- fresh: In eighteenth year of reign of Iōsias this Passover was kept.
-- mt: In the eighteenth year of the reign of Josiah was this passover kept.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
+- fresh_mt_ratio: `0.882`
+- fresh_brenton_ratio: `0.683`
+- fresh: And the angel of the Lord said to Manoah, From all that I said to the woman, let her keep herself.
+- mt: And the angel of the LORD said unto Manoah, Of all that I said unto the woman let her beware.
+- brenton: And the angel of the Lord said to Manoë, Of all things concerning which I spoke to the woman, she shall beware.
 
 ## Deuteronomy 3:7
 - priority: `0`
@@ -1955,15 +2000,6 @@ Rows: 413
 - mt: Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,
 - brenton: Take the sum of the children of Caath from the midst of the sons of Levi, after their families, according to the houses of their fathers' households;
 
-## 2 Chronicles 21:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.577`
-- fresh: And writing came to him from Ēlias the prophet, saying, Thus says Lord God of David your father: Because you did not walk in way of Iōsaphat your father and in ways of Asa king of Judah,
-- mt: And there came a writing to him from Elijah the prophet, saying, Thus says the LORD God of David your father, Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,
-- brenton: And there came to him a message in writing from Eliu the prophet, saying, Thus saith the Lord God of thy father David, Because thou hast not walked in the way of thy father Josaphat, nor in the ways of Asa king of Juda,
-
 ## 2 Samuel 7:3
 - priority: `0`
 - importance: `none`
@@ -2009,6 +2045,15 @@ Rows: 413
 - mt: You shall not plant you a grove of any trees near unto the altar of the LORD your God, which you shall make you.
 - brenton: Thou shalt not plant for thyself a grove; thou shalt not plant for thyself any tree near the altar of thy God.
 
+## 1 Samuel 12:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.623`
+- fresh: When Jacob and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aaron and brought our fathers out of Egypt and settled them in this place.
+- mt: When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
+- brenton: When Jacob and his sons went into Egypt, and Egypt humbled them, then our fathers cried to the Lord, and the Lord sent Moses and Aaron; and they brought our fathers out of Egypt, and he made them to dwell in this place.
+
 ## Deuteronomy 32:9
 - priority: `0`
 - importance: `none`
@@ -2017,15 +2062,6 @@ Rows: 413
 - fresh: And the Lord's portion became his people, Jacob, the measuring line of his inheritance, Israel.
 - mt: For the LORD's portion is his people; Jacob is the lot of his inheritance.
 - brenton: And his people Jacob became the portion of the Lord, Israel was the line of his inheritance.
-
-## 1 Samuel 12:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.783`
-- fresh_brenton_ratio: `0.604`
-- fresh: When Iakōb and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aarōn and brought our fathers out of Egypt and settled them in this place.
-- mt: When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
-- brenton: When Jacob and his sons went into Egypt, and Egypt humbled them, then our fathers cried to the Lord, and the Lord sent Moses and Aaron; and they brought our fathers out of Egypt, and he made them to dwell in this place.
 
 ## 1 Kings 18:24
 - priority: `0`
@@ -2044,15 +2080,6 @@ Rows: 413
 - fresh: And you shall speak to the sons of Israel, saying, If a man dies and has no son, you shall put his inheritance upon his daughter.
 - mt: And you shall speak unto the children of Israel, saying, If a man die, and have no son, then all of you shall cause his inheritance to pass unto his daughter.
 - brenton: If a man die, and have no son, ye shall assign his inheritance to his daughter.
-
-## Judges 13:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.854`
-- fresh_brenton_ratio: `0.677`
-- fresh: And the angel of the Lord said to Manōe, From all that I said to the woman, let her keep herself.
-- mt: And the angel of the LORD said unto Manoah, Of all that I said unto the woman let her beware.
-- brenton: And the angel of the Lord said to Manoë, Of all things concerning which I spoke to the woman, she shall beware.
 
 ## Leviticus 8:18
 - priority: `0`
@@ -2315,6 +2342,15 @@ Rows: 413
 - mt: By little and little I will drive them out from before you, until you be increased, and inherit the land.
 - brenton: By little and little I will cast them out from before thee, until thou shalt be increased and inherit the earth.
 
+## 1 Chronicles 16:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.869`
+- fresh_brenton_ratio: `0.715`
+- fresh: and Banaias and Uzziel the priests with trumpets continually before ark of covenant of God.
+- mt: Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
+- brenton: and Banæas and Oziel the priests sounding continually with trumpets before the ark of the covenant of God in that day.
+
 ## Deuteronomy 21:12
 - priority: `0`
 - importance: `none`
@@ -2368,6 +2404,15 @@ Rows: 413
 - fresh: Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
 - mt: (There are eleven days' journey from Horeb by the way of mount Seir unto Kadeshbarnea.)
 - brenton: It is a journey of eleven days from Choreb to mount Seir as far as Cades Barne.
+
+## 2 Chronicles 20:35
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.802`
+- fresh_brenton_ratio: `0.650`
+- fresh: And after these things Jehoshaphat king of Judah joined himself with Ochozias king of Israel, and he acted lawlessly.
+- mt: And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:
+- brenton: And afterwards Josaphat king of Juda entered into an alliance with Ochozias king of Israel, (now this was an unrighteous man,)
 
 ## Judges 11:5
 - priority: `0`
@@ -2459,15 +2504,6 @@ Rows: 413
 - mt: But the men of Sodom were wicked and sinners before the LORD exceedingly.
 - brenton: But the men of Sodom were evil, and exceedingly sinful before God.
 
-## 1 Samuel 2:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.788`
-- fresh_brenton_ratio: `0.641`
-- fresh: And the child Samouēl was going on and growing and good both with the Lord and with men.
-- mt: And the child Samuel grew on, and was in favour both with the LORD, and also with men.
-- brenton: And the child Samuel advanced, and was in favour with God and with men.
-
 ## Exodus 2:9
 - priority: `0`
 - importance: `none`
@@ -2503,15 +2539,6 @@ Rows: 413
 - fresh: And she was bitter in soul and prayed to the Lord, and weeping she wept.
 - mt: And she was in bitterness of soul, and prayed unto the LORD, and wept sore.
 - brenton: And she was very much grieved in spirit, and prayed to the Lord, and wept abundantly.
-
-## 1 Chronicles 16:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.863`
-- fresh_brenton_ratio: `0.718`
-- fresh: and Banaias and Oziēl the priests with trumpets continually before ark of covenant of God.
-- mt: Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
-- brenton: and Banæas and Oziel the priests sounding continually with trumpets before the ark of the covenant of God in that day.
 
 ## 2 Kings 19:22
 - priority: `0`
@@ -2657,6 +2684,15 @@ Rows: 413
 - mt: And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 - brenton: And it came to pass that when God destroyed all the cities of the region round about, God remembered Abraam, and sent Lot out of the midst of the overthrow, when the Lord overthrew those cities in which Lot dwelt.
 
+## Judges 13:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.888`
+- fresh_brenton_ratio: `0.749`
+- fresh: And the angel of the Lord did not continue any longer to appear to Manoah and to his wife; then Manoah knew that he was an angel of the Lord.
+- mt: But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he was an angel of the LORD.
+- brenton: And the angel appeared no more to Manoë and to his wife: then Manoë knew that this was an angel of the Lord.
+
 ## Numbers 4:22
 - priority: `0`
 - importance: `none`
@@ -2747,15 +2783,6 @@ Rows: 413
 - mt: And the priest shall bring her near, and set her before the LORD:
 - brenton: And the priest shall bring her, and cause her to stand before the Lord.
 
-## 2 Chronicles 20:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.776`
-- fresh_brenton_ratio: `0.641`
-- fresh: And after these things Iōsaphat king of Judah joined himself with Ochozias king of Israel, and he acted lawlessly.
-- mt: And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:
-- brenton: And afterwards Josaphat king of Juda entered into an alliance with Ochozias king of Israel, (now this was an unrighteous man,)
-
 ## Deuteronomy 18:4
 - priority: `0`
 - importance: `none`
@@ -2782,6 +2809,15 @@ Rows: 413
 - fresh: And I will place my covenant between me and you and will multiply you exceedingly.
 - mt: And I will make my covenant between me and you, and will multiply you exceedingly.
 - brenton: And I will establish my covenant between me and thee, and I will multiply thee exceedingly.
+
+## Judges 16:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.778`
+- fresh_brenton_ratio: `0.644`
+- fresh: And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Samson our enemy into our hand.
+- mt: Then the lords of the Philistines gathered them together in order to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god has delivered Samson our enemy into our hand.
+- brenton: And the chiefs of the Philistines met to offer a great sacrifice to their god Dagon, and to make merry; and they said, God has given into our hand our enemy Sampson.
 
 ## Exodus 28:35
 - priority: `0`
@@ -2846,6 +2882,15 @@ Rows: 413
 - mt: And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael.
 - brenton: And the ruler of the household of the family of Gedson was Elisaph the son of Dael.
 
+## 2 Kings 10:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.777`
+- fresh_brenton_ratio: `0.646`
+- fresh: Only, from the sins of Jeroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Bethel and in Dan.
+- mt: Nevertheless from the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, to know, the golden calves that were in Bethel, and that were in Dan.
+- brenton: Nevertheless Ju departed not from following the sins of Jeroboam the son of Nabat, who led Israel to sin: these were the golden heifers in Bæthel and in Dan.
+
 ## Exodus 23:32
 - priority: `0`
 - importance: `none`
@@ -2900,15 +2945,6 @@ Rows: 413
 - mt: And it was told Tamar, saying, Behold your father in law goes up to Timnath to shear his sheep.
 - brenton: And it was told Thamar his daughter-in-law, saying, Behold, thy father-in-law goeth up to Thamna, to shear his sheep.
 
-## Judges 16:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.770`
-- fresh_brenton_ratio: `0.642`
-- fresh: And the satraps of the foreigners gathered to sacrifice a great sacrifice to Dagon their god and to rejoice, and they said, Our god gave Sampsōn our enemy into our hand.
-- mt: Then the lords of the Philistines gathered them together in order to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god has delivered Samson our enemy into our hand.
-- brenton: And the chiefs of the Philistines met to offer a great sacrifice to their god Dagon, and to make merry; and they said, God has given into our hand our enemy Sampson.
-
 ## Judges 8:32
 - priority: `0`
 - importance: `none`
@@ -2935,15 +2971,6 @@ Rows: 413
 - fresh: And if you say in your heart, How shall we know the word that the Lord did not speak?
 - mt: And if you say in yours heart, How shall we know the word which the LORD has not spoken?
 - brenton: But if thou shalt say in thine heart, How shall we know the word which the Lord has not spoken?
-
-## 2 Kings 10:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.637`
-- fresh: Only, from the sins of Jeroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan.
-- mt: Nevertheless from the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, to know, the golden calves that were in Bethel, and that were in Dan.
-- brenton: Nevertheless Ju departed not from following the sins of Jeroboam the son of Nabat, who led Israel to sin: these were the golden heifers in Bæthel and in Dan.
 
 ## 2 Samuel 7:12
 - priority: `0`
@@ -3260,6 +3287,15 @@ Rows: 413
 - mt: Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
 - brenton: When he was thirty and two years old, Joram succeeded to his kingdom, and he reigned eight years in Jerusalem.
 
+## 2 Samuel 3:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.917`
+- fresh_brenton_ratio: `0.805`
+- fresh: Do you not know the evil of Abner son of Ner, that he came to deceive you and to know your going out and your coming in and to know all that you do?
+- mt: You know Abner the son of Ner, that he came to deceive you, and to know your going out and your coming in, and to know all that you do.
+- brenton: Knowest thou not the mischief of Abenner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all things that thou doest?
+
 ## Exodus 12:8
 - priority: `0`
 - importance: `none`
@@ -3349,15 +3385,6 @@ Rows: 413
 - fresh: And the city came under siege until the eleventh year of king Sedekias.
 - mt: And the city was besieged unto the eleventh year of king Zedekiah.
 - brenton: And the city was besieged until the eleventh year of king Sedekias on the ninth day of the month.
-
-## Judges 13:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.848`
-- fresh_brenton_ratio: `0.739`
-- fresh: And the angel of the Lord did not continue any longer to appear to Manōe and to his wife; then Manōe knew that he was an angel of the Lord.
-- mt: But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he was an angel of the LORD.
-- brenton: And the angel appeared no more to Manoë and to his wife: then Manoë knew that this was an angel of the Lord.
 
 ## Judges 17:12
 - priority: `0`
@@ -3557,6 +3584,15 @@ Rows: 413
 - mt: And she said, Oh my lord, as your soul lives, my lord, I am the woman that stood by you here, praying unto the LORD.
 - brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
 
+## Judges 4:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.856`
+- fresh_brenton_ratio: `0.751`
+- fresh: And Barak summoned Zebulun and Naphtali to Kedes, and ten thousand men went up at his feet, and Deborah went up with him.
+- mt: And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
+- brenton: And Barac called Zabulon and Nephthali out of Cades, and there went up at his feet ten thousand men, and Debbora went up with him.
+
 ## Numbers 22:2
 - priority: `0`
 - importance: `none`
@@ -3629,6 +3665,15 @@ Rows: 413
 - mt: Wherefore say, Behold, I give unto him my covenant of peace:
 - brenton: Thus do thou say to him, Behold, I give him a covenant of peace:
 
+## 2 Samuel 2:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.918`
+- fresh_brenton_ratio: `0.816`
+- fresh: And Abner son of Ner and the servants of Iebosthe son of Saul went out from Manaem to Gibeon.
+- mt: And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
+- brenton: And Abenner the son of Ner went forth, and the servants of Jebosthe the son of Saul, from Manaem to Gabaon.
+
 ## 2 Samuel 12:6
 - priority: `0`
 - importance: `none`
@@ -3673,6 +3718,15 @@ Rows: 413
 - fresh: He reigned three years in Jerusalem, and name of his mother was Maacha daughter of Ouriēl from Gabaon. And there was war between Abia and Jeroboam.
 - mt: He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 - brenton: He reigned three years in Jerusalem. And his mother's name was Maacha, daughter of Uriel of Gabaon.
+
+## 2 Chronicles 20:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.864`
+- fresh_brenton_ratio: `0.763`
+- fresh: And Jehoshaphat bowed with face to ground, and all Judah and inhabitants of Jerusalem fell before Lord to worship Lord.
+- mt: And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD.
+- brenton: And Josaphat bowed with his face to the ground with all Juda and the dwellers in Jerusalem, and they fell before the Lord to worship the Lord.
 
 ## Genesis 37:30
 - priority: `0`

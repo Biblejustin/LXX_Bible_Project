@@ -63,7 +63,6 @@ NAME_MAP = {
     "Baithēl": {"preferred": "Bethel", "kind": "place"},
     "Manassēs": {"preferred": "Manasseh", "kind": "person"},
     "Ierousalēm": {"preferred": "Jerusalem", "kind": "place"},
-    "Iiēl": {"preferred": "Jeiel", "kind": "person"},
     "Manōe": {"preferred": "Manoah", "kind": "person"},
     "Amalēk": {"preferred": "Amalek", "kind": "people/place"},
     "Nēr": {"preferred": "Ner", "kind": "person"},
@@ -72,7 +71,6 @@ NAME_MAP = {
     "Iōatham": {"preferred": "Jotham", "kind": "person"},
     "Asaēl": {"preferred": "Asahel", "kind": "person"},
     "Debbōra": {"preferred": "Deborah", "kind": "person"},
-    "Sokchōth": {"preferred": "Succoth", "kind": "place"},
     "Zēbee": {"preferred": "Zebah", "kind": "person"},
     "Massēpha": {"preferred": "Mizpah", "kind": "place"},
     "Massēphath": {"preferred": "Mizpah", "kind": "place"},
@@ -83,12 +81,9 @@ NAME_MAP = {
     "Mōab": {"preferred": "Moab", "kind": "people/place"},
     "Sennachērim": {"preferred": "Sennacherib", "kind": "person"},
     "Babylōn": {"preferred": "Babylon", "kind": "place"},
-    "Iōakim": {"preferred": "Jehoiakim", "kind": "person"},
     "Shilōm": {"preferred": "Shiloh", "kind": "place"},
-    "Bērsabee": {"preferred": "Beersheba", "kind": "place"},
     "Manaēm": {"preferred": "Menahem", "kind": "person"},
     "Rapsakēs": {"preferred": "Rabshakeh", "kind": "title/name"},
-    "Iōanan": {"preferred": "Johanan", "kind": "person"},
     "Ioēl": {"preferred": "Joel", "kind": "person"},
     "Gabaōn": {"preferred": "Gibeon", "kind": "place"},
     "Ierichō": {"preferred": "Jericho", "kind": "place"},
@@ -110,6 +105,49 @@ NAME_MAP = {
     "Siōn": {"preferred": "Zion", "kind": "place"},
     "Edōm": {"preferred": "Edom", "kind": "people/place"},
     "Amōs": {"preferred": "Amoz", "kind": "person"},
+}
+
+CONTEXT_DEPENDENT_NAME_FORMS = {
+    "Kedrōn": {
+        "kind": "place",
+        "note": "Context-dependent: usually Kidron in Jerusalem-wadi contexts, but Kitron at Judges 1:30.",
+    },
+    "Iōas": {
+        "kind": "person",
+        "note": "Context-dependent: Joash and Jehoash vary by king/person context.",
+    },
+    "Jōas": {
+        "kind": "person",
+        "note": "Context-dependent: Joash and Jehoash vary by king/person context.",
+    },
+    "Iōram": {
+        "kind": "person",
+        "note": "Context-dependent: Joram and Jehoram vary by king/person context.",
+    },
+    "Iōdae": {
+        "kind": "person",
+        "note": "Context-dependent: often Jehoiada, but Jedaiah in some priest-list contexts.",
+    },
+    "Sokchōth": {
+        "kind": "place",
+        "note": "Context-dependent: Succoth in Judges 8, but Socoh/Socchoh in 1 Samuel 17.",
+    },
+    "Bērsabee": {
+        "kind": "place/person",
+        "note": "Context-dependent: Beersheba as place, Bathsheba as person in David/Solomon contexts.",
+    },
+    "Iōanan": {
+        "kind": "person",
+        "note": "Context-dependent: Johanan and Jehohanan vary by person context.",
+    },
+    "Iōakim": {
+        "kind": "person",
+        "note": "Context-dependent: Jehoiakim as king, Joiakim in Nehemiah priestly contexts.",
+    },
+    "Iiēl": {
+        "kind": "person",
+        "note": "Context-dependent: Jeiel, Jeuel, or Jehiel by genealogy context.",
+    },
 }
 
 RESOURCE_HINTS = [
@@ -158,12 +196,13 @@ def resource_labels(path: Path) -> list[str]:
     return labels
 
 
-def gather_name_hits() -> dict[str, dict[str, object]]:
+def gather_name_hits(name_map: dict[str, dict[str, str]]) -> dict[str, dict[str, object]]:
     hits: dict[str, dict[str, object]] = {}
-    for current_form, meta in NAME_MAP.items():
+    for current_form, meta in name_map.items():
         hits[current_form] = {
-            "preferred": meta["preferred"],
+            "preferred": meta.get("preferred", ""),
             "kind": meta["kind"],
+            "note": meta.get("note", ""),
             "count": 0,
             "sample_refs": [],
         }
@@ -187,10 +226,12 @@ def main() -> None:
     prior_rows = {row["current_form"]: row for row in load_csv(OUT_PRIVATE_CSV) if row.get("current_form")}
     meanings = load_name_meanings(PROPER_NAMES)
     resources = resource_labels(LOGOS_ALL)
-    hits = gather_name_hits()
+    hits = gather_name_hits(NAME_MAP)
+    context_hits = gather_name_hits(CONTEXT_DEPENDENT_NAME_FORMS)
 
     public_rows = []
     private_rows = []
+    context_rows = []
     for current_form, data in sorted(hits.items(), key=lambda item: (-int(item[1]["count"]), item[0])):
         count = int(data["count"])
         if count == 0:
@@ -224,6 +265,20 @@ def main() -> None:
                 "resource_3": resources[2] if len(resources) > 2 else "",
                 "status": prior.get("status", ""),
                 "notes": prior.get("notes", ""),
+            }
+        )
+
+    for current_form, data in sorted(context_hits.items(), key=lambda item: (-int(item[1]["count"]), item[0])):
+        count = int(data["count"])
+        if count == 0:
+            continue
+        context_rows.append(
+            {
+                "current_form": current_form,
+                "kind": str(data["kind"]),
+                "occurrences": str(count),
+                "sample_refs": ", ".join(data["sample_refs"]),
+                "note": str(data["note"]),
             }
         )
 
@@ -274,6 +329,27 @@ def main() -> None:
                 "",
             ]
         )
+    lines.extend(
+        [
+            "## Context-Dependent Forms Excluded from Auto-Apply",
+            "",
+            "These forms remain visible for manual contextual review. They are intentionally not written to the private apply worksheet.",
+            "",
+        ]
+    )
+    if not context_rows:
+        lines.extend(["[none]", ""])
+    for row in context_rows:
+        lines.extend(
+            [
+                f"### {row['current_form']}",
+                f"- kind: `{row['kind']}`",
+                f"- occurrences: `{row['occurrences']}`",
+                f"- sample refs: {row['sample_refs']}",
+                f"- note: {row['note']}",
+                "",
+            ]
+        )
     OUT_MD.write_text("\n".join(lines), encoding="utf-8")
 
     OUT_PRIVATE_README.write_text(
@@ -304,6 +380,8 @@ def main() -> None:
     diagnostics = {
         "rows": len(public_rows),
         "top_rows": public_rows[:10],
+        "context_dependent_rows": len(context_rows),
+        "context_dependent_top_rows": context_rows[:10],
         "public_md": str(OUT_MD),
         "public_csv": str(OUT_CSV),
         "private_csv": str(OUT_PRIVATE_CSV),
