@@ -5,7 +5,7 @@ Drafted rows checked: 22917
 Rows with MT witness: 21768
 Rows with Brenton witness: 12491
 Rows same as MT, different from Brenton: 13
-Rows MT-leaning vs Brenton: 419
+Rows MT-leaning vs Brenton: 420
 Rows different from both: 12237
 
 Method:
@@ -1153,6 +1153,15 @@ Method:
 - mt: And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses' part; as the LORD commanded Moses.
 - brenton: And Moses took of the anointing oil, and of the blood that was on the altar, and sprinkled it on Aaron, and on his garments, and his sons, and the garments of his sons with him.
 
+### 1 Chronicles 26:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.456`
+- fresh: Ōlam fifth, Jehohanan sixth, Eliōēnai seventh.
+- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
+- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
+
 ### 1 Samuel 15:22
 - priority: `0`
 - importance: `none`
@@ -1251,6 +1260,15 @@ Method:
 - fresh: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
 - mt: Thirty milk giving camels with their colts, forty cattle, and ten bulls, twenty she asses, and ten foals.
 - brenton: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
+
+### Nehemiah 12:42
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.422`
+- fresh: and Maasias and Semeias and Eleazar and Ozi and Jehohanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
+- mt: And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+- brenton: And the singers were heard, and were numbered.
 
 ### Exodus 33:18
 - priority: `0`
@@ -1368,15 +1386,6 @@ Method:
 - fresh: and he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add upon your yoke. My father disciplined you with whips, but I will discipline you with scorpions.
 - mt: And spoke to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions.
 - brenton: And he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.
-
-### 1 Chronicles 26:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.753`
-- fresh_brenton_ratio: `0.450`
-- fresh: Ōlam fifth, Iōanan sixth, Eliōēnai seventh.
-- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
-- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
 
 ### Leviticus 18:7
 - priority: `0`
@@ -2728,6 +2737,15 @@ Method:
 - mt: Six days you shall work, but on the seventh day you shall rest: in earring time and in harvest you shall rest.
 - brenton: Six days thou shalt work, but on the seventh day thou shalt rest: there shall be rest in seed-time and harvest.
 
+### Judges 8:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.918`
+- fresh_brenton_ratio: `0.776`
+- fresh: And Gideon son of Joash died in a good old age and was buried in the tomb of Joash his father in Ephratha of the father of Abiezri.
+- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
+
 ### Nehemiah 1:10
 - priority: `0`
 - importance: `none`
@@ -3051,15 +3069,6 @@ Method:
 - fresh: And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep.
 - mt: And it was told Tamar, saying, Behold your father in law goes up to Timnath to shear his sheep.
 - brenton: And it was told Thamar his daughter-in-law, saying, Behold, thy father-in-law goeth up to Thamna, to shear his sheep.
-
-### Judges 8:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.893`
-- fresh_brenton_ratio: `0.765`
-- fresh: And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri.
-- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
-- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
 
 ### Leviticus 7:6
 - priority: `0`
@@ -5646,6 +5655,15 @@ Method:
 - mt: Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:
 - brenton: the first-born of our sons, and of our cattle, as it is written in the law, and the first-born of our herds and of our flocks, to bring to the house of our God, for the priests that minister in the house of our God.
 
+### 2 Chronicles 24:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.025`
+- fresh_brenton_ratio: `0.065`
+- fresh: And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Jehoiada the priest and killed him on his bed, and he died. And they buried him in City of David, but they did not bury him in tomb of kings.
+- mt: And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchers of the kings.
+- brenton: And after they had departed from him, when they had left him in sore diseases, then his servants conspired against him because of the blood of the son of Jodae the priest, and slew him on his bed, and he died, and they buried him in the city of David, but they buried him not in the sepulchre of the kings.
+
 ### 1 Samuel 2:29
 - priority: `0`
 - importance: `none`
@@ -5726,15 +5744,6 @@ Method:
 - fresh: And now give the men, the ungodly ones in Gabaa, the sons of Belial, and we will put them to death and remove evil from Israel. But the sons of Benjamin were not willing to listen to the voice of their brothers, the sons of Israel.
 - mt: Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel.
 - brenton: Now then give up the men the sons of transgressors that are in Gabaa, and we will put them to death, and purge out wickedness from Israel: but the children of Benjamin consented not to hearken to the voice of their brethren the children of Israel.
-
-### 2 Chronicles 24:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.026`
-- fresh_brenton_ratio: `0.065`
-- fresh: And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Iōdae the priest and killed him on his bed, and he died. And they buried him in City of David, but they did not bury him in tomb of kings.
-- mt: And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchers of the kings.
-- brenton: And after they had departed from him, when they had left him in sore diseases, then his servants conspired against him because of the blood of the son of Jodae the priest, and slew him on his bed, and he died, and they buried him in the city of David, but they buried him not in the sepulchre of the kings.
 
 ### Deuteronomy 14:7
 - priority: `0`
@@ -7388,7 +7397,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.046`
 - fresh_brenton_ratio: `0.230`
-- fresh: And he distributed to all the people, to all the host of Israel, from Dan to Bērsabee, from man to woman, to each a cake of bread and a roasted cake and a pan-cake, and all the people went away, each to his house.
+- fresh: And he distributed to all the people, to all the host of Israel, from Dan to Beersheba, from man to woman, to each a cake of bread and a roasted cake and a pan-cake, and all the people went away, each to his house.
 - mt: And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house.
 - brenton: And he distributed to all the people, even to all the host of Israel from Dan to Bersabee, both men and women, to every one a cake of bread, and a joint of meat, and a cake from the frying-pan: and all the people departed every one to his home.
 
@@ -7760,15 +7769,6 @@ Method:
 - fresh: and a peg shall be for you on your belt, and it shall be, when you sit outside, then you shall dig with it and, turning back, you shall cover your indecency with it.
 - mt: For the LORD your God walks in the midst of your camp, to deliver you, and to give up yours enemies before you; therefore shall your camp be holy: that he see no unclean thing in you, and turn away from you.
 - brenton: and thou shalt have a trowel on thy girdle; and it shall come to pass when thou wouldest relieve thyself abroad, that thou shalt dig with it, and shalt bring back the earth and cover thy nuisance.
-
-### Judges 6:31
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.051`
-- fresh_brenton_ratio: `0.034`
-- fresh: And Jōas said to the men standing against him, Will you now judge on behalf of Baal, or will you save him? Whoever pleads his case shall die by morning. If he is a god, let him avenge himself, because his altar was dug down.
-- mt: And Joash said unto all that stood against him, Will all of you plead for Baal? will all of you save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one has cast down his altar.
-- brenton: And Gedeon the son of Joas said to all the men who rose up against him, Do ye now plead for Baal, or will ye save him? whoever will plead for him, let him be slain this morning: if he be a god let him plead for himself, because one has thrown down his altar.
 
 ### 2 Kings 17:15
 - priority: `0`
@@ -8157,6 +8157,15 @@ Method:
 - mt: And that day Joshua took Makkedah, and stroke it with the edge of the sword, and the king thereof he utterly destroyed, them, and all the souls that were therein; he let none remain: and he did to the king of Makkedah as he did unto the king of Jericho.
 - brenton: And they took Makeda on that day, and slew the inhabitants with the edge of the sword, and they utterly destroyed every living thing that was in it; and there was none left in it that was preserved and had escaped; and they did to the king of Makeda, as they did to the king of Jericho.
 
+### 2 Chronicles 24:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.056`
+- fresh_brenton_ratio: `0.462`
+- fresh: And king Joash called Jehoiada the chief and said to him, Why did you not see about Levites to bring from Judah and Jerusalem what was ordained by Moyses man of God when he assembled Israel for tent of testimony?
+- mt: And the king called for Jehoiada the chief, and said unto him, Why have you not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?
+- brenton: And king Joas called Jodae the chief, and said to him, Why hast thou not looked after the Levites, so that they should bring from Juda and Jerusalem that which was prescribed by Moses the man of God, when he assembled Israel at the tabernacle of witness?
+
 ### Exodus 33:16
 - priority: `0`
 - importance: `none`
@@ -8210,15 +8219,6 @@ Method:
 - fresh: And the satraps of the foreigners went up to her and said to her, Deceive him and see wherein his great strength lies and in what way we may prevail against him and bind him so as to humble him, and we will give you, each man, one thousand one hundred silver pieces.
 - mt: And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength lies, and by what means we may prevail against him, that we may bind him to afflict him; and we will give you every one of us eleven hundred pieces of silver.
 - brenton: And the princes of the Philistines came up to her, and said to her, Beguile him, and see wherein his great strength is, and wherewith we shall prevail against him, and bind him to humble him; and we will give thee each eleven hundred pieces of silver.
-
-### 2 Chronicles 22:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.057`
-- fresh_brenton_ratio: `0.219`
-- fresh: And Iōsabeath daughter of king took Iōas son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Iōdae the priest, hid him from before Gotholia, and she did not kill him.
-- mt: But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
-- brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
 
 ### 2 Chronicles 25:4
 - priority: `0`
@@ -9120,6 +9120,15 @@ Method:
 - mt: As soon as all of you be come into the city, all of you shall immediately find him, before he go up to the high place to eat: for the people will not eat until he comes, because he does bless the sacrifice; and afterwards they eat that be bidden. Now therefore get you up; for about this time all of you shall find him.
 - brenton: As soon as ye shall enter into the city, so shall ye find him in the city, before he goes up to Bama to eat; for the people will not eat until he comes in, for he blesses the sacrifice, and afterwards the guests eat; now then go up, for ye shall find him because of the holiday.
 
+### Judges 8:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.068`
+- fresh_brenton_ratio: `0.093`
+- fresh: And Gideon came to the leaders of Succoth and said to them, Behold, Zebah and Salmana, about whom you reproached me, saying, Is the hand of Zebah and Salmana now in your hand, that we should give loaves to your exhausted men?
+- mt: And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom all of you did reproach me, saying, Are the hands of Zebah and Zalmunna now in yours hand, that we should give bread unto your men that are weary?
+- brenton: And Gedeon came to the princes of Socchoth, and said, Behold Zebee and Salmana, about whom ye reproached me, saying, Are the hands of Zebee and Salmana now in thy hand, that we should give bread to thy men that are faint?
+
 ### 1 Chronicles 28:2
 - priority: `0`
 - importance: `none`
@@ -9137,15 +9146,6 @@ Method:
 - fresh: And the cities that the foreigners took from the sons of Israel were given back, and they restored them to Israel from Ascalon to Azob, and the border of Israel they removed from the hand of the foreigners. And there was peace between Israel and between the Amorite.
 - mt: And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.
 - brenton: And the cities which the Philistines took from the children of Israel were restored; and they restored them to Israel from Ascalon to Azob: and they took the coast of Israel out of the hand of the Philistines; and there was peace between Israel and the Amorite.
-
-### Judges 8:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.068`
-- fresh_brenton_ratio: `0.240`
-- fresh: And Gideon came to the leaders of Sokchōth and said to them, Behold, Zebah and Salmana, about whom you reproached me, saying, Is the hand of Zebah and Salmana now in your hand, that we should give loaves to your exhausted men?
-- mt: And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom all of you did reproach me, saying, Are the hands of Zebah and Zalmunna now in yours hand, that we should give bread unto your men that are weary?
-- brenton: And Gedeon came to the princes of Socchoth, and said, Behold Zebee and Salmana, about whom ye reproached me, saying, Are the hands of Zebee and Salmana now in thy hand, that we should give bread to thy men that are faint?
 
 ### Numbers 31:47
 - priority: `0`
@@ -9489,15 +9489,6 @@ Method:
 - mt: I will pass through all your flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such shall be my hire.
 - brenton: Let all thy sheep pass by to-day, and separate thence every grey sheep among the rams, and every one that is speckled and spotted among the goats—this shall be my reward.
 
-### 2 Chronicles 23:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.074`
-- fresh_brenton_ratio: `0.037`
-- fresh: And Iōdae the priest entrusted works of house of Lord by hand of priests and Levites and restored courses of priests and Levites which David appointed over house of Lord, to offer whole burnt offerings to Lord as written in law of Moyses, with gladness and with songs by hand of David.
-- mt: Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
-- brenton: And Jodae the priest committed the works of the house of the Lord into the hand of the priests and Levites, and he re-established the courses of the priests and Levites which David appointed over the house of the Lord, and he appointed them to offer whole-burnt-offerings to the Lord, as it is written in the law of Moses, with gladness, and with songs by the hand of David.
-
 ### 2 Samuel 17:14
 - priority: `0`
 - importance: `none`
@@ -9632,6 +9623,15 @@ Method:
 - fresh: And it shall be, when the feet of the priests carrying the ark of the covenant of the Lord of all the earth come to rest in the water of the Jordan, the water of the Jordan will fail, and the water coming down will stand.
 - mt: And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the LORD of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap.
 - brenton: And it shall come to pass, when the feet of the priests that bear the ark of the covenant of the Lord of the whole earth rest in the water of Jordan, the water of Jordan below shall fail, and the water coming down from above shall stop.
+
+### 2 Chronicles 22:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.076`
+- fresh_brenton_ratio: `0.230`
+- fresh: And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
+- mt: But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
+- brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
 
 ### Deuteronomy 31:20
 - priority: `0`
@@ -10371,15 +10371,6 @@ Method:
 - mt: And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of music, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
 - brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
 
-### 2 Chronicles 23:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.085`
-- fresh_brenton_ratio: `0.047`
-- fresh: And Iōdae the priest went out and commanded centurions and leaders of force and said to them, Throw her out beyond house, and whoever enters after her, let him die by sword, because priest said, Let her not die in house of Lord.
-- mt: Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her out of the ranges: and whoso follows her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD.
-- brenton: And Jodae the priest went forth, and Jodae the priest charged the captains of hundreds, even the captains of the host, and said to them, Thrust her forth outside the house, and follow her, and let her be slain with the sword. For the priest said, Let her not be slain in the house of the Lord.
-
 ### Nehemiah 10:7
 - priority: `0`
 - importance: `none`
@@ -10430,7 +10421,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.085`
 - fresh_brenton_ratio: `0.284`
-- fresh: And priests entered inside house of Lord to sanctify it and threw out every uncleanness found in house of Lord into court of house of Lord, and Levites received it to throw outside into torrent of Kedrōn.
+- fresh: And priests entered inside house of Lord to sanctify it and threw out every uncleanness found in house of Lord into court of house of Lord, and Levites received it to throw outside into torrent of Kidron.
 - mt: And the priests went into the inner part of the house of the LORD, to cleanse it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it, to carry it out abroad into the brook Kidron.
 - brenton: And the priests entered into the house of the Lord, to purify it, and they cast out all the uncleanness that was found in the house of the Lord, even into the court of the house of the Lord: and the Levites received it to cast into the brook of Kedron without.
 
@@ -10992,6 +10983,15 @@ Method:
 - mt: When you take the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when you number them; that there be no plague among them, when you number them.
 - brenton: If thou take account of the children of Israel in the surveying of them, and they shall give every one a ransom for his soul to the Lord, then there shall not be among them a destruction in the visiting of them.
 
+### Judges 6:31
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.093`
+- fresh_brenton_ratio: `0.047`
+- fresh: And Joash said to the men standing against him, Will you now judge on behalf of Baal, or will you save him? Whoever pleads his case shall die by morning. If he is a god, let him avenge himself, because his altar was dug down.
+- mt: And Joash said unto all that stood against him, Will all of you plead for Baal? will all of you save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one has cast down his altar.
+- brenton: And Gedeon the son of Joas said to all the men who rose up against him, Do ye now plead for Baal, or will ye save him? whoever will plead for him, let him be slain this morning: if he be a god let him plead for himself, because one has thrown down his altar.
+
 ### 2 Kings 5:18
 - priority: `0`
 - importance: `none`
@@ -11104,8 +11104,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.094`
-- fresh_brenton_ratio: `0.316`
-- fresh: And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kedrōn and carried their dust to Bethel.
+- fresh_brenton_ratio: `0.307`
+- fresh: And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kidron and carried their dust to Bethel.
 - mt: And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.
 - brenton: And the king commanded Chelcias the high priest, and the priests of the second order, and them that kept the door, to bring out of the temple of the Lord all the vessels that were made for Baal, and for the grove, and all the host of heaven, and he burned them without Jerusalem in the fields of Kedron, and took the ashes of them to Bæthel.
 
@@ -11122,8 +11122,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.094`
-- fresh_brenton_ratio: `0.659`
-- fresh: Because with few men force of Syria came, and God gave into their hands very great force, because they forsook Lord God of their fathers, and against Iōas he made judgments.
+- fresh_brenton_ratio: `0.657`
+- fresh: Because with few men force of Syria came, and God gave into their hands very great force, because they forsook Lord God of their fathers, and against Joash he made judgments.
 - mt: For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash.
 - brenton: For the army of Syria came with few men, yet God gave into their hands a very large army, because they had forsaken the God of their fathers; and he brought judgments on Joas.
 
@@ -11748,6 +11748,15 @@ Method:
 - mt: Then Menahem stroke Tiphsah, and all that were therein, and the coasts thereof from Tirzah: because they opened not to him, therefore he stroke it; and all the women therein that were with child he ripped up.
 - brenton: Then Manaem smote both Thersa and all that was in it, and its borders extending beyond Thersa, because they opened not to him: and he smote it, and ripped up the women with child.
 
+### 2 Chronicles 23:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.105`
+- fresh_brenton_ratio: `0.040`
+- fresh: And Jehoiada the priest entrusted works of house of Lord by hand of priests and Levites and restored courses of priests and Levites which David appointed over house of Lord, to offer whole burnt offerings to Lord as written in law of Moyses, with gladness and with songs by hand of David.
+- mt: Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
+- brenton: And Jodae the priest committed the works of the house of the Lord into the hand of the priests and Levites, and he re-established the courses of the priests and Levites which David appointed over the house of the Lord, and he appointed them to offer whole-burnt-offerings to the Lord, as it is written in the law of Moses, with gladness, and with songs by the hand of David.
+
 ### Numbers 5:27
 - priority: `0`
 - importance: `none`
@@ -11774,15 +11783,6 @@ Method:
 - fresh: And he washed the belly and the feet with water, and Moses offered the whole ram on the altar. It was a whole burnt offering for an aroma of sweet fragrance, an offering to the Lord, just as the Lord commanded Moses.
 - mt: And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses.
 - brenton: And Moses brought the second ram, the ram of consecration, and Aaron and his sons laid their hands on the head of the ram, and he slew him;
-
-### 2 Chronicles 36:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.105`
-- fresh_brenton_ratio: `0.290`
-- fresh: And rest of words of Iōakim and all things he did, are not these written upon book of words of days for kings of Judah? And Iōakim slept with his fathers and was buried in Ganoza with his fathers, and Iechonias his son reigned in his place.
-- mt: Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his position.
-- brenton: And the rest of the acts of Joakim, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda? And Joakim slept with his fathers, and was buried with his fathers in Ganozae: and Jechonias his son reigned in his stead.
 
 ### Joshua 9:24
 - priority: `0`
@@ -12711,15 +12711,6 @@ Method:
 - mt: Where shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
 - brenton: Whither do we go up? and your brethren drew away your heart, saying, It is a great nation and populous, and mightier than we; and there are cities great and walled up to heaven: moreover we saw there the sons of the giants.
 
-### 2 Chronicles 24:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.122`
-- fresh_brenton_ratio: `0.403`
-- fresh: And king and Iōdae the priest gave it to those doing works for work of house of Lord, and they hired stonecutters and carpenters to repair house of Lord, and workers in iron and bronze to repair house of Lord.
-- mt: And the king and Jehoiada gave it to such as did the work of the service of the house of the LORD, and hired stone workers and carpenters to repair the house of the LORD, and also such as wrought iron and brass to mend the house of the LORD.
-- brenton: And the king and Jodae the priest gave it to the workmen employed in the service of the house of the Lord, and they hired masons and carpenters to repair the house of the Lord, also smiths and braziers to repair the house of the Lord.
-
 ### Nehemiah 8:1
 - priority: `0`
 - importance: `none`
@@ -12746,6 +12737,15 @@ Method:
 - fresh: And Moses went out from Pharaoh and prayed to God.
 - mt: And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?
 - brenton: And Moses went out from Pharao, and prayed to God.
+
+### 2 Chronicles 23:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.123`
+- fresh_brenton_ratio: `0.051`
+- fresh: And Jehoiada the priest went out and commanded centurions and leaders of force and said to them, Throw her out beyond house, and whoever enters after her, let him die by sword, because priest said, Let her not die in house of Lord.
+- mt: Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her out of the ranges: and whoso follows her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD.
+- brenton: And Jodae the priest went forth, and Jodae the priest charged the captains of hundreds, even the captains of the host, and said to them, Thrust her forth outside the house, and follow her, and let her be slain with the sword. For the priest said, Let her not be slain in the house of the Lord.
 
 ### 2 Samuel 20:12
 - priority: `0`
@@ -13079,15 +13079,6 @@ Method:
 - fresh: And Joshua took all the land, just as the Lord commanded Moses, and Joshua gave it as an inheritance to Israel in division according to their tribes, and the land rested from war.
 - mt: So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.
 - brenton: And Joshua took all the land, as the Lord commanded Moses; and Joshua gave them for an inheritance to Israel by division according to their tribes; and the land ceased from war.
-
-### 2 Kings 11:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.129`
-- fresh_brenton_ratio: `0.110`
-- fresh: And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
-- mt: And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and showed them the king's son.
-- brenton: And in the seventh year Jodae sent and took the captains of hundreds of the Chorri and of the Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king's son.
 
 ### 2 Chronicles 28:15
 - priority: `0`
@@ -13548,15 +13539,6 @@ Method:
 - mt: But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.
 - brenton: But if a man have no near kinsman, so as to make satisfaction for his trespass to him, the trespass-offering paid to the Lord shall be for the priest, besides the ram of atonement, by which he shall make atonement with it for him.
 
-### 2 Chronicles 24:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.138`
-- fresh_brenton_ratio: `0.462`
-- fresh: And king Iōas called Iōdae the chief and said to him, Why did you not see about Levites to bring from Judah and Jerusalem what was ordained by Moyses man of God when he assembled Israel for tent of testimony?
-- mt: And the king called for Jehoiada the chief, and said unto him, Why have you not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?
-- brenton: And king Joas called Jodae the chief, and said to him, Why hast thou not looked after the Levites, so that they should bring from Juda and Jerusalem that which was prescribed by Moses the man of God, when he assembled Israel at the tabernacle of witness?
-
 ### 2 Chronicles 7:6
 - priority: `0`
 - importance: `none`
@@ -13773,15 +13755,6 @@ Method:
 - mt: Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh.
 - brenton: Speak, I pray you, in the ears of all the men of Sychem, saying, Which is better for you, that seventy men, even all the sons of Jerobaal, should reign over you, or that one man should reign over you? and remember that I am your bone and your flesh.
 
-### 2 Chronicles 24:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.142`
-- fresh_brenton_ratio: `0.449`
-- fresh: And when they finished, they brought remaining silver to king and to Iōdae, and they made vessels for house of Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in house of Lord continually all days of Iōdae.
-- mt: And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer likewise, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.
-- brenton: And when they had finished it, they brought to the king and to Jodae the remainder of the money, and they made vessels for the house of the Lord, vessels of service for whole-burnt-offerings, and gold and silver censers: and they offered up whole-burnt-offerings in the house of the Lord continually all the days of Jodae.
-
 ### Deuteronomy 20:3
 - priority: `0`
 - importance: `none`
@@ -13840,8 +13813,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.143`
-- fresh_brenton_ratio: `0.679`
-- fresh: And he brought all the priests from the cities of Judah and defiled the high places where the priests burned incense, from Gabaa to Bērsabee, and he tore down the house of the gates by the entrance of the gate of Iēsous governor of the city, those on the left at the gate of the city.
+- fresh_brenton_ratio: `0.678`
+- fresh: And he brought all the priests from the cities of Judah and defiled the high places where the priests burned incense, from Gabaa to Beersheba, and he tore down the house of the gates by the entrance of the gate of Iēsous governor of the city, those on the left at the gate of the city.
 - mt: And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that were in the entering in of the gate of Joshua the governor of the city, which were on a man's left hand at the gate of the city.
 - brenton: And he brought up all the priests from the cities of Juda, and defiled the high places where the priests burned incense, from Gæbal even to Bersabee; and he pulled down the house of the gates that was by the door of the gate of Joshua the ruler of the city, on a man's left hand at the gate of the city.
 
@@ -13853,6 +13826,15 @@ Method:
 - fresh: And those dwelling in them were weak of hand. They were dismayed and put to shame. They became grass of field and green herb, grass of rooftops and trampling before standing grain.
 - mt: Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the house tops, and as corn blasted before it be grown up.
 - brenton: And they that dwelt in them were weak in hand, they quaked and were confounded, they became as grass of the field, or as the green herb, the grass growing on houses, and that which is trodden down by him that stands upon it.
+
+### 2 Chronicles 24:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.144`
+- fresh_brenton_ratio: `0.127`
+- fresh: And when they finished, they brought remaining silver to king and to Jehoiada, and they made vessels for house of Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in house of Lord continually all days of Jehoiada.
+- mt: And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer likewise, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.
+- brenton: And when they had finished it, they brought to the king and to Jodae the remainder of the money, and they made vessels for the house of the Lord, vessels of service for whole-burnt-offerings, and gold and silver censers: and they offered up whole-burnt-offerings in the house of the Lord continually all the days of Jodae.
 
 ### 1 Kings 8:65
 - priority: `0`
@@ -14709,6 +14691,15 @@ Method:
 - mt: Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the LORD: and you shall not cause the land to sin, which the LORD your God gives you for an inheritance.
 - brenton: the former husband who sent her away shall not be able to return and take her to himself for a wife, after she has been defiled; because it is an abomination before the Lord thy God, and ye shall not defile the land, which the Lord thy God gives thee to inherit.
 
+### 2 Chronicles 24:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.161`
+- fresh_brenton_ratio: `0.391`
+- fresh: And king and Jehoiada the priest gave it to those doing works for work of house of Lord, and they hired stonecutters and carpenters to repair house of Lord, and workers in iron and bronze to repair house of Lord.
+- mt: And the king and Jehoiada gave it to such as did the work of the service of the house of the LORD, and hired stone workers and carpenters to repair the house of the LORD, and also such as wrought iron and brass to mend the house of the LORD.
+- brenton: And the king and Jodae the priest gave it to the workmen employed in the service of the house of the Lord, and they hired masons and carpenters to repair the house of the Lord, also smiths and braziers to repair the house of the Lord.
+
 ### Leviticus 5:18
 - priority: `0`
 - importance: `none`
@@ -14889,6 +14880,15 @@ Method:
 - mt: And his daughter in law, Phinehas' wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.
 - brenton: And his daughter-in-law the wife of Phinees was with child, about to bring forth; and she heard the tidings, that the ark of God was taken, and that her father-in-law and her husband were dead; and she wept and was delivered, for her pains came upon her.
 
+### 2 Kings 11:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.164`
+- fresh_brenton_ratio: `0.113`
+- fresh: And in the seventh year Jehoiada the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
+- mt: And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and showed them the king's son.
+- brenton: And in the seventh year Jodae sent and took the captains of hundreds of the Chorri and of the Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king's son.
+
 ### 2 Kings 25:19
 - priority: `0`
 - importance: `none`
@@ -14965,8 +14965,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.165`
-- fresh_brenton_ratio: `0.617`
-- fresh: And they went out at midday, and son of Ader was drinking himself drunk in Sokchōth, he and the thirty-two kings, helpers with him.
+- fresh_brenton_ratio: `0.632`
+- fresh: And they went out at midday, and son of Ader was drinking himself drunk in Socchoth, he and the thirty-two kings, helpers with him.
 - mt: And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
 - brenton: And he went forth at noon, and the son of Ader was drinking and getting drunk in Socchoth, he and the kings, even thirty and two kings, his allies.
 
@@ -15272,7 +15272,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.172`
 - fresh_brenton_ratio: `0.732`
-- fresh: And he brought the grove out from the house of the Lord, outside Jerusalem to the wadi Kedrōn, and burned it in the wadi Kedrōn and beat it small to dust and threw its dust on the tombs of the sons of the people.
+- fresh: And he brought the grove out from the house of the Lord, outside Jerusalem to the wadi Kidron, and burned it in the wadi Kidron and beat it small to dust and threw its dust on the tombs of the sons of the people.
 - mt: And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder thereof upon the graves of the children of the people.
 - brenton: And he carried out the grove from the house of the Lord to the brook Kedron, and burned it at the brook Kedron, and reduced it to powder, and cast its powder on the sepulchres of the sons of the people.
 
@@ -15338,6 +15338,15 @@ Method:
 - fresh: You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it.
 - mt: All of you shall not respect persons in judgment; but all of you shall hear the small as well as the great; all of you shall not be afraid of the face of man; for the judgment is God's: and the cause that is too hard for you, bring it unto me, and I will hear it.
 - brenton: Thou shalt not have respect to persons in judgment, thou shalt judge small and great equally; thou shalt not shrink from before the person of a man, for the judgment is God's; and whatsoever matter shall be too hard for you, ye shall bring it to me, and I will hear it.
+
+### 2 Chronicles 36:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.174`
+- fresh_brenton_ratio: `0.286`
+- fresh: And rest of words of Jehoiakim and all things he did, are not these written upon book of words of days for kings of Judah? And Jehoiakim slept with his fathers and was buried in Ganoza with his fathers, and Iechonias his son reigned in his place.
+- mt: Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his position.
+- brenton: And the rest of the acts of Joakim, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda? And Joakim slept with his fathers, and was buried with his fathers in Ganozae: and Jechonias his son reigned in his stead.
 
 ### 1 Kings 5:14
 - priority: `0`
@@ -15779,15 +15788,6 @@ Method:
 - fresh: Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
 - mt: Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
 - brenton: Let now our rulers stand, and for all those in our cities who have taken strange wives, let them come at appointed times, and with them elders from every several city, and judges, to turn away the fierce wrath of our God from us concerning this matter.
-
-### 2 Chronicles 25:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.182`
-- fresh_brenton_ratio: `0.606`
-- fresh: And Iōas king of Israel seized Amaziah king of Judah, son of Iōas, at Baithsamys and brought him to Jerusalem and pulled down from wall of Jerusalem, from gate of Ephraim to corner gate, four hundred cubits.
-- mt: And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Bethshemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
-- brenton: And Joas king of Israel took prisoner Amasias king of Juda, son of Joas, son of Joachaz, in Bæthsamys, and brought him to Jerusalem; and he pulled down part of the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 
 ### 1 Samuel 4:4
 - priority: `0`
@@ -16320,15 +16320,6 @@ Method:
 - mt: That all of you have conspired against me, and there is none that shows me that my son has made a league with the son of Jesse, and there is none of you that is sorry for me, or shows unto me that my son has stirred up my servant against me, to lie in wait, as at this day?
 - brenton: that ye are all conspiring against me, and there is no one that informs me, whereas my son has made a covenant with the son of Jessæ, and there is no one of you that is sorry for me, or informs me that my son has stirred up my servant against me for an enemy, as it is this day?
 
-### 2 Kings 11:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.197`
-- fresh_brenton_ratio: `0.245`
-- fresh: And Iōdae the priest commanded the centurions, the officers of the force, and said to them, Bring her out from within the ranks, and whoever enters after her shall certainly be put to death by the sword, because the priest said, Let her not die in the house of the Lord.
-- mt: But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said unto them, Have her forth without the ranges: and him that follows her kill with the sword. For the priest had said, Let her not be slain in the house of the LORD.
-- brenton: And Jodae the priest commanded the captains of hundreds who were over the host, and said to them, Bring her forth without the ranges, and he that goes in after her shall certainly die by the sword. For the priest said, Let her not however be slain in the house of the Lord.
-
 ### 2 Samuel 4:2
 - priority: `0`
 - importance: `none`
@@ -16742,6 +16733,15 @@ Method:
 - fresh: And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Disclosures before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 - mt: And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation.
 - brenton: And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.
+
+### 2 Chronicles 25:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.209`
+- fresh_brenton_ratio: `0.613`
+- fresh: And Joash king of Israel seized Amaziah king of Judah, son of Joash, at Baithsamys and brought him to Jerusalem and pulled down from wall of Jerusalem, from gate of Ephraim to corner gate, four hundred cubits.
+- mt: And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Bethshemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
+- brenton: And Joas king of Israel took prisoner Amasias king of Juda, son of Joas, son of Joachaz, in Bæthsamys, and brought him to Jerusalem; and he pulled down part of the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 
 ### 2 Kings 18:4
 - priority: `0`
@@ -17157,15 +17157,6 @@ Method:
 - mt: And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers.
 - brenton: And these were the heads of the houses of their families; Opher, and Sei, and Eliel, and Jeremia, and Oduia, and Jediel, mighty men of valour, men of renown, heads of the houses of their families.
 
-### 2 Chronicles 36:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.217`
-- fresh_brenton_ratio: `0.189`
-- fresh: Iōakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Iōakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
-- mt: Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
-- brenton: Joachim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem: and his mother's name was Zechora, daughter of Nerias of Rama. And he did that which was evil in the sight of the Lord, according to all that his fathers did.
-
 ### Leviticus 11:32
 - priority: `0`
 - importance: `none`
@@ -17562,6 +17553,15 @@ Method:
 - mt: And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen you away, and have brought the king, and his household, and all David's men with him, over Jordan?
 - brenton: And the king went over to Galgala, and Chamaam went over with him: and all the men of Juda went over with the king, and also half the people of Israel.
 
+### 2 Chronicles 36:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.224`
+- fresh_brenton_ratio: `0.190`
+- fresh: Jehoiakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Jehoiakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
+- mt: Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
+- brenton: Joachim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem: and his mother's name was Zechora, daughter of Nerias of Rama. And he did that which was evil in the sight of the Lord, according to all that his fathers did.
+
 ### 1 Chronicles 21:15
 - priority: `0`
 - importance: `none`
@@ -17849,6 +17849,15 @@ Method:
 - fresh: And behold, for workers, those cutting woods for food, I gave grain to your servants, twenty thousand kors, and barley, twenty thousand kors, and wine, twenty thousand measures, and oil, twenty thousand measures.
 - mt: Even to prepare me timber in abundance: for the house which I am about to build shall be wonderful great.
 - brenton: And, behold, I have given freely to thy servants that work and cut the wood, corn for food, even twenty thousand measures of wheat, and twenty thousand measures of barley, and twenty thousand measures of wine, and twenty thousand measures of oil.
+
+### 2 Kings 11:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.230`
+- fresh_brenton_ratio: `0.236`
+- fresh: And Jehoiada the priest commanded the centurions, the officers of the force, and said to them, Bring her out from within the ranks, and whoever enters after her shall certainly be put to death by the sword, because the priest said, Let her not die in the house of the Lord.
+- mt: But Jehoiada the priest commanded the captains of the hundreds, the officers of the host, and said unto them, Have her forth without the ranges: and him that follows her kill with the sword. For the priest had said, Let her not be slain in the house of the LORD.
+- brenton: And Jodae the priest commanded the captains of hundreds who were over the host, and said to them, Bring her forth without the ranges, and he that goes in after her shall certainly die by the sword. For the priest said, Let her not however be slain in the house of the Lord.
 
 ### 1 Chronicles 6:44
 - priority: `0`
@@ -20708,7 +20717,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.279`
 - fresh_brenton_ratio: `0.815`
-- fresh: And he removed Maacha his mother from not being one serving Astarte, and he cut down idol and burned it in torrent of Kedrōn.
+- fresh: And he removed Maacha his mother from not being one serving Astarte, and he cut down idol and burned it in torrent of Kidron.
 - mt: And also concerning Maachah the mother of Asa the king, he removed her from being queen, because she had made an idol in a grove: and Asa cut down her idol, and stamped it, and burnt it at the brook Kidron.
 - brenton: And he removed Maacha his mother from being priestess to Astarte; and he cut down the idol, and burnt it in the brook of Kedron.
 
@@ -21126,6 +21135,15 @@ Method:
 - mt: They made shoulder pieces for it, to couple it together: by the two edges was it coupled together.
 - brenton: And the hundred talents of silver went to the casting of the hundred chapiters of the tabernacle, and to the chapiters of the veil;
 
+### 2 Kings 12:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.287`
+- fresh_brenton_ratio: `0.733`
+- fresh: In the seventh year of Iou, Ioas became king, and he reigned forty years in Jerusalem, and the name of his mother was Abia from Beersheba.
+- mt: And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.
+- brenton: Joas began to reign in the seventh year of Ju, and he reigned forty years in Jerusalem: and his mother's name was Sabia of Bersabee.
+
 ### Numbers 17:12
 - priority: `0`
 - importance: `none`
@@ -21170,15 +21188,6 @@ Method:
 - fresh: And now the Lord my God has given me rest all around. There is no adversary, and there is no evil encounter.
 - mt: And Solomon's builders and Hiram's builders did hew them, and the Gibalites also: so they prepared timber and stones to build the house.
 - brenton: And now the Lord my God has given me rest round about; there is no one plotting against me, and there is no evil trespass against me.
-
-### 2 Kings 12:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.288`
-- fresh_brenton_ratio: `0.751`
-- fresh: In the seventh year of Iou, Ioas became king, and he reigned forty years in Jerusalem, and the name of his mother was Abia from Bērsabee.
-- mt: And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.
-- brenton: Joas began to reign in the seventh year of Ju, and he reigned forty years in Jerusalem: and his mother's name was Sabia of Bersabee.
 
 ### 1 Chronicles 6:56
 - priority: `0`
@@ -21467,15 +21476,6 @@ Method:
 - fresh: And all these curses shall come upon you and pursue you and overtake you until they utterly destroy you and until they perish you, because you did not listen to the voice of the Lord your God, to keep his commands and his ordinances that he commanded you.
 - mt: Moreover all these curses shall come upon you, and shall pursue you, and overtake you, till you be destroyed; because you hearkened not unto the voice of the LORD your God, to keep his commandments and his statutes which he commanded you:
 - brenton: And all these curses shall come upon thee, and shall pursue thee, and shall overtake thee, until he shall have consumed thee, and until he shall have destroyed thee; because thou didst not hearken to the voice of the Lord thy God, to keep his commands, and his ordinances which he has commanded thee.
-
-### 2 Chronicles 23:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.293`
-- fresh_brenton_ratio: `0.316`
-- fresh: And Levites and all Judah did according to all things which Iōdae the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Iōdae did not dismiss courses.
-- mt: So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.
-- brenton: And the Levites and all Juda did according to all that the priest Jodae commanded them, and they took each his men from the beginning of the sabbath to the end of the sabbath, for Jodae the priest did not dismiss the courses.
 
 ### Nehemiah 10:9
 - priority: `0`
@@ -21792,15 +21792,6 @@ Method:
 - mt: And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for you, before I be taken away from you. And Elisha said, I pray you, let a double portion of your spirit be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
 
-### 2 Kings 18:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.300`
-- fresh_brenton_ratio: `0.459`
-- fresh: And Eliakim son of Chelkias and Somnas and Iōas said to Rabshakeh, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
-- mt: Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray you, to your servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.
-- brenton: And Heliakim the son of Chelkias, and Somnas, and Joas, said to Rapsakes, Speak now to thy servants in the Syrian language, for we understand it; and speak not with us in the Jewish language: and why dost thou speak in the ears of the people that are on the wall?
-
 ### Numbers 30:16
 - priority: `0`
 - importance: `none`
@@ -21989,6 +21980,15 @@ Method:
 - fresh: And they made on the breastpiece braided cords, woven chainwork of pure gold.
 - mt: One board had two connections, equally distant one from another: thus did he make for all the boards of the tabernacle.
 - brenton: And they made on the oracle turned wreaths, wreathen work, of pure gold,
+
+### 2 Kings 12:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.304`
+- fresh_brenton_ratio: `0.798`
+- fresh: And Ioas did what was right before the Lord all the days in which Jehoiada the priest instructed him.
+- mt: But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
+- brenton: And Joas did that which was right in the sight of the Lord all the days that Jodae the priest instructed him.
 
 ### Deuteronomy 13:11
 - priority: `0`
@@ -22259,15 +22259,6 @@ Method:
 - fresh: And the thorn bush said to the trees, If in truth you anoint me as king over you, come and trust in my shade, but if not, let fire come out from the thorn bush and consume the cedars of Lebanon.
 - mt: And the bramble said unto the trees, If in truth all of you anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
 - brenton: And the bramble said to the trees, If ye in truth anoint me to reign over you, come, stand under my shadow; and if not, let fire come out from me and devour the cedars of Libanus.
-
-### 2 Kings 12:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.308`
-- fresh_brenton_ratio: `0.790`
-- fresh: And Ioas did what was right before the Lord all the days in which Iōdae the priest instructed him.
-- mt: But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
-- brenton: And Joas did that which was right in the sight of the Lord all the days that Jodae the priest instructed him.
 
 ### Numbers 26:35
 - priority: `0`
@@ -23547,6 +23538,15 @@ Method:
 - mt: But have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also have slain your brethren of your father's house, which were better than yourself:
 - brenton: but hast walked in the ways of the kings of Israel, and hast caused Juda and the dwellers in Jerusalem to go a-whoring, as the house of Achaab caused Israel to go a-whoring, and thou hast slain thy brethren, the sons of thy father, who were better than thyself;
 
+### 2 Chronicles 23:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.330`
+- fresh_brenton_ratio: `0.306`
+- fresh: And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
+- mt: So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.
+- brenton: And the Levites and all Juda did according to all that the priest Jodae commanded them, and they took each his men from the beginning of the sabbath to the end of the sabbath, for Jodae the priest did not dismiss the courses.
+
 ### Exodus 38:13
 - priority: `0`
 - importance: `none`
@@ -23753,15 +23753,6 @@ Method:
 - fresh: And it came to be when the flame went up from the altar to heaven, the angel of the Lord went up in the flame, and Manoah and his wife were watching, and they fell on their faces to the ground.
 - mt: For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his wife looked on it, and fell on their faces to the ground.
 - brenton: And it came to pass when the flame went up above the altar toward heaven, that the angel of the Lord went up in the flame; and Manoë and his wife were looking, and they fell upon their face to the earth.
-
-### 2 Chronicles 25:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.335`
-- fresh_brenton_ratio: `0.264`
-- fresh: And Iōas king of Israel sent to Amaziah king of Judah, saying, Thornbush in Lebanon sent to cedar in Lebanon, saying, Give your daughter to my son for wife. And behold, beasts of field in Lebanon came and trampled thornbush.
-- mt: And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give your daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle.
-- brenton: And Joas king of Israel sent to Amasias king of Juda, saying, The thistle that was in Libanus sent to the cedar that was in Libanus, saying, Give thy daughter to my son to wife; but, behold, the wild beasts of the field that are in Libanus shall come: and the wild beasts did come, and trod down the thistle.
 
 ### 2 Chronicles 2:16
 - priority: `0`
@@ -24465,15 +24456,6 @@ Method:
 - mt: For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he has spoken of him.
 - brenton: For I know that he will order his sons, and his house after him, and they will keep the ways of the Lord, to do justice and judgment, that the Lord may bring upon Abraam all things whatsoever he has spoken to him.
 
-### 2 Chronicles 24:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.345`
-- fresh_brenton_ratio: `0.444`
-- fresh: And spirit of God clothed Azarian son of Iōdae the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you.
-- mt: And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus says God, Why transgress all of you the commandments of the LORD, that all of you cannot prosper? because all of you have forsaken the LORD, he has also forsaken you.
-- brenton: And the Spirit of God came upon Azarias the son of Jodae the priest, and he stood up above the people, and said, Thus saith the Lord, Why do ye transgress the commandments of the Lord? so shall ye not prosper; for ye have forsaken the Lord, and he will forsake you.
-
 ### Deuteronomy 13:1
 - priority: `0`
 - importance: `none`
@@ -24959,6 +24941,15 @@ Method:
 - fresh: His gift was one silver dish, its weight one hundred thirty shekels, one silver bowl of seventy shekels by the holy shekel, both full of fine flour prepared with oil for sacrifice,
 - mt: His offering was one silver charger of the weight of an hundred and thirty shekels, a silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a food offering:
 - brenton: He brought his gift, one silver charger, its weight a hundred and thirty shekels, one silver bowl of seventy shekels according to the holy shekel; both full of fine flour kneaded with oil for a meat offering.
+
+### 2 Chronicles 25:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.355`
+- fresh_brenton_ratio: `0.271`
+- fresh: And Joash king of Israel sent to Amaziah king of Judah, saying, Thornbush in Lebanon sent to cedar in Lebanon, saying, Give your daughter to my son for wife. And behold, beasts of field in Lebanon came and trampled thornbush.
+- mt: And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give your daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle.
+- brenton: And Joas king of Israel sent to Amasias king of Juda, saying, The thistle that was in Libanus sent to the cedar that was in Libanus, saying, Give thy daughter to my son to wife; but, behold, the wild beasts of the field that are in Libanus shall come: and the wild beasts did come, and trod down the thistle.
 
 ### 2 Kings 19:25
 - priority: `0`
@@ -26202,6 +26193,15 @@ Method:
 - mt: And it came to pass, when midday was past, and they prophesied until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any that regarded.
 - brenton: And they prophesied until the evening came; and it came to pass as it was the time of the offering of the sacrifice, that Eliu the Thesbite spoke to the prophets of the abominations, saying, Stand by for the present, and I will offer my sacrifice. And they stood aside and departed.
 
+### 2 Kings 12:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.376`
+- fresh_brenton_ratio: `0.315`
+- fresh: And king Ioas called Jehoiada the priest and the priests and said to them, Why is it that you do not repair the breach of the house? And now do not take silver from your collections, because you will give it for the breach of the house.
+- mt: And the priests consented to receive no more money of the people, neither to repair the breaches of the house.
+- brenton: And king Joas called Jodae the priest, and the other priests, and said to them, Why have ye not repaired the breaches of the house? now then receive no more money from your sales, for ye shall give it to repair the breaches of the house.
+
 ### 1 Chronicles 6:33
 - priority: `0`
 - importance: `none`
@@ -26381,15 +26381,6 @@ Method:
 - fresh: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
 - mt: And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:
 - brenton: And whatever need there may be, ye shall give both the young of bulls and rams, and lambs for whole-burnt-offerings to the God of heaven, wheat, salt, wine, oil:—let it be given them according to the word of the priests that are in Jerusalem, day by day whatsoever they shall ask;
-
-### 2 Kings 12:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.380`
-- fresh_brenton_ratio: `0.313`
-- fresh: And king Ioas called Iōdae the priest and the priests and said to them, Why is it that you do not repair the breach of the house? And now do not take silver from your collections, because you will give it for the breach of the house.
-- mt: And the priests consented to receive no more money of the people, neither to repair the breaches of the house.
-- brenton: And king Joas called Jodae the priest, and the other priests, and said to them, Why have ye not repaired the breaches of the house? now then receive no more money from your sales, for ye shall give it to repair the breaches of the house.
 
 ### Ezra 1:1
 - priority: `0`
@@ -27057,15 +27048,6 @@ Method:
 - mt: And he put the staves into the rings on the sides of the altar, to bear it likewise; he made the altar hollow with boards.
 - brenton: one cherub on the one end of the propitiatory, and another cherub on the other end of the propitiatory,
 
-### 2 Chronicles 36:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.395`
-- fresh_brenton_ratio: `0.308`
-- fresh: And Pharaoh Nechao made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Iōakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
-- mt: And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
-- brenton: And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
-
 ### Judges 1:18
 - priority: `0`
 - importance: `none`
@@ -27524,6 +27506,15 @@ Method:
 - fresh: And he removed from all cities of Judah altars and idols, and land was at peace.
 - mt: And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment.
 - brenton: And he removed from all the cities of Juda the altars and the idols, and established in quietness
+
+### 2 Chronicles 36:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.406`
+- fresh_brenton_ratio: `0.307`
+- fresh: And Pharaoh Nechao made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
+- mt: And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
+- brenton: And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
 
 ### Exodus 3:15
 - priority: `0`
@@ -28173,6 +28164,15 @@ Method:
 - mt: And the two ends of the two interwoven chains they fastened in the two casings, and put them on the shoulder pieces of the ephod, before it.
 - brenton: and the table of shewbread, and all its furniture, and the shewbread upon it,
 
+### 2 Kings 18:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.423`
+- fresh_brenton_ratio: `0.471`
+- fresh: And Eliakim son of Chelkias and Somnas and Joah said to Rabshakeh, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
+- mt: Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray you, to your servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.
+- brenton: And Heliakim the son of Chelkias, and Somnas, and Joas, said to Rapsakes, Speak now to thy servants in the Syrian language, for we understand it; and speak not with us in the Jewish language: and why dost thou speak in the ears of the people that are on the wall?
+
 ### Leviticus 21:22
 - priority: `0`
 - importance: `none`
@@ -28812,15 +28812,6 @@ Method:
 - mt: Now go and strike Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and nursing infant, ox and sheep, camel and ass.
 - brenton: And now go, and thou shalt smite Amalec and Hierim and all that belongs to him, and thou shalt not save anything of him alive, but thou shalt utterly destroy him: and thou shalt devote him and all his to destruction, and thou shalt spare nothing belonging to him; and thou shalt slay both man and woman, and infant and suckling, and calf and sheep, and camel and ass.
 
-### 2 Kings 11:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.437`
-- fresh_brenton_ratio: `0.184`
-- fresh: And the centurions did all that Iōdae the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Iōdae the priest.
-- mt: And the captains over the hundreds did according to all things that Jehoiada the priest commanded: and they took every man his men that were to come in on the sabbath, with them that should go out on the sabbath, and came to Jehoiada the priest.
-- brenton: And the captains of hundreds did all things that the wise Jodae commanded; and they took each his men, both those that went in on the sabbath-day, and those that went out on the sabbath-day, and went in to Jodae the priest.
-
 ### Deuteronomy 13:9
 - priority: `0`
 - importance: `none`
@@ -28956,6 +28947,15 @@ Method:
 - mt: Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 - brenton: And his brother Asaph, who stood at his right hand; Asaph the son of Barachias, the son of Samaa,
 
+### 2 Kings 25:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.441`
+- fresh_brenton_ratio: `0.460`
+- fresh: And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Mizpah, even Ishmael son of Nathaniou and Johanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
+- mt: And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
+- brenton: And all the captains of the host, they and their men, heard that the king of Babylon had thus appointed Godolias, and they came to Godolias to Massephath, both Ismael the son of Nathanias, and Jona son of Careth, and Saraias, son of Thanamath the Netophathite, and Jezonias son of a Machathite, they and their men.
+
 ### Exodus 25:12
 - priority: `0`
 - importance: `none`
@@ -28991,6 +28991,15 @@ Method:
 - fresh: And he said, God be merciful to me from doing this thing. Shall I drink blood of these men with their lives? For with their lives they brought it. And he would not drink it. These things three mighty men did.
 - mt: And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three might.
 - brenton: God forbid that I should do this thing: shall I drink the blood of these men with their lives? for with the peril of their lives they brought it. So he would not drink it. These things did the three mighty men.
+
+### 2 Kings 12:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.442`
+- fresh_brenton_ratio: `0.264`
+- fresh: And Jehoiada the priest took one chest and bored a hole in its lid and set it beside the altar, at the right side as a man enters the house of the Lord. And the priests keeping the threshold put there all the silver found in the house of the Lord.
+- mt: And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD.
+- brenton: And Jodae the priest took a chest, and bored a hole in the lid of it, and set it by the altar in the house of a man belonging to the house of the Lord, and the priests that kept the door put therein all the money that was found in the house of the Lord.
 
 ### Nehemiah 7:26
 - priority: `0`
@@ -29631,6 +29640,15 @@ Method:
 - mt: And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be all of you of the LORD, that all of you have showed this kindness unto your lord, even unto Saul, and have buried him.
 - brenton: And David sent messengers to the rulers of Jabis of the country of Galaad, and David said to them, Blessed be ye of the Lord, because ye have wrought this mercy toward your lord, even toward Saul the anointed of the Lord, and ye have buried him and Jonathan his son.
 
+### 2 Chronicles 24:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.455`
+- fresh_brenton_ratio: `0.480`
+- fresh: And spirit of God clothed Azarian son of Jehoiada the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you.
+- mt: And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus says God, Why transgress all of you the commandments of the LORD, that all of you cannot prosper? because all of you have forsaken the LORD, he has also forsaken you.
+- brenton: And the Spirit of God came upon Azarias the son of Jodae the priest, and he stood up above the people, and said, Thus saith the Lord, Why do ye transgress the commandments of the Lord? so shall ye not prosper; for ye have forsaken the Lord, and he will forsake you.
+
 ### Deuteronomy 32:25
 - priority: `0`
 - importance: `none`
@@ -29774,15 +29792,6 @@ Method:
 - fresh: And the king saw the altar and went up upon it.
 - mt: And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.
 - brenton: And the king saw the altar, and went up to it,
-
-### 2 Kings 12:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.459`
-- fresh_brenton_ratio: `0.273`
-- fresh: And Iōdae the priest took one chest and bored a hole in its lid and set it beside the altar, at the right side as a man enters the house of the Lord. And the priests keeping the threshold put there all the silver found in the house of the Lord.
-- mt: And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD.
-- brenton: And Jodae the priest took a chest, and bored a hole in the lid of it, and set it by the altar in the house of a man belonging to the house of the Lord, and the priests that kept the door put therein all the money that was found in the house of the Lord.
 
 ### Exodus 8:16
 - priority: `0`
@@ -32007,15 +32016,6 @@ Method:
 - mt: But of all clean fowls all of you may eat.
 - brenton: Ye shall eat every clean bird.
 
-### 2 Kings 25:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.506`
-- fresh_brenton_ratio: `0.461`
-- fresh: And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Mizpah, even Ishmael son of Nathaniou and Iōanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
-- mt: And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
-- brenton: And all the captains of the host, they and their men, heard that the king of Babylon had thus appointed Godolias, and they came to Godolias to Massephath, both Ismael the son of Nathanias, and Jona son of Careth, and Saraias, son of Thanamath the Netophathite, and Jezonias son of a Machathite, they and their men.
-
 ### Nehemiah 3:24
 - priority: `0`
 - importance: `none`
@@ -32880,6 +32880,15 @@ Method:
 - mt: And the LORD spoke unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 - brenton: And the Lord spoke to Moses in the wilderness of Sina, in the tabernacle of witness, on the first day of the second month, in the second year of their departure from the land of Egypt, saying,
 
+### 2 Kings 11:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.519`
+- fresh_brenton_ratio: `0.176`
+- fresh: And the centurions did all that Jehoiada the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Jehoiada the priest.
+- mt: And the captains over the hundreds did according to all things that Jehoiada the priest commanded: and they took every man his men that were to come in on the sabbath, with them that should go out on the sabbath, and came to Jehoiada the priest.
+- brenton: And the captains of hundreds did all things that the wise Jodae commanded; and they took each his men, both those that went in on the sabbath-day, and those that went out on the sabbath-day, and went in to Jodae the priest.
+
 ### 1 Samuel 4:16
 - priority: `0`
 - importance: `none`
@@ -32987,15 +32996,6 @@ Method:
 - fresh: And you must keep the charge of the Lord your God, to walk in his ways, to keep his commandments and his ordinances and his judgments, the things written in the law of Moyses, so that you may understand what you will do according to all that I command you.
 - mt: And keep the charge of the LORD your God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that you may prosper in all that you do, and anywhere you turn yourself:
 - brenton: and keep the charge of the Lord thy God, to walk in his ways, to keep the commandments and the ordinances and the judgments which are written in the law of Moses; that thou mayest understand what thou shalt do in all things that I command thee:
-
-### Judges 1:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.521`
-- fresh_brenton_ratio: `0.641`
-- fresh: And Zebulun did not remove those dwelling in Kedrōn and those dwelling in Enaala, and the Canaanite dwelt in its midst and became subject to tribute.
-- mt: Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.
-- brenton: And Zabulon did not drive out the inhabitants of Kedron, nor the inhabitants of Domana: and the Chananite dwelt in the midst of them, and became tributary to them.
 
 ### Numbers 18:16
 - priority: `0`
@@ -34464,15 +34464,6 @@ Method:
 - mt: And all of you shall make no league with the inhabitants of this land; all of you shall throw down their altars: but all of you have not obeyed my voice: why have all of you done this?
 - brenton: And ye shall make no covenant with them that dwell in this land, neither shall ye worship their gods; but ye shall destroy their graven images, ye shall pull down their altars: but ye hearkened not to my voice, for ye did these things.
 
-### 2 Chronicles 23:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.540`
-- fresh_brenton_ratio: `0.546`
-- fresh: And in seventh year Iōdae strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Iōanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
-- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
-- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
-
 ### 1 Chronicles 5:11
 - priority: `0`
 - importance: `none`
@@ -35075,15 +35066,6 @@ Method:
 - fresh: And now divide this land as an inheritance to the nine tribes and to the half-tribe of Manasseh. From the Jordan as far as the great sea toward the setting of the sun you shall give it; the great sea shall define it.
 - mt: Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 - brenton: And now divide this land by lot to the nine tribes, and to the half tribe of Manasse.
-
-### 2 Chronicles 24:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.548`
-- fresh_brenton_ratio: `0.588`
-- fresh: And after these things it came upon heart of Iōas to repair house of Lord.
-- mt: And it came to pass after this, that Joash was minded to repair the house of the LORD.
-- brenton: And it came to pass afterward that it came into the heart of Joas to repair the house of the Lord.
 
 ### 1 Samuel 5:3
 - priority: `0`
@@ -39090,15 +39072,6 @@ Method:
 - mt: And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.
 - brenton: And if any man's bull gore the bull of his neighbour, and it die, they shall sell the living bull and divide the money, and they shall divide the dead bull.
 
-### 1 Samuel 30:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.585`
-- fresh_brenton_ratio: `0.936`
-- fresh: and to those in Ierimouth and to those in Bērsabee and to those in Noo,
-- mt: And to them which were in Hormah, and to them which were in Chorashan, and to them which were in Athach,
-- brenton: and to those in Jerimuth, and to those in Bersabee, and to those in Nombe,
-
 ### Judges 15:5
 - priority: `0`
 - importance: `none`
@@ -39386,6 +39359,15 @@ Method:
 - fresh: I declare to you today that with destruction you shall perish, and you shall certainly not be long-lived on the land that the Lord your God gives you, into which you are crossing the Jordan there to inherit it.
 - mt: I denounce unto you this day, that all of you shall surely perish, and that all of you shall not prolong your days upon the land, where you pass over Jordan to go to possess it.
 - brenton: I declare to you this day, that ye shall utterly perish, and ye shall by no means live long upon the land, into which ye go over Jordan to inherit it.
+
+### Judges 1:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.589`
+- fresh_brenton_ratio: `0.654`
+- fresh: And Zebulun did not remove those dwelling in Kedron and those dwelling in Enaala, and the Canaanite dwelt in its midst and became subject to tribute.
+- mt: Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.
+- brenton: And Zabulon did not drive out the inhabitants of Kedron, nor the inhabitants of Domana: and the Chananite dwelt in the midst of them, and became tributary to them.
 
 ### Numbers 18:29
 - priority: `0`
@@ -39860,7 +39842,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.593`
 - fresh_brenton_ratio: `0.303`
-- fresh: And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manasseh made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kedrōn.
+- fresh: And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manasseh made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kidron.
 - mt: And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from thence, and cast the dust of them into the brook Kidron.
 - brenton: And the altars that were on the roof of the upper chamber of Achaz, which the kings of Juda had made, and the altars which Manasses had made in the two courts of the house of the Lord, did the king pull down and forcibly remove from thence, and cast their dust into the brook of Kedron.
 
@@ -39962,6 +39944,15 @@ Method:
 - fresh: And Koes begot Enob and Sabeba and generations of brother of Rechab son of Iarim.
 - mt: And Coz brings forth Anub, and Zobebah, and the families of Aharhel the son of Harum.
 - brenton: And Coe begot Enob, and Sabatha, and the progeny of the brother of Rechab, the son of Jarin.
+
+### 1 Samuel 30:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.593`
+- fresh_brenton_ratio: `0.901`
+- fresh: and to those in Ierimouth and to those in Beersheba and to those in Noo,
+- mt: And to them which were in Hormah, and to them which were in Chorashan, and to them which were in Athach,
+- brenton: and to those in Jerimuth, and to those in Bersabee, and to those in Nombe,
 
 ### Exodus 28:3
 - priority: `0`
@@ -40115,6 +40106,15 @@ Method:
 - fresh: And who am I, and who are my people, that we grew strong to be willing to you in this way? Because all things are yours, and from your things we gave to you.
 - mt: But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of you, and of yours own have we given you.
 - brenton: But who am I, and what is my people, that we have been able to be thus forward in offering to thee? for all things are thine, and of thine own have we given thee,
+
+### 2 Chronicles 24:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.595`
+- fresh_brenton_ratio: `0.608`
+- fresh: And after these things it came upon heart of Joash to repair house of Lord.
+- mt: And it came to pass after this, that Joash was minded to repair the house of the LORD.
+- brenton: And it came to pass afterward that it came into the heart of Joas to repair the house of the Lord.
 
 ### 1 Chronicles 4:16
 - priority: `0`
@@ -41223,15 +41223,6 @@ Method:
 - mt: Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the inwards thereof.
 - brenton: Ye shall not eat of it raw nor sodden in water, but only roast with fire, the head with the feet and the appurtenances.
 
-### 2 Chronicles 24:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.602`
-- fresh_brenton_ratio: `0.888`
-- fresh: And Iōdae grew old, full of days, and died, being one hundred thirty years old at his death.
-- mt: But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died.
-- brenton: And Jodae grew old, being full of days, and he died, being a hundred and thirty years old at his death.
-
 ### Deuteronomy 10:4
 - priority: `0`
 - importance: `none`
@@ -41303,15 +41294,6 @@ Method:
 - fresh: And I will send fear ahead of you and throw into confusion all the nations among whom you enter, and I will make all your adversaries flee.
 - mt: I will send my fear before you, and will destroy all the people to whom you shall come, and I will make all yours enemies turn their backs unto you.
 - brenton: And I will send terror before thee, and I will strike with amazement all the nations to which thou shalt come, and I will make all thine enemies to flee.
-
-### 2 Chronicles 24:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.603`
-- fresh_brenton_ratio: `0.621`
-- fresh: And Iōas did not remember mercy which Iōdae his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge.
-- mt: Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it.
-- brenton: So Joas remembered not the kindness which his father Jodae had exercised towards him, but slew his son. And as he died, he said, The Lord look upon it, and judge.
 
 ### Leviticus 25:37
 - priority: `0`
@@ -43284,6 +43266,15 @@ Method:
 - mt: Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:
 - brenton: Asiedoth, and her villages, and her hamlets; Gaza, and its villages and its hamlets as far as the river of Egypt, and the great sea is the boundary.
 
+### 2 Chronicles 23:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.616`
+- fresh_brenton_ratio: `0.568`
+- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
+- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
+
 ### 2 Chronicles 12:12
 - priority: `0`
 - importance: `none`
@@ -44273,15 +44264,6 @@ Method:
 - fresh: And you will do according to your wisdom, and you will not bring his gray hair down in peace to Hades.
 - mt: Do therefore according to your wisdom, and let not his hoar head go down to the grave in peace.
 - brenton: Therefore thou shalt deal with him according to thy wisdom, and thou shalt not bring down his grey hairs in peace to the grave.
-
-### 2 Chronicles 4:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.622`
-- fresh_brenton_ratio: `0.684`
-- fresh: In region of Jordan king cast them in thickness of earth, in house of Sokchōth and between Sirdatha.
-- mt: In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah.
-- brenton: In the country round about Jordan the king cast them, in the clay ground in the house of Socchoth, and between that and Saredatha.
 
 ### Leviticus 1:10
 - priority: `0`
@@ -45282,15 +45264,6 @@ Method:
 - mt: And you shall have great sickness by disease of your bowels, until your bowels fall out by reason of the sickness day by day.
 - brenton: and thou shalt be afflicted with a grievous disease, with a disease of the bowels, until thy bowels shall fall out day by day with the sickness.
 
-### 2 Chronicles 23:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.628`
-- fresh_brenton_ratio: `0.626`
-- fresh: And they brought out son of king and put kingdom and testimonies upon him, and they made him king and anointed him, Iōdae and his sons, and said, Let king live.
-- mt: Then they brought out the king's son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
-- brenton: And he brought out the king's son, and put on him the crown and the testimony, and Jodae the priest and his sons proclaimed him king, and anointed him, and said, Long live the king!
-
 ### Deuteronomy 28:21
 - priority: `0`
 - importance: `none`
@@ -45407,15 +45380,6 @@ Method:
 - fresh: And you will leave in Israel seven thousand men, every knee that did not bend knee to Baal and every mouth that did not bow to him.
 - mt: Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which has not kissed him.
 - brenton: And thou shalt leave in Israel seven thousand men, all the knees which had not bowed themselves to Baal, and every mouth which had not worshipped him.
-
-### 1 Chronicles 27:34
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.628`
-- fresh_brenton_ratio: `0.751`
-- fresh: And after him: Achitophel, then Iōdae son of Banaiou and Abiathar, and Joab commander-in-chief of king.
-- mt: And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab.
-- brenton: And after this Achitophel Jodae the son of Banæas came next, and Abiathar: and Joab was the king's commander-in-chief.
 
 ### Numbers 2:11
 - priority: `0`
@@ -45686,15 +45650,6 @@ Method:
 - fresh: that the chiefs of Israel brought offerings, twelve chiefs of the houses of their fathers. These were chiefs of the tribes, these the ones standing over the counting.
 - mt: That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:
 - brenton: And the princes of Israel brought gifts, twelve princes of their fathers' houses: these were the heads of tribes, these are they that presided over the numbering.
-
-### 1 Samuel 17:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.630`
-- fresh_brenton_ratio: `0.701`
-- fresh: And the foreigners gather their camps for war, and they are gathered at Sokchōth of Ioudaia, and they camp between Sokchōth and between Azēka in Epheremem.
-- mt: Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongs to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
-- brenton: And the Philistines gather their armies to battle, and gather themselves to Socchoth of Judæa, and encamp between Socchoth and Azeca Ephermen.
 
 ### Numbers 11:15
 - priority: `0`
@@ -48882,15 +48837,6 @@ Method:
 - mt: And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.
 - brenton: And he said, I will bring you up out of the affliction of the Egyptians to the land of the Chananites and the Chettites, and Amorites and Pherezites, and Gergesites, and Evites, and Jebusites, to a land flowing with milk and honey.
 
-### Judges 8:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.646`
-- fresh_brenton_ratio: `0.783`
-- fresh: And he captured a young servant from the men of Sokchōth and questioned him, and he wrote down for him the leaders of Sokchōth and its elders, seventy-seven men.
-- mt: And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men.
-- brenton: And he took prisoner a young lad of the men of Socchoth, and questioned him; and he wrote to him the names of the princes of Socchoth and of their elders, seventy-seven men.
-
 ### Joshua 10:32
 - priority: `0`
 - importance: `none`
@@ -48999,6 +48945,24 @@ Method:
 - mt: And they encamped against them, and destroyed the increase of the earth, till you come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.
 - brenton: And they encamped against them, and destroyed their fruits until they came to Gaza; and they left not the support of life in the land of Israel, not even ox or ass among the herds.
 
+### 2 Chronicles 23:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.647`
+- fresh_brenton_ratio: `0.620`
+- fresh: And they brought out son of king and put kingdom and testimonies upon him, and they made him king and anointed him, Jehoiada and his sons, and said, Let king live.
+- mt: Then they brought out the king's son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
+- brenton: And he brought out the king's son, and put on him the crown and the testimony, and Jodae the priest and his sons proclaimed him king, and anointed him, and said, Long live the king!
+
+### 2 Chronicles 24:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.647`
+- fresh_brenton_ratio: `0.626`
+- fresh: And Joash did not remember mercy which Jehoiada his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge.
+- mt: Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it.
+- brenton: So Joas remembered not the kindness which his father Jodae had exercised towards him, but slew his son. And as he died, he said, The Lord look upon it, and judge.
+
 ### 2 Samuel 16:19
 - priority: `0`
 - importance: `none`
@@ -49106,15 +49070,6 @@ Method:
 - fresh: And their boundaries came to be Exeleketh and Aleph and Baithok and Keaph,
 - mt: And their border was Helkath, and Hali, and Beten, and Achshaph,
 - brenton: And their borders were Exeleketh, and Aleph, and Bæthok, and Keaph,
-
-### Nehemiah 12:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.647`
-- fresh_brenton_ratio: `0.887`
-- fresh: And Iesou begot Iōakim, and Iōakim begot Eliasib, and Eliasib begot Iōdae,
-- mt: And Jeshua brings forth Joiakim, Joiakim also brings forth Eliashib, and Eliashib brings forth Joiada,
-- brenton: And Jesus begot Joakim, and Joakim begot Eliasib, and Eliasib begot Jodae,
 
 ### Genesis 14:7
 - priority: `0`
@@ -50556,6 +50511,15 @@ Method:
 - mt: And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water all of you the sheep, and go and feed them.
 - brenton: And Jacob said, It is yet high day, it is not yet time that the flocks be gathered together; water ye the flocks, and depart and feed them.
 
+### 1 Samuel 17:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.654`
+- fresh_brenton_ratio: `0.702`
+- fresh: And the foreigners gather their camps for war, and they are gathered at Socoh of Ioudaia, and they camp between Socoh and between Azēka in Epheremem.
+- mt: Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongs to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
+- brenton: And the Philistines gather their armies to battle, and gather themselves to Socchoth of Judæa, and encamp between Socchoth and Azeca Ephermen.
+
 ### Numbers 32:21
 - priority: `0`
 - importance: `none`
@@ -50735,15 +50699,6 @@ Method:
 - fresh: Sons of Sopha: Chouchi, Arnaphar, Soual, Bari, and Imarē,
 - mt: The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
 - brenton: The sons of Sopha; Sue, and Arnaphar, and Suda, and Barin, and Imran,
-
-### 2 Chronicles 18:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.655`
-- fresh_brenton_ratio: `0.732`
-- fresh: And king of Israel said, Take Michaias and return him to Emēr ruler of city and to Iōas ruler, son of king,
-- mt: Then the king of Israel said, Take all of you Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
-- brenton: And the king of Israel said, Take Michaias, and carry him back to Emer the governor of the city, and to Joas the captain, the king's son;
 
 ### Exodus 14:28
 - priority: `0`
@@ -50997,6 +50952,15 @@ Method:
 - mt: Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah.
 - brenton: And Gnothi, and the son of Samiud, the son of Amri, the son of Ambraim, the son of Buni, son of the sons of Phares, the son of Juda.
 
+### 2 Chronicles 4:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.656`
+- fresh_brenton_ratio: `0.688`
+- fresh: In region of Jordan king cast them in thickness of earth, in house of Succoth and between Sirdatha.
+- mt: In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah.
+- brenton: In the country round about Jordan the king cast them, in the clay ground in the house of Socchoth, and between that and Saredatha.
+
 ### 1 Kings 18:6
 - priority: `0`
 - importance: `none`
@@ -51095,15 +51059,6 @@ Method:
 - fresh: And what remains from the sacrifice shall belong to Aaron and his sons, a holy of holies from the offerings of the Lord.
 - mt: And that which is left of the food offering shall be Aaron's and his sons': it is a thing most holy of the offerings of the LORD made by fire.
 - brenton: And that which is left of the sacrifice shall be for Aaron and his sons, most holy from the burnt-offerings of the Lord.
-
-### 1 Chronicles 27:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.656`
-- fresh_brenton_ratio: `0.814`
-- fresh: Third for third month was Banaias son of Iōdae the priest, chief, and over his division twenty-four thousand.
-- mt: The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.
-- brenton: The third for the third month was Banaias the son of Jodae the chief priest: and in his division were twenty and four thousand.
 
 ### 2 Kings 9:4
 - priority: `0`
@@ -52166,15 +52121,6 @@ Method:
 - fresh: And it happened, when king heard words of law, he tore his garments.
 - mt: And it came to pass, when the king had heard the words of the law, that he rent his clothes.
 - brenton: And it came to pass, when the king heard the words of the law, that he rent his garments.
-
-### 2 Chronicles 30:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.662`
-- fresh_brenton_ratio: `0.799`
-- fresh: And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into torrent of Kedrōn.
-- mt: And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron.
-- brenton: And they arose, and took away the altars that were in Jerusalem, and all on which they burnt incense to false gods they tore down and cast into the brook Kedron.
 
 ### 2 Kings 3:6
 - priority: `0`
@@ -53778,15 +53724,6 @@ Method:
 - mt: And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
 - brenton: And the servants of Adraazar saw that they were defeated before Israel, and they made peace with David and served him: and the Syrians would not any more help the children of Ammon.
 
-### 2 Kings 18:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.669`
-- fresh_brenton_ratio: `0.790`
-- fresh: And they called to Hezekiah, and Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came out to them.
-- mt: And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.
-- brenton: And they cried to Ezekias: and there came to him Heliakim the son of Chelcias the steward, and Somnas the scribe, and Joas the son of Saphat the recorder.
-
 ### 2 Samuel 16:16
 - priority: `0`
 - importance: `none`
@@ -53876,15 +53813,6 @@ Method:
 - fresh: And he went away from there and found Elisha son of Saphat, and he was plowing with twelve pairs of oxen before him, and he himself was with the twelve, and Elijah came upon him and threw his sheepskin cloak upon him.
 - mt: So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
 - brenton: And he departed thence, and finds Elisaie the son of Saphat, and he was ploughing with oxen; there were twelve yoke before him, and he with the twelve, and he passed by to him, and cast his mantle upon him.
-
-### 2 Chronicles 24:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.670`
-- fresh_brenton_ratio: `0.646`
-- fresh: And after death of Iōdae, rulers of Judah came and bowed to king; then king listened to them.
-- mt: Now after the death of Jehoiada came the princes of Judah, and made reverence to the king. Then the king hearkened unto them.
-- brenton: And it came to pass after the death of Jodae, that the princes of Juda went in, and did obeisance to the king. Then the king hearkened to them.
 
 ### Leviticus 16:31
 - priority: `0`
@@ -55461,6 +55389,15 @@ Method:
 - mt: And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drove the cart.
 - brenton: And they set the ark of God on a new waggon brought out of the house of Aminadab: and Oza and his brethren drove the waggon.
 
+### 1 Chronicles 27:34
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.676`
+- fresh_brenton_ratio: `0.741`
+- fresh: And after him: Achitophel, then Jehoiada son of Banaiou and Abiathar, and Joab commander-in-chief of king.
+- mt: And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab.
+- brenton: And after this Achitophel Jodae the son of Banæas came next, and Abiathar: and Joab was the king's commander-in-chief.
+
 ### 1 Samuel 8:9
 - priority: `0`
 - importance: `none`
@@ -55514,6 +55451,15 @@ Method:
 - fresh: Sons of Samaia: Gothni and Raphaēl and Ōbēd and Elzabad and his strong brothers, Eliou and Sabchia and Isbakōm.
 - mt: The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah.
 - brenton: The sons of Samai; Othni, and Raphael, and Obed, and Elzabath, and Achiud, mighty men, Heliu, and Sabachia, and Isbacom.
+
+### 2 Chronicles 30:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.676`
+- fresh_brenton_ratio: `0.799`
+- fresh: And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into torrent of Kidron.
+- mt: And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron.
+- brenton: And they arose, and took away the altars that were in Jerusalem, and all on which they burnt incense to false gods they tore down and cast into the brook Kedron.
 
 ### Genesis 21:2
 - priority: `0`
@@ -55830,6 +55776,15 @@ Method:
 - mt: And if a man strike his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
 - brenton: And if a man smite his man-servant or his maid-servant, with a rod, and the party die under his hands, he shall be surely punished.
 
+### 2 Chronicles 18:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.678`
+- fresh_brenton_ratio: `0.737`
+- fresh: And king of Israel said, Take Michaias and return him to Emēr ruler of city and to Joash ruler, son of king,
+- mt: Then the king of Israel said, Take all of you Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
+- brenton: And the king of Israel said, Take Michaias, and carry him back to Emer the governor of the city, and to Joas the captain, the king's son;
+
 ### Judges 21:7
 - priority: `0`
 - importance: `none`
@@ -55982,15 +55937,6 @@ Method:
 - fresh: And the foreigner said to David, Am I like a dog, that you come against me with staff and stones? And David said, No, but worse than a dog’s hand. And the foreigner cursed David by his gods.
 - mt: And the Philistine said unto David, Am I a dog, that you come to me with staves? And the Philistine cursed David by his gods.
 - brenton: And the Philistine said to David, Am I as a dog, that thou comest against me with a staff and stones? [and David said, Nay, but worse than a dog.] And the Philistine cursed David by his gods.
-
-### 2 Samuel 8:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.678`
-- fresh_brenton_ratio: `0.870`
-- fresh: and Banaias son of Iōdae was counselor, and the Cheletthi and the Pheletti, and sons of David were chiefs of the court.
-- mt: And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
-- brenton: and Banæas son of Jodaë was councillor, and the Chelethite and the Phelethite, and the sons of David, were princes of the court.
 
 ### Nehemiah 3:13
 - priority: `0`
@@ -58449,6 +58395,15 @@ Method:
 - mt: And if any man die very suddenly by him, and he has defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.
 - brenton: And if any one should die suddenly by him, immediately the head of his vow shall be defiled; and he shall shave his head in whatever day he shall be purified: on the seventh day he shall be shaved.
 
+### Judges 8:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.687`
+- fresh_brenton_ratio: `0.788`
+- fresh: And he captured a young servant from the men of Succoth and questioned him, and he wrote down for him the leaders of Succoth and its elders, seventy-seven men.
+- mt: And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men.
+- brenton: And he took prisoner a young lad of the men of Socchoth, and questioned him; and he wrote to him the names of the princes of Socchoth and of their elders, seventy-seven men.
+
 ### Nehemiah 6:19
 - priority: `0`
 - importance: `none`
@@ -58709,6 +58664,15 @@ Method:
 - fresh: And Saul said to the people with him, Muster now and see who has gone out from you. And they mustered, and behold, Jonathan and the one carrying his equipment were not found.
 - mt: Then said Saul unto the people that were with him, Number now, and see who is gone from us. And when they had numbered, behold, Jonathan and his armour bearer were not there.
 - brenton: And Saul said to the people with him, Number yourselves now, and see who has gone out from you: and they numbered themselves, and behold, Jonathan and his armour-bearer were not found.
+
+### 2 Kings 18:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.688`
+- fresh_brenton_ratio: `0.804`
+- fresh: And they called to Hezekiah, and Eliakim son of Chelkias the steward and Somnas the scribe and Joah son of Asaph the recorder came out to them.
+- mt: And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.
+- brenton: And they cried to Ezekias: and there came to him Heliakim the son of Chelcias the steward, and Somnas the scribe, and Joas the son of Saphat the recorder.
 
 ### 2 Kings 5:14
 - priority: `0`
@@ -59277,15 +59241,6 @@ Method:
 - mt: And Elijah came unto all the people, and said, How long halt all of you between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word.
 - brenton: And Eliu drew near to them all: and Eliu said to them, How long wilt ye halt on both feet? if the Lord be God, follow him; but if Baal, follow him. And the people answered not a word.
 
-### 2 Chronicles 24:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.690`
-- fresh_brenton_ratio: `0.767`
-- fresh: Iōas was seven years old when he reigned, and forty years he reigned in Jerusalem, and name of his mother was Sabia from Bersabee.
-- mt: Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beersheba.
-- brenton: Joas was seven years old when he began to reign, and he reigned forty years in Jerusalem: and his mother's name was Sabia of Beersabee.
-
 ### Nehemiah 12:46
 - priority: `0`
 - importance: `none`
@@ -59438,15 +59393,6 @@ Method:
 - fresh: "Our livestock too will go with us, and we will not leave behind a hoof, for from them we will take what we need to serve the Lord our God. But we do not know with what we will serve the Lord our God until we come there."
 - mt: Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither.
 - brenton: And our cattle shall go with us, and we will not leave a hoof behind, for of them we will take to serve the Lord our God: but we know not in what manner we shall serve the Lord our God, until we arrive there.
-
-### 2 Samuel 15:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.691`
-- fresh_brenton_ratio: `0.164`
-- fresh: And all the land was weeping with a great voice, and all the people were passing in the wadi Kedrōn, and the king crossed the wadi Kedrōn, and all the people and the king were passing on toward the road of the wilderness.
-- mt: And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.
-- brenton: And all the country wept with a loud voice. And all the people passed by over the brook of Kedron; and the king crossed the brook Kedron: and all the people and the king passed on toward the way of the wilderness.
 
 ### Ruth 3:9
 - priority: `0`
@@ -59618,6 +59564,15 @@ Method:
 - fresh: And look, seven other cows came up after them out of the river, evil and ugly in appearance and thin in flesh, such that I never saw uglier ones in all the land of Egypt.
 - mt: And, behold, seven other cattle came up after them, poor and very ill favoured and thin, such as I never saw in all the land of Egypt for badness:
 - brenton: And behold seven other cows came up after them out of the river, evil and ill-favoured and lean-fleshed, such that I never saw worse in all the land of Egypt.
+
+### Nehemiah 12:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.691`
+- fresh_brenton_ratio: `0.833`
+- fresh: In days of Joiakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
+- mt: These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
+- brenton: it was in the days of Joakim son of Jesus, son of Josedec, and in the days of Neemia: and Esdras the priest was scribe.
 
 ### 1 Chronicles 27:16
 - priority: `0`
@@ -60231,6 +60186,15 @@ Method:
 - mt: Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom.
 - brenton: Then Solomon went to Gasion Gaber, and to Ælath near the sea in the land of Idumea.
 
+### 2 Chronicles 24:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.693`
+- fresh_brenton_ratio: `0.884`
+- fresh: And Jehoiada grew old, full of days, and died, being one hundred thirty years old at his death.
+- mt: But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died.
+- brenton: And Jodae grew old, being full of days, and he died, being a hundred and thirty years old at his death.
+
 ### Genesis 8:1
 - priority: `0`
 - importance: `none`
@@ -60329,15 +60293,6 @@ Method:
 - fresh: And they shall place the cover-pan on the altar and spread over it a whole purple cloth.
 - mt: And they shall take away the ashes from the altar, and spread a purple cloth thereon:
 - brenton: And he shall put the covering on the altar, and they shall cover it with a cloth all of purple.
-
-### Nehemiah 12:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.694`
-- fresh_brenton_ratio: `0.742`
-- fresh: Sons of Levi, heads of fathers, were written in book of words of the days until days of Iōanan son of Elisoub.
-- mt: The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
-- brenton: And the sons of Levi, heads of families, were written in the book of the chronicles, even to the days of Joanan son of Elisue.
 
 ### 1 Samuel 15:2
 - priority: `0`
@@ -60491,6 +60446,15 @@ Method:
 - fresh: And Moses finished speaking all these words to all the sons of Israel,
 - mt: And Moses went and spoke these words unto all Israel.
 - brenton: And Moses finished speaking all these words to all the children of Israel;
+
+### Nehemiah 12:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.694`
+- fresh_brenton_ratio: `0.938`
+- fresh: And Iesou begot Joiakim, and Joiakim begot Eliasib, and Eliasib begot Joiada,
+- mt: And Jeshua brings forth Joiakim, Joiakim also brings forth Eliashib, and Eliashib brings forth Joiada,
+- brenton: And Jesus begot Joakim, and Joakim begot Eliasib, and Eliasib begot Jodae,
 
 ### Joshua 18:22
 - priority: `0`
@@ -61491,6 +61455,15 @@ Method:
 - mt: You shall not uncover the nakedness of your mother's sister: for she is your mother's near kinswoman.
 - brenton: Thou shalt not uncover the nakedness of thy mother's sister, for she is near akin to thy mother.
 
+### 2 Chronicles 24:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.698`
+- fresh_brenton_ratio: `0.647`
+- fresh: And after death of Jehoiada, rulers of Judah came and bowed to king; then king listened to them.
+- mt: Now after the death of Jehoiada came the princes of Judah, and made reverence to the king. Then the king hearkened unto them.
+- brenton: And it came to pass after the death of Jodae, that the princes of Juda went in, and did obeisance to the king. Then the king hearkened to them.
+
 ### 1 Kings 10:3
 - priority: `0`
 - importance: `none`
@@ -62391,6 +62364,15 @@ Method:
 - mt: And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.
 - brenton: And Joseph entered into the house, and they brought him the gifts which they had in their hands, into the house; and they did him reverence with their face to the ground.
 
+### 2 Samuel 15:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.701`
+- fresh_brenton_ratio: `0.164`
+- fresh: And all the land was weeping with a great voice, and all the people were passing in the wadi Kidron, and the king crossed the wadi Kidron, and all the people and the king were passing on toward the road of the wilderness.
+- mt: And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.
+- brenton: And all the country wept with a loud voice. And all the people passed by over the brook of Kedron; and the king crossed the brook Kedron: and all the people and the king passed on toward the way of the wilderness.
+
 ### 2 Chronicles 19:2
 - priority: `0`
 - importance: `none`
@@ -62795,15 +62777,6 @@ Method:
 - fresh: And for Aaron's sons you shall make tunics and sashes, and you shall make turbans for them, for honor and glory.
 - mt: And for Aaron's sons you shall make coats, and you shall make for them girdles, and bonnets shall you make for them, for glory and for beauty.
 - brenton: And for the sons of Aaron thou shalt make tunics and girdles, and thou shalt make for them tires for honour and glory.
-
-### Judges 6:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.702`
-- fresh_brenton_ratio: `0.768`
-- fresh: And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Jōas did this thing.
-- mt: And they said one to another, Who has done this thing? And when they enquired and asked, they said, Gideon the son of Joash has done this thing.
-- brenton: And a man said to his neighbour, Who has done this thing? and they enquired and searched, and learnt that Gedeon the son of Joas had done this thing.
 
 ### Numbers 31:6
 - priority: `0`
@@ -63372,15 +63345,6 @@ Method:
 - mt: They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.
 - brenton: And they shall keep my ordinances, that they do not bear iniquity because of them, and die because of them, if they shall profane them: I am the Lord God that sanctifies them.
 
-### Judges 6:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.704`
-- fresh_brenton_ratio: `0.440`
-- fresh: And an angel of the Lord came and sat under the oak that was in Ephratha, that belonged to Jōas father of Abiezri, and Gideon his son was beating out wheat in a winepress to escape from before Midian.
-- mt: And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
-- brenton: And an angel of the Lord came, and sat down under the fir tree, which was in Ephratha in the land of Joas father of Esdri; and Gedeon his son was threshing wheat in a wine-press in order to escape from the face of Madiam.
-
 ### Judges 2:21
 - priority: `0`
 - importance: `none`
@@ -63542,6 +63506,15 @@ Method:
 - fresh: For there is no omen in Jacob, nor divination in Israel. In season it shall be said to Jacob and to Israel what God will accomplish.
 - mt: Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What has God wrought!
 - brenton: For there is no divination in Jacob, nor enchantment in Israel; in season it shall be told to Jacob and Israel what God shall perform.
+
+### 1 Chronicles 27:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.704`
+- fresh_brenton_ratio: `0.812`
+- fresh: Third for third month was Banaias son of Jehoiada the priest, chief, and over his division twenty-four thousand.
+- mt: The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.
+- brenton: The third for the third month was Banaias the son of Jodae the chief priest: and in his division were twenty and four thousand.
 
 ### 1 Samuel 15:31
 - priority: `0`
@@ -64155,15 +64128,6 @@ Method:
 - mt: And their food offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:
 - brenton: Their meat-offerings and their drink-offerings shall be to the calves and the rams and the lambs according to their number, according to their ordinance.
 
-### Judges 8:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.706`
-- fresh_brenton_ratio: `0.767`
-- fresh: And Gideon son of Jōas returned from the war by the ascent of Ares.
-- mt: And Gideon the son of Joash returned from battle before the sun was up,
-- brenton: And Gedeon the son of Joas returned from the battle, down from the battle of Ares.
-
 ### 1 Samuel 13:19
 - priority: `0`
 - importance: `none`
@@ -64442,6 +64406,15 @@ Method:
 - fresh: I will be to him for a father, and he will be to me for a son, and if his wrongdoing comes, I will reprove him with the rod of men and with touches of the sons of men.
 - mt: I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
 - brenton: I will be to him a father, and he shall be to me a son. And when he happens to transgress, then will I chasten him with the rod of men, and with the stripes of the sons of men.
+
+### Judges 6:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.772`
+- fresh: And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Joash did this thing.
+- mt: And they said one to another, Who has done this thing? And when they enquired and asked, they said, Gideon the son of Joash has done this thing.
+- brenton: And a man said to his neighbour, Who has done this thing? and they enquired and searched, and learnt that Gedeon the son of Joas had done this thing.
 
 ### Genesis 19:11
 - priority: `0`
@@ -65433,6 +65406,15 @@ Method:
 - mt: And Caleb said, He that strikes Kirjathsepher, and takes it, to him will I give Achsah my daughter to wife.
 - brenton: And Chaleb said, Whosoever shall smite the city of Letters, and shall first take it, I will give to him Ascha my daughter to wife.
 
+### 2 Chronicles 24:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.710`
+- fresh_brenton_ratio: `0.780`
+- fresh: Joash was seven years old when he reigned, and forty years he reigned in Jerusalem, and name of his mother was Sabia from Bersabee.
+- mt: Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beersheba.
+- brenton: Joas was seven years old when he began to reign, and he reigned forty years in Jerusalem: and his mother's name was Sabia of Beersabee.
+
 ### Numbers 18:27
 - priority: `0`
 - importance: `none`
@@ -65928,6 +65910,15 @@ Method:
 - mt: And say all of you moreover, Behold, your servant Jacob is behind us. For he said, I will appease him with the present that goes before me, and afterward I will see his face; possibly he will accept of me.
 - brenton: And he charged the first and the second and the third, and all that went before him after these flocks, saying, Thus shall ye speak to Esau when ye find him;
 
+### Judges 6:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.712`
+- fresh_brenton_ratio: `0.439`
+- fresh: And an angel of the Lord came and sat under the oak that was in Ephratha, that belonged to Joash father of Abiezri, and Gideon his son was beating out wheat in a winepress to escape from before Midian.
+- mt: And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
+- brenton: And an angel of the Lord came, and sat down under the fir tree, which was in Ephratha in the land of Joas father of Esdri; and Gedeon his son was threshing wheat in a wine-press in order to escape from the face of Madiam.
+
 ### Exodus 27:9
 - priority: `0`
 - importance: `none`
@@ -66134,6 +66125,15 @@ Method:
 - fresh: These are the judgments and the ordinances and the law that the Lord gave between himself and the sons of Israel on Mount Sinai by Moses' hand.
 - mt: These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.
 - brenton: These are my judgments and my ordinances, and the law which the Lord gave between himself and the children of Israel, in the mount Sina, by the hand of Moses.
+
+### 2 Samuel 8:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.712`
+- fresh_brenton_ratio: `0.876`
+- fresh: and Banaias son of Jehoiada was counselor, and the Cheletthi and the Pheletti, and sons of David were chiefs of the court.
+- mt: And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
+- brenton: and Banæas son of Jodaë was councillor, and the Chelethite and the Phelethite, and the sons of David, were princes of the court.
 
 ### Deuteronomy 4:2
 - priority: `0`
@@ -66395,15 +66395,6 @@ Method:
 - fresh: And Abia grew strong and took for himself fourteen wives and fathered twenty-two sons and sixteen daughters.
 - mt: But Abijah waxed mighty, and married fourteen wives, and brings forth twenty and two sons, and sixteen daughters.
 - brenton: But Abia strengthened himself, and took to himself fourteen wives, and he begot twenty-two sons, and sixteen daughters.
-
-### 2 Chronicles 17:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.713`
-- fresh_brenton_ratio: `0.824`
-- fresh: and with him Iōanan the leader, and with him two hundred eighty thousand;
-- mt: And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.
-- brenton: And after him, Joanan the captain, and with him two hundred and eighty thousand.
 
 ### 2 Samuel 6:3
 - priority: `0`
@@ -68250,15 +68241,6 @@ Method:
 - mt: And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
 - brenton: And Joshua gathered all the tribes of Israel to Selo, and convoked their elders, and their officers, and their judges, and set them before God.
 
-### Nehemiah 12:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.719`
-- fresh_brenton_ratio: `0.887`
-- fresh: and Iōdae begot Ionathan, and Ionathan begot Iadou.
-- mt: And Joiada brings forth Jonathan, and Jonathan brings forth Jaddua.
-- brenton: and Jodae begot Jonathan, and Jonathan begot Jadu.
-
 ### Numbers 33:19
 - priority: `0`
 - importance: `none`
@@ -68771,15 +68753,6 @@ Method:
 - fresh: And if your Hebrew brother or Hebrew sister is sold to you, he shall serve you six years, and in the seventh you shall send him away from you free.
 - mt: And if your brother, an Hebrew man, or an Hebrew woman, be sold unto you, and serve you six years; then in the seventh year you shall let him go free from you.
 - brenton: And if thy brother or sister, a Hebrew man or a Hebrew woman, be sold to thee, he shall serve thee six years, and in the seventh year thou shalt send him out free from thee.
-
-### 1 Chronicles 27:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.721`
-- fresh_brenton_ratio: `0.729`
-- fresh: And over olive groves and sycamines in lowland was Balanas the Gedōrite, and over treasuries of oil was Iōas.
-- mt: And over the olive trees and the sycomore trees that were in the low plains was Baalhanan the Gederite: and over the cellars of oil was Joash:
-- brenton: And over the oliveyards, and over the sycamores in the plain country was Ballanan the Gedorite; and over the stores of oil was Joas.
 
 ### 2 Samuel 17:6
 - priority: `0`
@@ -70680,6 +70653,15 @@ Method:
 - mt: And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
 - brenton: And to Aser he said, Aser is blessed with children; and he shall be acceptable to his brethren: he shall dip his foot in oil.
 
+### 2 Chronicles 25:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.726`
+- fresh_brenton_ratio: `0.876`
+- fresh: And Amaziah took counsel and sent to Joash son of Iōachaz son of Iou king of Israel, saying, Come, let us look one another in face.
+- mt: Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face.
+- brenton: And Amasias king of Juda took counsel, and sent to Joas, son of Joachaz, son of Jeu, king of Israel, saying, Come, and let us look one another in the face.
+
 ### Nehemiah 11:5
 - priority: `0`
 - importance: `none`
@@ -71553,6 +71535,15 @@ Method:
 - mt: And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
 - brenton: And they turned and went up to the mountain, and they came as far as the valley of the cluster, and surveyed it.
 
+### Judges 8:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.730`
+- fresh_brenton_ratio: `0.776`
+- fresh: And Gideon son of Joash returned from the war by the ascent of Ares.
+- mt: And Gideon the son of Joash returned from battle before the sun was up,
+- brenton: And Gedeon the son of Joas returned from the battle, down from the battle of Ares.
+
 ### 1 Chronicles 14:4
 - priority: `0`
 - importance: `none`
@@ -71966,15 +71957,6 @@ Method:
 - fresh: and five bars for the uprights on the second side of the tent, and five bars for the hindmost uprights on the side of the tent toward the sea.
 - mt: And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward.
 - brenton: and five bars to one post on the second side of the tabernacle, and five bars to the hinder posts, on the side of the tabernacle toward the sea.
-
-### 2 Chronicles 23:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.731`
-- fresh_brenton_ratio: `0.834`
-- fresh: And Iōdae made covenant between himself and people and king, that they should be people to Lord.
-- mt: And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD's people.
-- brenton: And Jodae made a covenant between himself, and the people, and the king, that the people should be the Lord's.
 
 ### Genesis 25:20
 - priority: `0`
@@ -72848,15 +72830,6 @@ Method:
 - fresh: And the great priest from among his brothers, on whose head the anointing oil has been poured and who has been completed to put on the garments, shall not unbind his head-covering, and shall not tear his garments.
 - mt: And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;
 - brenton: And the priest that is chief among his brethren, the oil having been poured upon the head of the anointed one, and he having been consecrated to put on the garments, shall not take the mitre off his head, and shall not rend his garments:
-
-### Nehemiah 12:42
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.734`
-- fresh_brenton_ratio: `0.429`
-- fresh: and Maasias and Semeias and Eleazar and Ozi and Iōanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
-- mt: And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
-- brenton: And the singers were heard, and were numbered.
 
 ### Exodus 26:7
 - priority: `0`
@@ -74127,15 +74100,6 @@ Method:
 - mt: And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.
 - brenton: And he broke in pieces the pillars, and utterly destroyed the groves, and filled their places with the bones of men.
 
-### Nehemiah 12:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.738`
-- fresh_brenton_ratio: `0.814`
-- fresh: And in days of Iōakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
-- mt: And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
-- brenton: And in the days of Joakim, his brethren the priests and the heads of families were, belonging to Saraia, Amaria; to Jeremia, Anania;
-
 ### Genesis 39:15
 - priority: `0`
 - importance: `none`
@@ -75360,6 +75324,15 @@ Method:
 - mt: Nevertheless the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.
 - brenton: nevertheless the Lord would not utterly destroy the house of David, because of the covenant which he made with David, and as he said to him that he would give a light to him and his sons for ever.
 
+### 1 Chronicles 27:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.742`
+- fresh_brenton_ratio: `0.743`
+- fresh: And over olive groves and sycamines in lowland was Balanas the Gedōrite, and over treasuries of oil was Joash.
+- mt: And over the olive trees and the sycomore trees that were in the low plains was Baalhanan the Gederite: and over the cellars of oil was Joash:
+- brenton: And over the oliveyards, and over the sycamores in the plain country was Ballanan the Gedorite; and over the stores of oil was Joas.
+
 ### Nehemiah 13:31
 - priority: `0`
 - importance: `none`
@@ -76350,15 +76323,6 @@ Method:
 - mt: All the commandments which I command you this day shall all of you observe to do, that all of you may live, and multiply, and go in and possess the land which the LORD swore unto your fathers.
 - brenton: Ye shall observe to do all the commands which I charge you to-day, that ye may live and be multiplied, and enter in and inherit the land, which the Lord your God sware to give to your fathers.
 
-### 2 Chronicles 24:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.745`
-- fresh_brenton_ratio: `0.764`
-- fresh: And Iōas did upright in sight of Lord all days of Iōdae the priest.
-- mt: And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest.
-- brenton: And Joas did that which was right in the sight of the Lord all the days of Jodae the priest.
-
 ### 1 Kings 3:8
 - priority: `0`
 - importance: `none`
@@ -77277,6 +77241,15 @@ Method:
 - mt: Then let him count the years of the sale thereof, and restore the surplus unto the man to whom he sold it; that he may return unto his possession.
 - brenton: then shall he calculate the years of his sale, and he shall give what is due to the man to whom he sold it, and he shall return to his possession.
 
+### 2 Chronicles 17:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.748`
+- fresh_brenton_ratio: `0.834`
+- fresh: and with him Jehohanan the leader, and with him two hundred eighty thousand;
+- mt: And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.
+- brenton: And after him, Joanan the captain, and with him two hundred and eighty thousand.
+
 ### Deuteronomy 1:13
 - priority: `0`
 - importance: `none`
@@ -77555,6 +77528,15 @@ Method:
 - fresh: And as she went to fetch it, Elijah cried after her and said, Please take for me a morsel of bread in your hand.
 - mt: And as she was going to fetch it, he called to her, and said, Bring me, I pray you, a morsel of bread in yours hand.
 - brenton: And she went to fetch it; and Eliu cried after her, and said, Bring me, I pray thee, a morsel of the bread that is in thy hand.
+
+### Nehemiah 12:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.749`
+- fresh_brenton_ratio: `0.757`
+- fresh: Sons of Levi, heads of fathers, were written in book of words of the days until days of Johanan son of Elisoub.
+- mt: The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
+- brenton: And the sons of Levi, heads of families, were written in the book of the chronicles, even to the days of Joanan son of Elisue.
 
 ### 1 Samuel 15:17
 - priority: `0`
@@ -78006,15 +77988,6 @@ Method:
 - mt: And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.
 - brenton: And the head of the house of the families of the division of Merari, was Suriel the son of Abichail: they shall encamp by the side of the tabernacle northwards.
 
-### Judges 8:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.750`
-- fresh_brenton_ratio: `0.772`
-- fresh: And he took the leaders and the elders of the city and threshed them with the thorns of the wilderness and the bramble bushes, and with them he threshed the men of Sokchōth.
-- mt: And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
-- brenton: And he took the elders of the city with the thorns of the wilderness and the Barkenim, and with them he tore the men of the city.
-
 ### 2 Samuel 12:10
 - priority: `0`
 - importance: `none`
@@ -78249,15 +78222,6 @@ Method:
 - mt: And Bilhah Rachel's maid conceived again, and bare Jacob a second son.
 - brenton: And Balla, Rachel's maid, conceived yet again, and bore a second son to Jacob.
 
-### 2 Chronicles 11:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.750`
-- fresh_brenton_ratio: `0.907`
-- fresh: and Baithsoura and Sokchōth and Odollam,
-- mt: And Bethzur, and Shoco, and Adullam,
-- brenton: and Bæthsura, and Sochoth, and Odollam,
-
 ### 2 Kings 8:25
 - priority: `0`
 - importance: `none`
@@ -78266,15 +78230,6 @@ Method:
 - fresh: In the twelfth year of Joram son of Ahab king of Israel, Ochozias son of Joram became king.
 - mt: In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.
 - brenton: In the twelfth year of Joram son of Achaab king of Israel, Ochozias son of Joram began to reign.
-
-### Nehemiah 12:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.750`
-- fresh_brenton_ratio: `0.925`
-- fresh: to Esdra, Mesoulam; to Amaria, Iōanan;
-- mt: Of Ezra, Meshullam; of Amariah, Jehohanan;
-- brenton: to Esdra, Mesulam; to Amaria, Joanan;
 
 ### 1 Kings 16:17
 - priority: `0`
@@ -78483,15 +78438,6 @@ Method:
 - mt: And there all of you shall eat before the LORD your God, and all of you shall rejoice in all that all of you put your hand unto, all of you and your households, wherein the LORD your God has blessed you.
 - brenton: And ye shall eat there before the Lord your God, and ye shall rejoice in all the things on which ye shall lay your hand, ye and your houses, as the Lord your God has blessed you.
 
-### Nehemiah 12:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.751`
-- fresh_brenton_ratio: `0.819`
-- fresh: In days of Iōakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
-- mt: These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
-- brenton: it was in the days of Joakim son of Jesus, son of Josedec, and in the days of Neemia: and Esdras the priest was scribe.
-
 ### 1 Samuel 11:3
 - priority: `0`
 - importance: `none`
@@ -78545,15 +78491,6 @@ Method:
 - fresh: And Moses did just as the Lord commanded him, and he assembled the congregation at the door of the tent of testimony.
 - mt: And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
 - brenton: And Moses did as the Lord appointed him, and he assembled the congregation at the door of the tabernacle of witness.
-
-### 2 Kings 18:37
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.751`
-- fresh_brenton_ratio: `0.861`
-- fresh: And Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
-- mt: Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
-- brenton: And Heliakim the son of Chelcias, the steward, and Somnas the scribe, and Joas the son of Saphat the recorder came in to Ezekias, having rent their garments; and they reported to him the words of Rapsakes.
 
 ### 1 Samuel 23:9
 - priority: `0`
@@ -78888,15 +78825,6 @@ Method:
 - mt: And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded you;
 - brenton: And I have appointed him and Eliab the son of Achisamach of the tribe of Dan, and to every one understanding in heart I have given understanding; and they shall make all things as many as I have appointed thee,—
 
-### 1 Chronicles 26:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.753`
-- fresh_brenton_ratio: `0.450`
-- fresh: Ōlam fifth, Iōanan sixth, Eliōēnai seventh.
-- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
-- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
-
 ### Genesis 2:2
 - priority: `0`
 - importance: `none`
@@ -79040,6 +78968,15 @@ Method:
 - fresh: And people of the land were weakening hands of people of Judah and hindering them from building,
 - mt: Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
 - brenton: And the people of the land weakened the hands of the people of Juda, and hindered them in building,
+
+### Nehemiah 12:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.753`
+- fresh_brenton_ratio: `0.827`
+- fresh: And in days of Joiakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
+- mt: And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+- brenton: And in the days of Joakim, his brethren the priests and the heads of families were, belonging to Saraia, Amaria; to Jeremia, Anania;
 
 ### 1 Kings 16:13
 - priority: `0`
@@ -81507,6 +81444,15 @@ Method:
 - mt: Why should the name of our father be done away from among his family, because he has no son? Give unto us therefore a possession among the brethren of our father.
 - brenton: And Moses brought their case before the Lord.
 
+### Nehemiah 12:42
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.422`
+- fresh: and Maasias and Semeias and Eleazar and Ozi and Jehohanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
+- mt: And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+- brenton: And the singers were heard, and were numbered.
+
 ### Judges 9:21
 - priority: `0`
 - importance: `none`
@@ -82037,15 +81983,6 @@ Method:
 - fresh: And this land we inherited at that time, from Aroer which is on the lip of the torrent Arnon, and half the mountain of Gilead and its cities I gave to Reuben and to Gad.
 - mt: And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
 - brenton: And we inherited that land at that time from Aroer, which is by the border of the torrent Arnon, and half the mount of Galaad; and I gave his cities to Ruben and to Gad.
-
-### 1 Kings 19:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.762`
-- fresh_brenton_ratio: `0.830`
-- fresh: And Elijah feared and rose and went for his own life, and he came to Bērsabee of Judah and left his servant-boy there.
-- mt: And when he saw that, he arose, and went for his life, and came to Beersheba, which belongs to Judah, and left his servant there.
-- brenton: And Eliu feared, and rose, and departed for his life: and he comes to Bersabee to the land of Juda, and he left his servant there.
 
 ### 1 Kings 16:23
 - priority: `0`
@@ -83001,6 +82938,15 @@ Method:
 - mt: And be ready in the morning, and come up in the morning unto mount Sinai, and present yourself there to me in the top of the mount.
 - brenton: And be ready by the morning, and thou shalt go up to the mount Sina, and shalt stand there for me on the top of the mountain.
 
+### Nehemiah 12:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.765`
+- fresh_brenton_ratio: `0.898`
+- fresh: and Joiada begot Ionathan, and Ionathan begot Iadou.
+- mt: And Joiada brings forth Jonathan, and Jonathan brings forth Jaddua.
+- brenton: and Jodae begot Jonathan, and Jonathan begot Jadu.
+
 ### Numbers 7:18
 - priority: `0`
 - importance: `none`
@@ -83216,6 +83162,15 @@ Method:
 - fresh: Third, Zakkhour, his sons and his brothers, twelve.
 - mt: The third to Zaccur, he, his sons, and his brethren, were twelve:
 - brenton: The third Zacchur, his sons and his brethren were twelve:
+
+### 2 Chronicles 23:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.766`
+- fresh_brenton_ratio: `0.832`
+- fresh: And Jehoiada made covenant between himself and people and king, that they should be people to Lord.
+- mt: And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD's people.
+- brenton: And Jodae made a covenant between himself, and the people, and the king, that the people should be the Lord's.
 
 ### 1 Samuel 27:10
 - priority: `0`
@@ -83639,6 +83594,15 @@ Method:
 - fresh: And the king of Babylon made Maththania his kinsman king in his place and set his name Sedekia.
 - mt: And the king of Babylon made Mattaniah his father's brother king in his position, and changed his name to Zedekiah.
 - brenton: And the king of Babylon made Batthanias his son king in his stead, and called his name Sedekias.
+
+### 2 Kings 18:37
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.767`
+- fresh_brenton_ratio: `0.872`
+- fresh: And Eliakim son of Chelkias the steward and Somnas the scribe and Joah son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
+- mt: Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
+- brenton: And Heliakim the son of Chelcias, the steward, and Somnas the scribe, and Joas the son of Saphat the recorder came in to Ezekias, having rent their garments; and they reported to him the words of Rapsakes.
 
 ### Judges 12:10
 - priority: `0`
@@ -85026,15 +84990,6 @@ Method:
 - mt: And whomsoever he touches that has the issue, and has not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even.
 - brenton: And whomsoever he that has the issue shall touch, if he have not rinsed his hands in water, he shall wash his garments, and bathe his body in water, and shall be unclean until evening.
 
-### 2 Chronicles 25:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.771`
-- fresh_brenton_ratio: `0.864`
-- fresh: And Amaziah took counsel and sent to Iōas son of Iōachaz son of Iou king of Israel, saying, Come, let us look one another in face.
-- mt: Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face.
-- brenton: And Amasias king of Juda took counsel, and sent to Joas, son of Joachaz, son of Jeu, king of Israel, saying, Come, and let us look one another in the face.
-
 ### 1 Chronicles 5:3
 - priority: `0`
 - importance: `none`
@@ -85880,6 +85835,15 @@ Method:
 - fresh: Leave work of that house of God alone. Let leaders of the Ioudaioi and elders of the Ioudaioi build that house of God on its place.
 - mt: Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 - brenton: Now let alone the work of the house of God: let the rulers of the Jews and the elders of the Jews build that house of God on its place.
+
+### Judges 8:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.774`
+- fresh_brenton_ratio: `0.774`
+- fresh: And he took the leaders and the elders of the city and threshed them with the thorns of the wilderness and the bramble bushes, and with them he threshed the men of Succoth.
+- mt: And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
+- brenton: And he took the elders of the city with the thorns of the wilderness and the Barkenim, and with them he tore the men of the city.
 
 ### 1 Chronicles 15:2
 - priority: `0`
@@ -88635,6 +88599,15 @@ Method:
 - mt: And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
 - brenton: There was no king like him before him, who turned to the Lord with all his heart, and with all his soul, and with all his strength, according to all the law of Moses; and after him there rose not one like him.
 
+### 1 Kings 19:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.783`
+- fresh_brenton_ratio: `0.826`
+- fresh: And Elijah feared and rose and went for his own life, and he came to Beersheba of Judah and left his servant-boy there.
+- mt: And when he saw that, he arose, and went for his life, and came to Beersheba, which belongs to Judah, and left his servant there.
+- brenton: And Eliu feared, and rose, and departed for his life: and he comes to Bersabee to the land of Juda, and he left his servant there.
+
 ### Deuteronomy 3:3
 - priority: `0`
 - importance: `none`
@@ -89499,15 +89472,6 @@ Method:
 - mt: And while he yet spoke, behold, Jonathan the son of Abiathar the priest came; and Adonijah said unto him, Come in; for you are a valiant man, and bring good tidings.
 - brenton: While he was yet speaking, behold, Jonathan the son of Abiathar the priest came in: and Adonias said, Come in, for thou art a mighty man, and thou comest to bring glad tidings.
 
-### Nehemiah 12:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.786`
-- fresh_brenton_ratio: `0.800`
-- fresh: The Levites in days of Eliasib, Iōada, Iōanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
-- mt: The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.
-- brenton: The Levites in the days of Eliasib, Joada, and Joa, and Joanan, and Idua, were recorded heads of families: also the priests, in the reign of Darius the Persian.
-
 ### Exodus 27:18
 - priority: `0`
 - importance: `none`
@@ -89561,15 +89525,6 @@ Method:
 - fresh: And Michaias said, Not so. Hear the word of the Lord. I saw the Lord God of Israel sitting upon his throne, and all the army of heaven stood around him, at his right hand and at his left.
 - mt: And he said, Hear you therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
 - brenton: And Michaias said, Not so, it is not I: hear the word of the Lord; it is not so. I saw the God of Israel sitting on his throne, and all the host of heaven stood about him on his right hand and on his left.
-
-### Judges 7:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.786`
-- fresh_brenton_ratio: `0.866`
-- fresh: And his neighbor answered and said, This is nothing else than the sword of Gideon son of Jōas, a man of Israel. The Lord has given Midian and all the camp into his hand.
-- mt: And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand has God delivered Midian, and all the host.
-- brenton: And his neighbour answered and said, This is none other than the sword of Gedeon, son of Joas, a man of Israel: God has delivered Madiam and all the host into his hand.
 
 ### 1 Chronicles 25:22
 - priority: `0`
@@ -90065,15 +90020,6 @@ Method:
 - fresh: And these are Ragouel's sons: Nachoth, Zare, Some, and Moze. These were the sons of Basemath, Esau's wife.
 - mt: And these are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau's wife.
 - brenton: And these are the sons of Raguel; Nachoth, Zare, Some, and Moze. These were the sons of Basemath, wife of Esau.
-
-### 1 Chronicles 9:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.788`
-- fresh_brenton_ratio: `0.839`
-- fresh: And from the priests: Iōdae and Iōarim and Iachin,
-- mt: And of the priests; Jedaiah, and Jehoiarib, and Jachin,
-- brenton: And of the priests; Jodaë, and Joarim, and Jachin,
 
 ### Deuteronomy 28:38
 - priority: `0`
@@ -90624,15 +90570,6 @@ Method:
 - mt: And Solomon said unto God, You have showed great mercy unto David my father, and have made me to reign in his position.
 - brenton: And Solomon said to God, Thou hast dealt very mercifully with my father David, and hast made me king in his stead.
 
-### Judges 8:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.790`
-- fresh_brenton_ratio: `0.766`
-- fresh: And he said to the men of Sokchōth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zebah and Salmana, kings of Midian.
-- mt: And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
-- brenton: And he said to the men of Socchoth, Give, I pray you, bread to feed this people that follow me; because they are faint, and behold, I am following after Zebee and Salmana, kings of Madiam.
-
 ### Exodus 24:9
 - priority: `0`
 - importance: `none`
@@ -90866,15 +90803,6 @@ Method:
 - fresh: And the sons of Israel walked from there at that time, each man to his tribe and to his family, and each man went away from there to his inheritance.
 - mt: And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
 - brenton: And the children of Israel went thence at that time every man to his tribe and his kindred; and they went thence every man to his inheritance.
-
-### 1 Kings 22:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.791`
-- fresh_brenton_ratio: `0.744`
-- fresh: And the king of Israel said, Take Michaias and return him to Emēr the ruler of the city and to Iōas son of the king.
-- mt: And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king's son;
-- brenton: And the king of Israel said, Take Michaias, and convey him away to Semer the keeper of the city;
 
 ### 2 Kings 3:15
 - priority: `0`
@@ -91641,6 +91569,15 @@ Method:
 - mt: And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them.
 - brenton: And all the Egyptians shall know that I am the Lord, stretching out my hand upon Egypt, and I will bring out the children of Israel out of the midst of them.
 
+### 2 Chronicles 24:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.793`
+- fresh_brenton_ratio: `0.883`
+- fresh: And they conspired against him and stoned him by command of king Joash in court of house of Lord.
+- mt: And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.
+- brenton: And they conspired against him, and stoned him by command of king Joas in the court of the Lord's house.
+
 ### Judges 11:30
 - priority: `0`
 - importance: `none`
@@ -92082,6 +92019,15 @@ Method:
 - mt: And the priest shall come again the seventh day, and shall look: and, behold, if the plague be spread in the walls of the house;
 - brenton: And the priest shall return on the seventh day and view the house; and, behold, if the plague is spread in the walls of the house,
 
+### Judges 7:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.795`
+- fresh_brenton_ratio: `0.869`
+- fresh: And his neighbor answered and said, This is nothing else than the sword of Gideon son of Joash, a man of Israel. The Lord has given Midian and all the camp into his hand.
+- mt: And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand has God delivered Midian, and all the host.
+- brenton: And his neighbour answered and said, This is none other than the sword of Gedeon, son of Joas, a man of Israel: God has delivered Madiam and all the host into his hand.
+
 ### Ezra 10:21
 - priority: `0`
 - importance: `none`
@@ -92361,15 +92307,6 @@ Method:
 - mt: Then Abraham gave up the spirit, and died in a good old age, an old man, and full of years; and was gathered to his people.
 - brenton: And Abraam failing died in a good old age, an old man and full of days, and was added to his people.
 
-### 2 Chronicles 24:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.796`
-- fresh_brenton_ratio: `0.867`
-- fresh: And they conspired against him and stoned him by command of king Iōas in court of house of Lord.
-- mt: And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.
-- brenton: And they conspired against him, and stoned him by command of king Joas in the court of the Lord's house.
-
 ### 1 Chronicles 10:10
 - priority: `0`
 - importance: `none`
@@ -92486,6 +92423,15 @@ Method:
 - fresh: And Abimelech said to Abraham, What did you see, that you did this?
 - mt: And Abimelech said unto Abraham, What saw you, that you have done this thing?
 - brenton: And Abimelech said to Abraam, What hast thou seen in me that thou hast done this?
+
+### Nehemiah 12:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.797`
+- fresh_brenton_ratio: `0.804`
+- fresh: The Levites in days of Eliasib, Iōada, Johanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
+- mt: The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.
+- brenton: The Levites in the days of Eliasib, Joada, and Joa, and Joanan, and Idua, were recorded heads of families: also the priests, in the reign of Darius the Persian.
 
 ### Genesis 50:6
 - priority: `0`
@@ -96312,6 +96258,15 @@ Method:
 - mt: Of the sons of Bani; Maadai, Amram, and Uel,
 - brenton: And of the sons of Bani; Moodia, Amram, Uel,
 
+### Judges 8:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.811`
+- fresh_brenton_ratio: `0.769`
+- fresh: And he said to the men of Succoth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zebah and Salmana, kings of Midian.
+- mt: And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
+- brenton: And he said to the men of Socchoth, Give, I pray you, bread to feed this people that follow me; because they are faint, and behold, I am following after Zebee and Salmana, kings of Madiam.
+
 ### 1 Chronicles 7:9
 - priority: `0`
 - importance: `none`
@@ -96789,6 +96744,15 @@ Method:
 - mt: And they swore unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets.
 - brenton: And they swore to the Lord with a loud voice, and with trumpets, and with cornets.
 
+### 2 Chronicles 11:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.812`
+- fresh_brenton_ratio: `0.917`
+- fresh: and Baithsoura and Socoh and Odollam,
+- mt: And Bethzur, and Shoco, and Adullam,
+- brenton: and Bæthsura, and Sochoth, and Odollam,
+
 ### 1 Chronicles 7:35
 - priority: `0`
 - importance: `none`
@@ -97013,6 +96977,15 @@ Method:
 - fresh: And she conceived yet again and bore a son and said, At this time now my husband will be with me, for I have borne him three sons. Therefore she called his name Levi.
 - mt: And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.
 - brenton: And she conceived yet again, and bore a son, and said, In the present time my husband will be with me, for I have born him three sons; therefore she called his name, Levi.
+
+### 1 Kings 22:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.814`
+- fresh_brenton_ratio: `0.740`
+- fresh: And the king of Israel said, Take Michaias and return him to Emēr the ruler of the city and to Joash son of the king.
+- mt: And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king's son;
+- brenton: And the king of Israel said, Take Michaias, and convey him away to Semer the keeper of the city;
 
 ### 1 Kings 19:7
 - priority: `0`
@@ -98535,15 +98508,6 @@ Method:
 - mt: And David called one of the young men, and said, Go near, and fall upon him. And he stroke him that he died.
 - brenton: And David called one of his young men, and said, Go and fall upon him: and he smote him, and he died.
 
-### Judges 8:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.820`
-- fresh_brenton_ratio: `0.852`
-- fresh: And he went up from there to Phanouēl and spoke to them in the same way, and the men of Phanouēl answered him just as the men of Sokchōth answered him.
-- mt: And he went up thence to Penuel, and spoke unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him.
-- brenton: And he went up thence to Phanuel, and spoke to them likewise: and the men of Phanuel answered him as the men of Socchoth had answered him.
-
 ### 2 Kings 22:1
 - priority: `0`
 - importance: `none`
@@ -99416,6 +99380,15 @@ Method:
 - fresh: And the rest of the words of Amon, what he did, are these not written in the book of the words of the days for the kings of Judah?
 - mt: Now the rest of the acts of Amon which he did, are they not written in the book of the chronicles of the kings of Judah?
 - brenton: And the rest of the acts of Amos, even all that he did, behold, are not these written in the book of the chronicles of the kings of Juda?
+
+### 2 Chronicles 24:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.824`
+- fresh_brenton_ratio: `0.783`
+- fresh: And Joash did upright in sight of Lord all days of Jehoiada the priest.
+- mt: And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest.
+- brenton: And Joas did that which was right in the sight of the Lord all the days of Jodae the priest.
 
 ### Judges 1:25
 - priority: `0`
@@ -101091,15 +101064,6 @@ Method:
 - mt: Joel the brother of Nathan, Mibhar the son of Haggeri,
 - brenton: Joel the son of Nathan, Mebaal son of Agari,
 
-### 2 Samuel 11:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.830`
-- fresh_brenton_ratio: `0.893`
-- fresh: And David sent and asked about the woman, and someone said, Is not this Bērsabee daughter of Eliab, wife of Ourias the Hittite?
-- mt: And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
-- brenton: And David sent and enquired about the woman: and one said, Is not this Bersabee the daughter of Eliab, the wife of Urias the Chettite?
-
 ### Numbers 22:14
 - priority: `0`
 - importance: `none`
@@ -101675,6 +101639,15 @@ Method:
 - fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
 - mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
 - brenton: and said,
+
+### 1 Chronicles 26:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.456`
+- fresh: Ōlam fifth, Jehohanan sixth, Eliōēnai seventh.
+- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
+- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
 
 ### Genesis 12:1
 - priority: `0`
@@ -102450,6 +102423,15 @@ Method:
 - mt: And all of you shall be left few in number, whereas all of you were as the stars of heaven for multitude; because you would not obey the voice of the LORD your God.
 - brenton: And ye shall be left few in number, whereas ye were as the stars of the sky in multitude; because thou didst not hearken to the voice of the Lord thy God.
 
+### Judges 8:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.837`
+- fresh_brenton_ratio: `0.855`
+- fresh: And he went up from there to Phanouēl and spoke to them in the same way, and the men of Phanouēl answered him just as the men of Succoth answered him.
+- mt: And he went up thence to Penuel, and spoke unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him.
+- brenton: And he went up thence to Phanuel, and spoke to them likewise: and the men of Phanuel answered him as the men of Socchoth had answered him.
+
 ### Nehemiah 1:4
 - priority: `0`
 - importance: `none`
@@ -102836,15 +102818,6 @@ Method:
 - fresh: And the rest of the matters of Nadab and all that he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel?
 - mt: Now the rest of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: And the rest of the history of Nabat, and all that he did, behold, are not these written in the book of the chronicles of the kings of Israel?
-
-### Judges 6:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.839`
-- fresh_brenton_ratio: `0.839`
-- fresh: And the men of the city said to Jōas, Bring out your son and let him die, because he dug down the altar of Baal and because he cut down the grove upon it.
-- mt: Then the men of the city said unto Joash, Bring out your son, that he may die: because he has cast down the altar of Baal, and because he has cut down the grove that was by it.
-- brenton: And the men of the city said to Joas, Bring out thy son, and let him die, because he has destroyed the altar of Baal, and because he has destroyed the grove that is by it.
 
 ### Genesis 48:12
 - priority: `0`
@@ -104439,6 +104412,15 @@ Method:
 - mt: And of Zebulun he said, Rejoice, Zebulun, in your going out; and, Issachar, in your tents.
 - brenton: And to Zabulon he said, Rejoice, Zabulon, in thy going out, and Issachar in his tents.
 
+### Judges 6:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.848`
+- fresh_brenton_ratio: `0.843`
+- fresh: And the men of the city said to Joash, Bring out your son and let him die, because he dug down the altar of Baal and because he cut down the grove upon it.
+- mt: Then the men of the city said unto Joash, Bring out your son, that he may die: because he has cast down the altar of Baal, and because he has cut down the grove that was by it.
+- brenton: And the men of the city said to Joas, Bring out thy son, and let him die, because he has destroyed the altar of Baal, and because he has destroyed the grove that is by it.
+
 ### Judges 3:4
 - priority: `0`
 - importance: `none`
@@ -104943,15 +104925,6 @@ Method:
 - mt: And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 - brenton: And I took your father Abraam from the other side of the river, and I guided him through all the land, and I multiplied his seed;
 
-### 2 Chronicles 24:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.851`
-- fresh_brenton_ratio: `0.844`
-- fresh: And Iōdae took for him two wives, and he fathered sons and daughters.
-- mt: And Jehoiada took for him two wives; and he brings forth sons and daughters.
-- brenton: And Jodae took to himself two wives, and they bore sons and daughters.
-
 ### Genesis 37:26
 - priority: `0`
 - importance: `none`
@@ -105113,15 +105086,6 @@ Method:
 - fresh: And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
 - mt: And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,
 - brenton: And at the evening sacrifice I rose up from my humiliation; and when I had rent my garments, then I trembled, and I bow myself on my knees, and spread out my hands to the Lord God,
-
-### 2 Chronicles 25:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.852`
-- fresh_brenton_ratio: `0.805`
-- fresh: And Iōas king of Israel went up, and they looked one another in face, he and Amaziah king of Judah, at Baithsamys, which belongs to Judah.
-- mt: So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Bethshemesh, which belongs to Judah.
-- brenton: So Joas king of Israel went up; and they saw one another, he and Amasias king of Juda, in Bæthsamys, which is of Juda.
 
 ### Leviticus 7:17
 - priority: `0`
@@ -105419,6 +105383,15 @@ Method:
 - fresh: And Hezekiah took the letters from the hand of the messengers and read them, and he went up to the house of the Lord, and Hezekiah spread them out before the Lord.
 - mt: And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.
 - brenton: And Ezekias took the letter from the hand of the messengers, and read it: and he went up to the house of the Lord, and Ezekias spread it before the Lord,
+
+### Nehemiah 12:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.853`
+- fresh_brenton_ratio: `0.943`
+- fresh: to Esdra, Mesoulam; to Amaria, Jehohanan;
+- mt: Of Ezra, Meshullam; of Amariah, Jehohanan;
+- brenton: to Esdra, Mesulam; to Amaria, Joanan;
 
 ### Exodus 24:15
 - priority: `0`
@@ -108039,14 +108012,14 @@ Method:
 - mt: Of Asher; Pagiel the son of Ocran.
 - brenton: Of Aser, Phagaiel the son of Echran.
 
-### Judges 8:6
+### 2 Chronicles 25:21
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.871`
-- fresh_brenton_ratio: `0.826`
-- fresh: And the leaders of Sokchōth said, Is the hand of Zebah and Salmana now in your hand, that we should give bread to your army?
-- mt: And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in yours hand, that we should give bread unto yours army?
-- brenton: And the princes of Socchoth said, Are the hands of Zebee and Salmana now in thy hand, that we should give bread to thy host?
+- fresh_brenton_ratio: `0.818`
+- fresh: And Joash king of Israel went up, and they looked one another in face, he and Amaziah king of Judah, at Baithsamys, which belongs to Judah.
+- mt: So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Bethshemesh, which belongs to Judah.
+- brenton: So Joas king of Israel went up; and they saw one another, he and Amasias king of Juda, in Bæthsamys, which is of Juda.
 
 ### Exodus 4:28
 - priority: `0`
@@ -108056,6 +108029,15 @@ Method:
 - fresh: And Moses reported to Aaron all the words of the Lord with which he had sent him, and all the signs that he had commanded him.
 - mt: And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him.
 - brenton: And Moses reported to Aaron all the words of the Lord, which he sent, and all the things which he charged him.
+
+### 1 Chronicles 9:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.871`
+- fresh_brenton_ratio: `0.842`
+- fresh: And from the priests: Jedaiah and Iōarim and Iachin,
+- mt: And of the priests; Jedaiah, and Jehoiarib, and Jachin,
+- brenton: And of the priests; Jodaë, and Joarim, and Jachin,
 
 ### Deuteronomy 19:21
 - priority: `0`
@@ -108543,6 +108525,15 @@ Method:
 - mt: For the LORD your God is a consuming fire, even a jealous God.
 - brenton: For the Lord thy God is a consuming fire, a jealous God.
 
+### 2 Samuel 11:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.874`
+- fresh_brenton_ratio: `0.874`
+- fresh: And David sent and asked about the woman, and someone said, Is not this Bathsheba daughter of Eliab, wife of Ourias the Hittite?
+- mt: And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
+- brenton: And David sent and enquired about the woman: and one said, Is not this Bersabee the daughter of Eliab, the wife of Urias the Chettite?
+
 ### Numbers 24:12
 - priority: `0`
 - importance: `none`
@@ -108866,15 +108857,6 @@ Method:
 - fresh: And Moses commanded the sons of Israel, saying, This is the land that you shall inherit by lot, which the Lord commanded Moses to give it to the nine tribes and to the half-tribe of Manasseh,
 - mt: And Moses commanded the children of Israel, saying, This is the land which all of you shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:
 - brenton: And Moses charged the children of Israel, saying, This is the land which ye shall inherit by lot, even as the Lord commanded us to give it to the nine tribes and the half-tribe of Manasse.
-
-### Judges 8:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.877`
-- fresh_brenton_ratio: `0.887`
-- fresh: And Jerobaal son of Jōas went and dwelt in his house.
-- mt: And Jerubbaal the son of Joash went and dwelt in his own house.
-- brenton: And Jerobaal the son of Joas went and sat in his house.
 
 ### Nehemiah 11:1
 - priority: `0`
@@ -109371,15 +109353,6 @@ Method:
 - mt: And it came to pass after the plague, that the LORD spoke unto Moses and unto Eleazar the son of Aaron the priest, saying,
 - brenton: And it came to pass after the plague, that the Lord spoke to Moses and Eleazar the priest, saying,
 
-### 2 Samuel 12:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.880`
-- fresh_brenton_ratio: `0.960`
-- fresh: And David comforted Bērsabee his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
-- mt: And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.
-- brenton: And David comforted Bersabee his wife, and he went in to her, and lay with her; and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
-
 ### Numbers 4:2
 - priority: `0`
 - importance: `none`
@@ -109785,15 +109758,6 @@ Method:
 - mt: And Aaron and his sons shall eat the flesh of the ram, and the bread that is in the basket by the door of the tabernacle of the congregation.
 - brenton: And Aaron and his sons shall eat the flesh of the ram, and the loaves in the basket, by the doors of the tabernacle of witness.
 
-### 2 Kings 11:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.884`
-- fresh_brenton_ratio: `0.893`
-- fresh: And Iōdae made a covenant between the Lord and the king and the people, that they should be a people to the Lord, and between the king and the people.
-- mt: And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD's people; between the king also and the people.
-- brenton: And Jodae made a covenant between the Lord and the king and the people, that they should be the Lord's people; also between the king and the people.
-
 ### Genesis 37:34
 - priority: `0`
 - importance: `none`
@@ -110109,15 +110073,6 @@ Method:
 - mt: And when Hezekiah saw that Sennacherib was come, and that he was purposed to fight against Jerusalem,
 - brenton: And Ezekias saw that Sennacherim was come, and that his face was set to fight against Jerusalem.
 
-### 2 Samuel 3:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.887`
-- fresh_brenton_ratio: `0.989`
-- fresh: to take away the kingdom from the house of Saul and to raise up the throne of David over Israel and over Judah from Dan to Bērsabee.
-- mt: To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
-- brenton: to take away the kingdom from the house of Saul, and to raise up the throne of David over Israel and over Juda from Dan to Bersabee.
-
 ### Deuteronomy 20:15
 - priority: `0`
 - importance: `none`
@@ -110252,15 +110207,6 @@ Method:
 - fresh: from Benjamin, Abidan son of Gideoni;
 - mt: Of Benjamin; Abidan the son of Gideoni.
 - brenton: Of Benjamin, Abidan the son of Gadeoni.
-
-### 2 Chronicles 25:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.889`
-- fresh_brenton_ratio: `0.880`
-- fresh: And Amaziah son of Iōas king of Judah lived after death of Iōas son of Iōachaz king of Israel fifteen years.
-- mt: And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
-- brenton: And Amasias the son of Joas king of Juda lived after the death of Joas the son of Joachaz king of Israel fifteen years.
 
 ### Joshua 22:6
 - priority: `0`
@@ -110513,15 +110459,6 @@ Method:
 - fresh: I will gather evils upon them; I will spend my arrows on them.
 - mt: I will heap evil upon them; I will spend mine arrows upon them.
 - brenton: I will gather evils upon them, and will fight with my weapons against them.
-
-### Judges 8:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.893`
-- fresh_brenton_ratio: `0.765`
-- fresh: And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri.
-- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
-- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
 
 ### Deuteronomy 30:7
 - priority: `0`
@@ -110973,6 +110910,15 @@ Method:
 - mt: And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.
 - brenton: And the sons of Ruben; Enoch, and Phallus, Asron, and Charmi.
 
+### Judges 8:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.899`
+- fresh_brenton_ratio: `0.830`
+- fresh: And the leaders of Succoth said, Is the hand of Zebah and Salmana now in your hand, that we should give bread to your army?
+- mt: And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in yours hand, that we should give bread unto yours army?
+- brenton: And the princes of Socchoth said, Are the hands of Zebee and Salmana now in thy hand, that we should give bread to thy host?
+
 ### Genesis 9:17
 - priority: `0`
 - importance: `none`
@@ -111333,6 +111279,15 @@ Method:
 - mt: And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,
 - brenton: And when he was afflicted, he sought the face of the Lord his God, and was greatly humbled before the face of the God of his fathers;
 
+### 2 Chronicles 24:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.903`
+- fresh_brenton_ratio: `0.841`
+- fresh: And Jehoiada took for him two wives, and he fathered sons and daughters.
+- mt: And Jehoiada took for him two wives; and he brings forth sons and daughters.
+- brenton: And Jodae took to himself two wives, and they bore sons and daughters.
+
 ### Judges 6:20
 - priority: `0`
 - importance: `none`
@@ -111431,6 +111386,15 @@ Method:
 - fresh: And the Lord said, Judah shall go up. See, I have given the land into his hand.
 - mt: And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.
 - brenton: And the Lord said, Judas shall go up: behold, I have delivered the land into his hand.
+
+### Judges 8:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.904`
+- fresh_brenton_ratio: `0.897`
+- fresh: And Jerobaal son of Joash went and dwelt in his house.
+- mt: And Jerubbaal the son of Joash went and dwelt in his own house.
+- brenton: And Jerobaal the son of Joas went and sat in his house.
 
 ### Genesis 41:46
 - priority: `0`
@@ -111755,6 +111719,15 @@ Method:
 - fresh: and Adōraim and Lachis and Azēka,
 - mt: And Adoraim, and Lachish, and Azekah,
 - brenton: and Adorai, and Lachis, and Azeca,
+
+### 2 Kings 11:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.909`
+- fresh_brenton_ratio: `0.891`
+- fresh: And Jehoiada made a covenant between the Lord and the king and the people, that they should be a people to the Lord, and between the king and the people.
+- mt: And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD's people; between the king also and the people.
+- brenton: And Jodae made a covenant between the Lord and the king and the people, that they should be the Lord's people; also between the king and the people.
 
 ### Genesis 6:10
 - priority: `0`
@@ -112161,6 +112134,15 @@ Method:
 - mt: And Aaron was an hundred and twenty and three years old when he died in mount Hor.
 - brenton: And Aaron was a hundred and twenty-three years old, when he died in mount Or.
 
+### 2 Samuel 12:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.916`
+- fresh_brenton_ratio: `0.932`
+- fresh: And David comforted Bathsheba his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
+- mt: And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.
+- brenton: And David comforted Bersabee his wife, and he went in to her, and lay with her; and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
+
 ### 2 Kings 20:8
 - priority: `0`
 - importance: `none`
@@ -112286,6 +112268,15 @@ Method:
 - fresh: And I said to them, You are holy to the Lord, and the vessels are holy, and the silver and gold are a freewill offering to the Lord God of your fathers.
 - mt: And I said unto them, All of you are holy unto the LORD; the vessels are holy also; and the silver and the gold are a freewill offering unto the LORD God of your fathers.
 - brenton: And I said to them, Ye are holy to the Lord; and the vessels are holy; and the silver and the gold are freewill-offerings to the Lord God of our fathers.
+
+### Judges 8:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.918`
+- fresh_brenton_ratio: `0.776`
+- fresh: And Gideon son of Joash died in a good old age and was buried in the tomb of Joash his father in Ephratha of the father of Abiezri.
+- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
 
 ### 2 Samuel 2:12
 - priority: `0`
@@ -112484,6 +112475,15 @@ Method:
 - fresh: And sons of Rachel: Joseph and Benjamin.
 - mt: The sons of Rachel; Joseph, and Benjamin:
 - brenton: And the sons of Rachel; Joseph and Benjamin.
+
+### 2 Samuel 3:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.921`
+- fresh_brenton_ratio: `0.969`
+- fresh: to take away the kingdom from the house of Saul and to raise up the throne of David over Israel and over Judah from Dan to Beersheba.
+- mt: To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
+- brenton: to take away the kingdom from the house of Saul, and to raise up the throne of David over Israel and over Juda from Dan to Bersabee.
 
 ### 1 Kings 15:3
 - priority: `0`
@@ -113015,6 +113015,15 @@ Method:
 - fresh: And Absalom fled and went to Gedsour and was there three years.
 - mt: So Absalom fled, and went to Geshur, and was there three years.
 - brenton: So Abessalom fled, and departed to Gedsur, and was there three years.
+
+### 2 Chronicles 25:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.934`
+- fresh_brenton_ratio: `0.916`
+- fresh: And Amaziah son of Joash king of Judah lived after death of Joash son of Iōachaz king of Israel fifteen years.
+- mt: And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
+- brenton: And Amasias the son of Joas king of Juda lived after the death of Joas the son of Joachaz king of Israel fifteen years.
 
 ### Deuteronomy 10:8
 - priority: `0`

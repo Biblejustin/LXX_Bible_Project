@@ -26326,7 +26326,7 @@ And Ephraim did not remove the Canaanite dwelling in Gazer, and the Canaanite dw
 
 **Judges 1:30**
 
-And Zebulun did not remove those dwelling in Kedrōn and those dwelling in Enaala, and the Canaanite dwelt in its midst and became subject to tribute.
+And Zebulun did not remove those dwelling in Kedron and those dwelling in Enaala, and the Canaanite dwelt in its midst and became subject to tribute.
 
 **Judges 1:31**
 
@@ -26840,7 +26840,7 @@ And I said to you, I am the Lord your God. You shall not fear the gods of the Am
 
 **Judges 6:11**
 
-And an angel of the Lord came and sat under the oak that was in Ephratha, that belonged to Jōas father of Abiezri, and Gideon his son was beating out wheat in a winepress to escape from before Midian.
+And an angel of the Lord came and sat under the oak that was in Ephratha, that belonged to Joash father of Abiezri, and Gideon his son was beating out wheat in a winepress to escape from before Midian.
 
 **Judges 6:12**
 
@@ -26912,15 +26912,15 @@ And the men of the city rose early in the morning, and behold, the altar of Baal
 
 **Judges 6:29**
 
-And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Jōas did this thing.
+And each man said to his neighbor, Who did this thing? And they searched and inquired and said, Gideon son of Joash did this thing.
 
 **Judges 6:30**
 
-And the men of the city said to Jōas, Bring out your son and let him die, because he dug down the altar of Baal and because he cut down the grove upon it.
+And the men of the city said to Joash, Bring out your son and let him die, because he dug down the altar of Baal and because he cut down the grove upon it.
 
 **Judges 6:31**
 
-And Jōas said to the men standing against him, Will you now judge on behalf of Baal, or will you save him? Whoever pleads his case shall die by morning. If he is a god, let him avenge himself, because his altar was dug down.
+And Joash said to the men standing against him, Will you now judge on behalf of Baal, or will you save him? Whoever pleads his case shall die by morning. If he is a god, let him avenge himself, because his altar was dug down.
 
 **Judges 6:32**
 
@@ -27014,7 +27014,7 @@ And Gideon came, and behold, a man was recounting a dream to his neighbor and sa
 
 **Judges 7:14**
 
-And his neighbor answered and said, This is nothing else than the sword of Gideon son of Jōas, a man of Israel. The Lord has given Midian and all the camp into his hand.
+And his neighbor answered and said, This is nothing else than the sword of Gideon son of Joash, a man of Israel. The Lord has given Midian and all the camp into his hand.
 
 **Judges 7:15**
 
@@ -27080,11 +27080,11 @@ And Gideon came to the Jordan and crossed over, he and the three hundred men wit
 
 **Judges 8:5**
 
-And he said to the men of Sokchōth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zebah and Salmana, kings of Midian.
+And he said to the men of Succoth, Give now loaves to the people with me, because they are hungry, and I am pursuing after Zebah and Salmana, kings of Midian.
 
 **Judges 8:6**
 
-And the leaders of Sokchōth said, Is the hand of Zebah and Salmana now in your hand, that we should give bread to your army?
+And the leaders of Succoth said, Is the hand of Zebah and Salmana now in your hand, that we should give bread to your army?
 
 **Judges 8:7**
 
@@ -27092,7 +27092,7 @@ And Gideon said, Not so. When the Lord gives Zebah and Salmana into my hand, I w
 
 **Judges 8:8**
 
-And he went up from there to Phanouēl and spoke to them in the same way, and the men of Phanouēl answered him just as the men of Sokchōth answered him.
+And he went up from there to Phanouēl and spoke to them in the same way, and the men of Phanouēl answered him just as the men of Succoth answered him.
 
 **Judges 8:9**
 
@@ -27112,19 +27112,19 @@ And Zebah and Salmana fled, and he pursued after them and seized the two kings o
 
 **Judges 8:13**
 
-And Gideon son of Jōas returned from the war by the ascent of Ares.
+And Gideon son of Joash returned from the war by the ascent of Ares.
 
 **Judges 8:14**
 
-And he captured a young servant from the men of Sokchōth and questioned him, and he wrote down for him the leaders of Sokchōth and its elders, seventy-seven men.
+And he captured a young servant from the men of Succoth and questioned him, and he wrote down for him the leaders of Succoth and its elders, seventy-seven men.
 
 **Judges 8:15**
 
-And Gideon came to the leaders of Sokchōth and said to them, Behold, Zebah and Salmana, about whom you reproached me, saying, Is the hand of Zebah and Salmana now in your hand, that we should give loaves to your exhausted men?
+And Gideon came to the leaders of Succoth and said to them, Behold, Zebah and Salmana, about whom you reproached me, saying, Is the hand of Zebah and Salmana now in your hand, that we should give loaves to your exhausted men?
 
 **Judges 8:16**
 
-And he took the leaders and the elders of the city and threshed them with the thorns of the wilderness and the bramble bushes, and with them he threshed the men of Sokchōth.
+And he took the leaders and the elders of the city and threshed them with the thorns of the wilderness and the bramble bushes, and with them he threshed the men of Succoth.
 
 **Judges 8:17**
 
@@ -27176,7 +27176,7 @@ And Midian was put to shame before the sons of Israel, and they no longer lifted
 
 **Judges 8:29**
 
-And Jerobaal son of Jōas went and dwelt in his house.
+And Jerobaal son of Joash went and dwelt in his house.
 
 **Judges 8:30**
 
@@ -27188,7 +27188,7 @@ And his concubine who was in Sikimois also bore him a son, and he set his name A
 
 **Judges 8:32**
 
-And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri.
+And Gideon son of Joash died in a good old age and was buried in the tomb of Joash his father in Ephratha of the father of Abiezri.
 
 **Judges 8:33**
 
@@ -30728,7 +30728,7 @@ And it came to be, when the evil spirit was upon Saul, David would take the lyre
 
 **1 Samuel 17:1**
 
-And the foreigners gather their camps for war, and they are gathered at Sokchōth of Ioudaia, and they camp between Sokchōth and between Azēka in Epheremem.
+And the foreigners gather their camps for war, and they are gathered at Socoh of Ioudaia, and they camp between Socoh and between Azēka in Epheremem.
 
 **1 Samuel 17:2**
 
@@ -32162,7 +32162,7 @@ and to those in Carmel and to those in the cities of Ieramēli and to those in t
 
 **1 Samuel 30:30**
 
-and to those in Ierimouth and to those in Bērsabee and to those in Noo,
+and to those in Ierimouth and to those in Beersheba and to those in Noo,
 
 **1 Samuel 30:31**
 
@@ -32504,7 +32504,7 @@ Thus may God do to Abner and thus may he add to him, because as the Lord swore t
 
 **2 Samuel 3:10**
 
-to take away the kingdom from the house of Saul and to raise up the throne of David over Israel and over Judah from Dan to Bērsabee.
+to take away the kingdom from the house of Saul and to raise up the throne of David over Israel and over Judah from Dan to Beersheba.
 
 **2 Samuel 3:11**
 
@@ -32850,7 +32850,7 @@ And David finished offering the whole burnt offerings and the peace offerings an
 
 **2 Samuel 6:19**
 
-And he distributed to all the people, to all the host of Israel, from Dan to Bērsabee, from man to woman, to each a cake of bread and a roasted cake and a pan-cake, and all the people went away, each to his house.
+And he distributed to all the people, to all the host of Israel, from Dan to Beersheba, from man to woman, to each a cake of bread and a roasted cake and a pan-cake, and all the people went away, each to his house.
 
 **2 Samuel 6:20**
 
@@ -33058,7 +33058,7 @@ and Saddouk son of Ahitub and Achimelech son of Abiathar were priests, and Asa t
 
 **2 Samuel 8:18**
 
-and Banaias son of Iōdae was counselor, and the Cheletthi and the Pheletti, and sons of David were chiefs of the court.
+and Banaias son of Jehoiada was counselor, and the Cheletthi and the Pheletti, and sons of David were chiefs of the court.
 
 ### Chapter 9
 
@@ -33204,7 +33204,7 @@ And it came to be toward evening, David rose from his bed and was walking on the
 
 **2 Samuel 11:3**
 
-And David sent and asked about the woman, and someone said, Is not this Bērsabee daughter of Eliab, wife of Ourias the Hittite?
+And David sent and asked about the woman, and someone said, Is not this Bathsheba daughter of Eliab, wife of Ourias the Hittite?
 
 **2 Samuel 11:4**
 
@@ -33398,7 +33398,7 @@ And now he has died. Why now am I fasting? Shall I be able to bring him back sti
 
 **2 Samuel 12:24**
 
-And David comforted Bērsabee his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
+And David comforted Bathsheba his wife and entered to her and lay with her, and she conceived and bore a son, and he called his name Solomon, and the Lord loved him.
 
 **2 Samuel 12:25**
 
@@ -33812,7 +33812,7 @@ And the king said to Eththi, Come and pass over with me. And Eththi the Geththai
 
 **2 Samuel 15:23**
 
-And all the land was weeping with a great voice, and all the people were passing in the wadi Kedrōn, and the king crossed the wadi Kedrōn, and all the people and the king were passing on toward the road of the wilderness.
+And all the land was weeping with a great voice, and all the people were passing in the wadi Kidron, and the king crossed the wadi Kidron, and all the people and the king were passing on toward the road of the wilderness.
 
 **2 Samuel 15:24**
 
@@ -37554,7 +37554,7 @@ And Iezabel sent to Elijah and said, If you are Elijah and I am Iezabel, may God
 
 **1 Kings 19:3**
 
-And Elijah feared and rose and went for his own life, and he came to Bērsabee of Judah and left his servant-boy there.
+And Elijah feared and rose and went for his own life, and he came to Beersheba of Judah and left his servant-boy there.
 
 **1 Kings 19:4**
 
@@ -37810,7 +37810,7 @@ And Ahab reviewed the servant-boys of the rulers of the regions, and they were t
 
 **1 Kings 21:16**
 
-And they went out at midday, and son of Ader was drinking himself drunk in Sokchōth, he and the thirty-two kings, helpers with him.
+And they went out at midday, and son of Ader was drinking himself drunk in Socchoth, he and the thirty-two kings, helpers with him.
 
 **1 Kings 21:17**
 
@@ -38024,7 +38024,7 @@ And Michaias said, Behold, you will see on that day when you enter chamber withi
 
 **1 Kings 22:26**
 
-And the king of Israel said, Take Michaias and return him to Emēr the ruler of the city and to Iōas son of the king.
+And the king of Israel said, Take Michaias and return him to Emēr the ruler of the city and to Joash son of the king.
 
 **1 Kings 22:27**
 
@@ -39344,7 +39344,7 @@ And he was with her hidden in the house of the Lord six years, while Gotholia wa
 
 **2 Kings 11:4**
 
-And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
+And in the seventh year Jehoiada the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
 
 **2 Kings 11:5**
 
@@ -39364,7 +39364,7 @@ And surround the king all around, each man with his weapon in his hand, and the 
 
 **2 Kings 11:9**
 
-And the centurions did all that Iōdae the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Iōdae the priest.
+And the centurions did all that Jehoiada the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Jehoiada the priest.
 
 **2 Kings 11:10**
 
@@ -39388,7 +39388,7 @@ And she saw, and behold, the king was standing by the pillar according to the cu
 
 **2 Kings 11:15**
 
-And Iōdae the priest commanded the centurions, the officers of the force, and said to them, Bring her out from within the ranks, and whoever enters after her shall certainly be put to death by the sword, because the priest said, Let her not die in the house of the Lord.
+And Jehoiada the priest commanded the centurions, the officers of the force, and said to them, Bring her out from within the ranks, and whoever enters after her shall certainly be put to death by the sword, because the priest said, Let her not die in the house of the Lord.
 
 **2 Kings 11:16**
 
@@ -39396,7 +39396,7 @@ And they laid hands on her, and she went by way of the horse entrance of the kin
 
 **2 Kings 11:17**
 
-And Iōdae made a covenant between the Lord and the king and the people, that they should be a people to the Lord, and between the king and the people.
+And Jehoiada made a covenant between the Lord and the king and the people, that they should be a people to the Lord, and between the king and the people.
 
 **2 Kings 11:18**
 
@@ -39418,11 +39418,11 @@ Ioas was seven years old when he became king.
 
 **2 Kings 12:2**
 
-In the seventh year of Iou, Ioas became king, and he reigned forty years in Jerusalem, and the name of his mother was Abia from Bērsabee.
+In the seventh year of Iou, Ioas became king, and he reigned forty years in Jerusalem, and the name of his mother was Abia from Beersheba.
 
 **2 Kings 12:3**
 
-And Ioas did what was right before the Lord all the days in which Iōdae the priest instructed him.
+And Ioas did what was right before the Lord all the days in which Jehoiada the priest instructed him.
 
 **2 Kings 12:4**
 
@@ -39442,7 +39442,7 @@ And it came to be in the twenty-third year of king Ioas, the priests had not rep
 
 **2 Kings 12:8**
 
-And king Ioas called Iōdae the priest and the priests and said to them, Why is it that you do not repair the breach of the house? And now do not take silver from your collections, because you will give it for the breach of the house.
+And king Ioas called Jehoiada the priest and the priests and said to them, Why is it that you do not repair the breach of the house? And now do not take silver from your collections, because you will give it for the breach of the house.
 
 **2 Kings 12:9**
 
@@ -39450,7 +39450,7 @@ And the priests agreed not to take silver from the people and not to repair the 
 
 **2 Kings 12:10**
 
-And Iōdae the priest took one chest and bored a hole in its lid and set it beside the altar, at the right side as a man enters the house of the Lord. And the priests keeping the threshold put there all the silver found in the house of the Lord.
+And Jehoiada the priest took one chest and bored a hole in its lid and set it beside the altar, at the right side as a man enters the house of the Lord. And the priests keeping the threshold put there all the silver found in the house of the Lord.
 
 **2 Kings 12:11**
 
@@ -40194,7 +40194,7 @@ And the king of the Assyrians sent Tharthan and Raphis and Rabshakeh from Lachis
 
 **2 Kings 18:18**
 
-And they called to Hezekiah, and Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came out to them.
+And they called to Hezekiah, and Eliakim son of Chelkias the steward and Somnas the scribe and Joah son of Asaph the recorder came out to them.
 
 **2 Kings 18:19**
 
@@ -40226,7 +40226,7 @@ And now, was it without the Lord that we came up against this place to destroy i
 
 **2 Kings 18:26**
 
-And Eliakim son of Chelkias and Somnas and Iōas said to Rabshakeh, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
+And Eliakim son of Chelkias and Somnas and Joah said to Rabshakeh, Speak now to your servants in Syrian, because we understand, and do not speak with us in Judean. Why do you speak in the ears of the people upon the wall?
 
 **2 Kings 18:27**
 
@@ -40270,7 +40270,7 @@ And they kept silent and did not answer him a word, because it was the king's co
 
 **2 Kings 18:37**
 
-And Eliakim son of Chelkias the steward and Somnas the scribe and Iōas son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
+And Eliakim son of Chelkias the steward and Somnas the scribe and Joah son of Asaph the recorder came to Hezekiah with torn garments and reported to him the words of Rabshakeh.
 
 ### Chapter 19
 
@@ -40712,7 +40712,7 @@ And the king stood by the pillar and made a covenant before the Lord, to walk af
 
 **2 Kings 23:4**
 
-And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kedrōn and carried their dust to Bethel.
+And the king commanded Chelkias the high priest and the priests of the second order and the keepers of the threshold to bring out from the temple of the Lord all the vessels made for Baal and for the grove and for all the force of heaven, and he burned them outside Jerusalem in the fields of Kidron and carried their dust to Bethel.
 
 **2 Kings 23:5**
 
@@ -40720,7 +40720,7 @@ And he put an end to the idol-priests whom the kings of Judah appointed and who 
 
 **2 Kings 23:6**
 
-And he brought the grove out from the house of the Lord, outside Jerusalem to the wadi Kedrōn, and burned it in the wadi Kedrōn and beat it small to dust and threw its dust on the tombs of the sons of the people.
+And he brought the grove out from the house of the Lord, outside Jerusalem to the wadi Kidron, and burned it in the wadi Kidron and beat it small to dust and threw its dust on the tombs of the sons of the people.
 
 **2 Kings 23:7**
 
@@ -40728,7 +40728,7 @@ And he tore down the houses of the consecrated ones which were in the house of t
 
 **2 Kings 23:8**
 
-And he brought all the priests from the cities of Judah and defiled the high places where the priests burned incense, from Gabaa to Bērsabee, and he tore down the house of the gates by the entrance of the gate of Iēsous governor of the city, those on the left at the gate of the city.
+And he brought all the priests from the cities of Judah and defiled the high places where the priests burned incense, from Gabaa to Beersheba, and he tore down the house of the gates by the entrance of the gate of Iēsous governor of the city, those on the left at the gate of the city.
 
 **2 Kings 23:9**
 
@@ -40744,7 +40744,7 @@ And he put an end to the horses which the kings of Judah gave to the sun at the 
 
 **2 Kings 23:12**
 
-And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manasseh made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kedrōn.
+And the altars on the roof of the upper room of Ahaz, which the kings of Judah made, and the altars which Manasseh made in the two courts of the house of the Lord, the king tore down and broke up there and threw their dust into the wadi Kidron.
 
 **2 Kings 23:13**
 
@@ -41020,7 +41020,7 @@ And the people left in the land of Judah, whom Nebuchadnezzar king of Babylon le
 
 **2 Kings 25:23**
 
-And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Mizpah, even Ishmael son of Nathaniou and Iōanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
+And all the commanders of the force, they and their men, heard that the king of Babylon appointed Godolias, and they came to Godolias at Mizpah, even Ishmael son of Nathaniou and Johanan son of Karēe and Saraias son of Thanemeth the Netophathite and Iezonias son of the Maachathite, they and their men.
 
 **2 Kings 25:24**
 
@@ -42512,7 +42512,7 @@ and their brothers by their generations, nine hundred fifty-six. All the men wer
 
 **1 Chronicles 9:10**
 
-And from the priests: Iōdae and Iōarim and Iachin,
+And from the priests: Jedaiah and Iōarim and Iachin,
 
 **1 Chronicles 9:11**
 
@@ -44366,7 +44366,7 @@ And to Mosollamia, sons: Zacharias firstborn, Idiēl second, Zabadias third, Iet
 
 **1 Chronicles 26:3**
 
-Ōlam fifth, Iōanan sixth, Eliōēnai seventh.
+Ōlam fifth, Jehohanan sixth, Eliōēnai seventh.
 
 **1 Chronicles 26:4**
 
@@ -44504,7 +44504,7 @@ And over division of second month was Dōdia the Echōchi, and over his division
 
 **1 Chronicles 27:5**
 
-Third for third month was Banaias son of Iōdae the priest, chief, and over his division twenty-four thousand.
+Third for third month was Banaias son of Jehoiada the priest, chief, and over his division twenty-four thousand.
 
 **1 Chronicles 27:6**
 
@@ -44596,7 +44596,7 @@ And over vineyards was Semei from Rama, and over treasuries in vineyards of wine
 
 **1 Chronicles 27:28**
 
-And over olive groves and sycamines in lowland was Balanas the Gedōrite, and over treasuries of oil was Iōas.
+And over olive groves and sycamines in lowland was Balanas the Gedōrite, and over treasuries of oil was Joash.
 
 **1 Chronicles 27:29**
 
@@ -44620,7 +44620,7 @@ And Achitophel was counselor of king, and Chousi was first friend of king.
 
 **1 Chronicles 27:34**
 
-And after him: Achitophel, then Iōdae son of Banaiou and Abiathar, and Joab commander-in-chief of king.
+And after him: Achitophel, then Jehoiada son of Banaiou and Abiathar, and Joab commander-in-chief of king.
 
 ### Chapter 28
 
@@ -45114,7 +45114,7 @@ and footstools and forks and cauldrons and flesh-hooks and all their vessels, wh
 
 **2 Chronicles 4:17**
 
-In region of Jordan king cast them in thickness of earth, in house of Sokchōth and between Sirdatha.
+In region of Jordan king cast them in thickness of earth, in house of Succoth and between Sirdatha.
 
 **2 Chronicles 4:18**
 
@@ -45760,7 +45760,7 @@ And he built Baithleem and Aitam and Thekōe,
 
 **2 Chronicles 11:7**
 
-and Baithsoura and Sokchōth and Odollam,
+and Baithsoura and Socoh and Odollam,
 
 **2 Chronicles 11:8**
 
@@ -46108,7 +46108,7 @@ And all Judah rejoiced over oath, because with all soul they swore and with all 
 
 **2 Chronicles 15:16**
 
-And he removed Maacha his mother from not being one serving Astarte, and he cut down idol and burned it in torrent of Kedrōn.
+And he removed Maacha his mother from not being one serving Astarte, and he cut down idol and burned it in torrent of Kidron.
 
 **2 Chronicles 15:17**
 
@@ -46240,7 +46240,7 @@ And this was their number according to houses of their fathers: for Judah, comma
 
 **2 Chronicles 17:15**
 
-and with him Iōanan the leader, and with him two hundred eighty thousand;
+and with him Jehohanan the leader, and with him two hundred eighty thousand;
 
 **2 Chronicles 17:16**
 
@@ -46358,7 +46358,7 @@ And Michaias said, Behold, you will see in that day when you enter chamber from 
 
 **2 Chronicles 18:25**
 
-And king of Israel said, Take Michaias and return him to Emēr ruler of city and to Iōas ruler, son of king,
+And king of Israel said, Take Michaias and return him to Emēr ruler of city and to Joash ruler, son of king,
 
 **2 Chronicles 18:26**
 
@@ -46718,7 +46718,7 @@ And Gotholia mother of Ochozias saw that her son was dead, and she rose and dest
 
 **2 Chronicles 22:11**
 
-And Iōsabeath daughter of king took Iōas son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Iōdae the priest, hid him from before Gotholia, and she did not kill him.
+And Iōsabeath daughter of king took Joash son of Ochozias and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Iōsabeath daughter of king Iōram, sister of Ochozias, wife of Jehoiada the priest, hid him from before Gotholia, and she did not kill him.
 
 **2 Chronicles 22:12**
 
@@ -46728,7 +46728,7 @@ And he was with her in house of God, hidden six years, and Gotholia reigned over
 
 **2 Chronicles 23:1**
 
-And in seventh year Iōdae strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Iōanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
+And in seventh year Jehoiada strengthened himself and took the centurions, Azarian son of Iōram and Ishmael son of Jehohanan and Azarian son of Ōbēd and Maasaias son of Adaia and Elisaphan son of Zacharia, with him into house.
 
 **2 Chronicles 23:2**
 
@@ -46756,7 +46756,7 @@ And Levites shall surround king all around, each man with weapon in his hand, an
 
 **2 Chronicles 23:8**
 
-And Levites and all Judah did according to all things which Iōdae the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Iōdae did not dismiss courses.
+And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
 
 **2 Chronicles 23:9**
 
@@ -46768,7 +46768,7 @@ And he set all people, each with his weapons, from shoulder of house on right to
 
 **2 Chronicles 23:11**
 
-And they brought out son of king and put kingdom and testimonies upon him, and they made him king and anointed him, Iōdae and his sons, and said, Let king live.
+And they brought out son of king and put kingdom and testimonies upon him, and they made him king and anointed him, Jehoiada and his sons, and said, Let king live.
 
 **2 Chronicles 23:12**
 
@@ -46780,7 +46780,7 @@ And she saw, and behold, king stood at his station and at entrance, rulers and t
 
 **2 Chronicles 23:14**
 
-And Iōdae the priest went out and commanded centurions and leaders of force and said to them, Throw her out beyond house, and whoever enters after her, let him die by sword, because priest said, Let her not die in house of Lord.
+And Jehoiada the priest went out and commanded centurions and leaders of force and said to them, Throw her out beyond house, and whoever enters after her, let him die by sword, because priest said, Let her not die in house of Lord.
 
 **2 Chronicles 23:15**
 
@@ -46788,7 +46788,7 @@ And they gave her free passage, and she went through horse gate of house of king
 
 **2 Chronicles 23:16**
 
-And Iōdae made covenant between himself and people and king, that they should be people to Lord.
+And Jehoiada made covenant between himself and people and king, that they should be people to Lord.
 
 **2 Chronicles 23:17**
 
@@ -46796,7 +46796,7 @@ And all people of land entered house of Baal and pulled it down, and his altars 
 
 **2 Chronicles 23:18**
 
-And Iōdae the priest entrusted works of house of Lord by hand of priests and Levites and restored courses of priests and Levites which David appointed over house of Lord, to offer whole burnt offerings to Lord as written in law of Moyses, with gladness and with songs by hand of David.
+And Jehoiada the priest entrusted works of house of Lord by hand of priests and Levites and restored courses of priests and Levites which David appointed over house of Lord, to offer whole burnt offerings to Lord as written in law of Moyses, with gladness and with songs by hand of David.
 
 **2 Chronicles 23:19**
 
@@ -46814,19 +46814,19 @@ And all people of land rejoiced, and city was quiet, and they killed Gotholia wi
 
 **2 Chronicles 24:1**
 
-Iōas was seven years old when he reigned, and forty years he reigned in Jerusalem, and name of his mother was Sabia from Bersabee.
+Joash was seven years old when he reigned, and forty years he reigned in Jerusalem, and name of his mother was Sabia from Bersabee.
 
 **2 Chronicles 24:2**
 
-And Iōas did upright in sight of Lord all days of Iōdae the priest.
+And Joash did upright in sight of Lord all days of Jehoiada the priest.
 
 **2 Chronicles 24:3**
 
-And Iōdae took for him two wives, and he fathered sons and daughters.
+And Jehoiada took for him two wives, and he fathered sons and daughters.
 
 **2 Chronicles 24:4**
 
-And after these things it came upon heart of Iōas to repair house of Lord.
+And after these things it came upon heart of Joash to repair house of Lord.
 
 **2 Chronicles 24:5**
 
@@ -46834,7 +46834,7 @@ And he gathered priests and Levites and said to them, Go out into cities of Juda
 
 **2 Chronicles 24:6**
 
-And king Iōas called Iōdae the chief and said to him, Why did you not see about Levites to bring from Judah and Jerusalem what was ordained by Moyses man of God when he assembled Israel for tent of testimony?
+And king Joash called Jehoiada the chief and said to him, Why did you not see about Levites to bring from Judah and Jerusalem what was ordained by Moyses man of God when he assembled Israel for tent of testimony?
 
 **2 Chronicles 24:7**
 
@@ -46858,7 +46858,7 @@ And whenever chest was brought to king’s officers by hand of Levites, and when
 
 **2 Chronicles 24:12**
 
-And king and Iōdae the priest gave it to those doing works for work of house of Lord, and they hired stonecutters and carpenters to repair house of Lord, and workers in iron and bronze to repair house of Lord.
+And king and Jehoiada the priest gave it to those doing works for work of house of Lord, and they hired stonecutters and carpenters to repair house of Lord, and workers in iron and bronze to repair house of Lord.
 
 **2 Chronicles 24:13**
 
@@ -46866,11 +46866,11 @@ And workers did work, and length of works went up in their hands, and they resto
 
 **2 Chronicles 24:14**
 
-And when they finished, they brought remaining silver to king and to Iōdae, and they made vessels for house of Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in house of Lord continually all days of Iōdae.
+And when they finished, they brought remaining silver to king and to Jehoiada, and they made vessels for house of Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in house of Lord continually all days of Jehoiada.
 
 **2 Chronicles 24:15**
 
-And Iōdae grew old, full of days, and died, being one hundred thirty years old at his death.
+And Jehoiada grew old, full of days, and died, being one hundred thirty years old at his death.
 
 **2 Chronicles 24:16**
 
@@ -46878,7 +46878,7 @@ And they buried him in City of David with kings, because he did goodness with Is
 
 **2 Chronicles 24:17**
 
-And after death of Iōdae, rulers of Judah came and bowed to king; then king listened to them.
+And after death of Jehoiada, rulers of Judah came and bowed to king; then king listened to them.
 
 **2 Chronicles 24:18**
 
@@ -46890,15 +46890,15 @@ And he sent prophets to them to return to Lord, and they did not listen, and the
 
 **2 Chronicles 24:20**
 
-And spirit of God clothed Azarian son of Iōdae the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you.
+And spirit of God clothed Azarian son of Jehoiada the priest, and he stood above people and said, Thus says Lord: Why do you transgress commandments of Lord and not prosper? Because you forsake Lord, he will forsake you.
 
 **2 Chronicles 24:21**
 
-And they conspired against him and stoned him by command of king Iōas in court of house of Lord.
+And they conspired against him and stoned him by command of king Joash in court of house of Lord.
 
 **2 Chronicles 24:22**
 
-And Iōas did not remember mercy which Iōdae his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge.
+And Joash did not remember mercy which Jehoiada his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge.
 
 **2 Chronicles 24:23**
 
@@ -46906,11 +46906,11 @@ And it came to pass after completion of year, force of Syria came up against him
 
 **2 Chronicles 24:24**
 
-Because with few men force of Syria came, and God gave into their hands very great force, because they forsook Lord God of their fathers, and against Iōas he made judgments.
+Because with few men force of Syria came, and God gave into their hands very great force, because they forsook Lord God of their fathers, and against Joash he made judgments.
 
 **2 Chronicles 24:25**
 
-And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Iōdae the priest and killed him on his bed, and he died. And they buried him in City of David, but they did not bury him in tomb of kings.
+And after they departed from him, leaving him in great weaknesses, his servants conspired against him over bloods of son of Jehoiada the priest and killed him on his bed, and he died. And they buried him in City of David, but they did not bury him in tomb of kings.
 
 **2 Chronicles 24:26**
 
@@ -46988,11 +46988,11 @@ And it came to pass as he spoke to him, he said to him, Have I made you counselo
 
 **2 Chronicles 25:17**
 
-And Amaziah took counsel and sent to Iōas son of Iōachaz son of Iou king of Israel, saying, Come, let us look one another in face.
+And Amaziah took counsel and sent to Joash son of Iōachaz son of Iou king of Israel, saying, Come, let us look one another in face.
 
 **2 Chronicles 25:18**
 
-And Iōas king of Israel sent to Amaziah king of Judah, saying, Thornbush in Lebanon sent to cedar in Lebanon, saying, Give your daughter to my son for wife. And behold, beasts of field in Lebanon came and trampled thornbush.
+And Joash king of Israel sent to Amaziah king of Judah, saying, Thornbush in Lebanon sent to cedar in Lebanon, saying, Give your daughter to my son for wife. And behold, beasts of field in Lebanon came and trampled thornbush.
 
 **2 Chronicles 25:19**
 
@@ -47004,7 +47004,7 @@ And Amaziah did not listen, because it came from Lord to hand him over, because 
 
 **2 Chronicles 25:21**
 
-And Iōas king of Israel went up, and they looked one another in face, he and Amaziah king of Judah, at Baithsamys, which belongs to Judah.
+And Joash king of Israel went up, and they looked one another in face, he and Amaziah king of Judah, at Baithsamys, which belongs to Judah.
 
 **2 Chronicles 25:22**
 
@@ -47012,7 +47012,7 @@ And Judah was routed before Israel, and each fled to his tent.
 
 **2 Chronicles 25:23**
 
-And Iōas king of Israel seized Amaziah king of Judah, son of Iōas, at Baithsamys and brought him to Jerusalem and pulled down from wall of Jerusalem, from gate of Ephraim to corner gate, four hundred cubits.
+And Joash king of Israel seized Amaziah king of Judah, son of Joash, at Baithsamys and brought him to Jerusalem and pulled down from wall of Jerusalem, from gate of Ephraim to corner gate, four hundred cubits.
 
 **2 Chronicles 25:24**
 
@@ -47020,7 +47020,7 @@ And all gold and silver and all vessels found in house of Lord and with Abdedom 
 
 **2 Chronicles 25:25**
 
-And Amaziah son of Iōas king of Judah lived after death of Iōas son of Iōachaz king of Israel fifteen years.
+And Amaziah son of Joash king of Judah lived after death of Joash son of Iōachaz king of Israel fifteen years.
 
 **2 Chronicles 25:26**
 
@@ -47336,7 +47336,7 @@ And they gathered their brothers and sanctified themselves according to command 
 
 **2 Chronicles 29:16**
 
-And priests entered inside house of Lord to sanctify it and threw out every uncleanness found in house of Lord into court of house of Lord, and Levites received it to throw outside into torrent of Kedrōn.
+And priests entered inside house of Lord to sanctify it and threw out every uncleanness found in house of Lord into court of house of Lord, and Levites received it to throw outside into torrent of Kidron.
 
 **2 Chronicles 29:17**
 
@@ -47474,7 +47474,7 @@ And much people gathered into Jerusalem to do feast of unleavened bread in secon
 
 **2 Chronicles 30:14**
 
-And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into torrent of Kedrōn.
+And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into torrent of Kidron.
 
 **2 Chronicles 30:15**
 
@@ -48110,11 +48110,11 @@ And king removed him to Egypt and imposed tribute on land, one hundred talents o
 
 **2 Chronicles 36:4**
 
-And Pharaoh Nechao made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Iōakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
+And Pharaoh Nechao made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Nechao took Iōachaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Nechao.
 
 **2 Chronicles 36:5**
 
-Iōakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Iōakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
+Jehoiakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechōra daughter of Nēriou from Rama. And he did evil before Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Mōabitans and sons of Amman and of Samareia, and they revolted after this word according to word of Lord by hand of his servants the prophets. Yet anger of Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Jehoiakim poured out, and he filled Jerusalem with innocent blood, and Lord did not wish to destroy them.
 
 **2 Chronicles 36:6**
 
@@ -48126,7 +48126,7 @@ And he carried part of vessels of house of Lord to Babylon and put them in his t
 
 **2 Chronicles 36:8**
 
-And rest of words of Iōakim and all things he did, are not these written upon book of words of days for kings of Judah? And Iōakim slept with his fathers and was buried in Ganoza with his fathers, and Iechonias his son reigned in his place.
+And rest of words of Jehoiakim and all things he did, are not these written upon book of words of days for kings of Judah? And Jehoiakim slept with his fathers and was buried in Ganoza with his fathers, and Iechonias his son reigned in his place.
 
 **2 Chronicles 36:9**
 
@@ -50650,19 +50650,19 @@ for the courses.
 
 **Nehemiah 12:10**
 
-And Iesou begot Iōakim, and Iōakim begot Eliasib, and Eliasib begot Iōdae,
+And Iesou begot Joiakim, and Joiakim begot Eliasib, and Eliasib begot Joiada,
 
 **Nehemiah 12:11**
 
-and Iōdae begot Ionathan, and Ionathan begot Iadou.
+and Joiada begot Ionathan, and Ionathan begot Iadou.
 
 **Nehemiah 12:12**
 
-And in days of Iōakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
+And in days of Joiakim, his brothers the priests and heads of the fathers were: to Saraia, Maraia; to Iermia, Anania;
 
 **Nehemiah 12:13**
 
-to Esdra, Mesoulam; to Amaria, Iōanan;
+to Esdra, Mesoulam; to Amaria, Jehohanan;
 
 **Nehemiah 12:14**
 
@@ -50698,11 +50698,11 @@ to Elkia, Asabias; to Iedeiou, Nathanael.
 
 **Nehemiah 12:22**
 
-The Levites in days of Eliasib, Iōada, Iōanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
+The Levites in days of Eliasib, Iōada, Johanan, and Iadou were written as heads of fathers, and the priests in reign of Darius the Persian.
 
 **Nehemiah 12:23**
 
-Sons of Levi, heads of fathers, were written in book of words of the days until days of Iōanan son of Elisoub.
+Sons of Levi, heads of fathers, were written in book of words of the days until days of Johanan son of Elisoub.
 
 **Nehemiah 12:24**
 
@@ -50714,7 +50714,7 @@ When I was gathering the gatekeepers.
 
 **Nehemiah 12:26**
 
-In days of Iōakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
+In days of Joiakim son of Iesou son of Iosedek, and in days of Nehemias and Ezra the priest, the scribe.
 
 **Nehemiah 12:27**
 
@@ -50778,7 +50778,7 @@ and the priests, Eliakim, Maasias, Beniamin, Michaias, Eliōēnai, Zacharias, An
 
 **Nehemiah 12:42**
 
-and Maasias and Semeias and Eleazar and Ozi and Iōanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
+and Maasias and Semeias and Eleazar and Ozi and Jehohanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
 
 **Nehemiah 12:43**
 

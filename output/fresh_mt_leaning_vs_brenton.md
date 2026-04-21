@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 419
+Rows: 420
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -1046,6 +1046,15 @@ Rows: 419
 - mt: And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses' part; as the LORD commanded Moses.
 - brenton: And Moses took of the anointing oil, and of the blood that was on the altar, and sprinkled it on Aaron, and on his garments, and his sons, and the garments of his sons with him.
 
+## 1 Chronicles 26:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.456`
+- fresh: Ōlam fifth, Jehohanan sixth, Eliōēnai seventh.
+- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
+- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
+
 ## 1 Samuel 15:22
 - priority: `0`
 - importance: `none`
@@ -1144,6 +1153,15 @@ Rows: 419
 - fresh: thirty milk camels and their young, forty cows, ten bulls, twenty donkeys, and ten foals.
 - mt: Thirty milk giving camels with their colts, forty cattle, and ten bulls, twenty she asses, and ten foals.
 - brenton: two hundred she-goats, twenty he-goats, two hundred sheep, twenty rams,
+
+## Nehemiah 12:42
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.422`
+- fresh: and Maasias and Semeias and Eleazar and Ozi and Jehohanan and Melchias and Ailam and Ezour. And the singers were heard, and they were appointed.
+- mt: And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+- brenton: And the singers were heard, and were numbered.
 
 ## Exodus 33:18
 - priority: `0`
@@ -1261,15 +1279,6 @@ Rows: 419
 - fresh: and he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add upon your yoke. My father disciplined you with whips, but I will discipline you with scorpions.
 - mt: And spoke to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions.
 - brenton: And he spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.
-
-## 1 Chronicles 26:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.753`
-- fresh_brenton_ratio: `0.450`
-- fresh: Ōlam fifth, Iōanan sixth, Eliōēnai seventh.
-- mt: Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
-- brenton: the fifth Jolam, the sixth Jonathan, the seventh Elionai, the eighth Abdedom.
 
 ## Leviticus 18:7
 - priority: `0`
@@ -2621,6 +2630,15 @@ Rows: 419
 - mt: Six days you shall work, but on the seventh day you shall rest: in earring time and in harvest you shall rest.
 - brenton: Six days thou shalt work, but on the seventh day thou shalt rest: there shall be rest in seed-time and harvest.
 
+## Judges 8:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.918`
+- fresh_brenton_ratio: `0.776`
+- fresh: And Gideon son of Joash died in a good old age and was buried in the tomb of Joash his father in Ephratha of the father of Abiezri.
+- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
+- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
+
 ## Nehemiah 1:10
 - priority: `0`
 - importance: `none`
@@ -2944,15 +2962,6 @@ Rows: 419
 - fresh: And it was reported to Tamar, saying, Look, your father-in-law is going up to Timnah to shear his sheep.
 - mt: And it was told Tamar, saying, Behold your father in law goes up to Timnath to shear his sheep.
 - brenton: And it was told Thamar his daughter-in-law, saying, Behold, thy father-in-law goeth up to Thamna, to shear his sheep.
-
-## Judges 8:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.893`
-- fresh_brenton_ratio: `0.765`
-- fresh: And Gideon son of Jōas died in a good old age and was buried in the tomb of Jōas his father in Ephratha of the father of Abiezri.
-- mt: And Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah of the Abiezrites.
-- brenton: And Gedeon son of Joas died in his city, and was buried in the sepulchre of Joas his father in Ephratha of Abi-Esdri.
 
 ## Leviticus 7:6
 - priority: `0`
