@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 14492
-- medium: 1867
-- low: 6558
+- high: 14672
+- medium: 1835
+- low: 6410
 - none: 0
 
 Note:
@@ -129381,1620 +129381,1620 @@ Note:
 
 ### Psalms 40:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord help him upon bed of his pain; you turned all his bed in his sickness.
 - brenton: [missing]
 
 ### Psalms 40:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, Lord, have mercy on me; heal my soul, because I sinned against you.
 - brenton: [missing]
 
 ### Psalms 40:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My enemies spoke evils to me: When will he die and his name perish?
 - brenton: [missing]
 
 ### Psalms 40:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if he entered to see, he spoke vain things; his heart gathered lawlessness to itself; he went outside and spoke.
 - brenton: [missing]
 
 ### Psalms 40:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Together all my enemies whispered against me; against me they reasoned evils for me:
 - brenton: [missing]
 
 ### Psalms 40:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They set lawless word against me: Will not one lying down add to rise again?
 - brenton: [missing]
 
 ### Psalms 40:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And indeed man of my peace, upon whom I hoped, one eating my breads, magnified heel-tripping against me.
 - brenton: [missing]
 
 ### Psalms 40:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord, have mercy on me and raise me up, and I will repay them.
 - brenton: [missing]
 
 ### Psalms 40:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In this I knew that you wanted me, because my enemy will by no means rejoice over me.
 - brenton: [missing]
 
 ### Psalms 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But of me, because of my innocence, you took hold and established me before you into age.
 - brenton: [missing]
 
 ### Psalms 40:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blessed Lord God of Israel from age and into age. Let it be, let it be.
 - brenton: [missing]
 
 ### Psalms 41:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for understanding, for sons of Korah.
 - brenton: [missing]
 
 ### Psalms 41:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As deer longs for springs of waters, so my soul longs for you, O God.
 - brenton: [missing]
 
 ### Psalms 41:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My soul thirsted for living God; when will I come and appear before face of God?
 - brenton: [missing]
 
 ### Psalms 41:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My tears became bread to me day and night, while they say to me each day, Where is your God?
 - brenton: [missing]
 
 ### Psalms 41:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These things I remembered, and I poured out my soul upon me, because I will pass through into place of wondrous tent, as far as house of God, with voice of exultation and confession, sound of festival-keepers.
 - brenton: [missing]
 
 ### Psalms 41:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why are you sorrowful, my soul, and why do you trouble me? Hope upon God, because I will yet confess to him, salvation of my face, my God.
 - brenton: [missing]
 
 ### Psalms 41:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Toward myself my soul was troubled; therefore I will remember you from land of Jordan and Hermoniim, from little mountain.
 - brenton: [missing]
 
 ### Psalms 41:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Abyss calls abyss at sound of your cataracts; all your surges and your waves passed over me.
 - brenton: [missing]
 
 ### Psalms 41:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By day Lord will command his mercy, and by night his song with me, prayer to God of my life.
 - brenton: [missing]
 
 ### Psalms 41:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will say to God, my supporter, Why did you forget me? Why do I go gloomy when enemy afflicts me?
 - brenton: [missing]
 
 ### Psalms 41:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When my bones were crushed, those afflicting me reproached me, while they say to me each day, Where is your God?
 - brenton: [missing]
 
 ### Psalms 41:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why are you sorrowful, my soul, and why do you trouble me? Hope upon God, because I will yet confess to him, salvation of my face, my God.
 - brenton: [missing]
 
 ### Psalms 42:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of David. Judge me, O God, and judge my case from nation not holy; from unjust and deceitful man rescue me.
 - brenton: [missing]
 
 ### Psalms 42:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you are God, my strength. Why did you reject me? Why do I go gloomy when enemy afflicts me?
 - brenton: [missing]
 
 ### Psalms 42:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Send out your light and your truth; they guided me and brought me to your holy mountain and to your tabernacles.
 - brenton: [missing]
 
 ### Psalms 42:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will go in to altar of God, to God gladdening my youth; I will confess to you with harp, O God, my God.
 - brenton: [missing]
 
 ### Psalms 42:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why are you sorrowful, my soul, and why do you trouble me? Hope upon God, because I will yet confess to him, salvation of my face, my God.
 - brenton: [missing]
 
 ### Psalms 43:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for sons of Korah, for understanding, psalm.
 - brenton: [missing]
 
 ### Psalms 43:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O God, with our ears we heard; our fathers told us work you worked in their days, in ancient days.
 - brenton: [missing]
 
 ### Psalms 43:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your hand destroyed nations, and you planted them; you afflicted peoples and cast them out.
 - brenton: [missing]
 
 ### Psalms 43:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because not by their sword did they inherit land, and their arm did not save them, but your right hand and your arm and light of your face, because you took pleasure in them.
 - brenton: [missing]
 
 ### Psalms 43:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are same my king and my God, one commanding salvations of Jacob.
 - brenton: [missing]
 
 ### Psalms 43:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In you we will gore our enemies, and in your name we will despise those rising against us.
 - brenton: [missing]
 
 ### Psalms 43:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because not in my bow will I hope, and my sword will not save me.
 - brenton: [missing]
 
 ### Psalms 43:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you saved us from those afflicting us, and those hating us you shamed.
 - brenton: [missing]
 
 ### Psalms 43:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In God we will boast whole day, and in your name we will confess forever. Interlude.
 - brenton: [missing]
 
 ### Psalms 43:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now you rejected and shamed us, and you will not go out with our powers.
 - brenton: [missing]
 
 ### Psalms 43:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You turned us back before our enemies, and those hating us plundered for themselves.
 - brenton: [missing]
 
 ### Psalms 43:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You gave us like sheep for food, and among nations you scattered us.
 - brenton: [missing]
 
 ### Psalms 43:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You sold your people without price, and there was no multitude in their exchanges.
 - brenton: [missing]
 
 ### Psalms 43:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made us reproach to our neighbors, mockery and derision to those around us.
 - brenton: [missing]
 
 ### Psalms 43:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You made us proverb among nations, shaking of head among peoples.
 - brenton: [missing]
 
 ### Psalms 43:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whole day my shame before me, and shame of my face covered me,
 - brenton: [missing]
 
 ### Psalms 43:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from voice of reproacher and slanderer, from face of enemy and pursuer.
 - brenton: [missing]
 
 ### Psalms 43:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these things came upon us, and we did not forget you, and we did not act unjustly in your covenant.
 - brenton: [missing]
 
 ### Psalms 43:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And our heart did not turn back, and you turned our paths aside from your way,
 - brenton: [missing]
 
 ### Psalms 43:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because you humbled us in place of affliction, and shadow of death covered us.
 - brenton: [missing]
 
 ### Psalms 43:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If we forgot name of our God and stretched out our hands to strange god,
 - brenton: [missing]
 
 ### Psalms 43:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: will not God seek these things out? For he knows hidden things of heart.
 - brenton: [missing]
 
 ### Psalms 43:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because for your sake we are put to death whole day; we were counted as sheep of slaughter.
 - brenton: [missing]
 
 ### Psalms 43:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Awake. Why do you sleep, Lord? Rise up and do not reject to end.
 - brenton: [missing]
 
 ### Psalms 43:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you turn away your face, forgetting our poverty and our affliction?
 - brenton: [missing]
 
 ### Psalms 43:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because our soul was humbled into dust; our belly clung to earth.
 - brenton: [missing]
 
 ### Psalms 43:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise up, Lord, help us, and redeem us for sake of your name.
 - brenton: [missing]
 
 ### Psalms 44:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, concerning those to be changed, for sons of Korah, for understanding, song concerning beloved.
 - brenton: [missing]
 
 ### Psalms 44:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My heart poured forth good word; I speak my works to king; my tongue reed of swift-writing scribe.
 - brenton: [missing]
 
 ### Psalms 44:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beautiful in form beyond sons of men; grace was poured upon your lips; therefore God blessed you forever.
 - brenton: [missing]
 
 ### Psalms 44:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gird your sword upon thigh, mighty one, in your beauty and your loveliness.
 - brenton: [missing]
 
 ### Psalms 44:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And draw, and prosper, and reign, because of truth and meekness and righteousness, and your right hand will guide you wondrously.
 - brenton: [missing]
 
 ### Psalms 44:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your arrows sharpened, mighty one; peoples will fall under you, in heart of enemies of king.
 - brenton: [missing]
 
 ### Psalms 44:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your throne, O God, forever and ever; rod of uprightness rod of your kingdom.
 - brenton: [missing]
 
 ### Psalms 44:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You loved righteousness and hated lawlessness; therefore God, your God, anointed you with oil of exultation beyond your companions.
 - brenton: [missing]
 
 ### Psalms 44:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Myrrh and stacte and cassia from your garments, from ivory palaces from which they gladdened you.
 - brenton: [missing]
 
 ### Psalms 44:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughters of kings in your honor; queen stood at your right hand, clothed in gold-woven garments, adorned with many colors.
 - brenton: [missing]
 
 ### Psalms 44:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, daughter, and see, and incline your ear, and forget your people and house of your father,
 - brenton: [missing]
 
 ### Psalms 44:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because king desired your beauty, because he is your lord.
 - brenton: [missing]
 
 ### Psalms 44:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And daughters of Tyre will worship him with gifts; rich ones of people will entreat your face.
 - brenton: [missing]
 
 ### Psalms 44:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All glory of daughter of king within, clothed in golden fringes, adorned with many colors.
 - brenton: [missing]
 
 ### Psalms 44:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Virgins after her will be brought to king; her companions will be brought to you.
 - brenton: [missing]
 
 ### Psalms 44:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will be brought in gladness and exultation; they will be led into temple of king.
 - brenton: [missing]
 
 ### Psalms 44:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In place of your fathers sons were born to you; you will appoint them rulers over all earth.
 - brenton: [missing]
 
 ### Psalms 44:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will remember your name in every generation and generation; therefore peoples will confess to you forever, even forever and ever.
 - brenton: [missing]
 
 ### Psalms 45:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for sons of Korah, concerning hidden things, psalm.
 - brenton: [missing]
 
 ### Psalms 45:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God ours refuge and strength, helper in afflictions that found us greatly.
 - brenton: [missing]
 
 ### Psalms 45:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore we will not fear when earth is shaken and mountains are shifted into hearts of seas.
 - brenton: [missing]
 
 ### Psalms 45:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their waters roared and were troubled; mountains were troubled by his might. Interlude.
 - brenton: [missing]
 
 ### Psalms 45:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rushings of river gladden city of God; Most High sanctified his dwelling.
 - brenton: [missing]
 
 ### Psalms 45:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God in midst of her; she will not be shaken. God will help her toward morning.
 - brenton: [missing]
 
 ### Psalms 45:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations were troubled, kingdoms bowed; he gave his voice, earth was shaken.
 - brenton: [missing]
 
 ### Psalms 45:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord of hosts with us; our supporter God of Jacob. Interlude.
 - brenton: [missing]
 
 ### Psalms 45:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come, see works of Lord, what wonders he set upon earth,
 - brenton: [missing]
 
 ### Psalms 45:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: doing away wars to ends of earth. He will break bow and shatter weapon and burn shields in fire.
 - brenton: [missing]
 
 ### Psalms 45:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be still and know that I am God; I will be exalted among nations, I will be exalted in earth.
 - brenton: [missing]
 
 ### Psalms 45:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord of hosts with us; our supporter God of Jacob.
 - brenton: [missing]
 
 ### Psalms 46:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for sons of Korah, psalm.
 - brenton: [missing]
 
 ### Psalms 46:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All nations, clap hands; shout to God with voice of exultation.
 - brenton: [missing]
 
 ### Psalms 46:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Lord Most High fearful, great king over all earth.
 - brenton: [missing]
 
 ### Psalms 46:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He subjected peoples to us and nations under our feet.
 - brenton: [missing]
 
 ### Psalms 46:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He chose for us his inheritance, beauty of Jacob which he loved. Interlude.
 - brenton: [missing]
 
 ### Psalms 46:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God went up in shout, Lord in voice of trumpet.
 - brenton: [missing]
 
 ### Psalms 46:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to our God, sing; sing to our king, sing.
 - brenton: [missing]
 
 ### Psalms 46:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because God king of all earth, sing with understanding.
 - brenton: [missing]
 
 ### Psalms 46:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God reigned over nations; God sits upon his holy throne.
 - brenton: [missing]
 
 ### Psalms 46:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rulers of peoples gathered with God of Abraham, because mighty ones of earth belong to God; they were greatly exalted.
 - brenton: [missing]
 
 ### Psalms 47:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of song for sons of Korah, second of Sabbath.
 - brenton: [missing]
 
 ### Psalms 47:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Great Lord and greatly praised in city of our God, his holy mountain,
 - brenton: [missing]
 
 ### Psalms 47:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: well-rooted, joy of all earth. Mounts of Zion, sides of north, city of great king.
 - brenton: [missing]
 
 ### Psalms 47:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God in her citadels is known when he takes hold of her.
 - brenton: [missing]
 
 ### Psalms 47:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, kings gathered; they came together.
 - brenton: [missing]
 
 ### Psalms 47:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They, seeing thus, were astonished, were troubled, were shaken.
 - brenton: [missing]
 
 ### Psalms 47:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Trembling seized them there, pangs as of woman giving birth.
 - brenton: [missing]
 
 ### Psalms 47:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With violent wind you will shatter ships of Tarshish.
 - brenton: [missing]
 
 ### Psalms 47:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As we heard, so we saw in city of Lord of hosts, in city of our God; God founded her forever. Interlude.
 - brenton: [missing]
 
 ### Psalms 47:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We received, O God, your mercy in midst of your temple.
 - brenton: [missing]
 
 ### Psalms 47:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to your name, O God, so also your praise to ends of earth; your right hand full of righteousness.
 - brenton: [missing]
 
 ### Psalms 47:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let Mount Zion rejoice; let daughters of Judah exult because of your judgments, Lord.
 - brenton: [missing]
 
 ### Psalms 47:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Encircle Zion and surround her; tell in her towers.
 - brenton: [missing]
 
 ### Psalms 47:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Set your hearts on her power and pass through her citadels, so that you may tell to another generation.
 - brenton: [missing]
 
 ### Psalms 47:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because this is God, our God forever and ever; he will shepherd us forever.
 - brenton: [missing]
 
 ### Psalms 48:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end, for sons of Korah, psalm.
 - brenton: [missing]
 
 ### Psalms 48:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear these things, all nations; give ear, all inhabiting world,
 - brenton: [missing]
 
 ### Psalms 48:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: both earthborn and sons of men together, rich and poor.
 - brenton: [missing]
 
 ### Psalms 48:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My mouth will speak wisdom, and meditation of my heart understanding.
 - brenton: [missing]
 
 ### Psalms 48:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will incline my ear into parable; I will open my riddle on harp.
 - brenton: [missing]
 
 ### Psalms 48:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do I fear in evil day? Lawlessness of my heel will surround me,
 - brenton: [missing]
 
 ### Psalms 48:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those trusting in their strength and boasting in abundance of their wealth.
 - brenton: [missing]
 
 ### Psalms 48:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Brother is not redeemed; will man redeem? He will not give to God his atonement,
 - brenton: [missing]
 
 ### Psalms 48:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: even price of redemption of his soul,
 - brenton: [missing]
 
 ### Psalms 48:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and he labored forever, and he will live to end. He will not see corruption when he sees wise men dying.
 - brenton: [missing]
 
 ### Psalms 48:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Together fool and senseless will perish and leave their wealth to strangers.
 - brenton: [missing]
 
 ### Psalms 48:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their graves their houses forever, their dwellings from generation to generation; they called their names upon their lands.
 - brenton: [missing]
 
 ### Psalms 48:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But man in honor did not understand; he was compared with mindless cattle and was made like them.
 - brenton: [missing]
 
 ### Psalms 48:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This way of theirs stumbling-block to them, and after these things they will delight in their mouth. Interlude.
 - brenton: [missing]
 
 ### Psalms 48:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like sheep they were set in Hades; death will shepherd them, and upright ones will lord over them in morning, and their help will grow old in Hades, away from their glory.
 - brenton: [missing]
 
 ### Psalms 48:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But God will redeem my soul from hand of Hades when he receives me. Interlude.
 - brenton: [missing]
 
 ### Psalms 48:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear when man becomes rich and glory of his house is multiplied,
 - brenton: [missing]
 
 ### Psalms 48:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because when he dies he will take nothing; his glory will not go down with him.
 - brenton: [missing]
 
 ### Psalms 48:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because his soul in his life will be blessed; he will confess to you when you do good to him.
 - brenton: [missing]
 
 ### Psalms 48:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will go in as far as generation of his fathers; forever he will not see light.
 - brenton: [missing]
 
 ### Psalms 48:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Man in honor did not understand; he was compared with mindless cattle and was made like them.
 - brenton: [missing]
 
 ### Psalms 49:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Psalm of Asaph. God of gods, Lord, spoke and called earth from rising of sun to its setting.
 - brenton: [missing]
 
 ### Psalms 49:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Out of Zion comeliness of his beauty; God will come openly.
 - brenton: [missing]
 
 ### Psalms 49:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our God will come and will not keep silent; fire before him will burn, and around him storm exceedingly.
 - brenton: [missing]
 
 ### Psalms 49:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will call heaven above and earth to judge his people.
 - brenton: [missing]
 
 ### Psalms 49:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather to him his holy ones, those making his covenant upon sacrifices.
 - brenton: [missing]
 
 ### Psalms 49:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And heavens will declare his righteousness, because God is judge. Interlude.
 - brenton: [missing]
 
 ### Psalms 49:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, my people, and I will speak to you; Israel, and I will testify to you: God, your God, am I.
 - brenton: [missing]
 
 ### Psalms 49:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not concerning your sacrifices will I rebuke you, and your whole burnt offerings are before me continually.
 - brenton: [missing]
 
 ### Psalms 49:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will not receive calves from your house, nor he-goats from your flocks,
 - brenton: [missing]
 
 ### Psalms 49:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because all wild animals of forest are mine, cattle on mountains and oxen.
 - brenton: [missing]
 
 ### Psalms 49:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I knew all birds of heaven, and beauty of field with me.
 - brenton: [missing]
 
 ### Psalms 49:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If I hunger, I will not tell you, because inhabited world is mine and its fullness.
 - brenton: [missing]
 
 ### Psalms 49:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will I eat flesh of bulls, or drink blood of goats?
 - brenton: [missing]
 
 ### Psalms 49:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice to God sacrifice of praise, and pay to Most High your vows.
 - brenton: [missing]
 
 ### Psalms 49:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And call upon me in day of affliction, and I will deliver you, and you will glorify me. Interlude.
 - brenton: [missing]
 
 ### Psalms 49:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But to sinner God said, Why do you recount my righteous acts and take up my covenant in your mouth,
 - brenton: [missing]
 
 ### Psalms 49:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but you hated instruction and cast my words behind you?
 - brenton: [missing]
 
 ### Psalms 49:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you saw thief, you ran with him, and with adulterers you set your share.
 - brenton: [missing]
 
 ### Psalms 49:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your mouth abounded in evil, and your tongue wove deceit.
 - brenton: [missing]
 
 ### Psalms 49:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sitting, you spoke against your brother, and against son of your mother you set stumbling-block.
 - brenton: [missing]
 
 ### Psalms 49:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These things you did, and I kept silent. You supposed lawlessness, that I would be like you. I will rebuke you and set them before your face.
 - brenton: [missing]
 
 ### Psalms 49:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Understand these things, you forgetting God, lest he seize, and there be none rescuing.
 - brenton: [missing]
 
 ### Psalms 49:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.
 - brenton: [missing]
 
 ### Psalms 50:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. Psalm of David.
 - brenton: [missing]
 
 ### Psalms 50:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When Nathan the prophet came to him, when he went in to Bersabee.
 - brenton: [missing]
 
 ### Psalms 50:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Have mercy on me, O God, according to your great mercy, and according to multitude of your compassions blot out my lawlessness.
 - brenton: [missing]
 
 ### Psalms 50:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wash me more and more from my lawlessness and cleanse me from my sin,
 - brenton: [missing]
 
 ### Psalms 50:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because I know my lawlessness, and my sin before me continually.
 - brenton: [missing]
 
 ### Psalms 50:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Against you only I sinned and did evil before you, so that you may be justified in your words and prevail when you are judged.
 - brenton: [missing]
 
 ### Psalms 50:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For behold, in lawlessnesses I was conceived, and in sins my mother conceived me.
 - brenton: [missing]
 
 ### Psalms 50:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For behold, you loved truth; hidden and secret things of your wisdom you showed me.
 - brenton: [missing]
 
 ### Psalms 50:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will sprinkle me with hyssop, and I will be cleansed; you will wash me, and beyond snow I will be whitened.
 - brenton: [missing]
 
 ### Psalms 50:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will make me hear exultation and gladness; humbled bones will exult.
 - brenton: [missing]
 
 ### Psalms 50:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn your face away from my sins, and blot out all my lawlessnesses.
 - brenton: [missing]
 
 ### Psalms 50:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Create in me clean heart, O God, and renew right spirit in my inward parts.
 - brenton: [missing]
 
 ### Psalms 50:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not cast me away from your face, and do not take your Holy Spirit from me.
 - brenton: [missing]
 
 ### Psalms 50:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Restore to me exultation of your salvation, and strengthen me with guiding spirit.
 - brenton: [missing]
 
 ### Psalms 50:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will teach lawless ones your ways, and ungodly ones will turn back to you.
 - brenton: [missing]
 
 ### Psalms 50:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rescue me from bloodguilt, O God, God of my salvation; my tongue will exult in your righteousness.
 - brenton: [missing]
 
 ### Psalms 50:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, you will open my lips, and my mouth will declare your praise.
 - brenton: [missing]
 
 ### Psalms 50:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if you wanted sacrifice, I would give it; in whole burnt offerings you will not delight.
 - brenton: [missing]
 
 ### Psalms 50:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice to God crushed spirit; crushed and humbled heart God will not despise.
 - brenton: [missing]
 
 ### Psalms 50:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do good, Lord, in your good pleasure to Zion, and let walls of Jerusalem be built.
 - brenton: [missing]
 
 ### Psalms 50:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then you will delight in sacrifice of righteousness, offering and whole burnt offerings; then they will offer calves upon your altar.
 - brenton: [missing]
 
 ### Psalms 51:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For end. For understanding. Of David.
 - brenton: [missing]
 
 ### Psalms 51:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When Doeg the Idumean came and told Saul and said to him, David came into house of Abimelech.
 - brenton: [missing]
 
 ### Psalms 51:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you boast in evil, mighty one, in lawlessness whole day?
 - brenton: [missing]
 
 ### Psalms 51:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your tongue devised injustice; like sharpened razor you worked deceit.
 - brenton: [missing]
 
 ### Psalms 51:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You loved evil beyond goodness, injustice beyond speaking righteousness. Interlude.
 - brenton: [missing]
