@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 22052
-- medium: 160
-- low: 705
+- high: 22232
+- medium: 131
+- low: 554
 - none: 0
 
 Note:
@@ -197943,513 +197943,513 @@ Note:
 
 ### Hosea 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What will you do in day of assembly and in day of feast of the Lord?
 - brenton: [missing]
 
 ### Hosea 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, they will go from misery. Egypt will receive them, and Memphis will bury them; Machmas, destruction will inherit their silver; thorns will be in their tents.
 - brenton: [missing]
 
 ### Hosea 9:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Days of vengeance have come; days of your repayment have come, and Israel will be afflicted like prophet out of his mind, man carried by spirit, because multitude of your injustices increased your madness.
 - brenton: [missing]
 
 ### Hosea 9:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim, a watchman with God, prophet, a crooked snare on all his ways; they drove madness deep in house of Lord.
 - brenton: [missing]
 
 ### Hosea 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were corrupted as in days of the hill; he will remember their injustice; he will avenge their sins.
 - brenton: [missing]
 
 ### Hosea 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like a grape in wilderness I found Israel, and like an early fig on a fig tree I saw their fathers. They entered to Baal-Peor and were estranged to shame, and beloved ones became like those abhorred.
 - brenton: [missing]
 
 ### Hosea 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim, like a bird, their glories flew away from births and birth-pangs and conceptions.
 - brenton: [missing]
 
 ### Hosea 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because even if they rear their children, they will become childless from men, because woe is also to them; my flesh is from them.
 - brenton: [missing]
 
 ### Hosea 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I saw Ephraim for hunting, they presented their children, and Ephraim to bring out his children for piercing.
 - brenton: [missing]
 
 ### Hosea 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give to them, Lord. What will you give them? Give them barren womb and dry breasts.
 - brenton: [missing]
 
 ### Hosea 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All their evils are in Gilgal, because there I hated them. Because of evils of their practices I will cast them out of my house. I will not continue to love them; all their rulers are disobedient.
 - brenton: [missing]
 
 ### Hosea 9:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim suffered; its roots dried up; it will no longer bear fruit. Even if they bear children, I will kill desires of their womb.
 - brenton: [missing]
 
 ### Hosea 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: God will reject them because they did not listen to him, and they will be wanderers among the nations.
 - brenton: [missing]
 
 ### Hosea 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Israel, a flourishing vine, its fruit prospered. According to multitude of its fruits he multiplied the altars; according to goodness of his land he built pillars.
 - brenton: [missing]
 
 ### Hosea 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They divided their hearts; now they will be destroyed. He himself will dig down their altars; their pillars will suffer.
 - brenton: [missing]
 
 ### Hosea 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because now they will say, We have no king, because we did not fear the Lord. And the king, what will he do for us?
 - brenton: [missing]
 
 ### Hosea 10:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Speaking words, false excuses, they will make covenant; judgment springs up like weed on furrows of a field.
 - brenton: [missing]
 
 ### Hosea 10:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For calf of house of On, inhabitants of Samaria will dwell as strangers, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
 - brenton: [missing]
 
 ### Hosea 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And binding it they carried it away to Assyrians as a guest-gift to king Jarim. Ephraim will receive shame, and Israel will be ashamed in his counsel.
 - brenton: [missing]
 
 ### Hosea 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Samaria threw away her king like twig on face of water.
 - brenton: [missing]
 
 ### Hosea 10:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And altars of On, sins of Israel, will be removed; thorns and thistles will come up on their altars, and they will say to mountains, Cover us, and to hills, Fall on us.
 - brenton: [missing]
 
 ### Hosea 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From time of the hills Israel sinned; there they stood. War on children of injustice will not overtake them on the hill.
 - brenton: [missing]
 
 ### Hosea 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He came to discipline them, and peoples will be gathered against them when they are disciplined in their two injustices.
 - brenton: [missing]
 
 ### Hosea 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim is a heifer taught to love victory, but I will come upon the beauty of her neck. I will mount Ephraim and silence Judah; Jacob will strengthen him.
 - brenton: [missing]
 
 ### Hosea 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sow for yourselves into righteousness; reap into fruit of life. Give yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you.
 - brenton: [missing]
 
 ### Hosea 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did you keep silence for impiety and reap its injustices? You ate fruit of lies, because you hoped in your chariots and in multitude of your strength.
 - brenton: [missing]
 
 ### Hosea 10:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And destruction will rise up among your people, and all your fortified things will go away, as ruler Salaman from house of Jerobaal, in day of war, leveled mother upon children.
 - brenton: [missing]
 
 ### Hosea 10:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus I will do to you, house of Israel, because of face of your evils. At dawn they threw away, king of Israel was thrown away.
 - brenton: [missing]
 
 ### Hosea 11:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Israel was an infant, and I loved him, and from Egypt I called his children.
 - brenton: [missing]
 
 ### Hosea 11:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I called them, so they were being driven from my face. They were sacrificing to the Baals and burning incense to carved things.
 - brenton: [missing]
 
 ### Hosea 11:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I bound Ephraim together; I took him on my arm, and they did not know that I heal them.
 - brenton: [missing]
 
 ### Hosea 11:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look upon him; I will prevail for him.
 - brenton: [missing]
 
 ### Hosea 11:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim dwelt in Egypt, and Assur is his king, because he did not want to return.
 - brenton: [missing]
 
 ### Hosea 11:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sword grew weak in his cities and ceased in his hands, and they will eat from their counsels.
 - brenton: [missing]
 
 ### Hosea 11:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his people hang suspended from his dwelling, and God will be angered over his honored things and will never exalt him.
 - brenton: [missing]
 
 ### Hosea 11:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How will I make you, Ephraim? Will I defend you, Israel? How will I make you like Adama? I will set you like Seboim. My heart was turned within me; my repentance was stirred together.
 - brenton: [missing]
 
 ### Hosea 11:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will not act according to anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, holy in you, and I will not enter into a city.
 - brenton: [missing]
 
 ### Hosea 11:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will go after Lord; like a lion he will roar, because he himself will roar, and children of waters will stand amazed.
 - brenton: [missing]
 
 ### Hosea 11:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will stand amazed like bird from Egypt and like dove from land of Assyrians, and I will restore them to their houses, says Lord.
 - brenton: [missing]
 
 ### Hosea 12:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim surrounded me with lie and house of Israel with impieties, and now Judah knew them before God, and holy people will be called of God.
 - brenton: [missing]
 
 ### Hosea 12:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Ephraim pursued evil wind, pursuing scorching heat all day. It multiplied emptiness and vanity, and made covenant with Assyrians, and was trading oil into Egypt.
 - brenton: [missing]
 
 ### Hosea 12:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord has a case against Judah, to avenge Jacob according to his ways and repay him according to his practices.
 - brenton: [missing]
 
 ### Hosea 12:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In womb he grabbed heel of his brother, and in his labors he grew strong toward God.
 - brenton: [missing]
 
 ### Hosea 12:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he grew strong with an angel and prevailed; they wept and begged me. In house of On they found me, and there speech was made toward him.
 - brenton: [missing]
 
 ### Hosea 12:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord God Almighty will be his memorial.
 - brenton: [missing]
 
 ### Hosea 12:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, in your God you will return; keep mercy and judgment and draw near to your God always.
 - brenton: [missing]
 
 ### Hosea 12:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Canaan, in his hand a scale of injustice; he loved to oppress.
 - brenton: [missing]
 
 ### Hosea 12:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ephraim said, Yet I became rich; I found relief for myself. All his labors will not be found for him in injustices by which he sinned.
 - brenton: [missing]
 
 ### Hosea 12:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I am Lord your God who brought you up from land of Egypt. I will still make you dwell in tents as in days of feast.
 - brenton: [missing]
 
 ### Hosea 12:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will speak to prophets, and I multiplied visions, and by hands of prophets I was likened.
 - brenton: [missing]
 
 ### Hosea 12:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on furrows of field.
 - brenton: [missing]
 
 ### Hosea 12:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jacob withdrew into plain of Syria, and Israel served for a wife, and for a wife he kept watch.
 - brenton: [missing]
 
 ### Hosea 12:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And by a prophet Lord brought Israel up from Egypt, and by a prophet he was kept.
 - brenton: [missing]
 
 ### Hosea 12:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim enraged and provoked, and his blood will be poured upon him, and Lord will repay him his reproach.
 - brenton: [missing]
 
 ### Hosea 13:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to word of Ephraim, he received ordinances in Israel, and he set them to Baal and died.
 - brenton: [missing]
 
 ### Hosea 13:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
 - brenton: [missing]
 
 ### Hosea 13:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore they will be like morning cloud and like early dew going away, like chaff blown from threshing floor and like vapor from locusts.
 - brenton: [missing]
@@ -198465,189 +198465,189 @@ Note:
 
 ### Hosea 13:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was shepherding you in wilderness, in uninhabited land.
 - brenton: [missing]
 
 ### Hosea 13:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to their pastures they were filled to fullness, and their hearts were exalted; because of this they forgot me.
 - brenton: [missing]
 
 ### Hosea 13:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will be to them like panther and like leopard on road of Assyrians.
 - brenton: [missing]
 
 ### Hosea 13:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will meet them like bear in distress and tear open enclosure of their heart, and cubs of forest will devour them there; beasts of field will tear them apart.
 - brenton: [missing]
 
 ### Hosea 13:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At your destruction, Israel, who will help?
 - brenton: [missing]
 
 ### Hosea 13:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where is this king of yours? Let him save you in all your cities. Let him judge you, the one of whom you said, Give me king and ruler.
 - brenton: [missing]
 
 ### Hosea 13:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I gave you a king in my anger and held him in my wrath.
 - brenton: [missing]
 
 ### Hosea 13:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ephraim's twisting of injustice, his sin, has been hidden.
 - brenton: [missing]
 
 ### Hosea 13:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Birth-pangs like those of a woman giving birth will come to him. This son is not wise, because he will not stand in breaking forth of children.
 - brenton: [missing]
 
 ### Hosea 13:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, death? Where is your sting, Hades? Consolation is hidden from my eyes.
 - brenton: [missing]
 
 ### Hosea 13:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because he himself will separate among brothers, Lord will bring east wind, scorching wind from wilderness, upon him, and it will dry up his veins and lay waste his springs. He himself will dry up his land and all his desirable vessels.
 - brenton: [missing]
 
 ### Hosea 14:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Samaria will be destroyed, because she opposed her God. By sword they will fall, their nursing infants will be dashed down, and their pregnant women ripped open.
 - brenton: [missing]
 
 ### Hosea 14:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Return, Israel, to Lord your God, because you grew weak in your injustices.
 - brenton: [missing]
 
 ### Hosea 14:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take words with yourselves and return to Lord your God. Say to him that you may not take injustice and may take good things, and we will repay fruit of our lips.
 - brenton: [missing]
 
 ### Hosea 14:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Assur will never save us; we will not mount horse, and we will no longer say, Our gods, to works of our hands; in you orphan will find mercy.
 - brenton: [missing]
 
 ### Hosea 14:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will heal their dwellings; I will love them openly, because my anger turned away from them.
 - brenton: [missing]
 
 ### Hosea 14:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will be like dew to Israel; he will blossom like lily and cast his roots like Lebanon.
 - brenton: [missing]
 
 ### Hosea 14:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: His branches will go out, and he will be like fruitful olive, and his smell like Lebanon.
 - brenton: [missing]
 
 ### Hosea 14:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will return and sit under his shelter; they will live and be made drunk with grain and blossom like vine; his memorial like wine of Lebanon.
 - brenton: [missing]
 
 ### Hosea 14:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What further has Ephraim to do with idols? I humbled him and I will strengthen him. I am like thick-jutting juniper; from me your fruit is found.
 - brenton: [missing]
 
 ### Hosea 14:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is wise and will understand these things, or intelligent and will know them? Because ways of Lord are straight, and righteous ones will walk in them, but impious ones will grow weak in them.
 - brenton: [missing]
@@ -198656,108 +198656,108 @@ Note:
 
 ### Joel 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord that came to Joel son of Bathouel.
 - brenton: [missing]
 
 ### Joel 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in days of your fathers?
 - brenton: [missing]
 
 ### Joel 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tell of these things to your children, and your children to their children, and their children to another generation.
 - brenton: [missing]
 
 ### Joel 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What remained of the caterpillar the locust ate, and what remained of the locust the hopper ate, and what remained of the hopper the blight ate.
 - brenton: [missing]
 
 ### Joel 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wake up, drunkards, from your wine, and weep; lament, all drinking wine into drunkenness, because gladness and joy have been removed from your mouth.
 - brenton: [missing]
 
 ### Joel 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because a strong and numberless nation came up upon my land; its teeth are lion's teeth and its molars are those of a cub.
 - brenton: [missing]
 
 ### Joel 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It made my vine into ruin and my fig trees into splintering; searching, it searched it out and threw it down; its branches turned white.
 - brenton: [missing]
 
 ### Joel 1:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lament to me like bride girded with sackcloth over her youthful husband.
 - brenton: [missing]
 
 ### Joel 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sacrifice and drink offering were removed from house of Lord. Mourn, priests serving at altar.
 - brenton: [missing]
 
 ### Joel 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because fields have suffered, let the land mourn, because grain has suffered, wine dried up, oil diminished.
 - brenton: [missing]
 
 ### Joel 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Farmers dried up. Lament, fields, for wheat and barley, because harvest from field is lost.
 - brenton: [missing]
 
 ### Joel 1:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vine dried up and figs diminished, pomegranate and palm and apple and all trees of field dried up, because they put joy to shame, sons of men.
 - brenton: [missing]
@@ -198773,171 +198773,171 @@ Note:
 
 ### Joel 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sanctify a fast, proclaim service, gather elders, all inhabiting the land, into house of your God, and cry out intensely to Lord.
 - brenton: [missing]
 
 ### Joel 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Alas, alas, alas, for the day, because day of Lord is near, and like misery from misery it will come.
 - brenton: [missing]
 
 ### Joel 1:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before your eyes foods were destroyed, and from house of your God gladness and joy.
 - brenton: [missing]
 
 ### Joel 1:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heifers leaped at their mangers, storehouses vanished, vats were dug down, because grain dried up.
 - brenton: [missing]
 
 ### Joel 1:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What will we store for ourselves? Herds of cattle wept, because pasture did not exist for them, and flocks of sheep vanished.
 - brenton: [missing]
 
 ### Joel 1:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To you, Lord, I will cry, because fire consumed beauties of wilderness and flame kindled all trees of field.
 - brenton: [missing]
 
 ### Joel 1:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And beasts of the plain looked up to you, because streams of waters dried up and fire devoured beauties of wilderness.
 - brenton: [missing]
 
 ### Joel 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blow trumpet in Zion, proclaim on my holy mountain, and let all inhabiting the land be shaken, because day of Lord is present, because it is near:
 - brenton: [missing]
 
 ### Joel 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: day of darkness and gloom, day of cloud and mist. Like dawn it will be poured out on the mountains, a great and strong people; none like it has happened from age, and after it none will be added for years of generations.
 - brenton: [missing]
 
 ### Joel 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before it fire consumes, and behind it kindled flame; before its face the land is a garden of delight, and behind it a plain of ruin, and there will be no one escaping it.
 - brenton: [missing]
 
 ### Joel 2:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its appearance is like appearance of horses, and like horsemen they will pursue.
 - brenton: [missing]
 
 ### Joel 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like sound of chariots on tops of mountains they will leap, and like sound of flame of fire devouring stubble, and like great and strong people arrayed for war.
 - brenton: [missing]
 
 ### Joel 2:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before its face peoples will be crushed; every face as scorching of a pot.
 - brenton: [missing]
 
 ### Joel 2:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like fighters they will run, and like men of war they will climb walls, and each will go in his own way, and they will never turn from their paths.
 - brenton: [missing]
 
 ### Joel 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And each will not keep away from his brother; weighed down in their weapons they will go, and by their missiles they will fall and will never be finished off.
 - brenton: [missing]
 
 ### Joel 2:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will seize the city and run on the walls and climb into houses and enter through windows like thieves.
 - brenton: [missing]
 
 ### Joel 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before them earth will be shaken and heaven shaken; sun and moon will be darkened and stars will withdraw their light.
 - brenton: [missing]
 
 ### Joel 2:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will give his voice before his force, because his camp is exceedingly great, because works of his words are strong; because great is day of Lord, very great and conspicuous, and who will be sufficient for it?
 - brenton: [missing]
 
 ### Joel 2:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, says Lord your God, return to me with all your heart and with fasting and with weeping and with mourning.
 - brenton: [missing]
@@ -198962,72 +198962,72 @@ Note:
 
 ### Joel 2:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Blow trumpet in Zion, sanctify a fast, proclaim service.
 - brenton: [missing]
 
 ### Joel 2:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather people, sanctify assembly, choose elders, gather infants nursing breasts. Let bridegroom go out from his chamber and bride from her wedding-room.
 - brenton: [missing]
 
 ### Joel 2:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Between base of altar the priests serving Lord will weep and say, Spare, Lord, your people, and do not give your inheritance to reproach for nations to rule them, so that they may not say among nations, Where is their God?
 - brenton: [missing]
 
 ### Joel 2:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord was jealous for his land and spared his people.
 - brenton: [missing]
 
 ### Joel 2:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord answered and said to his people, Behold, I am sending you grain and wine and oil, and you will be filled with them, and I will no longer give you to reproach among nations.
 - brenton: [missing]
 
 ### Joel 2:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the one from north I will drive away from you and thrust him into waterless and ruined land, his face into the former sea and his back into the last sea, and his rot will rise and his stench will rise, because he magnified his deeds.
 - brenton: [missing]
 
 ### Joel 2:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take courage, land; rejoice and be glad, because Lord magnified what he did.
 - brenton: [missing]
 
 ### Joel 2:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take courage, beasts of the field, because plains of wilderness have sprouted, because tree bore its fruit, vine and fig tree gave their strength.
 - brenton: [missing]
@@ -199043,18 +199043,18 @@ Note:
 
 ### Joel 2:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And threshing floors will be filled with grain, and vats will overflow with wine and oil.
 - brenton: [missing]
 
 ### Joel 2:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will repay you for years that locust and hopper and blight and caterpillar ate, my great force that I sent among you.
 - brenton: [missing]
@@ -199070,45 +199070,45 @@ Note:
 
 ### Joel 2:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am in midst of Israel, and I am Lord your God and there is no other besides me, and all my people will no longer be put to shame forever.
 - brenton: [missing]
 
 ### Joel 3:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be after these things: I will pour out from my Spirit upon all flesh, and your sons and your daughters will prophesy, and your elders will dream dreams, and your young men will see visions.
 - brenton: [missing]
 
 ### Joel 3:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And even on the male servants and on the female servants in those days I will pour out from my Spirit.
 - brenton: [missing]
 
 ### Joel 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give wonders in heaven and on earth, blood and fire and vapor of smoke.
 - brenton: [missing]
 
 ### Joel 3:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun will be turned into darkness and moon into blood before great and manifest day of Lord comes.
 - brenton: [missing]
@@ -199124,189 +199124,189 @@ Note:
 
 ### Joel 4:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, in those days and in that time, when I turn back captivity of Judah and Jerusalem,
 - brenton: [missing]
 
 ### Joel 4:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will gather all nations and bring them down into valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among nations and divided my land.
 - brenton: [missing]
 
 ### Joel 4:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And over my people they cast lots and gave boys to prostitutes and sold girls for wine and drank.
 - brenton: [missing]
 
 ### Joel 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And what are you to me, Tyre and Sidon and all Galilee of foreigners? Are you repaying me with repayment, or bearing resentment against me? Swiftly and quickly I will repay your repayment on your own heads.
 - brenton: [missing]
 
 ### Joel 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you took my silver and my gold and carried my choice and good things into your temples.
 - brenton: [missing]
 
 ### Joel 4:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you sold sons of Judah and sons of Jerusalem to sons of Greeks so that you might drive them out from their borders.
 - brenton: [missing]
 
 ### Joel 4:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am raising them up from place where you sold them there, and I will repay your repayment on your own heads.
 - brenton: [missing]
 
 ### Joel 4:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will sell your sons and your daughters into hands of sons of Judah, and they will sell them into captivity to a distant nation, because Lord spoke.
 - brenton: [missing]
 
 ### Joel 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Proclaim these things among nations: sanctify war, rouse fighters, bring near and let all men of war go up.
 - brenton: [missing]
 
 ### Joel 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beat your plows into swords and your sickles into spears. Let weak one say, I am strong.
 - brenton: [missing]
 
 ### Joel 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather yourselves and enter, all nations around, and assemble there. Let gentle one be a fighter.
 - brenton: [missing]
 
 ### Joel 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all nations be roused and go up into valley of Jehoshaphat, because there I will sit to judge all nations around.
 - brenton: [missing]
 
 ### Joel 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Send out sickles, because harvest stands ready. Enter, tread, because vat is full; troughs overflow, because their evils are multiplied.
 - brenton: [missing]
 
 ### Joel 4:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sounds resounded in valley of justice, because day of Lord is near in valley of justice.
 - brenton: [missing]
 
 ### Joel 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sun and moon will be darkened, and stars will withdraw their light.
 - brenton: [missing]
 
 ### Joel 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will cry out from Zion and give his voice from Jerusalem, and heaven and earth will shake; but Lord will spare his people and strengthen sons of Israel.
 - brenton: [missing]
 
 ### Joel 4:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am Lord your God dwelling in Zion, on my holy mountain, and Jerusalem will be a holy city, and foreigners will pass through her no longer.
 - brenton: [missing]
 
 ### Joel 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day: mountains will drip sweetness and hills will flow with milk and all streams of Judah will flow with waters, and a spring from house of Lord will come out and water torrent of reeds.
 - brenton: [missing]
 
 ### Joel 4:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Egypt will become ruin and Idumea a plain of ruin because of injustices against sons of Judah, because they poured out righteous blood in their land.
 - brenton: [missing]
 
 ### Joel 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Judea will be inhabited forever, and Jerusalem for generations of generations.
 - brenton: [missing]
 
 ### Joel 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will avenge their blood and will by no means leave them unpunished, and Lord will dwell in Zion.
 - brenton: [missing]
@@ -199315,189 +199315,189 @@ Note:
 
 ### Amos 1:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in days of Uzziah king of Judah and in days of Jeroboam son of Joash king of Israel, two years before the earthquake.
 - brenton: [missing]
 
 ### Amos 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
 - brenton: [missing]
 
 ### Amos 1:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said, For three impieties of Damascus and for four I will not turn him away, because they sawed open with iron saws those pregnant among the Gileadites.
 - brenton: [missing]
 
 ### Amos 1:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire into house of Hazael, and it will devour foundations of son of Ader.
 - brenton: [missing]
 
 ### Amos 1:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will shatter bars of Damascus and destroy inhabitants from plain of On and cut off tribe from men of Harran, and people of Syria called by name will be led captive, says Lord.
 - brenton: [missing]
 
 ### Amos 1:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of Gaza and for four I will not turn them away, because they took captive captivity of Solomon to shut them up into Idumea.
 - brenton: [missing]
 
 ### Amos 1:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire on walls of Gaza, and it will devour her foundations.
 - brenton: [missing]
 
 ### Amos 1:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy inhabitants from Azotus, and tribe will be removed from Ascalon, and I will bring my hand upon Accaron, and remnant of the foreigners will perish, says Lord.
 - brenton: [missing]
 
 ### Amos 1:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of Tyre and for four I will not turn her away, because they shut up captivity of Solomon into Idumea and did not remember covenant of brothers.
 - brenton: [missing]
 
 ### Amos 1:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire on walls of Tyre, and it will devour her foundations.
 - brenton: [missing]
 
 ### Amos 1:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of Idumea and for four I will not turn them away, because they pursued their brother with sword and ruined womb upon earth, and seized their horror as witness, and kept their rushing force for strife.
 - brenton: [missing]
 
 ### Amos 1:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire into Thaiman, and it will devour foundations of her walls.
 - brenton: [missing]
 
 ### Amos 1:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of sons of Ammon and for four I will not turn him away, because they ripped open pregnant women of Gilead in order to widen their borders.
 - brenton: [missing]
 
 ### Amos 1:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will kindle fire on walls of Rabbah, and it will devour her foundations with shouting in day of war, and it will be shaken in day of her completion.
 - brenton: [missing]
 
 ### Amos 1:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her kings will go into captivity, their priests and their rulers together, says Lord.
 - brenton: [missing]
 
 ### Amos 2:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of Moab and for four I will not turn him away, because they burned bones of king of Idumea to lime.
 - brenton: [missing]
 
 ### Amos 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire upon Moab, and it will devour foundations of her cities, and Moab will die in weakness with shouting and with sound of trumpet.
 - brenton: [missing]
 
 ### Amos 2:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy judge from her, and all her rulers I will kill with him, says Lord.
 - brenton: [missing]
 
 ### Amos 2:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of sons of Judah and for four I will not turn him away, because they rejected law of Lord and did not keep his commands, and their vanities that they made led them astray, which their fathers followed after them.
 - brenton: [missing]
 
 ### Amos 2:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send fire upon Judah, and it will devour foundations of Jerusalem.
 - brenton: [missing]
 
 ### Amos 2:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: For three impieties of Israel and for four I will not turn him away, because they sold righteous one for silver and poor one because of sandals.
 - brenton: [missing]
@@ -199513,126 +199513,126 @@ Note:
 
 ### Amos 2:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And binding their garments with cords they were making curtains beside the altar, and they were drinking wine from extortions in house of their God.
 - brenton: [missing]
 
 ### Amos 2:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I dried up Amorrite from before them, whose height was like height of cedar, and he was strong like oak, and I dried up his fruit from above and his roots from below.
 - brenton: [missing]
 
 ### Amos 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I brought you up from land of Egypt and led you around in wilderness forty years, to inherit land of Amorrites.
 - brenton: [missing]
 
 ### Amos 2:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I took some of your sons for prophets and some of your young men for sanctification. Is this not so, sons of Israel? says Lord.
 - brenton: [missing]
 
 ### Amos 2:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you were giving wine to the sanctified ones, and to the prophets you commanded, saying, You must not prophesy.
 - brenton: [missing]
 
 ### Amos 2:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, I am rolling beneath you just as cart full of stubble rolls.
 - brenton: [missing]
 
 ### Amos 2:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And flight will perish from swift runner, and strong man will not hold his strength, and warrior will not save his soul.
 - brenton: [missing]
 
 ### Amos 2:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And archer will not stand, and one swift in his feet will not escape, nor rider save his soul.
 - brenton: [missing]
 
 ### Amos 2:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And naked man will find his heart among powers and flee in that day, says Lord.
 - brenton: [missing]
 
 ### Amos 3:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear this word that Lord spoke against you, house of Israel, and against every tribe that I brought up from land of Egypt, saying,
 - brenton: [missing]
 
 ### Amos 3:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Only you I knew from all tribes of the earth; therefore I will avenge upon you all your sins.
 - brenton: [missing]
 
 ### Amos 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will two walk together at all unless they make themselves known to each other?
 - brenton: [missing]
 
 ### Amos 3:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will lion roar from his forest having no prey? Will cub give his voice from his den at all unless he seizes something?
 - brenton: [missing]
 
 ### Amos 3:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will bird fall upon earth without a snare? Will trap spring from earth without catching something?
 - brenton: [missing]
