@@ -4,6 +4,7 @@ Rows: 232
 
 ## Exodus 20:24
 - score: 35
+- latest review status: keep
 - top vote: 43
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -14,6 +15,7 @@ Rows: 232
 
 ## Leviticus 4:31
 - score: 34
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -24,6 +26,7 @@ Rows: 232
 
 ## 1 Kings 2:35
 - score: 32
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -34,6 +37,7 @@ Rows: 232
 
 ## 2 Chronicles 33:16
 - score: 31
+- latest review status: revised
 - top vote: 2
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -43,6 +47,7 @@ Rows: 232
 
 ## 2 Kings 17:34
 - score: 31
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -52,6 +57,7 @@ Rows: 232
 
 ## Deuteronomy 16:2
 - score: 31
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -62,6 +68,7 @@ Rows: 232
 
 ## 2 Chronicles 12:13
 - score: 30
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -71,6 +78,7 @@ Rows: 232
 
 ## Deuteronomy 12:21
 - score: 30
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -80,6 +88,7 @@ Rows: 232
 
 ## Deuteronomy 12:26
 - score: 30
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -89,6 +98,7 @@ Rows: 232
 
 ## Nehemiah 10:34
 - score: 30
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -99,6 +109,7 @@ Rows: 232
 
 ## 1 Chronicles 22:19
 - score: 29
+- latest review status: revised
 - top vote: 12
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -108,6 +119,7 @@ Rows: 232
 
 ## Deuteronomy 12:11
 - score: 29
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -118,6 +130,7 @@ Rows: 232
 
 ## Deuteronomy 17:8
 - score: 29
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -127,6 +140,7 @@ Rows: 232
 
 ## Joshua 22:5
 - score: 29
+- latest review status: keep
 - top vote: 49
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -137,6 +151,7 @@ Rows: 232
 
 ## 2 Chronicles 7:14
 - score: 28
+- latest review status: keep
 - top vote: 297
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -147,6 +162,7 @@ Rows: 232
 
 ## 2 Chronicles 9:8
 - score: 28
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -157,6 +173,7 @@ Rows: 232
 
 ## Genesis 2:7
 - score: 28
+- latest review status: keep
 - top vote: 41
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -167,6 +184,7 @@ Rows: 232
 
 ## Leviticus 4:35
 - score: 26
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -177,6 +195,7 @@ Rows: 232
 
 ## Deuteronomy 16:6
 - score: 25
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -187,6 +206,7 @@ Rows: 232
 
 ## Leviticus 5:15
 - score: 25
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -196,6 +216,7 @@ Rows: 232
 
 ## 2 Chronicles 35:3
 - score: 24
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -206,6 +227,7 @@ Rows: 232
 
 ## Isaiah 59:21
 - score: 24
+- latest review status: keep
 - top vote: 320
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -216,6 +238,7 @@ Rows: 232
 
 ## Isaiah 9:6
 - score: 24
+- latest review status: keep
 - top vote: 177
 - OT crossrefs: 2
 - NT crossrefs: 6
@@ -226,6 +249,7 @@ Rows: 232
 
 ## Leviticus 4:26
 - score: 24
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -235,6 +259,7 @@ Rows: 232
 
 ## Amos 9:12
 - score: 23
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -245,6 +270,7 @@ Rows: 232
 
 ## Daniel 4:37
 - score: 23
+- latest review status: keep
 - top vote: 16
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -255,6 +281,7 @@ Rows: 232
 
 ## Isaiah 12:2
 - score: 23
+- latest review status: revised
 - top vote: 54
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -265,6 +292,7 @@ Rows: 232
 
 ## Isaiah 54:10
 - score: 23
+- latest review status: revised
 - top vote: 56
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -275,6 +303,7 @@ Rows: 232
 
 ## Jeremiah 15:16
 - score: 23
+- latest review status: keep
 - top vote: 549
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -285,6 +314,7 @@ Rows: 232
 
 ## Leviticus 3:1
 - score: 23
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -295,6 +325,7 @@ Rows: 232
 
 ## Zechariah 13:9
 - score: 23
+- latest review status: keep
 - top vote: 132
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -305,6 +336,7 @@ Rows: 232
 
 ## 1 Chronicles 16:40
 - score: 22
+- latest review status: revised
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -314,6 +346,7 @@ Rows: 232
 
 ## 1 Kings 10:9
 - score: 22
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -324,6 +357,7 @@ Rows: 232
 
 ## 1 Kings 12:24
 - score: 22
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -333,6 +367,7 @@ Rows: 232
 
 ## 1 Samuel 2:10
 - score: 22
+- latest review status: keep
 - top vote: 9
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -343,6 +378,7 @@ Rows: 232
 
 ## 2 Kings 9:18
 - score: 22
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 5
 - NT crossrefs: 1
@@ -353,6 +389,7 @@ Rows: 232
 
 ## Exodus 14:31
 - score: 22
+- latest review status: keep
 - top vote: 11
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -363,6 +400,7 @@ Rows: 232
 
 ## Exodus 15:26
 - score: 22
+- latest review status: keep
 - top vote: 101
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -372,6 +410,7 @@ Rows: 232
 
 ## Genesis 24:7
 - score: 22
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -382,6 +421,7 @@ Rows: 232
 
 ## Isaiah 44:2
 - score: 22
+- latest review status: keep
 - top vote: 200
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -392,6 +432,7 @@ Rows: 232
 
 ## Jeremiah 23:5
 - score: 22
+- latest review status: revised
 - top vote: 23
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -402,6 +443,7 @@ Rows: 232
 
 ## Joshua 22:23
 - score: 22
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -411,6 +453,7 @@ Rows: 232
 
 ## Joshua 22:29
 - score: 22
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -420,6 +463,7 @@ Rows: 232
 
 ## Joshua 24:19
 - score: 22
+- latest review status: revised
 - top vote: 8
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -430,6 +474,7 @@ Rows: 232
 
 ## Leviticus 7:11
 - score: 22
+- latest review status: keep
 - top vote: 2
 - OT crossrefs: 3
 - NT crossrefs: 0
@@ -439,6 +484,7 @@ Rows: 232
 
 ## Micah 6:8
 - score: 22
+- latest review status: revised
 - top vote: 186
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -449,6 +495,7 @@ Rows: 232
 
 ## Nehemiah 1:11
 - score: 22
+- latest review status: revised
 - top vote: 21
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -459,6 +506,7 @@ Rows: 232
 
 ## Numbers 35:25
 - score: 22
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -469,6 +517,7 @@ Rows: 232
 
 ## Numbers 6:14
 - score: 22
+- latest review status: revised
 - top vote: 3
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -479,6 +528,7 @@ Rows: 232
 
 ## Numbers 6:18
 - score: 22
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 2
 - NT crossrefs: 5
@@ -489,6 +539,7 @@ Rows: 232
 
 ## Psalms 83:12
 - score: 22
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 0
@@ -498,6 +549,7 @@ Rows: 232
 
 ## Psalms 84:11
 - score: 22
+- latest review status: keep
 - top vote: 106
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -508,6 +560,7 @@ Rows: 232
 
 ## Zechariah 12:10
 - score: 22
+- latest review status: revised
 - top vote: 34
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -518,6 +571,7 @@ Rows: 232
 
 ## 1 Chronicles 16:35
 - score: 21
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 2
 - NT crossrefs: 6
@@ -528,6 +582,7 @@ Rows: 232
 
 ## 1 Samuel 26:19
 - score: 21
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -538,6 +593,7 @@ Rows: 232
 
 ## 2 Chronicles 6:20
 - score: 21
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -547,6 +603,7 @@ Rows: 232
 
 ## 2 Samuel 14:17
 - score: 21
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -557,6 +614,7 @@ Rows: 232
 
 ## 2 Samuel 22:51
 - score: 21
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -567,6 +625,7 @@ Rows: 232
 
 ## 2 Samuel 3:21
 - score: 21
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 5
 - NT crossrefs: 1
@@ -577,6 +636,7 @@ Rows: 232
 
 ## Exodus 14:13
 - score: 21
+- latest review status: keep
 - top vote: 78
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -586,6 +646,7 @@ Rows: 232
 
 ## Exodus 28:30
 - score: 21
+- latest review status: keep
 - top vote: 9
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -596,6 +657,7 @@ Rows: 232
 
 ## Exodus 3:18
 - score: 21
+- latest review status: keep
 - top vote: 11
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -605,6 +667,7 @@ Rows: 232
 
 ## Genesis 1:2
 - score: 21
+- latest review status: revised
 - top vote: 97
 - OT crossrefs: 7
 - NT crossrefs: 0
@@ -614,6 +677,7 @@ Rows: 232
 
 ## Genesis 24:14
 - score: 21
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -623,6 +687,7 @@ Rows: 232
 
 ## Genesis 24:40
 - score: 21
+- latest review status: keep
 - top vote: 10
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -632,6 +697,7 @@ Rows: 232
 
 ## Isaiah 5:16
 - score: 21
+- latest review status: revised
 - top vote: 17
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -642,6 +708,7 @@ Rows: 232
 
 ## Jeremiah 14:9
 - score: 21
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -652,6 +719,7 @@ Rows: 232
 
 ## Jeremiah 4:2
 - score: 21
+- latest review status: revised
 - top vote: 8
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -662,6 +730,7 @@ Rows: 232
 
 ## Jeremiah 9:23
 - score: 21
+- latest review status: revised
 - top vote: 57
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -672,6 +741,7 @@ Rows: 232
 
 ## Micah 5:3
 - score: 21
+- latest review status: revised
 - top vote: 11
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -682,6 +752,7 @@ Rows: 232
 
 ## Psalms 113:9
 - score: 21
+- latest review status: keep
 - top vote: 15
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -692,6 +763,7 @@ Rows: 232
 
 ## Psalms 19:7
 - score: 21
+- latest review status: keep
 - top vote: 52
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -702,6 +774,7 @@ Rows: 232
 
 ## Psalms 23:5
 - score: 21
+- latest review status: keep
 - top vote: 84
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -712,6 +785,7 @@ Rows: 232
 
 ## Zechariah 7:9
 - score: 21
+- latest review status: keep
 - top vote: 12
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -722,6 +796,7 @@ Rows: 232
 
 ## 1 Chronicles 28:9
 - score: 20
+- latest review status: keep
 - top vote: 326
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -732,6 +807,7 @@ Rows: 232
 
 ## 1 Kings 13:2
 - score: 20
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -741,6 +817,7 @@ Rows: 232
 
 ## 1 Kings 6:1
 - score: 20
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 2
 - NT crossrefs: 6
@@ -751,6 +828,7 @@ Rows: 232
 
 ## 1 Kings 8:23
 - score: 20
+- latest review status: keep
 - top vote: 11
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -760,6 +838,7 @@ Rows: 232
 
 ## 1 Samuel 12:17
 - score: 20
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 5
 - NT crossrefs: 2
@@ -770,6 +849,7 @@ Rows: 232
 
 ## 1 Samuel 25:29
 - score: 20
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -780,6 +860,7 @@ Rows: 232
 
 ## 1 Samuel 2:2
 - score: 20
+- latest review status: keep
 - top vote: 34
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -790,6 +871,7 @@ Rows: 232
 
 ## 1 Samuel 4:3
 - score: 20
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -800,6 +882,7 @@ Rows: 232
 
 ## 2 Kings 23:24
 - score: 20
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -809,6 +892,7 @@ Rows: 232
 
 ## 2 Samuel 19:28
 - score: 20
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 0
@@ -818,6 +902,7 @@ Rows: 232
 
 ## 2 Samuel 5:2
 - score: 20
+- latest review status: keep
 - top vote: 32
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -828,6 +913,7 @@ Rows: 232
 
 ## Amos 4:13
 - score: 20
+- latest review status: revised
 - top vote: 16
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -837,6 +923,7 @@ Rows: 232
 
 ## Daniel 9:4
 - score: 20
+- latest review status: keep
 - top vote: 26
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -847,6 +934,7 @@ Rows: 232
 
 ## Ezekiel 39:25
 - score: 20
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -857,6 +945,7 @@ Rows: 232
 
 ## Genesis 1:26
 - score: 20
+- latest review status: keep
 - top vote: 82
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -867,6 +956,7 @@ Rows: 232
 
 ## Jeremiah 7:11
 - score: 20
+- latest review status: keep
 - top vote: 10
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -877,6 +967,7 @@ Rows: 232
 
 ## Nehemiah 1:5
 - score: 20
+- latest review status: revised
 - top vote: 25
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -887,6 +978,7 @@ Rows: 232
 
 ## Nehemiah 8:9
 - score: 20
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -896,6 +988,7 @@ Rows: 232
 
 ## Numbers 15:8
 - score: 20
+- latest review status: revised
 - top vote: 4
 - OT crossrefs: 3
 - NT crossrefs: 0
@@ -905,6 +998,7 @@ Rows: 232
 
 ## Numbers 7:88
 - score: 20
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 0
@@ -914,6 +1008,7 @@ Rows: 232
 
 ## Psalms 68:14
 - score: 20
+- latest review status: revised
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -923,6 +1018,7 @@ Rows: 232
 
 ## 1 Chronicles 11:2
 - score: 19
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -933,6 +1029,7 @@ Rows: 232
 
 ## 2 Kings 10:31
 - score: 19
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -943,6 +1040,7 @@ Rows: 232
 
 ## 2 Kings 18:12
 - score: 19
+- latest review status: keep
 - top vote: 2
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -953,6 +1051,7 @@ Rows: 232
 
 ## 2 Kings 1:3
 - score: 19
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -963,6 +1062,7 @@ Rows: 232
 
 ## 2 Samuel 12:7
 - score: 19
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -973,6 +1073,7 @@ Rows: 232
 
 ## Amos 5:15
 - score: 19
+- latest review status: keep
 - top vote: 11
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -983,6 +1084,7 @@ Rows: 232
 
 ## Amos 9:1
 - score: 19
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -993,6 +1095,7 @@ Rows: 232
 
 ## Daniel 3:28
 - score: 19
+- latest review status: keep
 - top vote: 14
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1003,6 +1106,7 @@ Rows: 232
 
 ## Daniel 4:22
 - score: 19
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1013,6 +1117,7 @@ Rows: 232
 
 ## Daniel 4:33
 - score: 19
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 5
 - NT crossrefs: 2
@@ -1023,6 +1128,7 @@ Rows: 232
 
 ## Daniel 4:34
 - score: 19
+- latest review status: keep
 - top vote: 9
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1033,6 +1139,7 @@ Rows: 232
 
 ## Ezekiel 20:39
 - score: 19
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1043,6 +1150,7 @@ Rows: 232
 
 ## Ezekiel 43:19
 - score: 19
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1053,6 +1161,7 @@ Rows: 232
 
 ## Ezekiel 44:15
 - score: 19
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1063,6 +1172,7 @@ Rows: 232
 
 ## Ezekiel 45:9
 - score: 19
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1073,6 +1183,7 @@ Rows: 232
 
 ## Ezra 10:3
 - score: 19
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1083,6 +1194,7 @@ Rows: 232
 
 ## Ezra 6:3
 - score: 19
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1093,6 +1205,7 @@ Rows: 232
 
 ## Ezra 7:12
 - score: 19
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1103,6 +1216,7 @@ Rows: 232
 
 ## Ezra 7:6
 - score: 19
+- latest review status: keep
 - top vote: 13
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1113,6 +1227,7 @@ Rows: 232
 
 ## Habakkuk 2:4
 - score: 19
+- latest review status: revised
 - top vote: 68
 - OT crossrefs: 1
 - NT crossrefs: 7
@@ -1123,6 +1238,7 @@ Rows: 232
 
 ## Haggai 1:14
 - score: 19
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1133,6 +1249,7 @@ Rows: 232
 
 ## Haggai 2:9
 - score: 19
+- latest review status: keep
 - top vote: 18
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1143,6 +1260,7 @@ Rows: 232
 
 ## Hosea 13:4
 - score: 19
+- latest review status: keep
 - top vote: 13
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1153,6 +1271,7 @@ Rows: 232
 
 ## Hosea 4:1
 - score: 19
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1163,6 +1282,7 @@ Rows: 232
 
 ## Hosea 4:6
 - score: 19
+- latest review status: keep
 - top vote: 84
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1173,6 +1293,7 @@ Rows: 232
 
 ## Hosea 6:6
 - score: 19
+- latest review status: keep
 - top vote: 62
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1183,6 +1304,7 @@ Rows: 232
 
 ## Job 1:1
 - score: 19
+- latest review status: revised
 - top vote: 51
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1193,6 +1315,7 @@ Rows: 232
 
 ## Joshua 22:34
 - score: 19
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 4
 - NT crossrefs: 1
@@ -1203,6 +1326,7 @@ Rows: 232
 
 ## Malachi 1:6
 - score: 19
+- latest review status: keep
 - top vote: 61
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1213,6 +1337,7 @@ Rows: 232
 
 ## Malachi 2:7
 - score: 19
+- latest review status: keep
 - top vote: 13
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1223,6 +1348,7 @@ Rows: 232
 
 ## Nehemiah 4:3
 - score: 19
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 7
 - NT crossrefs: 0
@@ -1232,6 +1358,7 @@ Rows: 232
 
 ## Nehemiah 9:5
 - score: 19
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1242,6 +1369,7 @@ Rows: 232
 
 ## Proverbs 29:23
 - score: 19
+- latest review status: keep
 - top vote: 201
 - OT crossrefs: 8
 - NT crossrefs: 8
@@ -1252,6 +1380,7 @@ Rows: 232
 
 ## Proverbs 29:23
 - score: 19
+- latest review status: keep
 - top vote: 201
 - OT crossrefs: 8
 - NT crossrefs: 8
@@ -1262,6 +1391,7 @@ Rows: 232
 
 ## Proverbs 3:16
 - score: 19
+- latest review status: revised
 - top vote: 14
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1272,6 +1402,7 @@ Rows: 232
 
 ## Proverbs 9:10
 - score: 19
+- latest review status: keep
 - top vote: 72
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1282,6 +1413,7 @@ Rows: 232
 
 ## Zechariah 14:5
 - score: 19
+- latest review status: keep
 - top vote: 9
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1292,6 +1424,7 @@ Rows: 232
 
 ## Ezekiel 18:20
 - score: 18
+- latest review status: keep
 - top vote: 39
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1302,6 +1435,7 @@ Rows: 232
 
 ## Ezra 7:21
 - score: 18
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 5
 - NT crossrefs: 0
@@ -1311,6 +1445,7 @@ Rows: 232
 
 ## Ezra 7:26
 - score: 18
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1320,6 +1455,7 @@ Rows: 232
 
 ## Habakkuk 1:12
 - score: 18
+- latest review status: revised
 - top vote: 10
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1330,6 +1466,7 @@ Rows: 232
 
 ## Habakkuk 3:18
 - score: 18
+- latest review status: keep
 - top vote: 33
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1340,6 +1477,7 @@ Rows: 232
 
 ## Joel 2:13
 - score: 18
+- latest review status: revised
 - top vote: 29
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1350,6 +1488,7 @@ Rows: 232
 
 ## Joel 2:14
 - score: 18
+- latest review status: revised
 - top vote: 11
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1359,6 +1498,7 @@ Rows: 232
 
 ## Joel 2:23
 - score: 18
+- latest review status: keep
 - top vote: 49
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1369,6 +1509,7 @@ Rows: 232
 
 ## Joshua 23:10
 - score: 18
+- latest review status: keep
 - top vote: 738
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1379,6 +1520,7 @@ Rows: 232
 
 ## Judges 15:6
 - score: 18
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 3
 - NT crossrefs: 1
@@ -1389,6 +1531,7 @@ Rows: 232
 
 ## Judges 21:4
 - score: 18
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1399,6 +1542,7 @@ Rows: 232
 
 ## Judges 6:34
 - score: 18
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1409,6 +1553,7 @@ Rows: 232
 
 ## Malachi 2:10
 - score: 18
+- latest review status: keep
 - top vote: 42
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1419,6 +1564,7 @@ Rows: 232
 
 ## Malachi 3:1
 - score: 18
+- latest review status: keep
 - top vote: 21
 - OT crossrefs: 2
 - NT crossrefs: 6
@@ -1429,6 +1575,7 @@ Rows: 232
 
 ## Malachi 3:5
 - score: 18
+- latest review status: keep
 - top vote: 28
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1439,6 +1586,7 @@ Rows: 232
 
 ## Malachi 3:6
 - score: 18
+- latest review status: keep
 - top vote: 108
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1449,6 +1597,7 @@ Rows: 232
 
 ## Micah 6:7
 - score: 18
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1459,6 +1608,7 @@ Rows: 232
 
 ## Micah 7:7
 - score: 18
+- latest review status: keep
 - top vote: 45
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1469,6 +1619,7 @@ Rows: 232
 
 ## Proverbs 10:3
 - score: 18
+- latest review status: keep
 - top vote: 20
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1479,6 +1630,7 @@ Rows: 232
 
 ## Proverbs 3:9
 - score: 18
+- latest review status: keep
 - top vote: 33
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1489,6 +1641,7 @@ Rows: 232
 
 ## Zechariah 14:9
 - score: 18
+- latest review status: keep
 - top vote: 28
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1499,6 +1652,7 @@ Rows: 232
 
 ## Zechariah 4:6
 - score: 18
+- latest review status: keep
 - top vote: 170
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1509,6 +1663,7 @@ Rows: 232
 
 ## Amos 2:7
 - score: 17
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1519,6 +1674,7 @@ Rows: 232
 
 ## Amos 3:7
 - score: 17
+- latest review status: keep
 - top vote: 66
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1529,6 +1685,7 @@ Rows: 232
 
 ## Ecclesiastes 6:2
 - score: 17
+- latest review status: revised
 - top vote: 10
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1539,6 +1696,7 @@ Rows: 232
 
 ## Esther 2:12
 - score: 17
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 2
@@ -1549,6 +1707,7 @@ Rows: 232
 
 ## Habakkuk 2:14
 - score: 17
+- latest review status: keep
 - top vote: 51
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1559,6 +1718,7 @@ Rows: 232
 
 ## Habakkuk 3:2
 - score: 17
+- latest review status: revised
 - top vote: 28
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1568,6 +1728,7 @@ Rows: 232
 
 ## Hosea 2:21
 - score: 17
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 4
 - NT crossrefs: 3
@@ -1578,6 +1739,7 @@ Rows: 232
 
 ## Hosea 3:4
 - score: 17
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1588,6 +1750,7 @@ Rows: 232
 
 ## Job 2:3
 - score: 17
+- latest review status: revised
 - top vote: 7
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1598,6 +1761,7 @@ Rows: 232
 
 ## Job 35:2
 - score: 17
+- latest review status: keep
 - top vote: 3
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1608,6 +1772,7 @@ Rows: 232
 
 ## Job 9:2
 - score: 17
+- latest review status: revised
 - top vote: 8
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1618,6 +1783,7 @@ Rows: 232
 
 ## Joel 1:13
 - score: 17
+- latest review status: revised
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1628,6 +1794,7 @@ Rows: 232
 
 ## Joel 2:26
 - score: 17
+- latest review status: keep
 - top vote: 12
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1638,6 +1805,7 @@ Rows: 232
 
 ## Joel 3:5
 - score: 17
+- latest review status: revised
 - top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1647,6 +1815,7 @@ Rows: 232
 
 ## Jonah 1:4
 - score: 17
+- latest review status: keep
 - top vote: 10
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1657,6 +1826,7 @@ Rows: 232
 
 ## Jonah 2:10
 - score: 17
+- latest review status: revised
 - top vote: 10
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1667,6 +1837,7 @@ Rows: 232
 
 ## Judges 2:1
 - score: 17
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1677,6 +1848,7 @@ Rows: 232
 
 ## Judges 2:14
 - score: 17
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1686,6 +1858,7 @@ Rows: 232
 
 ## Judges 4:8
 - score: 17
+- latest review status: keep
 - top vote: 4
 - OT crossrefs: 1
 - NT crossrefs: 1
@@ -1696,6 +1869,7 @@ Rows: 232
 
 ## Micah 3:8
 - score: 17
+- latest review status: revised
 - top vote: 11
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1706,6 +1880,7 @@ Rows: 232
 
 ## Micah 4:2
 - score: 17
+- latest review status: keep
 - top vote: 13
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1716,6 +1891,7 @@ Rows: 232
 
 ## Ruth 1:8
 - score: 17
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1726,6 +1902,7 @@ Rows: 232
 
 ## Ruth 2:13
 - score: 17
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1736,6 +1913,7 @@ Rows: 232
 
 ## Ruth 2:20
 - score: 17
+- latest review status: revised
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1746,6 +1924,7 @@ Rows: 232
 
 ## Ruth 3:10
 - score: 17
+- latest review status: revised
 - top vote: 9
 - OT crossrefs: 3
 - NT crossrefs: 1
@@ -1756,6 +1935,7 @@ Rows: 232
 
 ## Ruth 4:12
 - score: 17
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 1
@@ -1766,6 +1946,7 @@ Rows: 232
 
 ## Zephaniah 2:3
 - score: 17
+- latest review status: revised
 - top vote: 31
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1776,6 +1957,7 @@ Rows: 232
 
 ## Zephaniah 3:17
 - score: 17
+- latest review status: keep
 - top vote: 93
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1786,6 +1968,7 @@ Rows: 232
 
 ## Ecclesiastes 11:5
 - score: 16
+- latest review status: keep
 - top vote: 22
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1796,6 +1979,7 @@ Rows: 232
 
 ## Ecclesiastes 11:6
 - score: 16
+- latest review status: keep
 - top vote: 308
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -1806,6 +1990,7 @@ Rows: 232
 
 ## Ecclesiastes 11:9
 - score: 16
+- latest review status: keep
 - top vote: 45
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1816,6 +2001,7 @@ Rows: 232
 
 ## Ecclesiastes 2:26
 - score: 16
+- latest review status: revised
 - top vote: 43
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1826,6 +2012,7 @@ Rows: 232
 
 ## Ecclesiastes 7:20
 - score: 16
+- latest review status: keep
 - top vote: 28
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1836,6 +2023,7 @@ Rows: 232
 
 ## Habakkuk 1:4
 - score: 16
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1846,6 +2034,7 @@ Rows: 232
 
 ## Haggai 1:1
 - score: 16
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1855,6 +2044,7 @@ Rows: 232
 
 ## Haggai 1:12
 - score: 16
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1864,6 +2054,7 @@ Rows: 232
 
 ## Job 1:6
 - score: 16
+- latest review status: keep
 - top vote: 22
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -1874,6 +2065,7 @@ Rows: 232
 
 ## Job 1:8
 - score: 16
+- latest review status: revised
 - top vote: 12
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1883,6 +2075,7 @@ Rows: 232
 
 ## Jonah 1:9
 - score: 16
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1893,6 +2086,7 @@ Rows: 232
 
 ## Jonah 2:2
 - score: 16
+- latest review status: keep
 - top vote: 25
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1903,6 +2097,7 @@ Rows: 232
 
 ## Jonah 2:3
 - score: 16
+- latest review status: revised
 - top vote: 12
 - OT crossrefs: 3
 - NT crossrefs: 2
@@ -1913,6 +2108,7 @@ Rows: 232
 
 ## Jonah 2:8
 - score: 16
+- latest review status: keep
 - top vote: 13
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1923,6 +2119,7 @@ Rows: 232
 
 ## Lamentations 2:6
 - score: 16
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1932,6 +2129,7 @@ Rows: 232
 
 ## Lamentations 2:9
 - score: 16
+- latest review status: revised
 - top vote: 7
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -1941,6 +2139,7 @@ Rows: 232
 
 ## Lamentations 3:25
 - score: 16
+- latest review status: keep
 - top vote: 56
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -1951,6 +2150,7 @@ Rows: 232
 
 ## Lamentations 3:26
 - score: 16
+- latest review status: keep
 - top vote: 35
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -1961,6 +2161,7 @@ Rows: 232
 
 ## Nahum 1:14
 - score: 16
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1971,6 +2172,7 @@ Rows: 232
 
 ## Ruth 2:12
 - score: 16
+- latest review status: keep
 - top vote: 29
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1981,6 +2183,7 @@ Rows: 232
 
 ## Zephaniah 1:7
 - score: 16
+- latest review status: revised
 - top vote: 13
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -1991,6 +2194,7 @@ Rows: 232
 
 ## Zephaniah 1:8
 - score: 16
+- latest review status: revised
 - top vote: 6
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -2000,6 +2204,7 @@ Rows: 232
 
 ## Zephaniah 3:4
 - score: 16
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -2009,6 +2214,7 @@ Rows: 232
 
 ## Zephaniah 3:5
 - score: 16
+- latest review status: revised
 - top vote: 11
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2019,6 +2225,7 @@ Rows: 232
 
 ## Esther 1:13
 - score: 15
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -2029,6 +2236,7 @@ Rows: 232
 
 ## Esther 1:20
 - score: 15
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 2
 - NT crossrefs: 4
@@ -2039,6 +2247,7 @@ Rows: 232
 
 ## Esther 4:11
 - score: 15
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 6
 - NT crossrefs: 1
@@ -2049,6 +2258,7 @@ Rows: 232
 
 ## Esther 4:16
 - score: 15
+- latest review status: keep
 - top vote: 19
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2059,6 +2269,7 @@ Rows: 232
 
 ## Esther 4:8
 - score: 15
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2069,6 +2280,7 @@ Rows: 232
 
 ## Haggai 1:13
 - score: 15
+- latest review status: revised
 - top vote: 7
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -2079,6 +2291,7 @@ Rows: 232
 
 ## Haggai 2:4
 - score: 15
+- latest review status: keep
 - top vote: 14
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2089,6 +2302,7 @@ Rows: 232
 
 ## Lamentations 1:15
 - score: 15
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -2099,6 +2313,7 @@ Rows: 232
 
 ## Lamentations 2:1
 - score: 15
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -2109,6 +2324,7 @@ Rows: 232
 
 ## Nahum 1:2
 - score: 15
+- latest review status: revised
 - top vote: 9
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2119,6 +2335,7 @@ Rows: 232
 
 ## Nahum 1:7
 - score: 15
+- latest review status: keep
 - top vote: 75
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -2129,6 +2346,7 @@ Rows: 232
 
 ## Obadiah 1:17
 - score: 15
+- latest review status: keep
 - top vote: 15
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -2139,6 +2357,7 @@ Rows: 232
 
 ## Song of Solomon 1:7
 - score: 15
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 5
 - NT crossrefs: 3
@@ -2149,6 +2368,7 @@ Rows: 232
 
 ## Song of Solomon 5:6
 - score: 15
+- latest review status: revised
 - top vote: 5
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2159,6 +2379,7 @@ Rows: 232
 
 ## Song of Solomon 6:2
 - score: 15
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2169,6 +2390,7 @@ Rows: 232
 
 ## Nahum 1:9
 - score: 14
+- latest review status: keep
 - top vote: 22
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2179,6 +2401,7 @@ Rows: 232
 
 ## Nahum 3:5
 - score: 14
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 8
 - NT crossrefs: 0
@@ -2188,6 +2411,7 @@ Rows: 232
 
 ## Obadiah 1:1
 - score: 14
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2198,6 +2422,7 @@ Rows: 232
 
 ## Nahum 1:3
 - score: 13
+- latest review status: revised
 - top vote: 16
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2208,6 +2433,7 @@ Rows: 232
 
 ## Obadiah 1:15
 - score: 13
+- latest review status: keep
 - top vote: 11
 - OT crossrefs: 3
 - NT crossrefs: 5
@@ -2218,6 +2444,7 @@ Rows: 232
 
 ## Obadiah 1:16
 - score: 13
+- latest review status: keep
 - top vote: 5
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -2228,6 +2455,7 @@ Rows: 232
 
 ## Obadiah 1:7
 - score: 13
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 7
 - NT crossrefs: 1
@@ -2238,6 +2466,7 @@ Rows: 232
 
 ## Obadiah 1:8
 - score: 13
+- latest review status: keep
 - top vote: 7
 - OT crossrefs: 5
 - NT crossrefs: 1
@@ -2248,6 +2477,7 @@ Rows: 232
 
 ## Song of Solomon 1:3
 - score: 13
+- latest review status: keep
 - top vote: 9
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -2258,6 +2488,7 @@ Rows: 232
 
 ## Song of Solomon 1:4
 - score: 13
+- latest review status: keep
 - top vote: 8
 - OT crossrefs: 4
 - NT crossrefs: 4
@@ -2268,6 +2499,7 @@ Rows: 232
 
 ## Song of Solomon 1:8
 - score: 13
+- latest review status: keep
 - top vote: 6
 - OT crossrefs: 2
 - NT crossrefs: 6

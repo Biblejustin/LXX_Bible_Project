@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 RAW = DATA / "raw"
 OUTPUT = ROOT / "output"
+REVIEW_DIR = ROOT / "data" / "research"
 
 PRIORITY_CSV = OUTPUT / "fresh_vs_brenton_ot_priority_review.csv"
 OT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
@@ -25,6 +26,7 @@ REVIEW_CSV = OUTPUT / "fresh_ot_crossref_clues.csv"
 WATCH_MD = OUTPUT / "fresh_ot_crossref_watch.md"
 WATCH_CSV = OUTPUT / "fresh_ot_crossref_watch.csv"
 DIAGNOSTICS = OUTPUT / "fresh_ot_crossref_clues_diagnostics.json"
+RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
 
 
 OPENBIBLE_BOOK_MAP = {
@@ -94,6 +96,25 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
         writer = csv.DictWriter(handle, fieldnames=list(rows[0].keys()))
         writer.writeheader()
         writer.writerows(rows)
+
+
+def review_pass_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"ot_review_pass_(\d+)\.md$", path.name)
+    return (int(match.group(1)), path.name) if match else (0, path.name)
+
+
+def load_latest_review_statuses() -> dict[str, str]:
+    statuses: dict[str, str] = {}
+    for path in sorted(REVIEW_DIR.glob("ot_review_pass_*.md"), key=review_pass_sort_key):
+        ref = None
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if line.startswith("## "):
+                ref = line[3:].strip()
+            elif ref and line.startswith("- status:"):
+                match = re.search(r"`([^`]+)`", line)
+                statuses[ref] = match.group(1) if match else line.split(":", 1)[1].strip()
+    return statuses
 
 
 def normalize_space(text: str) -> str:
@@ -184,6 +205,7 @@ def build_rows() -> tuple[list[dict[str, str]], list[dict[str, str]], dict[str, 
     priority_rows = load_csv(PRIORITY_CSV)
     ot_by_ref, families_by_ref = build_ot_maps()
     crossrefs_by_ref = load_openbible_crossrefs()
+    latest_review_statuses = load_latest_review_statuses()
 
     needed_nt_refs: set[str] = set()
     pending_targets: dict[str, list[dict[str, str]]] = defaultdict(list)
@@ -240,6 +262,7 @@ def build_rows() -> tuple[list[dict[str, str]], list[dict[str, str]], dict[str, 
             "ref": ref,
             "priority_score": row["priority_score"],
             "importance": row["importance"],
+            "latest_review_status": latest_review_statuses.get(ref, ""),
             "crossref_top_vote": str(top_vote),
             "crossref_ot_count": str(len(ot_items)),
             "crossref_nt_count": str(len(nt_items)),
@@ -249,7 +272,10 @@ def build_rows() -> tuple[list[dict[str, str]], list[dict[str, str]], dict[str, 
             "fresh_translation": row["fresh_translation"],
         }
         review_rows.append(review_row)
-        if top_vote >= 20 or nt_items or shared_family_hits:
+        if (
+            (top_vote >= 20 or nt_items or shared_family_hits)
+            and latest_review_statuses.get(ref, "") not in RESOLVED_REVIEW_STATUSES
+        ):
             watch_rows.append(review_row)
 
     review_rows.sort(key=lambda row: (-int(row["priority_score"]), row["ref"]))
@@ -269,6 +295,7 @@ def build_markdown(title: str, rows: list[dict[str, str]]) -> str:
             [
                 f"## {row['ref']}",
                 f"- score: {row['priority_score']}",
+                f"- latest review status: {row.get('latest_review_status', '') or 'none'}",
                 f"- top vote: {row['crossref_top_vote']}",
                 f"- OT crossrefs: {row['crossref_ot_count']}",
                 f"- NT crossrefs: {row['crossref_nt_count']}",
