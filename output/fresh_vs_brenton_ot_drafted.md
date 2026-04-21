@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 19352
-- medium: 729
-- low: 2836
+- high: 19532
+- medium: 702
+- low: 2683
 - none: 0
 
 Note:
@@ -173419,693 +173419,693 @@ Note:
 
 ### Jeremiah 19:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and built high places to Baal to burn their sons in fire, which I did not command nor speak nor conceive in my heart.
 - brenton: [missing]
 
 ### Jeremiah 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and this place will no longer be called Falling Away and burial place of son of Hinnom, but burial place of slaughter.
 - brenton: [missing]
 
 ### Jeremiah 19:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will slaughter counsel of Judah and counsel of Jerusalem in this place, and I will cast them down by sword before their enemies and in hands of those seeking their souls, and I will give their dead bodies for food to birds of heaven and beasts of earth.
 - brenton: [missing]
 
 ### Jeremiah 19:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set this city into destruction and hissing. Everyone passing by upon it will look gloomy and hiss over every plague of it.
 - brenton: [missing]
 
 ### Jeremiah 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will eat flesh of their sons and flesh of their daughters, and each will eat flesh of his neighbor in siege and straitness with which their enemies will besiege them.
 - brenton: [missing]
 
 ### Jeremiah 19:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will crush the jar before eyes of men going out with you,
 - brenton: [missing]
 
 ### Jeremiah 19:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Thus says Lord: So I will crush this people and this city just as earthen vessel is crushed which cannot still be healed.
 - brenton: [missing]
 
 ### Jeremiah 19:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus I will do, says Lord, to this place and those dwelling in it, to make this city like the fallen place.
 - brenton: [missing]
 
 ### Jeremiah 19:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And houses of Jerusalem and houses of kings of Judah will be as place of falling away of uncleannesses, in all houses in which they burned incense on their roofs to all army of heaven and poured drink offerings to foreign gods.
 - brenton: [missing]
 
 ### Jeremiah 19:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah came from the place of falling away where Lord sent him there to prophesy, and he stood in court of house of Lord and said to all the people,
 - brenton: [missing]
 
 ### Jeremiah 19:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Behold, I bring on this city and on all her cities and on her villages all evils which I spoke against her, because they hardened their neck so as not to hear my words.
 - brenton: [missing]
 
 ### Jeremiah 20:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pashhur son of Immer the priest, and he was appointed ruler of house of Lord, heard Jeremiah prophesying these words.
 - brenton: [missing]
 
 ### Jeremiah 20:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he struck him and threw him into stocks, which were at gate of house appointed of upper place, which was in house of Lord.
 - brenton: [missing]
 
 ### Jeremiah 20:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pashhur brought Jeremiah out from the stocks, and Jeremiah said to him, Lord did not call your name Pashhur, but Exile.
 - brenton: [missing]
 
 ### Jeremiah 20:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Behold, I give you into exile with all your friends, and they will fall by sword of their enemies and your eyes will see, and I will give you and all Judah into hands of king of Babylon, and they will carry them away and cut them down with swords.
 - brenton: [missing]
 
 ### Jeremiah 20:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give all strength of this city and all its toils and all treasures of king of Judah into hands of his enemies, and they will carry them into Babylon.
 - brenton: [missing]
 
 ### Jeremiah 20:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you and all dwelling in your house will go into captivity, and in Babylon you will die, and there you will be buried, you and all your friends to whom you prophesied lies.
 - brenton: [missing]
 
 ### Jeremiah 20:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You deceived me, Lord, and I was deceived. You overpowered me and prevailed. I became for laughter all day. I was spent being mocked.
 - brenton: [missing]
 
 ### Jeremiah 20:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because with bitter word I will laugh. Lawlessness and misery I will call out, because word of Lord became to me for reproach and for mockery all my days.
 - brenton: [missing]
 
 ### Jeremiah 20:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, I will not name name of Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
 - brenton: [missing]
 
 ### Jeremiah 20:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I heard blame of many gathering around: Assemble, and let us assemble against him. All men his friends, watch his thought, if he will be deceived and we will prevail against him and take our vengeance from him.
 - brenton: [missing]
 
 ### Jeremiah 20:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord with me as mighty warrior. Because of this they persecuted me and could not prevail. They were greatly ashamed, because they did not understand. Their eternal dishonors will not be forgotten.
 - brenton: [missing]
 
 ### Jeremiah 20:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, testing righteous and understanding kidneys and heart, let me see from you vengeance on them, because to you I revealed my defense.
 - brenton: [missing]
 
 ### Jeremiah 20:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to Lord. Praise him, because he rescued soul of poor man from hand of evildoers.
 - brenton: [missing]
 
 ### Jeremiah 20:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cursed day in which I was born. Let not day in which my mother bore me be blessed.
 - brenton: [missing]
 
 ### Jeremiah 20:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cursed man who brought good news to my father, saying, A male was born to you, rejoicing with joy.
 - brenton: [missing]
 
 ### Jeremiah 20:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let that man be like cities which Lord overthrew in anger and did not relent. Let him hear cry in morning and battle-shout at midday,
 - brenton: [missing]
 
 ### Jeremiah 20:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because he did not kill me in womb of mother, and my mother became my tomb and womb of eternal conception.
 - brenton: [missing]
 
 ### Jeremiah 20:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why was this? I came out from womb to see toils and pains, and my days passed in shame.
 - brenton: [missing]
 
 ### Jeremiah 21:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word coming from Lord to Jeremiah when king Zedekiah sent to him Pashhur son of Melchiah and Zephaniah son of Maaseiah the priest, saying,
 - brenton: [missing]
 
 ### Jeremiah 21:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Ask Lord concerning us, because king of Babylon has risen against us, if Lord will act according to all his wonders and go away from us.
 - brenton: [missing]
 
 ### Jeremiah 21:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to them, Thus you will say to Zedekiah king of Judah,
 - brenton: [missing]
 
 ### Jeremiah 21:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into midst of this city.
 - brenton: [missing]
 
 ### Jeremiah 21:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I myself will fight you with outstretched hand and strong arm, with wrath and anger and great provocation.
 - brenton: [missing]
 
 ### Jeremiah 21:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will strike all dwelling in this city, men and cattle, with great death, and they will die.
 - brenton: [missing]
 
 ### Jeremiah 21:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after these things, thus says Lord, I will give Zedekiah king of Judah and his servants and people left in this city from death and from famine and from sword into hands of their enemies seeking their lives, and they will cut them down with edge of sword. I will not spare them and I will not pity them.
 - brenton: [missing]
 
 ### Jeremiah 21:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to this people you will say, Thus says Lord: Behold, I have given before your face way of life and way of death.
 - brenton: [missing]
 
 ### Jeremiah 21:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One dwelling in this city will die by sword and by famine, but one going out to join the Chaldeans besieging you will live, and his soul will be for spoil and he will live.
 - brenton: [missing]
 
 ### Jeremiah 21:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I have set my face against this city for evils and not for good. It will be handed over into hands of king of Babylon, and he will burn it with fire.
 - brenton: [missing]
 
 ### Jeremiah 21:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of king of Judah, hear word of Lord.
 - brenton: [missing]
 
 ### Jeremiah 21:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: House of David, thus says Lord: Judge judgment in morning, and set right, and rescue plundered one from hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
 - brenton: [missing]
 
 ### Jeremiah 21:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against you, one dwelling in valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
 - brenton: [missing]
 
 ### Jeremiah 21:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will kindle fire in her forest, and it will devour all around her.
 - brenton: [missing]
 
 ### Jeremiah 22:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Go and go down into house of king of Judah, and there you will speak this word,
 - brenton: [missing]
 
 ### Jeremiah 22:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Hear word of Lord, king of Judah seated on throne of David, you and your house and your people and those entering by these gates.
 - brenton: [missing]
 
 ### Jeremiah 22:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Do judgment and righteousness, and rescue plundered one from hand of one wronging him, and do not oppress foreigner and orphan and widow, and do not act impiously, and do not pour out innocent blood in this place.
 - brenton: [missing]
 
 ### Jeremiah 22:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if in doing you do this word, kings seated on throne of David will enter through gates of this house and mounted on chariots and horses, they and their servants and their people.
 - brenton: [missing]
 
 ### Jeremiah 22:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you will not do these words, by myself I swore, says Lord, that this house will become for desolation.
 - brenton: [missing]
 
 ### Jeremiah 22:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord against house of king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into wilderness, cities not to be inhabited.
 - brenton: [missing]
 
 ### Jeremiah 22:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring against you man destroying, and his axe, and they will cut down your choice cedars and throw them into fire.
 - brenton: [missing]
 
 ### Jeremiah 22:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And nations will pass through this city, and each will say to his neighbor, Why did Lord do thus to this great city?
 - brenton: [missing]
 
 ### Jeremiah 22:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will say, Because they abandoned covenant of Lord their God and bowed to foreign gods and served them.
 - brenton: [missing]
 
 ### Jeremiah 22:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not weep dead one and do not lament him. Weep with weeping for one going out, because he will not return again and will not see land of his homeland.
 - brenton: [missing]
 
 ### Jeremiah 22:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord concerning Shallum son of Josiah, reigning instead of Josiah his father, who went out from this place: He will not return there any longer.
 - brenton: [missing]
 
 ### Jeremiah 22:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But in place where I carried him away, there he will die, and this land he will not see again.
 - brenton: [missing]
 
 ### Jeremiah 22:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe one building his house not with righteousness and his upper rooms not in judgment, with his neighbor working for nothing, and he will never pay him his wages.
 - brenton: [missing]
 
 ### Jeremiah 22:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You built for yourself well-proportioned house, airy upper rooms opened with windows and paneled with cedar and painted with red pigment.
 - brenton: [missing]
 
 ### Jeremiah 22:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you reign because you are inflamed against Ahaz your father? They will not eat and will not drink. Better it was for you to do judgment and good righteousness.
 - brenton: [missing]
 
 ### Jeremiah 22:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not know, they did not judge case of lowly nor case of poor. Is not this the same as not knowing me? says Lord.
 - brenton: [missing]
 
 ### Jeremiah 22:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, your eyes and your heart are not good, but only for your greed and for pouring out innocent blood and for doing injustice and murder.
 - brenton: [missing]
 
 ### Jeremiah 22:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord concerning Jehoiakim son of Josiah king of Judah: Woe for this man. They will not lament him, saying, Ah brother, and they will not weep him, saying, Alas Lord.
 - brenton: [missing]
 
 ### Jeremiah 22:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With burial of donkey he will be buried, dragged away and thrown beyond gate of Jerusalem.
 - brenton: [missing]
 
 ### Jeremiah 22:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go up to Lebanon and cry out, and in Bashan give your voice, and cry from across sea, because all your lovers were shattered.
 - brenton: [missing]
 
 ### Jeremiah 22:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I spoke to you in your falling away, and you said, I will not hear. This was your way from your youth: you did not hear my voice.
 - brenton: [missing]
 
 ### Jeremiah 22:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wind will shepherd all your shepherds, and your lovers will go out into captivity, because then you will be ashamed and dishonored from all loving you.
 - brenton: [missing]
 
 ### Jeremiah 22:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You dwelling in Lebanon, nesting in cedars, you will groan when birth-pains come on you, like woman giving birth.
 - brenton: [missing]
 
 ### Jeremiah 22:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord, if Jeconiah son of Jehoiakim king of Judah becomes signet on my right hand, even from there I will pull you away.
 - brenton: [missing]
 
 ### Jeremiah 22:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will hand you over into hands of those seeking your life, whom you fear before their face, into hands of Chaldeans.
 - brenton: [missing]
 
 ### Jeremiah 22:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will throw you and your mother who bore you into land where you were not born, and there you will die.
 - brenton: [missing]
 
 ### Jeremiah 22:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But to land which they long for with their souls, they will never return.
 - brenton: [missing]
 
 ### Jeremiah 22:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jeconiah was dishonored like vessel of no use, because he was thrown out and cast into land which he did not know.
 - brenton: [missing]
 
 ### Jeremiah 22:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Land, land, hear word of Lord.
 - brenton: [missing]
 
 ### Jeremiah 22:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Write this man as rejected, because no man from his seed will grow, sitting on throne of David and ruling any longer in Judah.
 - brenton: [missing]
 
 ### Jeremiah 23:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, shepherds scattering and destroying sheep of my pasture.
 - brenton: [missing]
 
 ### Jeremiah 23:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord against ones shepherding my people: You scattered my sheep and drove them out and did not visit them. Behold, I punish you according to your evil practices.
 - brenton: [missing]
 
 ### Jeremiah 23:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will gather remnant of my people from every land where I drove them there and restore them to their pasture, and they will increase and multiply.
 - brenton: [missing]
 
 ### Jeremiah 23:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will raise up for them shepherds who will shepherd them, and they will not fear any longer and will not be terrified, says Lord.
 - brenton: [missing]
@@ -174121,927 +174121,927 @@ Note:
 
 ### Jeremiah 23:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In his days Judah will be saved and Israel will camp in confidence, and this is his name which Lord will call him: Josedek.
 - brenton: [missing]
 
 ### Jeremiah 23:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and they will no longer say, Lord lives, who brought up house of Israel from land of Egypt,
 - brenton: [missing]
 
 ### Jeremiah 23:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but, Lord lives, who gathered all seed of Israel from land of north and from all lands where he drove them there and restored them to their land.
 - brenton: [missing]
 
 ### Jeremiah 23:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In prophets my heart was crushed within me. All my bones were shaken. I became like broken man and like man overcome by wine, before face of Lord and before face of glory of his splendor.
 - brenton: [missing]
 
 ### Jeremiah 23:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from these things land mourned. Pastures of wilderness dried up, and their way became evil, and their strength not so.
 - brenton: [missing]
 
 ### Jeremiah 23:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because priest and prophet were polluted, and in my house I saw their evils.
 - brenton: [missing]
 
 ### Jeremiah 23:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore let their way become for them slipping-place in gloom, and they will stumble and fall in it, because I will bring evils on them in year of their visitation, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 23:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in prophets of Samaria I saw lawless things. They prophesied by Baal and led my people Israel astray.
 - brenton: [missing]
 
 ### Jeremiah 23:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening hands of evildoers, so that each not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
 - brenton: [missing]
 
 ### Jeremiah 23:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I feed them pain and give them bitter water to drink, because from prophets of Jerusalem pollution went out into all land.
 - brenton: [missing]
 
 ### Jeremiah 23:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Almighty: Do not hear words of prophets. They make vain things for themselves. They speak vision from their own heart and not from mouth of Lord.
 - brenton: [missing]
 
 ### Jeremiah 23:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They say to ones rejecting word of Lord, Peace will be to you, and to all walking after their own desires, to everyone walking in wandering of his heart, they said, Evils will not come on you.
 - brenton: [missing]
 
 ### Jeremiah 23:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because who stood in Lord's standing-place and saw his word? Who gave ear and heard?
 - brenton: [missing]
 
 ### Jeremiah 23:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, shaking from Lord, and wrath goes out into turmoil twisting itself. It will come upon ungodly.
 - brenton: [missing]
 
 ### Jeremiah 23:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And anger of Lord will not turn back until he does it and until he raises it up from undertaking of his heart. At last of days they will understand these things.
 - brenton: [missing]
 
 ### Jeremiah 23:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I did not send prophets, and they ran. I did not speak to them, and they prophesied.
 - brenton: [missing]
 
 ### Jeremiah 23:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they had stood in my standing-place and heard my words, they would have turned my people away from their evil practices.
 - brenton: [missing]
 
 ### Jeremiah 23:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Am I God near at hand, says Lord, and not God from far away?
 - brenton: [missing]
 
 ### Jeremiah 23:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If man hides himself in hidden places, will I not see him? Do I not fill heaven and earth? says Lord.
 - brenton: [missing]
 
 ### Jeremiah 23:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I heard what prophets say, those prophesying lies in my name, saying, I dreamed dream.
 - brenton: [missing]
 
 ### Jeremiah 23:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long will this be in heart of prophets prophesying lies and prophesying desires of their own heart?
 - brenton: [missing]
 
 ### Jeremiah 23:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They plan to make my law forgotten in their dreams which each recounts to his neighbor, just as their fathers forgot my name in Baal.
 - brenton: [missing]
 
 ### Jeremiah 23:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prophet in whom dream is, let him recount his dream, and one with whom my word is, let him recount my word in truth. What has straw toward wheat? So are my words, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 23:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Are not my words like flaming fire, says Lord, and like hammer breaking rock?
 - brenton: [missing]
 
 ### Jeremiah 23:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, I am against prophets, says Lord God, those stealing my words, each from his neighbor.
 - brenton: [missing]
 
 ### Jeremiah 23:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against prophets throwing out prophecies of tongue and dozing their own drowsiness.
 - brenton: [missing]
 
 ### Jeremiah 23:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I am against prophets prophesying lying dreams, and they recounted them and led my people astray in their lies and in their wanderings. And I did not send them and did not command them, and they will not benefit this people with benefit.
 - brenton: [missing]
 
 ### Jeremiah 23:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if this people or priest or prophet asks you, saying, What burden of Lord? then you will say to them, You are burden, and I will dash you down, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 23:34
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And prophet and priest and people, whoever says, Burden of Lord, I will punish that man and his house.
 - brenton: [missing]
 
 ### Jeremiah 23:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus each will say to his neighbor and each to his brother, What did Lord answer, and what did Lord speak?
 - brenton: [missing]
 
 ### Jeremiah 23:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And burden of Lord do not name any longer, because burden will be each man's own word.
 - brenton: [missing]
 
 ### Jeremiah 23:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And why did Lord our God speak?
 - brenton: [missing]
 
 ### Jeremiah 23:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord God: Because you said this word, Burden of Lord, though I sent to you saying, You shall not say, Burden of Lord,
 - brenton: [missing]
 
 ### Jeremiah 23:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore behold, I will take and dash you and city which I gave to you and to your fathers.
 - brenton: [missing]
 
 ### Jeremiah 23:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give on you eternal reproach and eternal dishonor which will not be forgotten.
 - brenton: [missing]
 
 ### Jeremiah 24:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord showed me two baskets of figs set before face of temple of Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and rulers and craftsmen and prisoners and rich men from Jerusalem and brought them into Babylon.
 - brenton: [missing]
 
 ### Jeremiah 24:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One basket held very good figs, like first-ripe figs, and other basket held very bad figs, which will not be eaten because of their badness.
 - brenton: [missing]
 
 ### Jeremiah 24:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, What do you see, Jeremiah? And I said, Figs, very good ones very good, and very bad ones very bad, which will not be eaten because of their badness.
 - brenton: [missing]
 
 ### Jeremiah 24:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Jeremiah 24:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God of Israel: As these good figs, so I will recognize exiles of Judah whom I sent away from this place into land of Chaldeans for good.
 - brenton: [missing]
 
 ### Jeremiah 24:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my eyes on them for good and restore them into this land for good, and I will rebuild them and not tear down, and I will plant them and not pull up.
 - brenton: [missing]
 
 ### Jeremiah 24:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give them heart to know me, that I am Lord, and they will be to me for people and I will be to them for God, because they will turn back to me with all their heart.
 - brenton: [missing]
 
 ### Jeremiah 24:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And like bad figs, which will not be eaten because of their badness, thus says Lord, so I will hand over Zedekiah king of Judah and his nobles and remnant of Jerusalem left in this land and those dwelling in Egypt.
 - brenton: [missing]
 
 ### Jeremiah 24:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give them for dispersion into all kingdoms of earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
 - brenton: [missing]
 
 ### Jeremiah 24:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will send on them famine and death and sword until they fail from land which I gave them.
 - brenton: [missing]
 
 ### Jeremiah 25:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word coming to Jeremiah concerning all people of Judah in fourth year of Jehoiakim son of Josiah king of Judah,
 - brenton: [missing]
 
 ### Jeremiah 25:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: which he spoke to all people of Judah and to ones dwelling in Jerusalem, saying,
 - brenton: [missing]
 
 ### Jeremiah 25:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In thirteenth year of Josiah son of Amos king of Judah and until this day, twenty-three years, I spoke to you, rising early and speaking.
 - brenton: [missing]
 
 ### Jeremiah 25:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I sent to you my servants the prophets, rising early and sending, and you did not listen and did not pay attention with your ears,
 - brenton: [missing]
 
 ### Jeremiah 25:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, Let each turn back from his evil way and from your evil practices, and you will dwell upon land which I gave to you and to your fathers from age to age.
 - brenton: [missing]
 
 ### Jeremiah 25:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not go after foreign gods, to serve them and bow to them, so that you not provoke me by works of your hands, to harm you.
 - brenton: [missing]
 
 ### Jeremiah 25:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you did not hear me.
 - brenton: [missing]
 
 ### Jeremiah 25:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Because you did not believe my words,
 - brenton: [missing]
 
 ### Jeremiah 25:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: behold, I send and will take family from north and bring them upon this land and upon those dwelling in it and upon all nations around it, and I will make them desolate and give them for disappearance and for hissing and for eternal reproach.
 - brenton: [missing]
 
 ### Jeremiah 25:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy from them voice of joy and voice of gladness, voice of bridegroom and voice of bride, smell of perfume and light of lamp.
 - brenton: [missing]
 
 ### Jeremiah 25:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all land will be for disappearance, and they will serve among nations seventy years.
 - brenton: [missing]
 
 ### Jeremiah 25:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when seventy years are fulfilled, I will punish that nation, says Lord, and I will set them for eternal disappearance.
 - brenton: [missing]
 
 ### Jeremiah 25:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring upon that land all my words which I spoke against it, all things written in this book.
 - brenton: [missing]
 
 ### Jeremiah 25:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What Jeremiah prophesied against nations, against Elam.
 - brenton: [missing]
 
 ### Jeremiah 25:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Let bow of Elam be shattered, beginning of their power.
 - brenton: [missing]
 
 ### Jeremiah 25:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring upon Elam four winds from four ends of heaven and will scatter them in all these winds, and there will not be nation where outcasts of Elam will not come.
 - brenton: [missing]
 
 ### Jeremiah 25:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will terrify them before their enemies seeking their lives, and I will bring on them evils according to anger of my wrath, and I will send my sword after them until I consume them.
 - brenton: [missing]
 
 ### Jeremiah 25:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my throne in Elam and send away from there king and nobles.
 - brenton: [missing]
 
 ### Jeremiah 25:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be at last of days, I will turn captivity of Elam, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 25:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At beginning of Zedekiah king reigning, this word came concerning Elam.
 - brenton: [missing]
 
 ### Jeremiah 26:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in fourth year of Jehoiakim king of Judah.
 - brenton: [missing]
 
 ### Jeremiah 26:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take up weapons and shields and come near for war.
 - brenton: [missing]
 
 ### Jeremiah 26:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Harness horses, mount up, riders, and stand in your helmets. Advance spears and put on your breastplates.
 - brenton: [missing]
 
 ### Jeremiah 26:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why? Because they are terrified and withdraw backward, because their mighty ones are cut down. In flight they fled and did not turn back, hemmed in all around, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 26:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let not swift one flee, and let not mighty one be saved. In north, by Euphrates, they weakened and fell.
 - brenton: [missing]
 
 ### Jeremiah 26:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is this who will rise like river, and whose waters surge like rivers?
 - brenton: [missing]
 
 ### Jeremiah 26:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Waters of Egypt will rise like river, and he said, I will go up and cover earth and destroy those dwelling in it.
 - brenton: [missing]
 
 ### Jeremiah 26:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Mount the horses. Prepare chariots. Go out, warriors, Ethiopians and Libyans armed with weapons, and Lydians, go up, bend bow.
 - brenton: [missing]
 
 ### Jeremiah 26:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And that day belongs to Lord our God, day of vengeance to avenge his enemies, and sword of Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to Lord Sabaoth from land of north by river Euphrates.
 - brenton: [missing]
 
 ### Jeremiah 26:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go up to Gilead and take resin, virgin daughter of Egypt. In vain you multiplied your healings. No benefit is for you.
 - brenton: [missing]
 
 ### Jeremiah 26:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations heard your voice, and earth was filled with your cry, because warrior weakened against warrior. Together both fell.
 - brenton: [missing]
 
 ### Jeremiah 26:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What Lord spoke by hand of Jeremiah, for Nebuchadnezzar king of Babylon to come to strike land of Egypt.
 - brenton: [missing]
 
 ### Jeremiah 26:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Announce in Migdol and proclaim in Memphis. Say, Stand ready and prepare, because sword devoured your smilax.
 - brenton: [missing]
 
 ### Jeremiah 26:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did Apis, your chosen calf, flee? He did not stand, because Lord weakened him.
 - brenton: [missing]
 
 ### Jeremiah 26:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from face of Greek sword.
 - brenton: [missing]
 
 ### Jeremiah 26:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Call name of Pharaoh Neco king of Egypt: Saon-esbi-emoed.
 - brenton: [missing]
 
 ### Jeremiah 26:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I live, says Lord God, as Tabor among mountains and as Carmel in sea, so he will come.
 - brenton: [missing]
 
 ### Jeremiah 26:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Make for yourself gear of exile, dwelling daughter of Egypt, because Memphis will become for disappearance and will be called Woe, because none dwell in her.
 - brenton: [missing]
 
 ### Jeremiah 26:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Egypt, beautified heifer. From north cutting-off came upon her.
 - brenton: [missing]
 
 ### Jeremiah 26:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her hired men in her are like fattened calves raised in her, because they too turned back and fled together. They did not stand, because day of their destruction came upon them and time of their vengeance.
 - brenton: [missing]
 
 ### Jeremiah 26:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her voice will hiss like serpent's, because they will go in sand, and with axes they will come upon her like woodcutters.
 - brenton: [missing]
 
 ### Jeremiah 26:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will cut down her forest, says Lord God, because it will never be searched out. They multiplied beyond locusts, and there is no number for them.
 - brenton: [missing]
 
 ### Jeremiah 26:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughter of Egypt was put to shame. She was handed into hands of people from north.
 - brenton: [missing]
 
 ### Jeremiah 26:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I punish Amon her son, upon Pharaoh and upon ones trusting in him.
 - brenton: [missing]
 
 ### Jeremiah 26:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But do not fear, my servant Jacob, and do not be terrified, Israel, because behold, I save you from far away, and your seed from land of their captivity, and Jacob will return and be quiet and sleep, and there will not be one harassing him.
 - brenton: [missing]
 
 ### Jeremiah 26:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear, my child Jacob, says Lord, because I am with you. Because I will make end in every nation where I drove you there, but you I will not make fail, and I will discipline you in judgment, and by acquitting I will not acquit you.
 - brenton: [missing]
 
 ### Jeremiah 27:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of Lord which he spoke concerning Babylon.
 - brenton: [missing]
 
 ### Jeremiah 27:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Announce among nations and make heard, and do not hide. Say, Babylon was taken. Bel was put to shame. Merodach was handed over, fearless one and delicate one.
 - brenton: [missing]
 
 ### Jeremiah 27:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because nation came up upon her from north. This one will make her land for disappearance, and there will be none dwelling in her, from man even to cattle.
 - brenton: [missing]
 
 ### Jeremiah 27:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In those days and in that time, sons of Israel will come, they and sons of Judah together. Walking and weeping, they will go seeking Lord their God.
 - brenton: [missing]
 
 ### Jeremiah 27:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will ask way to Zion, because there they will set their faces, and they will come and flee for refuge to Lord their God, because everlasting covenant will not be forgotten.
 - brenton: [missing]
 
 ### Jeremiah 27:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My people became lost sheep. Their shepherds drove them away upon mountains. They led them astray from mountain onto hill. They went away and forgot their resting-place.
 - brenton: [missing]
 
 ### Jeremiah 27:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All finding them consumed them, and their enemies said, Let us not leave them guiltless, because they sinned against Lord, pasture of righteousness, the one gathering their fathers.
 - brenton: [missing]
 
 ### Jeremiah 27:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Become estranged from midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
 - brenton: [missing]
 
 ### Jeremiah 27:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I raise up against Babylon gatherings of nations from land of north, and they will array against her. From there she will be taken, like arrow of wise warrior that will not return empty.
 - brenton: [missing]
 
 ### Jeremiah 27:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Chaldea will become for plunder. All plundering her will be filled.
 - brenton: [missing]
 
 ### Jeremiah 27:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you rejoiced and boasted while plundering my inheritance, because you leaped like little cattle in grass and gored like bulls.
 - brenton: [missing]
 
 ### Jeremiah 27:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your mother was greatly ashamed, mother of your good things, last of nations, wilderness.
 - brenton: [missing]
