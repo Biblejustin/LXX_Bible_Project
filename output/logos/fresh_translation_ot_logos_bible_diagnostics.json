@@ -1,5 +1,5 @@
 {
-  "datatype": "BibleLXX2",
+  "datatype": "Bible",
   "verse_rows": 22896,
   "book_count": 39,
   "book_counts": {
@@ -104,7 +104,7 @@
   },
   "validations": [
     {
-      "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_lxx.docx",
+      "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible.docx",
       "zip_ok": true,
       "xml_ok": true,
       "entries": [
@@ -143,7 +143,7 @@
     }
   ],
   "outputs": {
-    "logos_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_lxx.docx",
+    "logos_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible.docx",
     "proof_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
     "diagnostics": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_diagnostics.json",
     "readme": "/Users/justinscaggs/Documents/Codex_bible/output/logos/README.md",

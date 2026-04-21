@@ -27,7 +27,7 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - `output/fresh_human_review_phase1.md`
 - `output/fresh_human_review_core.md`
 - `output/release_hardening_report.md`
-- `output/logos/fresh_translation_ot_logos_bible_lxx.docx`
+- `output/logos/fresh_translation_ot_logos_bible.docx`
 - `output/logos/fresh_translation_ot_proofreading.docx`
 - `output/logos/fresh_translation_ot_logos_bible_diagnostics.json`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`

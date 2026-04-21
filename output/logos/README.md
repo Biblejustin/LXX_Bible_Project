@@ -2,7 +2,7 @@
 
 Generated files:
 
-- `fresh_translation_ot_logos_bible_lxx.docx`: Logos Personal Book source. Compile as resource type `Bible`.
+- `fresh_translation_ot_logos_bible.docx`: Logos Personal Book source. Compile as resource type `Bible`.
 - `fresh_translation_ot_proofreading.docx`: clean proofreading/printing copy without Logos milestone or field syntax.
 - `fresh_translation_ot_logos_bible_diagnostics.json`: build counts and cross-reference/note diagnostics.
 - `fresh_translation_ot_logos_bible_preview.md`: quick preview sample for spot-checking.
@@ -13,9 +13,9 @@ Logos import:
 2. Go to `Tools > Personal Books`.
 3. Click `Add book`.
 4. Set `Type` to `Bible`.
-5. Add `fresh_translation_ot_logos_bible_lxx.docx` as the body file.
+5. Add `fresh_translation_ot_logos_bible.docx` as the body file.
 6. Build the book.
-7. If Logos exposes advanced datatype/index settings, keep the source milestones on `BibleLXX2` / `Bible (LXX-S)`.
+7. If Logos exposes advanced datatype/index settings, keep the source milestones on `Bible`.
 
 Scope:
 

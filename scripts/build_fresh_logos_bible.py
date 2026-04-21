@@ -42,7 +42,7 @@ OUTPUT = ROOT / "output" / "logos"
 
 DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
-DEFAULT_LOGOS_DOCX = OUTPUT / "fresh_translation_ot_logos_bible_lxx.docx"
+DEFAULT_LOGOS_DOCX = OUTPUT / "fresh_translation_ot_logos_bible.docx"
 DEFAULT_PROOF_DOCX = OUTPUT / "fresh_translation_ot_proofreading.docx"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_ot_logos_bible_diagnostics.json"
 DEFAULT_README = OUTPUT / "README.md"
@@ -554,7 +554,7 @@ def build_verse_runs(
 ) -> list[str]:
     runs: list[str] = []
     if logos:
-        runs.append(run(f"[[@{datatype}:{verse.logos_ref}]] ", small=True, color="777777"))
+        runs.append(run(f"[[@{datatype} :{verse.logos_ref}]] ", small=True, color="777777"))
     runs.append(run(f"{verse.verse} ", bold=True))
     if refs:
         note_id = doc.add_footnote("Cross-references: " + "; ".join(refs) + ".")
@@ -664,7 +664,7 @@ Logos import:
 4. Set `Type` to `Bible`.
 5. Add `{logos_docx.name}` as the body file.
 6. Build the book.
-7. If Logos exposes advanced datatype/index settings, keep the source milestones on `{datatype}` / `Bible (LXX-S)`.
+7. If Logos exposes advanced datatype/index settings, keep the source milestones on `{datatype}`.
 
 Scope:
 
@@ -747,7 +747,7 @@ def main() -> None:
     parser.add_argument("--diagnostics", type=Path, default=DEFAULT_DIAGNOSTICS)
     parser.add_argument("--readme", type=Path, default=DEFAULT_README)
     parser.add_argument("--preview", type=Path, default=DEFAULT_PREVIEW)
-    parser.add_argument("--datatype", default="BibleLXX2")
+    parser.add_argument("--datatype", default="Bible")
     args = parser.parse_args()
 
     verses = load_verses(args.source)
