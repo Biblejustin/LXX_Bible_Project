@@ -36,6 +36,7 @@ def main() -> None:
     run_script("build_logos_local_review.py")
     run_script("build_english_witness_review.py")
     run_script("build_proper_name_watch.py")
+    run_script("build_release_hardening_report.py")
 
     print(
         json.dumps(
@@ -87,6 +88,9 @@ def main() -> None:
                 "human_review_nt_watch": str(ROOT / "output" / "fresh_human_review_nt_watch.md"),
                 "proper_name_watch": str(ROOT / "output" / "fresh_ot_proper_name_watch.md"),
                 "proper_name_watch_csv": str(ROOT / "output" / "fresh_ot_proper_name_watch.csv"),
+                "release_hardening_report": str(ROOT / "output" / "release_hardening_report.md"),
+                "release_hardening_report_json": str(ROOT / "output" / "release_hardening_report.json"),
+                "release_hardening_samples": str(ROOT / "output" / "release_hardening_samples.csv"),
             },
             indent=2,
         )
