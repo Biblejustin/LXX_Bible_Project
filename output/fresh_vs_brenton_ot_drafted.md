@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 18992
-- medium: 817
-- low: 3108
+- high: 19172
+- medium: 769
+- low: 2976
 - none: 0
 
 Note:
@@ -170143,837 +170143,837 @@ Note:
 
 ### Jeremiah 4:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says Lord, heart of king will perish and heart of rulers, and priests will be amazed and prophets will wonder.
 - brenton: [missing]
 
 ### Jeremiah 4:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
 - brenton: [missing]
 
 ### Jeremiah 4:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time they will say to this people and to Jerusalem: Spirit of wandering in wilderness, way of daughter of my people, not for cleansing nor for holy thing.
 - brenton: [missing]
 
 ### Jeremiah 4:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Spirit of fullness will come to me. Now I myself speak judgments to them.
 - brenton: [missing]
 
 ### Jeremiah 4:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, like cloud he will come up, and his chariots like storm, his horses lighter than eagles. Woe to us, because we are made miserable.
 - brenton: [missing]
 
 ### Jeremiah 4:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wash your heart from wickedness, Jerusalem, so that you may be saved. How long will thoughts of your labors remain in you?
 - brenton: [missing]
 
 ### Jeremiah 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because voice of one declaring will come from Dan, and pain will be heard from mountain of Ephraim.
 - brenton: [missing]
 
 ### Jeremiah 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remind nations. See, they have come. Declare in Jerusalem: Crowds come from far land, and they gave their voice against cities of Judah.
 - brenton: [missing]
 
 ### Jeremiah 4:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Like keepers of field they became against her all around, because you neglected me, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your ways and your practices made these things for you. This your evil, because bitter, because it touched to your heart.
 - brenton: [missing]
 
 ### Jeremiah 4:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My belly, my belly, I am in pain, and feelings of my heart rage. My soul writhes. My heart torn. I will not be silent, because my soul heard voice of trumpet, cry of war.
 - brenton: [missing]
 
 ### Jeremiah 4:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Affliction calls crushing, because whole land has been afflicted. Suddenly my tent was afflicted, my skins torn apart.
 - brenton: [missing]
 
 ### Jeremiah 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How long will I see fugitives, hearing sound of trumpets?
 - brenton: [missing]
 
 ### Jeremiah 4:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because leaders of my people did not know me. They are foolish sons and not understanding, wise to do evil, but to do good they did not know.
 - brenton: [missing]
 
 ### Jeremiah 4:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I looked upon earth, and behold, nothing, and to heaven, and its lights were not.
 - brenton: [missing]
 
 ### Jeremiah 4:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw mountains, and they were trembling, and all hills shaken.
 - brenton: [missing]
 
 ### Jeremiah 4:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I looked, and behold, there was no man, and all birds of heaven were terrified.
 - brenton: [missing]
 
 ### Jeremiah 4:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From face of Lord and from face of anger of his wrath they vanished.
 - brenton: [missing]
 
 ### Jeremiah 4:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Whole land will be desolation, yet full end I will not make.
 - brenton: [missing]
 
 ### Jeremiah 4:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For these things let earth mourn and heaven above be dark, because I spoke and will not change my mind, I rushed in and will not turn back from it.
 - brenton: [missing]
 
 ### Jeremiah 4:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From sound of horseman and bent bow every region withdrew. They entered caves and hid in groves and climbed rocks. Every city abandoned; man does not dwell in them.
 - brenton: [missing]
 
 ### Jeremiah 4:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, what will you do if you dress in scarlet and adorn yourself with gold ornaments and paint your eyes with antimony? In vain your beautifying. Lovers rejected you; they seek your soul.
 - brenton: [missing]
 
 ### Jeremiah 4:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because voice as of woman in labor I heard, your groaning as of one giving birth first time. Voice of daughter of Zion will grow weak and let down her hands: Woe to me, because my soul fails because of slain ones.
 - brenton: [missing]
 
 ### Jeremiah 5:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Run about in streets of Jerusalem and see and know and seek in her broad places whether you find man doing judgment and seeking faithfulness, and I will be gracious to them, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They say, As Lord lives, yet because of this they swear by lies.
 - brenton: [missing]
 
 ### Jeremiah 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, are not your eyes for faithfulness? You struck them and they did not hurt. You finished them and they did not want to receive discipline. They made their faces harder than rock and did not want to turn back.
 - brenton: [missing]
 
 ### Jeremiah 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Perhaps they are poor, because they were not able, because they did not know way of Lord and judgment of God.
 - brenton: [missing]
 
 ### Jeremiah 5:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will go to great men and speak with them, because they knew way of Lord and judgment of God. And behold, together they broke yoke and tore bonds.
 - brenton: [missing]
 
 ### Jeremiah 5:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore lion from forest struck them, and wolf up to houses destroyed them, and leopard kept watch over their cities. All going out from them will be hunted, because they multiplied their ungodliness and grew strong in their turnings away.
 - brenton: [missing]
 
 ### Jeremiah 5:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For which of these shall I be gracious to you? Your sons abandoned me and swore by those that are not gods. And I fed them, and they committed adultery, and in houses of prostitutes they lodged.
 - brenton: [missing]
 
 ### Jeremiah 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They became lustful horses, each neighing after wife of his neighbor.
 - brenton: [missing]
 
 ### Jeremiah 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shall I not visit for these things? says Lord. Shall not my soul avenge on such nation?
 - brenton: [missing]
 
 ### Jeremiah 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go up on her battlements and tear down, but make no full end. Leave her supports, because they are Lord's.
 - brenton: [missing]
 
 ### Jeremiah 5:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because in faithlessness house of Israel and house of Judah acted faithlessly toward me, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 5:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They lied to their Lord and said, He is not, and evils will not come upon us, and sword and famine we will not see.
 - brenton: [missing]
 
 ### Jeremiah 5:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Our prophets were wind, and word of Lord was not in them. So it will be to them.
 - brenton: [missing]
 
 ### Jeremiah 5:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord Almighty: Because you spoke this word, behold, I have made my words in your mouth fire and this people wood, and it will devour them.
 - brenton: [missing]
 
 ### Jeremiah 5:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I bring on you nation from far away, house of Israel, says Lord, nation whose language voice you will not hear.
 - brenton: [missing]
 
 ### Jeremiah 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All are mighty men.
 - brenton: [missing]
 
 ### Jeremiah 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will eat your harvest and your breads, and they will eat your sons and your daughters, and they will eat your sheep and your calves, and they will eat your vineyards and your fig trees and your olive groves, and thresh your fortified cities in which you trust with sword.
 - brenton: [missing]
 
 ### Jeremiah 5:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in those days, says Lord your God, I will not make you into full end.
 - brenton: [missing]
 
 ### Jeremiah 5:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be when you say, For what reason did Lord our God do all these things to us? you will say to them, Because you served foreign gods in your land, so you will serve foreigners in land not yours.
 - brenton: [missing]
 
 ### Jeremiah 5:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Declare these things to house of Jacob and let it be heard in Judah.
 - brenton: [missing]
 
 ### Jeremiah 5:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now these things, foolish and heartless people: eyes to them and they do not see, ears to them and they do not hear.
 - brenton: [missing]
 
 ### Jeremiah 5:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you not fear me? says Lord. Will you not tremble before my face? I set sand as boundary to sea, everlasting command, and it will not pass it. It will be disturbed and not be able, and its waves will roar and not pass it.
 - brenton: [missing]
 
 ### Jeremiah 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But for this people there came disobedient and rebellious heart, and they turned aside and went away.
 - brenton: [missing]
 
 ### Jeremiah 5:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not say in their heart, Let us now fear Lord our God, one giving us early and late rain in due season, fullness of harvest command, and he kept it for us.
 - brenton: [missing]
 
 ### Jeremiah 5:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your lawless deeds turned these things away, and your sins removed good things from you.
 - brenton: [missing]
 
 ### Jeremiah 5:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because among my people ungodly men were found, and they set traps to destroy men and captured them.
 - brenton: [missing]
 
 ### Jeremiah 5:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As snare set up full of birds, so their houses full of deceit. Because of this they grew great and rich.
 - brenton: [missing]
 
 ### Jeremiah 5:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they passed over judgment. They did not judge cause of orphan, and cause of widow they did not judge.
 - brenton: [missing]
 
 ### Jeremiah 5:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shall I not visit for these things? says Lord. Shall not my soul avenge on such nation?
 - brenton: [missing]
 
 ### Jeremiah 5:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Astonishment and horrors came on earth:
 - brenton: [missing]
 
 ### Jeremiah 5:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prophets prophesy unjust things, and priests clapped with their hands, and my people loved it so. And what will you do afterward?
 - brenton: [missing]
 
 ### Jeremiah 6:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Strengthen yourselves, sons of Benjamin, from midst of Jerusalem, and in Tekoa sound trumpet, and over Beth-haccherem lift signal, because evils have leaned out from north and great crushing is coming.
 - brenton: [missing]
 
 ### Jeremiah 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your height will be taken away, daughter of Zion.
 - brenton: [missing]
 
 ### Jeremiah 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To her shepherds and their flocks will come, and they will pitch tents against her all around, and each will shepherd by his own hand.
 - brenton: [missing]
 
 ### Jeremiah 6:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prepare against her for war. Rise, and let us go up against her at noon. Woe to us, because day has declined, because shadows of evening fail.
 - brenton: [missing]
 
 ### Jeremiah 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rise, and let us go up in night and destroy her foundations.
 - brenton: [missing]
 
 ### Jeremiah 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Cut down her trees, pour out strength against Jerusalem. O false city, all oppression in her.
 - brenton: [missing]
 
 ### Jeremiah 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As cistern cools its water, so her evil cools. Ungodliness and misery will be heard in her; before her face continually pain and scourge.
 - brenton: [missing]
 
 ### Jeremiah 6:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be disciplined, Jerusalem, lest my soul depart from you, lest I make you pathless land not inhabited.
 - brenton: [missing]
 
 ### Jeremiah 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Glean, glean as vine the remnant of Israel. Return as grape-gatherer to his basket.
 - brenton: [missing]
 
 ### Jeremiah 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, word of Lord became reproach to them. They will not want to hear it.
 - brenton: [missing]
 
 ### Jeremiah 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I was filled with my wrath and held back and did not finish them. I will pour it on infants outside and on gathering of young men together, because man and woman will be taken, elder with fullness of days.
 - brenton: [missing]
 
 ### Jeremiah 6:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their houses will be turned to others, fields and their wives together, because I will stretch out my hand upon those inhabiting this land, says Lord.
 - brenton: [missing]
 
 ### Jeremiah 6:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from their small one even to great one all together complete lawlessness; from priest even to false prophet all practiced lies.
 - brenton: [missing]
 
 ### Jeremiah 6:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they healed crushing of my people by treating it lightly and saying, Peace, peace, and where is peace?
 - brenton: [missing]
 
 ### Jeremiah 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were ashamed because they failed, yet not even as ashamed were they ashamed, and they did not know their dishonor. Therefore they will fall in their falling, and in time of their visitation they will perish, said Lord.
 - brenton: [missing]
 
 ### Jeremiah 6:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Stand on roads and see and ask for everlasting paths of Lord, and see what good way is, and walk in it, and you will find cleansing for your souls. And they said, We will not walk.
 - brenton: [missing]
 
 ### Jeremiah 6:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I set watchmen over you: Hear sound of trumpet. And they said, We will not hear.
 - brenton: [missing]
 
 ### Jeremiah 6:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore nations heard, and those shepherding their flocks.
 - brenton: [missing]
 
 ### Jeremiah 6:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, earth. Behold, I bring on this people evils, fruit of their turning away, because they paid no attention to my words and rejected my law.
 - brenton: [missing]
 
 ### Jeremiah 6:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do you bring me frankincense from Sheba and cinnamon from far land? Your whole burnt offerings not acceptable and your sacrifices did not please me.
 - brenton: [missing]
 
 ### Jeremiah 6:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I give this people weakness, and fathers and sons together will be weakened by it; neighbor and his near one will perish.
 - brenton: [missing]
 
 ### Jeremiah 6:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Behold, people comes from north, and nation will be stirred from ends of earth.
 - brenton: [missing]
 
 ### Jeremiah 6:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will grasp bow and javelin. He is harsh and will not show mercy. His voice as sea waving. On horses and chariots he will line up like fire for war against you, daughter of Zion.
 - brenton: [missing]
 
 ### Jeremiah 6:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We heard their report; our hands were paralyzed. Affliction seized us, birth-pangs as of woman giving birth.
 - brenton: [missing]
 
 ### Jeremiah 6:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not go out into field, and in roads do not walk, because sword of enemies lives all around.
 - brenton: [missing]
 
 ### Jeremiah 6:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Daughter of my people, gird sackcloth, roll in ashes, make for yourself mourning of beloved one, bitter lament, because suddenly misery will come upon you.
 - brenton: [missing]
 
 ### Jeremiah 6:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I have given you tester among tested peoples, and you will know me when I test their way.
 - brenton: [missing]
 
 ### Jeremiah 6:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All disobedient, walking crookedly, bronze and iron, all are corrupted.
 - brenton: [missing]
 
 ### Jeremiah 6:29
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bellows failed from fire, lead failed; in vain silversmith works silver, their evil was not melted.
 - brenton: [missing]
 
 ### Jeremiah 6:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Call them rejected silver, because Lord rejected them.
 - brenton: [missing]
 
 ### Jeremiah 7:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear word of Lord, all Judah.
 - brenton: [missing]
 
 ### Jeremiah 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God of Israel: Correct your ways and your practices, and I will settle you in this place.
 - brenton: [missing]
 
 ### Jeremiah 7:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not trust in yourselves upon false words that will surely not profit you, saying, Temple of Lord, temple of Lord it is.
 - brenton: [missing]
 
 ### Jeremiah 7:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because if in correcting you truly correct your ways and your practices, and in doing you do judgment between man and his neighbor,
 - brenton: [missing]
 
 ### Jeremiah 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and do not oppress sojourner and orphan and widow, and do not pour out innocent blood in this place, and do not walk after foreign gods for your harm,
 - brenton: [missing]
 
 ### Jeremiah 7:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then I will settle you in this place, in land I gave to your fathers from age and to age.
 - brenton: [missing]
 
 ### Jeremiah 7:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you trust in false words, from which you will not profit,
 - brenton: [missing]
 
 ### Jeremiah 7:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and murder and commit adultery and steal and swear unrighteously and burn incense to Baal and walk after foreign gods whom you do not know, for your harm,
 - brenton: [missing]
 
 ### Jeremiah 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and you came and stood before me in house over which my name has been called and said, We have held back from doing all these abominations—
 - brenton: [missing]
@@ -170989,594 +170989,594 @@ Note:
 
 ### Jeremiah 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because go to my place in Shiloh, where I caused my name to dwell before, and see what I did to it because of evil of my people Israel.
 - brenton: [missing]
 
 ### Jeremiah 7:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now because you did all these works and I spoke to you and you did not hear me, and I called you and you did not answer,
 - brenton: [missing]
 
 ### Jeremiah 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
 - brenton: [missing]
 
 ### Jeremiah 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will cast you out from my face, just as I cast out your brothers, all seed of Ephraim.
 - brenton: [missing]
 
 ### Jeremiah 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, do not pray concerning this people, and do not ask that they be shown mercy, and do not vow, and do not come to me concerning them, because I will not hear.
 - brenton: [missing]
 
 ### Jeremiah 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do you not see what they do in cities of Judah and in streets of Jerusalem?
 - brenton: [missing]
 
 ### Jeremiah 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their sons gather wood, and their fathers kindle fire, and their women knead dough to make cakes for army of heaven, and they poured drink offerings to foreign gods so as to provoke me.
 - brenton: [missing]
 
 ### Jeremiah 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do they provoke me? says Lord. Is it not themselves, so that their faces be ashamed?
 - brenton: [missing]
 
 ### Jeremiah 7:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, my anger and wrath pours out on this place and on men and on cattle and on every tree of their field and on all produce of earth, and it will burn and not be quenched.
 - brenton: [missing]
 
 ### Jeremiah 7:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Gather your whole burnt offerings with your sacrifices and eat flesh.
 - brenton: [missing]
 
 ### Jeremiah 7:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I did not speak to your fathers and did not command them in day I brought them up from land of Egypt concerning whole burnt offerings and sacrifice.
 - brenton: [missing]
 
 ### Jeremiah 7:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But this word I commanded them, saying, Hear my voice and I will be to you as God and you will be to me as people, and walk in all my ways that I command you, so that it may be well for you.
 - brenton: [missing]
 
 ### Jeremiah 7:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not hear me and did not incline their ear, but walked in thoughts of their evil heart and became backward and not forward.
 - brenton: [missing]
 
 ### Jeremiah 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From day their fathers came out from land of Egypt until this day, I sent to you all my servants the prophets, day and early morning I sent.
 - brenton: [missing]
 
 ### Jeremiah 7:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they did not hear me and did not incline their ear and hardened their neck more than their fathers.
 - brenton: [missing]
 
 ### Jeremiah 7:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to them this word: This is nation that did not hear voice of Lord and did not receive discipline. Faithfulness perished from their mouth.
 - brenton: [missing]
 
 ### Jeremiah 7:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Faithfulness perished from their mouth.
 - brenton: [missing]
 
 ### Jeremiah 7:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shear your head and cast away, and raise lament on lips, because Lord rejected and thrust away generation doing these things.
 - brenton: [missing]
 
 ### Jeremiah 7:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because sons of Judah did evil before me, says Lord. They set their abominations in house over which my name has been called, to defile it.
 - brenton: [missing]
 
 ### Jeremiah 7:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they built altar of Topheth, which is in valley of son of Hinnom, to burn their sons and their daughters in fire, which I did not command them, nor did I conceive in my heart.
 - brenton: [missing]
 
 ### Jeremiah 7:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, days come, says Lord, and they will no longer say altar of Topheth and valley of son of Hinnom, but valley of slaughtered, and they will bury in Topheth because no place remains.
 - brenton: [missing]
 
 ### Jeremiah 7:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dead bodies of this people will be for food to birds of heaven and beasts of earth, and none will frighten them away.
 - brenton: [missing]
 
 ### Jeremiah 7:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy from cities of Judah and from streets of Jerusalem voice of rejoicing and voice of gladness, voice of bridegroom and voice of bride, because whole land will become desolation.
 - brenton: [missing]
 
 ### Jeremiah 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time, says Lord, they will bring out bones of kings of Judah and bones of their rulers and bones of priests and bones of prophets and bones of inhabitants of Jerusalem from their tombs.
 - brenton: [missing]
 
 ### Jeremiah 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of earth.
 - brenton: [missing]
 
 ### Jeremiah 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they chose death rather than life, for all remnant left from that generation in every place where I drive them out there.
 - brenton: [missing]
 
 ### Jeremiah 8:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Will one falling not rise? Or one turning away not turn back?
 - brenton: [missing]
 
 ### Jeremiah 8:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why did this people turn away with shameless turning away? They held fast in their own choice and did not want to return.
 - brenton: [missing]
 
 ### Jeremiah 8:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give ear now and hear: They will not speak thus. There is no man repenting from his evil, saying, What have I done? One running from his course ceased, like sweating horse in its neighing.
 - brenton: [missing]
 
 ### Jeremiah 8:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And stork in heaven knew its season; turtledove and swallow of field and sparrows kept times of their comings. But my people did not know judgments of Lord.
 - brenton: [missing]
 
 ### Jeremiah 8:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: How will you say, We are wise, and law of Lord is with us? In vain false reed of scribes came to be.
 - brenton: [missing]
 
 ### Jeremiah 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wise men were ashamed and terrified and caught, because they rejected word of Lord. What wisdom is in them?
 - brenton: [missing]
 
 ### Jeremiah 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore I will give their wives to others and their fields to heirs.
 - brenton: [missing]
 
 ### Jeremiah 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will gather their produce, says Lord. There is no grape on vines, and no figs on fig trees, and leaves have fallen.
 - brenton: [missing]
 
 ### Jeremiah 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why do we sit? Gather and let us enter fortified cities and be cast away, because God cast us away and gave us water of gall to drink, because we sinned against him.
 - brenton: [missing]
 
 ### Jeremiah 8:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We gathered for peace and there were no good things, for time of healing and behold, hurry.
 - brenton: [missing]
 
 ### Jeremiah 8:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From Dan we will hear sound of sharpness of his horses. From sound of neighing of his cavalry all land shook, and he will come and devour land and its fullness, city and those dwelling in it.
 - brenton: [missing]
 
 ### Jeremiah 8:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because behold, I send to you deadly serpents for which there is no charming, and they will bite you.
 - brenton: [missing]
 
 ### Jeremiah 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Incurable with pain, your heart in distress.
 - brenton: [missing]
 
 ### Jeremiah 8:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, voice of cry of daughter of my people from far land: Is Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
 - brenton: [missing]
 
 ### Jeremiah 8:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Summer passed, harvest ended, and we were not saved.
 - brenton: [missing]
 
 ### Jeremiah 8:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Over crushing of daughter of my people I was darkened. Distress seized me, pangs as of woman giving birth.
 - brenton: [missing]
 
 ### Jeremiah 8:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is there no resin in Gilead? Is there no physician there? Why did healing of daughter of my people not rise?
 - brenton: [missing]
 
 ### Jeremiah 8:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will give my head water and my eyes spring of tears? And I will weep for this people day and night, for wounded ones of daughter of my people.
 - brenton: [missing]
 
 ### Jeremiah 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who will give me in wilderness last lodging-place, that I may leave my people and go away from them? Because all commit adultery, company of faithless ones.
 - brenton: [missing]
 
 ### Jeremiah 9:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they bent their tongue like bow: falsehood, and not faithfulness, grew strong on land, because from evils to evils they went out, and me they did not know.
 - brenton: [missing]
 
 ### Jeremiah 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each guard yourselves from your neighbor, and do not trust in your brothers, because every brother will utterly trip by heel and every friend will walk deceitfully.
 - brenton: [missing]
 
 ### Jeremiah 9:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each will mock his friend; truth they will not speak. Their tongue learned to speak lies. They did wrong and did not cease from turning back.
 - brenton: [missing]
 
 ### Jeremiah 9:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Usury upon usury, deceit upon deceit; they did not want to know me.
 - brenton: [missing]
 
 ### Jeremiah 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Behold, I will refine them and test them, because what shall I do because of evil of daughter of my people?
 - brenton: [missing]
 
 ### Jeremiah 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Their tongue = wounding arrow; words of their mouth deceitful. To his neighbor he speaks peaceful things, but in himself he holds enmity.
 - brenton: [missing]
 
 ### Jeremiah 9:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shall I not visit for these things? says Lord. Shall not my soul avenge on such people?
 - brenton: [missing]
 
 ### Jeremiah 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take up mourning over mountains and lament over paths of wilderness, because they failed so that there are no men, and they did not hear sound of existence; from birds of heaven even to cattle they were astonished and went away.
 - brenton: [missing]
 
 ### Jeremiah 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give Jerusalem into migration and dwelling-place of dragons, and cities of Judah I will make to vanish, so as not to be inhabited.
 - brenton: [missing]
 
 ### Jeremiah 9:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who is wise man and let him understand this, and to whom word of mouth of Lord came, let him declare to you: Why did land perish, burned like wilderness, so as not to be passed through?
 - brenton: [missing]
 
 ### Jeremiah 9:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me: Because they abandoned my law which I gave before them and did not hear my voice,
 - brenton: [missing]
 
 ### Jeremiah 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but went after pleasures of their evil heart and after idols which their fathers taught them,
 - brenton: [missing]
 
 ### Jeremiah 9:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore thus says Lord God of Israel: Behold, I will feed them with hardships and give them water of gall to drink.
 - brenton: [missing]
 
 ### Jeremiah 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter them among nations which neither they nor their fathers knew, and I will send sword after them until I consume them by it.
 - brenton: [missing]
 
 ### Jeremiah 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Call mourning women and let them come, and send to wise women and let them speak,
 - brenton: [missing]
 
 ### Jeremiah 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and let them take up lament over you, and let your eyes bring down tears and your eyelids run water.
 - brenton: [missing]
 
 ### Jeremiah 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because voice of pity was heard in Zion: How we were made miserable! We were greatly ashamed, because we abandoned land and threw away our tents.
 - brenton: [missing]
 
 ### Jeremiah 9:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear now, women, word of God, and let your ears receive words of his mouth. Teach your daughters lament and each woman her neighbor mourning.
 - brenton: [missing]
 
 ### Jeremiah 9:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because death came up through your windows, entered your land, to destroy infants outside and young men from broad places.
 - brenton: [missing]
 
 ### Jeremiah 9:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dead bodies of men will be example upon face of field of your land, and like grass behind reaper, and none will gather.
 - brenton: [missing]
 
 ### Jeremiah 9:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Let not wise man boast in his wisdom, and let not strong man boast in his strength, and let not rich man boast in his riches,
 - brenton: [missing]
@@ -171592,189 +171592,189 @@ Note:
 
 ### Jeremiah 9:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, days come, says Lord, and I will visit all circumcised in their foreskin:
 - brenton: [missing]
 
 ### Jeremiah 9:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: upon Egypt and upon Judah and upon Edom and upon sons of Ammon and upon sons of Moab and upon all clipping what is before his face, those dwelling in wilderness, because all nations uncircumcised in flesh and all house of Israel uncircumcised in their hearts.
 - brenton: [missing]
 
 ### Jeremiah 10:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear word of Lord which he spoke upon you, house of Israel.
 - brenton: [missing]
 
 ### Jeremiah 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Do not learn according to ways of nations, and do not fear signs of heaven, because they fear them before their faces.
 - brenton: [missing]
 
 ### Jeremiah 10:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because customs of nations are vain. It is tree cut out of forest, work of carpenter and casting.
 - brenton: [missing]
 
 ### Jeremiah 10:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They are adorned with silver and gold. With hammers and nails they fastened them and they will not move.
 - brenton: [missing]
 
 ### Jeremiah 10:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Being carried they will be carried, because they will not step. Do not fear them, because they surely will not do evil, and no good is in them.
 - brenton: [missing]
 
 ### Jeremiah 10:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beaten silver is there; they will not walk. Refined silver will come from Tarshish, gold from Uphaz, handwork of goldsmiths, works of craftsmen. They will clothe them in blue and purple.
 - brenton: [missing]
 
 ### Jeremiah 10:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus you will say to them: Gods who did not make heaven and earth, let them perish from earth and from under this heaven.
 - brenton: [missing]
 
 ### Jeremiah 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, one making earth by his strength, one setting upright inhabited world by his wisdom, by his understanding stretched out heaven.
 - brenton: [missing]
 
 ### Jeremiah 10:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there is abundance of water in heaven, and he brought up clouds from end of earth, made lightning for rain, and brought out light from his treasuries.
 - brenton: [missing]
 
 ### Jeremiah 10:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every man was made foolish from knowledge. Every goldsmith was ashamed over his carved things, because what they cast were lies; no breath in them.
 - brenton: [missing]
 
 ### Jeremiah 10:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They are vanities, mocked works. In time of their visitation they will perish.
 - brenton: [missing]
 
 ### Jeremiah 10:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not like these is portion of Jacob, because one shaping all things is his inheritance. Lord his name.
 - brenton: [missing]
 
 ### Jeremiah 10:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather from outside your substance, you dwelling among chosen things.
 - brenton: [missing]
 
 ### Jeremiah 10:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Behold, I sling out inhabitants of this land in affliction, so that your wound may be found.
 - brenton: [missing]
 
 ### Jeremiah 10:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe over your crushing; your wound painful. And I said, Truly this my blow, and it seized me.
 - brenton: [missing]
 
 ### Jeremiah 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My tent was made miserable, perished, and all my skins were torn apart. My sons and my sheep are not. There is no more place of my tent, place of my skins.
 - brenton: [missing]
 
 ### Jeremiah 10:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because shepherds acted foolishly and did not seek Lord. Therefore all pasture did not understand, and they were scattered.
 - brenton: [missing]
 
 ### Jeremiah 10:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of report, behold, comes, and great shaking from land of north, to make cities of Judah vanish and lodging-place of sparrows.
 - brenton: [missing]
 
 ### Jeremiah 10:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I know, Lord, that way of man not his own, nor will man walk and direct his path.
 - brenton: [missing]
