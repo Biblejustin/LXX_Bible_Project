@@ -70,9 +70,8 @@ DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_ot_logos_bible_diagnostics.jso
 DEFAULT_README = OUTPUT / "README.md"
 DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
-DEFAULT_LEXHAM_TEXTUAL_NOTES_HTML = Path.home() / "Desktop" / "The Lexham Textual Notes on the Bible.html"
+DEFAULT_TEXTUAL_NOTES_HTML = Path.home() / "Desktop" / "The Lexham Textual Notes on the Bible.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
-LEXHAM_TEXTUAL_NOTES_RESOURCE_ID = "lexcontxtntbbl"
 
 DOCX_W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 DOCX_R_NS = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
@@ -328,7 +327,7 @@ class BuildStats:
     name_meaning_footnotes: int = 0
     supplemental_note_footnotes: int = 0
     brenton_supplemental_footnotes: int = 0
-    lexham_link_footnotes: int = 0
+    textual_note_export_footnotes: int = 0
     phrase_anchored_name_meaning_notes: int = 0
     verse_anchored_name_meaning_notes: int = 0
     phrase_anchored_crossref_notes: int = 0
@@ -893,6 +892,22 @@ def load_translation_notes(
         if display_note_type == "mt_lxx":
             counts["included_mt_lxx_difference_notes"] += 1
     return dict(grouped), dict(counts)
+
+
+def merge_translation_notes(
+    *note_maps: dict[str, list[TranslationNote]],
+) -> dict[str, list[TranslationNote]]:
+    merged: dict[str, list[TranslationNote]] = defaultdict(list)
+    seen: set[tuple[str, str, str, str]] = set()
+    for note_map in note_maps:
+        for ref, notes in note_map.items():
+            for note in notes:
+                key = (ref, note.note_type, note.trigger_phrase, note.display_text)
+                if key in seen:
+                    continue
+                seen.add(key)
+                merged[ref].append(note)
+    return dict(merged)
 
 
 def is_generic_mt_lxx_note(row: dict[str, str]) -> bool:
@@ -1528,11 +1543,19 @@ def build_crossrefs_for_verses(verses: list[Verse]) -> tuple[dict[str, list[Cros
 OPENBIBLE_TARGET_RE = re.compile(
     r"^([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)(?:-([1-3]?[A-Za-z]+)\.(\d+)\.(\d+))?(?: \((\d+)\))?$"
 )
-LEXHAM_REF_LINK_RE = re.compile(
+REFLY_BOLD_REF_LINK_RE = re.compile(
     r'<a\s+href="https://ref\.ly/([^"]+)"[^>]*>\s*'
     r'<span[^>]*font-weight\s*:\s*bold[^>]*>(.*?)</span>\s*</a>',
     flags=re.I | re.S,
 )
+TEXTUAL_NOTE_PARAGRAPH_RE = re.compile(r"<p\b[^>]*>.*?</p>", flags=re.I | re.S)
+TEXTUAL_NOTE_HEADER_LINK_RE = REFLY_BOLD_REF_LINK_RE
+TEXTUAL_NOTE_BOLD_RE = re.compile(
+    r'<span[^>]*font-weight\s*:\s*bold[^>]*>(.*?)</span>',
+    flags=re.I | re.S,
+)
+TEXTUAL_NOTE_DISPLAY_REF_RE = re.compile(r"^(.+?)\s+(\d+)(?::(\d+))?$")
+TEXTUAL_NOTE_SOURCE_BASIS = "textual note export"
 
 
 def format_openbible_ref(ref: str) -> str:
@@ -1622,18 +1645,20 @@ def load_brenton_supplemental_notes(
     }
 
 
-def load_lexham_textual_note_links(
+def load_textual_notes_export(
     path: Path,
     verses: list[Verse],
     versification_map: dict[str, str],
-) -> tuple[dict[str, list[SupplementalNote]], dict[str, object]]:
+) -> tuple[dict[str, list[TranslationNote]], dict[str, object]]:
     verse_refs = {verse.ref for verse in verses}
     standard_refs_to_source_refs: dict[str, list[str]] = defaultdict(list)
+    refs_by_chapter: dict[tuple[str, int], list[str]] = defaultdict(list)
     for verse in verses:
         source_ref = source_code_ref(verse)
         standard_ref = versification_map.get(source_ref, source_ref)
         standard_refs_to_source_refs[standard_ref].append(verse.ref)
-    grouped: dict[str, list[SupplementalNote]] = defaultdict(list)
+        refs_by_chapter[(verse.book_name, verse.chapter)].append(verse.ref)
+    grouped: dict[str, list[TranslationNote]] = defaultdict(list)
     counts: Counter[str] = Counter({"present": int(path.exists())})
     seen: set[tuple[str, str]] = set()
     if not path.exists():
@@ -1645,44 +1670,179 @@ def load_lexham_textual_note_links(
         }
 
     raw_html = path.read_text(encoding="utf-8", errors="replace")
-    matches = LEXHAM_REF_LINK_RE.findall(raw_html)
-    counts["source_links"] = len(matches)
-    for refly_code, display_ref_raw in matches:
-        display_ref = strip_html_text(display_ref_raw)
-        target_refs = [normalize_note_ref(display_ref)] if normalize_note_ref(display_ref) in verse_refs else []
-        if not target_refs:
-            code_ref = display_ref_to_code_ref(display_ref)
-            target_refs = standard_refs_to_source_refs.get(code_ref or "", [])
-            if target_refs:
-                counts["lexham_link_matched_by_versification_map"] += 1
-        if not target_refs:
-            counts["lexham_link_skipped_missing_ref"] += 1
+    entries = parse_textual_note_export_entries(raw_html)
+    counts["source_entries"] = len(entries)
+    for entry in entries:
+        display_ref = entry["display_ref"]
+        body = textual_note_body(entry["blocks"])
+        if not body:
+            counts["skipped_empty_note_body"] += 1
             continue
-        target = f"logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.{refly_code.strip()}"
-        note_text = (
-            "Lexham textual note: "
-            f"[[Open LTNB >> {target}]]. "
-            "Requires a Logos license for The Lexham Textual Notes on the Bible."
+        target_refs, fallback_ref = textual_note_target_refs(
+            display_ref=display_ref,
+            verse_refs=verse_refs,
+            standard_refs_to_source_refs=standard_refs_to_source_refs,
+            refs_by_chapter=refs_by_chapter,
         )
+        if not target_refs:
+            counts["skipped_missing_ref"] += 1
+            continue
+        if fallback_ref:
+            counts["included_by_nearest_source_ref"] += len(target_refs)
+            body = f"For standard {normalize_textual_display_ref(display_ref)}: {body}"
+        elif normalize_textual_display_ref(display_ref) in verse_refs:
+            counts["included_by_direct_ref"] += len(target_refs)
+        else:
+            counts["included_by_versification_map"] += len(target_refs)
         for target_ref in target_refs:
-            add_supplemental_note(
-                grouped,
-                ref=target_ref,
-                text_value=note_text,
-                source="lexham_link",
-                verse_refs=verse_refs,
-                seen=seen,
-                counts=counts,
+            dedupe_key = (target_ref, body)
+            if dedupe_key in seen:
+                counts["skipped_duplicate"] += 1
+                continue
+            seen.add(dedupe_key)
+            grouped[target_ref].append(
+                TranslationNote(
+                    ref=target_ref,
+                    note_type="textual",
+                    trigger_phrase="",
+                    text=body,
+                    source_basis=TEXTUAL_NOTE_SOURCE_BASIS,
+                )
             )
+            counts["included_total"] += 1
 
     return dict(grouped), {
         **dict(counts),
         "present": True,
         "path": str(path),
-        "resource_id": LEXHAM_TEXTUAL_NOTES_RESOURCE_ID,
         "included_refs": len(grouped),
         "included_total": sum(len(items) for items in grouped.values()),
+        "mode": "local_embedded_textual_notes",
     }
+
+
+def parse_textual_note_export_entries(raw_html: str) -> list[dict[str, object]]:
+    entries: list[dict[str, object]] = []
+    current: dict[str, object] | None = None
+    for paragraph in TEXTUAL_NOTE_PARAGRAPH_RE.findall(raw_html):
+        header = textual_note_header(paragraph)
+        if header:
+            if current:
+                entries.append(current)
+            current = {"display_ref": header, "blocks": []}
+            continue
+        if current is None:
+            continue
+        paragraph_text = strip_html_text(paragraph)
+        if paragraph_text:
+            current_blocks = current["blocks"]
+            assert isinstance(current_blocks, list)
+            current_blocks.append(paragraph_text)
+    if current:
+        entries.append(current)
+    return entries
+
+
+def textual_note_header(paragraph_html: str) -> str | None:
+    link_match = TEXTUAL_NOTE_HEADER_LINK_RE.search(paragraph_html)
+    if link_match:
+        return strip_html_text(link_match.group(2))
+    bold_match = TEXTUAL_NOTE_BOLD_RE.search(paragraph_html)
+    if not bold_match:
+        return None
+    bold_text = strip_html_text(bold_match.group(1))
+    if TEXTUAL_NOTE_DISPLAY_REF_RE.match(bold_text):
+        return bold_text
+    return None
+
+
+def textual_note_body(blocks_value: object) -> str:
+    blocks = [str(block) for block in blocks_value] if isinstance(blocks_value, list) else []
+    note_blocks = [clean_textual_note_text(block) for block in blocks[2:]]
+    note_blocks = [block for block in note_blocks if block and not is_textual_note_export_junk(block)]
+    return normalize_space(" ".join(note_blocks))
+
+
+def is_textual_note_export_junk(value: str) -> bool:
+    book_headings = set(STANDARD_BOOK_NAMES.values()) | {"Psalm", "Song of Solomon"}
+    return (
+        value in book_headings
+        or value.startswith("Brannan, Rick")
+        or value.startswith("Exported from Logos")
+    )
+
+
+def clean_textual_note_text(value: str) -> str:
+    replacements = {
+        "\u00a0": " ",
+        "\u2018": "'",
+        "\u2019": "'",
+        "\u201c": '"',
+        "\u201d": '"',
+        "\u2013": "-",
+        "\u2014": "-",
+        "\u202f": " ",
+    }
+    for old, new in replacements.items():
+        value = value.replace(old, new)
+    value = re.sub(r"\bLXX\.,", "LXX,", value)
+    value = re.sub(r"\s+([,.;:)])", r"\1", value)
+    value = re.sub(r"([(])\s+", r"\1", value)
+    return normalize_space(value)
+
+
+def textual_note_target_refs(
+    *,
+    display_ref: str,
+    verse_refs: set[str],
+    standard_refs_to_source_refs: dict[str, list[str]],
+    refs_by_chapter: dict[tuple[str, int], list[str]],
+) -> tuple[list[str], str | None]:
+    normalized_ref = normalize_textual_display_ref(display_ref)
+    if normalized_ref in verse_refs:
+        return [normalized_ref], None
+    code_ref = display_ref_to_code_ref(normalized_ref)
+    mapped_refs = standard_refs_to_source_refs.get(code_ref or "", [])
+    if mapped_refs:
+        return mapped_refs, None
+    fallback_ref = nearest_source_ref(normalized_ref, refs_by_chapter)
+    return ([fallback_ref], fallback_ref) if fallback_ref else ([], None)
+
+
+def normalize_textual_display_ref(display_ref: str) -> str:
+    normalized = normalize_note_ref(display_ref)
+    match = TEXTUAL_NOTE_DISPLAY_REF_RE.match(normalized)
+    if not match:
+        return normalized
+    book_name, chapter, verse = match.groups()
+    verse = verse or "1"
+    return f"{book_name} {int(chapter)}:{int(verse)}"
+
+
+def nearest_source_ref(
+    normalized_ref: str,
+    refs_by_chapter: dict[tuple[str, int], list[str]],
+) -> str | None:
+    match = DISPLAY_REF_RE.match(normalized_ref)
+    if not match:
+        return None
+    book_name, chapter_raw, verse_raw = match.groups()
+    chapter = int(chapter_raw)
+    verse = int(verse_raw)
+    chapter_refs = refs_by_chapter.get((book_name, chapter), [])
+    if not chapter_refs:
+        return None
+    parsed_refs: list[tuple[int, str]] = []
+    for ref in chapter_refs:
+        ref_match = DISPLAY_REF_RE.match(ref)
+        if ref_match:
+            parsed_refs.append((int(ref_match.group(3)), ref))
+    if not parsed_refs:
+        return None
+    before = [item for item in parsed_refs if item[0] <= verse]
+    if before:
+        return max(before)[1]
+    return min(parsed_refs)[1]
 
 
 def merge_supplemental_notes(
@@ -1823,7 +1983,7 @@ def add_title_page(
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
         lines.append("Conservative place-name links use Logos Bible Knowledgebase targets where a local Logos place entity can be matched unambiguously.")
-        lines.append("Includes Lexham Textual Notes resource links where the supplied Logos export has a matching verse.")
+        lines.append("Textual-note export entries are embedded as local notes; no Logos resource-link layer is used.")
         if milestone_mode == "mt":
             lines.append("Milestones are remapped to standard English/MT Bible references for Logos note sharing.")
     for line in lines:
@@ -1892,6 +2052,8 @@ def build_verse_runs(
         note_id = doc.add_footnote(note.display_text)
         runs.append(footnote_ref_run(note_id))
         stats.translation_note_footnotes += 1
+        if note.source_basis == TEXTUAL_NOTE_SOURCE_BASIS:
+            stats.textual_note_export_footnotes += 1
         stats.verse_anchored_translation_notes += 1
     for name_note in verse_level_names:
         note_id = doc.add_footnote(name_note.display_text)
@@ -1902,10 +2064,7 @@ def build_verse_runs(
         note_id = doc.add_footnote(supplemental_note.display_text)
         runs.append(footnote_ref_run(note_id))
         stats.supplemental_note_footnotes += 1
-        if supplemental_note.source == "lexham_link":
-            stats.lexham_link_footnotes += 1
-        else:
-            stats.brenton_supplemental_footnotes += 1
+        stats.brenton_supplemental_footnotes += 1
     for crossref in verse_level_crossrefs:
         note_id = add_crossref_footnote(doc, crossref, stats)
         runs.append(footnote_ref_run(note_id))
@@ -2059,7 +2218,7 @@ def build_readme(
     preview_path: Path,
     datatype: str,
     footnote_number_restart: str,
-    lexham_textual_notes_html: Path,
+    textual_notes_html: Path,
     book_intros_path: Path,
     translation_decisions_path: Path,
 ) -> None:
@@ -2071,6 +2230,10 @@ def build_readme(
         translation_decisions_display = translation_decisions_path.relative_to(ROOT).as_posix()
     except ValueError:
         translation_decisions_display = str(translation_decisions_path)
+    try:
+        textual_notes_display = textual_notes_html.relative_to(ROOT).as_posix()
+    except ValueError:
+        textual_notes_display = str(textual_notes_html)
     content = f"""# Fresh Translation OT Logos/Proofreading Files
 
 Generated files:
@@ -2102,7 +2265,7 @@ Scope:
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
-- Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
+- Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
 - Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
@@ -2147,6 +2310,7 @@ def build_diagnostics(
     verses: list[Verse],
     note_counts: dict[str, int],
     variant_decision_counts: dict[str, int],
+    textual_export_counts: dict[str, object],
     notes: dict[str, list[TranslationNote]],
     book_intro_diag: dict[str, object],
     name_note_counts: dict[str, int],
@@ -2174,6 +2338,7 @@ def build_diagnostics(
         "book_counts": dict(book_counts),
         "translation_note_filter": note_counts,
         "translation_decision_filter": variant_decision_counts,
+        "textual_note_export": textual_export_counts,
         "included_translation_note_refs": len(notes),
         "included_translation_note_total": included_note_total,
         "book_prefaces": book_intro_diag,
@@ -2209,7 +2374,8 @@ def main() -> None:
     parser.add_argument("--readme", type=Path, default=DEFAULT_README)
     parser.add_argument("--preview", type=Path, default=DEFAULT_PREVIEW)
     parser.add_argument("--versification-map", type=Path, default=DEFAULT_VERSIFICATION_MAP)
-    parser.add_argument("--lexham-textual-notes-html", type=Path, default=DEFAULT_LEXHAM_TEXTUAL_NOTES_HTML)
+    parser.add_argument("--textual-notes-html", type=Path, default=DEFAULT_TEXTUAL_NOTES_HTML)
+    parser.add_argument("--lexham-textual-notes-html", type=Path, dest="textual_notes_html", help=argparse.SUPPRESS)
     parser.add_argument("--logos-root", type=Path, default=DEFAULT_LOGOS_ROOT)
     parser.add_argument(
         "--no-place-links",
@@ -2226,8 +2392,15 @@ def main() -> None:
     args = parser.parse_args()
 
     verses = load_verses(args.source)
+    versification_map, versification_map_diag = load_versification_map(args.versification_map)
     variant_decisions, variant_decision_counts = load_variant_decisions(args.translation_decisions)
-    notes, note_counts = load_translation_notes(args.footnotes, variant_decisions)
+    base_notes, note_counts = load_translation_notes(args.footnotes, variant_decisions)
+    textual_export_notes, textual_export_counts = load_textual_notes_export(
+        args.textual_notes_html,
+        verses,
+        versification_map,
+    )
+    notes = merge_translation_notes(base_notes, textual_export_notes)
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
@@ -2249,17 +2422,10 @@ def main() -> None:
     else:
         place_links, place_link_diag = load_logos_place_links(args.logos_root, args.proper_names)
     place_link_pattern = build_place_link_pattern(place_links)
-    versification_map, versification_map_diag = load_versification_map(args.versification_map)
     brenton_supplemental_notes, brenton_supplemental_counts = load_brenton_supplemental_notes(verses)
-    lexham_supplemental_notes, lexham_supplemental_counts = load_lexham_textual_note_links(
-        args.lexham_textual_notes_html,
-        verses,
-        versification_map,
-    )
-    supplemental_notes = merge_supplemental_notes(brenton_supplemental_notes, lexham_supplemental_notes)
+    supplemental_notes = merge_supplemental_notes(brenton_supplemental_notes)
     supplemental_note_counts: dict[str, object] = {
         "brenton_package": brenton_supplemental_counts,
-        "lexham_textual_notes": lexham_supplemental_counts,
         "included_refs": len(supplemental_notes),
         "included_total": sum(len(items) for items in supplemental_notes.values()),
     }
@@ -2329,7 +2495,7 @@ def main() -> None:
         preview_path=args.preview,
         datatype=args.datatype,
         footnote_number_restart=args.footnote_number_restart,
-        lexham_textual_notes_html=args.lexham_textual_notes_html,
+        textual_notes_html=args.textual_notes_html,
         book_intros_path=args.book_intros,
         translation_decisions_path=args.translation_decisions,
     )
@@ -2338,6 +2504,7 @@ def main() -> None:
         verses=verses,
         note_counts=note_counts,
         variant_decision_counts=variant_decision_counts,
+        textual_export_counts=textual_export_counts,
         notes=notes,
         book_intro_diag=book_intro_diag,
         name_note_counts=name_note_counts,

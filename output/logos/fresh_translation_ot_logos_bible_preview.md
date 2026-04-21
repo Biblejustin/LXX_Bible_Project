@@ -73,8 +73,8 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Deuteronomy
 
 **Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
-- Translation/textual notes: 0
-- Supplemental notes/links: 1
+- Translation/textual notes: 1
+- Supplemental notes/links: 0
 - Cross-references: 20
 
 **Deuteronomy 1:2** Eleven days from Horeb by the road of Mount Seir to Kadesh-Barnea.
@@ -141,8 +141,8 @@ This preview shows the first three verses of each book with note/cross-reference
 ## 1 Samuel
 
 **1 Samuel 1:1** There was a man from Armathaim Siphā, from the hill-country of Ephraim, and his name was Elkana, son of Ieremeēl, son of Eliou, son of Thoke, in Nasib Ephraim.
-- Translation/textual notes: 0
-- Supplemental notes/links: 1
+- Translation/textual notes: 1
+- Supplemental notes/links: 0
 - Cross-references: 11
 
 **1 Samuel 1:2** And to him were two wives; the name of the one was Anna and the name of the second Phennana, and Phennana had children, but Anna had no child.
