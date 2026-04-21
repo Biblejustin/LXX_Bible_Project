@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 18272
-- medium: 941
-- low: 3704
+- high: 18452
+- medium: 922
+- low: 3543
 - none: 0
 
 Note:
@@ -163616,1620 +163616,1620 @@ Note:
 
 ### Isaiah 34:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My sword became drunk in heaven; behold, upon Idumea it will come down and upon people of destruction with judgment.
 - brenton: [missing]
 
 ### Isaiah 34:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sword of Lord was filled with blood, fattened from fat of lambs and from fat of goats and rams, because sacrifice to Lord in Bosor and great slaughter in Idumea.
 - brenton: [missing]
 
 ### Isaiah 34:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And mighty ones will fall with them, and rams and bulls, and land will be drunk from blood, and from their fat it will be filled.
 - brenton: [missing]
 
 ### Isaiah 34:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For day of judgment of Lord and year of repayment of judgment of Zion.
 - brenton: [missing]
 
 ### Isaiah 34:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its ravines will be turned into pitch and its land into sulfur, and its land will be burning as pitch.
 - brenton: [missing]
 
 ### Isaiah 34:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Night and day it will not be quenched forever, and its smoke will go up forever; for generations it will be desolated and for much time.
 - brenton: [missing]
 
 ### Isaiah 34:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And birds and hedgehogs and ibises and ravens will dwell in it, and measuring cord of desert will be cast upon it, and donkey-centaurs will dwell in it.
 - brenton: [missing]
 
 ### Isaiah 34:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its rulers will not exist, for its kings and its rulers and its grandees will be for destruction.
 - brenton: [missing]
 
 ### Isaiah 34:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And thorny trees will spring up in their cities and in its fortresses, and it will be camp of sirens and courtyard of ostriches.
 - brenton: [missing]
 
 ### Isaiah 34:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And demons will meet donkey-centaurs, and one will cry to another. There donkey-centaurs will rest, for they found rest for themselves.
 - brenton: [missing]
 
 ### Isaiah 34:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There hedgehog nested and earth kept her children in safety. There deer met and saw each other's faces.
 - brenton: [missing]
 
 ### Isaiah 34:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By number they passed, and one of them did not perish; one did not seek the other, because Lord commanded them and his spirit gathered them.
 - brenton: [missing]
 
 ### Isaiah 34:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he himself will cast lots to them, and his hand divided to them to graze forever; you will inherit forever; through generations of generations they will rest upon it.
 - brenton: [missing]
 
 ### Isaiah 35:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice, thirsty wilderness; let wilderness exult and bloom as lily.
 - brenton: [missing]
 
 ### Isaiah 35:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And deserts of Jordan will blossom and exult, and glory of Lebanon was given to it, and honor of Carmel, and my people will see glory of Lord and height of God.
 - brenton: [missing]
 
 ### Isaiah 35:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Strengthen loosened hands and disabled knees.
 - brenton: [missing]
 
 ### Isaiah 35:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Comfort the faint-hearted in mind; be strong, do not fear. Behold, our God repays judgment and will himself repay; he will come and save us.
 - brenton: [missing]
 
 ### Isaiah 35:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then eyes of blind will be opened and ears of deaf will hear.
 - brenton: [missing]
 
 ### Isaiah 35:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then lame one will leap as deer and tongue of stammerers will be clear, because water burst in wilderness and ravine in thirsty land.
 - brenton: [missing]
 
 ### Isaiah 35:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dry place will be marshes, and in thirsty land there will be spring of water. There joy of birds, camp of reed and marsh.
 - brenton: [missing]
 
 ### Isaiah 35:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: There will be pure way, and it will be called holy way, and unclean one certainly will not pass there, nor will there be unclean way there; but scattered ones will walk on it and certainly will not wander.
 - brenton: [missing]
 
 ### Isaiah 35:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And lion will not be there, nor any evil beasts come up upon it, nor certainly be found there, but redeemed ones will walk in it.
 - brenton: [missing]
 
 ### Isaiah 35:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those gathered for Lord will return and come into Zion with gladness, and eternal gladness over their heads, for praise and exultation and gladness will seize them; pain and grief and groaning fled.
 - brenton: [missing]
 
 ### Isaiah 36:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in fourteenth year of reigning Hezekiah, Sennacherib king of Assyrians went up against fortified cities of Judah and took them.
 - brenton: [missing]
 
 ### Isaiah 36:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king of Assyrians sent Rabshakeh from Lachish into Jerusalem to king Hezekiah with much force, and he stood by conduit of upper pool on road of fuller's field.
 - brenton: [missing]
 
 ### Isaiah 36:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Eliakim son of Hilkiah the steward went out to him, and Somnas the scribe, and Joah son of Asaph the recorder.
 - brenton: [missing]
 
 ### Isaiah 36:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Rabshakeh said to them, Say to Hezekiah, Thus says great king, king of Assyrians, In what are you trusting?
 - brenton: [missing]
 
 ### Isaiah 36:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Is battle-line made by counsel or words of lips? And now in what do you trust, that you disobey me?
 - brenton: [missing]
 
 ### Isaiah 36:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, you trust in this broken reed-rod, in Egypt. Whoever leans on it, it will enter his hand. Thus is Pharaoh king of Egypt and all trusting on him.
 - brenton: [missing]
 
 ### Isaiah 36:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if you say, We have trusted in Lord our God—
 - brenton: [missing]
 
 ### Isaiah 36:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: now make bargain with my lord king of Assyrians, and I will give you two thousand horses, if you can give riders upon them.
 - brenton: [missing]
 
 ### Isaiah 36:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And how can you turn away face of one governor? Slaves are those trusting in Egyptians for horse and rider.
 - brenton: [missing]
 
 ### Isaiah 36:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now did we go up against this land without Lord to war against it?
 - brenton: [missing]
 
 ### Isaiah 36:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Eliakim and Somnas and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into ears of men on wall?
 - brenton: [missing]
 
 ### Isaiah 36:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Rabshakeh said to them, Was my lord not sent to speak these words to your lord or to you? Was it not rather to men sitting on wall, so that they may eat dung and drink urine with you together?
 - brenton: [missing]
 
 ### Isaiah 36:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Rabshakeh stood and cried with great voice in Judean and said, Hear words of great king, king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 36:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says king: Do not let Hezekiah deceive you with words that will not be able to rescue you.
 - brenton: [missing]
 
 ### Isaiah 36:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And do not let Hezekiah say to you that God will rescue you and this city certainly will not be handed into hand of king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 36:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hear Hezekiah. Thus says king of Assyrians: If you want to be blessed, come out to me and eat each his vine and figs and drink water of your cisterns,
 - brenton: [missing]
 
 ### Isaiah 36:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until I come and take you into land like your land, land of grain and wine and breads and vineyards.
 - brenton: [missing]
 
 ### Isaiah 36:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not let Hezekiah deceive you, saying, Your God will rescue you. Did gods of nations each rescue its own land from hand of king of Assyrians?
 - brenton: [missing]
 
 ### Isaiah 36:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where is god of Hamath and Arphad, and where god of city of Sepharvaim? Were they able to rescue Samaria from my hand?
 - brenton: [missing]
 
 ### Isaiah 36:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who of all gods of these nations rescued its land from my hand, that God will rescue Jerusalem from my hand?
 - brenton: [missing]
 
 ### Isaiah 36:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were silent, and no one answered him word, because king commanded no one to answer.
 - brenton: [missing]
 
 ### Isaiah 36:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Eliakim son of Hilkiah the steward and Somnas scribe of force and Joah son of Asaph the recorder came to Hezekiah, tearing tunics, and reported to him words of Rabshakeh.
 - brenton: [missing]
 
 ### Isaiah 37:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when king Hezekiah heard, he tore garments and put on sackcloth and went up into house of Lord.
 - brenton: [missing]
 
 ### Isaiah 37:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he sent Eliakim the steward and Somnas the scribe and elders of priests clothed with sackcloths to Isaiah son of Amoz the prophet.
 - brenton: [missing]
 
 ### Isaiah 37:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said to him, Thus says Hezekiah: Day of affliction and reproach and rebuke and anger = today, because labor came to one giving birth, but she has no strength to bear.
 - brenton: [missing]
 
 ### Isaiah 37:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: May Lord your God hear words of Rabshakeh, whom king of Assyrians sent to reproach living God and to reproach words which Lord your God heard, and you will pray to Lord your God concerning these remnants.
 - brenton: [missing]
 
 ### Isaiah 37:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And servants of king came to Isaiah.
 - brenton: [missing]
 
 ### Isaiah 37:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah said to them, Thus you will say to your lord: Thus says Lord, Do not fear from words which you heard, with which envoys of king of Assyrians reproached me.
 - brenton: [missing]
 
 ### Isaiah 37:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I cast spirit into him, and hearing report he will turn back to his own land and fall by sword in his own land.
 - brenton: [missing]
 
 ### Isaiah 37:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Rabshakeh turned back and found king besieging Lobna, and king of Assyrians heard that
 - brenton: [missing]
 
 ### Isaiah 37:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tharaka king of Ethiopians went out to besiege him. And hearing, he turned back and sent messengers to Hezekiah, saying,
 - brenton: [missing]
 
 ### Isaiah 37:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus you will say to Hezekiah king of Judah: Do not let your God, on whom you trust, deceive you, saying, Jerusalem certainly will not be handed into hands of king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 37:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did you not hear what kings of Assyrians did to whole earth, how they destroyed?
 - brenton: [missing]
 
 ### Isaiah 37:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did gods of nations rescue them, whom my fathers destroyed, Gozan and Haran and Raphes which are in land of Thaimad?
 - brenton: [missing]
 
 ### Isaiah 37:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where are kings of Hamath and Arphad and city of Sepharvaim, Anag, Ougaua?
 - brenton: [missing]
 
 ### Isaiah 37:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah took book from messengers and opened it before Lord.
 - brenton: [missing]
 
 ### Isaiah 37:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah prayed to Lord, saying,
 - brenton: [missing]
 
 ### Isaiah 37:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord Sabaoth, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
 - brenton: [missing]
 
 ### Isaiah 37:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, Lord; look, Lord; and see words which Sennacherib sent to reproach living God.
 - brenton: [missing]
 
 ### Isaiah 37:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For truly kings of Assyrians made whole inhabited world and their land desolate
 - brenton: [missing]
 
 ### Isaiah 37:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and threw their idols into fire, for they were not gods but works of hands of men, wood and stones, and they destroyed them.
 - brenton: [missing]
 
 ### Isaiah 37:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Lord our God, save us from their hand so that every kingdom of earth may know that you alone are God.
 - brenton: [missing]
 
 ### Isaiah 37:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah son of Amoz was sent to Hezekiah and said to him, Thus says Lord God of Israel: I heard what you prayed to me concerning Sennacherib king of Assyrians.
 - brenton: [missing]
 
 ### Isaiah 37:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This word God spoke concerning him: Virgin daughter Zion despised you and mocked you; after you daughter Jerusalem shook head.
 - brenton: [missing]
 
 ### Isaiah 37:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whom did you reproach and provoke? Against whom did you raise your voice and did not lift your eyes to height? Against Holy One of Israel.
 - brenton: [missing]
 
 ### Isaiah 37:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because through envoys you reproached Lord. For you said, In multitude of my chariots I went up into height of mountains and into far parts of Lebanon, and I cut down height of its cedar and beauty of cypress and entered height of region of forest.
 - brenton: [missing]
 
 ### Isaiah 37:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I set bridge and made waters desolate and every gathering of waters.
 - brenton: [missing]
 
 ### Isaiah 37:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did you not hear long ago what I did? From ancient days I arranged them. But now I displayed to lay nations waste in strongholds and dwellers in fortified cities.
 - brenton: [missing]
 
 ### Isaiah 37:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I let go hands and they dried up and became as dry grass upon housetops and as field-grass.
 - brenton: [missing]
 
 ### Isaiah 37:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now your resting and your going out and your coming in I know.
 - brenton: [missing]
 
 ### Isaiah 37:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your anger, with which you raged, and your bitterness came up to me, and I will put hook into your nose and bridle on your lips and turn you back by way in which you came.
 - brenton: [missing]
 
 ### Isaiah 37:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this to you = sign: Eat this year what you sowed, and in second year remnant, and in third year sow and reap and plant vineyards and eat their fruit.
 - brenton: [missing]
 
 ### Isaiah 37:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those left in Judah will put forth root down and make seed upward.
 - brenton: [missing]
 
 ### Isaiah 37:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from Jerusalem those left will go out and those being saved from Mount Zion. Zeal of Lord Sabaoth will do these things.
 - brenton: [missing]
 
 ### Isaiah 37:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this thus says Lord concerning king of Assyrians: He certainly will not enter this city, nor certainly cast arrow on it, nor certainly bring shield against it, nor certainly circle palisade around it.
 - brenton: [missing]
 
 ### Isaiah 37:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But by way he came, by it he will turn back, thus says Lord.
 - brenton: [missing]
 
 ### Isaiah 37:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will shield over this city to save it for my sake and for David my servant.
 - brenton: [missing]
 
 ### Isaiah 37:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angel of Lord went out and killed from camp of Assyrians one hundred eighty-five thousand, and rising early in morning they found all bodies dead.
 - brenton: [missing]
 
 ### Isaiah 37:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king of Assyrians turned back and departed and dwelt in Nineveh.
 - brenton: [missing]
 
 ### Isaiah 37:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And while he was bowing in house of Nasarach his ancestral god, Adramelech and Sarasar his sons struck him with swords, but they escaped into Armenia, and Asordan his son reigned in place of him.
 - brenton: [missing]
 
 ### Isaiah 38:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened in that time Hezekiah grew weak unto death, and Isaiah son of Amoz the prophet came to him and said to him, Thus says Lord: Arrange concerning your house, for you die and will not live.
 - brenton: [missing]
 
 ### Isaiah 38:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah turned his face toward wall and prayed to Lord,
 - brenton: [missing]
 
 ### Isaiah 38:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, Remember, Lord, how I walked before you with truth in true heart, and I did pleasing things before you. And Hezekiah wept with great weeping.
 - brenton: [missing]
 
 ### Isaiah 38:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to Isaiah, saying,
 - brenton: [missing]
 
 ### Isaiah 38:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go and say to Hezekiah, Thus says Lord God of David your father: I heard voice of your prayer and saw your tears. Behold, I add fifteen years to your time,
 - brenton: [missing]
 
 ### Isaiah 38:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from hand of king of Assyrians I will save you and shield over this city.
 - brenton: [missing]
 
 ### Isaiah 38:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And this to you = sign from Lord that God will do this word:
 - brenton: [missing]
 
 ### Isaiah 38:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: shadow of stair-steps which sun went down, ten steps of house of your father, I will turn back the sun ten steps. And sun went up ten steps which shadow had gone down.
 - brenton: [missing]
 
 ### Isaiah 38:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prayer of Hezekiah king of Judah when he grew weak and rose from his weakness.
 - brenton: [missing]
 
 ### Isaiah 38:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, In height of my days, in gates of Hades I will leave remaining years.
 - brenton: [missing]
 
 ### Isaiah 38:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I said, I will certainly no longer see salvation of God on earth; I will certainly no longer see man.
 - brenton: [missing]
 
 ### Isaiah 38:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From my kin I left remnant of my life; it went out and departed from me as one striking tent. My spirit by me became as weaver's web coming near to cut off; in that day I was handed over.
 - brenton: [missing]
 
 ### Isaiah 38:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until morning, as lion, thus he crushed my bones. For from day until night I was handed over.
 - brenton: [missing]
 
 ### Isaiah 38:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As swallow thus I will cry, and as dove thus I will meditate, for my eyes failed from looking into height of heaven, toward Lord who delivered me.
 - brenton: [missing]
 
 ### Isaiah 38:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he took away pain of my soul.
 - brenton: [missing]
 
 ### Isaiah 38:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, for concerning this it was announced to you, and you roused my breath, and having comforted, I lived.
 - brenton: [missing]
 
 ### Isaiah 38:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you chose my soul so it might not perish, and you threw all my sins behind me.
 - brenton: [missing]
 
 ### Isaiah 38:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For those in Hades will not praise you, nor will dead bless you, nor will those in Hades hope in your mercy.
 - brenton: [missing]
 
 ### Isaiah 38:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Living ones will bless you, as also I; for from today I will make children who will announce your righteousness.
 - brenton: [missing]
 
 ### Isaiah 38:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord of my salvation, and I will not stop blessing you with psaltery all days of my life before house of God.
 - brenton: [missing]
 
 ### Isaiah 38:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah said to Hezekiah, Take cake of figs and rub and apply as poultice, and you will be healthy.
 - brenton: [missing]
 
 ### Isaiah 38:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah said, This = sign that I will go up into house of Lord God.
 - brenton: [missing]
 
 ### Isaiah 39:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time Marodach son of Laadan, king of Babylonia, sent letters and envoys and gifts to Hezekiah, for he heard he grew weak unto death and rose.
 - brenton: [missing]
 
 ### Isaiah 39:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah rejoiced greatly over them and showed them house of perfumes and myrrh and incenses and ointment and silver and gold and all houses of vessels of treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
 - brenton: [missing]
 
 ### Isaiah 39:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah the prophet came to king Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From far land they came to me, from Babylon.
 - brenton: [missing]
 
 ### Isaiah 39:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah said, What did they see in your house? And Hezekiah said, They saw all things in my house, and there is nothing in my house which they did not see, and also things in my treasures.
 - brenton: [missing]
 
 ### Isaiah 39:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaiah said to him, Hear word of Lord Sabaoth.
 - brenton: [missing]
 
 ### Isaiah 39:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, days come, says Lord, and they will take all things in your house and whatever your fathers gathered until this day into Babylon, and they certainly will not leave anything, but God said,
 - brenton: [missing]
 
 ### Isaiah 39:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from your children whom you begot they will take and make eunuchs in house of king of Babylonians.
 - brenton: [missing]
 
 ### Isaiah 39:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Hezekiah said to Isaiah, Good word of Lord which he spoke. Let there be peace and righteousness in my days.
 - brenton: [missing]
 
 ### Isaiah 40:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Comfort, comfort my people, says God.
 - brenton: [missing]
 
 ### Isaiah 40:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Priests, speak to heart of Jerusalem; comfort her, because her humiliation is filled, her sin is loosed, because she received from hand of Lord double her sins.
 - brenton: [missing]
 
 ### Isaiah 40:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of one crying in wilderness, Prepare way of Lord, make straight paths of our God.
 - brenton: [missing]
 
 ### Isaiah 40:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every ravine will be filled, and every mountain and hill humbled, and all crooked things will be into straightness, and rough things into plains.
 - brenton: [missing]
 
 ### Isaiah 40:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And glory of Lord will be seen, and all flesh will see salvation of God, because Lord spoke.
 - brenton: [missing]
 
 ### Isaiah 40:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Voice of one saying, Cry out. And I said, What shall I cry? All flesh = grass, and all glory of man as flower of grass.
 - brenton: [missing]
 
 ### Isaiah 40:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Grass dried up and flower fell,
 - brenton: [missing]
 
 ### Isaiah 40:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: but word of our God remains forever.
 - brenton: [missing]
 
 ### Isaiah 40:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On high mountain go up, one bringing good news to Zion. Lift your voice with strength, one bringing good news to Jerusalem. Lift up, do not fear; say to cities of Judah, Behold your God.
 - brenton: [missing]
 
 ### Isaiah 40:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, Lord comes with strength, and arm with lordship; behold, his wage with him and work before him.
 - brenton: [missing]
 
 ### Isaiah 40:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in womb.
 - brenton: [missing]
 
 ### Isaiah 40:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who measured water with hand and heaven with span, and who set all earth by handful? Who set mountains with scale and glens with balance?
 - brenton: [missing]
 
 ### Isaiah 40:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who knew mind of Lord, and who became his counselor, who instructs him?
 - brenton: [missing]
 
 ### Isaiah 40:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Or with whom did he take counsel and who instructed him? Or who showed him judgment? Or who showed him way of understanding?
 - brenton: [missing]
 
 ### Isaiah 40:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If all nations as drop from bucket and as tilt of scales were reckoned, and as spit they will be reckoned.
 - brenton: [missing]
 
 ### Isaiah 40:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lebanon not enough for burning, and all four-footed animals not enough for whole burnt offering.
 - brenton: [missing]
 
 ### Isaiah 40:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all nations are as nothing and were reckoned into nothing.
 - brenton: [missing]
 
 ### Isaiah 40:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To whom did you liken Lord, and to what likeness did you liken him?
 - brenton: [missing]
 
 ### Isaiah 40:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Did not craftsman make image, or goldsmith having melted gold gilded it and construct likeness?
 - brenton: [missing]
 
 ### Isaiah 40:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it not be shaken.
 - brenton: [missing]
 
 ### Isaiah 40:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will you not know? Will you not hear? Was it not announced to you from beginning? Did you not know foundations of earth?
 - brenton: [missing]
 
 ### Isaiah 40:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One holding circuit of earth, and those dwelling in it as locusts, one setting heaven as vault and stretching it as tent to dwell in,
 - brenton: [missing]
 
 ### Isaiah 40:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one giving rulers to rule into nothing, and made earth as nothing.
 - brenton: [missing]
 
 ### Isaiah 40:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For they certainly will not sow, nor plant, nor their root certainly take root into earth; he breathed upon them and they dried up, and storm will take them up as brushwood.
 - brenton: [missing]
 
 ### Isaiah 40:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now then to whom did you liken me, that I shall be exalted, said Holy One.
 - brenton: [missing]
 
 ### Isaiah 40:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift eyes on high and see who showed all these, one bringing out his array by number; he will call all by name. From much glory and strength of power nothing escaped you.
 - brenton: [missing]
 
 ### Isaiah 40:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So do not say, Jacob, and what did you speak, Israel? My way was hidden from God, and my God took away judgment and departed.
 - brenton: [missing]
 
 ### Isaiah 40:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now did you not know? Did you not hear? Eternal God, God who prepared ends of earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 - brenton: [missing]
 
 ### Isaiah 40:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Giving strength to hungry ones and grief to those not pained.
 - brenton: [missing]
 
 ### Isaiah 40:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For young men will hunger and grow weary, and chosen youths will be weak.
 - brenton: [missing]
 
 ### Isaiah 40:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But those enduring for God will change strength, they will grow wings as eagles, they will run and not grow weary, they will walk and not hunger.
 - brenton: [missing]
 
 ### Isaiah 41:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Renew yourselves to me, islands, for rulers will change strength. Let them come near and speak together; then let them announce judgment.
 - brenton: [missing]
 
 ### Isaiah 41:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who raised from east righteousness? He called it to his feet and it will go. He will give nations before him and astonish kings and give their swords into earth and their bows as driven brushwood.
 - brenton: [missing]
 
 ### Isaiah 41:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will pursue them and pass through in peace, way of his feet.
 - brenton: [missing]
 
 ### Isaiah 41:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who worked and did these things? He called it from generations of beginning. I = God, first, and in things coming I am.
 - brenton: [missing]
 
 ### Isaiah 41:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nations saw and feared; ends of earth drew near and came together.
 - brenton: [missing]
 
 ### Isaiah 41:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each judging for neighbor and saying to brother, Help.
 - brenton: [missing]
 
 ### Isaiah 41:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Craftsman strengthened, and bronze-smith striking hammer while driving. At one time he says, Joint is good; they strengthened them with nails and they will not be moved.
 - brenton: [missing]
 
 ### Isaiah 41:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you, Israel, my servant, Jacob whom I chose, seed of Abraham whom I loved,
 - brenton: [missing]
 
 ### Isaiah 41:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: whom I took hold from edges of earth and called from its watchpoints, and I said to you, You are my servant; I chose you and did not abandon you.
 - brenton: [missing]
 
 ### Isaiah 41:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear, for I am with you; do not wander, for I am your God, one strengthening you and helping you, and I secured you by my right righteous hand.
 - brenton: [missing]
 
 ### Isaiah 41:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, all opposing you will be ashamed and put to shame, for they will be as not existing, and all your adversaries will perish.
 - brenton: [missing]
 
 ### Isaiah 41:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will seek them and certainly not find men who rage against you, for those fighting against you will be as not existing and will not be.
 - brenton: [missing]
 
 ### Isaiah 41:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For I am your God, holding your right hand, saying to you, Do not fear.
 - brenton: [missing]
 
 ### Isaiah 41:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jacob, little one; Israel, I helped you, says God, one redeeming you, Israel.
 - brenton: [missing]
 
 ### Isaiah 41:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I made you as new threshing wheels of wagon, saw-toothed, and you will thresh mountains and make hills fine and make them as dust.
 - brenton: [missing]
 
 ### Isaiah 41:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will winnow them, and wind will take them and storm scatter them. But you will rejoice in holy things of Israel, and they will exult.
 - brenton: [missing]
 
 ### Isaiah 41:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For poor and needy will seek water and there will not be; their tongue dried up from thirst. I, Lord God, will hear; God of Israel, I will not abandon them.
 - brenton: [missing]
 
 ### Isaiah 41:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I will open rivers on mountains and make springs in midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
 - brenton: [missing]
 
 ### Isaiah 41:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will put in dry land cedar and box tree and myrtle and cypress and white poplar,
 - brenton: [missing]
 
 ### Isaiah 41:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: so that they may see and know and understand and know together that hand of Lord did all these things and Holy One of Israel displayed them.
 - brenton: [missing]
 
 ### Isaiah 41:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your judgment draws near, says Lord God; your counsels drew near, says king of Jacob.
 - brenton: [missing]
 
 ### Isaiah 41:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let them come near and announce to you what will happen, or what former things were; speak, and we will set our mind and know what last things are, and tell us things coming.
 - brenton: [missing]
 
 ### Isaiah 41:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Tell us things coming at end, and we will know that you are gods; do good and do evil, and we will marvel and see together.
 - brenton: [missing]
 
 ### Isaiah 41:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because from where are you, and from where your work? They chose you from land, abomination.
 - brenton: [missing]
 
 ### Isaiah 41:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I raised one from north and one from east of sun; they will be called by my name. Let rulers come, and as potter's clay and as potter treading clay, thus you will be trampled.
 - brenton: [missing]
 
 ### Isaiah 41:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For who will announce from beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
 - brenton: [missing]
 
 ### Isaiah 41:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will give beginning to Zion and comfort Jerusalem for way.
 - brenton: [missing]
 
 ### Isaiah 41:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For from nations, behold, no one, and from their idols there was not one announcing; and if I ask them from where are you, they certainly will not answer me.
 - brenton: [missing]
 
 ### Isaiah 41:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For those making you and leading you astray are vain.
 - brenton: [missing]
 
 ### Isaiah 42:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to nations.
 - brenton: [missing]
 
 ### Isaiah 42:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will not cry out nor raise up, nor will his voice be heard outside.
 - brenton: [missing]
 
 ### Isaiah 42:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Crushed reed he will not break, and smoking flax he will not quench, but into truth he will bring judgment.
 - brenton: [missing]
 
 ### Isaiah 42:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He will shine out and will not be broken until he sets judgment upon earth, and nations will hope on his name.
 - brenton: [missing]
 
 ### Isaiah 42:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God, one making heaven and stretching it, one establishing earth and things in it, and giving breath to people on it and spirit to those walking on it.
 - brenton: [missing]
 
 ### Isaiah 42:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, Lord God, called you in righteousness and will hold your hand and strengthen you, and I gave you into covenant of race, into light of nations,
 - brenton: [missing]
 
 ### Isaiah 42:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to open eyes of blind, bring bound ones out of bonds and those sitting in darkness out of prison house.
 - brenton: [missing]
