@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 12384
-- medium: 2287
-- low: 8091
+- high: 12392
+- medium: 2286
+- low: 8084
 - none: 155
 
 Note:
@@ -3444,9 +3444,9 @@ Note:
 
 ### Genesis 15:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and the Hittites and the Perizzites and the Rephaim,
 - brenton: and the Chettites, and the Pherezites, and the Raphaim,
@@ -5865,9 +5865,9 @@ Note:
 
 ### Genesis 24:58
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they called Rebekah and said to her, Will you go with this man? And she said, I will go.
 - brenton: And they called Rebecca, and said to her, Wilt thou go with this man? and she said, I will go.
@@ -10104,9 +10104,9 @@ Note:
 
 ### Genesis 38:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she conceived and bore a son, and he called his name Er.
 - brenton: And she conceived and bore a son, and called his name, Er.
@@ -32916,9 +32916,9 @@ Note:
 
 ### Numbers 3:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord spoke to Moses in the wilderness of Sinai, saying,
 - brenton: And the Lord spoke to Moses in the wilderness of Sina, saying,
@@ -34257,9 +34257,9 @@ Note:
 
 ### Numbers 7:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Moses took the wagons and the oxen and gave them to the Levites.
 - brenton: And Moses took the waggons and the oxen, and gave them to the Levites.
@@ -38208,9 +38208,9 @@ Note:
 
 ### Numbers 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the priest shall take cedar wood and hyssop and scarlet and cast them into the midst of the burning of the heifer.
 - brenton: And the priest shall take cedar wood and hyssop and scarlet wool, and they shall cast them into the midst of the burning of the heifer.
@@ -40026,9 +40026,9 @@ Note:
 
 ### Numbers 26:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the sons of Phallu: Eliab.
 - brenton: And the sons of Phallu were Eliab,—
@@ -89668,9 +89668,9 @@ Note:
 
 ### 2 Kings 21:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he built altars to all the host of heaven in the two courts of the house of the Lord.
 - brenton: And he built an altar to all the host of heaven in the two courts of the house of the Lord.
