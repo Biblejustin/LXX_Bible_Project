@@ -14,10 +14,10 @@ Selected verses: 6
 - fresh: This one will receive blessing from Lord and mercy from God his savior.
 - brenton: [missing]
 
-## Psalms 24:1
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, soul; crossref_top_vote=92; eng_reco=keep; reco=keep
-- fresh: Psalm of David. To you, Lord, I lifted my soul, O my God.
+## Psalms 68:14
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy, salvation, truth; crossref_top_vote=4; reco=keep
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
 - brenton: [missing]
 
 ## Psalms 83:12

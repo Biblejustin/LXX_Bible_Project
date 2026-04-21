@@ -3,8 +3,8 @@
 Selected verses: 6
 
 ## Joshua 22:5
-- score: 24
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
+- score: 29
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, law, lord, servant, soul; crossref_top_vote=49; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
 - brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
 
@@ -26,11 +26,11 @@ Selected verses: 6
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
-## Joshua 24:15
+## Joshua 23:10
 - score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=150; reco=keep
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=738; reco=keep
+- fresh: One of you chased a thousand, because the Lord your God was fighting for you, just as he said to you.
+- brenton: One of you has chased a thousand, for the Lord our God, he fought for you, as he said to you.
 
 ## Joshua 24:19
 - score: 22

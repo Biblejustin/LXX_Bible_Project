@@ -1,6 +1,6 @@
 # Fresh OT Logos Local Review
 
-Rows: 15
+Rows: 16
 
 ## Exodus 20:24
 - priority: `35`
@@ -17,7 +17,7 @@ Rows: 15
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ## Leviticus 4:31
-- priority: `29`
+- priority: `34`
 - importance: `high`
 - checked: `1`
 - scopes: soteria-sacrifice-formula
@@ -29,6 +29,20 @@ Rows: 15
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## 2 Chronicles 33:16
+- priority: `31`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
 
 ## Genesis 2:7
 - priority: `28`
@@ -44,7 +58,7 @@ Rows: 15
 - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## 2 Chronicles 33:16
+## Leviticus 4:35
 - priority: `26`
 - importance: `high`
 - checked: `1`
@@ -55,8 +69,22 @@ Rows: 15
 - confidence: `high`
 - tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+- fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
+- brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
+
+## Leviticus 4:26
+- priority: `24`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- brenton: And he shall offer up all his fat on the altar, as the fat of the sacrifice of peace-offering; and the priest shall make atonement for him concerning his sin, and it shall be forgiven him.
 
 ## Leviticus 3:1
 - priority: `23`
@@ -100,6 +128,20 @@ Rows: 15
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
+## Leviticus 7:11
+- priority: `22`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
+- brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
+
 ## Exodus 28:30
 - priority: `21`
 - importance: `high`
@@ -127,34 +169,6 @@ Rows: 15
 - summary: Local Logos word-sense index distinguishes spirit, Spirit of God, and soul/spirit crossover. That supports reading pneuma Theou here as Spirit, not mere wind.
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
-
-## Leviticus 3:9
-- priority: `21`
-- importance: `high`
-- checked: `1`
-- scopes: soteria-sacrifice-formula
-- signals: lexical_support
-- supports: salvation-shaped rendering
-- recommendation: `keep`
-- confidence: `high`
-- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
-- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
-- brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
-
-## Leviticus 6:5
-- priority: `21`
-- importance: `high`
-- checked: `1`
-- scopes: soteria-sacrifice-formula
-- signals: lexical_support
-- supports: salvation-shaped rendering
-- recommendation: `keep`
-- confidence: `high`
-- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
-- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
-- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
 
 ## Numbers 6:14
 - priority: `20`

@@ -13,7 +13,7 @@ Rows: 233
 - NT clues: Ps.132.13-Ps.132.14 (32) -> For the LORD has chosen Zion; he has desired it for his habitation.
 
 ## Leviticus 4:31
-- score: 29
+- score: 34
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
@@ -21,6 +21,139 @@ Rows: 233
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - OT clues: Lev.4.26 (6) -> And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Lev.4.35 (5) -> And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Gen.8.21 (4) -> And the Lord God smelled an aroma of sweet fragrance, and the Lord God said, having considered, Let me not continue any longer to curse the earth because of the works of humans, because the mind of the human lies carefully upon evil things from his youth. Therefore I will not continue any longer to strike all living flesh, as I have done. || Lev.1.9 (4) -> And they shall wash the entrails and the feet with water, and the priests shall place everything upon the altar. It is an offering, a sacrifice, an aroma of sweet fragrance to the Lord.
 - NT clues: 1John.4.9-1John.4.10 (3) -> In this was manifested the love (o. agape) of God toward us, because that God sent his only begotten Son into the world, that we might live through him. || 1Pet.2.4-1Pet.2.5 (2) -> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,
+
+## 1 Kings 2:35
+- score: 32
+- top vote: 5
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
+- OT clues: 1Kgs.2.27 (5) -> And Solomon cast out Abiathar from being priest of the Lord, for the word of the Lord to be fulfilled, which he spoke against the house of Eli at Selom. || 1Chr.24.3 (3) -> And Dauid divided them, and Sadok from sons of Eleazar and Achimelech from sons of Ithamar, according to their mustering for their service by houses of their fathers. || 1Chr.29.22 (3) -> And they ate and drank before Lord on that day with joy, and they made Salomon son of Dauid king a second time, and anointed him to Lord as king and Sadok to priesthood. || 1Kgs.4.4 (3) -> and Sadouch and Abiathar, priests,
+- NT clues: Acts.1.20 (2) -> For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
+
+## 2 Chronicles 33:16
+- score: 31
+- top vote: 2
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 2
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- OT clues: 1Kgs.18.30 (2) -> And Elijah said to the people, Come near to me. And all the people came near to him. || 2Chr.14.4 (2) -> And he removed from all cities of Iouda altars and idols, and land was at peace. || 2Chr.29.18 (2) -> And they went inside to Ezekias the king and said, We sanctified all things in house of Lord, altar of whole burnt offering and its vessels and table of presentation and its vessels. || 2Chr.30.12 (2) -> And in Iouda hand of Lord came to give them one heart, to come do according to command of king and rulers in word of Lord.
+
+## 2 Kings 17:34
+- score: 31
+- top vote: 5
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- OT clues: Gen.32.28 (5) -> And he said to him, Your name will no longer be called Jacob, but Israel shall be your name, because you were strong with God, and with men you will be powerful. || Gen.35.10 (5) -> And God said to him, Your name shall no longer be called Jacob, but Israel shall be your name. And he called his name Israel. || 1Kgs.18.31 (3) -> And Elijah took twelve stones according to the number of the tribes of Israel, as the Lord spoke to him, saying, Israel shall be your name. || 2Kgs.17.25 (3) -> And it came to be at the beginning of their dwelling there, they did not fear the Lord, and the Lord sent lions among them, and they were killing among them.
+
+## Deuteronomy 16:2
+- score: 31
+- top vote: 5
+- OT crossrefs: 3
+- NT crossrefs: 5
+- shared-family hits: 2
+- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
+- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Deut.12.26 (4) -> Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula || 2Chr.35.7 (2) -> And Iōsias contributed to sons of people sheep and lambs and kids of goats, all for Passover, to all found, to number of thirty thousand, and three thousand calves; these were from king's possessions.
+- NT clues: 1Cor.5.7 (3) -> Purge out therefore the old leaven, that all of you may be a new lump, as all of you are unleavened. For even Christ our passover is sacrificed for us: || Luke.22.15 (3) -> And he said unto them, With desire I have desired to eat this passover with you before I suffer: || Luke.22.8 (3) -> And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
+
+## 2 Chronicles 12:13
+- score: 30
+- top vote: 5
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 3
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
+- OT clues: 1Kgs.14.21 (5) -> And Roboam son of Solomon reigned over Iouda. Roboam was forty-one years old when he began to reign, and he reigned seventeen years in Ierousalem, the city that the Lord chose to put his name there from all the tribes of Israel, and his mother's name was Naama the Ammanite. || 2Chr.6.6 (4) -> but I chose Ierousalem for my name to be there, and I chose Dauid to be over my people Israel. || Deut.12.5 (4) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || 1Kgs.11.1 (3) -> And King Solomon was a lover of women, and he had seven hundred wives who were rulers and three hundred concubines, and he took foreign wives, and the daughter of Pharao, Moabites, Ammonites, Syrians, Idumeans, Chettites, and Amorrites,
+
+## Deuteronomy 12:21
+- score: 30
+- top vote: 3
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 6
+- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
+- OT clues: Deut.12.5 (3) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || 1Kgs.14.21 (2) -> And Roboam son of Solomon reigned over Iouda. Roboam was forty-one years old when he began to reign, and he reigned seventeen years in Ierousalem, the city that the Lord chose to put his name there from all the tribes of Israel, and his mother's name was Naama the Ammanite. || 2Chr.12.13 (2) -> And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite. | shared-family=name-there-formula || Deut.12.11 (2) -> And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God. | shared-family=name-there-formula
+
+## Deuteronomy 12:26
+- score: 30
+- top vote: 4
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 2
+- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
+- OT clues: Num.18.19 (4) -> All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you. || Num.5.9-Num.5.10 (4) -> And every firstfruit among all the holy things of the sons of Israel, whatever they bring to the Lord, shall be his, for the priest. || 1Sam.1.21-1Sam.1.24 (2) -> And the man Elkana went up, and all his house, to sacrifice in Shilōm the sacrifice of the days and his vows and all the tithes of his land. || Deut.12.11 (2) -> And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God. | shared-family=name-there-formula
+
+## Nehemiah 10:34
+- score: 30
+- top vote: 6
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- OT clues: Neh.13.31 (6) -> and gift of the wood-bearers at appointed times from years and in the firstfruits. Remember me, our God, for goodness. || Isa.40.16 (3) -> Lebanon not enough for burning, and all four-footed animals not enough for whole burnt offering. || Lev.6.12-Lev.6.13 (3) -> And the Lord spoke to Moses, saying, || 1Chr.24.5 (2) -> And he divided them by lots, these with those, because they were chiefs of holy things and chiefs of God among sons of Eleazar and among sons of Ithamar.
+- NT clues: Heb.10.3-Heb.10.7 (2) -> But in those sacrifices there is a remembrance again made of sins every year.
+
+## 1 Chronicles 22:19
+- score: 29
+- top vote: 12
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
+- OT clues: 1Chr.28.9 (12) -> And now, Salomon my son, know God of your fathers and serve him with complete heart and willing soul, because Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end. || Deut.4.29 (11) -> And there you shall seek the Lord your God and find him when you seek him out from all your heart and from all your soul in your affliction. || 1Chr.16.11 (9) -> Seek Lord and grow strong; seek his face continually. || Ps.27.4 (8) -> Give to them according to their works and according to evil of their pursuits; according to works of their hands give to them; repay to them their repayment.
+
+## Deuteronomy 12:11
+- score: 29
+- top vote: 5
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 3
+- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
+- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Deut.15.20 (5) -> Before the Lord your God you shall eat it, year by year, in the place that the Lord your God chooses, you and your household. || Deut.16.2-Deut.16.8 (3) -> And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula || Deut.17.8 (3) -> And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula
+- NT clues: John.4.20-John.4.23 (3) -> Our fathers worshipped in this mountain; and all of you say, that in Jerusalem is the place where men ought to worship. || 1Kgs.8.13 (2) -> I have surely built you an house to dwell in, a settled place for you to abide in for ever.
+
+## Deuteronomy 17:8
+- score: 29
+- top vote: 5
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 1
+- fresh: And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there.
+- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Hag.2.11 (4) -> Thus says Lord Almighty: Ask priests about law, saying, || Deut.1.17 (3) -> You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it. || 1Kgs.3.16-1Kgs.3.28 (2) -> Then two prostitute women appeared to the king and stood before him.
+
+## Joshua 22:5
+- score: 29
+- top vote: 49
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
+- OT clues: Exod.20.6 (42) -> "and showing mercy into thousands for those who love me and keep my commandments." || Exod.15.26 (7) -> And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you." || Deut.11.22 (6) -> And it shall be, if indeed you listen to all these commands that I command you today to do, to love the Lord our God and to walk in all his ways and cling to him, || Josh.24.14-Josh.24.15 (4) -> And now fear the Lord and serve him in uprightness and in righteousness, and remove the foreign gods that your fathers served beyond the river and in Egypt, and serve the Lord.
+- NT clues: Matt.22.37 (49) -> Jesus said unto him, You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. || Rom.8.28 (33) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose. || John.14.15 (5) -> If all of you love me, keep my commandments.
+
+## 2 Chronicles 7:14
+- score: 28
+- top vote: 297
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
+- OT clues: Lam.3.40-Lam.3.41 (297) -> Our way was searched out and examined, and let us turn back to Lord. || Isa.55.6-Isa.55.7 (270) -> Seek God, and when you find him call on him when he draws near you. || Prov.28.13 (189) -> One covering his ungodliness will not prosper, but one confessing rebukes will be loved. || 2Chr.6.37-2Chr.6.39 (162) -> and they will turn heart in their land where they were taken, and indeed turn and entreat you in their captivity, saying, We sinned, we acted unjustly, we acted lawlessly,
+- NT clues: Jas.4.9-Jas.4.10 (270) -> Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
+
+## 2 Chronicles 9:8
+- score: 28
+- top vote: 5
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- OT clues: 2Chr.2.11 (5) -> And Chiram said, Blessed Lord God of Israel who made heaven and earth, who gave to king Dauid wise son, knowing understanding and knowledge, who will build house to Lord and house for his kingdom. || 1Chr.29.23 (4) -> And Salomon sat on throne of Dauid his father and prospered, and all Israel listened to him. || Isa.32.1-Isa.32.2 (4) -> For behold, righteous king will reign, and rulers will rule with judgment. || Deut.7.8 (3) -> but because the Lord loves you and keeps the oath that he swore to your fathers, the Lord brought you out with mighty hand and high arm, and he redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
+- NT clues: Heb.1.8-Heb.1.9 (3) -> But unto the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
 
 ## Genesis 2:7
 - score: 28
@@ -32,70 +165,25 @@ Rows: 233
 - OT clues: Eccl.12.7 (41) -> And dust returns upon earth as it was, and spirit returns to God who gave it. || Job.33.4 (41) -> Divine spirit made me, and breath of Almighty teaches me. || Isa.64.8 (34) -> Do not be very angry with us and do not remember our sins in season. And now look, because we all your people. || Job.27.3 (21) -> as long as my breath is still in me and divine spirit in my nostrils,
 - NT clues: 1Cor.15.45 (40) -> And so it is written, The first man Adam was made a living soul; the last Adam was made a life-giving spirit. (o. pneuma) || Acts.17.25 (27) -> Neither is worshipped with men's hands, as though he needed any thing, seeing he gives to all life, and breath, and all things; || 1Cor.15.47 (24) -> The first man is of the earth, earthy; the second man is the Lord from heaven.
 
-## 1 Kings 2:35
-- score: 27
-- top vote: 5
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
-- OT clues: 1Kgs.2.27 (5) -> And Solomon cast out Abiathar from being priest of the Lord, for the word of the Lord to be fulfilled, which he spoke against the house of Eli at Selom. || 1Chr.24.3 (3) -> And Dauid divided them, and Sadok from sons of Eleazar and Achimelech from sons of Ithamar, according to their mustering for their service by houses of their fathers. || 1Chr.29.22 (3) -> And they ate and drank before Lord on that day with joy, and they made Salomon son of Dauid king a second time, and anointed him to Lord as king and Sadok to priesthood. || 1Kgs.4.4 (3) -> and Sadouch and Abiathar, priests,
-- NT clues: Acts.1.20 (2) -> For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
-
-## 2 Chronicles 33:16
-- score: 26
-- top vote: 2
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 2
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- OT clues: 1Kgs.18.30 (2) -> And Elijah said to the people, Come near to me. And all the people came near to him. || 2Chr.14.4 (2) -> And he removed from all cities of Iouda altars and idols, and land was at peace. || 2Chr.29.18 (2) -> And they went inside to Ezekias the king and said, We sanctified all things in house of Lord, altar of whole burnt offering and its vessels and table of presentation and its vessels. || 2Chr.30.12 (2) -> And in Iouda hand of Lord came to give them one heart, to come do according to command of king and rulers in word of Lord.
-
-## 2 Kings 17:34
+## Leviticus 4:35
 - score: 26
 - top vote: 5
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
-- OT clues: Gen.32.28 (5) -> And he said to him, Your name will no longer be called Jacob, but Israel shall be your name, because you were strong with God, and with men you will be powerful. || Gen.35.10 (5) -> And God said to him, Your name shall no longer be called Jacob, but Israel shall be your name. And he called his name Israel. || 1Kgs.18.31 (3) -> And Elijah took twelve stones according to the number of the tribes of Israel, as the Lord spoke to him, saying, Israel shall be your name. || 2Kgs.17.25 (3) -> And it came to be at the beginning of their dwelling there, they did not fear the Lord, and the Lord sent lions among them, and they were killing among them.
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 1
+- fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
+- OT clues: Lev.4.26 (5) -> And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Lev.4.20 (4) -> And he shall do to the calf just as he did to the calf for sin; so shall it be done. And the priest shall make atonement for them, and it shall be forgiven them. || Lev.14.18 (3) -> And the oil remaining on the priest's hand the priest shall place on the head of the one cleansed, and the priest shall make atonement for him before the Lord. || Lev.6.7 (3) -> This is the law of the sacrifice that the sons of Aaron shall bring before the Lord, before the altar.
+- NT clues: 1John.1.7 (2) -> But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanses us from all sin. || 1John.2.2 (2) -> And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world. || 1John.4.9-1John.4.10 (2) -> In this was manifested the love (o. agape) of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
 
-## Deuteronomy 16:2
-- score: 26
-- top vote: 5
-- OT crossrefs: 3
-- NT crossrefs: 5
-- shared-family hits: 2
-- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
-- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Deut.12.26 (4) -> Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula || 2Chr.35.7 (2) -> And Iōsias contributed to sons of people sheep and lambs and kids of goats, all for Passover, to all found, to number of thirty thousand, and three thousand calves; these were from king's possessions.
-- NT clues: 1Cor.5.7 (3) -> Purge out therefore the old leaven, that all of you may be a new lump, as all of you are unleavened. For even Christ our passover is sacrificed for us: || Luke.22.15 (3) -> And he said unto them, With desire I have desired to eat this passover with you before I suffer: || Luke.22.8 (3) -> And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
-
-## 2 Chronicles 12:13
-- score: 25
-- top vote: 5
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 3
-- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
-- OT clues: 1Kgs.14.21 (5) -> And Roboam son of Solomon reigned over Iouda. Roboam was forty-one years old when he began to reign, and he reigned seventeen years in Ierousalem, the city that the Lord chose to put his name there from all the tribes of Israel, and his mother's name was Naama the Ammanite. || 2Chr.6.6 (4) -> but I chose Ierousalem for my name to be there, and I chose Dauid to be over my people Israel. || Deut.12.5 (4) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || 1Kgs.11.1 (3) -> And King Solomon was a lover of women, and he had seven hundred wives who were rulers and three hundred concubines, and he took foreign wives, and the daughter of Pharao, Moabites, Ammonites, Syrians, Idumeans, Chettites, and Amorrites,
-
-## Deuteronomy 12:21
+## Deuteronomy 16:6
 - score: 25
 - top vote: 3
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 6
-- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
-- OT clues: Deut.12.5 (3) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || 1Kgs.14.21 (2) -> And Roboam son of Solomon reigned over Iouda. Roboam was forty-one years old when he began to reign, and he reigned seventeen years in Ierousalem, the city that the Lord chose to put his name there from all the tribes of Israel, and his mother's name was Naama the Ammanite. || 2Chr.12.13 (2) -> And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite. | shared-family=name-there-formula || Deut.12.11 (2) -> And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God. | shared-family=name-there-formula
-
-## Deuteronomy 12:26
-- score: 25
-- top vote: 4
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 2
-- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
-- OT clues: Num.18.19 (4) -> All the contributions of the holy things, whatever the sons of Israel remove for the Lord, I have given to you and to your sons and your daughters with you, an everlasting statute. It is a covenant of everlasting salt before the Lord for you and for your seed after you. || Num.5.9-Num.5.10 (4) -> And every firstfruit among all the holy things of the sons of Israel, whatever they bring to the Lord, shall be his, for the priest. || 1Sam.1.21-1Sam.1.24 (2) -> And the man Elkana went up, and all his house, to sacrifice in Shilōm the sacrifice of the days and his vows and all the tithes of his land. || Deut.12.11 (2) -> And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God. | shared-family=name-there-formula
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 1
+- fresh: but only at the place that the Lord your God chooses for his name to be called there, there you shall sacrifice the Passover in the evening, at the setting of the sun, at the time when you came out from Egypt.
+- OT clues: Deut.12.5 (3) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Exod.12.6-Exod.12.9 (2) -> "And it shall be kept by you until the fourteenth day of this month, and the whole multitude of the assembly of the sons of Israel shall slaughter it toward evening." || Num.9.11 (2) -> then in the second month, on the fourteenth day toward evening, they shall keep it. With unleavened bread and bitter herbs they shall eat it. || Num.9.3 (2) -> On the fourteenth day of the first month, toward evening, you shall keep it at its appointed times. According to its law and according to its ordinance you shall keep it.
+- NT clues: 1Pet.1.19-1Pet.1.20 (3) -> But with the precious blood of Christ, as of a lamb without blemish and without spot: || Heb.9.26 (3) -> For then must he often have suffered since the foundation of the world: but now once in the end of the world has he appeared to put away sin by the sacrifice of himself. || Matt.26.20 (3) -> Now when the even was come, he sat down with the twelve.
 
 ## Leviticus 5:15
 - score: 25
@@ -106,25 +194,6 @@ Rows: 233
 - fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - OT clues: Exod.30.13 (5) -> And this is what they shall give, all who pass through the visitation: half the didrachm, according to the didrachm of the sanctuary. Twenty obols to the didrachm. But the half-didrachm is an offering to the Lord. || Lev.4.2 (4) -> Speak to the sons of Israel, saying, If a person sins unintentionally before the Lord in any of the commands of the Lord about things that ought not to be done, and does one of them, || Deut.15.19-Deut.15.20 (3) -> Every firstborn, whatever is born among your cattle and your sheep, the males, you shall consecrate to the Lord your God. You shall not work with your firstborn calf, nor shall you shear the firstborn of your sheep. || Ezra.10.19 (3) -> And they gave their hands to put out their wives, and for their trespass a ram from the sheep for their trespass.
 
-## Nehemiah 10:34
-- score: 25
-- top vote: 6
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
-- OT clues: Neh.13.31 (6) -> and gift of the wood-bearers at appointed times from years and in the firstfruits. Remember me, our God, for goodness. || Isa.40.16 (3) -> Lebanon not enough for burning, and all four-footed animals not enough for whole burnt offering. || Lev.6.12-Lev.6.13 (3) -> And the Lord spoke to Moses, saying, || 1Chr.24.5 (2) -> And he divided them by lots, these with those, because they were chiefs of holy things and chiefs of God among sons of Eleazar and among sons of Ithamar.
-- NT clues: Heb.10.3-Heb.10.7 (2) -> But in those sacrifices there is a remembrance again made of sins every year.
-
-## 1 Chronicles 22:19
-- score: 24
-- top vote: 12
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
-- OT clues: 1Chr.28.9 (12) -> And now, Salomon my son, know God of your fathers and serve him with complete heart and willing soul, because Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end. || Deut.4.29 (11) -> And there you shall seek the Lord your God and find him when you seek him out from all your heart and from all your soul in your affliction. || 1Chr.16.11 (9) -> Seek Lord and grow strong; seek his face continually. || Ps.27.4 (8) -> Give to them according to their works and according to evil of their pursuits; according to works of their hands give to them; repay to them their repayment.
-
 ## 2 Chronicles 35:3
 - score: 24
 - top vote: 5
@@ -134,25 +203,6 @@ Rows: 233
 - fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to Lord and placed holy ark in house which Salōmōn son of Dauid king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to Lord your God and to his people Israel.
 - OT clues: 1Chr.23.26 (5) -> And Levites were no longer carrying tent and all its vessels for its service. || 2Chr.17.8-2Chr.17.9 (4) -> and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests. || 2Chr.30.22 (4) -> And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers. || Deut.33.10 (4) -> They shall declare your ordinances to Jacob and your law to Israel. They shall place incense in your anger, always upon your altar.
 - NT clues: 2Cor.4.5 (3) -> For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
-
-## Deuteronomy 12:11
-- score: 24
-- top vote: 5
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 3
-- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
-- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Deut.15.20 (5) -> Before the Lord your God you shall eat it, year by year, in the place that the Lord your God chooses, you and your household. || Deut.16.2-Deut.16.8 (3) -> And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula || Deut.17.8 (3) -> And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there. | shared-family=name-there-formula
-- NT clues: John.4.20-John.4.23 (3) -> Our fathers worshipped in this mountain; and all of you say, that in Jerusalem is the place where men ought to worship. || 1Kgs.8.13 (2) -> I have surely built you an house to dwell in, a settled place for you to abide in for ever.
-
-## Deuteronomy 17:8
-- score: 24
-- top vote: 5
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 1
-- fresh: And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there.
-- OT clues: Deut.12.5 (5) -> But only to the place that the Lord your God chooses in one of your tribes, to have his name called there, you shall seek, and you shall go in there. | shared-family=name-there-formula || Hag.2.11 (4) -> Thus says Lord Almighty: Ask priests about law, saying, || Deut.1.17 (3) -> You shall not recognize a face in judgment. By the small and by the great you shall judge. You shall not shrink from a man's face, because the judgment is Gods. And the matter that is hard for you, you shall bring it up to me, and I will hear it. || 1Kgs.3.16-1Kgs.3.28 (2) -> Then two prostitute women appeared to the king and stood before him.
 
 ## Isaiah 59:21
 - score: 24
@@ -174,35 +224,14 @@ Rows: 233
 - OT clues: Jer.23.5-Jer.23.6 (111) -> Behold, days come, says Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth. || Isa.7.14 (96) -> Therefore Lord himself will give you sign: Behold, virgin in womb will have and bear son, and you will call his name Immanuel.
 - NT clues: Luke.2.11 (177) -> For unto you is born this day in the city of David a Saviour, which is Christ the Lord. || Matt.28.18 (117) -> And Jesus came and spoke unto them, saying, All power is given unto me in heaven and in earth. || Matt.1.23 (78) -> Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 
-## Joshua 22:5
+## Leviticus 4:26
 - score: 24
-- top vote: 49
-- OT crossrefs: 4
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
-- OT clues: Exod.20.6 (42) -> "and showing mercy into thousands for those who love me and keep my commandments." || Exod.15.26 (7) -> And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you." || Deut.11.22 (6) -> And it shall be, if indeed you listen to all these commands that I command you today to do, to love the Lord our God and to walk in all his ways and cling to him, || Josh.24.14-Josh.24.15 (4) -> And now fear the Lord and serve him in uprightness and in righteousness, and remove the foreign gods that your fathers served beyond the river and in Egypt, and serve the Lord.
-- NT clues: Matt.22.37 (49) -> Jesus said unto him, You shall love the Lord your God with all your heart, and with all your soul, and with all your mind. || Rom.8.28 (33) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose. || John.14.15 (5) -> If all of you love me, keep my commandments.
-
-## 2 Chronicles 7:14
-- score: 23
-- top vote: 297
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
-- OT clues: Lam.3.40-Lam.3.41 (297) -> Our way was searched out and examined, and let us turn back to Lord. || Isa.55.6-Isa.55.7 (270) -> Seek God, and when you find him call on him when he draws near you. || Prov.28.13 (189) -> One covering his ungodliness will not prosper, but one confessing rebukes will be loved. || 2Chr.6.37-2Chr.6.39 (162) -> and they will turn heart in their land where they were taken, and indeed turn and entreat you in their captivity, saying, We sinned, we acted unjustly, we acted lawlessly,
-- NT clues: Jas.4.9-Jas.4.10 (270) -> Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
-
-## 2 Chronicles 9:8
-- score: 23
-- top vote: 5
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
-- OT clues: 2Chr.2.11 (5) -> And Chiram said, Blessed Lord God of Israel who made heaven and earth, who gave to king Dauid wise son, knowing understanding and knowledge, who will build house to Lord and house for his kingdom. || 1Chr.29.23 (4) -> And Salomon sat on throne of Dauid his father and prospered, and all Israel listened to him. || Isa.32.1-Isa.32.2 (4) -> For behold, righteous king will reign, and rulers will rule with judgment. || Deut.7.8 (3) -> but because the Lord loves you and keeps the oath that he swore to your fathers, the Lord brought you out with mighty hand and high arm, and he redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt.
-- NT clues: Heb.1.8-Heb.1.9 (3) -> But unto the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
+- top vote: 4
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 2
+- fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- OT clues: Lev.4.20 (4) -> And he shall do to the calf just as he did to the calf for sin; so shall it be done. And the priest shall make atonement for them, and it shall be forgiven them. || Lev.3.5 (3) -> And the sons of Aaron, the priests, shall offer them on the altar upon the whole burnt offerings, upon the wood on the fire on the altar, an offering, an aroma of sweet fragrance to the Lord. || Lev.4.31 (3) -> And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula || Lev.4.35 (3) -> And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him. | shared-family=soteria-sacrifice-formula
 
 ## Amos 9:12
 - score: 23
@@ -223,16 +252,6 @@ Rows: 233
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. Gods of nations have no power in themselves to turn kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - OT clues: Ps.33.4-Ps.33.5 (10) -> Magnify Lord with me, and let us lift up his name together. || 1Sam.2.3 (6) -> Do not boast and do not speak lofty things; let no big speaking go out from your mouth, because the Lord is a God of knowings and a God preparing his practices. || Deut.32.4 (5) -> God, his works are true, and all his ways are judgments, faithful God, and there is no injustice, righteous and holy is the Lord. || Exod.18.11 (4) -> "Now I know that the Lord is great above all the gods, because in this matter they acted arrogantly against them."
 - NT clues: Jas.4.6-Jas.4.7 (16) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble. || 1Pet.5.5-1Pet.5.6 (7) -> Likewise, all of you younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble. || 1Pet.2.9-1Pet.2.10 (4) -> But all of you are a chosen generation, a royal priesthood, an holy nation, an exclusive people; that all of you should show forth the praises of him who has called you out of darkness into his marvellous light;
-
-## Deuteronomy 16:16
-- score: 23
-- top vote: 104
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: Three times in the year every male among you shall appear before the Lord your God in the place that the Lord chooses: in the Feast of Unleavened Bread and in the Feast of Weeks and in the Feast of Tabernacle-making. You shall not appear before the Lord your God empty,
-- OT clues: Prov.3.9-Prov.3.10 (104) -> Honor Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness. || Ps.96.8 (104) -> Zion heard and rejoiced, and daughters of Judea exulted because of your judgments, Lord. || Hag.1.9 (78) -> You looked for much, and it became little, and it was brought into house, and I blew it away. Because of what? says Lord Almighty. Because my house is desolate, while you each hurry to your own house. || Exod.23.14-Exod.23.17 (74) -> Three times of the year celebrate a feast to me.
-- NT clues: Matt.2.11 (67) -> And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense and myrrh.
 
 ## Isaiah 12:2
 - score: 23
@@ -293,6 +312,16 @@ Rows: 233
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moyses servant of God,
 - OT clues: Num.28.3-Num.28.8 (4) -> And you shall say to them, These are the fruit-gifts that you shall bring near to the Lord: two one-year lambs without blemish each day for a continual whole burnt offering. || Exod.29.38-Exod.29.42 (3) -> And these are the things that you shall offer upon the altar: two year-old flawless lambs each day upon the altar continually, a continual offering. || 1Kgs.18.29 (2) -> And they prophesied until the evening passed, and it came to be at the time for the sacrifice to go up, and there was no voice. And Elijah the Thesbite spoke to the prophets of the abominations, saying, Stand aside now, and I will make my whole burnt offering. And they stood aside and went away. || 2Chr.2.4 (2) -> And house which I am building is great, because our God is great above all gods.
 
+## 1 Kings 10:9
+- score: 22
+- top vote: 8
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: May the Lord your God be blessed, who delighted in you to give you upon the throne of Israel, because the Lord loved Israel to establish it forever, and he set you as king over them to do judgment in righteousness and in their judgments.
+- OT clues: Ps.72.2 (8) -> But as for me, my feet were almost shaken; my steps all but poured out. || 2Sam.8.15 (5) -> And David reigned over Israel, and David was doing judgment and righteousness over all his people. || 2Chr.2.11 (4) -> And Chiram said, Blessed Lord God of Israel who made heaven and earth, who gave to king Dauid wise son, knowing understanding and knowledge, who will build house to Lord and house for his kingdom. || Isa.42.1 (4) -> Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to nations.
+- NT clues: 1Kgs.5.7 (7) -> And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which has given unto David a wise son over this great people.
+
 ## 1 Kings 12:24
 - score: 22
 - top vote: 4
@@ -311,6 +340,16 @@ Rows: 233
 - fresh: The Lord will make his adversary weak; the Lord is holy. Let not the wise boast in his wisdom, and let not the strong boast in his strength, and let not the rich boast in his wealth, but in this let the boasting one boast: to understand and know the Lord and to do judgment and righteousness in the midst of the earth. The Lord went up into the heavens and thundered; he will judge the ends of the earth and gives strength to our kings and will lift up the horn of his anointed.
 - OT clues: Ps.2.9 (9) -> You will shepherd them with iron rod; like potter's vessel you will shatter them. || Exod.15.6 (7) -> "Your right hand, O Lord, has been glorified in strength; your right hand, O Lord, shattered enemies." || Ps.18.13-Ps.18.14 (7) -> Who will understand trespasses? From my hidden ones cleanse me, || 1Sam.7.10 (6) -> And Samouēl was offering up the whole burnt offering, and the foreigners drew near for battle against Israel, and the Lord thundered with a great voice on that day against the foreigners and confused them, and they stumbled before Israel.
 - NT clues: Ps.89.24 (8) -> But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted. || Ps.96.13 (7) -> Before the LORD: for he comes, for he comes to judge the earth: he shall judge the world with righteousness, and the people with his truth.
+
+## 2 Kings 9:18
+- score: 22
+- top vote: 3
+- OT crossrefs: 5
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: And a horseman went to meet them and said, Thus says the king, Is it peace? And Iou said, What is peace to you? Turn behind me. And the watchman reported, saying, The messenger came to them and did not return.
+- OT clues: 2Kgs.9.19 (3) -> And he sent a second horseman, and he came to him and said, Thus says the king, Is it peace? And Iou said, What is peace to you? Turn behind me. || 2Kgs.9.22 (3) -> And it came to be, when Ioram saw Iou, he said, Is it peace, Iou? And Iou said, What peace, while the whoredoms of Jezabel your mother and her many sorceries remain? || Isa.48.22 (2) -> No rejoicing for ungodly, says Lord. || Isa.59.8 (2) -> They do not know way of peace, and no judgment in their ways, for their paths twisted, which they travel, and they do not know peace.
+- NT clues: Rom.3.17 (2) -> And the way of peace have they not known:
 
 ## Exodus 14:31
 - score: 22
@@ -389,6 +428,15 @@ Rows: 233
 - OT clues: Exod.23.21 (8) -> Pay attention to yourself and listen to him, and do not disobey him, for he will never yield to you, because my name is upon him. || Isa.5.16 (8) -> And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness. || Ps.99.5 (7) -> Because Lord kind; forever his mercy, and unto generation and generation his truth. || Exod.20.5 (6) -> "You shall not bow down to them, nor indeed serve them, for I am the Lord your God, a jealous God, repaying fathers' sins upon children to the third and fourth generation of those who hate me,"
 - NT clues: Ps.99.9 (7) -> Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.
 
+## Leviticus 7:11
+- score: 22
+- top vote: 2
+- OT crossrefs: 3
+- NT crossrefs: 0
+- shared-family hits: 2
+- fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
+- OT clues: Ezek.45.15 (2) -> And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says Lord God. | shared-family=soteria-sacrifice-formula || Lev.22.18-Lev.22.21 (2) -> Speak to Aaron and to his sons and to all the congregation of Israel, and you shall say to them: Any man from the sons of Israel or from the sons of the newcomers attached to them in Israel who brings his gifts according to all their vows or according to all their freewill choices, whatever they may bring to God as a whole burnt offering, || Lev.3.1-Lev.3.17 (2) -> And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord. | shared-family=soteria-sacrifice-formula
+
 ## Micah 6:8
 - score: 22
 - top vote: 186
@@ -458,6 +506,16 @@ Rows: 233
 - OT clues: Ps.79.9-Ps.79.10 (3) -> You transplanted vine out of Egypt; you cast out nations and planted her. || 1Chr.16.9-1Chr.16.10 (2) -> Sing to him and hymn to him; tell all his wonders, those things Lord did.
 - NT clues: Ps.106.47-Ps.106.48 (8) -> Save us, O LORD our God, and gather us from among the heathen, to give thanks unto your holy name, and to triumph in your praise. || 1Pet.2.9 (5) -> But all of you are a chosen generation, a royal priesthood, an holy nation, an exclusive people; that all of you should show forth the praises of him who has called you out of darkness into his marvellous light; || 1Pet.2.5 (3) -> All of you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
+## 1 Samuel 26:19
+- score: 21
+- top vote: 6
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
+- OT clues: 2Sam.14.16 (6) -> Because the king will listen to rescue his servant from the hand of the man seeking to remove me and my son from the inheritance of God. || 2Sam.16.11 (5) -> And David said to Abessa and to all his servants, Behold, my son who came out of my belly seeks my life, and how much more now this son of the Jeminaian. Leave him to curse, because the Lord told him. || 2Sam.20.19 (5) -> I am one of the peaceful, of the strongholds of Israel, but you seek to put to death a city and a mother-city in Israel. Why are you drowning the inheritance of the Lord? || 1Chr.21.1 (4) -> And slanderer stood up against Israel and stirred Dauid to number Israel.
+- NT clues: 1Sam.18.10 (4) -> And it came to pass on the next day, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand. || Gal.1.8-Gal.1.9 (4) -> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
+
 ## 2 Chronicles 6:20
 - score: 21
 - top vote: 5
@@ -477,6 +535,26 @@ Rows: 233
 - OT clues: 1Sam.29.9 (5) -> And Anchous answered David, I know that you are good in my eyes, but the satraps of the foreigners say, He will not come with us into battle. || 2Sam.19.27 (5) -> And Mephibosthe said to him, My lord king, my servant deceived me. For your servant said to him, Saddle the donkey for me, and I will mount it and go with the king, because your servant is lame. || 2Sam.14.20 (4) -> For the sake of turning the face of this matter, your servant Iōab did this thing, and my lord is wise like the wisdom of an angel of God, to know all the things on the earth. || 1Kgs.3.9 (3) -> And you will give your servant a heart that hears and discerns your people in righteousness, to understand between good and evil. For who will be able to judge this heavy people of yours?
 - NT clues: 1Cor.2.14-1Cor.2.15 (2) -> But the natural man receives not the things of the Spirit (o. pneuma) of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. || Heb.5.14 (2) -> But strong food belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
 
+## 2 Samuel 22:51
+- score: 21
+- top vote: 5
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: magnifying the salvations of his king and doing mercy for his anointed, for David and for his seed forever.
+- OT clues: 2Sam.7.12-2Sam.7.13 (5) -> And it will be, if your days are fulfilled and you sleep with your fathers, I will raise up your seed after you, who will be from your belly, and I will make his kingdom ready. || Ps.144.10 (5) -> Let all your works give thanks to you, Lord, and let your holy ones bless you. || 2Sam.22.2 (3) -> And he said, O Lord, my rock and my fortress and my rescuer for me, || Jer.30.9 (3) -> I made you small among nations, despised among men.
+- NT clues: Ps.18.50 (5) -> Great deliverance gives he to his king; and shows mercy to his anointed, to David, and to his seed for evermore. || Ps.89.20 (5) -> I have found David my servant; with my holy oil have I anointed him: || Ps.89.29 (5) -> His seed also will I make to endure for ever, and his throne as the days of heaven.
+
+## 2 Samuel 3:21
+- score: 21
+- top vote: 5
+- OT crossrefs: 5
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: And Abennēr said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abennēr away, and he went in peace.
+- OT clues: 1Kgs.11.37 (5) -> And I will take you, and you will reign over whatever your soul desires, and you will be king over Israel. || 2Sam.3.12 (5) -> And Abennēr sent messengers to David in Thailaim, where he was at once, saying, Make your covenant with me, and behold, my hand is with you, to turn all the house of Israel to you. || 2Sam.3.10 (4) -> to take away the kingdom from the house of Saoul and to raise up the throne of David over Israel and over Iouda from Dan to Bērsabee. || 2Sam.2.9 (2) -> And he made him king over Galaaditēs and over Thasiri and over Iezraēl and over Ephraim and over Benjamin and over all Israel.
+- NT clues: Phil.2.21 (2) -> For all seek their own, not the things which are Jesus Christ's.
+
 ## Exodus 14:13
 - score: 21
 - top vote: 78
@@ -495,6 +573,15 @@ Rows: 233
 - fresh: And you shall put on the breastpiece of judgments the Disclosure and the Truth, and it shall be on Aaron's chest when he goes into the holy place before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his chest before the Lord continually.
 - OT clues: Ezra.2.63 (9) -> And Atharsatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections. || Neh.7.65 (9) -> And Atharsatha said that they should not eat from the holy of holies until the priest might arise giving light. || Deut.33.8 (8) -> And to Levi he said, Give Levi his disclosures and his truth to the holy man whom they tested in testing, they reviled him at the water of contradiction, || Num.27.21 (8) -> And he shall stand before Eleazar the priest, and they shall inquire for him the judgment of the Disclosures before the Lord. At his word they shall go out, and at his word they shall come in, he and the sons of Israel together and the whole congregation.
 - NT clues: Heb.4.15 (5) -> For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like we are, yet without sin.
+
+## Exodus 3:18
+- score: 21
+- top vote: 11
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
+- OT clues: Exod.9.1 (11) -> And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me. || Exod.7.16 (9) -> And you shall say to him, The Lord, the God of the Hebrews, has sent me to you, saying, Send out my people so that they may serve me in the wilderness, and look, until now you have not listened. || Exod.10.24-Exod.10.26 (5) -> Then Pharaoh called Moses and Aaron, saying, "Go, serve the Lord your God. Only leave the sheep and cattle behind, and let your baggage go along with you." || Exod.10.3 (4) -> Then Moses and Aaron went in before Pharaoh and said to him, "These things says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
 
 ## Genesis 1:2
 - score: 21
@@ -523,15 +610,15 @@ Rows: 233
 - fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
 - OT clues: Exod.23.20 (10) -> And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you. || Ps.16.8 (6) -> Guard me as apple of eye; in shelter of your wings you will cover me || Exod.33.2 (5) -> And I will send my angel with you and drive out the Amorite and Hittite and Perizzite and Girgashite and Hivite and Jebusite. || Gen.17.1 (5) -> And Abram became ninety-nine years old, and the Lord appeared to Abram and said to him, I am your God. Be well-pleasing before me and become blameless.
 
-## Isaiah 49:7
+## Isaiah 5:16
 - score: 21
-- top vote: 12
-- OT crossrefs: 6
-- NT crossrefs: 2
+- top vote: 17
+- OT crossrefs: 7
+- NT crossrefs: 1
 - shared-family hits: 0
-- fresh: Thus says Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to servant of rulers: Kings will see and rise, rulers also, and will worship, because of Lord, because Holy One of Israel is faithful, and he chose you.
-- OT clues: Isa.53.3 (11) -> But his form dishonored, failing beyond all men, man in wound and knowing how to bear sickness, because his face is turned away; he was dishonored and not counted. || Isa.48.17 (10) -> Thus says Lord, one rescuing you, Holy One of Israel: I am your God. I showed you to find way in which you should walk. || Ps.22.6-Ps.22.8 (9) -> And your mercy will pursue me all days of my life, and my dwelling in house of Lord to length of days. || Ps.72.10-Ps.72.11 (9) -> Therefore my people will return here, and full days will be found for them.
-- NT clues: 1Pet.2.4 (12) -> To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, || Matt.26.67 (11) -> Then did they spit in his face, and buffeted him; and others stroke him with the palms of their hands,
+- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
+- OT clues: Ps.46.10 (17) -> Rulers of peoples gathered with God of Abraham, because mighty ones of earth belong to God; they were greatly exalted. || 1Chr.29.11 (11) -> Yours, Lord, are greatness and power and boasting and victory and strength, because you rule all things in heaven and on earth; before your face every king and nation is troubled. || Isa.12.4 (11) -> And you will say in that day, sing hymn to Lord, cry his name, announce among nations his glorious things, remember that his name was exalted. || Ezek.36.23 (10) -> And I will sanctify my great name, profaned among nations, which you profaned in their midst, and nations will know that I am Lord when I am sanctified in you before their eyes.
+- NT clues: 1Pet.2.15 (10) -> For so is the will of God, that with well doing all of you may put to silence the ignorance of foolish men:
 
 ## Jeremiah 14:9
 - score: 21
@@ -562,34 +649,6 @@ Rows: 233
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - OT clues: Isa.5.21 (36) -> Woe those understanding in themselves and knowledgeable before themselves. || Eccl.9.11 (33) -> I turned and saw under sun that race not to swift, nor war to strong, and indeed not bread to wise, and indeed not wealth to understanding, and indeed not favor to those knowing, because time and encounter will meet them all. || Ps.49.6-Ps.49.13 (17) -> And heavens will declare his righteousness, because God is judge. Interlude. || Ezek.7.19 (16) -> Their silver will be thrown into streets and their gold will be despised. Their souls will not be filled and their bellies will not be satisfied, because it became torment of their injustices.
 - NT clues: 1Cor.1.27-1Cor.1.29 (57) -> But God has chosen the foolish things of the world to confound the wise; and God has chosen the weak things of the world to confound the things which are mighty; || Rom.1.22 (29) -> Professing themselves to be wise, they became fools, || 1Cor.3.18-1Cor.3.20 (23) -> Let no man deceive himself. If any man among you seems to be wise in this world, let him become a fool, that he may be wise.
-
-## Leviticus 3:9
-- score: 21
-- top vote: 3
-- OT crossrefs: 7
-- NT crossrefs: 0
-- shared-family hits: 1
-- fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
-- OT clues: Exod.29.22 (3) -> And you shall take from the ram its fat and the fat covering the belly and the lobe of the liver and the two kidneys and the fat on them and the right arm, for this is an ordination. || Lev.9.19 (3) -> And the fat from the calf and from the ram, the loin and the fat covering the belly and the two kidneys and the fat on them and the lobe above the liver, || Isa.53.10 (2) -> And Lord desires to cleanse him from wound. If you give your soul concerning sin, he will see long-lived seed, and Lord desires to remove pain. || Lev.3.3-Lev.3.4 (2) -> And from the sacrifice of salvation they shall bring an offering to the Lord: the fat that covers the belly and all the fat that is on the belly, | shared-family=soteria-sacrifice-formula
-
-## Leviticus 4:18
-- score: 21
-- top vote: 2
-- OT crossrefs: 1
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
-- OT clues: Lev.4.7 (2) -> And the priest shall place some of the blood of the calf on the horns of the altar of the blended incense that is before the Lord, which is in the tent of testimony, and he shall pour out all the blood of the calf at the base of the altar of whole burnt offerings, which is by the doors of the tent of testimony.
-
-## Leviticus 6:5
-- score: 21
-- top vote: 4
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
-- OT clues: Lev.5.16 (4) -> And what he sinned from the holy things he shall repay, and he shall add a fifth to it and give it to the priest. And the priest shall make atonement for him with the ram of trespass, and it shall be forgiven him. || 1Sam.12.3 (3) -> Behold me. Answer against me before the Lord and before his anointed. Whose calf have I taken, or whose donkey have I taken, or whom of you have I oppressed, or whom have I crushed, or from whose hand have I taken a propitiation, even sandals? Answer against me, and I will restore it to you. || 2Sam.12.6 (3) -> And he will repay the ewe lamb sevenfold, because he did this thing and because he did not spare. || Exod.22.9 (3) -> If someone gives his neighbor a beast of burden or an ox or a sheep or any livestock to keep, and it is injured or dies or is taken captive, and no one knows,
-- NT clues: Luke.19.8 (3) -> And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
 
 ## Micah 5:3
 - score: 21
@@ -651,15 +710,43 @@ Rows: 233
 - OT clues: Isa.55.6-Isa.55.7 (146) -> Seek God, and when you find him call on him when he draws near you. || Jer.24.7 (122) -> And I will give them heart to know me, that I am Lord, and they will be to me for people and I will be to them for God, because they will turn back to me with all their heart. || 1Kgs.8.61 (113) -> And let our hearts be perfect toward the Lord our God and holy in walking in his ordinances and keeping his commandments, as on this day. || Prov.2.1-Prov.2.6 (106) -> Son, if receiving saying of my command you hide it with yourself,
 - NT clues: Jer.29.13 (326) -> And all of you shall seek me, and find me, when all of you shall search for me with all your heart. || Jas.4.8-Jas.4.11 (163) -> Draw nigh to God, and he will draw nigh to you. Cleanse your hands, all of you sinners; and purify your hearts, all of you double minded. || Matt.7.7-Matt.7.8 (147) -> Ask, and it shall be given you; seek, and all of you shall find; knock, and it shall be opened unto you:
 
-## 1 Kings 20:10
+## 1 Kings 13:2
+- score: 20
+- top vote: 4
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: And he cried against the altar by the word of the Lord and said, Altar, altar, thus says the Lord: Behold, a son is being born to the house of David, Iosias his name, and he will sacrifice upon you the priests of the high places who sacrifice upon you, and he will burn human bones upon you.
+- OT clues: Ezek.36.1 (4) -> And you, son of man, prophesy over mountains of Israel and say to mountains of Israel, Hear word of Lord. || 2Kgs.22.1-2Kgs.22.2 (3) -> Iōsias was eight years old when he became king, and he reigned thirty-one years in Jerusalem, and the name of his mother was Iedida daughter of Edeia from Basourōth. || 2Kgs.23.15-2Kgs.23.18 (3) -> And indeed the altar in Baithēl, the high place which Ieroboam son of Nabat made, who made Israel sin, indeed that altar and the high place he tore down and crushed its stones and beat them small to dust and burned the grove. || 1Kgs.13.32 (2) -> For the word that he spoke by the word of the Lord against the altar in Baithēl and against the houses of the high places in Samaria will surely happen.
+
+## 1 Kings 6:1
 - score: 20
 - top vote: 5
-- OT crossrefs: 7
-- NT crossrefs: 1
+- OT crossrefs: 2
+- NT crossrefs: 6
 - shared-family hits: 0
-- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die.
-- OT clues: 1Kgs.19.2 (5) -> And Iezabel sent to Elijah and said, If you are Elijah and I am Iezabel, may God do thus to me and add thus, because by this time tomorrow I will make your life like the life of one of them. || Exod.11.8 (3) -> "And all these servants of yours will come down to me and bow to me, saying, Go out, you and all the people whom you lead, and after that I will go out." Then Moses went out from Pharaoh with anger. || 2Kgs.19.23-2Kgs.19.24 (2) -> By the hand of your messengers you reproached the Lord and said, By the multitude of my chariots I will go up to the heights of mountains, the sides of Lebanon, and I cut down the greatness of its cedar, its choice cypresses, and I came to the farthest part of its border, the forest of its Carmel. || 2Sam.17.12-2Sam.17.13 (2) -> And we will come upon him in one of the places where we find him there, and we will camp against him as the dew falls on the ground, and we will not leave among him and the men with him even one.
-- NT clues: Acts.23.12 (2) -> And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
+- fresh: And it came to be in the four hundred and fortieth year of the coming out of the sons of Israel from Egypt, in the fourth year, in the second month, of King Solomon reigning over Israel. And the king commanded, and they took great costly stones for the foundation of the house, and unhewn stones. And the sons of Solomon and the sons of Chiram dressed them and laid them. In the fourth year he founded the house of the Lord in the month Niso, the second month. In the eleventh year, in the month Baal, this is the eighth month, the house was completed in every word of it and in every arrangement of it.
+- OT clues: 2Chr.3.1-2Chr.3.2 (5) -> And Salomon began building house of Lord in Ierousalem on mountain of Amoria, where Lord appeared to Dauid his father, in place which Dauid prepared at threshing floor of Orna the Iebousite. || 1Chr.29.19 (3) -> And to Salomon my son give good heart to do your commandments and your testimonies and your ordinances, and to bring building of your house to completion.
+- NT clues: Acts.7.47 (4) -> But Solomon built him an house. || 1Kgs.6.37 (3) -> In the fourth year was the foundation of the house of the LORD laid, in the month Zif: || 1Pet.2.5 (3) -> All of you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+
+## 1 Kings 8:23
+- score: 20
+- top vote: 11
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: and said, O Lord God of Israel, there is no God like you in heaven above and upon the earth below, keeping covenant and mercy for your servant who walks before you with all his heart,
+- OT clues: 2Sam.7.22 (11) -> Because of making you great, my Lord, O Lord, because there is none like you, and there is no God besides you, in all things that we heard in our ears. || Deut.7.9 (10) -> And you shall know that the Lord your God, this one is God, faithful God, keeping covenant and mercy with those who love him and with those who keep his commands, to a thousand generations, || Dan.9.4 (9) -> And I prayed to Lord God and confessed and said, Behold, Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands. || Neh.1.5 (8) -> And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
+
+## 1 Samuel 12:17
+- score: 20
+- top vote: 6
+- OT crossrefs: 5
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
+- OT clues: 1Sam.8.7 (6) -> And the Lord said to Samouēl, Hear the voice of the people according to whatever they say to you, because they have not despised you, but me they have despised, from reigning over them. || 1Sam.7.9-1Sam.7.10 (5) -> And Samouēl took one suckling lamb and offered it up whole with all the people to the Lord, and Samouēl cried out to the Lord concerning Israel, and the Lord listened to him. || Prov.26.1 (5) -> As dew in harvest and rain in summer, so honor not for fool. || Jer.15.1 (2) -> And Lord said to me, If Moses and Samuel stand before my face, my soul is not toward them. Send out this people and let them go out.
+- NT clues: Jas.5.16-Jas.5.18 (4) -> Confess your faults one to another, and pray one for another, that all of you may be healed. The effectual fervent prayer of a righteous man avails much. || Ps.99.6 (2) -> Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 
 ## 1 Samuel 25:29
 - score: 20
@@ -670,6 +757,16 @@ Rows: 233
 - fresh: And a man will rise up pursuing you and seeking your life, and the life of my lord will be bound in the bundle of life with the Lord your God, and the life of your enemies you will sling out in the middle of the sling.
 - OT clues: Mal.3.17 (7) -> And they will be mine, says Lord Almighty, in day I make for possession, and I will choose them as man chooses his son serving him. || Jer.10.18 (6) -> Because thus says Lord: Behold, I sling out inhabitants of this land in affliction, so that your wound may be found. || 1Sam.2.9 (5) -> Giving prayer to the one praying, and he blessed the years of the righteous, because not by strength is a man mighty.
 - NT clues: John.17.21 (8) -> That they all may be one; as you, Father, are in me, and I in you, that they also may be one in us: that the world may believe that you have sent me. || Matt.10.29-Matt.10.30 (7) -> Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father. || Ps.116.15 (6) -> Precious in the sight of the LORD is the death of his saints.
+
+## 1 Samuel 2:2
+- score: 20
+- top vote: 34
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: Because there is no holy one like the Lord, and there is none righteous like our God; there is no holy one besides you.
+- OT clues: 2Sam.22.32 (34) -> For who is mighty besides the Lord, and who will be a creator besides our God? || Isa.44.6 (28) -> Thus says God, king of Israel, one rescuing him, God Sabaoth: I first, and I after these things; besides me no god exists. || Exod.15.11 (18) -> "Who is like you among gods, O Lord? Who is like you, glorified among holy ones, wondrous in glories, doing wonders?" || Ps.89.8 (16) -> You set our lawlessnesses before you, our age in light of your face.
+- NT clues: Ps.86.8 (24) -> Among the gods there is none like unto you, O Lord; neither are there any works like unto your works. || 1Pet.1.16 (16) -> Because it is written, Be all of you holy; for I am holy. || Jer.10.6 (16) -> Forasmuch as there is none like unto you, O LORD; you are great, and your name is great in might.
 
 ## 1 Samuel 4:3
 - score: 20
@@ -727,16 +824,6 @@ Rows: 233
 - fresh: And I prayed to Lord God and confessed and said, Behold, Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
 - OT clues: Exod.20.6 (22) -> "and showing mercy into thousands for those who love me and keep my commandments." || Deut.5.10 (15) -> and showing mercy to thousands, to those who love me and keep my commands. || Exod.34.6-Exod.34.7 (13) -> And the Lord passed before his face and proclaimed, "The Lord God, compassionate and merciful, slow to anger and very merciful and true, || Dan.9.5-Dan.9.12 (12) -> We sinned, we acted unjustly, we acted impiously, and we departed and transgressed your commands and your judgments.
 - NT clues: Rom.8.28 (26) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
-
-## Exodus 6:3
-- score: 20
-- top vote: 14
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
-- OT clues: Gen.17.1 (11) -> And Abram became ninety-nine years old, and the Lord appeared to Abram and said to him, I am your God. Be well-pleasing before me and become blameless. || Ps.68.4 (11) -> I grew weary crying; my throat grew hoarse; my eyes failed from hoping upon my God. || Exod.3.14 (10) -> And God said to Moses, 'I am the One who is.' And he said, 'Thus shall you say to the sons of Israel: The One who is has sent me to you.' || Gen.35.11 (7) -> And God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins.
-- NT clues: Ps.83.18 (14) -> That men may know that you, whose name alone is JEHOVAH, are the most high over all the earth.
 
 ## Ezekiel 39:25
 - score: 20
@@ -827,74 +914,34 @@ Rows: 233
 - OT clues: Num.6.9 (4) -> But if someone suddenly dies beside him at once, the head of his vow will be defiled, and he shall shave his head on whatever day he is cleansed; on the seventh day it shall be shaved. || Num.6.5 (2) -> All the days of the vow of his consecration, a razor shall not come upon his head until the days are fulfilled that he vowed to the Lord. He shall be holy, letting the hair of his head grow long.
 - NT clues: Acts.21.24 (5) -> Them take, and purify yourself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning you, are nothing; but that you yourself also walk orderly, and keep the law. || Acts.18.18 (3) -> And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow. || Acts.21.26 (2) -> Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.
 
-## 1 Chronicles 15:29
-- score: 19
-- top vote: 5
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And it came to pass, ark of covenant of Lord came as far as City of Dauid, and Melchol daughter of Saul looked through window and saw king Dauid dancing and playing, and she despised him in her soul.
-- OT clues: 2Sam.6.20-2Sam.6.23 (5) -> And David returned to bless his house, and Melchol daughter of Saoul came out to meet David and blessed him and said, How glorious today was the king of Israel, who was uncovered today in the eyes of the servant-girls of his servants, just as one of the dancers uncovers himself in being uncovered. || 2Sam.6.16 (4) -> And it came to be, as the ark was coming as far as the City of David, Melchol daughter of Saoul was looking through the window, and she saw king David dancing and beating time before the Lord, and she counted him as nothing in her heart. || 1Sam.18.27-1Sam.18.28 (2) -> And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Melchol his daughter to be his wife. || 1Sam.19.11-1Sam.19.17 (2) -> And it came to be on that night, Saoul sent messengers to the house of David to guard him so as to kill him in the morning. And Melchol his wife reported to David, saying, If you do not save your life this night, tomorrow you will be put to death.
-- NT clues: 1Cor.2.14 (2) -> But the natural man receives not the things of the Spirit (o. pneuma) of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. || 2Cor.5.13 (2) -> For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.
-
-## 1 Kings 1:47
-- score: 19
-- top vote: 5
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
-- OT clues: 1Kgs.1.37 (5) -> Just as the Lord was with my lord the king, so may he be with Solomon, and may he enlarge his throne beyond the throne of my lord King David. || Gen.47.31 (5) -> And he said, Swear to me. And he swore to him. And Israel bowed upon the top of his staff. || 2Sam.21.3 (2) -> And David said to the Gabaonites, What shall I do for you, and by what shall I make atonement, so that you may bless the inheritance of the Lord? || 2Sam.8.10 (2) -> and Thoou sent Ieddouran his son to king David to ask him the things of peace and to bless him, because he had fought Adraazar and struck him, because he was opposing Adraazar. And in his hands were silver vessels and gold vessels and bronze vessels.
-- NT clues: Heb.11.21 (2) -> By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff. || Luke.19.38 (2) -> Saying, Blessed be the King that comes in the name of the Lord: peace in heaven, and glory in the highest.
-
-## 1 Kings 8:59
-- score: 19
-- top vote: 3
-- OT crossrefs: 3
-- NT crossrefs: 4
-- shared-family hits: 0
-- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
-- OT clues: Ps.141.2 (3) -> With my voice to Lord I cried; with my voice to Lord I made supplication. || Deut.33.25 (2) -> His sandal shall be iron and bronze, and as your days, your strength. || Ps.102.1-Ps.102.2 (2) -> Of David. Bless Lord, my soul, and all within me, his holy name.
-- NT clues: John.17.9 (3) -> I pray for them: I pray not for the world, but for them which you have given me; for they are yours. || 1John.2.2 (2) -> And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world. || John.17.20-John.17.24 (2) -> Neither pray I for these alone, but for them also which shall believe on me through their word; (o. logos)
-
-## 1 Kings 9:9
-- score: 19
-- top vote: 5
+## Psalms 68:14
+- score: 20
+- top vote: 4
 - OT crossrefs: 8
 - NT crossrefs: 0
 - shared-family hits: 0
-- fresh: And they will say, Because they forsook the Lord their God who brought their fathers out of Egypt, from the house of slavery, and they held fast to foreign gods and bowed to them and served them. Therefore the Lord brought upon them this evil. Then Solomon brought up the daughter of Pharao from the City of David to his house that he built for himself in those days.
-- OT clues: Jer.2.19 (5) -> Your apostasy will discipline you and your evil will expose you. Know and see that bitter to you your abandoning me, says Lord your God, and I took no pleasure in you, says Lord your God. || Jer.5.19 (4) -> And it will be when you say, For what reason did Lord our God do all these things to us? you will say to them, Because you served foreign gods in your land, so you will serve foreigners in land not yours. || 2Chr.7.22 (3) -> And they shall say, Because they forsook Lord God of their fathers, who brought them out from land of Egypt, and laid hold of other gods and worshiped them and served them, therefore he brought upon them all this evil. || Deut.29.25-Deut.29.28 (3) -> and, going, they served other gods and bowed to them, whom they did not know, and he had not allotted them.
+- fresh: But as for me, my prayer is to you, Lord, at a time of good pleasure. O God, in the multitude of your mercy hear me in the truth of your salvation.
+- OT clues: Isa.1.18 (4) -> Come and let us reason together, says Lord. And if your sins are as scarlet, I will whiten as snow; if they are as crimson, I will whiten as wool. || Josh.10.10-Josh.10.43 (3) -> And the Lord amazed them from before the sons of Israel and crushed them with a great crushing in Gibeon, and they pursued them on the road of the ascent of Horonin and were cutting them down as far as Azeka and as far as Makkeda. || Judg.2.7 (3) -> And the people served the Lord all the days of Joshua and all the days of the elders who lived long after Joshua, who knew all the great work of the Lord that he did for Israel. || Judg.9.48 (3) -> And Abimelech went up to Mount Selmōn, he and all the people with him, and Abimelech took an axe in his hand and cut a load of wood and took it and put it on his shoulders and said to the people with him, What you saw me doing, quickly do as I also did.
 
-## 1 Samuel 13:14
+## 1 Chronicles 11:2
 - score: 19
-- top vote: 33
+- top vote: 6
 - OT crossrefs: 4
 - NT crossrefs: 4
 - shared-family hits: 0
-- fresh: And now your kingdom will not stand, and the Lord will seek for himself a man according to his heart, and the Lord will appoint him as ruler over his people, because you did not keep what the Lord commanded you.
-- OT clues: 1Sam.15.28 (19) -> And Samouēl said to him, The Lord has torn the kingdom of Israel from your hand today and will give it to your neighbor, the good one beyond you. || 1Sam.16.1 (8) -> And the Lord said to Samouēl, How long do you mourn over Saoul, while I have counted him as nothing from reigning over Israel? Fill your horn with oil and come, I will send you to Iessai in Bēthleem, because I have seen among his sons one for me to reign. || 1Sam.16.12 (5) -> And he sent and brought him in. And he was ruddy, with beauty of eyes, and good in appearance to the Lord. And the Lord said to Samouēl, Rise and anoint David, because this one is good. || 1Sam.2.30 (4) -> Because of this thus said the Lord God of Israel: I said, Your house and the house of your father will pass before me forever. And now, says the Lord, let it not be to me; rather those glorifying me I will glorify, and the one despising me will be dishonored.
-- NT clues: Acts.13.22 (33) -> And when he had removed him, he raised up unto them David to be their king; to whom also he gave their testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfill all my will. || Ps.89.19-Ps.89.37 (10) -> Then you spoke in vision to your holy one, and said, I have laid help upon one that is mighty; I have exalted one chosen out of the people. || Ps.78.70 (9) -> He chose David also his servant, and took him from the sheepfolds:
+- fresh: Even yesterday and third day, when Saul was king, you were one bringing Israel out and bringing it in, and Lord your God said to you, You shall shepherd my people Israel, and you shall be ruler over Israel.
+- OT clues: 2Sam.5.2 (6) -> And yesterday and the third day, while Saoul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel. || 1Sam.16.13 (3) -> And Samouēl took the horn of oil and anointed him in the midst of his brothers, and the Spirit of the Lord leapt upon David from that day and beyond. And Samouēl rose and went away to Armathaim. || 1Sam.18.13 (3) -> And he removed him from himself and appointed him for himself commander of a thousand, and he went out and came in before the people. || 2Sam.7.7 (3) -> In all the things through which I passed in all Israel, did I ever speak a word to one tribe of Israel whom I commanded to shepherd my people Israel, saying, Why have you not built me a cedar house?
+- NT clues: John.10.4 (4) -> And when he puts forth his own sheep, he goes before them, and the sheep follow him: for they know his voice. || Ps.78.71 (4) -> From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance. || Matt.2.6 (3) -> And you Bethlehem, in the land of Juda, are not the least among the princes of Juda: for out of you shall come a Governor, that shall rule my people Israel.
 
-## 1 Samuel 20:42
+## 2 Kings 10:31
 - score: 19
-- top vote: 5
-- OT crossrefs: 5
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
-- OT clues: 1Sam.1.17 (5) -> And Heli answered and said to her, Go in peace. The God of Israel give you every request of yours that you asked from him. || 1Sam.23.18 (4) -> And both made a covenant before the Lord, and David sat in the New Place, and Iōnathan went away to his house. || 1Sam.20.22-1Sam.20.23 (3) -> But if I say thus to the young man, Here is the arrow from you and beyond, go, because the Lord has sent you away. || 1Sam.20.15 (2) -> you will not remove your mercy from my house forever, and not even when the Lord removes the enemies of David, each one from the face of the earth.
-- NT clues: Acts.16.36 (2) -> And the keeper of the prison told this saying (o. logos) to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace. || Luke.7.50 (2) -> And he said to the woman, Your faith has saved you; go in peace.
-
-## 1 Samuel 20:8
-- score: 19
-- top vote: 5
+- top vote: 7
 - OT crossrefs: 6
 - NT crossrefs: 2
 - shared-family hits: 0
-- fresh: And you will do mercy with your servant, because you brought your servant into a covenant of the Lord with yourself. And if there is wrongdoing in your servant, you put me to death, and why do you thus bring me to your father?
-- OT clues: 2Sam.14.32 (5) -> And Abessalōm said to Iōab, Behold, I sent to you, saying, Come here and I will send you to the king, saying, Why did I come from Gedsour? It was good for me still to be there. And now behold, I have not seen the face of the king, and if there is wrongdoing in me, then put me to death. || 1Sam.23.18 (4) -> And both made a covenant before the Lord, and David sat in the New Place, and Iōnathan went away to his house. || 1Sam.20.16 (3) -> May the name of Iōnathan be removed from the house of David, and may the Lord seek out the enemies of David. || 1Chr.12.17 (2) -> And some from sons of Beniamin and Iouda came for help to Dauid.
-- NT clues: 1Sam.18.3 (5) -> Then Jonathan and David made a covenant, because he loved him as his own soul. || Acts.25.11 (2) -> For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.
+- fresh: And Iou was not careful to walk in the law of the Lord God of Israel with all his heart. He did not turn from the sins of Ieroboam son of Nabat, who made Israel sin.
+- OT clues: 2Kgs.10.29 (7) -> Only, from the sins of Ieroboam son of Nabat, who made Israel sin, Iou did not turn away from after them, the golden calves in Baithēl and in Dan. || Prov.4.23 (7) -> With every guarding keep your heart, for out of these are goings-out of life. || Ps.78.10 (3) -> Lest nations say, Where is their God? Let vengeance of blood of your servants poured out be known among nations before our eyes. || 1Kgs.2.4 (2) -> So that the Lord may establish his word that he spoke, saying, If your sons guard their way to walk before me in truth, with all their heart and with all their soul, there will not be destroyed for you a man from upon the throne of Israel.
+- NT clues: Heb.2.1 (3) -> Therefore we ought to give the more earn heed to the things which we have heard, lest at any time we should let them slip. || 1Kgs.14.16 (2) -> And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.
 
 ## 2 Kings 18:12
 - score: 19
@@ -916,15 +963,15 @@ Rows: 233
 - OT clues: 1Kgs.17.1 (7) -> And Elijah the prophet, the Thesbite from Thesbon of Galaad, said to Achaab, As the Lord God of hosts, God of Israel, lives, before whom I stand, these years there shall be no dew and rain except by the word of my mouth. || Jonah.2.8 (6) -> When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple. || Jer.2.11-Jer.2.13 (4) -> If nations will change their gods, though those are not gods, yet my people changed its glory for what will not profit. || Ps.76.1 (4) -> For end, concerning Jeduthun. Of Asaph. Psalm.
 - NT clues: Acts.12.7-Acts.12.11 (4) -> And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he stroke Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands. || Acts.8.26 (3) -> And the angel of the Lord spoke unto Philip, saying, Arise, and go toward the south unto the way that goes down from Jerusalem unto Gaza, which is desert. || Mark.3.22 (3) -> And the scribes which came down from Jerusalem said, He has Beelzebub, and by the prince of the devils casts he out devils.
 
-## 2 Kings 23:25
+## 2 Samuel 12:7
 - score: 19
 - top vote: 6
 - OT crossrefs: 6
 - NT crossrefs: 2
 - shared-family hits: 0
-- fresh: Like him there was no king before him who turned to the Lord with all his heart and with all his soul and with all his strength according to all the law of Moses, and after him none like him arose.
-- OT clues: 2Kgs.18.5 (6) -> He hoped in the Lord God of Israel, and after him there was none like him among the kings of Judah and among those before him. || 1Kgs.8.48 (3) -> and turn to you with all their heart and with all their soul in the land of their enemies where you carried them away, and they pray toward you in the direction of their land that you gave to their fathers, the city that I chose and the house that I built for your name, || 2Kgs.23.3 (3) -> And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his ordinances with all heart and with all soul, to establish the words of this covenant written in this book. And all the people stood to the covenant. || Deut.6.5 (3) -> And you shall love the Lord your God from your whole heart and from your whole soul and from your whole strength.
-- NT clues: Jer.29.13 (5) -> And all of you shall seek me, and find me, when all of you shall search for me with all your heart. || John.1.17 (3) -> For the law was given by Moses, but grace and truth came by Jesus Christ.
+- fresh: And Nathan said to David, You are the man who did this. Thus says the Lord God of Israel: I am the one who anointed you as king over Israel, and I am the one who delivered you from the hand of Saoul,
+- OT clues: 1Sam.16.13 (5) -> And Samouēl took the horn of oil and anointed him in the midst of his brothers, and the Spirit of the Lord leapt upon David from that day and beyond. And Samouēl rose and went away to Armathaim. || 2Sam.22.1 (4) -> And David spoke to the Lord the words of this song in the day when the Lord delivered him from the hand of all his enemies and from the hand of Saoul. || 1Kgs.18.18 (3) -> And Elijah said, I am not disturbing Israel, but you and your father's house, in that you forsook the Lord your God and went after the Baalim. || 1Sam.13.13 (3) -> And Samouēl said to Saoul, It has been made foolish for you, because you did not keep the commandment that the Lord commanded you. For now the Lord would have prepared your kingdom over Israel forever.
+- NT clues: Matt.14.14 (6) -> And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick. || 1Kgs.20.42 (3) -> And he said unto him, Thus says the LORD, Because you have let go out of your hand a man whom I appointed to utter destruction, therefore your life shall go for his life, and your people for his people.
 
 ## Amos 5:15
 - score: 19
@@ -1176,15 +1223,14 @@ Rows: 233
 - OT clues: Lev.10.11 (10) -> and you shall instruct the sons of Israel in all the statutes that the Lord spoke to them by the hand of Moses. || Deut.21.5 (7) -> And the priests, the Levites, shall come near, because the Lord your God chose them to stand by him and bless in his name, and by their mouth shall be every dispute and every wound. || Ezra.7.10 (5) -> For Ezra gave his heart to seek the law and to do it and to teach ordinances and judgments in Israel.
 - NT clues: 2Tim.2.24-2Tim.2.25 (13) -> And the servant of the Lord must not strive; but be gentle unto all men, able to teach, patient, || 2Cor.5.20 (6) -> Now then we are ambassadors for Christ, as though God did plead to you by us: we pray you in Christ's position, be all of you reconciled to God. || 1Thess.4.8 (5) -> He therefore that despises, despises not man, but God, who has also given unto us his holy Spirit. (o. pneuma)
 
-## Nehemiah 10:29
+## Nehemiah 4:3
 - score: 19
-- top vote: 6
-- OT crossrefs: 4
-- NT crossrefs: 4
+- top vote: 3
+- OT crossrefs: 7
+- NT crossrefs: 0
 - shared-family hits: 0
-- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
-- OT clues: Ezek.36.27 (6) -> And my Spirit I will give in you and make you walk in my ordinances and keep my judgments and do them. || 2Chr.34.31 (3) -> And king stood upon pillar and made covenant before Lord, to walk before Lord, to keep his commandments and his testimonies and his ordinances with all heart and with all soul, words of covenant written upon this book. || 2Kgs.23.3 (3) -> And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his ordinances with all heart and with all soul, to establish the words of this covenant written in this book. And all the people stood to the covenant. || Neh.5.12-Neh.5.13 (3) -> And they said, We will give it back and will not ask from them; thus we will do as you say. And I called the priests and made them swear to do according to this word.
-- NT clues: Ps.119.106 (5) -> I have sworn, and I will perform it, that I will keep your righteous judgments. || John.15.14 (4) -> All of you are my friends, if all of you do whatsoever I command you. || Titus.2.11-Titus.2.14 (4) -> For the grace of God that brings salvation has appeared to all men,
+- fresh: And we prayed to our God and set guards over them day and night because of them.
+- OT clues: Neh.2.19 (3) -> And Sanaballat the Aoronite and Tobia the servant the Ammonite and Gesam the Arab heard and mocked us and came against us and said, What is this word you are doing? Are you rebelling against the king? || 1Kgs.20.10 (2) -> And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die. || 1Kgs.20.18 (2) -> Rise and go down to meet Achaab king of Israel, the one in Samaria. Behold, he is in the vineyard of Nabouthai because he has gone down there to inherit it. || 2Kgs.18.23 (2) -> And now make a bargain now with my lord king of the Assyrians, and I will give you two thousand horses if you are able to give riders for them.
 
 ## Nehemiah 9:5
 - score: 19
@@ -1204,6 +1250,26 @@ Rows: 233
 - shared-family hits: 0
 - fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
 - OT clues: Lev.14.30-Lev.14.31 (2) -> And he shall make one of the turtledoves or of the young pigeons, whatever his hand can find, || Lev.5.8-Lev.5.10 (2) -> And he shall bring them to the priest, and the priest shall bring the one for sin first, and the priest shall pinch off its head from the neck, but shall not divide it.
+
+## Proverbs 29:23
+- score: 19
+- top vote: 201
+- OT crossrefs: 8
+- NT crossrefs: 8
+- shared-family hits: 0
+- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+- OT clues: Prov.11.2 (140) -> Wherever insolence enters, there also dishonor; but mouth of humble meditates wisdom. || Isa.66.2 (136) -> For all these my hand made, and all these are mine, says Lord. And to whom will I look, except to humble and quiet one and one trembling at my words? || Prov.15.33 (103) -> Fear of God discipline and wisdom, and beginning of glory will answer to it. || Prov.16.18 (94) -> Before crushing goes insolence, and before fall evil-mindedness.
+- NT clues: Matt.23.12 (201) -> And whosoever shall exalt himself shall be brought low; and he that shall humble himself shall be exalted. || Luke.14.11 (158) -> For whosoever exalts himself shall be brought low; and he that humbles himself shall be exalted. || Jas.4.6-Jas.4.10 (124) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble.
+
+## Proverbs 29:23
+- score: 19
+- top vote: 201
+- OT crossrefs: 8
+- NT crossrefs: 8
+- shared-family hits: 0
+- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+- OT clues: Prov.11.2 (140) -> Wherever insolence enters, there also dishonor; but mouth of humble meditates wisdom. || Isa.66.2 (136) -> For all these my hand made, and all these are mine, says Lord. And to whom will I look, except to humble and quiet one and one trembling at my words? || Prov.15.33 (103) -> Fear of God discipline and wisdom, and beginning of glory will answer to it. || Prov.16.18 (94) -> Before crushing goes insolence, and before fall evil-mindedness.
+- NT clues: Matt.23.12 (201) -> And whosoever shall exalt himself shall be brought low; and he that shall humble himself shall be exalted. || Luke.14.11 (158) -> For whosoever exalts himself shall be brought low; and he that humbles himself shall be exalted. || Jas.4.6-Jas.4.10 (124) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble.
 
 ## Proverbs 3:16
 - score: 19
@@ -1225,16 +1291,6 @@ Rows: 233
 - OT clues: Ps.111.10 (72) -> Sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish. || Job.28.28 (61) -> And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding. || Prov.1.7 (51) -> Beginning of wisdom fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise. || Eccl.12.13 (41) -> End of matter, all is heard: fear God and keep his commandments, because this = whole man.
 - NT clues: John.17.3 (21) -> And this is life eternal, that they might know you the only true God, and Jesus Christ, whom you have sent. || 1John.5.20 (20) -> And we know that the Son of God has come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 
-## Psalms 24:1
-- score: 19
-- top vote: 92
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: Psalm of David. To you, Lord, I lifted my soul, O my God.
-- OT clues: Ps.89.11 (92) -> Who knows strength of your anger and from your fear your fury? || 1Chr.29.11 (85) -> Yours, Lord, are greatness and power and boasting and victory and strength, because you rule all things in heaven and on earth; before your face every king and nation is troubled. || Job.41.11 (60) -> From its mouth go out burning lamps, and hearths of fire are scattered abroad. || Deut.10.14 (56) -> Behold, to the Lord your God belong the heaven and the heaven of heaven, the earth and all that is in it.
-- NT clues: 1Cor.10.26 (87) -> For the earth is the Lord's, and the fullness thereof.
-
 ## Zechariah 14:5
 - score: 19
 - top vote: 9
@@ -1244,26 +1300,6 @@ Rows: 233
 - fresh: And ravine of my mountains will be blocked up, and ravine of mountains will cling together as far as Iasol, and it will be blocked as it was blocked in days of earthquake in days of Uzziah king of Judah, and Lord my God will come and all holy ones with him.
 - OT clues: Amos.1.1 (8) -> Words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in days of Uzziah king of Judah and in days of Jeroboam son of Joash king of Israel, two years before the earthquake. || Deut.33.2 (4) -> And he said, The Lord comes from Sinai and appeared from Seir to us and hurried from Mount Paran with the myriads of Kadesh; from his right hand angels were with him. || Isa.29.6 (4) -> For from Lord Sabaoth there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
 - NT clues: Jude.1.14-Jude.1.15 (9) -> And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord comes with ten thousands of his saints, || Matt.25.31 (7) -> When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory: || Matt.16.27 (6) -> For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
-
-## 2 Kings 11:4
-- score: 18
-- top vote: 4
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
-- OT clues: 2Kgs.11.19 (4) -> And he took the centurions and the Chorrhi and the Rasim and all the people of the land and brought the king down from the house of the Lord and entered by way of the gate of the runners to the king's house, and they seated him on the throne of the kings. || 2Kgs.11.9 (4) -> And the centurions did all that Iōdae the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Iōdae the priest. || 2Chr.15.12 (3) -> And he entered into covenant to seek Lord God of their fathers with all heart and with all soul. || 2Kgs.11.17 (3) -> And Iōdae made a covenant between the Lord and the king and the people, that they should be a people to the Lord, and between the king and the people.
-- NT clues: 1Sam.18.3 (2) -> Then Jonathan and David made a covenant, because he loved him as his own soul.
-
-## 2 Samuel 14:14
-- score: 18
-- top vote: 14
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
-- OT clues: Job.30.23 (14) -> For I know that death will wear me out, for earth is house for every mortal. || Num.35.28 (12) -> For he shall dwell in the city of refuge until the great priest dies, and after the great priest dies the slayer shall return to the land of his possession. || Job.34.15 (9) -> all flesh would die together, and every mortal would depart into earth from where he was formed. || Num.35.15 (9) -> The refuge shall be for the sons of Israel and for the proselyte and for the resident among you. These cities shall be a refuge, for everyone striking a soul unintentionally to flee there.
-- NT clues: Heb.9.27 (12) -> And as it is appointed unto men once to die, but after this the judgment:
 
 ## Ezekiel 18:20
 - score: 18
@@ -1342,15 +1378,15 @@ Rows: 233
 - OT clues: Lev.26.4 (26) -> then I will give you rain in its season, and the land will give its produce, and the trees of the plains will yield their fruit. || Deut.11.14 (15) -> then he will give rain to your land in its season, early and late, and you shall bring in your grain and your wine and your oil, || Hos.6.3 (15) -> And we will know; we will pursue knowing the Lord. As dawn, ready, we will find him, and he will come to us like early and latter rain to the earth. || Isa.12.2-Isa.12.6 (14) -> Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - NT clues: Jas.5.7-Jas.5.8 (49) -> Be patient therefore, brethren, unto the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, and has long patience for it, until he receive the early and latter rain. || Phil.4.4 (32) -> Rejoice in the Lord always: and again I say, Rejoice.
 
-## Joshua 24:15
+## Joshua 23:10
 - score: 18
-- top vote: 150
-- OT crossrefs: 6
-- NT crossrefs: 2
+- top vote: 738
+- OT crossrefs: 7
+- NT crossrefs: 1
 - shared-family hits: 0
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- OT clues: 1Kgs.18.21 (150) -> And Elijah came near to all and said to them, How long will you limp on both knees? If the Lord is God, go after him; but if Baal is, go after him. And the people did not answer a word. || Ruth.1.15-Ruth.1.16 (69) -> And Noemin said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law. || Deut.29.18 (50) -> and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless, || Ezek.20.39 (48) -> And you, house of Israel, thus says Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
-- NT clues: John.6.67-John.6.68 (101) -> Then said Jesus unto the twelve, Will all of you also go away? || Acts.11.23 (44) -> Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
+- fresh: One of you chased a thousand, because the Lord your God was fighting for you, just as he said to you.
+- OT clues: Deut.32.30 (738) -> How will one pursue a thousand, and two put ten thousands to flight, unless God sold them over and the Lord handed them over? || Lev.26.8 (604) -> And five of you will pursue a hundred, and a hundred of you will pursue myriads, and your enemies will fall before you by sword. || Deut.3.22 (438) -> You shall not fear them, because the Lord our God himself will fight for you. || Exod.14.14 (384) -> "The Lord will fight for you, and you will be still."
+- NT clues: Rom.8.31 (313) -> What shall we then say to these things? If God be for us, who can be against us?
 
 ## Judges 15:6
 - score: 18
@@ -1392,6 +1428,16 @@ Rows: 233
 - OT clues: Ps.100.3 (42) -> I did not set before my eyes lawless thing; those doing transgressions I hated. || Mal.2.11 (36) -> Judah was abandoned, and abomination happened in Israel and in Jerusalem, because Judah profaned holy things of Lord which he loved and busied himself with foreign gods. || Isa.63.16 (7) -> For you are our father, because Abraham did not know us and Israel did not acknowledge us; but you, Lord, our father, rescue us. From beginning your name is upon us. || Isa.64.8 (6) -> Do not be very angry with us and do not remember our sins in season. And now look, because we all your people.
 - NT clues: 1Cor.8.6 (10) -> But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him. || Eph.4.6 (9) -> One God and Father of all, who is above all, and through all, and in you all. || Acts.7.26 (4) -> And the next day he showed himself unto them as they strove, and would have set them to reconcile again, saying, Sirs, all of you are brethren; why do all of you wrong one to another?
 
+## Malachi 3:1
+- score: 18
+- top vote: 21
+- OT crossrefs: 2
+- NT crossrefs: 6
+- shared-family hits: 0
+- fresh: Behold, I send my messenger, and he will look on way before my face, and suddenly Lord whom you seek will come into his own temple, and messenger of covenant whom you want. Behold, he comes, says Lord Almighty.
+- OT clues: Isa.63.9 (10) -> In all their affliction not elder nor angel, but Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age. || Mal.2.7 (8) -> Because lips of priest will guard knowledge, and law they will seek from his mouth, because he is messenger of Lord Almighty.
+- NT clues: Mal.4.5 (21) -> Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: || Luke.1.76 (17) -> And you, child, shall be called the prophet of the Highest: for you shall go before the face of the Lord to prepare his ways; || Mark.1.2-Mark.1.3 (15) -> As it is written in the prophets, Behold, I send my messenger before your face, which shall prepare your way before you.
+
 ## Malachi 3:5
 - score: 18
 - top vote: 28
@@ -1401,6 +1447,16 @@ Rows: 233
 - fresh: And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says Lord Almighty.
 - OT clues: Deut.5.11 (13) -> You shall not take the name of the Lord your God in vain, because the Lord shall certainly not clear the one taking his name in vain. || Deut.27.19 (10) -> Cursed is whoever turns aside the judgment of the proselyte and the orphan and the widow. And all the people shall say, Let it be. || Mal.2.14 (9) -> And you said, For what reason? Because Lord testified between you and wife of your youth whom you abandoned, and she is your companion and wife of your covenant.
 - NT clues: Jas.5.8-Jas.5.9 (28) -> Be all of you also patient; establish your hearts: for the coming of the Lord draws nigh. || Heb.13.4 (20) -> Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. || Jas.5.4 (12) -> Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
+
+## Malachi 3:6
+- score: 18
+- top vote: 108
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: Because I am Lord your God and do not change, and you sons of Jacob have not ceased.
+- OT clues: Num.23.19 (108) -> God is not like a man, to waver, nor like a son of man, to be threatened. He himself said, shall he not do it? He will speak, and will he not remain in it? || Jer.32.27 (62) -> And you will say to them, Thus said Lord Almighty: Drink and get drunk and vomit and fall and not rise from face of sword which I send among you. || Isa.40.28-Isa.40.31 (52) -> And now did you not know? Did you not hear? Eternal God, God who prepared ends of earth, will not hunger nor grow weary, nor is there finding out of his wisdom. || Exod.3.14-Exod.3.15 (48) -> And God said to Moses, 'I am the One who is.' And he said, 'Thus shall you say to the sons of Israel: The One who is has sent me to you.'
+- NT clues: Heb.13.8 (101) -> Jesus Christ the same yesterday, and to day, and for ever. || Jas.1.17 (86) -> Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom is no variableness, neither shadow of turning. || Lam.3.22-Lam.3.23 (68) -> It is of the LORD's mercies that we are not consumed, because his compassions fail not.
 
 ## Micah 6:7
 - score: 18
@@ -1432,26 +1488,6 @@ Rows: 233
 - OT clues: Ps.37.3 (20) -> because your arrows were fixed in me and you set your hand firmly upon me. || Ps.34.9-Ps.34.10 (13) -> But my soul will rejoice in Lord, delighting in his salvation. || Ps.33.19 (7) -> Lord near to those crushed in heart, and he will save humble in spirit. || Ps.37.19 (7) -> Because my lawlessness I will announce, and I will be anxious concerning my sin.
 - NT clues: Matt.6.30-Matt.6.33 (19) -> Wherefore, if God so clothe the grass of the field, which to day is, and tomorrow is cast into the oven, shall he not much more clothe you, O all of you of little faith? || Ps.37.25 (14) -> I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. || Heb.13.5-Heb.13.6 (6) -> Let your conversation be without covetousness; and be content with such things as all of you have: for he has said, I will never leave you, nor forsake you.
 
-## Proverbs 15:29
-- score: 18
-- top vote: 27
-- OT crossrefs: 2
-- NT crossrefs: 6
-- shared-family hits: 0
-- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
-- OT clues: Prov.15.8 (19) -> Sacrifices of ungodly abomination to Lord, but prayers of those setting straight acceptable to him. || Ps.34.15-Ps.34.17 (14) -> And against me they rejoiced and gathered together; scourges gathered upon me and I did not know; they were torn apart and were not pierced through.
-- NT clues: John.9.31 (27) -> Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears. || Ps.145.18-Ps.145.19 (21) -> The LORD is nigh unto all them that call upon him, to all that call upon him in truth. || 1Pet.3.12 (19) -> For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
-
-## Proverbs 26:11
-- score: 18
-- top vote: 26
-- OT crossrefs: 1
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame = glory and grace.
-- OT clues: Exod.8.15 (9) -> Then the enchanters said to Pharaoh, This is the finger of God. And Pharaoh's heart was hardened, and he did not listen to them, just as the Lord had spoken.
-- NT clues: 2Pet.2.22 (26) -> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire. || Matt.12.45 (18) -> Then goes he, and takes with himself seven other spirits (o. pneuma) more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
-
 ## Proverbs 3:9
 - score: 18
 - top vote: 33
@@ -1462,6 +1498,16 @@ Rows: 233
 - OT clues: Deut.26.2-Deut.26.15 (33) -> then you shall take from the firstfruits of the fruits of your land that the Lord your God gives you and put them into a basket and go to the place that the Lord your God chooses for his name to be called there. || Exod.23.19 (29) -> You shall bring the firstfruits of the first produce of your land into the house of the Lord your God. You shall not boil a lamb in its mother's milk. || Prov.14.31 (28) -> One slandering poor provokes his Maker, but one honoring him has mercy on poor. || Exod.22.29 (22) -> So you shall do with your ox and your sheep and your beast of burden. Seven days it shall be under its mother, and on the eighth day you shall give it to me.
 - NT clues: 1Cor.16.2 (30) -> Upon the first day of the week let every one of you lay by him in store, as God has prospered him, that there be no gatherings when I come. || Phil.4.17-Phil.4.18 (27) -> Not because I desire a gift: but I desire fruit that may abound to your account. (o. logos) || 2Cor.8.2-2Cor.8.3 (19) -> How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 
+## Zechariah 14:9
+- score: 18
+- top vote: 28
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: And Lord will be king over all earth; in that day Lord will be one, and his name one.
+- OT clues: Dan.7.27 (19) -> And kingdom and authority and their greatness and rule of all kingdoms under heaven he gave to holy people of the Most High to reign with eternal kingdom, and all authorities will submit to him and obey him. || Isa.2.2-Isa.2.4 (17) -> Because in last days mountain of Lord and house of God will be manifest on peaks of mountains, and will be lifted above hills, and all nations will come upon it. || Dan.2.44-Dan.2.45 (16) -> And in days of those kings God of heaven will set up another kingdom that will last forever and will not be destroyed, and this kingdom will never be left to another nation. It will strike and destroy these kingdoms, and it will stand forever. || Deut.6.4 (15) -> And these are the ordinances and the judgments that the Lord commanded the sons of Israel in the wilderness, when they came out from the land of Egypt: Hear, Israel, the Lord our God, the Lord is one.
+- NT clues: Eph.4.5-Eph.4.6 (28) -> One Lord, one faith, one baptism, || Rev.11.15 (26) -> And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
+
 ## Zechariah 4:6
 - score: 18
 - top vote: 170
@@ -1471,26 +1517,6 @@ Rows: 233
 - fresh: And he answered and said to me: This is word of Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says Lord Almighty.
 - OT clues: 2Chr.32.7-2Chr.32.8 (170) -> Be strong and act like men. Do not fear from face of king of Assour and from face of all nation with him, because more are with us than with him. || Ps.33.16 (117) -> Eyes of Lord upon righteous ones and his ears toward their petition. || Isa.11.2-Isa.11.4 (104) -> And Spirit of God will rest upon him, spirit of wisdom and understanding, spirit of counsel and strength, spirit of knowledge and piety. || Ps.20.6-Ps.20.8 (93) -> Great his glory in your salvation; glory and magnificence you will place upon him.
 - NT clues: 2Cor.10.4-2Cor.10.5 (158) -> (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) || 1Cor.2.4-1Cor.2.5 (139) -> And my speech (o. logos) and my preaching was not with enticing words (o. logos) of man's wisdom, but in demonstration of the Spirit (o. pneuma) and of power:
-
-## 2 Samuel 6:12
-- score: 17
-- top vote: 5
-- OT crossrefs: 5
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And it was reported to king David, saying, The Lord has blessed the house of Abeddara and all his things for the sake of the ark of God. And David went and brought up the ark of the Lord from the house of Abeddara into the City of David with gladness.
-- OT clues: 1Chr.15.25-1Chr.16.3 (5) -> And Dauid and elders of Israel and commanders of thousands were going to bring up ark of covenant of Lord from house of Abdedom with gladness. || 1Kgs.8.1 (4) -> And it came to be when Solomon finished building the house of the Lord and his own house, after twenty years, then King Solomon assembled all the elders of Israel in Sion, to bring up the ark of the covenant of the Lord from the City of David, this is Sion. || Ps.24.7-Ps.24.10 (3) -> Sins of my youth and my ignorances do not remember; according to your mercy remember me, because of your goodness, Lord. || Ps.68.24-Ps.68.27 (3) -> Let their eyes be darkened so as not to see, and bend down their back continually.
-- NT clues: Matt.10.42 (4) -> And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward. || Ps.132.6-Ps.132.8 (2) -> Lo, we heard of it at Ephratah: we found it in the fields of the wood.
-
-## 2 Samuel 7:19
-- score: 17
-- top vote: 5
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
-- OT clues: Isa.55.8-Isa.55.9 (5) -> For my counsels are not like your counsels, nor are my ways like your ways, says Lord. || 1Chr.17.17 (4) -> And these things were made small before you, O God, and you spoke concerning house of your servant for long distance, and you looked upon me as vision of man, and you exalted me, Lord God. || 2Sam.7.11-2Sam.7.16 (3) -> from the days when I appointed judges over my people Israel. And I will give you rest from all your enemies, and the Lord reports to you that you will build a house for him. || Ps.36.7 (3) -> Be subjected to Lord and entreat him. Do not be jealous in one prospering in his way, in man doing lawless things.
-- NT clues: Eph.2.7 (2) -> That in the ages to come he might show the exceeding riches of his grace in his kindness toward us through Christ Jesus. || Eph.3.19-Eph.3.20 (2) -> And to know the love (o. agape) of Christ, which passes knowledge, that all of you might be filled with all the fullness of God.
 
 ## Amos 2:7
 - score: 17
@@ -1551,6 +1577,16 @@ Rows: 233
 - fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - OT clues: Ps.85.6 (28) -> Give ear, Lord, to my prayer and attend to voice of my supplication. || Ps.90.13-Ps.90.17 (23) -> You will step on asp and basilisk and trample lion and dragon. || Hos.6.2-Hos.6.3 (18) -> He will heal us after two days; on third day we will rise and live before him. || Isa.51.9-Isa.51.11 (14) -> Awake, awake, Jerusalem, and put on strength of your arm. Awake as in beginning of days, as generation of age. Are you not
 
+## Hosea 2:21
+- score: 17
+- top vote: 8
+- OT crossrefs: 4
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
+- OT clues: Zech.8.12 (8) -> Because I will show peace: vine will give its fruit, land will give its produce, and heaven will give its dew, and I will give all these things to remnant of my people to inherit. || Isa.65.24 (5) -> And before they cry out, I will hear them. While they are still speaking, I will say, What is it? || Isa.55.10 (4) -> For as rain and snow comes down from heaven and will not return until it drenches earth and it brings forth and sprouts and gives seed to sower and bread for food, || Zech.13.9 (3) -> And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
+- NT clues: Matt.6.33 (4) -> But seek all of you first the kingdom of God, and his righteousness; and all these things shall be added unto you. || Rom.8.32 (4) -> He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things? || 1Cor.3.21-1Cor.3.23 (3) -> Therefore let no man glory in men. For all things are your's;
+
 ## Hosea 3:4
 - score: 17
 - top vote: 6
@@ -1560,16 +1596,6 @@ Rows: 233
 - fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
 - OT clues: Judg.17.5 (6) -> And the man Micha had a house of God, and he made an ephod and teraphim and filled the hand of one of his sons, and he became priest for him. || 2Chr.15.2 (4) -> And he went out to meet Asa and all Iouda and Beniamin and said, Hear me, Asa and all Iouda and Beniamin: Lord is with you while you are with him, and if you seek him, he will be found by you, and if you forsake him, he will forsake you. || Gen.31.19 (4) -> Now Laban had gone to shear his sheep, and Rachel stole her father's idols. || 1Sam.23.9 (3) -> And David knew that Saoul was not silent about evil against him, and David said to Abiathar the priest, Bring near the ephod of the Lord.
 - NT clues: Heb.10.26 (3) -> For if we sin willfully after that we have received the knowledge of the truth, there remains no more sacrifice for sins,
-
-## Hosea 5:4
-- score: 17
-- top vote: 7
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
-- OT clues: Hos.4.12 (7) -> They were asking by symbols, and by his rod it was reporting to him. They were led astray by spirit of whoredom and prostituted themselves away from their God. || Hos.4.1 (3) -> Hear word of Lord, sons of Israel, because Lord has a case against inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land. || Hos.4.6 (3) -> My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot law of your God; I also will forget your children. || Jer.22.15-Jer.22.16 (3) -> Will you reign because you are inflamed against Ahaz your father? They will not eat and will not drink. Better it was for you to do judgment and good righteousness.
-- NT clues: 1John.2.3-1John.2.4 (5) -> And hereby we do know that we know him, if we keep his commandments. || 2Thess.2.11-2Thess.2.12 (3) -> And for this cause God shall send them strong delusion, that they should believe a lie: || Jer.50.38 (3) -> A drought is upon her waters; and they shall be dried up: for it is the land of graven images, and they are mad upon their idols.
 
 ## Job 2:3
 - score: 17
@@ -1650,25 +1676,15 @@ Rows: 233
 - OT clues: Ps.33.9 (8) -> Taste and see that Lord good; blessed man who hopes upon him. || Gen.1.3 (5) -> And God said, 'Let light come to be.' And light came to be. || Isa.50.2 (5) -> Why, because I came and no man was there? I called and no one obeyed. Is my hand not strong to rescue, or am I not strong to deliver? See, by my threat I will desolate sea and make rivers dry; their fish will dry up from lack of water and die in thirst. || Gen.1.11 (3) -> And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
 - NT clues: Matt.8.26-Matt.8.27 (10) -> And he says unto them, Why are all of you fearful, O all of you of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm. || Matt.8.8-Matt.8.9 (5) -> The centurion answered and said, Lord, I am not worthy that you should come under my roof: but speak the word (o. logos) only, and my servant shall be healed. || Jonah.1.17 (4) -> Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 
-## Judges 13:6
+## Judges 2:1
 - score: 17
 - top vote: 7
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
-- OT clues: Judg.13.17-Judg.13.18 (7) -> And Manōe said to the angel of the Lord, What is your name, so that when your word comes we may glorify you? || 1Sam.9.6 (6) -> And the young man said to him, Behold now, there is a man of God in this city, and the man is honored; everything whatever he may speak, when it comes, it will stand. And now let us go there, so he may report to us the road on which we have gone. || 2Kgs.4.9 (5) -> And the woman said to her husband, Behold now, I know that this one who continually passes over us is a holy man of God. || Dan.10.11 (5) -> And he said to me, Daniel, you are a man pitied. Understand the commands that I speak over you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
-- NT clues: Matt.28.3-Matt.28.4 (7) -> His countenance was like lightning, and his raiment white as snow: || Rev.1.17 (6) -> And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last: || Acts.6.15 (5) -> And all that sat in the council, looking steadfastly on him, saw his face as it had been the face of an angel.
-
-## Judges 13:8
-- score: 17
-- top vote: 6
-- OT crossrefs: 2
+- OT crossrefs: 7
 - NT crossrefs: 1
 - shared-family hits: 0
-- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
-- OT clues: Job.34.32 (4) -> Apart from myself I will see; you show me if I worked injustice; I will add no more. || Prov.3.5-Prov.3.6 (3) -> Be trusting with whole heart in God, and do not exalt yourself on your own wisdom.
-- NT clues: Acts.9.6 (6) -> And he trembling and astonished said, Lord, what will you have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told you what you must do.
+- fresh: And an angel of the Lord went up from Galgala to the place of Weeping and to Baethel and to the house of Israel and said to them, The Lord brought you up out of Egypt and brought you into the land that he swore to your fathers to give you, and he said to you, I will never scatter my covenant with you forever.
+- OT clues: Exod.20.2 (7) -> "I am the Lord your God, who brought you out from the land of Egypt, out of the house of slavery." || Exod.23.20 (6) -> And behold, I send my angel before your face to keep you on the way, so that he may bring you into the land that I have prepared for you. || Gen.17.7-Gen.17.8 (6) -> And I will establish my covenant between me and you and your seed after you throughout their generations, as an everlasting covenant, to be God to you and to your seed after you. || Lev.26.42 (6) -> And I will remember the covenant of Jacob, and the covenant of Isaac, and the covenant of Abraham I will remember, and I will remember the land.
+- NT clues: Acts.7.30-Acts.7.33 (3) -> And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 
 ## Judges 2:14
 - score: 17
@@ -1679,25 +1695,15 @@ Rows: 233
 - fresh: And the Lord burned with anger against Israel and gave them into the hand of plunderers, and they plundered them, and he sold them into the hand of their enemies all around, and they were not able to stand before their enemies.
 - OT clues: 2Kgs.17.20 (7) -> And the Lord rejected all the seed of Israel and shook them and gave them into the hand of those plundering them until he cast them from before his face. || Ps.106.40-Ps.106.42 (7) -> Contempt was poured out upon rulers, and he made them wander in trackless place and not way. || Deut.32.30 (6) -> How will one pursue a thousand, and two put ten thousands to flight, unless God sold them over and the Lord handed them over? || Deut.31.17-Deut.31.18 (5) -> And I will be angered in wrath against them in that day and abandon them and turn my face away from them, and he shall be for eating, and many evils and afflictions shall find him, and he shall say in that day, Because the Lord my God is not in me, these evils found me.
 
-## Malachi 1:14
+## Judges 4:8
 - score: 17
-- top vote: 8
-- OT crossrefs: 4
-- NT crossrefs: 4
+- top vote: 4
+- OT crossrefs: 1
+- NT crossrefs: 1
 - shared-family hits: 0
-- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
-- OT clues: Eccl.5.4-Eccl.5.5 (6) -> Better that you not vow than that you vow and not pay. || Mal.1.8 (5) -> If you bring blind for sacrifice, is it not evil? And if you bring lame or sick, is it not evil? Present it now to your ruler; will he accept it or receive your face? says Lord Almighty. || Ps.76.12 (5) -> I remembered works of Lord, because I will remember from beginning your wonders. || Josh.7.11-Josh.7.12 (4) -> The people have sinned and transgressed the covenant that I covenanted with them, and, stealing from the devoted thing, they put it into their vessels.
-- NT clues: Acts.5.1-Acts.5.10 (8) -> But a certain man named Ananias, with Sapphira his wife, sold a possession, || 2Cor.8.12 (7) -> For if there be first a willing mind, it is accepted according to that a man has, and not according to that he has not. || Luke.12.46 (5) -> The lord of that servant will come in a day when he looks not for him, and at an hour when he is not aware, and will cut him in two, and will appoint him his portion with the unbelievers.
-
-## Malachi 2:6
-- score: 17
-- top vote: 12
-- OT crossrefs: 2
-- NT crossrefs: 6
-- shared-family hits: 0
-- fresh: Law of truth was in his mouth, and injustice was not found on his lips. In peace he walked straight with me and turned many from injustice.
-- OT clues: Dan.12.3 (12) -> And those understanding will shine like lights of heaven, and those prevailing in my words like stars of heaven forever and ever. || Jer.23.22 (7) -> And if they had stood in my standing-place and heard my words, they would have turned my people away from their evil practices.
-- NT clues: 2Tim.2.15-2Tim.2.16 (9) -> Study to show yourself approved unto God, a workman that needs not to be ashamed, rightly dividing the word (o. logos) of truth. || Rev.14.5 (8) -> And in their mouth was found no guile: for they are without fault before the throne of God. || Acts.26.18 (6) -> To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+- fresh: And Barak said to her, If you go with me, I will go, and if you do not go with me, I will not go, because I do not know the day in which the Lord prospers the angel with me.
+- OT clues: Exod.4.10-Exod.4.14 (4) -> And Moses said to the Lord, 'I beg you, Lord, I have not been adequate before, neither yesterday nor the day before, nor since you began speaking to your servant. I am weak-voiced and slow-tongued.'
+- NT clues: Matt.14.30-Matt.14.31 (2) -> But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
 
 ## Micah 3:8
 - score: 17
@@ -1769,16 +1775,6 @@ Rows: 233
 - OT clues: Gen.38.29 (5) -> And when he drew back his hand, immediately his brother came out. And she said, Why did a breach break out because of you? And she called his name Perez. || 1Chr.2.4 (4) -> And Thamar his bride bore to him Phares and Zara. All sons of Iouda were five. || 1Sam.2.20 (4) -> And Heli blessed Elkana and his wife, saying, May the Lord repay you seed from this woman in place of the loan that you loaned to the Lord. And the man went to his place. || Gen.46.12 (3) -> And the sons of Judah: Er and Aunan and Selom and Phares and Zara. And Er and Aunan died in the land of Canaan. And the sons of Phares became Esron and Jemuel.
 - NT clues: Matt.1.3 (3) -> And Judas brings forth Phares and Zara of Thamar; and Phares brings forth Esrom; and Esrom brings forth Aram;
 
-## Zechariah 7:12
-- score: 17
-- top vote: 7
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
-- OT clues: 2Chr.36.16 (7) -> But they kept mocking his messengers and despising his words and playing with his prophets, until wrath of Lord rose upon his people, until there was no healing. || Ezek.11.19 (6) -> And I will give them another heart, and new spirit I will give in them, and I will pull out the stone heart from their flesh and give them a heart of flesh, || Neh.9.29-Neh.9.30 (6) -> And you testified to them to turn them back to your law, but they did not hear. Instead, in your commandments and in your judgments they sinned, which if a man does he will live in them. And they gave a stubborn back and hardened their neck and did not hear. || Ezek.36.26 (5) -> And I will give you new heart and new spirit I will give in you, and I will remove heart of stone from your flesh and give you heart of flesh.
-- NT clues: Acts.28.27 (5) -> For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them. || 2Thess.2.10-2Thess.2.12 (3) -> And with all deceivableness of unrighteousness in them that perish; because they received not the love (o. agape) of the truth, that they might be saved.
-
 ## Zephaniah 2:3
 - score: 17
 - top vote: 31
@@ -1808,6 +1804,16 @@ Rows: 233
 - fresh: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
 - OT clues: Ps.92.5 (17) -> Your testimonies were made very faithful; holiness fits your house, Lord, for length of days. || Eccl.8.17 (16) -> And I saw all works of God, that man will not be able to find out work done under sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find. || Isa.40.28 (13) -> And now did you not know? Did you not hear? Eternal God, God who prepared ends of earth, will not hunger nor grow weary, nor is there finding out of his wisdom. || Ps.104.24 (11) -> And he increased his people exceedingly and strengthened it beyond its enemies.
 - NT clues: John.3.8 (22) -> The wind (o. pneuma) blows where it decides, and you hear the sound thereof, but can not tell whence it comes, and where it goes: so is every one that is born of the Spirit. (o. pneuma) || Rom.11.33 (15) -> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!
+
+## Ecclesiastes 11:6
+- score: 16
+- top vote: 308
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
+- OT clues: Isa.55.10 (243) -> For as rain and snow comes down from heaven and will not return until it drenches earth and it brings forth and sprouts and gives seed to sower and bread for food, || Hag.1.6-Hag.1.11 (129) -> You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and one gathering wages gathered into a pierced purse. || Hos.10.12 (127) -> Sow for yourselves into righteousness; reap into fruit of life. Give yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you. || Zech.8.11-Zech.8.12 (94) -> And now I will not be to remnant of this people as in former days, says Lord Almighty.
+- NT clues: 2Cor.9.10-2Cor.9.11 (308) -> Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;) || 2Cor.9.6 (115) -> But this I say, He which sows sparingly shall reap also sparingly; and he which sows bountifully shall reap also bountifully. || John.4.36-John.4.38 (90) -> And he that reaps receives wages, and gathers fruit unto life eternal: that both he that sows and he that reaps may rejoice together.
 
 ## Ecclesiastes 11:9
 - score: 16
@@ -1839,6 +1845,16 @@ Rows: 233
 - OT clues: Isa.53.6 (26) -> All we as sheep wandered. Man wandered in his own way, and Lord gave him over for our sins. || 1Kgs.8.46 (17) -> Because they will sin against you, for there is no human who will not sin, and you will bring against them and deliver them before enemies, and those who capture them will carry them captive to a far land or near, || Prov.20.9 (17) -> Who will boast, "I have pure heart"? Or who will speak boldly, "I am clean from sins"? Lamp of one speaking evil of father or mother will be quenched, and pupils of his eyes will see darkness. Possession hurried at first will not be blessed at last. Do not say, "I will repay enemy," but wait for Lord so he may help you. || Job.15.14-Job.15.16 (15) -> For what is mortal, that he will be blameless? Or how will one born of woman be righteous?
 - NT clues: Rom.3.23 (28) -> For all have sinned, and come short of the glory of God; || 1John.1.8-1John.1.10 (19) -> If we say that we have no sin, we deceive ourselves, and the truth is not in us. || Jas.3.2 (18) -> For in many things we offend all. If any man offend not in word, (o. logos) the same is a perfect man, and able also to bridle the whole body.
 
+## Habakkuk 1:4
+- score: 16
+- top vote: 6
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+- OT clues: Isa.1.21-Isa.1.23 (6) -> How faithful city Zion became prostitute, full of judgment, in which righteousness slept, but now murderers. || Job.21.7 (6) -> Why do ungodly men live, grow old, and even abound in wealth? || Ezek.9.9 (5) -> And he said to me, Injustice of house of Israel and Judah has grown exceedingly, exceedingly, because land was filled with many peoples and city filled with injustice and uncleanness, because they said, Lord has abandoned land; Lord does not see. || Jer.12.1 (5) -> Righteous are you, Lord, because I will speak in defense to you; yet I will speak judgments to you: Why does way of ungodly prosper? All dealing faithlessly in acts of faithlessness flourished.
+- NT clues: Ps.119.126 (6) -> It is time for you, LORD, to work: for they have made void your law. || Ps.94.20-Ps.94.21 (6) -> Shall the throne of iniquity have fellowship with you, which frames mischief by a law?
+
 ## Haggai 1:1
 - score: 16
 - top vote: 6
@@ -1857,6 +1873,16 @@ Rows: 233
 - fresh: Zerubbabel son of Salathiel, from tribe of Judah, and Jeshua son of Josedek, the great priest, and all remnant of people, listened to voice of Lord their God and to words of Haggai prophet, because Lord their God sent him to them, and people feared before Lord.
 - OT clues: Isa.50.10 (7) -> Who among you fears Lord? Let him hear voice of his servant. Those going in darkness have no light; trust in name of Lord and lean on God. || Ezra.5.2 (5) -> Then Zorobabel son of Salathiel and Iesous son of Iosedek rose up and began to build house of God in Ierousalem, and with them were prophets of God helping them. || Hag.1.14 (5) -> The Lord stirred the spirit of Zerubbabel son of Salathiel from tribe of Judah, and the spirit of Jeshua son of Josedek the great priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God, || Ps.112.1 (5) -> Alleluia. Praise, servants, Lord; praise name of Lord.
 
+## Job 1:6
+- score: 16
+- top vote: 22
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: And when this day came, behold, angels of God came to stand before the Lord, and the slanderer came with them.
+- OT clues: Job.2.1 (22) -> And it came to be on this day also that angels of God came to stand before the Lord, and the slanderer came among them to stand before the Lord. || Job.38.7 (17) -> when stars were born and all my angels praised me with loud voice? || Zech.3.1 (14) -> And he showed me Jeshua the great priest standing before angel of Lord, and slanderer stood at his right hand to oppose him. || 1Kgs.22.19 (11) -> And Michaias said, Not so. Hear the word of the Lord. I saw the Lord God of Israel sitting upon his throne, and all the army of heaven stood around him, at his right hand and at his left.
+- NT clues: Rev.12.9-Rev.12.10 (13) -> And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceives the whole world: he was cast out into the earth, and his angels were cast out with him. || John.6.70 (6) -> Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
+
 ## Job 1:8
 - score: 16
 - top vote: 12
@@ -1865,15 +1891,6 @@ Rows: 233
 - shared-family hits: 0
 - fresh: And the Lord said to him, Did you set your mind against my servant Iōb, because there is no man like him on the earth, blameless, true, god-fearing, turning away from every evil thing?
 - OT clues: Job.2.3 (12) -> And the Lord said to the slanderer, Did you then give attention to my servant Iōb, because there is no man like him on the earth, innocent, true, blameless, god-fearing, turning away from every evil, and he still holds fast his innocence? Yet you spoke against his possessions to destroy them for nothing. || Job.1.1 (10) -> There was a certain man in the land of Ausitis, whose name was Iōb, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing. || Num.12.7-Num.12.8 (9) -> Not so with my servant Moses; in all my house he is faithful. || 2Kgs.23.25 (8) -> Like him there was no king before him who turned to the Lord with all his heart and with all his soul and with all his strength according to all the law of Moses, and after him none like him arose.
-
-## Job 42:17
-- score: 16
-- top vote: 11
-- OT crossrefs: 6
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: And Iōb died old and full of days. And it is written that he will rise again with those whom Lord raises up. This man, interpreted from Syriac book, dwelt in land Ausitis on borders of Idumaia and Arabia, and his former name was Iōbab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zare, one of sons of Esau, from mother Bosorra, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beōr, and name of his city was Dennaba; after Balak, Iōbab called Iōb; after him Asom, ruler from country of Thaimanitis; after him Adad son of Barad, who cut down Madiam in plain of Mōab, and name of his city was Geththaim. And friends coming to him were Eliphas king of sons of Esau from Thaimanites, Baldad tyrant of Sauchites, and Sophar king of Minaians.
-- OT clues: Gen.25.8 (11) -> And Abraham came to his end and died in a good old age, old and full of days, and was added to his people. || Gen.15.15 (7) -> But you shall depart to your fathers in peace, nourished in good old age. || Job.5.26 (7) -> And you will come to the grave like ripe grain harvested in its season, or like heap of threshing floor gathered at its time. || Deut.6.2 (6) -> so that you may fear the Lord your God, keeping all his ordinances and his commands that I command you today, you and your sons and the sons of your sons, all the days of your life, so that you may be long-lived.
 
 ## Jonah 1:9
 - score: 16
@@ -1894,6 +1911,16 @@ Rows: 233
 - fresh: Jonah prayed to Lord his God from belly of sea-creature.
 - OT clues: Ps.18.4-Ps.18.6 (25) -> There are no speeches nor words where their voices are not heard. || Ps.120.1 (24) -> Song of ascents. I lifted my eyes to mountains; from where will my help come? || Ps.34.6 (17) -> Let their way become darkness and slipperiness, and angel of Lord pursuing them. || Ps.88.1-Ps.88.7 (8) -> For understanding. Of Ethan the Israelite.
 - NT clues: Ps.86.13 (11) -> For great is your mercy toward me: and you have delivered my soul from the low hell. || Heb.5.7 (6) -> Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared; || Matt.12.40 (4) -> For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
+
+## Jonah 2:3
+- score: 16
+- top vote: 12
+- OT crossrefs: 3
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
+- OT clues: Lam.3.54 (10) -> Water overflowed over my head. I said, I am thrust away. || Ps.69.1-Ps.69.2 (7) -> For end. Of David, for remembrance. || Ps.88.5-Ps.88.8 (1) -> Until age I will prepare your seed and build your throne to generation and generation. Interlude.
+- NT clues: Ps.42.7 (12) -> Deep calls unto deep at the noise of your waterspouts: all your waves and your billows are gone over me. || Ps.69.14-Ps.69.15 (1) -> Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.
 
 ## Jonah 2:8
 - score: 16
@@ -2001,16 +2028,6 @@ Rows: 233
 - OT clues: Deut.32.4 (11) -> God, his works are true, and all his ways are judgments, faithful God, and there is no injustice, righteous and holy is the Lord. || Zeph.3.15 (6) -> Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils. || Deut.23.14 (5) -> and a peg shall be for you on your belt, and it shall be, when you sit outside, then you shall dig with it and, turning back, you shall cover your indecency with it. || Isa.12.6 (5) -> Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in midst of her.
 - NT clues: Lam.3.23 (8) -> They are new every morning: great is your faithfulness. || Ps.145.17 (8) -> The LORD is righteous in all his ways, and holy in all his works.
 
-## Ecclesiastes 2:24
-- score: 15
-- top vote: 17
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from hand of God.
-- OT clues: Eccl.3.22 (17) -> And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him? || Eccl.8.15 (13) -> And I praised gladness, because there is no good for man under sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under sun. || Eccl.3.12-Eccl.3.13 (9) -> I knew there is no good in them except to rejoice and to do good in his life. || Eccl.5.18-Eccl.5.19 (9) -> And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
-- NT clues: 1Tim.6.17 (12) -> Charge them that are rich in this world, that they be not high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy; || 1Cor.15.32 (6) -> If after the manner of men I have fought with beasts at Ephesus, what advantages it me, if the dead rise not? let us eat and drink; in order to morrow we die.
-
 ## Esther 1:13
 - score: 15
 - top vote: 6
@@ -2041,6 +2058,16 @@ Rows: 233
 - OT clues: Esth.5.1-Esth.5.2 (7) -> And it happened on the third day, when she ceased praying, she took off garments of service and put on her glory. || Dan.2.9 (6) -> If you do not tell me truthfully the dream and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment. || Esth.8.4 (6) -> And the king stretched out to Esther the golden scepter. And Esther rose to stand by the king. || Esth.2.14 (3) -> In evening she goes in, and by day she returns to the second women's house, where Gai the king's eunuch, keeper of the women, is, and she no longer goes in to the king unless called by name.
 - NT clues: 1Pet.3.7 (1) -> Likewise, all of you husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
+## Esther 4:16
+- score: 15
+- top vote: 19
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: Go, gather the Ioudaioi in Sousa and fast for me, and do not eat or drink for three days, night and day. And I and my maidservants will likewise go without food, and then I will go in to the king contrary to the law. If then I must perish, I will perish.
+- OT clues: 2Chr.20.3 (17) -> And he feared, and Iōsaphat set his face to seek Lord and proclaimed fast in all Iouda. || Joel.2.12-Joel.2.17 (13) -> And now, says Lord your God, return to me with all your heart and with fasting and with weeping and with mourning. || Gen.18.19 (9) -> For I know that he will direct his sons and his household after him, and they will keep the ways of the Lord, to do righteousness and judgment, so that the Lord may bring upon Abraham all that he spoke to him. || 2Sam.10.12 (5) -> Be manly, and let us be strengthened for our people and for the cities of our God, and the Lord will do the good in his eyes.
+- NT clues: Acts.20.24 (19) -> But none of these things (o. logos) move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God. || Luke.9.24 (11) -> For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
+
 ## Esther 4:8
 - score: 15
 - top vote: 5
@@ -2050,26 +2077,6 @@ Rows: 233
 - fresh: And he gave him copy of the notice posted in Sousa for their destruction, to show Esther, and he told him to command her, after going in, to plead with the king and urge him for the people, remembering days of your humiliation, how you were nourished in my hand, because Aman, the second to the kingdom, has spoken against us for death. Call upon the Lord and speak to the king concerning us and rescue us from death.
 - OT clues: Eccl.10.4 (5) -> If spirit of ruler rises upon you, do not leave your place, because healing will put great sins to rest. || Job.9.15 (4) -> For even if I am righteous, he will not hear me; I will plead with my judge. || Esth.2.20 (3) -> And Esther did not reveal her homeland, for thus Mardochaios commanded her to fear God and do his commandments, just as when she was with him, and Esther did not change her conduct. || Esth.3.14-Esth.3.15 (3) -> Copies of the letters were posted province by province, and command was given to all the nations to be ready for this day.
 - NT clues: 1Tim.6.13 (3) -> I give you charge in the sight of God, who replenishes life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession; || Acts.12.20 (2) -> And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king's chamberlain their friend, desired peace; because their country was nourished by the king's country.
-
-## Esther 8:8
-- score: 15
-- top vote: 9
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
-- OT clues: Esth.1.19 (9) -> If then it seems good to the king, let him issue a royal command and let it be written among laws of Medes and Persians and not otherwise used, that the queen enter to him no more, and let the king give her royal place to a woman better than she. || Esth.3.12 (8) -> And scribes of the king were called on thirteenth of the first month, and they wrote as Aman commanded to the generals and the rulers over every province, from India to Ethiopia, to the one hundred twenty-seven provinces, and to rulers of the nations in their own language, by Artaxerxes the king. || 1Kgs.21.8 (4) -> And the elders and all the people said to him, Do not listen and do not be willing. || Dan.6.12-Dan.6.15 (4) -> And they watched Daniel and caught him praying three times each day.
-- NT clues: Heb.6.17-Heb.6.18 (4) -> Wherein God, willing more abundantly to show unto the heirs of promise the immutability of his counsel, confirmed it by an oath: || 2Tim.2.19 (3) -> Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity.
-
-## Habakkuk 1:2
-- score: 15
-- top vote: 9
-- OT crossrefs: 6
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
-- OT clues: Ps.22.1-Ps.22.2 (9) -> Psalm of David. Lord shepherds me, and nothing will fail me. || Ps.13.1-Ps.13.2 (8) -> For end. Psalm of David. Fool said in his heart, There is no God. They were corrupted and became abominable in pursuits; there is none doing kindness, there is not even one. || Jer.14.9 (7) -> Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us. || Lam.3.8 (7) -> And though I cry out and shout, he fenced off my prayer.
-- NT clues: Rev.6.10 (4) -> And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?
 
 ## Haggai 1:13
 - score: 15
@@ -2090,16 +2097,6 @@ Rows: 233
 - fresh: But now be strong, Zerubbabel, says Lord, and be strong, Jeshua son of Josedek, the great priest, and let all people of land be strong, says Lord, and act, because I am with you, says Lord Almighty.
 - OT clues: 1Chr.28.20 (14) -> And Dauid said to Salomon his son, Be strong and act like man and do. Do not fear and do not be dismayed, because Lord my God is with you. He will not let go of you and will not forsake you until you finish every work of service of house of Lord. || Deut.31.23 (8) -> And Moses commanded Joshua and said to him, Be courageous and strong, because you will bring the sons of Israel into the land that the Lord swore to them, and he himself will be with you. || Josh.1.9 (8) -> Behold, I have commanded you: be strong and act like a man. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do. || Zech.8.9 (8) -> Thus says Lord Almighty: Let your hands be strengthened, you hearing in these days these words from mouth of prophets, from days when house of Lord Almighty was founded and temple was for building.
 - NT clues: 2Tim.2.1 (6) -> You therefore, my son, be strong in the grace that is in Christ Jesus. || 1Cor.16.13 (4) -> Watch all of you, stand fast in the faith, quit you like men, be strong.
-
-## Jonah 1:14
-- score: 15
-- top vote: 10
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
-- OT clues: Ps.115.3 (10) -> What will I repay to Lord for all things he repaid me? || Ps.135.6 (7) -> To one establishing earth upon waters, because his mercy forever. || Deut.21.8 (5) -> Be merciful to your people Israel, whom you redeemed, O Lord, from the land of Egypt, so that innocent blood may not be among your people Israel, and the blood shall be atoned for them. || Dan.4.34-Dan.4.35 (3) -> And at completion of the seven years, time of my release came, and my sins and my ignorances were filled up before God of heaven, and I prayed concerning my ignorances to God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve God of heaven, the Holy One, and give glory to the Most High; kingdom of your nation is restored to you.
-- NT clues: Eph.1.11 (5) -> In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will: || Ps.107.28 (4) -> Then they cry unto the LORD in their trouble, and he brings them out of their distresses.
 
 ## Lamentations 1:15
 - score: 15
@@ -2260,32 +2257,32 @@ Rows: 233
 - OT clues: Isa.29.14 (7) -> Because of this, behold, I will add to move this people and will move them, and wisdom of wise I will destroy, and understanding of understanding ones I will hide. || Job.5.12-Job.5.14 (4) -> turning aside counsels of the crafty, and their hands will never do what is true, || Ps.33.10 (3) -> Fear Lord, his holy ones, because there is no lack to those fearing him. || Isa.19.13-Isa.19.14 (2) -> Princes of Tanis failed, and princes of Memphis were exalted, and they will lead Egypt astray by tribes.
 - NT clues: 1Cor.3.19-1Cor.3.20 (1) -> For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 
-## Song of Solomon 2:3
+## Song of Solomon 1:3
 - score: 13
-- top vote: 7
+- top vote: 9
 - OT crossrefs: 4
 - NT crossrefs: 4
 - shared-family hits: 0
-- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
-- OT clues: Song.8.5 (7) -> Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you. || Isa.25.4 (6) -> For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged. || Isa.32.2 (6) -> And man will be hiding his words and will be hidden as from carried water, and will appear in Zion as glorious flowing river in thirsty land. || Ezek.47.12 (3) -> And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
-- NT clues: Heb.1.1-Heb.1.6 (6) -> God, who at several times and in divers manners spoke in time past unto the fathers by the prophets, || Heb.12.2 (5) -> Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. || John.1.14-John.1.18 (4) -> And the Word (o. logos) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+- fresh: And scent of your perfumes above all spices; your name = poured-out perfume, therefore young women loved you.
+- OT clues: Eccl.7.1 (9) -> Good name above good oil, and day of death above day of his birth. || Exod.30.23-Exod.30.28 (8) -> And you, take sweet spices: five hundred shekels of choice-flowing myrrh, and half that amount, two hundred fifty of sweet cinnamon, and two hundred fifty of sweet calamus, || Song.4.10 (8) -> How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices. || Ps.45.7-Ps.45.8 (7) -> Nations were troubled, kingdoms bowed; he gave his voice, earth was shaken.
+- NT clues: John.12.3 (8) -> Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment. || Phil.2.9-Phil.2.10 (7) -> Wherefore God also has highly exalted him, and given him a name which is above every name: || Rev.14.4 (6) -> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits unto God and to the Lamb.
 
-## Song of Solomon 2:9
+## Song of Solomon 1:4
+- score: 13
+- top vote: 8
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+- OT clues: Hos.11.4 (8) -> With ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look upon him; I will prevail for him. || Jer.31.3 (4) -> Because voice of criers from Horonaim, destruction and great crushing. || Isa.25.8 (3) -> Death swallowed after growing strong, and again God took away every tear from every face; reproach of people he took away from all earth, for mouth of Lord spoke. || Isa.45.25 (3) -> From Lord all seed of sons of Israel will be justified, and in God be glorified.
+- NT clues: John.6.44 (8) -> No man can come to me, except the Father which has sent me draw him: and I will raise him up at the last day. || Ps.45.14-Ps.45.15 (7) -> She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto you. || John.12.32 (5) -> And I, if I be lifted up from the earth, will draw all men unto me.
+
+## Song of Solomon 1:8
 - score: 13
 - top vote: 6
-- OT crossrefs: 3
-- NT crossrefs: 5
+- OT crossrefs: 2
+- NT crossrefs: 6
 - shared-family hits: 0
-- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
-- OT clues: Song.8.14 (6) -> Flee, my beloved, and be like gazelle or fawn of deer on mountains of spices. || Song.2.17 (5) -> Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains. || 2Sam.2.18 (2) -> And there were there three sons of Sarouia: Iōab and Abessa and Asaēl, and Asaēl was swift in his feet like one gazelle in the field.
-- NT clues: 1Cor.13.12 (2) -> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. || 1Pet.1.10-1Pet.1.12 (2) -> Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: || 2Cor.3.13-2Cor.3.18 (2) -> And not as Moses, which put a vail over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:
-
-## Song of Solomon 3:1
-- score: 13
-- top vote: 10
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
-- OT clues: Song.1.7 (9) -> Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions? || Song.5.6 (9) -> I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me. || Isa.55.6 (8) -> Seek God, and when you find him call on him when he draws near you. || Isa.26.9 (7) -> Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon earth. Learn righteousness, dwellers on earth.
-- NT clues: 1Pet.1.8 (10) -> Whom having not seen, all of you love; in whom, though now all of you see him not, yet believing, all of you rejoice with joy unspeakable and full of glory:
+- fresh: If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
+- OT clues: Song.6.1 (6) -> Where did your beloved go, beautiful among women? Where did your beloved look away, and we will seek him with you? || Song.5.9 (5) -> What is your beloved beyond beloved, beautiful among women? What is your beloved beyond beloved, that thus you bound us by oath?
+- NT clues: Heb.11.4-Heb.11.40 (3) -> By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaks. || Jas.2.21 (3) -> Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? || Jas.5.10 (3) -> Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.

@@ -2,12 +2,6 @@
 
 Selected verses: 6
 
-## Ecclesiastes 2:24
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, soul; crossref_top_vote=17; reco=keep
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from hand of God.
-- brenton: [missing]
-
 ## Ecclesiastes 2:26
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit; crossref_top_vote=43; reco=keep
@@ -30,6 +24,12 @@ Selected verses: 6
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit; crossref_top_vote=22; reco=keep
 - fresh: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
+- brenton: [missing]
+
+## Ecclesiastes 11:6
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=seed; crossref_top_vote=308; reco=keep
+- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
 - brenton: [missing]
 
 ## Ecclesiastes 11:9

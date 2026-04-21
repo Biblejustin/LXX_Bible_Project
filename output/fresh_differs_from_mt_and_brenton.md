@@ -12,13 +12,139 @@ Rows: 12239
 - brenton: Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.
 
 ## Leviticus 4:31
-- priority: `29`
+- priority: `34`
 - importance: `high`
 - fresh_mt_ratio: `0.063`
 - fresh_brenton_ratio: `0.067`
 - fresh: And he shall remove all the fat, just as the fat is removed from the sacrifice of salvation, and the priest shall offer it on the altar as an aroma of sweet fragrance to the Lord. And the priest shall make atonement for him, and it shall be forgiven him.
 - mt: And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.
 - brenton: And he shall take away all the fat, as the fat is taken away from the sacrifice of peace-offering, and the priest shall offer it on the altar for a smell of sweet savour to the Lord; and the priest shall make atonement for him, and his sin shall be forgiven him.
+
+## 1 Kings 2:35
+- priority: `32`
+- importance: `high`
+- fresh_mt_ratio: `0.081`
+- fresh_brenton_ratio: `0.017`
+- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
+- mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
+- brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
+
+## 2 Kings 17:34
+- priority: `31`
+- importance: `high`
+- fresh_mt_ratio: `0.029`
+- fresh_brenton_ratio: `0.192`
+- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
+- mt: Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
+- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
+
+## 2 Chronicles 33:16
+- priority: `31`
+- importance: `high`
+- fresh_mt_ratio: `0.714`
+- fresh_brenton_ratio: `0.777`
+- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
+- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
+- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
+
+## Deuteronomy 16:2
+- priority: `31`
+- importance: `high`
+- fresh_mt_ratio: `0.732`
+- fresh_brenton_ratio: `0.799`
+- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
+- mt: You shall therefore sacrifice the passover unto the LORD your God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
+- brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
+
+## Nehemiah 10:34
+- priority: `30`
+- importance: `high`
+- fresh_mt_ratio: `0.023`
+- fresh_brenton_ratio: `0.033`
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- mt: And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:
+- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
+
+## 2 Chronicles 12:13
+- priority: `30`
+- importance: `high`
+- fresh_mt_ratio: `0.112`
+- fresh_brenton_ratio: `0.097`
+- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
+- mt: So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
+- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
+
+## Deuteronomy 12:21
+- priority: `30`
+- importance: `high`
+- fresh_mt_ratio: `0.154`
+- fresh_brenton_ratio: `0.088`
+- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
+- mt: If the place which the LORD your God has chosen to put his name there be too far from you, then you shall kill of your herd and of your flock, which the LORD has given you, as I have commanded you, and you shall eat in your gates whatsoever your soul lusts after.
+- brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
+
+## Deuteronomy 12:26
+- priority: `30`
+- importance: `high`
+- fresh_mt_ratio: `0.630`
+- fresh_brenton_ratio: `0.613`
+- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
+- mt: Only your holy things which you have, and your vows, you shall take, and go unto the place which the LORD shall choose:
+- brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
+
+## Deuteronomy 17:8
+- priority: `29`
+- importance: `high`
+- fresh_mt_ratio: `0.094`
+- fresh_brenton_ratio: `0.136`
+- fresh: And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there.
+- mt: If there arise a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates: then shall you arise, and get you up into the place which the LORD your God shall choose;
+- brenton: And if a matter shall be too hard for thee in judgment, between blood and blood, and between cause and cause, and between stroke and stroke, and between contradiction and contradiction, matters of judgment in your cities;
+
+## Joshua 22:5
+- priority: `29`
+- importance: `high`
+- fresh_mt_ratio: `0.377`
+- fresh_brenton_ratio: `0.405`
+- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
+- mt: But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
+- brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
+
+## Deuteronomy 12:11
+- priority: `29`
+- importance: `high`
+- fresh_mt_ratio: `0.403`
+- fresh_brenton_ratio: `0.269`
+- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
+- mt: Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall all of you bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which all of you vow unto the LORD:
+- brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
+
+## 1 Chronicles 22:19
+- priority: `29`
+- importance: `high`
+- fresh_mt_ratio: `0.692`
+- fresh_brenton_ratio: `0.534`
+- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
+- mt: Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
+- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 2 Chronicles 7:14
+- priority: `28`
+- importance: `high`
+- fresh_mt_ratio: `0.088`
+- fresh_brenton_ratio: `0.029`
+- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
+- mt: If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
+- brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
+
+## 2 Chronicles 9:8
+- priority: `28`
+- importance: `high`
+- fresh_mt_ratio: `0.581`
+- fresh_brenton_ratio: `0.220`
+- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
+- mt: Blessed be the LORD your God, which delighted in you to set you on his throne, to be king for the LORD your God: because your God loved Israel, to establish them for ever, therefore made he you king over them, to do judgment and justice.
+- brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
 ## Genesis 2:7
 - priority: `28`
@@ -29,50 +155,14 @@ Rows: 12239
 - mt: And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
-## 1 Kings 2:35
-- priority: `27`
-- importance: `high`
-- fresh_mt_ratio: `0.081`
-- fresh_brenton_ratio: `0.017`
-- fresh: And the king gave Banaiou son of Iodae in his place over the generalship, and the kingdom was being set right in Ierousalem, and the king gave Sadok the priest as first priest instead of Abiathar. And the Lord gave understanding to Solomon and very much wisdom and breadth of heart like the sand that is beside the sea. And the understanding of Solomon was multiplied greatly beyond the understanding of all the ancients and beyond all the wise of Egypt. And he took the daughter of Pharao and brought her into the City of David until he finished his own house and the house of the Lord first and the wall of Ierousalem all around. In seven years he made it and finished it. And Solomon had seventy thousand carrying burdens and eighty thousand stonecutters in the mountain. And Solomon made the Sea and the bases and the great basins and the pillars and the fountain of the court and the bronze sea. And he built the citadel and its battlements and cut through the City of David. Thus the daughter of Pharao was going up from the City of David into her house that he built for her. Then he built the citadel. And Solomon offered up three times in the year whole burnt offerings and peace offerings on the altar that he built to the Lord and was burning incense before the Lord and finished the house. And these were the rulers set over the works of Solomon, three thousand six hundred overseers of the people doing the works. And he built Assour and Magdo and Gazer and upper Baithoron and Baalath. But after he built the house of the Lord and the wall of Ierousalem all around, after these things he built these cities. And while David was still living he commanded Solomon, saying, Behold, with you is Semei son of Gera, son of the seed of the Jeminaian from Chebron. He cursed me with a grievous curse on the day when I was going to the Camps, and he came down to meet me at the Jordan, and I swore to him by the Lord, saying, He shall not be put to death by the sword. And now do not hold him guiltless, because you are a prudent man and you will know what you will do to him, and you will bring his gray hair down in blood to Hades.
-- mt: And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
-- brenton: And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
-
-## 2 Kings 17:34
+## Leviticus 4:35
 - priority: `26`
 - importance: `high`
-- fresh_mt_ratio: `0.029`
-- fresh_brenton_ratio: `0.192`
-- fresh: Until this day they act according to their custom. They fear, and they act according to their ordinances and according to their judgment and according to the law and according to the commandment which the Lord commanded the sons of Iakōb, whom he named Israel.
-- mt: Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
-- brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
-
-## 2 Chronicles 33:16
-- priority: `26`
-- importance: `high`
-- fresh_mt_ratio: `0.714`
-- fresh_brenton_ratio: `0.777`
-- fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- mt: And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
-- brenton: And he repaired the altar of the Lord, and offered upon it a sacrifice of peace-offering and thank-offering, and he told Juda to serve the Lord God of Israel.
-
-## Deuteronomy 16:2
-- priority: `26`
-- importance: `high`
-- fresh_mt_ratio: `0.732`
-- fresh_brenton_ratio: `0.799`
-- fresh: And you shall sacrifice the Passover to the Lord your God, sheep and cattle, in the place that the Lord your God chooses for his name to be called there.
-- mt: You shall therefore sacrifice the passover unto the LORD your God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
-- brenton: And thou shalt sacrifice the passover to the Lord thy God, sheep and oxen in the place which the Lord thy God shall choose to have his name called upon it.
-
-## Nehemiah 10:34
-- priority: `25`
-- importance: `high`
-- fresh_mt_ratio: `0.023`
-- fresh_brenton_ratio: `0.033`
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
-- mt: And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:
-- brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
+- fresh_mt_ratio: `0.339`
+- fresh_brenton_ratio: `0.464`
+- fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
+- mt: And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he has committed, and it shall be forgiven him.
+- brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
 
 ## Leviticus 5:15
 - priority: `25`
@@ -83,32 +173,14 @@ Rows: 12239
 - mt: If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with your estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
-## 2 Chronicles 12:13
+## Deuteronomy 16:6
 - priority: `25`
 - importance: `high`
-- fresh_mt_ratio: `0.112`
-- fresh_brenton_ratio: `0.097`
-- fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
-- mt: So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
-- brenton: So king Roboam strengthened himself in Jerusalem, and reigned: and Roboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose out of all the tribes of the children of Israel to call his name there: and his mother's name was Noomma the Ammanitess.
-
-## Deuteronomy 12:21
-- priority: `25`
-- importance: `high`
-- fresh_mt_ratio: `0.154`
-- fresh_brenton_ratio: `0.088`
-- fresh: And if the place that the Lord your God chooses for his name to be called there is farther from you, then you shall slaughter from your cattle and from your sheep that God gave you, in the way I commanded you, and you shall eat in your cities according to the desire of your soul.
-- mt: If the place which the LORD your God has chosen to put his name there be too far from you, then you shall kill of your herd and of your flock, which the LORD has given you, as I have commanded you, and you shall eat in your gates whatsoever your soul lusts after.
-- brenton: And if the place be far from thee, which the Lord thy God shall choose for himself, that his name be called upon it, then thou shalt kill of thy herd and of thy flock which God shall have given thee, even as I commanded thee, and thou shalt eat in thy cities according to the desire of thy soul.
-
-## Deuteronomy 12:26
-- priority: `25`
-- importance: `high`
-- fresh_mt_ratio: `0.630`
-- fresh_brenton_ratio: `0.613`
-- fresh: Except your holy things that you may have, and your vows, taking them you shall come to the place that the Lord your God chooses for his name to be called there.
-- mt: Only your holy things which you have, and your vows, you shall take, and go unto the place which the LORD shall choose:
-- brenton: But thou shalt take thy holy things, if thou hast any, and thy vowed-offerings, and come to the place which the Lord thy God shall choose to have his name named upon it.
+- fresh_mt_ratio: `0.766`
+- fresh_brenton_ratio: `0.836`
+- fresh: but only at the place that the Lord your God chooses for his name to be called there, there you shall sacrifice the Passover in the evening, at the setting of the sun, at the time when you came out from Egypt.
+- mt: But at the place which the LORD your God shall choose to place his name in, there you shall sacrifice the passover at even, at the going down of the sun, at the season that you came forth out of Egypt.
+- brenton: But in the place which the Lord thy God shall choose, to have his name called there, thou shalt sacrifice the passover at even at the setting of the sun, at the time when thou camest out of Egypt.
 
 ## 2 Chronicles 35:3
 - priority: `24`
@@ -119,68 +191,14 @@ Rows: 12239
 - mt: And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
-## Deuteronomy 17:8
+## Leviticus 4:26
 - priority: `24`
 - importance: `high`
-- fresh_mt_ratio: `0.094`
-- fresh_brenton_ratio: `0.136`
-- fresh: And if a matter in judgment is too hard for you, between blood and blood, and between judgment and judgment, and between wound and wound, words of judgment in your cities, then, rising, you shall go up to the place that the Lord your God chooses for his name to be called there.
-- mt: If there arise a matter too hard for you in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within your gates: then shall you arise, and get you up into the place which the LORD your God shall choose;
-- brenton: And if a matter shall be too hard for thee in judgment, between blood and blood, and between cause and cause, and between stroke and stroke, and between contradiction and contradiction, matters of judgment in your cities;
-
-## Joshua 22:5
-- priority: `24`
-- importance: `high`
-- fresh_mt_ratio: `0.377`
-- fresh_brenton_ratio: `0.405`
-- fresh: Only take great care to do the commandments and the law that Moses the servant of the Lord commanded us to do: to love the Lord your God, to walk in all his ways, to keep his commandments, and to cling to him and serve him with all your mind and with all your soul.
-- mt: But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
-- brenton: But take great heed to do the commands and the law, which Moses the servant of the Lord commanded you to do; to love the Lord our God, to walk in all his ways, to keep his commands, and to cleave to him, and serve him with all your mind, and with all your soul.
-
-## Deuteronomy 12:11
-- priority: `24`
-- importance: `high`
-- fresh_mt_ratio: `0.403`
-- fresh_brenton_ratio: `0.269`
-- fresh: And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
-- mt: Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall all of you bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which all of you vow unto the LORD:
-- brenton: And there shall be a place which the Lord thy God shall choose for his name to be called there, thither shall ye bring all things that I order you to-day; your whole-burnt-offerings, and your sacrifices, and your tithes, and the first-fruits of your hands, and every choice gift of yours, whatsoever ye shall vow to the Lord your God.
-
-## 1 Chronicles 22:19
-- priority: `24`
-- importance: `high`
-- fresh_mt_ratio: `0.692`
-- fresh_brenton_ratio: `0.534`
-- fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
-- mt: Now set your heart and your soul to seek the LORD your God; arise therefore, and build all of you the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.
-- brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
-
-## Deuteronomy 16:16
-- priority: `23`
-- importance: `high`
-- fresh_mt_ratio: `0.070`
-- fresh_brenton_ratio: `0.103`
-- fresh: Three times in the year every male among you shall appear before the Lord your God in the place that the Lord chooses: in the Feast of Unleavened Bread and in the Feast of Weeks and in the Feast of Tabernacle-making. You shall not appear before the Lord your God empty,
-- mt: Three times in a year shall all your males appear before the LORD your God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
-- brenton: Three times in the year shall all thy males appear before the Lord thy God in the place which the Lord shall choose in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: thou shalt not appear before the Lord thy God empty.
-
-## 2 Chronicles 7:14
-- priority: `23`
-- importance: `high`
-- fresh_mt_ratio: `0.088`
-- fresh_brenton_ratio: `0.029`
-- fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
-- mt: If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
-- brenton: then if my people, on whom my name is called, should repent, and pray, and seek my face, and turn from their evil ways, I also will hear from heaven, and I will be merciful to their sins, and I will heal their land.
-
-## 2 Chronicles 9:8
-- priority: `23`
-- importance: `high`
-- fresh_mt_ratio: `0.581`
-- fresh_brenton_ratio: `0.220`
-- fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
-- mt: Blessed be the LORD your God, which delighted in you to set you on his throne, to be king for the LORD your God: because your God loved Israel, to establish them for ever, therefore made he you king over them, to do judgment and justice.
-- brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
+- fresh_mt_ratio: `0.844`
+- fresh_brenton_ratio: `0.889`
+- fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
+- mt: And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.
+- brenton: And he shall offer up all his fat on the altar, as the fat of the sacrifice of peace-offering; and the priest shall make atonement for him concerning his sin, and it shall be forgiven him.
 
 ## Leviticus 3:1
 - priority: `23`
@@ -245,6 +263,15 @@ Rows: 12239
 - mt: And said, If you will diligently hearken to the voice of the LORD your God, and will do that which is right in his sight, and will give ear to his commandments, and keep all his statutes, I will put none of these diseases upon you, which I have brought upon the Egyptians: for I am the LORD that heals you.
 - brenton: and said, If thou wilt indeed hear the voice of the Lord thy God, and do things pleasing before him, and wilt hearken to his commands, and keep all his ordinances, no disease which I have brought upon the Egyptians will I bring upon thee, for I am the Lord thy God that heals thee.
 
+## 2 Kings 9:18
+- priority: `22`
+- importance: `high`
+- fresh_mt_ratio: `0.268`
+- fresh_brenton_ratio: `0.337`
+- fresh: And a horseman went to meet them and said, Thus says the king, Is it peace? And Iou said, What is peace to you? Turn behind me. And the watchman reported, saying, The messenger came to them and did not return.
+- mt: So there went one on horseback to meet him, and said, Thus says the king, Is it peace? And Jehu said, What have you to do with peace? turn you behind me. And the watchman told, saying, The messenger came to them, but he comes not again.
+- brenton: And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.
+
 ## Nehemiah 1:11
 - priority: `22`
 - importance: `high`
@@ -262,6 +289,24 @@ Rows: 12239
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - mt: That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or food offering, or if to offer peace offerings thereon, let the LORD himself require it;
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
+
+## 1 Kings 10:9
+- priority: `22`
+- importance: `high`
+- fresh_mt_ratio: `0.665`
+- fresh_brenton_ratio: `0.063`
+- fresh: May the Lord your God be blessed, who delighted in you to give you upon the throne of Israel, because the Lord loved Israel to establish it forever, and he set you as king over them to do judgment in righteousness and in their judgments.
+- mt: Blessed be the LORD your God, which delighted in you, to set you on the throne of Israel: because the LORD loved Israel for ever, therefore made he you king, to do judgment and justice.
+- brenton: Blessed be the Lord thy God, who has taken pleasure in thee, to set thee upon the throne of Israel, because the Lord loved Israel to establish him for ever; and he has made thee king over them, to execute judgment with justice, and in their causes.
+
+## Leviticus 7:11
+- priority: `22`
+- importance: `high`
+- fresh_mt_ratio: `0.722`
+- fresh_brenton_ratio: `0.854`
+- fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
+- mt: And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.
+- brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
 
 ## Exodus 14:31
 - priority: `22`
@@ -290,24 +335,6 @@ Rows: 12239
 - mt: To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
 
-## Leviticus 6:5
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.032`
-- fresh_brenton_ratio: `0.525`
-- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
-- mt: Or all that about which he has sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertains, in the day of his trespass offering.
-- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
-
-## Leviticus 3:9
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.048`
-- fresh_brenton_ratio: `0.064`
-- fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
-- mt: And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covers the inwards, and all the fat that is upon the inwards,
-- brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
-
 ## Genesis 24:14
 - priority: `21`
 - importance: `high`
@@ -316,15 +343,6 @@ Rows: 12239
 - fresh: and let it be that the virgin to whom I say, Lower your water jar so that I may drink, and she says to me, Drink, and I will water your camels until they stop drinking - this is the one you prepared for your servant Isaac, and by this I will know that you have done mercy with my lord Abraham.
 - mt: And let it come to pass, that the damsel to whom I shall say, Let down your pitcher, I pray you, that I may drink; and she shall say, Drink, and I will give your camels drink also: let the same be she that you have appointed for your servant Isaac; and thereby shall I know that you have showed kindness unto my master.
 - brenton: And it shall be, the virgin to whomsoever I shall say, Incline thy water-pot, that I may drink, and she shall say, Drink thou, and I will give thy camels drink, until they shall have done drinking—even this one thou hast prepared for thy servant Isaac, and hereby shall I know that thou hast dealt mercifully with my master Abraam.
-
-## Leviticus 4:18
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.070`
-- fresh_brenton_ratio: `0.270`
-- fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
-- mt: And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
-- brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
 
 ## Exodus 28:30
 - priority: `21`
@@ -343,6 +361,33 @@ Rows: 12239
 - fresh: Then Moses said to the people, "Take courage. Stand and see the salvation from God that he will accomplish for us today. For in the way you have seen the Egyptians today, you shall never again see them through all time."
 - mt: And Moses said unto the people, Fear all of you not, stand still, and see the salvation of the LORD, which he will show to you to day: for the Egyptians whom all of you have seen to day, all of you shall see them again no more for ever.
 - brenton: And Moses said to the people, Be of good courage: stand and see the salvation which is from the Lord, which he will work for us this day; for as ye have seen the Egyptians to-day, ye shall see them again no more for ever.
+
+## Exodus 3:18
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.188`
+- fresh_brenton_ratio: `0.489`
+- fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
+- mt: And they shall hearken to your voice: and you shall come, you and the elders of Israel, unto the king of Egypt, and all of you shall say unto him, The LORD God of the Hebrews has met with us: and now let us go, we plead to you, three days' journey into the wilderness, that we may sacrifice to the LORD our God.
+- brenton: And they shall hearken to thy voice, and thou and the elders of Israel shall go in to Pharao king of Egypt, and thou shalt say to him, The God of the Hebrews has called us; we will go then a journey of three days into the wilderness, that we may sacrifice to our God.
+
+## 1 Samuel 26:19
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.190`
+- fresh_brenton_ratio: `0.542`
+- fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
+- mt: Now therefore, I pray you, let my lord the king hear the words of his servant. If the LORD have stirred you up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.
+- brenton: And now let my lord the king hear the word of his servant. If God stirs thee up against me, let thine offering be acceptable: but if the sons of men, they are cursed before the Lord, for they have cast me out this day so that I should not be established in the inheritance of the Lord, saying, Go, serve other gods.
+
+## 2 Samuel 3:21
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.221`
+- fresh_brenton_ratio: `0.476`
+- fresh: And Abennēr said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abennēr away, and he went in peace.
+- mt: And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with you, and that you may reign over all that yours heart desires. And David sent Abner away; and he went in peace.
+- brenton: And Abenner said to David, I will arise now, and go, and gather to my lord the king all Israel; and I will make with him a covenant, and thou shalt reign over all whom thy soul desires. And David sent away Abenner, and he departed in peace.
 
 ## 1 Chronicles 16:35
 - priority: `21`
@@ -370,6 +415,15 @@ Rows: 12239
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - mt: Then yours handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
+
+## 2 Samuel 22:51
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.771`
+- fresh_brenton_ratio: `0.894`
+- fresh: magnifying the salvations of his king and doing mercy for his anointed, for David and for his seed forever.
+- mt: He is the tower of salvation for his king: and shows mercy to his anointed, unto David, and to his seed for evermore.
+- brenton: He magnifies the salvation of his king, and works mercy for his anointed, even for David and for his seed for ever.
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -470,6 +524,24 @@ Rows: 12239
 - mt: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
+## 1 Kings 6:1
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.160`
+- fresh_brenton_ratio: `0.368`
+- fresh: And it came to be in the four hundred and fortieth year of the coming out of the sons of Israel from Egypt, in the fourth year, in the second month, of King Solomon reigning over Israel. And the king commanded, and they took great costly stones for the foundation of the house, and unhewn stones. And the sons of Solomon and the sons of Chiram dressed them and laid them. In the fourth year he founded the house of the Lord in the month Niso, the second month. In the eleventh year, in the month Baal, this is the eighth month, the house was completed in every word of it and in every arrangement of it.
+- mt: And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.
+- brenton: And it came to pass in the four hundred and fortieth year after the departure of the children of Israel out of Egypt, in the fourth year and second month of the reign of king Solomon over Israel,
+
+## 1 Samuel 12:17
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.177`
+- fresh_brenton_ratio: `0.567`
+- fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
+- mt: Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that all of you may perceive and see that your wickedness is great, which all of you have done in the sight of the LORD, in asking you a king.
+- brenton: Is it not wheat-harvest to-day? I will call upon the Lord, and he shall send thunder and rain; and know ye and see, that your wickedness is great which ye have wrought before the Lord, having asked for yourselves a king.
+
 ## 1 Chronicles 28:9
 - priority: `20`
 - importance: `high`
@@ -478,6 +550,15 @@ Rows: 12239
 - fresh: And now, Salomon my son, know God of your fathers and serve him with complete heart and willing soul, because Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end.
 - mt: And you, Solomon my son, know you the God of your father, and serve him with a perfect heart and with a willing mind: for the LORD searches all hearts, and understands all the imaginations of the thoughts: if you seek him, he will be found of you; but if you forsake him, he will cast you off for ever.
 - brenton: And now, my son Solomon, know the God of thy fathers, and serve him with a perfect heart and willing soul: for the Lord searches all hearts, and knows every thought: if thou seek him, he will be found of thee; but if thou shouldest forsake him, he will forsake thee for ever.
+
+## 1 Kings 13:2
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.228`
+- fresh_brenton_ratio: `0.238`
+- fresh: And he cried against the altar by the word of the Lord and said, Altar, altar, thus says the Lord: Behold, a son is being born to the house of David, Iosias his name, and he will sacrifice upon you the priests of the high places who sacrifice upon you, and he will burn human bones upon you.
+- mt: And he cried against the altar in the word of the LORD, and said, O altar, altar, thus says the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon you shall he offer the priests of the high places that burn incense upon you, and men's bones shall be burnt upon you.
+- brenton: And he cried against the altar by the word of the Lord, and said, O altar, altar, thus saith the Lord, Behold, a son is to be born to the house of David, Josias by name; and he shall offer upon thee the priests of the high places, even of them that sacrifice upon thee, and he shall burn men's bones upon thee.
 
 ## 2 Kings 23:24
 - priority: `20`
@@ -488,15 +569,6 @@ Rows: 12239
 - mt: Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.
 - brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
 
-## 1 Kings 20:10
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.350`
-- fresh_brenton_ratio: `0.878`
-- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die.
-- mt: And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
-- brenton: And set two men, sons of transgressors, before him, and let them testify against him, saying, He blessed God and the king: and let them lead him forth, and stone him, and let him die.
-
 ## Nehemiah 8:9
 - priority: `20`
 - importance: `high`
@@ -506,14 +578,14 @@ Rows: 12239
 - mt: And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Exodus 6:3
+## 1 Samuel 2:2
 - priority: `20`
 - importance: `high`
-- fresh_mt_ratio: `0.741`
-- fresh_brenton_ratio: `0.692`
-- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
-- mt: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.
-- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
+- fresh_mt_ratio: `0.561`
+- fresh_brenton_ratio: `0.809`
+- fresh: Because there is no holy one like the Lord, and there is none righteous like our God; there is no holy one besides you.
+- mt: There is none holy as the LORD: for there is none beside you: neither is there any rock like our God.
+- brenton: For there is none holy as the Lord, and there is none righteous as our God: there is none holy beside thee.
 
 ## Nehemiah 1:5
 - priority: `20`
@@ -533,14 +605,14 @@ Rows: 12239
 - mt: Also in time past, when Saul was king over us, you were he that led out and brought in Israel: and the LORD said to you, You shall feed my people Israel, and you shall be a captain over Israel.
 - brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
 
-## Nehemiah 10:29
-- priority: `19`
+## 1 Kings 8:23
+- priority: `20`
 - importance: `high`
-- fresh_mt_ratio: `0.030`
-- fresh_brenton_ratio: `0.012`
-- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
-- mt: They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;
-- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
+- fresh_mt_ratio: `0.869`
+- fresh_brenton_ratio: `0.886`
+- fresh: and said, O Lord God of Israel, there is no God like you in heaven above and upon the earth below, keeping covenant and mercy for your servant who walks before you with all his heart,
+- mt: And he said, LORD God of Israel, there is no God like you, in heaven above, or on earth beneath, who keep covenant and mercy with your servants that walk before you with all their heart:
+- brenton: and he said, Lord God of Israel, there is no God like thee in heaven above and on the earth beneath, keeping covenant and mercy with thy servant who walks before thee with all his heart;
 
 ## 2 Kings 1:3
 - priority: `19`
@@ -550,51 +622,6 @@ Rows: 12239
 - fresh: And angel of the Lord spoke to Elijah the Thesbite, saying, Rise, come to meet the messengers of Ochozias king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Akkarōn?
 - mt: But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that all of you go to enquire of Baalzebub the god of Ekron?
 - brenton: And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the god of Accaron? but it shall not be so.
-
-## 1 Samuel 20:8
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.059`
-- fresh_brenton_ratio: `0.099`
-- fresh: And you will do mercy with your servant, because you brought your servant into a covenant of the Lord with yourself. And if there is wrongdoing in your servant, you put me to death, and why do you thus bring me to your father?
-- mt: Therefore you shall deal kindly with your servant; for you have brought your servant into a covenant of the LORD with you: notwithstanding, if there be in me iniquity, slay me yourself; for why should you bring me to your father?
-- brenton: And thou shalt deal mercifully with thy servant; for thou hast brought thy servant into a covenant of the Lord with thyself: and if there is iniquity in thy servant, slay me thyself; but why dost thou thus bring me to thy father?
-
-## 1 Kings 1:47
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.061`
-- fresh_brenton_ratio: `0.345`
-- fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
-- mt: And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than your name, and make his throne greater than your throne. And the king bowed himself upon the bed.
-- brenton: And the servants of the king have gone in to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne; and the king worshipped upon his bed.
-
-## 1 Kings 9:9
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.092`
-- fresh_brenton_ratio: `0.042`
-- fresh: And they will say, Because they forsook the Lord their God who brought their fathers out of Egypt, from the house of slavery, and they held fast to foreign gods and bowed to them and served them. Therefore the Lord brought upon them this evil. Then Solomon brought up the daughter of Pharao from the City of David to his house that he built for himself in those days.
-- mt: And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore has the LORD brought upon them all this evil.
-- brenton: And men shall say, Because they forsook the Lord their God, who brought out their fathers from Egypt, out of the house of bondage, and they attached themselves to strange gods, and worshipped them, and served them: therefore the Lord has brought this evil upon them.
-
-## 1 Kings 8:59
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.116`
-- fresh_brenton_ratio: `0.817`
-- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
-- mt: And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
-- brenton: And let these words, which I have prayed before the Lord our God, be near to the Lord our God day and night, to maintain the cause of thy servant, and the cause of thy people Israel for ever.
-
-## 1 Samuel 13:14
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.120`
-- fresh_brenton_ratio: `0.083`
-- fresh: And now your kingdom will not stand, and the Lord will seek for himself a man according to his heart, and the Lord will appoint him as ruler over his people, because you did not keep what the Lord commanded you.
-- mt: But now your kingdom shall not continue: the LORD has sought him a man after his own heart, and the LORD has commanded him to be captain over his people, because you have not kept that which the LORD commanded you.
-- brenton: But now thy kingdom shall not stand to thee, and the Lord shall seek for himself a man after his own heart; and the Lord shall appoint him to be a ruler over his people, because thou hast not kept all that the Lord commanded thee.
 
 ## Ezra 6:3
 - priority: `19`
@@ -614,6 +641,15 @@ Rows: 12239
 - mt: Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.
 - brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
+## 1 Chronicles 11:2
+- priority: `19`
+- importance: `high`
+- fresh_mt_ratio: `0.249`
+- fresh_brenton_ratio: `0.672`
+- fresh: Even yesterday and third day, when Saul was king, you were one bringing Israel out and bringing it in, and Lord your God said to you, You shall shepherd my people Israel, and you shall be ruler over Israel.
+- mt: And moreover in time past, even when Saul was king, you were he that led out and brought in Israel: and the LORD your God said unto you, You shall feed my people Israel, and you shall be ruler over my people Israel.
+- brenton: And heretofore when Saul was king, thou wast he that led Israel in and out, and the Lord of Israel said to thee, Thou shalt feed my people Israel, and thou shalt be for a ruler over Israel.
+
 ## Nehemiah 9:5
 - priority: `19`
 - importance: `high`
@@ -632,14 +668,14 @@ Rows: 12239
 - mt: This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
-## 1 Samuel 20:42
+## Nehemiah 4:3
 - priority: `19`
 - importance: `high`
-- fresh_mt_ratio: `0.310`
-- fresh_brenton_ratio: `0.715`
-- fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
-- mt: And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and you, and between my seed and your seed for ever. And he arose and departed: and Jonathan went into the city.
-- brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
+- fresh_mt_ratio: `0.268`
+- fresh_brenton_ratio: `0.361`
+- fresh: And we prayed to our God and set guards over them day and night because of them.
+- mt: Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
+- brenton: And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
 
 ## Joshua 22:34
 - priority: `19`
@@ -649,15 +685,6 @@ Rows: 12239
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - mt: And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD is God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
-
-## 1 Chronicles 15:29
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.523`
-- fresh_brenton_ratio: `0.073`
-- fresh: And it came to pass, ark of covenant of Lord came as far as City of Dauid, and Melchol daughter of Saul looked through window and saw king Dauid dancing and playing, and she despised him in her soul.
-- mt: And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
-- brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
 ## Ezra 7:12
 - priority: `19`
@@ -677,14 +704,14 @@ Rows: 12239
 - mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
 - brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
-## 2 Kings 23:25
+## 2 Kings 10:31
 - priority: `19`
 - importance: `high`
-- fresh_mt_ratio: `0.783`
-- fresh_brenton_ratio: `0.824`
-- fresh: Like him there was no king before him who turned to the Lord with all his heart and with all his soul and with all his strength according to all the law of Moses, and after him none like him arose.
-- mt: And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
-- brenton: There was no king like him before him, who turned to the Lord with all his heart, and with all his soul, and with all his strength, according to all the law of Moses; and after him there rose not one like him.
+- fresh_mt_ratio: `0.792`
+- fresh_brenton_ratio: `0.794`
+- fresh: And Iou was not careful to walk in the law of the Lord God of Israel with all his heart. He did not turn from the sins of Ieroboam son of Nabat, who made Israel sin.
+- mt: But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
+- brenton: But Ju took no heed to walk in the law of the Lord God of Israel with all his heart: he departed not from following the sins of Jeroboam, who made Israel to sin.
 
 ## 2 Kings 18:12
 - priority: `19`
@@ -695,23 +722,14 @@ Rows: 12239
 - mt: Because they obeyed not the voice of the LORD their God, but transgressed his covenant, and all that Moses the servant of the LORD commanded, and would not hear them, nor do them.
 - brenton: because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.
 
-## Joshua 24:15
-- priority: `18`
+## 2 Samuel 12:7
+- priority: `19`
 - importance: `high`
-- fresh_mt_ratio: `0.014`
-- fresh_brenton_ratio: `0.047`
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- mt: And if it seem evil unto you to serve the LORD, choose you this day whom all of you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land all of you dwell: but as for me and my house, we will serve the LORD.
-- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
-
-## 2 Samuel 14:14
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.030`
-- fresh_brenton_ratio: `0.628`
-- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
-- mt: For we must essentially die, and are as water spilt on the ground, which cannot be gathered up again; neither does God respect any person: yet does he devise means, that his banished be not expelled from him.
-- brenton: For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.
+- fresh_mt_ratio: `0.840`
+- fresh_brenton_ratio: `0.780`
+- fresh: And Nathan said to David, You are the man who did this. Thus says the Lord God of Israel: I am the one who anointed you as king over Israel, and I am the one who delivered you from the hand of Saoul,
+- mt: And Nathan said to David, You are the man. Thus says the LORD God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
+- brenton: And Nathan said to David, Thou art the man that has done this. Thus says the Lord God of Israel, I anointed thee to be king over Israel, and I rescued thee out of the hand of Saul;
 
 ## Ezra 7:21
 - priority: `18`
@@ -740,15 +758,6 @@ Rows: 12239
 - mt: And whosoever will not do the law of your God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
 - brenton: And whosoever shall not do the law of God, and the law of the king readily, judgment shall be taken upon him, whether for death or for chastisement, or for a fine of his property, or casting into prison.
 
-## 2 Kings 11:4
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.129`
-- fresh_brenton_ratio: `0.110`
-- fresh: And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
-- mt: And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and showed them the king's son.
-- brenton: And in the seventh year Jodae sent and took the captains of hundreds of the Chorri and of the Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king's son.
-
 ## Judges 6:34
 - priority: `18`
 - importance: `high`
@@ -757,6 +766,15 @@ Rows: 12239
 - fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
 - mt: But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
+
+## Joshua 23:10
+- priority: `18`
+- importance: `high`
+- fresh_mt_ratio: `0.727`
+- fresh_brenton_ratio: `0.834`
+- fresh: One of you chased a thousand, because the Lord your God was fighting for you, just as he said to you.
+- mt: One man of you shall chase a thousand: for the LORD your God, he it is that fights for you, as he has promised you.
+- brenton: One of you has chased a thousand, for the Lord our God, he fought for you, as he said to you.
 
 ## Judges 21:4
 - priority: `18`
@@ -776,14 +794,14 @@ Rows: 12239
 - mt: And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.
 - brenton: And the Lord was very angry with Israel; and he gave them into the hands of the spoilers, and they spoiled them; and he sold them into the hands of their enemies round about, and they could not any longer resist their enemies,
 
-## 2 Samuel 6:12
+## Judges 2:1
 - priority: `17`
 - importance: `high`
-- fresh_mt_ratio: `0.119`
-- fresh_brenton_ratio: `0.458`
-- fresh: And it was reported to king David, saying, The Lord has blessed the house of Abeddara and all his things for the sake of the ark of God. And David went and brought up the ark of the Lord from the house of Abeddara into the City of David with gladness.
-- mt: And it was told king David, saying, The LORD has blessed the house of Obededom, and all that pertains unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.
-- brenton: And it was reported to king David, saying, The Lord has blessed the house of Abeddara, and all that he has, because of the ark of the Lord. And David went, and brought up the ark of the Lord from the house of Abeddara to the city of David with gladness.
+- fresh_mt_ratio: `0.169`
+- fresh_brenton_ratio: `0.632`
+- fresh: And an angel of the Lord went up from Galgala to the place of Weeping and to Baethel and to the house of Israel and said to them, The Lord brought you up out of Egypt and brought you into the land that he swore to your fathers to give you, and he said to you, I will never scatter my covenant with you forever.
+- mt: And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I swore unto your fathers; and I said, I will never break my covenant with you.
+- brenton: And an angel of the Lord went up from Galgal to the place of weeping, and to Bæthel, and to the house of Israel, and said to them, Thus says the Lord, I brought you up out of Egypt, and I brought you into the land which I sware to your fathers; and I said, I will never break my covenant that I have made with you.
 
 ## Ruth 2:20
 - priority: `17`
@@ -794,15 +812,6 @@ Rows: 12239
 - mt: And Naomi said unto her daughter in law, Blessed be he of the LORD, who has not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
-## Judges 13:6
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.438`
-- fresh_brenton_ratio: `0.424`
-- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
-- mt: Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:
-- brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
-
 ## Ruth 2:13
 - priority: `17`
 - importance: `high`
@@ -812,6 +821,15 @@ Rows: 12239
 - mt: Then she said, Let me find favour in your sight, my lord; for that you have comforted me, and for that you have spoken friendly unto yours handmaid, though I be not like unto one of yours handmaidens.
 - brenton: And she said, Let me find grace in thy sight, my lord, because thou hast comforted me, and because thou hast spoken kindly to thy handmaid, and behold, I shall be as one of thy servants.
 
+## Judges 4:8
+- priority: `17`
+- importance: `high`
+- fresh_mt_ratio: `0.626`
+- fresh_brenton_ratio: `0.813`
+- fresh: And Barak said to her, If you go with me, I will go, and if you do not go with me, I will not go, because I do not know the day in which the Lord prospers the angel with me.
+- mt: And Barak said unto her, If you will go with me, then I will go: but if you will not go with me, then I will not go.
+- brenton: And Barac said to her, If thou wilt go with me, I will go; and if thou wilt not go, I will not go; for I know not the day on which the Lord prospers his messenger with me.
+
 ## Ruth 3:10
 - priority: `17`
 - importance: `high`
@@ -820,24 +838,6 @@ Rows: 12239
 - fresh: And he said, Blessed are you by the Lord God, daughter, because you made your latter mercy better than the first, by not going after young men, whether poor or rich.
 - mt: And he said, Blessed be you of the LORD, my daughter: for you have showed more kindness in the latter end than at the beginning, inasmuch as you followed not young men, whether poor or rich.
 - brenton: And Booz said, Blessed be thou of the Lord God, my daughter, for thou hast made thy latter kindness greater than the former, in that thou followest not after young men, whether any be poor or rich.
-
-## 2 Samuel 7:19
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.665`
-- fresh_brenton_ratio: `0.747`
-- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
-- mt: And this was yet a small thing in your sight, O Lord GOD; but you have spoken also of your servant's house for a great while to come. And is this the manner of man, O Lord GOD?
-- brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
-
-## Judges 13:8
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.696`
-- fresh_brenton_ratio: `0.254`
-- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
-- mt: Then Manoah implored the LORD, and said, O my Lord, let the man of God which you did send come again unto us, and teach us what we shall do unto the child that shall be born.
-- brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
 ## Ruth 4:12
 - priority: `17`
@@ -1198,6 +1198,15 @@ Rows: 12239
 - fresh: Mallouch, Heram, Baana.
 - mt: And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 - brenton: And the rest of the people, the priests, the Levites, the porters, the singers, the Nathinim, and every one who drew off from the nations of the land to the law of God, their wives, their sons, their daughters, every one who had knowledge and understanding,
+
+## Joshua 24:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.014`
+- fresh_brenton_ratio: `0.047`
+- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
+- mt: And if it seem evil unto you to serve the LORD, choose you this day whom all of you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land all of you dwell: but as for me and my house, we will serve the LORD.
+- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
 
 ## 1 Kings 8:47
 - priority: `0`
@@ -2306,6 +2315,15 @@ Rows: 12239
 - mt: And all of you shall observe the feast of unleavened bread; for in this very same day have I brought your armies out of the land of Egypt: therefore shall all of you observe this day in your generations by an ordinance for ever.
 - brenton: And ye shall keep this commandment, for on this day will I bring out your force out of the land of Egypt; and ye shall make this day a perpetual ordinance for you throughout your generations.
 
+## Nehemiah 10:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.030`
+- fresh_brenton_ratio: `0.012`
+- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
+- mt: They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;
+- brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
+
 ## Nehemiah 10:31
 - priority: `0`
 - importance: `none`
@@ -2395,6 +2413,15 @@ Rows: 12239
 - fresh: Everyone touching its flesh shall be sanctified, and whatever garment is sprinkled with some of its blood, you shall wash what was sprinkled on it in a holy place.
 - mt: This is the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a food offering perpetual, half of it in the morning, and half thereof at night.
 - brenton: Every one that touches the flesh of it shall be holy, and on whosesoever garment any of its blood shall have been sprinkled, whosoever shall have it sprinkled, shall be washed in the holy place.
+
+## 2 Samuel 14:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.030`
+- fresh_brenton_ratio: `0.628`
+- fresh: Because in death we will die, and like the water poured down upon the ground, which will not be gathered, and God will take a life, yet he devises ways for the banished one not to remain banished from him.
+- mt: For we must essentially die, and are as water spilt on the ground, which cannot be gathered up again; neither does God respect any person: yet does he devise means, that his banished be not expelled from him.
+- brenton: For we shall surely die, and be as water poured upon the earth, which shall not be gathered up, and God shall take the life, even as he devises to thrust forth from him his outcast.
 
 ## 1 Chronicles 6:62
 - priority: `0`
@@ -2530,6 +2557,15 @@ Rows: 12239
 - fresh: And Pharaoh said to Joseph, Your father and your brothers have come to you. Look, the land of Egypt is before you. In the best land settle your father and your brothers.
 - mt: The land of Egypt is before you; in the best of the land make your father and brethren to dwell; in the land of Goshen let them dwell: and if you know any men of activity among them, then make them rulers over my cattle.
 - brenton: Behold, the land of Egypt is before thee; settle thy father and thy brethren in the best land.
+
+## Leviticus 6:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.032`
+- fresh_brenton_ratio: `0.525`
+- fresh: And the fire on the altar shall burn upon it and shall not be extinguished, and the priest shall burn wood on it every morning and stack the whole burnt offering upon it, and he shall place on it the fat of the sacrifice of salvation.
+- mt: Or all that about which he has sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertains, in the day of his trespass offering.
+- brenton: And the fire on the altar shall be kept burning on it, and shall not be extinguished; and the priest shall burn on it wood every morning, and shall heap on it the whole-burnt-offering, and shall lay on it the fat of the peace-offering.
 
 ## 1 Samuel 21:9
 - priority: `0`
@@ -3746,6 +3782,15 @@ Rows: 12239
 - mt: After that you shall come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when you are come thither to the city, that you shall meet a company of prophets coming down from the high place with a psaltery, and a timbrel, and a pipe, and a harp, before them; and they shall prophesy:
 - brenton: And afterward thou shalt go to the hill of God, where is the encampment of the Philistines; there is Nasib the Philistine: and it shall come to pass when ye shall have entered into the city, that thou shalt meet a band of prophets coming down from the Bama; and before them will be lutes, and a drum, and a pipe, and a harp, and they shall prophesy.
 
+## Leviticus 3:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.048`
+- fresh_brenton_ratio: `0.064`
+- fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
+- mt: And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covers the inwards, and all the fat that is upon the inwards,
+- brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
+
 ## Nehemiah 6:7
 - priority: `0`
 - importance: `none`
@@ -4691,6 +4736,15 @@ Rows: 12239
 - mt: And David said, Solomon my son is young and tender, and the house that is to be built for the LORD must be exceedingly magnificent, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death.
 - brenton: And David said, My son Solomon is a tender child, and the house for me to build to the Lord is for superior magnificence for a name and for a glory through all the earth: I will make preparation for it. And David prepared abundantly before his death.
 
+## 1 Samuel 20:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.059`
+- fresh_brenton_ratio: `0.099`
+- fresh: And you will do mercy with your servant, because you brought your servant into a covenant of the Lord with yourself. And if there is wrongdoing in your servant, you put me to death, and why do you thus bring me to your father?
+- mt: Therefore you shall deal kindly with your servant; for you have brought your servant into a covenant of the LORD with you: notwithstanding, if there be in me iniquity, slay me yourself; for why should you bring me to your father?
+- brenton: And thou shalt deal mercifully with thy servant; for thou hast brought thy servant into a covenant of the Lord with thyself: and if there is iniquity in thy servant, slay me thyself; but why dost thou thus bring me to thy father?
+
 ## Numbers 33:55
 - priority: `0`
 - importance: `none`
@@ -4852,6 +4906,15 @@ Rows: 12239
 - fresh: For I have taken the breast of the presentation and the arm of the contribution from the sons of Israel, from your sacrifices of salvation, and I have given them to Aaron the priest and to his sons as an everlasting statute from the sons of Israel.
 - mt: For the wave breast and the heave shoulder have I taken of the children of Israel from off the sacrifices of their peace offerings, and have given them unto Aaron the priest and unto his sons by a statute for ever from among the children of Israel.
 - brenton: For I have taken the wave-breast and shoulder of separation from the children of Israel from the sacrifices of your peace-offerings, and I have given them to Aaron the priest and his sons, a perpetual ordinance due from the children of Israel.
+
+## 1 Kings 1:47
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.061`
+- fresh_brenton_ratio: `0.345`
+- fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
+- mt: And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than your name, and make his throne greater than your throne. And the king bowed himself upon the bed.
+- brenton: And the servants of the king have gone in to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne; and the king worshipped upon his bed.
 
 ## Leviticus 7:12
 - priority: `0`
@@ -5555,6 +5618,15 @@ Rows: 12239
 - mt: And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eats up the inhabitants thereof; and all the people that we saw in it are men of a great stature.
 - brenton: And they brought a horror of that land which they surveyed upon the children of Israel, saying, The land which we passed by to survey it, is a land that eats up its inhabitants; and all the people whom we saw in it are men of extraordinary stature.
 
+## Deuteronomy 16:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.070`
+- fresh_brenton_ratio: `0.103`
+- fresh: Three times in the year every male among you shall appear before the Lord your God in the place that the Lord chooses: in the Feast of Unleavened Bread and in the Feast of Weeks and in the Feast of Tabernacle-making. You shall not appear before the Lord your God empty,
+- mt: Three times in a year shall all your males appear before the LORD your God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
+- brenton: Three times in the year shall all thy males appear before the Lord thy God in the place which the Lord shall choose in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: thou shalt not appear before the Lord thy God empty.
+
 ## 2 Kings 15:20
 - priority: `0`
 - importance: `none`
@@ -5581,6 +5653,15 @@ Rows: 12239
 - fresh: And when Lord saw that they were put to shame, word of Lord came to Samaias saying, They were put to shame; I will not destroy them, and I will give them a little salvation, and my wrath shall not drip upon Ierousalem.
 - mt: And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.
 - brenton: And when the Lord saw that they repented, then came the word of the Lord to Samaias, saying, They have repented; I will not destroy them, but I will set them in safety for a little while, and my wrath shall not be poured out on Jerusalem.
+
+## Leviticus 4:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.070`
+- fresh_brenton_ratio: `0.270`
+- fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
+- mt: And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
+- brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
 
 ## Judges 1:16
 - priority: `0`
@@ -7256,6 +7337,15 @@ Rows: 12239
 - mt: In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel.
 - brenton: in the tabernacle of the testimony, without the veil that is before the ark of the covenant, shall Aaron and his sons burn it from evening until morning, before the Lord: it is a perpetual ordinance throughout your generations of the children of Israel.
 
+## 1 Kings 9:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.092`
+- fresh_brenton_ratio: `0.042`
+- fresh: And they will say, Because they forsook the Lord their God who brought their fathers out of Egypt, from the house of slavery, and they held fast to foreign gods and bowed to them and served them. Therefore the Lord brought upon them this evil. Then Solomon brought up the daughter of Pharao from the City of David to his house that he built for himself in those days.
+- mt: And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore has the LORD brought upon them all this evil.
+- brenton: And men shall say, Because they forsook the Lord their God, who brought out their fathers from Egypt, out of the house of bondage, and they attached themselves to strange gods, and worshipped them, and served them: therefore the Lord has brought this evil upon them.
+
 ## 1 Kings 18:26
 - priority: `0`
 - importance: `none`
@@ -8669,6 +8759,15 @@ Rows: 12239
 - mt: And you shall eat the fruit of yours own body, the flesh of your sons and of your daughters, which the LORD your God has given you, in the siege, and in the strictness, wherewith yours enemies shall distress you:
 - brenton: And thou shalt eat the fruit of thy body, the flesh of thy sons and of thy daughters, all that he has given thee, in thy straitness and thy affliction, with which thine enemy shall afflict thee.
 
+## 1 Kings 8:59
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.116`
+- fresh_brenton_ratio: `0.817`
+- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
+- mt: And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
+- brenton: And let these words, which I have prayed before the Lord our God, be near to the Lord our God day and night, to maintain the cause of thy servant, and the cause of thy people Israel for ever.
+
 ## Exodus 36:6
 - priority: `0`
 - importance: `none`
@@ -8822,6 +8921,15 @@ Rows: 12239
 - mt: And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endures for ever.
 - brenton: And he took counsel with the people, and set appointed men to sing psalms and praises, to give thanks, and sing the holy songs of praise in going forth before the host: and they said, Give thanks to the Lord, for his mercy endures for ever.
 
+## 2 Samuel 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.119`
+- fresh_brenton_ratio: `0.458`
+- fresh: And it was reported to king David, saying, The Lord has blessed the house of Abeddara and all his things for the sake of the ark of God. And David went and brought up the ark of the Lord from the house of Abeddara into the City of David with gladness.
+- mt: And it was told king David, saying, The LORD has blessed the house of Obededom, and all that pertains unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.
+- brenton: And it was reported to king David, saying, The Lord has blessed the house of Abeddara, and all that he has, because of the ark of the Lord. And David went, and brought up the ark of the Lord from the house of Abeddara to the city of David with gladness.
+
 ## 1 Chronicles 18:10
 - priority: `0`
 - importance: `none`
@@ -8875,6 +8983,15 @@ Rows: 12239
 - fresh: And it came to be toward evening, David rose from his bed and was walking on the roof of the king’s house, and from the roof he saw a woman bathing, and the woman was very beautiful in appearance.
 - mt: And it came to pass in an evening-time, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
 - brenton: And it came to pass toward evening, that David arose off his couch, and walked on the roof of the king's house, and saw from the roof a woman bathing; and the woman was very beautiful to look upon.
+
+## 1 Samuel 13:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.120`
+- fresh_brenton_ratio: `0.083`
+- fresh: And now your kingdom will not stand, and the Lord will seek for himself a man according to his heart, and the Lord will appoint him as ruler over his people, because you did not keep what the Lord commanded you.
+- mt: But now your kingdom shall not continue: the LORD has sought him a man after his own heart, and the LORD has commanded him to be captain over his people, because you have not kept that which the LORD commanded you.
+- brenton: But now thy kingdom shall not stand to thee, and the Lord shall seek for himself a man after his own heart; and the Lord shall appoint him to be a ruler over his people, because thou hast not kept all that the Lord commanded thee.
 
 ## Deuteronomy 29:7
 - priority: `0`
@@ -9379,6 +9496,15 @@ Rows: 12239
 - fresh: And Joshua took all the land, just as the Lord commanded Moses, and Joshua gave it as an inheritance to Israel in division according to their tribes, and the land rested from war.
 - mt: So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.
 - brenton: And Joshua took all the land, as the Lord commanded Moses; and Joshua gave them for an inheritance to Israel by division according to their tribes; and the land ceased from war.
+
+## 2 Kings 11:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.129`
+- fresh_brenton_ratio: `0.110`
+- fresh: And in the seventh year Iōdae the priest sent and took the centurions, the Chorrhi and the Rasim, and brought them to himself into the house of the Lord and made a covenant with them before the Lord and made them swear and showed them the king's son.
+- mt: And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and showed them the king's son.
+- brenton: And in the seventh year Jodae sent and took the captains of hundreds of the Chorri and of the Rhasim, and brought them to him into the house of the Lord, and made a covenant of the Lord with them, and adjured them, and Jodae shewed them the king's son.
 
 ## 2 Chronicles 28:15
 - priority: `0`
@@ -10928,15 +11054,6 @@ Rows: 12239
 - mt: When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also has our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
 - brenton: And that year passed, and they came to him in the second year, and said to him, Must we then be consumed from before our lord? for if our money has failed, and our possessions, and our cattle, brought to thee our lord, and there has not been left to us before our lord more than our own bodies and our land, we are indeed destitute.
 
-## 1 Kings 6:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.160`
-- fresh_brenton_ratio: `0.368`
-- fresh: And it came to be in the four hundred and fortieth year of the coming out of the sons of Israel from Egypt, in the fourth year, in the second month, of King Solomon reigning over Israel. And the king commanded, and they took great costly stones for the foundation of the house, and unhewn stones. And the sons of Solomon and the sons of Chiram dressed them and laid them. In the fourth year he founded the house of the Lord in the month Niso, the second month. In the eleventh year, in the month Baal, this is the eighth month, the house was completed in every word of it and in every arrangement of it.
-- mt: And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.
-- brenton: And it came to pass in the four hundred and fortieth year after the departure of the children of Israel out of Egypt, in the fourth year and second month of the reign of king Solomon over Israel,
-
 ## 2 Samuel 12:8
 - priority: `0`
 - importance: `none`
@@ -11405,15 +11522,6 @@ Rows: 12239
 - mt: And the LORD said unto Moses, Behold, you shall sleep with your fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, where they go to be among them, and will forsake me, and break my covenant which I have made with them.
 - brenton: And the Lord said to Moses, Behold, thou shalt sleep with thy fathers, and this people will arise and go a whoring after the strange gods of the land, into which they are entering: and they will forsake me, and break my covenant, which I made with them.
 
-## Judges 2:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.169`
-- fresh_brenton_ratio: `0.632`
-- fresh: And an angel of the Lord went up from Galgala to the place of Weeping and to Baethel and to the house of Israel and said to them, The Lord brought you up out of Egypt and brought you into the land that he swore to your fathers to give you, and he said to you, I will never scatter my covenant with you forever.
-- mt: And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I swore unto your fathers; and I said, I will never break my covenant with you.
-- brenton: And an angel of the Lord went up from Galgal to the place of weeping, and to Bæthel, and to the house of Israel, and said to them, Thus says the Lord, I brought you up out of Egypt, and I brought you into the land which I sware to your fathers; and I said, I will never break my covenant that I have made with you.
-
 ## 1 Samuel 24:16
 - priority: `0`
 - importance: `none`
@@ -11827,15 +11935,6 @@ Rows: 12239
 - fresh: If you lend silver to your poor brother beside you, you shall not press him hard, nor lay interest upon him.
 - mt: And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
 - brenton: And if thou shouldest lend money to thy poor brother who is by thee, thou shalt not be hard upon him, thou shalt not exact usury of him.
-
-## 1 Samuel 12:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.177`
-- fresh_brenton_ratio: `0.567`
-- fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
-- mt: Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that all of you may perceive and see that your wickedness is great, which all of you have done in the sight of the LORD, in asking you a king.
-- brenton: Is it not wheat-harvest to-day? I will call upon the Lord, and he shall send thunder and rain; and know ye and see, that your wickedness is great which ye have wrought before the Lord, having asked for yourselves a king.
 
 ## Leviticus 27:27
 - priority: `0`
@@ -12305,15 +12404,6 @@ Rows: 12239
 - mt: And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he does not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
 - brenton: And the king of Israel said to Josaphat, There is one man here for us to enquire of the Lord by; but I hate him, for he does not speak good of me, but only evil; Michaias son of Jemblaa. And Josaphat king of Juda said, Let not the king say so.
 
-## Exodus 3:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.188`
-- fresh_brenton_ratio: `0.489`
-- fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
-- mt: And they shall hearken to your voice: and you shall come, you and the elders of Israel, unto the king of Egypt, and all of you shall say unto him, The LORD God of the Hebrews has met with us: and now let us go, we plead to you, three days' journey into the wilderness, that we may sacrifice to the LORD our God.
-- brenton: And they shall hearken to thy voice, and thou and the elders of Israel shall go in to Pharao king of Egypt, and thou shalt say to him, The God of the Hebrews has called us; we will go then a journey of three days into the wilderness, that we may sacrifice to our God.
-
 ## Joshua 17:15
 - priority: `0`
 - importance: `none`
@@ -12385,15 +12475,6 @@ Rows: 12239
 - fresh: And the sons of Ammon saw that the people of David had been put to shame, and the sons of Ammon sent and hired Syria of Baithroōb, twenty thousand footmen, and the king of Maacha, one thousand men, and Istōb, twelve thousand men.
 - mt: And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.
 - brenton: And the children of Ammon saw that the people of David were ashamed; and the children of Ammon sent, and hired the Syrians of Bæthraam, and the Syrians of Suba, and Roob, twenty thousand footmen, and the king of Amalec with a thousand men, and Istob with twelve thousand men.
-
-## 1 Samuel 26:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.190`
-- fresh_brenton_ratio: `0.542`
-- fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
-- mt: Now therefore, I pray you, let my lord the king hear the words of his servant. If the LORD have stirred you up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.
-- brenton: And now let my lord the king hear the word of his servant. If God stirs thee up against me, let thine offering be acceptable: but if the sons of men, they are cursed before the Lord, for they have cast me out this day so that I should not be established in the inheritance of the Lord, saying, Go, serve other gods.
 
 ## Nehemiah 13:19
 - priority: `0`
@@ -13781,15 +13862,6 @@ Rows: 12239
 - mt: Therefore the king said unto Shimei, You shall not die. And the king swore unto him.
 - brenton: And David said, What have I to do with you, ye sons of Saruia, that ye as it were lie in wait against me this day? to-day no man in Israel shall be put to death, for I know not if I this day reign over Israel.
 
-## 2 Samuel 3:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.221`
-- fresh_brenton_ratio: `0.476`
-- fresh: And Abennēr said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abennēr away, and he went in peace.
-- mt: And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with you, and that you may reign over all that yours heart desires. And David sent Abner away; and he went in peace.
-- brenton: And Abenner said to David, I will arise now, and go, and gather to my lord the king all Israel; and I will make with him a covenant, and thou shalt reign over all whom thy soul desires. And David sent away Abenner, and he departed in peace.
-
 ## 2 Samuel 19:14
 - priority: `0`
 - importance: `none`
@@ -14095,15 +14167,6 @@ Rows: 12239
 - fresh: And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Ierousalem are broken down and its gates have been burned with fire.
 - mt: And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
 - brenton: And they said to me, The remnant, even those that are left of the captivity, are there in the land, in great distress and reproach: and the walls of Jerusalem are thrown down, and its gates are burnt with fire.
-
-## 1 Kings 13:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.228`
-- fresh_brenton_ratio: `0.238`
-- fresh: And he cried against the altar by the word of the Lord and said, Altar, altar, thus says the Lord: Behold, a son is being born to the house of David, Iosias his name, and he will sacrifice upon you the priests of the high places who sacrifice upon you, and he will burn human bones upon you.
-- mt: And he cried against the altar in the word of the LORD, and said, O altar, altar, thus says the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon you shall he offer the priests of the high places that burn incense upon you, and men's bones shall be burnt upon you.
-- brenton: And he cried against the altar by the word of the Lord, and said, O altar, altar, thus saith the Lord, Behold, a son is to be born to the house of David, Josias by name; and he shall offer upon thee the priests of the high places, even of them that sacrifice upon thee, and he shall burn men's bones upon thee.
 
 ## Joshua 5:5
 - priority: `0`
@@ -15275,15 +15338,6 @@ Rows: 12239
 - mt: So he brought down the people unto the water: and the LORD said unto Gideon, Every one that laps of the water with his tongue, as a dog laps, him shall you set by himself; likewise every one that bows down upon his knees to drink.
 - brenton: And he brought the people down to the water; and the Lord said to Gedeon, Whosoever shall lap of the water with his tongue as if a dog should lap, thou shalt set him apart, and also whosoever shall bow down upon his knees to drink.
 
-## 1 Chronicles 11:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.249`
-- fresh_brenton_ratio: `0.672`
-- fresh: Even yesterday and third day, when Saul was king, you were one bringing Israel out and bringing it in, and Lord your God said to you, You shall shepherd my people Israel, and you shall be ruler over Israel.
-- mt: And moreover in time past, even when Saul was king, you were he that led out and brought in Israel: and the LORD your God said unto you, You shall feed my people Israel, and you shall be ruler over my people Israel.
-- brenton: And heretofore when Saul was king, thou wast he that led Israel in and out, and the Lord of Israel said to thee, Thou shalt feed my people Israel, and thou shalt be for a ruler over Israel.
-
 ## 1 Chronicles 12:16
 - priority: `0`
 - importance: `none`
@@ -16408,24 +16462,6 @@ Rows: 12239
 - fresh: Sons of Phoros: 2,172.
 - mt: The children of Parosh, two thousand an hundred seventy and two.
 - brenton: The children of Phoros, two thousand one hundred and seventy-two.
-
-## 2 Kings 9:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.268`
-- fresh_brenton_ratio: `0.337`
-- fresh: And a horseman went to meet them and said, Thus says the king, Is it peace? And Iou said, What is peace to you? Turn behind me. And the watchman reported, saying, The messenger came to them and did not return.
-- mt: So there went one on horseback to meet him, and said, Thus says the king, Is it peace? And Jehu said, What have you to do with peace? turn you behind me. And the watchman told, saying, The messenger came to them, but he comes not again.
-- brenton: And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.
-
-## Nehemiah 4:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.268`
-- fresh_brenton_ratio: `0.361`
-- fresh: And we prayed to our God and set guards over them day and night because of them.
-- mt: Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
-- brenton: And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
 
 ## Nehemiah 10:2
 - priority: `0`
@@ -18866,6 +18902,15 @@ Rows: 12239
 - mt: And Moses took of the anointing oil, and of the blood which was upon the altar, and sprinkled it upon Aaron, and upon his garments, and upon his sons, and upon his sons' garments with him; and sanctified Aaron, and his garments, and his sons, and his sons' garments with him.
 - brenton: And he sanctified Aaron and his garments, and his sons, and the garments of his sons with him.
 
+## 1 Samuel 20:42
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.310`
+- fresh_brenton_ratio: `0.715`
+- fresh: And Iōnathan said, Go in peace, and as we two swore in the name of the Lord, saying, The Lord will be witness between me and you and between my seed and between your seed forever.
+- mt: And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and you, and between my seed and your seed for ever. And he arose and departed: and Jonathan went into the city.
+- brenton: And Jonathan said to David, Go in peace, and as we have both sworn in the name of the Lord, saying, The Lord shall be witness between me and thee, and between my seed and thy seed for ever—even so let it be.
+
 ## 1 Kings 7:28
 - priority: `0`
 - importance: `none`
@@ -20432,15 +20477,6 @@ Rows: 12239
 - mt: And the other lamb you shall offer at even, and shall do thereto according to the food offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.
 - brenton: And thou shalt offer the second lamb in the evening, after the manner of the morning-offering, and according to the drink-offering of the morning lamb; thou shalt offer it an offering to the Lord for a sweet-smelling savour,
 
-## Leviticus 4:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.339`
-- fresh_brenton_ratio: `0.464`
-- fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
-- mt: And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he has committed, and it shall be forgiven him.
-- brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
-
 ## 2 Chronicles 35:12
 - priority: `0`
 - importance: `none`
@@ -21187,6 +21223,15 @@ Rows: 12239
 - fresh: Of Symaer, the clan of the Symaerite; and of Opher, the clan of the Opherite.
 - mt: And these are the sons of Shuthelah: of Eran, the family of the Eranites.
 - brenton: To Symaer, the family of the Symaerites; and to Opher, the family of the Opherites.
+
+## 1 Kings 20:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.350`
+- fresh_brenton_ratio: `0.878`
+- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die.
+- mt: And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
+- brenton: And set two men, sons of transgressors, before him, and let them testify against him, saying, He blessed God and the king: and let them lead him forth, and stone him, and let him die.
 
 ## 1 Kings 22:45
 - priority: `0`
@@ -25120,6 +25165,15 @@ Rows: 12239
 - fresh: And Solomon slept with his fathers, and they buried him in the City of David his father. And it happened when Ieroboam son of Nabat heard, while he was still in Egypt, as he fled from before Solomon and sat in Egypt, that he set straight and comes to his city, to the land of Sarira in the hill country of Ephraim. And King Solomon slept with his fathers, and Roboam his son reigned in place of him.
 - mt: And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his position.
 - brenton: And Solomon slept with his fathers, and they buried him in the city of David his father. And it came to pass when Jeroboam son of Nabat heard of it, even while he was yet in Egypt as he fled from the face of Solomon and dwelt in Egypt, he straightway comes into his own city, into the land of Sarira in the mount of Ephraim. And king Solomon slept with his fathers, and Roboam his son reigned in his stead.
+
+## Judges 13:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.438`
+- fresh_brenton_ratio: `0.424`
+- fresh: And the woman came and said to her husband, saying, A man of God came to me, and his appearance was like the appearance of an angel of God, very awe-inspiring, and I asked where he was from, and he did not tell me his name.
+- mt: Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:
+- brenton: And the woman went in, and spoke to her husband, saying, A man of God came to me, and his appearance was as of an angel of God, very dreadful; and I did not ask him whence he was, and he did not tell me his name.
 
 ## 2 Kings 10:5
 - priority: `0`
@@ -29369,6 +29423,15 @@ Rows: 12239
 - mt: The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,
 - brenton: And the sons of Merari their brethren on the left hand: Ætham the son of Kisa, the son of Abai, the son of Maloch,
 
+## 1 Chronicles 15:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.523`
+- fresh_brenton_ratio: `0.073`
+- fresh: And it came to pass, ark of covenant of Lord came as far as City of Dauid, and Melchol daughter of Saul looked through window and saw king Dauid dancing and playing, and she despised him in her soul.
+- mt: And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
+- brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
+
 ## Deuteronomy 32:29
 - priority: `0`
 - importance: `none`
@@ -32653,15 +32716,6 @@ Rows: 12239
 - fresh: and the king and all Israel before the ark, sacrificing sheep and cattle beyond number.
 - mt: And king Solomon, and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
 - brenton: And the king and all Israel were occupied before the ark, sacrificing sheep and oxen, without number.
-
-## 1 Samuel 2:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.561`
-- fresh_brenton_ratio: `0.809`
-- fresh: Because there is no holy one like the Lord, and there is none righteous like our God; there is no holy one besides you.
-- mt: There is none holy as the LORD: for there is none beside you: neither is there any rock like our God.
-- brenton: For there is none holy as the Lord, and there is none righteous as our God: there is none holy beside thee.
 
 ## Joshua 19:21
 - priority: `0`
@@ -41456,15 +41510,6 @@ Rows: 12239
 - mt: But if she bear a female child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
 - brenton: But if she should have born a female child, then she shall be unclean twice seven days, according to the time of her monthly courses; and for sixty-six days shall she remain in her unclean blood.
 
-## Judges 4:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.626`
-- fresh_brenton_ratio: `0.813`
-- fresh: And Barak said to her, If you go with me, I will go, and if you do not go with me, I will not go, because I do not know the day in which the Lord prospers the angel with me.
-- mt: And Barak said unto her, If you will go with me, then I will go: but if you will not go with me, then I will not go.
-- brenton: And Barac said to her, If thou wilt go with me, I will go; and if thou wilt not go, I will not go; for I know not the day on which the Lord prospers his messenger with me.
-
 ## 1 Chronicles 16:42
 - priority: `0`
 - importance: `none`
@@ -49376,15 +49421,6 @@ Rows: 12239
 - mt: By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.
 - brenton: From these were the islands of the Gentiles divided in their land, each according to his tongue, in their tribes and in their nations.
 
-## 1 Kings 10:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.665`
-- fresh_brenton_ratio: `0.063`
-- fresh: May the Lord your God be blessed, who delighted in you to give you upon the throne of Israel, because the Lord loved Israel to establish it forever, and he set you as king over them to do judgment in righteousness and in their judgments.
-- mt: Blessed be the LORD your God, which delighted in you, to set you on the throne of Israel: because the LORD loved Israel for ever, therefore made he you king, to do judgment and justice.
-- brenton: Blessed be the Lord thy God, who has taken pleasure in thee, to set thee upon the throne of Israel, because the Lord loved Israel to establish him for ever; and he has made thee king over them, to execute judgment with justice, and in their causes.
-
 ## Numbers 21:8
 - priority: `0`
 - importance: `none`
@@ -49438,6 +49474,15 @@ Rows: 12239
 - fresh: And Salomon finished house of Lord and house of king, and all things which Salomon desired in his soul to do in house of Lord and in his house prospered.
 - mt: Thus Solomon finished the house of the LORD, and the king's house: and all that came into Solomon's heart to make in the house of the LORD, and in his own house, he prosperously effected.
 - brenton: So Solomon finished the house of the Lord, and the king's house: and in whatever Solomon wished in his heart to do in the house of the Lord and in his own house, he prospered.
+
+## 2 Samuel 7:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.665`
+- fresh_brenton_ratio: `0.747`
+- fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
+- mt: And this was yet a small thing in your sight, O Lord GOD; but you have spoken also of your servant's house for a great while to come. And is this the manner of man, O Lord GOD?
+- brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
 
 ## Genesis 1:20
 - priority: `0`
@@ -57709,6 +57754,15 @@ Rows: 12239
 - fresh: And remove a tax for the Lord from the warriors who went out into battle, one soul out of five hundred, from the humans and from the cattle and from the oxen and from the sheep and from the goats.
 - mt: And levy a tribute unto the Lord of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:
 - brenton: And ye shall take a tribute for the Lord from the warriors that went out to battle; one soul out of five hundred, from the men, and from the cattle, even from the oxen, and from the sheep, and from the asses; and ye shall take from their half.
+
+## Judges 13:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.696`
+- fresh_brenton_ratio: `0.254`
+- fresh: And Manōe prayed to the Lord and said, I beg, Lord, may the man of God whom you sent to us please come to us again and instruct us what we should do for the child being born.
+- mt: Then Manoah implored the LORD, and said, O my Lord, let the man of God which you did send come again unto us, and teach us what we shall do unto the child that shall be born.
+- brenton: And Manoë prayed to the Lord and said, I pray thee, O Lord my Lord, concerning the man of God whom thou sentest; let him now come to us once more, and teach us what we shall do to the child about to be born.
 
 ## 2 Samuel 11:8
 - priority: `0`
@@ -66134,15 +66188,6 @@ Rows: 12239
 - mt: And the LORD commanded me at that time to teach you statutes and judgments, that all of you might do them in the land where all of you go over to possess it.
 - brenton: And the Lord commanded me at that time, to teach you ordinances and judgments, that ye should do them on the land, into which ye go to inherit it.
 
-## Leviticus 7:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.722`
-- fresh_brenton_ratio: `0.854`
-- fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
-- mt: And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.
-- brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
-
 ## Judges 8:12
 - priority: `0`
 - importance: `none`
@@ -67735,15 +67780,6 @@ Rows: 12239
 - fresh: And they set out from Makellath and camped at Sapher.
 - mt: And they went from Kehelathah, and pitched in mount Shapher.
 - brenton: And they departed from Makellath, and encamped in Saphar.
-
-## Joshua 23:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.727`
-- fresh_brenton_ratio: `0.834`
-- fresh: One of you chased a thousand, because the Lord your God was fighting for you, just as he said to you.
-- mt: One man of you shall chase a thousand: for the LORD your God, he it is that fights for you, as he has promised you.
-- brenton: One of you has chased a thousand, for the Lord our God, he fought for you, as he said to you.
 
 ## Genesis 26:26
 - priority: `0`
@@ -71884,6 +71920,15 @@ Rows: 12239
 - fresh: And it came to be when he arrived, he sounded a horn in the hill-country of Ephraim, and the sons of Israel went down with him, and he was before them.
 - mt: And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.
 - brenton: And it came to pass when Aod came into the land of Israel, that he blew the horn in mount Ephraim, and the children of Israel came down with him from the mountain, and he was before them.
+
+## Exodus 6:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.741`
+- fresh_brenton_ratio: `0.692`
+- fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
+- mt: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.
+- brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
 ## Numbers 21:12
 - priority: `0`
@@ -80111,15 +80156,6 @@ Rows: 12239
 - mt: The third to Zaccur, he, his sons, and his brethren, were twelve:
 - brenton: The third Zacchur, his sons and his brethren were twelve:
 
-## Deuteronomy 16:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.766`
-- fresh_brenton_ratio: `0.836`
-- fresh: but only at the place that the Lord your God chooses for his name to be called there, there you shall sacrifice the Passover in the evening, at the setting of the sun, at the time when you came out from Egypt.
-- mt: But at the place which the LORD your God shall choose to place his name in, there you shall sacrifice the passover at even, at the going down of the sun, at the season that you came forth out of Egypt.
-- brenton: But in the place which the Lord thy God shall choose, to have his name called there, thou shalt sacrifice the passover at even at the setting of the sun, at the time when thou camest out of Egypt.
-
 ## 1 Samuel 27:10
 - priority: `0`
 - importance: `none`
@@ -81982,15 +82018,6 @@ Rows: 12239
 - fresh: And the whole congregation brought him outside the camp and the whole congregation stoned him with stones outside the camp, just as the Lord commanded Moses.
 - mt: And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses.
 - brenton: And all the congregation brought him forth out of the camp; and all the congregation stoned him with stones outside the camp, as the Lord commanded Moses.
-
-## 2 Samuel 22:51
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.771`
-- fresh_brenton_ratio: `0.894`
-- fresh: magnifying the salvations of his king and doing mercy for his anointed, for David and for his seed forever.
-- mt: He is the tower of salvation for his king: and shows mercy to his anointed, unto David, and to his seed for evermore.
-- brenton: He magnifies the salvation of his king, and works mercy for his anointed, even for David and for his seed for ever.
 
 ## 1 Samuel 9:14
 - priority: `0`
@@ -85538,6 +85565,15 @@ Rows: 12239
 - mt: And said unto me, Behold, I will make you fruitful, and multiply you, and I will make of you a multitude of people; and will give this land to your seed after you for an everlasting possession.
 - brenton: and said to me, Behold, I will increase thee, and multiply thee, and will make of thee multitudes of nations; and I will give this land to thee, and to thy seed after thee, for an everlasting possession.
 
+## 2 Kings 23:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.783`
+- fresh_brenton_ratio: `0.824`
+- fresh: Like him there was no king before him who turned to the Lord with all his heart and with all his soul and with all his strength according to all the law of Moses, and after him none like him arose.
+- mt: And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
+- brenton: There was no king like him before him, who turned to the Lord with all his heart, and with all his soul, and with all his strength, according to all the law of Moses; and after him there rose not one like him.
+
 ## Deuteronomy 3:3
 - priority: `0`
 - importance: `none`
@@ -87985,15 +88021,6 @@ Rows: 12239
 - fresh: For Amalek and the Canaanite are there before you, and you will fall by sword, because you turned away in disobedience from the Lord, and the Lord will not be among you.
 - mt: For the Amalekites and the Canaanites are there before you, and all of you shall fall by the sword: because all of you are turned away from the LORD, therefore the LORD will not be with you.
 - brenton: For Amalec and the Chananite are there before you, and ye shall fall by the sword; because ye have disobeyed the Lord and turned aside, and the Lord will not be among you.
-
-## 2 Kings 10:31
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.792`
-- fresh_brenton_ratio: `0.794`
-- fresh: And Iou was not careful to walk in the law of the Lord God of Israel with all his heart. He did not turn from the sins of Ieroboam son of Nabat, who made Israel sin.
-- mt: But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
-- brenton: But Ju took no heed to walk in the law of the Lord God of Israel with all his heart: he departed not from following the sins of Jeroboam, who made Israel to sin.
 
 ## 2 Samuel 3:4
 - priority: `0`
@@ -99740,15 +99767,6 @@ Rows: 12239
 - mt: And every thing that she lies upon in her separation shall be unclean: every thing also that she sits upon shall be unclean.
 - brenton: And every thing whereon she shall lie in her separation, shall be unclean; and whatever she shall sit upon, shall be unclean.
 
-## 2 Samuel 12:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.840`
-- fresh_brenton_ratio: `0.780`
-- fresh: And Nathan said to David, You are the man who did this. Thus says the Lord God of Israel: I am the one who anointed you as king over Israel, and I am the one who delivered you from the hand of Saoul,
-- mt: And Nathan said to David, You are the man. Thus says the LORD God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
-- brenton: And Nathan said to David, Thou art the man that has done this. Thus says the Lord God of Israel, I anointed thee to be king over Israel, and I rescued thee out of the hand of Saul;
-
 ## 1 Kings 8:18
 - priority: `0`
 - importance: `none`
@@ -100684,15 +100702,6 @@ Rows: 12239
 - fresh: And Esau was forty years old and took Judith, daughter of Beoch the Hittite, and Basemath, daughter of Helon the Hittite, as wives.
 - mt: And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:
 - brenton: And Esau was forty years old; and he took to wife Judith the daughter of Beoch the Chettite, and Basemath, daughter of Helon the Chettite.
-
-## Leviticus 4:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.844`
-- fresh_brenton_ratio: `0.889`
-- fresh: And he shall offer all its fat on the altar, just like the fat of the sacrifice of salvation. And the priest shall make atonement for him for his sin, and it shall be forgiven him.
-- mt: And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.
-- brenton: And he shall offer up all his fat on the altar, as the fat of the sacrifice of peace-offering; and the priest shall make atonement for him concerning his sin, and it shall be forgiven him.
 
 ## 1 Samuel 2:18
 - priority: `0`
@@ -104410,15 +104419,6 @@ Rows: 12239
 - fresh: And in your seed all the nations of the earth shall be blessed, because you hearkened to my voice.
 - mt: And in your seed shall all the nations of the earth be blessed; because you have obeyed my voice.
 - brenton: And in thy seed shall all the nations of the earth be blessed, because thou hast hearkened to my voice.
-
-## 1 Kings 8:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.869`
-- fresh_brenton_ratio: `0.886`
-- fresh: and said, O Lord God of Israel, there is no God like you in heaven above and upon the earth below, keeping covenant and mercy for your servant who walks before you with all his heart,
-- mt: And he said, LORD God of Israel, there is no God like you, in heaven above, or on earth beneath, who keep covenant and mercy with your servants that walk before you with all their heart:
-- brenton: and he said, Lord God of Israel, there is no God like thee in heaven above and on the earth beneath, keeping covenant and mercy with thy servant who walks before thee with all his heart;
 
 ## Genesis 37:27
 - priority: `0`

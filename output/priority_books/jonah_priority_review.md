@@ -14,16 +14,16 @@ Selected verses: 6
 - fresh: He said to them, I am servant of Lord, and I worship Lord God of heaven, who made sea and dry land.
 - brenton: [missing]
 
-## Jonah 1:14
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, righteous; crossref_top_vote=10; reco=keep
-- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
-- brenton: [missing]
-
 ## Jonah 2:2
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=25; reco=keep
 - fresh: Jonah prayed to Lord his God from belly of sea-creature.
+- brenton: [missing]
+
+## Jonah 2:3
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, hades, lord; crossref_top_vote=12; reco=keep
+- fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
 - brenton: [missing]
 
 ## Jonah 2:8

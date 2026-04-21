@@ -2,10 +2,10 @@
 
 Selected verses: 6
 
-## Habakkuk 1:2
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, lord; crossref_top_vote=9; reco=keep
-- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
+## Habakkuk 1:4
+- score: 16
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law, righteous; crossref_top_vote=6; reco=keep
+- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
 - brenton: [missing]
 
 ## Habakkuk 1:12

@@ -3,7 +3,7 @@
 Rows: 2
 
 ## 2 Kings 17:34
-- priority: `26`
+- priority: `31`
 - importance: `high`
 - checked witnesses: `2`
 - fresh support: `0`
