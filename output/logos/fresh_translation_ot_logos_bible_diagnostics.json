@@ -47,34 +47,101 @@
     "rows": 22984,
     "included": 12018,
     "skipped_unreviewed": 479,
+    "included_mt_lxx_difference_notes": 9445,
     "skipped_generic_or_brenton_only": 10487
   },
   "included_translation_note_refs": 11943,
   "included_translation_note_total": 12018,
+  "name_meaning_note_filter": {
+    "proper_name_rows": 152,
+    "proper_name_included": 152,
+    "name_of_god_rows": 53,
+    "name_of_god_included": 53,
+    "included": 205,
+    "refs": 179,
+    "placement_chapter_scannable_source_notes": 83,
+    "placement_skipped_missing_source_ref": 112,
+    "placement_source_ref_anchored_ambiguous_divine_notes": 10,
+    "placement_chapter_first_occurrence_notes": 2047,
+    "placement_placed_refs": 1702,
+    "placement_placed_total": 2057,
+    "placement_chapters_scanned": 929
+  },
+  "included_name_meaning_note_refs": 1702,
+  "included_name_meaning_note_total": 2057,
+  "supplemental_notes": {
+    "brenton_package": {
+      "brenton_verse_records": 28689,
+      "brenton_footnote_included": 2521,
+      "brenton_footnote_skipped_duplicate": 12,
+      "brenton_footnote_skipped_missing_ref": 9,
+      "hebrew_vocab_source_refs": 332,
+      "hebrew_vocab_included": 438,
+      "hebrew_vocab_skipped_missing_ref": 1,
+      "greek_vocab_source_refs": 271,
+      "greek_vocab_included": 267,
+      "greek_vocab_skipped_missing_ref": 49,
+      "tsk_note_source_refs": 13918,
+      "tsk_study_note_included": 10667,
+      "tsk_study_note_skipped_missing_ref": 3251,
+      "brenton_usfm": {
+        "books_seen": 58,
+        "footnotes_extracted": 2542
+      },
+      "tsk": {
+        "archive_present": true,
+        "status": "parsed",
+        "members": [
+          "mods.d/tsk.conf",
+          "modules/comments/zcom/tsk/nt.bzv",
+          "modules/comments/zcom/tsk/nt.bzs",
+          "modules/comments/zcom/tsk/ot.bzs",
+          "modules/comments/zcom/tsk/nt.bzz",
+          "modules/comments/zcom/tsk/ot.bzv",
+          "modules/comments/zcom/tsk/ot.bzz"
+        ],
+        "ot_entries": 24115,
+        "nt_entries": 8246,
+        "verses_with_refs": 29624,
+        "verses_with_notes": 13918,
+        "total_crossrefs": 337990
+      },
+      "included_refs": 11844,
+      "included_total": 13893
+    },
+    "lexham_textual_notes": {
+      "present": true,
+      "source_links": 924,
+      "lexham_link_included": 877,
+      "lexham_link_skipped_duplicate": 32,
+      "lexham_link_matched_by_versification_map": 29,
+      "lexham_link_skipped_missing_ref": 15,
+      "path": "/Users/justinscaggs/Desktop/The Lexham Textual Notes on the Bible.html",
+      "resource_id": "lexcontxtntbbl",
+      "included_refs": 876,
+      "included_total": 877
+    },
+    "included_refs": 12138,
+    "included_total": 14770
+  },
+  "included_supplemental_note_refs": 12138,
+  "included_supplemental_note_total": 14770,
   "crossrefs": {
     "source_counts": {
       "tsk": 20494,
       "openbible_fallback": 116
     },
     "verses_with_crossrefs": 20610,
-    "total_crossrefs_after_canonicalization": 210854,
+    "crossref_note_groups": 43896,
+    "total_crossrefs_after_canonicalization": 212776,
     "tsk": {
       "archive_present": true,
       "status": "parsed",
-      "members": [
-        "mods.d/tsk.conf",
-        "modules/comments/zcom/tsk/nt.bzv",
-        "modules/comments/zcom/tsk/nt.bzs",
-        "modules/comments/zcom/tsk/ot.bzs",
-        "modules/comments/zcom/tsk/nt.bzz",
-        "modules/comments/zcom/tsk/ot.bzv",
-        "modules/comments/zcom/tsk/ot.bzz"
-      ],
       "ot_entries": 24115,
-      "nt_entries": 8246,
-      "verses_with_refs": 29624,
-      "verses_with_notes": 13918,
-      "total_crossrefs": 337990
+      "verses_with_refs": 21851,
+      "crossref_groups": 46625,
+      "phrase_anchor_candidates": 40922,
+      "total_crossrefs": 226948
     },
     "openbible": {
       "archive_present": true,
@@ -84,23 +151,82 @@
       "verses_with_refs": 29318
     }
   },
+  "versification_map": {
+    "present": true,
+    "path": "/Users/justinscaggs/Documents/Codex_bible/data/versification/lxx_to_eng_map.json",
+    "source": "versification-utils 0.0.1 standard_mappings lxx.json + eng.json",
+    "source_url": "https://github.com/jcuenod/versification_utils",
+    "license": "MIT",
+    "mapped_refs": 5931
+  },
   "logos_docx": {
     "output_kind": "logos",
+    "milestone_mode": "lxx",
     "paragraph_count": 23864,
-    "footnote_count": 32628,
-    "crossref_footnotes": 20610,
+    "footnote_count": 72741,
+    "crossref_footnotes": 43896,
     "translation_note_footnotes": 12018,
+    "section_break_count": 929,
+    "footnote_number_restart": "chapter",
     "phrase_anchored_translation_notes": 5979,
-    "verse_anchored_translation_notes": 6039
+    "verse_anchored_translation_notes": 6039,
+    "name_meaning_footnotes": 2057,
+    "supplemental_note_footnotes": 14770,
+    "brenton_supplemental_footnotes": 13893,
+    "lexham_link_footnotes": 877,
+    "phrase_anchored_name_meaning_notes": 1775,
+    "verse_anchored_name_meaning_notes": 282,
+    "phrase_anchored_crossref_notes": 8144,
+    "verse_anchored_crossref_notes": 35752,
+    "mapped_milestone_refs": 0,
+    "fallback_milestone_refs": 0,
+    "duplicate_milestone_refs": 0
+  },
+  "mt_notes_bridge_docx": {
+    "output_kind": "logos",
+    "milestone_mode": "mt",
+    "paragraph_count": 23864,
+    "footnote_count": 72741,
+    "crossref_footnotes": 43896,
+    "translation_note_footnotes": 12018,
+    "section_break_count": 929,
+    "footnote_number_restart": "chapter",
+    "phrase_anchored_translation_notes": 5979,
+    "verse_anchored_translation_notes": 6039,
+    "name_meaning_footnotes": 2057,
+    "supplemental_note_footnotes": 14770,
+    "brenton_supplemental_footnotes": 13893,
+    "lexham_link_footnotes": 877,
+    "phrase_anchored_name_meaning_notes": 1775,
+    "verse_anchored_name_meaning_notes": 282,
+    "phrase_anchored_crossref_notes": 8144,
+    "verse_anchored_crossref_notes": 35752,
+    "mapped_milestone_refs": 4510,
+    "fallback_milestone_refs": 78,
+    "duplicate_milestone_refs": 129
   },
   "proofreading_docx": {
     "output_kind": "proofreading",
+    "milestone_mode": "lxx",
     "paragraph_count": 23864,
-    "footnote_count": 32628,
-    "crossref_footnotes": 20610,
+    "footnote_count": 71864,
+    "crossref_footnotes": 43896,
     "translation_note_footnotes": 12018,
+    "section_break_count": 929,
+    "footnote_number_restart": "chapter",
     "phrase_anchored_translation_notes": 5979,
-    "verse_anchored_translation_notes": 6039
+    "verse_anchored_translation_notes": 6039,
+    "name_meaning_footnotes": 2057,
+    "supplemental_note_footnotes": 13893,
+    "brenton_supplemental_footnotes": 13893,
+    "lexham_link_footnotes": 0,
+    "phrase_anchored_name_meaning_notes": 1775,
+    "verse_anchored_name_meaning_notes": 282,
+    "phrase_anchored_crossref_notes": 8144,
+    "verse_anchored_crossref_notes": 35752,
+    "mapped_milestone_refs": 0,
+    "fallback_milestone_refs": 0,
+    "duplicate_milestone_refs": 0
   },
   "validations": [
     {
@@ -115,12 +241,33 @@
         "word/document.xml",
         "word/_rels/document.xml.rels",
         "word/styles.xml",
+        "word/settings.xml",
         "word/footnotes.xml"
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 32628,
-      "footnote_body_count": 32628
+      "footnote_reference_count": 72741,
+      "footnote_body_count": 72741
+    },
+    {
+      "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_mt_notes.docx",
+      "zip_ok": true,
+      "xml_ok": true,
+      "entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "docProps/core.xml",
+        "docProps/app.xml",
+        "word/document.xml",
+        "word/_rels/document.xml.rels",
+        "word/styles.xml",
+        "word/settings.xml",
+        "word/footnotes.xml"
+      ],
+      "bad_entry": null,
+      "xml_errors": [],
+      "footnote_reference_count": 72741,
+      "footnote_body_count": 72741
     },
     {
       "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
@@ -134,16 +281,18 @@
         "word/document.xml",
         "word/_rels/document.xml.rels",
         "word/styles.xml",
+        "word/settings.xml",
         "word/footnotes.xml"
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 32628,
-      "footnote_body_count": 32628
+      "footnote_reference_count": 71864,
+      "footnote_body_count": 71864
     }
   ],
   "outputs": {
     "logos_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible.docx",
+    "mt_bridge_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_mt_notes.docx",
     "proof_docx": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
     "diagnostics": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_diagnostics.json",
     "readme": "/Users/justinscaggs/Documents/Codex_bible/output/logos/README.md",

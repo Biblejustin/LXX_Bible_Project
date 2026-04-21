@@ -18,6 +18,14 @@ This repository contains mixed public-domain and separately-noticed material.
 - `data/raw/cross-references.zip` from OpenBible carries `CC-BY` terms.
 - Build pipeline uses TSK as primary cross-reference layer.
 
+## Versification bridge data
+
+- `data/versification/lxx_to_eng_map.json` is derived from
+  `versification-utils` 0.0.1 by James Cuénod, using the package's Septuagint
+  and English/Protestant standard mapping files.
+- Upstream: <https://github.com/jcuenod/versification_utils>
+- License: MIT.
+
 ## Original project material
 
 - Original scripts, formatting, intro pages, editorial notes, and other new
