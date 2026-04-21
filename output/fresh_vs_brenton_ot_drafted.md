@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 21692
-- medium: 247
-- low: 978
+- high: 21872
+- medium: 199
+- low: 846
 - none: 0
 
 Note:
@@ -194602,81 +194602,81 @@ Note:
 
 ### Daniel 3:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Nebuchadnezzar was filled with fury, and expression of his face changed, and he ordered furnace to be heated seven times more than it needed to be heated.
 - brenton: [missing]
 
 ### Daniel 3:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he ordered strongest men among his forces to bind Shadrach, Meshach, and Abednego and throw them into the burning furnace of fire.
 - brenton: [missing]
 
 ### Daniel 3:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then those men were bound with their shoes and their tiaras on their heads, together with their clothing, and were thrown into the furnace.
 - brenton: [missing]
 
 ### Daniel 3:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because command of the king was urgent and furnace was heated seven times beyond before, the men selected, after binding them and bringing them to the furnace, threw them into it.
 - brenton: [missing]
 
 ### Daniel 3:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So the men who bound those around Azariah—the flame coming out from furnace burned and killed them, but these were preserved.
 - brenton: [missing]
 
 ### Daniel 3:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened when king heard them singing hymns and standing, he was watching them alive. Then king Nebuchadnezzar marveled and rose quickly and said to his friends,
 - brenton: [missing]
 
 ### Daniel 3:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I see four men loosed, walking in the fire, and no harm happened to them, and appearance of the fourth is like likeness of an angel of God.
 - brenton: [missing]
 
 ### Daniel 3:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from midst of the fire.
 - brenton: [missing]
 
 ### Daniel 3:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the consuls and governors and leading men and friends of the king gathered and looked at those men, because fire had not touched their bodies, and their hair was not burned, and their garments were not changed, and smell of fire was not on them.
 - brenton: [missing]
@@ -194692,144 +194692,144 @@ Note:
 
 ### Daniel 3:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I decree that every nation and every tribe and every language that blasphemes against Lord, God of Shadrach, Meshach, and Abednego, will be cut to pieces, and his house will be confiscated, because there is no other God who can deliver like this.
 - brenton: [missing]
 
 ### Daniel 3:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So the king, giving authority to Shadrach, Meshach, and Abednego over all the land, appointed them rulers.
 - brenton: [missing]
 
 ### Daniel 4:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In eighteenth year of reign of Nebuchadnezzar he said, I was at peace in my house and prospering on my throne.
 - brenton: [missing]
 
 ### Daniel 4:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I saw a dream and became afraid, and fear fell upon me.
 - brenton: [missing]
 
 ### Daniel 4:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was sleeping, and behold, a tall tree was growing on the earth; its appearance was great, and there was no other like it.
 - brenton: [missing]
 
 ### Daniel 4:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And its appearance was great; its top reached to heaven, and its trunk reached to the clouds, filling what is under heaven. Sun and moon lived in it and gave light to all the earth.
 - brenton: [missing]
 
 ### Daniel 4:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Its branches were thirty stadia in length, and under it all beasts of the earth were shaded, and in it birds of heaven nested. Its fruit was abundant and good, and it furnished all living creatures.
 - brenton: [missing]
 
 ### Daniel 4:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was watching in my sleep, and behold, an angel was sent in power from heaven.
 - brenton: [missing]
 
 ### Daniel 4:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he cried out and said to it, Cut it down and destroy it, for it has been commanded by the Most High to root it out and make it useless.
 - brenton: [missing]
 
 ### Daniel 4:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And thus he said, Leave one root of it in the earth, so that with beasts of the earth on the mountains it may graze grass like an ox.
 - brenton: [missing]
 
 ### Daniel 4:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from dew of heaven its body will be altered, and for seven years it will pasture with them.
 - brenton: [missing]
 
 ### Daniel 4:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until he knows that Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
 - brenton: [missing]
 
 ### Daniel 4:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rising in morning from my bed I called Daniel, chief of the wise men and ruler of those judging dreams, and I recounted the dream to him, and he showed me all its interpretation.
 - brenton: [missing]
 
 ### Daniel 4:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel marveled greatly, and anxious thought pressed him, and fear seized him with trembling, and appearance of his face changed. Shaking his head, after sitting astonished for one hour, he answered me in a gentle voice, King, may this dream come upon those hating you, and its interpretation upon your enemies.
 - brenton: [missing]
 
 ### Daniel 4:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The tree planted in the earth whose appearance was great, that is you, king.
 - brenton: [missing]
 
 ### Daniel 4:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to ends of earth, and all lands serve you.
 - brenton: [missing]
@@ -194845,90 +194845,90 @@ Note:
 
 ### Daniel 4:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the vision you saw, that an angel in power was sent from Lord and said to remove the tree and cut it down, means judgment of great God will come upon you.
 - brenton: [missing]
 
 ### Daniel 4:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Most High and his angels rush upon you.
 - brenton: [missing]
 
 ### Daniel 4:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will lead you away into prison and send you into a desolate place.
 - brenton: [missing]
 
 ### Daniel 4:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And as for root of the tree that was left, because it was not uprooted, place of your throne will be preserved for you for time and hour. Behold, they prepare against you and will scourge you and bring judgments upon you.
 - brenton: [missing]
 
 ### Daniel 4:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord lives in heaven, and his authority is over all the earth. Beg him concerning your sins, and redeem all your wrongs with acts of mercy, so that gentleness may be given you and you may be long-lived upon throne of your kingdom and not destroyed. Love these words, for my word is exact and your time is full.
 - brenton: [missing]
 
 ### Daniel 4:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at completion of these words, when Nebuchadnezzar heard judgment of the vision, he kept the words in his heart.
 - brenton: [missing]
 
 ### Daniel 4:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after twelve months the king was walking on walls of the city with all his glory and passing along its towers.
 - brenton: [missing]
 
 ### Daniel 4:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And answering he said, This is great Babylon, which I built as house of my kingdom by strength of my might; it will be called for honor of my glory.
 - brenton: [missing]
 
 ### Daniel 4:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at completion of his word he heard a voice from heaven saying, To you it is said, King Nebuchadnezzar, kingdom of Babylon is taken from you and given to another despised man in your house. Behold, I set him over your kingdom, and your authority and your glory and your luxury he will receive, so that you may know that God of heaven has authority in kingdom of men and gives it to whomever he wills. And until sunrise another king will rejoice in your house and hold your glory and your strength and your authority.
 - brenton: [missing]
 
 ### Daniel 4:32
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And angels will drive you away for seven years, and you will not be seen nor speak with any human. They will feed you grass like an ox, and herbs of the earth will be your pasture. Behold, instead of your glory they will bind you, and another will possess house of your luxury and your kingdom.
 - brenton: [missing]
@@ -194953,9 +194953,9 @@ Note:
 
 ### Daniel 4:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time my kingdom was restored to me, and my glory was given back to me.
 - brenton: [missing]
@@ -194971,981 +194971,981 @@ Note:
 
 ### Daniel 5:0
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Belshazzar the king made a great banquet on day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mane, Phares, Thekel. And this is their meaning: Mane, it has been numbered; Phares, it has been lifted away; Thekel, it will stand.
 - brenton: [missing]
 
 ### Daniel 5:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Belshazzar the king made a great feast for his companions and drank wine.
 - brenton: [missing]
 
 ### Daniel 5:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his heart was lifted up, and he said that the gold and silver vessels of house of God, which Nebuchadnezzar his father brought from Jerusalem, be brought, and that his companions drink wine from them.
 - brenton: [missing]
 
 ### Daniel 5:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they were brought, and they drank from them.
 - brenton: [missing]
 
 ### Daniel 5:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they blessed their handmade idols, but they did not bless eternal God, the one holding authority over their breath.
 - brenton: [missing]
 
 ### Daniel 5:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that hour fingers like a human hand came out and wrote on wall of his house, on plaster opposite the light before king Belshazzar, and he saw the hand writing.
 - brenton: [missing]
 
 ### Daniel 5:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his appearance changed, and fears and anxious thoughts pressed him. So the king hurried and rose and saw that writing, and companions around him were boasting.
 - brenton: [missing]
 
 ### Daniel 5:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king cried with loud voice to call enchanters and sorcerers and Chaldeans and gazarenes to declare interpretation of the writing. And they came in to inspect and see the writing, and they were unable to interpret the writing for the king. Then king issued decree, saying, Any man who shows interpretation of the writing will clothe him in purple and place a gold chain on him, and authority of third part of kingdom will be given him.
 - brenton: [missing]
 
 ### Daniel 5:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And enchanters and sorcerers and gazarenes came in, and no one was able to tell interpretation of the writing.
 - brenton: [missing]
 
 ### Daniel 5:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king called the queen because of the sign and told her how great it was and that no man could tell the king interpretation of the writing.
 - brenton: [missing]
 
 ### Daniel 5:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then queen remembered Daniel to him, the one from captivity of Judea.
 - brenton: [missing]
 
 ### Daniel 5:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she said to the king, The man was learned and wise and surpassing all sages of Babylon.
 - brenton: [missing]
 
 ### Daniel 5:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And holy spirit is in him, and in days of your father the king he showed extraordinary interpretations to your father Nebuchadnezzar.
 - brenton: [missing]
 
 ### Daniel 5:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel was brought before the king, and king answered and said to him,
 - brenton: [missing]
 
 ### Daniel 5:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: O Daniel, can you show me interpretation of the writing? Then I will clothe you in purple and place a gold chain on you, and you will have authority over third part of my kingdom.
 - brenton: [missing]
 
 ### Daniel 5:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel stood opposite the writing and read it, and thus answered the king: This is the writing: it has been numbered, it has been reckoned, it has been lifted away, and the hand that wrote has stood. And this is their interpretation.
 - brenton: [missing]
 
 ### Daniel 5:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: King, you made a feast for your friends and drank wine, and vessels of house of living God were brought to you, and you and your leading men drank from them. And you praised all handmade idols of men, but you did not bless living God, though your breath is in his hand and he himself gave you your kingdom. You did not bless him or praise him.
 - brenton: [missing]
 
 ### Daniel 5:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is interpretation of the writing: your kingdom's time has been numbered; your kingdom is ending, cut short and completed, and your kingdom is given to Medes and Persians.
 - brenton: [missing]
 
 ### Daniel 5:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is continuation of the interpretation: your kingdom has been cut short and brought to completion.
 - brenton: [missing]
 
 ### Daniel 5:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This is continuation of the interpretation: your kingdom is given to Medes and Persians.
 - brenton: [missing]
 
 ### Daniel 5:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Belshazzar the king clothed Daniel in purple and put a gold chain on him and gave him authority over third part of his kingdom.
 - brenton: [missing]
 
 ### Daniel 5:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the interpretation came upon king Belshazzar, and kingdom was taken from Chaldeans and given to Medes and Persians.
 - brenton: [missing]
 
 ### Daniel 6:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Artaxerxes of the Medes received the kingdom, and Darius was full of days and glorious in old age.
 - brenton: [missing]
 
 ### Daniel 6:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he appointed one hundred twenty-seven satraps over all his kingdom.
 - brenton: [missing]
 
 ### Daniel 6:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And over them three men as leaders, and Daniel was one of the three men.
 - brenton: [missing]
 
 ### Daniel 6:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Holding authority above all in the kingdom, Daniel was clothed in purple and was great and honored before king Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in king's business. Then king determined to set Daniel over all his kingdom, together with the two men and the one hundred twenty-seven satraps appointed with him.
 - brenton: [missing]
 
 ### Daniel 6:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: When king determined to set Daniel over all his kingdom, the two young men consulted together, saying, Since we find no sin or ignorance in Daniel by which we may accuse him before the king,
 - brenton: [missing]
 
 ### Daniel 6:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: come, let us establish an ordinance among ourselves: any person who asks a petition or offers a prayer to any god for thirty days, except from Darius the king, must die, so that they may defeat Daniel before the king and throw him into lions' den. For they knew Daniel prays and entreats Lord his God three times a day.
 - brenton: [missing]
 
 ### Daniel 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then those men came before the king and said,
 - brenton: [missing]
 
 ### Daniel 6:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We established an ordinance and decree that any person who offers prayer or asks any petition from any god for thirty days except from you, king, will be thrown into lions' den.
 - brenton: [missing]
 
 ### Daniel 6:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they asked the king to establish the ordinance and not alter it, because they knew Daniel prays and entreats three times a day, so that he might be defeated through the king and thrown into lions' den.
 - brenton: [missing]
 
 ### Daniel 6:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And thus king Darius established and confirmed it.
 - brenton: [missing]
 
 ### Daniel 6:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Daniel, knowing decree was established against him, opened windows in his upper room toward Jerusalem and fell on his face three times a day, just as he had done before, and he prayed.
 - brenton: [missing]
 
 ### Daniel 6:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they watched Daniel and caught him praying three times each day.
 - brenton: [missing]
 
 ### Daniel 6:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then these men came upon the king and said, King Darius, did you not decree that any person should not offer prayer or ask petition from any god for thirty days except from you, king, or else be thrown into lions' den? And king answered and said to them, The word is exact and decree stands. They said to him, We adjure you by decrees of Medes and Persians not to alter command or favor a person, and not to lessen anything spoken, but punish the man who did not remain in this decree. And he said, Thus I will do, as you say; this stands for me.
 - brenton: [missing]
 
 ### Daniel 6:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they said, Behold, we found Daniel, your friend, praying and entreating before his God three times a day.
 - brenton: [missing]
 
 ### Daniel 6:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king, grieved, said Daniel should be thrown into lions' den according to decree established against him. Then king was deeply grieved over Daniel and helped to deliver him until sunset from hands of the satraps.
 - brenton: [missing]
 
 ### Daniel 6:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he was not able to deliver him from them.
 - brenton: [missing]
 
 ### Daniel 6:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And crying aloud, king Darius said to Daniel, Your God, whom you serve continually three times a day, he himself will deliver you from hand of the lions. Until morning, take courage.
 - brenton: [missing]
 
 ### Daniel 6:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel was thrown into lions' den, and a stone was brought and placed on mouth of den, and king sealed it with his own ring and with rings of his leading men, so that Daniel might not be taken from them and so that king might not pull him up from the den.
 - brenton: [missing]
 
 ### Daniel 6:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king returned to his palace and lodged fasting, and was grieved over Daniel. Then God of Daniel, taking thought for him, shut mouths of the lions, and they did not trouble Daniel.
 - brenton: [missing]
 
 ### Daniel 6:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king Darius rose early in morning and took satraps with him, and going, stood at mouth of lions' den.
 - brenton: [missing]
 
 ### Daniel 6:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then king called Daniel with loud voice and weeping, saying, O Daniel, are you still alive? Has your God, whom you serve continually, saved you from the lions, and did they not injure you?
 - brenton: [missing]
 
 ### Daniel 6:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Daniel answered with loud voice and said, King, I am still alive.
 - brenton: [missing]
 
 ### Daniel 6:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God saved me from the lions, because righteousness was found in me before him, and before you, king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into lions' den for destruction.
 - brenton: [missing]
 
 ### Daniel 6:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then all the powers were gathered and saw Daniel, because lions had not troubled him.
 - brenton: [missing]
 
 ### Daniel 6:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then those two men who testified against Daniel, they and their wives and their children, were thrown to the lions, and the lions killed them and shattered their bones.
 - brenton: [missing]
 
 ### Daniel 6:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then Darius wrote to all nations and lands and languages dwelling in all his earth, saying,
 - brenton: [missing]
 
 ### Daniel 6:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let all people in my kingdom worship and serve God of Daniel, because he is living God, remaining from generation to generation forever.
 - brenton: [missing]
 
 ### Daniel 6:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, Darius, will worship and serve him all my days, because handmade idols cannot save as God of Daniel delivered Daniel.
 - brenton: [missing]
 
 ### Daniel 6:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And king Darius was added to his line, and Daniel was established in kingdom of Darius, and Cyrus the Persian received his kingdom.
 - brenton: [missing]
 
 ### Daniel 7:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In first year of Belshazzar ruling over land of Babylonia, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
 - brenton: [missing]
 
 ### Daniel 7:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On my bed I was watching in night-dreams, and behold, four winds of heaven fell upon the great sea.
 - brenton: [missing]
 
 ### Daniel 7:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And four beasts were coming up from the sea, differing from one another.
 - brenton: [missing]
 
 ### Daniel 7:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The first was like a lion, having wings like an eagle. I kept watching until its wings were plucked, and it was lifted from the earth and stood on human feet, and a human heart was given to it.
 - brenton: [missing]
 
 ### Daniel 7:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, after it another beast had likeness of a bear, and it stood on one side, and three ribs were in its mouth. And thus it said, Rise, eat much flesh.
 - brenton: [missing]
 
 ### Daniel 7:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after this I was watching another beast, like a leopard, and four wings were spread over it, and the beast had four heads, and a tongue was given to it.
 - brenton: [missing]
 
 ### Daniel 7:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: After this I was watching in a vision of the night, and behold, a fourth beast, fearsome, and its terror surpassed in strength. It had great iron teeth, eating and crushing; with its feet it trampled around, differing in use from all the beasts before it, and it had ten horns.
 - brenton: [missing]
 
 ### Daniel 7:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And many counsels were in its horns, and behold, another small horn sprang up among them, and three of the first horns were dried up because of it. And behold, eyes like human eyes were in this horn, and a mouth speaking great things, and it made war against the holy ones.
 - brenton: [missing]
 
 ### Daniel 7:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was watching until thrones were set, and Ancient of Days sat, having garment like snow and hair of his head like clean white wool; the throne was like flame of fire.
 - brenton: [missing]
 
 ### Daniel 7:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And a river of fire was going out before him; thousands of thousands served him, and myriads of myriads stood before him, and court sat, and books were opened.
 - brenton: [missing]
 
 ### Daniel 7:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was watching then because of sound of great words that the horn was speaking, and the beast was beaten down, and its body perished and was given to burning fire.
 - brenton: [missing]
 
 ### Daniel 7:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he removed the others around it from their authority, and time of life was given them until time and season.
 - brenton: [missing]
 
 ### Daniel 7:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was watching in vision of the night, and behold, on clouds of heaven one like son of man was coming, and he was present as Ancient of Days, and those standing by were present with him.
 - brenton: [missing]
 
 ### Daniel 7:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And authority was given to him, and all nations of the earth by their kinds, and every glory serving him; and his authority is eternal authority that will not be taken away, and his kingdom one that will not be destroyed.
 - brenton: [missing]
 
 ### Daniel 7:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I, Daniel, grew weary in these things in vision of the night.
 - brenton: [missing]
 
 ### Daniel 7:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I came near one of those standing, and I sought exact truth from him concerning all these things. And answering, he spoke to me and made known to me judgment of the words.
 - brenton: [missing]
 
 ### Daniel 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These great beasts are four kingdoms that will perish from the earth.
 - brenton: [missing]
 
 ### Daniel 7:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And holy ones of the Most High will receive the kingdom and possess the kingdom forever and forever of forever.
 - brenton: [missing]
 
 ### Daniel 7:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Then I wanted to know exactly about the fourth beast, the one destroying all things and exceedingly fearsome. And behold, its teeth were iron and its claws bronze, eating everything around and trampling with its feet.
 - brenton: [missing]
 
 ### Daniel 7:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And concerning its ten horns on its head, and the other one that sprang up and because of which three fell away, and that horn had eyes and mouth speaking great things, and its appearance surpassed the others.
 - brenton: [missing]
 
 ### Daniel 7:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I observed that horn making war with the holy ones and overcoming them,
 - brenton: [missing]
 
 ### Daniel 7:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: until Ancient of Days came and gave judgment to holy ones of the Most High, and the time was given, and the holy ones possessed the kingdom.
 - brenton: [missing]
 
 ### Daniel 7:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was told me concerning the fourth beast that a fourth kingdom will be upon the earth, one that will differ from all the earth and throw it into confusion and crush it.
 - brenton: [missing]
 
 ### Daniel 7:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the ten horns of the kingdom are ten kings that will arise, and another king will arise after them, and he will differ in evils beyond the first ones and will humble three kings.
 - brenton: [missing]
 
 ### Daniel 7:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will speak words against the Most High and wear down holy ones of the Most High, and he will undertake to change times and law, and all will be delivered into his hands until a time and times and half a time.
 - brenton: [missing]
 
 ### Daniel 7:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the court will sit, and they will destroy his authority and plan to defile and destroy to the end.
 - brenton: [missing]
 
 ### Daniel 7:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And kingdom and authority and their greatness and rule of all kingdoms under heaven he gave to holy people of the Most High to reign with eternal kingdom, and all authorities will submit to him and obey him.
 - brenton: [missing]
 
 ### Daniel 7:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To completion of the matter, I, Daniel, was very greatly held in ecstasy, and my condition changed within me, and I kept the matter fixed in my heart.
 - brenton: [missing]
 
 ### Daniel 8:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
 - brenton: [missing]
 
 ### Daniel 8:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw in vision of my dream, while I was in Sousa the city, which is in land of Elam, and while I was still by gate Ailam.
 - brenton: [missing]
 
 ### Daniel 8:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lifting up my eyes I saw one great ram standing opposite the gate, and it had horns, and one was higher than the other, and the higher one was coming up.
 - brenton: [missing]
 
 ### Daniel 8:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: After this I saw the ram butting toward east and toward north and toward west and south, and no beasts stood before it, and there was no one delivering from its hands, and it did as it wished and was exalted.
 - brenton: [missing]
 
 ### Daniel 8:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I was pondering, and behold, a male goat was coming from west over face of the earth and was not touching the earth, and the goat had one horn between its eyes.
 - brenton: [missing]
 
 ### Daniel 8:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came against the ram with the horns, which I saw standing by the gate, and ran at it in fury of wrath.
 - brenton: [missing]
 
 ### Daniel 8:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw it coming up to the ram, and it was enraged against it and struck and shattered its two horns, and there was no longer strength in the ram to stand before the goat. And it ripped it to the ground and crushed it, and there was no one delivering the ram from the goat.
 - brenton: [missing]
 
 ### Daniel 8:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the goat became exceedingly strong, and when it became strong its great horn was shattered, and behind it four other horns came up toward the four winds of heaven.
 - brenton: [missing]
 
 ### Daniel 8:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from one of them one strong horn sprang up, and it prevailed and struck toward south and toward east and toward north.
 - brenton: [missing]
 
 ### Daniel 8:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it was lifted up as far as stars of heaven, and some of the stars were dashed to the earth, and some of them were trampled.
 - brenton: [missing]
 
 ### Daniel 8:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until the commander-in-chief will rescue the captivity, and because of him the mountains from ages past were dashed down, and their place was removed, and sacrifice was taken and set down to the earth, and it prospered and happened, and the holy place will be made desolate.
 - brenton: [missing]
 
 ### Daniel 8:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sins came upon the sacrifice, and righteousness was thrown to the ground, and it acted and prospered.
 - brenton: [missing]
 
 ### Daniel 8:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I heard another holy one speaking, and the other said to Phelmuni, the one speaking, How long will the vision stand, and the sacrifice that was removed, and sin of desolation that was given, and the holy things will be made desolate for trampling?
 - brenton: [missing]
 
 ### Daniel 8:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to him, Until evening and morning, two thousand three hundred days, and holy place will be cleansed.
 - brenton: [missing]
 
 ### Daniel 8:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened, while I, Daniel, was seeing the vision, I sought to understand, and behold, there stood before me something like appearance of a man.
 - brenton: [missing]
 
 ### Daniel 8:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I heard voice of a man between the Ulai, and he called and said, Gabriel, make that one understand the vision. And crying out, the man spoke concerning that command, the vision.
 - brenton: [missing]
 
 ### Daniel 8:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he came and stood beside where I was standing, and when he came I was alarmed and fell on my face. And he said to me, Understand, son of man, for the vision is still for an hour of time.
 - brenton: [missing]
 
 ### Daniel 8:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And while he was speaking with me, I fell asleep with face to ground, and touching me he raised me up where I stood.
 - brenton: [missing]
 
 ### Daniel 8:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Behold, I tell you what will be at end of the wrath against sons of your people, for it still awaits hour of completion.
 - brenton: [missing]
 
 ### Daniel 8:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The ram you saw with the horns is king of Medes and Persians.
 - brenton: [missing]
 
 ### Daniel 8:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the male goat is king of Greeks, and the great horn between its eyes is first king.
 - brenton: [missing]
 
 ### Daniel 8:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the shattered horn, and four horns rising after it, are four kings from his nation that will arise, but not with his strength.
 - brenton: [missing]
 
 ### Daniel 8:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And at end of their kingdom, when their sins are filled up, a king bold in face, understanding riddles, will arise.
 - brenton: [missing]
 
 ### Daniel 8:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his strength will be made firm, but not by his own strength, and he will destroy wonderfully and prosper and act, and he will destroy rulers and people of holy ones.
 - brenton: [missing]
 
 ### Daniel 8:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his design will be against the holy ones, and falsehood will prosper in his hands, and his heart will be exalted, and by deceit he will destroy many, and he will stand for destruction of men and make a gathering of hand and will be repaid.
 - brenton: [missing]
 
 ### Daniel 8:26
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision of evening and morning was found true, and now vision has been sealed, for it is still for many days.
 - brenton: [missing]
 
 ### Daniel 8:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I, Daniel, became weak for many days, and rising up I again worked in royal matters, and I was exhausted by the vision, and there was no one understanding.
 - brenton: [missing]
 
 ### Daniel 9:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In first year under Darius son of Xerxes, from line of Medes, who reigned over kingdom of the Chaldeans,
 - brenton: [missing]
 
 ### Daniel 9:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
 - brenton: [missing]
 
 ### Daniel 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I set my face toward Lord God to find prayer and mercy in fastings and sackcloth and ashes.
 - brenton: [missing]
@@ -195961,315 +195961,315 @@ Note:
 
 ### Daniel 9:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We sinned, we acted unjustly, we acted impiously, and we departed and transgressed your commands and your judgments.
 - brenton: [missing]
 
 ### Daniel 9:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we did not listen to your servants the prophets, who spoke in your name to our kings and our rulers and our fathers and to all the nation on the earth.
 - brenton: [missing]
 
 ### Daniel 9:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To you, Lord, belongs righteousness, and to us shame of face as on this day, to men of Judah and those dwelling in Jerusalem and to all people Israel, those near and those far off in all lands where you scattered them there in the unfaithfulness by which they were unfaithful before you.
 - brenton: [missing]
 
 ### Daniel 9:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Master, to us belongs shame of face, and to our kings and rulers and our fathers, because we sinned against you.
 - brenton: [missing]
 
 ### Daniel 9:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To Lord belongs righteousness and mercy, because we departed from you.
 - brenton: [missing]
 
 ### Daniel 9:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we did not listen to voice of Lord our God to follow your law, which you gave before Moses and us through your servants the prophets.
 - brenton: [missing]
 
 ### Daniel 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all Israel abandoned your law and departed from listening to your voice, and curse and oath written in law of Moses, servant of God, came upon us, because we sinned against him.
 - brenton: [missing]
 
 ### Daniel 9:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he established upon us his commands, whatever he spoke against us and against our judges, whatever you judged for us, to bring upon us great evils such as never happened under heaven as happened in Jerusalem.
 - brenton: [missing]
 
 ### Daniel 9:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: According to things written in covenant of Moses, all these evils came upon us, and we did not seek face of Lord our God to turn from our sins and consider your righteousness, Lord.
 - brenton: [missing]
 
 ### Daniel 9:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord God kept watch over the evils and brought them upon us, because Lord our God is righteous in all he does, and we did not listen to his voice.
 - brenton: [missing]
 
 ### Daniel 9:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now, Master, Lord our God, the one who brought out your people from Egypt by your uplifted arm and made for yourself a name as on this day, we sinned, we acted in ignorance.
 - brenton: [missing]
 
 ### Daniel 9:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Master, according to your righteousness, let your wrath and your anger turn away from your city Jerusalem, your holy mountain, because by our sins and by ignorances of our fathers, Jerusalem and your people, Lord, are a reproach among all around us.
 - brenton: [missing]
 
 ### Daniel 9:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now hear, Master, prayer of your servant and my petitions, and let your face look upon your holy mountain, desolate, for sake of your servants, Master.
 - brenton: [missing]
 
 ### Daniel 9:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Incline, Lord, your ear and hear me; open your eyes and see our desolation and your city upon which your name was called, for not on our righteousness do we make our petitions before you, but because of your mercy.
 - brenton: [missing]
 
 ### Daniel 9:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord, be reconciled. Lord, hear and act, and do not delay, for your own sake, Master, because your name was called on your city Zion and on your people Israel.
 - brenton: [missing]
 
 ### Daniel 9:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And while I was still speaking, praying, confessing my sins and sins of my people Israel, and making petitions before Lord my God for holy mountain of our God,
 - brenton: [missing]
 
 ### Daniel 9:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and while I was still speaking in my prayer, behold, the man whom I saw at beginning in my dream, Gabriel, swiftly carried along, came near me at time of evening sacrifice.
 - brenton: [missing]
 
 ### Daniel 9:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he came and spoke with me and said, Daniel, now I came out to show you understanding.
 - brenton: [missing]
 
 ### Daniel 9:23
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At beginning of your petition command went out from Lord, and I came to show you because you are pitied; so understand the command.
 - brenton: [missing]
 
 ### Daniel 9:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seventy weeks were determined over your people and over city Zion, to bring sin to completion and make injustices scarce and wipe out injustices and understand vision and give eternal righteousness and bring vision to completion and gladden holy of holies.
 - brenton: [missing]
 
 ### Daniel 9:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know and understand and rejoice and find commands in answer, and you will build Jerusalem, city to Lord.
 - brenton: [missing]
 
 ### Daniel 9:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after seven and seventy and sixty-two, anointing will be removed and will not be, and kingdom of nations will destroy the city and the holy place with the anointed one, and its end will come with wrath, and until time of completion it will be warred by war.
 - brenton: [missing]
 
 ### Daniel 9:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to completion of times. And after seven and seventy times and sixty-two years, until time of completion of war, desolation will be removed when covenant prevails over many weeks, and at end of the week sacrifice and drink offering will be taken away, and on the sanctuary there will be abomination of desolations until completion, and completion will be given over the desolation.
 - brenton: [missing]
 
 ### Daniel 10:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In first year of Cyrus king of Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
 - brenton: [missing]
 
 ### Daniel 10:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In those days I, Daniel, was mourning three weeks.
 - brenton: [missing]
 
 ### Daniel 10:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I ate no bread of desire, and meat and wine did not enter my mouth, and I did not anoint myself with oil until I completed the three weeks of days.
 - brenton: [missing]
 
 ### Daniel 10:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it happened on twenty-fourth day of first month, and I was on bank of the great river, which is Tigris.
 - brenton: [missing]
 
 ### Daniel 10:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my eyes and saw, and behold, one man clothed in fine linen, and his loins girded with linen, and light from his midst.
 - brenton: [missing]
 
 ### Daniel 10:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And his body was like tarshish, and his face like appearance of lightning, and his eyes like lamps of fire, and his arms and feet like flashing bronze, and voice of his speech like voice of a tumult.
 - brenton: [missing]
 
 ### Daniel 10:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I, Daniel, saw this great vision, and men with me did not see this vision, and strong fear fell upon them, and they fled in haste.
 - brenton: [missing]
 
 ### Daniel 10:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I was left alone and saw this great vision, and no strength remained in me, and behold, spirit turned upon me for ruin, and I did not prevail.
 - brenton: [missing]
 
 ### Daniel 10:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I did not hear voice of his speech; I was fallen on my face upon the earth.
 - brenton: [missing]
 
 ### Daniel 10:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And behold, a hand touched me and raised me onto my knees and onto tracks of my feet.
 - brenton: [missing]
 
 ### Daniel 10:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Daniel, you are a man pitied. Understand the commands that I speak over you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
 - brenton: [missing]
 
 ### Daniel 10:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Do not fear, Daniel, because from first day when you set your face to understand and be humbled before Lord your God, your word was heard, and I came at your word.
 - brenton: [missing]
