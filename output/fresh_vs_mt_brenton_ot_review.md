@@ -60461,7 +60461,7 @@ Method:
 - importance: `none`
 - fresh_mt_ratio: `0.695`
 - fresh_brenton_ratio: `0.323`
-- fresh: And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this this anguish has come upon us.
+- fresh: And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this, this anguish has come upon us.
 - mt: And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
 - brenton: And each said to his brother, Yes, indeed, for we are in fault concerning our brother, when we disregarded the anguish of his soul, when he besought us, and we hearkened not to him; and therefore has this affliction come upon us.
 

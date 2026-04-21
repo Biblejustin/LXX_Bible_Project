@@ -11467,7 +11467,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this this anguish has come upon us.
+- fresh: And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this, this anguish has come upon us.
 - brenton: And each said to his brother, Yes, indeed, for we are in fault concerning our brother, when we disregarded the anguish of his soul, when he besought us, and we hearkened not to him; and therefore has this affliction come upon us.
 
 ### Genesis 42:22
@@ -115208,7 +115208,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Is my strength strength of stones, or is my flesh bronze?
+- fresh: Is my strength the strength of stones, or is my flesh bronze?
 - brenton: [missing]
 
 ### Job 6:13
@@ -161640,7 +161640,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your hand no longer strong over sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+- fresh: And your hand no longer has strength over the sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
 - brenton: [missing]
 
 ### Isaiah 23:12
@@ -162918,7 +162918,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because of this this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
+- fresh: because of this, this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
 - brenton: [missing]
 
 ### Isaiah 30:14

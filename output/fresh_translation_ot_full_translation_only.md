@@ -5174,7 +5174,7 @@ And bring your youngest brother to me, and your words will be believed. But if n
 
 **Genesis 42:21**
 
-And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this this anguish has come upon us.
+And each said to his brother, Yes, for we are in sins concerning our brother, because we overlooked the anguish of his soul when he begged us and we did not listen to him. Because of this, this anguish has come upon us.
 
 **Genesis 42:22**
 
@@ -52100,7 +52100,7 @@ For what strength have I, that I keep enduring? Or what time remains for me, tha
 
 **Job 6:12**
 
-Is my strength strength of stones, or is my flesh bronze?
+Is my strength the strength of stones, or is my flesh bronze?
 
 **Job 6:13**
 
@@ -73262,7 +73262,7 @@ Work your land, for ship no longer comes from Carthage.
 
 **Isaiah 23:11**
 
-And your hand no longer strong over sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+And your hand no longer has strength over the sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
 
 **Isaiah 23:12**
 
@@ -73844,7 +73844,7 @@ Because of this thus says Lord, Holy One of Israel: Because you disobeyed these 
 
 **Isaiah 30:13**
 
-because of this this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
+because of this, this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
 
 **Isaiah 30:14**
 
