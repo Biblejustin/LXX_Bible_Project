@@ -131,6 +131,8 @@ def split_inline_verses(article_text: str, chapter: int) -> List[Dict[str, str]]
     if article_text.startswith(str(chapter)):
         article_text = article_text[len(str(chapter)) :].strip()
     article_text = re.sub(rf"^\s*{chapter}\s*", "", article_text)
+    # Some fallback Proverbs pages append displaced Masoretic sections inline.
+    article_text = re.split(r"\(\s*Μασσ\.", article_text, maxsplit=1)[0].strip()
     article_text = re.sub(r"\s+", " ", article_text).strip()
 
     matches = list(re.finditer(r"(?<!\d)(\d+)\s", article_text))

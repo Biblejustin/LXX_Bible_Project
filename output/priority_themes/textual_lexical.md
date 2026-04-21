@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 58
-Books: 24
+Rows: 56
+Books: 23
 
 ## Genesis 1:2
 - score: 21
@@ -290,20 +290,6 @@ Books: 24
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=22; reco=keep
 - keywords: god, lord
 - fresh: And when this day came, behold, angels of God came to stand before the Lord, and the slanderer came with them.
-- brenton: [missing]
-
-## Proverbs 29:23
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; crossref_top_vote=201; reco=keep
-- keywords: [none]
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- brenton: [missing]
-
-## Proverbs 29:23
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; crossref_top_vote=201; reco=keep
-- keywords: [none]
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
 - brenton: [missing]
 
 ## Isaiah 9:6

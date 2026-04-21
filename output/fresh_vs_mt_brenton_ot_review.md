@@ -1,8 +1,8 @@
 # Fresh vs MT vs Brenton Review
 
 Scope: Genesis-Malachi (39 books)
-Drafted rows checked: 22917
-Rows with MT witness: 21768
+Drafted rows checked: 22896
+Rows with MT witness: 21751
 Rows with Brenton witness: 12491
 Rows same as MT, different from Brenton: 13
 Rows MT-leaning vs Brenton: 421

@@ -1,17 +1,17 @@
 # Fresh vs Brenton OT Comparison
 
 Selected scope: Genesis-Malachi (39 books)
-Selected verse rows: 22917
-Selected drafted rows: 22917
+Selected verse rows: 22896
+Selected drafted rows: 22896
 Minimum importance: none
-Output compare rows: 22917
+Output compare rows: 22896
 
-Drafted rows compared: 22917
+Drafted rows compared: 22896
 Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Samuel, Amos, Daniel, Deuteronomy, Ecclesiastes, Esther, Exodus, Ezekiel, Ezra, Genesis, Habakkuk, Haggai, Hosea, Isaiah, Jeremiah, Job, Joel, Jonah, Joshua, Judges, Lamentations, Leviticus, Malachi, Micah, Nahum, Nehemiah, Numbers, Obadiah, Proverbs, Psalms, Ruth, Song of Solomon, Zechariah, Zephaniah
-Missing Brenton rows: 10426
+Missing Brenton rows: 10405
 
 Importance counts:
-- high: 22917
+- high: 22896
 - medium: 0
 - low: 0
 - none: 0
@@ -151005,7 +151005,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From greatness of strength, name of Lord; to it righteous running are exalted.
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
 - brenton: [missing]
 
 ### Proverbs 18:11
@@ -153774,343 +153774,154 @@ Note:
 ### Proverbs 29:11
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
-- brenton: [missing]
-
-### Proverbs 29:11
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
+- fresh: A fool lets out all his anger, but a wise man keeps it back in measure.
 - brenton: [missing]
 
 ### Proverbs 29:12
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: For she works all good things for her husband throughout life.
-- brenton: [missing]
-
-### Proverbs 29:12
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: For she works all good things for her husband throughout life.
+- fresh: When a king listens to an unjust word, all who are under him are lawless.
 - brenton: [missing]
 
 ### Proverbs 29:13
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She chewed wool and flax and made them useful with her hands.
-- brenton: [missing]
-
-### Proverbs 29:13
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She chewed wool and flax and made them useful with her hands.
+- fresh: When lender and debtor meet one another, the Lord oversees both.
 - brenton: [missing]
 
 ### Proverbs 29:14
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She became like trading ship from far away and gathers wealth for herself.
-- brenton: [missing]
-
-### Proverbs 29:14
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She became like trading ship from far away and gathers wealth for herself.
+- fresh: When a king judges poor men in truth, his throne will be established as a testimony.
 - brenton: [missing]
 
 ### Proverbs 29:15
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She rises from nights and gave food to house and tasks to maidservants.
-- brenton: [missing]
-
-### Proverbs 29:15
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She rises from nights and gave food to house and tasks to maidservants.
+- fresh: Blows and reproofs give wisdom, but a wandering child shames his parents.
 - brenton: [missing]
 
 ### Proverbs 29:16
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Having looked at field, she bought it, and from fruits of her hands planted possession.
-- brenton: [missing]
-
-### Proverbs 29:16
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Having looked at field, she bought it, and from fruits of her hands planted possession.
+- fresh: When ungodly people are many, sins become many, but when they fall, righteous people are put in fear.
 - brenton: [missing]
 
 ### Proverbs 29:17
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Girding her waist strongly, she braced her arms for work.
-- brenton: [missing]
-
-### Proverbs 29:17
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Girding her waist strongly, she braced her arms for work.
+- fresh: Discipline your son, and he will give you rest, and he will give honor to your soul.
 - brenton: [missing]
 
 ### Proverbs 29:18
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She tasted that working is good, and her lamp is not extinguished whole night.
-- brenton: [missing]
-
-### Proverbs 29:18
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She tasted that working is good, and her lamp is not extinguished whole night.
+- fresh: There will by no means be an interpreter for a lawless nation, but one keeping the law is blessed.
 - brenton: [missing]
 
 ### Proverbs 29:19
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She stretches forearms to useful things, and braces her hands to spindle.
-- brenton: [missing]
-
-### Proverbs 29:19
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She stretches forearms to useful things, and braces her hands to spindle.
+- fresh: A hard servant will not be disciplined by words; for even if he understands, still he will not obey.
 - brenton: [missing]
 
 ### Proverbs 29:20
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: And she opened hands to poor, and stretched out fruit to needy.
-- brenton: [missing]
-
-### Proverbs 29:20
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: And she opened hands to poor, and stretched out fruit to needy.
+- fresh: If you see a man swift in words, know that a fool has hope rather than he does.
 - brenton: [missing]
 
 ### Proverbs 29:21
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
-- brenton: [missing]
-
-### Proverbs 29:21
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
+- fresh: One who lives wantonly from childhood will be a servant, and in the end he will grieve over himself.
 - brenton: [missing]
 
 ### Proverbs 29:22
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She made double cloaks for her husband, and garments for herself from fine linen and purple.
-- brenton: [missing]
-
-### Proverbs 29:22
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She made double cloaks for her husband, and garments for herself from fine linen and purple.
+- fresh: An angry man digs up strife, and a wrathful man digs up sin.
 - brenton: [missing]
 
 ### Proverbs 29:23
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- brenton: [missing]
-
-### Proverbs 29:23
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+- fresh: Arrogance humbles a man, but the Lord supports the humble-minded with glory.
 - brenton: [missing]
 
 ### Proverbs 29:24
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She made linens and sold them, and belts for Canaanites.
-- brenton: [missing]
-
-### Proverbs 29:24
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She made linens and sold them, and belts for Canaanites.
+- fresh: One who shares with a thief hates his own soul; and if, when an oath has been set forth, those who heard do not report it,
 - brenton: [missing]
 
 ### Proverbs 29:25
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: She put on strength and dignity and rejoiced in latter days.
-- brenton: [missing]
-
-### Proverbs 29:25
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: She put on strength and dignity and rejoiced in latter days.
+- fresh: fearing and being ashamed before men, they were tripped up; but one trusting in the Lord will rejoice. Ungodliness causes a man to stumble, but one who trusts in the Master will be saved.
 - brenton: [missing]
 
 ### Proverbs 29:26
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: Her mouth opened attentively and lawfully, and she sent order upon her tongue.
-- brenton: [missing]
-
-### Proverbs 29:26
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Her mouth opened attentively and lawfully, and she sent order upon her tongue.
+- fresh: Many attend to the faces of leaders, but from the Lord justice comes to a man.
 - brenton: [missing]
 
 ### Proverbs 29:27
 
 - importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
-- brenton: [missing]
-
-### Proverbs 29:27
-
-- importance: high
-- decisions: 2
-- footnotes: 2
-- same_normalized: no
-- fresh: Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
-- brenton: [missing]
-
-### Proverbs 29:28
-
-- importance: high
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Her mouth opens wisely and lawfully; her mercy raised up her children and they became rich, and her husband praised her.
-- brenton: [missing]
-
-### Proverbs 29:29
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: Many daughters acquired wealth, many made strength, but you excel and have surpassed all.
-- brenton: [missing]
-
-### Proverbs 29:30
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: False are charms and vain beauty of woman; for prudent woman is blessed; let her praise fear of Lord.
-- brenton: [missing]
-
-### Proverbs 29:31
-
-- importance: high
-- decisions: 1
-- footnotes: 1
-- same_normalized: no
-- fresh: Give her from fruits of her lips, and let her husband be praised in gates.
+- fresh: An unjust man is an abomination to righteous people, and a straight way is an abomination to a lawless man.
 - brenton: [missing]
 
 ### Proverbs 30:1

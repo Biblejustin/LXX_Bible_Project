@@ -1,12 +1,12 @@
 {
-  "verse_rows": 22917,
-  "verses_with_greek_text": 22917,
-  "verses_with_draft_translation": 22917,
+  "verse_rows": 22896,
+  "verses_with_greek_text": 22896,
+  "verses_with_draft_translation": 22896,
   "selected_scope": "Genesis-Malachi (39 books)",
-  "selected_verse_rows": 22917,
-  "selected_drafted_rows": 22917,
-  "output_verse_rows": 22917,
-  "output_drafted_rows": 22917,
+  "selected_verse_rows": 22896,
+  "selected_drafted_rows": 22896,
+  "output_verse_rows": 22896,
+  "output_drafted_rows": 22896,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -86,8 +86,8 @@
       "drafted_rows": 2526
     },
     "Proverbs": {
-      "verse_rows": 912,
-      "drafted_rows": 912
+      "verse_rows": 891,
+      "drafted_rows": 891
     },
     "Ecclesiastes": {
       "verse_rows": 222,
@@ -167,18 +167,18 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 23094,
-  "footnote_rows": 23005,
+  "decision_rows": 23073,
+  "footnote_rows": 22984,
   "variant_rows": 54,
   "decision_status_counts": {
     "todo": 0,
     "drafted": 565,
-    "reviewed": 22529
+    "reviewed": 22508
   },
   "footnote_status_counts": {
     "todo": 0,
     "drafted": 479,
-    "reviewed": 22526
+    "reviewed": 22505
   },
   "chapters": [
     "1",

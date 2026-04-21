@@ -1940,36 +1940,6 @@ Rows: 234
 - fresh: And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
 - brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
 
-## Proverbs 29:23
-- priority: `19`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- brenton: 
-
-## Proverbs 29:23
-- priority: `19`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- brenton: 
-
 ## Proverbs 3:16
 - priority: `19`
 - importance: `high`
@@ -2298,6 +2268,36 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: Lord will not starve righteous soul, but life of ungodly he will overthrow.
+- brenton: 
+
+## Proverbs 15:29
+- priority: `18`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- brenton: 
+
+## Proverbs 18:10
+- priority: `18`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
 - brenton: 
 
 ## Proverbs 3:9

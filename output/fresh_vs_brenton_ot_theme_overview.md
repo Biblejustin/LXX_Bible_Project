@@ -16,7 +16,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 1 Samuel 26:19 → score 21
 
 ## Textual / Lexical Crux
-- rows: 58
+- rows: 56
 - Exodus 20:24 → score 35
 - Leviticus 4:31 → score 34
 - 1 Kings 2:35 → score 32
@@ -29,7 +29,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Genesis 2:7 → score 28
 
 ## Theology / Divine Identity
-- rows: 106
+- rows: 107
 - Exodus 20:24 → score 35
 - Deuteronomy 16:2 → score 31
 - 2 Kings 17:34 → score 31
@@ -68,7 +68,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Numbers 6:14 → score 22
 
 ## Covenant / Law / Judgment
-- rows: 81
+- rows: 83
 - Leviticus 4:31 → score 34
 - 2 Kings 17:34 → score 31
 - Nehemiah 10:34 → score 30

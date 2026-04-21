@@ -1367,28 +1367,6 @@ Rows: 232
 - OT clues: Ps.103.1-Ps.103.2 (5) -> Of David. Bless Lord, my soul. Lord my God, you were made exceedingly great; confession and beauty you clothed yourself with, || 1Chr.29.13 (3) -> And now, Lord, we give thanks to you and praise name of your boasting. || Ezra.3.11 (3) -> And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord. || Jer.33.10-Jer.33.11 (3) -> And rulers of Judah heard this word and went up from house of king into house of Lord and sat in entrance of new gate of Lord.
 - NT clues: 1Pet.1.3 (4) -> Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy has begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, || 2Cor.4.6 (4) -> For God, who commanded the light to shine out of darkness, has shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ. || Matt.11.25 (3) -> At that time Jesus answered and said, I thank you, O Father, Lord of heaven and earth, because you have hid these things from the wise and prudent, and have revealed them unto babes.
 
-## Proverbs 29:23
-- score: 19
-- latest review status: keep
-- top vote: 201
-- OT crossrefs: 8
-- NT crossrefs: 8
-- shared-family hits: 0
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- OT clues: Prov.11.2 (140) -> Wherever insolence enters, there also dishonor; but mouth of humble meditates wisdom. || Isa.66.2 (136) -> For all these my hand made, and all these are mine, says Lord. And to whom will I look, except to humble and quiet one and one trembling at my words? || Prov.15.33 (103) -> Fear of God discipline and wisdom, and beginning of glory will answer to it. || Prov.16.18 (94) -> Before crushing goes insolence, and before fall evil-mindedness.
-- NT clues: Matt.23.12 (201) -> And whosoever shall exalt himself shall be brought low; and he that shall humble himself shall be exalted. || Luke.14.11 (158) -> For whosoever exalts himself shall be brought low; and he that humbles himself shall be exalted. || Jas.4.6-Jas.4.10 (124) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble.
-
-## Proverbs 29:23
-- score: 19
-- latest review status: keep
-- top vote: 201
-- OT crossrefs: 8
-- NT crossrefs: 8
-- shared-family hits: 0
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-- OT clues: Prov.11.2 (140) -> Wherever insolence enters, there also dishonor; but mouth of humble meditates wisdom. || Isa.66.2 (136) -> For all these my hand made, and all these are mine, says Lord. And to whom will I look, except to humble and quiet one and one trembling at my words? || Prov.15.33 (103) -> Fear of God discipline and wisdom, and beginning of glory will answer to it. || Prov.16.18 (94) -> Before crushing goes insolence, and before fall evil-mindedness.
-- NT clues: Matt.23.12 (201) -> And whosoever shall exalt himself shall be brought low; and he that shall humble himself shall be exalted. || Luke.14.11 (158) -> For whosoever exalts himself shall be brought low; and he that humbles himself shall be exalted. || Jas.4.6-Jas.4.10 (124) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble.
-
 ## Proverbs 3:16
 - score: 19
 - latest review status: revised
@@ -1627,6 +1605,27 @@ Rows: 232
 - fresh: Lord will not starve righteous soul, but life of ungodly he will overthrow.
 - OT clues: Ps.37.3 (20) -> because your arrows were fixed in me and you set your hand firmly upon me. || Ps.34.9-Ps.34.10 (13) -> But my soul will rejoice in Lord, delighting in his salvation. || Ps.33.19 (7) -> Lord near to those crushed in heart, and he will save humble in spirit. || Ps.37.19 (7) -> Because my lawlessness I will announce, and I will be anxious concerning my sin.
 - NT clues: Matt.6.30-Matt.6.33 (19) -> Wherefore, if God so clothe the grass of the field, which to day is, and tomorrow is cast into the oven, shall he not much more clothe you, O all of you of little faith? || Ps.37.25 (14) -> I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread. || Heb.13.5-Heb.13.6 (6) -> Let your conversation be without covetousness; and be content with such things as all of you have: for he has said, I will never leave you, nor forsake you.
+
+## Proverbs 15:29
+- score: 18
+- latest review status: keep
+- top vote: 27
+- OT crossrefs: 2
+- NT crossrefs: 6
+- shared-family hits: 0
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- OT clues: Prov.15.8 (19) -> Sacrifices of ungodly abomination to Lord, but prayers of those setting straight acceptable to him. || Ps.34.15-Ps.34.17 (14) -> And against me they rejoiced and gathered together; scourges gathered upon me and I did not know; they were torn apart and were not pierced through.
+- NT clues: John.9.31 (27) -> Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears. || Ps.145.18-Ps.145.19 (21) -> The LORD is nigh unto all them that call upon him, to all that call upon him in truth. || 1Pet.3.12 (19) -> For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
+
+## Proverbs 18:10
+- score: 18
+- latest review status: revised
+- top vote: 92
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
+- OT clues: 2Sam.22.3 (92) -> my God will be my guard; I will trust in him, my shield and horn of my salvation, my supporter and my refuge of salvation; from injustice you will save me. || Ps.91.2 (81) -> Good thing to confess to Lord and sing to your name, Most High, || Isa.26.4 (79) -> they hoped, Lord, forever, great eternal God. || Ps.144.2 (57) -> Each day I will bless you and praise your name forever and forever of age.
 
 ## Proverbs 3:9
 - score: 18

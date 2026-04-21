@@ -2,7 +2,7 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 106
+Rows: 107
 Books: 38
 
 ## Genesis 24:7
@@ -388,6 +388,13 @@ Books: 38
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, lord; crossref_top_vote=72; reco=keep
 - keywords: holy, law, lord
 - fresh: Beginning of wisdom fear of Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- brenton: [missing]
+
+## Proverbs 18:10
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- keywords: lord, name, righteous
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
 - brenton: [missing]
 
 ## Ecclesiastes 6:2

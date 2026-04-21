@@ -26,14 +26,14 @@ Selected verses: 6
 - fresh: Lord will not starve righteous soul, but life of ungodly he will overthrow.
 - brenton: [missing]
 
-## Proverbs 29:23
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; crossref_top_vote=201; reco=keep
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+## Proverbs 15:29
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, righteous, righteousness; crossref_top_vote=27; reco=keep
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: [missing]
 
-## Proverbs 29:23
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; crossref_top_vote=201; reco=keep
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+## Proverbs 18:10
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
 - brenton: [missing]

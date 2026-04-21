@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 81
+Rows: 83
 Books: 34
 
 ## Exodus 28:30
@@ -325,6 +325,20 @@ Books: 34
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, righteous, soul; crossref_top_vote=20; reco=keep
 - keywords: lord, righteous, soul
 - fresh: Lord will not starve righteous soul, but life of ungodly he will overthrow.
+- brenton: [missing]
+
+## Proverbs 15:29
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, righteous, righteousness; crossref_top_vote=27; reco=keep
+- keywords: god, righteous, righteousness
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- brenton: [missing]
+
+## Proverbs 18:10
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name, righteous; crossref_top_vote=92; reco=keep
+- keywords: lord, name, righteous
+- fresh: The name of the Lord is great in strength; righteous people who run to it are exalted.
 - brenton: [missing]
 
 ## Ecclesiastes 7:20

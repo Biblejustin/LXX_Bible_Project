@@ -68420,7 +68420,7 @@ One not healing himself in his works = brother of one ruining himself.
 
 **Proverbs 18:10**
 
-From greatness of strength, name of Lord; to it righteous running are exalted.
+The name of the Lord is great in strength; righteous people who run to it are exalted.
 
 **Proverbs 18:11**
 
@@ -69674,155 +69674,71 @@ Men partakers of blood hate holy man, but upright will seek his soul.
 
 **Proverbs 29:11**
 
-Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
+A fool lets out all his anger, but a wise man keeps it back in measure.
 
 **Proverbs 29:12**
 
-For she works all good things for her husband throughout life.
+When a king listens to an unjust word, all who are under him are lawless.
 
 **Proverbs 29:13**
 
-She chewed wool and flax and made them useful with her hands.
+When lender and debtor meet one another, the Lord oversees both.
 
 **Proverbs 29:14**
 
-She became like trading ship from far away and gathers wealth for herself.
+When a king judges poor men in truth, his throne will be established as a testimony.
 
 **Proverbs 29:15**
 
-She rises from nights and gave food to house and tasks to maidservants.
+Blows and reproofs give wisdom, but a wandering child shames his parents.
 
 **Proverbs 29:16**
 
-Having looked at field, she bought it, and from fruits of her hands planted possession.
+When ungodly people are many, sins become many, but when they fall, righteous people are put in fear.
 
 **Proverbs 29:17**
 
-Girding her waist strongly, she braced her arms for work.
+Discipline your son, and he will give you rest, and he will give honor to your soul.
 
 **Proverbs 29:18**
 
-She tasted that working is good, and her lamp is not extinguished whole night.
+There will by no means be an interpreter for a lawless nation, but one keeping the law is blessed.
 
 **Proverbs 29:19**
 
-She stretches forearms to useful things, and braces her hands to spindle.
+A hard servant will not be disciplined by words; for even if he understands, still he will not obey.
 
 **Proverbs 29:20**
 
-And she opened hands to poor, and stretched out fruit to needy.
+If you see a man swift in words, know that a fool has hope rather than he does.
 
 **Proverbs 29:21**
 
-Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
+One who lives wantonly from childhood will be a servant, and in the end he will grieve over himself.
 
 **Proverbs 29:22**
 
-She made double cloaks for her husband, and garments for herself from fine linen and purple.
+An angry man digs up strife, and a wrathful man digs up sin.
 
 **Proverbs 29:23**
 
-Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
+Arrogance humbles a man, but the Lord supports the humble-minded with glory.
 
 **Proverbs 29:24**
 
-She made linens and sold them, and belts for Canaanites.
+One who shares with a thief hates his own soul; and if, when an oath has been set forth, those who heard do not report it,
 
 **Proverbs 29:25**
 
-She put on strength and dignity and rejoiced in latter days.
+fearing and being ashamed before men, they were tripped up; but one trusting in the Lord will rejoice. Ungodliness causes a man to stumble, but one who trusts in the Master will be saved.
 
 **Proverbs 29:26**
 
-Her mouth opened attentively and lawfully, and she sent order upon her tongue.
+Many attend to the faces of leaders, but from the Lord justice comes to a man.
 
 **Proverbs 29:27**
 
-Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
-
-**Proverbs 29:11**
-
-Cowardice upon her the heart of her husband trusts, and such woman will not lack good spoils.
-
-**Proverbs 29:12**
-
-For she works all good things for her husband throughout life.
-
-**Proverbs 29:13**
-
-She chewed wool and flax and made them useful with her hands.
-
-**Proverbs 29:14**
-
-She became like trading ship from far away and gathers wealth for herself.
-
-**Proverbs 29:15**
-
-She rises from nights and gave food to house and tasks to maidservants.
-
-**Proverbs 29:16**
-
-Having looked at field, she bought it, and from fruits of her hands planted possession.
-
-**Proverbs 29:17**
-
-Girding her waist strongly, she braced her arms for work.
-
-**Proverbs 29:18**
-
-She tasted that working is good, and her lamp is not extinguished whole night.
-
-**Proverbs 29:19**
-
-She stretches forearms to useful things, and braces her hands to spindle.
-
-**Proverbs 29:20**
-
-And she opened hands to poor, and stretched out fruit to needy.
-
-**Proverbs 29:21**
-
-Her husband does not worry about those in house when he delays somewhere, for all from her are clothed.
-
-**Proverbs 29:22**
-
-She made double cloaks for her husband, and garments for herself from fine linen and purple.
-
-**Proverbs 29:23**
-
-Her husband becomes conspicuous in gates whenever he sits in council with elders dwelling in land.
-
-**Proverbs 29:24**
-
-She made linens and sold them, and belts for Canaanites.
-
-**Proverbs 29:25**
-
-She put on strength and dignity and rejoiced in latter days.
-
-**Proverbs 29:26**
-
-Her mouth opened attentively and lawfully, and she sent order upon her tongue.
-
-**Proverbs 29:27**
-
-Abomination to righteous = unjust man; and to lawless man, straightening way. Who will find brave woman? Such woman more precious than precious stones.
-
-**Proverbs 29:28**
-
-Her mouth opens wisely and lawfully; her mercy raised up her children and they became rich, and her husband praised her.
-
-**Proverbs 29:29**
-
-Many daughters acquired wealth, many made strength, but you excel and have surpassed all.
-
-**Proverbs 29:30**
-
-False are charms and vain beauty of woman; for prudent woman is blessed; let her praise fear of Lord.
-
-**Proverbs 29:31**
-
-Give her from fruits of her lips, and let her husband be praised in gates.
+An unjust man is an abomination to righteous people, and a straight way is an abomination to a lawless man.
 
 ### Chapter 30
 
