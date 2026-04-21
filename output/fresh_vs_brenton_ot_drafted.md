@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 18452
-- medium: 922
-- low: 3543
+- high: 18632
+- medium: 889
+- low: 3396
 - none: 0
 
 Note:
@@ -165236,423 +165236,423 @@ Note:
 
 ### Isaiah 42:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, Lord God, this my name. My glory I will not give to another, nor my virtues to carved things.
 - brenton: [missing]
 
 ### Isaiah 42:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, former things came, and new things which I announce; before they spring up, they were made clear to you.
 - brenton: [missing]
 
 ### Isaiah 42:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sing to Lord new hymn, his beginning; glorify his name from end of earth, those going down into sea and sailing it, islands and those dwelling in them.
 - brenton: [missing]
 
 ### Isaiah 42:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice, wilderness and its villages, camps and dwellers in Kedar. Dwellers of rock will rejoice; from tops of mountains they will cry out.
 - brenton: [missing]
 
 ### Isaiah 42:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will give glory to God, and in islands announce his virtues.
 - brenton: [missing]
 
 ### Isaiah 42:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God of powers will go out and crush war, stir up zeal and shout against his enemies with strength.
 - brenton: [missing]
 
 ### Isaiah 42:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was silent; will I also always be silent and endure? I held firm. As woman giving birth I will be amazed and dry up together.
 - brenton: [missing]
 
 ### Isaiah 42:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make rivers into islands and marshes I will dry up.
 - brenton: [missing]
 
 ### Isaiah 42:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will lead blind in way they did not know and paths they did not know to tread I will make for them. I will make darkness to them into light and crooked things into straight. These words I will do and not abandon them.
 - brenton: [missing]
 
 ### Isaiah 42:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But they turned backward. Be ashamed with shame, those trusting in carved things, those saying to molten images, You are our gods.
 - brenton: [missing]
 
 ### Isaiah 42:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Deaf ones, hear; blind ones, look up to see.
 - brenton: [missing]
 
 ### Isaiah 42:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And who blind except my servants, and deaf except those ruling them? And servants of God were blinded.
 - brenton: [missing]
 
 ### Isaiah 42:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You saw many times and did not keep watch; ears were opened and you did not hear.
 - brenton: [missing]
 
 ### Isaiah 42:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord God wanted that he should be justified and magnify praise, and I saw.
 - brenton: [missing]
 
 ### Isaiah 42:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And people became plundered and pillaged, for snare in storerooms everywhere and in houses together where they hid them. They became for plunder and there was none rescuing, spoil and none saying, Give back.
 - brenton: [missing]
 
 ### Isaiah 42:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who among you will give ear to these things, will hear for things coming?
 - brenton: [missing]
 
 ### Isaiah 42:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who gave Jacob for plunder and Israel to those spoiling him? Was it not God against whom they sinned, and they did not want to walk in his ways nor hear his law?
 - brenton: [missing]
 
 ### Isaiah 42:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he brought upon them anger of his wrath and war prevailed over them, and those burning them around, each did not know nor set it on soul.
 - brenton: [missing]
 
 ### Isaiah 43:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now thus says Lord God, one making you, Jacob, one forming you, Israel: Do not fear, because I redeemed you; I called you by your name; you are mine.
 - brenton: [missing]
 
 ### Isaiah 43:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you.
 - brenton: [missing]
 
 ### Isaiah 43:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I = Lord your God, Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
 - brenton: [missing]
 
 ### Isaiah 43:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Since you became precious before me, you were glorified and I loved you, and I will give many men for you and rulers over your head.
 - brenton: [missing]
 
 ### Isaiah 43:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not fear, because I am with you. From east I will bring your seed, and from west I will gather you.
 - brenton: [missing]
 
 ### Isaiah 43:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from ends of earth,
 - brenton: [missing]
 
 ### Isaiah 43:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: all as many as are called by my name, for in my glory I prepared him and formed and made him.
 - brenton: [missing]
 
 ### Isaiah 43:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I brought out blind people, and eyes exist yet equally blind, and deaf having ears.
 - brenton: [missing]
 
 ### Isaiah 43:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All nations were gathered together, and rulers will gather. Who among them announces these things, or who from beginning will announce to you? Let them bring their witnesses and be justified and say truth.
 - brenton: [missing]
 
 ### Isaiah 43:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Become witnesses to me, and I witness, says Lord God, and servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be.
 - brenton: [missing]
 
 ### Isaiah 43:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am God, and apart from me there is no one saving.
 - brenton: [missing]
 
 ### Isaiah 43:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I announced and saved; I reproached, and there was no foreigner among you. You = my witnesses, and I = witness, says Lord God.
 - brenton: [missing]
 
 ### Isaiah 43:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Still from beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
 - brenton: [missing]
 
 ### Isaiah 43:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God, one redeeming you, Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
 - brenton: [missing]
 
 ### Isaiah 43:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I = Lord God, your Holy One, one showing Israel your king.
 - brenton: [missing]
 
 ### Isaiah 43:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord, one giving way in sea and path in strong water,
 - brenton: [missing]
 
 ### Isaiah 43:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: one bringing out chariot and horse and strong crowd. But they slept and will not rise; they were quenched as extinguished flax.
 - brenton: [missing]
 
 ### Isaiah 43:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not remember former things and do not consider ancient things.
 - brenton: [missing]
 
 ### Isaiah 43:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, I make new things which now will spring up, and you will know them, and I will make in wilderness a way and in dry land rivers.
 - brenton: [missing]
 
 ### Isaiah 43:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Beasts of field, sirens and daughters of ostriches, will bless me, because I gave water in wilderness and rivers in dry land to give drink to my chosen race,
 - brenton: [missing]
 
 ### Isaiah 43:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: my people whom I acquired to recount my virtues.
 - brenton: [missing]
 
 ### Isaiah 43:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not now did I call you, Jacob, nor did I make you weary, Israel.
 - brenton: [missing]
 
 ### Isaiah 43:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You did not bring me sheep of your burnt offerings, nor glorify me in your sacrifices, nor make me toil with frankincense.
 - brenton: [missing]
 
 ### Isaiah 43:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Nor did you buy me incense with silver, nor did I desire fat of your sacrifices, but in your sins and injustices I stood before you.
 - brenton: [missing]
 
 ### Isaiah 43:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I am, I am, one wiping out your lawlessnesses, and certainly I will not remember.
 - brenton: [missing]
 
 ### Isaiah 43:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But you remember, and let us judge together; speak you your lawlessnesses first, so that you may be justified.
 - brenton: [missing]
 
 ### Isaiah 43:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your first fathers and their rulers acted lawlessly against me.
 - brenton: [missing]
 
 ### Isaiah 43:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rulers defiled my holy things, and I gave Jacob to destruction and Israel to reproach.
 - brenton: [missing]
 
 ### Isaiah 44:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now hear, my servant Jacob, and Israel whom I chose.
 - brenton: [missing]
@@ -165668,963 +165668,963 @@ Note:
 
 ### Isaiah 44:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I will give water in thirst to those going in dry land; I will put my Spirit on your seed and my blessings on your children.
 - brenton: [missing]
 
 ### Isaiah 44:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will spring up like grass among waters, and like willows by flowing water.
 - brenton: [missing]
 
 ### Isaiah 44:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This one will say, I belong to God; and this one will cry out in name of Jacob; and another will write, I belong to God, in name of Israel.
 - brenton: [missing]
 
 ### Isaiah 44:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says God, king of Israel, one rescuing him, God Sabaoth: I first, and I after these things; besides me no god exists.
 - brenton: [missing]
 
 ### Isaiah 44:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who like me? Let him stand, call out, and prepare it before me, from time I made humankind for age; and things coming before they come, let them declare to you.
 - brenton: [missing]
 
 ### Isaiah 44:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not hide yourselves. Have you not heard from beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
 - brenton: [missing]
 
 ### Isaiah 44:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those shaping and carving all vain, making their cherished things, which will not profit them; instead they will be put to shame.
 - brenton: [missing]
 
 ### Isaiah 44:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All who shape god and carve useless things.
 - brenton: [missing]
 
 ### Isaiah 44:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all from whom they came were dried up, and mute from among men. Let them all gather and stand together; let them together be shamed and disgraced.
 - brenton: [missing]
 
 ### Isaiah 44:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For craftsman sharpened iron, worked it with axe, pierced it with drill, worked it with strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
 - brenton: [missing]
 
 ### Isaiah 44:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Carpenter with wood set it by measure and shaped it by line. He made it as form of man and as beauty of human, to set it in house.
 - brenton: [missing]
 
 ### Isaiah 44:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: One cut wood from forest, which Lord planted, and rain made grow.
 - brenton: [missing]
 
 ### Isaiah 44:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So it might be for humans as fuel; taking from it he warmed himself, and burning it they baked breads; with what remained they worked gods and worship them.
 - brenton: [missing]
 
 ### Isaiah 44:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Half of it they burned in fire, and baking breads on it, and roasting meat on it, he ate and was filled; and being warmed he said, Pleasant to me, because I am warmed and saw fire.
 - brenton: [missing]
 
 ### Isaiah 44:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But remainder he made into carved god and worships it and prays, saying, Deliver me, because you are my god.
 - brenton: [missing]
 
 ### Isaiah 44:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They did not know to understand, because they were darkened from seeing with their eyes and from perceiving with their heart.
 - brenton: [missing]
 
 ### Isaiah 44:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he did not consider in his heart, nor reckon in his soul, nor know with understanding that he burned half of it in fire and baked breads on its coals and roasted meat and ate, and its remainder he made into abomination and they worship it.
 - brenton: [missing]
 
 ### Isaiah 44:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Know that their heart = ashes; they wander, and no one can rescue his soul. See, will you not say, Lie in my right hand?
 - brenton: [missing]
 
 ### Isaiah 44:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember these things, Jacob and Israel, because you are my servant. I formed you my servant, and you, Israel, do not forget me.
 - brenton: [missing]
 
 ### Isaiah 44:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For see, I wiped away your lawless deeds like cloud and your sins like gloom. Turn to me, and I will redeem you.
 - brenton: [missing]
 
 ### Isaiah 44:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of earth. Cry out, mountains, with gladness, hills and all trees in them, because God redeemed Jacob, and in Israel will be glorified.
 - brenton: [missing]
 
 ### Isaiah 44:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord, one redeeming you and shaping you from womb: I Lord completing all, stretched out heaven alone and founded earth. Who else?
 - brenton: [missing]
 
 ### Isaiah 44:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: He scatters signs of ventriloquists and divinations from heart, turning wise men backward and making their counsel foolish,
 - brenton: [missing]
 
 ### Isaiah 44:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: confirming words of his servant and making true counsel of his messengers, saying, Jerusalem, You will be inhabited, and to cities of Judah, You will be built, and her desolate places will spring up.
 - brenton: [missing]
 
 ### Isaiah 44:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying to abyss, Be made desolate, and I will dry up your rivers.
 - brenton: [missing]
 
 ### Isaiah 44:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying Cyrus will think rightly and do all my will, saying, Jerusalem, You will be built, and my holy house, I will lay foundation.
 - brenton: [missing]
 
 ### Isaiah 45:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God to my anointed Cyrus, whose right hand I grasped, to make nations submit before him. I will tear apart strength of kings, open doors before him, and cities will not be shut.
 - brenton: [missing]
 
 ### Isaiah 45:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will go before you and level mountains; bronze doors I will crush and iron bars I will break.
 - brenton: [missing]
 
 ### Isaiah 45:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give you dark treasures, hidden unseen ones I will open for you, so you may know that I, Lord God, one calling your name, am God of Israel.
 - brenton: [missing]
 
 ### Isaiah 45:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sake of Jacob my servant and Israel my chosen, I will call you by your name and accept you; but you did not know me.
 - brenton: [missing]
 
 ### Isaiah 45:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I am Lord God, and there is no other; besides me no god, and you did not know me.
 - brenton: [missing]
 
 ### Isaiah 45:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So those from sunrise and those from west may know that none exists besides me. I am Lord God, and there is no other.
 - brenton: [missing]
 
 ### Isaiah 45:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I one preparing light and making darkness, making peace and creating evils; I am Lord God, doing all these things.
 - brenton: [missing]
 
 ### Isaiah 45:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let heaven above rejoice, and clouds rain righteousness. Let earth bring forth mercy, and let righteousness spring up together. I am Lord who created you.
 - brenton: [missing]
 
 ### Isaiah 45:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What better thing did I make than clay of potter? Will plowman plow whole earth all day? Will clay say to potter, What are you doing, since you do not work, nor have hands?
 - brenton: [missing]
 
 ### Isaiah 45:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe to one saying to father, What will you father? and to mother, What are you laboring to bear?
 - brenton: [missing]
 
 ### Isaiah 45:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord God, Holy One of Israel, one making things coming: Ask me concerning my sons and daughters, and command me concerning works of my hands.
 - brenton: [missing]
 
 ### Isaiah 45:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I made earth and humankind on it. I with my hand fixed heaven; I commanded all stars.
 - brenton: [missing]
 
 ### Isaiah 45:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says Lord Sabaoth.
 - brenton: [missing]
 
 ### Isaiah 45:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Sabaoth: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
 - brenton: [missing]
 
 ### Isaiah 45:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you are God, and we did not know it, God of Israel, savior.
 - brenton: [missing]
 
 ### Isaiah 45:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All opposing him will be shamed and disgraced, and go in shame. Renew yourselves to me, islands.
 - brenton: [missing]
 
 ### Isaiah 45:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Israel is saved by Lord with everlasting salvation; they will not be ashamed nor disgraced forever.
 - brenton: [missing]
 
 ### Isaiah 45:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord, one making heaven, this God showing earth and making it, he marked it out; not in vain he made it, but to be inhabited. I am, and there is no other.
 - brenton: [missing]
 
 ### Isaiah 45:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not in secret I have spoken, nor in dark place of earth. I did not say to seed of Jacob, Seek me in vain. I am, I am Lord, speaking righteousness and declaring truth.
 - brenton: [missing]
 
 ### Isaiah 45:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gather and come; take counsel together, you being saved from nations. They did not know, those carrying wood of their carved image and praying as to gods who do not save.
 - brenton: [missing]
 
 ### Isaiah 45:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If they declare, let them come near so they may know together. Who made these things heard from beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
 - brenton: [missing]
 
 ### Isaiah 45:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn to me and be saved, those from end of earth. I am God and there is no other.
 - brenton: [missing]
 
 ### Isaiah 45:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: By myself I swear: surely righteousness will go out from my mouth; my words will not turn back, because to me every knee will bend and every tongue confess to God.
 - brenton: [missing]
 
 ### Isaiah 45:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying, Righteousness and glory will come to him, and all separating themselves will be shamed.
 - brenton: [missing]
 
 ### Isaiah 45:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From Lord all seed of sons of Israel will be justified, and in God be glorified.
 - brenton: [missing]
 
 ### Isaiah 46:1
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bel fell, Dagon shattered. Their carved images became for animals and cattle. Carry them tied up as burden for weary one.
 - brenton: [missing]
 
 ### Isaiah 46:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for hungry and weakened one, not strong together, they will not be able to save themselves from war, but they themselves were led away captive.
 - brenton: [missing]
 
 ### Isaiah 46:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, house of Jacob, and all remnant of Israel, carried from womb and instructed from childhood.
 - brenton: [missing]
 
 ### Isaiah 46:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Until old age I am, and until you grow old I am. I bear you; I made, and I will release; I will take up and save you.
 - brenton: [missing]
 
 ### Isaiah 46:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To whom did you compare me? See. Scheme it out, you wanderers.
 - brenton: [missing]
 
 ### Isaiah 46:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those pouring gold from purse and silver in balance will set it by weight, and hiring goldsmith made handmade things, and bowing down they worship them.
 - brenton: [missing]
 
 ### Isaiah 46:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They lift it on shoulders and go. If they set it in its place, it stays; it will not move. Whoever cries to it, it will not hear; from evils it will not save him.
 - brenton: [missing]
 
 ### Isaiah 46:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remember these things and groan. Repent, you who have wandered; turn back in heart.
 - brenton: [missing]
 
 ### Isaiah 46:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remember former things from age, because I am God and there is no other besides me.
 - brenton: [missing]
 
 ### Isaiah 46:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Declaring last things beforehand before they happen, and together they were accomplished. And I said, All my counsel will stand, and all I have planned I will do.
 - brenton: [missing]
 
 ### Isaiah 46:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Calling bird from east and from far land man of my purposes. I spoke and brought it; I created and did it; I brought him and prospered his way.
 - brenton: [missing]
 
 ### Isaiah 46:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, you ruined in heart, you far from righteousness.
 - brenton: [missing]
 
 ### Isaiah 46:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I brought near my righteousness and salvation from me. I do not delay. I gave salvation in Zion to Israel for glory.
 - brenton: [missing]
 
 ### Isaiah 47:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come down. Sit on ground, virgin daughter of Babylon. Enter darkness, daughter of Chaldeans, because no longer will you be called tender and delicate.
 - brenton: [missing]
 
 ### Isaiah 47:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take millstone. Grind flour. Uncover your veil, uncover your hair, pull up your skirts, bare your legs, cross rivers.
 - brenton: [missing]
 
 ### Isaiah 47:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Your shame will be uncovered, your reproaches seen. From you I will take justice; I will no longer give you to people.
 - brenton: [missing]
 
 ### Isaiah 47:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Said your rescuer, Lord Sabaoth, Holy One of Israel his name.
 - brenton: [missing]
 
 ### Isaiah 47:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Sit pierced through. Enter darkness, daughter of Chaldeans, because no longer will you be called strength of kingdom.
 - brenton: [missing]
 
 ### Isaiah 47:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I was provoked against my people. I defiled my inheritance. I gave them into your hand, but you gave them no mercy; on old man you made yoke very heavy.
 - brenton: [missing]
 
 ### Isaiah 47:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you said, For age I will be ruler. You did not consider these things in your heart, nor remember end things.
 - brenton: [missing]
 
 ### Isaiah 47:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now hear these things, delicate one, sitting secure, saying in her heart, I am, and there is no other. I will not sit widow, nor know childlessness.
 - brenton: [missing]
 
 ### Isaiah 47:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But now these two things will come on you suddenly in one day: widowhood and childlessness. Suddenly they will come on you, in your sorcery, in great strength of your spells.
 - brenton: [missing]
 
 ### Isaiah 47:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In hope of your evil, for you said, I am, and there is no other. Know that understanding of these things and your prostitution will be shame to you, and you said in your heart, I am, and there is no other.
 - brenton: [missing]
 
 ### Isaiah 47:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And ruin will come on you, and you will not know pit, and you will fall into it. Misery will come on you, and you will not be able to become clean. Sudden ruin will come on you, and you will not know it.
 - brenton: [missing]
 
 ### Isaiah 47:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Stand now with your spells and your much sorcery, which you learned from youth, if perhaps you can be helped.
 - brenton: [missing]
 
 ### Isaiah 47:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You are wearied in your counsels. Let astrologers of heaven stand and save you, those looking at stars; let them announce to you what is coming on you.
 - brenton: [missing]
 
 ### Isaiah 47:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, all as brushwood in fire will be burned, and they will not rescue their soul from flame, because you have coals of fire to sit on them.
 - brenton: [missing]
 
 ### Isaiah 47:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Such will be your help. You labored in your trafficking from youth. Each man wandered by himself. For you there will be no salvation.
 - brenton: [missing]
 
 ### Isaiah 48:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear these things, house of Jacob, those called by name of Israel and come out of Judah, swearing by name of Lord God of Israel, remembering not with truth nor with righteousness.
 - brenton: [missing]
 
 ### Isaiah 48:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And holding fast to name of holy city and leaning on God of Israel; Lord Sabaoth his name.
 - brenton: [missing]
 
 ### Isaiah 48:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Former things I declared long ago, and from my mouth they went out and became heard. Suddenly I did them, and they came.
 - brenton: [missing]
 
 ### Isaiah 48:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I know that you are hard, your neck iron sinew, and your forehead bronze.
 - brenton: [missing]
 
 ### Isaiah 48:5
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I declared to you of old, before it came on you I made it heard to you, lest you say, My idols did them, and my carved and cast things commanded me.
 - brenton: [missing]
 
 ### Isaiah 48:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You heard all, and you did not know. But I also made new things heard to you from now, things about to happen, and you did not say it.
 - brenton: [missing]
 
 ### Isaiah 48:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Now they come to be and not long ago, and before today you did not hear them, lest you say, Yes, I know them.
 - brenton: [missing]
 
 ### Isaiah 48:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You neither knew nor understood, nor from beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
 - brenton: [missing]
 
 ### Isaiah 48:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For sake of my name I will show you my wrath, and I will bring my glorious acts on you, so I do not destroy you.
 - brenton: [missing]
 
 ### Isaiah 48:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, I sold you, not for silver, but chose you out of furnace of poverty.
 - brenton: [missing]
 
 ### Isaiah 48:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For my own sake I will do for you, because my name is profaned, and my glory I will not give to another.
 - brenton: [missing]
 
 ### Isaiah 48:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, Jacob, and Israel whom I call. I am first, and I am forever.
 - brenton: [missing]
 
 ### Isaiah 48:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My hand founded earth and my right hand fixed heaven. I will call them, and they will stand together.
 - brenton: [missing]
 
 ### Isaiah 48:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all will gather and hear. Who among them declared these things? Because I loved you, I did your will against Babylon, to remove seed of Chaldeans.
 - brenton: [missing]
 
 ### Isaiah 48:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I spoke, I called, I brought him, and I prospered his way.
 - brenton: [missing]
 
 ### Isaiah 48:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Come near to me and hear these things. Not from beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now Lord sent me and his Spirit.
 - brenton: [missing]
 
 ### Isaiah 48:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord, one rescuing you, Holy One of Israel: I am your God. I showed you to find way in which you should walk.
 - brenton: [missing]
 
 ### Isaiah 48:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: If you had heard my commandments, then your peace would have become like river and your righteousness like wave of sea.
 - brenton: [missing]
 
 ### Isaiah 48:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your seed would have become like sand, and offspring of your womb like dust of earth; nor now would you be destroyed, nor your name perish before me.
 - brenton: [missing]
 
 ### Isaiah 48:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to end of earth. Say, Lord rescued his servant Jacob.
 - brenton: [missing]
 
 ### Isaiah 48:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if they thirst, through wilderness he will lead them; he will bring out water for them from rock. Rock will be split, water will flow, and my people will drink.
 - brenton: [missing]
 
 ### Isaiah 48:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: No rejoicing for ungodly, says Lord.
 - brenton: [missing]
 
 ### Isaiah 49:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear me, islands, and pay attention, nations, after long time. Lord says, From my mother's womb he called my name.
 - brenton: [missing]
 
 ### Isaiah 49:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he made my mouth like sharp sword and hid me under shelter of his hand. He made me as chosen arrow and covered me in his quiver.
 - brenton: [missing]
 
 ### Isaiah 49:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, You are my servant, Israel, and in you I will be glorified.
 - brenton: [missing]
 
 ### Isaiah 49:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But I said, In vain I labored, and for emptiness and nothing I gave my strength. Therefore my judgment from Lord and my toil before my God.
 - brenton: [missing]
 
 ### Isaiah 49:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now thus says Lord, one shaping me from womb as servant to himself, to gather Jacob and Israel to him. I will be gathered and glorified before Lord, and my God will be my strength.
 - brenton: [missing]
 
 ### Isaiah 49:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to end of earth.
 - brenton: [missing]
@@ -166640,234 +166640,234 @@ Note:
 
 ### Isaiah 49:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: In acceptable time I heard you, and in day of salvation I helped you, and I gave you covenant of nations, to establish earth and inherit deserted inheritances.
 - brenton: [missing]
 
 ### Isaiah 49:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: saying to those in bonds, Come out, and to those in darkness, Be revealed. On all their ways they will be pastured, and on all their paths their grazing.
 - brenton: [missing]
 
 ### Isaiah 49:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will not hunger nor thirst, nor will heat strike them, nor sun, but one having mercy on them will comfort them and lead them by springs of waters.
 - brenton: [missing]
 
 ### Isaiah 49:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make every mountain into road and every path into pasture for them.
 - brenton: [missing]
 
 ### Isaiah 49:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, these come from far away; these from north, and these from sea; and others from land of Persians.
 - brenton: [missing]
 
 ### Isaiah 49:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Rejoice, heavens, and let earth exult. Let mountains break out in gladness, and hills in righteousness, because God had mercy on his people and comforted humble ones of his people.
 - brenton: [missing]
 
 ### Isaiah 49:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But Zion said, Lord abandoned me, and Lord forgot me.
 - brenton: [missing]
 
 ### Isaiah 49:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will woman forget her child, so as not to have mercy on offspring of her womb? But even if woman forgets these, I will not forget you, said Lord.
 - brenton: [missing]
 
 ### Isaiah 49:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: See, on my hands I have painted your walls, and you are always before me.
 - brenton: [missing]
 
 ### Isaiah 49:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And quickly you will be built by those by whom you were torn down, and those making you desolate will go out from you.
 - brenton: [missing]
 
 ### Isaiah 49:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lift your eyes around and see. See, all were gathered and came to you. As I live, says Lord, you will clothe yourself with them all and put them on as ornament of bride.
 - brenton: [missing]
 
 ### Isaiah 49:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because your desolate places and ruined and fallen ones will now be made too narrow from inhabitants, and those swallowing you will be far from you.
 - brenton: [missing]
 
 ### Isaiah 49:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For your sons whom you lost will say in your ears, Place too narrow for me; make room for me that I may dwell.
 - brenton: [missing]
 
 ### Isaiah 49:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say in your heart, Who bore these for me? I was childless and widow; who raised these for me? I was left alone; where were these for me?
 - brenton: [missing]
 
 ### Isaiah 49:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: See, I lift my hand to nations and raise my signal to islands, and they will bring your sons in bosom, and your daughters they will carry on shoulders.
 - brenton: [missing]
 
 ### Isaiah 49:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And kings will be your foster fathers and rulers your nurses. They will worship you with face to ground and lick dust of your feet, and you will know that I am Lord, and you will not be ashamed.
 - brenton: [missing]
 
 ### Isaiah 49:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will anyone take spoils from giant? And if someone takes captive unjustly, will he be saved?
 - brenton: [missing]
 
 ### Isaiah 49:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: If anyone takes captive giant, he will take spoils; but one taking from strong man will be saved. I will judge your judgment, and I will rescue your sons.
 - brenton: [missing]
 
 ### Isaiah 49:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those afflicting you will eat their own flesh and drink their own blood like new wine and be drunk. And all flesh will know that I am Lord, one rescuing you and upholding strength of Jacob.
 - brenton: [missing]
 
 ### Isaiah 50:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: What book of divorce of your mother, with which I sent her away? Or to which creditor did I sell you? See, by your sins you were sold, and by your lawless deeds I sent away your mother.
 - brenton: [missing]
 
 ### Isaiah 50:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Why, because I came and no man was there? I called and no one obeyed. Is my hand not strong to rescue, or am I not strong to deliver? See, by my threat I will desolate sea and make rivers dry; their fish will dry up from lack of water and die in thirst.
 - brenton: [missing]
 
 ### Isaiah 50:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will clothe heaven with darkness and make sackcloth its covering.
 - brenton: [missing]
 
 ### Isaiah 50:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord gives me tongue of instruction, to know when it is necessary to speak word. He set it in morning; he added to me ear to hear.
 - brenton: [missing]
 
 ### Isaiah 50:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And discipline of Lord opens my ears, and I do not disobey nor speak against.
 - brenton: [missing]
 
 ### Isaiah 50:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I gave my back to whips and my cheeks to slaps. My face I did not turn away from shame of spit.
 - brenton: [missing]
 
 ### Isaiah 50:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord became my helper. Therefore I was not ashamed, but set my face as solid rock and knew I will not be shamed.
 - brenton: [missing]
