@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 8784
-- medium: 2886
-- low: 11092
+- high: 8844
+- medium: 2872
+- low: 11046
 - none: 155
 
 Note:
@@ -1608,9 +1608,9 @@ Note:
 
 ### Genesis 7:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the flood came forty days and forty nights upon the earth, and the water multiplied and lifted the ark, and it was raised from the earth.
 - brenton: And the flood was upon the earth forty days and forty nights, and the water abounded greatly and bore up the ark, and it was lifted on high from off the earth.
@@ -1968,9 +1968,9 @@ Note:
 
 ### Genesis 9:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will establish my covenant with you, and all flesh shall not die any longer from the water of the flood, and there shall no longer be a flood of water to destroy all the earth.
 - brenton: And I will establish my covenant with you and all flesh shall not any more die by the water of the flood, and there shall no more be a flood of water to destroy all the earth.
@@ -2958,9 +2958,9 @@ Note:
 
 ### Genesis 13:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Abram said to Lot, Let there not be a conflict between me and you and between my shepherds and your shepherds, because we are human brothers.
 - brenton: And Abram said to Lot, Let there not be a strife between me and thee, and between my herdmen and thy herdmen, for we are brethren.
@@ -3876,9 +3876,9 @@ Note:
 
 ### Genesis 18:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Let water be taken, and let them wash your feet, and cool yourselves under the tree.
 - brenton: Let water now be brought, and let them wash your feet, and do ye refresh yourselves under the tree.
@@ -6135,9 +6135,9 @@ Note:
 
 ### Genesis 25:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Isaac was praying to the Lord concerning Rebekah his wife, because she was barren. And God heard him, and Rebekah his wife conceived in her womb.
 - brenton: And Isaac prayed the Lord concerning Rebecca his wife, because she was barren; and the Lord heard him, and his wife Rebecca conceived in her womb.
@@ -8394,9 +8394,9 @@ Note:
 
 ### Genesis 32:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he charged them, saying, Thus you will say to my lord Esau, Thus says your servant Jacob: I sojourned with Laban and lingered until now,
 - brenton: And Jacob sent messengers before him to Esau his brother to the land of Seir, to the country of Edom.
@@ -9141,9 +9141,9 @@ Note:
 
 ### Genesis 35:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and rising, let us go up to Bethel and let us make there an altar to the God who heard me in the day of distress, who was with me and preserved me on the road on which I traveled.
 - brenton: And let us rise and go up to Bæthel, and let us there make an altar to God who hearkened to me in the day of calamity, who was with me, and preserved me throughout in the journey, by which I went.
@@ -10914,9 +10914,9 @@ Note:
 
 ### Genesis 41:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Pharaoh spoke to Joseph, saying, In my dream I thought I was standing by the bank of the river.
 - brenton: And Pharao spoke to Joseph, saying, In my dream methought I stood by the bank of the river;
@@ -11886,9 +11886,9 @@ Note:
 
 ### Genesis 43:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Joseph was troubled, for his inward parts turned upon his brother, and he sought to weep. And going into the chamber, he wept there.
 - brenton: And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he went into his chamber, and wept there.
@@ -12120,9 +12120,9 @@ Note:
 
 ### Genesis 44:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we said to our lord, The child will not be able to leave his father, and if he leaves his father, he will die.
 - brenton: And we said to my lord, The child will not be able to leave his father; but if he should leave his father, he will die.
@@ -16181,9 +16181,9 @@ Note:
 
 ### Exodus 10:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the Lord hardened Pharaoh's heart, and he did not send away the sons of Israel.
 - brenton: And the Lord hardened the heart of Pharao, and he did not send away the children of Israel.
@@ -17576,9 +17576,9 @@ Note:
 
 ### Exodus 16:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: "And it shall be on the sixth day that they will prepare what they bring in, and it will be double what they gather, day by day."
 - brenton: And it shall come to pass on the sixth day that they shall prepare whatsoever they have brought in, and it shall be double of what they shall have gathered for the day, daily.
@@ -20132,9 +20132,9 @@ Note:
 
 ### Exodus 26:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: The length of one curtain shall be twenty-eight cubits, and the breadth of one curtain four cubits. One measure shall belong to all the curtains.
 - brenton: The length of one curtain shall be eight and twenty cubits, and one curtain shall be the breadth of four cubits: there shall be the same measure to all the curtains.
@@ -21302,9 +21302,9 @@ Note:
 
 ### Exodus 29:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Seven days you shall purify the altar and sanctify it, and the altar shall be most holy. Everyone touching the altar shall be sanctified.
 - brenton: Seven days shalt thou purify the altar and sanctify it; and the altar shall be most holy, every one that touches the altar shall be hallowed.
@@ -22904,9 +22904,9 @@ Note:
 
 ### Exodus 35:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And every woman wise in mind spun with her hands and brought what was spun: the blue and the purple and the scarlet and the fine linen.
 - brenton: And every woman skilled in her heart to spin with her hands, brought spun articles, the blue, and purple, and scarlet and fine linen.
@@ -24589,9 +24589,9 @@ Note:
 
 ### Leviticus 3:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And from the sacrifice of salvation they shall bring an offering to the Lord: the fat that covers the belly and all the fat that is on the belly,
 - brenton: And they shall bring of the peace-offering a burnt-sacrifice to the Lord, the fat covering the belly, and all the fat on the belly.
@@ -26164,9 +26164,9 @@ Note:
 
 ### Leviticus 9:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And to the elders of Israel speak, saying, Take one he-goat from the goats for sin, and a calf and a year-old lamb, both without blemish, for whole burnt offering,
 - brenton: And speak to the elders of Israel, saying, Take one kid of the goats for a sin-offering, and a young calf, and a lamb of a year old for a whole-burnt-offering, spotless,
@@ -27532,9 +27532,9 @@ Note:
 
 ### Leviticus 13:56
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But if the priest inspects and the mark is dim after it has been washed, he shall tear it out of the garment or out of the leather or out of the warp or out of the woof.
 - brenton: And if the priest should look, and the spot be dark after it has been washed, he shall tear it off from the garment, either from the warp or from the woof, or from the skin.
@@ -28747,9 +28747,9 @@ Note:
 
 ### Leviticus 17:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you shall say to them, Any man of the sons of Israel or of the newcomer sons dwelling among you who makes a whole burnt offering or sacrifice,
 - brenton: And thou shalt say to them, Whatever man of the children of Israel, or of the sons of the proselytes abiding among you, shall offer a whole-burnt-offering or a sacrifice,
@@ -30754,9 +30754,9 @@ Note:
 
 ### Leviticus 24:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: fracture for fracture, eye for eye, tooth for tooth. According as he gave a blemish to a person, so shall it be given to him.
 - brenton: bruise for bruise, eye for eye, tooth for tooth: as any one may inflict a blemish on a man, so shall it be rendered to him.
@@ -32385,9 +32385,9 @@ Note:
 
 ### Numbers 1:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those counted from the tribe of Naphtali: fifty-three thousand four hundred.
 - brenton: the numbering of them of the tribe of Nephthali, was fifty-three thousand and four hundred.
@@ -33564,9 +33564,9 @@ Note:
 
 ### Numbers 4:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from twenty-five years old and upward to fifty years old, every one entering to minister and to work in the tent of testimony.
 - brenton: from five and twenty years old and upwards to the age of fifty years, every one that goes in to minister and do service in the tabernacle of witness.
@@ -33600,9 +33600,9 @@ Note:
 
 ### Numbers 4:39
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: from twenty-five years old and upward to fifty years old, every one entering to minister and to do the works in the tent of testimony.
 - brenton: from five and twenty years old and upward till fifty years old, every one that goes in to minister and to do the services in the tabernacle of witness.
@@ -35607,9 +35607,9 @@ Note:
 
 ### Numbers 10:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the order of the camp of Reuben set out with their strength, and over their strength was Elizur son of Shedeur.
 - brenton: And the order of the camp of Ruben set forward with their host; and over their host was Elisur the son of Sediur.
@@ -37614,9 +37614,9 @@ Note:
 
 ### Numbers 16:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fire went out from the Lord and devoured the two hundred fifty men offering the incense.
 - brenton: And fire went forth from the Lord, and devoured the two hundred and fifty men that offered incense.
@@ -38307,9 +38307,9 @@ Note:
 
 ### Numbers 19:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And for the unclean they shall take from the ashes of the burnt purification and pour living water upon it into a vessel.
 - brenton: And they shall take for the unclean of the burnt ashes of purification, and they shall pour upon them running water into a vessel.
@@ -39279,9 +39279,9 @@ Note:
 
 ### Numbers 22:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Balaam went with Balak, and they came to the cities of the settlements.
 - brenton: And Balaam went with Balac, and they came to the cities of streets.
@@ -39459,9 +39459,9 @@ Note:
 
 ### Numbers 23:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And taking up his oracle, he said: Rise, Balak, and hear. Give ear, witness, son of Zippor.
 - brenton: And he took up his parable, and said, Rise up, Balac, and hear; hearken as a witness, thou son of Sepphor.
@@ -44402,9 +44402,9 @@ Note:
 
 ### Deuteronomy 3:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And we took at that time the land from the hands of the two kings of the Amorites who were beyond the Jordan, from the torrent Arnon as far as Aermon.
 - brenton: And we took at that time the land out of the hands of the two kings of the Amorites, who were beyond Jordan, extending from the brook of Arnon even unto Aermon.
@@ -44906,9 +44906,9 @@ Note:
 
 ### Deuteronomy 4:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that you might know that the Lord your God, this one is God, and there is no other besides him.
 - brenton: So that thou shouldest know that the Lord thy God he is God, and there is none beside him.
@@ -45518,9 +45518,9 @@ Note:
 
 ### Deuteronomy 6:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then you shall say to your son, We were household servants to Pharaoh in the land of Egypt, and the Lord brought us out from there with mighty hand and high arm.
 - brenton: Then shalt thou say to thy son, We were slaves to Pharao in the land of Egypt, and the Lord brought us forth thence with a mighty hand, and with a high arm.
@@ -48668,9 +48668,9 @@ Note:
 
 ### Deuteronomy 21:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if, going out to war against your enemies, the Lord your God gives them into your hands, and you plunder their spoil,
 - brenton: And if when thou goest out to war against thine enemies, the Lord thy God should deliver them into thine hands, and thou shouldest take their spoil,
@@ -49856,9 +49856,9 @@ Note:
 
 ### Deuteronomy 27:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it shall be, when you cross the Jordan, you shall set up these stones that I command you today on Mount Gaibal, and you shall whitewash them with lime.
 - brenton: And it shall be as soon as ye are gone over Jordan, ye shall set up these stones, which I command thee this day, on mount Gæbal, and thou shalt plaster them with plaster.
@@ -50180,9 +50180,9 @@ Note:
 
 ### Deuteronomy 28:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and do not transgress any of the words that I command you today, right or left, going after other gods to serve them.
 - brenton: Thou shalt not turn aside from any of the commandments, which I charge thee this day, to the right hand or to the left, to go after other gods to serve them.
@@ -51386,9 +51386,9 @@ Note:
 
 ### Deuteronomy 32:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pay attention, O heaven, and I will speak, and let the earth hear words from my mouth.
 - brenton: Attend, O heaven, and I will speak; and let the earth hear the words out of my mouth.
@@ -51980,9 +51980,9 @@ Note:
 
 ### Deuteronomy 33:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and from the peak of ancient mountains and from the peak of everlasting hills,
 - brenton: from the top of the ancient mountains, and from the top of the everlasting hills,
@@ -56302,9 +56302,9 @@ Note:
 
 ### Joshua 18:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and Karapha and Kephira and Moni and Gabaa, twelve cities and their villages.
 - brenton: and Carapha, and Cephira, and Moni, and Gabaa, twelve cities and their villages:
@@ -60795,9 +60795,9 @@ Note:
 
 ### Judges 10:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they crushed and oppressed the sons of Israel in that year, eighteen years, all the sons of Israel beyond the Jordan in the land of the Amorite in Gileaditis.
 - brenton: And they afflicted and bruised the children of Israel at that time eighteen years, all the children of Israel beyond Jordan in the land of the Amorite in Galaad.
@@ -62793,9 +62793,9 @@ Note:
 
 ### Judges 19:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And lifting up his eyes, he saw the traveling man in the square of the city, and the old man said, Where are you going and from where do you come?
 - brenton: And he lifted up his eyes, and saw a traveller in the street of the city; and the old man said to him, Whither goest thou, and whence comest thou?
@@ -77397,9 +77397,9 @@ Note:
 
 ### 2 Samuel 24:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ioab gave the number of the counting of the people to the king, and Israel became eight hundred thousand men of strength drawing sword, and the men of Iouda five hundred thousand fighting men.
 - brenton: And Joab gave in the number of the census of the people to the king: and Israel consisted of eight hundred thousand men of might that drew sword; and the men of Juda, five hundred thousand fighting men.
@@ -78416,9 +78416,9 @@ Note:
 
 ### 1 Kings 2:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the king said to Semei, You know all your evil, which your heart knew, what you did to David my father, and the Lord has returned your evil upon your head.
 - brenton: And the king said to Semei, Thou knowest all thy mischief which thy heart knows, which thou didst to David my father: and the Lord has recompensed thy mischief on thine own head.
@@ -80666,9 +80666,9 @@ Note:
 
 ### 1 Kings 10:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And King Solomon gave to the queen of Saba all that she desired, whatever she asked, besides all that he had given her by the hand of King Solomon. And she turned and went to her land, she and all her servants.
 - brenton: And king Solomon gave to the queen of Saba all that she desired, whatsoever she asked, besides all that he had given her by the hand of king Solomon: and she returned, and came into her own land, she and her servants.
@@ -84095,9 +84095,9 @@ Note:
 
 ### 1 Kings 22:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, I will go out and be a lying spirit in the mouth of all his prophets. And he said, You will deceive and indeed you will prevail. Go out and do so.
 - brenton: And the Lord said to him, Whereby? And he said, I will go forth, and will be a false spirit in the mouth of all his prophets. And he said, Thou shalt deceive him, yea, and shalt prevail: go forth, and do so.
@@ -84185,9 +84185,9 @@ Note:
 
 ### 1 Kings 22:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it came to be when the rulers of the chariots saw Iosaphat king of Iouda, they said, This one appears to be the king of Israel, and they surrounded him to fight, and Iosaphat cried out.
 - brenton: And it came to pass, when the captains of the chariots saw Josaphat king of Juda, that they said, This seems to be the king of Israel. And they compassed him about to fight against him; and Josaphat cried out.
@@ -85681,9 +85681,9 @@ Note:
 
 ### 2 Kings 6:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he said, Lift it up for yourself. And he stretched out his hand and took it.
 - brenton: And he said, Take it up to thyself. And he stretched out his hand, and took it.
@@ -86320,9 +86320,9 @@ Note:
 
 ### 2 Kings 8:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In the twelfth year of Joram son of Achaab king of Israel, Ochozias son of Joram became king.
 - brenton: In the twelfth year of Joram son of Achaab king of Israel, Ochozias son of Joram began to reign.
@@ -87130,9 +87130,9 @@ Note:
 
 ### 2 Kings 11:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Gotholia heard the sound of the runners of the people and entered to the people in the house of the Lord.
 - brenton: And Gotholia heard the sound of the people running, and she went in to the people to the house of the Lord.
@@ -90840,9 +90840,9 @@ Note:
 
 ### 1 Chronicles 1:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Kainan, Maleleel, Iared,
 - brenton: and Cainan, Maleleel, Jared,
@@ -91290,9 +91290,9 @@ Note:
 
 ### 1 Chronicles 2:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Aram begot Aminadab, and Aminadab begot Naasson, ruler of the house of Iouda.
 - brenton: And Aram begot Aminadab, and Aminadab begot Naasson, chief of the house of Juda.
@@ -94008,9 +94008,9 @@ Note:
 
 ### 1 Chronicles 9:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in Jerusalem dwelt from sons of Judah and from sons of Beniamin and from sons of Ephraim and Manassē,
 - brenton: And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin, and of the children of Ephraim, and Manasse.
@@ -95970,9 +95970,9 @@ Note:
 
 ### 1 Chronicles 16:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Remembering forever his covenant, his word which he commanded for thousand generations,
 - brenton: Let us remember his covenant for ever, his word which he commanded to a thousand generations,
@@ -96132,9 +96132,9 @@ Note:
 
 ### 1 Chronicles 16:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Give thanks to Lord, because he is good, because his mercy is forever.
 - brenton: Give thanks to the Lord, for it is good, for his mercy is for ever.
@@ -96582,9 +96582,9 @@ Note:
 
 ### 1 Chronicles 18:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Dauid reigned over all Israel, and he was doing judgment and righteousness for all his people.
 - brenton: So David reigned over all Israel; and he executed judgment and justice to all his people.
@@ -98562,9 +98562,9 @@ Note:
 
 ### 1 Chronicles 27:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Twelfth for twelfth month, Choldai the Netouphathi for Gothoniēl, and over his division twenty-four thousand.
 - brenton: The twelfth for the twelfth month was Choldia the Netophathite, belonging to Gothoniel: and in his division were twenty and four thousand.
@@ -102785,9 +102785,9 @@ Note:
 
 ### 2 Chronicles 20:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and said, Lord God of our fathers, are you not God in heaven, and do you not rule over all kingdoms of nations? And in your hand are strength and power, and none can stand against you.
 - brenton: And he said, O Lord God of my fathers, art not thou God in heaven above, and art not thou Lord of all the kingdoms of the nations? and is there not in thy hand the might of dominion, and there is no one who can resist thee?
@@ -103982,9 +103982,9 @@ Note:
 
 ### 2 Chronicles 25:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Iouda was routed before Israel, and each fled to his tent.
 - brenton: And Juda was put to flight before Israel, and they fled every man to his tent.
@@ -105881,9 +105881,9 @@ Note:
 
 ### 2 Chronicles 34:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And bones of priests he burned upon altars, and he cleansed Iouda and Ierousalem.
 - brenton: And he burnt the bones of the priests upon the altars, and purged Juda and Jerusalem.
@@ -106702,9 +106702,9 @@ Note:
 
 ### Ezra 2:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Those who came with Zorobabel were Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum, and Baana. Number of men of people of Israel:
 - brenton: who came with Zorobabel: Jesus, Neemias, Saraias, Reelias, Mardochæus, Balasan, Masphar, Baguai, Reum, Baana. The number of the people of Israel:
@@ -107269,9 +107269,9 @@ Note:
 
 ### Ezra 2:65
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: besides their male slaves and female slaves; these were seven thousand three hundred thirty-seven, and they had two hundred singers and singing women.
 - brenton: besides their men-servants and maid-servants, and these were seven thousand three hundred and thirty-seven: and among these were two hundred singing men and singing women.
@@ -109575,9 +109575,9 @@ Note:
 
 ### Nehemiah 3:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after him the priests, men of Achechar, repaired.
 - brenton: And after him repaired the priests, the men of Ecchechar.
