@@ -170,6 +170,18 @@ def add_note(existing: str, note: str) -> str:
     return f"{existing}; {note}"
 
 
+def has_manual_resolution(row: dict[str, str]) -> bool:
+    notes = (row.get("reviewer_notes") or "").lower()
+    return "manual_review" in notes or "manual_logos_export" in notes
+
+
+def effective_consensus(row: dict[str, str], computed_consensus: str) -> tuple[str, str]:
+    existing = (row.get("consensus_recommendation") or "").strip()
+    if existing and computed_consensus and existing != computed_consensus and has_manual_resolution(row):
+        return existing, f"auto_alignment={computed_consensus}; manual_resolution={existing}"
+    return computed_consensus, ""
+
+
 def should_refresh_auto_imported(row: dict[str, str], overwrite: bool) -> bool:
     if overwrite:
         return True
@@ -243,7 +255,8 @@ def main() -> None:
                 review_row[f"{prefix}_{label}_combo"] = f"{values['combo']:.3f}"
                 review_row[f"{prefix}_{label}_recall"] = f"{values['recall']:.3f}"
 
-        new_consensus = consensus_for_row(row)
+        computed_consensus = consensus_for_row(row)
+        new_consensus, override_note = effective_consensus(row, computed_consensus)
         if new_consensus:
             consensus_counter[new_consensus] += 1
             if refresh_auto_import or not (row.get("consensus_recommendation") or "").strip():
@@ -253,6 +266,7 @@ def main() -> None:
             row["consensus_recommendation"] = ""
             changed = True
         review_row["consensus_recommendation"] = new_consensus
+        review_row["alignment_override_note"] = override_note
 
         if changed:
             row["reviewer_notes"] = add_note(row.get("reviewer_notes", ""), "auto_import=logos_reading_list_export")
@@ -280,6 +294,7 @@ def main() -> None:
         "les_agrees_mt_combo",
         "les_agrees_fresh_recall",
         "consensus_recommendation",
+        "alignment_override_note",
     ]
     write_rows(ALIGNMENT_REVIEW_CSV, review_rows, review_fieldnames)
 
