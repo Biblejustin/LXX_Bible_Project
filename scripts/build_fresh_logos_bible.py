@@ -1296,10 +1296,6 @@ def load_brenton_supplemental_notes(
     verses: list[Verse],
 ) -> tuple[dict[str, list[SupplementalNote]], dict[str, object]]:
     verse_refs = {verse.ref for verse in verses}
-    verse_refs_by_tsk_key: dict[tuple[str, int, int], list[str]] = defaultdict(list)
-    for verse in verses:
-        verse_refs_by_tsk_key[verse.tsk_key].append(verse.ref)
-
     grouped: dict[str, list[SupplementalNote]] = defaultdict(list)
     counts: Counter[str] = Counter()
     seen: set[tuple[str, str]] = set()
@@ -1318,29 +1314,13 @@ def load_brenton_supplemental_notes(
                 counts=counts,
             )
 
-    _tsk_crossrefs, tsk_notes, tsk_diag = parse_tsk_module()
-    counts["tsk_note_source_refs"] = len(tsk_notes)
-    for tsk_key, note_items in tsk_notes.items():
-        target_refs = verse_refs_by_tsk_key.get(tsk_key, [])
-        if not target_refs:
-            counts["tsk_study_note_skipped_missing_ref"] += len(note_items)
-            continue
-        for ref in target_refs:
-            for note_item in note_items:
-                add_supplemental_note(
-                    grouped,
-                    ref=ref,
-                    text_value=f"TSK study note: {note_item}",
-                    source="tsk_study_note",
-                    verse_refs=verse_refs,
-                    seen=seen,
-                    counts=counts,
-                )
-
     return dict(grouped), {
         **dict(counts),
         "brenton_usfm": brenton_diag,
-        "tsk": tsk_diag,
+        "tsk_study_notes": {
+            "enabled": False,
+            "reason": "Excluded from supplemental footnotes; TSK remains enabled for cross-references.",
+        },
         "included_refs": len(grouped),
         "included_total": sum(len(items) for items in grouped.values()),
     }
@@ -1540,7 +1520,7 @@ def add_title_page(
         "Includes book preface pages before each book's chapter text.",
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
         "Includes name-meaning notes at first exact occurrence per chapter.",
-        "Includes supplemental Brenton-package notes: Brenton footnotes and TSK study notes.",
+        "Includes supplemental Brenton USFM footnotes.",
         "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately.",
         f"Regular footnote numbering restarts by {footnote_number_restart}. Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility.",
     ]
@@ -1767,7 +1747,7 @@ def build_preview(
             crossref_count = sum(len(item.refs) for item in refs.get(verse.ref, []))
             lines.append(f"**{verse.ref}** {verse.text}")
             lines.append(f"- Translation/textual notes: {note_count}")
-            lines.append(f"- Supplemental study/textual links: {supplemental_count}")
+            lines.append(f"- Supplemental notes/links: {supplemental_count}")
             lines.append(f"- Cross-references: {crossref_count}")
             lines.append("")
     path.write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
@@ -1820,7 +1800,7 @@ Scope:
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Notes that explicitly mention Masoretic/MT/Hebrew-aligned textual divergence are labeled `MT/LXX note` in the footnotes.
 - Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
-- Supplemental Brenton-package notes: Brenton USFM footnotes and TSK study-note text. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are not duplicated here because they are already integrated as name-meaning notes.
+- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes.
 - Lexham Textual Notes links: generated from `{lexham_textual_notes_html}` when present. Links use `logosres:{LEXHAM_TEXTUAL_NOTES_RESOURCE_ID};ref=Bible.<ref.ly-code>` and require a Logos license for `The Lexham Textual Notes on the Bible`.
 - Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
 - Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
