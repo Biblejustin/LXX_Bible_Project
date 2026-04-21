@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 20792
-- medium: 414
-- low: 1711
+- high: 20972
+- medium: 377
+- low: 1568
 - none: 0
 
 Note:
@@ -186455,153 +186455,153 @@ Note:
 
 ### Ezekiel 20:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I acted so that my name might not at all be profaned before nations from whom I brought them out before their eyes.
 - brenton: [missing]
 
 ### Ezekiel 20:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I lifted my hand against them in wilderness, to scatter them among nations and disperse them in lands,
 - brenton: [missing]
 
 ### Ezekiel 20:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because they did not do my judgments and rejected my ordinances and profaned my Sabbaths, and their eyes were after thoughts of their fathers.
 - brenton: [missing]
 
 ### Ezekiel 20:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I also gave them ordinances not good and judgments in which they will not live.
 - brenton: [missing]
 
 ### Ezekiel 20:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I defiled them in their gifts, in my causing every opener of womb to pass through, so that I might destroy them.
 - brenton: [missing]
 
 ### Ezekiel 20:27
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore speak to house of Israel, son of man, and say to them, Thus says Lord: Up to this point your fathers provoked me in their trespasses by which they trespassed against me.
 - brenton: [missing]
 
 ### Ezekiel 20:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I brought them into land about which I lifted my hand to give it to them, and they saw every high hill and every shady tree and there they sacrificed to their gods and set there fragrant smell and poured out there their drink offerings.
 - brenton: [missing]
 
 ### Ezekiel 20:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to them, What is Abama, that you enter there? And its name was called Abama until this day.
 - brenton: [missing]
 
 ### Ezekiel 20:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore say to house of Israel, Thus says Lord: Are you defiling yourselves in lawless deeds of your fathers, and after their abominations are you whoring?
 - brenton: [missing]
 
 ### Ezekiel 20:31
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in firstfruits of your gifts, in your separations, you are defiling yourselves in all your thoughts until this day, and shall I answer you, house of Israel? As I live, says Lord, I will not answer you, and this that rises on your spirit.
 - brenton: [missing]
 
 ### Ezekiel 20:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will not be in way that you say, We will be like nations and like tribes of earth, serving wood and stone.
 - brenton: [missing]
 
 ### Ezekiel 20:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore as I live, says Lord, with strong hand and uplifted arm and wrath poured out I will reign over you.
 - brenton: [missing]
 
 ### Ezekiel 20:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring you out from peoples and welcome you from lands where you were scattered, with strong hand and uplifted arm and wrath poured out.
 - brenton: [missing]
 
 ### Ezekiel 20:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring you into wilderness of peoples and judge with you there face to face.
 - brenton: [missing]
 
 ### Ezekiel 20:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As I judged with your fathers in wilderness of land of Egypt, so I will judge you, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 20:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will bring you under my rod and bring you in by number.
 - brenton: [missing]
 
 ### Ezekiel 20:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will pick out from you impious ones and rebels, because I will bring them out from their sojourning, but into land of Israel they will not enter, and you will know that I am Lord.
 - brenton: [missing]
@@ -186617,1467 +186617,1467 @@ Note:
 
 ### Ezekiel 20:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because on my holy mountain, on high mountain, says Lord God, there all house of Israel, to the end, will serve me, and there I will receive them, and there I will visit your firstfruits and firstfruits of your separations in all your holy things.
 - brenton: [missing]
 
 ### Ezekiel 20:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before eyes of nations.
 - brenton: [missing]
 
 ### Ezekiel 20:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am Lord when I bring you into land of Israel, into land concerning which I lifted my hand to give it to your fathers.
 - brenton: [missing]
 
 ### Ezekiel 20:43
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there you will remember your ways and your practices by which you were defiled in them, and you will strike your faces over all your evils.
 - brenton: [missing]
 
 ### Ezekiel 20:44
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am Lord when I act thus with you, so that my name may not be profaned, not according to your evil ways and not according to your corrupt practices, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 21:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 21:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, set your face toward Teman and look toward Darom and prophesy against leading forest of Negeb.
 - brenton: [missing]
 
 ### Ezekiel 21:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And say to forest of Negeb, Hear word of Lord. Thus says Lord God: Behold, I kindle fire in you, and it will devour in you every green tree and every dry tree. Flame kindled will not be quenched, and every face from south to north will be burned in it.
 - brenton: [missing]
 
 ### Ezekiel 21:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all flesh will know that I, Lord, kindled it, and it will not be quenched.
 - brenton: [missing]
 
 ### Ezekiel 21:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Not so, Lord, Lord. They say to me, Is not this thing spoken a parable?
 - brenton: [missing]
 
 ### Ezekiel 21:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 21:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy, son of man, and set your face toward Jerusalem and look toward their holy places, and you will prophesy against land of Israel.
 - brenton: [missing]
 
 ### Ezekiel 21:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will say to land of Israel, Behold, I am against you and will draw my dagger from its sheath and destroy from you righteous and lawless.
 - brenton: [missing]
 
 ### Ezekiel 21:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because I will destroy from you righteous and lawless, so my dagger will go out from its sheath against all flesh from south to north.
 - brenton: [missing]
 
 ### Ezekiel 21:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all flesh will know that I, Lord, drew my dagger from its sheath, and it will not return again.
 - brenton: [missing]
 
 ### Ezekiel 21:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, groan with breaking of your loins, and with pains you will groan before their eyes.
 - brenton: [missing]
 
 ### Ezekiel 21:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, if they say to you, Because of what do you groan? then you will say, Because of report, for it comes, and every heart will be broken and all hands paralyzed, and all flesh will faint and every spirit, and all thighs will be defiled with wetness. Behold, it comes and will happen, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 21:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 21:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, prophesy and say, Thus says Lord. Say, Sword, sword, be sharpened and be enraged.
 - brenton: [missing]
 
 ### Ezekiel 21:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that you may slaughter victims, be sharpened; so that it may be ready for gleaming, ready for paralysis. Slaughter. Despise; push away every tree.
 - brenton: [missing]
 
 ### Ezekiel 21:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he gave it ready for his hand to seize. Sword has been honed; it is ready to be given into hand of one striking through.
 - brenton: [missing]
 
 ### Ezekiel 21:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Cry out and howl, son of man, because it came upon my people, upon all leaders of Israel. They will sojourn under sword; it came upon my people. Therefore clap upon your hand.
 - brenton: [missing]
 
 ### Ezekiel 21:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because it has been justified. And what if tribe is rejected? It will not be, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 21:19
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, prophesy and strike hand to hand and double sword, a third sword. It is sword of slain, the great sword of the slain, and it will throw them into panic.
 - brenton: [missing]
 
 ### Ezekiel 21:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that heart may be crushed and weak ones multiplied, at all their gates they are handed over to slaughter of sword. Well made for slaughter, well made for gleaming.
 - brenton: [missing]
 
 ### Ezekiel 21:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Pass through. Be sharpened to right and to left, wherever your face is raised.
 - brenton: [missing]
 
 ### Ezekiel 21:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I too will clap my hand to my hand and let my wrath rest. I, Lord, have spoken.
 - brenton: [missing]
 
 ### Ezekiel 21:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 21:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, appoint for yourself two ways for sword of king of Babylon to enter. From one land both will come out, and hand at beginning of road, at beginning of city’s road.
 - brenton: [missing]
 
 ### Ezekiel 21:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: You will set road for sword to enter upon Rabbath of sons of Ammon and upon Judea and upon Jerusalem in her midst.
 - brenton: [missing]
 
 ### Ezekiel 21:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because king of Babylon will stand on old road, at beginning of two roads, to divine divination, to shake rod, and inquire by carved things and inspect liver. On his right
 - brenton: [missing]
 
 ### Ezekiel 21:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: the oracle came to Jerusalem, to cast up trench, to open mouth with shout, to raise voice with cry, to cast up trench against her gates and heap up earth and build missile-stations.
 - brenton: [missing]
 
 ### Ezekiel 21:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will be to them like one divining divination before them, and he himself reminding them of his injustices, to be remembered.
 - brenton: [missing]
 
 ### Ezekiel 21:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Because you brought your injustices to remembrance, when your impieties were uncovered, so that your sins were seen in all your impieties and in your practices, because you were remembered in these things, in them you will be captured.
 - brenton: [missing]
 
 ### Ezekiel 21:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, profane lawless leader of Israel, whose day has come in time of injustice of the end,
 - brenton: [missing]
 
 ### Ezekiel 21:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: thus says Lord: Remove turban and take off crown. This will not stay this way. You humbled high thing and exalted low thing.
 - brenton: [missing]
 
 ### Ezekiel 21:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Injustice, injustice, I will make it. Even this will not be until one comes whose right it is, and I will give it to him.
 - brenton: [missing]
 
 ### Ezekiel 21:33
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, prophesy and say, Thus says Lord concerning sons of Ammon and concerning their reproach. And you will say, Sword, sword, drawn for slaughter and drawn for complete destruction. Rise up so that you may flash,
 - brenton: [missing]
 
 ### Ezekiel 21:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: while in your vain vision and your false divination, to hand you over on necks of slain lawless ones whose day has come in time of injustice of the end.
 - brenton: [missing]
 
 ### Ezekiel 21:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Turn back. Do not camp here. In place where you were born, in your own land, I will judge you.
 - brenton: [missing]
 
 ### Ezekiel 21:36
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will pour out my anger upon you; in fire of my wrath I will blow upon you and hand you over into hands of barbarous men, crafting destruction.
 - brenton: [missing]
 
 ### Ezekiel 21:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In fire you will be food for devouring; your blood will be in midst of your land. There will be no remembrance of you, because I, Lord, have spoken.
 - brenton: [missing]
 
 ### Ezekiel 22:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 22:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, if you judge city of bloods, then show her all her lawless deeds,
 - brenton: [missing]
 
 ### Ezekiel 22:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say, Thus says Lord God: O city pouring out blood in her midst, so that her time may come, and making thoughts against herself so as to defile herself,
 - brenton: [missing]
 
 ### Ezekiel 22:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: in your bloods which you poured out you have trespassed, and in your thoughts which you made you were defiled, and you drew near your days and brought on time of your years. Because of this I gave you for reproach to nations and for mockery to all lands,
 - brenton: [missing]
 
 ### Ezekiel 22:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: those near you and those far from you. They will mock you, unclean, well known, and great in lawless deeds.
 - brenton: [missing]
 
 ### Ezekiel 22:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, leaders of house of Israel, each with his kin, were mixed up in you so as to pour out blood.
 - brenton: [missing]
 
 ### Ezekiel 22:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Father and mother they reviled in you, and toward sojourner they behaved unjustly. In you orphan and widow they oppressed.
 - brenton: [missing]
 
 ### Ezekiel 22:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And my holy things they despised, and my Sabbaths they profaned in you.
 - brenton: [missing]
 
 ### Ezekiel 22:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Robber-men were in you so as to pour out blood in you, and on mountains they ate in you; impious things they did in your midst.
 - brenton: [missing]
 
 ### Ezekiel 22:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Shame of father they uncovered in you, and woman set apart in uncleanness they humbled in you.
 - brenton: [missing]
 
 ### Ezekiel 22:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Each one acted lawlessly with wife of his neighbor, and each one defiled his daughter-in-law in impiety, and each one humbled his sister, daughter of his father, in you.
 - brenton: [missing]
 
 ### Ezekiel 22:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gifts they took in you so as to pour out blood; interest and excess they took in you, and I completed your evils by oppression, but me you forgot, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 22:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And if I strike hand to hand over what you completed, what you did, and over your bloods that came to be in your midst,
 - brenton: [missing]
 
 ### Ezekiel 22:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: will your heart stand? Will your hands hold strong in days when I act in you? I, Lord, have spoken and will do it.
 - brenton: [missing]
 
 ### Ezekiel 22:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter you among nations and disperse you through lands, and your uncleanness will cease from you.
 - brenton: [missing]
 
 ### Ezekiel 22:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will inherit in you before eyes of nations, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 22:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 22:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in midst of silver; it is mixed metal.
 - brenton: [missing]
 
 ### Ezekiel 22:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Because you all became one mixture, therefore I gather you into midst of Jerusalem.
 - brenton: [missing]
 
 ### Ezekiel 22:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As silver and bronze and iron and tin and lead are gathered into midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
 - brenton: [missing]
 
 ### Ezekiel 22:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will blow upon you in fire of my wrath, and you will be melted in her midst.
 - brenton: [missing]
 
 ### Ezekiel 22:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As silver is melted in midst of furnace, so you will be melted in her midst, and you will know that I, Lord, poured out my wrath upon you.
 - brenton: [missing]
 
 ### Ezekiel 22:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 22:24
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, say to her, You are land not rained on, nor did rain come upon you in day of wrath.
 - brenton: [missing]
 
 ### Ezekiel 22:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Whose rulers in her midst are like roaring lions seizing plunder, eating souls in oppression, taking honors in injustice, and your widows were multiplied in your midst.
 - brenton: [missing]
 
 ### Ezekiel 22:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her priests rejected my law and profaned my holy things; between holy and profane they did not distinguish, and between unclean and clean they did not distinguish, and from my Sabbaths they covered their eyes, and I was profaned in their midst.
 - brenton: [missing]
 
 ### Ezekiel 22:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Her rulers in her midst are like wolves seizing plunder, to pour out blood, so that greedily they may gain greed.
 - brenton: [missing]
 
 ### Ezekiel 22:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her prophets smearing them over will fall, seeing vain things, divining falsehoods, saying, Thus says Lord, and Lord has not spoken.
 - brenton: [missing]
 
 ### Ezekiel 22:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: People of land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
 - brenton: [missing]
 
 ### Ezekiel 22:30
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I sought from them a man walking uprightly and standing wholly before me in time for land, so as not to wipe it out completely, and I did not find one.
 - brenton: [missing]
 
 ### Ezekiel 22:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I poured out my wrath upon it; in fire of my anger, to complete, I have put their ways on their heads, says Lord God.
 - brenton: [missing]
 
 ### Ezekiel 23:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 23:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, there were two women, daughters of one mother.
 - brenton: [missing]
 
 ### Ezekiel 23:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they whored in Egypt, in their youth. There their breasts fell, there they were deflowered.
 - brenton: [missing]
 
 ### Ezekiel 23:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And their names were Oola the elder and Ooliba her sister, and they became mine and bore sons and daughters. And their names: Samaria was Oola and Jerusalem Ooliba.
 - brenton: [missing]
 
 ### Ezekiel 23:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Oola whored away from me and set herself on her lovers, on Assyrians near her,
 - brenton: [missing]
 
 ### Ezekiel 23:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: clothed in blue, leaders and generals, choice young men all, horsemen mounted on horses.
 - brenton: [missing]
 
 ### Ezekiel 23:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she gave her whoring to them, all choice sons of Assyria, and with all on whom she set herself, with all her thoughts, she was defiled.
 - brenton: [missing]
 
 ### Ezekiel 23:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her whoring from Egypt she did not leave, because with her they lay in her youth and they deflowered her and poured out their whoring on her.
 - brenton: [missing]
 
 ### Ezekiel 23:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I gave her into hands of her lovers, into hands of sons of Assyria on whom she set herself.
 - brenton: [missing]
 
 ### Ezekiel 23:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They uncovered her shame, took her sons and daughters, and killed her by sword, and she became a byword among women, and they did vengeance in her among the daughters.
 - brenton: [missing]
 
 ### Ezekiel 23:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her sister Ooliba saw and corrupted her desire beyond her and her whoring beyond whoring of her sister.
 - brenton: [missing]
 
 ### Ezekiel 23:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: She set herself on sons of Assyria, leaders and generals near her, clothed with fine border, horsemen riding on horses, choice young men all.
 - brenton: [missing]
 
 ### Ezekiel 23:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw that they were defiled; one way belonged to both.
 - brenton: [missing]
 
 ### Ezekiel 23:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she added to her whoring, and saw men painted on wall, images of Chaldeans drawn with stylus,
 - brenton: [missing]
 
 ### Ezekiel 23:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: girded with patterned belts on their loins and dyed tiaras on their heads, all with princely appearance, likeness of sons of Chaldea, their native land.
 - brenton: [missing]
 
 ### Ezekiel 23:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she set herself on them at sight of her eyes and sent messengers to them into land of Chaldeans.
 - brenton: [missing]
 
 ### Ezekiel 23:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sons of Babylon came to her into bed of lying down and defiled her in her whoring, and she was defiled by them, and her soul turned away from them.
 - brenton: [missing]
 
 ### Ezekiel 23:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And she uncovered her whoring and uncovered her shame, and my soul turned away from her, as my soul turned away from her sister.
 - brenton: [missing]
 
 ### Ezekiel 23:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you multiplied your whoring, to remember days of your youth in which you whored in Egypt.
 - brenton: [missing]
 
 ### Ezekiel 23:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you desired Chaldeans, whose flesh was like flesh of donkeys and whose genitals were genitals of horses.
 - brenton: [missing]
 
 ### Ezekiel 23:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you visited lawlessness of your youth, what you did in Egypt, in your lodging, where breasts of your youth were.
 - brenton: [missing]
 
 ### Ezekiel 23:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore, Ooliba, thus says Lord: Behold, I stir up your lovers against you, those from whom your soul turned away, and I will bring them upon you from all around,
 - brenton: [missing]
 
 ### Ezekiel 23:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sons of Babylon and all Chaldeans, Pekod and Shoa and Koa, and all sons of Assyria with them, choice young men, governors and generals, all nobles and men of name, riding on horses.
 - brenton: [missing]
 
 ### Ezekiel 23:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And all will come against you from north, chariots and wheels with crowd of peoples; shield and buckler and they will set guard against you around, and I will set judgment before them and they will avenge you by their judgments.
 - brenton: [missing]
 
 ### Ezekiel 23:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set my jealousy in you, and they will act with you in fury of wrath. Your nose and your ears they will remove, and your remnant they will cast down by sword. They will take your sons and daughters, and your remnant fire will devour.
 - brenton: [missing]
 
 ### Ezekiel 23:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will strip you of your garments and take vessels of your boasting.
 - brenton: [missing]
 
 ### Ezekiel 23:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will turn your impieties away from you and your whoring from land of Egypt, and you will not lift your eyes to them, and Egypt you will remember no more.
 - brenton: [missing]
 
 ### Ezekiel 23:28
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord God: Behold, I hand you over into hands of those you hate, from whom your soul turned away,
 - brenton: [missing]
 
 ### Ezekiel 23:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and they will deal with you in hatred and take all your gains and your toil, and you will be naked and unseemly, and shame of your whoring will be uncovered, and your impiety and your whoring.
 - brenton: [missing]
 
 ### Ezekiel 23:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These things were done to you because you whored after nations and were defiled in their thoughts.
 - brenton: [missing]
 
 ### Ezekiel 23:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In way of your sister you walked, and I will put her cup in your hands.
 - brenton: [missing]
 
 ### Ezekiel 23:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Cup of your sister you will drink, deep and broad, overflowing so as to destroy.
 - brenton: [missing]
 
 ### Ezekiel 23:33
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With drunkenness and collapse you will be filled, cup of desolation, cup of your sister Samaria.
 - brenton: [missing]
 
 ### Ezekiel 23:34
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will drink it, and her feasts and her new moons I will turn away, because I have spoken, says Lord.
 - brenton: [missing]
 
 ### Ezekiel 23:35
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: Because you forgot me and threw me behind your body, you also bear your impiety and your whoring.
 - brenton: [missing]
 
 ### Ezekiel 23:36
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said to me, Son of man, will you not judge Oola and Ooliba and announce to them their lawless deeds?
 - brenton: [missing]
 
 ### Ezekiel 23:37
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because they committed adultery, and blood was in their hands. With their thoughts they committed adultery, and their children whom they bore to me they passed through fire for them.
 - brenton: [missing]
 
 ### Ezekiel 23:38
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these things they did to me: my holy things they defiled and my Sabbaths they profaned.
 - brenton: [missing]
 
 ### Ezekiel 23:39
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And when they slaughtered their children to their idols, they entered into my holy places to profane them, and so they acted in midst of my house.
 - brenton: [missing]
 
 ### Ezekiel 23:40
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they sent messengers to men coming from far away, and as soon as they came you washed and painted your eyes with stibium and adorned yourself with ornament.
 - brenton: [missing]
 
 ### Ezekiel 23:41
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you sat on bed spread out, and table adorned before it, and my incense and my oil rejoiced among them.
 - brenton: [missing]
 
 ### Ezekiel 23:42
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And sound of harmony they struck up, and to men from multitude of people coming from wilderness they put bracelets on their hands and crown of boasting on their heads.
 - brenton: [missing]
 
 ### Ezekiel 23:43
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said, Are they committing adultery in these things? Works of prostitute, and she whored.
 - brenton: [missing]
 
 ### Ezekiel 23:44
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they went in to her as they go in to prostitute woman; so they went in to Oola and to Ooliba, to do lawlessness.
 - brenton: [missing]
 
 ### Ezekiel 23:45
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And righteous men, they will avenge them with vengeance of adulteress and vengeance of blood, because they are adulteresses and blood is in their hands.
 - brenton: [missing]
 
 ### Ezekiel 23:46
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord God: Bring up against them crowd and give in them turmoil and plundering.
 - brenton: [missing]
 
 ### Ezekiel 23:47
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And stone them with stones of crowds and spear them with their swords. Their sons and their daughters they will kill, and their houses they will burn with fire.
 - brenton: [missing]
 
 ### Ezekiel 23:48
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will turn impiety away from land, and all women will be instructed and will not do according to their impieties.
 - brenton: [missing]
 
 ### Ezekiel 23:49
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your impiety will be given upon you, and sins of your thoughts you will bear, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 24:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me in ninth year, in tenth month, on tenth of month, saying,
 - brenton: [missing]
 
 ### Ezekiel 24:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, write for yourself this day, from this day from which king of Babylon pressed hard against Jerusalem, from this very day.
 - brenton: [missing]
 
 ### Ezekiel 24:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And speak to provoking house a parable, and say to them, Thus says Lord: Set on the cooking pot and pour water into it,
 - brenton: [missing]
 
 ### Ezekiel 24:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and put into it the pieces, every good piece, thigh and shoulder, stripped from bones.
 - brenton: [missing]
 
 ### Ezekiel 24:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Taken from choice cattle, and kindle the bones under them. It boiled, boiled, and its bones were cooked in its midst.
 - brenton: [missing]
 
 ### Ezekiel 24:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: O city of bloods, pot in which there is rust in it and its rust did not go out from it. Piece by piece it was brought out; lot did not fall on it.
 - brenton: [missing]
 
 ### Ezekiel 24:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because her blood is in her midst. Upon bare rock I placed it; I did not pour it on ground to cover earth over it.
 - brenton: [missing]
 
 ### Ezekiel 24:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So that wrath might rise for vengeance, to be avenged, I gave her blood upon bare rock, so that it should not be covered.
 - brenton: [missing]
 
 ### Ezekiel 24:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus says Lord: I too will magnify the pile.
 - brenton: [missing]
 
 ### Ezekiel 24:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will multiply the wood and kindle the fire so that the flesh may melt and the broth be diminished.
 - brenton: [missing]
 
 ### Ezekiel 24:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And set it upon the coals so that its bronze may burn and become hot and its uncleanness may melt within it and its rust fail away.
 - brenton: [missing]
 
 ### Ezekiel 24:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her much rust will not go out from her; her rust will be put to shame.
 - brenton: [missing]
 
 ### Ezekiel 24:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you were defiling yourself, and if you will not be cleansed any longer until I fill up my wrath,
 - brenton: [missing]
 
 ### Ezekiel 24:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I, Lord, have spoken, and it will come, and I will do it. I will not delay, nor will I show mercy. According to your ways and according to your thoughts I judge you, says Lord. Therefore I judge you according to your bloods and according to your thoughts, you unclean one, well-known and much provoking.
 - brenton: [missing]
 
 ### Ezekiel 24:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 24:16
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, behold, I take from you desire of your eyes in ordered stroke. You must not mourn, nor must you weep.
 - brenton: [missing]
 
 ### Ezekiel 24:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Groaning of blood of your loins is mourning; it will not be. Your hair will not be braided upon you and your sandals will be on your feet. You will not be comforted by their lips, and bread of men you will not eat.
 - brenton: [missing]
 
 ### Ezekiel 24:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I spoke to people in morning as it was commanded me, and my wife died at evening, and I did in morning as it was ordered me.
 - brenton: [missing]
 
 ### Ezekiel 24:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And people said to me, Will you not tell us what these things are that you are doing?
 - brenton: [missing]
 
 ### Ezekiel 24:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I said to them, Word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 24:21
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Say to house of Israel, Thus says Lord: Behold, I profane my holy things, arrogance of your strength, desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
 - brenton: [missing]
 
 ### Ezekiel 24:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will do as I did. You will not be comforted from their mouth, and bread of men you will not eat.
 - brenton: [missing]
 
 ### Ezekiel 24:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your hair will be on your head and your sandals on your feet. You will neither mourn nor weep, and you will melt away in your injustices and each will comfort his brother.
 - brenton: [missing]
 
 ### Ezekiel 24:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Ezekiel will be for you a sign; according to all that he did you will do when these things come, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 24:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, is it not on day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
 - brenton: [missing]
 
 ### Ezekiel 24:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: on that day one escaping will come to you to announce it in your ears?
 - brenton: [missing]
 
 ### Ezekiel 24:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On that day your mouth will be opened toward one escaping, and you will speak and no longer be mute, and you will be to them for sign, and they will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 25:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And word of Lord came to me, saying,
 - brenton: [missing]
 
 ### Ezekiel 25:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Son of man, set your face toward sons of Ammon and prophesy against them,
 - brenton: [missing]
 
 ### Ezekiel 25:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: and say to sons of Ammon, Hear word of Lord. Thus says Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over house of Judah that they went into captivity,
 - brenton: [missing]
 
 ### Ezekiel 25:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore behold, I give you to sons of Kedem for inheritance, and they will camp in their equipment in you and set their tents in you. They will eat your fruits, and they will drink your richness.
 - brenton: [missing]
 
 ### Ezekiel 25:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give city of Ammon for pasture of camels and sons of Ammon for pasture of sheep, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 25:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus says Lord: Because you clapped your hand and stamped your foot and rejoiced with all your soul over land of Israel,
 - brenton: [missing]
 
 ### Ezekiel 25:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore I stretch out my hand against you and give you for plundering among nations and destroy you from peoples and make you perish from lands, destruction, and you will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 25:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Because Moab said, Behold, house of Israel and Judah is like all nations,
 - brenton: [missing]
 
 ### Ezekiel 25:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore behold, I weaken shoulder of Moab from cities, from its borders, the chosen land, house of Asimouth above spring of city by the sea,
 - brenton: [missing]
 
 ### Ezekiel 25:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to sons of Kedem over sons of Ammon I gave them for inheritance, so that remembrance of sons of Ammon might not be.
 - brenton: [missing]
 
 ### Ezekiel 25:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in Moab I will do vengeance, and they will know that I am Lord.
 - brenton: [missing]
 
 ### Ezekiel 25:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord: Because Idumea acted in avenging vengeance against house of Judah and bore grudges and avenged a claim,
 - brenton: [missing]
 
 ### Ezekiel 25:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: therefore thus says Lord: I will stretch out my hand against Idumea and destroy from it man and cattle and make it a wilderness, and from Teman those pursued will fall by sword.
 - brenton: [missing]
 
 ### Ezekiel 25:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will place my vengeance upon Idumea by hand of my people Israel, and they will act in Idumea according to my anger and according to my wrath, and they will know my vengeance, says Lord.
 - brenton: [missing]
