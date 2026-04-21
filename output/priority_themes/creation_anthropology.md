@@ -2,8 +2,8 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 54
-Books: 30
+Rows: 53
+Books: 29
 
 ## Genesis 1:2
 - score: 21
@@ -39,13 +39,6 @@ Books: 30
 - keywords: holy, lord, sin, soul
 - fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
-
-## Numbers 19:13
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
-- keywords: lord, soul
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## Deuteronomy 12:21
 - score: 30

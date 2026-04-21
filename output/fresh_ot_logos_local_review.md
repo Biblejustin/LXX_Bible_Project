@@ -1,6 +1,6 @@
 # Fresh OT Logos Local Review
 
-Rows: 16
+Rows: 19
 
 ## Exodus 20:24
 - priority: `35`
@@ -170,6 +170,20 @@ Rows: 16
 - fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
+## Numbers 15:8
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
+
 ## Numbers 6:14
 - priority: `20`
 - importance: `high`
@@ -184,6 +198,20 @@ Rows: 16
 - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
 
+## Numbers 6:17
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
+
 ## Numbers 6:18
 - priority: `20`
 - importance: `high`
@@ -197,6 +225,20 @@ Rows: 16
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
 - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
+
+## Numbers 7:88
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## Judges 21:4
 - priority: `18`

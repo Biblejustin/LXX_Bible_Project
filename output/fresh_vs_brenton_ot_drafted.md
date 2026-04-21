@@ -34099,7 +34099,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of salvation,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
 
 ### Numbers 6:15
@@ -34126,7 +34126,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
 - brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
 
 ### Numbers 6:18
@@ -34135,7 +34135,7 @@ Note:
 - decisions: 4
 - footnotes: 4
 - same_normalized: no
-- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of salvation.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
 
 ### Numbers 6:19
@@ -34360,7 +34360,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he goats, five ewe-lambs of a year old: this was the gift of Naasson the son of Aminadab.
 
 ### Numbers 7:18
@@ -34414,7 +34414,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
 - brenton: And for a sacrifice, a peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Nathanael the son of Sogar.
 
 ### Numbers 7:24
@@ -34468,7 +34468,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Eliab the son of Chælon.
 
 ### Numbers 7:30
@@ -34522,7 +34522,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisur the son of Sediur.
 
 ### Numbers 7:36
@@ -34576,7 +34576,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Salamiel the son of Surisadai.
 
 ### Numbers 7:42
@@ -34630,7 +34630,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisaph the son of Raguel.
 
 ### Numbers 7:48
@@ -34684,7 +34684,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisama the son of Emiud.
 
 ### Numbers 7:54
@@ -34738,7 +34738,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
 - brenton: And for a sacrifice of peace-offering two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Gamaliel the son of Phadassur.
 
 ### Numbers 7:60
@@ -34792,7 +34792,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Abidan the son of Gadeoni.
 
 ### Numbers 7:66
@@ -34846,7 +34846,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old. This was the gift of Achiezer the son of Amisadai.
 
 ### Numbers 7:72
@@ -34900,7 +34900,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Phageel the son of Echran.
 
 ### Numbers 7:78
@@ -34954,7 +34954,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Achire the son of Ænan.
 
 ### Numbers 7:84
@@ -34999,7 +34999,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ### Numbers 7:89
@@ -35539,7 +35539,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
+- fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over your sacrifices of salvation, and it shall be a memorial for you before your God. I am the Lord your God.
 - brenton: And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.
 
 ### Numbers 10:11
@@ -37006,7 +37006,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
 - brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
 
 ### Numbers 15:9
@@ -41380,7 +41380,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
+- fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your offerings of salvation.
 - brenton: These sacrifices shall ye offer to the Lord in your feasts, besides your vows; and ye shall offer your free-will-offerings and your whole-burnt-offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.
 
 ### Numbers 30:1
@@ -95848,7 +95848,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and peace offerings before God.
+- fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - brenton: So they brought in the ark of God, and set it in the midst of the tabernacle which David pitched for it; and they offered whole-burnt-offerings and peace-offerings before God.
 
 ### 1 Chronicles 16:2
@@ -95857,7 +95857,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Dauid finished offering whole burnt offerings and peace offerings and blessed people in name of Lord.
+- fresh: And Dauid finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
 - brenton: And David finished offering up whole-burnt-offerings and peace-offerings, and blessed the people in the name of the Lord.
 
 ### 1 Chronicles 16:3
@@ -97090,7 +97090,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+- fresh: And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and he cried to the Lord, and he answered him by fire out of heaven on the altar of whole-burnt-offerings, and it consumed the whole-burnt-offering.
 
 ### 1 Chronicles 21:27
@@ -100431,7 +100431,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of peace offerings, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+- fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
 - brenton: And Solomon consecrated the middle of the court that was in the house of the Lord: for he offered there the whole-burnt-offerings and the fat of the peace-offerings, for the brazen altar which Solomon had made was not sufficient to receive the whole-burnt-offerings, and the meat-offerings, and the fat.
 
 ### 2 Chronicles 7:8
@@ -104877,7 +104877,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whole burnt offering was much, with fats of perfection of peace offering and libations of whole burnt offering, and work in house of Lord was set right.
+- fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
 - brenton: And the whole-burnt-offering was abundant, with the fat of the complete peace-offering, and the drink-offerings of the whole-burnt-sacrifice. So the service was established in the house of the Lord.
 
 ### 2 Chronicles 29:36
@@ -105084,7 +105084,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers.
+- fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
 - brenton: And Ezekias encouraged all the Levites, and those that had good understanding of the Lord: and they completely kept the feast of unleavened bread seven days, offering peace-offerings, and confessing to the Lord God of their fathers.
 
 ### 2 Chronicles 30:23
@@ -105147,7 +105147,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and peace offering and to praise and give thanks and minister at gates in courts of house of Lord.
+- fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
 - brenton: And Ezekias appointed the courses of the priests and the Levites, and the courses of each one according to his ministry, to the priests and to the Levites, for the whole-burnt-offering, and for the peace-offering, and to praise, and to give thanks, and to minister in the gates and in the courts of the house of the Lord.
 
 ### 2 Chronicles 31:3
@@ -181291,7 +181291,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah
+- fresh: Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah, bringing her low.
 - brenton: [missing]
 
 ### Lamentations 2:6
@@ -200039,7 +200039,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings.
+- fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation.
 - brenton: [missing]
 
 ### Amos 5:23

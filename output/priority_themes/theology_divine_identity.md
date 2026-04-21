@@ -2,7 +2,7 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 107
+Rows: 106
 Books: 38
 
 ## Genesis 24:7
@@ -46,13 +46,6 @@ Books: 38
 - keywords: holy, lord, sin, soul
 - fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
-
-## Numbers 16:3
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- keywords: holy, lord
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
 
 ## Numbers 35:25
 - score: 22

@@ -443,24 +443,6 @@ Rows: 12239
 - mt: And he said unto me, The LORD, before whom I walk, will send his angel with you, and prosper your way; and you shall take a wife for my son of my kindred, and of my father's house:
 - brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
 
-## Numbers 16:3
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.008`
-- fresh_brenton_ratio: `0.422`
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- mt: And they gathered themselves together against Moses and against Aaron, and said unto them, All of you take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift all of you up yourselves above the congregation of the LORD?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
-
-## Numbers 19:13
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.038`
-- fresh_brenton_ratio: `0.039`
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- mt: Whosoever touches the dead body of any man that is dead, and purifies not himself, defiles the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
-
 ## 1 Samuel 25:29
 - priority: `20`
 - importance: `high`
@@ -479,6 +461,15 @@ Rows: 12239
 - mt: For all of my father's house were but dead men before my lord the king: yet did you set your servant among them that did eat at yours own table. What right therefore have I yet to cry any more unto the king?
 - brenton: And he has dealt deceitfully with thy servant to my lord the king: but my lord the king is as an angel of God, and do thou that which is good in thine eyes.
 
+## Numbers 6:18
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.068`
+- fresh_brenton_ratio: `0.744`
+- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of salvation.
+- mt: And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings.
+- brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
+
 ## 1 Samuel 4:3
 - priority: `20`
 - importance: `high`
@@ -488,21 +479,12 @@ Rows: 12239
 - mt: And when the people were come into the camp, the elders of Israel said, Wherefore has the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it comes among us, it may save us out of the hand of our enemies.
 - brenton: And the people came to the camp, and the elders of Israel said, Why has the Lord caused us to fall this day before the Philistines? let us take the ark of our God out of Selom, and let it proceed from the midst of us, and it shall save us from the hand of our enemies.
 
-## Numbers 6:18
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.069`
-- fresh_brenton_ratio: `0.763`
-- fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
-- mt: And the Nazarite shall shave the head of his separation at the door of the tabernacle of the congregation, and shall take the hair of the head of his separation, and put it in the fire which is under the sacrifice of the peace offerings.
-- brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
-
 ## Numbers 6:14
 - priority: `20`
 - importance: `high`
-- fresh_mt_ratio: `0.124`
-- fresh_brenton_ratio: `0.307`
-- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+- fresh_mt_ratio: `0.122`
+- fresh_brenton_ratio: `0.304`
+- fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of salvation,
 - mt: And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
 
@@ -541,6 +523,15 @@ Rows: 12239
 - fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
 - mt: Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that all of you may perceive and see that your wickedness is great, which all of you have done in the sight of the LORD, in asking you a king.
 - brenton: Is it not wheat-harvest to-day? I will call upon the Lord, and he shall send thunder and rain; and know ye and see, that your wickedness is great which ye have wrought before the Lord, having asked for yourselves a king.
+
+## Numbers 7:88
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.179`
+- fresh_brenton_ratio: `0.137`
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- mt: And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## 1 Chronicles 28:9
 - priority: `20`
@@ -587,6 +578,15 @@ Rows: 12239
 - mt: There is none holy as the LORD: for there is none beside you: neither is there any rock like our God.
 - brenton: For there is none holy as the Lord, and there is none righteous as our God: there is none holy beside thee.
 
+## Numbers 15:8
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.643`
+- fresh_brenton_ratio: `0.733`
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- mt: And when you prepare a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
+
 ## Nehemiah 1:5
 - priority: `20`
 - importance: `high`
@@ -595,6 +595,15 @@ Rows: 12239
 - fresh: And I said, Please, Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
 - mt: And said, I plead to you, O LORD God of heaven, the great and terrible God, that keeps covenant and mercy for them that love him and observe his commandments:
 - brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
+
+## Numbers 6:17
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.746`
+- fresh_brenton_ratio: `0.788`
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- mt: And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his food offering, and his drink offering.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
 
 ## 2 Samuel 5:2
 - priority: `20`
@@ -694,15 +703,6 @@ Rows: 12239
 - fresh: Arthasastha, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
 - mt: Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time.
 - brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
-
-## Numbers 6:11
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.751`
-- fresh_brenton_ratio: `0.538`
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
 ## 2 Kings 10:31
 - priority: `19`
@@ -1000,6 +1000,15 @@ Rows: 12239
 - fresh: And the Lord said to the sons of Israel, "You are a stiff-necked people. See that I do not bring another plague upon you and consume you. Now then strip off your glorious garments and ornaments, and I will show you what I will do to you."
 - mt: For the LORD had said unto Moses, Say unto the children of Israel, All of you are a stubborn people: I will come up into the midst of you in a moment, and consume you: therefore now put off your ornaments from you, that I may know what to do unto you.
 - brenton: For the Lord said to the children of Israel, Ye are a stiff-necked people; take heed lest I bring on you another plague, and destroy you: now then put off your glorious apparel, and your ornaments, and I will shew thee what I will do to thee.
+
+## Numbers 16:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.008`
+- fresh_brenton_ratio: `0.422`
+- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
+- mt: And they gathered themselves together against Moses and against Aaron, and said unto them, All of you take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift all of you up yourselves above the congregation of the LORD?
+- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
 
 ## Joshua 6:20
 - priority: `0`
@@ -2899,6 +2908,15 @@ Rows: 12239
 - fresh: Then Pharaoh called Moses and Aaron, saying, Go, sacrifice to your God in the land.
 - mt: Else, if you will not let my people go, behold, I will send swarms of flies upon you, and upon your servants, and upon your people, and into your houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.
 - brenton: And Pharao called Moses and Aaron, saying, Go and sacrifice to the Lord your God in the land.
+
+## Numbers 19:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.038`
+- fresh_brenton_ratio: `0.039`
+- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
+- mt: Whosoever touches the dead body of any man that is dead, and purifies not himself, defiles the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.
+- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## 1 Chronicles 28:2
 - priority: `0`
@@ -8858,15 +8876,6 @@ Rows: 12239
 - mt: The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
 - brenton: The Lord is long-suffering and merciful, and true, removing transgressions and iniquities and sins, and he will by no means clear the guilty, visiting the sins of the fathers upon the children to the third and fourth generation.
 
-## 2 Chronicles 30:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.118`
-- fresh_brenton_ratio: `0.455`
-- fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers.
-- mt: And Hezekiah spoke comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.
-- brenton: And Ezekias encouraged all the Levites, and those that had good understanding of the Lord: and they completely kept the feast of unleavened bread seven days, offering peace-offerings, and confessing to the Lord God of their fathers.
-
 ## Genesis 1:28
 - priority: `0`
 - importance: `none`
@@ -8911,6 +8920,15 @@ Rows: 12239
 - fresh: And it came to be when Solomon finished praying to the Lord all this prayer and petition, he rose from before the altar of the Lord, kneeling upon his knees and his hands spread out toward heaven,
 - mt: And it was so, that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.
 - brenton: And it came to pass when Solomon had finished praying to the Lord all this prayer and supplication, that he rose up from before the altar of the Lord, after having knelt upon his knees, and his hands were spread out towards heaven.
+
+## 2 Chronicles 30:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.119`
+- fresh_brenton_ratio: `0.394`
+- fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
+- mt: And Hezekiah spoke comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.
+- brenton: And Ezekias encouraged all the Levites, and those that had good understanding of the Lord: and they completely kept the feast of unleavened bread seven days, offering peace-offerings, and confessing to the Lord God of their fathers.
 
 ## 2 Chronicles 20:21
 - priority: `0`
@@ -9190,6 +9208,15 @@ Rows: 12239
 - fresh: They shall bring the arm of contribution and the breast of separation with the offerings of the fats, to set them apart before the Lord, and it shall belong to you and to your sons and to your daughters with you as an everlasting statute, just as the Lord commanded Moses.
 - mt: The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave it for a wave offering before the LORD; and it shall be yours, and your sons' with you, by a statute for ever; as the LORD has commanded.
 - brenton: They shall bring the shoulder of the choice-offering, and the breast of the separation upon the burnt-offerings of the fat, to separate for a separation before the Lord; and it shall be a perpetual ordinance for thee and thy sons and thy daughters with thee, as the Lord commanded Moses.
+
+## 2 Chronicles 7:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.124`
+- fresh_brenton_ratio: `0.048`
+- fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+- mt: Moreover Solomon hallowed the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brazen altar which Solomon had made was not able to receive the burnt offerings, and the food offerings, and the fat.
+- brenton: And Solomon consecrated the middle of the court that was in the house of the Lord: for he offered there the whole-burnt-offerings and the fat of the peace-offerings, for the brazen altar which Solomon had made was not sufficient to receive the whole-burnt-offerings, and the meat-offerings, and the fat.
 
 ## Judges 17:3
 - priority: `0`
@@ -13376,15 +13403,6 @@ Rows: 12239
 - mt: Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
 - brenton: Joachim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem: and his mother's name was Zechora, daughter of Nerias of Rama. And he did that which was evil in the sight of the Lord, according to all that his fathers did.
 
-## Numbers 7:88
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.213`
-- fresh_brenton_ratio: `0.220`
-- fresh: All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
-- mt: And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.
-- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
-
 ## Joshua 12:1
 - priority: `0`
 - importance: `none`
@@ -13582,15 +13600,6 @@ Rows: 12239
 - fresh: And the Lord said to Joshua, Do not fear, nor be cowardly. Take with you all the warriors, and rising, go up to Ai. Behold, I have given into your hands the king of Ai and his land.
 - mt: And the LORD said unto Joshua, Fear not, neither be you dismayed: take all the people of war with you, and arise, go up to Ai: see, I have given into your hand the king of Ai, and his people, and his city, and his land:
 - brenton: And the Lord said to Joshua, Fear not, nor be timorous: take with thee all the men of war, and arise, go up to Gai; behold, I have given into thy hands the king of Gai, and his land.
-
-## 2 Chronicles 7:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.216`
-- fresh_brenton_ratio: `0.045`
-- fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of peace offerings, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
-- mt: Moreover Solomon hallowed the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brazen altar which Solomon had made was not able to receive the burnt offerings, and the food offerings, and the fat.
-- brenton: And Solomon consecrated the middle of the court that was in the house of the Lord: for he offered there the whole-burnt-offerings and the fat of the peace-offerings, for the brazen altar which Solomon had made was not sufficient to receive the whole-burnt-offerings, and the meat-offerings, and the fat.
 
 ## Deuteronomy 28:15
 - priority: `0`
@@ -15796,6 +15805,15 @@ Rows: 12239
 - fresh: Camels: 435. Donkeys: 6,720.
 - mt: Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.
 - brenton: Two thousand seven hundred asses.
+
+## Numbers 10:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.257`
+- fresh_brenton_ratio: `0.333`
+- fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over your sacrifices of salvation, and it shall be a memorial for you before your God. I am the Lord your God.
+- mt: Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, all of you shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.
+- brenton: And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.
 
 ## 2 Samuel 21:12
 - priority: `0`
@@ -18623,6 +18641,15 @@ Rows: 12239
 - mt: If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.
 - brenton: And if any one should feed down a field or a vineyard, and should send in his beast to feed down another field, he shall make compensation of his own field according to his produce; and if he shall have fed down the whole field, he shall pay for compensation the best of his own field and the best of his vineyard.
 
+## 2 Chronicles 31:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.307`
+- fresh_brenton_ratio: `0.126`
+- fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
+- mt: And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.
+- brenton: And Ezekias appointed the courses of the priests and the Levites, and the courses of each one according to his ministry, to the priests and to the Levites, for the whole-burnt-offering, and for the peace-offering, and to praise, and to give thanks, and to minister in the gates and in the courts of the house of the Lord.
+
 ## 2 Chronicles 1:11
 - priority: `0`
 - importance: `none`
@@ -20306,6 +20333,15 @@ Rows: 12239
 - mt: And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end you may know that I am the LORD in the midst of the earth.
 - brenton: And Moses said, It cannot be so, for we shall sacrifice to the Lord our God the abominations of the Egyptians; for if we sacrifice the abominations of the Egyptians before them, we shall be stoned.
 
+## Numbers 29:39
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.336`
+- fresh_brenton_ratio: `0.356`
+- fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your offerings of salvation.
+- mt: These things all of you shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your food offerings, and for your drink offerings, and for your peace offerings.
+- brenton: These sacrifices shall ye offer to the Lord in your feasts, besides your vows; and ye shall offer your free-will-offerings and your whole-burnt-offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.
+
 ## Exodus 31:9
 - priority: `0`
 - importance: `none`
@@ -20558,15 +20594,6 @@ Rows: 12239
 - mt: And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,
 - brenton: and his brethren, Sabania, Oduia, Calitan, Phelia, Anan,
 
-## Numbers 10:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.341`
-- fresh_brenton_ratio: `0.327`
-- fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
-- mt: Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, all of you shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.
-- brenton: And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.
-
 ## Leviticus 14:10
 - priority: `0`
 - importance: `none`
@@ -20584,15 +20611,6 @@ Rows: 12239
 - fresh: Zachor, Sarabia, Sebania,
 - mt: Hodijah, Bani, Beninu.
 - brenton: Odum, the sons of Banuae.
-
-## Numbers 29:39
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.341`
-- fresh_brenton_ratio: `0.362`
-- fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
-- mt: These things all of you shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your food offerings, and for your drink offerings, and for your peace offerings.
-- brenton: These sacrifices shall ye offer to the Lord in your feasts, besides your vows; and ye shall offer your free-will-offerings and your whole-burnt-offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.
 
 ## Ezra 2:55
 - priority: `0`
@@ -23311,15 +23329,6 @@ Rows: 12239
 - fresh: "Nations heard and grew angry; pangs seized those dwelling among the Philistines."
 - mt: The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.
 - brenton: The nations heard and were angry, pangs have seized on the dwellers among the Phylistines.
-
-## 2 Chronicles 31:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.394`
-- fresh_brenton_ratio: `0.128`
-- fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and peace offering and to praise and give thanks and minister at gates in courts of house of Lord.
-- mt: And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.
-- brenton: And Ezekias appointed the courses of the priests and the Levites, and the courses of each one according to his ministry, to the priests and to the Levites, for the whole-burnt-offering, and for the peace-offering, and to praise, and to give thanks, and to minister in the gates and in the courts of the house of the Lord.
 
 ## Numbers 5:18
 - priority: `0`
@@ -39440,6 +39449,15 @@ Rows: 12239
 - mt: And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;
 - brenton: And for the ransoms of the two hundred and seventy-three which exceed the Levites in number of the first-born of the sons of Israel;
 
+## 2 Chronicles 29:35
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.614`
+- fresh_brenton_ratio: `0.497`
+- fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
+- mt: And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order.
+- brenton: And the whole-burnt-offering was abundant, with the fat of the complete peace-offering, and the drink-offerings of the whole-burnt-sacrifice. So the service was established in the house of the Lord.
+
 ## 1 Kings 14:26
 - priority: `0`
 - importance: `none`
@@ -46378,15 +46396,6 @@ Rows: 12239
 - fresh: And on eighth day he made dismissal, because dedication of altar he made seven days, feast.
 - mt: And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.
 - brenton: And on the eighth day he kept a solemn assembly: for he kept a feast of seven days as the dedication of the altar.
-
-## 2 Chronicles 29:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.651`
-- fresh_brenton_ratio: `0.628`
-- fresh: And whole burnt offering was much, with fats of perfection of peace offering and libations of whole burnt offering, and work in house of Lord was set right.
-- mt: And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order.
-- brenton: And the whole-burnt-offering was abundant, with the fat of the complete peace-offering, and the drink-offerings of the whole-burnt-sacrifice. So the service was established in the house of the Lord.
 
 ## Genesis 37:8
 - priority: `0`
@@ -55685,15 +55694,6 @@ Rows: 12239
 - mt: In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 - brenton: And in the thirty-eighth year of the reign of Asa, the king of Israel went up against Juda, and built Rama, so as not to allow egress or ingress to Asa king of Juda.
 
-## Numbers 15:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.688`
-- fresh_brenton_ratio: `0.785`
-- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
-- mt: And when you prepare a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:
-- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
-
 ## Deuteronomy 21:18
 - priority: `0`
 - importance: `none`
@@ -56539,6 +56539,15 @@ Rows: 12239
 - fresh: And they did not listen, and Manassēs led them astray to do evil in the eyes of the Lord beyond the nations which the Lord destroyed from before the sons of Israel.
 - mt: But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
 - brenton: But they hearkened not; and Manasses led them astray to do evil in the sight of the Lord, beyond the nations whom the Lord utterly destroyed from before the children of Israel.
+
+## 1 Chronicles 16:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.691`
+- fresh_brenton_ratio: `0.843`
+- fresh: And Dauid finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
+- mt: And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.
+- brenton: And David finished offering up whole-burnt-offerings and peace-offerings, and blessed the people in the name of the Lord.
 
 ## 1 Chronicles 4:14
 - priority: `0`
@@ -62624,6 +62633,15 @@ Rows: 12239
 - mt: Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD.
 - brenton: And the hand of the Lord was present to give them one heart to come, to do according to the commands of the king and of the princes, by the word of the Lord.
 
+## Numbers 7:83
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.711`
+- fresh_brenton_ratio: `0.769`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Achire the son of Ænan.
+
 ## 2 Kings 18:23
 - priority: `0`
 - importance: `none`
@@ -63011,6 +63029,15 @@ Rows: 12239
 - mt: And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.
 - brenton: And the half-tribe of Manasse dwelt from Basan to Baal, Ermon, and Sanir, and to the mount Aërmon: and they increased in Libanus.
 
+## Numbers 7:47
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.712`
+- fresh_brenton_ratio: `0.775`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisaph the son of Raguel.
+
 ## Ruth 2:5
 - priority: `0`
 - importance: `none`
@@ -63235,6 +63262,15 @@ Rows: 12239
 - fresh: And fifty men from the sons of the prophets stood opposite at a distance, and both stood by the Jordan.
 - mt: And fifty men of the sons of the prophets went, and stood to view far off: and they two stood by Jordan.
 - brenton: And fifty men of the sons of the prophets went also, and they stood opposite afar off: and both stood on the bank of Jordan.
+
+## Numbers 7:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.713`
+- fresh_brenton_ratio: `0.775`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Eliab the son of Chælon.
 
 ## 2 Kings 4:2
 - priority: `0`
@@ -63920,6 +63956,15 @@ Rows: 12239
 - mt: And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what all of you shall say unto me I will give.
 - brenton: And Sychem said to her father and to her brothers, I would find grace before you, and we will give whatever ye shall name.
 
+## Numbers 7:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.715`
+- fresh_brenton_ratio: `0.749`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nethaneel the son of Zuar.
+- brenton: And for a sacrifice, a peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Nathanael the son of Sogar.
+
 ## 2 Samuel 12:5
 - priority: `0`
 - importance: `none`
@@ -63964,6 +64009,15 @@ Rows: 12239
 - fresh: And setting out from Mount Hor by the way of the Red Sea, they went around the land of Edom, and the people grew short-souled on the way.
 - mt: And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
 - brenton: And having departed from mount Or by the way leading to the Red Sea, they compassed the land of Edom, and the people lost courage by the way.
+
+## Numbers 7:77
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.715`
+- fresh_brenton_ratio: `0.766`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Phageel the son of Echran.
 
 ## Numbers 20:21
 - priority: `0`
@@ -65045,6 +65099,15 @@ Rows: 12239
 - mt: But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host.
 - brenton: And the Syrians fled from before Israel; and David slew of the Syrians seven thousand riders in chariots, and forty thousand infantry, and he slew Sophath the commander-in-chief of the forces.
 
+## Numbers 7:35
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.719`
+- fresh_brenton_ratio: `0.771`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisur the son of Sediur.
+
 ## 1 Samuel 12:6
 - priority: `0`
 - importance: `none`
@@ -65062,6 +65125,15 @@ Rows: 12239
 - fresh: And now come, let me counsel you with counsel, and rescue your life and the life of your son Solomon.
 - mt: Now therefore come, let me, I pray you, give you counsel, that you may save yours own life, and the life of your son Solomon.
 - brenton: And now come, let me, I pray, give thee counsel, and thou shalt rescue thy life, and the life of thy son Solomon.
+
+## Numbers 7:65
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.719`
+- fresh_brenton_ratio: `0.783`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Abidan the son of Gadeoni.
 
 ## Joshua 18:11
 - priority: `0`
@@ -66188,6 +66260,15 @@ Rows: 12239
 - mt: And the LORD commanded me at that time to teach you statutes and judgments, that all of you might do them in the land where all of you go over to possess it.
 - brenton: And the Lord commanded me at that time, to teach you ordinances and judgments, that ye should do them on the land, into which ye go to inherit it.
 
+## 1 Chronicles 16:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.722`
+- fresh_brenton_ratio: `0.848`
+- fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+- mt: So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
+- brenton: So they brought in the ark of God, and set it in the midst of the tabernacle which David pitched for it; and they offered whole-burnt-offerings and peace-offerings before God.
+
 ## Judges 8:12
 - priority: `0`
 - importance: `none`
@@ -66412,6 +66493,15 @@ Rows: 12239
 - fresh: And Abimelech went to Thebes and encamped against it and seized it first.
 - mt: Then went Abimelech to Thebez, and encamped against Thebez, and took it.
 - brenton: And Abimelech went out of Bæthel-berith, and encamped against Thebes, and took it.
+
+## Numbers 7:53
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.723`
+- fresh_brenton_ratio: `0.773`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisama the son of Emiud.
 
 ## Joshua 22:26
 - priority: `0`
@@ -67097,6 +67187,15 @@ Rows: 12239
 - mt: That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God.
 - brenton: that your posterity may see, that I made the children of Israel to dwell in tents, when I brought them out of the land of Egypt: I am the Lord your God.
 
+## Numbers 7:59
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.770`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur.
+- brenton: And for a sacrifice of peace-offering two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Gamaliel the son of Phadassur.
+
 ## 2 Chronicles 26:9
 - priority: `0`
 - importance: `none`
@@ -67105,6 +67204,15 @@ Rows: 12239
 - fresh: And Ozias built towers in Ierousalem, at corner gate and at valley gate and at corners, and strengthened them.
 - mt: Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them.
 - brenton: And Ozias built towers in Jerusalem, both at the gate of the corner and at the valley gate, and at the corners, and he fortified them.
+
+## Numbers 7:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.776`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nahshon the son of Amminadab.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he goats, five ewe-lambs of a year old: this was the gift of Naasson the son of Aminadab.
 
 ## 1 Chronicles 17:8
 - priority: `0`
@@ -68294,6 +68402,15 @@ Rows: 12239
 - mt: And when Husham was dead, Hadad the son of Bedad, which stroke Midian in the field of Moab, reigned in his position: and the name of his city was Avith.
 - brenton: And Asom died, and Adad the son of Barad reigned in his stead, who smote Madiam in the plain of Moab: and the name of his city was Gethaim.
 
+## Numbers 7:71
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.729`
+- fresh_brenton_ratio: `0.782`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old. This was the gift of Achiezer the son of Amisadai.
+
 ## 1 Chronicles 19:13
 - priority: `0`
 - importance: `none`
@@ -69464,6 +69581,15 @@ Rows: 12239
 - mt: And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
 - brenton: And thou shalt put the staves into the rings; and let the staves be on the sides of the altar to carry it.
 
+## Numbers 7:41
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.733`
+- fresh_brenton_ratio: `0.767`
+- fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai.
+- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Salamiel the son of Surisadai.
+
 ## Genesis 45:13
 - priority: `0`
 - importance: `none`
@@ -70048,6 +70174,15 @@ Rows: 12239
 - fresh: And the young man reporting to him said, By chance I happened on Mount Gelboue, and behold, Saoul had leaned upon his spear, and behold, the chariots and the horse-commanders had joined close to him.
 - mt: And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him.
 - brenton: And the young man that brought the tidings, said to him, I happened accidentally to be upon mount Gelbue; and, behold, Saul was leaning upon his spear, and, behold, the chariots and captains of horse pressed hard upon him.
+
+## 1 Chronicles 21:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.735`
+- fresh_brenton_ratio: `0.148`
+- fresh: And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+- mt: And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
+- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and he cried to the Lord, and he answered him by fire out of heaven on the altar of whole-burnt-offerings, and it consumed the whole-burnt-offering.
 
 ## Joshua 11:3
 - priority: `0`
@@ -75179,6 +75314,15 @@ Rows: 12239
 - mt: And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.
 - brenton: And Ambri went up, and all Israel with him, out of Gabathon; and they besieged Thersa.
 
+## Numbers 6:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.538`
+- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
+- mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
+- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
+
 ## 2 Chronicles 10:8
 - priority: `0`
 - importance: `none`
@@ -75611,15 +75755,6 @@ Rows: 12239
 - mt: Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.
 - brenton: Then ceased the work of the house of God in Jerusalem, and it was at a stand until the second year of the reign of Darius king of the Persians.
 
-## Numbers 7:83
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.795`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Achire the son of Ænan.
-
 ## 1 Kings 22:18
 - priority: `0`
 - importance: `none`
@@ -75637,15 +75772,6 @@ Rows: 12239
 - fresh: And they shall slaughter it on the side of the altar toward the north before the Lord, and the sons of Aaron, the priests, shall pour its blood around on the altar.
 - mt: And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron's sons, shall sprinkle his blood round about upon the altar.
 - brenton: And he shall lay his hand on its head; and they shall kill it by the side of the altar, toward the north before the Lord, and the sons of Aaron the priests shall pour its blood on the altar round about.
-
-## Numbers 7:47
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.801`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisaph the son of Raguel.
 
 ## 1 Samuel 8:7
 - priority: `0`
@@ -76205,15 +76331,6 @@ Rows: 12239
 - mt: And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy.
 - brenton: And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of the house of God with gladness.
 
-## Numbers 7:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.754`
-- fresh_brenton_ratio: `0.801`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Eliab the son of Chælon.
-
 ## 2 Chronicles 13:20
 - priority: `0`
 - importance: `none`
@@ -76528,15 +76645,6 @@ Rows: 12239
 - fresh: His sandal shall be iron and bronze, and as your days, your strength.
 - mt: Your shoes shall be iron and brass; and as your days, so shall your strength be.
 - brenton: His sandal shall be iron and brass; as thy days, so shall be thy strength.
-
-## Numbers 7:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.755`
-- fresh_brenton_ratio: `0.775`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nethaneel the son of Zuar.
-- brenton: And for a sacrifice, a peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Nathanael the son of Sogar.
 
 ## Numbers 16:10
 - priority: `0`
@@ -76879,15 +76987,6 @@ Rows: 12239
 - fresh: And this is the enrollment of Moses and Eleazar the priest, who enrolled the sons of Israel in the plains of Moab by the Jordan at Jericho.
 - mt: These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.
 - brenton: And this is the numbering of Moses and Eleazar the priest, who numbered the children of Israel in Araboth of Moab, at Jordan by Jericho.
-
-## Numbers 7:77
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.756`
-- fresh_brenton_ratio: `0.793`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Phageel the son of Echran.
 
 ## 2 Samuel 7:27
 - priority: `0`
@@ -77843,15 +77942,6 @@ Rows: 12239
 - mt: But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 - brenton: But the lands of the city, and its villages Joshua gave to the sons of Chaleb the son of Jephonne for a possession.
 
-## Numbers 7:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.759`
-- fresh_brenton_ratio: `0.797`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elizur the son of Shedeur.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisur the son of Sediur.
-
 ## Leviticus 9:13
 - priority: `0`
 - importance: `none`
@@ -77878,15 +77968,6 @@ Rows: 12239
 - fresh: And Moyses, man of God, his sons were called into tribe of Levi.
 - mt: Now concerning Moses the man of God, his sons were named of the tribe of Levi.
 - brenton: And as for Moses the man of God, his sons were reckoned to the tribe of Levi.
-
-## Numbers 7:65
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.759`
-- fresh_brenton_ratio: `0.809`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Abidan the son of Gadeoni.
 
 ## Genesis 19:12
 - priority: `0`
@@ -79220,15 +79301,6 @@ Rows: 12239
 - mt: And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,
 - brenton: and Joel, and Jeu the son of Asabia, the son of Sarau, the son of Asiel;
 
-## Numbers 7:53
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.763`
-- fresh_brenton_ratio: `0.799`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Elisama the son of Emiud.
-
 ## Judges 14:9
 - priority: `0`
 - importance: `none`
@@ -79372,15 +79444,6 @@ Rows: 12239
 - fresh: And Iou came to Jezrael, and Jezabel heard and painted her eyes and adorned her head and looked out through the window.
 - mt: And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window.
 - brenton: And Ju came to Jezrael; and Jezabel heard of it, and coloured her eyes, and adorned her head, and looked through the window.
-
-## 1 Chronicles 16:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.763`
-- fresh_brenton_ratio: `0.924`
-- fresh: And Dauid finished offering whole burnt offerings and peace offerings and blessed people in name of Lord.
-- mt: And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.
-- brenton: And David finished offering up whole-burnt-offerings and peace-offerings, and blessed the people in the name of the Lord.
 
 ## Joshua 21:19
 - priority: `0`
@@ -79543,24 +79606,6 @@ Rows: 12239
 - fresh: And the Lord said to Moses, saying, Speak to the priests, sons of Aaron, and you shall say to them: For a dead person they shall not defile themselves among their people,
 - mt: And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
 - brenton: And the Lord spoke to Moses, saying, Speak to the priests the sons of Aaron, and thou shalt tell them that they shall not defile themselves in their nation for the dead,
-
-## Numbers 7:59
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.764`
-- fresh_brenton_ratio: `0.796`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur.
-- brenton: And for a sacrifice of peace-offering two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Gamaliel the son of Phadassur.
-
-## Numbers 7:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.764`
-- fresh_brenton_ratio: `0.801`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Nahshon the son of Amminadab.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he goats, five ewe-lambs of a year old: this was the gift of Naasson the son of Aminadab.
 
 ## Leviticus 14:15
 - priority: `0`
@@ -80822,15 +80867,6 @@ Rows: 12239
 - mt: These are the divisions of the porters among the sons of Kore, and among the sons of Merari.
 - brenton: These are the divisions of the porters for the sons of Core, and to the sons of Merari.
 
-## Numbers 7:71
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.768`
-- fresh_brenton_ratio: `0.807`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old. This was the gift of Achiezer the son of Amisadai.
-
 ## 2 Kings 15:2
 - priority: `0`
 - importance: `none`
@@ -81838,15 +81874,6 @@ Rows: 12239
 - fresh: You shall have olive trees in all your borders, but you shall not anoint with oil, because your olive tree shall drop its fruit.
 - mt: You shall have olive trees throughout all your coasts, but you shall not anoint yourself with the oil; for yours olive shall cast his fruit.
 - brenton: Thou shalt have olive trees in all thy borders, and thou shalt not anoint thee with oil, because thine olive shall utterly cast its fruit.
-
-## Numbers 7:41
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.771`
-- fresh_brenton_ratio: `0.792`
-- fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
-- mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Shelumiel the son of Zurishaddai.
-- brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Salamiel the son of Surisadai.
 
 ## Ezra 7:1
 - priority: `0`
@@ -83621,15 +83648,6 @@ Rows: 12239
 - mt: And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.
 - brenton: And he lay down and slept there under a tree; and behold, some one touched him, and said to him, Arise and eat.
 
-## 1 Chronicles 21:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.777`
-- fresh_brenton_ratio: `0.253`
-- fresh: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
-- mt: And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
-- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and he cried to the Lord, and he answered him by fire out of heaven on the altar of whole-burnt-offerings, and it consumed the whole-burnt-offering.
-
 ## Numbers 20:26
 - priority: `0`
 - importance: `none`
@@ -84295,15 +84313,6 @@ Rows: 12239
 - fresh: Cursed is the one striking his neighbor deceitfully. And all the people shall say, Let it be.
 - mt: Cursed be he that strikes his neighbour secretly. And all the people shall say, Amen.
 - brenton: Cursed is he that smites his neighbour secretly: and all the people shall say, So be it.
-
-## Numbers 6:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.779`
-- fresh_brenton_ratio: `0.810`
-- fresh: And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
-- mt: And he shall offer the ram for a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his food offering, and his drink offering.
-- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
 
 ## 2 Chronicles 9:23
 - priority: `0`
@@ -96886,15 +96895,6 @@ Rows: 12239
 - fresh: And sons of Bachir: Zamarias and Ioas and Eliezer and Elithenan and Amaria and Ierimoth and Abiou and Anathoth and Gemeeth. All these were sons of Bachir.
 - mt: And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these are the sons of Becher.
 - brenton: And the sons of Bachir; Zemira, and Joas, and Eliezer, and Elithenan, and Amaria, and Jerimuth, and Abiud, and Anathoth, and Eleemeth: all these were the sons of Bachir.
-
-## 1 Chronicles 16:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.826`
-- fresh_brenton_ratio: `0.902`
-- fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and peace offerings before God.
-- mt: So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
-- brenton: So they brought in the ark of God, and set it in the midst of the tabernacle which David pitched for it; and they offered whole-burnt-offerings and peace-offerings before God.
 
 ## Genesis 15:7
 - priority: `0`

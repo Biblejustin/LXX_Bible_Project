@@ -2,7 +2,7 @@
 
 Altar, sacrifice, priesthood, holiness in cultic setting.
 
-Rows: 78
+Rows: 79
 Books: 33
 
 ## Exodus 3:18
@@ -75,19 +75,19 @@ Books: 33
 - fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
 - brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
 
-## Numbers 6:11
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=priest, sin; crossref_top_vote=2; reco=keep
-- keywords: priest, sin
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
-
 ## Numbers 6:14
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, sin; crossref_top_vote=3; crossref_shared_family=1; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: lord, peace, sacrifice, sin
 - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
+
+## Numbers 6:17
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, priest, sacrifice, salvation; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: lord, peace, priest, sacrifice, salvation
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
 
 ## Numbers 6:18
 - score: 20
@@ -96,12 +96,19 @@ Books: 33
 - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
 
-## Numbers 16:3
+## Numbers 7:88
 - score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- keywords: holy, lord
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, anointed, peace, sacrifice, salvation; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: altar, anointed, peace, sacrifice, salvation
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
+
+## Numbers 15:8
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=2; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- keywords: lord, peace, sacrifice, salvation
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
 
 ## Numbers 35:25
 - score: 22

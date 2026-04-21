@@ -15398,7 +15398,7 @@ And this is the law of the one who has vowed: on whatever day he completes the d
 
 **Numbers 6:14**
 
-And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
+And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of salvation,
 
 **Numbers 6:15**
 
@@ -15410,11 +15410,11 @@ And the priest shall bring them before the Lord and make his sin offering and hi
 
 **Numbers 6:17**
 
-And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
 
 **Numbers 6:18**
 
-And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
+And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of salvation.
 
 **Numbers 6:19**
 
@@ -15516,7 +15516,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:17**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
 
 **Numbers 7:18**
 
@@ -15540,7 +15540,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:23**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
 
 **Numbers 7:24**
 
@@ -15564,7 +15564,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:29**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
 
 **Numbers 7:30**
 
@@ -15588,7 +15588,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:35**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
 
 **Numbers 7:36**
 
@@ -15612,7 +15612,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:41**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
 
 **Numbers 7:42**
 
@@ -15636,7 +15636,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:47**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
 
 **Numbers 7:48**
 
@@ -15660,7 +15660,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:53**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
 
 **Numbers 7:54**
 
@@ -15684,7 +15684,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:59**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
 
 **Numbers 7:60**
 
@@ -15708,7 +15708,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:65**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
 
 **Numbers 7:66**
 
@@ -15732,7 +15732,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:71**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
 
 **Numbers 7:72**
 
@@ -15756,7 +15756,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:77**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
 
 **Numbers 7:78**
 
@@ -15780,7 +15780,7 @@ and one goat kid for sin offering,
 
 **Numbers 7:83**
 
-and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
 
 **Numbers 7:84**
 
@@ -15800,7 +15800,7 @@ All the cattle for whole burnt offering were twelve bulls, twelve rams, twelve y
 
 **Numbers 7:88**
 
-All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 
 **Numbers 7:89**
 
@@ -16046,7 +16046,7 @@ And if you go out to war in your land against the adversaries standing against y
 
 **Numbers 10:10**
 
-And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
+And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over your sacrifices of salvation, and it shall be a memorial for you before your God. I am the Lord your God.
 
 **Numbers 10:11**
 
@@ -16708,7 +16708,7 @@ And wine for a libation, one third of a hin, you shall bring as an aroma of swee
 
 **Numbers 15:8**
 
-And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
+And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
 
 **Numbers 15:9**
 
@@ -18680,7 +18680,7 @@ and one kid from the goats for a sin offering, besides the continual whole burnt
 
 **Numbers 29:39**
 
-These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
+These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your offerings of salvation.
 
 ### Chapter 30
 
@@ -43314,11 +43314,11 @@ And it came to pass, ark of covenant of Lord came as far as City of Dauid, and M
 
 **1 Chronicles 16:1**
 
-And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and peace offerings before God.
+And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 
 **1 Chronicles 16:2**
 
-And Dauid finished offering whole burnt offerings and peace offerings and blessed people in name of Lord.
+And Dauid finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
 
 **1 Chronicles 16:3**
 
@@ -43876,7 +43876,7 @@ And Dauid gave to Orna in his place six hundred shekels of weight in gold.
 
 **1 Chronicles 21:26**
 
-And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 
 **1 Chronicles 21:27**
 
@@ -45392,7 +45392,7 @@ And priests stood at their charges, and Levites with instruments of songs of Lor
 
 **2 Chronicles 7:7**
 
-And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of peace offerings, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
 
 **2 Chronicles 7:8**
 
@@ -47412,7 +47412,7 @@ But priests were few and were not able to flay whole burnt offerings, and their 
 
 **2 Chronicles 29:35**
 
-And whole burnt offering was much, with fats of perfection of peace offering and libations of whole burnt offering, and work in house of Lord was set right.
+And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
 
 **2 Chronicles 29:36**
 
@@ -47506,7 +47506,7 @@ And sons of Israel found in Ierousalem kept feast of unleavened bread seven days
 
 **2 Chronicles 30:22**
 
-And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers.
+And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
 
 **2 Chronicles 30:23**
 
@@ -47536,7 +47536,7 @@ And when all these things were finished, all Israel found in cities of Iouda wen
 
 **2 Chronicles 31:2**
 
-And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and peace offering and to praise and give thanks and minister at gates in courts of house of Lord.
+And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
 
 **2 Chronicles 31:3**
 
@@ -82192,7 +82192,7 @@ He bent his bow like enemy, fixed his right hand like adversary, and killed all 
 
 **Lamentations 2:5**
 
-Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah
+Lord became like enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah, bringing her low.
 
 **Lamentations 2:6**
 
@@ -90702,7 +90702,7 @@ I hated, I rejected your feasts, and I will by no means smell your festivals.
 
 **Amos 5:22**
 
-Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings.
+Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation.
 
 **Amos 5:23**
 

@@ -1,6 +1,6 @@
 # Fresh OT Cross-Reference Watch
 
-Rows: 200
+Rows: 199
 
 ## Exodus 20:24
 - score: 35
@@ -194,7 +194,7 @@ Rows: 200
 - NT crossrefs: 1
 - shared-family hits: 0
 - fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to Lord and placed holy ark in house which Salōmōn son of Dauid king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to Lord your God and to his people Israel.
-- OT clues: 1Chr.23.26 (5) -> And Levites were no longer carrying tent and all its vessels for its service. || 2Chr.17.8-2Chr.17.9 (4) -> and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests. || 2Chr.30.22 (4) -> And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers. || Deut.33.10 (4) -> They shall declare your ordinances to Jacob and your law to Israel. They shall place incense in your anger, always upon your altar.
+- OT clues: 1Chr.23.26 (5) -> And Levites were no longer carrying tent and all its vessels for its service. || 2Chr.17.8-2Chr.17.9 (4) -> and with them Levites Samouias and Nathanias and Zabdias and Asiēl and Semiramōth and Ionathan and Adōnias and Tōbias, the Levites, and with them Elisama and Iōram, the priests. || 2Chr.30.22 (4) -> And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers. || Deut.33.10 (4) -> They shall declare your ordinances to Jacob and your law to Israel. They shall place incense in your anger, always upon your altar.
 - NT clues: 2Cor.4.5 (3) -> For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
 
 ## Leviticus 4:26
@@ -273,7 +273,7 @@ Rows: 200
 - NT crossrefs: 4
 - shared-family hits: 3
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
-- OT clues: Lev.1.3 (4) -> If his gift is a whole burnt offering from the cattle, he shall bring a male without blemish to the entrance of the tent of testimony. He shall bring it as accepted before the Lord. || Num.6.14 (4) -> And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace, | shared-family=soteria-sacrifice-formula || Amos.5.22 (3) -> Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings. | shared-family=soteria-sacrifice-formula || 1Chr.21.26 (2) -> And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering. | shared-family=soteria-sacrifice-formula
+- OT clues: Lev.1.3 (4) -> If his gift is a whole burnt offering from the cattle, he shall bring a male without blemish to the entrance of the tent of testimony. He shall bring it as accepted before the Lord. || Num.6.14 (4) -> And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of salvation, | shared-family=soteria-sacrifice-formula || Amos.5.22 (3) -> Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation. | shared-family=soteria-sacrifice-formula || 1Chr.21.26 (2) -> And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering. | shared-family=soteria-sacrifice-formula
 - NT clues: 1John.1.3 (3) -> That which we have seen and heard declare we unto you, that all of you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. || Heb.10.22 (3) -> Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. || Rom.5.1-Rom.5.2 (3) -> Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 
 ## Isaiah 44:2
@@ -681,16 +681,6 @@ Rows: 200
 - OT clues: Mal.3.17 (7) -> And they will be mine, says Lord Almighty, in day I make for possession, and I will choose them as man chooses his son serving him. || Jer.10.18 (6) -> Because thus says Lord: Behold, I sling out inhabitants of this land in affliction, so that your wound may be found. || 1Sam.2.9 (5) -> Giving prayer to the one praying, and he blessed the years of the righteous, because not by strength is a man mighty.
 - NT clues: John.17.21 (8) -> That they all may be one; as you, Father, are in me, and I in you, that they also may be one in us: that the world may believe that you have sent me. || Matt.10.29-Matt.10.30 (7) -> Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father. || Ps.116.15 (6) -> Precious in the sight of the LORD is the death of his saints.
 
-## Numbers 16:3
-- score: 20
-- top vote: 7
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- OT clues: Ps.106.16 (7) -> because he shattered bronze gates and broke iron bars. || Exod.19.6 (4) -> "And you shall be to me a royal priesthood and a holy nation. These are the words you shall speak to the sons of Israel." || Num.14.14 (4) -> And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night. || Num.16.7 (3) -> and place fire on them and place incense on them before the Lord tomorrow, and it shall be that the man whom the Lord chooses, this one is holy. Let it be enough for you, sons of Levi.
-- NT clues: Acts.7.51 (3) -> All of you stubborn and uncircumcised in heart and ears, all of you do always resist the Holy Spirit: (o. pneuma) as your fathers did, so do all of you. || Acts.7.39 (2) -> To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
-
 ## 1 Samuel 12:17
 - score: 20
 - top vote: 6
@@ -721,16 +711,6 @@ Rows: 200
 - OT clues: 2Chr.3.1-2Chr.3.2 (5) -> And Salomon began building house of Lord in Ierousalem on mountain of Amoria, where Lord appeared to Dauid his father, in place which Dauid prepared at threshing floor of Orna the Iebousite. || 1Chr.29.19 (3) -> And to Salomon my son give good heart to do your commandments and your testimonies and your ordinances, and to bring building of your house to completion.
 - NT clues: Acts.7.47 (4) -> But Solomon built him an house. || 1Kgs.6.37 (3) -> In the fourth year was the foundation of the house of the LORD laid, in the month Zif: || 1Pet.2.5 (3) -> All of you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 
-## Numbers 19:13
-- score: 20
-- top vote: 5
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- OT clues: Lev.15.31 (5) -> And you shall make the sons of Israel cautious from their uncleannesses, and they shall not die because of their uncleannesses by defiling my tent that is among them. || Lev.22.3 (4) -> Say to them: Throughout your generations any man from all your seed who approaches the holy things that the sons of Israel consecrate to the Lord, while his uncleanness is upon him, that person shall be destroyed from before me. I am the Lord your God. || Lev.7.20 (3) -> And the person who eats from the flesh of the sacrifice of salvation, which belongs to the Lord, while his uncleanness is upon him, that person shall perish from his people. || Lev.20.3 (2) -> And I will set my face against that man and destroy him from his people, because he gave of his seed to a ruler so as to defile my holy things and profane the name of those sanctified to me.
-- NT clues: Heb.10.29 (2) -> Of how much greater punishment, suppose all of you, shall he be thought worthy, who has trodden under foot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has done despite unto the Spirit (o. pneuma) of grace? || Heb.2.2-Heb.2.3 (2) -> For if the word (o. logos) spoken by angels was steadfast, and every transgression and disobedience received a just recompence of reward; || John.8.24 (2) -> I said therefore unto you, that all of you shall die in your sins: for if all of you believe not that I am he, all of you shall die in your sins.
-
 ## Numbers 6:18
 - score: 20
 - top vote: 5
@@ -750,6 +730,15 @@ Rows: 200
 - fresh: And the people came into the camp, and the elders of Israel said, Why did the Lord make us stumble today before the foreigners? Let us take the ark of our God from Shilōm, and let it come out in our midst and save us from the hand of our enemies.
 - OT clues: Num.10.35 (3) -> And in its resting he said, Return, Lord, the thousands of myriads in Israel. || 1Chr.17.1 (2) -> And it came to pass, as Dauid settled in his house, Dauid said to Nathan prophet, Behold, I dwell in cedar house, but ark of covenant of Lord is under curtains. || 1Sam.14.18 (2) -> And Saoul said to Achia, Bring the ephod near, because he was carrying the ephod on that day before Israel. || 2Sam.15.25 (2) -> And the king said to Saddōk, Turn back the ark of God into the city. If I find favor in the eyes of the Lord, he will return me and show me it and its beauty.
 - NT clues: 2Tim.3.5 (4) -> Having a form of godliness, but denying the power thereof: from such turn away. || 1Cor.10.1-1Cor.10.5 (3) -> Moreover, brethren, I would not that all of you should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; || 1Pet.3.21 (2) -> The like figure unto which even baptism does also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
+
+## Numbers 15:8
+- score: 20
+- top vote: 4
+- OT crossrefs: 3
+- NT crossrefs: 0
+- shared-family hits: 2
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- OT clues: Lev.3.1 (4) -> And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord. | shared-family=soteria-sacrifice-formula || Lev.7.11-Lev.7.18 (3) -> This is the law of the sacrifice of salvation that they shall bring to the Lord. | shared-family=soteria-sacrifice-formula || Lev.1.3 (2) -> If his gift is a whole burnt offering from the cattle, he shall bring a male without blemish to the entrance of the tent of testimony. He shall bring it as accepted before the Lord.
 
 ## Numbers 6:14
 - score: 20

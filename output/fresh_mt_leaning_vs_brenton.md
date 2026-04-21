@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 408
+Rows: 407
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -28,15 +28,6 @@ Rows: 408
 - fresh: And yesterday and the third day, while Saoul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
 - mt: Also in time past, when Saul was king over us, you were he that led out and brought in Israel: and the LORD said to you, You shall feed my people Israel, and you shall be a captain over Israel.
 - brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
-
-## Numbers 6:11
-- priority: `19`
-- importance: `high`
-- fresh_mt_ratio: `0.751`
-- fresh_brenton_ratio: `0.538`
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
 ## Ruth 2:12
 - priority: `16`
@@ -685,15 +676,6 @@ Rows: 408
 - fresh: And he cut the ram into limbs, and Moses offered the head and the limbs and the fat.
 - mt: And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.
 - brenton: And Moses offered up the whole ram on the altar: it is a whole-burnt-offering for a sweet-smelling savour; it is a burnt-offering to the Lord, as the Lord commanded Moses.
-
-## 1 Chronicles 21:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.777`
-- fresh_brenton_ratio: `0.253`
-- fresh: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
-- mt: And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
-- brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and he cried to the Lord, and he answered him by fire out of heaven on the altar of whole-burnt-offerings, and it consumed the whole-burnt-offering.
 
 ## Genesis 32:11
 - priority: `0`
@@ -1711,6 +1693,15 @@ Rows: 408
 - fresh: And it came to be on the day Elkana sacrificed, that he gave to Phennana his wife and to her sons and her daughters portions,
 - mt: And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:
 - brenton: And the day came, and Helkana sacrificed, and gave portions to his wife Phennana and her children.
+
+## Numbers 6:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.538`
+- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
+- mt: And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
+- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
 ## 2 Kings 19:30
 - priority: `0`

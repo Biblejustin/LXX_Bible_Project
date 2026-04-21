@@ -30,8 +30,8 @@
       "description": "Cultic \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9- terms in sacrificial context.",
       "row_count": "71",
       "dominant_bucket": "salvation",
-      "dominant_count": "43",
-      "bucket_summary": "salvation=43, peace=27, well-being=1"
+      "dominant_count": "70",
+      "bucket_summary": "salvation=70, well-being=1"
     },
     {
       "family": "into-living-soul-formula",
@@ -43,7 +43,7 @@
     }
   ],
   "row_count": 110,
-  "outlier_count": 31,
+  "outlier_count": 4,
   "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
   "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",
   "outliers_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_outliers.md",

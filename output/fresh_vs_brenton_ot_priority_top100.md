@@ -639,19 +639,12 @@ Rows: 100
 - fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Numbers 16:3
+## Numbers 15:8
 - book: Numbers
 - score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
-
-## Numbers 19:13
-- book: Numbers
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=2; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
 
 ## Numbers 6:14
 - book: Numbers
@@ -660,12 +653,26 @@ Rows: 100
 - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
 
+## Numbers 6:17
+- book: Numbers
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, priest, sacrifice, salvation; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
+
 ## Numbers 6:18
 - book: Numbers
 - score: 20
 - reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=peace, sacrifice; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
+
+## Numbers 7:88
+- book: Numbers
+- score: 20
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, anointed, peace, sacrifice, salvation; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## Psalms 68:14
 - book: Psalms
@@ -694,10 +701,3 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, servant; crossref_top_vote=2; eng_reco=keep; reco=keep
 - fresh: because they did not listen to the voice of the Lord their God and transgressed his covenant, all that Moses the servant of the Lord commanded, and they did not listen and did not do it.
 - brenton: because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.
-
-## 2 Kings 1:3
-- book: 2 Kings
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=7; reco=keep
-- fresh: And angel of the Lord spoke to Elijah the Thesbite, saying, Rise, come to meet the messengers of Ochozias king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Akkarōn?
-- brenton: And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the god of Accaron? but it shall not be so.

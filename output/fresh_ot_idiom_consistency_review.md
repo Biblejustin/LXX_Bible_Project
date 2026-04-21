@@ -4,7 +4,7 @@ Repeated Greek idiom families. Use this to check whether one verse is drifting a
 
 Families: 5
 Rows checked: 110
-Outliers: 31
+Outliers: 4
 
 ## Family Summary
 
@@ -108,27 +108,27 @@ Outliers: 31
 ### soteria-sacrifice-formula
 - description: Cultic σωτηρι- terms in sacrificial context.
 - rows: 71
-- dominant bucket: `salvation` (43)
-- buckets: salvation=43, peace=27, well-being=1
+- dominant bucket: `salvation` (70)
+- buckets: salvation=70, well-being=1
 
-- 1 Chronicles 16:1 [peace]
-  - fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and peace offerings before God.
-- 1 Chronicles 16:2 [peace]
-  - fresh: And Dauid finished offering whole burnt offerings and peace offerings and blessed people in name of Lord.
-- 1 Chronicles 21:26 [peace]
-  - fresh: And Dauid built there altar to Lord and offered whole burnt offerings and peace offerings, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
-- 2 Chronicles 7:7 [peace]
-  - fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of peace offerings, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
-- 2 Chronicles 29:35 [peace]
-  - fresh: And whole burnt offering was much, with fats of perfection of peace offering and libations of whole burnt offering, and work in house of Lord was set right.
-- 2 Chronicles 30:22 [peace]
-  - fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of peace offering and giving thanks to Lord God of their fathers.
-- 2 Chronicles 31:2 [peace]
-  - fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and peace offering and to praise and give thanks and minister at gates in courts of house of Lord.
+- 1 Chronicles 16:1 [salvation]
+  - fresh: And they brought in ark of God and set it in middle of tent which Dauid pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+- 1 Chronicles 16:2 [salvation]
+  - fresh: And Dauid finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
+- 1 Chronicles 21:26 [salvation]
+  - fresh: And Dauid built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+- 2 Chronicles 7:7 [salvation]
+  - fresh: And Salomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Salomon made was not able to receive whole burnt offerings and grain offerings and fats.
+- 2 Chronicles 29:35 [salvation]
+  - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
+- 2 Chronicles 30:22 [salvation]
+  - fresh: And Ezekias spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
+- 2 Chronicles 31:2 [salvation]
+  - fresh: And Ezekias appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
 - 2 Chronicles 33:16 [salvation]
   - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Iouda to serve the Lord God of Israel.
-- Amos 5:22 [peace]
-  - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent peace offerings.
+- Amos 5:22 [salvation]
+  - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation.
 - Deuteronomy 27:7 [salvation]
   - fresh: and you shall sacrifice there a sacrifice of salvation to the Lord your God, and you shall eat and be filled and rejoice before the Lord your God.
 - Exodus 20:24 [salvation]
@@ -213,44 +213,44 @@ Outliers: 31
   - fresh: And if a man brings a sacrifice of salvation to the Lord, fulfilling a vow or as a freewill choice or in your festivals, it shall be unblemished for acceptance, from the cattle or from the sheep. No blemish shall be in it.
 - Leviticus 23:19 [salvation]
   - fresh: And they shall offer one kid from the goats for sin, and two yearling lambs as a sacrifice of salvation with the loaves of firstfruits.
-- Numbers 6:14 [peace]
-  - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
-- Numbers 6:17 [peace]
-  - fresh: And he shall make the ram a sacrifice of peace to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
-- Numbers 6:18 [peace]
-  - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
-- Numbers 7:17 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
-- Numbers 7:23 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
-- Numbers 7:29 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
-- Numbers 7:35 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
-- Numbers 7:41 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
-- Numbers 7:47 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
-- Numbers 7:53 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
-- Numbers 7:59 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
-- Numbers 7:65 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
-- Numbers 7:71 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
-- Numbers 7:77 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
-- Numbers 7:83 [peace]
-  - fresh: and for sacrifice of peace, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
-- Numbers 7:88 [peace]
-  - fresh: All the cattle for sacrifice of peace were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
-- Numbers 10:10 [peace]
-  - fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over the sacrifices of your peace offerings, and it shall be a memorial for you before your God. I am the Lord your God.
-- Numbers 15:8 [peace]
-  - fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as a peace offering to the Lord,
-- Numbers 29:39 [peace]
-  - fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your peace offerings.
+- Numbers 6:14 [salvation]
+  - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of salvation,
+- Numbers 6:17 [salvation]
+  - fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- Numbers 6:18 [salvation]
+  - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of salvation.
+- Numbers 7:17 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+- Numbers 7:23 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+- Numbers 7:29 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+- Numbers 7:35 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+- Numbers 7:41 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+- Numbers 7:47 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+- Numbers 7:53 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+- Numbers 7:59 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+- Numbers 7:65 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+- Numbers 7:71 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+- Numbers 7:77 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+- Numbers 7:83 [salvation]
+  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+- Numbers 7:88 [salvation]
+  - fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- Numbers 10:10 [salvation]
+  - fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over your sacrifices of salvation, and it shall be a memorial for you before your God. I am the Lord your God.
+- Numbers 15:8 [salvation]
+  - fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- Numbers 29:39 [salvation]
+  - fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your offerings of salvation.
 - Psalms 49:23 [salvation]
   - fresh: Sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.
 

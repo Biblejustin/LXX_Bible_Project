@@ -1370,35 +1370,20 @@ Rows: 234
 - fresh: And Nehemias and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard words of the law.
 - brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
 
-## Numbers 16:3
+## Numbers 15:8
 - priority: `20`
 - importance: `high`
 - reason: score>=16; high+tracked
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
+- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
+- logos local recommendation: `keep`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
-
-## Numbers 19:13
-- priority: `20`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
+- fresh: And if you make from the cattle as a whole burnt offering or as a sacrifice to fulfill a vow or as an offering of salvation to the Lord,
+- brenton: And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,
 
 ## Numbers 6:14
 - priority: `20`
@@ -1415,6 +1400,21 @@ Rows: 234
 - fresh: And he shall bring his gift to the Lord: one unblemished year-old male lamb for a whole burnt offering, and one unblemished year-old ewe lamb for a sin offering, and one unblemished ram for a sacrifice of peace,
 - brenton: And he shall bring his gift to the Lord; one he-lamb of a year old without blemish for a whole-burnt-offering, and one ewe-lamb of a year old without blemish for a sin-offering, and one ram without blemish for a peace-offering;
 
+## Numbers 6:17
+- priority: `20`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
+- logos local recommendation: `keep`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And he shall make the ram a sacrifice of salvation to the Lord with the basket of unleavened bread, and the priest shall make his sacrifice and his libation.
+- brenton: And he shall offer the ram as a sacrifice of peace-offering to the Lord with the basket of unleavened bread; and the priest shall offer its meat-offering and its drink-offering.
+
 ## Numbers 6:18
 - priority: `20`
 - importance: `high`
@@ -1429,6 +1429,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
+
+## Numbers 7:88
+- priority: `20`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
+- logos local recommendation: `keep`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## Psalms 68:14
 - priority: `20`
@@ -1924,21 +1939,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the Levites, Iesous and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
 - brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
-
-## Numbers 6:11
-- priority: `19`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
 ## Proverbs 29:23
 - priority: `19`

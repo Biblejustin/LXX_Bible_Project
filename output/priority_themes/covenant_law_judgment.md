@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 82
+Rows: 81
 Books: 34
 
 ## Exodus 28:30
@@ -46,13 +46,6 @@ Books: 34
 - keywords: law, lord, peace, sacrifice, salvation
 - fresh: This is the law of the sacrifice of salvation that they shall bring to the Lord.
 - brenton: This is the law of the sacrifice of peace-offering, which they shall bring to the Lord.
-
-## Numbers 6:11
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=priest, sin; crossref_top_vote=2; reco=keep
-- keywords: priest, sin
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
 
 ## Numbers 6:14
 - score: 20

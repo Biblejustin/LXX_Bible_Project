@@ -2,7 +2,7 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 61
+Rows: 58
 Books: 24
 
 ## Genesis 1:2
@@ -96,33 +96,12 @@ Books: 24
 - fresh: If a person is overtaken by forgetfulness and sins unintentionally in the holy things of the Lord, then he shall bring for his trespass to the Lord a ram without blemish from the sheep, valued in silver shekels by the sanctuary shekel, for the thing in which he trespassed.
 - brenton: The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.
 
-## Numbers 6:11
-- score: 19
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=priest, sin; crossref_top_vote=2; reco=keep
-- keywords: priest, sin
-- fresh: And the priest shall make one a sin offering and one a whole burnt offering, and the priest shall make atonement for him for what he sinned concerning the dead person, and he shall sanctify his head on that day.
-- brenton: And the priest shall offer one for a sin-offering; and the other for a whole-burnt-offering; and the priest shall make atonement for him in the things wherein he sinned respecting the dead body, and he shall sanctify his head in that day,
-
 ## Numbers 6:18
 - score: 20
 - reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=peace, sacrifice; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: peace, sacrifice
 - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of peace.
 - brenton: And he that has vowed shall shave the head of his consecration by the doors of the tabernacle of witness, and shall put the hairs on the fire which is under the sacrifice of peace-offering.
-
-## Numbers 16:3
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- keywords: holy, lord
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
-
-## Numbers 19:13
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
-- keywords: lord, soul
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
 
 ## Numbers 35:25
 - score: 22
