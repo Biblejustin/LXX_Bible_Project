@@ -11,9 +11,9 @@ Books with drafts: 1 Chronicles, 1 Kings, 1 Samuel, 2 Chronicles, 2 Kings, 2 Sam
 Missing Brenton rows: 10426
 
 Importance counts:
-- high: 17912
-- medium: 1009
-- low: 3996
+- high: 18092
+- medium: 981
+- low: 3844
 - none: 0
 
 Note:
@@ -160376,1620 +160376,1620 @@ Note:
 
 ### Isaiah 14:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: So neither will you be clean, because you destroyed my land and killed my people; evil seed will certainly not remain forever.
 - brenton: [missing]
 
 ### Isaiah 14:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prepare your children to be slaughtered for sins of your father, so that they do not rise up and inherit land and fill land with cities.
 - brenton: [missing]
 
 ### Isaiah 14:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will rise against them, says Lord Sabaoth, and I will destroy from them name and remnant and seed, thus says Lord.
 - brenton: [missing]
 
 ### Isaiah 14:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will make Babylonia desolate for hedgehogs to dwell and it will be for nothing, and I will make it muddy pit for destruction.
 - brenton: [missing]
 
 ### Isaiah 14:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Sabaoth: As I have spoken, so it will be, and as I have counseled, so it remains,
 - brenton: [missing]
 
 ### Isaiah 14:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: to destroy Assyrians from my land, and from my mountains, and they will be for trampling, and their yoke will be removed from them and their glory removed from shoulders.
 - brenton: [missing]
 
 ### Isaiah 14:26
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This counsel which Lord has counseled over whole inhabited world, and this uplifted hand over all nations of inhabited world.
 - brenton: [missing]
 
 ### Isaiah 14:27
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For what Holy God has counseled, who will scatter? And uplifted hand, who will turn back?
 - brenton: [missing]
 
 ### Isaiah 14:28
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In year king Ahaz died this word came.
 - brenton: [missing]
 
 ### Isaiah 14:29
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Do not rejoice, all you foreigners; for yoke of one striking you was broken, for from seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
 - brenton: [missing]
 
 ### Isaiah 14:30
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
 - brenton: [missing]
 
 ### Isaiah 14:31
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Howl, gates of cities; let cities cry out, all foreigners disturbed, because smoke from north comes, and there is no one to be.
 - brenton: [missing]
 
 ### Isaiah 14:32
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And what will kings of nations answer? That Lord founded Zion, and through him humble of people will be saved.
 - brenton: [missing]
 
 ### Isaiah 15:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word against Moabite land. By night Moabite land is destroyed; by night wall of Moabite land is destroyed.
 - brenton: [missing]
 
 ### Isaiah 15:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Grieve over yourselves, for Dibon is destroyed, where your altar is. There you will go up to weep over Nabo of Moab. Howl; on every head baldness, all arms cut.
 - brenton: [missing]
 
 ### Isaiah 15:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In her streets gird yourselves with sackcloths and lament on her housetops, and in her lanes all howl with weeping.
 - brenton: [missing]
 
 ### Isaiah 15:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because Heshbon cried out and Elealeh, as far as Jassa their voice was heard; therefore loins of Moab cry out; her soul will know.
 - brenton: [missing]
 
 ### Isaiah 15:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Heart of Moab cries within her, as far as Segor, for heifer is three years old. Upon ascent of Luith they will go up to you weeping; on way of Horonaim they cry out, destruction and earthquake.
 - brenton: [missing]
 
 ### Isaiah 15:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Water of Nemrim will be desolate, and its grass will fail, for green grass will not exist.
 - brenton: [missing]
 
 ### Isaiah 15:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Will it thus be saved? For I will bring upon valley of Arabs, and they will take it.
 - brenton: [missing]
 
 ### Isaiah 15:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For cry joined border of Moabite land, its howl as far as well of Elim.
 - brenton: [missing]
 
 ### Isaiah 15:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Water of Remmon will be filled with blood, for I will bring Arabs upon Remmon, and I will take seed of Moab and Ariel and remnant of Adama.
 - brenton: [missing]
 
 ### Isaiah 16:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I will send as reptiles upon land. Is not rock desert, mountain of Zion?
 - brenton: [missing]
 
 ### Isaiah 16:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you will be as flying bird, chick taken away, daughters of Moab, and then lambs.
 - brenton: [missing]
 
 ### Isaiah 16:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Counsel more; make shelter of mourning for her always in noonday darkness. Fugitives are driven out; do not be taken away.
 - brenton: [missing]
 
 ### Isaiah 16:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fugitives of Moab will dwell with you; they will be shelter to you from face of pursuer, because your alliance was removed and ruler perished, one trampling on earth.
 - brenton: [missing]
 
 ### Isaiah 16:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And throne will be set right with mercy, and one will sit upon it with truth in tent of David, judging and seeking judgment and hastening righteousness.
 - brenton: [missing]
 
 ### Isaiah 16:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: We heard insolence of Moab, very insolent, his pride was dried up; not thus your oracle.
 - brenton: [missing]
 
 ### Isaiah 16:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Not thus will Moab howl; for in Moabite land all will howl. For dwellers of Deseth you will meditate, and you will not be ashamed.
 - brenton: [missing]
 
 ### Isaiah 16:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fields of Heshbon will mourn, vine of Sebama. Swallowing nations, you trampled its vines as far as Jazer; do not join yourselves, wander in wilderness. Those sent were abandoned, for they crossed wilderness.
 - brenton: [missing]
 
 ### Isaiah 16:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I will weep as weeping of Jazer for vine of Sebama. Your trees Heshbon and Elealeh cast down, because over your harvest and your vintage I will trample, and all things will fall.
 - brenton: [missing]
 
 ### Isaiah 16:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And gladness and rejoicing will be lifted from your vineyards, and in your vineyards they will certainly not rejoice, and they will certainly not tread wine into vats, for it has ceased.
 - brenton: [missing]
 
 ### Isaiah 16:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this my inward parts for Moab will sound like lyre, and my insides like wall which you renewed.
 - brenton: [missing]
 
 ### Isaiah 16:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, when you are shamed, because Moab toiled upon altars and enters into her handmade things to pray, he certainly will not be able to rescue himself.
 - brenton: [missing]
 
 ### Isaiah 16:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: This word which Lord spoke against Moab whenever he spoke.
 - brenton: [missing]
 
 ### Isaiah 16:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And now I say: in three years, years of hired worker, glory of Moab will be dishonored in all much wealth, and remnant will be few and not honored.
 - brenton: [missing]
 
 ### Isaiah 17:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word against Damascus: Behold, Damascus will be removed from cities and will be for falling.
 - brenton: [missing]
 
 ### Isaiah 17:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Left forever for bed of flocks and rest, and there will not be one pursuing.
 - brenton: [missing]
 
 ### Isaiah 17:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says Lord Sabaoth.
 - brenton: [missing]
 
 ### Isaiah 17:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: It will be in that day, eclipse of glory of Jacob, and fat things of his glory will be shaken.
 - brenton: [missing]
 
 ### Isaiah 17:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be as if someone gathers standing harvest and reaps ears of grain with his arm, and it will be as if someone gathers ear in solid ravine.
 - brenton: [missing]
 
 ### Isaiah 17:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And stubble will be left in it, or as berries of olive tree, two or three on high tip, or four or five on their branches, thus says Lord God of Israel.
 - brenton: [missing]
 
 ### Isaiah 17:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day man will be trusting in one making him, and his eyes will look to Holy One of Israel.
 - brenton: [missing]
 
 ### Isaiah 17:8
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they certainly will not be trusting in altars, nor in works of their hands which their fingers made, and they will not see their trees nor their abominations.
 - brenton: [missing]
 
 ### Isaiah 17:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day your cities will be abandoned as Amorites and Hivites abandoned from face of sons of Israel, and they will be desolate.
 - brenton: [missing]
 
 ### Isaiah 17:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you abandoned God your savior and did not remember Lord your helper. Therefore you will plant faithless planting and faithless seed.
 - brenton: [missing]
 
 ### Isaiah 17:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And in day when you plant, you will go astray, and in morning if you sow, it will blossom for harvest; in day he gives lot, and as father of man gives lot to your sons.
 - brenton: [missing]
 
 ### Isaiah 17:12
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe multitude of many nations; as sea surging, so you will be troubled, and rush of many nations will sound as water.
 - brenton: [missing]
 
 ### Isaiah 17:13
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: As much water, many nations, as force of much water rushing down, and he will scare him away and chase him far, as dust of chaff of threshers before wind and as dust of wheel storm carrying.
 - brenton: [missing]
 
 ### Isaiah 17:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Toward evening there will be grief; before morning and it will not be. This portion of those plundering you and inheritance of those inheriting you.
 - brenton: [missing]
 
 ### Isaiah 18:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Woe, land of winged ships beyond rivers of Ethiopia,
 - brenton: [missing]
 
 ### Isaiah 18:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: sending hostages by sea and papyrus letters on water. For light messengers will go to nation lofty and strange, people difficult. What is theirs beyond? Nation without hope and trampled, whose land rivers now divide.
 - brenton: [missing]
 
 ### Isaiah 18:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All as inhabited land will inhabit; their land will be inhabited as signal lifted from mountain, and as trumpet voice it will be heard.
 - brenton: [missing]
 
 ### Isaiah 18:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in day of harvest.
 - brenton: [missing]
 
 ### Isaiah 18:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Before harvest, when blossom is finished and sour grape blossoms into budding flower, he will remove little clusters with sickles, and he will remove and cut down branches.
 - brenton: [missing]
 
 ### Isaiah 18:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And he will leave them together to birds of heaven and beasts of earth, and birds of heaven will gather on them and all beasts of earth will come upon him.
 - brenton: [missing]
 
 ### Isaiah 18:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: At that time gifts will be brought to Lord Sabaoth from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of Lord Sabaoth was invoked, Mount Zion.
 - brenton: [missing]
 
 ### Isaiah 19:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision of Egypt: Behold, Lord sits on swift cloud and will come into Egypt, and handmade things of Egypt will be shaken from before him and their heart will be defeated within them.
 - brenton: [missing]
 
 ### Isaiah 19:2
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Egyptians will rise against Egyptians, and man will war with his brother and man with his neighbor, city against city and law against law.
 - brenton: [missing]
 
 ### Isaiah 19:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And spirit of Egyptians will be troubled within them, and I will scatter their counsel, and they will ask their gods and their carved images and those speaking from earth and ventriloquists.
 - brenton: [missing]
 
 ### Isaiah 19:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says Lord Sabaoth.
 - brenton: [missing]
 
 ### Isaiah 19:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Egyptians will drink water from sea, and river will fail and dry up.
 - brenton: [missing]
 
 ### Isaiah 19:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And rivers will fail, and channels of river, and every collection of water will dry up, and in every marsh reed and papyrus.
 - brenton: [missing]
 
 ### Isaiah 19:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And green rush, all around river, and everything sown by river will dry up, wind-blasted.
 - brenton: [missing]
 
 ### Isaiah 19:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And fishermen will groan, and all casting hook into river will groan, and those throwing drag-nets and casting nets will mourn.
 - brenton: [missing]
 
 ### Isaiah 19:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And shame will seize those working split flax and those working fine linen.
 - brenton: [missing]
 
 ### Isaiah 19:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And those weaving them will be in pain, and all making beer will grieve and pain their souls.
 - brenton: [missing]
 
 ### Isaiah 19:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And princes of Tanis will be fools, wise counselors of king; their counsel will be made foolish. How will you say to king, We are sons of wise men, sons of ancient kings?
 - brenton: [missing]
 
 ### Isaiah 19:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Where now are your wise men? Let them announce to you and tell what Lord Sabaoth has counseled against Egypt.
 - brenton: [missing]
 
 ### Isaiah 19:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Princes of Tanis failed, and princes of Memphis were exalted, and they will lead Egypt astray by tribes.
 - brenton: [missing]
 
 ### Isaiah 19:14
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For Lord mixed in them spirit of wandering, and they led Egypt astray in all their works, as drunk man and vomiting man wander together.
 - brenton: [missing]
 
 ### Isaiah 19:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And there will not be for Egyptians work which head and tail, beginning and end, will do.
 - brenton: [missing]
 
 ### Isaiah 19:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day Egyptians will be as women, in fear and trembling from face of hand of Lord Sabaoth which he himself lays upon them.
 - brenton: [missing]
 
 ### Isaiah 19:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And land of Jews will be terror to Egyptians; whoever names it to them, they will fear because of counsel which Lord has counseled against it.
 - brenton: [missing]
 
 ### Isaiah 19:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day there will be five cities in Egypt speaking language of Canaan and swearing by name of Lord; one city will be called City of Righteousness.
 - brenton: [missing]
 
 ### Isaiah 19:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day there will be altar to Lord in land of Egyptians and pillar to Lord by its border.
 - brenton: [missing]
 
 ### Isaiah 19:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be for sign forever to Lord in land of Egypt, because they will cry to Lord because of those afflicting them, and Lord will send them man who will save them; by judging he will save them.
 - brenton: [missing]
 
 ### Isaiah 19:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will be known to Egyptians, and Egyptians will know Lord in that day, and they will make sacrifices and vow vows to Lord and pay them.
 - brenton: [missing]
 
 ### Isaiah 19:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord will strike Egyptians with great blow and heal them; he will heal, and they will turn to Lord, and he will hear them and heal them.
 - brenton: [missing]
 
 ### Isaiah 19:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day there will be way from Egypt to Assyrians, and Assyrians will enter Egypt and Egyptians will go to Assyrians, and Egyptians will serve Assyrians.
 - brenton: [missing]
 
 ### Isaiah 19:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day Israel will be third among Assyrians and Egyptians, blessed in land
 - brenton: [missing]
 
 ### Isaiah 19:25
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: which Lord Sabaoth blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
 - brenton: [missing]
 
 ### Isaiah 20:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In year Tartan entered into Ashdod, when sent by Arna king of Assyrians, and he warred against Ashdod and captured it,
 - brenton: [missing]
 
 ### Isaiah 20:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: then Lord spoke to Isaiah, saying, Go and take sackcloth off your waist and loosen sandals from your feet. And he did so, walking naked and barefoot.
 - brenton: [missing]
 
 ### Isaiah 20:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord said, As Isaiah my servant has walked naked and barefoot three years, so signs and wonders will be to Egyptians and Ethiopians.
 - brenton: [missing]
 
 ### Isaiah 20:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus king of Assyrians will lead captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with shame of Egypt uncovered.
 - brenton: [missing]
 
 ### Isaiah 20:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Egyptians will be ashamed, defeated because of Ethiopians on whom they were trusting; for Egyptians were their glory.
 - brenton: [missing]
 
 ### Isaiah 20:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And dwellers in this island will say, Look, we were trusting to flee to them for help, who were not able to be saved from king of Assyrians; and how shall we be saved?
 - brenton: [missing]
 
 ### Isaiah 21:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision of wilderness: as storm through wilderness would pass through, coming from fearful land.
 - brenton: [missing]
 
 ### Isaiah 21:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hard vision was reported to me: lawless one acts lawlessly, and outlaw acts as outlaw. Against me Elamites and envoys of Persians come upon me. Now I will groan and comfort myself.
 - brenton: [missing]
 
 ### Isaiah 21:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this my loins were filled with weakness, and pains seized me as one giving birth. I did wrong not to hear; I hurried not to see.
 - brenton: [missing]
 
 ### Isaiah 21:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: My heart wanders and lawlessness baptizes me; my soul has stood into fear.
 - brenton: [missing]
 
 ### Isaiah 21:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Prepare table; drink, eat. Rise up, rulers; prepare shields.
 - brenton: [missing]
 
 ### Isaiah 21:6
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus Lord said to me: Having gone, set watchman for yourself, and what you see, report.
 - brenton: [missing]
 
 ### Isaiah 21:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I saw riders, two horsemen, rider of donkey and rider of camel. Listen, great listening.
 - brenton: [missing]
 
 ### Isaiah 21:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And call Uriah to lookout of Lord. And he said, I stood continually by day, and on camp I stood whole night.
 - brenton: [missing]
 
 ### Isaiah 21:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And look, he comes, rider of pair. And answering he said, Babylon has fallen, and all her carved images and handmade things have been shattered to ground.
 - brenton: [missing]
 
 ### Isaiah 21:10
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Hear, you left behind and you being pained; hear what Lord Sabaoth, God of Israel, announced to us.
 - brenton: [missing]
 
 ### Isaiah 21:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision of Idumea: To me one calls from Seir, Guard ramparts.
 - brenton: [missing]
 
 ### Isaiah 21:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: I guard morning and night. If you seek, seek, and dwell with me.
 - brenton: [missing]
 
 ### Isaiah 21:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In forest at evening you will sleep, on road, Dedan.
 - brenton: [missing]
 
 ### Isaiah 21:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Bring water to one thirsty; you dwelling in land of Tema, meet fugitives with bread,
 - brenton: [missing]
 
 ### Isaiah 21:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: because of multitude of fugitives and multitude of wanderers and multitude of sword and multitude of stretched bows and multitude of fallen in war.
 - brenton: [missing]
 
 ### Isaiah 21:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because thus Lord said to me: Yet one year, as year of hired worker, glory of sons of Kedar will fail.
 - brenton: [missing]
 
 ### Isaiah 21:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And remnant of arrows of mighty sons of Kedar will be few, because Lord God of Israel spoke.
 - brenton: [missing]
 
 ### Isaiah 22:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Word of valley of Zion: What happened to you now that all of you went up to housetops?
 - brenton: [missing]
 
 ### Isaiah 22:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: City full of shouting, vanity; your wounded not wounded by sword, nor your dead dead of war.
 - brenton: [missing]
 
 ### Isaiah 22:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All your rulers have fled, and those captured are harshly bound, and mighty ones among you have fled far off.
 - brenton: [missing]
 
 ### Isaiah 22:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort me over crushing of daughter of my kin.
 - brenton: [missing]
 
 ### Isaiah 22:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because day of trouble and destruction and trampling and wandering from Lord Sabaoth in valley of Zion; they wander from small to great, they wander on mountains.
 - brenton: [missing]
 
 ### Isaiah 22:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Elamites took quivers, riders, men on horses, and gathering of battle-line.
 - brenton: [missing]
 
 ### Isaiah 22:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your choice valleys will be filled with chariots, and horsemen will shut your gates.
 - brenton: [missing]
 
 ### Isaiah 22:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will uncover gates of Judah, and in that day they will look to choice houses of city.
 - brenton: [missing]
 
 ### Isaiah 22:9
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will uncover hidden things of houses of citadel of David, and saw that they are many, and that they turned water of old pool into city.
 - brenton: [missing]
 
 ### Isaiah 22:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And that they pulled down houses of Jerusalem into fortification for wall of city.
 - brenton: [missing]
 
 ### Isaiah 22:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from beginning, and one who built it you did not see.
 - brenton: [missing]
 
 ### Isaiah 22:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord Sabaoth called in that day for weeping and mourning and shaving and girding of sackcloth.
 - brenton: [missing]
 
 ### Isaiah 22:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: But they made gladness and rejoicing, slaughtering calves and sacrificing sheep, so as to eat meat and drink wine, saying, Let us eat and drink, for tomorrow we die.
 - brenton: [missing]
 
 ### Isaiah 22:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And these things are uncovered in ears of Lord Sabaoth: this sin will certainly not be forgiven you until you die.
 - brenton: [missing]
 
 ### Isaiah 22:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Thus says Lord Sabaoth: Go into chamber to Sobna the steward and say to him,
 - brenton: [missing]
 
 ### Isaiah 22:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: What do you have here, and what is here to you, that you cut out for yourself here tomb and made for yourself memorial in high place and carved for yourself dwelling in rock?
 - brenton: [missing]
 
 ### Isaiah 22:17
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Look now, Lord Sabaoth will throw out and pulverize man and remove your robe.
 - brenton: [missing]
 
 ### Isaiah 22:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your glorious crown, and he will throw you into great and immeasurable land, and there you will die, and he will make your beautiful chariot dishonor and your ruler's house into trampling.
 - brenton: [missing]
 
 ### Isaiah 22:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And you will be removed from your stewardship and from your station.
 - brenton: [missing]
 
 ### Isaiah 22:20
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, I will call my servant Eliakim son of Hilkiah.
 - brenton: [missing]
 
 ### Isaiah 22:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will clothe him with your robe and give your crown to him, and your authority and your stewardship I will give into his hands, and he will be as father to dwellers in Jerusalem and dwellers in Judah.
 - brenton: [missing]
 
 ### Isaiah 22:22
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will give glory of David to him, and he will rule, and there will not be one contradicting.
 - brenton: [missing]
 
 ### Isaiah 22:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And I will set him ruler in trustworthy place, and he will be for throne of glory of house of his father.
 - brenton: [missing]
 
 ### Isaiah 22:24
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And whole glorious thing in house of his father will be trusting on him, from small to great, and they will be hanging from him.
 - brenton: [missing]
 
 ### Isaiah 22:25
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In that day, thus says Lord Sabaoth, man supported in trustworthy place will be shaken, and he will fall, and glory upon him will be removed, because Lord spoke.
 - brenton: [missing]
 
 ### Isaiah 23:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from land of Kittim; it was led captive.
 - brenton: [missing]
 
 ### Isaiah 23:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: To what have dwellers on island become like, traders of Phoenicia crossing sea?
 - brenton: [missing]
 
 ### Isaiah 23:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: In much water, seed of traders as harvest brought in, traders of nations.
 - brenton: [missing]
 
 ### Isaiah 23:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Be ashamed, Sidon, said sea. And strength of sea said, I did not travail nor bear, nor nourish young men, nor raise virgins.
 - brenton: [missing]
 
 ### Isaiah 23:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And whenever it becomes heard in Egypt, pain will seize them concerning Tyre.
 - brenton: [missing]
 
 ### Isaiah 23:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Go away to Carthage; howl, dwellers on this island.
 - brenton: [missing]
 
 ### Isaiah 23:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Was this your insolence from beginning before it was handed over?
 - brenton: [missing]
 
 ### Isaiah 23:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Who planned these things against Tyre? Is she not lesser, or does she not prevail? Her merchants are glorious, rulers of earth.
 - brenton: [missing]
 
 ### Isaiah 23:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord Sabaoth counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
 - brenton: [missing]
 
 ### Isaiah 23:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Work your land, for ship no longer comes from Carthage.
 - brenton: [missing]
 
 ### Isaiah 23:11
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And your hand no longer strong over sea, the one provoking kings. Lord Sabaoth commanded concerning Canaan to destroy her strength.
 - brenton: [missing]
 
 ### Isaiah 23:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will say, You will no longer continue to act insolently and do wrong, daughter of Sidon; and if you go to Kittim, even there rest will not be to you.
 - brenton: [missing]
 
 ### Isaiah 23:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And into land of Chaldeans, and this has been desolated by Assyrians; even there rest will not be to you, because its wall has fallen.
 - brenton: [missing]
 
 ### Isaiah 23:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Howl, ships of Carthage, because your stronghold was destroyed.
 - brenton: [missing]
 
 ### Isaiah 23:15
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, Tyre will be left seventy years, as time of king, as time of man. And after seventy years Tyre will be as song of prostitute.
 - brenton: [missing]
 
 ### Isaiah 23:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Take lyre, wander cities, forgotten prostitute; play lyre well, sing much, so that memory of you may happen.
 - brenton: [missing]
 
 ### Isaiah 23:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be after seventy years, God will make visitation on Tyre, and again she will be restored to the ancient state and will be marketplace for all kingdoms of inhabited world.
 - brenton: [missing]
 
 ### Isaiah 23:18
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And her trade and wage will be holy to Lord; it will not be gathered for them, but all her trade for those dwelling before Lord, to eat and drink and be filled, into token, memorial before Lord.
 - brenton: [missing]
 
 ### Isaiah 24:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Behold, Lord destroys inhabited world and will make it desolate and uncover its face and scatter those dwelling in it.
 - brenton: [missing]
 
 ### Isaiah 24:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And people will be as priest, and servant as master, and maid as mistress; buyer will be as seller, lender as borrower, and debtor as one to whom debt is owed.
 - brenton: [missing]
 
 ### Isaiah 24:3
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Land with ruin will be ruined and with plunder will be plundered, for mouth of Lord spoke these things.
 - brenton: [missing]
 
 ### Isaiah 24:4
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Land mourned and inhabited world was destroyed; high ones of earth mourned.
 - brenton: [missing]
 
 ### Isaiah 24:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And land acted lawlessly because of those dwelling in it, because they transgressed law and changed ordinances, everlasting covenant.
 - brenton: [missing]
 
 ### Isaiah 24:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this curse will eat land, because those dwelling in it sinned; because of this dwellers in land will be poor and few men will be left.
 - brenton: [missing]
 
 ### Isaiah 24:7
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Wine will mourn, vine will mourn, all rejoicing in soul will groan.
 - brenton: [missing]
 
 ### Isaiah 24:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Gladness of drums ceased, insolence and wealth of ungodly ceased, voice of lyre ceased.
 - brenton: [missing]
 
 ### Isaiah 24:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They were put to shame; they did not drink wine; strong drink became bitter to drinkers.
 - brenton: [missing]
 
 ### Isaiah 24:10
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Every city was made desolate; they will shut house so as not to enter.
 - brenton: [missing]
 
 ### Isaiah 24:11
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Howl concerning wine everywhere; all gladness of land ceased.
 - brenton: [missing]
 
 ### Isaiah 24:12
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And cities will be left desolate, and abandoned houses will perish.
 - brenton: [missing]
 
 ### Isaiah 24:13
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: All these will be in land in midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
 - brenton: [missing]
 
 ### Isaiah 24:14
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: These will cry out with voice, and those left on land will rejoice together in glory of Lord; water of sea will be troubled.
 - brenton: [missing]
 
 ### Isaiah 24:15
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this glory of Lord will be in islands of sea; name of Lord will be glorious, Lord God of Israel.
 - brenton: [missing]
 
 ### Isaiah 24:16
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: From wings of earth we heard wonders, hope to godly one. And they will say, Woe to those rejecting, those rejecting law.
 - brenton: [missing]
 
 ### Isaiah 24:17
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Fear and pit and snare upon you, dwellers on earth.
 - brenton: [missing]
 
 ### Isaiah 24:18
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And it will be, one fleeing fear will fall into pit, and one coming up from pit will be caught by snare, because windows from heaven were opened and foundations of earth will be shaken.
 - brenton: [missing]
 
 ### Isaiah 24:19
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: With turmoil earth will be troubled and with perplexity earth will be perplexed.
 - brenton: [missing]
 
 ### Isaiah 24:20
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Earth bent and will be shaken like fruit-watch hut, as drunken and hungover man, and it will fall and certainly not be able to rise, for lawlessness prevailed upon it.
 - brenton: [missing]
 
 ### Isaiah 24:21
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And God will bring his hand upon host of heaven and upon kings of earth.
 - brenton: [missing]
 
 ### Isaiah 24:22
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will gather and shut them into stronghold and prison, and after many generations there will be visitation on them.
 - brenton: [missing]
 
 ### Isaiah 24:23
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And brick will melt and wall will fall, because Lord will reign in Zion and in Jerusalem and before elders be glorified.
 - brenton: [missing]
 
 ### Isaiah 25:1
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Lord my God, I will glorify you, I will hymn your name, because you did wondrous things, ancient counsel, true; let it be, Lord.
 - brenton: [missing]
 
 ### Isaiah 25:2
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because you made cities into mound, strong cities so that their foundations fall; city of ungodly certainly will not be built forever.
 - brenton: [missing]
 
 ### Isaiah 25:3
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Because of this poor people will bless you, and cities of men being wronged will bless you.
 - brenton: [missing]
 
 ### Isaiah 25:4
 
-- importance: medium
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged.
 - brenton: [missing]
 
 ### Isaiah 25:5
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: They will bless you as faint-hearted thirsty men in Zion, from ungodly men to whom you handed us over.
 - brenton: [missing]
 
 ### Isaiah 25:6
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And Lord Sabaoth will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
 - brenton: [missing]
 
 ### Isaiah 25:7
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: On this mountain hand over all these things to nations, for this counsel upon all nations.
 - brenton: [missing]
 
 ### Isaiah 25:8
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: Death swallowed after growing strong, and again God took away every tear from every face; reproach of people he took away from all earth, for mouth of Lord spoke.
 - brenton: [missing]
 
 ### Isaiah 25:9
 
-- importance: low
-- decisions: 0
-- footnotes: 0
+- importance: high
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And they will say in that day, Behold our God on whom we hoped, and we rejoiced and will be glad over our salvation.
 - brenton: [missing]
