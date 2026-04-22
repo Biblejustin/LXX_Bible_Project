@@ -1137,6 +1137,7 @@ def load_name_meaning_notes(
     proper_names_path: Path,
     transliterated_proper_names_path: Path,
     names_of_god_path: Path,
+    source_filter: str | None = None,
 ) -> tuple[dict[str, list[NameMeaningNote]], dict[str, int]]:
     grouped: dict[str, list[NameMeaningNote]] = defaultdict(list)
     counts = Counter()
@@ -1176,6 +1177,10 @@ def load_name_meaning_notes(
             reader = csv.DictReader(handle)
             for row in reader:
                 counts["transliterated_proper_name_rows"] += 1
+                source = normalize_space(row.get("source", ""))
+                if source_filter and source and source != source_filter:
+                    counts["transliterated_proper_name_skipped_other_source"] += 1
+                    continue
                 ref = normalize_note_ref(row.get("first_reference", ""))
                 name = normalize_space(row.get("name", ""))
                 kind = normalize_space(row.get("kind", ""))
@@ -1185,6 +1190,7 @@ def load_name_meaning_notes(
                     continue
                 label = {
                     "person": "Personal name",
+                    "place": "Place name",
                     "people_group": "People-name",
                     "supernatural_being": "Divine or supernatural name",
                     "transliterated_form": "Transliterated proper noun",
@@ -2628,6 +2634,7 @@ def main() -> None:
         proper_names_path=args.proper_names,
         transliterated_proper_names_path=args.transliterated_proper_names,
         names_of_god_path=args.names_of_god,
+        source_filter=args.testament,
     )
     name_notes, name_note_placement_counts = place_name_meaning_notes_by_chapter(verses, source_name_notes)
     name_note_counts = {
