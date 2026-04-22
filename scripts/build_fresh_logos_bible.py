@@ -1582,7 +1582,7 @@ def build_crossrefs_for_verses(
     if not enabled:
         return {}, {
             "enabled": False,
-            "reason": "Disabled by default; use --include-crossrefs to add the full TSK/OpenBible layer.",
+            "reason": "Disabled with --no-crossrefs.",
             "source_counts": {},
             "verses_with_crossrefs": 0,
             "crossref_note_groups": 0,
@@ -2084,7 +2084,7 @@ def add_title_page(
         (
             "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row."
             if crossrefs_enabled
-            else "Cross-reference footnote layer is excluded by default so translation, textual, and name notes remain readable."
+            else "Cross-reference footnote layer is excluded because --no-crossrefs was used."
         ),
         "Includes name-meaning notes at first exact occurrence per chapter.",
         supplemental_policy,
@@ -2396,9 +2396,9 @@ def build_readme(
         else "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
     )
     crossref_note = (
-        "- Cross-references: full TSK/OpenBible cross-reference footnote layer included because `--include-crossrefs` was used. See root `NOTICE.md` for public-domain/CC-BY attribution details."
+        "- Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details."
         if crossrefs_enabled
-        else "- Cross-references: omitted from the default Personal Book build. This keeps the source from being flooded by TSK/OpenBible footnotes and leaves translation, textual, supplemental, and name-meaning notes visible. Rebuild with `--include-crossrefs` only when a cross-reference-heavy edition is desired."
+        else "- Cross-references: omitted because `--no-crossrefs` was used."
     )
     content = f"""# Fresh Translation {config["label"]} Logos/Proofreading Files
 
@@ -2561,9 +2561,9 @@ def main() -> None:
         help="Visible footnote numbering restart scope inside the single DOCX file.",
     )
     parser.add_argument(
-        "--include-crossrefs",
+        "--no-crossrefs",
         action="store_true",
-        help="Include the full TSK/OpenBible cross-reference footnote layer. Disabled by default to keep notes readable.",
+        help="Omit the TSK/OpenBible cross-reference footnote layer.",
     )
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
@@ -2599,7 +2599,7 @@ def main() -> None:
     crossrefs, crossref_diag = build_crossrefs_for_verses(
         verses,
         args.testament,
-        enabled=args.include_crossrefs,
+        enabled=not args.no_crossrefs,
     )
     if args.no_place_links:
         place_links: dict[str, PlaceLink] = {}
@@ -2646,7 +2646,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links=place_links,
         place_link_pattern=place_link_pattern,
-        crossrefs_enabled=args.include_crossrefs,
+        crossrefs_enabled=not args.no_crossrefs,
     )
     mt_bridge_stats = build_docx(
         path=args.mt_bridge_docx,
@@ -2667,7 +2667,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links=place_links,
         place_link_pattern=place_link_pattern,
-        crossrefs_enabled=args.include_crossrefs,
+        crossrefs_enabled=not args.no_crossrefs,
     )
     proof_stats = build_docx(
         path=args.proof_docx,
@@ -2688,7 +2688,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links={},
         place_link_pattern=None,
-        crossrefs_enabled=args.include_crossrefs,
+        crossrefs_enabled=not args.no_crossrefs,
     )
     build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
@@ -2707,7 +2707,7 @@ def main() -> None:
         book_intros_path=args.book_intros,
         translation_decisions_path=args.translation_decisions,
         deuterocanonical_work=deuterocanonical_work,
-        crossrefs_enabled=args.include_crossrefs,
+        crossrefs_enabled=not args.no_crossrefs,
     )
     validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
