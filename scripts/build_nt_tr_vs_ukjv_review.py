@@ -160,6 +160,83 @@ NOTE_WEIGHTS = {
     "rendered daimonizomai as demonized": 4,
 }
 
+STYLE_ONLY_NOTES = {
+    "capitalized Passover",
+    "cleaned forasmuch-as modernization artifact",
+    "fixed Father relative agreement",
+    "fixed earnest expectation artifact",
+    "fixed question casing",
+    "fixed sentence casing",
+    "fixed yours artifact",
+    "modernized article before h-word",
+    "modernized article before consonant sound",
+    "modernized archaic directional unto",
+    "modernized anything spelling",
+    "modernized bare as bore",
+    "modernized be-not imperative",
+    "modernized be-not-afraid imperative",
+    "modernized be-you imperative",
+    "modernized be-you-not imperative",
+    "modernized because-that wording",
+    "modernized behold",
+    "modernized believe-not idiom",
+    "modernized believes-not idiom",
+    "modernized brethren",
+    "modernized can-not spelling",
+    "modernized childbirth bring-forth idiom",
+    "modernized conversation as conduct",
+    "modernized everything spelling",
+    "modernized forever spelling",
+    "modernized forasmuch",
+    "modernized held-his-peace idiom",
+    "modernized hereby",
+    "modernized him-that relative",
+    "modernized him-which relative",
+    "modernized honour spelling",
+    "modernized how-says-you idiom",
+    "modernized if-Christ-be idiom",
+    "modernized in-the-which wording",
+    "modernized like-to wording",
+    "modernized lo",
+    "modernized labour spelling",
+    "modernized mine-own idiom",
+    "modernized nay",
+    "modernized neighbour spelling",
+    "modernized nigh",
+    "modernized no-man idiom",
+    "modernized offence spelling",
+    "modernized personal which as who",
+    "modernized sentence casing",
+    "modernized since-then-as wording",
+    "modernized slew",
+    "modernized them-that relative",
+    "modernized them-which relative",
+    "modernized there-be idiom",
+    "modernized thereby",
+    "modernized therefore",
+    "modernized thereof",
+    "modernized therein",
+    "modernized whereby",
+    "modernized whereof",
+    "modernized wherein",
+    "modernized thence",
+    "modernized they-that relative",
+    "modernized they-which relative",
+    "modernized today spelling",
+    "modernized verily",
+    "modernized whatsoever",
+    "modernized wherefore",
+    "modernized whosoever",
+    "modernized whoso",
+    "modernized wrought",
+    "modernized you-that relative",
+    "modernized yours before noun",
+    "modernized yea",
+    "rendered adelphoi-family wording as brothers",
+    "removed UKJV inline Strong-style lexical marker",
+    "removed UKJV plural-expansion artifact",
+}
+
 STATUS_WEIGHTS = {
     "needs_focused_tr_review": 10,
     "tr_literal_manual": 8,
@@ -230,6 +307,10 @@ def note_matches(notes: str) -> list[str]:
     return [note for note in NOTE_WEIGHTS if note in notes]
 
 
+def split_review_notes(notes: str) -> list[str]:
+    return [note.strip() for note in notes.split(";") if note.strip()]
+
+
 def review_pass_sort_key(path: Path) -> tuple[int, str]:
     match = re.search(r"nt_review_pass_(\d+)\.md$", path.name)
     return (int(match.group(1)), path.name) if match else (0, path.name)
@@ -268,7 +349,15 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
     has_meaningful_difference = has_text_gap or not same_normalized
 
     themes, keyword_hits = find_theme_hits(f"{tr_text} {ukjv_text}")
+    review_notes = split_review_notes(notes)
     matched_notes = note_matches(notes)
+    style_only_difference = (
+        bool(review_notes)
+        and not has_text_gap
+        and not same_normalized
+        and all(note in STYLE_ONLY_NOTES for note in review_notes)
+    )
+    requires_review = has_text_gap or (has_meaningful_difference and not style_only_difference)
     score = 0
     reasons: list[str] = []
 
@@ -284,20 +373,21 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
     elif tr_text and ukjv_text:
         reasons.append("TR draft matches UKJV witness")
 
-    if has_meaningful_difference and status in STATUS_WEIGHTS:
+    if style_only_difference:
+        reasons.append("style-only modernization")
+
+    if requires_review and status in STATUS_WEIGHTS:
         score += STATUS_WEIGHTS[status]
         reasons.append(f"status:{status}")
 
-    if has_meaningful_difference:
+    if requires_review:
         for note in matched_notes:
             score += NOTE_WEIGHTS[note]
             reasons.append(note)
 
-    if has_meaningful_difference and keyword_hits:
+    if requires_review and keyword_hits:
         score += min(12, len(keyword_hits) * 2)
         reasons.append("theology/literal keyword hit")
-
-    requires_review = has_meaningful_difference
 
     if resolved:
         importance = "none"

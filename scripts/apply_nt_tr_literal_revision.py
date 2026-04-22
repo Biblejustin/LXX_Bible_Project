@@ -908,6 +908,10 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\bgraven by are and man's device\b", "engraved by art and man's device", "fixed graven-by-art typo"),
         (r"\bthe more part\b", "most", "modernized more-part idiom"),
         (r"\bthat you not be judged\b", "that you may not be judged", "fixed negative subjunctive wording"),
+        (r"\bSince then as\b", "Since then", "modernized since-then-as wording"),
+        (r"\bsince then as\b", "since then", "modernized since-then-as wording"),
+        (r"\bbecause that\b", "because", "modernized because-that wording"),
+        (r"\bof which you have heard\b", "concerning which you have heard", "aligned peri relative wording"),
     ]
     for pattern, replacement, note in final_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)

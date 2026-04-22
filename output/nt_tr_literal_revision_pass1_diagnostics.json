@@ -4,16 +4,16 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 20,
-    "tr_literal_pass1": 5708,
-    "needs_focused_tr_review": 2229
+    "tr_literal_pass1": 5719,
+    "needs_focused_tr_review": 2218
   },
   "changed_by_book": {
     "MAT": 823,
     "MRK": 473,
-    "LUK": 797,
-    "JHN": 626,
-    "ACT": 648,
-    "ROM": 273,
+    "LUK": 799,
+    "JHN": 629,
+    "ACT": 652,
+    "ROM": 274,
     "1CO": 302,
     "2CO": 175,
     "GAL": 100,
@@ -26,7 +26,7 @@
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
-    "HEB": 191,
+    "HEB": 192,
     "JAS": 81,
     "1PE": 82,
     "2PE": 47,
@@ -54,7 +54,7 @@
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 261,
-    "UKJV seed retained; needs focused Greek review": 2229,
+    "UKJV seed retained; needs focused Greek review": 2218,
     "removed UKJV plural-expansion artifact": 1117,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
@@ -257,6 +257,7 @@
     "modernized hearken": 9,
     "modernized know-you-not question": 17,
     "modernized knows-not idiom": 8,
+    "modernized because-that wording": 24,
     "fixed prayed-him relative artifact": 2,
     "modernized I-pray-you wording": 7,
     "fixed commanded-them relative artifact": 3,
@@ -344,6 +345,7 @@
     "rendered aphonos as voiceless": 3,
     "modernized gainsaying": 3,
     "rendered living/dead idiom": 1,
+    "modernized since-then-as wording": 4,
     "modernized waxed-bold idiom": 1,
     "fixed had-were artifact": 1,
     "fixed graven-by-art typo": 1,
@@ -431,6 +433,7 @@
     "modernized write-I word order": 1,
     "rendered splanchna compassion idiom": 1,
     "fixed know-you word order": 1,
+    "aligned peri relative wording": 1,
     "fixed non-person relative after witness": 1,
     "rendered phiale as bowl": 12,
     "modernized waxed-rich idiom": 1,
@@ -438,7 +441,7 @@
     "fixed Revelation relative artifact": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2229,
+  "review_queue_rows": 2218,
   "examples": {
     "manual TR literal override": [
       {
@@ -3810,6 +3813,23 @@
         "draft_translation": "But this people who does not know the law are cursed."
       }
     ],
+    "modernized because-that wording": [
+      {
+        "ref": "Mark 5:4",
+        "book_code": "MRK",
+        "draft_translation": "because he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could anyone tame him."
+      },
+      {
+        "ref": "Luke 1:7",
+        "book_code": "LUK",
+        "draft_translation": "And they had no child, because Elisabeth was barren, and they both were now well stricken in years."
+      },
+      {
+        "ref": "Luke 9:7",
+        "book_code": "LUK",
+        "draft_translation": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because it was said of some, that John was risen from the dead;"
+      }
+    ],
     "fixed prayed-him relative artifact": [
       {
         "ref": "Mark 5:18",
@@ -4854,6 +4874,23 @@
         "draft_translation": "And he commanded us to preach to the people, and to testify that it is the one who was ordained of God to be the Judge of living and dead."
       }
     ],
+    "modernized since-then-as wording": [
+      {
+        "ref": "Acts 11:17",
+        "book_code": "ACT",
+        "draft_translation": "Since then God gave them the like gift as he did to us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+      },
+      {
+        "ref": "Acts 17:29",
+        "book_code": "ACT",
+        "draft_translation": "Since then we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, engraved by art and man's device."
+      },
+      {
+        "ref": "Hebrews 2:14",
+        "book_code": "HEB",
+        "draft_translation": "Since then the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him who had the power of death, that is, the devil;"
+      }
+    ],
     "modernized waxed-bold idiom": [
       {
         "ref": "Acts 13:46",
@@ -4872,7 +4909,7 @@
       {
         "ref": "Acts 17:29",
         "book_code": "ACT",
-        "draft_translation": "Since then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, engraved by art and man's device."
+        "draft_translation": "Since then we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, engraved by art and man's device."
       }
     ],
     "modernized clave": [
@@ -5706,6 +5743,13 @@
         "ref": "1 John 4:2",
         "book_code": "1JN",
         "draft_translation": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:"
+      }
+    ],
+    "aligned peri relative wording": [
+      {
+        "ref": "1 John 4:3",
+        "book_code": "1JN",
+        "draft_translation": "And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, concerning which you have heard that it should come; and even now already is it in the world."
       }
     ],
     "fixed non-person relative after witness": [

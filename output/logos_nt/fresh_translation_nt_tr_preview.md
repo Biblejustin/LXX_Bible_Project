@@ -235,7 +235,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is meet, because that your faith grows exceedingly, and the love of every one of you all toward each other abounds;
+**2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is meet, because your faith grows exceedingly, and the love of every one of you all toward each other abounds;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 25
