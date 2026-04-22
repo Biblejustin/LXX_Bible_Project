@@ -1,0 +1,6 @@
+# Runtime scripts are intentionally standard-library first.
+# reportlab is optional, used only for the PDF excerpt from build_study_bible.py.
+reportlab>=4.2,<5
+
+# Test dependency.
+pytest>=8.2,<9

@@ -14,13 +14,59 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - Local Logos resources serve as research tools, while private notes stay private.
 - This branch removes inherited study-bible output artifacts and keeps only fresh-translation outputs.
 
+## Build Requirements
+
+- Python 3.11+.
+- Runtime scripts are standard-library first.
+- Optional PDF excerpt support for `scripts/build_study_bible.py` uses
+  `reportlab`; test tooling uses `pytest`.
+- Install local dependencies with:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+The legacy LaTeX output is written as `.tex`; compiling it requires a Unicode
+LaTeX toolchain such as TeX Live with `xelatex`, `fontspec`, `geometry`,
+`titlesec`, `fancyhdr`, `multicol`, `xcolor`, `parskip`, `hyperref`, and
+standard system fonts such as Baskerville and Times New Roman.
+
+## Documentation
+
+- Editorial method: `METHODOLOGY.md`
+- Source provenance and checksums: `SOURCE_PROVENANCE.md`
+- Rights and license notices: `NOTICE.md` and `LICENSE`
+- Translation rules: `data/research/translation_rules.md`
+- Reader-facing conventions: `data/editorial_conventions.md`
+
+## Reproducibility Checks
+
+```bash
+python3 -m compileall -q scripts
+pytest -q
+```
+
+CI runs the same smoke checks in `.github/workflows/smoke.yml`.
+
+## Branch Strategy
+
+`fresh-translation-pilot` is the active working branch for the new Greek-source
+translation pipeline. Future public release branches should describe their
+source-text pairing and output target in the branch name; default branch naming
+can be normalized separately when the project is ready for broader contributors.
+
 ## Current Outputs
 
 - `RELEASE_STATUS.md`
 - `output/fresh_translation_ot_full.md`
 - `output/fresh_translation_ot_full_translation_only.md`
+- `output/fresh_translation_nt_tr_full.md`
+- `output/fresh_translation_nt_tr_translation_only.md`
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
+- `output/fresh_nt_tr_vs_ukjv_priority_review.md`
 - `output/fresh_vs_brenton_ot_theme_overview.md`
 - `output/fresh_vs_mt_brenton_ot_review.md`
 - `output/fresh_mt_leaning_vs_brenton.md`
@@ -30,6 +76,9 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - `output/logos/fresh_translation_ot_logos_bible.docx`
 - `output/logos/fresh_translation_ot_proofreading.docx`
 - `output/logos/fresh_translation_ot_logos_bible_diagnostics.json`
+- `output/logos_nt/fresh_translation_nt_tr_logos_bible.docx`
+- `output/logos_nt/fresh_translation_nt_tr_proofreading.docx`
+- `output/logos_nt/fresh_translation_nt_tr_diagnostics.json`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 
 ## Fresh Translation Pilot

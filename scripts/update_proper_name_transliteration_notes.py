@@ -256,6 +256,9 @@ STOPWORDS = {
     "Out",
     "Over",
     "Ox",
+    "Children",
+    "East",
+    "Helper",
     "Passover",
     "Pay",
     "People",
@@ -263,6 +266,7 @@ STOPWORDS = {
     "Praise",
     "Pray",
     "Prayer",
+    "Put",
     "Prepare",
     "Psalm",
     "Red",
@@ -591,7 +595,8 @@ EQUIVALENT_OVERRIDES = {
 EQUIVALENT_MEANING_OVERRIDES = {
     "Baal-hazor": "Baal's village; lord of the enclosure",
     "Beth-shemesh": "house of the sun",
-    "Iron": "watchful; city-name meaning uncertain",
+    "Damascus": "silent is the sackcloth weaver; traditional city-name meaning",
+    "Iron": "watchful; alert",
     "Jezreel": "God sows",
     "LORD of hosts": "Yahweh of armies; Lord of heavenly hosts",
     "Pedahel": "God has redeemed",
@@ -651,7 +656,429 @@ MEANING_NAME_ALIASES = {
     "Uzziah": "Ozias",
     "Zerah": "Zara",
     "Zerubbabel": "Zorobabel",
+    "Assyrians": "Assyria",
+    "Assyrian": "Assyria",
+    "Chaldeans": "Chaldea",
+    "Chaldean": "Chaldea",
+    "Syrians": "Syria",
+    "Syrian": "Syria",
+    "Philistines": "Philistine",
+    "Phylistieim": "Philistine",
+    "Gergesite": "Girgashite",
+    "Girgashites": "Girgashite",
+    "Ommaeans": "Emims",
+    "Adullamite": "Adullam",
 }
+
+EQUIVALENT_OVERRIDES.update(
+    {
+        "Adonai": "Lord",
+        "Adōnai": "Lord",
+        "Anna": "Hannah",
+        "Caesar": "Caesar",
+        "Phasga": "Pisgah",
+        "Sharon": "Sharon",
+        "Siphā": "Zophim",
+        "Syria": "Syria",
+        "Thoke": "Tohu",
+        "Nasib": "Zuph",
+    }
+)
+
+EQUIVALENT_MEANING_OVERRIDES.update(
+    {
+        "Adami-nekeb": "red earth of the pass; name meaning approximate",
+        "Adonai": "Lord; master",
+        "Adōnai": "Lord; master",
+        "Alexander": "defender/helper of men",
+        "Alexandria": "city of Alexander; defender/helper of men",
+        "Alexandrians": "people of Alexandria; city of Alexander",
+        "Alphaeus": "learned; chief",
+        "Amphipolis": "around the city",
+        "Anakim": "descendants of Anak; long-necked/giant people",
+        "Arabah": "plain; desert steppe",
+        "Aram": "highness; highland",
+        "Atharim": "places; tracks; route name",
+        "Athenians": "people of Athens; city of Athena",
+        "Athens": "city of Athena",
+        "Bamoth": "high places",
+        "Basemath": "perfumed",
+        "Bezalel": "in the shadow/protection of God",
+        "Bosor": "flesh; glad news; same name-family as Beor/Bosor",
+        "Caesar": "imperial title; associated with Latin caesus, cut",
+        "Caesarea": "city of Caesar",
+        "Children": "sons; children",
+        "Christians": "followers of Christ, the anointed one",
+        "Christian": "follower of Christ, the anointed one",
+        "Cretans": "people of Crete",
+        "Cyrenians": "people of Cyrene",
+        "Damascenes": "people of Damascus",
+        "Eloai": "my God",
+        "Elōai": "my God",
+        "Epaenetus": "praiseworthy",
+        "Ephesian": "person of Ephesus; desirable",
+        "Ephesians": "people of Ephesus; desirable",
+        "Gazites": "people of Gaza; strong",
+        "Gentiles": "nations; non-Jewish peoples",
+        "Greece": "Greece; Hellenic land",
+        "Greek": "Greek; Hellenic person",
+        "Greeks": "Greek people; Hellenes",
+        "Helper": "helper; advocate; comforter",
+        "Herodians": "party of Herod; son of a hero",
+        "Holy Spirit": "holy breath/spirit",
+        "Idumeans": "people of Idumea/Edom; red",
+        "Ituraea": "land of Jetur; enclosed/guarded region",
+        "Laodiceans": "people of Laodicea; just people",
+        "Legion": "legion; a large military unit",
+        "Levite": "person of Levi; joined/attached",
+        "Levites": "people of Levi; joined/attached",
+        "Libyans": "people of Libya",
+        "Lycia": "wolf-land; Lycian region",
+        "Macedonian": "person of Macedonia; high/tall one",
+        "Macedonians": "people of Macedonia; high/tall ones",
+        "Matthat": "gift",
+        "Medes": "people of Media",
+        "Miletus": "red; scarlet",
+        "Nazarenes": "people connected with Nazareth; separated/crowned",
+        "Nazirite": "separated/consecrated one",
+        "Nazirites": "separated/consecrated ones",
+        "Negeb": "south; dry land",
+        "Oholiab": "father's tent",
+        "Parthians": "people of Parthia",
+        "Philippians": "people of Philippi; city of Philip",
+        "Rameses": "Ra has fashioned/begotten him",
+        "Salmone": "peaceable; perfect",
+        "Samaritan": "person of Samaria; watch-mountain",
+        "Samaritans": "people of Samaria; watch-mountain",
+        "Scythians": "Scythian people; archer/nomad people",
+        "Shelanite": "person of Shelah; breaking/letting loose",
+        "Shelanites": "people of Shelah; breaking/letting loose",
+        "Syria": "Aram/Syria; highland",
+        "Syrian": "Aramean/Syrian; highland",
+        "Syrians": "Arameans/Syrians; highland",
+        "Thaddaeus": "praising/confessing",
+        "Thessalonians": "people of Thessalonica; victory over Thessalians",
+        "Tigris": "swift; rapid",
+        "Trogyllium": "cave-like place",
+        "Zimri": "my praise; my music",
+    }
+)
+
+MEANING_NAME_ALIASES.update(
+    {
+        "Alphaeus": "Alpheus",
+        "Arabian": "Arabia",
+        "Arabians": "Arabia",
+        "Babylonians": "Babylon",
+        "Basemath": "Bashemath",
+        "Bezalel": "Bezaleel",
+        "Caiaphas": "Caiphas",
+        "Corinthians": "Corinth",
+        "Cyrenians": "Cyrene",
+        "Egyptian": "Egypt",
+        "Egyptians": "Egypt",
+        "Epaenetus": "Epenetus",
+        "Ephesian": "Ephesus",
+        "Ephesians": "Ephesus",
+        "Ethiopians": "Ethiopia",
+        "Galatians": "Galatia",
+        "Herodians": "Herod",
+        "Idumeans": "Idumea",
+        "Laodiceans": "Laodicea",
+        "Levite": "Levi",
+        "Levites": "Levi",
+        "Macedonian": "Macedonia",
+        "Macedonians": "Macedonia",
+        "Matthat": "Matthan",
+        "Medes": "Media",
+        "Mushites": "Mushi",
+        "Nazirite": "Nazarite",
+        "Nazirites": "Nazarite",
+        "Nethanel": "Nathanael",
+        "Netophathite": "Netophah",
+        "Netophathites": "Netophah",
+        "Oholiab": "Aholiab",
+        "Persian": "Persia",
+        "Persians": "Persia",
+        "Philippians": "Philippi",
+        "Raphain": "Rehpaim",
+        "Rephaim": "Rehpaim",
+        "Samaritan": "Samaria",
+        "Samaritans": "Samaria",
+        "Shelanite": "Shelah",
+        "Shelanites": "Shelah",
+        "Sidonian": "Sidon",
+        "Sidonians": "Sidon",
+        "Thaddaeus": "Thaddeus",
+        "Thessalonians": "Thessalonica",
+        "Timaeus": "Timeus",
+    }
+)
+
+EQUIVALENT_MEANING_OVERRIDES.update(
+    {
+        "Abida": "father of knowledge",
+        "Adalia": "Yahweh has drawn; name meaning approximate",
+        "Ahohi": "brotherly; name meaning approximate",
+        "Anan": "cloud; prophecy",
+        "Armenia": "highland/Armenian land",
+        "Asshur": "happy; walking/upright",
+        "Atarothadar": "crowns of power",
+        "Azal": "near; reserved",
+        "Baanah": "in the answer; in affliction",
+        "Baana": "in the answer; in affliction",
+        "Baithon": "divisions",
+        "Bariah": "in fellowship",
+        "Bel": "lord; master",
+        "Ben-Hur": "son of Hur; son of whiteness/nobility",
+        "Bethjesimoth": "house of desolations",
+        "Bethrehob": "house of spaciousness",
+        "Bethshean": "house of rest/ivory; house of teeth",
+        "Boscath": "in poverty",
+        "Canneh": "established settlement",
+        "Carchemish": "fortress/market of Chemosh; lamb withdrawn",
+        "Chelkias": "Yahweh is my portion",
+        "Cononiah": "Yahweh has established",
+        "Dara": "pearl of wisdom; home of knowledge",
+        "Enaim": "two springs; open place",
+        "Gai-mele": "valley of salt; name meaning approximate",
+        "Gedor": "wall; enclosure",
+        "Ginnethon": "garden",
+        "Goiim": "nations",
+        "Hararites": "mountain people",
+        "Hararite": "mountain person",
+        "Hashmonah": "fertile/fat place",
+        "Haziel": "God sees; vision of God",
+        "Hezion": "vision; revelation",
+        "Ieremeel": "God has mercy; God exalts",
+        "Ivvah": "iniquity; ruin",
+        "Jahziel": "God sees",
+        "Jehoaddah": "Yahweh has adorned; testimony of Yahweh",
+        "Jehiel": "God lives",
+        "Jehoshabeath": "Yahweh has sworn",
+        "Jezreelites": "people of Jezreel; God sows",
+        "Jezreelite": "person of Jezreel; God sows",
+        "Joiakim": "Yahweh raises/establishes",
+        "Kadesh": "holiness",
+        "Kehelathah": "assembly; congregation",
+        "Keilah": "fortress; citadel",
+        "Kir-hareseth": "city of the sun; wall of burnt brick",
+        "Kolaiah": "voice of Yahweh",
+        "Kore": "caller; crier",
+        "Kue": "Cilician region",
+        "Lakum": "stopping place",
+        "Lasha": "to call; to anoint",
+        "Lodebar": "no pasture; no word",
+        "Lord": "Lord; master",
+        "Mahol": "dance; round dance",
+        "Maoch": "oppression",
+        "Matri": "rain; prison",
+        "Matrites": "people of Matri; rain/prison",
+        "Melchiel": "God is my king/counselor",
+        "Michmash": "hidden; struck place",
+        "Mithkah": "sweetness; pleasantness",
+        "Moza": "going out; source",
+        "Naaran": "young person; youth",
+        "Nebajoth": "words; prophecies; buds",
+        "Neco": "lame; beaten",
+        "Nephtoah": "opening; open",
+        "Ninevites": "people of Nineveh; dwelling of Ninus/fish-city",
+        "Pashhur": "freedom; splendor",
+        "Peleth": "swiftness; judges/destroyers name-family",
+        "Petra": "rock",
+        "Rapha": "healing; comfort",
+        "Salu": "exalted; weighed",
+        "Shaalim": "foxes; paths",
+        "Shavsha": "noble; scribe-name form",
+        "Shilonites": "people of Shiloh; peaceful/resting place",
+        "Shiphmites": "people of Shepham; bare/smooth place",
+        "Shocho": "defense; bough",
+        "Shunammite": "person of Shunem; double resting place",
+        "Siphmoth": "fruitful places",
+        "Somer": "keeper; guard",
+        "Tahapanes": "secret temptation",
+        "Tahash": "that makes haste; that keeps silence",
+        "Tahtim hodshi": "lower/new land",
+        "Tekoah": "trumpet; confirmed",
+        "Teresh": "strict; severe",
+        "Thimnathah": "portion; allotment",
+        "Tophel": "ruin; folly; without understanding",
+        "Topheth": "drum; place of burning/betrayal",
+        "Vaizatha": "sprinkling the chamber",
+        "Zarethan": "tribulation; perplexity",
+        "Zophim": "watchers",
+        "Zuph": "watcher; honeycomb",
+    }
+)
+
+EQUIVALENT_MEANING_OVERRIDES.update(
+    {
+        "Abiezrites": "descendants of Abiezer; father of help",
+        "Aher": "another; following one",
+        "Aloes": "aloes; fragrant spice",
+        "Aphphousoth": "separated; exposed place",
+        "Aridai": "lion-like",
+        "Aridatha": "lion-like decree",
+        "Arisai": "lion-like",
+        "Aros": "flea; moth-fruit name-family",
+        "Ashkelon": "weight; balance",
+        "Aspatha": "horse-given",
+        "Azarel": "help of God",
+        "Aziel": "God is strength",
+        "Baithor": "house; region-name form",
+        "Banielam": "son or people of strength",
+        "Baseza": "white; fair one",
+        "Bimhal": "circumcised; hastened",
+        "Boraze": "in strength; Boaz-name family",
+        "Chusi": "Cushite; blackness",
+        "Edna": "pleasure; delight",
+        "Ela": "oak; terebinth",
+        "Emer": "sheaf; handful",
+        "Ephod": "priestly garment; covering",
+        "Erael": "watcher of God",
+        "Eth-kazin": "time/place of a prince",
+        "Geththem": "winepress; place-name form",
+        "Gilonite": "person of Giloh; exile/rejoicing name-family",
+        "Gola": "exile; passage/revolution name-family",
+        "Gothoniel": "Othniel name-family; hour/force of God",
+        "Haziel": "God sees; vision of God",
+        "Iessiou": "Jesse-name family; gift/being",
+        "Iesouni": "Joshua/Jesus name-family; Yahweh saves",
+        "Iesoue": "Joshua/Jesus name-family; Yahweh saves",
+        "Ieziel": "sprinkling of God",
+        "Iobab": "sorrowful; hated",
+        "Iodan": "judgment; judge-name family",
+        "Iodiel": "known by God; praise of God",
+        "Ioadae": "Yahweh knows",
+        "Ioanou": "John-name family; Yahweh is gracious",
+        "Ioazar": "Yahweh has helped",
+        "Ioaa": "Yahweh is brother; Yahweh is friend",
+        "Ioppe": "beautiful",
+        "Iosia": "Yahweh supports/heals; Josiah-name family",
+        "Iosadak": "Yahweh is righteous",
+        "Issier": "upright; prince of God name-family",
+        "Isbakom": "empty/exhausted one; Ishbak-name family",
+        "Jakephzeb": "he gathers; he collects",
+        "Koz": "thorn; end",
+        "Korhites": "descendants of Korah; bald/ice-name family",
+        "Magaphes": "body/slaughter name-family",
+        "Masemanne": "fatness; strength",
+        "Massalem": "peaceable; perfect",
+        "Meera": "bitter; disputing one",
+        "Meshillemoth": "peaceable; repayment",
+        "Meshullam": "friend; repaid; devoted",
+        "Mesozebel": "Jezebel-name family; chaste/where is the prince",
+        "Moabitans": "Moabites; from Moab, of his father",
+        "Mount Seir": "mountain of Seir; hairy/rough",
+        "Myrsinon": "myrtle place",
+        "Osee": "salvation",
+        "Ozriel": "God is my help/strength",
+        "Oziel": "strength of God",
+        "Parosom": "flea; moth-fruit name-family",
+        "Pheliel": "God is wonderful; face/vision of God",
+        "Piltai": "Yahweh delivers; my escape",
+        "Raasson": "prince; delight",
+        "Remmon": "pomegranate; elevation",
+        "Roollam": "elevation; rolling",
+        "Sarbacha": "royal official name",
+        "Selo": "rock; strong place",
+        "Selles": "prince; leader",
+        "Segor": "little; small",
+        "Shilonite": "person of Shiloh; peaceful/resting place",
+        "Soba": "station; turning/captivity name-family",
+        "Sobek": "made void; forsaken",
+        "Soman": "strong; powerful",
+        "Somoron": "watch-place; Samaria-name family",
+        "Sopharphak": "scribe; numbering name",
+        "Themmōn": "pomegranate/elevation name-family",
+        "Themmon": "pomegranate/elevation name-family",
+        "Thesous": "Jesus/Joshua name-family; Yahweh saves",
+        "Tou": "living; declaring",
+        "Valley of Rephaim": "valley of the Rephaim; giants/relaxed ones",
+        "Zabdiel": "gift/endowment of God",
+        "Zechora": "remembered; male name-family",
+        "Zosara": "little/small name-family",
+    }
+)
+
+MEANING_NAME_ALIASES.update(
+    {
+        "Abida": "Abidah",
+        "Adalia": "Adaliah",
+        "Ahohi": "Ahoah",
+        "Amashsai": "Amashai",
+        "Asshur": "Ashur",
+        "Atarothadar": "Atarothaddar",
+        "Azotos": "Azotus",
+        "Baanah": "Baanah",
+        "Becorath": "Bechorath",
+        "Berechiah": "Berachiah",
+        "Boscath": "Boskath",
+        "Carchemish": "Charchemish",
+        "Cononiah": "Coniah",
+        "Eleasah": "Elasah",
+        "Gedor": "Geder",
+        "Ginnethon": "Ginnetho",
+        "Habazziniah": "Habazinaiah",
+        "Ivvah": "Ivah",
+        "Jahziel": "Jahaziel",
+        "Jehoaddah": "Jehoadah",
+        "Jehiel": "Jeheiel",
+        "Jeshuah": "Jeshua",
+        "Joiakim": "Joakim",
+        "Kades": "Kadesh",
+        "Kehelathah": "Kehelahath",
+        "Keilah": "Keiiah",
+        "Kolaiah": "Kolariah",
+        "Lasha": "Lashah",
+        "Matri": "Matri",
+        "Mithkah": "Mithcah",
+        "Nebajoth": "Nebaioth",
+        "Nephtoah": "Nephthoah",
+        "Nobai": "Nebai",
+        "Pashhur": "Pashur",
+        "Rapha": "Raphah",
+        "Salu": "Sallu",
+        "Shocho": "Shochoh",
+        "Somer": "Shomer",
+        "Tahapanes": "Taphenes",
+        "Tahash": "Thahash",
+        "Thimnathah": "Timnath",
+        "Topheth": "Tophet",
+        "Zarethan": "Zaretan",
+    }
+)
+
+MEANING_NAME_ALIASES.update(
+    {
+        "Ashkelon": "Askelon",
+        "Gothoniel": "Othniel",
+        "Jeiel": "Jeziel",
+        "Mosollamos": "Meshullam",
+        "Oziel": "Uzziel",
+        "Phasga": "Pisgah",
+        "Sachar": "Sacar",
+        "Valley of Rephaim": "Rehpaim",
+    }
+)
+
+EQUIVALENT_MEANING_OVERRIDES.update(
+    {
+        "Bani": "built; sons",
+        "Emim": "terrors; formidable people",
+        "Iseriel": "upright/prince of God",
+        "Jeshaiah": "salvation of Yahweh",
+        "Joiada": "Yahweh knows; knowledge of Yahweh",
+        "Joktheel": "subdued by God",
+        "Metabechas": "from Tebah/bronze-name family",
+        "Neriou": "my lamp; my light",
+        "Netophathites": "people of Netophah; dripping/distillation",
+        "Oronen": "Horonaim-name family; double cave/place",
+        "Ōronen": "Horonaim-name family; double cave/place",
+        "Saraph": "burning one; fiery serpent",
+        "Ōr": "light",
+    }
+)
 
 UKJV_NAME_STOPWORDS = STOPWORDS | {
     "Ah",
@@ -749,16 +1176,36 @@ def parse_hitchcock_meanings(path: Path = HITCHCOCK_NAMES) -> dict[str, str]:
     if not path.exists():
         return {}
     meanings: dict[str, str] = {}
+    def is_alias_segment(value: str) -> bool:
+        if value.lower().startswith("or "):
+            value = value[3:].strip()
+        parts = re.split(r"[- ]+", value)
+        return bool(parts) and all(part and part[0].isupper() for part in parts)
+
     for raw_line in path.read_text(encoding="utf-8").splitlines():
         line = raw_line.strip()
         if not line or "," not in line:
             continue
-        name, meaning = line.split(",", 1)
-        if not name or not meaning:
+        parts = [part.strip() for part in line.split(",")]
+        if len(parts) < 2 or not parts[0]:
             continue
-        key = normalize_lookup(name)
-        if key and key not in meanings:
-            meanings[key] = meaning.strip().rstrip(".")
+        names = [parts[0]]
+        meaning_parts = parts[1:]
+        while meaning_parts:
+            candidate = meaning_parts[0]
+            if len(meaning_parts) == 1 or not is_alias_segment(candidate):
+                break
+            if candidate.lower().startswith("or "):
+                candidate = candidate[3:].strip()
+            names.append(candidate)
+            meaning_parts = meaning_parts[1:]
+        meaning = ", ".join(meaning_parts).strip().rstrip(".")
+        if not meaning:
+            continue
+        for name in names:
+            key = normalize_lookup(name)
+            if key and key not in meanings:
+                meanings[key] = meaning
     return meanings
 
 
@@ -773,7 +1220,9 @@ def load_curated_meanings() -> dict[str, str]:
 
 
 def meaning_for_name(name: str, curated: dict[str, str], hitchcock: dict[str, str]) -> str:
-    base = display_name(name).rstrip("'s")
+    base = display_name(name)
+    if base.endswith("'s"):
+        base = base[:-2]
     override = EQUIVALENT_MEANING_OVERRIDES.get(name) or EQUIVALENT_MEANING_OVERRIDES.get(base)
     if override:
         return override
@@ -796,6 +1245,26 @@ def meaning_for_name(name: str, curated: dict[str, str], hitchcock: dict[str, st
         if key in hitchcock:
             return hitchcock[key]
     return "meaning uncertain/not securely attested in the consulted name dictionaries"
+
+
+def is_uncertain_meaning(meaning: str) -> bool:
+    return meaning.startswith("meaning uncertain")
+
+
+def best_meaning_for_name(
+    equivalent: str,
+    source_form: str,
+    curated: dict[str, str],
+    hitchcock: dict[str, str],
+) -> str:
+    meaning = meaning_for_name(equivalent, curated, hitchcock)
+    if not is_uncertain_meaning(meaning):
+        return meaning
+    if source_form != equivalent:
+        source_meaning = meaning_for_name(source_form, curated, hitchcock)
+        if not is_uncertain_meaning(source_meaning):
+            return source_meaning
+    return meaning
 
 
 def parse_ukjv_ot(path: Path = UKJV_ZIP) -> dict[str, str]:
@@ -888,7 +1357,9 @@ def draft_name_candidates(text: str) -> list[str]:
 
 
 def normalize_equivalent_candidate(candidate: str, alias_primary: dict[str, set[str]]) -> str:
-    candidate = display_name(candidate.rstrip("'s"))
+    if candidate.endswith("'s"):
+        candidate = candidate[:-2]
+    candidate = display_name(candidate)
     return UKJV_EQUIVALENT_OVERRIDES.get(candidate, candidate)
 
 
@@ -924,7 +1395,7 @@ def resolve_equivalent(
     if override:
         return EquivalentInfo(
             equivalent=override,
-            meaning=meaning_for_name(override, curated_meanings, hitchcock_meanings),
+            meaning=best_meaning_for_name(override, source_form, curated_meanings, hitchcock_meanings),
             greek_form=greek_form,
             source_form=source_form,
             witness="manual/standard English equivalent",
@@ -943,7 +1414,7 @@ def resolve_equivalent(
             if equivalent and score >= 0.50:
                 return EquivalentInfo(
                     equivalent=equivalent,
-                    meaning=meaning_for_name(equivalent, curated_meanings, hitchcock_meanings),
+                    meaning=best_meaning_for_name(equivalent, source_form, curated_meanings, hitchcock_meanings),
                     greek_form=greek_form,
                     source_form=source_form,
                     witness="UKJV same-reference name-order alignment",
@@ -965,7 +1436,7 @@ def resolve_equivalent(
             equivalent = normalize_equivalent_candidate(equivalent or candidate, alias_primary)
             return EquivalentInfo(
                 equivalent=equivalent,
-                meaning=meaning_for_name(equivalent, curated_meanings, hitchcock_meanings),
+                meaning=best_meaning_for_name(equivalent, source_form, curated_meanings, hitchcock_meanings),
                 greek_form=greek_form,
                 source_form=source_form,
                 witness="UKJV same-reference witness",
@@ -977,7 +1448,7 @@ def resolve_equivalent(
         equivalent = display_name(min(primary_options, key=len))
         return EquivalentInfo(
             equivalent=equivalent,
-            meaning=meaning_for_name(equivalent, curated_meanings, hitchcock_meanings),
+            meaning=best_meaning_for_name(equivalent, source_form, curated_meanings, hitchcock_meanings),
             greek_form=greek_form,
             source_form=source_form,
             witness="Logos Bible Knowledgebase alias",
@@ -987,7 +1458,7 @@ def resolve_equivalent(
     equivalent = token.replace("ē", "e").replace("ō", "o").replace("ā", "a").replace("ī", "i").replace("ū", "u")
     return EquivalentInfo(
         equivalent=equivalent,
-        meaning=meaning_for_name(equivalent, curated_meanings, hitchcock_meanings),
+        meaning=best_meaning_for_name(equivalent, source_form, curated_meanings, hitchcock_meanings),
         greek_form=greek_form,
         source_form=source_form,
         witness="normalized source form",
@@ -995,16 +1466,29 @@ def resolve_equivalent(
     )
 
 
-def existing_note_labels() -> set[str]:
-    labels = {row["name"].strip() for row in load_csv(PROPER_NAMES) if row.get("name", "").strip()}
+def source_for_reference(ref: str) -> str:
+    if not ref:
+        return ""
+    book = ref.rsplit(" ", 1)[0]
+    ot_books = {name for _, name in OT_UKJV_BOOK_MAP.values()}
+    return "ot" if book in ot_books else "nt"
+
+
+def existing_note_label_sources() -> dict[str, set[str]]:
+    labels: dict[str, set[str]] = defaultdict(set)
+    for row in load_csv(PROPER_NAMES):
+        name = row.get("name", "").strip()
+        if name:
+            labels[name].add(source_for_reference(row.get("first_reference", "").strip()))
     for row in load_csv(NAMES_OF_GOD):
+        source = source_for_reference(row.get("first_reference", "").strip())
         for key in ("transliteration", "english_renderings"):
             value = row.get(key, "")
             for part in re.split(r"[;,]", value):
                 part = part.strip()
                 if part:
-                    labels.add(part)
-    return labels
+                    labels[part].add(source)
+    return dict(labels)
 
 
 def choose_logos_autocomplete_db() -> Path | None:
@@ -1124,12 +1608,6 @@ def classify_token(
 
 
 def footnote_for(kind: str, reason: str, equivalent: EquivalentInfo | None = None) -> str:
-    if kind == "person":
-        return "Source text carries this as a personal name; retained as a proper noun rather than translated as ordinary vocabulary."
-    if kind == "people_group":
-        return "Ethnic or group proper noun; retained as a people-name rather than translated as ordinary vocabulary."
-    if kind == "supernatural_being":
-        return "Source text carries this as a divine or supernatural name/title; retained as a proper noun."
     if kind == "place" and equivalent:
         greek_piece = f" Greek form: {equivalent.greek_form}." if equivalent.greek_form else ""
         equivalent_piece = (
@@ -1139,6 +1617,42 @@ def footnote_for(kind: str, reason: str, equivalent: EquivalentInfo | None = Non
         )
         return (
             f"Place-name meaning: {equivalent.equivalent} — {equivalent.meaning}."
+            f"{equivalent_piece} Source form: {equivalent.source_form}."
+            f"{greek_piece} Equivalent source: {equivalent.witness}."
+        )
+    if kind == "person" and equivalent:
+        greek_piece = f" Greek form: {equivalent.greek_form}." if equivalent.greek_form else ""
+        equivalent_piece = (
+            f" Standard English equivalent: {equivalent.equivalent}."
+            if equivalent.equivalent != equivalent.source_form
+            else ""
+        )
+        return (
+            f"Personal-name meaning: {equivalent.equivalent} — {equivalent.meaning}."
+            f"{equivalent_piece} Source form: {equivalent.source_form}."
+            f"{greek_piece} Equivalent source: {equivalent.witness}."
+        )
+    if kind == "people_group" and equivalent:
+        greek_piece = f" Greek form: {equivalent.greek_form}." if equivalent.greek_form else ""
+        equivalent_piece = (
+            f" Standard English equivalent: {equivalent.equivalent}."
+            if equivalent.equivalent != equivalent.source_form
+            else ""
+        )
+        return (
+            f"People-name meaning: {equivalent.equivalent} — {equivalent.meaning}."
+            f"{equivalent_piece} Source form: {equivalent.source_form}."
+            f"{greek_piece} Equivalent source: {equivalent.witness}."
+        )
+    if kind == "supernatural_being" and equivalent:
+        greek_piece = f" Greek form: {equivalent.greek_form}." if equivalent.greek_form else ""
+        equivalent_piece = (
+            f" Standard English equivalent: {equivalent.equivalent}."
+            if equivalent.equivalent != equivalent.source_form
+            else ""
+        )
+        return (
+            f"Divine/supernatural-name meaning: {equivalent.equivalent} — {equivalent.meaning}."
             f"{equivalent_piece} Source form: {equivalent.source_form}."
             f"{greek_piece} Equivalent source: {equivalent.witness}."
         )
@@ -1161,8 +1675,19 @@ def footnote_for(kind: str, reason: str, equivalent: EquivalentInfo | None = Non
     return "Transliterated source-form proper noun; standard equivalent review needed."
 
 
+def should_include_unclassified(equivalent: EquivalentInfo) -> bool:
+    if is_uncertain_meaning(equivalent.meaning):
+        return False
+    if equivalent.confidence in {"aligned", "manual", "alias", "direct"}:
+        return True
+    try:
+        return float(equivalent.confidence) >= 0.78
+    except ValueError:
+        return False
+
+
 def main() -> None:
-    existing_labels = existing_note_labels()
+    existing_label_sources = existing_note_label_sources()
     primary_kinds, any_kinds, logos_db = load_logos_entity_kinds()
     alias_primary = load_logos_alias_primary()
     ukjv_by_ref = parse_ukjv_ot()
@@ -1186,19 +1711,21 @@ def main() -> None:
 
     for _, data in sorted(tokens.items(), key=lambda item: (int(item[1]["first_order"]), item[0])):
         token = str(data["name"])
-        if token in STOPWORDS or token in existing_labels:
-            counts["skipped_existing_or_stopword"] += 1
+        source = str(data["source"])
+        if token in STOPWORDS:
+            counts["skipped_stopword"] += 1
+            continue
+        if source in existing_label_sources.get(token, set()):
+            counts["skipped_existing_same_source"] += 1
             continue
         kind, reason = classify_token(token, primary_kinds=primary_kinds, any_kinds=any_kinds)
-        if not kind:
-            counts[f"skipped_{reason}"] += 1
-            continue
         equivalent = None
+        refs = data.get("refs", [])
+        ref_list = refs if isinstance(refs, list) else [str(data["first_reference"])]
         if kind in {"place", "transliterated_form"}:
-            refs = data.get("refs", [])
             equivalent = resolve_equivalent(
                 token,
-                refs if isinstance(refs, list) else [str(data["first_reference"])],
+                ref_list,
                 source_rows_by_ref=source_rows_by_ref,
                 ukjv_by_ref=ukjv_by_ref,
                 alias_primary=alias_primary,
@@ -1206,6 +1733,51 @@ def main() -> None:
                 hitchcock_meanings=hitchcock_meanings,
             )
             counts[f"equivalent_{equivalent.confidence.split('.')[0]}"] += 1
+        elif kind:
+            override = EQUIVALENT_OVERRIDES.get(token)
+            if override:
+                equivalent_name = override
+                meaning = best_meaning_for_name(equivalent_name, token, curated_meanings, hitchcock_meanings)
+                witness = "manual/standard English equivalent"
+                confidence = "manual"
+            else:
+                direct_meaning = meaning_for_name(token, curated_meanings, hitchcock_meanings)
+                primary_options = alias_primary.get(token, set()) if is_uncertain_meaning(direct_meaning) else set()
+                if primary_options:
+                    equivalent_name = normalize_equivalent_candidate(display_name(min(primary_options, key=len)), alias_primary)
+                    meaning = best_meaning_for_name(equivalent_name, token, curated_meanings, hitchcock_meanings)
+                    witness = "Logos Bible Knowledgebase alias"
+                    confidence = "alias"
+                else:
+                    equivalent_name = token
+                    meaning = direct_meaning
+                    witness = "direct curated/Hitchcock lookup"
+                    confidence = "direct"
+            equivalent = EquivalentInfo(
+                equivalent=equivalent_name,
+                meaning=meaning,
+                greek_form="",
+                source_form=token,
+                witness=witness,
+                confidence=confidence,
+            )
+            counts[f"equivalent_{equivalent.confidence}"] += 1
+        else:
+            equivalent = resolve_equivalent(
+                token,
+                ref_list,
+                source_rows_by_ref=source_rows_by_ref,
+                ukjv_by_ref=ukjv_by_ref,
+                alias_primary=alias_primary,
+                curated_meanings=curated_meanings,
+                hitchcock_meanings=hitchcock_meanings,
+            )
+            if not should_include_unclassified(equivalent):
+                counts[f"skipped_{reason}"] += 1
+                continue
+            kind = "transliterated_form"
+            counts[f"equivalent_{equivalent.confidence.split('.')[0]}"] += 1
+            counts["included_unclassified_resolved_source_form"] += 1
         row = {
             "name": token,
             "kind": kind,

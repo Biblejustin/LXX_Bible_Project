@@ -111,7 +111,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**1 Corinthians 1:2** To the assembly of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
+**1 Corinthians 1:2** To the assembly of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 41
@@ -123,7 +123,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Corinthians
 
-**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints which are in all Achaia:
+**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the holy ones which are in all Achaia:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -157,7 +157,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ephesians
 
-**Ephesians 1:1** Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
+**Ephesians 1:1** Paul, an apostle of Jesus Christ by the will of God, to the holy ones which are at Ephesus, and to the faithful in Christ Jesus:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
@@ -174,7 +174,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Philippians
 
-**Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
+**Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus which are at Philippi, with the overseers and servants:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 39
@@ -196,7 +196,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 8
 
-**Colossians 1:2** To the saints and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
+**Colossians 1:2** To the holy ones and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12
@@ -252,7 +252,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 13
 
-**1 Timothy 1:3** As I besought you to abide still at Ephesus, when I went into Macedonia, that you might charge some that they teach no other doctrine,
+**1 Timothy 1:3** As I begged you to abide still at Ephesus, when I went into Macedonia, that you might charge some that they teach no other doctrine,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 18
@@ -361,7 +361,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Peter
 
-**2 Peter 1:1** Simon Peter, a slave and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
+**2 Peter 1:1** Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 37
@@ -371,7 +371,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 13
 
-**2 Peter 1:3** According as his divine power has given to us all things that pertain to life and godliness, through the knowledge of him that has called us to glory and virtue:
+**2 Peter 1:3** According as his divine power has given to us all things that pertain to life and godliness, through the knowledge of him who has called us to glory and virtue:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 33
@@ -395,7 +395,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 John
 
-**2 John 1:1** The elder to the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
+**2 John 1:1** The elder to the elect lady and her children, whom I love in the truth; and not I only, but also all those who have known the truth;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23
@@ -429,7 +429,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jude
 
-**Jude 1:1** Jude, the slave of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
+**Jude 1:1** Jude, the slave of Jesus Christ, and brother of James, to those who are sanctified by God the Father, and preserved in Jesus Christ, and called:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 35
@@ -439,7 +439,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 4
 
-**Jude 1:3** Beloved, when I gave all diligence to write to you of the common salvation, it was necessary for me to write to you, and exhort you that you should earnestly contend for the faith which was once delivered to the saints.
+**Jude 1:3** Beloved, when I gave all diligence to write to you of the common salvation, it was necessary for me to write to you, and exhort you that you should earnestly contend for the faith which was once delivered to the holy ones.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 38
@@ -456,7 +456,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 19
 
-**Revelation 1:3** Blessed is he that reads, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+**Revelation 1:3** Blessed is the one who reads, and those who hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12
