@@ -103,6 +103,8 @@ SOURCE_COLUMNS = [
     "literal_gloss",
     "syntax_notes",
     "draft_translation",
+    "review_status",
+    "review_notes",
 ]
 
 
@@ -203,6 +205,8 @@ def build_rows(source_dir: Path) -> tuple[list[dict[str, object]], dict[str, obj
             row["literal_gloss"] = ""
             row["syntax_notes"] = ""
             row["draft_translation"] = ukjv.get(key, "")
+            row["review_status"] = "ukjv_seed"
+            row["review_notes"] = "Seeded from public-domain UKJV; requires TR literal revision."
             if row["draft_translation"]:
                 counts["seeded_from_ukjv"] += 1
             else:

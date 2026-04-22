@@ -24,6 +24,7 @@ Use `fresh_translation_ot_logos_bible_mt_notes.docx` instead of `fresh_translati
 
 Scope:
 
+- Source basis: LXX Greek.
 - Source text: `data/raw/lxx_greek/ot_full.csv`.
 - Book preface pages: `data/book_intros_template.csv`. These are inserted before each book's chapter text in all generated DOCX files.
 - Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `data/research/translation_decisions.csv` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`.

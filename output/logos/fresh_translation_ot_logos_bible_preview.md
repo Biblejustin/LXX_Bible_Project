@@ -4,12 +4,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Genesis
 
-**Genesis 1:1** At the beginning, God made heaven and earth.
+**Genesis 1:1** In the beginning, God made heaven and earth.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 77
 
-**Genesis 1:2** Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+**Genesis 1:2** But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 8

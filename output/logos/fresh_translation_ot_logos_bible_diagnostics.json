@@ -211,6 +211,7 @@
     "total_crossrefs_after_canonicalization": 212776,
     "tsk": {
       "archive_present": true,
+      "testament": "ot",
       "status": "parsed",
       "ot_entries": 24115,
       "verses_with_refs": 21851,

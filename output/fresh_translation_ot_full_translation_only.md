@@ -8,11 +8,11 @@ Scope: Genesis-Malachi (39 books)
 
 **Genesis 1:1**
 
-At the beginning, God made heaven and earth.
+In the beginning, God made heaven and earth.
 
 **Genesis 1:2**
 
-Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 
 **Genesis 1:3**
 
