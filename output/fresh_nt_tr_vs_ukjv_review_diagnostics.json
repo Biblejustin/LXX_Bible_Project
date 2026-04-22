@@ -2,29 +2,29 @@
   "method": "TR literal draft is primary; UKJV is witness only.",
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
-  "same_normalized": 4415,
-  "different_normalized": 3542,
-  "priority_rows": 398,
-  "queue_rows": 398,
+  "same_normalized": 4413,
+  "different_normalized": 3544,
+  "priority_rows": 388,
+  "queue_rows": 388,
   "status_counts": {
     "tr_literal_manual": 20,
-    "tr_literal_pass1": 5711,
-    "needs_focused_tr_review": 2226
+    "tr_literal_pass1": 5708,
+    "needs_focused_tr_review": 2229
   },
   "latest_review_status_counts": {
-    "keep": 892,
-    "unreviewed": 6988,
-    "revised": 77
+    "keep": 888,
+    "unreviewed": 6968,
+    "revised": 101
   },
-  "resolved_review_rows": 969,
+  "resolved_review_rows": 989,
   "importance_counts": {
-    "none": 5252,
-    "low": 2307,
-    "medium": 398
+    "none": 5265,
+    "low": 2304,
+    "medium": 388
   },
   "theme_counts": {
     "christology": 1990,
-    "textual_literal": 773,
+    "textual_literal": 775,
     "spirit_church": 523,
     "soteriology": 934,
     "law_covenant": 418,

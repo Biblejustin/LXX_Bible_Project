@@ -4,33 +4,33 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 20,
-    "tr_literal_pass1": 5703,
-    "needs_focused_tr_review": 2234
+    "tr_literal_pass1": 5708,
+    "needs_focused_tr_review": 2229
   },
   "changed_by_book": {
-    "MAT": 824,
-    "MRK": 475,
-    "LUK": 796,
+    "MAT": 823,
+    "MRK": 473,
+    "LUK": 797,
     "JHN": 626,
-    "ACT": 647,
+    "ACT": 648,
     "ROM": 273,
     "1CO": 302,
     "2CO": 175,
     "GAL": 100,
-    "EPH": 119,
+    "EPH": 120,
     "PHP": 72,
-    "COL": 71,
+    "COL": 72,
     "1TH": 70,
     "2TH": 35,
     "1TI": 64,
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
-    "HEB": 190,
+    "HEB": 191,
     "JAS": 81,
     "1PE": 82,
     "2PE": 47,
-    "1JN": 84,
+    "1JN": 83,
     "2JN": 10,
     "3JN": 10,
     "JUD": 19,
@@ -41,7 +41,7 @@
     "aligned gennao with fathered": 18,
     "rendered adelphoi-family wording as brothers": 228,
     "rendered general brings-forth as produces": 30,
-    "modernized archaic directional unto": 2080,
+    "modernized archaic directional unto": 2079,
     "aligned apoluo with release": 19,
     "modernized was-minded idiom": 2,
     "modernized behold": 221,
@@ -49,11 +49,12 @@
     "normalized NT kurios as Lord": 663,
     "removed UKJV inline Strong-style lexical marker": 795,
     "modernized childbirth bring-forth idiom": 25,
+    "fixed borne grammar": 1,
     "rendered magoi as Magi": 3,
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 261,
-    "UKJV seed retained; needs focused Greek review": 2234,
+    "UKJV seed retained; needs focused Greek review": 2229,
     "removed UKJV plural-expansion artifact": 1117,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
@@ -76,7 +77,7 @@
     "modernized get-you imperative": 4,
     "modernized sea-coast idiom": 2,
     "rendered ethne as nations": 94,
-    "modernized personal which as who": 223,
+    "modernized personal which as who": 228,
     "modernized them-which relative": 80,
     "modernized from-thence idiom": 16,
     "rendered ploion as boat": 43,
@@ -137,6 +138,7 @@
     "modernized today spelling": 18,
     "modernized wherefore": 104,
     "modernized wherewithal": 1,
+    "fixed negative subjunctive wording": 1,
     "fixed sentence casing": 3,
     "modernized be-not clause": 4,
     "modernized judge-not idiom": 4,
@@ -156,9 +158,10 @@
     "modernized insomuch-that idiom": 17,
     "modernized besought": 33,
     "modernized everything spelling": 7,
+    "fixed him-that relative artifact": 16,
     "modernized inverted question": 20,
     "modernized tax-booth idiom": 3,
-    "modernized reclining-at-meal idiom": 10,
+    "modernized reclining-at-meal idiom": 12,
     "modernized go-you imperative": 11,
     "cleaned old-garment wording": 2,
     "modernized garment where not contextually technical": 19,
@@ -173,6 +176,7 @@
     "rendered hades as Hades": 10,
     "modernized Sabbath-day wording": 30,
     "modernized corn as grain": 8,
+    "fixed charged-them relative artifact": 6,
     "fixed from-whence artifact": 13,
     "modernized whence": 32,
     "modernized forthwith": 9,
@@ -197,6 +201,7 @@
     "modernized things-that-be wording": 2,
     "rendered phroneo as mind": 2,
     "rendered skandalon as stumbling block": 5,
+    "modernized save-as-except wording": 3,
     "modernized abode": 24,
     "modernized prevented-as-anticipated": 1,
     "modernized whoso": 11,
@@ -222,6 +227,7 @@
     "modernized presently": 3,
     "modernized porne wording": 12,
     "modernized marvellous spelling": 6,
+    "rendered hybrizo as mistreat": 1,
     "modernized durst": 7,
     "modernized do-not-you wording": 1,
     "rendered krima/krisis as judgment": 11,
@@ -251,15 +257,21 @@
     "modernized hearken": 9,
     "modernized know-you-not question": 17,
     "modernized knows-not idiom": 8,
+    "fixed prayed-him relative artifact": 2,
     "modernized I-pray-you wording": 7,
+    "fixed commanded-them relative artifact": 3,
+    "fixed adjective-order artifact": 1,
     "modernized meats": 6,
     "modernized speech-impediment wording": 1,
+    "fixed good-news possessive artifact": 3,
     "rendered alalos as mute": 1,
     "fixed pines-away spelling": 1,
     "rendered coming aion as age to come": 2,
     "modernized chiefest": 3,
+    "fixed cried-more artifact": 1,
     "modernized hold-his-peace idiom": 3,
     "modernized whereon": 5,
+    "fixed if-lest artifact": 2,
     "modernized come-to-pass idiom": 7,
     "modernized possessive pronoun spelling": 11,
     "fixed whence casing after and": 3,
@@ -281,8 +293,10 @@
     "rendered draught as catch": 2,
     "cleaned new-garment wording": 1,
     "modernized blessed-be-you wording": 1,
+    "modernized condemn-not idiom": 1,
     "modernized ware as wore": 1,
     "modernized slain": 18,
+    "fixed hardly-departs word order": 1,
     "modernized which-now idiom": 1,
     "modernized touch-not idiom": 3,
     "modernized slay": 7,
@@ -294,7 +308,10 @@
     "fixed duplicate lest artifact": 3,
     "fixed look-it artifact": 1,
     "modernized not-able wording": 1,
+    "fixed Luke 19:3 word order": 1,
+    "modernized salvation-has-come wording": 1,
     "modernized every-one-which relative": 1,
+    "modernized in-the-which wording": 9,
     "fixed whence casing after tell": 3,
     "rendered me genoito directly": 14,
     "modernized go-you-not imperative": 1,
@@ -312,9 +329,11 @@
     "modernized full-come idiom": 1,
     "fixed whence casing after knows": 1,
     "modernized how-says-you idiom": 3,
+    "fixed seen-him relative artifact": 1,
     "modernized thereby": 6,
     "rendered apoleia as destruction": 8,
     "modernized kinsman": 2,
+    "fixed take-you-him imperative": 2,
     "modernized speak-you-not question": 1,
     "modernized from-thenceforth idiom": 1,
     "rendered splanchna as inward parts": 7,
@@ -327,33 +346,50 @@
     "rendered living/dead idiom": 1,
     "modernized waxed-bold idiom": 1,
     "fixed had-were artifact": 1,
+    "fixed graven-by-art typo": 1,
     "modernized clave": 1,
+    "modernized adventure-as-venture": 1,
+    "modernized more-part idiom": 2,
+    "fixed non-person relative after assembly": 1,
+    "modernized over-the-which wording": 1,
     "modernized nations relative as that": 1,
+    "fixed Acts 22:29 relative artifact": 1,
     "modernized do-not-you imperative": 1,
     "modernized if-there-be idiom": 9,
     "modernized colour spelling": 2,
     "modernized under-color idiom": 1,
     "modernized immoveable spelling": 2,
     "modernized all-that-be wording": 1,
+    "fixed non-person relative after righteousness": 1,
     "modernized things-which-be-not wording": 1,
     "rendered homoioma as likeness": 3,
     "modernized concupiscence": 3,
     "modernized if-Christ-be idiom": 4,
     "fixed earnest expectation artifact": 2,
+    "fixed non-person relative after love": 1,
+    "fixed whom relative after people": 1,
     "modernized powers-that-be wording": 1,
     "modernized for-which-cause idiom": 4,
+    "fixed non-person relative after grace": 4,
+    "fixed non-person relative after spirit of man": 1,
     "modernized hereby": 9,
     "modernized such-an-one idiom": 7,
     "fixed article before prostitute": 2,
+    "fixed rhetorical question wording": 2,
     "rendered aion as age": 1,
     "modernized tomorrow spelling": 1,
     "modernized communications-good-manners idiom": 1,
     "modernized sin-not idiom": 5,
+    "rendered zoopoieo as made alive": 2,
     "modernized conversation as conduct": 18,
     "modernized overmuch": 1,
     "modernized faint-not idiom": 4,
     "modernized pray-you wording": 1,
     "rendered epichoregeo as supply": 4,
+    "modernized forevermore spelling": 3,
+    "modernized own-selves wording": 1,
+    "removed supplied quickened not present in verse": 1,
+    "rendered syzoopoieo as made alive together": 2,
     "fixed be-release artifact": 1,
     "modernized clamour spelling": 1,
     "modernized thereunto": 4,
@@ -365,6 +401,8 @@
     "rendered hagios as holy one": 1,
     "modernized irreproachable": 1,
     "modernized unblameable": 2,
+    "fixed first-person relative artifact": 1,
+    "fixed non-person relative after dispensation": 1,
     "modernized holy day spelling": 1,
     "modernized handle-not idiom": 1,
     "modernized taste-not idiom": 1,
@@ -375,12 +413,13 @@
     "modernized behaviour spelling": 2,
     "rendered diakoneo as serve": 2,
     "rendered homologia as confession": 4,
-    "fixed him-that relative artifact": 1,
     "fixed be-ware artifact": 1,
     "modernized be-ware idiom": 1,
     "modernized gainsayers": 1,
     "modernized mine-account wording": 1,
     "fixed earnest-heed artifact": 1,
+    "fixed Hebrews 7:28 temporal wording": 1,
+    "fixed waxs-old artifact": 1,
     "modernized waxed-valiant idiom": 1,
     "fixed than-that artifact": 1,
     "modernized therewith word order": 1,
@@ -389,13 +428,17 @@
     "modernized if-so-be wording": 1,
     "modernized hereunto": 1,
     "rendered tartaroo as Tartarus": 1,
+    "modernized write-I word order": 1,
     "rendered splanchna compassion idiom": 1,
+    "fixed know-you word order": 1,
+    "fixed non-person relative after witness": 1,
     "rendered phiale as bowl": 12,
     "modernized waxed-rich idiom": 1,
-    "modernized no-more-at-all idiom": 4
+    "modernized no-more-at-all idiom": 4,
+    "fixed Revelation relative artifact": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2234,
+  "review_queue_rows": 2229,
   "examples": {
     "manual TR literal override": [
       {
@@ -593,7 +636,14 @@
       {
         "ref": "Matthew 1:25",
         "book_code": "MAT",
-        "draft_translation": "And had sexual contact with her not till she had bore her firstborn son: and he called his name JESUS."
+        "draft_translation": "And did not know her until she had borne her firstborn son: and he called his name JESUS."
+      }
+    ],
+    "fixed borne grammar": [
+      {
+        "ref": "Matthew 1:25",
+        "book_code": "MAT",
+        "draft_translation": "And did not know her until she had borne her firstborn son: and he called his name JESUS."
       }
     ],
     "rendered magoi as Magi": [
@@ -775,7 +825,7 @@
       {
         "ref": "Matthew 8:34",
         "book_code": "MAT",
-        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him who he would depart out of their borders."
+        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him that he would depart out of their borders."
       },
       {
         "ref": "Matthew 15:21",
@@ -797,7 +847,7 @@
       {
         "ref": "Matthew 22:6",
         "book_code": "MAT",
-        "draft_translation": "And the remnant took his slaves, and pleaded them spitefully, and killed them."
+        "draft_translation": "And the remnant took his slaves, and mistreated them, and killed them."
       }
     ],
     "modernized thereof": [
@@ -1640,7 +1690,7 @@
       {
         "ref": "Matthew 8:34",
         "book_code": "MAT",
-        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him who he would depart out of their borders."
+        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him that he would depart out of their borders."
       }
     ],
     "modernized neighbour spelling": [
@@ -1947,16 +1997,23 @@
         "draft_translation": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, with what shall we be clothed?"
       }
     ],
+    "fixed negative subjunctive wording": [
+      {
+        "ref": "Matthew 7:1",
+        "book_code": "MAT",
+        "draft_translation": "Do not judge, that you may not be judged."
+      }
+    ],
     "fixed sentence casing": [
       {
         "ref": "Matthew 7:1",
         "book_code": "MAT",
-        "draft_translation": "Do not judge, that you not be judged."
+        "draft_translation": "Do not judge, that you may not be judged."
       },
       {
         "ref": "Luke 6:37",
         "book_code": "LUK",
-        "draft_translation": "Do not judge, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:"
+        "draft_translation": "Do not judge, and you shall not be judged: do not condemn, and you shall not be condemned: forgive, and you shall be forgiven:"
       },
       {
         "ref": "John 7:24",
@@ -1968,7 +2025,7 @@
       {
         "ref": "Matthew 7:1",
         "book_code": "MAT",
-        "draft_translation": "Do not judge, that you not be judged."
+        "draft_translation": "Do not judge, that you may not be judged."
       },
       {
         "ref": "Matthew 24:6",
@@ -1985,12 +2042,12 @@
       {
         "ref": "Matthew 7:1",
         "book_code": "MAT",
-        "draft_translation": "Do not judge, that you not be judged."
+        "draft_translation": "Do not judge, that you may not be judged."
       },
       {
         "ref": "Luke 6:37",
         "book_code": "LUK",
-        "draft_translation": "Do not judge, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:"
+        "draft_translation": "Do not judge, and you shall not be judged: do not condemn, and you shall not be condemned: forgive, and you shall be forgiven:"
       },
       {
         "ref": "John 7:24",
@@ -2215,7 +2272,7 @@
       {
         "ref": "Matthew 8:34",
         "book_code": "MAT",
-        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him who he would depart out of their borders."
+        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him that he would depart out of their borders."
       },
       {
         "ref": "Matthew 14:36",
@@ -2238,6 +2295,23 @@
         "ref": "2 Corinthians 8:7",
         "book_code": "2CO",
         "draft_translation": "Therefore, as you abound in everything, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that you abound in this grace also."
+      }
+    ],
+    "fixed him-that relative artifact": [
+      {
+        "ref": "Matthew 8:34",
+        "book_code": "MAT",
+        "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him that he would depart out of their borders."
+      },
+      {
+        "ref": "Matthew 16:1",
+        "book_code": "MAT",
+        "draft_translation": "The Pharisees also with the Sadducees came, and tempting desired him that he would show them a sign from heaven."
+      },
+      {
+        "ref": "Mark 7:26",
+        "book_code": "MRK",
+        "draft_translation": "The woman was a Greek, a Syrophenician by nation; and she begged him that he would cast forth the demon out of her daughter."
       }
     ],
     "modernized inverted question": [
@@ -2522,6 +2596,23 @@
         "ref": "Mark 4:28",
         "book_code": "MRK",
         "draft_translation": "For the earth produces fruit of herself; first the blade, then the ear, after that the full grain in the ear."
+      }
+    ],
+    "fixed charged-them relative artifact": [
+      {
+        "ref": "Matthew 12:16",
+        "book_code": "MAT",
+        "draft_translation": "And charged them that they should not make him known:"
+      },
+      {
+        "ref": "Mark 3:12",
+        "book_code": "MRK",
+        "draft_translation": "And he strictly charged them that they should not make him known."
+      },
+      {
+        "ref": "Mark 7:36",
+        "book_code": "MRK",
+        "draft_translation": "And he charged them that they should tell no one: but the more he charged them, so much the more a great deal they published it;"
       }
     ],
     "fixed from-whence artifact": [
@@ -2887,6 +2978,23 @@
         "draft_translation": "As it is written, Look, I lay in Sion a stumbling stone and rock of stumbling block: and whoever believes on him shall not be ashamed."
       }
     ],
+    "modernized save-as-except wording": [
+      {
+        "ref": "Matthew 17:8",
+        "book_code": "MAT",
+        "draft_translation": "And when they had lifted up their eyes, they saw no one, except Jesus only."
+      },
+      {
+        "ref": "Mark 9:8",
+        "book_code": "MRK",
+        "draft_translation": "And suddenly, when they had looked round about, they saw no one any more, except Jesus only with themselves."
+      },
+      {
+        "ref": "1 Corinthians 2:2",
+        "book_code": "1CO",
+        "draft_translation": "For I determined not to know anything among you, except Jesus Christ, and him crucified."
+      }
+    ],
     "modernized abode": [
       {
         "ref": "Matthew 17:22",
@@ -3012,12 +3120,12 @@
       {
         "ref": "Luke 19:9",
         "book_code": "LUK",
-        "draft_translation": "And Jesus said to him, This day is salvation come to this house, since he also is a son of Abraham."
+        "draft_translation": "And Jesus said to him, Today salvation has come to this house, since he also is a son of Abraham."
       },
       {
         "ref": "Acts 9:38",
         "book_code": "ACT",
-        "draft_translation": "And since Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him who he would not delay to come to them."
+        "draft_translation": "And since Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him that he would not delay to come to them."
       }
     ],
     "modernized forasmuch": [
@@ -3029,12 +3137,12 @@
       {
         "ref": "Luke 19:9",
         "book_code": "LUK",
-        "draft_translation": "And Jesus said to him, This day is salvation come to this house, since he also is a son of Abraham."
+        "draft_translation": "And Jesus said to him, Today salvation has come to this house, since he also is a son of Abraham."
       },
       {
         "ref": "Acts 9:38",
         "book_code": "ACT",
-        "draft_translation": "And since Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him who he would not delay to come to them."
+        "draft_translation": "And since Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him that he would not delay to come to them."
       }
     ],
     "fixed release participle artifact": [
@@ -3265,6 +3373,13 @@
         "ref": "John 9:30",
         "book_code": "JHN",
         "draft_translation": "The man answered and said to them, Why herein is a marvelous thing, that you do not know from where he is, and yet he has opened mine eyes."
+      }
+    ],
+    "rendered hybrizo as mistreat": [
+      {
+        "ref": "Matthew 22:6",
+        "book_code": "MAT",
+        "draft_translation": "And the remnant took his slaves, and mistreated them, and killed them."
       }
     ],
     "modernized durst": [
@@ -3695,6 +3810,18 @@
         "draft_translation": "But this people who does not know the law are cursed."
       }
     ],
+    "fixed prayed-him relative artifact": [
+      {
+        "ref": "Mark 5:18",
+        "book_code": "MRK",
+        "draft_translation": "And when he had come into the boat, the one who had been possessed with the demon asked him that he might be with him."
+      },
+      {
+        "ref": "Luke 5:3",
+        "book_code": "LUK",
+        "draft_translation": "And he entered into one of the boats, which was Simon's, and asked him that he would thrust out a little from the land. And he sat down, and taught the people out of the boat."
+      }
+    ],
     "modernized I-pray-you wording": [
       {
         "ref": "Mark 5:23",
@@ -3710,6 +3837,30 @@
         "ref": "Luke 14:19",
         "book_code": "LUK",
         "draft_translation": "And another said, I have bought five yoke of oxen, and I go to prove them: I ask you, have me excused."
+      }
+    ],
+    "fixed commanded-them relative artifact": [
+      {
+        "ref": "Mark 6:8",
+        "book_code": "MRK",
+        "draft_translation": "And commanded them that they should take nothing for their journey, save a staff only; no pouch, no bread, no money in their purse:"
+      },
+      {
+        "ref": "Acts 1:4",
+        "book_code": "ACT",
+        "draft_translation": "And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, who, says he, you have heard of me."
+      },
+      {
+        "ref": "Revelation 9:4",
+        "book_code": "REV",
+        "draft_translation": "And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men who have not the seal of God in their foreheads."
+      }
+    ],
+    "fixed adjective-order artifact": [
+      {
+        "ref": "Mark 6:20",
+        "book_code": "MRK",
+        "draft_translation": "For Herod feared John, knowing that he was a just and holy man, and observed him; and when he heard him, he did many things, and heard him gladly."
       }
     ],
     "modernized meats": [
@@ -3734,6 +3885,23 @@
         "ref": "Mark 7:32",
         "book_code": "MRK",
         "draft_translation": "And they bring to him one that was deaf, and had a speech impediment; and they plead to him to put his hand upon him."
+      }
+    ],
+    "fixed good-news possessive artifact": [
+      {
+        "ref": "Mark 8:35",
+        "book_code": "MRK",
+        "draft_translation": "For whoever will save his life shall lose it; but whoever shall lose his life for my sake and the good news, the same shall save it."
+      },
+      {
+        "ref": "Mark 10:29",
+        "book_code": "MRK",
+        "draft_translation": "And Jesus answered and said, Amen, I say to you, There is no one that has left house, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my sake and the good news,"
+      },
+      {
+        "ref": "1 Corinthians 9:23",
+        "book_code": "1CO",
+        "draft_translation": "And this I do for the sake of the good news, that I might be partaker of it with you."
       }
     ],
     "rendered alalos as mute": [
@@ -3779,11 +3947,18 @@
         "draft_translation": "I am become a fool in glorying; you have compelled me: for I ought to have been commended of you: for in nothing am I behind the foremost apostles, though I be nothing."
       }
     ],
+    "fixed cried-more artifact": [
+      {
+        "ref": "Mark 10:48",
+        "book_code": "MRK",
+        "draft_translation": "And many charged him that he should be silent: but he cried out much more, You son of David, have mercy on me."
+      }
+    ],
     "modernized hold-his-peace idiom": [
       {
         "ref": "Mark 10:48",
         "book_code": "MRK",
-        "draft_translation": "And many charged him who he should be silent: but he cried the more a great deal, You son of David, have mercy on me."
+        "draft_translation": "And many charged him that he should be silent: but he cried out much more, You son of David, have mercy on me."
       },
       {
         "ref": "Luke 18:39",
@@ -3811,6 +3986,18 @@
         "ref": "Luke 5:25",
         "book_code": "LUK",
         "draft_translation": "And immediately he rose up before them, and took up that on which he lay, and departed to his own house, glorifying God."
+      }
+    ],
+    "fixed if-lest artifact": [
+      {
+        "ref": "Mark 11:13",
+        "book_code": "MRK",
+        "draft_translation": "And seeing a fig tree far off having leaves, he came, if perhaps he might find anything thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet."
+      },
+      {
+        "ref": "Acts 17:27",
+        "book_code": "ACT",
+        "draft_translation": "That they should seek the Lord, if perhaps they might feel after him, and find him, though he be not far from every one of us:"
       }
     ],
     "modernized come-to-pass idiom": [
@@ -4110,6 +4297,13 @@
         "draft_translation": "And he lifted up his eyes on his disciples, and said, Blessed are you poor: for yours is the kingdom of God."
       }
     ],
+    "modernized condemn-not idiom": [
+      {
+        "ref": "Luke 6:37",
+        "book_code": "LUK",
+        "draft_translation": "Do not judge, and you shall not be judged: do not condemn, and you shall not be condemned: forgive, and you shall be forgiven:"
+      }
+    ],
     "modernized ware as wore": [
       {
         "ref": "Luke 8:27",
@@ -4132,6 +4326,13 @@
         "ref": "Acts 5:36",
         "book_code": "ACT",
         "draft_translation": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was killed; and all, as many as obeyed him, were scattered, and brought to nothing."
+      }
+    ],
+    "fixed hardly-departs word order": [
+      {
+        "ref": "Luke 9:39",
+        "book_code": "LUK",
+        "draft_translation": "And, look, a spirit takes him, and he suddenly cries out; and it tears him so that he foams again, and with difficulty departs from him, bruising him."
       }
     ],
     "modernized which-now idiom": [
@@ -4256,11 +4457,42 @@
         "draft_translation": "Lest by any means, after he has laid the foundation, and cannot finish it, all who see it begin to mock him,"
       }
     ],
+    "fixed Luke 19:3 word order": [
+      {
+        "ref": "Luke 19:3",
+        "book_code": "LUK",
+        "draft_translation": "And he sought to see who Jesus was; and could not for the press, because he was little of stature."
+      }
+    ],
+    "modernized salvation-has-come wording": [
+      {
+        "ref": "Luke 19:9",
+        "book_code": "LUK",
+        "draft_translation": "And Jesus said to him, Today salvation has come to this house, since he also is a son of Abraham."
+      }
+    ],
     "modernized every-one-which relative": [
       {
         "ref": "Luke 19:26",
         "book_code": "LUK",
         "draft_translation": "For I say to you, That to everyone who has shall be given; and from him who has not, even that he has shall be taken away from him."
+      }
+    ],
+    "modernized in-the-which wording": [
+      {
+        "ref": "Luke 19:30",
+        "book_code": "LUK",
+        "draft_translation": "Saying, Go into the village opposite to you; in which at your entering you shall find a colt tied, on which yet never man sat: loose him, and bring him here."
+      },
+      {
+        "ref": "Luke 21:6",
+        "book_code": "LUK",
+        "draft_translation": "As for these things which you look, the days will come, in which there shall not be left one stone upon another, that shall not be thrown down."
+      },
+      {
+        "ref": "Luke 23:29",
+        "book_code": "LUK",
+        "draft_translation": "For, look, the days are coming, in which they shall say, Blessed are the barren, and the wombs that never bore, and the breast which never gave suck."
       }
     ],
     "fixed whence casing after tell": [
@@ -4382,7 +4614,7 @@
       {
         "ref": "John 5:28",
         "book_code": "JHN",
-        "draft_translation": "do not marvel at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+        "draft_translation": "do not marvel at this: for the hour is coming, in which all that are in the graves shall hear his voice,"
       },
       {
         "ref": "1 John 3:13",
@@ -4452,6 +4684,13 @@
         "draft_translation": "Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? the one who has seen me has seen the Father; and how do you say then, Show us the Father?"
       }
     ],
+    "fixed seen-him relative artifact": [
+      {
+        "ref": "John 9:8",
+        "book_code": "JHN",
+        "draft_translation": "The neighbors therefore, and those who before had seen him when he was blind, said, Is not this the one who sat and begged?"
+      }
+    ],
     "modernized thereby": [
       {
         "ref": "John 11:4",
@@ -4496,6 +4735,18 @@
         "ref": "Romans 16:11",
         "book_code": "ROM",
         "draft_translation": "Salute Herodion my relative. Greet those who be of the household of Narcissus, which are in the Lord."
+      }
+    ],
+    "fixed take-you-him imperative": [
+      {
+        "ref": "John 18:31",
+        "book_code": "JHN",
+        "draft_translation": "Then said Pilate to them, Take him yourselves, and judge him according to your law. The Jews therefore said to him, It is not lawful for us to put anyone to death:"
+      },
+      {
+        "ref": "John 19:6",
+        "book_code": "JHN",
+        "draft_translation": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate says to them, Take him yourselves, and crucify him: for I find no fault in him."
       }
     ],
     "modernized speak-you-not question": [
@@ -4617,6 +4868,13 @@
         "draft_translation": "And after they were silent, James answered, saying, Men and brothers, Listen to me:"
       }
     ],
+    "fixed graven-by-art typo": [
+      {
+        "ref": "Acts 17:29",
+        "book_code": "ACT",
+        "draft_translation": "Since then as we are the offspring of God, we ought not to think that the Godhead is like to gold, or silver, or stone, engraved by art and man's device."
+      }
+    ],
     "modernized clave": [
       {
         "ref": "Acts 17:34",
@@ -4624,11 +4882,51 @@
         "draft_translation": "Nevertheless certain men clung to him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them."
       }
     ],
+    "modernized adventure-as-venture": [
+      {
+        "ref": "Acts 19:31",
+        "book_code": "ACT",
+        "draft_translation": "And certain of the chief of Asia, who were his friends, sent to him, desiring him that he would not venture himself into the theatre."
+      }
+    ],
+    "modernized more-part idiom": [
+      {
+        "ref": "Acts 19:32",
+        "book_code": "ACT",
+        "draft_translation": "Some therefore cried one thing, and some another: for the assembly was confused: and most did not know therefore they had come together."
+      },
+      {
+        "ref": "Acts 27:12",
+        "book_code": "ACT",
+        "draft_translation": "And because the haven was not commodious to winter in, most advised to depart from there also, if by any means they might attain to Phenice, and there to winter; which is a haven of Crete, and lies toward the south west and north west."
+      }
+    ],
+    "fixed non-person relative after assembly": [
+      {
+        "ref": "Acts 20:28",
+        "book_code": "ACT",
+        "draft_translation": "Take heed therefore to yourselves, and to all the flock, over which the Holy Spirit has made you overseers, to feed the assembly of God, which he has purchased with his own blood."
+      }
+    ],
+    "modernized over-the-which wording": [
+      {
+        "ref": "Acts 20:28",
+        "book_code": "ACT",
+        "draft_translation": "Take heed therefore to yourselves, and to all the flock, over which the Holy Spirit has made you overseers, to feed the assembly of God, which he has purchased with his own blood."
+      }
+    ],
     "modernized nations relative as that": [
       {
         "ref": "Acts 21:25",
         "book_code": "ACT",
         "draft_translation": "As concerning the nations that believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from sexual immorality."
+      }
+    ],
+    "fixed Acts 22:29 relative artifact": [
+      {
+        "ref": "Acts 22:29",
+        "book_code": "ACT",
+        "draft_translation": "Then immediately those who were about to examine him departed from him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him."
       }
     ],
     "modernized do-not-you imperative": [
@@ -4691,6 +4989,13 @@
         "ref": "Romans 1:7",
         "book_code": "ROM",
         "draft_translation": "To all who are in Rome, beloved of God, called to be holy ones: Grace to you and peace from God our Father, and the Lord Jesus Christ."
+      }
+    ],
+    "fixed non-person relative after righteousness": [
+      {
+        "ref": "Romans 3:22",
+        "book_code": "ROM",
+        "draft_translation": "Even the righteousness of God which is by faith of Jesus Christ to all and upon all those who believe: for there is no difference:"
       }
     ],
     "modernized things-which-be-not wording": [
@@ -4763,6 +5068,20 @@
         "draft_translation": "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death."
       }
     ],
+    "fixed non-person relative after love": [
+      {
+        "ref": "Romans 8:39",
+        "book_code": "ROM",
+        "draft_translation": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+      }
+    ],
+    "fixed whom relative after people": [
+      {
+        "ref": "Romans 11:2",
+        "book_code": "ROM",
+        "draft_translation": "God has not cast away his people whom he foreknew. Do you not know what the scripture says of Elijah? how he makes intercession to God against Israel saying,"
+      }
+    ],
     "modernized powers-that-be wording": [
       {
         "ref": "Romans 13:1",
@@ -4785,6 +5104,30 @@
         "ref": "2 Timothy 1:12",
         "book_code": "2TI",
         "draft_translation": "For this reason I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed to him against that day."
+      }
+    ],
+    "fixed non-person relative after grace": [
+      {
+        "ref": "1 Corinthians 1:4",
+        "book_code": "1CO",
+        "draft_translation": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+      },
+      {
+        "ref": "1 Corinthians 3:10",
+        "book_code": "1CO",
+        "draft_translation": "According to the grace of God which is given to me, as a wise architect, I have laid the foundation, and another builds thereon. But let every man take heed how he builds thereupon."
+      },
+      {
+        "ref": "1 Corinthians 15:10",
+        "book_code": "1CO",
+        "draft_translation": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I labored more abundantly than they all: yet not I, but the grace of God which was with me."
+      }
+    ],
+    "fixed non-person relative after spirit of man": [
+      {
+        "ref": "1 Corinthians 2:11",
+        "book_code": "1CO",
+        "draft_translation": "For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no one, but the Spirit of God."
       }
     ],
     "modernized hereby": [
@@ -4830,7 +5173,19 @@
       {
         "ref": "1 Corinthians 6:16",
         "book_code": "1CO",
-        "draft_translation": "What? do you not know that the one who is joined to a prostitute is one body? for two, says he, shall be one flesh."
+        "draft_translation": "Or do you not know that the one who is joined to a prostitute is one body? for two, says he, shall be one flesh."
+      }
+    ],
+    "fixed rhetorical question wording": [
+      {
+        "ref": "1 Corinthians 6:16",
+        "book_code": "1CO",
+        "draft_translation": "Or do you not know that the one who is joined to a prostitute is one body? for two, says he, shall be one flesh."
+      },
+      {
+        "ref": "1 Corinthians 6:19",
+        "book_code": "1CO",
+        "draft_translation": "Or do you not know that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?"
       }
     ],
     "rendered aion as age": [
@@ -4868,7 +5223,19 @@
       {
         "ref": "1 John 2:1",
         "book_code": "1JN",
-        "draft_translation": "My little children, these things write I to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:"
+        "draft_translation": "My little children, I write these things to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:"
+      }
+    ],
+    "rendered zoopoieo as made alive": [
+      {
+        "ref": "1 Corinthians 15:36",
+        "book_code": "1CO",
+        "draft_translation": "You fool, that which you sow is not made alive, except it die:"
+      },
+      {
+        "ref": "1 Peter 3:18",
+        "book_code": "1PE",
+        "draft_translation": "For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but made alive in spirit:"
       }
     ],
     "modernized conversation as conduct": [
@@ -4934,6 +5301,49 @@
         "ref": "Colossians 2:19",
         "book_code": "COL",
         "draft_translation": "And not holding the Head, from which all the body by joints and bands having nourishment supplied, and knit together, increases with the increase of God."
+      }
+    ],
+    "modernized forevermore spelling": [
+      {
+        "ref": "2 Corinthians 11:31",
+        "book_code": "2CO",
+        "draft_translation": "The God and Father of our Lord Jesus Christ, who is blessed forevermore, knows that I lie not."
+      },
+      {
+        "ref": "Hebrews 7:28",
+        "book_code": "HEB",
+        "draft_translation": "For the law makes men high priests who have infirmity; but the word of the oath, which came after the law, makes the Son, who is consecrated forevermore."
+      },
+      {
+        "ref": "Revelation 1:18",
+        "book_code": "REV",
+        "draft_translation": "I am the one who lives, and was dead; and, look, I am alive forevermore, Amen; and have the keys of Hades and of death."
+      }
+    ],
+    "modernized own-selves wording": [
+      {
+        "ref": "2 Corinthians 13:5",
+        "book_code": "2CO",
+        "draft_translation": "Examine yourselves, whether you be in the faith; prove your own selves. Do you not know yourselves, how that Jesus Christ is in you, except you be reprobates?"
+      }
+    ],
+    "removed supplied quickened not present in verse": [
+      {
+        "ref": "Ephesians 2:1",
+        "book_code": "EPH",
+        "draft_translation": "And you, being dead in trespasses and sins;"
+      }
+    ],
+    "rendered syzoopoieo as made alive together": [
+      {
+        "ref": "Ephesians 2:5",
+        "book_code": "EPH",
+        "draft_translation": "Even when we were dead in sins, he made us alive together with Christ, (by grace you are saved;)"
+      },
+      {
+        "ref": "Colossians 2:13",
+        "book_code": "COL",
+        "draft_translation": "And you, being dead in your sins and the uncircumcision of your flesh, he made alive together with him, having forgiven you all trespasses;"
       }
     ],
     "fixed be-release artifact": [
@@ -5058,6 +5468,20 @@
         "draft_translation": "To the end he may establish your hearts blameless in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his holy ones."
       }
     ],
+    "fixed first-person relative artifact": [
+      {
+        "ref": "Colossians 1:24",
+        "book_code": "COL",
+        "draft_translation": "I now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the assembly:"
+      }
+    ],
+    "fixed non-person relative after dispensation": [
+      {
+        "ref": "Colossians 1:25",
+        "book_code": "COL",
+        "draft_translation": "of which I am made a minister, according to the dispensation of God which is given to me for you, to fulfill the word of God;"
+      }
+    ],
     "modernized holy day spelling": [
       {
         "ref": "Colossians 2:16",
@@ -5158,13 +5582,6 @@
         "draft_translation": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our confession."
       }
     ],
-    "fixed him-that relative artifact": [
-      {
-        "ref": "2 Timothy 1:18",
-        "book_code": "2TI",
-        "draft_translation": "The Lord grant to him that he may find mercy of the Lord in that day: and in how many things he ministered to me at Ephesus, you know very well."
-      }
-    ],
     "fixed be-ware artifact": [
       {
         "ref": "2 Timothy 4:15",
@@ -5198,6 +5615,20 @@
         "ref": "Hebrews 2:1",
         "book_code": "HEB",
         "draft_translation": "Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip."
+      }
+    ],
+    "fixed Hebrews 7:28 temporal wording": [
+      {
+        "ref": "Hebrews 7:28",
+        "book_code": "HEB",
+        "draft_translation": "For the law makes men high priests who have infirmity; but the word of the oath, which came after the law, makes the Son, who is consecrated forevermore."
+      }
+    ],
+    "fixed waxs-old artifact": [
+      {
+        "ref": "Hebrews 8:13",
+        "book_code": "HEB",
+        "draft_translation": "In that he says, A new covenant, he has made the first old. Now that which decays and grows old is ready to vanish away."
       }
     ],
     "modernized waxed-valiant idiom": [
@@ -5256,11 +5687,32 @@
         "draft_translation": "For if God spared not the angels that sinned, but cast them down to Tartarus, and delivered them into chains of darkness, to be reserved to judgment;"
       }
     ],
+    "modernized write-I word order": [
+      {
+        "ref": "1 John 2:1",
+        "book_code": "1JN",
+        "draft_translation": "My little children, I write these things to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:"
+      }
+    ],
     "rendered splanchna compassion idiom": [
       {
         "ref": "1 John 3:17",
         "book_code": "1JN",
         "draft_translation": "But whoever has this world's good, and sees his brother have need, and shuts up his compassion from him, how dwells the love of God in him?"
+      }
+    ],
+    "fixed know-you word order": [
+      {
+        "ref": "1 John 4:2",
+        "book_code": "1JN",
+        "draft_translation": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:"
+      }
+    ],
+    "fixed non-person relative after witness": [
+      {
+        "ref": "1 John 5:9",
+        "book_code": "1JN",
+        "draft_translation": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son."
       }
     ],
     "rendered phiale as bowl": [
@@ -5302,6 +5754,13 @@
         "ref": "Revelation 18:22",
         "book_code": "REV",
         "draft_translation": "And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no longer in you; and no craftsman, of whatever craft he be, shall be found any more in you; and the sound of a millstone shall be heard no longer in you;"
+      }
+    ],
+    "fixed Revelation relative artifact": [
+      {
+        "ref": "Revelation 20:4",
+        "book_code": "REV",
+        "draft_translation": "And I saw thrones, and they sat upon them, and judgment was given to them: and I saw the souls of those who were beheaded for the witness of Jesus, and for the word of God, and those who had not worshiped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
       }
     ]
   }
