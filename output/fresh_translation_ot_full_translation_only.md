@@ -25558,7 +25558,7 @@ And their boundaries came to be Exeleketh and Aleph and Baithok and Keaph,
 
 **Joshua 19:26**
 
-and Elimelech and Amiiel and Maasa, and it shall join to Carmel by the sea and to Sion and Labanath.
+and Alammelech and Amiiel and Maasa, and it shall join to Carmel by the sea and to Sion and Labanath.
 
 **Joshua 19:27**
 
@@ -28728,23 +28728,23 @@ In those days there was no king in Israel; each man did what was right in his ow
 
 **Ruth 1:1**
 
-And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethleem of Judah went to reside in the field of Moab, he and his wife and his sons.
+And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethlehem of Judah went to reside in the field of Moab, he and his wife and his sons.
 
 **Ruth 1:2**
 
-And the name of the man was Abimelech, and the name of his wife Noemin, and the names of his two sons Maalōn and Chelaiōn, Ephrathites from Bethleem of Judah, and they came into the field of Moab and were there.
+And the name of the man was Elimelech, and the name of his wife Naomi, and the names of his two sons Mahlon and Chilion, Ephrathites from Bethlehem of Judah, and they came into the field of Moab and were there.
 
 **Ruth 1:3**
 
-And Abimelech, husband of Noemin, died, and she was left, she and her two sons.
+And Elimelech, husband of Naomi, died, and she was left, she and her two sons.
 
 **Ruth 1:4**
 
-And they took for themselves Moabite women; the name of the one was Orpha and the name of the second Ruth, and they dwelt there about ten years.
+And they took for themselves Moabite women; the name of the one was Orpah and the name of the second Ruth, and they dwelt there about ten years.
 
 **Ruth 1:5**
 
-And both Maalōn and Chelaiōn also died, and the woman was left without her husband and without her two sons.
+And both Mahlon and Chilion also died, and the woman was left without her husband and without her two sons.
 
 **Ruth 1:6**
 
@@ -28756,7 +28756,7 @@ And she went out from the place where she had been there, and her two daughters-
 
 **Ruth 1:8**
 
-And Noemin said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
+And Naomi said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
 
 **Ruth 1:9**
 
@@ -28768,7 +28768,7 @@ And they said to her, With you we will return to your people.
 
 **Ruth 1:11**
 
-And Noemin said, Return now, my daughters. Why are you going with me? Are there yet sons in my womb, and will they be husbands for you?
+And Naomi said, Return now, my daughters. Why are you going with me? Are there yet sons in my womb, and will they be husbands for you?
 
 **Ruth 1:12**
 
@@ -28780,11 +28780,11 @@ would you wait for them until they grow up? Or would you be restrained on accoun
 
 **Ruth 1:14**
 
-And they lifted up their voice and wept again, and Orpha kissed her mother-in-law and returned to her people, but Ruth followed her.
+And they lifted up their voice and wept again, and Orpah kissed her mother-in-law and returned to her people, but Ruth followed her.
 
 **Ruth 1:15**
 
-And Noemin said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law.
+And Naomi said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law.
 
 **Ruth 1:16**
 
@@ -28796,49 +28796,49 @@ And wherever you die, I will die, and there I will be buried. Thus may the Lord 
 
 **Ruth 1:18**
 
-And Noemin saw that she was strong in going with her, and she ceased speaking to her any more.
+And Naomi saw that she was strong in going with her, and she ceased speaking to her any more.
 
 **Ruth 1:19**
 
-And both of them went until they came to Bethleem, and all the city sounded over them, and they said, Is this Noemin?
+And both of them went until they came to Bethlehem, and all the city sounded over them, and they said, Is this Naomi?
 
 **Ruth 1:20**
 
-And she said to them, Do not call me Noemin; call me Bitter, because the Mighty One has made things very bitter in me.
+And she said to them, Do not call me Naomi; call me Bitter, because the Mighty One has made things very bitter in me.
 
 **Ruth 1:21**
 
-I went away full, and the Lord brought me back empty. And why do you call me Noemin, when the Lord humbled me and the Mighty One afflicted me?
+I went away full, and the Lord brought me back empty. And why do you call me Naomi, when the Lord humbled me and the Mighty One afflicted me?
 
 **Ruth 1:22**
 
-And Noemin returned, and Ruth the Moabitess her daughter-in-law with her, returning from the field of Moab. And they came to Bethleem at the beginning of barley harvest.
+And Naomi returned, and Ruth the Moabitess her daughter-in-law with her, returning from the field of Moab. And they came to Bethlehem at the beginning of barley harvest.
 
 ### Chapter 2
 
 **Ruth 2:1**
 
-And for Noemin there was a known man to her husband, and the man was mighty in strength from the kindred of Abimelech, and his name was Boos.
+And for Naomi there was a known man to her husband, and the man was mighty in strength from the kindred of Elimelech, and his name was Boaz.
 
 **Ruth 2:2**
 
-And Ruth the Moabitess said to Noemin, Let me now go to the field and glean among the ears behind whoever I find favor in his eyes. And she said to her, Go, daughter.
+And Ruth the Moabitess said to Naomi, Let me now go to the field and glean among the ears behind whoever I find favor in his eyes. And she said to her, Go, daughter.
 
 **Ruth 2:3**
 
-And she went and gleaned in the field behind the reapers, and it happened by chance upon the portion of the field of Boos, who was from the kindred of Abimelech.
+And she went and gleaned in the field behind the reapers, and it happened by chance upon the portion of the field of Boaz, who was from the kindred of Elimelech.
 
 **Ruth 2:4**
 
-And behold, Boos came from Bethleem and said to the reapers, The Lord be with you. And they said to him, May the Lord bless you.
+And behold, Boaz came from Bethlehem and said to the reapers, The Lord be with you. And they said to him, May the Lord bless you.
 
 **Ruth 2:5**
 
-And Boos said to his young servant set over the reapers, Whose young woman is this?
+And Boaz said to his young servant set over the reapers, Whose young woman is this?
 
 **Ruth 2:6**
 
-And the young servant set over the reapers answered and said, She is the Moabite girl who returned with Noemin from the field of Moab.
+And the young servant set over the reapers answered and said, She is the Moabite girl who returned with Naomi from the field of Moab.
 
 **Ruth 2:7**
 
@@ -28846,7 +28846,7 @@ And she said, Let me now glean and gather among the sheaves behind the reapers. 
 
 **Ruth 2:8**
 
-And Boos said to Ruth, Have you not heard, daughter? Do not go to another field to glean, and do not go from here. Here stay close with my girls.
+And Boaz said to Ruth, Have you not heard, daughter? Do not go to another field to glean, and do not go from here. Here stay close with my girls.
 
 **Ruth 2:9**
 
@@ -28858,7 +28858,7 @@ And she fell on her face and bowed to the ground and said to him, Why did I find
 
 **Ruth 2:11**
 
-And Boos answered and said to her, It was fully reported to me all that you have done with your mother-in-law after the death of your husband, and how you left your father and your mother and the land of your birth and went to a people you did not know yesterday or the day before.
+And Boaz answered and said to her, It was fully reported to me all that you have done with your mother-in-law after the death of your husband, and how you left your father and your mother and the land of your birth and went to a people you did not know yesterday or the day before.
 
 **Ruth 2:12**
 
@@ -28870,11 +28870,11 @@ And she said, May I find favor in your eyes, lord, because you comforted me and 
 
 **Ruth 2:14**
 
-And Boos said to her, Already it is time to eat; come here and eat of the bread and dip your morsel in the vinegar. And Ruth sat beside the reapers, and Boos heaped parched grain for her, and she ate and was filled and left some.
+And Boaz said to her, Already it is time to eat; come here and eat of the bread and dip your morsel in the vinegar. And Ruth sat beside the reapers, and Boaz heaped parched grain for her, and she ate and was filled and left some.
 
 **Ruth 2:15**
 
-And she rose to glean, and Boos commanded his young men, saying, Indeed let her glean even among the sheaves, and do not shame her.
+And she rose to glean, and Boaz commanded his young men, saying, Indeed let her glean even among the sheaves, and do not shame her.
 
 **Ruth 2:16**
 
@@ -28890,11 +28890,11 @@ And she took it and went into the city, and her mother-in-law saw what she had g
 
 **Ruth 2:19**
 
-And her mother-in-law said to her, Where did you glean today, and where did you work? Blessed be the one noticing you. And Ruth reported to her mother-in-law where she worked and said, The name of the man with whom I worked today is Boos.
+And her mother-in-law said to her, Where did you glean today, and where did you work? Blessed be the one noticing you. And Ruth reported to her mother-in-law where she worked and said, The name of the man with whom I worked today is Boaz.
 
 **Ruth 2:20**
 
-And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+And Naomi said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Naomi said to her, The man is near to us; he is from those redeeming us.
 
 **Ruth 2:21**
 
@@ -28902,21 +28902,21 @@ And Ruth said to her mother-in-law, Indeed he also said to me, Stay close with m
 
 **Ruth 2:22**
 
-And Noemin said to Ruth her daughter-in-law, It is good, daughter, that you went with his girls, and they will not meet you in another field.
+And Naomi said to Ruth her daughter-in-law, It is good, daughter, that you went with his girls, and they will not meet you in another field.
 
 **Ruth 2:23**
 
-And Ruth stayed close to the girls of Boos, gleaning until the barley harvest and the wheat harvest were finished, and she lived with her mother-in-law.
+And Ruth stayed close to the girls of Boaz, gleaning until the barley harvest and the wheat harvest were finished, and she lived with her mother-in-law.
 
 ### Chapter 3
 
 **Ruth 3:1**
 
-And Noemin her mother-in-law said to her, Daughter, shall I not seek rest for you, so that it may be well with you?
+And Naomi her mother-in-law said to her, Daughter, shall I not seek rest for you, so that it may be well with you?
 
 **Ruth 3:2**
 
-And now, is not Boos our kinsman, with whose girls you were? Behold, he winnows the threshing floor of barley tonight.
+And now, is not Boaz our kinsman, with whose girls you were? Behold, he winnows the threshing floor of barley tonight.
 
 **Ruth 3:3**
 
@@ -28936,7 +28936,7 @@ And she went down to the threshing floor and did according to all that her mothe
 
 **Ruth 3:7**
 
-And Boos ate and his heart was made glad, and he came to lie down at the edge of the heap, and she came secretly and uncovered the things at his feet.
+And Boaz ate and his heart was made glad, and he came to lie down at the edge of the heap, and she came secretly and uncovered the things at his feet.
 
 **Ruth 3:8**
 
@@ -28964,7 +28964,7 @@ Lodge here tonight, and it shall be in the morning, if he redeems you, good, let
 
 **Ruth 3:14**
 
-And she slept at his feet until morning, and she rose before one man could recognize his neighbor. And Boos said, Let it not be known that a woman came to the threshing floor.
+And she slept at his feet until morning, and she rose before one man could recognize his neighbor. And Boaz said, Let it not be known that a woman came to the threshing floor.
 
 **Ruth 3:15**
 
@@ -28986,15 +28986,15 @@ And she said, Sit, daughter, until you know how the matter will fall, for the ma
 
 **Ruth 4:1**
 
-And Boos went up to the gate and sat there, and behold, the redeemer was passing by whom Boos had spoken of, and Boos said to him, Turn aside, sit here, hidden one. And he turned aside and sat.
+And Boaz went up to the gate and sat there, and behold, the redeemer was passing by whom Boaz had spoken of, and Boaz said to him, Turn aside, sit here, hidden one. And he turned aside and sat.
 
 **Ruth 4:2**
 
-And Boos took ten men from the elders of the city and said, Sit here. And they sat.
+And Boaz took ten men from the elders of the city and said, Sit here. And they sat.
 
 **Ruth 4:3**
 
-And Boos said to the redeemer, The portion of the field that belongs to our brother Abimelech is being given to Noemin who returned from the field of Moab.
+And Boaz said to the redeemer, The portion of the field that belongs to our brother Elimelech is being given to Naomi who returned from the field of Moab.
 
 **Ruth 4:4**
 
@@ -29002,7 +29002,7 @@ And I said, I will uncover your ear, saying, Buy it before those sitting here an
 
 **Ruth 4:5**
 
-And Boos said, On the day of your acquiring the field from the hand of Noemin, and from Ruth the Moabitess, wife of the dead man, it is necessary for you also to acquire her for yourself, so as to raise up the name of the dead over his inheritance.
+And Boaz said, On the day of your acquiring the field from the hand of Naomi, and from Ruth the Moabitess, wife of the dead man, it is necessary for you also to acquire her for yourself, so as to raise up the name of the dead over his inheritance.
 
 **Ruth 4:6**
 
@@ -29014,19 +29014,19 @@ And this was the custom formerly in Israel concerning redemption and concerning 
 
 **Ruth 4:8**
 
-And the redeemer said to Boos, Acquire my redemption-right for yourself, and he loosened his sandal and gave it to him.
+And the redeemer said to Boaz, Acquire my redemption-right for yourself, and he loosened his sandal and gave it to him.
 
 **Ruth 4:9**
 
-And Boos said to the elders and to all the people, You are witnesses today that I acquired everything of Abimelech and everything belonging to Chelaiōn and to Maalōn from the hand of Noemin.
+And Boaz said to the elders and to all the people, You are witnesses today that I acquired everything of Elimelech and everything belonging to Chilion and to Mahlon from the hand of Naomi.
 
 **Ruth 4:10**
 
-And indeed Ruth the Moabitess, wife of Maalōn, I acquired for myself as wife, to raise up the name of the dead upon his inheritance, and the name of the dead shall not be blotted out from among his brothers and from the tribe of his people. You are witnesses today.
+And indeed Ruth the Moabitess, wife of Mahlon, I acquired for myself as wife, to raise up the name of the dead upon his inheritance, and the name of the dead shall not be blotted out from among his brothers and from the tribe of his people. You are witnesses today.
 
 **Ruth 4:11**
 
-And all the people at the gate said, Witnesses. And the elders said, May the Lord make your wife entering into your house like Rachel and like Leia, who both built the house of Israel, and may they make strength in Ephratha, and may your name be in Bethleem.
+And all the people at the gate said, Witnesses. And the elders said, May the Lord make your wife entering into your house like Rachel and like Leia, who both built the house of Israel, and may they make strength in Ephratha, and may your name be in Bethlehem.
 
 **Ruth 4:12**
 
@@ -29034,11 +29034,11 @@ And may your house become like the house of Phares, whom Thamar bore to Judah, f
 
 **Ruth 4:13**
 
-And Boos took Ruth, and she became his wife, and he went in to her, and the Lord gave her conception, and she bore a son.
+And Boaz took Ruth, and she became his wife, and he went in to her, and the Lord gave her conception, and she bore a son.
 
 **Ruth 4:14**
 
-And the women said to Noemin, Blessed be the Lord, who did not leave you without a redeemer today, and may your name be called in Israel.
+And the women said to Naomi, Blessed be the Lord, who did not leave you without a redeemer today, and may your name be called in Israel.
 
 **Ruth 4:15**
 
@@ -29046,11 +29046,11 @@ And he shall be for you a restoring of soul and to nourish your old age, because
 
 **Ruth 4:16**
 
-And Noemin took the child and placed him in her bosom, and she became nurse to him.
+And Naomi took the child and placed him in her bosom, and she became nurse to him.
 
 **Ruth 4:17**
 
-And the neighboring women called his name, saying, A son has been born to Noemin, and they called his name Ōbēd; he is father of Jessai, father of David.
+And the neighboring women called his name, saying, A son has been born to Naomi, and they called his name Ōbēd; he is father of Jessai, father of David.
 
 **Ruth 4:18**
 
@@ -29066,7 +29066,7 @@ and Aminadab fathered Naassōn, and Naassōn fathered Salman,
 
 **Ruth 4:21**
 
-and Salman fathered Boos, and Boos fathered Ōbēd,
+and Salman fathered Boaz, and Boaz fathered Ōbēd,
 
 **Ruth 4:22**
 

@@ -123,17 +123,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ruth
 
-**Ruth 1:1** And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethleem of Judah went to reside in the field of Moab, he and his wife and his sons.
+**Ruth 1:1** And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethlehem of Judah went to reside in the field of Moab, he and his wife and his sons.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 22
 
-**Ruth 1:2** And the name of the man was Abimelech, and the name of his wife Noemin, and the names of his two sons Maalōn and Chelaiōn, Ephrathites from Bethleem of Judah, and they came into the field of Moab and were there.
-- Translation/textual notes: 0
+**Ruth 1:2** And the name of the man was Elimelech, and the name of his wife Naomi, and the names of his two sons Mahlon and Chilion, Ephrathites from Bethlehem of Judah, and they came into the field of Moab and were there.
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**Ruth 1:3** And Abimelech, husband of Noemin, died, and she was left, she and her two sons.
+**Ruth 1:3** And Elimelech, husband of Naomi, died, and she was left, she and her two sons.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 4
