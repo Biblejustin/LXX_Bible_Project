@@ -16,7 +16,7 @@ DEFAULT_SOURCE = ROOT / "data" / "raw" / "tr_greek" / "nt_full.csv"
 DEFAULT_REPORT = ROOT / "output" / "nt_tr_literal_revision_pass1_diagnostics.json"
 DEFAULT_REVIEW_QUEUE = ROOT / "output" / "nt_tr_literal_revision_review_queue.csv"
 
-REVIEW_COLUMNS = ["review_status", "review_notes"]
+REVIEW_COLUMNS = ["ukjv_translation", "review_status", "review_notes"]
 STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
 
 
@@ -232,7 +232,15 @@ def revise_row(row: dict[str, str]) -> tuple[str, list[str], str]:
 
 def write_review_queue(path: Path, rows: list[dict[str, str]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = ["ref", "book_code", "greek_text", "draft_translation", "review_status", "review_notes"]
+    fieldnames = [
+        "ref",
+        "book_code",
+        "greek_text",
+        "draft_translation",
+        "ukjv_translation",
+        "review_status",
+        "review_notes",
+    ]
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
@@ -257,6 +265,8 @@ def main() -> None:
 
     for row in rows:
         original = row.get("draft_translation", "")
+        if not row.get("ukjv_translation"):
+            row["ukjv_translation"] = original
         revised, notes, status = revise_row(row)
         row["draft_translation"] = revised
         row["review_status"] = status
@@ -278,6 +288,7 @@ def main() -> None:
     write_rows(args.source, rows, fieldnames)
     write_review_queue(args.review_queue, rows)
     diagnostics = {
+        "method": "TR literal draft is primary in draft_translation; UKJV is preserved only as ukjv_translation witness.",
         "source": str(args.source),
         "rows": len(rows),
         "status_counts": dict(status_counts),

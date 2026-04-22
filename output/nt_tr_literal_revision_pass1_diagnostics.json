@@ -1,4 +1,5 @@
 {
+  "method": "TR literal draft is primary in draft_translation; UKJV is preserved only as ukjv_translation witness.",
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {

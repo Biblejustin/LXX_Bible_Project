@@ -12,12 +12,13 @@ Import notes:
 
 - Upstream files use an ASCII Greek encoding. The importer preserves that source string in `transliteration` and converts it to unaccented Unicode Greek in `greek_text`.
 - Downloaded SCV files are normalized to LF line endings with trailing source-line whitespace trimmed.
-- `draft_translation` is seeded from the public-domain UKJV so the Logos builder has a complete NT baseline. Treat it as an alignment seed, not final literal revision.
+- `ukjv_translation` preserves the public-domain UKJV as a witness column.
+- `draft_translation` is a working TR literal draft after `scripts/apply_nt_tr_literal_revision.py`; UKJV should be checked against it, not used as final wording.
 - `literal_gloss` and `syntax_notes` are intentionally blank until verse-level TR review fills them.
 
 Import counts:
 
 - Rows: 7957
 - Books: 27
-- UKJV-seeded draft rows: 7957
+- UKJV witness rows: 7957
 - Missing UKJV seed rows: 0

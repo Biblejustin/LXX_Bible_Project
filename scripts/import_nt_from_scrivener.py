@@ -103,6 +103,7 @@ SOURCE_COLUMNS = [
     "literal_gloss",
     "syntax_notes",
     "draft_translation",
+    "ukjv_translation",
     "review_status",
     "review_notes",
 ]
@@ -202,12 +203,15 @@ def build_rows(source_dir: Path) -> tuple[list[dict[str, object]], dict[str, obj
         book_counts[book_code] = len(parsed)
         for row in parsed:
             key = (str(row["book_code"]), int(row["chapter"]), int(row["verse"]))
+            ukjv_text = ukjv.get(key, "")
             row["literal_gloss"] = ""
             row["syntax_notes"] = ""
-            row["draft_translation"] = ukjv.get(key, "")
-            row["review_status"] = "ukjv_seed"
-            row["review_notes"] = "Seeded from public-domain UKJV; requires TR literal revision."
-            if row["draft_translation"]:
+            row["draft_translation"] = ukjv_text
+            row["ukjv_translation"] = ukjv_text
+            row["review_status"] = "ukjv_witness_seed"
+            row["review_notes"] = "UKJV preserved as witness; draft requires TR literal revision."
+            if ukjv_text:
+                counts["ukjv_witness_rows"] += 1
                 counts["seeded_from_ukjv"] += 1
             else:
                 counts["missing_ukjv_seed"] += 1
@@ -261,14 +265,15 @@ Import notes:
 
 - Upstream files use an ASCII Greek encoding. The importer preserves that source string in `transliteration` and converts it to unaccented Unicode Greek in `greek_text`.
 - Downloaded SCV files are normalized to LF line endings with trailing source-line whitespace trimmed.
-- `draft_translation` is seeded from the public-domain UKJV so the Logos builder has a complete NT baseline. Treat it as an alignment seed, not final literal revision.
+- `ukjv_translation` preserves the public-domain UKJV as a witness column.
+- `draft_translation` is a working TR literal draft after `scripts/apply_nt_tr_literal_revision.py`; UKJV should be checked against it, not used as final wording.
 - `literal_gloss` and `syntax_notes` are intentionally blank until verse-level TR review fills them.
 
 Import counts:
 
 - Rows: {diagnostics.get("rows", 0)}
 - Books: {diagnostics.get("book_count", 0)}
-- UKJV-seeded draft rows: {diagnostics.get("seeded_from_ukjv", 0)}
+- UKJV witness rows: {diagnostics.get("ukjv_witness_rows", 0)}
 - Missing UKJV seed rows: {diagnostics.get("missing_ukjv_seed", 0)}
 """
     path.write_text(content, encoding="utf-8")
