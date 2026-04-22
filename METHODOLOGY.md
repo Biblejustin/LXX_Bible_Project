@@ -6,6 +6,17 @@ every Masoretic reading is secondary. The edition has a confessional and
 text-critical point of view, but the build data should show where that point of
 view affects the output.
 
+## Limitations And Review Request
+
+The project author is not a biblical scholar or a Koine Greek expert. Scripture
+is received as without error in the original manuscripts, but this translation
+is a fallible working draft. There definitely are mistakes in the translation,
+notes, data, and generated outputs.
+
+Readers and contributors should test the work carefully. Be Berean, as in Acts
+17:11: inspect the text, source evidence, and notes diligently to see whether
+these things are correct. Corrections and careful issue reports are appreciated.
+
 ## Core Commitments
 
 - Scripture is received as God's inerrant word, given by word inspiration in

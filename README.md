@@ -14,6 +14,17 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - Local Logos resources serve as research tools, while private notes stay private.
 - This branch removes inherited study-bible output artifacts and keeps only fresh-translation outputs.
 
+## Reader Disclaimer And Review Request
+
+The project author is not a biblical scholar or a Koine Greek expert. This
+project receives the original manuscripts of Scripture as without error, but
+this working translation is not without error. There definitely are mistakes in
+this translation, its notes, and its generated outputs.
+
+Your help and attention in finding those mistakes are greatly appreciated. Be a
+Berean, as in Acts 17:11: receive the work with care, but diligently inspect the
+text and source evidence to see whether these things are correct.
+
 ## Build Requirements
 
 - Python 3.11+.
