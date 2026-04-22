@@ -912,6 +912,20 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\bsince then as\b", "since then", "modernized since-then-as wording"),
         (r"\bbecause that\b", "because", "modernized because-that wording"),
         (r"\bof which you have heard\b", "concerning which you have heard", "aligned peri relative wording"),
+        (r"\bdoes not righteousness\b", "does not do righteousness", "fixed do-righteousness wording"),
+        (r"\bsays not the law\b", "does not the law say", "modernized says-not question"),
+        (r"\bHe says not,", "He does not say,", "modernized says-not wording"),
+        (r"\bsays not,", "does not say,", "modernized says-not wording"),
+        (r"\bloves me not\b", "does not love me", "modernized loves-not wording"),
+        (r"\bloves not\b", "does not love", "modernized loves-not wording"),
+        (r"\bcomes not\b", "does not come", "modernized comes-not wording"),
+        (r"\bhears not\b", "does not hear", "modernized hears-not wording"),
+        (r"\breceives not\b", "does not receive", "modernized receives-not wording"),
+        (r"\bkeeps not\b", "does not keep", "modernized keeps-not wording"),
+        (r"\bdwells not\b", "does not dwell", "modernized dwells-not wording"),
+        (r"\babides not\b", "does not abide", "modernized abides-not wording"),
+        (r"\bregards not\b", "does not regard", "modernized regards-not wording"),
+        (r"\beats not\b", "does not eat", "modernized eats-not wording"),
     ]
     for pattern, replacement, note in final_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)

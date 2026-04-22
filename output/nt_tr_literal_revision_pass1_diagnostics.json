@@ -4,19 +4,19 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 20,
-    "tr_literal_pass1": 5719,
-    "needs_focused_tr_review": 2218
+    "tr_literal_pass1": 5724,
+    "needs_focused_tr_review": 2213
   },
   "changed_by_book": {
     "MAT": 823,
     "MRK": 473,
-    "LUK": 799,
-    "JHN": 629,
-    "ACT": 652,
+    "LUK": 800,
+    "JHN": 630,
+    "ACT": 653,
     "ROM": 274,
-    "1CO": 302,
+    "1CO": 303,
     "2CO": 175,
-    "GAL": 100,
+    "GAL": 101,
     "EPH": 120,
     "PHP": 72,
     "COL": 72,
@@ -54,7 +54,7 @@
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 261,
-    "UKJV seed retained; needs focused Greek review": 2218,
+    "UKJV seed retained; needs focused Greek review": 2213,
     "removed UKJV plural-expansion artifact": 1117,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
@@ -267,6 +267,7 @@
     "fixed good-news possessive artifact": 3,
     "rendered alalos as mute": 1,
     "fixed pines-away spelling": 1,
+    "modernized receives-not wording": 3,
     "rendered coming aion as age to come": 2,
     "modernized chiefest": 3,
     "fixed cried-more artifact": 1,
@@ -309,6 +310,7 @@
     "fixed duplicate lest artifact": 3,
     "fixed look-it artifact": 1,
     "modernized not-able wording": 1,
+    "modernized comes-not wording": 3,
     "fixed Luke 19:3 word order": 1,
     "modernized salvation-has-come wording": 1,
     "modernized every-one-which relative": 1,
@@ -330,8 +332,12 @@
     "modernized full-come idiom": 1,
     "fixed whence casing after knows": 1,
     "modernized how-says-you idiom": 3,
+    "modernized abides-not wording": 2,
     "fixed seen-him relative artifact": 1,
+    "modernized keeps-not wording": 3,
+    "modernized hears-not wording": 2,
     "modernized thereby": 6,
+    "modernized loves-not wording": 5,
     "rendered apoleia as destruction": 8,
     "modernized kinsman": 2,
     "fixed take-you-him imperative": 2,
@@ -342,6 +348,7 @@
     "modernized insomuch-as idiom": 1,
     "rendered episkope as oversight": 2,
     "modernized what-means-this question": 1,
+    "modernized dwells-not wording": 2,
     "rendered aphonos as voiceless": 3,
     "modernized gainsaying": 3,
     "rendered living/dead idiom": 1,
@@ -371,6 +378,8 @@
     "fixed non-person relative after love": 1,
     "fixed whom relative after people": 1,
     "modernized powers-that-be wording": 1,
+    "modernized eats-not wording": 4,
+    "modernized regards-not wording": 1,
     "modernized for-which-cause idiom": 4,
     "fixed non-person relative after grace": 4,
     "fixed non-person relative after spirit of man": 1,
@@ -378,6 +387,7 @@
     "modernized such-an-one idiom": 7,
     "fixed article before prostitute": 2,
     "fixed rhetorical question wording": 2,
+    "modernized says-not question": 1,
     "rendered aion as age": 1,
     "modernized tomorrow spelling": 1,
     "modernized communications-good-manners idiom": 1,
@@ -390,6 +400,7 @@
     "rendered epichoregeo as supply": 4,
     "modernized forevermore spelling": 3,
     "modernized own-selves wording": 1,
+    "modernized says-not wording": 1,
     "removed supplied quickened not present in verse": 1,
     "rendered syzoopoieo as made alive together": 2,
     "fixed be-release artifact": 1,
@@ -431,6 +442,7 @@
     "modernized hereunto": 1,
     "rendered tartaroo as Tartarus": 1,
     "modernized write-I word order": 1,
+    "fixed do-righteousness wording": 1,
     "rendered splanchna compassion idiom": 1,
     "fixed know-you word order": 1,
     "aligned peri relative wording": 1,
@@ -441,7 +453,7 @@
     "fixed Revelation relative artifact": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2218,
+  "review_queue_rows": 2213,
   "examples": {
     "manual TR literal override": [
       {
@@ -3938,6 +3950,23 @@
         "draft_translation": "And wherever he takes him, he tears him: and he foams, and gnashes with his teeth, and pines away: and I spoke to your disciples that they should cast him out; and they could not."
       }
     ],
+    "modernized receives-not wording": [
+      {
+        "ref": "Mark 9:37",
+        "book_code": "MRK",
+        "draft_translation": "Whoever shall receive one of such children in my name, receives me: and whoever shall receive me, does not receive me, but him who sent me."
+      },
+      {
+        "ref": "John 12:48",
+        "book_code": "JHN",
+        "draft_translation": "the one who rejects me, and does not receive my words, has one that judges him: the word that I have spoken, the same shall judge him in the last day."
+      },
+      {
+        "ref": "1 Corinthians 2:14",
+        "book_code": "1CO",
+        "draft_translation": "But the natural man does not receive the things of the Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually discerned."
+      }
+    ],
     "rendered coming aion as age to come": [
       {
         "ref": "Mark 10:30",
@@ -4477,6 +4506,23 @@
         "draft_translation": "Lest by any means, after he has laid the foundation, and cannot finish it, all who see it begin to mock him,"
       }
     ],
+    "modernized comes-not wording": [
+      {
+        "ref": "Luke 17:20",
+        "book_code": "LUK",
+        "draft_translation": "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God does not come with observation:"
+      },
+      {
+        "ref": "John 10:10",
+        "book_code": "JHN",
+        "draft_translation": "The thief does not come, but in order to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+      },
+      {
+        "ref": "Galatians 5:8",
+        "book_code": "GAL",
+        "draft_translation": "This persuasion does not come of him who calls you."
+      }
+    ],
     "fixed Luke 19:3 word order": [
       {
         "ref": "Luke 19:3",
@@ -4704,11 +4750,52 @@
         "draft_translation": "Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? the one who has seen me has seen the Father; and how do you say then, Show us the Father?"
       }
     ],
+    "modernized abides-not wording": [
+      {
+        "ref": "John 8:35",
+        "book_code": "JHN",
+        "draft_translation": "And the slave does not abide in the house forever: but the Son abides ever."
+      },
+      {
+        "ref": "2 John 1:9",
+        "book_code": "2JN",
+        "draft_translation": "Whoever trangresses, and does not abide in the doctrine of Christ, has not God. the one who abides in the doctrine of Christ, he has both the Father and the Son."
+      }
+    ],
     "fixed seen-him relative artifact": [
       {
         "ref": "John 9:8",
         "book_code": "JHN",
         "draft_translation": "The neighbors therefore, and those who before had seen him when he was blind, said, Is not this the one who sat and begged?"
+      }
+    ],
+    "modernized keeps-not wording": [
+      {
+        "ref": "John 9:16",
+        "book_code": "JHN",
+        "draft_translation": "Therefore said some of the Pharisees, This man is not of God, because he does not keep the Sabbath. Others said, How can a man that is a sinner do such miracles? And there was a division among them."
+      },
+      {
+        "ref": "John 14:24",
+        "book_code": "JHN",
+        "draft_translation": "the one who does not love me does not keep my sayings: and the word which you hear is not mine, but the Father's which sent me."
+      },
+      {
+        "ref": "1 John 2:4",
+        "book_code": "1JN",
+        "draft_translation": "the one who says, I know him, and does not keep his commandments, is a liar, and the truth is not in him."
+      }
+    ],
+    "modernized hears-not wording": [
+      {
+        "ref": "John 9:31",
+        "book_code": "JHN",
+        "draft_translation": "Now we know that God does not hear sinners: but if anyone be a worshipper of God, and does his will, him he hears."
+      },
+      {
+        "ref": "1 John 4:6",
+        "book_code": "1JN",
+        "draft_translation": "We are of God: the one who knows God hears us; the one who is not of God does not hear us. by this know we the spirit of truth, and the spirit of error."
       }
     ],
     "modernized thereby": [
@@ -4726,6 +4813,23 @@
         "ref": "Hebrews 12:11",
         "book_code": "HEB",
         "draft_translation": "Now no chastening for the present seems to be joyous, but grievous: nevertheless afterward it yields the peaceable fruit of righteousness to those who are exercised by it."
+      }
+    ],
+    "modernized loves-not wording": [
+      {
+        "ref": "John 14:24",
+        "book_code": "JHN",
+        "draft_translation": "the one who does not love me does not keep my sayings: and the word which you hear is not mine, but the Father's which sent me."
+      },
+      {
+        "ref": "1 John 3:10",
+        "book_code": "1JN",
+        "draft_translation": "In this the children of God are manifest, and the children of the devil: whoever does not do righteousness is not of God, neither the one who does not love his brother."
+      },
+      {
+        "ref": "1 John 3:14",
+        "book_code": "1JN",
+        "draft_translation": "We know that we have passed from death to life, because we love the brothers. the one who does not love his brother abides in death."
       }
     ],
     "rendered apoleia as destruction": [
@@ -4831,6 +4935,18 @@
         "ref": "Acts 2:12",
         "book_code": "ACT",
         "draft_translation": "And they were all amazed, and were in doubt, saying one to another, What does this mean?"
+      }
+    ],
+    "modernized dwells-not wording": [
+      {
+        "ref": "Acts 7:48",
+        "book_code": "ACT",
+        "draft_translation": "Nevertheless the most High does not dwell in temples made with hands; as says the prophet,"
+      },
+      {
+        "ref": "Acts 17:24",
+        "book_code": "ACT",
+        "draft_translation": "God that made the world and all things in it, seeing that he is Lord of heaven and earth, does not dwell in temples made with hands;"
       }
     ],
     "rendered aphonos as voiceless": [
@@ -5126,6 +5242,30 @@
         "draft_translation": "Let every soul be subject to the higher powers. For there is no power but of God: the powers that exist are ordained of God."
       }
     ],
+    "modernized eats-not wording": [
+      {
+        "ref": "Romans 14:3",
+        "book_code": "ROM",
+        "draft_translation": "Let not him who eats despise him who does not eat; and let not him who does not eat judge him who eats: for God has received him."
+      },
+      {
+        "ref": "Romans 14:6",
+        "book_code": "ROM",
+        "draft_translation": "the one who regards the day, regards it to the Lord; and the one who does not regard the day, to the Lord he does not regard it. the one who eats, eats to the Lord, for he gives God thanks; and the one who does not eat, to the Lord he does not eat, and gives God thanks."
+      },
+      {
+        "ref": "Romans 14:23",
+        "book_code": "ROM",
+        "draft_translation": "And the one who doubts is damned if he eat, because he does not eat of faith: for whatever is not of faith is sin."
+      }
+    ],
+    "modernized regards-not wording": [
+      {
+        "ref": "Romans 14:6",
+        "book_code": "ROM",
+        "draft_translation": "the one who regards the day, regards it to the Lord; and the one who does not regard the day, to the Lord he does not regard it. the one who eats, eats to the Lord, for he gives God thanks; and the one who does not eat, to the Lord he does not eat, and gives God thanks."
+      }
+    ],
     "modernized for-which-cause idiom": [
       {
         "ref": "Romans 15:22",
@@ -5223,6 +5363,13 @@
         "ref": "1 Corinthians 6:19",
         "book_code": "1CO",
         "draft_translation": "Or do you not know that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?"
+      }
+    ],
+    "modernized says-not question": [
+      {
+        "ref": "1 Corinthians 9:8",
+        "book_code": "1CO",
+        "draft_translation": "Say I these things as a man? or does not the law say the same also?"
       }
     ],
     "rendered aion as age": [
@@ -5362,6 +5509,13 @@
         "ref": "2 Corinthians 13:5",
         "book_code": "2CO",
         "draft_translation": "Examine yourselves, whether you be in the faith; prove your own selves. Do you not know yourselves, how that Jesus Christ is in you, except you be reprobates?"
+      }
+    ],
+    "modernized says-not wording": [
+      {
+        "ref": "Galatians 3:16",
+        "book_code": "GAL",
+        "draft_translation": "Now to Abraham and his seed were the promises made. He does not say, And to seeds, as of many; but as of one, And to your seed, which is Christ."
       }
     ],
     "removed supplied quickened not present in verse": [
@@ -5729,6 +5883,13 @@
         "ref": "1 John 2:1",
         "book_code": "1JN",
         "draft_translation": "My little children, I write these things to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:"
+      }
+    ],
+    "fixed do-righteousness wording": [
+      {
+        "ref": "1 John 3:10",
+        "book_code": "1JN",
+        "draft_translation": "In this the children of God are manifest, and the children of the devil: whoever does not do righteousness is not of God, neither the one who does not love his brother."
       }
     ],
     "rendered splanchna compassion idiom": [
