@@ -111,7 +111,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**1 Corinthians 1:2** To the assembly of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
+**1 Corinthians 1:2** To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 41
@@ -123,7 +123,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Corinthians
 
-**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the holy ones which are in all Achaia:
+**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God who is at Corinth, with all the holy ones which are in all Achaia:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -174,7 +174,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Philippians
 
-**Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus which are at Philippi, with the overseers and servants:
+**Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus who are at Philippi, with the overseers and servants:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 39
@@ -196,7 +196,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 8
 
-**Colossians 1:2** To the holy ones and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
+**Colossians 1:2** To the holy ones and faithful brothers in Christ who are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12
@@ -242,7 +242,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Timothy
 
-**1 Timothy 1:1** Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
+**1 Timothy 1:1** Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, who is our hope;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 38
@@ -354,7 +354,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 50
 
-**1 Peter 1:3** Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
+**1 Peter 1:3** Blessed be the God and Father of our Lord Jesus Christ, who according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 50
@@ -456,7 +456,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 19
 
-**Revelation 1:3** Blessed is the one who reads, and those who hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+**Revelation 1:3** Blessed is the one who reads, and those who hear the words of this prophecy, and keep those things which are written in it: for the time is at hand.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12

@@ -110,7 +110,7 @@ And had sexual contact with her not till she had bore her firstborn son: and he 
 
 **Matthew 2:1**
 
-Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, look, there came wise men from the east to Jerusalem,
+Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, look, there came Magi from the east to Jerusalem,
 
 **Matthew 2:2**
 
@@ -126,7 +126,7 @@ And when he had gathered all the chief priests and scribes of the people togethe
 
 **Matthew 2:5**
 
-And they said to him, In Bethlehem of Judaea: for thus it is written by the prophet,
+And they said to him, In Bethlehem of Judea: for thus it is written by the prophet,
 
 **Matthew 2:6**
 
@@ -134,7 +134,7 @@ And you Bethlehem, in the land of Juda, are not the least among the princes of J
 
 **Matthew 2:7**
 
-Then Herod, when he had privately called the wise men, enquired of them diligently what time the star appeared.
+Then Herod, when he had privately called the Magi, enquired of them diligently what time the star appeared.
 
 **Matthew 2:8**
 
@@ -170,15 +170,15 @@ And was there until the death of Herod: that it might be fulfilled which was spo
 
 **Matthew 2:16**
 
-Then Herod, when he saw that he was mocked of the wise men, was exceeding angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+Then Herod, when he saw that he was mocked of the Magi, was exceeding angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi.
 
 **Matthew 2:17**
 
-Then was fulfilled that which was spoken by Jeremy the prophet, saying,
+Then was fulfilled that which was spoken by Jeremiah the prophet, saying,
 
 **Matthew 2:18**
 
-In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+In Ramah was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
 
 **Matthew 2:19**
 
@@ -194,7 +194,7 @@ And he arose, and took the young child and his mother, and came into the land of
 
 **Matthew 2:22**
 
-But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go there: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
+But when he heard that Archelaus did reign in Judea in the room of his father Herod, he was afraid to go there: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
 
 **Matthew 2:23**
 
@@ -204,7 +204,7 @@ And he came and dwelt in a city called Nazareth: that it might be fulfilled whic
 
 **Matthew 3:1**
 
-In those days came John the Baptist, preaching in the wilderness of Judaea,
+In those days came John the Baptist, preaching in the wilderness of Judea,
 
 **Matthew 3:2**
 
@@ -220,7 +220,7 @@ And the same John had his clothing of camel's hair, and a leathern girdle about 
 
 **Matthew 3:5**
 
-Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
+Then went out to him Jerusalem, and all Judea, and all the region round about Jordan,
 
 **Matthew 3:6**
 
@@ -232,7 +232,7 @@ But when he saw many of the Pharisees and Sadducees come to his baptism, he said
 
 **Matthew 3:8**
 
-Bring forth therefore fruits meet for repentance:
+Bring forth therefore fruits worthy of repentance:
 
 **Matthew 3:9**
 
@@ -248,7 +248,7 @@ I indeed baptize you with water to repentance. but the one who comes after me is
 
 **Matthew 3:12**
 
-Whose fan is in his hand, and he will thoroughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
+Whose winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor, and gather his wheat into the storehouse; but he will burn up the chaff with unquenchable fire.
 
 **Matthew 3:13**
 
@@ -256,7 +256,7 @@ Then comes Jesus from Galilee to Jordan to John, to be baptized of him.
 
 **Matthew 3:14**
 
-But John forbad him, saying, I have need to be baptized of you, and come you to me?
+But John forbade him, saying, I have need to be baptized of you, and come you to me?
 
 **Matthew 3:15**
 
@@ -330,11 +330,11 @@ That it might be fulfilled which was spoken by Isaiah the prophet, saying,
 
 **Matthew 4:15**
 
-The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
+The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the nations;
 
 **Matthew 4:16**
 
-The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
+The people who sat in darkness saw great light; and to those who sat in the region and shadow of death light is sprung up.
 
 **Matthew 4:17**
 
@@ -370,7 +370,7 @@ And his fame went throughout all Syria: and they brought to him all sick people 
 
 **Matthew 4:25**
 
-And there followed him great crowds of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
+And there followed him great crowds of people from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond Jordan.
 
 ### Chapter 5
 
@@ -396,7 +396,7 @@ Blessed are the meek: for they shall inherit the earth.
 
 **Matthew 5:6**
 
-Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+Blessed are those who do hunger and thirst after righteousness: for they shall be filled.
 
 **Matthew 5:7**
 
@@ -412,7 +412,7 @@ Blessed are the peacemakers: for they shall be called the sons of God.
 
 **Matthew 5:10**
 
-Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
+Blessed are those who are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
 
 **Matthew 5:11**
 
@@ -420,11 +420,11 @@ Blessed are you, when men shall revile you, and persecute you, and shall say all
 
 **Matthew 5:12**
 
-Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
+Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets who were before you.
 
 **Matthew 5:13**
 
-You are the salt of the earth: but if the salt have lost his taste, wherewith shall it be salted? it is from then on good for nothing, but to be cast out, and to be trampled under foot of men.
+You are the salt of the earth: but if the salt have lost his taste, with which shall it be salted? it is from then on good for nothing, but to be cast out, and to be trampled under foot of men.
 
 **Matthew 5:14**
 
@@ -436,7 +436,7 @@ Neither do men light a candle, and put it under a bushel, but on a candlestick; 
 
 **Matthew 5:16**
 
-Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+Let your light so shine before men, that they may see your good works, and glorify your Father who is in heaven.
 
 **Matthew 5:17**
 
@@ -464,7 +464,7 @@ But I say to you, That whoever is angry with his brother without a cause shall b
 
 **Matthew 5:23**
 
-Therefore if you bring your gift to the altar, and there remember that your brother has ought against you;
+Therefore if you bring your gift to the altar, and there remember that your brother has anything against you;
 
 **Matthew 5:24**
 
@@ -472,7 +472,7 @@ Leave there your gift before the altar, and go your way; first be reconciled to 
 
 **Matthew 5:25**
 
-Agree with yours adversary quickly, while you are in the way with him; lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
+Agree with your adversary quickly, while you are in the way with him; lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
 
 **Matthew 5:26**
 
@@ -504,11 +504,11 @@ But I say to you, That whoever shall release his wife, saving for the cause of s
 
 **Matthew 5:33**
 
-Again, you have heard that it has been said by them of old time, You shall not renounce swearing yourself, but shall perform to the Lord yours oaths:
+Again, you have heard that it has been said by them of old time, You shall not renounce swearing yourself, but shall perform to the Lord your oaths:
 
 **Matthew 5:34**
 
-But I say to you, Swear not at all; neither by heaven; for it is God's throne:
+But I say to you, do not swear at all; neither by heaven; for it is God's throne:
 
 **Matthew 5:35**
 
@@ -544,19 +544,19 @@ Give to him who asks you, and from him who would borrow of you turn not you away
 
 **Matthew 5:43**
 
-You have heard that it has been said, You shall love your neighbour, and hate yours enemy.
+You have heard that it has been said, You shall love your neighbour, and hate your enemy.
 
 **Matthew 5:44**
 
-But I say to you, Love your enemies, bless those who curse you, do good to those who hate you, and pray for them which despitefully use you, and persecute you;
+But I say to you, Love your enemies, bless those who curse you, do good to those who hate you, and pray for those who despitefully use you, and persecute you;
 
 **Matthew 5:45**
 
-That you may be the children of your Father which is in heaven: for he makes his sun to rise on the evil and on the good, and sends rain on the just and on the unjust.
+That you may be the children of your Father who is in heaven: for he makes his sun to rise on the evil and on the good, and sends rain on the just and on the unjust.
 
 **Matthew 5:46**
 
-For if you love them which love you, what reward have you? do not even the tax collectors the same?
+For if you love those who love you, what reward have you? do not even the tax collectors the same?
 
 **Matthew 5:47**
 
@@ -564,17 +564,17 @@ And if you salute your brothers only, what do you more than others? do not even 
 
 **Matthew 5:48**
 
-Be you therefore perfect, even as your Father which is in heaven is perfect.
+Be you therefore perfect, even as your Father who is in heaven is perfect.
 
 ### Chapter 6
 
 **Matthew 6:1**
 
-Take heed that you do not your alms before men, to be seen of them: otherwise you have no reward of your Father which is in heaven.
+Take heed that you do not your alms before men, to be seen of them: otherwise you have no reward of your Father who is in heaven.
 
 **Matthew 6:2**
 
-Therefore when you do yours alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Amen, I say to you, They have their reward.
+Therefore when you do your alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Amen, I say to you, They have their reward.
 
 **Matthew 6:3**
 
@@ -582,7 +582,7 @@ But when you do alms, let not your left hand know what your right hand does:
 
 **Matthew 6:4**
 
-That yours alms may be in secret: and your Father which sees in secret himself shall reward you openly.
+That your alms may be in secret: and your Father who sees in secret himself shall reward you openly.
 
 **Matthew 6:5**
 
@@ -590,11 +590,11 @@ And when you pray, you shall not be as the hypocrites are: for they love to pray
 
 **Matthew 6:6**
 
-But you, when you pray, enter into your closet, and when you have shut your door, pray to your Father which is in secret; and your Father which sees in secret shall reward you openly.
+But you, when you pray, enter into your closet, and when you have shut your door, pray to your Father who is in secret; and your Father who sees in secret shall reward you openly.
 
 **Matthew 6:7**
 
-But when you pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
+But when you pray, use not vain repetitions, as the nations do: for they think that they shall be heard for their much speaking.
 
 **Matthew 6:8**
 
@@ -602,7 +602,7 @@ Be not you therefore like to them: for your Father knows what things you have ne
 
 **Matthew 6:9**
 
-After this manner therefore pray you: Our Father which are in heaven, Hallowed be your name.
+After this manner therefore pray you: Our Father who are in heaven, Hallowed be your name.
 
 **Matthew 6:10**
 
@@ -618,7 +618,7 @@ And forgive us our debts, as we forgive our debtors.
 
 **Matthew 6:13**
 
-And lead us not into temptation, but deliver us from evil: For yours is the kingdom, and the power, and the glory, for ever. Amen.
+And lead us not into temptation, but deliver us from evil: For your is the kingdom, and the power, and the glory, for ever. Amen.
 
 **Matthew 6:14**
 
@@ -634,11 +634,11 @@ Moreover when you fast, be not, as the hypocrites, of a sad countenance: for the
 
 **Matthew 6:17**
 
-But you, when you fast, anoint yours head, and wash your face;
+But you, when you fast, anoint your head, and wash your face;
 
 **Matthew 6:18**
 
-That you appear not to men to fast, but to your Father which is in secret: and your Father, which sees in secret, shall reward you openly.
+That you appear not to men to fast, but to your Father who is in secret: and your Father, who sees in secret, shall reward you openly.
 
 **Matthew 6:19**
 
@@ -654,11 +654,11 @@ For where your treasure is, there will your heart be also.
 
 **Matthew 6:22**
 
-The light of the body is the eye: if therefore yours eye be single, your whole body shall be full of light.
+The light of the body is the eye: if therefore your eye be single, your whole body shall be full of light.
 
 **Matthew 6:23**
 
-But if yours eye be evil, your whole body shall be full of darkness. If therefore the light that is in you be darkness, how great is that darkness!
+But if your eye be evil, your whole body shall be full of darkness. If therefore the light that is in you be darkness, how great is that darkness!
 
 **Matthew 6:24**
 
@@ -690,11 +690,11 @@ Therefore, if God so clothe the grass of the field, which today is, and tomorrow
 
 **Matthew 6:31**
 
-Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
+Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, with what shall we be clothed?
 
 **Matthew 6:32**
 
-(For after all these things do the Gentiles seek:) for your heavenly Father knows that you have need of all these things.
+(For after all these things do the nations seek:) for your heavenly Father knows that you have need of all these things.
 
 **Matthew 6:33**
 
@@ -702,13 +702,13 @@ But seek you first the kingdom of God, and his righteousness; and all these thin
 
 **Matthew 6:34**
 
-Take therefore no thought for the next day: for the next day shall take thought for the things of itself. Sufficient to the day is the evil thereof.
+Take therefore no thought for the next day: for the next day shall take thought for the things of itself. Sufficient to the day is the evil of it.
 
 ### Chapter 7
 
 **Matthew 7:1**
 
-Judge not, that you be not judged.
+do not judge, that you be not judged.
 
 **Matthew 7:2**
 
@@ -716,15 +716,15 @@ For with what judgment you judge, you shall be judged: and with what measure you
 
 **Matthew 7:3**
 
-And why look you the splinter that is in your brother's eye, but consider not the beam that is in yours own eye?
+And why look you the splinter that is in your brother's eye, but consider not the beam that is in your own eye?
 
 **Matthew 7:4**
 
-Or how will you say to your brother, Let me pull out the splinter out of yours eye; and, look, a beam is in yours own eye?
+Or how will you say to your brother, Let me pull out the splinter out of your eye; and, look, a beam is in your own eye?
 
 **Matthew 7:5**
 
-You hypocrite, first cast out the beam out of yours own eye; and then shall you see clearly to cast out the splinter out of your brother's eye.
+You hypocrite, first cast out the beam out of your own eye; and then shall you see clearly to cast out the splinter out of your brother's eye.
 
 **Matthew 7:6**
 
@@ -748,7 +748,7 @@ Or if he ask a fish, will he give him a serpent?
 
 **Matthew 7:11**
 
-If you then, being evil, know how to give good gifts to your children, how much more shall your Father which is in heaven give good things to those who ask him?
+If you then, being evil, know how to give good gifts to your children, how much more shall your Father who is in heaven give good things to those who ask him?
 
 **Matthew 7:12**
 
@@ -756,15 +756,15 @@ Therefore all things whatever you would that men should do to you, do you even s
 
 **Matthew 7:13**
 
-Enter you in at the strait gate: for wide is the gate, and broad is the way, that leads to destruction, and many there be which go in thereat:
+Enter you in at the strait gate: for wide is the gate, and broad is the way, that leads to destruction, and many there is which go in thereat:
 
 **Matthew 7:14**
 
-Because strait is the gate, and narrow is the way, which leads to life, and few there be that find it.
+Because strait is the gate, and narrow is the way, which leads to life, and few there is that find it.
 
 **Matthew 7:15**
 
-Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves.
+Beware of false prophets, who come to you in sheep's clothing, but inwardly they are ravening wolves.
 
 **Matthew 7:16**
 
@@ -788,7 +788,7 @@ Therefore by their fruits you shall know them.
 
 **Matthew 7:21**
 
-Not every one that says to me, Lord, Lord, shall enter into the kingdom of heaven; but the one who does the will of my Father which is in heaven.
+Not every one that says to me, Lord, Lord, shall enter into the kingdom of heaven; but the one who does the will of my Father who is in heaven.
 
 **Matthew 7:22**
 
@@ -800,7 +800,7 @@ And then will I profess to them, I never knew you: depart from me, you that work
 
 **Matthew 7:24**
 
-Therefore whoever hears these sayings of mine, and does them, I will liken him to a wise man, which built his house upon a rock:
+Therefore whoever hears these sayings of mine, and does them, I will liken him to a wise man, who built his house upon a rock:
 
 **Matthew 7:25**
 
@@ -808,7 +808,7 @@ And the rain descended, and the floods came, and the winds blew, and beat upon t
 
 **Matthew 7:26**
 
-And every one that hears these sayings of mine, and does them not, shall be likened to a foolish man, which built his house upon the sand:
+And every one that hears these sayings of mine, and does them not, shall be likened to a foolish man, who built his house upon the sand:
 
 **Matthew 7:27**
 
@@ -984,7 +984,7 @@ For whether is easier, to say, Your sins be forgiven you; or to say, Arise, and 
 
 **Matthew 9:6**
 
-But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick of the paralysis,) Arise, take up your bed, and go to yours house.
+But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick of the paralysis,) Arise, take up your bed, and go to your house.
 
 **Matthew 9:7**
 
@@ -992,7 +992,7 @@ And he arose, and departed to his house.
 
 **Matthew 9:8**
 
-But when the crowds saw it, they marvelled, and glorified God, which had given such power to men.
+But when the crowds saw it, they marvelled, and glorified God, who had given such power to men.
 
 **Matthew 9:9**
 
@@ -1040,7 +1040,7 @@ And Jesus arose, and followed him, and so did his disciples.
 
 **Matthew 9:20**
 
-And, look, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his clothing:
+And, look, a woman, who was diseased with an issue of blood twelve years, came behind him, and touched the hem of his clothing:
 
 **Matthew 9:21**
 
@@ -1134,7 +1134,7 @@ Simon the Canaanite, and Judas Iscariot, who also betrayed him.
 
 **Matthew 10:5**
 
-These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter you not:
+These twelve Jesus sent forth, and commanded them, saying, do not go into the way of the nations, and into any city of the Samaritans enter you not:
 
 **Matthew 10:6**
 
@@ -1186,7 +1186,7 @@ But beware of men: for they will deliver you up to the councils, and they will s
 
 **Matthew 10:18**
 
-And you shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
+And you shall be brought before governors and kings for my sake, for a testimony against them and the nations.
 
 **Matthew 10:19**
 
@@ -1194,7 +1194,7 @@ But when they deliver you up, take no thought how or what you shall speak: for i
 
 **Matthew 10:20**
 
-For it is not you that speak, but the Spirit of your Father which speaks in you.
+For it is not you that speak, but the Spirit of your Father who speaks in you.
 
 **Matthew 10:21**
 
@@ -1226,7 +1226,7 @@ What I tell you in darkness, that speak you in light: and what you hear in the e
 
 **Matthew 10:28**
 
-And do not fear them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in Gehenna.
+And do not fear those who kill the body, but are not able to kill the soul: but rather fear him who is able to destroy both soul and body in Gehenna.
 
 **Matthew 10:29**
 
@@ -1242,11 +1242,11 @@ Fear you not therefore, you are of more value than many sparrows.
 
 **Matthew 10:32**
 
-Whoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
+Whoever therefore shall confess me before men, him will I confess also before my Father who is in heaven.
 
 **Matthew 10:33**
 
-But whoever shall deny me before men, him will I also deny before my Father which is in heaven.
+But whoever shall deny me before men, him will I also deny before my Father who is in heaven.
 
 **Matthew 10:34**
 
@@ -1364,7 +1364,7 @@ The Son of man came eating and drinking, and they say, Look a man gluttonous, an
 
 **Matthew 11:20**
 
-Then began he to reproach the cities wherein most of his mighty works were done, because they repented not:
+Then began he to reproach the cities in which most of his mighty works were done, because they repented not:
 
 **Matthew 11:21**
 
@@ -1422,7 +1422,7 @@ But he said to them, Have you not read what David did, when he was hungry, and t
 
 **Matthew 12:4**
 
-How he entered into the house of God, and did eat the showbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
+How he entered into the house of God, and did eat the showbread, which was not lawful for him to eat, neither for those who were with him, but only for the priests?
 
 **Matthew 12:5**
 
@@ -1446,11 +1446,11 @@ And when he was departed from there, he went into their synagogue:
 
 **Matthew 12:10**
 
-And, look, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
+And, look, there was a man who had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
 
 **Matthew 12:11**
 
-And he said to them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the Sabbath, will he not lay hold on it, and lift it out?
+And he said to them, What man shall there is among you, that shall have one sheep, and if it fall into a pit on the Sabbath, will he not lay hold on it, and lift it out?
 
 **Matthew 12:12**
 
@@ -1458,7 +1458,7 @@ How much then is a man better than a sheep? Therefore it is lawful to do well on
 
 **Matthew 12:13**
 
-Then says he to the man, Stretch forth yours hand. And he stretched it forth; and it was restored whole, like the other.
+Then says he to the man, Stretch forth your hand. And he stretched it forth; and it was restored whole, like the other.
 
 **Matthew 12:14**
 
@@ -1478,7 +1478,7 @@ That it might be fulfilled which was spoken by Isaiah the prophet, saying,
 
 **Matthew 12:18**
 
-Look my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall show judgment to the Gentiles.
+Look my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall show judgment to the nations.
 
 **Matthew 12:19**
 
@@ -1490,7 +1490,7 @@ A bruised reed shall he not break, and smoking flax shall he not quench, till he
 
 **Matthew 12:21**
 
-And in his name shall the Gentiles trust.
+And in his name shall the nations trust.
 
 **Matthew 12:22**
 
@@ -1550,7 +1550,7 @@ A good man out of the good treasure of the heart produces good things: and an ev
 
 **Matthew 12:36**
 
-But I say to you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
+But I say to you, That every idle word that men shall speak, they shall give account of it in the day of judgment.
 
 **Matthew 12:37**
 
@@ -1606,7 +1606,7 @@ And he stretched forth his hand toward his disciples, and said, Look my mother a
 
 **Matthew 12:50**
 
-For whoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+For whoever shall do the will of my Father who is in heaven, the same is my brother, and sister, and mother.
 
 ### Chapter 13
 
@@ -1668,7 +1668,7 @@ And in them is fulfilled the prophecy of Isaiah, which says, By hearing you shal
 
 **Matthew 13:15**
 
-For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+For this people's heart is became dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 **Matthew 13:16**
 
@@ -1684,7 +1684,7 @@ Hear you therefore the parable of the sower.
 
 **Matthew 13:19**
 
-When any one hears the word of the kingdom, and understands it not, then comes the wicked one, and catches away that which was sown in his heart. This is he which received seed by the way side.
+When any one hears the word of the kingdom, and understands it not, then comes the wicked one, and catches away that which was sown in his heart. This is the one who received seed by the way side.
 
 **Matthew 13:20**
 
@@ -1704,7 +1704,7 @@ But the one who received seed into the good ground is the one who hears the word
 
 **Matthew 13:24**
 
-Another parable put he forth to them, saying, The kingdom of heaven is likened to a man which sowed good seed in his field:
+Another parable put he forth to them, saying, The kingdom of heaven is likened to a man who sowed good seed in his field:
 
 **Matthew 13:25**
 
@@ -1736,7 +1736,7 @@ Another parable put he forth to them, saying, The kingdom of heaven is like to a
 
 **Matthew 13:32**
 
-Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becomes a tree, so that the birds of the air come and lodge in the branches thereof.
+Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becomes a tree, so that the birds of the air come and lodge in the branches of it.
 
 **Matthew 13:33**
 
@@ -1772,7 +1772,7 @@ As therefore the tares are gathered and burned in the fire; so shall it be in th
 
 **Matthew 13:41**
 
-The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
+The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and those who do iniquity;
 
 **Matthew 13:42**
 
@@ -1784,7 +1784,7 @@ Then shall the righteous shine forth as the sun in the kingdom of their Father. 
 
 **Matthew 13:44**
 
-Again, the kingdom of heaven is like to treasure hid in a field; the which when a man has found, he hides, and for joy thereof goes and sells all that he has, and buys that field.
+Again, the kingdom of heaven is like to treasure hid in a field; the which when a man has found, he hides, and for joy of it goes and sells all that he has, and buys that field.
 
 **Matthew 13:45**
 
@@ -1816,7 +1816,7 @@ Jesus says to them, Have you understood all these things? They say to him, Yes, 
 
 **Matthew 13:52**
 
-Then said he to them, Therefore every scribe which is instructed to the kingdom of heaven is like to a man that is an householder, which produces out of his treasure things new and old.
+Then said he to them, Therefore every scribe who is instructed to the kingdom of heaven is like to a man that is an householder, which produces out of his treasure things new and old.
 
 **Matthew 13:53**
 
@@ -1878,7 +1878,7 @@ And she, being before instructed of her mother, said, Give me here John Baptist'
 
 **Matthew 14:9**
 
-And the king was sorry: nevertheless for the oath's sake, and them which reclined with him at table, he commanded it to be given her.
+And the king was sorry: nevertheless for the oath's sake, and those who reclined with him at table, he commanded it to be given her.
 
 **Matthew 14:10**
 
@@ -1894,7 +1894,7 @@ And his disciples came, and took up the body, and buried it, and went and told J
 
 **Matthew 14:13**
 
-When Jesus heard of it, he departed from there by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.
+When Jesus heard of it, he departed from there by ship into a desert place apart: and when the people had heard of it, they followed him on foot out of the cities.
 
 **Matthew 14:14**
 
@@ -1992,7 +1992,7 @@ And begged him who they might only touch the hem of his clothing: and as many as
 
 **Matthew 15:1**
 
-Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
+Then came to Jesus scribes and Pharisees, who were of Jerusalem, saying,
 
 **Matthew 15:2**
 
@@ -2214,7 +2214,7 @@ And Simon Peter answered and said, You are the Christ, the Son of the living God
 
 **Matthew 16:17**
 
-And Jesus answered and said to him, Blessed are you, Simon Barjona: for flesh and blood has not revealed it to you, but my Father which is in heaven.
+And Jesus answered and said to him, Blessed are you, Simon Barjona: for flesh and blood has not revealed it to you, but my Father who is in heaven.
 
 **Matthew 16:18**
 
@@ -2258,7 +2258,7 @@ For the Son of man shall come in the glory of his Father with his angels; and th
 
 **Matthew 16:28**
 
-Amen, I say to you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
+Amen, I say to you, there is some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
 
 ### Chapter 17
 
@@ -2398,19 +2398,19 @@ But whoever shall offend one of these little ones which believe in me, it were b
 
 **Matthew 18:7**
 
-Woe to the world because of stumbling blocks! for it must be that stumbling blocks come; but woe to that man by whom the stumbling block comes!
+Woe to the world because of offenses! for it must be that offenses come; but woe to that man by whom the stumbling block comes!
 
 **Matthew 18:8**
 
-Therefore if your hand or your foot cause you to stumble, cut them off, and cast them from you: it is better for you to enter into life halt or physically disabled, rather than having two hands or two feet to be cast into everlasting fire.
+Therefore if your hand or your foot cause you to stumble, cut them off, and cast them from you: it is better for you to enter into life halt or physically disabled, rather than having two hands or two feet to be cast into eternal fire.
 
 **Matthew 18:9**
 
-And if yours eye cause you to stumble, pluck it out, and cast it from you: it is better for you to enter into life with one eye, rather than having two eyes to be cast into Gehenna of fire.
+And if your eye cause you to stumble, pluck it out, and cast it from you: it is better for you to enter into life with one eye, rather than having two eyes to be cast into Gehenna of fire.
 
 **Matthew 18:10**
 
-Take heed that you despise not one of these little ones; for I say to you, That in heaven their angels do always look the face of my Father which is in heaven.
+Take heed that you despise not one of these little ones; for I say to you, That in heaven their angels do always look the face of my Father who is in heaven.
 
 **Matthew 18:11**
 
@@ -2426,7 +2426,7 @@ And if so be that he find it, Amen, I say to you, he rejoices more of that sheep
 
 **Matthew 18:14**
 
-Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.
+Even so it is not the will of your Father who is in heaven, that one of these little ones should perish.
 
 **Matthew 18:15**
 
@@ -2438,7 +2438,7 @@ But if he will not hear you, then take with you one or two more, that in the mou
 
 **Matthew 18:17**
 
-And if he shall neglect to hear them, tell it to the assembly: but if he neglect to hear the assembly, let him be to you as an heathen man and a tax collector.
+And if he shall neglect to hear them, tell it to the assembly: but if he neglect to hear the assembly, let him be to you as an nations man and a tax collector.
 
 **Matthew 18:18**
 
@@ -2446,7 +2446,7 @@ Amen, I say to you, Whatever you shall bind on earth shall be bound in heaven: a
 
 **Matthew 18:19**
 
-Again I say to you, That if two of you shall agree on earth as concerning anything that they shall ask, it shall be done for them of my Father which is in heaven.
+Again I say to you, That if two of you shall agree on earth as concerning anything that they shall ask, it shall be done for them of my Father who is in heaven.
 
 **Matthew 18:20**
 
@@ -2516,7 +2516,7 @@ So likewise shall my heavenly Father do also to you, if you from your hearts for
 
 **Matthew 19:1**
 
-And it happened, that when Jesus had finished these sayings, he departed from Galilee, and came into the borders of Judaea beyond Jordan;
+And it happened, that when Jesus had finished these sayings, he departed from Galilee, and came into the borders of Judea beyond Jordan;
 
 **Matthew 19:2**
 
@@ -2528,7 +2528,7 @@ The Pharisees also came to him, tempting him, and saying to him, Is it lawful fo
 
 **Matthew 19:4**
 
-And he answered and said to them, Have you not read, that he which made them at the beginning made them male and female,
+And he answered and said to them, Have you not read, that the one who made them at the beginning made them male and female,
 
 **Matthew 19:5**
 
@@ -2560,7 +2560,7 @@ But he said to them, All men cannot receive this saying, save they to whom it is
 
 **Matthew 19:12**
 
-For there are some eunuchs, which were so born from their mother's womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven's sake. the one who is able to receive it, let him receive it.
+For there are some eunuchs, which were so born from their mother's womb: and there are some eunuchs, which were made eunuchs of men: and there is eunuchs, which have made themselves eunuchs for the kingdom of heaven's sake. the one who is able to receive it, let him receive it.
 
 **Matthew 19:13**
 
@@ -2628,7 +2628,7 @@ And Jesus said to them, Amen, I say to you, That you which have followed me, in 
 
 **Matthew 19:29**
 
-And every one that has forsaken houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.
+And every one that has forsaken houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit eternal life.
 
 **Matthew 19:30**
 
@@ -2682,7 +2682,7 @@ And when they had received it, they murmured against the householder,
 
 **Matthew 20:12**
 
-Saying, These last have wrought but one hour, and you have made them equal to us, which have borne the burden and heat of the day.
+Saying, These last have worked but one hour, and you have made them equal to us, which have borne the burden and heat of the day.
 
 **Matthew 20:13**
 
@@ -2690,11 +2690,11 @@ But he answered one of them, and said, Friend, I do you no wrong: did not you ag
 
 **Matthew 20:14**
 
-Take that yours is, and go your way: I will give to this last, even as to you.
+Take that your is, and go your way: I will give to this last, even as to you.
 
 **Matthew 20:15**
 
-Is it not lawful for me to do what I will with mine own? Is yours eye evil, because I am good?
+Is it not lawful for me to do what I will with my own? Is your eye evil, because I am good?
 
 **Matthew 20:16**
 
@@ -2710,7 +2710,7 @@ Look, we go up to Jerusalem; and the Son of man shall be betrayed to the chief p
 
 **Matthew 20:19**
 
-And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.
+And shall deliver him to the nations to mock, and to scourge, and to crucify him: and the third day he shall rise again.
 
 **Matthew 20:20**
 
@@ -2722,7 +2722,7 @@ And he said to her, What will you? She says to him, Grant that these my two sons
 
 **Matthew 20:22**
 
-But Jesus answered and said, You know not what you ask. Are you able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say to him, We are able.
+But Jesus answered and said, You do not know what you ask. Are you able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say to him, We are able.
 
 **Matthew 20:23**
 
@@ -2734,7 +2734,7 @@ And when the ten heard it, they were moved with indignation against the two brot
 
 **Matthew 20:25**
 
-But Jesus called them to him, and said, You know that the princes of the Gentiles exercise dominion over them, and those who are great exercise authority upon them.
+But Jesus called them to him, and said, You know that the princes of the nations exercise dominion over them, and those who are great exercise authority upon them.
 
 **Matthew 20:26**
 
@@ -2758,7 +2758,7 @@ And, look, two blind men sitting by the way side, when they heard that Jesus pas
 
 **Matthew 20:31**
 
-And the crowd rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, you son of David.
+And the crowd rebuked them, because they should be silent: but they cried the more, saying, Have mercy on us, O Lord, you son of David.
 
 **Matthew 20:32**
 
@@ -2896,11 +2896,11 @@ And he came to the second, and said likewise. And he answered and said, I go, si
 
 **Matthew 21:31**
 
-Whether of them two did the will of his father? They say to him, The first. Jesus says to them, Amen, I say to you, That the tax collectors and the harlots go into the kingdom of God before you.
+Whether of them two did the will of his father? They say to him, The first. Jesus says to them, Amen, I say to you, That the tax collectors and the prostitutes go into the kingdom of God before you.
 
 **Matthew 21:32**
 
-For John came to you in the way of righteousness, and you believed him not: but the tax collectors and the harlots believed him: and you, when you had seen it, repented not afterward, that you might believe him.
+For John came to you in the way of righteousness, and you believed him not: but the tax collectors and the prostitutes believed him: and you, when you had seen it, repented not afterward, that you might believe him.
 
 **Matthew 21:33**
 
@@ -2944,7 +2944,7 @@ Jesus says to them, Did you never read in the scriptures, The stone which the bu
 
 **Matthew 21:43**
 
-Therefore say I to you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.
+Therefore say I to you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits of it.
 
 **Matthew 21:44**
 
@@ -2974,7 +2974,7 @@ And sent forth his slaves to call those who were bidden to the wedding: and they
 
 **Matthew 22:4**
 
-Again, he sent forth other slaves, saying, Tell them which are bidden, Look, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come to the marriage.
+Again, he sent forth other slaves, saying, Tell those who are bidden, Look, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come to the marriage.
 
 **Matthew 22:5**
 
@@ -2986,11 +2986,11 @@ And the remnant took his slaves, and pleaded them spitefully, and killed them.
 
 **Matthew 22:7**
 
-But when the king heard thereof, he was angry: and he sent forth his armies, and destroyed those murderers, and burned up their city.
+But when the king heard of it, he was angry: and he sent forth his armies, and destroyed those murderers, and burned up their city.
 
 **Matthew 22:8**
 
-Then says he to his slaves, The wedding is ready, but they which were bidden were not worthy.
+Then says he to his slaves, The wedding is ready, but those who were bidden were not worthy.
 
 **Matthew 22:9**
 
@@ -3002,7 +3002,7 @@ So those slaves went out into the highways, and gathered together all as many as
 
 **Matthew 22:11**
 
-And when the king came in to see the guest, he saw there a man which had not on a wedding clothing:
+And when the king came in to see the guest, he saw there a man who had not on a wedding clothing:
 
 **Matthew 22:12**
 
@@ -3134,7 +3134,7 @@ He says to them, How then does David in spirit call him Lord, saying,
 
 **Matthew 22:44**
 
-The Lord said to my Lord, Sit you on my right hand, till I make yours enemies your footstool?
+The Lord said to my Lord, Sit you on my right hand, till I make your enemies your footstool?
 
 **Matthew 22:45**
 
@@ -3180,7 +3180,7 @@ But be not you called Rabbi: for one is your Master, even Christ; and all you ar
 
 **Matthew 23:9**
 
-And call no one your father upon the earth: for one is your Father, which is in heaven.
+And call no one your father upon the earth: for one is your Father, who is in heaven.
 
 **Matthew 23:10**
 
@@ -3200,7 +3200,7 @@ But woe to you, scribes and Pharisees, hypocrites! for you shut up the kingdom o
 
 **Matthew 23:14**
 
-Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, and for a pretence make long prayer: therefore you shall receive the greater damnation.
+Woe to you, scribes and Pharisees, hypocrites! for you devour widows' houses, and for a pretence make long prayer: therefore you shall receive the greater judgment.
 
 **Matthew 23:15**
 
@@ -3228,7 +3228,7 @@ Whoever therefore shall swear by the altar, swears by it, and by all things ther
 
 **Matthew 23:21**
 
-And whoever shall swear by the temple, swears by it, and by him who dwells therein.
+And whoever shall swear by the temple, swears by it, and by him who dwells in it.
 
 **Matthew 23:22**
 
@@ -3268,7 +3268,7 @@ And say, If we had been in the days of our fathers, we would not have been parta
 
 **Matthew 23:31**
 
-Therefore you be witnesses to yourselves, that you are the children of them which killed the prophets.
+Therefore you be witnesses to yourselves, that you are the children of those who killed the prophets.
 
 **Matthew 23:32**
 
@@ -3276,7 +3276,7 @@ Fill you up then the measure of your fathers.
 
 **Matthew 23:33**
 
-You serpents, you generation of vipers, how can you escape the damnation of Gehenna?
+You serpents, you generation of vipers, how can you escape the judgment of Gehenna?
 
 **Matthew 23:34**
 
@@ -3292,7 +3292,7 @@ Amen, I say to you, All these things shall come upon this generation.
 
 **Matthew 23:37**
 
-O Jerusalem, Jerusalem, you that kill the prophets, and stone them which are sent to you, how often would I have gathered your children together, even as a hen gathers her chickens under her wings, and you would not!
+O Jerusalem, Jerusalem, you that kill the prophets, and stone those who are sent to you, how often would I have gathered your children together, even as a hen gathers her chickens under her wings, and you would not!
 
 **Matthew 23:38**
 
@@ -3366,15 +3366,15 @@ When you therefore shall see the abomination of desolation, spoken of by Daniel 
 
 **Matthew 24:16**
 
-Then let them which be in Judaea flee into the mountains:
+Then let those who be in Judea flee into the mountains:
 
 **Matthew 24:17**
 
-Let him which is on the housetop not come down to take anything out of his house:
+Let him who is on the housetop not come down to take anything out of his house:
 
 **Matthew 24:18**
 
-Neither let him which is in the field return back to take his clothes.
+Neither let him who is in the field return back to take his clothes.
 
 **Matthew 24:19**
 
@@ -3406,7 +3406,7 @@ Look, I have told you before.
 
 **Matthew 24:26**
 
-Therefore if they shall say to you, Look, he is in the desert; go not forth: look, he is in the secret chambers; believe it not.
+Therefore if they shall say to you, Look, he is in the desert; do not go forth: look, he is in the secret chambers; believe it not.
 
 **Matthew 24:27**
 
@@ -3458,7 +3458,7 @@ For as in the days that were before the flood they were eating and drinking, mar
 
 **Matthew 24:39**
 
-And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+And did not know until the flood came, and took them all away; so shall also the coming of the Son of man be.
 
 **Matthew 24:40**
 
@@ -3470,7 +3470,7 @@ Two women shall be grinding at the mill; the one shall be taken, and the other l
 
 **Matthew 24:42**
 
-Watch therefore: for you know not what hour your Lord does come.
+Watch therefore: for you do not know what hour your Lord does come.
 
 **Matthew 24:43**
 
@@ -3544,7 +3544,7 @@ And the foolish said to the wise, Give us of your oil; for our lamps are gone ou
 
 **Matthew 25:9**
 
-But the wise answered, saying, Not so; lest there be not enough for us and you: but go you rather to those who sell, and buy for yourselves.
+But the wise answered, saying, Not so; lest there is not enough for us and you: but go you rather to those who sell, and buy for yourselves.
 
 **Matthew 25:10**
 
@@ -3560,7 +3560,7 @@ But he answered and said, Amen, I say to you, I know you not.
 
 **Matthew 25:13**
 
-Watch therefore, for you know neither the day nor the hour wherein the Son of man comes.
+Watch therefore, for you know neither the day nor the hour in which the Son of man comes.
 
 **Matthew 25:14**
 
@@ -3604,7 +3604,7 @@ His Lord said to him, Well done, good and faithful slave; you have been faithful
 
 **Matthew 25:24**
 
-Then he which had received the one talent came and said, Lord, I knew you that you are a hard man, reaping where you have not sown, and gathering where you have not scattered:
+Then the one who had received the one talent came and said, Lord, I knew you that you are a hard man, reaping where you have not sown, and gathering where you have not scattered:
 
 **Matthew 25:25**
 
@@ -3616,11 +3616,11 @@ His Lord answered and said to him, You wicked and slothful slave, you knew that 
 
 **Matthew 25:27**
 
-You ought therefore to have put my money to the exchangers, and then at my coming I should have received mine own with interest.
+You ought therefore to have put my money to the exchangers, and then at my coming I should have received my own with interest.
 
 **Matthew 25:28**
 
-Take therefore the talent from him, and give it to him which has ten talents.
+Take therefore the talent from him, and give it to him who has ten talents.
 
 **Matthew 25:29**
 
@@ -3672,7 +3672,7 @@ And the King shall answer and say to them, Amen, I say to you, Inasmuch as you h
 
 **Matthew 25:41**
 
-Then shall he say also to them on the left hand, Depart from me, you cursed, into everlasting fire, prepared for the devil and his angels:
+Then shall he say also to them on the left hand, Depart from me, you cursed, into eternal fire, prepared for the devil and his angels:
 
 **Matthew 25:42**
 
@@ -3692,7 +3692,7 @@ Then shall he answer them, saying, Amen, I say to you, Inasmuch as you did it no
 
 **Matthew 25:46**
 
-And these shall go away into everlasting punishment: but the righteous into life eternal.
+And these shall go away into eternal punishment: but the righteous into life eternal.
 
 ### Chapter 26
 
@@ -3714,7 +3714,7 @@ And consulted that they might take Jesus by subtlety, and kill him.
 
 **Matthew 26:5**
 
-But they said, Not on the feast day, lest there be an uproar among the people.
+But they said, Not on the feast day, lest there is an uproar among the people.
 
 **Matthew 26:6**
 
@@ -3734,7 +3734,7 @@ For this ointment might have been sold for much, and given to the poor.
 
 **Matthew 26:10**
 
-When Jesus understood it, he said to them, Why trouble you the woman? for she has wrought a good work upon me.
+When Jesus understood it, he said to them, Why trouble you the woman? for she has worked a good work upon me.
 
 **Matthew 26:11**
 
@@ -3814,7 +3814,7 @@ But I say to you, I will not drink from now on of this fruit of the vine, until 
 
 **Matthew 26:30**
 
-And when they had sung an hymn, they went out into the mount of Olives.
+And when they had sung a hymn, they went out into the mount of Olives.
 
 **Matthew 26:31**
 
@@ -3898,7 +3898,7 @@ And Jesus said to him, Friend, therefore are you come? Then came they, and laid 
 
 **Matthew 26:51**
 
-And, look, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a slave of the high priest's, and stroke off his ear.
+And, look, one of those who were with Jesus stretched out his hand, and drew his sword, and struck a slave of the high priest's, and stroke off his ear.
 
 **Matthew 26:52**
 
@@ -3946,7 +3946,7 @@ And the high priest arose, and said to him, Answer you nothing? what is it which
 
 **Matthew 26:63**
 
-But Jesus held his peace, And the high priest answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
+But Jesus was silent, And the high priest answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
 
 **Matthew 26:64**
 
@@ -3974,7 +3974,7 @@ Now Peter sat without in the palace: and a girl came to him, saying, You also we
 
 **Matthew 26:70**
 
-But he denied before them all, saying, I know not what you says.
+But he denied before them all, saying, I do not know what you says.
 
 **Matthew 26:71**
 
@@ -3990,11 +3990,11 @@ And after a while came to him those who stood by, and said to Peter, Surely you 
 
 **Matthew 26:74**
 
-Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew.
+Then began he to curse and to swear, saying, I do not know the man. And immediately the cock crew.
 
 **Matthew 26:75**
 
-And Peter remembered the word of Jesus, which said to him, Before the cock crow, you shall deny me three times. And he went out, and wept bitterly.
+And Peter remembered the word of Jesus, who said to him, Before the cock crow, you shall deny me three times. And he went out, and wept bitterly.
 
 ### Chapter 27
 
@@ -4032,7 +4032,7 @@ Therefore that field was called, The field of blood, to this day.
 
 **Matthew 27:9**
 
-Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him who was valued, whom they of the children of Israel did value;
+Then was fulfilled that which was spoken by Jeremiah the prophet, saying, And they took the thirty pieces of silver, the price of him who was valued, whom they of the children of Israel did value;
 
 **Matthew 27:10**
 
@@ -4064,7 +4064,7 @@ And they had then a notable prisoner, called Barabbas.
 
 **Matthew 27:17**
 
-Therefore when they were gathered together, Pilate said to them, Whom will you that I release to you? Barabbas, or Jesus which is called Christ?
+Therefore when they were gathered together, Pilate said to them, Whom will you that I release to you? Barabbas, or Jesus who is called Christ?
 
 **Matthew 27:18**
 
@@ -4084,7 +4084,7 @@ The governor answered and said to them, Whether of the two will you that I relea
 
 **Matthew 27:22**
 
-Pilate says to them, What shall I do then with Jesus which is called Christ? They all say to him, Let him be crucified.
+Pilate says to them, What shall I do then with Jesus who is called Christ? They all say to him, Let him be crucified.
 
 **Matthew 27:23**
 
@@ -4132,7 +4132,7 @@ And when they had come to a place called Golgotha, that is to say, a place of a 
 
 **Matthew 27:34**
 
-They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.
+They gave him vinegar to drink mingled with gall: and when he had tasted of it, he would not drink.
 
 **Matthew 27:35**
 
@@ -4156,7 +4156,7 @@ And those who passed by reviled him, wagging their heads,
 
 **Matthew 27:40**
 
-And saying, You that destroys the temple, and build it in three days, save yourself. If you be the Son of God, come down from the cross.
+And saying, You who destroy the temple, and build it in three days, save yourself. If you be the Son of God, come down from the cross.
 
 **Matthew 27:41**
 
@@ -4164,7 +4164,7 @@ Likewise also the chief priests mocking him, with the scribes and elders, said,
 
 **Matthew 27:42**
 
-He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
+He saved others; himself he cannot save. if he is the King of Israel, let him now come down from the cross, and we will believe him.
 
 **Matthew 27:43**
 
@@ -4282,7 +4282,7 @@ And for fear of him the keepers did shake, and became as dead men.
 
 **Matthew 28:5**
 
-And the angel answered and said to the women, do not fear you: for I know that you seek Jesus, which was crucified.
+And the angel answered and said to the women, do not fear you: for I know that you seek Jesus, who was crucified.
 
 **Matthew 28:6**
 
@@ -4366,7 +4366,7 @@ John did baptize in the wilderness, and preach the baptism of repentance for the
 
 **Mark 1:5**
 
-And there went out to him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
+And there went out to him all the land of Judea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 
 **Mark 1:6**
 
@@ -4544,7 +4544,7 @@ And they come to him, bringing one sick of the paralysis, which was borne of fou
 
 **Mark 2:4**
 
-And when they could not come near to him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the paralysis lay.
+And when they could not come near to him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed in which the sick of the paralysis lay.
 
 **Mark 2:5**
 
@@ -4572,7 +4572,7 @@ But that you may know that the Son of man has power on earth to forgive sins, (h
 
 **Mark 2:11**
 
-I say to you, Arise, and take up your bed, and go your way into yours house.
+I say to you, Arise, and take up your bed, and go your way into your house.
 
 **Mark 2:12**
 
@@ -4632,7 +4632,7 @@ And he said to them, Have you never read what David did, when he had need, and w
 
 **Mark 2:26**
 
-How he went into the house of God in the days of Abiathar the high priest, and did eat the showbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
+How he went into the house of God in the days of Abiathar the high priest, and did eat the showbread, which is not lawful to eat but for the priests, and gave also to those who were with him?
 
 **Mark 2:27**
 
@@ -4654,15 +4654,15 @@ And they watched him, whether he would heal him on the Sabbath; that they might 
 
 **Mark 3:3**
 
-And he says to the man which had the withered hand, Stand forth.
+And he says to the man who had the withered hand, Stand forth.
 
 **Mark 3:4**
 
-And he says to them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.
+And he says to them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they were silent.
 
 **Mark 3:5**
 
-And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he says to the man, Stretch forth yours hand. And he stretched it out: and his hand was restored whole as the other.
+And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he says to the man, Stretch forth your hand. And he stretched it out: and his hand was restored whole as the other.
 
 **Mark 3:6**
 
@@ -4670,7 +4670,7 @@ And the Pharisees went forth, and immediately took counsel with the Herodians ag
 
 **Mark 3:7**
 
-But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,
+But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judea,
 
 **Mark 3:8**
 
@@ -4730,7 +4730,7 @@ And when his friends heard of it, they went out to lay hold on him: for they sai
 
 **Mark 3:22**
 
-And the scribes which came down from Jerusalem said, He has Beelzebub, and by the prince of the demons casts he out demons.
+And the scribes who came down from Jerusalem said, He has Beelzebub, and by the prince of the demons casts he out demons.
 
 **Mark 3:23**
 
@@ -4754,11 +4754,11 @@ No one can enter into a strong man's house, and spoil his goods, except he will 
 
 **Mark 3:28**
 
-Amen, I say to you, All sins shall be forgiven to the sons of men, and blasphemies wherewith whatever they shall blaspheme:
+Amen, I say to you, All sins shall be forgiven to the sons of men, and blasphemies with which whatever they shall blaspheme:
 
 **Mark 3:29**
 
-But the one who shall blaspheme against the Holy Spirit has never forgiveness, but is in danger of eternal damnation.
+But the one who shall blaspheme against the Holy Spirit has never forgiveness, but is in danger of eternal judgment.
 
 **Mark 3:30**
 
@@ -4778,7 +4778,7 @@ And he answered them, saying, Who is my mother, or my brothers?
 
 **Mark 3:34**
 
-And he looked round about on them which sat about him, and said, Look my mother and my brothers!
+And he looked round about on those who sat about him, and said, Look my mother and my brothers!
 
 **Mark 3:35**
 
@@ -4856,7 +4856,7 @@ And have no root in themselves, and so endure but for a time: afterward, when af
 
 **Mark 4:18**
 
-And these are they which are sown among thorns; such as hear the word,
+And these are those who are sown among thorns; such as hear the word,
 
 **Mark 4:19**
 
@@ -4864,7 +4864,7 @@ And the cares of this age, and the deceitfulness of riches, and the lusts of oth
 
 **Mark 4:20**
 
-And these are they which are sown on good ground; such as hear the word, and receive it, and bear fruit, some thirtyfold, some sixty, and some a hundred.
+And these are those who are sown on good ground; such as hear the word, and receive it, and bear fruit, some thirtyfold, some sixty, and some a hundred.
 
 **Mark 4:21**
 
@@ -4892,7 +4892,7 @@ And he said, So is the kingdom of God, as if a man should cast seed into the gro
 
 **Mark 4:27**
 
-And should sleep, and rise night and day, and the seed should spring and grow up, he knows not how.
+And should sleep, and rise night and day, and the seed should spring and grow up, he does not know how.
 
 **Mark 4:28**
 
@@ -5050,7 +5050,7 @@ And Jesus went with him; and much people followed him, and thronged him.
 
 **Mark 5:25**
 
-And a certain woman, which had an issue of blood twelve years,
+And a certain woman, who had an issue of blood twelve years,
 
 **Mark 5:26**
 
@@ -5132,7 +5132,7 @@ And he went out from there, and came into his own country; and his disciples fol
 
 **Mark 6:2**
 
-And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence has this man these things? and what wisdom is this which is given to him, that even such mighty works are wrought by his hands?
+And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
 
 **Mark 6:3**
 
@@ -5188,7 +5188,7 @@ Others said, That it is Elijah. And others said, That it is a prophet, or as one
 
 **Mark 6:16**
 
-But when Herod heard thereof, he said, It is John, whom I beheaded: he has risen from the dead.
+But when Herod heard of it, he said, It is John, whom I beheaded: he has risen from the dead.
 
 **Mark 6:17**
 
@@ -5354,7 +5354,7 @@ And anywhere he entered, into villages, or cities, or country, they laid the sic
 
 **Mark 7:1**
 
-Then came together to him the Pharisees, and certain of the scribes, which came from Jerusalem.
+Then came together to him the Pharisees, and certain of the scribes, who came from Jerusalem.
 
 **Mark 7:2**
 
@@ -5366,7 +5366,7 @@ For the Pharisees, and all the Jews, except they wash their hands often, eat not
 
 **Mark 7:4**
 
-And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brazen vessels, and of tables.
+And when they come from the market, except they wash, they eat not. And many other things there is, which they have received to hold, as the washing of cups, and pots, brazen vessels, and of tables.
 
 **Mark 7:5**
 
@@ -5658,7 +5658,7 @@ Whoever therefore shall be ashamed of me and of my words in this adulterous and 
 
 **Mark 9:1**
 
-And he said to them, Amen, I say to you, That there be some of those who stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
+And he said to them, Amen, I say to you, That there is some of those who stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
 
 **Mark 9:2**
 
@@ -5678,7 +5678,7 @@ And Peter answered and said to Jesus, Master, it is good for us to be here: and 
 
 **Mark 9:6**
 
-For he knows not what to say; for they were sore afraid.
+For he does not know what to say; for they were sore afraid.
 
 **Mark 9:7**
 
@@ -5722,7 +5722,7 @@ And he asked the scribes, What question you with them?
 
 **Mark 9:17**
 
-And one of the crowd answered and said, Teacher, I have brought to you my son, which has a dumb spirit;
+And one of the crowd answered and said, Teacher, I have brought to you my son, who has a mute spirit;
 
 **Mark 9:18**
 
@@ -5790,7 +5790,7 @@ And he came to Capernaum: and being in the house he asked them, What was it that
 
 **Mark 9:34**
 
-But they held their peace: for by the way they had disputed among themselves, who should be the greatest.
+But they were silent: for by the way they had disputed among themselves, who should be the greatest.
 
 **Mark 9:35**
 
@@ -5806,11 +5806,11 @@ Whoever shall receive one of such children in my name, receives me: and whoever 
 
 **Mark 9:38**
 
-And John answered him, saying, Teacher, we saw one casting out demons in your name, and he follows not us: and we forbad him, because he follows not us.
+And John answered him, saying, Teacher, we saw one casting out demons in your name, and he follows not us: and we forbade him, because he follows not us.
 
 **Mark 9:39**
 
-But Jesus said, Forbid him not: for there is no one which shall do a miracle in my name, that can lightly speak evil of me.
+But Jesus said, Forbid him not: for there is no one who shall do a miracle in my name, that can lightly speak evil of me.
 
 **Mark 9:40**
 
@@ -5842,7 +5842,7 @@ Where their worm dies not, and the fire is not quenched.
 
 **Mark 9:47**
 
-And if yours eye cause you to stumble, pluck it out: it is better for you to enter into the kingdom of God with one eye, than having two eyes to be cast into Gehenna of fire:
+And if your eye cause you to stumble, pluck it out: it is better for you to enter into the kingdom of God with one eye, than having two eyes to be cast into Gehenna of fire:
 
 **Mark 9:48**
 
@@ -5854,13 +5854,13 @@ For every one shall be salted with fire, and every sacrifice shall be salted wit
 
 **Mark 9:50**
 
-Salt is good: but if the salt have lost his saltiness, wherewith will you season it? Have salt in yourselves, and have peace one with another.
+Salt is good: but if the salt have lost his saltiness, with which will you season it? Have salt in yourselves, and have peace one with another.
 
 ### Chapter 10
 
 **Mark 10:1**
 
-And he arose from there, and comes into the borders of Judaea by the farther side of Jordan: and the people resort to him again; and, as he was known, he taught them again.
+And he arose from there, and comes into the borders of Judea by the farther side of Jordan: and the people resort to him again; and, as he was known, he taught them again.
 
 **Mark 10:2**
 
@@ -5916,7 +5916,7 @@ But when Jesus saw it, he was much displeased, and said to them, Suffer the litt
 
 **Mark 10:15**
 
-Amen, I say to you, Whoever shall not receive the kingdom of God as a little child, he shall not enter therein.
+Amen, I say to you, Whoever shall not receive the kingdom of God as a little child, he shall not enter in it.
 
 **Mark 10:16**
 
@@ -5988,7 +5988,7 @@ And they were in the way going up to Jerusalem; and Jesus went before them: and 
 
 **Mark 10:33**
 
-Saying, Look, we go up to Jerusalem; and the Son of man shall be delivered to the chief priests, and to the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:
+Saying, Look, we go up to Jerusalem; and the Son of man shall be delivered to the chief priests, and to the scribes; and they shall condemn him to death, and shall deliver him to the nations:
 
 **Mark 10:34**
 
@@ -6008,7 +6008,7 @@ They said to him, Grant to us that we may sit, one on your right hand, and the o
 
 **Mark 10:38**
 
-But Jesus said to them, You know not what you ask: can you drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?
+But Jesus said to them, You do not know what you ask: can you drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?
 
 **Mark 10:39**
 
@@ -6024,7 +6024,7 @@ And when the ten heard it, they began to be much displeased with James and John.
 
 **Mark 10:42**
 
-But Jesus called them to him, and says to them, You know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.
+But Jesus called them to him, and says to them, You know that those who are accounted to rule over the nations exercise lordship over them; and their great ones exercise authority upon them.
 
 **Mark 10:43**
 
@@ -6048,7 +6048,7 @@ And when he heard that it was Jesus of Nazareth, he began to cry out, and say, J
 
 **Mark 10:48**
 
-And many charged him who he should hold his peace: but he cried the more a great deal, You son of David, have mercy on me.
+And many charged him who he should be silent: but he cried the more a great deal, You son of David, have mercy on me.
 
 **Mark 10:49**
 
@@ -6166,11 +6166,11 @@ Therefore I say to you, What things whatever you desire, when you pray, believe 
 
 **Mark 11:25**
 
-And when you stand praying, forgive, if you have ought against any: that your Father also which is in heaven may forgive you your trespasses.
+And when you stand praying, forgive, if you have anything against any: that your Father also who is in heaven may forgive you your trespasses.
 
 **Mark 11:26**
 
-But if you do not forgive, neither will your Father which is in heaven forgive your trespasses.
+But if you do not forgive, neither will your Father who is in heaven forgive your trespasses.
 
 **Mark 11:27**
 
@@ -6296,11 +6296,11 @@ In the resurrection therefore, when they shall rise, whose wife shall she be of 
 
 **Mark 12:24**
 
-And Jesus answering said to them, Do you not therefore go astray, because you know not the scriptures, neither the power of God?
+And Jesus answering said to them, Do you not therefore go astray, because you do not know the scriptures, neither the power of God?
 
 **Mark 12:25**
 
-For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
+For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels who are in heaven.
 
 **Mark 12:26**
 
@@ -6344,7 +6344,7 @@ And Jesus answered and said, while he taught in the temple, How say the scribes 
 
 **Mark 12:36**
 
-For David himself said by the Holy Spirit, The Lord said to my Lord, Sit you on my right hand, till I make yours enemies your footstool.
+For David himself said by the Holy Spirit, The Lord said to my Lord, Sit you on my right hand, till I make your enemies your footstool.
 
 **Mark 12:37**
 
@@ -6352,7 +6352,7 @@ David therefore himself calls him Lord; and whence is he then his son? And the c
 
 **Mark 12:38**
 
-And he said to them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,
+And he said to them in his doctrine, Beware of the scribes, who love to go in long clothing, and love salutations in the marketplaces,
 
 **Mark 12:39**
 
@@ -6360,7 +6360,7 @@ And the chief seats in the synagogues, and the uppermost rooms at feasts:
 
 **Mark 12:40**
 
-Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.
+Which devour widows' houses, and for a pretence make long prayers: these shall receive greater judgment.
 
 **Mark 12:41**
 
@@ -6372,7 +6372,7 @@ And there came a certain poor widow, and she threw in two mites, which make a fa
 
 **Mark 12:43**
 
-And he called to him his disciples, and says to them, Amen, I say to you, That this poor widow has cast more in, than all they which have cast into the treasury:
+And he called to him his disciples, and says to them, Amen, I say to you, That this poor widow has cast more in, than all those who have cast into the treasury:
 
 **Mark 12:44**
 
@@ -6434,11 +6434,11 @@ And you shall be hated of all men for my name's sake: but the one who shall endu
 
 **Mark 13:14**
 
-But when you shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him who reads understand,) then let those who be in Judaea flee to the mountains:
+But when you shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him who reads understand,) then let those who be in Judea flee to the mountains:
 
 **Mark 13:15**
 
-And let him who is on the housetop not go down into the house, neither enter therein, to take anything out of his house:
+And let him who is on the housetop not go down into the house, neither enter in it, to take anything out of his house:
 
 **Mark 13:16**
 
@@ -6506,11 +6506,11 @@ Heaven and earth shall pass away: but my words shall not pass away.
 
 **Mark 13:32**
 
-But of that day and that hour knows no one, no, not the angels which are in heaven, neither the Son, but the Father.
+But of that day and that hour knows no one, no, not the angels who are in heaven, neither the Son, but the Father.
 
 **Mark 13:33**
 
-Take you heed, watch and pray: for you know not when the time is.
+Take you heed, watch and pray: for you do not know when the time is.
 
 **Mark 13:34**
 
@@ -6518,7 +6518,7 @@ For the Son of Man is as a man taking a far journey, who left his house, and gav
 
 **Mark 13:35**
 
-Watch you therefore: for you know not when the master of the house comes, at even, or at midnight, or at the cockcrowing, or in the morning:
+Watch you therefore: for you do not know when the master of the house comes, at even, or at midnight, or at the cockcrowing, or in the morning:
 
 **Mark 13:36**
 
@@ -6536,7 +6536,7 @@ After two days was the feast of the Passover, and of unleavened bread: and the c
 
 **Mark 14:2**
 
-But they said, Not on the feast day, lest there be an uproar of the people.
+But they said, Not on the feast day, lest there is an uproar of the people.
 
 **Mark 14:3**
 
@@ -6552,7 +6552,7 @@ For it might have been sold for more than three hundred pence, and have been giv
 
 **Mark 14:6**
 
-And Jesus said, Let her alone; why trouble you her? she has wrought a good work on me.
+And Jesus said, Let her alone; why trouble you her? she has worked a good work on me.
 
 **Mark 14:7**
 
@@ -6632,7 +6632,7 @@ Amen, I say to you, I will drink no more of the fruit of the vine, until that da
 
 **Mark 14:26**
 
-And when they had sung an hymn, they went out into the mount of Olives.
+And when they had sung a hymn, they went out into the mount of Olives.
 
 **Mark 14:27**
 
@@ -6772,7 +6772,7 @@ And the high priest stood up in the midst, and asked Jesus, saying, Answer you n
 
 **Mark 14:61**
 
-But he held his peace, and answered nothing. Again the high priest asked him, and said to him, Are you the Christ, the Son of the Blessed?
+But he was silent, and answered nothing. Again the high priest asked him, and said to him, Are you the Christ, the Son of the Blessed?
 
 **Mark 14:62**
 
@@ -6800,7 +6800,7 @@ And when she saw Peter warming himself, she looked upon him, and said, And you a
 
 **Mark 14:68**
 
-But he denied, saying, I know not, neither understand I what you says. And he went out into the porch; and the cock crew.
+But he denied, saying, I do not know, neither understand I what you says. And he went out into the porch; and the cock crew.
 
 **Mark 14:69**
 
@@ -6812,7 +6812,7 @@ And he denied it again. And a little after, those who stood by said again to Pet
 
 **Mark 14:71**
 
-But he began to curse and to swear, saying, I know not this man of whom you speak.
+But he began to curse and to swear, saying, I do not know this man of whom you speak.
 
 **Mark 14:72**
 
@@ -6934,7 +6934,7 @@ And the scripture was fulfilled, which says, And he was numbered with the transg
 
 **Mark 15:29**
 
-And those who passed by railed on him, wagging their heads, and saying, Ah, you that destroys the temple, and build it in three days,
+And those who passed by railed on him, wagging their heads, and saying, Ah, You who destroy the temple, and build it in three days,
 
 **Mark 15:30**
 
@@ -6982,7 +6982,7 @@ There were also women looking on far off: among whom was Mary Magdalene, and Mar
 
 **Mark 15:41**
 
-(Who also, when he was in Galilee, followed him, and ministered to him;) and many other women which came up with him to Jerusalem.
+(Who also, when he was in Galilee, followed him, and ministered to him;) and many other women who came up with him to Jerusalem.
 
 **Mark 15:42**
 
@@ -7064,7 +7064,7 @@ And they went and told it to the residue: neither believed they them.
 
 **Mark 16:14**
 
-Afterward he appeared to the eleven as they reclined at table, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
+Afterward he appeared to the eleven as they reclined at table, and upbraided them with their unbelief and hardness of heart, because they believed not those who had seen him after he was risen.
 
 **Mark 16:15**
 
@@ -7072,7 +7072,7 @@ And he said to them, Go you into all the world, and preach the good news to ever
 
 **Mark 16:16**
 
-the one who believes and is baptized shall be saved; but the one who believes not shall be damned.
+the one who believes and is baptized shall be saved; but the one who does not believe shall be damned.
 
 **Mark 16:17**
 
@@ -7108,11 +7108,11 @@ It seemed good to me also, having had perfect understanding of all things from t
 
 **Luke 1:4**
 
-That you might know the certainty of those things, wherein you have been instructed.
+That you might know the certainty of those things, in which you have been instructed.
 
 **Luke 1:5**
 
-THERE was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
+THERE was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 
 **Luke 1:6**
 
@@ -7164,7 +7164,7 @@ And he shall go before him in the spirit and power of Elijah, to turn the hearts
 
 **Luke 1:18**
 
-And Zacharias said to the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.
+And Zacharias said to the angel, by which shall I know this? for I am an old man, and my wife well stricken in years.
 
 **Luke 1:19**
 
@@ -7172,7 +7172,7 @@ And the angel answering said to him, I am Gabriel, that stand in the presence of
 
 **Luke 1:20**
 
-And, look, you shall be dumb, and not able to speak, until the day that these things shall be performed, because you believe not my words, which shall be fulfilled in their season.
+And, look, you shall be silent, and not able to speak, until the day that these things shall be performed, because you do not believe my words, which shall be fulfilled in their season.
 
 **Luke 1:21**
 
@@ -7192,7 +7192,7 @@ And after those days his wife Elisabeth conceived, and hid herself five months, 
 
 **Luke 1:25**
 
-Thus has the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.
+Thus has the Lord dealt with me in the days in which he looked on me, to take away my reproach among men.
 
 **Luke 1:26**
 
@@ -7228,7 +7228,7 @@ And he shall reign over the house of Jacob for ever; and of his kingdom there sh
 
 **Luke 1:34**
 
-Then said Mary to the angel, How shall this be, seeing I know not a man?
+Then said Mary to the angel, How shall this be, seeing I do not know a man?
 
 **Luke 1:35**
 
@@ -7352,7 +7352,7 @@ And his mouth was opened immediately, and his tongue loosed, and he spoke, and p
 
 **Luke 1:65**
 
-And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.
+And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judea.
 
 **Luke 1:66**
 
@@ -7372,7 +7372,7 @@ And has raised up an horn of salvation for us in the house of his servant David;
 
 **Luke 1:70**
 
-As he spoke by the mouth of his holy prophets, which have been since the world began:
+As he spoke by the mouth of his holy prophets, who have been since the world began:
 
 **Luke 1:71**
 
@@ -7404,7 +7404,7 @@ To give knowledge of salvation to his people by the forgiveness of their sins,
 
 **Luke 1:78**
 
-Through the tender mercy of our God; whereby the dayspring from on high has visited us,
+Through the tender mercy of our God; by which the dayspring from on high has visited us,
 
 **Luke 1:79**
 
@@ -7412,7 +7412,7 @@ To give light to those who sit in darkness and in the shadow of death, to guide 
 
 **Luke 1:80**
 
-And the child grew, and waxed strong in spirit, and was in the deserts till the day of his showing to Israel.
+And the child grew, and grew strong in spirit, and was in the deserts till the day of his showing to Israel.
 
 ### Chapter 2
 
@@ -7430,7 +7430,7 @@ And all went to be taxed, every one into his own city.
 
 **Luke 2:4**
 
-And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, to the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
+And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 
 **Luke 2:5**
 
@@ -7498,7 +7498,7 @@ And the shepherds returned, glorifying and praising God for all the things that 
 
 **Luke 2:21**
 
-And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
+And when eight days were accomplished for the circumcising of the child, his name was called JESUS, who was so named of the angel before he was conceived in the womb.
 
 **Luke 2:22**
 
@@ -7542,7 +7542,7 @@ Which you have prepared before the face of all people;
 
 **Luke 2:32**
 
-A light to lighten the Gentiles, and the glory of your people Israel.
+A light to lighten the nations, and the glory of your people Israel.
 
 **Luke 2:33**
 
@@ -7574,7 +7574,7 @@ And when they had performed all things according to the law of the Lord, they re
 
 **Luke 2:40**
 
-And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
+And the child grew, and grew strong in spirit, filled with wisdom: and the grace of God was upon him.
 
 **Luke 2:41**
 
@@ -7586,7 +7586,7 @@ And when he was twelve years old, they went up to Jerusalem after the custom of 
 
 **Luke 2:43**
 
-And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.
+And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother did not know of it.
 
 **Luke 2:44**
 
@@ -7628,7 +7628,7 @@ And Jesus increased in wisdom and stature, and in favour with God and man.
 
 **Luke 3:1**
 
-Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
+Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 
 **Luke 3:2**
 
@@ -7692,7 +7692,7 @@ John answered, saying to them all, I indeed baptize you with water; but one migh
 
 **Luke 3:17**
 
-Whose fan is in his hand, and he will thoroughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
+Whose winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor, and will gather the wheat into his storehouse; but the chaff he will burn with fire unquenchable.
 
 **Luke 3:18**
 
@@ -7814,7 +7814,7 @@ And Jesus answered and said to him, Get you behind me, Satan: for it is written,
 
 **Luke 4:9**
 
-And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If you be the Son of God, cast yourself down from behind:
+And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If you be the Son of God, cast yourself down from here:
 
 **Luke 4:10**
 
@@ -7910,7 +7910,7 @@ And they were astonished at his doctrine: for his word was with power.
 
 **Luke 4:33**
 
-And in the synagogue there was a man, which had a spirit of an unclean demon, and cried out with a loud voice,
+And in the synagogue there was a man, who had a spirit of an unclean demon, and cried out with a loud voice,
 
 **Luke 4:34**
 
@@ -8024,11 +8024,11 @@ And he withdrew himself into the wilderness, and prayed.
 
 **Luke 5:17**
 
-And it happened on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which had come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.
+And it happened on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which had come out of every town of Galilee, and Judea, and Jerusalem: and the power of the Lord was present to heal them.
 
 **Luke 5:18**
 
-And, look, men brought in a bed a man which was taken with a paralysis: and they sought means to bring him in, and to lay him before him.
+And, look, men brought in a bed a man who was taken with a paralysis: and they sought means to bring him in, and to lay him before him.
 
 **Luke 5:19**
 
@@ -8052,7 +8052,7 @@ Whether is easier, to say, Your sins be forgiven you; or to say, Rise up and wal
 
 **Luke 5:24**
 
-But that you may know that the Son of man has power upon earth to forgive sins, (he said to the sick of the paralysis,) I say to you, Arise, and take up your couch, and go into yours house.
+But that you may know that the Son of man has power upon earth to forgive sins, (he said to the sick of the paralysis,) I say to you, Arise, and take up your couch, and go into your house.
 
 **Luke 5:25**
 
@@ -8088,7 +8088,7 @@ I came not to call the righteous, but sinners to repentance.
 
 **Luke 5:33**
 
-And they said to him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but yours eat and drink?
+And they said to him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but your eat and drink?
 
 **Luke 5:34**
 
@@ -8126,7 +8126,7 @@ And certain of the Pharisees said to them, Why do you that which is not lawful t
 
 **Luke 6:3**
 
-And Jesus answering them said, Have you not read so much as this, what David did, when himself was hungry, and they which were with him;
+And Jesus answering them said, Have you not read so much as this, what David did, when himself was hungry, and those who were with him;
 
 **Luke 6:4**
 
@@ -8146,7 +8146,7 @@ And the scribes and Pharisees watched him, whether he would heal on the Sabbath;
 
 **Luke 6:8**
 
-But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
+But he knew their thoughts, and said to the man who had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
 
 **Luke 6:9**
 
@@ -8182,7 +8182,7 @@ And Judas the brother of James, and Judas Iscariot, which also was the traitor.
 
 **Luke 6:17**
 
-And he came down with them, and stood in the plain, and the company of his disciples, and a great crowd of people out of all Judaea and Jerusalem, and from the seashore of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
+And he came down with them, and stood in the plain, and the company of his disciples, and a great crowd of people out of all Judea and Jerusalem, and from the seashore of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 
 **Luke 6:18**
 
@@ -8194,7 +8194,7 @@ And the whole crowd sought to touch him: for there went virtue out of him, and h
 
 **Luke 6:20**
 
-And he lifted up his eyes on his disciples, and said, Blessed be you poor: for yours is the kingdom of God.
+And he lifted up his eyes on his disciples, and said, Blessed be you poor: for your is the kingdom of God.
 
 **Luke 6:21**
 
@@ -8222,11 +8222,11 @@ Woe to you, when all men shall speak well of you! for so did their fathers to th
 
 **Luke 6:27**
 
-But I say to you which hear, Love your enemies, do good to them which hate you,
+But I say to you which hear, Love your enemies, do good to those who hate you,
 
 **Luke 6:28**
 
-Bless those who curse you, and pray for them which despitefully use you.
+Bless those who curse you, and pray for those who despitefully use you.
 
 **Luke 6:29**
 
@@ -8242,11 +8242,11 @@ And as you would that men should do to you, do you also to them likewise.
 
 **Luke 6:32**
 
-For if you love them which love you, what thank have you? for sinners also love those that love them.
+For if you love those who love you, what thank have you? for sinners also love those that love them.
 
 **Luke 6:33**
 
-And if you do good to them which do good to you, what thank have you? for sinners also do even the same.
+And if you do good to those who do good to you, what thank have you? for sinners also do even the same.
 
 **Luke 6:34**
 
@@ -8262,7 +8262,7 @@ Be you therefore merciful, as your Father also is merciful.
 
 **Luke 6:37**
 
-Judge not, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:
+do not judge, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:
 
 **Luke 6:38**
 
@@ -8278,11 +8278,11 @@ The disciple is not above his teacher: but every one that is perfect shall be as
 
 **Luke 6:41**
 
-And why look you the splinter that is in your brother's eye, but perceive not the beam that is in yours own eye?
+And why look you the splinter that is in your brother's eye, but perceive not the beam that is in your own eye?
 
 **Luke 6:42**
 
-Either how can you say to your brother, Brother, let me pull out the splinter that is in yours eye, when you yourself look not the beam that is in yours own eye? You hypocrite, cast out first the beam out of yours own eye, and then shall you see clearly to pull out the splinter that is in your brother's eye.
+Either how can you say to your brother, Brother, let me pull out the splinter that is in your eye, when you yourself look not the beam that is in your own eye? You hypocrite, cast out first the beam out of your own eye, and then shall you see clearly to pull out the splinter that is in your brother's eye.
 
 **Luke 6:43**
 
@@ -8306,7 +8306,7 @@ Whoever comes to me, and hears my sayings, and does them, I will show you to who
 
 **Luke 6:48**
 
-He is like a man which built a house, and dug deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
+He is like a man who built a house, and dug deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 
 **Luke 6:49**
 
@@ -8380,7 +8380,7 @@ And there came a fear on all: and they glorified God, saying, That a great proph
 
 **Luke 7:17**
 
-And this rumour of him went forth throughout all Judaea, and throughout all the region round about.
+And this rumour of him went forth throughout all Judea, and throughout all the region round about.
 
 **Luke 7:18**
 
@@ -8412,7 +8412,7 @@ And when the messengers of John were departed, he began to speak to the people c
 
 **Luke 7:25**
 
-But what went you out in order to see? A man clothed in soft clothing? Look, they which are gorgeously apparelled, and live delicately, are in kings' courts.
+But what went you out in order to see? A man clothed in soft clothing? Look, those who are gorgeously apparelled, and live delicately, are in kings' courts.
 
 **Luke 7:26**
 
@@ -8468,7 +8468,7 @@ And stood at his feet behind him weeping, and began to wash his feet with tears,
 
 **Luke 7:39**
 
-Now when the Pharisee which had bidden him saw it, he spoke within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that touches him: for she is a sinner.
+Now when the Pharisee who had bidden him saw it, he spoke within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that touches him: for she is a sinner.
 
 **Luke 7:40**
 
@@ -8488,7 +8488,7 @@ Simon answered and said, I suppose that he, to whom he forgave most. And he said
 
 **Luke 7:44**
 
-And he turned to the woman, and said to Simon, See you this woman? I entered into yours house, you gave me no water for my feet: but she has washed my feet with tears, and wiped them with the hairs of her head.
+And he turned to the woman, and said to Simon, See you this woman? I entered into your house, you gave me no water for my feet: but she has washed my feet with tears, and wiped them with the hairs of her head.
 
 **Luke 7:45**
 
@@ -8522,7 +8522,7 @@ And it happened afterward, that he went throughout every city and village, preac
 
 **Luke 8:2**
 
-And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven demons,
+And certain women, who had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven demons,
 
 **Luke 8:3**
 
@@ -8578,7 +8578,7 @@ But that on the good ground are they, which in an honest and good heart, having 
 
 **Luke 8:16**
 
-No one, when he has lighted a candle, covers it with a vessel, or puts it under a bed; but sets it on a candlestick, that they which enter in may see the light.
+No one, when he has lighted a candle, covers it with a vessel, or puts it under a bed; but sets it on a candlestick, that those who enter in may see the light.
 
 **Luke 8:17**
 
@@ -8622,7 +8622,7 @@ And they arrived at the country of the Gadarenes, which is opposite to Galilee.
 
 **Luke 8:27**
 
-And when he went forth to land, there met him out of the city a certain man, which had demons long time, and ware no clothes, neither abode in any house, but in the tombs.
+And when he went forth to land, there met him out of the city a certain man, who had demons long time, and ware no clothes, neither abode in any house, but in the tombs.
 
 **Luke 8:28**
 
@@ -8670,7 +8670,7 @@ Now the man out of whom the demons were departed begged him who he might be with
 
 **Luke 8:39**
 
-Return to yours own house, and show how great things God has done to you. And he went his way, and published throughout the whole city how great things Jesus had done to him.
+Return to your own house, and show how great things God has done to you. And he went his way, and published throughout the whole city how great things Jesus had done to him.
 
 **Luke 8:40**
 
@@ -8848,7 +8848,7 @@ For whoever shall be ashamed of me and of my words, of him shall the Son of man 
 
 **Luke 9:27**
 
-But I tell you truthfully, there be some standing here, which shall not taste of death, till they see the kingdom of God.
+But I tell you truthfully, there is some standing here, which shall not taste of death, till they see the kingdom of God.
 
 **Luke 9:28**
 
@@ -8860,7 +8860,7 @@ And as he prayed, the fashion of his countenance was altered, and his clothing w
 
 **Luke 9:30**
 
-And, look, there talked with him two men, which were Moses and Elijah:
+And, look, there talked with him two men, who were Moses and Elijah:
 
 **Luke 9:31**
 
@@ -8936,7 +8936,7 @@ And said to them, Whoever shall receive this child in my name receives me: and w
 
 **Luke 9:49**
 
-And John answered and said, Master, we saw one casting out demons in your name; and we forbad him, because he follows not with us.
+And John answered and said, Master, we saw one casting out demons in your name; and we forbade him, because he follows not with us.
 
 **Luke 9:50**
 
@@ -8960,7 +8960,7 @@ And when his disciples James and John saw this, they said, Lord, will you that w
 
 **Luke 9:55**
 
-But he turned, and rebuked them, and said, You know not what manner of spirit you are of.
+But he turned, and rebuked them, and said, You do not know what manner of spirit you are of.
 
 **Luke 9:56**
 
@@ -9018,7 +9018,7 @@ And if the son of peace be there, your peace shall rest upon it: if not, it shal
 
 **Luke 10:7**
 
-And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.
+And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. do not go from house to house.
 
 **Luke 10:8**
 
@@ -9026,7 +9026,7 @@ And into whatever city you enter, and they receive you, eat such things as are s
 
 **Luke 10:9**
 
-And heal the sick that are therein, and say to them, The kingdom of God has come near to you.
+And heal the sick that are in it, and say to them, The kingdom of God has come near to you.
 
 **Luke 10:10**
 
@@ -9168,7 +9168,7 @@ And it happened, that, as he was praying in a certain place, when he ceased, one
 
 **Luke 11:2**
 
-And he said to them, When you pray, say, Our Father which are in heaven, Hallowed be your name. Your kingdom come. Your will be done, as in heaven, so in earth.
+And he said to them, When you pray, say, Our Father who are in heaven, Hallowed be your name. Your kingdom come. Your will be done, as in heaven, so in earth.
 
 **Luke 11:3**
 
@@ -9248,7 +9248,7 @@ When a strong man armed keeps his palace, his goods are in peace:
 
 **Luke 11:22**
 
-But when a stronger than he shall come upon him, and overcome him, he takes from him all his armour wherein he trusted, and divides his spoils.
+But when a stronger than he shall come upon him, and overcome him, he takes from him all his armour in which he trusted, and divides his spoils.
 
 **Luke 11:23**
 
@@ -9292,11 +9292,11 @@ The men of Nineveh shall rise up in the judgment with this generation, and shall
 
 **Luke 11:33**
 
-No one, when he has lighted a candle, puts it in a secret place, neither under a bushel, but on a candlestick, that they which come in may see the light.
+No one, when he has lighted a candle, puts it in a secret place, neither under a bushel, but on a candlestick, that those who come in may see the light.
 
 **Luke 11:34**
 
-The light of the body is the eye: therefore when yours eye is single, your whole body also is full of light; but when yours eye is evil, your body also is full of darkness.
+The light of the body is the eye: therefore when your eye is single, your whole body also is full of light; but when your eye is evil, your body also is full of darkness.
 
 **Luke 11:35**
 
@@ -9344,7 +9344,7 @@ Then answered one of the lawyers, and said to him, Teacher, thus saying you repr
 
 **Luke 11:46**
 
-And he said, Woe to you also, you lawyers! for you load men with burdens grievous to be borne, and you yourselves touch not the burdens with one of your fingers.
+And he said, Woe to you also, you lawyers! for you load men with burdens grievous to be borne, and you yourselves do not touch the burdens with one of your fingers.
 
 **Luke 11:47**
 
@@ -9360,7 +9360,7 @@ Therefore also said the wisdom of God, I will send them prophets and apostles, a
 
 **Luke 11:50**
 
-That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
+That the blood of all the prophets, who was shed from the foundation of the world, may be required of this generation;
 
 **Luke 11:51**
 
@@ -9382,7 +9382,7 @@ Laying wait for him, and seeking to catch something out of his mouth, that they 
 
 **Luke 12:1**
 
-In the mean time, when there were gathered together an innumerable crowd of people, insomuch that they trode one upon another, he began to say to his disciples first of all, Beware you of the leaven of the Pharisees, which is hypocrisy.
+In the mean time, when there were gathered together an innumerable crowd of people, insomuch that they trode one upon another, he began to say to his disciples first of all, Beware you of the leaven of the Pharisees, who is hypocrisy.
 
 **Luke 12:2**
 
@@ -9454,7 +9454,7 @@ And he said, This will I do: I will pull down my barns, and build greater; and t
 
 **Luke 12:19**
 
-And I will say to my soul, Soul, you have much goods laid up for many years; take yours ease, eat, drink, and be merry.
+And I will say to my soul, Soul, you have much goods laid up for many years; take your ease, eat, drink, and be merry.
 
 **Luke 12:20**
 
@@ -9570,7 +9570,7 @@ And that slave, which knew his Lord's will, and prepared not himself, neither di
 
 **Luke 12:48**
 
-But the one who knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For to whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
+But the one who did not know, and did commit things worthy of stripes, shall be beaten with few stripes. For to whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
 
 **Luke 12:49**
 
@@ -9610,7 +9610,7 @@ Yes, and why even of yourselves judge you not what is right?
 
 **Luke 12:58**
 
-When you go with yours adversary to the magistrate, as you are in the way, give diligence that you may be delivered from him; lest he hale you to the judge, and the judge deliver you to the officer, and the officer cast you into prison.
+When you go with your adversary to the magistrate, as you are in the way, give diligence that you may be delivered from him; lest he hale you to the judge, and the judge deliver you to the officer, and the officer cast you into prison.
 
 **Luke 12:59**
 
@@ -9660,11 +9660,11 @@ And he was teaching in one of the synagogues on the sabbath.
 
 **Luke 13:11**
 
-And, look, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could by no means lift up herself.
+And, look, there was a woman who had a spirit of infirmity eighteen years, and was bowed together, and could by no means lift up herself.
 
 **Luke 13:12**
 
-And when Jesus saw her, he called her to him, and said to her, Woman, you are loosed from yours infirmity.
+And when Jesus saw her, he called her to him, and said to her, Woman, you are loosed from your infirmity.
 
 **Luke 13:13**
 
@@ -9692,7 +9692,7 @@ Then said he, To what is the kingdom of God like? and to which shall I resemble 
 
 **Luke 13:19**
 
-It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the birds of the air lodged in the branches of it.
+It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and became a great tree; and the birds of the air lodged in the branches of it.
 
 **Luke 13:20**
 
@@ -9766,7 +9766,7 @@ And it happened, as he went into the house of one of the chief Pharisees to eat 
 
 **Luke 14:2**
 
-And, look, there was a certain man before him which had the dropsy.
+And, look, there was a certain man before him who had the dropsy.
 
 **Luke 14:3**
 
@@ -9774,7 +9774,7 @@ And Jesus answering spoke to the lawyers and Pharisees, saying, Is it lawful to 
 
 **Luke 14:4**
 
-And they held their peace. And he took him, and healed him, and let him go;
+And they were silent. And he took him, and healed him, and let him go;
 
 **Luke 14:5**
 
@@ -9854,7 +9854,7 @@ And the Lord said to the slave, Go out into the highways and hedges, and compel 
 
 **Luke 14:24**
 
-For I say to you, That none of those men which were bidden shall taste of my supper.
+For I say to you, That none of those men who were bidden shall taste of my supper.
 
 **Luke 14:25**
 
@@ -9894,7 +9894,7 @@ So likewise, whoever he be of you that forsakes not all that he has, he cannot b
 
 **Luke 14:34**
 
-Salt is good: but if the salt have lost his taste, wherewith shall it be seasoned?
+Salt is good: but if the salt have lost his taste, with which shall it be seasoned?
 
 **Luke 14:35**
 
@@ -10020,7 +10020,7 @@ And he answering said to his father, Look, these many years do I serve you, neit
 
 **Luke 15:30**
 
-But as soon as this your son had come, which has devoured your living with harlots, you have killed for him the fatted calf.
+But as soon as this your son had come, which has devoured your living with prostitutes, you have killed for him the fatted calf.
 
 **Luke 15:31**
 
@@ -10034,7 +10034,7 @@ It was meet that we should make merry, and be glad: for this your brother was de
 
 **Luke 16:1**
 
-And he said also to his disciples, There was a certain rich man, which had a steward; and the same was accused to him who he had wasted his goods.
+And he said also to his disciples, There was a certain rich man, who had a steward; and the same was accused to him who he had wasted his goods.
 
 **Luke 16:2**
 
@@ -10066,7 +10066,7 @@ And the Lord commended the unjust steward, because he had done wisely: for the c
 
 **Luke 16:9**
 
-And I say to you, Make to yourselves friends of the mammon of unrighteousness; that, when you fail, they may receive you into everlasting habitations.
+And I say to you, Make to yourselves friends of the mammon of unrighteousness; that, when you fail, they may receive you into eternal habitations.
 
 **Luke 16:10**
 
@@ -10090,7 +10090,7 @@ And the Pharisees also, who were covetous, heard all these things: and they deri
 
 **Luke 16:15**
 
-And he said to them, You are they which justify yourselves before men; but God knows your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+And he said to them, You are those who justify yourselves before men; but God knows your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 
 **Luke 16:16**
 
@@ -10106,7 +10106,7 @@ Whoever puts away his wife, and marries another, commits adultery: and whoever m
 
 **Luke 16:19**
 
-There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
+There was a certain rich man, who was clothed in purple and fine linen, and fared sumptuously every day:
 
 **Luke 16:20**
 
@@ -10134,7 +10134,7 @@ But Abraham said, Son, remember that you in your lifetime received your good thi
 
 **Luke 16:26**
 
-And beside all this, between us and you there is a great gulf fixed: so that they which would pass from behind to you cannot; neither can they pass to us, that would come from there.
+And beside all this, between us and you there is a great gulf fixed: so that those who would pass from here to you cannot; neither can they pass to us, that would come from there.
 
 **Luke 16:27**
 
@@ -10160,7 +10160,7 @@ And he said to him, If they hear not Moses and the prophets, neither will they b
 
 **Luke 17:1**
 
-Then said he to the disciples, It is impossible but that stumbling blocks will come: but woe to him, through whom they come!
+Then said he to the disciples, It is impossible but that offenses will come: but woe to him, through whom they come!
 
 **Luke 17:2**
 
@@ -10188,7 +10188,7 @@ But which of you, having a slave plowing or feeding cattle, will say to him by a
 
 **Luke 17:8**
 
-And will not rather say to him, Make ready wherewith I may sup, and gird yourself, and serve me, till I have eaten and drunken; and afterward you shall eat and drink?
+And will not rather say to him, Make ready with which I may sup, and gird yourself, and serve me, till I have eaten and drunken; and afterward you shall eat and drink?
 
 **Luke 17:9**
 
@@ -10248,7 +10248,7 @@ And he said to the disciples, The days will come, when you shall desire to see o
 
 **Luke 17:23**
 
-And they shall say to you, See here; or, see there: go not after them, nor follow them.
+And they shall say to you, See here; or, see there: do not go after them, nor follow them.
 
 **Luke 17:24**
 
@@ -10280,7 +10280,7 @@ Even thus shall it be in the day when the Son of man is revealed.
 
 **Luke 17:31**
 
-In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and the one who is in the field, let him likewise not return back.
+In that day, the one who shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and the one who is in the field, let him likewise not return back.
 
 **Luke 17:32**
 
@@ -10374,7 +10374,7 @@ But Jesus called them to him, and said, allow little children to come to me, and
 
 **Luke 18:17**
 
-Amen, I say to you, Whoever shall not receive the kingdom of God as a little child shall by no means enter therein.
+Amen, I say to you, Whoever shall not receive the kingdom of God as a little child shall by no means enter in it.
 
 **Luke 18:18**
 
@@ -10426,7 +10426,7 @@ And he said to them, Amen, I say to you, There is no one that has left house, or
 
 **Luke 18:30**
 
-Who shall not receive manifold more in this present time, and in the age to come life everlasting.
+Who shall not receive manifold more in this present time, and in the age to come life eternal.
 
 **Luke 18:31**
 
@@ -10434,7 +10434,7 @@ Then he took to him the twelve, and said to them, Look, we go up to Jerusalem, a
 
 **Luke 18:32**
 
-For he shall be delivered to the Gentiles, and shall be mocked, and spitefully pleaded, and spitted on:
+For he shall be delivered to the nations, and shall be mocked, and spitefully pleaded, and spitted on:
 
 **Luke 18:33**
 
@@ -10462,7 +10462,7 @@ And he cried, saying, Jesus, you son of David, have mercy on me.
 
 **Luke 18:39**
 
-And they which went before rebuked him, that he should hold his peace: but he cried so much the more, You son of David, have mercy on me.
+And those who went before rebuked him, that he should be silent: but he cried so much the more, You son of David, have mercy on me.
 
 **Luke 18:40**
 
@@ -10568,11 +10568,11 @@ For I feared you, because you are an austere man: you take up that you layed not
 
 **Luke 19:22**
 
-And he says to him, Out of yours own mouth will I judge you, you wicked slave. You knew that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+And he says to him, Out of your own mouth will I judge you, you wicked slave. You knew that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 
 **Luke 19:23**
 
-Therefore then gave not you my money into the bank, that at my coming I might have required mine own with interest?
+Therefore then gave not you my money into the bank, that at my coming I might have required my own with interest?
 
 **Luke 19:24**
 
@@ -10584,7 +10584,7 @@ And he said to those who stood by, Take from him the pound, and give it to him w
 
 **Luke 19:26**
 
-For I say to you, That to every one which has shall be given; and from him who has not, even that he has shall be taken away from him.
+For I say to you, That to everyone who has shall be given; and from him who has not, even that he has shall be taken away from him.
 
 **Luke 19:27**
 
@@ -10612,7 +10612,7 @@ And those who were sent went their way, and found even as he had said to them.
 
 **Luke 19:33**
 
-And as they were loosing the colt, the owners thereof said to them, Why loose you the colt?
+And as they were loosing the colt, the owners of it said to them, Why loose you the colt?
 
 **Luke 19:34**
 
@@ -10640,7 +10640,7 @@ And some of the Pharisees from among the crowd said to him, Teacher, rebuke your
 
 **Luke 19:40**
 
-And he answered and said to them, I tell you that, if these should hold their peace, the stones would immediately cry out.
+And he answered and said to them, I tell you that, if these should be silent, the stones would immediately cry out.
 
 **Luke 19:41**
 
@@ -10648,19 +10648,19 @@ And when he had come near, he beheld the city, and wept over it,
 
 **Luke 19:42**
 
-Saying, If you had known, even you, at least in this your day, the things which belong to your peace! but now they are hid from yours eyes.
+Saying, If you had known, even you, at least in this your day, the things which belong to your peace! but now they are hid from your eyes.
 
 **Luke 19:43**
 
-For the days shall come upon you, that yours enemies shall cast a trench about you, and compass you round, and keep you in on every side,
+For the days shall come upon you, that your enemies shall cast a trench about you, and compass you round, and keep you in on every side,
 
 **Luke 19:44**
 
-And shall lay you even with the ground, and your children within you; and they shall not leave in you one stone upon another; because you knew not the time of your visitation.
+And shall lay you even with the ground, and your children within you; and they shall not leave in you one stone upon another; because you did not know the time of your visitation.
 
 **Luke 19:45**
 
-And he went into the temple, and began to cast out those who sold therein, and those who bought;
+And he went into the temple, and began to cast out those who sold in it, and those who bought;
 
 **Luke 19:46**
 
@@ -10738,7 +10738,7 @@ So they cast him out of the vineyard, and killed him. What therefore shall the L
 
 **Luke 20:16**
 
-He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.
+He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, may it not be.
 
 **Luke 20:17**
 
@@ -10778,7 +10778,7 @@ And he said to them, Render therefore to Caesar the things which be Caesar's, an
 
 **Luke 20:26**
 
-And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.
+And they could not take hold of his words before the people: and they marvelled at his answer, and were silent.
 
 **Luke 20:27**
 
@@ -10814,7 +10814,7 @@ And Jesus answering said to them, The children of this age marry, and are given 
 
 **Luke 20:35**
 
-But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
+But those who shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
 
 **Luke 20:36**
 
@@ -10846,7 +10846,7 @@ And David himself says in the book of Psalms, The Lord said to my Lord, Sit you 
 
 **Luke 20:43**
 
-Till I make yours enemies your footstool.
+Till I make your enemies your footstool.
 
 **Luke 20:44**
 
@@ -10858,11 +10858,11 @@ Then in the audience of all the people he said to his disciples,
 
 **Luke 20:46**
 
-Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
+Beware of the scribes, who desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;
 
 **Luke 20:47**
 
-Which devour widows' houses, and for a show make long prayers: the same shall receive greater damnation.
+Which devour widows' houses, and for a show make long prayers: the same shall receive greater judgment.
 
 ### Chapter 21
 
@@ -10892,7 +10892,7 @@ As for these things which you look, the days will come, in the which there shall
 
 **Luke 21:7**
 
-And they asked him, saying, Teacher, but when shall these things be? and what sign will there be when these things will happen?
+And they asked him, saying, Teacher, but when shall these things be? and what sign will there is when these things will happen?
 
 **Luke 21:8**
 
@@ -10908,7 +10908,7 @@ Then said he to them, Nation shall rise against nation, and kingdom against king
 
 **Luke 21:11**
 
-And great earthquakes shall be in various places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
+And great earthquakes shall be in various places, and famines, and pestilences; and fearful sights and great signs shall there is from heaven.
 
 **Luke 21:12**
 
@@ -10944,11 +10944,11 @@ In your patience possess you your souls.
 
 **Luke 21:20**
 
-And when you shall see Jerusalem compassed with armies, then know that the desolation thereof is near.
+And when you shall see Jerusalem compassed with armies, then know that the desolation of it is near.
 
 **Luke 21:21**
 
-Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not those who are in the countries enter therein.
+Then let those who are in Judea flee to the mountains; and let those who are in the midst of it depart out; and let not those who are in the countries enter in it.
 
 **Luke 21:22**
 
@@ -10960,7 +10960,7 @@ But woe to those who are with child, and to those who give suck, in those days! 
 
 **Luke 21:24**
 
-And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trampled down of the Gentiles, until the times of the Gentiles be fulfilled.
+And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trampled down of the nations, until the times of the nations be fulfilled.
 
 **Luke 21:25**
 
@@ -11082,7 +11082,7 @@ And he said to them, With desire I have desired to eat this Passover with you be
 
 **Luke 22:16**
 
-For I say to you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
+For I say to you, I will not any more eat of it, until it be fulfilled in the kingdom of God.
 
 **Luke 22:17**
 
@@ -11118,7 +11118,7 @@ And there was also a strife among them, which of them should be accounted the gr
 
 **Luke 22:25**
 
-And he said to them, The kings of the Gentiles exercise lordship over them; and those who exercise authority upon them are called benefactors.
+And he said to them, The kings of the nations exercise lordship over them; and those who exercise authority upon them are called benefactors.
 
 **Luke 22:26**
 
@@ -11130,7 +11130,7 @@ For whether is greater, the one who sits at table, or the one who serves? is not
 
 **Luke 22:28**
 
-You are they which have continued with me in my temptations.
+You are those who have continued with me in my temptations.
 
 **Luke 22:29**
 
@@ -11214,7 +11214,7 @@ But Jesus said to him, Judas, betray you the Son of man with a kiss?
 
 **Luke 22:49**
 
-When they which were about him saw what would follow, they said to him, Lord, shall we strike with the sword?
+When those who were about him saw what would follow, they said to him, Lord, shall we strike with the sword?
 
 **Luke 22:50**
 
@@ -11258,7 +11258,7 @@ And about the space of one hour after another confidently affirmed, saying, Trut
 
 **Luke 22:60**
 
-And Peter said, Man, I know not what you says. And immediately, while he yet spoke, the cock crew.
+And Peter said, Man, I do not know what you says. And immediately, while he yet spoke, the cock crew.
 
 **Luke 22:61**
 
@@ -11360,7 +11360,7 @@ And Pilate, when he had called together the chief priests and the rulers and the
 
 **Luke 23:14**
 
-Said to them, You have brought this man to me, as one that perverts the people: and, look, I, having examined him before you, have found no fault in this man concerning those things whereof you accuse him:
+Said to them, You have brought this man to me, as one that perverts the people: and, look, I, having examined him before you, have found no fault in this man concerning those things of which you accuse him:
 
 **Luke 23:15**
 
@@ -11412,7 +11412,7 @@ And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out 
 
 **Luke 23:27**
 
-And there followed him a great company of people, and of women, which also bewailed and lamented him.
+And there followed him a great company of people, and of women, who also bewailed and lamented him.
 
 **Luke 23:28**
 
@@ -11440,11 +11440,11 @@ And when they had come to the place, which is called Calvary, there they crucifi
 
 **Luke 23:34**
 
-Then said Jesus, Father, forgive them; for they know not what they do. And they parted his clothing, and cast lots.
+Then said Jesus, Father, forgive them; for they do not know what they do. And they parted his clothing, and cast lots.
 
 **Luke 23:35**
 
-And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
+And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he is Christ, the chosen of God.
 
 **Luke 23:36**
 
@@ -11516,7 +11516,7 @@ This man went to Pilate, and begged the body of Jesus.
 
 **Luke 23:53**
 
-And he took it down, and wrapped it in linen, and laid it in a tomb that was cut in stone, wherein never man before was laid.
+And he took it down, and wrapped it in linen, and laid it in a tomb that was cut in stone, in which never man before was laid.
 
 **Luke 23:54**
 
@@ -11614,7 +11614,7 @@ And how the chief priests and our rulers delivered him to be condemned to death,
 
 **Luke 24:21**
 
-But we trusted that it had been he which should have redeemed Israel: and beside all this, today is the third day since these things were done.
+But we trusted that it had been the one who should have redeemed Israel: and beside all this, today is the third day since these things were done.
 
 **Luke 24:22**
 
@@ -11622,11 +11622,11 @@ Yes, and certain women also of our company made us astonished, which were early 
 
 **Luke 24:23**
 
-And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.
+And when they found not his body, they came, saying, that they had also seen a vision of angels, who said that he was alive.
 
 **Luke 24:24**
 
-And certain of them which were with us went to the tomb, and found it even so as the women had said: but him they saw not.
+And certain of those who were with us went to the tomb, and found it even so as the women had said: but him they saw not.
 
 **Luke 24:25**
 
@@ -11818,7 +11818,7 @@ For the law was given by Moses, but grace and truth came by Jesus Christ.
 
 **John 1:18**
 
-No one has seen God at any time, the only begotten Son, which is in the bosom of the Father, he has declared him.
+No one has seen God at any time, the only begotten Son, who is in the bosom of the Father, he has declared him.
 
 **John 1:19**
 
@@ -11842,7 +11842,7 @@ He said, I am the voice of one crying in the wilderness, Make straight the way o
 
 **John 1:24**
 
-And they which were sent were of the Pharisees.
+And those who were sent were of the Pharisees.
 
 **John 1:25**
 
@@ -11850,7 +11850,7 @@ And they asked him, and said to him, Why baptize you then, if you be not that Ch
 
 **John 1:26**
 
-John answered them, saying, I baptize with water: but there stands one among you, whom you know not;
+John answered them, saying, I baptize with water: but there stands one among you, whom you do not know;
 
 **John 1:27**
 
@@ -11862,11 +11862,11 @@ These things were done in Bethabara beyond Jordan, where John was baptizing.
 
 **John 1:29**
 
-The next day John sees Jesus coming to him, and says, Look the Lamb of God, which takes away the sin of the world.
+The next day John sees Jesus coming to him, and says, Look the Lamb of God, who takes away the sin of the world.
 
 **John 1:30**
 
-This is he of whom I said, After me comes a man which is preferred before me: for he was before me.
+This is he of whom I said, After me comes a man who is preferred before me: for he was before me.
 
 **John 1:31**
 
@@ -11878,7 +11878,7 @@ And John bare record, saying, I saw the Spirit descending from heaven like a dov
 
 **John 1:33**
 
-And I knew him not: but the one who sent me to baptize with water, the same said to me, Upon whom you shall see the Spirit descending, and remaining on him, the same is he which baptizes with the Holy Spirit.
+And I knew him not: but the one who sent me to baptize with water, the same said to me, Upon whom you shall see the Spirit descending, and remaining on him, the same is the one who baptizes with the Holy Spirit.
 
 **John 1:34**
 
@@ -11988,7 +11988,7 @@ And he says to them, Draw out now, and bear to the governor of the feast. And th
 
 **John 2:9**
 
-When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+When the ruler of the feast had tasted the water that was made wine, and did not know whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
 
 **John 2:10**
 
@@ -12020,7 +12020,7 @@ And said to those who sold doves, Take these things behind; make not my Father's
 
 **John 2:17**
 
-And his disciples remembered that it was written, The zeal of yours house has eaten me up.
+And his disciples remembered that it was written, The zeal of your house has eaten me up.
 
 **John 2:18**
 
@@ -12082,11 +12082,11 @@ That which is born of the flesh is flesh; and that which is born of the Spirit i
 
 **John 3:7**
 
-Marvel not that I said to you, You must be born again.
+do not marvel that I said to you, You must be born again.
 
 **John 3:8**
 
-The wind blows where it decides, and you hear the sound thereof, but can not tell whence it comes, and where it goes: so is every one that is born of the Spirit.
+The wind blows where it decides, and you hear the sound of it, but can not tell whence it comes, and where it goes: so is every one that is born of the Spirit.
 
 **John 3:9**
 
@@ -12094,7 +12094,7 @@ Nicodemus answered and said to him, How can these things be?
 
 **John 3:10**
 
-Jesus answered and said to him, Are you a teacher of Israel, and know not these things?
+Jesus answered and said to him, Are you a teacher of Israel, and do not know these things?
 
 **John 3:11**
 
@@ -12102,11 +12102,11 @@ Amen, amen, I say to you, We speak that we do know, and testify that we have see
 
 **John 3:12**
 
-If I have told you earthly things, and you believe not, how shall you believe, if I tell you of heavenly things?
+If I have told you earthly things, and you do not believe, how shall you believe, if I tell you of heavenly things?
 
 **John 3:13**
 
-And no one has ascended up to heaven, but the one who came down from heaven, even the Son of man which is in heaven.
+And no one has ascended up to heaven, but the one who came down from heaven, even the Son of man who is in heaven.
 
 **John 3:14**
 
@@ -12118,7 +12118,7 @@ That whoever believes in him should not perish, but have eternal life.
 
 **John 3:16**
 
-For God so loved the world, that he gave his only begotten Son, that whoever believes in him should not perish, but have everlasting life.
+For God so loved the world, that he gave his only begotten Son, that whoever believes in him should not perish, but have eternal life.
 
 **John 3:17**
 
@@ -12126,7 +12126,7 @@ For God sent not his Son into the world to condemn the world; but that the world
 
 **John 3:18**
 
-the one who believes on him is not condemned: but the one who believes not is condemned already, because he has not believed in the name of the only begotten Son of God.
+the one who believes on him is not condemned: but the one who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God.
 
 **John 3:19**
 
@@ -12138,11 +12138,11 @@ For every one that does evil hates the light, neither comes to the light, lest h
 
 **John 3:21**
 
-But the one who does truth comes to the light, that his deeds may be made manifest, that they are wrought in God.
+But the one who does truth comes to the light, that his deeds may be made manifest, that they are worked in God.
 
 **John 3:22**
 
-After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
+After these things came Jesus and his disciples into the land of Judea; and there he tarried with them, and baptized.
 
 **John 3:23**
 
@@ -12198,7 +12198,7 @@ The Father loves the Son, and has given all things into his hand.
 
 **John 3:36**
 
-the one who believes on the Son has everlasting life: and the one who believes not the Son shall not see life; but the wrath of God abides on him.
+the one who believes on the Son has eternal life: and the one who does not believe the Son shall not see life; but the wrath of God abides on him.
 
 ### Chapter 4
 
@@ -12212,7 +12212,7 @@ When therefore the Lord knew how the Pharisees had heard that Jesus made and bap
 
 **John 4:3**
 
-He left Judaea, and departed again into Galilee.
+He left Judea, and departed again into Galilee.
 
 **John 4:4**
 
@@ -12248,7 +12248,7 @@ The woman says to him, Sir, you have nothing to draw with, and the well is deep:
 
 **John 4:12**
 
-Are you greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
+Are you greater than our father Jacob, which gave us the well, and drank of it himself, and his children, and his cattle?
 
 **John 4:13**
 
@@ -12256,7 +12256,7 @@ Jesus answered and said to her, Whoever drinks of this water shall thirst again:
 
 **John 4:14**
 
-But whoever drinks of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+But whoever drinks of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into eternal life.
 
 **John 4:15**
 
@@ -12288,7 +12288,7 @@ Jesus says to her, Woman, believe me, the hour comes, when you shall neither in 
 
 **John 4:22**
 
-You worship you know not what: we know what we worship: for salvation is of the Jews.
+You worship you do not know what: we know what we worship: for salvation is of the Jews.
 
 **John 4:23**
 
@@ -12316,7 +12316,7 @@ The woman then left her water pot, and went her way into the city, and says to t
 
 **John 4:29**
 
-Come, see a man, which told me all things that ever I did: is not this the Christ?
+Come, see a man, who told me all things that ever I did: is not this the Christ?
 
 **John 4:30**
 
@@ -12328,7 +12328,7 @@ In the mean while his disciples prayed him, saying, Master, eat.
 
 **John 4:32**
 
-But he said to them, I have food to eat that you know not of.
+But he said to them, I have food to eat that you do not know of.
 
 **John 4:33**
 
@@ -12356,7 +12356,7 @@ I sent you to reap that whereon you bestowed no labour: other men laboured, and 
 
 **John 4:39**
 
-And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
+And many of the Samaritans of that city believed on him for the saying of the woman, who testified, He told me all that ever I did.
 
 **John 4:40**
 
@@ -12388,7 +12388,7 @@ So Jesus came again into Cana of Galilee, where he made the water wine. And ther
 
 **John 4:47**
 
-When he heard that Jesus had come out of Judaea into Galilee, he went to him, and begged him who he would come down, and heal his son: for he was at the point of death.
+When he heard that Jesus had come out of Judea into Galilee, he went to him, and begged him who he would come down, and heal his son: for he was at the point of death.
 
 **John 4:48**
 
@@ -12416,7 +12416,7 @@ So the father knew that it was at the same hour, in the which Jesus said to him,
 
 **John 4:54**
 
-This is again the second miracle that Jesus did, when he had come out of Judaea into Galilee.
+This is again the second miracle that Jesus did, when he had come out of Judea into Galilee.
 
 ### Chapter 5
 
@@ -12470,7 +12470,7 @@ Then asked they him, What man is that which said to you, Take up your bed, and w
 
 **John 5:13**
 
-And the one who was healed know not who it was: for Jesus had conveyed himself away, a crowd being in that place.
+And the one who was healed do not know who it was: for Jesus had conveyed himself away, a crowd being in that place.
 
 **John 5:14**
 
@@ -12478,7 +12478,7 @@ Afterward Jesus finds him in the temple, and said to him, Look, you are made who
 
 **John 5:15**
 
-The man departed, and told the Jews that it was Jesus, which had made him whole.
+The man departed, and told the Jews that it was Jesus, who had made him whole.
 
 **John 5:16**
 
@@ -12502,7 +12502,7 @@ For the Father loves the Son, and shows him all things that himself does: and he
 
 **John 5:21**
 
-For as the Father raises up the dead, and replenishes life to them; even so the Son gives life to whom he will.
+For as the Father raises up the dead, and gives life to them; even so the Son gives life to whom he will.
 
 **John 5:22**
 
@@ -12510,11 +12510,11 @@ For the Father judges no one, but has committed all judgment to the Son:
 
 **John 5:23**
 
-That all men should honour the Son, even as they honour the Father. the one who honors not the Son honors not the Father which has sent him.
+That all men should honour the Son, even as they honour the Father. the one who honors not the Son honors not the Father who has sent him.
 
 **John 5:24**
 
-Amen, amen, I say to you, the one who hears my word, and believes on him who sent me, has everlasting life, and shall not come into condemnation; but is passed from death to life.
+Amen, amen, I say to you, the one who hears my word, and believes on him who sent me, has eternal life, and shall not come into condemnation; but is passed from death to life.
 
 **John 5:25**
 
@@ -12530,15 +12530,15 @@ And has given him authority to execute judgment also, because he is the Son of m
 
 **John 5:28**
 
-Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
+do not marvel at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
 
 **John 5:29**
 
-And shall come forth; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of damnation.
+And shall come forth; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.
 
 **John 5:30**
 
-I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which has sent me.
+I can of my own self do nothing: as I hear, I judge: and my judgment is just; because I seek not my own will, but the will of the Father who has sent me.
 
 **John 5:31**
 
@@ -12566,15 +12566,15 @@ But I have greater witness than that of John: for the works which the Father has
 
 **John 5:37**
 
-And the Father himself, which has sent me, has borne witness of me. You have neither heard his voice at any time, nor seen his shape.
+And the Father himself, who has sent me, has borne witness of me. You have neither heard his voice at any time, nor seen his shape.
 
 **John 5:38**
 
-And you have not his word abiding in you: for whom he has sent, him you believe not.
+And you have not his word abiding in you: for whom he has sent, him you do not believe.
 
 **John 5:39**
 
-Search the scriptures; for in them you think you have eternal life: and they are they which testify of me.
+Search the scriptures; for in them you think you have eternal life: and they are those who testify of me.
 
 **John 5:40**
 
@@ -12606,7 +12606,7 @@ For had you believed Moses, you would have believed me; for he wrote of me.
 
 **John 5:47**
 
-But if you believe not his writings, how shall you believe my words?
+But if you do not believe his writings, how shall you believe my words?
 
 ### Chapter 6
 
@@ -12696,7 +12696,7 @@ Then they willingly received him into the boat: and immediately the boat was at 
 
 **John 6:22**
 
-The day following, when the people which stood on the other side of the sea saw that there was no other boat there, save that one into where his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+The day following, when the people who stood on the other side of the sea saw that there was no other boat there, save that one into where his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
 
 **John 6:23**
 
@@ -12716,7 +12716,7 @@ Jesus answered them and said, Amen, amen, I say to you, You seek me, not because
 
 **John 6:27**
 
-Labour not for the food which perishes, but for that food which endures to everlasting life, which the Son of man shall give to you: for him has God the Father sealed.
+Labour not for the food which perishes, but for that food which endures to eternal life, which the Son of man shall give to you: for him has God the Father sealed.
 
 **John 6:28**
 
@@ -12740,7 +12740,7 @@ Then Jesus said to them, Amen, amen, I say to you, Moses gave you not that bread
 
 **John 6:33**
 
-For the bread of God is he which comes down from heaven, and gives life to the world.
+For the bread of God is the one who comes down from heaven, and gives life to the world.
 
 **John 6:34**
 
@@ -12752,7 +12752,7 @@ And Jesus said to them, I am the bread of life: the one who comes to me shall ne
 
 **John 6:36**
 
-But I said to you, That you also have seen me, and believe not.
+But I said to you, That you also have seen me, and do not believe.
 
 **John 6:37**
 
@@ -12760,15 +12760,15 @@ All that the Father gives me shall come to me; and him who comes to me I will by
 
 **John 6:38**
 
-For I came down from heaven, not to do mine own will, but the will of him who sent me.
+For I came down from heaven, not to do my own will, but the will of him who sent me.
 
 **John 6:39**
 
-And this is the Father's will which has sent me, that of all which he has given me I should lose nothing, but should raise it up again at the last day.
+And this is the will of the Father who sent me, that of all which he has given me I should lose nothing, but should raise it up again at the last day.
 
 **John 6:40**
 
-And this is the will of him who sent me, that every one which sees the Son, and believes on him, may have everlasting life: and I will raise him up at the last day.
+And this is the will of him who sent me, that every one who sees the Son, and believes on him, may have eternal life: and I will raise him up at the last day.
 
 **John 6:41**
 
@@ -12784,7 +12784,7 @@ Jesus therefore answered and said to them, Murmur not among yourselves.
 
 **John 6:44**
 
-No one can come to me, except the Father which has sent me draw him: and I will raise him up at the last day.
+No one can come to me, except the Father who has sent me draw him: and I will raise him up at the last day.
 
 **John 6:45**
 
@@ -12792,11 +12792,11 @@ It is written in the prophets, And they shall be all taught of God. Every man th
 
 **John 6:46**
 
-Not that anyone has seen the Father, save he which is of God, he has seen the Father.
+Not that anyone has seen the Father, save the one who is of God, he has seen the Father.
 
 **John 6:47**
 
-Amen, amen, I say to you, the one who believes on me has everlasting life.
+Amen, amen, I say to you, the one who believes on me has eternal life.
 
 **John 6:48**
 
@@ -12808,7 +12808,7 @@ Your fathers did eat manna in the wilderness, and are dead.
 
 **John 6:50**
 
-This is the bread which comes down from heaven, that a man may eat thereof, and not die.
+This is the bread which comes down from heaven, that a man may eat of it, and not die.
 
 **John 6:51**
 
@@ -12864,7 +12864,7 @@ It is the spirit that gives life; the flesh profits nothing: the words that I sp
 
 **John 6:64**
 
-But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+But there are some of you that do not believe. For Jesus knew from the beginning who they were that believed not, and who should betray him.
 
 **John 6:65**
 
@@ -12906,7 +12906,7 @@ Now the Jew's feast of tabernacles was at hand.
 
 **John 7:3**
 
-His brothers therefore said to him, Depart behind, and go into Judaea, that your disciples also may see the works that you do.
+His brothers therefore said to him, Depart behind, and go into Judea, that your disciples also may see the works that you do.
 
 **John 7:4**
 
@@ -12922,11 +12922,11 @@ Then Jesus said to them, My time is not yet come: but your time is always ready.
 
 **John 7:7**
 
-The world cannot hate you; but me it hates, because I testify of it, that the works thereof are evil.
+The world cannot hate you; but me it hates, because I testify of it, that the works of it are evil.
 
 **John 7:8**
 
-Go you up to this feast: I go not up yet to this feast: for my time is not yet full come.
+Go you up to this feast: I do not go up yet to this feast: for my time is not yet full come.
 
 **John 7:9**
 
@@ -12990,7 +12990,7 @@ If a man on the Sabbath receive circumcision, that the law of Moses should not b
 
 **John 7:24**
 
-Judge not according to the appearance, but judge righteous judgment.
+do not judge according to the appearance, but judge righteous judgment.
 
 **John 7:25**
 
@@ -13006,7 +13006,7 @@ Nevertheless we know this man whence he is: but when Christ comes, no one knows 
 
 **John 7:28**
 
-Then cried Jesus in the temple as he taught, saying, You both know me, and you know whence I am: and I am not come of myself, but the one who sent me is true, whom you know not.
+Then cried Jesus in the temple as he taught, saying, You both know me, and you know whence I am: and I am not come of myself, but the one who sent me is true, whom you do not know.
 
 **John 7:29**
 
@@ -13090,7 +13090,7 @@ Have any of the rulers or of the Pharisees believed on him?
 
 **John 7:49**
 
-But this people who knows not the law are cursed.
+But this people who does not know the law are cursed.
 
 **John 7:50**
 
@@ -13144,11 +13144,11 @@ And again he stooped down, and wrote on the ground.
 
 **John 8:9**
 
-And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last: and Jesus was left alone, and the woman standing in the midst.
+And those who heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even to the last: and Jesus was left alone, and the woman standing in the midst.
 
 **John 8:10**
 
-When Jesus had lifted up himself, and saw none but the woman, he said to her, Woman, where are those yours accusers? has no one condemned you?
+When Jesus had lifted up himself, and saw none but the woman, he said to her, Woman, where are those your accusers? has no one condemned you?
 
 **John 8:11**
 
@@ -13204,7 +13204,7 @@ And he said to them, You are from beneath; I am from above: you are of this worl
 
 **John 8:24**
 
-I said therefore to you, that you shall die in your sins: for if you believe not that I am he, you shall die in your sins.
+I said therefore to you, that you shall die in your sins: for if you do not believe that I am he, you shall die in your sins.
 
 **John 8:25**
 
@@ -13240,7 +13240,7 @@ And you shall know the truth, and the truth shall make you free.
 
 **John 8:33**
 
-They answered him, We be Abraham's seed, and were never in bondage to anyone: how says you, You shall be made free?
+They answered him, We be Abraham's seed, and were never in bondage to anyone: how do you say, You shall be made free?
 
 **John 8:34**
 
@@ -13308,7 +13308,7 @@ Jesus answered, I have not a demon; but I honour my Father, and you do dishonour
 
 **John 8:50**
 
-And I seek not mine own glory: there is one that seeks and judges.
+And I seek not my own glory: there is one that seeks and judges.
 
 **John 8:51**
 
@@ -13350,7 +13350,7 @@ Then took they up stones to cast at him: but Jesus hid himself, and went out of 
 
 **John 9:1**
 
-And as Jesus passed by, he saw a man which was blind from his birth.
+And as Jesus passed by, he saw a man who was blind from his birth.
 
 **John 9:2**
 
@@ -13378,7 +13378,7 @@ And said to him, Go, wash in the pool of Siloam, (which is by interpretation, Se
 
 **John 9:8**
 
-The neighbours therefore, and they which before had seen him who he was blind, said, Is not this the one who sat and begged?
+The neighbours therefore, and those who before had seen him who he was blind, said, Is not this the one who sat and begged?
 
 **John 9:9**
 
@@ -13386,7 +13386,7 @@ Some said, This is he: others said, He is like him: but he said, I am he.
 
 **John 9:10**
 
-Therefore said they to him, How were yours eyes opened?
+Therefore said they to him, How were your eyes opened?
 
 **John 9:11**
 
@@ -13394,7 +13394,7 @@ He answered and said, A man that is called Jesus made clay, and anointed mine ey
 
 **John 9:12**
 
-Then said they to him, Where is he? He said, I know not.
+Then said they to him, Where is he? He said, I do not know.
 
 **John 9:13**
 
@@ -13414,7 +13414,7 @@ Therefore said some of the Pharisees, This man is not of God, because he keeps n
 
 **John 9:17**
 
-They say to the blind man again, What says you of him, that he has opened yours eyes? He said, He is a prophet.
+They say to the blind man again, What says you of him, that he has opened your eyes? He said, He is a prophet.
 
 **John 9:18**
 
@@ -13430,7 +13430,7 @@ His parents answered them and said, We know that this is our son, and that he wa
 
 **John 9:21**
 
-But by what means he now sees, we know not; or who has opened his eyes, we know not: he is of age; ask him: he shall speak for himself.
+But by what means he now sees, we do not know; or who has opened his eyes, we do not know: he is of age; ask him: he shall speak for himself.
 
 **John 9:22**
 
@@ -13446,11 +13446,11 @@ Then again called they the man that was blind, and said to him, Give God the pra
 
 **John 9:25**
 
-He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
+He answered and said, Whether he be a sinner or no, I do not know: one thing I know, that, whereas I was blind, now I see.
 
 **John 9:26**
 
-Then said they to him again, What did he to you? how opened he yours eyes?
+Then said they to him again, What did he to you? how opened he your eyes?
 
 **John 9:27**
 
@@ -13462,11 +13462,11 @@ Then they reviled him, and said, You are his disciple; but we are Moses' discipl
 
 **John 9:29**
 
-We know that God spoke to Moses: as for this fellow, we know not from whence he is.
+We know that God spoke to Moses: as for this fellow, we do not know from whence he is.
 
 **John 9:30**
 
-The man answered and said to them, Why herein is a marvellous thing, that you know not from whence he is, and yet he has opened mine eyes.
+The man answered and said to them, Why herein is a marvellous thing, that you do not know from whence he is, and yet he has opened mine eyes.
 
 **John 9:31**
 
@@ -13502,11 +13502,11 @@ And he said, Lord, I believe. And he worshipped him.
 
 **John 9:39**
 
-And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+And Jesus said, For judgment I am come into this world, that those who see not might see; and that those who see might be made blind.
 
 **John 9:40**
 
-And some of the Pharisees which were with him heard these words, and said to him, Are we blind also?
+And some of the Pharisees who were with him heard these words, and said to him, Are we blind also?
 
 **John 9:41**
 
@@ -13532,7 +13532,7 @@ And when he puts forth his own sheep, he goes before them, and the sheep follow 
 
 **John 10:5**
 
-And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
+And a stranger will they not follow, but will flee from him: for they do not know the voice of strangers.
 
 **John 10:6**
 
@@ -13616,7 +13616,7 @@ Jesus answered them, I told you, and you believed not: the works that I do in my
 
 **John 10:26**
 
-But you believe not, because you are not of my sheep, as I said to you.
+But you do not believe, because you are not of my sheep, as I said to you.
 
 **John 10:27**
 
@@ -13628,7 +13628,7 @@ And I give to them eternal life; and they shall never perish, neither shall anyo
 
 **John 10:29**
 
-My Father, which gave them me, is greater than all; and no one is able to pluck them out of my Father's hand.
+My Father, who gave them me, is greater than all; and no one is able to pluck them out of my Father's hand.
 
 **John 10:30**
 
@@ -13664,7 +13664,7 @@ If I do not the works of my Father, believe me not.
 
 **John 10:38**
 
-But if I do, though you believe not me, believe the works: that you may know, and believe, that the Father is in me, and I in him.
+But if I do, though you do not believe me, believe the works: that you may know, and believe, that the Father is in me, and I in him.
 
 **John 10:39**
 
@@ -13698,7 +13698,7 @@ Therefore his sisters sent to him, saying, Lord, look, he whom you love is sick.
 
 **John 11:4**
 
-When Jesus heard that, he said, This sickness is not to death, but for the glory of God, that the Son of God might be glorified thereby.
+When Jesus heard that, he said, This sickness is not to death, but for the glory of God, that the Son of God might be glorified by it.
 
 **John 11:5**
 
@@ -13710,7 +13710,7 @@ When he had heard therefore that he was sick, he abode two days still in the sam
 
 **John 11:7**
 
-Then after that says he to his disciples, Let us go into Judaea again.
+Then after that says he to his disciples, Let us go into Judea again.
 
 **John 11:8**
 
@@ -13790,7 +13790,7 @@ And whoever lives and believes in me shall never die. Believe you this?
 
 **John 11:27**
 
-She says to him, Yes, Lord: I believe that you are the Christ, the Son of God, which should come into the world.
+She says to him, Yes, Lord: I believe that you are the Christ, the Son of God, who should come into the world.
 
 **John 11:28**
 
@@ -13830,7 +13830,7 @@ Then said the Jews, Look how he loved him!
 
 **John 11:37**
 
-And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
+And some of them said, Could not this man, who opened the eyes of the blind, have caused that even this man should not have died?
 
 **John 11:38**
 
@@ -13850,7 +13850,7 @@ Then they took away the stone from the place where the dead was laid. And Jesus 
 
 **John 11:42**
 
-And I knew that you hear me always: but because of the people which stand by I said it, that they may believe that you have sent me.
+And I knew that you hear me always: but because of the people who stand by I said it, that they may believe that you have sent me.
 
 **John 11:43**
 
@@ -13928,7 +13928,7 @@ Then took Mary a pound of ointment of spikenard, very costly, and anointed the f
 
 **John 12:4**
 
-Then says one of his disciples, Judas Iscariot, Simon's son, which should betray him,
+Then says one of his disciples, Judas Iscariot, Simon's son, who should betray him,
 
 **John 12:5**
 
@@ -13936,7 +13936,7 @@ Why was not this ointment sold for three hundred pence, and given to the poor?
 
 **John 12:6**
 
-This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
+This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put in it.
 
 **John 12:7**
 
@@ -14048,11 +14048,11 @@ This he said, signifying what death he should die.
 
 **John 12:34**
 
-The people answered him, We have heard out of the law that Christ abides for ever: and how says you, The Son of man must be lifted up? who is this Son of man?
+The people answered him, We have heard out of the law that Christ abides for ever: and how do you say, The Son of man must be lifted up? who is this Son of man?
 
 **John 12:35**
 
-Then Jesus said to them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for the one who walks in darkness knows not where he goes.
+Then Jesus said to them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for the one who walks in darkness does not know where he goes.
 
 **John 12:36**
 
@@ -14088,7 +14088,7 @@ For they loved the praise of men more than the praise of God.
 
 **John 12:44**
 
-Jesus cried and said, the one who believes on me, believes not on me, but on him who sent me.
+Jesus cried and said, the one who believes on me, does not believe on me, but on him who sent me.
 
 **John 12:45**
 
@@ -14100,7 +14100,7 @@ I am come a light into the world, that whoever believes on me should not abide i
 
 **John 12:47**
 
-And if anyone hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
+And if anyone hear my words, and do not believe, I judge him not: for I came not to judge the world, but to save the world.
 
 **John 12:48**
 
@@ -14108,11 +14108,11 @@ the one who rejects me, and receives not my words, has one that judges him: the 
 
 **John 12:49**
 
-For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
+For I have not spoken of myself; but the Father who sent me, he gave me a commandment, what I should say, and what I should speak.
 
 **John 12:50**
 
-And I know that his commandment is life everlasting: whatever I speak therefore, even as the Father said to me, so I speak.
+And I know that his commandment is life eternal: whatever I speak therefore, even as the Father said to me, so I speak.
 
 ### Chapter 13
 
@@ -14134,7 +14134,7 @@ He rises from supper, and laid aside his clothes; and took a towel, and girded h
 
 **John 13:5**
 
-After that he pours water into a basin, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded.
+After that he pours water into a basin, and began to wash the disciples' feet, and to wipe them with the towel with which he was girded.
 
 **John 13:6**
 
@@ -14142,7 +14142,7 @@ Then comes he to Simon Peter: and Peter says to him, Lord, do you wash my feet?
 
 **John 13:7**
 
-Jesus answered and said to him, What I do you know not now; but you shall know hereafter.
+Jesus answered and said to him, What I do you do not know now; but you shall know hereafter.
 
 **John 13:8**
 
@@ -14288,7 +14288,7 @@ And where I go you know, and the way you know.
 
 **John 14:5**
 
-Thomas says to him, Lord, we know not where you go; and how can we know the way?
+Thomas says to him, Lord, we do not know where you go; and how can we know the way?
 
 **John 14:6**
 
@@ -14304,7 +14304,7 @@ Philip says to him, Lord, show us the Father, and it satisfies us.
 
 **John 14:9**
 
-Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? the one who has seen me has seen the Father; and how says you then, Show us the Father?
+Jesus says to him, Have I been so long time with you, and yet have you not known me, Philip? the one who has seen me has seen the Father; and how do you say then, Show us the Father?
 
 **John 14:10**
 
@@ -14454,7 +14454,7 @@ You are my friends, if you do whatever I command you.
 
 **John 15:15**
 
-From now on I call you not slaves; for the slave knows not what his Lord does: but I have called you friends; for all things that I have heard of my Father I have made known to you.
+From now on I call you not slaves; for the slave does not know what his Lord does: but I have called you friends; for all things that I have heard of my Father I have made known to you.
 
 **John 15:16**
 
@@ -14474,11 +14474,11 @@ If you were of the world, the world would love his own: but because you are not 
 
 **John 15:20**
 
-Remember the word that I said to you, The slave is not greater than his Lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+Remember the word that I said to you, The slave is not greater than his Lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep your also.
 
 **John 15:21**
 
-But all these things will they do to you for my name's sake, because they know not him who sent me.
+But all these things will they do to you for my name's sake, because they do not know him who sent me.
 
 **John 15:22**
 
@@ -14532,7 +14532,7 @@ But because I have said these things to you, sorrow has filled your heart.
 
 **John 16:7**
 
-Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you.
+Nevertheless I tell you the truth; It is expedient for you that I go away: for if I do not go away, the Comforter will not come to you; but if I depart, I will send him to you.
 
 **John 16:8**
 
@@ -14540,7 +14540,7 @@ And when he has come, he will reprove the world of sin, and of righteousness, an
 
 **John 16:9**
 
-Of sin, because they believe not on me;
+Of sin, because they do not believe on me;
 
 **John 16:10**
 
@@ -14658,11 +14658,11 @@ I have glorified you on the earth: I have finished the work which you gave me to
 
 **John 17:5**
 
-And now, O Father, glorify you me with yours own self with the glory which I had with you before the world was.
+And now, O Father, glorify you me with your own self with the glory which I had with you before the world was.
 
 **John 17:6**
 
-I have manifested your name to the men which you gave me out of the world: yours they were, and you gave them me; and they have kept your word.
+I have manifested your name to the men who you gave me out of the world: your they were, and you gave them me; and they have kept your word.
 
 **John 17:7**
 
@@ -14674,19 +14674,19 @@ For I have given to them the words which you gave me; and they have received the
 
 **John 17:9**
 
-I pray for them: I pray not for the world, but for them which you have given me; for they are yours.
+I pray for them: I pray not for the world, but for those who you have given me; for they are yours.
 
 **John 17:10**
 
-And all mine are yours, and yours are mine; and I am glorified in them.
+And all mine are yours, and your are mine; and I am glorified in them.
 
 **John 17:11**
 
-And now I am no more in the world, but these are in the world, and I come to you. Holy Father, keep through yours own name those whom you have given me, that they may be one, as we are.
+And now I am no more in the world, but these are in the world, and I come to you. Holy Father, keep through your own name those whom you have given me, that they may be one, as we are.
 
 **John 17:12**
 
-While I was with them in the world, I kept them in your name: those that you gave me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+While I was with them in the world, I kept them in your name: those that you gave me I have kept, and none of them is lost, but the son of destruction; that the scripture might be fulfilled.
 
 **John 17:13**
 
@@ -14742,7 +14742,7 @@ O righteous Father, the world has not known you: but I have known you, and these
 
 **John 17:26**
 
-And I have declared to them your name, and will declare it: that the love wherewith you have loved me may be in them, and I in them.
+And I have declared to them your name, and will declare it: that the love with which you have loved me may be in them, and I in them.
 
 ### Chapter 18
 
@@ -14780,7 +14780,7 @@ Jesus answered, I have told you that I am he: if therefore you seek me, let thes
 
 **John 18:9**
 
-That the saying might be fulfilled, which he spoke, Of them which you gave me have I lost none.
+That the saying might be fulfilled, which he spoke, Of those who you gave me have I lost none.
 
 **John 18:10**
 
@@ -14808,7 +14808,7 @@ And Simon Peter followed Jesus, and so did another disciple: that disciple was k
 
 **John 18:16**
 
-But Peter stood at the door without. Then went out that other disciple, which was known to the high priest, and spoke to her that kept the door, and brought in Peter.
+But Peter stood at the door without. Then went out that other disciple, who was known to the high priest, and spoke to her that kept the door, and brought in Peter.
 
 **John 18:17**
 
@@ -14828,7 +14828,7 @@ Jesus answered him, I spoke openly to the world; I ever taught in the synagogue,
 
 **John 18:21**
 
-Why ask you me? ask them which heard me, what I have said to them: look, they know what I said.
+Why ask you me? ask those who heard me, what I have said to them: look, they know what I said.
 
 **John 18:22**
 
@@ -14884,11 +14884,11 @@ Jesus answered him, Says you this thing of yourself, or did others tell it you o
 
 **John 18:35**
 
-Pilate answered, Am I a Jew? Yours own nation and the chief priests have delivered you to me: what have you done?
+Pilate answered, Am I a Jew? your own nation and the chief priests have delivered you to me: what have you done?
 
 **John 18:36**
 
-Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from behind.
+Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from here.
 
 **John 18:37**
 
@@ -15070,7 +15070,7 @@ Then took they the body of Jesus, and wound it in linen clothes with the spices,
 
 **John 19:41**
 
-Now in the place where he was crucified there was a garden; and in the garden a new tomb, wherein was never man yet laid.
+Now in the place where he was crucified there was a garden; and in the garden a new tomb, in which was never man yet laid.
 
 **John 19:42**
 
@@ -15084,7 +15084,7 @@ The first day of the week comes Mary Magdalene early, when it was yet dark, to t
 
 **John 20:2**
 
-Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them, They have taken away the Lord out of the tomb, and we know not where they have laid him.
+Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them, They have taken away the Lord out of the tomb, and we do not know where they have laid him.
 
 **John 20:3**
 
@@ -15108,11 +15108,11 @@ And the cloth, that was about his head, not lying with the linen clothes, but wr
 
 **John 20:8**
 
-Then went in also that other disciple, which came first to the tomb, and he saw, and believed.
+Then went in also that other disciple, who came first to the tomb, and he saw, and believed.
 
 **John 20:9**
 
-For as yet they knew not the scripture, that he must rise again from the dead.
+For as yet they did not know the scripture, that he must rise again from the dead.
 
 **John 20:10**
 
@@ -15128,11 +15128,11 @@ And sees two angels in white sitting, the one at the head, and the other at the 
 
 **John 20:13**
 
-And they say to her, Woman, why weep you? She says to them, Because they have taken away my Lord, and I know not where they have laid him.
+And they say to her, Woman, why weep you? She says to them, Because they have taken away my Lord, and I do not know where they have laid him.
 
 **John 20:14**
 
-And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
+And when she had thus said, she turned herself back, and saw Jesus standing, and did not know that it was Jesus.
 
 **John 20:15**
 
@@ -15196,7 +15196,7 @@ Jesus says to him, Thomas, because you have seen me, you have believed: blessed 
 
 **John 20:30**
 
-And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+And many other signs truly did Jesus in the presence of his disciples, who are not written in this book:
 
 **John 20:31**
 
@@ -15218,7 +15218,7 @@ Simon Peter says to them, I go a fishing. They say to him, We also go with you. 
 
 **John 21:4**
 
-But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
+But when the morning was now come, Jesus stood on the shore: but the disciples did not know that it was Jesus.
 
 **John 21:5**
 
@@ -15282,7 +15282,7 @@ This spoke he, signifying by what death he should glorify God. And when he had s
 
 **John 21:20**
 
-Then Peter, turning about, sees the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is the one who betrays you?
+Then Peter, turning about, sees the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, who is the one who betrays you?
 
 **John 21:21**
 
@@ -15298,7 +15298,7 @@ Then went this saying abroad among the brothers, that that disciple should not d
 
 **John 21:24**
 
-This is the disciple which testifies of these things, and wrote these things: and we know that his testimony is true.
+This is the disciple who testifies of these things, and wrote these things: and we know that his testimony is true.
 
 **John 21:25**
 
@@ -15322,7 +15322,7 @@ To whom also he showed himself alive after his passion by many infallible proofs
 
 **Acts 1:4**
 
-And, being assembled together with them, commanded those who they should not depart from Jerusalem, but wait for the promise of the Father, which, says he, you have heard of me.
+And, being assembled together with them, commanded those who they should not depart from Jerusalem, but wait for the promise of the Father, who, says he, you have heard of me.
 
 **Acts 1:5**
 
@@ -15338,7 +15338,7 @@ And he said to them, It is not for you to know the times or the seasons, which t
 
 **Acts 1:8**
 
-But you shall receive power, after that the Holy Spirit has come upon you: and you shall be witnesses to me both in Jerusalem, and in all Judaea, and in Samaria, and to the uttermost part of the earth.
+But you shall receive power, after that the Holy Spirit has come upon you: and you shall be witnesses to me both in Jerusalem, and in all Judea, and in Samaria, and to the uttermost part of the earth.
 
 **Acts 1:9**
 
@@ -15350,7 +15350,7 @@ And while they looked steadfastly toward heaven as he went up, look, two men sto
 
 **Acts 1:11**
 
-Which also said, You men of Galilee, why stand you gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come likewise as you have seen him go into heaven.
+Which also said, You men of Galilee, why stand you gazing up into heaven? this same Jesus, who is taken up from you into heaven, shall so come likewise as you have seen him go into heaven.
 
 **Acts 1:12**
 
@@ -15378,7 +15378,7 @@ For he was numbered with us, and had obtained part of this ministry.
 
 **Acts 1:18**
 
-Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his inward parts gushed out.
 
 **Acts 1:19**
 
@@ -15386,11 +15386,11 @@ And it was known to all the dwellers at Jerusalem; insomuch as that field is cal
 
 **Acts 1:20**
 
-For it is written in the book of Psalms, Let his habitation be desolate, and let no one dwell therein: and his oversight let another take.
+For it is written in the book of Psalms, Let his habitation be desolate, and let no one dwell in it: and his oversight let another take.
 
 **Acts 1:21**
 
-Therefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
+Therefore of these men who have companied with us all the time that the Lord Jesus went in and out among us,
 
 **Acts 1:22**
 
@@ -15402,7 +15402,7 @@ And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Mat
 
 **Acts 1:24**
 
-And they prayed, and said, You, Lord, which know the hearts of all men, show whether of these two you have chosen,
+And they prayed, and said, You, Lord, who know the hearts of all men, show whether of these two you have chosen,
 
 **Acts 1:25**
 
@@ -15444,11 +15444,11 @@ And they were all amazed and marvelled, saying one to another, Look, are not all
 
 **Acts 2:8**
 
-And how hear we every man in our own tongue, wherein we were born?
+And how hear we every man in our own tongue, in which we were born?
 
 **Acts 2:9**
 
-Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
+Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judea, and Cappadocia, in Pontus, and Asia,
 
 **Acts 2:10**
 
@@ -15468,7 +15468,7 @@ Others mocking said, These men are full of new wine.
 
 **Acts 2:14**
 
-But Peter, standing up with the eleven, lifted up his voice, and said to them, You men of Judaea, and all you that dwell at Jerusalem, be this known to you, and hearken to my words:
+But Peter, standing up with the eleven, lifted up his voice, and said to them, You men of Judea, and all you that dwell at Jerusalem, be this known to you, and hearken to my words:
 
 **Acts 2:15**
 
@@ -15520,7 +15520,7 @@ Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh s
 
 **Acts 2:27**
 
-Because you will not leave my soul in Hades, neither will you suffer yours Holy One to see corruption.
+Because you will not leave my soul in Hades, neither will you suffer your Holy One to see corruption.
 
 **Acts 2:28**
 
@@ -15540,7 +15540,7 @@ He seeing this before spoke of the resurrection of Christ, that his soul was not
 
 **Acts 2:32**
 
-This Jesus has God raised up, whereof we all are witnesses.
+This Jesus has God raised up, of which we all are witnesses.
 
 **Acts 2:33**
 
@@ -15642,11 +15642,11 @@ And all the people saw him walking and praising God:
 
 **Acts 3:10**
 
-And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him.
+And they knew that it was the one who sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened to him.
 
 **Acts 3:11**
 
-And as the lame man which was healed held Peter and John, all the people ran together to them in the porch that is called Solomon's, greatly wondering.
+And as the lame man who was healed held Peter and John, all the people ran together to them in the porch that is called Solomon's, greatly wondering.
 
 **Acts 3:12**
 
@@ -15662,7 +15662,7 @@ But you denied the Holy One and the Just, and desired a murderer to be granted t
 
 **Acts 3:15**
 
-And killed the Prince of life, whom God has raised from the dead; whereof we are witnesses.
+And killed the Prince of life, whom God has raised from the dead; of which we are witnesses.
 
 **Acts 3:16**
 
@@ -15682,7 +15682,7 @@ Repent you therefore, and be converted, that your sins may be blotted out, when 
 
 **Acts 3:20**
 
-And he shall send Jesus Christ, which before was preached to you:
+And he shall send Jesus Christ, who before was preached to you:
 
 **Acts 3:21**
 
@@ -15724,7 +15724,7 @@ And they laid hands on them, and put them in hold to the next day: for it was no
 
 **Acts 4:4**
 
-Nevertheless many of them which heard the word believed; and the number of the men was about five thousand.
+Nevertheless many of those who heard the word believed; and the number of the men was about five thousand.
 
 **Acts 4:5**
 
@@ -15756,7 +15756,7 @@ This is the stone which was set at nothing of you builders, which is become the 
 
 **Acts 4:12**
 
-Neither is there salvation in any other: for there is no other name under heaven given among men, whereby we must be saved.
+Neither is there salvation in any other: for there is no other name under heaven given among men, by which we must be saved.
 
 **Acts 4:13**
 
@@ -15764,7 +15764,7 @@ Now when they saw the boldness of Peter and John, and perceived that they were u
 
 **Acts 4:14**
 
-And beholding the man which was healed standing with them, they could say nothing against it.
+And beholding the man who was healed standing with them, they could say nothing against it.
 
 **Acts 4:15**
 
@@ -15804,11 +15804,11 @@ And being let go, they went to their own company, and reported all that the chie
 
 **Acts 4:24**
 
-And when they heard that, they lifted up their voice to God with one accord, and said, Lord, you are God, which have made heaven, and earth, and the sea, and all that in them is:
+And when they heard that, they lifted up their voice to God with one accord, and said, Lord, you are God, who have made heaven, and earth, and the sea, and all that in them is:
 
 **Acts 4:25**
 
-Who by the mouth of your servant David have said, Why did the heathen rage, and the people imagine vain things?
+Who by the mouth of your servant David have said, Why did the nations rage, and the people imagine vain things?
 
 **Acts 4:26**
 
@@ -15816,7 +15816,7 @@ The kings of the earth stood up, and the rulers were gathered together against t
 
 **Acts 4:27**
 
-For truthfully against your holy child Jesus, whom you have anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,
+For truthfully against your holy child Jesus, whom you have anointed, both Herod, and Pontius Pilate, with the nations, and the people of Israel, were gathered together,
 
 **Acts 4:28**
 
@@ -15828,7 +15828,7 @@ And now, Lord, look their threatenings: and grant to your slaves, that with all 
 
 **Acts 4:30**
 
-By stretching forth yours hand to heal; and that signs and wonders may be done by the name of your holy child Jesus.
+By stretching forth your hand to heal; and that signs and wonders may be done by the name of your holy child Jesus.
 
 **Acts 4:31**
 
@@ -15870,11 +15870,11 @@ And kept back part of the price, his wife also being privy to it, and brought a 
 
 **Acts 5:3**
 
-But Peter said, Ananias, why has Satan filled yours heart to lie to the Holy Spirit, and to keep back part of the price of the land?
+But Peter said, Ananias, why has Satan filled your heart to lie to the Holy Spirit, and to keep back part of the price of the land?
 
 **Acts 5:4**
 
-While it remained, was it not yours own? and after it was sold, was it not in yours own power? why have you conceived this thing in yours heart? you have not lied to men, but to God.
+While it remained, was it not your own? and after it was sold, was it not in your own power? why have you conceived this thing in your heart? you have not lied to men, but to God.
 
 **Acts 5:5**
 
@@ -15894,7 +15894,7 @@ And Peter answered to her, Tell me whether you sold the land for so much? And sh
 
 **Acts 5:9**
 
-Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? look, the feet of them which have buried your husband are at the door, and shall carry you out.
+Then Peter said to her, How is it that you have agreed together to tempt the Spirit of the Lord? look, the feet of those who have buried your husband are at the door, and shall carry you out.
 
 **Acts 5:10**
 
@@ -15906,7 +15906,7 @@ And great fear came upon all the assembly, and upon as many as heard these thing
 
 **Acts 5:12**
 
-And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch.
+And by the hands of the apostles were many signs and wonders worked among the people; (and they were all with one accord in Solomon's porch.
 
 **Acts 5:13**
 
@@ -15922,7 +15922,7 @@ Insomuch that they bore the sick into the streets, and laid them on beds and cou
 
 **Acts 5:16**
 
-There came also a crowd out of the cities round about to Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
+There came also a crowd out of the cities round about to Jerusalem, bringing sick folks, and those who were vexed with unclean spirits: and they were healed every one.
 
 **Acts 5:17**
 
@@ -16072,7 +16072,7 @@ And they were not able to resist the wisdom and the spirit by which he spoke.
 
 **Acts 6:11**
 
-Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
+Then they suborned men, who said, We have heard him speak blasphemous words against Moses, and against God.
 
 **Acts 6:12**
 
@@ -16106,7 +16106,7 @@ And said to him, Get you out of your country, and from your kindred, and come in
 
 **Acts 7:4**
 
-Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from there, when his father was dead, he removed him into this land, wherein you now dwell.
+Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from there, when his father was dead, he removed him into this land, in which you now dwell.
 
 **Acts 7:5**
 
@@ -16162,7 +16162,7 @@ But when the time of the promise drew near, which God had sworn to Abraham, the 
 
 **Acts 7:18**
 
-Till another king arose, which knew not Joseph.
+Till another king arose, which did not know Joseph.
 
 **Acts 7:19**
 
@@ -16226,11 +16226,11 @@ Then said the Lord to him, Put off your shoes from your feet: for the place wher
 
 **Acts 7:34**
 
-I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send you into Egypt.
+I have seen, I have seen the affliction of my people who is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send you into Egypt.
 
 **Acts 7:35**
 
-This Moses whom they refused, saying, Who made you a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
+This Moses whom they refused, saying, Who made you a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel who appeared to him in the bush.
 
 **Acts 7:36**
 
@@ -16242,7 +16242,7 @@ This is that Moses, which said to the children of Israel, A prophet shall the Lo
 
 **Acts 7:38**
 
-This is he, that was in the assembly in the wilderness with the angel which spoke to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
+This is he, that was in the assembly in the wilderness with the angel who spoke to him in the mount Sina, and with our fathers: who received the lively oracles to give to us:
 
 **Acts 7:39**
 
@@ -16250,7 +16250,7 @@ To whom our fathers would not obey, but thrust him from them, and in their heart
 
 **Acts 7:40**
 
-Saying to Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we know not what is become of him.
+Saying to Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we do not know what is become of him.
 
 **Acts 7:41**
 
@@ -16270,7 +16270,7 @@ Our fathers had the tabernacle of witness in the wilderness, as he had appointed
 
 **Acts 7:45**
 
-Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drove out before the face of our fathers, to the days of David;
+Which also our fathers that came after brought in with Jesus into the possession of the nations, whom God drove out before the face of our fathers, to the days of David;
 
 **Acts 7:46**
 
@@ -16298,7 +16298,7 @@ You stubborn and uncircumcised in heart and ears, you do always resist the Holy 
 
 **Acts 7:52**
 
-Which of the prophets have not your fathers persecuted? and they have killed them which showed before of the coming of the Just One; of whom you have been now the betrayers and murderers:
+Which of the prophets have not your fathers persecuted? and they have killed those who showed before of the coming of the Just One; of whom you have been now the betrayers and murderers:
 
 **Acts 7:53**
 
@@ -16336,7 +16336,7 @@ And he kneeled down, and cried with a loud voice, Lord, lay not this sin to thei
 
 **Acts 8:1**
 
-And Saul was consenting to his death. And at that time there was a great persecution against the assembly which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
+And Saul was consenting to his death. And at that time there was a great persecution against the assembly which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the apostles.
 
 **Acts 8:2**
 
@@ -16420,7 +16420,7 @@ You have neither part nor lot in this matter: for your heart is not right in the
 
 **Acts 8:22**
 
-Repent therefore of this your wickedness, and pray God, if perhaps the thought of yours heart may be forgiven you.
+Repent therefore of this your wickedness, and pray God, if perhaps the thought of your heart may be forgiven you.
 
 **Acts 8:23**
 
@@ -16460,7 +16460,7 @@ And he said, How can I, except some man should guide me? And he desired Philip t
 
 **Acts 8:32**
 
-The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:
+The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb voiceless before his shearer, so opened he not his mouth:
 
 **Acts 8:33**
 
@@ -16480,7 +16480,7 @@ And as they went on their way, they came to a certain water: and the eunuch said
 
 **Acts 8:37**
 
-And Philip said, If you believe with all yours heart, you may. And he answered and said, I believe that Jesus Christ is the Son of God.
+And Philip said, If you believe with all your heart, you may. And he answered and said, I believe that Jesus Christ is the Son of God.
 
 **Acts 8:38**
 
@@ -16522,7 +16522,7 @@ And he trembling and astonished said, Lord, what will you have me to do? And the
 
 **Acts 9:7**
 
-And the men which journeyed with him stood speechless, hearing a voice, but seeing no one.
+And the men who journeyed with him stood speechless, hearing a voice, but seeing no one.
 
 **Acts 9:8**
 
@@ -16554,7 +16554,7 @@ And here he has authority from the chief priests to bind all that call on your n
 
 **Acts 9:15**
 
-But the Lord said to him, Go your way: for he is a chosen vessel to me, to bear my name before the Gentiles, and kings, and the children of Israel:
+But the Lord said to him, Go your way: for he is a chosen vessel to me, to bear my name before the nations, and kings, and the children of Israel:
 
 **Acts 9:16**
 
@@ -16570,7 +16570,7 @@ And immediately there fell from his eyes as it had been scales: and he received 
 
 **Acts 9:19**
 
-And when he had received food, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.
+And when he had received food, he was strengthened. Then was Saul certain days with the disciples who were at Damascus.
 
 **Acts 9:20**
 
@@ -16578,7 +16578,7 @@ And immediately he preached Christ in the synagogues, that he is the Son of God.
 
 **Acts 9:21**
 
-But all that heard him were amazed, and said; Is not this the one who destroyed them which called on this name in Jerusalem, and came here for that intent, that he might bring them bound to the chief priests?
+But all that heard him were amazed, and said; Is not this the one who destroyed those who called on this name in Jerusalem, and came here for that intent, that he might bring them bound to the chief priests?
 
 **Acts 9:22**
 
@@ -16618,7 +16618,7 @@ Which when the brothers knew, they brought him down to Caesarea, and sent him fo
 
 **Acts 9:31**
 
-Then had the assemblies rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied.
+Then had the assemblies rest throughout all Judea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Spirit, were multiplied.
 
 **Acts 9:32**
 
@@ -16684,7 +16684,7 @@ He saw in a vision evidently about the ninth hour of the day an angel of God com
 
 **Acts 10:4**
 
-And when he looked on him, he was afraid, and said, What is it, Lord? And he said to him, Your prayers and yours alms have come up for a memorial before God.
+And when he looked on him, he was afraid, and said, What is it, Lord? And he said to him, Your prayers and your alms have come up for a memorial before God.
 
 **Acts 10:5**
 
@@ -16696,7 +16696,7 @@ He lodges with one Simon a tanner, whose house is by the sea side: he shall tell
 
 **Acts 10:7**
 
-And when the angel which spoke to Cornelius was departed, he called two of his household servants, and a devout soldier of those who waited on him continually;
+And when the angel who spoke to Cornelius was departed, he called two of his household servants, and a devout soldier of those who waited on him continually;
 
 **Acts 10:8**
 
@@ -16716,7 +16716,7 @@ And saw heaven opened, and a certain vessel descending upon him, as it had been 
 
 **Acts 10:12**
 
-Wherein were all manner of four-footed beasts of the earth, and wild beasts, and creeping things, and birds of the air.
+in which were all manner of four-footed beasts of the earth, and wild beasts, and creeping things, and birds of the air.
 
 **Acts 10:13**
 
@@ -16736,7 +16736,7 @@ This was done three times: and the vessel was received up again into heaven.
 
 **Acts 10:17**
 
-Now while Peter doubted in himself what this vision which he had seen should mean, look, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
+Now while Peter doubted in himself what this vision which he had seen should mean, look, the men who were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
 
 **Acts 10:18**
 
@@ -16752,7 +16752,7 @@ Arise therefore, and get you down, and go with them, doubting nothing: for I hav
 
 **Acts 10:21**
 
-Then Peter went down to the men which were sent to him from Cornelius; and said, Look, I am he whom you seek: what is the cause therefore you have come?
+Then Peter went down to the men who were sent to him from Cornelius; and said, Look, I am he whom you seek: what is the cause therefore you have come?
 
 **Acts 10:22**
 
@@ -16792,7 +16792,7 @@ And Cornelius said, Four days ago I was fasting until this hour; and at the nint
 
 **Acts 10:31**
 
-And said, Cornelius, your prayer is heard, and yours alms are had in remembrance in the sight of God.
+And said, Cornelius, your prayer is heard, and your alms are had in remembrance in the sight of God.
 
 **Acts 10:32**
 
@@ -16816,7 +16816,7 @@ The word which God sent to the children of Israel, preaching peace by Jesus Chri
 
 **Acts 10:37**
 
-That word, I say, you know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;
+That word, I say, you know, which was published throughout all Judea, and began from Galilee, after the baptism which John preached;
 
 **Acts 10:38**
 
@@ -16836,7 +16836,7 @@ Not to all the people, but to witnesses chosen before God, even to us, who did e
 
 **Acts 10:42**
 
-And he commanded us to preach to the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.
+And he commanded us to preach to the people, and to testify that it is the one who was ordained of God to be the Judge of living and dead.
 
 **Acts 10:43**
 
@@ -16844,11 +16844,11 @@ To him give all the prophets witness, that through his name whoever believes in 
 
 **Acts 10:44**
 
-While Peter yet spoke these words, the Holy Spirit fell on all them which heard the word.
+While Peter yet spoke these words, the Holy Spirit fell on all those who heard the word.
 
 **Acts 10:45**
 
-And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit.
+And they of the circumcision which believed were astonished, as many as came with Peter, because that on the nations also was poured out the gift of the Holy Spirit.
 
 **Acts 10:46**
 
@@ -16856,7 +16856,7 @@ For they heard them speak with tongues, and magnify God. Then answered Peter,
 
 **Acts 10:47**
 
-Can anyone forbid water, that these should not be baptized, which have received the Holy Spirit as well as we?
+Can anyone forbid water, that these should not be baptized, who have received the Holy Spirit as well as we?
 
 **Acts 10:48**
 
@@ -16866,7 +16866,7 @@ And he commanded them to be baptized in the name of the Lord. Then prayed they h
 
 **Acts 11:1**
 
-And the apostles and brothers that were in Judaea heard that the Gentiles had also received the word of God.
+And the apostles and brothers that were in Judea heard that the nations had also received the word of God.
 
 **Acts 11:2**
 
@@ -16918,7 +16918,7 @@ And he showed us how he had seen an angel in his house, which stood and said to 
 
 **Acts 11:14**
 
-Who shall tell you words, whereby you and all your house shall be saved.
+Who shall tell you words, by which you and all your house shall be saved.
 
 **Acts 11:15**
 
@@ -16934,11 +16934,11 @@ Since then as God gave them the like gift as he did to us, who believed on the L
 
 **Acts 11:18**
 
-When they heard these things, they held their peace, and glorified God, saying, Then has God also to the Gentiles granted repentance to life.
+When they heard these things, they were silent, and glorified God, saying, Then has God also to the nations granted repentance to life.
 
 **Acts 11:19**
 
-Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but to the Jews only.
+Now those who were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but to the Jews only.
 
 **Acts 11:20**
 
@@ -16978,7 +16978,7 @@ And there stood up one of them named Agabus, and signified by the Spirit that th
 
 **Acts 11:29**
 
-Then the disciples, every man according to his ability, determined to send relief to the brothers which dwelt in Judaea:
+Then the disciples, every man according to his ability, determined to send relief to the brothers which dwelt in Judea:
 
 **Acts 11:30**
 
@@ -17020,7 +17020,7 @@ And the angel said to him, Gird yourself, and bind on your sandals. And so he di
 
 **Acts 12:9**
 
-And he went out, and followed him; and know not that it was true which was done by the angel; but thought he saw a vision.
+And he went out, and followed him; and do not know that it was true which was done by the angel; but thought he saw a vision.
 
 **Acts 12:10**
 
@@ -17052,7 +17052,7 @@ But Peter continued knocking: and when they had opened the door, and saw him, th
 
 **Acts 12:17**
 
-But he, beckoning to them with the hand to hold their peace, declared to them how the Lord had brought him out of the prison. And he said, Go show these things to James, and to the brothers. And he departed, and went into another place.
+But he, beckoning to them with the hand to be silent, declared to them how the Lord had brought him out of the prison. And he said, Go show these things to James, and to the brothers. And he departed, and went into another place.
 
 **Acts 12:18**
 
@@ -17060,7 +17060,7 @@ Now as soon as it was day, there was no small stir among the soldiers, what was 
 
 **Acts 12:19**
 
-And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode.
+And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judea to Caesarea, and there abode.
 
 **Acts 12:20**
 
@@ -17174,7 +17174,7 @@ And afterward they desired a king: and God gave to them Saul the son of Cis, a m
 
 **Acts 13:22**
 
-And when he had removed him, he raised up to them David to be their king; to whom also he gave their testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfill all my will.
+And when he had removed him, he raised up to them David to be their king; to whom also he gave their testimony, and said, I have found David the son of Jesse, a man after my own heart, which shall fulfill all my will.
 
 **Acts 13:23**
 
@@ -17194,7 +17194,7 @@ Men and brothers, children of the stock of Abraham, and whoever among you fears 
 
 **Acts 13:27**
 
-For those who dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every Sabbath, they have fulfilled them in condemning him.
+For those who dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets who are read every Sabbath, they have fulfilled them in condemning him.
 
 **Acts 13:28**
 
@@ -17210,7 +17210,7 @@ But God raised him from the dead:
 
 **Acts 13:31**
 
-And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses to the people.
+And he was seen many days of those who came up with him from Galilee to Jerusalem, who are his witnesses to the people.
 
 **Acts 13:32**
 
@@ -17226,7 +17226,7 @@ And as concerning that he raised him up from the dead, now no more to return to 
 
 **Acts 13:35**
 
-Therefore he says also in another psalm, You shall not suffer yours Holy One to see corruption.
+Therefore he says also in another psalm, You shall not suffer your Holy One to see corruption.
 
 **Acts 13:36**
 
@@ -17254,7 +17254,7 @@ Look, you despisers, and wonder, and perish: for I work a work in your days, a w
 
 **Acts 13:42**
 
-And when the Jews were gone out of the synagogue, the Gentiles begged that these words might be preached to them the next sabbath.
+And when the Jews were gone out of the synagogue, the nations begged that these words might be preached to them the next sabbath.
 
 **Acts 13:43**
 
@@ -17270,15 +17270,15 @@ But when the Jews saw the crowds, they were filled with envy, and spoke against 
 
 **Acts 13:46**
 
-Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of everlasting life, look, we turn to the Gentiles.
+Then Paul and Barnabas grew bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing you put it from you, and judge yourselves unworthy of eternal life, look, we turn to the nations.
 
 **Acts 13:47**
 
-For so has the Lord commanded us, saying, I have set you to be a light of the Gentiles, that you should be for salvation to the ends of the earth.
+For so has the Lord commanded us, saying, I have set you to be a light of the nations, that you should be for salvation to the ends of the earth.
 
 **Acts 13:48**
 
-And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
+And when the nations heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 
 **Acts 13:49**
 
@@ -17304,11 +17304,11 @@ And it happened in Iconium, that they went both together into the synagogue of t
 
 **Acts 14:2**
 
-But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brothers.
+But the unbelieving Jews stirred up the nations, and made their minds evil affected against the brothers.
 
 **Acts 14:3**
 
-Long time therefore abode they speaking boldly in the Lord, which gave testimony to the word of his grace, and granted signs and wonders to be done by their hands.
+Long time therefore abode they speaking boldly in the Lord, who gave testimony to the word of his grace, and granted signs and wonders to be done by their hands.
 
 **Acts 14:4**
 
@@ -17316,7 +17316,7 @@ But the multitude of the city was divided: and part held with the Jews, and part
 
 **Acts 14:5**
 
-And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,
+And when there was an assault made both of the nations, and also of the Jews with their rulers, to use them despitefully, and to stone them,
 
 **Acts 14:6**
 
@@ -17356,7 +17356,7 @@ Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, a
 
 **Acts 14:15**
 
-And saying, Sirs, why do you these things? We also are men of like passions with you, and preach to you that you should turn from these vanities to the living God, which made heaven, and earth, and the sea, and all things that are therein:
+And saying, Sirs, why do you these things? We also are men of like passions with you, and preach to you that you should turn from these vanities to the living God, who made heaven, and earth, and the sea, and all things that are in it:
 
 **Acts 14:16**
 
@@ -17404,7 +17404,7 @@ And from there sailed to Antioch, from whence they had been recommended to the g
 
 **Acts 14:27**
 
-And when they had come, and had gathered the assembly together, they rehearsed all that God had done with them, and how he had opened the door of faith to the Gentiles.
+And when they had come, and had gathered the assembly together, they rehearsed all that God had done with them, and how he had opened the door of faith to the nations.
 
 **Acts 14:28**
 
@@ -17414,7 +17414,7 @@ And there they abode long time with the disciples.
 
 **Acts 15:1**
 
-And certain men which came down from Judaea taught the brothers, and said, Except you be circumcised after the manner of Moses, you cannot be saved.
+And certain men who came down from Judea taught the brothers, and said, Except you be circumcised after the manner of Moses, you cannot be saved.
 
 **Acts 15:2**
 
@@ -17422,7 +17422,7 @@ When therefore Paul and Barnabas had no small dissension and disputation with th
 
 **Acts 15:3**
 
-And being brought on their way by the assembly, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy to all the brothers.
+And being brought on their way by the assembly, they passed through Phenice and Samaria, declaring the conversion of the nations: and they caused great joy to all the brothers.
 
 **Acts 15:4**
 
@@ -17430,7 +17430,7 @@ And when they had come to Jerusalem, they were received of the assembly, and of 
 
 **Acts 15:5**
 
-But there rose up certain of the sect of the Pharisees which believed, saying, That it was necessary to circumcise them, and to command them to keep the law of Moses.
+But there rose up certain of the sect of the Pharisees who believed, saying, That it was necessary to circumcise them, and to command them to keep the law of Moses.
 
 **Acts 15:6**
 
@@ -17438,11 +17438,11 @@ And the apostles and elders came together in order to consider of this matter.
 
 **Acts 15:7**
 
-And when there had been much disputing, Peter rose up, and said to them, Men and brothers, you know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the good news, and believe.
+And when there had been much disputing, Peter rose up, and said to them, Men and brothers, you know how that a good while ago God made choice among us, that the nations by my mouth should hear the word of the good news, and believe.
 
 **Acts 15:8**
 
-And God, which knows the hearts, bare them witness, giving them the Holy Spirit, even as he did to us;
+And God, who knows the hearts, bare them witness, giving them the Holy Spirit, even as he did to us;
 
 **Acts 15:9**
 
@@ -17450,7 +17450,7 @@ And put no difference between us and them, purifying their hearts by faith.
 
 **Acts 15:10**
 
-Now therefore why tempt you God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?
+Now therefore why tempt you God, to put a yoke upon the neck of the disciples, who neither our fathers nor we were able to bear?
 
 **Acts 15:11**
 
@@ -17458,15 +17458,15 @@ But we believe that through the grace of the Lord Jesus Christ we shall be saved
 
 **Acts 15:12**
 
-Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.
+Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had worked among the nations by them.
 
 **Acts 15:13**
 
-And after they had held their peace, James answered, saying, Men and brothers, hearken to me:
+And after they had were silent, James answered, saying, Men and brothers, hearken to me:
 
 **Acts 15:14**
 
-Simeon has declared how God at the first did visit the Gentiles, to take out of them a people for his name.
+Simeon has declared how God at the first did visit the nations, to take out of them a people for his name.
 
 **Acts 15:15**
 
@@ -17474,11 +17474,11 @@ And to this agree the words of the prophets; as it is written,
 
 **Acts 15:16**
 
-After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
+After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins of it, and I will set it up:
 
 **Acts 15:17**
 
-That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, says the Lord, who does all these things.
+That the residue of men might seek after the Lord, and all the nations, upon whom my name is called, says the Lord, who does all these things.
 
 **Acts 15:18**
 
@@ -17486,7 +17486,7 @@ Known to God are all his works from the beginning of the world.
 
 **Acts 15:19**
 
-Therefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
+Therefore my sentence is, that we trouble not them, which from among the nations are turned to God:
 
 **Acts 15:20**
 
@@ -17502,7 +17502,7 @@ Then pleased it the apostles and elders with the whole assembly, to send chosen 
 
 **Acts 15:23**
 
-And they wrote letters by them after this manner; The apostles and elders and brothers send greeting to the brothers which are of the Gentiles in Antioch and Syria and Cilicia.
+And they wrote letters by them after this manner; The apostles and elders and brothers send greeting to the brothers which are of the nations in Antioch and Syria and Cilicia.
 
 **Acts 15:24**
 
@@ -17580,7 +17580,7 @@ And he went through Syria and Cilicia, confirming the assemblies.
 
 **Acts 16:1**
 
-Then came he to Derbe and Lystra: and, look, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:
+Then came he to Derbe and Lystra: and, look, a certain disciple was there, named Timotheus, the son of a certain woman, who was a Jewess, and believed; but his father was a Greek:
 
 **Acts 16:2**
 
@@ -17628,7 +17628,7 @@ And from there to Philippi, which is the chief city of that part of Macedonia, a
 
 **Acts 16:13**
 
-And on the sabbath we went out of the city by a river side, where prayer was known to be made; and we sat down, and spoke to the women which resorted there.
+And on the sabbath we went out of the city by a river side, where prayer was known to be made; and we sat down, and spoke to the women who resorted there.
 
 **Acts 16:14**
 
@@ -17644,7 +17644,7 @@ And it happened, as we went to prayer, a certain girl possessed with a spirit of
 
 **Acts 16:17**
 
-The same followed Paul and us, and cried, saying, These men are the slaves of the most high God, which show to us the way of salvation.
+The same followed Paul and us, and cried, saying, These men are the slaves of the most high God, who show to us the way of salvation.
 
 **Acts 16:18**
 
@@ -17786,7 +17786,7 @@ These were more noble than those in Thessalonica, in that they received the word
 
 **Acts 17:12**
 
-Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.
+Therefore many of them believed; also of honourable women who were Greeks, and of men, not a few.
 
 **Acts 17:13**
 
@@ -17814,7 +17814,7 @@ Then certain philosophers of the Epicureans, and of the Stoicks, encountered him
 
 **Acts 17:19**
 
-And they took him, and brought him to Areopagus, saying, May we know what this new doctrine, whereof you speak, is?
+And they took him, and brought him to Areopagus, saying, May we know what this new doctrine, of which you speak, is?
 
 **Acts 17:20**
 
@@ -17834,7 +17834,7 @@ For as I passed by, and beheld your devotions, I found an altar with this inscri
 
 **Acts 17:24**
 
-God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;
+God that made the world and all things in it, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;
 
 **Acts 17:25**
 
@@ -17862,7 +17862,7 @@ And the times of this ignorance God winked at; but now commands all men every wh
 
 **Acts 17:31**
 
-Because he has appointed a day, in the which he will judge the world in righteousness by that man whom he has ordained; whereof he has given assurance to all men, in that he has raised him from the dead.
+Because he has appointed a day, in the which he will judge the world in righteousness by that man whom he has ordained; of which he has given assurance to all men, in that he has raised him from the dead.
 
 **Acts 17:32**
 
@@ -17888,7 +17888,7 @@ And found a certain Jew named Aquila, born in Pontus, lately come from Italy, wi
 
 **Acts 18:3**
 
-And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
+And because he was of the same craft, he abode with them, and worked: for by their occupation they were tentmakers.
 
 **Acts 18:4**
 
@@ -17900,7 +17900,7 @@ And when Silas and Timotheus had come from Macedonia, Paul was pressed in the sp
 
 **Acts 18:6**
 
-And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from now on I will go to the Gentiles.
+And when they opposed themselves, and blasphemed, he shook his clothing, and said to them, Your blood be upon your own heads; I am clean; from now on I will go to the nations.
 
 **Acts 18:7**
 
@@ -17998,7 +17998,7 @@ And it happened, that, while Apollos was at Corinth, Paul having passed through 
 
 **Acts 19:2**
 
-He said to them, Have you received the Holy Spirit since you believed? And they said to him, We have not so much as heard whether there be any Holy Spirit.
+He said to them, Have you received the Holy Spirit since you believed? And they said to him, We have not so much as heard whether there is any Holy Spirit.
 
 **Acts 19:3**
 
@@ -18006,7 +18006,7 @@ And he said to them, To what then were you baptized? And they said, To John's ba
 
 **Acts 19:4**
 
-Then said Paul, John truly baptized with the baptism of repentance, saying to the people, that they should believe on him which should come after him, that is, on Christ Jesus.
+Then said Paul, John truly baptized with the baptism of repentance, saying to the people, that they should believe on him who should come after him, that is, on Christ Jesus.
 
 **Acts 19:5**
 
@@ -18030,11 +18030,11 @@ But when various were hardened, and believed not, but spoke evil of that way bef
 
 **Acts 19:10**
 
-And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
+And this continued by the space of two years; so that all those who dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 
 **Acts 19:11**
 
-And God wrought special miracles by the hands of Paul:
+And God worked special miracles by the hands of Paul:
 
 **Acts 19:12**
 
@@ -18042,11 +18042,11 @@ So that from his body were brought to the sick handkerchiefs or aprons, and the 
 
 **Acts 19:13**
 
-Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preaches.
+Then certain of the vagabond Jews, exorcists, took upon them to call over those who had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preaches.
 
 **Acts 19:14**
 
-And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.
+And there were seven sons of one Sceva, a Jew, and chief of the priests, who did so.
 
 **Acts 19:15**
 
@@ -18118,7 +18118,7 @@ And certain of the chief of Asia, which were his friends, sent to him, desiring 
 
 **Acts 19:32**
 
-Some therefore cried one thing, and some another: for the assembly was confused: and the more part knew not therefore they had come together.
+Some therefore cried one thing, and some another: for the assembly was confused: and the more part did not know therefore they had come together.
 
 **Acts 19:33**
 
@@ -18130,7 +18130,7 @@ But when they knew that he was a Jew, all with one voice about the space of two 
 
 **Acts 19:35**
 
-And when the public clerk had appeased the people, he said, You men of Ephesus, what man is there that knows not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?
+And when the public clerk had appeased the people, he said, You men of Ephesus, what man is there that does not know how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?
 
 **Acts 19:36**
 
@@ -18138,7 +18138,7 @@ Seeing then that these things cannot be spoken against, you ought to be quiet, a
 
 **Acts 19:37**
 
-For you have brought here these men, which are neither robbers of churches, nor yet blasphemers of your goddess.
+For you have brought here these men, who are neither robbers of churches, nor yet blasphemers of your goddess.
 
 **Acts 19:38**
 
@@ -18150,7 +18150,7 @@ But if you enquire anything concerning other matters, it shall be determined in 
 
 **Acts 19:40**
 
-For we are in danger to be called in question for this day's uproar, there being no cause whereby we may give an account of this concourse.
+For we are in danger to be called in question for this day's uproar, there being no cause by which we may give an account of this concourse.
 
 **Acts 19:41**
 
@@ -18268,7 +18268,7 @@ For I have not shunned to declare to you all the counsel of God.
 
 **Acts 20:28**
 
-Take heed therefore to yourselves, and to all the flock, over the which the Holy Spirit has made you overseers, to feed the assembly of God, which he has purchased with his own blood.
+Take heed therefore to yourselves, and to all the flock, over the which the Holy Spirit has made you overseers, to feed the assembly of God, who he has purchased with his own blood.
 
 **Acts 20:29**
 
@@ -18284,7 +18284,7 @@ Therefore watch, and remember, that by the space of three years I ceased not to 
 
 **Acts 20:32**
 
-And now, brothers, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
+And now, brothers, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all those who are sanctified.
 
 **Acts 20:33**
 
@@ -18350,11 +18350,11 @@ And the same man had four daughters, virgins, which did prophesy.
 
 **Acts 21:10**
 
-And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.
+And as we tarried there many days, there came down from Judea a certain prophet, named Agabus.
 
 **Acts 21:11**
 
-And when he had come to us, he took Paul's girdle, and bound his own hands and feet, and said, Thus says the Holy Spirit, So shall the Jews at Jerusalem bind the man that owns this girdle, and shall deliver him into the hands of the Gentiles.
+And when he had come to us, he took Paul's girdle, and bound his own hands and feet, and said, Thus says the Holy Spirit, So shall the Jews at Jerusalem bind the man that owns this girdle, and shall deliver him into the hands of the nations.
 
 **Acts 21:12**
 
@@ -18386,7 +18386,7 @@ And the day following Paul went in with us to James; and all the elders were pre
 
 **Acts 21:19**
 
-And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
+And when he had saluted them, he declared particularly what things God had worked among the nations by his ministry.
 
 **Acts 21:20**
 
@@ -18394,7 +18394,7 @@ And when they heard it, they glorified the Lord, and said to him, You see, broth
 
 **Acts 21:21**
 
-And they are informed of you, that you teach all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
+And they are informed of you, that you teach all the Jews which are among the nations to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.
 
 **Acts 21:22**
 
@@ -18402,15 +18402,15 @@ What is it therefore? the multitude must come together: for they will hear that 
 
 **Acts 21:23**
 
-Do therefore this that we say to you: We have four men which have a vow on them;
+Do therefore this that we say to you: We have four men who have a vow on them;
 
 **Acts 21:24**
 
-Them take, and purify yourself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning you, are nothing; but that you yourself also walk orderly, and keep the law.
+Them take, and purify yourself with them, and be at charges with them, that they may shave their heads: and all may know that those things, of which they were informed concerning you, are nothing; but that you yourself also walk orderly, and keep the law.
 
 **Acts 21:25**
 
-As concerning the Gentiles which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from sexual immorality.
+As concerning the nations which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from sexual immorality.
 
 **Acts 21:26**
 
@@ -18466,7 +18466,7 @@ Are not you that Egyptian, which before these days made an uproar, and led out i
 
 **Acts 21:39**
 
-But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I plead to you, suffer me to speak to the people.
+But Paul said, I am a man who am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I plead to you, suffer me to speak to the people.
 
 **Acts 21:40**
 
@@ -18484,7 +18484,7 @@ Men, brothers, and fathers, hear you my defence which I make now to you.
 
 **Acts 22:3**
 
-I am truly a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
+I am truly a man who am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
 
 **Acts 22:4**
 
@@ -18492,7 +18492,7 @@ And I persecuted this way to the death, binding and delivering into prisons both
 
 **Acts 22:5**
 
-As also the high priest does bear me witness, and all the estate of the elders: from whom also I received letters to the brothers, and went to Damascus, to bring them which were there bound to Jerusalem, in order to be punished.
+As also the high priest does bear me witness, and all the estate of the elders: from whom also I received letters to the brothers, and went to Damascus, to bring those who were there bound to Jerusalem, in order to be punished.
 
 **Acts 22:6**
 
@@ -18556,7 +18556,7 @@ And when the blood of your martyr Stephen was shed, I also was standing by, and 
 
 **Acts 22:21**
 
-And he said to me, Depart: for I will send you far behind to the Gentiles.
+And he said to me, Depart: for I will send you far behind to the nations.
 
 **Acts 22:22**
 
@@ -18588,7 +18588,7 @@ And the chief captain answered, With a great sum obtained I this freedom. And Pa
 
 **Acts 22:29**
 
-Then immediately they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
+Then immediately they departed from him who should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
 
 **Acts 22:30**
 
@@ -18614,7 +18614,7 @@ And those who stood by said, Revile you God's high priest?
 
 **Acts 23:5**
 
-Then said Paul, I know not, brothers, that he was the high priest: for it is written, You shall not speak evil of the ruler of your people.
+Then said Paul, I do not know, brothers, that he was the high priest: for it is written, You shall not speak evil of the ruler of your people.
 
 **Acts 23:6**
 
@@ -18678,7 +18678,7 @@ And he said, The Jews have agreed to desire you that you would bring down Paul t
 
 **Acts 23:21**
 
-But do not you yield to them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from you.
+But do not you yield to them: for there lie in wait for him of them more than forty men, who have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from you.
 
 **Acts 23:22**
 
@@ -18734,7 +18734,7 @@ And when the governor had read the letter, he asked of what province he was. And
 
 **Acts 23:35**
 
-I will hear you, said he, when yours accusers are also come. And he commanded him to be kept in Herod's judgment hall.
+I will hear you, said he, when your accusers are also come. And he commanded him to be kept in Herod's judgment hall.
 
 ### Chapter 24
 
@@ -18768,7 +18768,7 @@ But the chief captain Lysias came upon us, and with great violence took him away
 
 **Acts 24:8**
 
-Commanding his accusers to come to you: by examining of whom yourself may take knowledge of all these things, whereof we accuse him.
+Commanding his accusers to come to you: by examining of whom yourself may take knowledge of all these things, of which we accuse him.
 
 **Acts 24:9**
 
@@ -18788,7 +18788,7 @@ And they neither found me in the temple disputing with anyone, neither raising u
 
 **Acts 24:13**
 
-Neither can they prove the things whereof they now accuse me.
+Neither can they prove the things of which they now accuse me.
 
 **Acts 24:14**
 
@@ -18796,11 +18796,11 @@ But this I confess to you, that after the way which they call heresy, so worship
 
 **Acts 24:15**
 
-And have hope toward God, which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust.
+And have hope toward God, who they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust.
 
 **Acts 24:16**
 
-And herein do I exercise myself, to have always a conscience void to offence toward God, and toward men.
+And herein do I exercise myself, to have always a conscience void to offense toward God, and toward men.
 
 **Acts 24:17**
 
@@ -18812,7 +18812,7 @@ Whereupon certain Jews from Asia found me purified in the temple, neither with c
 
 **Acts 24:19**
 
-Who ought to have been here before you, and object, if they had ought against me.
+Who ought to have been here before you, and object, if they had anything against me.
 
 **Acts 24:20**
 
@@ -18866,7 +18866,7 @@ But Festus answered, that Paul should be kept at Caesarea, and that he himself w
 
 **Acts 25:5**
 
-Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him.
+Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there is any wickedness in him.
 
 **Acts 25:6**
 
@@ -18882,7 +18882,7 @@ While he answered for himself, Neither against the law of the Jews, neither agai
 
 **Acts 25:9**
 
-But Festus, willing to do the Jews a pleasure, answered Paul, and said, Will you go up to Jerusalem, and there be judged of these things before me?
+But Festus, willing to do the Jews a pleasure, answered Paul, and said, Will you go up to Jerusalem, and there is judged of these things before me?
 
 **Acts 25:10**
 
@@ -18890,7 +18890,7 @@ Then said Paul, I stand at Caesar's judgment seat, where I ought to be judged: t
 
 **Acts 25:11**
 
-For if I be an offender, or have committed anything worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no one may deliver me to them. I appeal to Caesar.
+For if I be an offender, or have committed anything worthy of death, I refuse not to die: but if there is none of these things of which these accuse me, no one may deliver me to them. I appeal to Caesar.
 
 **Acts 25:12**
 
@@ -18910,7 +18910,7 @@ About whom, when I was at Jerusalem, the chief priests and the elders of the Jew
 
 **Acts 25:16**
 
-To whom I answered, It is not the manner of the Romans to deliver anyone to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
+To whom I answered, It is not the manner of the Romans to deliver anyone to die, before that the one who is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.
 
 **Acts 25:17**
 
@@ -18922,11 +18922,11 @@ Against whom when the accusers stood up, they brought none accusation of such th
 
 **Acts 25:19**
 
-But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.
+But had certain questions against him of their own superstition, and of one Jesus, who was dead, whom Paul affirmed to be alive.
 
 **Acts 25:20**
 
-And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters.
+And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there is judged of these matters.
 
 **Acts 25:21**
 
@@ -18942,7 +18942,7 @@ And on the next day, when Agrippa had come, and Bernice, with great pomp, and wa
 
 **Acts 25:24**
 
-And Festus said, King Agrippa, and all men which are here present with us, you see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.
+And Festus said, King Agrippa, and all men who are here present with us, you see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.
 
 **Acts 25:25**
 
@@ -18964,7 +18964,7 @@ Then Agrippa said to Paul, You are permitted to speak for yourself. Then Paul st
 
 **Acts 26:2**
 
-I think myself happy, king Agrippa, because I shall answer for myself this day before you concerning all the things whereof I am accused of the Jews:
+I think myself happy, king Agrippa, because I shall answer for myself this day before you concerning all the things of which I am accused of the Jews:
 
 **Acts 26:3**
 
@@ -18972,7 +18972,7 @@ Especially because I know you to be expert in all customs and questions which ar
 
 **Acts 26:4**
 
-My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
+My manner of life from my youth, which was at the first among my own nation at Jerusalem, know all the Jews;
 
 **Acts 26:5**
 
@@ -19008,7 +19008,7 @@ Whereupon as I went to Damascus with authority and commission from the chief pri
 
 **Acts 26:13**
 
-At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.
+At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and those who journeyed with me.
 
 **Acts 26:14**
 
@@ -19024,11 +19024,11 @@ But rise, and stand upon your feet: for I have appeared to you for this purpose,
 
 **Acts 26:17**
 
-Delivering you from the people, and from the Gentiles, to whom now I send you,
+Delivering you from the people, and from the nations, to whom now I send you,
 
 **Acts 26:18**
 
-To open their eyes, and to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+To open their eyes, and to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins, and inheritance among those who are sanctified by faith that is in me.
 
 **Acts 26:19**
 
@@ -19036,7 +19036,7 @@ Whereupon, O king Agrippa, I was not disobedient to the heavenly vision:
 
 **Acts 26:20**
 
-But showed first to them of Damascus, and at Jerusalem, and throughout all the borders of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
+But showed first to them of Damascus, and at Jerusalem, and throughout all the borders of Judea, and then to the nations, that they should repent and turn to God, and do works worthy of repentance.
 
 **Acts 26:21**
 
@@ -19048,7 +19048,7 @@ Having therefore obtained help of God, I continue to this day, witnessing both t
 
 **Acts 26:23**
 
-That Christ should suffer, and that he should be the first that should rise from the dead, and should show light to the people, and to the Gentiles.
+That Christ should suffer, and that he should be the first that should rise from the dead, and should show light to the people, and to the nations.
 
 **Acts 26:24**
 
@@ -19110,7 +19110,7 @@ And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a
 
 **Acts 27:6**
 
-And there the centurion found a boat of Alexandria sailing into Italy; and he put us therein.
+And there the centurion found a boat of Alexandria sailing into Italy; and he put us in it.
 
 **Acts 27:7**
 
@@ -19242,7 +19242,7 @@ And when they had eaten enough, they lightened the boat, and cast out the wheat 
 
 **Acts 27:39**
 
-And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the boat.
+And when it was day, they did not know the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the boat.
 
 **Acts 27:40**
 
@@ -19258,7 +19258,7 @@ And the soldiers' counsel was to kill the prisoners, lest any of them should swi
 
 **Acts 27:43**
 
-But the centurion, willing to save Paul, kept them from their purpose; and commanded that they which could swim should cast themselves first into the sea, and get to land:
+But the centurion, willing to save Paul, kept them from their purpose; and commanded that those who could swim should cast themselves first into the sea, and get to land:
 
 **Acts 27:44**
 
@@ -19348,7 +19348,7 @@ For this cause therefore have I called for you, to see you, and to speak with yo
 
 **Acts 28:21**
 
-And they said to him, We neither received letters out of Judaea concerning you, neither any of the brothers that came showed or spoke any harm of you.
+And they said to him, We neither received letters out of Judea concerning you, neither any of the brothers that came showed or spoke any harm of you.
 
 **Acts 28:22**
 
@@ -19372,11 +19372,11 @@ Saying, Go to this people, and say, Hearing you shall hear, and shall not unders
 
 **Acts 28:27**
 
-For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
+For the heart of this people is became dull, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.
 
 **Acts 28:28**
 
-Be it known therefore to you, that the salvation of God is sent to the Gentiles, and that they will hear it.
+Be it known therefore to you, that the salvation of God is sent to the nations, and that they will hear it.
 
 **Acts 28:29**
 
@@ -19444,7 +19444,7 @@ That is, that I may be comforted together with you by the mutual faith both of y
 
 **Romans 1:13**
 
-Now I would not have you ignorant, brothers, that oftentimes I purposed to come to you, (but was let until now,) that I might have some fruit among you also, even as among other Gentiles.
+Now I would not have you ignorant, brothers, that oftentimes I purposed to come to you, (but was let until now,) that I might have some fruit among you also, even as among other nations.
 
 **Romans 1:14**
 
@@ -19460,7 +19460,7 @@ For I am not ashamed of the good news of Christ: for it is the power of God to s
 
 **Romans 1:17**
 
-For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
+For in it is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
 
 **Romans 1:18**
 
@@ -19520,21 +19520,21 @@ Without understanding, covenant-breakers, without natural affection, refusing to
 
 **Romans 1:32**
 
-Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in those who do them.
+Who knowing the judgment of God, that those who commit such things are worthy of death, not only do the same, but have pleasure in those who do them.
 
 ### Chapter 2
 
 **Romans 2:1**
 
-Therefore you are inexcusable, O man, whoever you are that judge: for wherein you judge another, you condemn yourself; for you that judge do the same things.
+Therefore you are inexcusable, O man, whoever you are that judge: for in which you judge another, you condemn yourself; for you that judge do the same things.
 
 **Romans 2:2**
 
-But we are sure that the judgment of God is according to truth against them which commit such things.
+But we are sure that the judgment of God is according to truth against those who commit such things.
 
 **Romans 2:3**
 
-And think you this, O man, that judge them which do such things, and do the same, that you shall escape the judgment of God?
+And think you this, O man, that judge those who do such things, and do the same, that you shall escape the judgment of God?
 
 **Romans 2:4**
 
@@ -19578,7 +19578,7 @@ For as many as have sinned without law shall also perish without law: and as man
 
 **Romans 2:14**
 
-For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law to themselves:
+For when the nations, which have not the law, do by nature the things contained in the law, these, having not the law, are a law to themselves:
 
 **Romans 2:15**
 
@@ -19598,7 +19598,7 @@ And know his will, and approve the things that are more excellent, being instruc
 
 **Romans 2:19**
 
-And are confident that you yourself are a guide of the blind, a light of them which are in darkness,
+And are confident that you yourself are a guide of the blind, a light of those who are in darkness,
 
 **Romans 2:20**
 
@@ -19618,7 +19618,7 @@ You that make your boast of the law, through breaking the law dishonour you God?
 
 **Romans 2:24**
 
-For the name of God is blasphemed among the Gentiles through you, as it is written.
+For the name of God is blasphemed among the nations through you, as it is written.
 
 **Romans 2:25**
 
@@ -19656,7 +19656,7 @@ For what if some did not believe? shall their unbelief make the faith of God wit
 
 **Romans 3:4**
 
-God forbid: yes, let God be true, but every man a liar; as it is written, That you might be justified in your sayings, and might overcome when you are judged.
+May it not be: yes, let God be true, but every man a liar; as it is written, That you might be justified in your sayings, and might overcome when you are judged.
 
 **Romans 3:5**
 
@@ -19664,7 +19664,7 @@ But if our unrighteousness commend the righteousness of God, what shall we say? 
 
 **Romans 3:6**
 
-God forbid: for then how shall God judge the world?
+May it not be: for then how shall God judge the world?
 
 **Romans 3:7**
 
@@ -19672,7 +19672,7 @@ For if the truth of God has more abounded through my lie to his glory; why yet a
 
 **Romans 3:8**
 
-And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
+And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose judgment is just.
 
 **Romans 3:9**
 
@@ -19728,7 +19728,7 @@ But now the righteousness of God without the law is manifested, being witnessed 
 
 **Romans 3:22**
 
-Even the righteousness of God which is by faith of Jesus Christ to all and upon all those who believe: for there is no difference:
+Even the righteousness of God who is by faith of Jesus Christ to all and upon all those who believe: for there is no difference:
 
 **Romans 3:23**
 
@@ -19740,11 +19740,11 @@ Being justified freely by his grace through the redemption that is in Christ Jes
 
 **Romans 3:25**
 
-Whom God has set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
+whom God set forth as propitiation through faith in his blood, for a display of his righteousness because of the passing over of the sins that had happened before, in the forbearance of God;
 
 **Romans 3:26**
 
-To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believes in Jesus.
+To declare, I say, at this time his righteousness: that he might be just, and the justifier of him who believes in Jesus.
 
 **Romans 3:27**
 
@@ -19756,15 +19756,15 @@ Therefore we conclude that a man is justified by faith without the deeds of the 
 
 **Romans 3:29**
 
-Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:
+Is he the God of the Jews only? is he not also of the nations? Yes, of the nations also:
 
 **Romans 3:30**
 
-Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.
+Seeing it is one God, who shall justify the circumcision by faith, and uncircumcision through faith.
 
 **Romans 3:31**
 
-Do we then make void the law through faith? God forbid: yes, we establish the law.
+Do we then make void the law through faith? May it not be: yes, we establish the law.
 
 ### Chapter 4
 
@@ -19774,7 +19774,7 @@ What shall we say then that Abraham our father, as pertaining to the flesh, has 
 
 **Romans 4:2**
 
-For if Abraham were justified by works, he has whereof to glory; but not before God.
+For if Abraham were justified by works, he has of which to glory; but not before God.
 
 **Romans 4:3**
 
@@ -19822,7 +19822,7 @@ For the promise, that he should be the heir of the world, was not to Abraham, or
 
 **Romans 4:14**
 
-For if they which are of the law be heirs, faith is made void, and the promise made of no effect:
+For if those who are of the law be heirs, faith is made void, and the promise made of no effect:
 
 **Romans 4:15**
 
@@ -19834,7 +19834,7 @@ Therefore it is of faith, that it might be by grace; to the end the promise migh
 
 **Romans 4:17**
 
-(As it is written, I have made you a father of many nations,) before him whom he believed, even God, who replenishes life to the dead, and calls those things which be not as though they were.
+(As it is written, I have made you a father of many nations,) before him whom he believed, even God, who gives life to the dead, and calls those things that are not as though they were.
 
 **Romans 4:18**
 
@@ -19866,7 +19866,7 @@ But for us also, to whom it shall be imputed, if we believe on him who raised up
 
 **Romans 4:25**
 
-Who was delivered for our offences, and was raised again for our justification.
+Who was delivered for our offenses, and was raised again for our justification.
 
 ### Chapter 5
 
@@ -19876,7 +19876,7 @@ Therefore being justified by faith, we have peace with God through our Lord Jesu
 
 **Romans 5:2**
 
-By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.
+By whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
 
 **Romans 5:3**
 
@@ -19924,23 +19924,23 @@ Therefore, as by one man sin entered into the world, and death by sin; and so de
 
 **Romans 5:14**
 
-Nevertheless death reigned from Adam to Moses, even over those who had not sinned after the embodiment of Adam's transgression, who is the figure of him who was to come.
+Nevertheless death reigned from Adam to Moses, even over those who had not sinned after the likeness of Adam's transgression, who is the figure of him who was to come.
 
 **Romans 5:15**
 
-But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded to many.
+But not as the offense, so also is the free gift. For if through the offense of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, has abounded to many.
 
 **Romans 5:16**
 
-And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences to justification.
+And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offenses to justification.
 
 **Romans 5:17**
 
-For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
+For if by one man's offense death reigned by one; much more those who receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 
 **Romans 5:18**
 
-Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men to justification of life.
+Therefore as by the offense of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men to justification of life.
 
 **Romans 5:19**
 
@@ -19948,7 +19948,7 @@ For as by one man's disobedience many were made sinners, so by the obedience of 
 
 **Romans 5:20**
 
-Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:
+Moreover the law entered, that the offense might abound. But where sin abounded, grace did much more abound:
 
 **Romans 5:21**
 
@@ -19962,7 +19962,7 @@ What shall we say then? Shall we continue in sin, that grace may abound?
 
 **Romans 6:2**
 
-God forbid. How shall we, that are dead to sin, live any longer therein?
+May it not be. How shall we, that are dead to sin, live any longer in it?
 
 **Romans 6:3**
 
@@ -20002,7 +20002,7 @@ Likewise reckon you also yourselves to be dead indeed to sin, but alive to God t
 
 **Romans 6:12**
 
-Let not sin therefore reign in your mortal body, that you should obey it in the lusts thereof.
+Let not sin therefore reign in your mortal body, that you should obey it in the lusts of it.
 
 **Romans 6:13**
 
@@ -20014,7 +20014,7 @@ For sin shall not have dominion over you: for you are not under the law, but und
 
 **Romans 6:15**
 
-What then? shall we sin, because we are not under the law, but under grace? God forbid.
+What then? shall we sin, because we are not under the law, but under grace? May it not be.
 
 **Romans 6:16**
 
@@ -20038,11 +20038,11 @@ For when you were the slaves of sin, you were free from righteousness.
 
 **Romans 6:21**
 
-What fruit had you then in those things whereof you are now ashamed? for the end of those things is death.
+What fruit had you then in those things of which you are now ashamed? for the end of those things is death.
 
 **Romans 6:22**
 
-But now being made free from sin, and become slaves to God, you have your fruit to holiness, and the end everlasting life.
+But now being made free from sin, and become slaves to God, you have your fruit to holiness, and the end eternal life.
 
 **Romans 6:23**
 
@@ -20056,7 +20056,7 @@ Know you not, brothers, (for I speak to those who know the law,) how that the la
 
 **Romans 7:2**
 
-For the woman which has an husband is bound by the law to her husband so long as he lives; but if the husband be dead, she is loosed from the law of her husband.
+For the woman who has a husband is bound by the law to her husband so long as he lives; but if the husband be dead, she is loosed from the law of her husband.
 
 **Romans 7:3**
 
@@ -20072,15 +20072,15 @@ For when we were in the flesh, the motions of sins, which were by the law, did w
 
 **Romans 7:6**
 
-But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
+But now we are delivered from the law, that being dead in which we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
 
 **Romans 7:7**
 
-What shall we say then? Is the law sin? God forbid. No, I had not known sin, but by the law: for I had not known lust, except the law had said, You shall not covet.
+What shall we say then? Is the law sin? May it not be. No, I had not known sin, but by the law: for I had not known lust, except the law had said, You shall not covet.
 
 **Romans 7:8**
 
-But sin, taking occasion by the commandment, wrought in me all manner of desire. For without the law sin was dead.
+But sin, taking occasion by the commandment, worked in me all manner of desire. For without the law sin was dead.
 
 **Romans 7:9**
 
@@ -20100,7 +20100,7 @@ Therefore the law is holy, and the commandment holy, and just, and good.
 
 **Romans 7:13**
 
-Was then that which is good made death to me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
+Was then that which is good made death to me? May it not be. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
 
 **Romans 7:14**
 
@@ -20154,7 +20154,7 @@ I thank God through Jesus Christ our Lord. So then with the mind I myself serve 
 
 **Romans 8:1**
 
-There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+There is therefore now no condemnation to those who are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
 **Romans 8:2**
 
@@ -20190,7 +20190,7 @@ But you are not in the flesh, but in the Spirit, if so be that the Spirit of God
 
 **Romans 8:10**
 
-And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
+And if Christ is in you, the body is dead because of sin; but the Spirit is life because of righteousness.
 
 **Romans 8:11**
 
@@ -20210,7 +20210,7 @@ For as many as are led by the Spirit of God, they are the sons of God.
 
 **Romans 8:15**
 
-For you have not received the spirit of bondage again to fear; but you have received the Spirit of adoption, whereby we cry, Abba, Father.
+For you have not received the spirit of bondage again to fear; but you have received the Spirit of adoption, by which we cry, Abba, Father.
 
 **Romans 8:16**
 
@@ -20226,7 +20226,7 @@ For I reckon that the sufferings of this present time are not worthy to be compa
 
 **Romans 8:19**
 
-For the earn expectation of the creature waits for the manifestation of the sons of God.
+For the earnest expectation of the creature waits for the manifestation of the sons of God.
 
 **Romans 8:20**
 
@@ -20254,7 +20254,7 @@ But if we hope for that we see not, then do we with patience wait for it.
 
 **Romans 8:26**
 
-Likewise the Spirit also helps our infirmities: for we know not what we should pray for as we ought: but the Spirit itself makes intercession for us with groanings which cannot be uttered.
+Likewise the Spirit also helps our infirmities: for we do not know what we should pray for as we ought: but the Spirit itself makes intercession for us with groanings which cannot be uttered.
 
 **Romans 8:27**
 
@@ -20306,7 +20306,7 @@ For I am persuaded, that neither death, nor life, nor angels, nor principalities
 
 **Romans 8:39**
 
-Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, who is in Christ Jesus our Lord.
 
 ### Chapter 9
 
@@ -20340,7 +20340,7 @@ Neither, because they are the seed of Abraham, are they all children: but, In Is
 
 **Romans 9:8**
 
-That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
+That is, those who are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
 
 **Romans 9:9**
 
@@ -20364,7 +20364,7 @@ As it is written, Jacob have I loved, but Esau have I hated.
 
 **Romans 9:14**
 
-What shall we say then? Is there unrighteousness with God? God forbid.
+What shall we say then? Is there unrighteousness with God? May it not be.
 
 **Romans 9:15**
 
@@ -20404,11 +20404,11 @@ And that he might make known the riches of his glory on the vessels of mercy, wh
 
 **Romans 9:24**
 
-Even us, whom he has called, not of the Jews only, but also of the Gentiles?
+Even us, whom he has called, not of the Jews only, but also of the nations?
 
 **Romans 9:25**
 
-As he says also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
+As he says also in Osee, I will call them my people, who were not my people; and her beloved, which was not beloved.
 
 **Romans 9:26**
 
@@ -20428,7 +20428,7 @@ And as Isaiah said before, Except the Lord of Sabaoth had left us a seed, we had
 
 **Romans 9:30**
 
-What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
+What shall we say then? That the nations, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
 
 **Romans 9:31**
 
@@ -20462,11 +20462,11 @@ For Christ is the end of the law for righteousness to every one that believes.
 
 **Romans 10:5**
 
-For Moses describes the righteousness which is of the law, That the man which does those things shall live by them.
+For Moses describes the righteousness which is of the law, That the man who does those things shall live by them.
 
 **Romans 10:6**
 
-But the righteousness which is of faith speaks likewise, Say not in yours heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
+But the righteousness which is of faith speaks likewise, Say not in your heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
 
 **Romans 10:7**
 
@@ -20478,7 +20478,7 @@ But what says it? The word is near you, even in your mouth, and in your heart: t
 
 **Romans 10:9**
 
-That if you shall confess with your mouth the Lord Jesus, and shall believe in yours heart that God has raised him from the dead, you shall be saved.
+That if you shall confess with your mouth the Lord Jesus, and shall believe in your heart that God has raised him from the dead, you shall be saved.
 
 **Romans 10:10**
 
@@ -20532,15 +20532,15 @@ But to Israel he says, All day long I have stretched forth my hands to a disobed
 
 **Romans 11:1**
 
-I say then, Has God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
+I say then, Has God cast away his people? May it not be. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
 **Romans 11:2**
 
-God has not cast away his people which he foreknew. Know you not what the scripture says of Elijah? how he makes intercession to God against Israel saying,
+God has not cast away his people who he foreknew. Know you not what the scripture says of Elijah? how he makes intercession to God against Israel saying,
 
 **Romans 11:3**
 
-Lord, they have killed your prophets, and dug down yours altars; and I am left alone, and they seek my life.
+Lord, they have killed your prophets, and dug down your altars; and I am left alone, and they seek my life.
 
 **Romans 11:4**
 
@@ -20572,19 +20572,19 @@ Let their eyes be darkened, that they may not see, and bow down their back alway
 
 **Romans 11:11**
 
-I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation has come to the Gentiles, in order to provoke them to jealousy.
+I say then, Have they stumbled that they should fall? May it not be: but rather through their fall salvation has come to the nations, in order to provoke them to jealousy.
 
 **Romans 11:12**
 
-Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fullness?
+Now if the fall of them be the riches of the world, and the diminishing of them the riches of the nations; how much more their fullness?
 
 **Romans 11:13**
 
-For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
+For I speak to you nations, inasmuch as I am the apostle of the nations, I magnify mine office:
 
 **Romans 11:14**
 
-If by any means I may provoke to awaken jealousy in them which are my flesh, and might save some of them.
+If by any means I may provoke to awaken jealousy in those who are my flesh, and might save some of them.
 
 **Romans 11:15**
 
@@ -20616,7 +20616,7 @@ For if God spared not the natural branches, take heed lest he also spare not you
 
 **Romans 11:22**
 
-Look therefore the goodness and severity of God: on them which fell, severity; but toward you, goodness, if you continue in his goodness: otherwise you also shall be cut off.
+Look therefore the goodness and severity of God: on those who fell, severity; but toward you, goodness, if you continue in his goodness: otherwise you also shall be cut off.
 
 **Romans 11:23**
 
@@ -20628,7 +20628,7 @@ For if you were cut out of the olive tree which is wild by nature, and were graf
 
 **Romans 11:25**
 
-For I would not, brothers, that you should be ignorant of this mystery, lest you should be wise in your own conceits; that blindness in part is happened to Israel, until the fullness of the Gentiles be come in.
+For I would not, brothers, that you should be ignorant of this mystery, lest you should be wise in your own conceits; that blindness in part is happened to Israel, until the fullness of the nations be come in.
 
 **Romans 11:26**
 
@@ -20678,7 +20678,7 @@ For of him, and through him, and to him, are all things: to whom be glory for ev
 
 **Romans 12:1**
 
-I plead to you therefore, brothers, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.
+I plead to you therefore, brothers, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, who is your reasonable service.
 
 **Romans 12:2**
 
@@ -20730,7 +20730,7 @@ Distributing to the necessity of holy ones; given to hospitality.
 
 **Romans 12:14**
 
-Bless them which persecute you: bless, and curse not.
+Bless those who persecute you: bless, and curse not.
 
 **Romans 12:15**
 
@@ -20754,7 +20754,7 @@ Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is
 
 **Romans 12:20**
 
-Therefore if yours enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head.
+Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you shall heap coals of fire on his head.
 
 **Romans 12:21**
 
@@ -20768,7 +20768,7 @@ Let every soul be subject to the higher powers. For there is no power but of God
 
 **Romans 13:2**
 
-Whoever therefore resists the power, resists the ordinance of God: and those who resist shall receive to themselves damnation.
+Whoever therefore resists the power, resists the ordinance of God: and those who resist shall receive to themselves judgment.
 
 **Romans 13:3**
 
@@ -20796,7 +20796,7 @@ Owe no one anything, but to love one another: for the one who loves another has 
 
 **Romans 13:9**
 
-For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbour as yourself.
+For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there is any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbour as yourself.
 
 **Romans 13:10**
 
@@ -20816,7 +20816,7 @@ Let us walk honestly, as in the day; not in rioting and drunkenness, not in cham
 
 **Romans 13:14**
 
-But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts thereof.
+But put you on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lusts of it.
 
 ### Chapter 14
 
@@ -20830,7 +20830,7 @@ For one believes that he may eat all things: another, who is weak, eats herbs.
 
 **Romans 14:3**
 
-Let not him who eats despise him who eats not; and let not him which eats not judge him who eats: for God has received him.
+Let not him who eats despise him who eats not; and let not him who eats not judge him who eats: for God has received him.
 
 **Romans 14:4**
 
@@ -20894,15 +20894,15 @@ For the one who in these things serves Christ is acceptable to God, and approved
 
 **Romans 14:19**
 
-Let us therefore follow after the things which make for peace, and things wherewith one may edify another.
+Let us therefore follow after the things which make for peace, and things with which one may edify another.
 
 **Romans 14:20**
 
-For food destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offence.
+For food destroy not the work of God. All things indeed are pure; but it is evil for that man who eats with offense.
 
 **Romans 14:21**
 
-It is good neither to eat flesh, nor to drink wine, nor anything whereby your brother stumbles, or is stumbled, or is made weak.
+It is good neither to eat flesh, nor to drink wine, nor anything by which your brother stumbles, or is stumbled, or is made weak.
 
 **Romans 14:22**
 
@@ -20948,19 +20948,19 @@ Now I say that Jesus Christ was a minister of the circumcision for the truth of 
 
 **Romans 15:9**
 
-And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing to your name.
+And that the nations might glorify God for his mercy; as it is written, For this cause I will confess to you among the nations, and sing to your name.
 
 **Romans 15:10**
 
-And again he says, Rejoice, you Gentiles, with his people.
+And again he says, Rejoice, you nations, with his people.
 
 **Romans 15:11**
 
-And again, Praise the Lord, all you Gentiles; and extol him, all you people.
+And again, Praise the Lord, all you nations; and extol him, all you people.
 
 **Romans 15:12**
 
-And again, Isaiah says, There shall be a root of Jesse, and the one who shall rise to reign over the Gentiles; in him shall the Gentiles trust.
+And again, Isaiah says, There shall be a root of Jesse, and the one who shall rise to reign over the nations; in him shall the nations trust.
 
 **Romans 15:13**
 
@@ -20976,15 +20976,15 @@ Nevertheless, brothers, I have written the more boldly to you in some sort, as p
 
 **Romans 15:16**
 
-That I should be the minister of Jesus Christ to the Gentiles, ministering the good news of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Spirit.
+That I should be the minister of Jesus Christ to the nations, ministering the good news of God, that the offering up of the nations might be acceptable, being sanctified by the Holy Spirit.
 
 **Romans 15:17**
 
-I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.
+I have therefore of which I may glory through Jesus Christ in those things which pertain to God.
 
 **Romans 15:18**
 
-For I will not dare to speak of any of those things which Christ has not wrought by me, to make the Gentiles obedient, by word and deed,
+For I will not dare to speak of any of those things which Christ has not worked by me, to make the nations obedient, by word and deed,
 
 **Romans 15:19**
 
@@ -21020,7 +21020,7 @@ For it has pleased them of Macedonia and Achaia to make a certain contribution f
 
 **Romans 15:27**
 
-It has pleased them truly; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister to them in carnal things.
+It has pleased them truly; and their debtors they are. For if the nations have been made partakers of their spiritual things, their duty is also to minister to them in carnal things.
 
 **Romans 15:28**
 
@@ -21036,7 +21036,7 @@ Now I plead to you, brothers, for the Lord Jesus Christ's sake, and for the love
 
 **Romans 15:31**
 
-That I may be delivered from those who do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the holy ones;
+That I may be delivered from those who do not believe in Judea; and that my service which I have for Jerusalem may be accepted of the holy ones;
 
 **Romans 15:32**
 
@@ -21062,7 +21062,7 @@ Greet Priscilla and Aquila my helpers in Christ Jesus:
 
 **Romans 16:4**
 
-Who have for my life laid down their own necks: to whom not only I give thanks, but also all the assemblies of the Gentiles.
+Who have for my life laid down their own necks: to whom not only I give thanks, but also all the assemblies of the nations.
 
 **Romans 16:5**
 
@@ -21086,7 +21086,7 @@ Salute Urbane, our helper in Christ, and Stachys my beloved.
 
 **Romans 16:10**
 
-Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.
+Salute Apelles approved in Christ. Salute those who are of Aristobulus' household.
 
 **Romans 16:11**
 
@@ -21114,7 +21114,7 @@ Salute one another with a holy kiss. The assemblies of Christ salute you.
 
 **Romans 16:17**
 
-Now I plead to you, brothers, mark them which cause divisions and stumbling blocks contrary to the doctrine which you have learned; and avoid them.
+Now I plead to you, brothers, mark those who cause divisions and offenses contrary to the doctrine which you have learned; and avoid them.
 
 **Romans 16:18**
 
@@ -21150,7 +21150,7 @@ Now to him who is of power to establish you according to my good news, and the p
 
 **Romans 16:26**
 
-But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
+But now is made manifest, and by the scriptures of the prophets, according to the commandment of the eternal God, made known to all nations for the obedience of faith:
 
 **Romans 16:27**
 
@@ -21166,7 +21166,7 @@ Paul called to be an apostle of Jesus Christ through the will of God, and Sosthe
 
 **1 Corinthians 1:2**
 
-To the assembly of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
+To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
 
 **1 Corinthians 1:3**
 
@@ -21174,7 +21174,7 @@ Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 
 **1 Corinthians 1:4**
 
-I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
+I thank my God always on your behalf, for the grace of God who is given you by Jesus Christ;
 
 **1 Corinthians 1:5**
 
@@ -21198,11 +21198,11 @@ God is faithful, by whom you were called to the fellowship of his Son Jesus Chri
 
 **1 Corinthians 1:10**
 
-Now I plead to you, brothers, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you; but that you be perfectly joined together in the same mind and in the same judgment.
+Now I plead to you, brothers, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there is no divisions among you; but that you be perfectly joined together in the same mind and in the same judgment.
 
 **1 Corinthians 1:11**
 
-For it has been declared to me of you, my brothers, by them which are of the house of Chloe, that there are contentions among you.
+For it has been declared to me of you, my brothers, by those who are of the house of Chloe, that there are contentions among you.
 
 **1 Corinthians 1:12**
 
@@ -21218,11 +21218,11 @@ I thank God that I baptized none of you, but Crispus and Gaius;
 
 **1 Corinthians 1:15**
 
-Lest any should say that I had baptized in mine own name.
+Lest any should say that I had baptized in my own name.
 
 **1 Corinthians 1:16**
 
-And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.
+And I baptized also the household of Stephanas: besides, I do not know whether I baptized any other.
 
 **1 Corinthians 1:17**
 
@@ -21242,7 +21242,7 @@ Where is the wise? where is the scribe? where is the disputer of this age? has n
 
 **1 Corinthians 1:21**
 
-For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save those who believe.
+For after that in the wisdom of God the world by wisdom did not know God, it pleased God by the foolishness of preaching to save those who believe.
 
 **1 Corinthians 1:22**
 
@@ -21254,7 +21254,7 @@ But we preach Christ crucified, to the Jews a stumbling block, and to the Greeks
 
 **1 Corinthians 1:24**
 
-But to them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
+But to those who are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
 
 **1 Corinthians 1:25**
 
@@ -21328,7 +21328,7 @@ But God has revealed them to us by his Spirit: for the Spirit searches all thing
 
 **1 Corinthians 2:11**
 
-For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no one, but the Spirit of God.
+For what man knows the things of a man, save the spirit of man who is in him? even so the things of God knows no one, but the Spirit of God.
 
 **1 Corinthians 2:12**
 
@@ -21390,7 +21390,7 @@ For we are labourers together with God: you are God's farming, you are God's bui
 
 **1 Corinthians 3:10**
 
-According to the grace of God which is given to me, as a wise architect, I have laid the foundation, and another builds thereon. But let every man take heed how he builds thereupon.
+According to the grace of God who is given to me, as a wise architect, I have laid the foundation, and another builds thereon. But let every man take heed how he builds thereupon.
 
 **1 Corinthians 3:11**
 
@@ -21456,11 +21456,11 @@ Moreover it is required in stewards, that a man be found faithful.
 
 **1 Corinthians 4:3**
 
-But with me it is a very small thing that I should be judged of you, or of man's judgment: yes, I judge not mine own self.
+But with me it is a very small thing that I should be judged of you, or of man's judgment: yes, I do not judge my own self.
 
 **1 Corinthians 4:4**
 
-For I know nothing by myself; yet am I not hereby justified: but the one who judges me is the Lord.
+For I know nothing by myself; yet am I not by this justified: but the one who judges me is the Lord.
 
 **1 Corinthians 4:5**
 
@@ -21520,7 +21520,7 @@ Now some are puffed up, as though I would not come to you.
 
 **1 Corinthians 4:19**
 
-But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
+But I will come to you shortly, if the Lord will, and will know, not the speech of those who are puffed up, but the power.
 
 **1 Corinthians 4:20**
 
@@ -21534,7 +21534,7 @@ What will you? shall I come to you with a rod, or in love, and in the spirit of 
 
 **1 Corinthians 5:1**
 
-It is reported commonly that there is sexual immorality among you, and such sexual immorality as is not so much as named among the Gentiles, that one should have his father's wife.
+It is reported commonly that there is sexual immorality among you, and such sexual immorality as is not so much as named among the nations, that one should have his father's wife.
 
 **1 Corinthians 5:2**
 
@@ -21550,7 +21550,7 @@ In the name of our Lord Jesus Christ, when you are gathered together, and my spi
 
 **1 Corinthians 5:5**
 
-To deliver such an one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
+To deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 
 **1 Corinthians 5:6**
 
@@ -21574,7 +21574,7 @@ Yet not altogether with the fornicators of this world, or with the covetous, or 
 
 **1 Corinthians 5:11**
 
-But now I have written to you not to keep company, if anyone that is called a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortionist; with such an one no not to eat.
+But now I have written to you not to keep company, if anyone that is called a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortionist; with such a one no not to eat.
 
 **1 Corinthians 5:12**
 
@@ -21644,11 +21644,11 @@ And God has both raised up the Lord, and will also raise up us by his own power.
 
 **1 Corinthians 6:15**
 
-Know you not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.
+Know you not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of a prostitute? May it not be.
 
 **1 Corinthians 6:16**
 
-What? know you not that he which is joined to an harlot is one body? for two, says he, shall be one flesh.
+What? know you not that the one who is joined to a prostitute is one body? for two, says he, shall be one flesh.
 
 **1 Corinthians 6:17**
 
@@ -21670,7 +21670,7 @@ For you are bought with a price: therefore glorify God in your body, and in your
 
 **1 Corinthians 7:1**
 
-Now concerning the things whereof you wrote to me: It is good for a man not to touch a woman.
+Now concerning the things of which you wrote to me: It is good for a man not to touch a woman.
 
 **1 Corinthians 7:2**
 
@@ -21714,11 +21714,11 @@ But and if she depart, let her remain unmarried or be reconciled to her husband:
 
 **1 Corinthians 7:12**
 
-But to the rest speak I, not the Lord: If any brother has a wife that believes not, and she be pleased to dwell with him, let him not release her.
+But to the rest speak I, not the Lord: If any brother has a wife that does not believe, and she be pleased to dwell with him, let him not release her.
 
 **1 Corinthians 7:13**
 
-And the woman which has an husband that believes not, and if he be pleased to dwell with her, let her not leave him.
+And the woman who has a husband that does not believe, and if he is pleased to dwell with her, let her not leave him.
 
 **1 Corinthians 7:14**
 
@@ -21746,7 +21746,7 @@ Circumcision is nothing, and uncircumcision is nothing, but the keeping of the c
 
 **1 Corinthians 7:20**
 
-Let every man abide in the same calling wherein he was called.
+Let every man abide in the same calling in which he was called.
 
 **1 Corinthians 7:21**
 
@@ -21762,7 +21762,7 @@ You are bought with a price; be not you the slaves of men.
 
 **1 Corinthians 7:24**
 
-Brothers, let every man, wherein he is called, therein abide with God.
+Brothers, let every man, in which he is called, in it abide with God.
 
 **1 Corinthians 7:25**
 
@@ -21848,7 +21848,7 @@ As concerning therefore the eating of those things that are offered in sacrifice
 
 **1 Corinthians 8:5**
 
-For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
+For though there is that are called gods, whether in heaven or in earth, (as there is gods many, and lords many,)
 
 **1 Corinthians 8:6**
 
@@ -21868,7 +21868,7 @@ But take heed lest by any means this liberty of your's become a stumbling block 
 
 **1 Corinthians 8:10**
 
-For if anyone see you which have knowledge sit to eat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
+For if anyone see you which have knowledge sit to eat in the idol's temple, shall not the conscience of him who is weak be emboldened to eat those things which are offered to idols;
 
 **1 Corinthians 8:11**
 
@@ -21910,7 +21910,7 @@ Or I only and Barnabas, have not we power to forbear working?
 
 **1 Corinthians 9:7**
 
-Who goes a warfare any time at his own charges? who plants a vineyard, and eats not of the fruit thereof? or who feeds a flock, and eats not of the milk of the flock?
+Who goes a warfare any time at his own charges? who plants a vineyard, and eats not of the fruit of it? or who feeds a flock, and eats not of the milk of the flock?
 
 **1 Corinthians 9:8**
 
@@ -21934,11 +21934,11 @@ If others be partakers of this power over you, are not we rather? Nevertheless w
 
 **1 Corinthians 9:13**
 
-Do you not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
+Do you not know that those who minister about holy things live of the things of the temple? and those who wait at the altar are partakers with the altar?
 
 **1 Corinthians 9:14**
 
-Even so has the Lord ordained that they which preach the good news should live of the good news.
+Even so has the Lord ordained that those who preach the good news should live of the good news.
 
 **1 Corinthians 9:15**
 
@@ -21974,11 +21974,11 @@ To the weak became I as weak, that I might gain the weak: I am made all things t
 
 **1 Corinthians 9:23**
 
-And this I do for the good news's sake, that I might be partaker thereof with you.
+And this I do for the good news's sake, that I might be partaker of it with you.
 
 **1 Corinthians 9:24**
 
-Know you not that they which run in a race run all, but one receives the prize? So run, that you may obtain.
+Know you not that those who run in a race run all, but one receives the prize? So run, that you may obtain.
 
 **1 Corinthians 9:25**
 
@@ -22064,7 +22064,7 @@ For we being many are one bread, and one body: for we are all partakers of that 
 
 **1 Corinthians 10:18**
 
-Look Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
+Look Israel after the flesh: are not those who eat of the sacrifices partakers of the altar?
 
 **1 Corinthians 10:19**
 
@@ -22072,7 +22072,7 @@ What say I then? that the idol is anything, or that which is offered in sacrific
 
 **1 Corinthians 10:20**
 
-But I say, that the things which the Gentiles sacrifice, they sacrifice to demons, and not to God: and I would not that you should have fellowship with demons.
+But I say, that the things which the nations sacrifice, they sacrifice to demons, and not to God: and I would not that you should have fellowship with demons.
 
 **1 Corinthians 10:21**
 
@@ -22096,19 +22096,19 @@ Whatever is sold in the shambles, that eat, asking no question for conscience sa
 
 **1 Corinthians 10:26**
 
-For the earth is the Lord's, and the fullness thereof.
+For the earth is the Lord's, and the fullness of it.
 
 **1 Corinthians 10:27**
 
-If any of those who believe not bid you to a feast, and you be disposed to go; whatever is set before you, eat, asking no question for conscience sake.
+If any of those who do not believe bid you to a feast, and you be disposed to go; whatever is set before you, eat, asking no question for conscience sake.
 
 **1 Corinthians 10:28**
 
-But if anyone say to you, This is offered in sacrifice to idols, eat not for his sake that showed it, and for conscience sake: for the earth is the Lord's, and the fullness thereof:
+But if anyone say to you, This is offered in sacrifice to idols, eat not for his sake that showed it, and for conscience sake: for the earth is the Lord's, and the fullness of it:
 
 **1 Corinthians 10:29**
 
-Conscience, I say, not yours own, but of the other: for why is my liberty judged of another man's conscience?
+Conscience, I say, not your own, but of the other: for why is my liberty judged of another man's conscience?
 
 **1 Corinthians 10:30**
 
@@ -22120,11 +22120,11 @@ Whether therefore you eat, or drink, or whatever you do, do all to the glory of 
 
 **1 Corinthians 10:32**
 
-Give none offence, neither to the Jews, nor to the Gentiles, nor to the assembly of God:
+Give none offense, neither to the Jews, nor to the Gentiles, nor to the assembly of God:
 
 **1 Corinthians 10:33**
 
-Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved.
+Even as I please all men in all things, not seeking my own profit, but the profit of many, that they may be saved.
 
 ### Chapter 11
 
@@ -22198,11 +22198,11 @@ Now in this that I declare to you I praise you not, that you come together not f
 
 **1 Corinthians 11:18**
 
-For first of all, when you come together in the assembly, I hear that there be divisions among you; and I partly believe it.
+For first of all, when you come together in the assembly, I hear that there is divisions among you; and I partly believe it.
 
 **1 Corinthians 11:19**
 
-For there must be also heresies among you, that they which are approved may be made manifest among you.
+For there must be also heresies among you, that those who are approved may be made manifest among you.
 
 **1 Corinthians 11:20**
 
@@ -22242,7 +22242,7 @@ But let a man examine himself, and so let him eat of that bread, and drink of th
 
 **1 Corinthians 11:29**
 
-For the one who eats and drinks unworthily, eats and drinks damnation to himself, not discerning the Lord's body.
+For the one who eats and drinks unworthily, eats and drinks judgment to himself, not discerning the Lord's body.
 
 **1 Corinthians 11:30**
 
@@ -22272,7 +22272,7 @@ Now concerning spiritual gifts, brothers, I would not have you ignorant.
 
 **1 Corinthians 12:2**
 
-You know that you were Gentiles, carried away to these dumb idols, even as you were led.
+You know that you were nations, carried away to these voiceless idols, even as you were led.
 
 **1 Corinthians 12:3**
 
@@ -22288,7 +22288,7 @@ And there are differences of administrations, but the same Lord.
 
 **1 Corinthians 12:6**
 
-And there are diversities of operations, but it is the same God which works all in all.
+And there are diversities of operations, but it is the same God who works all in all.
 
 **1 Corinthians 12:7**
 
@@ -22316,7 +22316,7 @@ For as the body is one, and has many members, and all the members of that one bo
 
 **1 Corinthians 12:13**
 
-For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be slave or free; and have been all made to drink into one Spirit.
 
 **1 Corinthians 12:14**
 
@@ -22422,7 +22422,7 @@ Bears all things, believes all things, hopes all things, endures all things.
 
 **1 Corinthians 13:8**
 
-Love never fails: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+Love never fails: but whether there is prophecies, they shall fail; whether there is tongues, they shall cease; whether there is knowledge, it shall vanish away.
 
 **1 Corinthians 13:9**
 
@@ -22488,7 +22488,7 @@ There are, it may be, so many kinds of voices in the world, and none of them is 
 
 **1 Corinthians 14:11**
 
-Therefore if I know not the meaning of the voice, I shall be to him who speaks a barbarian, and the one who speaks shall be a barbarian to me.
+Therefore if I do not know the meaning of the voice, I shall be to him who speaks a barbarian, and the one who speaks shall be a barbarian to me.
 
 **1 Corinthians 14:12**
 
@@ -22532,7 +22532,7 @@ In the law it is written, With men of other tongues and other lips will I speak 
 
 **1 Corinthians 14:22**
 
-Therefore tongues are for a sign, not to those who believe, but to those who believe not: but prophesying serves not for those who believe not, but for them which believe.
+Therefore tongues are for a sign, not to those who believe, but to those who do not believe: but prophesying serves not for those who do not believe, but for those who believe.
 
 **1 Corinthians 14:23**
 
@@ -22540,7 +22540,7 @@ If therefore the whole assembly be come together into one place, and all speak w
 
 **1 Corinthians 14:24**
 
-But if all prophesy, and there come in one that believes not, or one unlearned, he is convinced of all, he is judged of all:
+But if all prophesy, and there come in one that does not believe, or one unlearned, he is convinced of all, he is judged of all:
 
 **1 Corinthians 14:25**
 
@@ -22556,7 +22556,7 @@ If anyone speak in an unknown tongue, let it be by two, or at the most by three,
 
 **1 Corinthians 14:28**
 
-But if there be no interpreter, let him keep silence in the assembly; and let him speak to himself, and to God.
+But if there is no interpreter, let him keep silence in the assembly; and let him speak to himself, and to God.
 
 **1 Corinthians 14:29**
 
@@ -22564,7 +22564,7 @@ Let the prophets speak two or three, and let the other judge.
 
 **1 Corinthians 14:30**
 
-If anything be revealed to another that sits by, let the first hold his peace.
+If anything be revealed to another that sits by, let the first be silent.
 
 **1 Corinthians 14:31**
 
@@ -22610,7 +22610,7 @@ Let all things be done decently and in order.
 
 **1 Corinthians 15:1**
 
-Moreover, brothers, I declare to you the good news which I preached to you, which also you have received, and wherein you stand;
+Moreover, brothers, I declare to you the good news which I preached to you, which also you have received, and in which you stand;
 
 **1 Corinthians 15:2**
 
@@ -22646,7 +22646,7 @@ For I am the least of the apostles, that am not meet to be called an apostle, be
 
 **1 Corinthians 15:10**
 
-But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
+But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God who was with me.
 
 **1 Corinthians 15:11**
 
@@ -22654,15 +22654,15 @@ Therefore whether it were I or they, so we preach, and so you believed.
 
 **1 Corinthians 15:12**
 
-Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
+Now if Christ is preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 
 **1 Corinthians 15:13**
 
-But if there be no resurrection of the dead, then is Christ not risen:
+But if there is no resurrection of the dead, then is Christ not risen:
 
 **1 Corinthians 15:14**
 
-And if Christ be not risen, then is our preaching vain, and your faith is also vain.
+And if Christ is not risen, then is our preaching vain, and your faith is also vain.
 
 **1 Corinthians 15:15**
 
@@ -22674,7 +22674,7 @@ For if the dead rise not, then is not Christ raised:
 
 **1 Corinthians 15:17**
 
-And if Christ be not raised, your faith is vain; you are yet in your sins.
+And if Christ is not raised, your faith is vain; you are yet in your sins.
 
 **1 Corinthians 15:18**
 
@@ -22742,7 +22742,7 @@ Be not deceived: evil communications corrupt good manners.
 
 **1 Corinthians 15:34**
 
-Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
+Awake to righteousness, and do not sin; for some have not the knowledge of God: I speak this to your shame.
 
 **1 Corinthians 15:35**
 
@@ -22834,7 +22834,7 @@ The sting of death is sin; and the strength of sin is the law.
 
 **1 Corinthians 15:57**
 
-But thanks be to God, which gives us the victory through our Lord Jesus Christ.
+But thanks be to God, who gives us the victory through our Lord Jesus Christ.
 
 **1 Corinthians 15:58**
 
@@ -22848,7 +22848,7 @@ Now concerning the collection for the holy ones, as I have given order to the as
 
 **1 Corinthians 16:2**
 
-Upon the first day of the week let every one of you lay by him in store, as God has prospered him, that there be no gatherings when I come.
+Upon the first day of the week let every one of you lay by him in store, as God has prospered him, that there is no gatherings when I come.
 
 **1 Corinthians 16:3**
 
@@ -22924,7 +22924,7 @@ All the brothers greet you. Greet you one another with a holy kiss.
 
 **1 Corinthians 16:21**
 
-The salutation of me Paul with mine own hand.
+The salutation of me Paul with my own hand.
 
 **1 Corinthians 16:22**
 
@@ -22944,7 +22944,7 @@ My love be with you all in Christ Jesus. Amen.
 
 **2 Corinthians 1:1**
 
-Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the holy ones which are in all Achaia:
+Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God who is at Corinth, with all the holy ones which are in all Achaia:
 
 **2 Corinthians 1:2**
 
@@ -22956,7 +22956,7 @@ Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies,
 
 **2 Corinthians 1:4**
 
-Who comforts us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
+Who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, by the comfort with which we ourselves are comforted of God.
 
 **2 Corinthians 1:5**
 
@@ -22976,7 +22976,7 @@ For we would not, brothers, have you ignorant of our trouble which came to us in
 
 **2 Corinthians 1:9**
 
-But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raises the dead:
+But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God who raises the dead:
 
 **2 Corinthians 1:10**
 
@@ -23004,7 +23004,7 @@ And in this confidence I resolved to come to you before, that you might have a s
 
 **2 Corinthians 1:16**
 
-And to pass by you into Macedonia, and to come again out of Macedonia to you, and of you to be brought on my way toward Judaea.
+And to pass by you into Macedonia, and to come again out of Macedonia to you, and of you to be brought on my way toward Judea.
 
 **2 Corinthians 1:17**
 
@@ -23024,7 +23024,7 @@ For all the promises of God in him are yes, and in him Amen, to the glory of God
 
 **2 Corinthians 1:21**
 
-Now he which establishes us with you in Christ, and has anointed us, is God;
+Now the one who establishes us with you in Christ, and has anointed us, is God;
 
 **2 Corinthians 1:22**
 
@@ -23094,7 +23094,7 @@ I had no rest in my spirit, because I found not Titus my brother: but taking my 
 
 **2 Corinthians 2:14**
 
-Now thanks be to God, which always causes us to triumph in Christ, and makes manifest the taste of his knowledge by us in every place.
+Now thanks be to God, who always causes us to triumph in Christ, and makes manifest the taste of his knowledge by us in every place.
 
 **2 Corinthians 2:15**
 
@@ -23186,7 +23186,7 @@ But we all, with open face beholding as in a glass the glory of the Lord, are ch
 
 **2 Corinthians 4:1**
 
-Therefore seeing we have this ministry, as we have received mercy, we faint not;
+Therefore seeing we have this ministry, as we have received mercy, we do not faint;
 
 **2 Corinthians 4:2**
 
@@ -23198,7 +23198,7 @@ But if our good news be hid, it is hid to those who are lost:
 
 **2 Corinthians 4:4**
 
-In whom the god of this age has blinded the minds of them which believe not, lest the light of the glorious good news of Christ, who is the image of God, should shine to them.
+In whom the god of this age has blinded the minds of those who do not believe, lest the light of the glorious good news of Christ, who is the image of God, should shine to them.
 
 **2 Corinthians 4:5**
 
@@ -23238,7 +23238,7 @@ We having the same spirit of faith, according as it is written, I believed, and 
 
 **2 Corinthians 4:14**
 
-Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
+Knowing that the one who raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
 
 **2 Corinthians 4:15**
 
@@ -23246,7 +23246,7 @@ For all things are for your sakes, that the abundant grace might through the tha
 
 **2 Corinthians 4:16**
 
-For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.
+For which cause we do not faint; but though our outward man perish, yet the inward man is renewed day by day.
 
 **2 Corinthians 4:17**
 
@@ -23276,7 +23276,7 @@ For we that are in this tabernacle do groan, being burdened: not for that we wou
 
 **2 Corinthians 5:5**
 
-Now the one who has wrought us for the very same thing is God, who also has given to us the earn of the Spirit.
+Now the one who has worked us for the very same thing is God, who also has given to us the earn of the Spirit.
 
 **2 Corinthians 5:6**
 
@@ -23304,7 +23304,7 @@ Knowing therefore the terror of the Lord, we persuade men; but we are made manif
 
 **2 Corinthians 5:12**
 
-For we commend not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer them which glory in appearance, and not in heart.
+For we commend not ourselves again to you, but give you occasion to glory on our behalf, that you may have somewhat to answer those who glory in appearance, and not in heart.
 
 **2 Corinthians 5:13**
 
@@ -23316,7 +23316,7 @@ For the love of Christ constrains us; because we thus judge, that if one died fo
 
 **2 Corinthians 5:15**
 
-And that he died for all, that they which live should not from now on live to themselves, but to him which died for them, and rose again.
+And that he died for all, that those who live should not from now on live to themselves, but to him who died for them, and rose again.
 
 **2 Corinthians 5:16**
 
@@ -23354,7 +23354,7 @@ We then, as workers together with him, plead to you also that you receive not th
 
 **2 Corinthians 6:3**
 
-Giving no offence in anything, that the ministry be not blamed:
+Giving no offense in anything, that the ministry be not blamed:
 
 **2 Corinthians 6:4**
 
@@ -23390,7 +23390,7 @@ O you Corinthians, our mouth is open to you, our heart is enlarged.
 
 **2 Corinthians 6:12**
 
-You are not straitened in us, but you are straitened in your own bowels.
+You are not straitened in us, but you are straitened in your own inward parts.
 
 **2 Corinthians 6:13**
 
@@ -23410,7 +23410,7 @@ And what agreement has the temple of God with idols? for you are the temple of t
 
 **2 Corinthians 6:17**
 
-Therefore come out from among them, and be you separate, says the Lord, and touch not the unclean thing; and I will receive you.
+Therefore come out from among them, and be you separate, says the Lord, and do not touch the unclean thing; and I will receive you.
 
 **2 Corinthians 6:18**
 
@@ -23444,7 +23444,7 @@ Nevertheless God, that comforts those that are cast down, comforted us by the co
 
 **2 Corinthians 7:7**
 
-And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
+And not by his coming only, but by the consolation with which he was comforted in you, when he told us your earn desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 
 **2 Corinthians 7:8**
 
@@ -23460,7 +23460,7 @@ For godly sorrow works repentance to salvation not to be repented of: but the so
 
 **2 Corinthians 7:11**
 
-For look this very same thing, that you sorrowed after a godly sort, what carefulness it wrought in you, yes, what clearing of yourselves, yes, what indignation, yes, what fear, yes, what vehement desire, yes, what zeal, yes, what revenge! In all things you have approved yourselves to be clear in this matter.
+For look this very same thing, that you sorrowed after a godly sort, what carefulness it worked in you, yes, what clearing of yourselves, yes, what indignation, yes, what fear, yes, what vehement desire, yes, what zeal, yes, what revenge! In all things you have approved yourselves to be clear in this matter.
 
 **2 Corinthians 7:12**
 
@@ -23530,7 +23530,7 @@ Now therefore perform the doing of it; that as there was a readiness to will, so
 
 **2 Corinthians 8:12**
 
-For if there be first a willing mind, it is accepted according to that a man has, and not according to that he has not.
+For if there is first a willing mind, it is accepted according to that a man has, and not according to that he has not.
 
 **2 Corinthians 8:13**
 
@@ -23546,7 +23546,7 @@ As it is written, the one who had gathered much had nothing over; and the one wh
 
 **2 Corinthians 8:16**
 
-But thanks be to God, which put the same earn care into the heart of Titus for you.
+But thanks be to God, who put the same earn care into the heart of Titus for you.
 
 **2 Corinthians 8:17**
 
@@ -23600,11 +23600,11 @@ Lest lest by any means if they of Macedonia come with me, and find you unprepare
 
 **2 Corinthians 9:5**
 
-Therefore I thought it necessary to exhort the brothers, that they would go before to you, and make up beforehand your bounty, whereof you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.
+Therefore I thought it necessary to exhort the brothers, that they would go before to you, and make up beforehand your bounty, of which you had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.
 
 **2 Corinthians 9:6**
 
-But this I say, He which sows sparingly shall reap also sparingly; and he which sows bountifully shall reap also bountifully.
+But this I say, the one who sows sparingly shall reap also sparingly; and the one who sows bountifully shall reap also bountifully.
 
 **2 Corinthians 9:7**
 
@@ -23620,7 +23620,7 @@ And God is able to make all grace abound toward you; that you, always having all
 
 **2 Corinthians 9:10**
 
-Now the one who ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
+Now the one who supplies seed to the sower both supply bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
 
 **2 Corinthians 9:11**
 
@@ -23650,7 +23650,7 @@ Now I Paul myself plead to you by the meekness and gentleness of Christ, who in 
 
 **2 Corinthians 10:2**
 
-But I plead to you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.
+But I plead to you, that I may not be bold when I am present with that confidence, with which I think to be bold against some, which think of us as if we walked according to the flesh.
 
 **2 Corinthians 10:3**
 
@@ -23686,7 +23686,7 @@ For his letters, say they, are weighty and powerful; but his bodily presence is 
 
 **2 Corinthians 10:11**
 
-Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
+Let such a one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.
 
 **2 Corinthians 10:12**
 
@@ -23744,7 +23744,7 @@ But though I be rude in speech, yet not in knowledge; but we have been thoroughl
 
 **2 Corinthians 11:7**
 
-Have I committed an offence in abasing myself that you might be exalted, because I have preached to you the good news of God freely?
+Have I committed an offense in abasing myself that you might be exalted, because I have preached to you the good news of God freely?
 
 **2 Corinthians 11:8**
 
@@ -23764,7 +23764,7 @@ Therefore? because I love you not? God knows.
 
 **2 Corinthians 11:12**
 
-But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.
+But what I do, that I will do, that I may cut off occasion from those who desire occasion; that in which they glory, they may be found even as we.
 
 **2 Corinthians 11:13**
 
@@ -23820,7 +23820,7 @@ Three times was I beaten with rods, once was I stoned, three times I suffered sh
 
 **2 Corinthians 11:26**
 
-In journeys often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brothers;
+In journeys often, in perils of waters, in perils of robbers, in perils by my own countrymen, in perils by the nations, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brothers;
 
 **2 Corinthians 11:27**
 
@@ -23840,7 +23840,7 @@ If I must glory, I will glory of the things which concern mine infirmities.
 
 **2 Corinthians 11:31**
 
-The God and Father of our Lord Jesus Christ, which is blessed for evermore, knows that I lie not.
+The God and Father of our Lord Jesus Christ, who is blessed for evermore, knows that I lie not.
 
 **2 Corinthians 11:32**
 
@@ -23858,7 +23858,7 @@ It is not expedient for me doubtless to glory. I will come to visions and revela
 
 **2 Corinthians 12:2**
 
-I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such an one caught up to the third heaven.
+I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such a one caught up to the third heaven.
 
 **2 Corinthians 12:3**
 
@@ -23870,7 +23870,7 @@ How that he was caught up into paradise, and heard unspeakable words, which it i
 
 **2 Corinthians 12:5**
 
-Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.
+Of such a one will I glory: yet of myself I will not glory, but in mine infirmities.
 
 **2 Corinthians 12:6**
 
@@ -23898,11 +23898,11 @@ I am become a fool in glorying; you have compelled me: for I ought to have been 
 
 **2 Corinthians 12:12**
 
-Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+Truly the signs of an apostle were worked among you in all patience, in signs, and wonders, and mighty deeds.
 
 **2 Corinthians 12:13**
 
-For what is it wherein you were inferior to other assemblies, except it be that I myself was not burdensome to you? forgive me this wrong.
+For what is it in which you were inferior to other assemblies, except it be that I myself was not burdensome to you? forgive me this wrong.
 
 **2 Corinthians 12:14**
 
@@ -23930,7 +23930,7 @@ Again, think you that we excuse ourselves to you? we speak before God in Christ:
 
 **2 Corinthians 12:20**
 
-For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found to you such as you would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
+For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found to you such as you would not: lest there is debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 
 **2 Corinthians 12:21**
 
@@ -23944,7 +23944,7 @@ This is the third time I am coming to you. In the mouth of two or three witnesse
 
 **2 Corinthians 13:2**
 
-I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which in time past have sinned, and to all other, that, if I come again, I will not spare:
+I told you before, and foretell you, as if I were present, the second time; and being absent now I write to those who in time past have sinned, and to all other, that, if I come again, I will not spare:
 
 **2 Corinthians 13:3**
 
@@ -24024,7 +24024,7 @@ I marvel that you are so soon removed from him who called you into the grace of 
 
 **Galatians 1:7**
 
-Which is not another; but there be some that trouble you, and would pervert the good news of Christ.
+Which is not another; but there is some that trouble you, and would pervert the good news of Christ.
 
 **Galatians 1:8**
 
@@ -24052,7 +24052,7 @@ For you have heard of my conduct in time past in the Jews' religion, how that be
 
 **Galatians 1:14**
 
-And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
+And profited in the Jews' religion above many my equals in my own nation, being more exceedingly zealous of the traditions of my fathers.
 
 **Galatians 1:15**
 
@@ -24060,11 +24060,11 @@ But when it pleased God, who separated me from my mother's womb, and called me b
 
 **Galatians 1:16**
 
-To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
+To reveal his Son in me, that I might preach him among the nations; immediately I conferred not with flesh and blood:
 
 **Galatians 1:17**
 
-Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again to Damascus.
+Neither went I up to Jerusalem to those who were apostles before me; but I went into Arabia, and returned again to Damascus.
 
 **Galatians 1:18**
 
@@ -24084,11 +24084,11 @@ Afterwards I came into the regions of Syria and Cilicia;
 
 **Galatians 1:22**
 
-And was unknown by face to the assemblies of Judaea which were in Christ:
+And was unknown by face to the assemblies of Judea which were in Christ:
 
 **Galatians 1:23**
 
-But they had heard only, That he which persecuted us in times past now preaches the faith which once he destroyed.
+But they had heard only, That the one who persecuted us in times past now preaches the faith which once he destroyed.
 
 **Galatians 1:24**
 
@@ -24102,7 +24102,7 @@ Then fourteen years after I went up again to Jerusalem with Barnabas, and took T
 
 **Galatians 2:2**
 
-And I went up by revelation, and communicated to those who good news which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
+And I went up by revelation, and communicated to those who good news which I preach among the nations, but privately to those who were of reputation, lest by any means I should run, or had run, in vain.
 
 **Galatians 2:3**
 
@@ -24126,11 +24126,11 @@ But contrariwise, when they saw that the good news of the uncircumcision was com
 
 **Galatians 2:8**
 
-(For the one who wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
+(For the one who worked effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the nations:)
 
 **Galatians 2:9**
 
-And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given to me, they gave to me and Barnabas the right hands of fellowship; that we should go to the heathen, and they to the circumcision.
+And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given to me, they gave to me and Barnabas the right hands of fellowship; that we should go to the nations, and they to the circumcision.
 
 **Galatians 2:10**
 
@@ -24142,7 +24142,7 @@ But when Peter had come to Antioch, I withstood him to the face, because he was 
 
 **Galatians 2:12**
 
-For before that certain came from James, he did eat with the Gentiles: but when they had come, he withdrew and separated himself, fearing them which were of the circumcision.
+For before that certain came from James, he did eat with the nations: but when they had come, he withdrew and separated himself, fearing those who were of the circumcision.
 
 **Galatians 2:13**
 
@@ -24150,11 +24150,11 @@ And the other Jews dissembled likewise with him; insomuch that Barnabas also was
 
 **Galatians 2:14**
 
-But when I saw that they walked not uprightly according to the truth of the good news, I said to Peter before them all, If you, being a Jew, live after the manner of Gentiles, and not as do the Jews, why compell you the Gentiles to live as do the Jews?
+But when I saw that they walked not uprightly according to the truth of the good news, I said to Peter before them all, If you, being a Jew, live after the manner of nations, and not as do the Jews, why compell you the nations to live as do the Jews?
 
 **Galatians 2:15**
 
-We who are Jews by nature, and not sinners of the Gentiles,
+We who are Jews by nature, and not sinners of the nations,
 
 **Galatians 2:16**
 
@@ -24162,7 +24162,7 @@ Knowing that a man is not justified by the works of the law, but by the faith of
 
 **Galatians 2:17**
 
-But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.
+But if, while seeking to be justified in Christ, we ourselves also were found sinners, then is Christ a servant of sin? May it not be.
 
 **Galatians 2:18**
 
@@ -24200,7 +24200,7 @@ Have you suffered so many things in vain? if it be yet in vain.
 
 **Galatians 3:5**
 
-He therefore that ministers to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
+He therefore that supplies to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
 
 **Galatians 3:6**
 
@@ -24208,15 +24208,15 @@ Even as Abraham believed God, and it was accounted to him for righteousness.
 
 **Galatians 3:7**
 
-Know you therefore that they which are of faith, the same are the children of Abraham.
+Know you therefore that those who are of faith, the same are the children of Abraham.
 
 **Galatians 3:8**
 
-And the scripture, foreseeing that God would justify the heathen through faith, preached before the good news to Abraham, saying, In you shall all nations be blessed.
+And the scripture, foreseeing that God would justify the nations through faith, preached before the good news to Abraham, saying, In you shall all nations be blessed.
 
 **Galatians 3:9**
 
-So then they which be of faith are blessed with faithful Abraham.
+So then those who be of faith are blessed with faithful Abraham.
 
 **Galatians 3:10**
 
@@ -24236,7 +24236,7 @@ Christ has redeemed us from the curse of the law, being made a curse for us: for
 
 **Galatians 3:14**
 
-That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
+That the blessing of Abraham might come on the nations through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
 **Galatians 3:15**
 
@@ -24264,7 +24264,7 @@ Now a mediator is not a mediator of one, but God is one.
 
 **Galatians 3:21**
 
-Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, truly righteousness should have been by the law.
+Is the law then against the promises of God? May it not be: for if there had been a law given which could have given life, truly righteousness should have been by the law.
 
 **Galatians 3:22**
 
@@ -24292,7 +24292,7 @@ For as many of you as have been baptized into Christ have put on Christ.
 
 **Galatians 3:28**
 
-There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for you are all one in Christ Jesus.
+There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female: for you are all one in Christ Jesus.
 
 **Galatians 3:29**
 
@@ -24330,7 +24330,7 @@ Therefore you are no more a slave, but a son; and if a son, then an heir of God 
 
 **Galatians 4:8**
 
-Nevertheless then, when you knew not God, you did service to them which by nature are no gods.
+Nevertheless then, when you did not know God, you did service to those who by nature are no gods.
 
 **Galatians 4:9**
 
@@ -24406,7 +24406,7 @@ But Jerusalem which is above is free, which is the mother of us all.
 
 **Galatians 4:27**
 
-For it is written, Rejoice, you barren that bear not; break forth and cry, you that travail not: for the desolate has many more children than she which has an husband.
+For it is written, Rejoice, you barren that bear not; break forth and cry, you that travail not: for the desolate has many more children than she who has a husband.
 
 **Galatians 4:28**
 
@@ -24428,7 +24428,7 @@ So then, brothers, we are not children of the bondwoman, but of the free.
 
 **Galatians 5:1**
 
-Stand fast therefore in the liberty wherewith Christ has made us free, and be not entangled again with the yoke of bondage.
+Stand fast therefore in the liberty with which Christ has made us free, and be not entangled again with the yoke of bondage.
 
 **Galatians 5:2**
 
@@ -24508,7 +24508,7 @@ Idolatry, witchcraft, hatred, variance, worldy jealousies, wrath, strife, sediti
 
 **Galatians 5:21**
 
-Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.
+Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that those who do such things shall not inherit the kingdom of God.
 
 **Galatians 5:22**
 
@@ -24534,7 +24534,7 @@ Let us not be desirous of vain glory, provoking one another, envying one another
 
 **Galatians 6:1**
 
-Brothers, if a man be overtaken in a fault, you which are spiritual, restore such an one in the spirit of meekness; considering yourself, lest you also be tempted.
+Brothers, if a man be overtaken in a fault, you which are spiritual, restore such a one in the spirit of meekness; considering yourself, lest you also be tempted.
 
 **Galatians 6:2**
 
@@ -24562,11 +24562,11 @@ Be not deceived; God is not mocked: for whatever a man sows, that shall he also 
 
 **Galatians 6:8**
 
-For the one who sows to his flesh shall of the flesh reap corruption; but the one who sows to the Spirit shall of the Spirit reap life everlasting.
+For the one who sows to his flesh shall of the flesh reap corruption; but the one who sows to the Spirit shall of the Spirit reap life eternal.
 
 **Galatians 6:9**
 
-And let us not be weary in well doing: for in due season we shall reap, if we faint not.
+And let us not be weary in well doing: for in due season we shall reap, if we do not faint.
 
 **Galatians 6:10**
 
@@ -24574,7 +24574,7 @@ As we have therefore opportunity, let us do good to all men, especially to them 
 
 **Galatians 6:11**
 
-You see how large a letter I have written to you with mine own hand.
+You see how large a letter I have written to you with my own hand.
 
 **Galatians 6:12**
 
@@ -24586,7 +24586,7 @@ For neither they themselves who are circumcised keep the law; but desire to have
 
 **Galatians 6:14**
 
-But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified to me, and I to the world.
+But may it not be that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified to me, and I to the world.
 
 **Galatians 6:15**
 
@@ -24630,7 +24630,7 @@ Having predestinated us to the adoption of children by Jesus Christ to himself, 
 
 **Ephesians 1:6**
 
-To the praise of the glory of his grace, wherein he has made us accepted in the beloved.
+To the praise of the glory of his grace, in which he has made us accepted in the beloved.
 
 **Ephesians 1:7**
 
@@ -24638,7 +24638,7 @@ In whom we have redemption through his blood, the forgiveness of sins, according
 
 **Ephesians 1:8**
 
-Wherein he has abounded toward us in all wisdom and prudence;
+in which he has abounded toward us in all wisdom and prudence;
 
 **Ephesians 1:9**
 
@@ -24686,7 +24686,7 @@ And what is the exceeding greatness of his power toward us who believe, accordin
 
 **Ephesians 1:20**
 
-Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+Which he worked in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
 
 **Ephesians 1:21**
 
@@ -24708,7 +24708,7 @@ And you has he quickened, who were dead in trespasses and sins;
 
 **Ephesians 2:2**
 
-Wherein in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
+in which in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience:
 
 **Ephesians 2:3**
 
@@ -24716,7 +24716,7 @@ Among whom also we all had our conduct in times past in the lusts of our flesh, 
 
 **Ephesians 2:4**
 
-But God, who is rich in mercy, for his great love wherewith he loved us,
+But God, who is rich in mercy, for his great love with which he loved us,
 
 **Ephesians 2:5**
 
@@ -24744,7 +24744,7 @@ For we are his workmanship, created in Christ Jesus to good works, which God has
 
 **Ephesians 2:11**
 
-Therefore remember, that you being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
+Therefore remember, that you being in time past nations in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 
 **Ephesians 2:12**
 
@@ -24764,7 +24764,7 @@ Having abolished in his flesh the enmity, even the law of commandments contained
 
 **Ephesians 2:16**
 
-And that he might reconcile both to God in one body by the cross, having killed the enmity thereby:
+And that he might reconcile both to God in one body by the cross, having killed the enmity by it:
 
 **Ephesians 2:17**
 
@@ -24794,11 +24794,11 @@ In whom you also are built together for an habitation of God through the Spirit.
 
 **Ephesians 3:1**
 
-For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
+For this cause I Paul, the prisoner of Jesus Christ for you nations,
 
 **Ephesians 3:2**
 
-If you have heard of the dispensation of the grace of God which is given me toward you:
+If you have heard of the dispensation of the grace of God who is given me toward you:
 
 **Ephesians 3:3**
 
@@ -24806,7 +24806,7 @@ How that by revelation he made known to me the mystery; (as I wrote before in fe
 
 **Ephesians 3:4**
 
-Whereby, when you read, you may understand my knowledge in the mystery of Christ)
+by which, when you read, you may understand my knowledge in the mystery of Christ)
 
 **Ephesians 3:5**
 
@@ -24814,15 +24814,15 @@ Which in other ages was not made known to the sons of men, as it is now revealed
 
 **Ephesians 3:6**
 
-That the Gentiles should be join heirs, and of the same body, and partakers of his promise in Christ by the good news:
+That the nations should be join heirs, and of the same body, and partakers of his promise in Christ by the good news:
 
 **Ephesians 3:7**
 
-Whereof I was made a minister, according to the gift of the grace of God given to me by the effectual working of his power.
+of which I was made a minister, according to the gift of the grace of God given to me by the effectual working of his power.
 
 **Ephesians 3:8**
 
-To me, who am less than the least of all holy ones, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;
+To me, who am less than the least of all holy ones, is this grace given, that I should preach among the nations the unsearchable riches of Christ;
 
 **Ephesians 3:9**
 
@@ -24842,7 +24842,7 @@ In whom we have boldness and access with confidence by the faith of him.
 
 **Ephesians 3:13**
 
-Therefore I desire that you faint not at my tribulations for you, which is your glory.
+Therefore I desire that you do not faint at my tribulations for you, which is your glory.
 
 **Ephesians 3:14**
 
@@ -24866,7 +24866,7 @@ May be able to comprehend with all holy ones what is the breadth, and length, an
 
 **Ephesians 3:19**
 
-And to know the love of Christ, which passes knowledge, that you might be filled with all the fullness of God.
+And to know the love of Christ, who passes knowledge, that you might be filled with all the fullness of God.
 
 **Ephesians 3:20**
 
@@ -24880,7 +24880,7 @@ To him be glory in the assembly by Christ Jesus throughout all ages, world witho
 
 **Ephesians 4:1**
 
-I therefore, the prisoner of the Lord, plead to you that you walk worthy of the vocation wherewith you are called,
+I therefore, the prisoner of the Lord, plead to you that you walk worthy of the vocation with which you are called,
 
 **Ephesians 4:2**
 
@@ -24932,7 +24932,7 @@ Till we all come in the unity of the faith, and of the knowledge of the Son of G
 
 **Ephesians 4:14**
 
-That we from now on be no more children, tossed back and forth, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
+That we from now on be no more children, tossed back and forth, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, by which they lie in wait to deceive;
 
 **Ephesians 4:15**
 
@@ -24944,7 +24944,7 @@ From whom the whole body fitly joined together and compacted by that which every
 
 **Ephesians 4:17**
 
-This I say therefore, and testify in the Lord, that you from now on walk not as other Gentiles walk, in the vanity of their mind,
+This I say therefore, and testify in the Lord, that you from now on walk not as other nations walk, in the vanity of their mind,
 
 **Ephesians 4:18**
 
@@ -24964,7 +24964,7 @@ If so be that you have heard him, and have been taught by him, as the truth is i
 
 **Ephesians 4:22**
 
-That you put off concerning the former conduct the old man, which is corrupt according to the deceitful lusts;
+That you put off concerning the former conduct the old man, who is corrupt according to the deceitful lusts;
 
 **Ephesians 4:23**
 
@@ -24972,7 +24972,7 @@ And be renewed in the spirit of your mind;
 
 **Ephesians 4:24**
 
-And that you put on the new man, which after God is created in righteousness and true holiness.
+And that you put on the new man, who after God is created in righteousness and true holiness.
 
 **Ephesians 4:25**
 
@@ -24980,7 +24980,7 @@ Therefore putting away lying, speak every man truth with his neighbour: for we a
 
 **Ephesians 4:26**
 
-Be you angry, and sin not: let not the sun go down upon your wrath:
+Be you angry, and do not sin: let not the sun go down upon your wrath:
 
 **Ephesians 4:27**
 
@@ -24996,7 +24996,7 @@ Let no corrupt communication proceed out of your mouth, but that which is good t
 
 **Ephesians 4:30**
 
-And grieve not the holy Spirit of God, whereby you are sealed to the day of redemption.
+And grieve not the holy Spirit of God, by which you are sealed to the day of redemption.
 
 **Ephesians 4:31**
 
@@ -25078,7 +25078,7 @@ Therefore do not be unwise, but understanding what the will of the Lord is.
 
 **Ephesians 5:18**
 
-And be not drunk with wine, wherein is excess; but be filled with the Spirit;
+And be not drunk with wine, in which is excess; but be filled with the Spirit;
 
 **Ephesians 5:19**
 
@@ -25172,7 +25172,7 @@ With good will doing service, as to the Lord, and not to men:
 
 **Ephesians 6:8**
 
-Knowing that whatever good thing anyone does, the same shall he receive of the Lord, whether he be bond or free.
+Knowing that whatever good thing anyone does, the same shall he receive of the Lord, whether he be slave or free.
 
 **Ephesians 6:9**
 
@@ -25204,7 +25204,7 @@ And your feet shod with the preparation of the good news of peace;
 
 **Ephesians 6:16**
 
-Above all, taking the shield of faith, wherewith you shall be able to quench all the fiery darts of the wicked.
+Above all, taking the shield of faith, with which you shall be able to quench all the fiery darts of the wicked.
 
 **Ephesians 6:17**
 
@@ -25220,7 +25220,7 @@ And for me, that utterance may be given to me, that I may open my mouth boldly, 
 
 **Ephesians 6:20**
 
-For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
+For which I am an ambassador in bonds: that in it I may speak boldly, as I ought to speak.
 
 **Ephesians 6:21**
 
@@ -25244,7 +25244,7 @@ Grace be with all those who love our Lord Jesus Christ in sincerity. Amen.
 
 **Philippians 1:1**
 
-Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus which are at Philippi, with the overseers and servants:
+Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus who are at Philippi, with the overseers and servants:
 
 **Philippians 1:2**
 
@@ -25264,7 +25264,7 @@ For your fellowship in the good news from the first day until now;
 
 **Philippians 1:6**
 
-Being confident of this very thing, that he which has begun a good work in you will perform it until the day of Jesus Christ:
+Being confident of this very thing, that the one who has begun a good work in you will perform it until the day of Jesus Christ:
 
 **Philippians 1:7**
 
@@ -25272,7 +25272,7 @@ Even as it is meet for me to think this of you all, because I have you in my hea
 
 **Philippians 1:8**
 
-For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
+For God is my record, how greatly I long after you all in the deep affection of Jesus Christ.
 
 **Philippians 1:9**
 
@@ -25280,7 +25280,7 @@ And this I pray, that your love may abound yet more and more in knowledge and in
 
 **Philippians 1:10**
 
-That you may approve things that are excellent; that you may be sincere and without offence till the day of Christ.
+That you may approve things that are excellent; that you may be sincere and without offense till the day of Christ.
 
 **Philippians 1:11**
 
@@ -25312,7 +25312,7 @@ But the other of love, knowing that I am set for the defence of the good news.
 
 **Philippians 1:18**
 
-What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yes, and will rejoice.
+What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I in it do rejoice, yes, and will rejoice.
 
 **Philippians 1:19**
 
@@ -25320,7 +25320,7 @@ For I know that this shall turn to my salvation through your prayer, and the sup
 
 **Philippians 1:20**
 
-According to my earn expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
+According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
 
 **Philippians 1:21**
 
@@ -25328,7 +25328,7 @@ In order to me to live is Christ, and to die is gain.
 
 **Philippians 1:22**
 
-But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I know not.
+But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I do not know.
 
 **Philippians 1:23**
 
@@ -25352,7 +25352,7 @@ Only let your conduct be as it becomes the good news of Christ: that whether I c
 
 **Philippians 1:28**
 
-And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
+And in nothing terrified by your adversaries: which is to them an evident token of destruction, but to you of salvation, and that of God.
 
 **Philippians 1:29**
 
@@ -25366,7 +25366,7 @@ Having the same conflict which you saw in me, and now hear to be in me.
 
 **Philippians 2:1**
 
-If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
+if there is therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any inward parts and mercies,
 
 **Philippians 2:2**
 
@@ -25414,7 +25414,7 @@ Therefore, my beloved, as you have always obeyed, not as in my presence only, bu
 
 **Philippians 2:13**
 
-For it is God which works in you both to will and to do of his good pleasure.
+For it is God who works in you both to will and to do of his good pleasure.
 
 **Philippians 2:14**
 
@@ -25500,7 +25500,7 @@ For we are the circumcision, which worship God in the spirit, and rejoice in Chr
 
 **Philippians 3:4**
 
-Though I might also have confidence in the flesh. If any other man thinks that he has whereof he might trust in the flesh, I more:
+Though I might also have confidence in the flesh. If any other man thinks that he has of which he might trust in the flesh, I more:
 
 **Philippians 3:5**
 
@@ -25520,7 +25520,7 @@ Yes doubtless, and I count all things but loss for the excellency of the knowled
 
 **Philippians 3:9**
 
-And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+And be found in him, not having my own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 
 **Philippians 3:10**
 
@@ -25552,7 +25552,7 @@ Nevertheless, whereto we have already attained, let us walk by the same rule, le
 
 **Philippians 3:17**
 
-Brothers, be followers together of me, and mark them which walk so as you have us for an example.
+Brothers, be followers together of me, and mark those who walk so as you have us for an example.
 
 **Philippians 3:18**
 
@@ -25568,7 +25568,7 @@ For our conduct is in heaven; from whence also we look for the Saviour, the Lord
 
 **Philippians 3:21**
 
-Who shall change our vile body, that it may be fashioned like to his glorious body, according to the working whereby he is able even to subdue all things to himself.
+Who shall change our vile body, that it may be fashioned like to his glorious body, according to the working by which he is able even to subdue all things to himself.
 
 ### Chapter 4
 
@@ -25582,7 +25582,7 @@ I plead to Euodias, and plead to Syntyche, that they be of the same mind in the 
 
 **Philippians 4:3**
 
-And I implore you also, true yokefellow, help those women which laboured with me in the good news, with Clement also, and with other my fellow labourers, whose names are in the book of life.
+And I implore you also, true yokefellow, help those women who laboured with me in the good news, with Clement also, and with other my fellow labourers, whose names are in the book of life.
 
 **Philippians 4:4**
 
@@ -25598,11 +25598,11 @@ Be careful for nothing; but in everything by prayer and supplication with thanks
 
 **Philippians 4:7**
 
-And the peace of God, which passes all understanding, shall keep your hearts and minds through Christ Jesus.
+And the peace of God, who passes all understanding, shall keep your hearts and minds through Christ Jesus.
 
 **Philippians 4:8**
 
-Finally, brothers, whatever things are true, whatever things are honest, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+Finally, brothers, whatever things are true, whatever things are honest, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think on these things.
 
 **Philippians 4:9**
 
@@ -25610,11 +25610,11 @@ Those things, which you have both learned, and received, and heard, and seen in 
 
 **Philippians 4:10**
 
-But I rejoiced in the Lord greatly, that now at the last your care of me has flourished again; wherein you were also careful, but you lacked opportunity.
+But I rejoiced in the Lord greatly, that now at the last your care of me has flourished again; in which you were also careful, but you lacked opportunity.
 
 **Philippians 4:11**
 
-Not that I speak in respect of lack: for I have learned, in whatever state I am, therewith to be content.
+Not that I speak in respect of lack: for I have learned, in whatever state I am, with it to be content.
 
 **Philippians 4:12**
 
@@ -25622,7 +25622,7 @@ I know both how to be brought low, and I know how to abound: every where and in 
 
 **Philippians 4:13**
 
-I can do all things through Christ which strengthens me.
+I can do all things through Christ who strengthens me.
 
 **Philippians 4:14**
 
@@ -25674,7 +25674,7 @@ Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 
 **Colossians 1:2**
 
-To the holy ones and faithful brothers in Christ which are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
+To the holy ones and faithful brothers in Christ who are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ.
 
 **Colossians 1:3**
 
@@ -25686,7 +25686,7 @@ Since we heard of your faith in Christ Jesus, and of the love which you have to 
 
 **Colossians 1:5**
 
-For the hope which is laid up for you in heaven, whereof you heard before in the word of the truth of the good news;
+For the hope which is laid up for you in heaven, of which you heard before in the word of the truth of the good news;
 
 **Colossians 1:6**
 
@@ -25714,7 +25714,7 @@ Strengthened with all might, according to his glorious power, to all patience an
 
 **Colossians 1:12**
 
-Giving thanks to the Father, which has made us meet to be partakers of the inheritance of the holy ones in light:
+Giving thanks to the Father, who has made us meet to be partakers of the inheritance of the holy ones in light:
 
 **Colossians 1:13**
 
@@ -25754,11 +25754,11 @@ And you, that were sometime alienated and enemies in your mind by wicked works, 
 
 **Colossians 1:22**
 
-In the body of his flesh through death, to present you holy and unblameable and irreproachable in his sight:
+In the body of his flesh through death, to present you holy and blameless and above reproach in his sight:
 
 **Colossians 1:23**
 
-If you continue in the faith grounded and settled, and be not moved away from the hope of the good news, which you have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
+If you continue in the faith grounded and settled, and be not moved away from the hope of the good news, which you have heard, and which was preached to every creature which is under heaven; of which I Paul am made a minister;
 
 **Colossians 1:24**
 
@@ -25766,7 +25766,7 @@ Who now rejoice in my sufferings for you, and fill up that which is behind of th
 
 **Colossians 1:25**
 
-Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfill the word of God;
+of which I am made a minister, according to the dispensation of God who is given to me for you, to fulfill the word of God;
 
 **Colossians 1:26**
 
@@ -25774,7 +25774,7 @@ Even the mystery which has been hid from ages and from generations, but now is m
 
 **Colossians 1:27**
 
-To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+To whom God would make known what is the riches of the glory of this mystery among the nations; which is Christ in you, the hope of glory:
 
 **Colossians 1:28**
 
@@ -25812,7 +25812,7 @@ As you have therefore received Christ Jesus the Lord, so walk you in him:
 
 **Colossians 2:7**
 
-Rooted and built up in him, and established in the faith, as you have been taught, abounding therein with thanksgiving.
+Rooted and built up in him, and established in the faith, as you have been taught, abounding in it with thanksgiving.
 
 **Colossians 2:8**
 
@@ -25832,7 +25832,7 @@ In whom also you are circumcised with the circumcision made without hands, in pu
 
 **Colossians 2:12**
 
-Buried with him in baptism, wherein also you are risen with him through the faith of the operation of God, who has raised him from the dead.
+Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
 
 **Colossians 2:13**
 
@@ -25860,7 +25860,7 @@ Let no one beguile you of your reward in a voluntary humility and worshipping of
 
 **Colossians 2:19**
 
-And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increases with the increase of God.
+And not holding the Head, from which all the body by joints and bands having nourishment supplied, and knit together, increases with the increase of God.
 
 **Colossians 2:20**
 
@@ -25868,7 +25868,7 @@ Therefore if you be dead with Christ from the rudiments of the world, why, as th
 
 **Colossians 2:21**
 
-(Touch not; taste not; handle not;
+(do not touch; do not taste; do not handle;
 
 **Colossians 2:22**
 
@@ -25918,15 +25918,15 @@ Lie not one to another, seeing that you have put off the old man with his deeds;
 
 **Colossians 3:10**
 
-And have put on the new man, which is renewed in knowledge after the image of him who created him:
+And have put on the new man, who is renewed in knowledge after the image of him who created him:
 
 **Colossians 3:11**
 
-Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Savages, bond nor free: but Christ is all, and in all.
+Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, slave nor free: but Christ is all, and in all.
 
 **Colossians 3:12**
 
-Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;
+Put on therefore, as the elect of God, holy and beloved, inward parts of mercies, kindness, humbleness of mind, meekness, longsuffering;
 
 **Colossians 3:13**
 
@@ -26024,7 +26024,7 @@ Aristarchus my fellow-prisoner salutes you, and Marcus, sister's (concerning who
 
 **Colossians 4:11**
 
-And Jesus, which is called Justus, who are of the circumcision. These only are my fellow workers to the kingdom of God, which have been a comfort to me.
+And Jesus, who is called Justus, who are of the circumcision. These only are my fellow workers to the kingdom of God, who have been a comfort to me.
 
 **Colossians 4:12**
 
@@ -26096,7 +26096,7 @@ For they themselves show of us what manner of entering in we had to you, and how
 
 **1 Thessalonians 1:10**
 
-And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.
+And to wait for his Son from heaven, whom he raised from the dead, even Jesus, who delivered us from the wrath to come.
 
 ### Chapter 2
 
@@ -26114,7 +26114,7 @@ For our exhortation was not of deceit, nor of uncleanness, nor in guile:
 
 **1 Thessalonians 2:4**
 
-But as we were allowed of God to be put in trust with the good news, even so we speak; not as pleasing men, but God, which tries our hearts.
+But as we were allowed of God to be put in trust with the good news, even so we speak; not as pleasing men, but God, who tries our hearts.
 
 **1 Thessalonians 2:5**
 
@@ -26150,11 +26150,11 @@ That you would walk worthy of God, who has called you to his kingdom and glory.
 
 **1 Thessalonians 2:13**
 
-For this cause also thank we God without ceasing, because, when you received the word of God which you heard of us, you received it not as the word of men, but as it is in truth, the word of God, which effectually works also in you that believe.
+For this cause also thank we God without ceasing, because, when you received the word of God who you heard of us, you received it not as the word of men, but as it is in truth, the word of God, who effectually works also in you that believe.
 
 **1 Thessalonians 2:14**
 
-For you, brothers, became followers of the assemblies of God which in Judaea are in Christ Jesus: for you also have suffered like things of your own countrymen, even as they have of the Jews:
+For you, brothers, became followers of the assemblies of God who in Judea are in Christ Jesus: for you also have suffered like things of your own countrymen, even as they have of the Jews:
 
 **1 Thessalonians 2:15**
 
@@ -26162,7 +26162,7 @@ Who both killed the Lord Jesus, and their own prophets, and have persecuted us; 
 
 **1 Thessalonians 2:16**
 
-Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins always: for the wrath has come upon them to the uttermost.
+Forbidding us to speak to the nations that they might be saved, to fill up their sins always: for the wrath has come upon them to the uttermost.
 
 **1 Thessalonians 2:17**
 
@@ -26216,7 +26216,7 @@ For now we live, if you stand fast in the Lord.
 
 **1 Thessalonians 3:9**
 
-For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;
+For what thanks can we render to God again for you, for all the joy with which we joy for your sakes before our God;
 
 **1 Thessalonians 3:10**
 
@@ -26232,7 +26232,7 @@ And the Lord make you to increase and abound in love one toward another, and tow
 
 **1 Thessalonians 3:13**
 
-To the end he may establish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his holy ones.
+To the end he may establish your hearts blameless in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his holy ones.
 
 ### Chapter 4
 
@@ -26254,7 +26254,7 @@ That every one of you should know how to possess his vessel in sanctification an
 
 **1 Thessalonians 4:5**
 
-Not in the lust of desire, even as the Gentiles which know not God:
+Not in the lust of desire, even as the nations which do not know God:
 
 **1 Thessalonians 4:6**
 
@@ -26286,15 +26286,15 @@ That you may walk honestly toward those who are without, and that you may have l
 
 **1 Thessalonians 4:13**
 
-But I would not have you to be ignorant, brothers, concerning them which are asleep, that you sorrow not, even as others which have no hope.
+But I would not have you to be ignorant, brothers, concerning those who are asleep, that you sorrow not, even as others which have no hope.
 
 **1 Thessalonians 4:14**
 
-For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
+For if we believe that Jesus died and rose again, even so those also who sleep in Jesus will God bring with him.
 
 **1 Thessalonians 4:15**
 
-For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord shall not prevent them which are asleep.
+For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord shall not prevent those who are asleep.
 
 **1 Thessalonians 4:16**
 
@@ -26356,7 +26356,7 @@ Therefore comfort yourselves together, and edify one another, even as also you d
 
 **1 Thessalonians 5:12**
 
-And we plead to you, brothers, to know them which labour among you, and are over you in the Lord, and admonish you;
+And we plead to you, brothers, to know those who labour among you, and are over you in the Lord, and admonish you;
 
 **1 Thessalonians 5:13**
 
@@ -26456,11 +26456,11 @@ And to you who are troubled rest with us, when the Lord Jesus shall be revealed 
 
 **2 Thessalonians 1:8**
 
-In flaming fire taking vengeance on those who know not God, and that obey not the good news of our Lord Jesus Christ:
+In flaming fire taking vengeance on those who do not know God, and that obey not the good news of our Lord Jesus Christ:
 
 **2 Thessalonians 1:9**
 
-Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
+Who shall be punished with eternal destruction from the presence of the Lord, and from the glory of his power;
 
 **2 Thessalonians 1:10**
 
@@ -26486,7 +26486,7 @@ That you be not soon shaken in mind, or be troubled, neither by spirit, nor by w
 
 **2 Thessalonians 2:3**
 
-Let no one deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+Let no one deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of destruction;
 
 **2 Thessalonians 2:4**
 
@@ -26538,7 +26538,7 @@ Therefore, brothers, stand fast, and hold the traditions which you have been tau
 
 **2 Thessalonians 2:16**
 
-Now our Lord Jesus Christ himself, and God, even our Father, which has loved us, and has given us everlasting consolation and good hope through grace,
+Now our Lord Jesus Christ himself, and God, even our Father, who has loved us, and has given us eternal consolation and good hope through grace,
 
 **2 Thessalonians 2:17**
 
@@ -26576,7 +26576,7 @@ For yourselves know how you ought to follow us: for we behaved not ourselves dis
 
 **2 Thessalonians 3:8**
 
-Neither did we eat anyone's bread for nothing; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
+Neither did we eat anyone's bread for nothing; but worked with labour and travail night and day, that we might not be chargeable to any of you:
 
 **2 Thessalonians 3:9**
 
@@ -26612,7 +26612,7 @@ Now the Lord of peace himself give you peace always by all means. The Lord be wi
 
 **2 Thessalonians 3:17**
 
-The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
+The salutation of Paul with my own hand, which is the token in every epistle: so I write.
 
 **2 Thessalonians 3:18**
 
@@ -26624,7 +26624,7 @@ The grace of our Lord Jesus Christ be with you all. Amen.
 
 **1 Timothy 1:1**
 
-Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
+Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, who is our hope;
 
 **1 Timothy 1:2**
 
@@ -26636,7 +26636,7 @@ As I begged you to abide still at Ephesus, when I went into Macedonia, that you 
 
 **1 Timothy 1:4**
 
-Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.
+nor to give heed to myths and endless genealogies, which produce disputes rather than godly edification which is in faith.
 
 **1 Timothy 1:5**
 
@@ -26648,7 +26648,7 @@ From which some having miss the mark have turned aside to vain arguments;
 
 **1 Timothy 1:7**
 
-Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
+Desiring to be teachers of the law; understanding neither what they say, nor of which they affirm.
 
 **1 Timothy 1:8**
 
@@ -26660,11 +26660,11 @@ Knowing this, that the law is not made for a righteous man, but for the lawless 
 
 **1 Timothy 1:10**
 
-For sexually immoral, for those who defile themselves with mankind, for men-stealers, for liars, for promise breakers, and if there be any other thing that is contrary to sound doctrine;
+For sexually immoral, for those who defile themselves with mankind, for men-stealers, for liars, for promise breakers, and if there is any other thing that is contrary to sound doctrine;
 
 **1 Timothy 1:11**
 
-According to the glorious good news of the blessed God, which was committed to my trust.
+According to the glorious good news of the blessed God, who was committed to my trust.
 
 **1 Timothy 1:12**
 
@@ -26684,7 +26684,7 @@ This is a faithful saying, and worthy of all acceptation, that Christ Jesus came
 
 **1 Timothy 1:16**
 
-Nevertheless for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.
+Nevertheless for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to those who should hereafter believe on him to life eternal.
 
 **1 Timothy 1:17**
 
@@ -26730,7 +26730,7 @@ Who gave himself a ransom for all, to be testified in due time.
 
 **1 Timothy 2:7**
 
-To which I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+To which I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the nations in faith and verity.
 
 **1 Timothy 2:8**
 
@@ -26784,7 +26784,7 @@ One that rules well his own house, having his children in subjection with all gr
 
 **1 Timothy 3:5**
 
-(For if a man know not how to rule his own house, how shall he take care of the assembly of God?)
+(For if a man do not know how to rule his own house, how shall he take care of the assembly of God?)
 
 **1 Timothy 3:6**
 
@@ -26792,7 +26792,7 @@ Not a novice, lest being lifted up with pride he fall into the condemnation of t
 
 **1 Timothy 3:7**
 
-Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
+Moreover he must have a good report of those who are without; lest he fall into reproach and the snare of the devil.
 
 **1 Timothy 3:8**
 
@@ -26824,11 +26824,11 @@ These things write I to you, hoping to come to you shortly:
 
 **1 Timothy 3:15**
 
-But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the assembly of the living God, the pillar and ground of the truth.
+But if I tarry long, that you may know how you ought to behave yourself in the house of God, who is the assembly of the living God, the pillar and ground of the truth.
 
 **1 Timothy 3:16**
 
-And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached to the Gentiles, believed on in the world, received up into glory.
+And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached to the nations, believed on in the world, received up into glory.
 
 ### Chapter 4
 
@@ -26842,7 +26842,7 @@ Speaking lies in hypocrisy; having their conscience seared with a hot iron;
 
 **1 Timothy 4:3**
 
-Forbidding to marry, and commanding to abstain from meats, which God has created to be received with thanksgiving of them which believe and know the truth.
+Forbidding to marry, and commanding to abstain from meats, which God has created to be received with thanksgiving of those who believe and know the truth.
 
 **1 Timothy 4:4**
 
@@ -26944,7 +26944,7 @@ But the younger widows refuse: for when they have begun to wax wanton against Ch
 
 **1 Timothy 5:12**
 
-Having damnation, because they have cast off their first faith.
+Having judgment, because they have cast off their first faith.
 
 **1 Timothy 5:13**
 
@@ -26988,7 +26988,7 @@ Lay hands suddenly on no one, neither be partaker of other men's sins: keep your
 
 **1 Timothy 5:23**
 
-Drink no longer water, but use a little wine for your stomach's sake and yours often infirmities.
+Drink no longer water, but use a little wine for your stomach's sake and your often infirmities.
 
 **1 Timothy 5:24**
 
@@ -27014,7 +27014,7 @@ If anyone teach otherwise, and consent not to wholesome words, even the words of
 
 **1 Timothy 6:4**
 
-He is proud, knowing nothing, but doting about questions and strifes of words, whereof comes envy, strife, railings, evil questionings,
+He is proud, knowing nothing, but doting about questions and strifes of words, of which comes envy, strife, railings, evil questionings,
 
 **1 Timothy 6:5**
 
@@ -27030,11 +27030,11 @@ For we brought nothing into this world, and it is certain we can carry nothing o
 
 **1 Timothy 6:8**
 
-And having food and clothing let us be therewith content.
+And having food and clothing let us be with it content.
 
 **1 Timothy 6:9**
 
-But those who will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
+But those who will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and destruction.
 
 **1 Timothy 6:10**
 
@@ -27046,11 +27046,11 @@ But you, O man of God, flee these things; and follow after righteousness, godlin
 
 **1 Timothy 6:12**
 
-Fight the good fight of faith, lay hold on eternal life, to which you are also called, and have professed a good profession before many witnesses.
+Fight the good fight of faith, lay hold on eternal life, to which you are also called, and have professed a good confession before many witnesses.
 
 **1 Timothy 6:13**
 
-I give you charge in the sight of God, who replenishes life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+I give you charge in the sight of God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
 
 **1 Timothy 6:14**
 
@@ -27062,7 +27062,7 @@ Which in his times he shall show, who is the blessed and only Potentate, the Kin
 
 **1 Timothy 6:16**
 
-Who only has immortality, dwelling in the light which no one can approach to; whom no one has seen, nor can see: to whom be honour and power everlasting. Amen.
+Who only has immortality, dwelling in the light which no one can approach to; whom no one has seen, nor can see: to whom be honour and power eternal. Amen.
 
 **1 Timothy 6:17**
 
@@ -27110,7 +27110,7 @@ When I call to remembrance the sincere faith that is in you, which dwelt first i
 
 **2 Timothy 1:6**
 
-Therefore I put you in remembrance that you stir up the gift of God, which is in you by the putting on of my hands.
+Therefore I put you in remembrance that you stir up the gift of God, who is in you by the putting on of my hands.
 
 **2 Timothy 1:7**
 
@@ -27130,7 +27130,7 @@ But is now made manifest by the appearing of our Saviour Jesus Christ, who has a
 
 **2 Timothy 1:11**
 
-To which I am appointed a preacher, and an apostle, and a teacher of the Gentiles.
+To which I am appointed a preacher, and an apostle, and a teacher of the nations.
 
 **2 Timothy 1:12**
 
@@ -27146,7 +27146,7 @@ That good thing which was committed to you keep by the Holy Spirit which dwells 
 
 **2 Timothy 1:15**
 
-This you know, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
+This you know, that all those who are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
 
 **2 Timothy 1:16**
 
@@ -27196,7 +27196,7 @@ Remember that Jesus Christ of the seed of David was raised from the dead accordi
 
 **2 Timothy 2:9**
 
-Wherein I suffer trouble, as an evil doer, even to bonds; but the word of God is not bound.
+in which I suffer trouble, as an evil doer, even to bonds; but the word of God is not bound.
 
 **2 Timothy 2:10**
 
@@ -27212,7 +27212,7 @@ If we suffer, we shall also reign with him: if we deny him, he also will deny us
 
 **2 Timothy 2:13**
 
-If we believe not, yet he abides faithful: he cannot deny himself.
+If we do not believe, yet he abides faithful: he cannot deny himself.
 
 **2 Timothy 2:14**
 
@@ -27286,11 +27286,11 @@ Traitors, rebellious, high-minded, lovers of pleasures more than lovers of God;
 
 **2 Timothy 3:5**
 
-Having a form of godliness, but denying the power thereof: from such turn away.
+Having a form of godliness, but denying the power of it: from such turn away.
 
 **2 Timothy 3:6**
 
-For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with various lusts,
+For of this sort are those who creep into houses, and lead captive silly women laden with sins, led away with various lusts,
 
 **2 Timothy 3:7**
 
@@ -27404,7 +27404,7 @@ At my first answer no one stood with me, but all men forsook me: I pray God that
 
 **2 Timothy 4:17**
 
-Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
+Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the nations might hear: and I was delivered out of the mouth of the lion.
 
 **2 Timothy 4:18**
 
@@ -27444,7 +27444,7 @@ But has in due times manifested his word through preaching, which is committed t
 
 **Titus 1:4**
 
-To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
+To Titus, my own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
 
 **Titus 1:5**
 
@@ -27588,7 +27588,7 @@ That being justified by his grace, we should be made heirs according to the hope
 
 **Titus 3:8**
 
-This is a faithful saying, and these things I will that you affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable to men.
+This is a faithful saying, and these things I will that you affirm constantly, that those who have believed in God might be careful to maintain good works. These things are good and profitable to men.
 
 **Titus 3:9**
 
@@ -27648,7 +27648,7 @@ That the communication of your faith may become effectual by the acknowledging o
 
 **Philemon 1:7**
 
-For we have great joy and consolation in your love, because the bowels of the holy ones are refreshed by you, brother.
+For we have great joy and consolation in your love, because the inward parts of the holy ones are refreshed by you, brother.
 
 **Philemon 1:8**
 
@@ -27656,7 +27656,7 @@ Therefore, though I might be much bold in Christ to admonish you that which is c
 
 **Philemon 1:9**
 
-Yet for love's sake I rather plead to you, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
+Yet for love's sake I rather plead to you, being such a one as Paul the aged, and now also a prisoner of Jesus Christ.
 
 **Philemon 1:10**
 
@@ -27668,7 +27668,7 @@ Which in time past was to you useless, but now profitable to you and to me:
 
 **Philemon 1:12**
 
-Whom I have sent again: you therefore receive him, that is, mine own bowels:
+Whom I have sent again: you therefore receive him, that is, my own inward parts:
 
 **Philemon 1:13**
 
@@ -27696,11 +27696,11 @@ If he has wronged you, or owes you ought, put that on mine account;
 
 **Philemon 1:19**
 
-I Paul have written it with mine own hand, I will repay it: although it be I do not say to you how you owe to me even yours own self besides.
+I Paul have written it with my own hand, I will repay it: although it be I do not say to you how you owe to me even your own self besides.
 
 **Philemon 1:20**
 
-Yes, brother, let me have joy of you in the Lord: refresh my bowels in the Lord.
+Yes, brother, let me have joy of you in the Lord: refresh my inward parts in the Lord.
 
 **Philemon 1:21**
 
@@ -27764,7 +27764,7 @@ You have loved righteousness, and hated iniquity; therefore God, even your God, 
 
 **Hebrews 1:10**
 
-And, You, Lord, in the beginning have laid the foundation of the earth; and the heavens are the works of yours hands:
+And, You, Lord, in the beginning have laid the foundation of the earth; and the heavens are the works of your hands:
 
 **Hebrews 1:11**
 
@@ -27776,7 +27776,7 @@ And as a vesture shall you fold them up, and they shall be changed: but you are 
 
 **Hebrews 1:13**
 
-But to which of the angels said he at any time, Sit on my right hand, until I make yours enemies your footstool?
+But to which of the angels said he at any time, Sit on my right hand, until I make your enemies your footstool?
 
 **Hebrews 1:14**
 
@@ -27802,7 +27802,7 @@ God also bearing them witness, both with signs and wonders, and with various mir
 
 **Hebrews 2:5**
 
-For to the angels has he not put in subjection the world to come, whereof we speak.
+For to the angels has he not put in subjection the world to come, of which we speak.
 
 **Hebrews 2:6**
 
@@ -27834,7 +27834,7 @@ Saying, I will declare your name to my brothers, in the midst of the assembly wi
 
 **Hebrews 2:13**
 
-And again, I will put my trust in him. And again, Look I and the children which God has given me.
+And again, I will put my trust in him. And again, Look I and the children who God has given me.
 
 **Hebrews 2:14**
 
@@ -27860,7 +27860,7 @@ For in that he himself has suffered being tempted, he is able to help those who 
 
 **Hebrews 3:1**
 
-Therefore, holy brothers, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
+Therefore, holy brothers, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus;
 
 **Hebrews 3:2**
 
@@ -27904,7 +27904,7 @@ So I swore in my wrath, They shall not enter into my rest.)
 
 **Hebrews 3:12**
 
-Take heed, brothers, lest there be in any of you an evil heart of unbelief, in departing from the living God.
+Take heed, brothers, lest there is in any of you an evil heart of unbelief, in departing from the living God.
 
 **Hebrews 3:13**
 
@@ -27958,7 +27958,7 @@ And in this place again, If they shall enter into my rest.
 
 **Hebrews 4:6**
 
-Seeing therefore it remains that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
+Seeing therefore it remains that some must enter in it, and they to whom it was first preached entered not in because of unbelief:
 
 **Hebrews 4:7**
 
@@ -27990,11 +27990,11 @@ Neither is there any creature that is not manifest in his sight: but all things 
 
 **Hebrews 4:14**
 
-Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
+Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our confession.
 
 **Hebrews 4:15**
 
-For we have not a high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like we are, yet without sin.
+For we have not a high priest who cannot be touched with the feeling of our infirmities; but was in all points tempted like we are, yet without sin.
 
 **Hebrews 4:16**
 
@@ -28126,7 +28126,7 @@ For men truly swear by the greater: and an oath for confirmation is to them an e
 
 **Hebrews 6:17**
 
-Wherein God, willing more abundantly to show to the heirs of promise the immutability of his counsel, confirmed it by an oath:
+in which God, willing more abundantly to show to the heirs of promise the immutability of his counsel, confirmed it by an oath:
 
 **Hebrews 6:18**
 
@@ -28200,7 +28200,7 @@ For it is evident that our Lord sprang out of Juda; of which tribe Moses spoke n
 
 **Hebrews 7:15**
 
-And it is yet far more evident: for that after the embodiment of Melchisedec there arises another priest,
+And it is yet far more evident: for that after the likeness of Melchisedec there arises another priest,
 
 **Hebrews 7:16**
 
@@ -28212,7 +28212,7 @@ For he testifies, You are a priest for ever after the order of Melchisedec.
 
 **Hebrews 7:18**
 
-For there is truly a disannulling of the commandment going before for the weakness and unprofitableness thereof.
+For there is truly a disannulling of the commandment going before for the weakness and unprofitableness of it.
 
 **Hebrews 7:19**
 
@@ -28252,7 +28252,7 @@ Who needs not daily, as those high priests, to offer up sacrifice, first for his
 
 **Hebrews 7:28**
 
-For the law makes men high priests which have infirmity; but the word of the oath, which was since the law, makes the Son, who is consecrated for evermore.
+For the law makes men high priests who have infirmity; but the word of the oath, which was since the law, makes the Son, who is consecrated for evermore.
 
 ### Chapter 8
 
@@ -28316,7 +28316,7 @@ Then truly the first covenant had also ordinances of divine service, and a world
 
 **Hebrews 9:2**
 
-For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the showbread; which is called the sanctuary.
+For there was a tabernacle made; the first, in which was the candlestick, and the table, and the showbread; which is called the sanctuary.
 
 **Hebrews 9:3**
 
@@ -28324,7 +28324,7 @@ And after the second veil, the tabernacle which is called the Holiest of all;
 
 **Hebrews 9:4**
 
-Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;
+Which had the golden censer, and the ark of the covenant overlaid round about with gold, in which was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;
 
 **Hebrews 9:5**
 
@@ -28368,7 +28368,7 @@ How much more shall the blood of Christ, who through the eternal Spirit offered 
 
 **Hebrews 9:15**
 
-And for this cause he is the mediator of the new covenant, that by means of death, for the redemption of the transgressions that were under the first covenant, they which are called might receive the promise of eternal inheritance.
+And for this cause he is the mediator of the new covenant, that by means of death, for the redemption of the transgressions that were under the first covenant, those who are called might receive the promise of eternal inheritance.
 
 **Hebrews 9:16**
 
@@ -28454,7 +28454,7 @@ Then said I, Look, I come (in the volume of the book it is written of me,) to do
 
 **Hebrews 10:8**
 
-Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither had pleasure therein; which are offered by the law;
+Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither had pleasure in it; which are offered by the law;
 
 **Hebrews 10:9**
 
@@ -28482,7 +28482,7 @@ For by one offering he has perfected for ever those who are sanctified.
 
 **Hebrews 10:15**
 
-Whereof the Holy Spirit also is a witness to us: for after that he had said before,
+of which the Holy Spirit also is a witness to us: for after that he had said before,
 
 **Hebrews 10:16**
 
@@ -28514,7 +28514,7 @@ Let us draw near with a true heart in full assurance of faith, having our hearts
 
 **Hebrews 10:23**
 
-Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)
+Let us hold fast the confession of our faith without wavering; (for he is faithful that promised;)
 
 **Hebrews 10:24**
 
@@ -28538,7 +28538,7 @@ the one who despised Moses' law died without mercy under two or three witnesses:
 
 **Hebrews 10:29**
 
-Of how much greater punishment, suppose you, shall he be thought worthy, who has trampled under foot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has done despite to the Spirit of grace?
+Of how much greater punishment, suppose you, shall he be thought worthy, who has trampled under foot the Son of God, and has counted the blood of the covenant, with which he was sanctified, an unholy thing, and has done despite to the Spirit of grace?
 
 **Hebrews 10:30**
 
@@ -28578,7 +28578,7 @@ Now the just shall live by faith: but if anyone draw back, my soul shall have no
 
 **Hebrews 10:39**
 
-But we are not of them who draw back to perdition; but of those who believe to the saving of the soul.
+But we are not of them who draw back to destruction; but of those who believe to the saving of the soul.
 
 ### Chapter 11
 
@@ -28704,7 +28704,7 @@ By faith the walls of Jericho fell down, after they were compassed about seven d
 
 **Hebrews 11:31**
 
-By faith the harlot Rahab perished not with those who believed not, when she had received the spies with peace.
+By faith the prostitute Rahab perished not with those who believed not, when she had received the spies with peace.
 
 **Hebrews 11:32**
 
@@ -28712,11 +28712,11 @@ And what shall I more say? for the time would fail me to tell of Gedeon, and of 
 
 **Hebrews 11:33**
 
-Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions.
+Who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions.
 
 **Hebrews 11:34**
 
-Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.
+Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, became valiant in fight, turned to flight the armies of the aliens.
 
 **Hebrews 11:35**
 
@@ -28774,7 +28774,7 @@ If you endure chastening, God deals with you as with sons; for what son is he wh
 
 **Hebrews 12:8**
 
-But if you be without chastisement, whereof all are partakers, then are you bastards, and not sons.
+But if you be without chastisement, of which all are partakers, then are you bastards, and not sons.
 
 **Hebrews 12:9**
 
@@ -28786,7 +28786,7 @@ For they truly for a few days chastened us after their own pleasure; but he for 
 
 **Hebrews 12:11**
 
-Now no chastening for the present seems to be joyous, but grievous: nevertheless afterward it yields the peaceable fruit of righteousness to them which are exercised thereby.
+Now no chastening for the present seems to be joyous, but grievous: nevertheless afterward it yields the peaceable fruit of righteousness to those who are exercised by it.
 
 **Hebrews 12:12**
 
@@ -28802,11 +28802,11 @@ Follow peace with all men, and holiness, without which no one shall see the Lord
 
 **Hebrews 12:15**
 
-Looking diligently lest anyone fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
+Looking diligently lest anyone fail of the grace of God; lest any root of bitterness springing up trouble you, and by it many be defiled;
 
 **Hebrews 12:16**
 
-Lest there be any fornicator, or profane person, as Esau, who for one morsel of food sold his birthright.
+Lest there is any fornicator, or profane person, as Esau, who for one morsel of food sold his birthright.
 
 **Hebrews 12:17**
 
@@ -28838,7 +28838,7 @@ To the general assembly and assembly of the firstborn, which are written in heav
 
 **Hebrews 12:24**
 
-And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things that that of Abel.
+And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel.
 
 **Hebrews 12:25**
 
@@ -28854,7 +28854,7 @@ And this word, Yet once more, signifies the removing of those things that are sh
 
 **Hebrews 12:28**
 
-Therefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:
+Therefore we receiving a kingdom which cannot be moved, let us have grace, by which we may serve God acceptably with reverence and godly fear:
 
 **Hebrews 12:29**
 
@@ -28868,11 +28868,11 @@ Let brotherly love continue.
 
 **Hebrews 13:2**
 
-Be not forgetful to entertain strangers: for thereby some have entertained angels unexpectedly.
+Be not forgetful to entertain strangers: for by it some have entertained angels unexpectedly.
 
 **Hebrews 13:3**
 
-Remember those who are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.
+Remember those who are in bonds, as bound with them; and those who suffer adversity, as being yourselves also in the body.
 
 **Hebrews 13:4**
 
@@ -28888,7 +28888,7 @@ So that we may boldly say, The Lord is my helper, and I will not fear what man s
 
 **Hebrews 13:7**
 
-Remember them which have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conduct.
+Remember those who have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conduct.
 
 **Hebrews 13:8**
 
@@ -28896,11 +28896,11 @@ Jesus Christ the same yesterday, and today, and for ever.
 
 **Hebrews 13:9**
 
-Be not carried about with various and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited those who have been occupied therein.
+Be not carried about with various and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited those who have been occupied in it.
 
 **Hebrews 13:10**
 
-We have an altar, whereof they have no right to eat which serve the tabernacle.
+We have an altar, of which they have no right to eat which serve the tabernacle.
 
 **Hebrews 13:11**
 
@@ -28940,7 +28940,7 @@ But I plead to you the rather to do this, that I may be restored to you the soon
 
 **Hebrews 13:20**
 
-Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
+Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the eternal covenant,
 
 **Hebrews 13:21**
 
@@ -29008,7 +29008,7 @@ But the rich, in that he is made low: because as the flower of the grass he shal
 
 **James 1:11**
 
-For the sun is no sooner risen with a burning heat, but it withers the grass, and the flower thereof falls, and the grace of the fashion of it perishes: so also shall the rich man fade away in his ways.
+For the sun is no sooner risen with a burning heat, but it withers the grass, and the flower of it falls, and the grace of the fashion of it perishes: so also shall the rich man fade away in his ways.
 
 **James 1:12**
 
@@ -29064,7 +29064,7 @@ For he beholds himself, and goes his way, and immediately forgets what manner of
 
 **James 1:25**
 
-But whoever looks into the perfect law of liberty, and continues therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
+But whoever looks into the perfect law of liberty, and continues in it, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
 **James 1:26**
 
@@ -29162,7 +29162,7 @@ Was not Abraham our father justified by works, when he had offered Isaac his son
 
 **James 2:22**
 
-See you how faith wrought with his works, and by works was faith made perfect?
+See you how faith worked with his works, and by works was faith made perfect?
 
 **James 2:23**
 
@@ -29174,7 +29174,7 @@ You see then how that by works a man is justified, and not by faith only.
 
 **James 2:25**
 
-Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?
+Likewise also was not Rahab the prostitute justified by works, when she had received the messengers, and had sent them out another way?
 
 **James 2:26**
 
@@ -29216,7 +29216,7 @@ But the tongue can no one tame; it is an unruly evil, full of deadly poison.
 
 **James 3:9**
 
-Therewith bless we God, even the Father; and therewith curse we men, which are made after the embodiment of God.
+with it we bless God, even the Father; and with it we curse men, who are made after the likeness of God.
 
 **James 3:10**
 
@@ -29310,7 +29310,7 @@ Go to now, you that say, today or tomorrow we will go into such a city, and cont
 
 **James 4:14**
 
-Whereas you know not what shall be on the next day. For what is your life? It is even a vapour, that appears for a little time, and then vanishes away.
+Whereas you do not know what shall be on the next day. For what is your life? It is even a vapour, that appears for a little time, and then vanishes away.
 
 **James 4:15**
 
@@ -29340,7 +29340,7 @@ Your gold and silver is cankered; and the rust of them shall be a witness agains
 
 **James 5:4**
 
-Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
+Look, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, cries: and the cries of those who have reaped are entered into the ears of the Lord of sabaoth.
 
 **James 5:5**
 
@@ -29372,7 +29372,7 @@ Look, we count them happy which endure. You have heard of the patience of Job, a
 
 **James 5:12**
 
-But above all things, my brothers, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yes be yes; and your no, no; lest you fall into condemnation.
+But above all things, my brothers, do not swear, neither by heaven, neither by the earth, neither by any other oath: but let your yes be yes; and your no, no; lest you fall into condemnation.
 
 **James 5:13**
 
@@ -29404,7 +29404,7 @@ Brothers, if any of you do go astray from the truth, and one convert him;
 
 **James 5:20**
 
-Let him know, that he which converts the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
+Let him know, that the one who converts the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
 
 ## 1 Peter
 
@@ -29420,7 +29420,7 @@ Elect according to the foreknowledge of God the Father, through sanctification o
 
 **1 Peter 1:3**
 
-Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
+Blessed be the God and Father of our Lord Jesus Christ, who according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 
 **1 Peter 1:4**
 
@@ -29432,7 +29432,7 @@ Who are kept by the power of God through faith to salvation ready to be revealed
 
 **1 Peter 1:6**
 
-Wherein you greatly rejoice, though now for a season, if need be, you are in heaviness through manifold temptations:
+in which you greatly rejoice, though now for a season, if need be, you are in heaviness through manifold temptations:
 
 **1 Peter 1:7**
 
@@ -29452,7 +29452,7 @@ Of which salvation the prophets have enquired and searched diligently, who proph
 
 **1 Peter 1:11**
 
-Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+Searching what, or what manner of time the Spirit of Christ who was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
 **1 Peter 1:12**
 
@@ -29468,7 +29468,7 @@ As obedient children, not fashioning yourselves according to the former lusts in
 
 **1 Peter 1:15**
 
-But as he which has called you is holy, so be you holy in all manner of conduct;
+But as the one who has called you is holy, so be you holy in all manner of conduct;
 
 **1 Peter 1:16**
 
@@ -29500,11 +29500,11 @@ Seeing you have purified your souls in obeying the truth through the Spirit to s
 
 **1 Peter 1:23**
 
-Being born again, not of corruptible seed, but of incorruptible, by the word of God, which lives and abides for ever.
+Being born again, not of corruptible seed, but of incorruptible, by the word of God, who lives and abides for ever.
 
 **1 Peter 1:24**
 
-For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers, and the flower thereof falls away:
+For all flesh is as grass, and all the glory of man as the flower of grass. The grass withers, and the flower of it falls away:
 
 **1 Peter 1:25**
 
@@ -29518,7 +29518,7 @@ Therefore laying aside all malice, and all guile, and hypocrisies, and envies, a
 
 **1 Peter 2:2**
 
-As newborn babes, desire the sincere milk of the word, that you may grow thereby:
+As newborn babes, desire the sincere milk of the word, that you may grow by it:
 
 **1 Peter 2:3**
 
@@ -29538,11 +29538,11 @@ Therefore also it is contained in the scripture, Look, I lay in Sion a chief cor
 
 **1 Peter 2:7**
 
-To you therefore which believe he is precious: but to them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
+To you therefore which believe he is precious: but to those who be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 
 **1 Peter 2:8**
 
-And a stone of stumbling, and a rock of stumbling block, even to them which stumble at the word, being disobedient: to which also they were appointed.
+And a stone of stumbling, and a rock of stumbling block, even to those who stumble at the word, being disobedient: to which also they were appointed.
 
 **1 Peter 2:9**
 
@@ -29558,7 +29558,7 @@ Dearly beloved, I plead to you as strangers and pilgrims, abstain from fleshly l
 
 **1 Peter 2:12**
 
-Having your conduct honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall look, glorify God in the day of visitation.
+Having your conduct honest among the nations: that, whereas they speak against you as evildoers, they may by your good works, which they shall look, glorify God in the day of visitation.
 
 **1 Peter 2:13**
 
@@ -29692,7 +29692,7 @@ By which also he went and preached to the spirits in prison;
 
 **1 Peter 3:20**
 
-Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
+Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, in which few, that is, eight souls were saved by water.
 
 **1 Peter 3:21**
 
@@ -29714,11 +29714,11 @@ That he no longer should live the rest of his time in the flesh to the lusts of 
 
 **1 Peter 4:3**
 
-For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
+For the time past of our life may suffice us to have worked the will of the nations, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 
 **1 Peter 4:4**
 
-Wherein they think it strange that you run not with them to the same excess of riot, speaking evil of you:
+in which they think it strange that you run not with them to the same excess of riot, speaking evil of you:
 
 **1 Peter 4:5**
 
@@ -29742,7 +29742,7 @@ Use hospitality one to another without grudging.
 
 **1 Peter 4:10**
 
-As every man has received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
+As each received a gift, serve it to one another, as good stewards of the manifold grace of God.
 
 **1 Peter 4:11**
 
@@ -29788,7 +29788,7 @@ The elders which are among you I exhort, who am also an elder, and a witness of 
 
 **1 Peter 5:2**
 
-Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy illegal gain, but of a ready mind;
+Feed the flock of God who is among you, taking the oversight of it, not by constraint, but willingly; not for filthy illegal gain, but of a ready mind;
 
 **1 Peter 5:3**
 
@@ -29828,11 +29828,11 @@ To him be glory and dominion for ever and ever. Amen.
 
 **1 Peter 5:12**
 
-By Silvanus, a faithful brother to you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein you stand.
+By Silvanus, a faithful brother to you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God in which you stand.
 
 **1 Peter 5:13**
 
-The church that is at Babylon, elected together with you, salutes you; and so does Marcus my son.
+She who is in Babylon, elect together with you, greets you; and Marcus my son.
 
 **1 Peter 5:14**
 
@@ -29856,7 +29856,7 @@ According as his divine power has given to us all things that pertain to life an
 
 **2 Peter 1:4**
 
-Whereby are given to us exceeding great and precious promises: that by these you might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
+by which are given to us exceeding great and precious promises: that by these you might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
 
 **2 Peter 1:5**
 
@@ -29884,7 +29884,7 @@ Therefore the rather, brothers, give diligence to make your calling and election
 
 **2 Peter 1:11**
 
-For so an entrance shall be ministered to you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
+For so an entrance shall be supplied to you abundantly into the eternal kingdom of our Lord and Saviour Jesus Christ.
 
 **2 Peter 1:12**
 
@@ -29938,7 +29938,7 @@ And many shall follow their pernicious ways; by reason of whom the way of truth 
 
 **2 Peter 2:3**
 
-And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their damnation slumbers not.
+And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingers not, and their judgment slumbers not.
 
 **2 Peter 2:4**
 
@@ -29970,7 +29970,7 @@ But chiefly those who walk after the flesh in the lust of uncleanness, and despi
 
 **2 Peter 2:11**
 
-Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.
+Whereas angels, who are greater in power and might, bring not railing accusation against them before the Lord.
 
 **2 Peter 2:12**
 
@@ -29982,7 +29982,7 @@ And shall receive the reward of unrighteousness, as those who count it pleasure 
 
 **2 Peter 2:14**
 
-Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
+Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: a heart they have exercised with covetous practices; cursed children:
 
 **2 Peter 2:15**
 
@@ -29990,7 +29990,7 @@ Which have forsaken the right way, and are gone astray, following the way of Bal
 
 **2 Peter 2:16**
 
-But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet.
+But was rebuked for his iniquity: the voiceless ass speaking with man's voice forbade the madness of the prophet.
 
 **2 Peter 2:17**
 
@@ -30006,7 +30006,7 @@ While they promise them liberty, they themselves are the slaves of corruption: f
 
 **2 Peter 2:20**
 
-For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
+For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
 
 **2 Peter 2:21**
 
@@ -30040,11 +30040,11 @@ For this they willingly are ignorant of, that by the word of God the heavens wer
 
 **2 Peter 3:6**
 
-Whereby the world that then was, being overflowed with water, perished:
+by which the world that then was, being overflowed with water, perished:
 
 **2 Peter 3:7**
 
-But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and perdition of ungodly men.
+But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and destruction of ungodly men.
 
 **2 Peter 3:8**
 
@@ -30056,7 +30056,7 @@ The Lord is not slack concerning his promise, as some men count slackness; but i
 
 **2 Peter 3:10**
 
-But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
+But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are in it shall be burned up.
 
 **2 Peter 3:11**
 
@@ -30064,11 +30064,11 @@ Seeing then that all these things shall be dissolved, what manner of persons oug
 
 **2 Peter 3:12**
 
-Looking for and hasting to the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
+Looking for and hasting to the coming of the day of God, in which the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 
 **2 Peter 3:13**
 
-Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwells righteousness.
+Nevertheless we, according to his promise, look for new heavens and a new earth, in which dwells righteousness.
 
 **2 Peter 3:14**
 
@@ -30138,7 +30138,7 @@ If we say that we have not sinned, we make him a liar, and his word is not in us
 
 **1 John 2:1**
 
-My little children, these things write I to you, that you sin not. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:
+My little children, these things write I to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:
 
 **1 John 2:2**
 
@@ -30146,7 +30146,7 @@ And he is the propitiation for our sins: and not for our's only, but also for th
 
 **1 John 2:3**
 
-And hereby we do know that we know him, if we keep his commandments.
+And by this we do know that we know him, if we keep his commandments.
 
 **1 John 2:4**
 
@@ -30154,7 +30154,7 @@ the one who says, I know him, and keeps not his commandments, is a liar, and the
 
 **1 John 2:5**
 
-But whoever keeps his word, in him truly is the love of God perfected: hereby know we that we are in him.
+But whoever keeps his word, in him truly is the love of God perfected: by this know we that we are in him.
 
 **1 John 2:6**
 
@@ -30178,7 +30178,7 @@ the one who loves his brother abides in the light, and there is none occasion of
 
 **1 John 2:11**
 
-But the one who hates his brother is in darkness, and walks in darkness, and knows not where he goes, because that darkness has blinded his eyes.
+But the one who hates his brother is in darkness, and walks in darkness, and does not know where he goes, because that darkness has blinded his eyes.
 
 **1 John 2:12**
 
@@ -30202,11 +30202,11 @@ For all that is in the world, the lust of the flesh, and the lust of the eyes, a
 
 **1 John 2:17**
 
-And the world passes away, and the lust thereof: but the one who does the will of God abides for ever.
+And the world passes away, and the lust of it: but the one who does the will of God abides for ever.
 
 **1 John 2:18**
 
-Little children, it is the last time: and as you have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
+Little children, it is the last time: and as you have heard that antichrist shall come, even now are there many antichrists; by which we know that it is the last time.
 
 **1 John 2:19**
 
@@ -30218,7 +30218,7 @@ But you have an anointing from the Holy One, and you know all things.
 
 **1 John 2:21**
 
-I have not written to you because you know not the truth, but because you know it, and that no lie is of the truth.
+I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth.
 
 **1 John 2:22**
 
@@ -30304,7 +30304,7 @@ Not as Cain, who was of that wicked one, and killed his brother. And therefore k
 
 **1 John 3:13**
 
-Marvel not, my brothers, if the world hate you.
+do not marvel, my brothers, if the world hate you.
 
 **1 John 3:14**
 
@@ -30316,11 +30316,11 @@ Whoever hates his brother is a murderer: and you know that no murderer has etern
 
 **1 John 3:16**
 
-Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brothers.
+by this perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brothers.
 
 **1 John 3:17**
 
-But whoever has this world's good, and sees his brother have need, and shuts up his bowels of compassion from him, how dwells the love of God in him?
+But whoever has this world's good, and sees his brother have need, and shuts up his compassion from him, how dwells the love of God in him?
 
 **1 John 3:18**
 
@@ -30328,7 +30328,7 @@ My little children, let us not love in word, neither in tongue; but in deed and 
 
 **1 John 3:19**
 
-And hereby we know that we are of the truth, and shall assure our hearts before him.
+And by this we know that we are of the truth, and shall assure our hearts before him.
 
 **1 John 3:20**
 
@@ -30348,21 +30348,21 @@ And this is his commandment, That we should believe on the name of his Son Jesus
 
 **1 John 3:24**
 
-And the one who keeps his commandments dwells in him, and he in him. And hereby we know that he abides in us, by the Spirit which he has given us.
+And the one who keeps his commandments dwells in him, and he in him. And by this we know that he abides in us, by the Spirit which he has given us.
 
 ### Chapter 4
 
 **1 John 4:1**
 
-Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
+Beloved, do not believe every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 
 **1 John 4:2**
 
-Hereby know you the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:
+by this know you the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:
 
 **1 John 4:3**
 
-And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, whereof you have heard that it should come; and even now already is it in the world.
+And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, of which you have heard that it should come; and even now already is it in the world.
 
 **1 John 4:4**
 
@@ -30374,7 +30374,7 @@ They are of the world: therefore speak they of the world, and the world hears th
 
 **1 John 4:6**
 
-We are of God: the one who knows God hears us; the one who is not of God hears not us. Hereby know we the spirit of truth, and the spirit of error.
+We are of God: the one who knows God hears us; the one who is not of God hears not us. by this know we the spirit of truth, and the spirit of error.
 
 **1 John 4:7**
 
@@ -30382,7 +30382,7 @@ Beloved, let us love one another: for love is of God; and every one that loves i
 
 **1 John 4:8**
 
-the one who loves not knows not God; for God is love.
+the one who loves not does not know God; for God is love.
 
 **1 John 4:9**
 
@@ -30402,7 +30402,7 @@ No one has seen God at any time. If we love one another, God dwells in us, and h
 
 **1 John 4:13**
 
-Hereby know we that we dwell in him, and he in us, because he has given us of his Spirit.
+by this know we that we dwell in him, and he in us, because he has given us of his Spirit.
 
 **1 John 4:14**
 
@@ -30472,11 +30472,11 @@ And there are three that bear witness in earth, the Spirit, and the water, and t
 
 **1 John 5:9**
 
-If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son.
+If we receive the witness of men, the witness of God is greater: for this is the witness of God who he has testified of his Son.
 
 **1 John 5:10**
 
-the one who believes on the Son of God has the witness in himself: the one who believes not God has made him a liar; because he believes not the record that God gave of his Son.
+the one who believes on the Son of God has the witness in himself: the one who does not believe God has made him a liar; because he does not believe the record that God gave of his Son.
 
 **1 John 5:11**
 
@@ -30500,11 +30500,11 @@ And if we know that he hear us, whatever we ask, we know that we have the petiti
 
 **1 John 5:16**
 
-If anyone see his brother sin a sin which is not to death, he shall ask, and he shall give him life for those who sin not to death. There is a sin to death: I do not say that he shall pray for it.
+If anyone see his brother sin a sin which is not to death, he shall ask, and he shall give him life for those who do not sin to death. There is a sin to death: I do not say that he shall pray for it.
 
 **1 John 5:17**
 
-All unrighteousness is sin: and there is a sin not to death.
+All unrighteousness is sin: and there is a do not sin to death.
 
 **1 John 5:18**
 
@@ -30556,7 +30556,7 @@ For many deceivers are entered into the world, who confess not that Jesus Christ
 
 **2 John 1:8**
 
-Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+Look to yourselves, that we lose not those things which we have worked, but that we receive a full reward.
 
 **2 John 1:9**
 
@@ -30608,7 +30608,7 @@ Which have borne witness of your love before the assembly: whom if you bring for
 
 **3 John 1:7**
 
-Because that for his name's sake they went forth, taking nothing of the Gentiles.
+Because that for his name's sake they went forth, taking nothing of the nations.
 
 **3 John 1:8**
 
@@ -30620,7 +30620,7 @@ I wrote to the assembly: but Diotrephes, who loves to have the preeminence among
 
 **3 John 1:10**
 
-Therefore, if I come, I will remember his deeds which he does, babbling against us with malicious words: and not content therewith, neither does he himself receive the brothers, and forbids those who would, and casts them out of the assembly.
+Therefore, if I come, I will remember his deeds which he does, babbling against us with malicious words: and not content with it, neither does he himself receive the brothers, and forbids those who would, and casts them out of the assembly.
 
 **3 John 1:11**
 
@@ -30664,7 +30664,7 @@ I will therefore put you in remembrance, though you once knew this, how that the
 
 **Jude 1:6**
 
-And the angels which kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness to the judgment of the great day.
+And the angels who kept not their first estate, but left their own habitation, he has reserved in everlasting chains under darkness to the judgment of the great day.
 
 **Jude 1:7**
 
@@ -30680,7 +30680,7 @@ Yet Michael the archangel, when contending with the devil he disputed about the 
 
 **Jude 1:10**
 
-But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.
+But these speak evil of those things which they do not know: but what they know naturally, as brute beasts, in those things they corrupt themselves.
 
 **Jude 1:11**
 
@@ -30756,11 +30756,11 @@ Who bare record of the word of God, and of the testimony of Jesus Christ, and of
 
 **Revelation 1:3**
 
-Blessed is the one who reads, and those who hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+Blessed is the one who reads, and those who hear the words of this prophecy, and keep those things which are written in it: for the time is at hand.
 
 **Revelation 1:4**
 
-John to the seven assemblies which are in Asia: Grace be to you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+John to the seven assemblies which are in Asia: Grace be to you, and peace, from him who is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 
 **Revelation 1:5**
 
@@ -30776,7 +30776,7 @@ Look, he comes with clouds; and every eye shall see him, and they also which pie
 
 **Revelation 1:8**
 
-I am Alpha and Omega, the beginning and the ending, says the Lord, which is, and which was, and which is to come, the Almighty.
+I am Alpha and Omega, the beginning and the ending, says the Lord, who is, and which was, and which is to come, the Almighty.
 
 **Revelation 1:9**
 
@@ -30834,7 +30834,7 @@ To the angel of the assembly of Ephesus write; These things says the one who hol
 
 **Revelation 2:2**
 
-I know your works, and your labour, and your patience, and how you can not bear them which are evil: and you have tried them which say they are apostles, and are not, and have found them liars:
+I know your works, and your labour, and your patience, and how you can not bear those who are evil: and you have tried those who say they are apostles, and are not, and have found them liars:
 
 **Revelation 2:3**
 
@@ -30862,7 +30862,7 @@ And to the angel of the assembly in Smyrna write; These things says the first an
 
 **Revelation 2:9**
 
-I know your works, and tribulation, and poverty, (but you are rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+I know your works, and tribulation, and poverty, (but you are rich) and I know the blasphemy of those who say they are Jews, and are not, but are the synagogue of Satan.
 
 **Revelation 2:10**
 
@@ -30874,11 +30874,11 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; the
 
 **Revelation 2:12**
 
-And to the angel of the assembly in Pergamos write; These things says he which has the sharp sword with two edges;
+And to the angel of the assembly in Pergamos write; These things says the one who has the sharp sword with two edges;
 
 **Revelation 2:13**
 
-I know your works, and where you dwell, even where Satan's seat is: and you hold fast my name, and have not denied my faith, even in those days wherein Antipas was my faithful martyr, who was killed among you, where Satan dwells.
+I know your works, and where you dwell, even where Satan's seat is: and you hold fast my name, and have not denied my faith, even in those days in which Antipas was my faithful martyr, who was killed among you, where Satan dwells.
 
 **Revelation 2:14**
 
@@ -30918,7 +30918,7 @@ Look, I will cast her into a bed, and those who commit adultery with her into gr
 
 **Revelation 2:23**
 
-And I will kill her children with death; and all the assemblies shall know that I am he which searches the reins and hearts: and I will give to every one of you according to your works.
+And I will kill her children with death; and all the assemblies shall know that I am the one who searches the reins and hearts: and I will give to every one of you according to your works.
 
 **Revelation 2:24**
 
@@ -30992,7 +30992,7 @@ Look, I come quickly: hold that fast which you have, that no one take your crown
 
 **Revelation 3:12**
 
-him who overcomes will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which comes down out of heaven from my God: and I will write upon him my new name.
+him who overcomes will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, who is new Jerusalem, which comes down out of heaven from my God: and I will write upon him my new name.
 
 **Revelation 3:13**
 
@@ -31012,11 +31012,11 @@ So then because you are lukewarm, and neither cold nor hot, I will spew you out 
 
 **Revelation 3:17**
 
-Because you says, I am rich, and increased with goods, and have need of nothing; and know not that you are wretched, and miserable, and poor, and blind, and naked:
+Because you says, I am rich, and increased with goods, and have need of nothing; and do not know that you are wretched, and miserable, and poor, and blind, and naked:
 
 **Revelation 3:18**
 
-I counsel you to buy of me gold tried in the fire, that you may be rich; and white clothing, that you may be clothed, and that the shame of your nakedness do not appear; and anoint yours eyes with eye salve, that you may see.
+I counsel you to buy of me gold tried in the fire, that you may be rich; and white clothing, that you may be clothed, and that the shame of your nakedness do not appear; and anoint your eyes with eye salve, that you may see.
 
 **Revelation 3:19**
 
@@ -31088,7 +31088,7 @@ And I saw in the right hand of him who sat on the throne a book written within a
 
 **Revelation 5:2**
 
-And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
+And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals of it?
 
 **Revelation 5:3**
 
@@ -31100,7 +31100,7 @@ And I wept much, because no one was found worthy to open and to read the book, n
 
 **Revelation 5:5**
 
-And one of the elders says to me, Weep not: look, the Lion of the tribe of Juda, the Root of David, has prevailed to open the book, and to loose the seven seals thereof.
+And one of the elders says to me, Weep not: look, the Lion of the tribe of Juda, the Root of David, has prevailed to open the book, and to loose the seven seals of it.
 
 **Revelation 5:6**
 
@@ -31112,11 +31112,11 @@ And he came and took the book out of the right hand of him who sat upon the thro
 
 **Revelation 5:8**
 
-And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of holy ones.
+And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden bowls full of odours, which are the prayers of holy ones.
 
 **Revelation 5:9**
 
-And they sung a new song, saying, You are worthy to take the book, and to open the seals thereof: for you were killed, and have redeemed us to God by your blood out of every kindred, and tongue, and people, and nation;
+And they sung a new song, saying, You are worthy to take the book, and to open the seals of it: for you were killed, and have redeemed us to God by your blood out of every kindred, and tongue, and people, and nation;
 
 **Revelation 5:10**
 
@@ -31224,7 +31224,7 @@ Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed 
 
 **Revelation 7:4**
 
-And I heard the number of them which were sealed: and there were sealed a hundred and forty and four thousand of all the tribes of the children of Israel.
+And I heard the number of those who were sealed: and there were sealed a hundred and forty and four thousand of all the tribes of the children of Israel.
 
 **Revelation 7:5**
 
@@ -31248,7 +31248,7 @@ After this I beheld, and, look, a great crowd, which no one could number, of all
 
 **Revelation 7:10**
 
-And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and to the Lamb.
+And cried with a loud voice, saying, Salvation to our God who sits upon the throne, and to the Lamb.
 
 **Revelation 7:11**
 
@@ -31264,7 +31264,7 @@ And one of the elders answered, saying to me, What are these which are arrayed i
 
 **Revelation 7:14**
 
-And I said to him, Sir, you know. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+And I said to him, Sir, you know. And he said to me, These are those who came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 
 **Revelation 7:15**
 
@@ -31286,7 +31286,7 @@ And when he had opened the seventh seal, there was silence in heaven about the s
 
 **Revelation 8:2**
 
-And I saw the seven angels which stood before God; and to them were given seven trumpets.
+And I saw the seven angels who stood before God; and to them were given seven trumpets.
 
 **Revelation 8:3**
 
@@ -31302,7 +31302,7 @@ And the angel took the censer, and filled it with fire of the altar, and cast it
 
 **Revelation 8:6**
 
-And the seven angels which had the seven trumpets prepared themselves to sound.
+And the seven angels who had the seven trumpets prepared themselves to sound.
 
 **Revelation 8:7**
 
@@ -31330,7 +31330,7 @@ And the fourth angel sounded, and the third part of the sun was smitten, and the
 
 **Revelation 8:13**
 
-And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the citizens of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
+And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the citizens of the earth by reason of the other voices of the trumpet of the three angels, who are yet to sound!
 
 ### Chapter 9
 
@@ -31348,7 +31348,7 @@ And there came out of the smoke locusts upon the earth: and to them was given po
 
 **Revelation 9:4**
 
-And it was commanded those who they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.
+And it was commanded those who they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men who have not the seal of God in their foreheads.
 
 **Revelation 9:5**
 
@@ -31388,7 +31388,7 @@ And the sixth angel sounded, and I heard a voice from the four horns of the gold
 
 **Revelation 9:14**
 
-Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
+Saying to the sixth angel who had the trumpet, Loose the four angels who are bound in the great river Euphrates.
 
 **Revelation 9:15**
 
@@ -31412,7 +31412,7 @@ For their power is in their mouth, and in their tails: for their tails were like
 
 **Revelation 9:20**
 
-And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship demons, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+And the rest of the men who were not killed by these plagues yet repented not of the works of their hands, that they should not worship demons, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 
 **Revelation 9:21**
 
@@ -31438,11 +31438,11 @@ And when the seven thunders had uttered their voices, I was about to write: and 
 
 **Revelation 10:5**
 
-And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,
+And the angel who I saw stand upon the sea and upon the earth lifted up his hand to heaven,
 
 **Revelation 10:6**
 
-And swore by him who lives for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:
+And swore by him who lives for ever and ever, who created heaven, and the things that in it are, and the earth, and the things that in it are, and the sea, and the things which are in it, that there should be time no longer:
 
 **Revelation 10:7**
 
@@ -31450,7 +31450,7 @@ But in the days of the voice of the seventh angel, when he shall begin to sound,
 
 **Revelation 10:8**
 
-And the voice which I heard from heaven spoke to me again, and said, Go and take the little book which is open in the hand of the angel which stands upon the sea and upon the earth.
+And the voice which I heard from heaven spoke to me again, and said, Go and take the little book which is open in the hand of the angel who stands upon the sea and upon the earth.
 
 **Revelation 10:9**
 
@@ -31468,11 +31468,11 @@ And he said to me, You must prophesy again before many races and tribes, and nat
 
 **Revelation 11:1**
 
-And there was given me a reed like to a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and those who worship therein.
+And there was given me a reed like to a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and those who worship in it.
 
 **Revelation 11:2**
 
-But the court which is without the temple leave out, and measure it not; for it is given to the Gentiles: and the holy city shall they tread under foot forty and two months.
+But the court which is without the temple leave out, and measure it not; for it is given to the nations: and the holy city shall they tread under foot forty and two months.
 
 **Revelation 11:3**
 
@@ -31508,7 +31508,7 @@ And those who dwell upon the earth shall rejoice over them, and make merry, and 
 
 **Revelation 11:11**
 
-And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
+And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon those who saw them.
 
 **Revelation 11:12**
 
@@ -31536,7 +31536,7 @@ Saying, We give you thanks, O Lord God Almighty, which are, and were, and are to
 
 **Revelation 11:18**
 
-And the nations were angry, and your wrath has come, and the time of the dead, that they should be judged, and that you should give reward to your slaves the prophets, and to the holy ones, and those who fear your name, small and great; and should destroy them which destroy the earth.
+And the nations were angry, and your wrath has come, and the time of the dead, that they should be judged, and that you should give reward to your slaves the prophets, and to the holy ones, and those who fear your name, small and great; and should destroy those who destroy the earth.
 
 **Revelation 11:19**
 
@@ -31558,7 +31558,7 @@ And there appeared another wonder in heaven; and look a great red dragon, having
 
 **Revelation 12:4**
 
-And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, in order to devour her child as soon as it was born.
+And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman who was ready to be delivered, in order to devour her child as soon as it was born.
 
 **Revelation 12:5**
 
@@ -31594,7 +31594,7 @@ Therefore rejoice, you heavens, and you that dwell in them. Woe to the citizens 
 
 **Revelation 12:13**
 
-And when the dragon saw that he was cast to the earth, he persecuted the woman which bore the male child.
+And when the dragon saw that he was cast to the earth, he persecuted the woman who bore the male child.
 
 **Revelation 12:14**
 
@@ -31660,7 +31660,7 @@ And I beheld another beast coming up out of the earth; and he had two horns like
 
 **Revelation 13:12**
 
-And he execises all the power of the first beast before him, and causes the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+And he execises all the power of the first beast before him, and causes the earth and those who dwell in it to worship the first beast, whose deadly wound was healed.
 
 **Revelation 13:13**
 
@@ -31676,7 +31676,7 @@ And he had power to give life to the image of the beast, that the image of the b
 
 **Revelation 13:16**
 
-And he causes all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+And he causes all, both small and great, rich and poor, free and slave, to receive a mark in their right hand, or in their foreheads:
 
 **Revelation 13:17**
 
@@ -31702,7 +31702,7 @@ And they sung as it were a new song before the throne, and before the four beast
 
 **Revelation 14:4**
 
-These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits to God and to the Lamb.
+These are those who were not defiled with women; for they are virgins. These are those who follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits to God and to the Lamb.
 
 **Revelation 14:5**
 
@@ -31710,7 +31710,7 @@ And in their mouth was found no guile: for they are without fault before the thr
 
 **Revelation 14:6**
 
-And I saw another angel fly in the midst of heaven, having the everlasting good news to preach to those who dwell on the earth, and to every nation, and kindred, and tongue, and people,
+And I saw another angel fly in the midst of heaven, having the eternal good news to preach to those who dwell on the earth, and to every nation, and kindred, and tongue, and people,
 
 **Revelation 14:7**
 
@@ -31726,7 +31726,7 @@ And the third angel followed them, saying with a loud voice, If anyone worship t
 
 **Revelation 14:10**
 
-The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+The same shall drink of the wine of the wrath of God, who is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 
 **Revelation 14:11**
 
@@ -31796,7 +31796,7 @@ And the seven angels came out of the temple, having the seven plagues, clothed i
 
 **Revelation 15:7**
 
-And one of the four beasts gave to the seven angels seven golden vials full of the wrath of God, who lives for ever and ever.
+And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives for ever and ever.
 
 **Revelation 15:8**
 
@@ -31806,23 +31806,23 @@ And the temple was filled with smoke from the glory of God, and from his power; 
 
 **Revelation 16:1**
 
-And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
+And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the bowls of the wrath of God upon the earth.
 
 **Revelation 16:2**
 
-And the first went, and poured out his vial upon the earth; and there fell a dangerous and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image.
+And the first went, and poured out his bowl upon the earth; and there fell a dangerous and grievous sore upon the men who had the mark of the beast, and upon those who worshipped his image.
 
 **Revelation 16:3**
 
-And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
+And the second angel poured out his bowl upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
 
 **Revelation 16:4**
 
-And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
+And the third angel poured out his bowl upon the rivers and fountains of waters; and they became blood.
 
 **Revelation 16:5**
 
-And I heard the angel of the waters say, You are righteous, O Lord, which are, and were, and shall be, because you have judged thus.
+And I heard the angel of the waters say, You are righteous, O Lord, who are, and were, and shall be, because you have judged thus.
 
 **Revelation 16:6**
 
@@ -31834,15 +31834,15 @@ And I heard another out of the altar say, Even so, Lord God Almighty, true and r
 
 **Revelation 16:8**
 
-And the fourth angel poured out his vial upon the sun; and power was given to him to scorch men with fire.
+And the fourth angel poured out his bowl upon the sun; and power was given to him to scorch men with fire.
 
 **Revelation 16:9**
 
-And men were scorched with great heat, and blasphemed the name of God, which has power over these plagues: and they repented not to give him glory.
+And men were scorched with great heat, and blasphemed the name of God, who has power over these plagues: and they repented not to give him glory.
 
 **Revelation 16:10**
 
-And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
+And the fifth angel poured out his bowl upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
 
 **Revelation 16:11**
 
@@ -31850,7 +31850,7 @@ And blasphemed the God of heaven because of their pains and their sores, and rep
 
 **Revelation 16:12**
 
-And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
+And the sixth angel poured out his bowl upon the great river Euphrates; and the water of it was dried up, that the way of the kings of the east might be prepared.
 
 **Revelation 16:13**
 
@@ -31870,7 +31870,7 @@ And he gathered them together into a place called in the Hebrew tongue Armageddo
 
 **Revelation 16:17**
 
-And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
+And the seventh angel poured out his bowl into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
 
 **Revelation 16:18**
 
@@ -31886,13 +31886,13 @@ And every island fled away, and the mountains were not found.
 
 **Revelation 16:21**
 
-And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
+And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague of it was exceeding great.
 
 ### Chapter 17
 
 **Revelation 17:1**
 
-And there came one of the seven angels which had the seven vials, and talked with me, saying to me, Come here; I will show to you the judgment of the great prostitute that sits upon many waters:
+And there came one of the seven angels who had the seven bowls, and talked with me, saying to me, Come here; I will show to you the judgment of the great prostitute that sits upon many waters:
 
 **Revelation 17:2**
 
@@ -31908,7 +31908,7 @@ And the woman was arrayed in purple and scarlet colour, and decked with gold and
 
 **Revelation 17:5**
 
-And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND ABOMINATIONS OF THE EARTH.
 
 **Revelation 17:6**
 
@@ -31920,7 +31920,7 @@ And the angel said to me, Therefore did you marvel? I will tell you the mystery 
 
 **Revelation 17:8**
 
-The beast that you saw was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they look the beast that was, and is not, and yet is.
+The beast that you saw was, and is not; and shall ascend out of the bottomless pit, and go into destruction: and those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they look the beast that was, and is not, and yet is.
 
 **Revelation 17:9**
 
@@ -31932,7 +31932,7 @@ And there are seven kings: five are fallen, and one is, and the other is not yet
 
 **Revelation 17:11**
 
-And the beast that was, and is not, even he is the eighth, and is of the seven, and goes into perdition.
+And the beast that was, and is not, even he is the eighth, and is of the seven, and goes into destruction.
 
 **Revelation 17:12**
 
@@ -31960,7 +31960,7 @@ For God has put in their hearts to fulfill his will, and to agree, and give thei
 
 **Revelation 17:18**
 
-And the woman which you saw is that great city, which reigns over the kings of the earth.
+And the woman who you saw is that great city, which reigns over the kings of the earth.
 
 ### Chapter 18
 
@@ -31974,7 +31974,7 @@ And he cried mightily with a strong voice, saying, Babylon the great is fallen, 
 
 **Revelation 18:3**
 
-For all nations have drunk of the wine of the wrath of her sexual immorality, and the kings of the earth have committed sexual immorality with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
+For all nations have drunk of the wine of the wrath of her sexual immorality, and the kings of the earth have committed sexual immorality with her, and the merchants of the earth are became rich through the abundance of her delicacies.
 
 **Revelation 18:4**
 
@@ -32038,7 +32038,7 @@ And cried when they saw the smoke of her burning, saying, What city is like to t
 
 **Revelation 18:19**
 
-And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
+And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas that great city, in which were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
 
 **Revelation 18:20**
 
@@ -32096,7 +32096,7 @@ And to her was granted that she should be arrayed in fine linen, clean and white
 
 **Revelation 19:9**
 
-And he says to me, Write, Blessed are they which are called to the marriage supper of the Lamb. And he says to me, These are the true sayings of God.
+And he says to me, Write, Blessed are those who are called to the marriage supper of the Lamb. And he says to me, These are the true sayings of God.
 
 **Revelation 19:10**
 
@@ -32132,7 +32132,7 @@ And I saw an angel standing in the sun; and he cried with a loud voice, saying t
 
 **Revelation 19:18**
 
-That you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of those who sit on them, and the flesh of all men, both free and bond, both small and great.
+That you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of those who sit on them, and the flesh of all men, both free and slave, both small and great.
 
 **Revelation 19:19**
 
@@ -32140,7 +32140,7 @@ And I saw the beast, and the kings of the earth, and their armies, gathered toge
 
 **Revelation 19:20**
 
-And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived those who had received the mark of the beast, and those who worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
+And the beast was taken, and with him the false prophet that worked miracles before him, with which he deceived those who had received the mark of the beast, and those who worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
 **Revelation 19:21**
 
@@ -32224,7 +32224,7 @@ And I heard a great voice out of heaven saying, Look, the tabernacle of God is w
 
 **Revelation 21:4**
 
-And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there is any more pain: for the former things are passed away.
 
 **Revelation 21:5**
 
@@ -32244,7 +32244,7 @@ But the fearful, and unbelieving, and the abominable, and murderers, and sexuall
 
 **Revelation 21:9**
 
-And there came to me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb's wife.
+And there came to me one of the seven angels who had the seven bowls full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb's wife.
 
 **Revelation 21:10**
 
@@ -32268,7 +32268,7 @@ And the wall of the city had twelve foundations, and in them the names of the tw
 
 **Revelation 21:15**
 
-And the one who talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
+And the one who talked with me had a golden reed to measure the city, and the gates of it, and the wall of it.
 
 **Revelation 21:16**
 
@@ -32276,7 +32276,7 @@ And the city lies foursquare, and the length is as large as the breadth: and he 
 
 **Revelation 21:17**
 
-And he measured the wall thereof, a hundred and forty and four cubits, according to the measure of a man, that is, of the angel.
+And he measured the wall of it, a hundred and forty and four cubits, according to the measure of a man, that is, of the angel.
 
 **Revelation 21:18**
 
@@ -32296,15 +32296,15 @@ And the twelve gates were twelve pearls: every several gate was of one pearl: an
 
 **Revelation 21:22**
 
-And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
+And I saw no temple in it: for the Lord God Almighty and the Lamb are the temple of it.
 
 **Revelation 21:23**
 
-And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
+And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light of it.
 
 **Revelation 21:24**
 
-And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
+And the nations of those who are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
 
 **Revelation 21:25**
 
@@ -32316,7 +32316,7 @@ And they shall bring the glory and honour of the nations into it.
 
 **Revelation 21:27**
 
-And there shall by no means enter into it anything that defiles, neither whatever works abomination, or makes a lie: but they which are written in the Lamb's book of life.
+And there shall by no means enter into it anything that defiles, neither whatever works abomination, or makes a lie: but those who are written in the Lamb's book of life.
 
 ### Chapter 22
 
@@ -32350,11 +32350,11 @@ Look, I come quickly: blessed is the one who keeps the sayings of the prophecy o
 
 **Revelation 22:8**
 
-And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which showed me these things.
+And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel who showed me these things.
 
 **Revelation 22:9**
 
-Then says he to me, See you do it not: for I am your fellow slave, and of your brothers the prophets, and of them which keep the sayings of this book: worship God.
+Then says he to me, See you do it not: for I am your fellow slave, and of your brothers the prophets, and of those who keep the sayings of this book: worship God.
 
 **Revelation 22:10**
 
@@ -32362,7 +32362,7 @@ And he says to me, Seal not the sayings of the prophecy of this book: for the ti
 
 **Revelation 22:11**
 
-the one who is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and the one who is righteous, let him be righteous still: and the one who is holy, let him be holy still.
+the one who is unjust, let him be unjust still: and the one who is filthy, let him be filthy still: and the one who is righteous, let him be righteous still: and the one who is holy, let him be holy still.
 
 **Revelation 22:12**
 
@@ -32398,7 +32398,7 @@ And if anyone shall take away from the words of the book of this prophecy, God s
 
 **Revelation 22:20**
 
-He which testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+the one who testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
 
 **Revelation 22:21**
 
