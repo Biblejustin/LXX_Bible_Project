@@ -2592,10 +2592,11 @@ def main() -> None:
     parser.add_argument("--logos-root", type=Path, default=DEFAULT_LOGOS_ROOT)
     parser.add_argument("--testament", choices=tuple(TESTAMENT_CONFIG), default="ot")
     parser.add_argument(
-        "--no-place-links",
+        "--place-links",
         action="store_true",
-        help="Disable conservative Logos Bible Knowledgebase place links.",
+        help="Enable experimental Logos Bible Knowledgebase place links. Disabled by default because Personal Books can surface unresolved markup.",
     )
+    parser.add_argument("--no-place-links", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--datatype", default="Bible")
     parser.add_argument(
         "--footnote-number-restart",
@@ -2646,11 +2647,11 @@ def main() -> None:
         args.testament,
         enabled=not args.no_crossrefs,
     )
-    if args.no_place_links:
+    if not args.place_links or args.no_place_links:
         place_links: dict[str, PlaceLink] = {}
         place_link_diag: dict[str, object] = {
             "enabled": False,
-            "reason": "Disabled with --no-place-links.",
+            "reason": "Disabled by default; experimental Personal Book place links can surface unresolved markup.",
             "candidate_labels": 0,
         }
     else:

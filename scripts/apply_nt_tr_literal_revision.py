@@ -193,6 +193,9 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bfrom henceforth\b", "from now on", "modernized from-henceforth idiom"),
         (r"\bfrom thence\b", "from there", "modernized from-thence idiom"),
         (r"\bfrom hence\b", "from here", "modernized from-hence idiom"),
+        (r"\bI know you not whence you are\b", "I do not know where you are from", "modernized know-not-whence idiom"),
+        (r"\bWhence\b", "From where", "modernized whence"),
+        (r"\bwhence\b", "from where", "modernized whence"),
         (r"\bno wise\b", "no way", "modernized no-wise idiom"),
         (r"\bin no way\b", "by no means", "aligned emphatic negation idiom"),
         (r"\bno more at all\b", "no longer", "modernized no-more-at-all idiom"),
@@ -224,6 +227,31 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bbe release from you\b", "be removed from you", "fixed be-release artifact"),
         (r"\bunder color as though\b", "under pretense as though", "modernized under-color idiom"),
         (r"\bWhich now of these\b", "Which of these", "modernized which-now idiom"),
+        (r"\bLest lest by any means\b", "Lest by any means", "fixed duplicate lest artifact"),
+        (r"\bafter they had were silent\b", "after they were silent", "fixed had-were artifact"),
+        (r"\bto not a word\b", "not one word", "modernized answered-not wording"),
+        (r"\bpins away\b", "pines away", "fixed pines-away spelling"),
+        (r"\bBe not affrighted\b", "Do not be frightened", "modernized affrighted"),
+        (r"\baffrighted\b", "frightened", "modernized affrighted"),
+        (r"\bstrait gate\b", "narrow gate", "modernized strait-gate wording"),
+        (r"\bin a strait between two\b", "pressed between two", "modernized in-a-strait idiom"),
+        (r"\bby and by\b", "immediately", "modernized by-and-by idiom"),
+        (r"\bhearkened\b", "listened", "modernized hearken"),
+        (r"\bHearken\b", "Listen", "modernized hearken"),
+        (r"\bhearken\b", "listen", "modernized hearken"),
+        (r"\bwhere ever\b", "wherever", "modernized wherever spelling"),
+        (r"\binsomuch that\b", "so that", "modernized insomuch-that idiom"),
+        (r"\bEnter you in at\b", "Enter in through", "modernized enter-you-in idiom"),
+        (r"\benter you into\b", "enter into", "modernized enter-you idiom"),
+        (r"\bmany there is which go in thereat\b", "many are those who enter through it", "fixed many-there-is artifact"),
+        (r"\bfew there is that find it\b", "few are those who find it", "fixed few-there-is artifact"),
+        (r"\bBecause strait is the gate\b", "Because narrow is the gate", "modernized strait-gate wording"),
+        (r"\bFrom where know you me\b", "How do you know me", "modernized whence-question idiom"),
+        (r"\bwhich was crucified\b", "who was crucified", "modernized personal which as who"),
+        (r"\ball that look it begin to mock\b", "all who see it begin to mock", "fixed look-it artifact"),
+        (r"\bis not able to finish it\b", "cannot finish it", "modernized not-able wording"),
+        (r"\byour Lord does come\b", "your Lord comes", "modernized does-come wording"),
+        (r"\bcan not\b", "cannot", "modernized cannot spelling"),
     ]
     for pattern, replacement, note in phrase_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
@@ -287,10 +315,14 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         ("Saviour", "Savior", "modernized Saviour spelling"),
         ("honours", "honors", "modernized honour spelling"),
         ("honoured", "honored", "modernized honour spelling"),
+        ("honourable", "honorable", "modernized honour spelling"),
+        ("honourably", "honorably", "modernized honour spelling"),
         ("honour", "honor", "modernized honour spelling"),
         ("labours", "labors", "modernized labour spelling"),
         ("laboured", "labored", "modernized labour spelling"),
         ("labouring", "laboring", "modernized labour spelling"),
+        ("labourers", "laborers", "modernized labour spelling"),
+        ("labourer", "laborer", "modernized labour spelling"),
         ("labour", "labor", "modernized labour spelling"),
         ("neighbours", "neighbors", "modernized neighbour spelling"),
         ("neighbour", "neighbor", "modernized neighbour spelling"),
@@ -299,6 +331,7 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         ("favour", "favor", "modernized favour spelling"),
         ("marvelled", "marveled", "modernized marvelled spelling"),
         ("marvelling", "marveling", "modernized marvelling spelling"),
+        ("marvellous", "marvelous", "modernized marvellous spelling"),
         ("clamour", "clamor", "modernized clamour spelling"),
         ("behaviour", "behavior", "modernized behaviour spelling"),
         ("colour", "color", "modernized colour spelling"),
@@ -309,10 +342,28 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         ("slew", "killed", "modernized slew"),
         ("slay", "kill", "modernized slay"),
         ("slain", "killed", "modernized slain"),
+        ("bare", "bore", "modernized bare as bore"),
+        ("brake", "broke", "modernized brake as broke"),
+        ("durst", "dared", "modernized durst"),
+        ("clave", "clung", "modernized clave"),
+        ("abode", "remained", "modernized abode"),
+        ("worshipped", "worshiped", "modernized worshipped spelling"),
+        ("worshipping", "worshiping", "modernized worshipping spelling"),
+        ("rumours", "rumors", "modernized rumours spelling"),
+        ("recompence", "recompense", "modernized recompence spelling"),
+        ("santifies", "sanctifies", "fixed sanctifies spelling"),
         ("wrought", "worked", "modernized wrought"),
         ("conversation", "conduct", "modernized conversation as conduct"),
         ("concupiscence", "desire", "modernized concupiscence"),
         ("shew", "show", "modernized shew"),
+        ("victuals", "food", "modernized victuals"),
+        ("fishes", "fish", "modernized fishes plural"),
+        ("gainsayers", "opponents", "modernized gainsayers"),
+        ("gainsaying", "contradiction", "modernized gainsaying"),
+        ("gainsay", "contradict", "modernized gainsay"),
+        ("meats", "foods", "modernized meats"),
+        ("counsellors", "counselors", "modernized counsellor spelling"),
+        ("counsellor", "counselor", "modernized counsellor spelling"),
         ("harlots", "prostitutes", "modernized porne wording"),
         ("harlot", "prostitute", "modernized porne wording"),
         ("whore", "prostitute", "modernized porne wording"),
@@ -331,6 +382,18 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bbe release from you\b", "be removed from you", "fixed be-release artifact"),
         (r"\bher which is release\b", "her who has been released", "fixed release participle artifact"),
         (r"\bher that is release from her husband\b", "her who has been released from her husband", "fixed release participle artifact"),
+        (r"\binsomuch as\b", "so that", "modernized insomuch-as idiom"),
+        (r"\bEnter you in at\b", "Enter in through", "modernized enter-you-in idiom"),
+        (r"\ball that look it begin to mock\b", "all who see it begin to mock", "fixed look-it artifact"),
+        (r"\bI know you not From where you are\b", "I do not know where you are from", "modernized know-not-whence idiom"),
+        (r"\bI know you not from where you are\b", "I do not know where you are from", "modernized know-not-whence idiom"),
+        (r"\bfrom From where\b", "from where", "fixed from-whence artifact"),
+        (r"\bFrom From where\b", "From where", "fixed from-whence artifact"),
+        (r"\btell From where\b", "tell from where", "fixed whence casing after tell"),
+        (r"\bknow From where\b", "know from where", "fixed whence casing after know"),
+        (r"\bknows From where\b", "knows from where", "fixed whence casing after knows"),
+        (r"\band From where\b", "and from where", "fixed whence casing after and"),
+        (r"\bAnd From where\b", "And from where", "fixed whence casing after and"),
         (r"\bSavior, which\b", "Savior, who", "modernized personal which as who"),
         (r"\bunder color as though\b", "under pretense as though", "modernized under-color idiom"),
         (
@@ -356,6 +419,64 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
     ]
     for pattern, replacement, note in cleanup_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
+    text = replace_literal(text, r"\bso that that field\b", "so that field", "cleaned so-that-that wording", notes)
+    text = replace_literal(text, r"^from where\b", "From where", "fixed sentence-initial whence casing", notes)
+    text = replace_literal(text, r"\bcome they not behind\b", "are they not from here", "rendered enteuthen question as from here", notes)
+    text = replace_literal(text, r"\bI know you not\b", "I do not know you", "modernized know-you-not idiom", notes)
+    text = replace_literal(text, r"\bKnow you not\b", "Do you not know", "modernized know-you-not question", notes)
+    text = replace_literal(text, r"\bknow you not\b", "do you not know", "modernized know-you-not question", notes)
+    text = replace_literal(text, r"\bSpeak you not\b", "Do you not speak", "modernized speak-you-not question", notes)
+    text = replace_literal(text, r"\byour's\b", "yours", "modernized possessive pronoun spelling", notes)
+    text = replace_literal(text, r"\bour's\b", "ours", "modernized possessive pronoun spelling", notes)
+    text = replace_literal(text, r"\btheir's\b", "theirs", "modernized possessive pronoun spelling", notes)
+    text = replace_literal(text, r"\bmine account\b", "my account", "modernized mine-account wording", notes)
+    text = replace_literal(text, r"\bearn heed\b", "earnest heed", "fixed earnest-heed artifact", notes)
+    text = replace_literal(text, r"\bsay ought to you\b", "say anything to you", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bdo ought for\b", "do anything for", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bsaw ought\b", "saw anything", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bbrought him ought to eat\b", "brought him anything to eat", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bhad ought to accuse\b", "had anything to accuse", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bowes you ought\b", "owes you anything", "modernized ought-as-anything idiom", notes)
+    text = replace_literal(text, r"\bbe you ware also\b", "beware of him also", "modernized be-ware idiom", notes)
+    text = replace_literal(text, r"\bware no clothes\b", "wore no clothes", "modernized ware as wore", notes)
+    text = replace_literal(text, r"\bvery chiefest\b", "foremost", "modernized chiefest", notes)
+    text = replace_literal(text, r"\bchiefest\b", "foremost", "modernized chiefest", notes)
+    text = replace_literal(text, r"\bovermuch\b", "excessive", "modernized overmuch", notes)
+    text = replace_literal(text, r"\bOf whom beware of him also\b", "Beware of him also", "fixed be-ware artifact", notes)
+    text = replace_literal(
+        text,
+        r"\bneither said any of those who ought of the things which he possessed was his own\b",
+        "neither did any of them say that anything of the things which he possessed was his own",
+        "modernized ought-as-anything idiom",
+        notes,
+    )
+    text = replace_literal(text, r"\bwith him who day\b", "with him that day", "fixed him-that-day artifact", notes)
+    text = replace_literal(text, r"\bFor the which cause\b", "For this reason", "modernized for-which-cause idiom", notes)
+    text = replace_literal(text, r"\bFor which cause\b", "For this reason", "modernized for-which-cause idiom", notes)
+    text = replace_literal(text, r"\bfor which cause\b", "for this reason", "modernized for-which-cause idiom", notes)
+    text = replace_literal(text, r"\bto him who he may find\b", "to him that he may find", "fixed him-that relative artifact", notes)
+    text = replace_literal(text, r"\bthat that day should\b", "that the day should", "fixed that-that-day artifact", notes)
+    text = replace_literal(text, r"\ban hill\b", "a hill", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban herd\b", "a herd", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban hundredfold\b", "a hundredfold", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban householder\b", "a householder", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban stumbling\b", "a stumbling", "modernized article before consonant sound", notes)
+    text = replace_literal(text, r"\ban hook\b", "a hook", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban nations man\b", "a man of the nations", "fixed nations-man article artifact", notes)
+    text = replace_literal(text, r"\bhad an barrier in his speech\b", "had a speech impediment", "modernized speech-impediment wording", notes)
+    text = replace_literal(text, r"\ban hedge\b", "a hedge", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban horn\b", "a horn", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban husband\b", "a husband", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban hair\b", "a hair", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban honeycomb\b", "a honeycomb", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban haven\b", "a haven", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban Hebrew\b", "a Hebrew", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban holyday\b", "a holy day", "modernized holy day spelling", notes)
+    text = replace_literal(text, r"\ban helmet\b", "a helmet", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban heretic\b", "a heretic", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban heifer\b", "a heifer", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban heavenly\b", "a heavenly", "modernized article before h-word", notes)
+    text = replace_literal(text, r"\ban half\b", "a half", "modernized article before h-word", notes)
     text = replace_literal(text, r"\bA overseer\b", "An overseer", "fixed article before overseer", notes)
     text = replace_literal(text, r"\ba overseer\b", "an overseer", "fixed article before overseer", notes)
 
@@ -527,6 +648,186 @@ def apply_greek_triggered_revisions(row: dict[str, str], text: str, notes: list[
     return text
 
 
+def apply_final_cleanups(text: str, notes: list[str]) -> str:
+    final_replacements = [
+        (r"\ban stumbling block\b", "a stumbling block", "modernized article before consonant sound"),
+        (r"\ban nations man\b", "a man of the nations", "fixed nations-man article artifact"),
+        (r"\ban habitation\b", "a habitation", "modernized article before h-word"),
+        (r"\bwhich also waited for the kingdom\b", "who also waited for the kingdom", "modernized personal which as who"),
+        (r"\bcraved the body\b", "asked for the body", "modernized craved"),
+        (r"\bcast out into the draught\b", "cast out into the latrine", "rendered draught as latrine"),
+        (r"\bgoes out into the draught\b", "goes out into the latrine", "rendered draught as latrine"),
+        (r"\bnets for a draught\b", "nets for a catch", "rendered draught as catch"),
+        (r"\bat the draught of the fish\b", "at the catch of fish", "rendered draught as catch"),
+        (r"\bGet you behind me\b", "Get behind me", "modernized get-you imperative"),
+        (r"\btaste not the things that be of God\b", "do not mind the things that are of God", "rendered phroneo as mind"),
+        (r"\btaste not the things that be of men\b", "do not mind the things that are of men", "rendered phroneo as mind"),
+        (r"\bthings that be of God\b", "things that are of God", "modernized things-that-be wording"),
+        (r"\bthings that be of men\b", "things that are of men", "modernized things-that-be wording"),
+        (r"\bthose that be of men\b", "those that are of men", "modernized things-that-be wording"),
+        (r"\bthose who be in Judea\b", "those who are in Judea", "modernized who-be wording"),
+        (r"\bTo all that be in Rome\b", "To all who are in Rome", "modernized all-that-be wording"),
+        (r"\bthe powers that be\b", "the powers that exist", "modernized powers-that-be wording"),
+        (r"\bGet you behind, Satan\b", "Get behind me, Satan", "modernized get-you imperative"),
+        (r"\bDo not you yet understand\b", "Do you not yet understand", "modernized inverted question"),
+        (r"\bDo not you fear God\b", "Do you not fear God", "modernized inverted question"),
+        (r"\bdo not you judge\b", "do you not judge", "modernized inverted question"),
+        (r"\bdo not you yield\b", "do not yield", "modernized do-not-you imperative"),
+        (r"\bdo not your alms\b", "do not do your charitable giving", "modernized alms wording"),
+        (r"\bdo not you after their works\b", "do not do according to their works", "modernized do-not-you wording"),
+        (r"\bGo you therefore\b", "Go therefore", "modernized go-you imperative"),
+        (r"\bGo you into\b", "Go into", "modernized go-you imperative"),
+        (r"\bGo you also\b", "Go also", "modernized go-you imperative"),
+        (r"\bgo you and learn\b", "go and learn", "modernized go-you imperative"),
+        (r"\bgo you to the sea\b", "go to the sea", "modernized go-you imperative"),
+        (r"\bgo you out\b", "go out", "modernized go-you imperative"),
+        (r"\bgo you rather\b", "go rather", "modernized go-you imperative"),
+        (r"\bgo you not therefore\b", "do not go therefore", "modernized go-you-not imperative"),
+        (r"\bWhom say you that I am\b", "Who do you say that I am", "modernized inverted question"),
+        (r"\bwhom say you that I am\b", "who do you say that I am", "modernized inverted question"),
+        (r"\bSay you, His disciples\b", "Say, His disciples", "modernized say-you imperative"),
+        (r"\bsay you that the Lord\b", "say that the Lord", "modernized say-you imperative"),
+        (r"\bsay you to the householder\b", "say to the householder", "modernized say-you imperative"),
+        (r"\bSay you of him\b", "Do you say of him", "modernized inverted question"),
+        (r"\bWhat think you\?", "What do you think?", "modernized inverted question"),
+        (r"\bwhat think you\?", "what do you think?", "modernized inverted question"),
+        (r"\bWhat think you of Christ\b", "What do you think of Christ", "modernized inverted question"),
+        (r"\bThink you that\b", "Do you think that", "modernized inverted question"),
+        (r"\bthink you that\b", "do you think that", "modernized inverted question"),
+        (r"\bTherefore think you evil\b", "Why do you think evil", "modernized inverted question"),
+        (r"\bHow think you\?", "What do you think?", "modernized inverted question"),
+        (r"\bWhich of these three, think you,\b", "Which of these three, do you think,", "modernized inverted question"),
+        (r"\bWhom think you that I am\b", "Who do you think that I am", "modernized inverted question"),
+        (r"\bWhat will you that I shall do to you\b", "What do you want me to do for you", "modernized what-will-you idiom"),
+        (r"\bWhat will you that I should do to you\b", "What do you want me to do for you", "modernized what-will-you idiom"),
+        (r"\bWhere will you that we prepare\b", "Where do you want us to prepare", "modernized where-will-you idiom"),
+        (r"\bWhere will you that we go and prepare\b", "Where do you want us to go and prepare", "modernized where-will-you idiom"),
+        (r"\bWill you that I release\b", "Do you want me to release", "modernized will-you-that idiom"),
+        (r"\bWhom will you that I release\b", "Whom do you want me to release", "modernized will-you-that idiom"),
+        (r"\bWhether of the two will you that I release\b", "Which of the two do you want me to release", "modernized will-you-that idiom"),
+        (r"\bPray you therefore the Lord\b", "Pray therefore to the Lord", "modernized pray-you imperative"),
+        (r"\bpray you therefore the Lord\b", "pray therefore to the Lord", "modernized pray-you imperative"),
+        (r"\bpray you that your flight\b", "pray that your flight", "modernized pray-you imperative"),
+        (r"\bI pray you, come\b", "I ask you, come", "modernized I-pray-you wording"),
+        (r"\bI pray you have me excused\b", "I ask you, have me excused", "modernized I-pray-you wording"),
+        (r"\bI pray you therefore\b", "I ask you therefore", "modernized I-pray-you wording"),
+        (r"\bI pray you, of whom\b", "I ask you, of whom", "modernized I-pray-you wording"),
+        (r"\bI pray you that you would hear us\b", "I ask you that you would hear us", "modernized I-pray-you wording"),
+        (r"\bI pray you to take some food\b", "I ask you to take some food", "modernized I-pray-you wording"),
+        (r"\bAfter this manner therefore pray you\b", "Therefore pray this way", "modernized pray-you imperative"),
+        (r"\bPray you to the Lord\b", "Pray to the Lord", "modernized pray-you imperative"),
+        (r"\bwe pray you in Christ's position\b", "we plead with you in Christ's place", "modernized pray-you wording"),
+        (r"\bTake no thought for\b", "Do not be anxious for", "modernized take-no-thought idiom"),
+        (r"\btake no thought for\b", "do not be anxious for", "modernized take-no-thought idiom"),
+        (r"\btake you thought for\b", "are you anxious for", "modernized take-you-thought idiom"),
+        (r"\btaking thought\b", "being anxious", "modernized taking-thought idiom"),
+        (r"\bBut Who do you say\b", "But who do you say", "fixed question casing"),
+        (r"\bOur Father who are in heaven\b", "Our Father who is in heaven", "fixed Father relative agreement"),
+        (r"\bthey toil not\b", "they do not toil", "modernized toil-not wording"),
+        (r"\bthey spin not\b", "they do not spin", "modernized spin-not wording"),
+        (r"\byour flight be not in the winter\b", "your flight not be in the winter", "modernized be-not clause"),
+        (r"\bWhat think you, Simon\b", "What do you think, Simon", "modernized inverted question"),
+        (r"\bWhat think you, that\b", "What do you think, that", "modernized inverted question"),
+        (r"\bTake that your is\b", "Take what is yours", "fixed yours artifact"),
+        (r"\byour is the kingdom\b", "yours is the kingdom", "fixed yours artifact"),
+        (r"\bnot yet full come\b", "not yet fully come", "modernized full-come idiom"),
+        (r"\bAnd presently the fig tree\b", "And immediately the fig tree", "modernized presently"),
+        (r"\bshall presently give me\b", "shall immediately give me", "modernized presently"),
+        (r"\bhope to send presently\b", "hope to send soon", "modernized presently"),
+        (r"\bJesus prevented him\b", "Jesus anticipated him", "modernized prevented-as-anticipated"),
+        (r"\bWhat means this\?", "What does this mean?", "modernized what-means-this question"),
+        (r"\bwill you that we command\b", "do you want us to command", "modernized will-you-that idiom"),
+        (r"\bwill you therefore that I release\b", "do you therefore want me to release", "modernized will-you-that idiom"),
+        (r"\bWhat will you then that I shall do\b", "What then do you want me to do", "modernized what-will-you idiom"),
+        (r"\bwhat will you have me to do\b", "what do you want me to do", "modernized what-will-you idiom"),
+        (r"\bWill you be made whole\b", "Do you want to be made whole", "modernized will-you question"),
+        (r"\bWhat will you\?", "What do you want?", "modernized what-will-you question"),
+        (r"\bBe you therefore\b", "Be therefore", "modernized be-you imperative"),
+        (r"\bbe you therefore\b", "be therefore", "modernized be-you imperative"),
+        (r"\bbe you there until\b", "stay there until", "modernized be-you imperative"),
+        (r"\bbe you clean\b", "be clean", "modernized be-you imperative"),
+        (r"\bBe you removed\b", "Be removed", "modernized be-you imperative"),
+        (r"\bbe you cast\b", "be cast", "modernized be-you imperative"),
+        (r"\bBe you plucked up\b", "Be plucked up", "modernized be-you imperative"),
+        (r"\bbe you planted\b", "be planted", "modernized be-you imperative"),
+        (r"\bbe you called\b", "be called", "modernized be-you imperative"),
+        (r"\bbe you also ready\b", "be also ready", "modernized be-you imperative"),
+        (r"\bbe you sure\b", "be sure", "modernized be-you imperative"),
+        (r"\bbe you of doubtful mind\b", "be of doubtful mind", "modernized be-you imperative"),
+        (r"\bbe you transformed\b", "be transformed", "modernized be-you imperative"),
+        (r"\bbe you followers\b", "be followers", "modernized be-you imperative"),
+        (r"\bbe you idolaters\b", "be idolaters", "modernized be-you imperative"),
+        (r"\bbe you children\b", "be children", "modernized be-you imperative"),
+        (r"\bbe you steadfast\b", "be steadfast", "modernized be-you imperative"),
+        (r"\bbe you reconciled\b", "be reconciled", "modernized be-you imperative"),
+        (r"\bbe you also enlarged\b", "be also enlarged", "modernized be-you imperative"),
+        (r"\bbe you separate\b", "be separate", "modernized be-you imperative"),
+        (r"\bbe you kind\b", "be kind", "modernized be-you imperative"),
+        (r"\bbe you thankful\b", "be thankful", "modernized be-you imperative"),
+        (r"\bbe you an example\b", "be an example", "modernized be-you imperative"),
+        (r"\bbe you partaker\b", "be partaker", "modernized be-you imperative"),
+        (r"\bbe you doers\b", "be doers", "modernized be-you imperative"),
+        (r"\bbe you warmed\b", "be warmed", "modernized be-you imperative"),
+        (r"\bbe you holy\b", "be holy", "modernized be-you imperative"),
+        (r"\bbe you all of one mind\b", "be all of one mind", "modernized be-you imperative"),
+        (r"\bbe you faithful\b", "be faithful", "modernized be-you imperative"),
+        (r"\bBlessed be you poor\b", "Blessed are you poor", "modernized blessed-be-you wording"),
+        (r"\bBe not you therefore like\b", "Do not therefore be like", "modernized be-not-you imperative"),
+        (r"\bBe not you therefore partakers\b", "Do not therefore be partakers", "modernized be-not-you imperative"),
+        (r"\bBe not you therefore ashamed\b", "Do not therefore be ashamed", "modernized be-not-you imperative"),
+        (r"\bbe not you called\b", "do not be called", "modernized be-not-you imperative"),
+        (r"\bbe not you the slaves\b", "do not be slaves", "modernized be-not-you imperative"),
+        (r"\bBe not high-minded\b", "Do not be high-minded", "modernized be-not imperative"),
+        (r"\bBe not wise\b", "Do not be wise", "modernized be-not imperative"),
+        (r"\bBe not overcome\b", "Do not be overcome", "modernized be-not imperative"),
+        (r"\bBe not deceived\b", "Do not be deceived", "modernized be-not imperative"),
+        (r"\bBe not forgetful\b", "Do not be forgetful", "modernized be-not imperative"),
+        (r"\bBe not carried about\b", "Do not be carried about", "modernized be-not imperative"),
+        (r"\bbe not terrified\b", "do not be terrified", "modernized be-not imperative"),
+        (r"\band be not faithless\b", "and do not be faithless", "modernized be-not imperative"),
+        (r"\bAnd be not conformed\b", "And do not be conformed", "modernized be-not imperative"),
+        (r"\band be not conformed\b", "and do not be conformed", "modernized be-not imperative"),
+        (r"\bbe not children\b", "do not be children", "modernized be-not imperative"),
+        (r"\band be not entangled\b", "and do not be entangled", "modernized be-not imperative"),
+        (r"\bAnd be not drunk\b", "And do not be drunk", "modernized be-not imperative"),
+        (r"\bbe not bitter\b", "do not be bitter", "modernized be-not imperative"),
+        (r"\bbe not weary\b", "do not be weary", "modernized be-not imperative"),
+        (r"\bbe not ignorant\b", "do not be ignorant", "modernized be-not imperative"),
+        (r"\bBe not you\b", "Do not be", "modernized be-not-you imperative"),
+        (r"\bbe not, as\b", "do not be, as", "modernized be-not imperative"),
+        (r"\bresist not evil\b", "do not resist evil", "modernized resist-not wording"),
+        (r"\bforgive not men\b", "do not forgive men", "modernized forgive-not wording"),
+        (r"\bforgive not every one\b", "do not forgive every one", "modernized forgive-not wording"),
+        (r"\blittle ones which believe\b", "little ones who believe", "modernized personal which as who"),
+        (r"\bJews which believed\b", "Jews who believed", "modernized personal which as who"),
+        (r"\bthey of the circumcision which believed\b", "those of the circumcision who believed", "modernized personal which as who"),
+        (r"\bthere are which believe\b", "there are who believe", "modernized personal which as who"),
+        (r"\bnations which believe\b", "nations that believe", "modernized nations relative as that"),
+        (r"\bTo you therefore which believe\b", "To you therefore who believe", "modernized personal which as who"),
+        (r"\belders, which had come to him\b", "elders, who had come to him", "modernized personal which as who"),
+        (r"\bPharisees and doctors of the law sitting by, which had come\b", "Pharisees and doctors of the law sitting by, who had come", "modernized personal which as who"),
+        (r"\bit is better for him who a millstone were hanged about his neck\b", "it is better for him if a millstone were hung around his neck", "fixed millstone relative artifact"),
+        (r"\bit were better for him who a millstone were hanged about his neck\b", "it would be better for him if a millstone were hung around his neck", "fixed millstone relative artifact"),
+        (r"^do not judge\b", "Do not judge", "fixed sentence casing"),
+        (r"\bDo not therefore be like to them\b", "Do not therefore be like them", "modernized like-to wording"),
+        (r"\bBe therefore perfect\b", "Therefore be perfect", "modernized be-therefore order"),
+        (r"\bBe you also over five cities\b", "Be over five cities also", "modernized be-you imperative"),
+        (r"\bBe you come out\b", "Have you come out", "modernized be-you question"),
+        (r"\bBe you angry\b", "Be angry", "modernized be-you imperative"),
+        (r"\bBe you also patient\b", "Be also patient", "modernized be-you imperative"),
+        (r"\bIf so be you have tasted\b", "If indeed you have tasted", "modernized if-so-be wording"),
+        (r"\bif it be you\b", "if it is you", "modernized if-it-be wording"),
+        (r"\byou be not troubled\b", "you are not troubled", "modernized be-not clause"),
+        (r"\byou be not deceived\b", "you are not deceived", "modernized be-not clause"),
+        (r"\byou be not judged\b", "you not be judged", "modernized be-not clause"),
+        (r"\bwho be disobedient\b", "who are disobedient", "modernized who-be wording"),
+        (r"\bevil communications corrupt good manners\b", "evil company corrupts good morals", "modernized communications-good-manners idiom"),
+    ]
+    for pattern, replacement, note in final_replacements:
+        text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
+    return text
+
+
 MANUAL_OVERRIDES = {
     "Matthew 1:1": "Book of the origin of Jesus Christ, son of David, son of Abraham.",
     "Matthew 1:18": "Now the birth of Jesus Christ was this way: after his mother Mary was betrothed to Joseph, before they came together, she was found having in womb from Holy Spirit.",
@@ -560,6 +861,7 @@ def revise_row(row: dict[str, str]) -> tuple[str, list[str], str]:
     text = row.get("draft_translation", "")
     text = apply_general_revisions(text, notes)
     text = apply_greek_triggered_revisions(row, text, notes)
+    text = apply_final_cleanups(text, notes)
     text = clean_spacing(text)
     if notes:
         return text, sorted(set(notes)), "tr_literal_pass1"

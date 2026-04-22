@@ -6,6 +6,7 @@ __pycache__/
 data/private/
 data/raw/private/
 data/research/local/
+# Keep output/ tracked. Users should be able to read generated text without running code.
 output/*.aux
 output/*.log
 output/*.out

@@ -111,7 +111,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**1 Corinthians 1:2** To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
+**1 Corinthians 1:2** To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 41
@@ -293,7 +293,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Philemon
 
-**Philemon 1:1** Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and fellow labourer,
+**Philemon 1:1** Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and fellow laborer,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 18
@@ -451,7 +451,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**Revelation 1:2** Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+**Revelation 1:2** Who bore record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19

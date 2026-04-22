@@ -2,8 +2,6 @@
 
 Scope: Genesis-Malachi (39 books)
 
-Display: drafted verses only
-
 ## Genesis
 
 ### Chapter 1
@@ -29086,7 +29084,7 @@ And to him were two wives; the name of the one was Anna and the name of the seco
 
 **1 Samuel 1:3**
 
-And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God Sabaōth at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
+And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God of hosts at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
 
 **1 Samuel 1:4**
 
@@ -29118,7 +29116,7 @@ And she was bitter in soul and prayed to the Lord, and weeping she wept.
 
 **1 Samuel 1:11**
 
-And she vowed a vow to the Lord, saying, Adōnai, Lord Elōai Sabaōth, if in looking you look upon the humiliation of your servant and remember me and give to your servant seed of men, then I will give him before you as a given thing until the day of his death, and wine and intoxicating drink he shall not drink, and iron shall not come upon his head.
+And she vowed a vow to the Lord, saying, Lord, Lord my God of hosts, if you will indeed look upon the humiliation of your servant and remember me and give to your servant seed of men, then I will give him before you as a given thing until the day of his death, and wine and intoxicating drink he shall not drink, and iron shall not come upon his head.
 
 **1 Samuel 1:12**
 
@@ -29154,7 +29152,7 @@ And they rose early in the morning and bowed down to the Lord and went on their 
 
 **1 Samuel 1:20**
 
-And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samuel, and said, Because from the Lord God Sabaōth I asked him.
+And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samuel, and said, Because from the Lord God of hosts I asked him.
 
 **1 Samuel 1:21**
 
@@ -30498,7 +30496,7 @@ And Samuel said to Saul, The Lord sent me to anoint you as king over Israel, and
 
 **1 Samuel 15:2**
 
-Thus says the Lord Sabaōth, Now I will avenge what Amalek did to Israel, how he met him on the road when he was coming up out of Egypt.
+Thus says the Lord of hosts, Now I will avenge what Amalek did to Israel, how he met him on the road when he was coming up out of Egypt.
 
 **1 Samuel 15:3**
 
@@ -30822,7 +30820,7 @@ And the foreigner said to David, Come to me, and I will give your flesh to the b
 
 **1 Samuel 17:45**
 
-And David said to the foreigner, You come to me with sword and spear and shield, but I go to you in the name of the Lord Sabaōth, God of the battle-line of Israel, whom you have reproached today.
+And David said to the foreigner, You come to me with sword and spear and shield, but I go to you in the name of the Lord of hosts, God of the battle-line of Israel, whom you have reproached today.
 
 **1 Samuel 17:46**
 

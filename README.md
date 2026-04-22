@@ -36,10 +36,33 @@ standard system fonts such as Baskerville and Times New Roman.
 ## Documentation
 
 - Editorial method: `METHODOLOGY.md`
+- Architecture/data flow: `docs/ARCHITECTURE.md`
+- CSV/data dictionary: `docs/DATA_DICTIONARY.md`
+- Contributor guide: `CONTRIBUTING.md`
 - Source provenance and checksums: `SOURCE_PROVENANCE.md`
 - Rights and license notices: `NOTICE.md` and `LICENSE`
 - Translation rules: `data/research/translation_rules.md`
 - Reader-facing conventions: `data/editorial_conventions.md`
+
+## Quick Start
+
+```bash
+python3 -m pip install -r requirements.txt
+make test
+make build-nt
+```
+
+If `make` is unavailable, run the commands listed in `Makefile` directly.
+
+## Project Map
+
+- `data/raw/` = pinned source archives and normalized source workspaces.
+- `data/research/` = decisions, notes, review passes, and audit tables.
+- `scripts/` = import, review, build, and release-hardening tools.
+- `tests/` = smoke tests for source shape, pinned artifacts, and DOCX validity.
+- `output/` = committed review/output artifacts plus ignored scratch area.
+- `docs/` = architecture and data-format documentation.
+- `release/` = release-candidate manifests and checksums.
 
 ## Reproducibility Checks
 
