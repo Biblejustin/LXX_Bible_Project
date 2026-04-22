@@ -20,6 +20,8 @@ DEFAULT_PRIORITY_MD = OUTPUT / "fresh_nt_tr_vs_ukjv_priority_review.md"
 DEFAULT_QUEUE_CSV = OUTPUT / "fresh_nt_tr_vs_ukjv_review_queue.csv"
 DEFAULT_QUEUE_MD = OUTPUT / "fresh_nt_tr_vs_ukjv_review_queue.md"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_nt_tr_vs_ukjv_review_diagnostics.json"
+REVIEW_DIR = ROOT / "data" / "research"
+RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
 
 REVIEW_FIELDNAMES = [
     "ref",
@@ -36,6 +38,8 @@ REVIEW_FIELDNAMES = [
     "tr_literal_translation",
     "ukjv_translation",
     "review_notes",
+    "latest_review_status",
+    "latest_review_pass",
     "reasons",
     "decision",
 ]
@@ -198,11 +202,37 @@ def note_matches(notes: str) -> list[str]:
     return [note for note in NOTE_WEIGHTS if note in notes]
 
 
-def score_row(row: dict[str, str]) -> dict[str, str]:
+def review_pass_sort_key(path: Path) -> tuple[int, str]:
+    match = re.search(r"nt_review_pass_(\d+)\.md$", path.name)
+    return (int(match.group(1)), path.name) if match else (0, path.name)
+
+
+def load_latest_review_statuses() -> dict[str, dict[str, str]]:
+    statuses: dict[str, dict[str, str]] = {}
+    for path in sorted(REVIEW_DIR.glob("nt_review_pass_*.md"), key=review_pass_sort_key):
+        ref = ""
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if line.startswith("## "):
+                ref = line[3:].strip()
+            elif ref and line.startswith("- status:"):
+                match = re.search(r"`([^`]+)`", line)
+                statuses[ref] = {
+                    "status": match.group(1) if match else line.split(":", 1)[1].strip(),
+                    "pass": path.name,
+                }
+    return statuses
+
+
+def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, str]]) -> dict[str, str]:
     tr_text = row.get("draft_translation", "").strip()
     ukjv_text = row.get("ukjv_translation", "").strip()
     status = row.get("review_status", "").strip()
     notes = row.get("review_notes", "").strip()
+    latest = latest_review_statuses.get(row.get("ref", ""), {})
+    latest_status = latest.get("status", "")
+    latest_pass = latest.get("pass", "")
+    resolved = latest_status in RESOLVED_REVIEW_STATUSES
     tr_norm = normalize_for_compare(tr_text)
     ukjv_norm = normalize_for_compare(ukjv_text)
     same_normalized = bool(tr_norm and ukjv_norm and tr_norm == ukjv_norm)
@@ -241,7 +271,10 @@ def score_row(row: dict[str, str]) -> dict[str, str]:
         or not ukjv_text
     )
 
-    if not requires_review:
+    if resolved:
+        importance = "none"
+        reasons.append(f"resolved:{latest_status}")
+    elif not requires_review:
         importance = "none"
     elif status == "needs_focused_tr_review" or score >= 18:
         importance = "high"
@@ -252,7 +285,9 @@ def score_row(row: dict[str, str]) -> dict[str, str]:
     else:
         importance = "none"
 
-    if not requires_review:
+    if resolved:
+        decision = f"resolved in {latest_pass}: {latest_status}"
+    elif not requires_review:
         decision = "no meaningful UKJV difference"
     elif status == "needs_focused_tr_review":
         decision = "review Greek; UKJV witness not enough"
@@ -276,6 +311,8 @@ def score_row(row: dict[str, str]) -> dict[str, str]:
         "tr_literal_translation": tr_text,
         "ukjv_translation": ukjv_text,
         "review_notes": notes,
+        "latest_review_status": latest_status,
+        "latest_review_pass": latest_pass,
         "reasons": "; ".join(dict.fromkeys(reasons)),
         "decision": decision,
     }
@@ -332,6 +369,7 @@ def write_markdown(path: Path, rows: list[dict[str, str]], *, limit: int, title:
                 f"- UKJV witness: {row['ukjv_translation']}",
                 f"- Themes: {row['themes'] or 'none'}",
                 f"- Why: {row['reasons'] or 'none'}",
+                f"- Latest review: {row.get('latest_review_status') or 'none'}",
                 f"- Decision: {row['decision']}",
                 "",
             ]
@@ -352,14 +390,18 @@ def main() -> None:
     args = parser.parse_args()
 
     source_rows = load_rows(args.source)
-    review_rows = [score_row(row) for row in source_rows]
+    latest_review_statuses = load_latest_review_statuses()
+    review_rows = [score_row(row, latest_review_statuses) for row in source_rows]
     priority_rows = [
         row for row in review_rows if row["importance"] in {"high", "medium"}
     ]
     queue_rows = [
         row
         for row in priority_rows
-        if row["importance"] == "high" or row["review_status"] == "needs_focused_tr_review"
+        if (
+            row["latest_review_status"] not in RESOLVED_REVIEW_STATUSES
+            and (row["importance"] == "high" or row["review_status"] == "needs_focused_tr_review")
+        )
     ]
     priority_rows.sort(key=priority_sort_key)
     queue_rows.sort(key=priority_sort_key)
@@ -379,6 +421,12 @@ def main() -> None:
         "priority_rows": len(priority_rows),
         "queue_rows": len(queue_rows),
         "status_counts": dict(Counter(row["review_status"] for row in review_rows)),
+        "latest_review_status_counts": dict(
+            Counter(row["latest_review_status"] or "unreviewed" for row in review_rows)
+        ),
+        "resolved_review_rows": sum(
+            1 for row in review_rows if row["latest_review_status"] in RESOLVED_REVIEW_STATUSES
+        ),
         "importance_counts": dict(Counter(row["importance"] for row in review_rows)),
         "theme_counts": dict(
             Counter(

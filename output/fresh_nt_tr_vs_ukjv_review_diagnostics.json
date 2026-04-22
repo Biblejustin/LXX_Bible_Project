@@ -4,18 +4,24 @@
   "rows": 7957,
   "same_normalized": 3029,
   "different_normalized": 4928,
-  "priority_rows": 4440,
-  "queue_rows": 3074,
+  "priority_rows": 4415,
+  "queue_rows": 3051,
   "status_counts": {
-    "tr_literal_manual": 14,
-    "tr_literal_pass1": 5143,
+    "tr_literal_manual": 15,
+    "tr_literal_pass1": 5142,
     "needs_focused_tr_review": 2800
   },
+  "latest_review_status_counts": {
+    "keep": 23,
+    "unreviewed": 7932,
+    "revised": 2
+  },
+  "resolved_review_rows": 25,
   "importance_counts": {
-    "high": 3074,
+    "none": 254,
     "low": 3288,
-    "medium": 1366,
-    "none": 229
+    "medium": 1364,
+    "high": 3051
   },
   "theme_counts": {
     "christology": 1990,

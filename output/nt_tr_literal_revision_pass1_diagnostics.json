@@ -3,8 +3,8 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 14,
-    "tr_literal_pass1": 5143,
+    "tr_literal_manual": 15,
+    "tr_literal_pass1": 5142,
     "needs_focused_tr_review": 2800
   },
   "changed_by_book": {
@@ -37,7 +37,7 @@
     "REV": 243
   },
   "rule_counts": {
-    "manual TR literal override": 14,
+    "manual TR literal override": 15,
     "aligned gennao with fathered": 18,
     "rendered adelphoi-family wording as brothers": 228,
     "rendered general brings-forth as produces": 30,
@@ -47,7 +47,7 @@
     "modernized behold": 221,
     "modernized fear-not imperative": 14,
     "normalized NT kurios as Lord": 663,
-    "removed UKJV inline Strong-style lexical marker": 796,
+    "removed UKJV inline Strong-style lexical marker": 795,
     "modernized childbirth bring-forth idiom": 25,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 261,

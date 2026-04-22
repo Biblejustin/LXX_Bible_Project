@@ -34,7 +34,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: origin | footnote_text: Greek geneseos can mean origin, birth, genealogy, or generation. Here the draft uses origin to keep the opening broader than a mere list of descendants while still fitting the genealogy that follows. | source_basis: TR lexical + context + UKJV witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -2262,7 +2262,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Gehenna of fire | footnote_text: Greek has geennan tou pyros. The draft uses Gehenna of fire rather than hell fire so the distinct place/judgment term remains visible. | source_basis: TR lexical + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -10964,7 +10964,8 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: my assembly | footnote_text: Greek ekklesia is rendered assembly here. Church is traditional and often appropriate, but assembly keeps the concrete gathered-people sense visible. | source_basis: TR lexical + UKJV witness | status: reviewed
+- note_type: translation | trigger_phrase: gates of Hades | footnote_text: Greek has hadou, not gehenna. The draft uses Hades so this underworld/death term is not collapsed into the broader English hell. | source_basis: TR lexical + theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -18824,7 +18825,8 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: new covenant | footnote_text: Greek diathekes is rendered covenant here. Testament is traditional in some English lines, but covenant better fits the biblical covenant frame. | source_basis: TR lexical + covenant theology | status: reviewed
+- note_type: translation | trigger_phrase: forgiveness of sins | footnote_text: Greek aphesis is rendered forgiveness. The older remission wording is defensible, but forgiveness is clearer English for the release/pardon sense. | source_basis: TR lexical + soteriology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -21512,7 +21514,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: good news | footnote_text: Greek euangelion is rendered good news here. Gospel is the traditional English title-word, but good news keeps the compound sense transparent. | source_basis: TR lexical + UKJV witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58170,13 +58172,13 @@ Greek: εν αρχη ην ο λογος και ο λογος ην προς το�
 Transliteration: en arch hn o logov kai o logov hn prov ton yeon kai yeov hn o logov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In beginning was the Word, and the Word was with God, and the Word was God.
+Draft translation: In the beginning was the Word, and the Word was with God, and the Word was God.
 
 Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: In the beginning | footnote_text: Greek en arche opens the sentence. The draft keeps the familiar beginning-language while avoiding a narrower point-location sense. | source_basis: TR syntax + canonical idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -58190,7 +58192,7 @@ Greek: ουτος ην εν αρχη προς τον θεον
 Transliteration: outov hn en arch prov ton yeon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: This one was in beginning with God.
+Draft translation: This one was in the beginning with God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -58430,13 +58432,14 @@ Greek: και ο λογος σαρξ εγενετο και εσκηνωσεν ε
 Transliteration: kai o logov sarx egeneto kai eskhnwsen en hmin kai eyeasameya thn doxan autou doxan wv monogenouv para patrov plhrhv caritov kai alhyeiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+Draft translation: And the Word became flesh and tabernacled among us, and we beheld his glory, glory as of an only-begotten from Father, full of grace and truth.
 
 Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: became flesh | footnote_text: Greek egeneto means became or came to be. The draft uses became flesh rather than was made flesh to keep the incarnation wording close to the verb. | source_basis: TR lexical + theology | status: reviewed
+- note_type: translation | trigger_phrase: tabernacled among us | footnote_text: Greek eskenosen is related to tenting or tabernacling. The draft keeps that dwelling imagery visible instead of smoothing only to dwelt. | source_basis: TR lexical + biblical-theology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -76922,7 +76925,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Hades | footnote_text: Greek has hadou in this resurrection citation. The draft keeps Hades rather than UKJV hell because the Greek term is distinct from Gehenna. | source_basis: TR lexical + OT quotation | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -95998,7 +96001,8 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: slave of Jesus Christ | footnote_text: Greek doulos is rendered slave here. Servant is smoother English, but slave better preserves the ownership and allegiance language in Paul's self-description. | source_basis: TR lexical + UKJV witness | status: reviewed
+- note_type: translation | trigger_phrase: God's good news | footnote_text: Greek euangelion is rendered good news. The wording identifies the announced message from God rather than using only the traditional title gospel. | source_basis: TR lexical + UKJV witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96038,7 +96042,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: David's seed according to flesh | footnote_text: Greek has spermatos David and kata sarka. The draft keeps seed and flesh visible rather than expanding the line with explanatory titles from the witness. | source_basis: TR lexical + syntax + UKJV witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -96058,7 +96062,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: marked out Son of God | footnote_text: Greek horisthentos can carry the sense marked out or appointed. The draft keeps that force instead of simply declared. | source_basis: TR lexical + christology | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -104712,7 +104716,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: holy ones | footnote_text: Greek hagiois is rendered holy ones here. Saints is traditional, but holy ones keeps the adjective-noun force visible. | source_basis: TR lexical + UKJV witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -124742,7 +124746,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: overseers and servants | footnote_text: Greek has episkopois and diakonois. The draft uses overseers and servants rather than bishops and deacons to keep the functional sense visible. | source_basis: TR lexical + church offices | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -147712,7 +147716,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: Tartarus | footnote_text: Greek uses tartarosas, a rare verb for casting into Tartarus. The draft keeps Tartarus instead of the broader English hell. | source_basis: TR lexical + judgment language | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -151622,7 +151626,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: must happen quickly | footnote_text: Greek dei genesthai en tachei is rendered must happen quickly. The draft keeps both necessity and speed explicit. | source_basis: TR syntax + apocalyptic idiom | status: reviewed
 
 Logos research:
 - [TODO add Logos note]
@@ -156670,7 +156674,7 @@ Decision rows:
 - [TODO add decision rows]
 
 Publishable footnotes:
-- [TODO add footnote draft if needed]
+- note_type: translation | trigger_phrase: King of holy ones | footnote_text: Greek reads basileus ton hagion in this source form. The draft keeps holy ones rather than saints so the genitive phrase remains transparent. | source_basis: TR lexical + textual witness | status: reviewed
 
 Logos research:
 - [TODO add Logos note]

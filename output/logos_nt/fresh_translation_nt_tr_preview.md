@@ -5,7 +5,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Matthew
 
 **Matthew 1:1** Book of the origin of Jesus Christ, son of David, son of Abraham.
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 32
 
@@ -22,7 +22,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Mark
 
 **Mark 1:1** Beginning of the good news of Jesus Christ, Son of God.
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 20
 
@@ -55,12 +55,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## John
 
-**John 1:1** In beginning was the Word, and the Word was with God, and the Word was God.
-- Translation/textual notes: 0
+**John 1:1** In the beginning was the Word, and the Word was with God, and the Word was God.
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 38
 
-**John 1:2** This one was in beginning with God.
+**John 1:2** This one was in the beginning with God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 0
@@ -90,7 +90,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Romans
 
 **Romans 1:1** Paul, slave of Jesus Christ, called apostle, set apart for God's good news,
-- Translation/textual notes: 0
+- Translation/textual notes: 2
 - Supplemental notes/links: 0
 - Cross-references: 74
 
@@ -100,7 +100,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 6
 
 **Romans 1:3** concerning his Son, who came from David's seed according to flesh,
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 64
 
@@ -112,7 +112,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 24
 
 **1 Corinthians 1:2** To the assembly of God which is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both their's and our's:
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 41
 
@@ -175,7 +175,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Philippians
 
 **Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus which are at Philippi, with the overseers and servants:
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 39
 
@@ -447,7 +447,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Revelation
 
 **Revelation 1:1** Revelation of Jesus Christ, which God gave him to show his slaves what must happen quickly; and he signified it, sending through his angel to his slave John,
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
 

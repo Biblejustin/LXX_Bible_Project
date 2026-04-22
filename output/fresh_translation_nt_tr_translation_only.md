@@ -11750,11 +11750,11 @@ And were continually in the temple, praising and blessing God. Amen.
 
 **John 1:1**
 
-In beginning was the Word, and the Word was with God, and the Word was God.
+In the beginning was the Word, and the Word was with God, and the Word was God.
 
 **John 1:2**
 
-This one was in beginning with God.
+This one was in the beginning with God.
 
 **John 1:3**
 
@@ -11802,7 +11802,7 @@ Which were born, not of blood, nor of the will of the flesh, nor of the will of 
 
 **John 1:14**
 
-And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+And the Word became flesh and tabernacled among us, and we beheld his glory, glory as of an only-begotten from Father, full of grace and truth.
 
 **John 1:15**
 
