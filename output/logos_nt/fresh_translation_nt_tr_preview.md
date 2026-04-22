@@ -218,7 +218,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**1 Thessalonians 1:3** Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
+**1 Thessalonians 1:3** Remembering without ceasing your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 52
@@ -242,7 +242,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Timothy
 
-**1 Timothy 1:1** Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, who is our hope;
+**1 Timothy 1:1** Paul, an apostle of Jesus Christ by the commandment of God our Savior, and Lord Jesus Christ, who is our hope;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 38
@@ -286,7 +286,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 44
 
-**Titus 1:3** But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Saviour;
+**Titus 1:3** But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Savior;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 38
@@ -361,7 +361,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Peter
 
-**2 Peter 1:1** Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
+**2 Peter 1:1** Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Savior Jesus Christ:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 37
@@ -400,7 +400,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 23
 
-**2 John 1:2** For the truth's sake, which dwells in us, and shall be with us for ever.
+**2 John 1:2** For the truth's sake, which dwells in us, and shall be with us forever.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8

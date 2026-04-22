@@ -2678,7 +2678,7 @@ Greek: ηκουσατε οτι ερρεθη αγαπησεις τον πλησι
 Transliteration: hkousate oti erreyh agaphseiv ton plhsion sou kai mishseiv ton ecyron sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You have heard that it has been said, You shall love your neighbour, and hate your enemy.
+Draft translation: You have heard that it has been said, You shall love your neighbor, and hate your enemy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -3040,7 +3040,7 @@ Greek: και μη εισενεγκης ημας εις πειρασμον αλ�
 Transliteration: kai mh eisenegkhv hmav eiv peirasmon alla rusai hmav apo tou ponhrou oti sou estin h basileia kai h dunamiv kai h doxa eiv touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And lead us not into temptation, but deliver us from evil: For your is the kingdom, and the power, and the glory, for ever. Amen.
+Draft translation: And lead us not into temptation, but deliver us from evil: For your is the kingdom, and the power, and the glory, forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -4244,7 +4244,7 @@ Greek: ακουσας δε ο ιησους εθαυμασεν και ειπεν 
 Transliteration: akousav de o ihsouv eyaumasen kai eipen toiv akolouyousin amhn legw umin oude en tw israhl tosauthn pistin euron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: When Jesus heard it, he marvelled, and said to those who followed, Amen, I say to you, I have not found so great faith, no, not in Israel.
+Draft translation: When Jesus heard it, he marveled, and said to those who followed, Amen, I say to you, I have not found so great faith, no, not in Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -4584,7 +4584,7 @@ Greek: οι δε ανθρωποι εθαυμασαν λεγοντες ποταπ
 Transliteration: oi de anyrwpoi eyaumasan legontev potapov estin outov oti kai oi anemoi kai h yalassa upakouousin autw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
+Draft translation: But the men marveled, saying, What manner of man is this, that even the winds and the sea obey him!
 
 Decision rows:
 - [TODO add decision rows]
@@ -4886,7 +4886,7 @@ Greek: ιδοντες δε οι οχλοι εθαυμασαν και εδοξα�
 Transliteration: idontev de oi ocloi eyaumasan kai edoxasan ton yeon ton donta exousian toiauthn toiv anyrwpoiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But when the crowds saw it, they marvelled, and glorified God, who had given such power to men.
+Draft translation: But when the crowds saw it, they marveled, and glorified God, who had given such power to men.
 
 Decision rows:
 - [TODO add decision rows]
@@ -5386,7 +5386,7 @@ Greek: και εκβληθεντος του δαιμονιου ελαλησεν 
 Transliteration: kai ekblhyentov tou daimoniou elalhsen o kwfov kai eyaumasan oi ocloi legontev oudepote efanh outwv en tw israhl
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when the demon was cast out, the mute spoke: and the crowds marvelled, saying, It was never so seen in Israel.
+Draft translation: And when the demon was cast out, the mute spoke: and the crowds marveled, saying, It was never so seen in Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -6890,7 +6890,7 @@ Greek: δευτε προς με παντες οι κοπιωντες και πε
 Transliteration: deute prov me pantev oi kopiwntev kai pefortismenoi kagw anapausw umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Come to me, all you that labour and are heavy laden, and I will give you rest.
+Draft translation: Come to me, all you that labor and are heavy laden, and I will give you rest.
 
 Decision rows:
 - [TODO add decision rows]
@@ -7812,7 +7812,7 @@ Greek: τοτε λεγει επιστρεψω εις τον οικον μου ο
 Transliteration: tote legei epistreqw eiv ton oikon mou oyen exhlyon kai elyon euriskei scolazonta sesarwmenon kai kekosmhmenon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then he says, I will return into my house from whence I came out; and when he has come, he finds it empty, swept, and garnished.
+Draft translation: Then he says, I will return into my house from where I came out; and when he has come, he finds it empty, swept, and garnished.
 
 Decision rows:
 - [TODO add decision rows]
@@ -8474,7 +8474,7 @@ Greek: προσελθοντες δε οι δουλοι του οικοδεσπο
 Transliteration: proselyontev de oi douloi tou oikodespotou eipon autw kurie ouci kalon sperma espeirav en tw sw agrw poyen oun ecei ta zizania
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: So the slaves of the householder came and said to him, Sir, did not you sow good seed in your field? from whence then has it tares?
+Draft translation: So the slaves of the householder came and said to him, Sir, did not you sow good seed in your field? from where then has it tares?
 
 Decision rows:
 - [TODO add decision rows]
@@ -9074,7 +9074,7 @@ Greek: και εσκανδαλιζοντο εν αυτω ο δε ιησους ε
 Transliteration: kai eskandalizonto en autw o de ihsouv eipen autoiv ouk estin profhthv atimov ei mh en th patridi autou kai en th oikia autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they were offended in him. But Jesus said to them, A prophet is not without honour, save in his own country, and in his own house.
+Draft translation: And they were offended in him. But Jesus said to them, A prophet is not without honor, save in his own country, and in his own house.
 
 Decision rows:
 - [TODO add decision rows]
@@ -9898,7 +9898,7 @@ Greek: ο γαρ θεος ενετειλατο λεγων τιμα τον πατ
 Transliteration: o gar yeov eneteilato legwn tima ton patera sou kai thn mhtera kai o kakologwn patera h mhtera yanatw teleutatw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For God commanded, saying, Honour your father and mother: and, the one who curses father or mother, let him die the death.
+Draft translation: For God commanded, saying, Honor your father and mother: and, the one who curses father or mother, let him die the death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -9938,7 +9938,7 @@ Greek: και ηκυρωσατε την εντολην του θεου δια τ
 Transliteration: kai hkurwsate thn entolhn tou yeou dia thn paradosin umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And honour not his father or his mother, he shall be free. Thus have you made the commandment of God of no effect by your tradition.
+Draft translation: And honor not his father or his mother, he shall be free. Thus have you made the commandment of God of no effect by your tradition.
 
 Decision rows:
 - [TODO add decision rows]
@@ -12587,7 +12587,7 @@ Greek: λεγω δε υμιν οτι ος αν απολυση την γυναι�
 Transliteration: legw de umin oti ov an apolush thn gunaika autou ei mh epi porneia kai gamhsh allhn moicatai kai o apolelumenhn gamhsav moicatai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her which is release does commit adultery.
+Draft translation: And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her who has been released does commit adultery.
 
 Decision rows:
 - [TODO add decision rows]
@@ -12787,7 +12787,7 @@ Greek: τιμα τον πατερα σου και την μητερα και α�
 Transliteration: tima ton patera sou kai thn mhtera kai agaphseiv ton plhsion sou wv seauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Honour your father and your mother: and, You shall love your neighbour as yourself.
+Draft translation: Honor your father and your mother: and, You shall love your neighbor as yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -14071,7 +14071,7 @@ Greek: και ιδων συκην μιαν επι της οδου ηλθεν ε�
 Transliteration: kai idwn sukhn mian epi thv odou hlyen ep authn kai ouden euren en auth ei mh fulla monon kai legei auth mhketi ek sou karpov genhtai eiv ton aiwna kai exhranyh paracrhma h sukh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said to it, Let no fruit grow on you henceforward for ever. And presently the fig tree withered away.
+Draft translation: And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said to it, Let no fruit grow on you henceforward forever. And presently the fig tree withered away.
 
 Decision rows:
 - [TODO add decision rows]
@@ -14091,7 +14091,7 @@ Greek: και ιδοντες οι μαθηται εθαυμασαν λεγοντ
 Transliteration: kai idontev oi mayhtai eyaumasan legontev pwv paracrhma exhranyh h sukh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!
+Draft translation: And when the disciples saw it, they marveled, saying, How soon is the fig tree withered away!
 
 Decision rows:
 - [TODO add decision rows]
@@ -15053,7 +15053,7 @@ Greek: και ακουσαντες εθαυμασαν και αφεντες αυ
 Transliteration: kai akousantev eyaumasan kai afentev auton aphlyon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: When they had heard these words, they marvelled, and left him, and went their way.
+Draft translation: When they had heard these words, they marveled, and left him, and went their way.
 
 Decision rows:
 - [TODO add decision rows]
@@ -15393,7 +15393,7 @@ Greek: δευτερα δε ομοια αυτη αγαπησεις τον πλη�
 Transliteration: deutera de omoia auth agaphseiv ton plhsion sou wv seauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the second is like to it, You shall love your neighbour as yourself.
+Draft translation: And the second is like to it, You shall love your neighbor as yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -20044,7 +20044,7 @@ Greek: και ουκ απεκριθη αυτω προς ουδε εν ρημα �
 Transliteration: kai ouk apekriyh autw prov oude en rhma wste yaumazein ton hgemona lian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he answered him to not a word; insomuch that the governor marvelled greatly.
+Draft translation: And he answered him to not a word; insomuch that the governor marveled greatly.
 
 Decision rows:
 - [TODO add decision rows]
@@ -25380,7 +25380,7 @@ Greek: και γενομενου σαββατου ηρξατο εν τη συν�
 Transliteration: kai genomenou sabbatou hrxato en th sunagwgh didaskein kai polloi akouontev exeplhssonto legontev poyen toutw tauta kai tiv h sofia h doyeisa autw oti kai dunameiv toiautai dia twn ceirwn autou ginontai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
+Draft translation: And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?
 
 Decision rows:
 - [TODO add decision rows]
@@ -25420,7 +25420,7 @@ Greek: ελεγεν δε αυτοις ο ιησους οτι ουκ εστιν �
 Transliteration: elegen de autoiv o ihsouv oti ouk estin profhthv atimov ei mh en th patridi autou kai en toiv suggenesin kai en th oikia autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But Jesus, said to them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
+Draft translation: But Jesus, said to them, A prophet is not without honor, but in his own country, and among his own kin, and in his own house.
 
 Decision rows:
 - [TODO add decision rows]
@@ -25460,7 +25460,7 @@ Greek: και εθαυμαζεν δια την απιστιαν αυτων κα�
 Transliteration: kai eyaumazen dia thn apistian autwn kai perihgen tav kwmav kuklw didaskwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he marvelled because of their unbelief. And he went round about the villages, teaching.
+Draft translation: And he marveled because of their unbelief. And he went round about the villages, teaching.
 
 Decision rows:
 - [TODO add decision rows]
@@ -26662,7 +26662,7 @@ Greek: μωσης γαρ ειπεν τιμα τον πατερα σου και �
 Transliteration: mwshv gar eipen tima ton patera sou kai thn mhtera sou kai o kakologwn patera h mhtera yanatw teleutatw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For Moses said, Honour your father and your mother; and, Whoever curses father or mother, let him die the death:
+Draft translation: For Moses said, Honor your father and your mother; and, Whoever curses father or mother, let him die the death:
 
 Decision rows:
 - [TODO add decision rows]
@@ -27284,7 +27284,7 @@ Greek: και απεκριθησαν αυτω οι μαθηται αυτου π�
 Transliteration: kai apekriyhsan autw oi mayhtai autou poyen toutouv dunhsetai tiv wde cortasai artwn ep erhmiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?
+Draft translation: And his disciples answered him, from where can a man satisfy these men with bread here in the wilderness?
 
 Decision rows:
 - [TODO add decision rows]
@@ -29348,7 +29348,7 @@ Greek: τας εντολας οιδας μη μοιχευσης μη φονευ�
 Transliteration: tav entolav oidav mh moiceushv mh foneushv mh kleqhv mh qeudomarturhshv mh aposterhshv tima ton patera sou kai thn mhtera
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You know the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour your father and mother.
+Draft translation: You know the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honor your father and mother.
 
 Decision rows:
 - [TODO add decision rows]
@@ -30050,7 +30050,7 @@ Greek: και λεγει αυτοις υπαγετε εις την κωμην τ
 Transliteration: kai legei autoiv upagete eiv thn kwmhn thn katenanti umwn kai euyewv eisporeuomenoi eiv authn eurhsete pwlon dedemenon ef on oudeiv anyrwpwn kekayiken lusantev auton agagete
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And says to them, Go your way into the village opposite to you: and as soon as you be entered into it, you shall find a colt tied, whereon never man sat; loose him, and bring him.
+Draft translation: And says to them, Go your way into the village opposite to you: and as soon as you be entered into it, you shall find a colt tied, on which never man sat; loose him, and bring him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -30290,7 +30290,7 @@ Greek: και αποκριθεις ο ιησους ειπεν αυτη μηκε�
 Transliteration: kai apokriyeiv o ihsouv eipen auth mhketi ek sou eiv ton aiwna mhdeiv karpon fagoi kai hkouon oi mayhtai autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Jesus answered and said to it, No one eat fruit of you hereafter for ever. And his disciples heard it.
+Draft translation: And Jesus answered and said to it, No one eat fruit of you hereafter forever. And his disciples heard it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -31012,7 +31012,7 @@ Greek: και αποκριθεις ο ιησους ειπεν αυτοις απ�
 Transliteration: kai apokriyeiv o ihsouv eipen autoiv apodote ta kaisarov kaisari kai ta tou yeou tw yew kai eyaumasan ep autw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Jesus answering said to them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+Draft translation: And Jesus answering said to them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marveled at him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -31292,7 +31292,7 @@ Greek: και δευτερα ομοια αυτη αγαπησεις τον πλ�
 Transliteration: kai deutera omoia auth agaphseiv ton plhsion sou wv seauton meizwn toutwn allh entolh ouk estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the second is like, namely this, You shall love your neighbour as yourself. There is no other commandment greater than these.
+Draft translation: And the second is like, namely this, You shall love your neighbor as yourself. There is no other commandment greater than these.
 
 Decision rows:
 - [TODO add decision rows]
@@ -31332,7 +31332,7 @@ Greek: και το αγαπαν αυτον εξ ολης της καρδιας �
 Transliteration: kai to agapan auton ex olhv thv kardiav kai ex olhv thv sunesewv kai ex olhv thv quchv kai ex olhv thv iscuov kai to agapan ton plhsion wv eauton pleion estin pantwn twn olokautwmatwn kai twn yusiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.
+Draft translation: And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbor as himself, is more than all whole burnt offerings and sacrifices.
 
 Decision rows:
 - [TODO add decision rows]
@@ -33838,7 +33838,7 @@ Greek: ο δε ιησους ουκετι ουδεν απεκριθη ωστε θ
 Transliteration: o de ihsouv ouketi ouden apekriyh wste yaumazein ton pilaton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But Jesus yet answered nothing; so that Pilate marvelled.
+Draft translation: But Jesus yet answered nothing; so that Pilate marveled.
 
 Decision rows:
 - [TODO add decision rows]
@@ -34618,7 +34618,7 @@ Greek: ο δε πιλατος εθαυμασεν ει ηδη τεθνηκεν κ
 Transliteration: o de pilatov eyaumasen ei hdh teynhken kai proskalesamenov ton kenturiwna ephrwthsen auton ei palai apeyanen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Pilate marvelled if he were already dead: and calling to him the centurion, he asked him whether he had been any while dead.
+Draft translation: And Pilate marveled if he were already dead: and calling to him the centurion, he asked him whether he had been any while dead.
 
 Decision rows:
 - [TODO add decision rows]
@@ -35504,7 +35504,7 @@ Greek: και ην ο λαος προσδοκων τον ζαχαριαν και
 Transliteration: kai hn o laov prosdokwn ton zacarian kai eyaumazon en tw cronizein auton en tw naw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the people waited for Zacharias, and marvelled that he tarried so long in the temple.
+Draft translation: And the people waited for Zacharias, and marveled that he tarried so long in the temple.
 
 Decision rows:
 - [TODO add decision rows]
@@ -35644,7 +35644,7 @@ Greek: και εισελθων ο αγγελος προς αυτην ειπεν 
 Transliteration: kai eiselywn o aggelov prov authn eipen caire kecaritwmenh o kuriov meta sou euloghmenh su en gunaixin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the angel came in to her, and said, Hail, you that are highly favoured, the Lord is with you: blessed are you among women.
+Draft translation: And the angel came in to her, and said, Hail, you that are highly favored, the Lord is with you: blessed are you among women.
 
 Decision rows:
 - [TODO add decision rows]
@@ -35684,7 +35684,7 @@ Greek: και ειπεν ο αγγελος αυτη μη φοβου μαριαμ
 Transliteration: kai eipen o aggelov auth mh fobou mariam eurev gar carin para tw yew
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the angel said to her, do not fear, Mary: for you have found favour with God.
+Draft translation: And the angel said to her, do not fear, Mary: for you have found favor with God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -35744,7 +35744,7 @@ Greek: και βασιλευσει επι τον οικον ιακωβ εις τ
 Transliteration: kai basileusei epi ton oikon iakwb eiv touv aiwnav kai thv basileiav autou ouk estai telov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
+Draft translation: And he shall reign over the house of Jacob forever; and of his kingdom there shall be no end.
 
 Decision rows:
 - [TODO add decision rows]
@@ -36024,7 +36024,7 @@ Greek: και ηγαλλιασεν το πνευμα μου επι τω θεω �
 Transliteration: kai hgalliasen to pneuma mou epi tw yew tw swthri mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And my spirit has rejoiced in God my Saviour.
+Draft translation: And my spirit has rejoiced in God my Savior.
 
 Decision rows:
 - [TODO add decision rows]
@@ -36184,7 +36184,7 @@ Greek: καθως ελαλησεν προς τους πατερας ημων τ�
 Transliteration: kaywv elalhsen prov touv paterav hmwn tw abraam kai tw spermati autou eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: As he spoke to our fathers, to Abraham, and to his seed for ever.
+Draft translation: As he spoke to our fathers, to Abraham, and to his seed forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -36244,7 +36244,7 @@ Greek: και ηκουσαν οι περιοικοι και οι συγγενε�
 Transliteration: kai hkousan oi perioikoi kai oi suggeneiv authv oti emegalunen kuriov to eleov autou met authv kai sunecairon auth
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And her neighbours and her cousins heard how the Lord had showed great mercy upon her; and they rejoiced with her.
+Draft translation: And her neighbors and her cousins heard how the Lord had showed great mercy upon her; and they rejoiced with her.
 
 Decision rows:
 - [TODO add decision rows]
@@ -36344,7 +36344,7 @@ Greek: και αιτησας πινακιδιον εγραψεν λεγων ιω
 Transliteration: kai aithsav pinakidion egraqen legwn iwannhv estin to onoma autou kai eyaumasan pantev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
+Draft translation: And he asked for a writing table, and wrote, saying, His name is John. And they marveled all.
 
 Decision rows:
 - [TODO add decision rows]
@@ -36906,7 +36906,7 @@ Greek: οτι ετεχθη υμιν σημερον σωτηρ ος εστιν χ
 Transliteration: oti etecyh umin shmeron swthr ov estin cristov kuriov en polei dabid
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For to you is born this day in the city of David a Saviour, which is Christ the Lord.
+Draft translation: For to you is born this day in the city of David a Savior, who is Christ the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -37346,7 +37346,7 @@ Greek: και ην ιωσηφ και η μητηρ αυτου θαυμαζοντ
 Transliteration: kai hn iwshf kai h mhthr autou yaumazontev epi toiv laloumenoiv peri autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Joseph and his mother marvelled at those things which were spoken of him.
+Draft translation: And Joseph and his mother marveled at those things which were spoken of him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -37726,7 +37726,7 @@ Greek: και ιησους προεκοπτεν σοφια και ηλικια �
 Transliteration: kai ihsouv proekopten sofia kai hlikia kai cariti para yew kai anyrwpoiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Jesus increased in wisdom and stature, and in favour with God and man.
+Draft translation: And Jesus increased in wisdom and stature, and in favor with God and man.
 
 Decision rows:
 - [TODO add decision rows]
@@ -39072,7 +39072,7 @@ Greek: και ανασταντες εξεβαλον αυτον εξω της π�
 Transliteration: kai anastantev exebalon auton exw thv polewv kai hgagon auton ewv thv ofruov tou orouv ef ou h poliv autwn wkodomhto eiv to katakrhmnisai auton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And rose up, and thrust him out of the city, and led him to the brow of the hill whereon their city was built, that they might cast him down headlong.
+Draft translation: And rose up, and thrust him out of the city, and led him to the brow of the hill on which their city was built, that they might cast him down headlong.
 
 Decision rows:
 - [TODO add decision rows]
@@ -39874,7 +39874,7 @@ Greek: και παραχρημα αναστας ενωπιον αυτων αρα
 Transliteration: kai paracrhma anastav enwpion autwn arav ef w katekeito aphlyen eiv ton oikon autou doxazwn ton yeon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.
+Draft translation: And immediately he rose up before them, and took up that on which he lay, and departed to his own house, glorifying God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -41318,7 +41318,7 @@ Greek: ακουσας δε ταυτα ο ιησους εθαυμασεν αυτ�
 Transliteration: akousav de tauta o ihsouv eyaumasen auton kai strafeiv tw akolouyounti autw oclw eipen legw umin oude en tw israhl tosauthn pistin euron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: When Jesus heard these things, he marvelled at him, and turned him about, and said to the people that followed him, I say to you, I have not found so great faith, no, not in Israel.
+Draft translation: When Jesus heard these things, he marveled at him, and turned him about, and said to the people that followed him, I say to you, I have not found so great faith, no, not in Israel.
 
 Decision rows:
 - [TODO add decision rows]
@@ -45044,7 +45044,7 @@ Greek: ο δε αποκριθεις ειπεν αγαπησεις κυριον �
 Transliteration: o de apokriyeiv eipen agaphseiv kurion ton yeon sou ex olhv thv kardiav sou kai ex olhv thv quchv sou kai ex olhv thv iscuov sou kai ex olhv thv dianoiav sou kai ton plhsion sou wv seauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he answering said, You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbour as yourself.
+Draft translation: And he answering said, You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -45084,7 +45084,7 @@ Greek: ο δε θελων δικαιουν εαυτον ειπεν προς το
 Transliteration: o de yelwn dikaioun eauton eipen prov ton ihsoun kai tiv estin mou plhsion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But he, willing to justify himself, said to Jesus, And who is my neighbour?
+Draft translation: But he, willing to justify himself, said to Jesus, And who is my neighbor?
 
 Decision rows:
 - [TODO add decision rows]
@@ -45224,7 +45224,7 @@ Greek: τις ουν τουτων των τριων δοκει σοι πλησι
 Transliteration: tiv oun toutwn twn triwn dokei soi plhsion gegonenai tou empesontov eiv touv lhstav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which now of these three, think you, was neighbour to him who fell among the thieves?
+Draft translation: Which of these three, think you, was neighbor to him who fell among the thieves?
 
 Decision rows:
 - [TODO add decision rows]
@@ -46106,7 +46106,7 @@ Greek: ο δε φαρισαιος ιδων εθαυμασεν οτι ου πρω
 Transliteration: o de farisaiov idwn eyaumasen oti ou prwton ebaptisyh pro tou aristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when the Pharisee saw it, he marvelled that he had not first washed before dinner.
+Draft translation: And when the Pharisee saw it, he marveled that he had not first washed before dinner.
 
 Decision rows:
 - [TODO add decision rows]
@@ -48552,7 +48552,7 @@ Greek: ελεγεν δε και τω κεκληκοτι αυτον οταν πο
 Transliteration: elegen de kai tw keklhkoti auton otan poihv ariston h deipnon mh fwnei touv filouv sou mhde touv adelfouv sou mhde touv suggeneiv sou mhde geitonav plousiouv mhpote kai autoi se antikaleswsin kai genhtai soi antapodoma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then said he also to him who bade him, When you make a dinner or a supper, call not your friends, nor your brothers, neither your kinsmen, nor your rich neighbours; lest they also bid you again, and a recompence be made you.
+Draft translation: Then said he also to him who bade him, When you make a dinner or a supper, call not your friends, nor your brothers, neither your kinsmen, nor your rich neighbors; lest they also bid you again, and a recompence be made you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -49134,7 +49134,7 @@ Greek: και ελθων εις τον οικον συγκαλει τους φι
 Transliteration: kai elywn eiv ton oikon sugkalei touv filouv kai touv geitonav legwn autoiv sugcarhte moi oti euron to probaton mou to apolwlov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he comes home, he calls together his friends and neighbours, saying to them, Rejoice with me; for I have found my sheep which was lost.
+Draft translation: And when he comes home, he calls together his friends and neighbors, saying to them, Rejoice with me; for I have found my sheep which was lost.
 
 Decision rows:
 - [TODO add decision rows]
@@ -49194,7 +49194,7 @@ Greek: και ευρουσα συγκαλειται τας φιλας και τ�
 Transliteration: kai eurousa sugkaleitai tav filav kai tav geitonav legousa sugcarhte moi oti euron thn dracmhn hn apwlesa
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when she has found it, she calls her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.
+Draft translation: And when she has found it, she calls her friends and her neighbors together, saying, Rejoice with me; for I have found the piece which I had lost.
 
 Decision rows:
 - [TODO add decision rows]
@@ -50016,7 +50016,7 @@ Greek: πας ο απολυων την γυναικα αυτου και γαμω
 Transliteration: pav o apoluwn thn gunaika autou kai gamwn eteran moiceuei kai pav o apolelumenhn apo androv gamwn moiceuei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Whoever puts away his wife, and marries another, commits adultery: and whoever marries her that is release from her husband commits adultery.
+Draft translation: Whoever releases his wife, and marries another, commits adultery: and whoever marries her who has been released from her husband commits adultery.
 
 Decision rows:
 - [TODO add decision rows]
@@ -51420,7 +51420,7 @@ Greek: τας εντολας οιδας μη μοιχευσης μη φονευ�
 Transliteration: tav entolav oidav mh moiceushv mh foneushv mh kleqhv mh qeudomarturhshv tima ton patera sou kai thn mhtera sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You know the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour your father and your mother.
+Draft translation: You know the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor your father and your mother.
 
 Decision rows:
 - [TODO add decision rows]
@@ -52482,7 +52482,7 @@ Greek: ειπων υπαγετε εις την κατεναντι κωμην ε�
 Transliteration: eipwn upagete eiv thn katenanti kwmhn en h eisporeuomenoi eurhsete pwlon dedemenon ef on oudeiv pwpote anyrwpwn ekayisen lusantev auton agagete
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Saying, Go you into the village opposite to you; in the which at your entering you shall find a colt tied, whereon yet never man sat: loose him, and bring him here.
+Draft translation: Saying, Go you into the village opposite to you; in the which at your entering you shall find a colt tied, on which yet never man sat: loose him, and bring him here.
 
 Decision rows:
 - [TODO add decision rows]
@@ -53364,7 +53364,7 @@ Greek: και ουκ ισχυσαν επιλαβεσθαι αυτου ρηματ
 Transliteration: kai ouk iscusan epilabesyai autou rhmatov enantion tou laou kai yaumasantev epi th apokrisei autou esighsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they could not take hold of his words before the people: and they marvelled at his answer, and were silent.
+Draft translation: And they could not take hold of his words before the people: and they marveled at his answer, and were silent.
 
 Decision rows:
 - [TODO add decision rows]
@@ -60623,7 +60623,7 @@ Greek: λεγει αυτω η γυνη κυριε ουτε αντλημα εχε
 Transliteration: legei autw h gunh kurie oute antlhma eceiv kai to frear estin bayu poyen oun eceiv to udwr to zwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The woman says to him, Sir, you have nothing to draw with, and the well is deep: from whence then have you that living water?
+Draft translation: The woman says to him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?
 
 Decision rows:
 - [TODO add decision rows]
@@ -60943,7 +60943,7 @@ Greek: και επι τουτω ηλθον οι μαθηται αυτου και
 Transliteration: kai epi toutw hlyon oi mayhtai autou kai eyaumasan oti meta gunaikov elalei oudeiv mentoi eipen ti zhteiv h ti laleiv met authv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And upon this came his disciples, and marvelled that he talked with the woman: yet no one said, What seek you? or, Why talk you with her?
+Draft translation: And upon this came his disciples, and marveled that he talked with the woman: yet no one said, What seek you? or, Why talk you with her?
 
 Decision rows:
 - [TODO add decision rows]
@@ -61163,7 +61163,7 @@ Greek: εγω απεστειλα υμας θεριζειν ο ουχ υμεις 
 Transliteration: egw apesteila umav yerizein o ouc umeiv kekopiakate alloi kekopiakasin kai umeiv eiv ton kopon autwn eiselhluyate
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I sent you to reap that whereon you bestowed no labour: other men laboured, and you are entered into their labours.
+Draft translation: I sent you to reap that on which you bestowed no labor: other men labored, and you are entered into their labors.
 
 Decision rows:
 - [TODO add decision rows]
@@ -61243,7 +61243,7 @@ Greek: τη τε γυναικι ελεγον οτι ουκετι δια την �
 Transliteration: th te gunaiki elegon oti ouketi dia thn shn lalian pisteuomen autoi gar akhkoamen kai oidamen oti outov estin alhywv o swthr tou kosmou o cristov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And said to the woman, Now we believe, not because of your saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
+Draft translation: And said to the woman, Now we believe, not because of your saying: for we have heard him ourselves, and know that this is indeed the Christ, the Savior of the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -61283,7 +61283,7 @@ Greek: αυτος γαρ ο ιησους εμαρτυρησεν οτι προφ�
 Transliteration: autov gar o ihsouv emarturhsen oti profhthv en th idia patridi timhn ouk ecei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For Jesus himself testified, that a prophet has no honour in his own country.
+Draft translation: For Jesus himself testified, that a prophet has no honor in his own country.
 
 Decision rows:
 - [TODO add decision rows]
@@ -61945,7 +61945,7 @@ Greek: ινα παντες τιμωσιν τον υιον καθως τιμωσ�
 Transliteration: ina pantev timwsin ton uion kaywv timwsin ton patera o mh timwn ton uion ou tima ton patera ton pemqanta auton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That all men should honour the Son, even as they honour the Father. the one who honors not the Son honors not the Father who has sent him.
+Draft translation: That all men should honor the Son, even as they honor the Father. the one who honors not the Son honors not the Father who has sent him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -62305,7 +62305,7 @@ Greek: δοξαν παρα ανθρωπων ου λαμβανω
 Transliteration: doxan para anyrwpwn ou lambanw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I receive not honour from men.
+Draft translation: I receive not honor from men.
 
 Decision rows:
 - [TODO add decision rows]
@@ -62365,7 +62365,7 @@ Greek: πως δυνασθε υμεις πιστευσαι δοξαν παρα �
 Transliteration: pwv dunasye umeiv pisteusai doxan para allhlwn lambanontev kai thn doxan thn para tou monou yeou ou zhteite
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: How can you believe, which receive honour one of another, and seek not the honour that comes from God only?
+Draft translation: How can you believe, which receive honor one of another, and seek not the honor that comes from God only?
 
 Decision rows:
 - [TODO add decision rows]
@@ -62967,7 +62967,7 @@ Greek: εργαζεσθε μη την βρωσιν την απολλυμενην
 Transliteration: ergazesye mh thn brwsin thn apollumenhn alla thn brwsin thn menousan eiv zwhn aiwnion hn o uiov tou anyrwpou umin dwsei touton gar o pathr esfragisen o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Labour not for the food which perishes, but for that food which endures to eternal life, which the Son of man shall give to you: for him has God the Father sealed.
+Draft translation: Labor not for the food which perishes, but for that food which endures to eternal life, which the Son of man shall give to you: for him has God the Father sealed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -63447,7 +63447,7 @@ Greek: εγω ειμι ο αρτος ο ζων ο εκ του ουρανου κ�
 Transliteration: egw eimi o artov o zwn o ek tou ouranou katabav ean tiv fagh ek toutou tou artou zhsetai eiv ton aiwna kai o artov de on egw dwsw h sarx mou estin hn egw dwsw uper thv tou kosmou zwhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I am the living bread which came down from heaven: if anyone eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
+Draft translation: I am the living bread which came down from heaven: if anyone eat of this bread, he shall live forever: and the bread that I will give is my flesh, which I will give for the life of the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -63587,7 +63587,7 @@ Greek: ουτος εστιν ο αρτος ο εκ του ουρανου κατ�
 Transliteration: outov estin o artov o ek tou ouranou katabav ou kaywv efagon oi paterev umwn to manna kai apeyanon o trwgwn touton ton arton zhsetai eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: the one who eats of this bread shall live for ever.
+Draft translation: This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: the one who eats of this bread shall live forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -64149,7 +64149,7 @@ Greek: και εθαυμαζον οι ιουδαιοι λεγοντες πως �
 Transliteration: kai eyaumazon oi ioudaioi legontev pwv outov grammata oiden mh memayhkwv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Jews marvelled, saying, How knows this man letters, having never learned?
+Draft translation: And the Jews marveled, saying, How knows this man letters, having never learned?
 
 Decision rows:
 - [TODO add decision rows]
@@ -65611,7 +65611,7 @@ Greek: ο δε δουλος ου μενει εν τη οικια εις τον �
 Transliteration: o de doulov ou menei en th oikia eiv ton aiwna o uiov menei eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the slave abides not in the house for ever: but the Son abides ever.
+Draft translation: And the slave abides not in the house forever: but the Son abides ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -65891,7 +65891,7 @@ Greek: απεκριθη ιησους εγω δαιμονιον ουκ εχω α�
 Transliteration: apekriyh ihsouv egw daimonion ouk ecw alla timw ton patera mou kai umeiv atimazete me
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Jesus answered, I have not a demon; but I honour my Father, and you do dishonour me.
+Draft translation: Jesus answered, I have not a demon; but I honor my Father, and you do dishonour me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -65991,7 +65991,7 @@ Greek: απεκριθη ιησους εαν εγω δοξαζω εμαυτον �
 Transliteration: apekriyh ihsouv ean egw doxazw emauton h doxa mou ouden estin estin o pathr mou o doxazwn me on umeiv legete oti yeov umwn estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Jesus answered, If I honour myself, my honour is nothing: it is my Father that honors me; of whom you say, that he is your God:
+Draft translation: Jesus answered, If I honor myself, my honor is nothing: it is my Father that honors me; of whom you say, that he is your God:
 
 Decision rows:
 - [TODO add decision rows]
@@ -66253,7 +66253,7 @@ Greek: οι ουν γειτονες και οι θεωρουντες αυτον 
 Transliteration: oi oun geitonev kai oi yewrountev auton to proteron oti tuflov hn elegon ouc outov estin o kayhmenov kai prosaitwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The neighbours therefore, and those who before had seen him who he was blind, said, Is not this the one who sat and begged?
+Draft translation: The neighbors therefore, and those who before had seen him who he was blind, said, Is not this the one who sat and begged?
 
 Decision rows:
 - [TODO add decision rows]
@@ -66673,7 +66673,7 @@ Greek: ημεις οιδαμεν οτι μωση λελαληκεν ο θεος 
 Transliteration: hmeiv oidamen oti mwsh lelalhken o yeov touton de ouk oidamen poyen estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: We know that God spoke to Moses: as for this fellow, we do not know from whence he is.
+Draft translation: We know that God spoke to Moses: as for this fellow, we do not know from where he is.
 
 Decision rows:
 - [TODO add decision rows]
@@ -66693,7 +66693,7 @@ Greek: απεκριθη ο ανθρωπος και ειπεν αυτοις εν 
 Transliteration: apekriyh o anyrwpov kai eipen autoiv en gar toutw yaumaston estin oti umeiv ouk oidate poyen estin kai anewxen mou touv ofyalmouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The man answered and said to them, Why herein is a marvellous thing, that you do not know from whence he is, and yet he has opened mine eyes.
+Draft translation: The man answered and said to them, Why herein is a marvellous thing, that you do not know from where he is, and yet he has opened mine eyes.
 
 Decision rows:
 - [TODO add decision rows]
@@ -69419,7 +69419,7 @@ Greek: εαν εμοι διακονη τις εμοι ακολουθειτω κ�
 Transliteration: ean emoi diakonh tiv emoi akolouyeitw kai opou eimi egw ekei kai o diakonov o emov estai kai ean tiv emoi diakonh timhsei auton o pathr
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If anyone serve me, let him follow me; and where I am, there shall also my servant be: if anyone serve me, him will my Father honour.
+Draft translation: If anyone serve me, let him follow me; and where I am, there shall also my servant be: if anyone serve me, him will my Father honor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -69579,7 +69579,7 @@ Greek: απεκριθη αυτω ο οχλος ημεις ηκουσαμεν ε�
 Transliteration: apekriyh autw o oclov hmeiv hkousamen ek tou nomou oti o cristov menei eiv ton aiwna kai pwv su legeiv oti dei uqwyhnai ton uion tou anyrwpou tiv estin outov o uiov tou anyrwpou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The people answered him, We have heard out of the law that Christ abides for ever: and how do you say, The Son of man must be lifted up? who is this Son of man?
+Draft translation: The people answered him, We have heard out of the law that Christ abides forever: and how do you say, The Son of man must be lifted up? who is this Son of man?
 
 Decision rows:
 - [TODO add decision rows]
@@ -70983,7 +70983,7 @@ Greek: και εγω ερωτησω τον πατερα και αλλον παρ
 Transliteration: kai egw erwthsw ton patera kai allon paraklhton dwsei umin ina menh mey umwn eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+Draft translation: And I will pray the Father, and he shall give you another Comforter, that he may abide with you forever;
 
 Decision rows:
 - [TODO add decision rows]
@@ -76443,7 +76443,7 @@ Greek: εξισταντο δε παντες και εθαυμαζον λεγον
 Transliteration: existanto de pantev kai eyaumazon legontev prov allhlouv ouk idou pantev outoi eisin oi lalountev galilaioi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they were all amazed and marvelled, saying one to another, Look, are not all these which speak Galilaeans?
+Draft translation: And they were all amazed and marveled, saying one to another, Look, are not all these which speak Galilaeans?
 
 Decision rows:
 - [TODO add decision rows]
@@ -77243,7 +77243,7 @@ Greek: αινουντες τον θεον και εχοντες χαριν πρ�
 Transliteration: ainountev ton yeon kai econtev carin prov olon ton laon o de kuriov prosetiyei touv swzomenouv kay hmeran th ekklhsia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Praising God, and having favour with all the people. And the Lord added to the assembly daily such as should be saved.
+Draft translation: Praising God, and having favor with all the people. And the Lord added to the assembly daily such as should be saved.
 
 Decision rows:
 - [TODO add decision rows]
@@ -78027,7 +78027,7 @@ Greek: θεωρουντες δε την του πετρου παρρησιαν �
 Transliteration: yewrountev de thn tou petrou parrhsian kai iwannou kai katalabomenoi oti anyrwpoi agrammatoi eisin kai idiwtai eyaumazon epeginwskon te autouv oti sun tw ihsou hsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.
+Draft translation: Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marveled; and they took knowledge of them, that they had been with Jesus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79129,7 +79129,7 @@ Greek: τουτον ο θεος αρχηγον και σωτηρα υψωσεν 
 Transliteration: touton o yeov archgon kai swthra uqwsen th dexia autou dounai metanoian tw israhl kai afesin amartiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Him has God exalted with his right hand to be a Prince and a Saviour, in order to give repentance to Israel, and forgiveness of sins.
+Draft translation: Him has God exalted with his right hand to be a Prince and a Savior, in order to give repentance to Israel, and forgiveness of sins.
 
 Decision rows:
 - [TODO add decision rows]
@@ -79853,7 +79853,7 @@ Greek: και εξειλετο αυτον εκ πασων των θλιψεων 
 Transliteration: kai exeileto auton ek paswn twn yliqewn autou kai edwken autw carin kai sofian enantion faraw basilewv aiguptou kai katesthsen auton hgoumenon ep aigupton kai olon ton oikon autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
+Draft translation: And delivered him out of all his afflictions, and gave him favor and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
 
 Decision rows:
 - [TODO add decision rows]
@@ -80193,7 +80193,7 @@ Greek: ο δε αδικων τον πλησιον απωσατο αυτον ει
 Transliteration: o de adikwn ton plhsion apwsato auton eipwn tiv se katesthsen arconta kai dikasthn ef hmav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the one who did his neighbour wrong thrust him away, saying, Who made you a ruler and a judge over us?
+Draft translation: But the one who did his neighbor wrong thrust him away, saying, Who made you a ruler and a judge over us?
 
 Decision rows:
 - [TODO add decision rows]
@@ -80573,7 +80573,7 @@ Greek: ος ευρεν χαριν ενωπιον του θεου και ητησ
 Transliteration: ov euren carin enwpion tou yeou kai hthsato eurein skhnwma tw yew iakwb
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who found favour before God, and desired to find a tabernacle for the God of Jacob.
+Draft translation: Who found favor before God, and desired to find a tabernacle for the God of Jacob.
 
 Decision rows:
 - [TODO add decision rows]
@@ -85045,7 +85045,7 @@ Greek: τουτου ο θεος απο του σπερματος κατ επαγ
 Transliteration: toutou o yeov apo tou spermatov kat epaggelian hgeiren tw israhl swthra ihsoun
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of this man's seed has God according to his promise raised to Israel a Saviour, Jesus:
+Draft translation: Of this man's seed has God according to his promise raised to Israel a Savior, Jesus:
 
 Decision rows:
 - [TODO add decision rows]
@@ -86147,7 +86147,7 @@ Greek: κακειθεν απεπλευσαν εις αντιοχειαν οθε�
 Transliteration: kakeiyen apepleusan eiv antioceian oyen hsan paradedomenoi th cariti tou yeou eiv to ergon o eplhrwsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And from there sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.
+Draft translation: And from there sailed to Antioch, from where they had been recommended to the grace of God for the work which they fulfilled.
 
 Decision rows:
 - [TODO add decision rows]
@@ -90579,7 +90579,7 @@ Greek: παντα υπεδειξα υμιν οτι ουτως κοπιωντας
 Transliteration: panta upedeixa umin oti outwv kopiwntav dei antilambanesyai twn asyenountwn mnhmoneuein te twn logwn tou kuriou ihsou oti autov eipen makarion estin didonai mallon h lambanein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I have showed you all things, how that so labouring you ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+Draft translation: I have showed you all things, how that so laboring you ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
 Decision rows:
 - [TODO add decision rows]
@@ -93349,7 +93349,7 @@ Greek: αιτουμενοι χαριν κατ αυτου οπως μεταπεμ
 Transliteration: aitoumenoi carin kat autou opwv metapemqhtai auton eiv ierousalhm enedran poiountev anelein auton kata thn odon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
+Draft translation: And desired favor against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95073,7 +95073,7 @@ Greek: των δε ναυτων ζητουντων φυγειν εκ του πλ
 Transliteration: twn de nautwn zhtountwn fugein ek tou ploiou kai calasantwn thn skafhn eiv thn yalassan profasei wv ek prwrav mellontwn agkurav ekteinein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And as the sailors were about to flee out of the boat, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the bow,
+Draft translation: And as the sailors were about to flee out of the boat, when they had let down the boat into the sea, under pretense as though they would have cast anchors out of the bow,
 
 Decision rows:
 - [TODO add decision rows]
@@ -95293,7 +95293,7 @@ Greek: περιπεσοντες δε εις τοπον διθαλασσον επ
 Transliteration: peripesontev de eiv topon diyalasson epwkeilan thn naun kai h men prwra ereisasa emeinen asaleutov h de prumna elueto upo thv biav twn kumatwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And falling into a place where two seas met, they ran the ship aground; and the front part stuck fast, and remained immoveable, but the hinder part was broken with the violence of the waves.
+Draft translation: And falling into a place where two seas met, they ran the ship aground; and the front part stuck fast, and remained immovable, but the hinder part was broken with the violence of the waves.
 
 Decision rows:
 - [TODO add decision rows]
@@ -95555,7 +95555,7 @@ Greek: οι και πολλαις τιμαις ετιμησαν ημας και 
 Transliteration: oi kai pollaiv timaiv etimhsan hmav kai anagomenoiv epeyento ta prov thn creian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.
+Draft translation: Who also honored us with many honors; and when we departed, they laded us with such things as were necessary.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96480,7 +96480,7 @@ Greek: οιτινες μετηλλαξαν την αληθειαν του θεο
 Transliteration: oitinev methllaxan thn alhyeian tou yeou en tw qeudei kai esebasyhsan kai elatreusan th ktisei para ton ktisanta ov estin euloghtov eiv touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.
+Draft translation: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -96762,7 +96762,7 @@ Greek: τοις μεν καθ υπομονην εργου αγαθου δοξα�
 Transliteration: toiv men kay upomonhn ergou agayou doxan kai timhn kai afyarsian zhtousin zwhn aiwnion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
+Draft translation: To them who by patient continuance in well doing seek for glory and honor and immortality, eternal life:
 
 Decision rows:
 - [TODO add decision rows]
@@ -96822,7 +96822,7 @@ Greek: δοξα δε και τιμη και ειρηνη παντι τω εργ�
 Transliteration: doxa de kai timh kai eirhnh panti tw ergazomenw to agayon ioudaiw te prwton kai ellhni
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But glory, honour, and peace, to every man that works good, to the Jew first, and also to the Gentile:
+Draft translation: But glory, honor, and peace, to every man that works good, to the Jew first, and also to the Gentile:
 
 Decision rows:
 - [TODO add decision rows]
@@ -100596,7 +100596,7 @@ Greek: ων οι πατερες και εξ ων ο χριστος το κατα
 Transliteration: wn oi paterev kai ex wn o cristov to kata sarka o wn epi pantwn yeov euloghtov eiv touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+Draft translation: Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -100916,7 +100916,7 @@ Greek: η ουκ εχει εξουσιαν ο κεραμευς του πηλου
 Transliteration: h ouk ecei exousian o kerameuv tou phlou ek tou autou furamatov poihsai o men eiv timhn skeuov o de eiv atimian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Has not the potter power over the clay, of the same lump to make one vessel to honour, and another to dishonour?
+Draft translation: Has not the potter power over the clay, of the same lump to make one vessel to honor, and another to dishonour?
 
 Decision rows:
 - [TODO add decision rows]
@@ -102300,7 +102300,7 @@ Greek: οτι εξ αυτου και δι αυτου και εις αυτον τ
 Transliteration: oti ex autou kai di autou kai eiv auton ta panta autw h doxa eiv touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
+Draft translation: For of him, and through him, and to him, are all things: to whom be glory forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -102502,7 +102502,7 @@ Greek: τη φιλαδελφια εις αλληλους φιλοστοργοι 
 Transliteration: th filadelfia eiv allhlouv filostorgoi th timh allhlouv prohgoumenoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Be kindly affectionate one to another with brotherly love; in honour preferring one another;
+Draft translation: Be kindly affectionate one to another with brotherly love; in honor preferring one another;
 
 Decision rows:
 - [TODO add decision rows]
@@ -102864,7 +102864,7 @@ Greek: αποδοτε ουν πασιν τας οφειλας τω τον φορ
 Transliteration: apodote oun pasin tav ofeilav tw ton foron ton foron tw to telov to telov tw ton fobon ton fobon tw thn timhn thn timhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
+Draft translation: Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honor to whom honor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -102904,7 +102904,7 @@ Greek: το γαρ ου μοιχευσεις ου φονευσεις ου κλε
 Transliteration: to gar ou moiceuseiv ou foneuseiv ou kleqeiv ou qeudomarturhseiv ouk epiyumhseiv kai ei tiv etera entolh en toutw tw logw anakefalaioutai en tw agaphseiv ton plhsion sou wv eauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there is any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbour as yourself.
+Draft translation: For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there is any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbor as yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -102924,7 +102924,7 @@ Greek: η αγαπη τω πλησιον κακον ουκ εργαζεται π
 Transliteration: h agaph tw plhsion kakon ouk ergazetai plhrwma oun nomou h agaph
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Love works no ill to his neighbour: therefore love is the fulfilling of the law.
+Draft translation: Love works no ill to his neighbor: therefore love is the fulfilling of the law.
 
 Decision rows:
 - [TODO add decision rows]
@@ -103508,7 +103508,7 @@ Greek: εκαστος γαρ ημων τω πλησιον αρεσκετω ει�
 Transliteration: ekastov gar hmwn tw plhsion aresketw eiv to agayon prov oikodomhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let every one of us please his neighbour for his good to edification.
+Draft translation: Let every one of us please his neighbor for his good to edification.
 
 Decision rows:
 - [TODO add decision rows]
@@ -104250,7 +104250,7 @@ Greek: ασπασασθε μαριαμ ητις πολλα εκοπιασεν ε
 Transliteration: aspasasye mariam htiv polla ekopiasen eiv hmav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Greet Mary, who bestowed much labour on us.
+Draft translation: Greet Mary, who bestowed much labor on us.
 
 Decision rows:
 - [TODO add decision rows]
@@ -104370,7 +104370,7 @@ Greek: ασπασασθε τρυφαιναν και τρυφωσαν τας κο
 Transliteration: aspasasye trufainan kai trufwsan tav kopiwsav en kuriw aspasasye persida thn agaphthn htiv polla ekopiasen en kuriw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.
+Draft translation: Salute Tryphena and Tryphosa, who labor in the Lord. Salute the beloved Persis, which labored much in the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -104670,7 +104670,7 @@ Greek: μονω σοφω θεω δια ιησου χριστου η δοξα ε�
 Transliteration: monw sofw yew dia ihsou cristou h doxa eiv touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To God only wise, be glory through Jesus Christ for ever. Amen.
+Draft translation: To God only wise, be glory through Jesus Christ forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -105778,7 +105778,7 @@ Greek: ο φυτευων δε και ο ποτιζων εν εισιν εκασ�
 Transliteration: o futeuwn de kai o potizwn en eisin ekastov de ton idion misyon lhqetai kata ton idion kopon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now the one who plants and the one who waters are one: and every man shall receive his own reward according to his own labour.
+Draft translation: Now the one who plants and the one who waters are one: and every man shall receive his own reward according to his own labor.
 
 Decision rows:
 - [TODO add decision rows]
@@ -106320,7 +106320,7 @@ Greek: και κοπιωμεν εργαζομενοι ταις ιδιαις χε
 Transliteration: kai kopiwmen ergazomenoi taiv idiaiv cersin loidoroumenoi eulogoumen diwkomenoi anecomeya
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
+Draft translation: And labor, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
 
 Decision rows:
 - [TODO add decision rows]
@@ -110576,7 +110576,7 @@ Greek: και α δοκουμεν ατιμοτερα ειναι του σωμα�
 Transliteration: kai a dokoumen atimotera einai tou swmatov toutoiv timhn perissoteran peritiyemen kai ta aschmona hmwn euschmosunhn perissoteran ecei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our indecent parts have more abundant loveliness.
+Draft translation: And those members of the body, which we think to be less honourable, upon these we bestow more abundant honor; and our indecent parts have more abundant loveliness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -110596,7 +110596,7 @@ Greek: τα δε ευσχημονα ημων ου χρειαν εχει αλλ �
 Transliteration: ta de euschmona hmwn ou creian ecei all o yeov sunekerasen to swma tw usterounti perissoteran douv timhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For our comely parts have no need: but God has tempered the body together, having given more abundant honour to that part which lacked.
+Draft translation: For our comely parts have no need: but God has tempered the body together, having given more abundant honor to that part which lacked.
 
 Decision rows:
 - [TODO add decision rows]
@@ -110636,7 +110636,7 @@ Greek: και ειτε πασχει εν μελος συμπασχει παντ�
 Transliteration: kai eite pascei en melov sumpascei panta ta melh eite doxazetai en melov sugcairei panta ta melh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
+Draft translation: And whether one member suffer, all the members suffer with it; or one member be honored, all the members rejoice with it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -112002,7 +112002,7 @@ Greek: χαριτι δε θεου ειμι ο ειμι και η χαρις αυ
 Transliteration: cariti de yeou eimi o eimi kai h cariv autou h eiv eme ou kenh egenhyh alla perissoteron autwn pantwn ekopiasa ouk egw de all h cariv tou yeou h sun emoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God who was with me.
+Draft translation: But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I labored more abundantly than they all: yet not I, but the grace of God who was with me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -112962,7 +112962,7 @@ Greek: ωστε αδελφοι μου αγαπητοι εδραιοι γινεσ
 Transliteration: wste adelfoi mou agaphtoi edraioi ginesye ametakinhtoi perisseuontev en tw ergw tou kuriou pantote eidotev oti o kopov umwn ouk estin kenov en kuriw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore, my beloved brothers, be you steadfast, immoveable, always abounding in the work of the Lord, since you know that your labour is not in vain in the Lord.
+Draft translation: Therefore, my beloved brothers, be you steadfast, immovable, always abounding in the work of the Lord, since you know that your labor is not in vain in the Lord.
 
 Decision rows:
 - [TODO add decision rows]
@@ -113284,7 +113284,7 @@ Greek: ινα και υμεις υποτασσησθε τοις τοιουτοι
 Transliteration: ina kai umeiv upotasshsye toiv toioutoiv kai panti tw sunergounti kai kopiwnti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That you submit yourselves to such, and to every one that helps with us, and labours.
+Draft translation: That you submit yourselves to such, and to every one that helps with us, and labors.
 
 Decision rows:
 - [TODO add decision rows]
@@ -115176,7 +115176,7 @@ Greek: διο και φιλοτιμουμεθα ειτε ενδημουντες 
 Transliteration: dio kai filotimoumeya eite endhmountev eite ekdhmountev euarestoi autw einai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore we labour, that, whether present or absent, we may be accepted of him.
+Draft translation: Therefore we labor, that, whether present or absent, we may be accepted of him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -115518,7 +115518,7 @@ Greek: εν πληγαις εν φυλακαις εν ακαταστασιαις
 Transliteration: en plhgaiv en fulakaiv en akatastasiaiv en kopoiv en agrupniaiv en nhsteiaiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;
+Draft translation: In stripes, in imprisonments, in tumults, in labors, in watchings, in fastings;
 
 Decision rows:
 - [TODO add decision rows]
@@ -115578,7 +115578,7 @@ Greek: δια δοξης και ατιμιας δια δυσφημιας και 
 Transliteration: dia doxhv kai atimiav dia dusfhmiav kai eufhmiav wv planoi kai alhyeiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By honour and dishonour, by evil report and good report: as deceivers, and yet true;
+Draft translation: By honor and dishonour, by evil report and good report: as deceivers, and yet true;
 
 Decision rows:
 - [TODO add decision rows]
@@ -116764,7 +116764,7 @@ Greek: καθως γεγραπται εσκορπισεν εδωκεν τοις 
 Transliteration: kaywv gegraptai eskorpisen edwken toiv penhsin h dikaiosunh autou menei eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (As it is written, He has dispersed abroad; he has given to the poor: his righteousness remains for ever.
+Draft translation: (As it is written, He has dispersed abroad; he has given to the poor: his righteousness remains forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117186,7 +117186,7 @@ Greek: ουκ εις τα αμετρα καυχωμενοι εν αλλοτρι�
 Transliteration: ouk eiv ta ametra kaucwmenoi en allotrioiv kopoiv elpida de econtev auxanomenhv thv pistewv umwn en umin megalunyhnai kata ton kanona hmwn eiv perisseian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
+Draft translation: Not boasting of things without our measure, that is, of other men's labors; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
 
 Decision rows:
 - [TODO add decision rows]
@@ -117708,7 +117708,7 @@ Greek: διακονοι χριστου εισιν παραφρονων λαλω 
 Transliteration: diakonoi cristou eisin parafronwn lalw uper egw en kopoiv perissoterwv en plhgaiv uperballontwv en fulakaiv perissoterwv en yanatoiv pollakiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths often.
+Draft translation: Are they ministers of Christ? (I speak as a fool) I am more; in labors more abundant, in stripes above measure, in prisons more frequent, in deaths often.
 
 Decision rows:
 - [TODO add decision rows]
@@ -118716,7 +118716,7 @@ Greek: ω η δοξα εις τους αιωνας των αιωνων αμην
 Transliteration: w h doxa eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To whom be glory for ever and ever. Amen.
+Draft translation: To whom be glory forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120322,7 +120322,7 @@ Greek: φοβουμαι υμας μηπως εικη κεκοπιακα εις �
 Transliteration: foboumai umav mhpwv eikh kekopiaka eiv umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I am afraid of you, lest I have bestowed upon you labour in vain.
+Draft translation: I am afraid of you, lest I have bestowed upon you labor in vain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121004,7 +121004,7 @@ Greek: ο γαρ πας νομος εν ενι λογω πληρουται εν 
 Transliteration: o gar pav nomov en eni logw plhroutai en tw agaphseiv ton plhsion sou wv eauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For all the law is fulfilled in one word, even in this; You shall love your neighbour as yourself.
+Draft translation: For all the law is fulfilled in one word, even in this; You shall love your neighbor as yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123436,7 +123436,7 @@ Greek: διο αποθεμενοι το ψευδος λαλειτε αληθει
 Transliteration: dio apoyemenoi to qeudov laleite alhyeian ekastov meta tou plhsion autou oti esmen allhlwn melh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
+Draft translation: Therefore putting away lying, speak every man truth with his neighbor: for we are members one of another.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123496,7 +123496,7 @@ Greek: ο κλεπτων μηκετι κλεπτετω μαλλον δε κοπ�
 Transliteration: o kleptwn mhketi kleptetw mallon de kopiatw ergazomenov to agayon taiv cersin ina ech metadidonai tw creian econti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let him who stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him who needs.
+Draft translation: Let him who stole steal no more: but rather let him labor, working with his hands the thing which is good, that he may have to give to him who needs.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123556,7 +123556,7 @@ Greek: πασα πικρια και θυμος και οργη και κραυγ
 Transliteration: pasa pikria kai yumov kai orgh kai kraugh kai blasfhmia aryhtw af umwn sun pash kakia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be release from you, with all malice:
+Draft translation: Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be removed from you, with all malice:
 
 Decision rows:
 - [TODO add decision rows]
@@ -124038,7 +124038,7 @@ Greek: οτι ο ανηρ εστιν κεφαλη της γυναικος ως �
 Transliteration: oti o anhr estin kefalh thv gunaikov wv kai o cristov kefalh thv ekklhsiav kai autov estin swthr tou swmatov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the husband is the head of the wife, even as Christ is the head of the assembly: and he is the saviour of the body.
+Draft translation: For the husband is the head of the wife, even as Christ is the head of the assembly: and he is the Savior of the body.
 
 Decision rows:
 - [TODO add decision rows]
@@ -124280,7 +124280,7 @@ Greek: τιμα τον πατερα σου και την μητερα ητις �
 Transliteration: tima ton patera sou kai thn mhtera htiv estin entolh prwth en epaggelia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Honour your father and mother; which is the first commandment with promise;
+Draft translation: Honor your father and mother; which is the first commandment with promise;
 
 Decision rows:
 - [TODO add decision rows]
@@ -125164,7 +125164,7 @@ Greek: ει δε το ζην εν σαρκι τουτο μοι καρπος ερ
 Transliteration: ei de to zhn en sarki touto moi karpov ergou kai ti airhsomai ou gnwrizw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I do not know.
+Draft translation: But if I live in the flesh, this is the fruit of my labor: yet what I shall choose I do not know.
 
 Decision rows:
 - [TODO add decision rows]
@@ -125646,7 +125646,7 @@ Greek: λογον ζωης επεχοντες εις καυχημα εμοι ε�
 Transliteration: logon zwhv epecontev eiv kauchma emoi eiv hmeran cristou oti ouk eiv kenon edramon oude eiv kenon ekopiasa
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+Draft translation: Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither labored in vain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -125826,7 +125826,7 @@ Greek: αναγκαιον δε ηγησαμην επαφροδιτον τον α
 Transliteration: anagkaion de hghsamhn epafroditon ton adelfon kai sunergon kai sustratiwthn mou umwn de apostolon kai leitourgon thv creiav mou pemqai prov umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellow soldier, but your messenger, and the one who ministered to my wants.
+Draft translation: Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labor, and fellow soldier, but your messenger, and the one who ministered to my wants.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126328,7 +126328,7 @@ Greek: ημων γαρ το πολιτευμα εν ουρανοις υπαρχ�
 Transliteration: hmwn gar to politeuma en ouranoiv uparcei ex ou kai swthra apekdecomeya kurion ihsoun criston
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For our conduct is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
+Draft translation: For our conduct is in heaven; from where also we look for the Savior, the Lord Jesus Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -126410,7 +126410,7 @@ Greek: και ερωτω και σε συζυγε γνησιε συλλαμβα�
 Transliteration: kai erwtw kai se suzuge gnhsie sullambanou autaiv aitinev en tw euaggeliw sunhylhsan moi meta kai klhmentov kai twn loipwn sunergwn mou wn ta onomata en biblw zwhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I implore you also, true yokefellow, help those women who laboured with me in the good news, with Clement also, and with other my fellow labourers, whose names are in the book of life.
+Draft translation: And I implore you also, true yokefellow, help those women who labored with me in the good news, with Clement also, and with other my fellow labourers, whose names are in the book of life.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126750,7 +126750,7 @@ Greek: τω δε θεω και πατρι ημων η δοξα εις τους �
 Transliteration: tw de yew kai patri hmwn h doxa eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now to God and our Father be glory for ever and ever. Amen.
+Draft translation: Now to God and our Father be glory forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127394,7 +127394,7 @@ Greek: εις ο και κοπιω αγωνιζομενος κατα την εν
 Transliteration: eiv o kai kopiw agwnizomenov kata thn energeian autou thn energoumenhn en emoi en dunamei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To which I also labour, striving according to his working, which works in me mightily.
+Draft translation: To which I also labor, striving according to his working, which works in me mightily.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127856,7 +127856,7 @@ Greek: ατινα εστιν λογον μεν εχοντα σοφιας εν ε
 Transliteration: atina estin logon men econta sofiav en eyeloyrhskeia kai tapeinofrosunh kai afeidia swmatov ouk en timh tini prov plhsmonhn thv sarkov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which things have indeed a show of wisdom religious outlook, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.
+Draft translation: Which things have indeed a show of wisdom religious outlook, and humility, and neglecting of the body: not in any honor to the satisfying of the flesh.
 
 Decision rows:
 - [TODO add decision rows]
@@ -128600,7 +128600,7 @@ Greek: ασπαζεται υμας επαφρας ο εξ υμων δουλος 
 Transliteration: aspazetai umav epafrav o ex umwn doulov cristou pantote agwnizomenov uper umwn en taiv proseucaiv ina sthte teleioi kai peplhrwmenoi en panti yelhmati tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Epaphras, who is one of you, a slave of Christ, salutes you, always labouring fervently for you in prayers, that you may stand perfect and complete in all the will of God.
+Draft translation: Epaphras, who is one of you, a slave of Christ, salutes you, always laboring fervently for you in prayers, that you may stand perfect and complete in all the will of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -128784,7 +128784,7 @@ Greek: αδιαλειπτως μνημονευοντες υμων του εργ�
 Transliteration: adialeiptwv mnhmoneuontev umwn tou ergou thv pistewv kai tou kopou thv agaphv kai thv upomonhv thv elpidov tou kuriou hmwn ihsou cristou emprosyen tou yeou kai patrov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
+Draft translation: Remembering without ceasing your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 
 Decision rows:
 - [TODO add decision rows]
@@ -129106,7 +129106,7 @@ Greek: μνημονευετε γαρ αδελφοι τον κοπον ημων �
 Transliteration: mnhmoneuete gar adelfoi ton kopon hmwn kai ton mocyon nuktov gar kai hmerav ergazomenoi prov to mh epibarhsai tina umwn ekhruxamen eiv umav to euaggelion tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For you remember, brothers, our labour and travail: for labouring night and day, because we would not be chargeable to any of you, we preached to you the good news of God.
+Draft translation: For you remember, brothers, our labor and travail: for laboring night and day, because we would not be chargeable to any of you, we preached to you the good news of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -129428,7 +129428,7 @@ Greek: δια τουτο καγω μηκετι στεγων επεμψα εις 
 Transliteration: dia touto kagw mhketi stegwn epemqa eiv to gnwnai thn pistin umwn mhpwv epeirasen umav o peirazwn kai eiv kenon genhtai o kopov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.
+Draft translation: For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labor be in vain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -129670,7 +129670,7 @@ Greek: ειδεναι εκαστον υμων το εαυτου σκευος κ�
 Transliteration: eidenai ekaston umwn to eautou skeuov ktasyai en agiasmw kai timh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That every one of you should know how to possess his vessel in sanctification and honour;
+Draft translation: That every one of you should know how to possess his vessel in sanctification and honor;
 
 Decision rows:
 - [TODO add decision rows]
@@ -130192,7 +130192,7 @@ Greek: ερωτωμεν δε υμας αδελφοι ειδεναι τους κ�
 Transliteration: erwtwmen de umav adelfoi eidenai touv kopiwntav en umin kai proistamenouv umwn en kuriw kai nouyetountav umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And we plead to you, brothers, to know those who labour among you, and are over you in the Lord, and admonish you;
+Draft translation: And we plead to you, brothers, to know those who labor among you, and are over you in the Lord, and admonish you;
 
 Decision rows:
 - [TODO add decision rows]
@@ -131260,7 +131260,7 @@ Greek: ουδε δωρεαν αρτον εφαγομεν παρα τινος α�
 Transliteration: oude dwrean arton efagomen para tinov all en kopw kai mocyw nukta kai hmeran ergazomenoi prov to mh epibarhsai tina umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Neither did we eat anyone's bread for nothing; but worked with labour and travail night and day, that we might not be chargeable to any of you:
+Draft translation: Neither did we eat anyone's bread for nothing; but worked with labor and travail night and day, that we might not be chargeable to any of you:
 
 Decision rows:
 - [TODO add decision rows]
@@ -131484,7 +131484,7 @@ Greek: [ΠΑΥΛΟΥ ΤΟΥ ΑΠΟΣΤΟΛΟΥ Η ΠΡΟΣ ΤΙΜΟΘΕΟΝ ΕΠ
 Transliteration: [PAULOU TOU APOSTOLOU H PROS TIMOYEON EPISTOLH PRWTH] paulov apostolov ihsou cristou kat epitaghn yeou swthrov hmwn kai kuriou ihsou cristou thv elpidov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, who is our hope;
+Draft translation: Paul, an apostle of Jesus Christ by the commandment of God our Savior, and Lord Jesus Christ, who is our hope;
 
 Decision rows:
 - [TODO add decision rows]
@@ -131804,7 +131804,7 @@ Greek: τω δε βασιλει των αιωνων αφθαρτω αορατω 
 Transliteration: tw de basilei twn aiwnwn afyartw aoratw monw sofw yew timh kai doxa eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now to the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
+Draft translation: Now to the King eternal, immortal, invisible, the only wise God, be honor and glory forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131926,7 +131926,7 @@ Greek: τουτο γαρ καλον και αποδεκτον ενωπιον τ�
 Transliteration: touto gar kalon kai apodekton enwpion tou swthrov hmwn yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this is good and acceptable in the sight of God our Saviour;
+Draft translation: For this is good and acceptable in the sight of God our Savior;
 
 Decision rows:
 - [TODO add decision rows]
@@ -132208,7 +132208,7 @@ Greek: δει ουν τον επισκοπον ανεπιληπτον ειναι
 Transliteration: dei oun ton episkopon anepilhpton einai miav gunaikov andra nhfalion swfrona kosmion filoxenon didaktikon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: An overseer then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, able to teach;
+Draft translation: An overseer then must be blameless, the husband of one wife, vigilant, sober, of good behavior, given to hospitality, able to teach;
 
 Decision rows:
 - [TODO add decision rows]
@@ -132690,7 +132690,7 @@ Greek: εις τουτο γαρ και κοπιωμεν και ονειδιζο�
 Transliteration: eiv touto gar kai kopiwmen kai oneidizomeya oti hlpikamen epi yew zwnti ov estin swthr pantwn anyrwpwn malista pistwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
+Draft translation: For therefore we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, specially of those that believe.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132872,7 +132872,7 @@ Greek: χηρας τιμα τας οντως χηρας
 Transliteration: chrav tima tav ontwv chrav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Honour widows that are widows indeed.
+Draft translation: Honor widows that are widows indeed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133152,7 +133152,7 @@ Greek: οι καλως προεστωτες πρεσβυτεροι διπλης 
 Transliteration: oi kalwv proestwtev presbuteroi diplhv timhv axiousywsan malista oi kopiwntev en logw kai didaskalia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.
+Draft translation: Let the elders that rule well be counted worthy of double honor, especially they who labor in the word and doctrine.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133334,7 +133334,7 @@ Greek: οσοι εισιν υπο ζυγον δουλοι τους ιδιους 
 Transliteration: osoi eisin upo zugon douloi touv idiouv despotav pashv timhv axiouv hgeisywsan ina mh to onoma tou yeou kai h didaskalia blasfhmhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let as many slaves as are under the yoke count their own teachers worthy of all honour, that the name of God and his doctrine be not blasphemed.
+Draft translation: Let as many slaves as are under the yoke count their own teachers worthy of all honor, that the name of God and his doctrine be not blasphemed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133634,7 +133634,7 @@ Greek: ο μονος εχων αθανασιαν φως οικων απροσι�
 Transliteration: o monov ecwn ayanasian fwv oikwn aprositon on eiden oudeiv anyrwpwn oude idein dunatai w timh kai kratov aiwnion amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who only has immortality, dwelling in the light which no one can approach to; whom no one has seen, nor can see: to whom be honour and power eternal. Amen.
+Draft translation: Who only has immortality, dwelling in the light which no one can approach to; whom no one has seen, nor can see: to whom be honor and power eternal. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133938,7 +133938,7 @@ Greek: φανερωθεισαν δε νυν δια της επιφανειας �
 Transliteration: fanerwyeisan de nun dia thv epifaneiav tou swthrov hmwn ihsou cristou katarghsantov men ton yanaton fwtisantov de zwhn kai afyarsian dia tou euaggeliou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But is now made manifest by the appearing of our Saviour Jesus Christ, who has abolished death, and has brought life and immortality to light through the good news:
+Draft translation: But is now made manifest by the appearing of our Savior Jesus Christ, who has abolished death, and has brought life and immortality to light through the good news:
 
 Decision rows:
 - [TODO add decision rows]
@@ -134220,7 +134220,7 @@ Greek: τον κοπιωντα γεωργον δει πρωτον των καρ�
 Transliteration: ton kopiwnta gewrgon dei prwton twn karpwn metalambanein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The farmer that labours must be first partaker of the fruits.
+Draft translation: The farmer that labors must be first partaker of the fruits.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134500,7 +134500,7 @@ Greek: εν μεγαλη δε οικια ουκ εστιν μονον σκευη
 Transliteration: en megalh de oikia ouk estin monon skeuh crusa kai argura alla kai xulina kai ostrakina kai a men eiv timhn a de eiv atimian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.
+Draft translation: But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honor, and some to dishonour.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134520,7 +134520,7 @@ Greek: εαν ουν τις εκκαθαρη εαυτον απο τουτων ε
 Transliteration: ean oun tiv ekkayarh eauton apo toutwn estai skeuov eiv timhn hgiasmenon kai eucrhston tw despoth eiv pan ergon agayon htoimasmenon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If a man therefore purge himself from these, he shall be a vessel to honour, sanctified, and meet for the master's use, and prepared to every good work.
+Draft translation: If a man therefore purge himself from these, he shall be a vessel to honor, sanctified, and meet for the master's use, and prepared to every good work.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135324,7 +135324,7 @@ Greek: και ρυσεται με ο κυριος απο παντος εργου
 Transliteration: kai rusetai me o kuriov apo pantov ergou ponhrou kai swsei eiv thn basileian autou thn epouranion w h doxa eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the Lord shall deliver me from every evil work, and will preserve me to his heavenly kingdom: to whom be glory for ever and ever. Amen.
+Draft translation: And the Lord shall deliver me from every evil work, and will preserve me to his heavenly kingdom: to whom be glory forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135468,7 +135468,7 @@ Greek: εφανερωσεν δε καιροις ιδιοις τον λογον �
 Transliteration: efanerwsen de kairoiv idioiv ton logon autou en khrugmati o episteuyhn egw kat epitaghn tou swthrov hmwn yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Saviour;
+Draft translation: But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Savior;
 
 Decision rows:
 - [TODO add decision rows]
@@ -135488,7 +135488,7 @@ Greek: τιτω γνησιω τεκνω κατα κοινην πιστιν χα�
 Transliteration: titw gnhsiw teknw kata koinhn pistin cariv eleov eirhnh apo yeou patrov kai kuriou ihsou cristou tou swthrov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To Titus, my own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
+Draft translation: To Titus, my own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Savior.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135790,7 +135790,7 @@ Greek: πρεσβυτιδας ωσαυτως εν καταστηματι ιερ�
 Transliteration: presbutidav wsautwv en katasthmati ieroprepeiv mh diabolouv mh oinw pollw dedoulwmenav kalodidaskalouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The aged women likewise, that they be in behaviour as becomes holiness, not false accusers, not given to much wine, teachers of good things;
+Draft translation: The aged women likewise, that they be in behavior as becomes holiness, not false accusers, not given to much wine, teachers of good things;
 
 Decision rows:
 - [TODO add decision rows]
@@ -135930,7 +135930,7 @@ Greek: μη νοσφιζομενους αλλα πιστιν πασαν ενδε
 Transliteration: mh nosfizomenouv alla pistin pasan endeiknumenouv agayhn ina thn didaskalian tou swthrov hmwn yeou kosmwsin en pasin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Not embezzling, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+Draft translation: Not embezzling, but showing all good fidelity; that they may adorn the doctrine of God our Savior in all things.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135990,7 +135990,7 @@ Greek: προσδεχομενοι την μακαριαν ελπιδα και ε
 Transliteration: prosdecomenoi thn makarian elpida kai epifaneian thv doxhv tou megalou yeou kai swthrov hmwn ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+Draft translation: Looking for that blessed hope, and the glorious appearing of the great God and our Savior Jesus Christ;
 
 Decision rows:
 - [TODO add decision rows]
@@ -136112,7 +136112,7 @@ Greek: οτε δε η χρηστοτης και η φιλανθρωπια επε
 Transliteration: ote de h crhstothv kai h filanyrwpia epefanh tou swthrov hmwn yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But after that the kindness and love of God our Saviour toward man appeared,
+Draft translation: But after that the kindness and love of God our Savior toward man appeared,
 
 Decision rows:
 - [TODO add decision rows]
@@ -136152,7 +136152,7 @@ Greek: ου εξεχεεν εφ ημας πλουσιως δια ιησου χρ
 Transliteration: ou execeen ef hmav plousiwv dia ihsou cristou tou swthrov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which he shed on us abundantly through Jesus Christ our Saviour;
+Draft translation: Which he shed on us abundantly through Jesus Christ our Savior;
 
 Decision rows:
 - [TODO add decision rows]
@@ -136636,7 +136636,7 @@ Greek: ταχα γαρ δια τουτο εχωρισθη προς ωραν ιν
 Transliteration: taca gar dia touto ecwrisyh prov wran ina aiwnion auton apechv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For perhaps he therefore departed for a season, that you should receive him for ever;
+Draft translation: For perhaps he therefore departed for a season, that you should receive him forever;
 
 Decision rows:
 - [TODO add decision rows]
@@ -137000,7 +137000,7 @@ Greek: προς δε τον υιον ο θρονος σου ο θεος εις �
 Transliteration: prov de ton uion o yronov sou o yeov eiv ton aiwna tou aiwnov rabdov euyuthtov h rabdov thv basileiav sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But to the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
+Draft translation: But to the Son he says, Your throne, O God, is forever and ever: a sceptre of righteousness is the sceptre of your kingdom.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137262,7 +137262,7 @@ Greek: ηλαττωσας αυτον βραχυ τι παρ αγγελους δ�
 Transliteration: hlattwsav auton bracu ti par aggelouv doxh kai timh estefanwsav auton kai katesthsav auton epi ta erga twn ceirwn sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You made him a little lower than the angels; you crowned him with glory and honour, and did set him over the works of your hands:
+Draft translation: You made him a little lower than the angels; you crowned him with glory and honor, and did set him over the works of your hands:
 
 Decision rows:
 - [TODO add decision rows]
@@ -137302,7 +137302,7 @@ Greek: τον δε βραχυ τι παρ αγγελους ηλαττωμενο�
 Transliteration: ton de bracu ti par aggelouv hlattwmenon blepomen ihsoun dia to payhma tou yanatou doxh kai timh estefanwmenon opwv cariti yeou uper pantov geushtai yanatou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
+Draft translation: But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honor; that he by the grace of God should taste death for every man.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137544,7 +137544,7 @@ Greek: πλειονος γαρ δοξης ουτος παρα μωσην ηξι�
 Transliteration: pleionov gar doxhv outov para mwshn hxiwtai kay oson pleiona timhn ecei tou oikou o kataskeuasav auton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this man was counted worthy of more glory than Moses, inasmuch as he who has built the house has more honour than the house.
+Draft translation: For this man was counted worthy of more glory than Moses, inasmuch as he who has built the house has more honor than the house.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138086,7 +138086,7 @@ Greek: σπουδασωμεν ουν εισελθειν εις εκεινην τ
 Transliteration: spoudaswmen oun eiselyein eiv ekeinhn thn katapausin ina mh en tw autw tiv upodeigmati pesh thv apeiyeiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let us labour therefore to enter into that rest, lest anyone fall after the same example of unbelief.
+Draft translation: Let us labor therefore to enter into that rest, lest anyone fall after the same example of unbelief.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138268,7 +138268,7 @@ Greek: και ουχ εαυτω τις λαμβανει την τιμην αλλ
 Transliteration: kai ouc eautw tiv lambanei thn timhn alla o kaloumenov upo tou yeou kayaper kai o aarwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And no one takes this honour to himself, but the one who is called of God, as was Aaron.
+Draft translation: And no one takes this honor to himself, but the one who is called of God, as was Aaron.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138308,7 +138308,7 @@ Greek: καθως και εν ετερω λεγει συ ιερευς εις τ�
 Transliteration: kaywv kai en eterw legei su iereuv eiv ton aiwna kata thn taxin melcisedek
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: As he says also in another place, You are a priest for ever after the order of Melchisedec.
+Draft translation: As he says also in another place, You are a priest forever after the order of Melchisedec.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138670,7 +138670,7 @@ Greek: ου γαρ αδικος ο θεος επιλαθεσθαι του εργ
 Transliteration: ou gar adikov o yeov epilayesyai tou ergou umwn kai tou kopou thv agaphv hv endeixasye eiv to onoma autou diakonhsantev toiv agioiv kai diakonountev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For God is not unrighteous to forget your work and labour of love, which you have showed toward his name, in that you have ministered to the holy ones, and do minister.
+Draft translation: For God is not unrighteous to forget your work and labor of love, which you have showed toward his name, in that you have ministered to the holy ones, and do minister.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138870,7 +138870,7 @@ Greek: οπου προδρομος υπερ ημων εισηλθεν ιησου
 Transliteration: opou prodromov uper hmwn eishlyen ihsouv kata thn taxin melcisedek arciereuv genomenov eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Where the forerunner is for us entered, even Jesus, made a high priest for ever after the order of Melchisedec.
+Draft translation: Where the forerunner is for us entered, even Jesus, made a high priest forever after the order of Melchisedec.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139212,7 +139212,7 @@ Greek: μαρτυρει γαρ οτι συ ιερευς εις τον αιωνα
 Transliteration: marturei gar oti su iereuv eiv ton aiwna kata thn taxin melcisedek
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he testifies, You are a priest for ever after the order of Melchisedec.
+Draft translation: For he testifies, You are a priest forever after the order of Melchisedec.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139292,7 +139292,7 @@ Greek: ο δε μετα ορκωμοσιας δια του λεγοντος πρ
 Transliteration: o de meta orkwmosiav dia tou legontov prov auton wmosen kuriov kai ou metamelhyhsetai su iereuv eiv ton aiwna kata thn taxin melcisedek
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (For those priests were made without an oath; but this with an oath by him who said to him, The Lord swore and will not repent, You are a priest for ever after the order of Melchisedec:)
+Draft translation: (For those priests were made without an oath; but this with an oath by him who said to him, The Lord swore and will not repent, You are a priest forever after the order of Melchisedec:)
 
 Decision rows:
 - [TODO add decision rows]
@@ -139654,7 +139654,7 @@ Greek: και ου μη διδαξωσιν εκαστος τον πλησιον 
 Transliteration: kai ou mh didaxwsin ekastov ton plhsion autou kai ekastov ton adelfon autou legwn gnwyi ton kurion oti pantev eidhsousin me apo mikrou autwn ewv megalou autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
+Draft translation: And they shall not teach every man his neighbor, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140498,7 +140498,7 @@ Greek: αυτος δε μιαν υπερ αμαρτιων προσενεγκας
 Transliteration: autov de mian uper amartiwn prosenegkav yusian eiv to dihnekev ekayisen en dexia tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
+Draft translation: But this man, after he had offered one sacrifice for sins forever, sat down on the right hand of God;
 
 Decision rows:
 - [TODO add decision rows]
@@ -140538,7 +140538,7 @@ Greek: μια γαρ προσφορα τετελειωκεν εις το διη�
 Transliteration: mia gar prosfora teteleiwken eiv to dihnekev touv agiazomenouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For by one offering he has perfected for ever those who are sanctified.
+Draft translation: For by one offering he has perfected forever those who are sanctified.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141340,7 +141340,7 @@ Greek: και ει μεν εκεινης εμνημονευον αφ ης εξη
 Transliteration: kai ei men ekeinhv emnhmoneuon af hv exhlyon eicon an kairon anakamqai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.
+Draft translation: And truly, if they had been mindful of that country from where they came out, they might have had opportunity to have returned.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141420,7 +141420,7 @@ Greek: λογισαμενος οτι και εκ νεκρων εγειρειν �
 Transliteration: logisamenov oti kai ek nekrwn egeirein dunatov o yeov oyen auton kai en parabolh ekomisato
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.
+Draft translation: Accounting that God was able to raise him up, even from the dead; from where also he received him in a figure.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142584,7 +142584,7 @@ Greek: ιησους χριστος χθες και σημερον ο αυτος 
 Transliteration: ihsouv cristov cyev kai shmeron o autov kai eiv touv aiwnav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Jesus Christ the same yesterday, and today, and for ever.
+Draft translation: Jesus Christ the same yesterday, and today, and forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142844,7 +142844,7 @@ Greek: καταρτισαι υμας εν παντι εργω αγαθω εις 
 Transliteration: katartisai umav en panti ergw agayw eiv to poihsai to yelhma autou poiwn en umin to euareston enwpion autou dia ihsou cristou w h doxa eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Make you perfect in every good work to do his will, working in you that which is well-pleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.
+Draft translation: Make you perfect in every good work to do his will, working in you that which is well-pleasing in his sight, through Jesus Christ; to whom be glory forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143630,7 +143630,7 @@ Greek: ει μεντοι νομον τελειτε βασιλικον κατα �
 Transliteration: ei mentoi nomon teleite basilikon kata thn grafhn agaphseiv ton plhsion sou wv seauton kalwv poieite
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If you fulfill the royal law according to the scripture, You shall love your neighbour as yourself, you do well:
+Draft translation: If you fulfill the royal law according to the scripture, You shall love your neighbor as yourself, you do well:
 
 Decision rows:
 - [TODO add decision rows]
@@ -144374,7 +144374,7 @@ Greek: ποθεν πολεμοι και μαχαι εν υμιν ουκ εντε
 Transliteration: poyen polemoi kai macai en umin ouk enteuyen ek twn hdonwn umwn twn strateuomenwn en toiv melesin umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: From whence come wars and fightings among you? come they not behind, even of your lusts that war in your members?
+Draft translation: from where come wars and fightings among you? come they not behind, even of your lusts that war in your members?
 
 Decision rows:
 - [TODO add decision rows]
@@ -145240,7 +145240,7 @@ Greek: ινα το δοκιμιον υμων της πιστεως πολυ τι
 Transliteration: ina to dokimion umwn thv pistewv polu timiwteron crusiou tou apollumenou dia purov de dokimazomenou eureyh eiv epainon kai timhn kai doxan en apokaluqei ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That the trial of your faith, being much more precious than of gold that perishes, though it be tried with fire, might be found to praise and honour and glory at the appearing of Jesus Christ:
+Draft translation: That the trial of your faith, being much more precious than of gold that perishes, though it be tried with fire, might be found to praise and honor and glory at the appearing of Jesus Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -145560,7 +145560,7 @@ Greek: αναγεγεννημενοι ουκ εκ σπορας φθαρτης α
 Transliteration: anagegennhmenoi ouk ek sporav fyarthv alla afyartou dia logou zwntov yeou kai menontov eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Being born again, not of corruptible seed, but of incorruptible, by the word of God, who lives and abides for ever.
+Draft translation: Being born again, not of corruptible seed, but of incorruptible, by the word of God, who lives and abides forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145600,7 +145600,7 @@ Greek: το δε ρημα κυριου μενει εις τον αιωνα το�
 Transliteration: to de rhma kuriou menei eiv ton aiwna touto de estin to rhma to euaggelisyen eiv umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the word of the Lord endures for ever. And this is the word which by the good news is preached to you.
+Draft translation: But the word of the Lord endures forever. And this is the word which by the good news is preached to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145942,7 +145942,7 @@ Greek: παντας τιμησατε την αδελφοτητα αγαπατε 
 Transliteration: pantav timhsate thn adelfothta agapate ton yeon fobeisye ton basilea timate
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Honour all men. Love the brotherhood. Fear God. Honour the king.
+Draft translation: Honor all men. Love the brotherhood. Fear God. Honor the king.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146244,7 +146244,7 @@ Greek: οι ανδρες ομοιως συνοικουντες κατα γνωσ
 Transliteration: oi andrev omoiwv sunoikountev kata gnwsin wv asyenesterw skeuei tw gunaikeiw aponemontev timhn wv kai sugklhronomoi caritov zwhv eiv to mh ekkoptesyai tav proseucav umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Likewise, you husbands, dwell with them according to knowledge, giving honour to the wife, as to the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
+Draft translation: Likewise, you husbands, dwell with them according to knowledge, giving honor to the wife, as to the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146766,7 +146766,7 @@ Greek: ει τις λαλει ως λογια θεου ει τις διακον�
 Transliteration: ei tiv lalei wv logia yeou ei tiv diakonei wv ex iscuov hv corhgei o yeov ina en pasin doxazhtai o yeov dia ihsou cristou w estin h doxa kai to kratov eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If anyone speak, let him speak as the oracles of God; if anyone minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
+Draft translation: If anyone speak, let him speak as the oracles of God; if anyone minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147148,7 +147148,7 @@ Greek: αυτω η δοξα και το κρατος εις τους αιωνα�
 Transliteration: autw h doxa kai to kratov eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To him be glory and dominion for ever and ever. Amen.
+Draft translation: To him be glory and dominion forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147232,7 +147232,7 @@ Greek: σιμων πετρος δουλος και αποστολος ιησου
 Transliteration: simwn petrov doulov kai apostolov ihsou cristou toiv isotimon hmin lacousin pistin en dikaiosunh tou yeou hmwn kai swthrov hmwn ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
+Draft translation: Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Savior Jesus Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -147432,7 +147432,7 @@ Greek: ουτως γαρ πλουσιως επιχορηγηθησεται υμ�
 Transliteration: outwv gar plousiwv epicorhghyhsetai umin h eisodov eiv thn aiwnion basileian tou kuriou hmwn kai swthrov ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For so an entrance shall be supplied to you abundantly into the eternal kingdom of our Lord and Saviour Jesus Christ.
+Draft translation: For so an entrance shall be supplied to you abundantly into the eternal kingdom of our Lord and Savior Jesus Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147552,7 +147552,7 @@ Greek: λαβων γαρ παρα θεου πατρος τιμην και δοξ
 Transliteration: labwn gar para yeou patrov timhn kai doxan fwnhv enecyeishv autw toiasde upo thv megaloprepouv doxhv outov estin o uiov mou o agaphtov eiv on egw eudokhsa
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
+Draft translation: For he received from God the Father honor and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147974,7 +147974,7 @@ Greek: ουτοι εισιν πηγαι ανυδροι νεφελαι υπο λ�
 Transliteration: outoi eisin phgai anudroi nefelai upo lailapov elaunomenai oiv o zofov tou skotouv eiv aiwna tethrhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
+Draft translation: These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -148034,7 +148034,7 @@ Greek: ει γαρ αποφυγοντες τα μιασματα του κοσμ�
 Transliteration: ei gar apofugontev ta miasmata tou kosmou en epignwsei tou kuriou kai swthrov ihsou cristou toutoiv de palin emplakentev httwntai gegonen autoiv ta escata ceirona twn prwtwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
+Draft translation: For if after they have escaped the pollutions of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it, and overcome, the latter end is worse with them than the beginning.
 
 Decision rows:
 - [TODO add decision rows]
@@ -148116,7 +148116,7 @@ Greek: μνησθηναι των προειρημενων ρηματων υπο 
 Transliteration: mnhsyhnai twn proeirhmenwn rhmatwn upo twn agiwn profhtwn kai thv twn apostolwn hmwn entolhv tou kuriou kai swthrov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
+Draft translation: That you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Savior:
 
 Decision rows:
 - [TODO add decision rows]
@@ -148436,7 +148436,7 @@ Greek: αυξανετε δε εν χαριτι και γνωσει του κυρ
 Transliteration: auxanete de en cariti kai gnwsei tou kuriou hmwn kai swthrov ihsou cristou autw h doxa kai nun kai eiv hmeran aiwnov amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.
+Draft translation: But grow in grace, and in the knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -148982,7 +148982,7 @@ Greek: και ο κοσμος παραγεται και η επιθυμια αυ
 Transliteration: kai o kosmov paragetai kai h epiyumia autou o de poiwn to yelhma tou yeou menei eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the world passes away, and the lust of it: but the one who does the will of God abides for ever.
+Draft translation: And the world passes away, and the lust of it: but the one who does the will of God abides forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149986,7 +149986,7 @@ Greek: και ημεις τεθεαμεθα και μαρτυρουμεν οτι
 Transliteration: kai hmeiv teyeameya kai marturoumen oti o pathr apestalken ton uion swthra tou kosmou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And we have seen and do testify that the Father sent the Son to be the Saviour of the world.
+Draft translation: And we have seen and do testify that the Father sent the Son to be the Savior of the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150592,7 +150592,7 @@ Greek: δια την αληθειαν την μενουσαν εν ημιν κα
 Transliteration: dia thn alhyeian thn menousan en hmin kai mey hmwn estai eiv ton aiwna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the truth's sake, which dwells in us, and shall be with us for ever.
+Draft translation: For the truth's sake, which dwells in us, and shall be with us forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151360,7 +151360,7 @@ Greek: κυματα αγρια θαλασσης επαφριζοντα τας ε
 Transliteration: kumata agria yalasshv epafrizonta tav eautwn aiscunav asterev planhtai oiv o zofov tou skotouv eiv ton aiwna tethrhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
+Draft translation: Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness forever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151600,7 +151600,7 @@ Greek: μονω σοφω θεω σωτηρι ημων δοξα και μεγαλ
 Transliteration: monw sofw yew swthri hmwn doxa kai megalwsunh kratov kai exousia kai nun kai eiv pantav touv aiwnav amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.
+Draft translation: To the only wise God our Savior, be glory and majesty, dominion and power, both now and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151724,7 +151724,7 @@ Greek: και εποιησεν ημας βασιλεις και ιερεις τ�
 Transliteration: kai epoihsen hmav basileiv kai iereiv tw yew kai patri autou autw h doxa kai to kratov eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And has made us kings and priests to God and his Father; to him be glory and dominion for ever and ever. Amen.
+Draft translation: And has made us kings and priests to God and his Father; to him be glory and dominion forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152046,7 +152046,7 @@ Greek: οιδα τα εργα σου και τον κοπον σου και τη
 Transliteration: oida ta erga sou kai ton kopon sou kai thn upomonhn sou kai oti ou dunh bastasai kakouv kai epeirasw touv faskontav einai apostolouv kai ouk eisin kai eurev autouv qeudeiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I know your works, and your labour, and your patience, and how you can not bear those who are evil: and you have tried those who say they are apostles, and are not, and have found them liars:
+Draft translation: I know your works, and your labor, and your patience, and how you can not bear those who are evil: and you have tried those who say they are apostles, and are not, and have found them liars:
 
 Decision rows:
 - [TODO add decision rows]
@@ -152066,7 +152066,7 @@ Greek: και εβαστασας και υπομονην εχεις και δι�
 Transliteration: kai ebastasav kai upomonhn eceiv kai dia to onoma mou kekopiakav kai ou kekmhkav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And have borne, and have patience, and for my name's sake have laboured, and have not fainted.
+Draft translation: And have borne, and have patience, and for my name's sake have labored, and have not fainted.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152106,7 +152106,7 @@ Greek: μνημονευε ουν ποθεν εκπεπτωκας και μετα
 Transliteration: mnhmoneue oun poyen ekpeptwkav kai metanohson kai ta prwta erga poihson ei de mh ercomai soi tacu kai kinhsw thn lucnian sou ek tou topou authv ean mh metanohshv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Remember therefore from whence you are fallen, and repent, and do the first works; or else I will come to you quickly, and will remove your candlestick out of his place, except you repent.
+Draft translation: Remember therefore from where you are fallen, and repent, and do the first works; or else I will come to you quickly, and will remove your candlestick out of his place, except you repent.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153210,7 +153210,7 @@ Greek: και οταν δωσουσιν τα ζωα δοξαν και τιμην
 Transliteration: kai otan dwsousin ta zwa doxan kai timhn kai eucaristian tw kayhmenw epi tou yronou tw zwnti eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when those beasts give glory and honour and thanks to him who sat on the throne, who lives for ever and ever,
+Draft translation: And when those beasts give glory and honor and thanks to him who sat on the throne, who lives forever and ever,
 
 Decision rows:
 - [TODO add decision rows]
@@ -153230,7 +153230,7 @@ Greek: πεσουνται οι εικοσι και τεσσαρες πρεσβυ
 Transliteration: pesountai oi eikosi kai tessarev presbuteroi enwpion tou kayhmenou epi tou yronou kai proskunousin tw zwnti eiv touv aiwnav twn aiwnwn kai ballousin touv stefanouv autwn enwpion tou yronou legontev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The four and twenty elders fall down before him who sat on the throne, and worship him who lives for ever and ever, and cast their crowns before the throne, saying,
+Draft translation: The four and twenty elders fall down before him who sat on the throne, and worship him who lives forever and ever, and cast their crowns before the throne, saying,
 
 Decision rows:
 - [TODO add decision rows]
@@ -153250,7 +153250,7 @@ Greek: αξιος ει κυριε λαβειν την δοξαν και την �
 Transliteration: axiov ei kurie labein thn doxan kai thn timhn kai thn dunamin oti su ektisav ta panta kai dia to yelhma sou eisin kai ektisyhsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You are worthy, O Lord, to receive glory and honour and power: for you have created all things, and for your pleasure they are and were created.
+Draft translation: You are worthy, O Lord, to receive glory and honor and power: for you have created all things, and for your pleasure they are and were created.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153492,7 +153492,7 @@ Greek: λεγοντες φωνη μεγαλη αξιον εστιν το αρν�
 Transliteration: legontev fwnh megalh axion estin to arnion to esfagmenon labein thn dunamin kai plouton kai sofian kai iscun kai timhn kai doxan kai eulogian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Saying with a loud voice, Worthy is the Lamb that was killed to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
+Draft translation: Saying with a loud voice, Worthy is the Lamb that was killed to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153512,7 +153512,7 @@ Greek: και παν κτισμα ο εστιν εν τω ουρανω και ε
 Transliteration: kai pan ktisma o estin en tw ouranw kai en th gh kai upokatw thv ghv kai epi thv yalasshv a estin kai ta en autoiv panta hkousa legontav tw kayhmenw epi tou yronou kai tw arniw h eulogia kai h timh kai h doxa kai to kratov eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be to him who sits upon the throne, and to the Lamb for ever and ever.
+Draft translation: And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honor, and glory, and power, be to him who sits upon the throne, and to the Lamb forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153532,7 +153532,7 @@ Greek: και τα τεσσαρα ζωα ελεγον αμην και οι ει�
 Transliteration: kai ta tessara zwa elegon amhn kai oi eikositessarev presbuteroi epesan kai prosekunhsan zwnti eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him who lives for ever and ever.
+Draft translation: And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him who lives forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154116,7 +154116,7 @@ Greek: λεγοντες αμην η ευλογια και η δοξα και η 
 Transliteration: legontev amhn h eulogia kai h doxa kai h sofia kai h eucaristia kai h timh kai h dunamiv kai h iscuv tw yew hmwn eiv touv aiwnav twn aiwnwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be to our God for ever and ever. Amen.
+Draft translation: Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, be to our God forever and ever. Amen.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155022,7 +155022,7 @@ Greek: και ωμοσεν εν τω ζωντι εις τους αιωνας τ�
 Transliteration: kai wmosen en tw zwnti eiv touv aiwnav twn aiwnwn ov ektisen ton ouranon kai ta en autw kai thn ghn kai ta en auth kai thn yalassan kai ta en auth oti cronov ouk estai eti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And swore by him who lives for ever and ever, who created heaven, and the things that in it are, and the earth, and the things that in it are, and the sea, and the things which are in it, that there should be time no longer:
+Draft translation: And swore by him who lives forever and ever, who created heaven, and the things that in it are, and the earth, and the things that in it are, and the sea, and the things which are in it, that there should be time no longer:
 
 Decision rows:
 - [TODO add decision rows]
@@ -155424,7 +155424,7 @@ Greek: και ο εβδομος αγγελος εσαλπισεν και εγε�
 Transliteration: kai o ebdomov aggelov esalpisen kai egenonto fwnai megalai en tw ouranw legousai egenonto ai basileiai tou kosmou tou kuriou hmwn kai tou cristou autou kai basileusei eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
+Draft translation: And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156430,7 +156430,7 @@ Greek: και ο καπνος του βασανισμου αυτων αναβα�
 Transliteration: kai o kapnov tou basanismou autwn anabainei eiv aiwnav aiwnwn kai ouk ecousin anapausin hmerav kai nuktov oi proskunountev to yhrion kai thn eikona autou kai ei tiv lambanei to caragma tou onomatov autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the smoke of their torment ascends up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whoever receives the mark of his name.
+Draft translation: And the smoke of their torment ascends up forever and ever: and they have no rest day nor night, who worship the beast and his image, and whoever receives the mark of his name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156470,7 +156470,7 @@ Greek: και ηκουσα φωνης εκ του ουρανου λεγουση�
 Transliteration: kai hkousa fwnhv ek tou ouranou legoushv moi graqon makarioi oi nekroi oi en kuriw apoynhskontev aparti nai legei to pneuma ina anapauswntai ek twn kopwn autwn ta de erga autwn akolouyei met autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from now on: Yes, says the Spirit, that they may rest from their labours; and their works do follow them.
+Draft translation: And I heard a voice from heaven saying to me, Write, Blessed are the dead which die in the Lord from now on: Yes, says the Spirit, that they may rest from their labors; and their works do follow them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156752,7 +156752,7 @@ Greek: και εν εκ των τεσσαρων ζωων εδωκεν τοις �
 Transliteration: kai en ek twn tessarwn zwwn edwken toiv epta aggeloiv epta fialav crusav gemousav tou yumou tou yeou tou zwntov eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives for ever and ever.
+Draft translation: And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157276,7 +157276,7 @@ Greek: και η γυνη ην περιβεβλημενη πορφυρα και 
 Transliteration: kai h gunh hn peribeblhmenh porfura kai kokkinw kai kecruswmenh crusw kai liyw timiw kai margaritaiv ecousa crusoun pothrion en th ceiri authv gemon bdelugmatwn kai akayarthtov porneiav authv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her sexual immorality:
+Draft translation: And the woman was arrayed in purple and scarlet color, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her sexual immorality:
 
 Decision rows:
 - [TODO add decision rows]
@@ -158060,7 +158060,7 @@ Greek: και μετα ταυτα ηκουσα φωνην οχλου πολλο�
 Transliteration: kai meta tauta hkousa fwnhn oclou pollou megalhn en tw ouranw legontov allhlouia h swthria kai h doxa kai h timh kai h dunamiv kuriw tw yew hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, to the Lord our God:
+Draft translation: And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honor, and power, to the Lord our God:
 
 Decision rows:
 - [TODO add decision rows]
@@ -158100,7 +158100,7 @@ Greek: και δευτερον ειρηκαν αλληλουια και ο κα�
 Transliteration: kai deuteron eirhkan allhlouia kai o kapnov authv anabainei eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And again they said, Alleluia And her smoke rose up for ever and ever.
+Draft translation: And again they said, Alleluia And her smoke rose up forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158180,7 +158180,7 @@ Greek: χαιρωμεν και αγαλλιωμεθα και δωμεν την �
 Transliteration: cairwmen kai agalliwmeya kai dwmen thn doxan autw oti hlyen o gamov tou arniou kai h gunh autou htoimasen eauthn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb has come, and his wife has made herself ready.
+Draft translation: Let us be glad and rejoice, and give honor to him: for the marriage of the Lamb has come, and his wife has made herself ready.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158662,7 +158662,7 @@ Greek: και ο διαβολος ο πλανων αυτους εβληθη ει
 Transliteration: kai o diabolov o planwn autouv eblhyh eiv thn limnhn tou purov kai yeiou opou to yhrion kai o qeudoprofhthv kai basanisyhsontai hmerav kai nuktov eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.
+Draft translation: And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159244,7 +159244,7 @@ Greek: και τα εθνη των σωζομενων εν τω φωτι αυτ�
 Transliteration: kai ta eynh twn swzomenwn en tw fwti authv peripathsousin kai oi basileiv thv ghv ferousin thn doxan kai thn timhn autwn eiv authn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the nations of those who are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
+Draft translation: And the nations of those who are saved shall walk in the light of it: and the kings of the earth do bring their glory and honor into it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159284,7 +159284,7 @@ Greek: και οισουσιν την δοξαν και την τιμην των
 Transliteration: kai oisousin thn doxan kai thn timhn twn eynwn eiv authn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they shall bring the glory and honour of the nations into it.
+Draft translation: And they shall bring the glory and honor of the nations into it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159406,7 +159406,7 @@ Greek: και νυξ ουκ εσται εκει και χρειαν ουκ εχ�
 Transliteration: kai nux ouk estai ekei kai creian ouk ecousin lucnou kai fwtov hliou oti kuriov o yeov fwtizei autouv kai basileusousin eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God gives them light: and they shall reign for ever and ever.
+Draft translation: And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God gives them light: and they shall reign forever and ever.
 
 Decision rows:
 - [TODO add decision rows]

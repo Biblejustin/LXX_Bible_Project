@@ -4,37 +4,37 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 20,
-    "tr_literal_pass1": 5519,
-    "needs_focused_tr_review": 2418
+    "tr_literal_pass1": 5609,
+    "needs_focused_tr_review": 2328
   },
   "changed_by_book": {
-    "MAT": 806,
-    "MRK": 451,
-    "LUK": 764,
-    "JHN": 613,
-    "ACT": 635,
-    "ROM": 256,
-    "1CO": 293,
-    "2CO": 168,
-    "GAL": 96,
-    "EPH": 118,
+    "MAT": 811,
+    "MRK": 457,
+    "LUK": 776,
+    "JHN": 617,
+    "ACT": 642,
+    "ROM": 267,
+    "1CO": 297,
+    "2CO": 173,
+    "GAL": 98,
+    "EPH": 119,
     "PHP": 69,
     "COL": 70,
-    "1TH": 68,
+    "1TH": 70,
     "2TH": 34,
-    "1TI": 61,
-    "2TI": 44,
-    "TIT": 22,
-    "PHM": 14,
-    "HEB": 176,
-    "JAS": 80,
-    "1PE": 80,
-    "2PE": 43,
-    "1JN": 82,
-    "2JN": 9,
+    "1TI": 64,
+    "2TI": 46,
+    "TIT": 27,
+    "PHM": 15,
+    "HEB": 186,
+    "JAS": 81,
+    "1PE": 82,
+    "2PE": 46,
+    "1JN": 83,
+    "2JN": 10,
     "3JN": 10,
-    "JUD": 16,
-    "REV": 277
+    "JUD": 18,
+    "REV": 285
   },
   "rule_counts": {
     "manual TR literal override": 20,
@@ -53,7 +53,7 @@
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 261,
-    "UKJV seed retained; needs focused Greek review": 2418,
+    "UKJV seed retained; needs focused Greek review": 2328,
     "removed UKJV plural-expansion artifact": 1117,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
@@ -73,7 +73,7 @@
     "modernized an-hungered idiom": 9,
     "modernized sea-coast idiom": 2,
     "rendered ethne as nations": 94,
-    "modernized personal which as who": 211,
+    "modernized personal which as who": 212,
     "modernized them-which relative": 80,
     "modernized from-thence idiom": 16,
     "rendered ploion as boat": 43,
@@ -109,8 +109,10 @@
     "modernized any-man idiom": 101,
     "rendered chiton as tunic": 12,
     "modernized him-that relative": 143,
+    "modernized neighbour spelling": 21,
     "modernized them-that relative": 190,
     "rendered telones as tax collector": 22,
+    "modernized forever spelling": 51,
     "modernized no-man idiom": 140,
     "modernized fowls": 11,
     "modernized today spelling": 18,
@@ -123,6 +125,7 @@
     "modernized was-come perfect": 61,
     "modernized beseeching": 3,
     "rendered doulos-family wording as slave": 129,
+    "modernized marvelled spelling": 21,
     "rendered didaskalos as teacher": 47,
     "modernized besought": 33,
     "modernized everything spelling": 7,
@@ -139,13 +142,16 @@
     "modernized him-which relative": 12,
     "modernized wherein": 37,
     "rendered hades as Hades": 10,
+    "modernized labour spelling": 36,
     "modernized Sabbath-day wording": 30,
     "modernized corn as grain": 8,
+    "modernized from-whence idiom": 13,
     "modernized forthwith": 9,
     "modernized waxed-gross idiom": 2,
     "modernized he-which relative": 23,
     "rendered this aion as this age": 13,
     "rendered synteleia tou aionos as completion of the age": 5,
+    "modernized honour spelling": 52,
     "modernized damsel": 11,
     "modernized be-not-afraid imperative": 9,
     "modernized nigh": 44,
@@ -158,6 +164,7 @@
     "modernized anything spelling": 38,
     "cleaned forasmuch-as modernization artifact": 10,
     "modernized forasmuch": 14,
+    "fixed release participle artifact": 2,
     "modernized suffer-little-children idiom": 2,
     "modernized goodman-of-house idiom": 5,
     "modernized wrought": 23,
@@ -184,6 +191,7 @@
     "rendered alalos as mute": 1,
     "rendered coming aion as age to come": 2,
     "modernized hold-his-peace idiom": 3,
+    "modernized whereon": 5,
     "modernized come-to-pass idiom": 7,
     "modernized be-you-not imperative": 3,
     "modernized like-manner idiom": 5,
@@ -191,12 +199,15 @@
     "modernized whereby": 15,
     "modernized believe-not idiom": 16,
     "rendered siopao as silent": 1,
+    "modernized favour spelling": 7,
+    "modernized Saviour spelling": 24,
     "modernized from-henceforth idiom": 8,
     "modernized waxed-strong idiom": 2,
     "modernized kinsfolk": 1,
     "rendered enteuthen as from here": 3,
     "cleaned new-garment wording": 1,
     "modernized slain": 18,
+    "modernized which-now idiom": 1,
     "modernized touch-not idiom": 3,
     "modernized slay": 7,
     "modernized waxed idiom": 1,
@@ -219,6 +230,9 @@
     "rendered living/dead idiom": 1,
     "modernized waxed-bold idiom": 1,
     "modernized if-there-be idiom": 9,
+    "modernized colour spelling": 2,
+    "modernized under-color idiom": 1,
+    "modernized immoveable spelling": 2,
     "modernized things-which-be-not wording": 1,
     "rendered homoioma as likeness": 3,
     "modernized concupiscence": 3,
@@ -233,6 +247,8 @@
     "modernized conversation as conduct": 18,
     "modernized faint-not idiom": 4,
     "rendered epichoregeo as supply": 4,
+    "fixed be-release artifact": 1,
+    "modernized clamour spelling": 1,
     "modernized thereunto": 4,
     "rendered diakonos as servant": 3,
     "rendered episkopos as overseer": 4,
@@ -246,6 +262,7 @@
     "rendered Skythes as Scythian": 1,
     "modernized personal relative wording": 1,
     "modernized pornos wording": 4,
+    "modernized behaviour spelling": 2,
     "rendered diakoneo as serve": 2,
     "rendered homologia as confession": 4,
     "modernized waxed-valiant idiom": 1,
@@ -259,7 +276,7 @@
     "modernized no-more-at-all idiom": 4
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2418,
+  "review_queue_rows": 2328,
   "examples": {
     "manual TR literal override": [
       {
@@ -1247,7 +1264,7 @@
       {
         "ref": "Matthew 5:43",
         "book_code": "MAT",
-        "draft_translation": "You have heard that it has been said, You shall love your neighbour, and hate your enemy."
+        "draft_translation": "You have heard that it has been said, You shall love your neighbor, and hate your enemy."
       }
     ],
     "modernized thence": [
@@ -1293,7 +1310,7 @@
       {
         "ref": "Matthew 19:9",
         "book_code": "MAT",
-        "draft_translation": "And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her which is release does commit adultery."
+        "draft_translation": "And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her who has been released does commit adultery."
       },
       {
         "ref": "John 8:41",
@@ -1415,6 +1432,23 @@
         "draft_translation": "And, look, the whole city came out to meet Jesus: and when they saw him, they begged him who he would depart out of their borders."
       }
     ],
+    "modernized neighbour spelling": [
+      {
+        "ref": "Matthew 5:43",
+        "book_code": "MAT",
+        "draft_translation": "You have heard that it has been said, You shall love your neighbor, and hate your enemy."
+      },
+      {
+        "ref": "Matthew 19:19",
+        "book_code": "MAT",
+        "draft_translation": "Honor your father and your mother: and, You shall love your neighbor as yourself."
+      },
+      {
+        "ref": "Matthew 22:39",
+        "book_code": "MAT",
+        "draft_translation": "And the second is like to it, You shall love your neighbor as yourself."
+      }
+    ],
     "modernized them-that relative": [
       {
         "ref": "Matthew 5:44",
@@ -1429,7 +1463,7 @@
       {
         "ref": "Matthew 8:10",
         "book_code": "MAT",
-        "draft_translation": "When Jesus heard it, he marvelled, and said to those who followed, Amen, I say to you, I have not found so great faith, no, not in Israel."
+        "draft_translation": "When Jesus heard it, he marveled, and said to those who followed, Amen, I say to you, I have not found so great faith, no, not in Israel."
       }
     ],
     "rendered telones as tax collector": [
@@ -1447,6 +1481,23 @@
         "ref": "Matthew 9:10",
         "book_code": "MAT",
         "draft_translation": "And it happened, as Jesus reclined at table in the house, look, many tax collectors and sinners came and sat down with him and his disciples."
+      }
+    ],
+    "modernized forever spelling": [
+      {
+        "ref": "Matthew 6:13",
+        "book_code": "MAT",
+        "draft_translation": "And lead us not into temptation, but deliver us from evil: For your is the kingdom, and the power, and the glory, forever. Amen."
+      },
+      {
+        "ref": "Matthew 21:19",
+        "book_code": "MAT",
+        "draft_translation": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said to it, Let no fruit grow on you henceforward forever. And presently the fig tree withered away."
+      },
+      {
+        "ref": "Mark 11:14",
+        "book_code": "MRK",
+        "draft_translation": "And Jesus answered and said to it, No one eat fruit of you hereafter forever. And his disciples heard it."
       }
     ],
     "modernized no-man idiom": [
@@ -1643,6 +1694,23 @@
         "draft_translation": "It is enough for the disciple that he be as his teacher, and the slave as his Lord. If they have called the teacher of the house Beelzebub, how much more shall they call them of his household?"
       }
     ],
+    "modernized marvelled spelling": [
+      {
+        "ref": "Matthew 8:10",
+        "book_code": "MAT",
+        "draft_translation": "When Jesus heard it, he marveled, and said to those who followed, Amen, I say to you, I have not found so great faith, no, not in Israel."
+      },
+      {
+        "ref": "Matthew 8:27",
+        "book_code": "MAT",
+        "draft_translation": "But the men marveled, saying, What manner of man is this, that even the winds and the sea obey him!"
+      },
+      {
+        "ref": "Matthew 9:8",
+        "book_code": "MAT",
+        "draft_translation": "But when the crowds saw it, they marveled, and glorified God, who had given such power to men."
+      }
+    ],
     "rendered didaskalos as teacher": [
       {
         "ref": "Matthew 8:19",
@@ -1800,7 +1868,7 @@
       {
         "ref": "Matthew 9:33",
         "book_code": "MAT",
-        "draft_translation": "And when the demon was cast out, the mute spoke: and the crowds marvelled, saying, It was never so seen in Israel."
+        "draft_translation": "And when the demon was cast out, the mute spoke: and the crowds marveled, saying, It was never so seen in Israel."
       },
       {
         "ref": "Matthew 12:22",
@@ -1910,6 +1978,23 @@
         "draft_translation": "And you, Capernaum, which are exalted to heaven, shall be thrust down to Hades."
       }
     ],
+    "modernized labour spelling": [
+      {
+        "ref": "Matthew 11:28",
+        "book_code": "MAT",
+        "draft_translation": "Come to me, all you that labor and are heavy laden, and I will give you rest."
+      },
+      {
+        "ref": "John 4:38",
+        "book_code": "JHN",
+        "draft_translation": "I sent you to reap that on which you bestowed no labor: other men labored, and you are entered into their labors."
+      },
+      {
+        "ref": "John 6:27",
+        "book_code": "JHN",
+        "draft_translation": "Labor not for the food which perishes, but for that food which endures to eternal life, which the Son of man shall give to you: for him has God the Father sealed."
+      }
+    ],
     "modernized Sabbath-day wording": [
       {
         "ref": "Matthew 12:1",
@@ -1942,6 +2027,23 @@
         "ref": "Mark 4:28",
         "book_code": "MRK",
         "draft_translation": "For the earth produces fruit of herself; first the blade, then the ear, after that the full grain in the ear."
+      }
+    ],
+    "modernized from-whence idiom": [
+      {
+        "ref": "Matthew 12:44",
+        "book_code": "MAT",
+        "draft_translation": "Then he says, I will return into my house from where I came out; and when he has come, he finds it empty, swept, and garnished."
+      },
+      {
+        "ref": "Matthew 13:27",
+        "book_code": "MAT",
+        "draft_translation": "So the slaves of the householder came and said to him, Sir, did not you sow good seed in your field? from where then has it tares?"
+      },
+      {
+        "ref": "Mark 6:2",
+        "book_code": "MRK",
+        "draft_translation": "And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?"
       }
     ],
     "modernized forthwith": [
@@ -2024,6 +2126,23 @@
         "draft_translation": "And as he sat upon the mount of Olives, the disciples came to him privately, saying, Tell us, when shall these things be? and what shall be the sign of your coming, and of the completion of the age?"
       }
     ],
+    "modernized honour spelling": [
+      {
+        "ref": "Matthew 13:57",
+        "book_code": "MAT",
+        "draft_translation": "And they were offended in him. But Jesus said to them, A prophet is not without honor, save in his own country, and in his own house."
+      },
+      {
+        "ref": "Matthew 15:4",
+        "book_code": "MAT",
+        "draft_translation": "For God commanded, saying, Honor your father and mother: and, the one who curses father or mother, let him die the death."
+      },
+      {
+        "ref": "Matthew 15:6",
+        "book_code": "MAT",
+        "draft_translation": "And honor not his father or his mother, he shall be free. Thus have you made the commandment of God of no effect by your tradition."
+      }
+    ],
     "modernized damsel": [
       {
         "ref": "Matthew 14:11",
@@ -2089,7 +2208,7 @@
       {
         "ref": "Acts 2:47",
         "book_code": "ACT",
-        "draft_translation": "Praising God, and having favour with all the people. And the Lord added to the assembly daily such as should be saved."
+        "draft_translation": "Praising God, and having favor with all the people. And the Lord added to the assembly daily such as should be saved."
       }
     ],
     "modernized offence spelling": [
@@ -2140,7 +2259,7 @@
       {
         "ref": "Matthew 19:9",
         "book_code": "MAT",
-        "draft_translation": "And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her which is release does commit adultery."
+        "draft_translation": "And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her who has been released does commit adultery."
       }
     ],
     "cleaned must-essentially source artifact": [
@@ -2228,6 +2347,18 @@
         "draft_translation": "And since Lydda was near to Joppa, and the disciples had heard that Peter was there, they sent to him two men, desiring him who he would not delay to come to them."
       }
     ],
+    "fixed release participle artifact": [
+      {
+        "ref": "Matthew 19:9",
+        "book_code": "MAT",
+        "draft_translation": "And I say to you, Whoever shall release his wife, except it be for sexual immorality, and shall marry another, commits adultery: and whoever marries her who has been released does commit adultery."
+      },
+      {
+        "ref": "Luke 16:18",
+        "book_code": "LUK",
+        "draft_translation": "Whoever releases his wife, and marries another, commits adultery: and whoever marries her who has been released from her husband commits adultery."
+      }
+    ],
     "modernized suffer-little-children idiom": [
       {
         "ref": "Matthew 19:14",
@@ -2271,7 +2402,7 @@
       {
         "ref": "Mark 6:2",
         "book_code": "MRK",
-        "draft_translation": "And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?"
+        "draft_translation": "And when the Sabbath had come, he began to teach in the synagogue: and many hearing him were astonished, saying, from where has this man these things? and what wisdom is this which is given to him, that even such mighty works are worked by his hands?"
       }
     ],
     "modernized mine-own idiom": [
@@ -2630,6 +2761,23 @@
         "draft_translation": "If anything be revealed to another that sits by, let the first be silent."
       }
     ],
+    "modernized whereon": [
+      {
+        "ref": "Mark 11:2",
+        "book_code": "MRK",
+        "draft_translation": "And says to them, Go your way into the village opposite to you: and as soon as you be entered into it, you shall find a colt tied, on which never man sat; loose him, and bring him."
+      },
+      {
+        "ref": "Luke 4:29",
+        "book_code": "LUK",
+        "draft_translation": "And rose up, and thrust him out of the city, and led him to the brow of the hill on which their city was built, that they might cast him down headlong."
+      },
+      {
+        "ref": "Luke 5:25",
+        "book_code": "LUK",
+        "draft_translation": "And immediately he rose up before them, and took up that on which he lay, and departed to his own house, glorifying God."
+      }
+    ],
     "modernized come-to-pass idiom": [
       {
         "ref": "Mark 11:23",
@@ -2739,6 +2887,40 @@
         "draft_translation": "And, look, you shall be silent, and not able to speak, until the day that these things shall be performed, because you do not believe my words, which shall be fulfilled in their season."
       }
     ],
+    "modernized favour spelling": [
+      {
+        "ref": "Luke 1:28",
+        "book_code": "LUK",
+        "draft_translation": "And the angel came in to her, and said, Hail, you that are highly favored, the Lord is with you: blessed are you among women."
+      },
+      {
+        "ref": "Luke 1:30",
+        "book_code": "LUK",
+        "draft_translation": "And the angel said to her, do not fear, Mary: for you have found favor with God."
+      },
+      {
+        "ref": "Luke 2:52",
+        "book_code": "LUK",
+        "draft_translation": "And Jesus increased in wisdom and stature, and in favor with God and man."
+      }
+    ],
+    "modernized Saviour spelling": [
+      {
+        "ref": "Luke 1:47",
+        "book_code": "LUK",
+        "draft_translation": "And my spirit has rejoiced in God my Savior."
+      },
+      {
+        "ref": "Luke 2:11",
+        "book_code": "LUK",
+        "draft_translation": "For to you is born this day in the city of David a Savior, who is Christ the Lord."
+      },
+      {
+        "ref": "John 4:42",
+        "book_code": "JHN",
+        "draft_translation": "And said to the woman, Now we believe, not because of your saying: for we have heard him ourselves, and know that this is indeed the Christ, the Savior of the world."
+      }
+    ],
     "modernized from-henceforth idiom": [
       {
         "ref": "Luke 1:48",
@@ -2814,6 +2996,13 @@
         "ref": "Acts 5:36",
         "book_code": "ACT",
         "draft_translation": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was killed; and all, as many as obeyed him, were scattered, and brought to nothing."
+      }
+    ],
+    "modernized which-now idiom": [
+      {
+        "ref": "Luke 10:36",
+        "book_code": "LUK",
+        "draft_translation": "Which of these three, think you, was neighbor to him who fell among the thieves?"
       }
     ],
     "modernized touch-not idiom": [
@@ -2962,7 +3151,7 @@
       {
         "ref": "John 12:34",
         "book_code": "JHN",
-        "draft_translation": "The people answered him, We have heard out of the law that Christ abides for ever: and how do you say, The Son of man must be lifted up? who is this Son of man?"
+        "draft_translation": "The people answered him, We have heard out of the law that Christ abides forever: and how do you say, The Son of man must be lifted up? who is this Son of man?"
       },
       {
         "ref": "John 14:9",
@@ -3097,7 +3286,38 @@
       {
         "ref": "Romans 13:9",
         "book_code": "ROM",
-        "draft_translation": "For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there is any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbour as yourself."
+        "draft_translation": "For this, You shall not commit adultery, You shall not kill, You shall not steal, You shall not bear false witness, You shall not covet; and if there is any other commandment, it is briefly comprehended in this saying, namely, You shall love your neighbor as yourself."
+      }
+    ],
+    "modernized colour spelling": [
+      {
+        "ref": "Acts 27:30",
+        "book_code": "ACT",
+        "draft_translation": "And as the sailors were about to flee out of the boat, when they had let down the boat into the sea, under pretense as though they would have cast anchors out of the bow,"
+      },
+      {
+        "ref": "Revelation 17:4",
+        "book_code": "REV",
+        "draft_translation": "And the woman was arrayed in purple and scarlet color, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her sexual immorality:"
+      }
+    ],
+    "modernized under-color idiom": [
+      {
+        "ref": "Acts 27:30",
+        "book_code": "ACT",
+        "draft_translation": "And as the sailors were about to flee out of the boat, when they had let down the boat into the sea, under pretense as though they would have cast anchors out of the bow,"
+      }
+    ],
+    "modernized immoveable spelling": [
+      {
+        "ref": "Acts 27:41",
+        "book_code": "ACT",
+        "draft_translation": "And falling into a place where two seas met, they ran the ship aground; and the front part stuck fast, and remained immovable, but the hinder part was broken with the violence of the waves."
+      },
+      {
+        "ref": "1 Corinthians 15:58",
+        "book_code": "1CO",
+        "draft_translation": "Therefore, my beloved brothers, be you steadfast, immovable, always abounding in the work of the Lord, since you know that your labor is not in vain in the Lord."
       }
     ],
     "modernized things-which-be-not wording": [
@@ -3298,6 +3518,20 @@
         "draft_translation": "And not holding the Head, from which all the body by joints and bands having nourishment supplied, and knit together, increases with the increase of God."
       }
     ],
+    "fixed be-release artifact": [
+      {
+        "ref": "Ephesians 4:31",
+        "book_code": "EPH",
+        "draft_translation": "Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be removed from you, with all malice:"
+      }
+    ],
+    "modernized clamour spelling": [
+      {
+        "ref": "Ephesians 4:31",
+        "book_code": "EPH",
+        "draft_translation": "Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be removed from you, with all malice:"
+      }
+    ],
     "modernized thereunto": [
       {
         "ref": "Ephesians 6:18",
@@ -3341,7 +3575,7 @@
       {
         "ref": "1 Timothy 3:2",
         "book_code": "1TI",
-        "draft_translation": "An overseer then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, able to teach;"
+        "draft_translation": "An overseer then must be blameless, the husband of one wife, vigilant, sober, of good behavior, given to hospitality, able to teach;"
       },
       {
         "ref": "Titus 1:7",
@@ -3444,6 +3678,18 @@
         "draft_translation": "But the fearful, and unbelieving, and the abominable, and murderers, and sexually immoral, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burns with fire and brimstone: which is the second death."
       }
     ],
+    "modernized behaviour spelling": [
+      {
+        "ref": "1 Timothy 3:2",
+        "book_code": "1TI",
+        "draft_translation": "An overseer then must be blameless, the husband of one wife, vigilant, sober, of good behavior, given to hospitality, able to teach;"
+      },
+      {
+        "ref": "Titus 2:3",
+        "book_code": "TIT",
+        "draft_translation": "The aged women likewise, that they be in behavior as becomes holiness, not false accusers, not given to much wine, teachers of good things;"
+      }
+    ],
     "rendered diakoneo as serve": [
       {
         "ref": "1 Timothy 3:10",
@@ -3524,7 +3770,7 @@
       {
         "ref": "Revelation 15:7",
         "book_code": "REV",
-        "draft_translation": "And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives for ever and ever."
+        "draft_translation": "And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever."
       },
       {
         "ref": "Revelation 16:1",

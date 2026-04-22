@@ -198,6 +198,7 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bno more at all\b", "no longer", "modernized no-more-at-all idiom"),
         (r"\bin like manner\b", "likewise", "modernized like-manner idiom"),
         (r"\bwhereof\b", "of which", "modernized whereof"),
+        (r"\bwhereon\b", "on which", "modernized whereon"),
         (r"\bthereof\b", "of it", "modernized thereof"),
         (r"\bthereby\b", "by it", "modernized thereby"),
         (r"\bhereby\b", "by this", "modernized hereby"),
@@ -212,11 +213,17 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bthings which be not\b", "things that are not", "modernized things-which-be-not wording"),
         (r"\bFather also which\b", "Father also who", "modernized personal which as who"),
         (r"\bFather himself, which\b", "Father himself, who", "modernized personal which as who"),
+        (r"\bSavior, which\b", "Savior, who", "modernized personal which as who"),
         (r"\bthe Father's will which has sent me\b", "the will of the Father who sent me", "fixed Father's-will relative wording"),
         (r"\bbaptized, which have received\b", "baptized, who have received", "modernized personal which as who"),
         (r"\bevery one which\b", "everyone who", "modernized every-one-which relative"),
         (r"\bany one which\b", "anyone who", "modernized any-one-which relative"),
         (r"\bsuch an one\b", "such a one", "modernized such-an-one idiom"),
+        (r"\bfrom whence\b", "from where", "modernized from-whence idiom"),
+        (r"\bfor ever\b", "forever", "modernized forever spelling"),
+        (r"\bbe release from you\b", "be removed from you", "fixed be-release artifact"),
+        (r"\bunder color as though\b", "under pretense as though", "modernized under-color idiom"),
+        (r"\bWhich now of these\b", "Which of these", "modernized which-now idiom"),
     ]
     for pattern, replacement, note in phrase_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
@@ -277,6 +284,25 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         ("coast", "border", "modernized coast as border"),
         ("offence", "offense", "modernized offence spelling"),
         ("offences", "offenses", "modernized offence spelling"),
+        ("Saviour", "Savior", "modernized Saviour spelling"),
+        ("honours", "honors", "modernized honour spelling"),
+        ("honoured", "honored", "modernized honour spelling"),
+        ("honour", "honor", "modernized honour spelling"),
+        ("labours", "labors", "modernized labour spelling"),
+        ("laboured", "labored", "modernized labour spelling"),
+        ("labouring", "laboring", "modernized labour spelling"),
+        ("labour", "labor", "modernized labour spelling"),
+        ("neighbours", "neighbors", "modernized neighbour spelling"),
+        ("neighbour", "neighbor", "modernized neighbour spelling"),
+        ("favours", "favors", "modernized favour spelling"),
+        ("favoured", "favored", "modernized favour spelling"),
+        ("favour", "favor", "modernized favour spelling"),
+        ("marvelled", "marveled", "modernized marvelled spelling"),
+        ("marvelling", "marveling", "modernized marvelling spelling"),
+        ("clamour", "clamor", "modernized clamour spelling"),
+        ("behaviour", "behavior", "modernized behaviour spelling"),
+        ("colour", "color", "modernized colour spelling"),
+        ("immoveable", "immovable", "modernized immoveable spelling"),
         ("unblameable", "blameless", "modernized unblameable"),
         ("irreproachable", "above reproach", "modernized irreproachable"),
         ("embodiment", "likeness", "rendered homoioma as likeness"),
@@ -302,6 +328,11 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
         (r"\bnew clothing\b", "new garment", "cleaned new-garment wording"),
         (r"\bevery thing\b", "everything", "modernized everything spelling"),
         (r"\bany thing\b", "anything", "modernized anything spelling"),
+        (r"\bbe release from you\b", "be removed from you", "fixed be-release artifact"),
+        (r"\bher which is release\b", "her who has been released", "fixed release participle artifact"),
+        (r"\bher that is release from her husband\b", "her who has been released from her husband", "fixed release participle artifact"),
+        (r"\bSavior, which\b", "Savior, who", "modernized personal which as who"),
+        (r"\bunder color as though\b", "under pretense as though", "modernized under-color idiom"),
         (
             r"\b(God|Father|Lord|Christ|Jesus|Son|man|men|woman|women|child|children|people|priest|priests|scribe|scribes|Pharisee|Pharisees|disciple|disciples|angel|angels|prophet|prophets) which\b",
             r"\1 who",
@@ -340,7 +371,11 @@ def apply_general_revisions(text: str, notes: list[str]) -> str:
     text = replace_word(text, "any man", "anyone", "modernized any-man idiom", notes)
     text = replace_literal(text, r"\bwas minded to\b", "resolved to", "modernized was-minded idiom", notes)
     text = replace_literal(text, r"\bput her away\b", "release her", "aligned apoluo with release", notes)
+    text = replace_literal(text, r"\bputs away\b", "releases", "aligned apoluo with release", notes)
     text = replace_literal(text, r"\bput away\b", "release", "aligned apoluo with release", notes)
+    text = replace_literal(text, r"\bbe release from you\b", "be removed from you", "fixed be-release artifact", notes, flags=re.I)
+    text = replace_literal(text, r"\bher which is release\b", "her who has been released", "fixed release participle artifact", notes, flags=re.I)
+    text = replace_literal(text, r"\bher that is release from her husband\b", "her who has been released from her husband", "fixed release participle artifact", notes, flags=re.I)
     text = replace_literal(text, r"\bmake a public example\b", "expose publicly", "literalized paradeigmatizo wording", notes)
     return text
 
