@@ -24050,7 +24050,7 @@ And at the seventh circuit the priests sounded, and Joshua said to the sons of I
 
 **Joshua 6:17**
 
-And the city shall be a devoted thing, it and everything in it, to the Lord Sabaoth. Only Rahab the prostitute you shall preserve, her and whatever is in her house.
+And the city shall be a devoted thing, it and everything in it, to the Lord of hosts. Only Rahab the prostitute you shall preserve, her and whatever is in her house.
 
 **Joshua 6:18**
 
@@ -39246,7 +39246,7 @@ And he went from there and found Ionadab son of Rechab on the way to meet him an
 
 **2 Kings 10:16**
 
-And he said to him, Come with me and see in my zeal for the Lord Sabaoth. And he seated him in his chariot.
+And he said to him, Come with me and see in my zeal for the Lord of hosts. And he seated him in his chariot.
 
 **2 Kings 10:17**
 
@@ -71438,7 +71438,7 @@ Daughter of Zion will be left as tent in vineyard, and as watch-hut in cucumber 
 
 **Isaiah 1:9**
 
-Unless Lord Sabaoth had left us seed, we would have become as Sodom and been made like Gomorrah.
+Unless Lord of hosts had left us seed, we would have become as Sodom and been made like Gomorrah.
 
 **Isaiah 1:10**
 
@@ -71498,7 +71498,7 @@ Your rulers disobey, companions of thieves, loving gifts, pursuing repayment; no
 
 **Isaiah 1:24**
 
-Therefore thus says Master, Lord Sabaoth, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
+Therefore thus says Master, Lord of hosts, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
 
 **Isaiah 1:25**
 
@@ -71576,7 +71576,7 @@ For eyes of Lord high, but man low, and height of men will be humbled, and Lord 
 
 **Isaiah 2:12**
 
-For day of Lord Sabaoth upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
+For day of Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 
 **Isaiah 2:13**
 
@@ -71618,7 +71618,7 @@ To enter hollows of solid rock and fissures of rocks from face of fear of Lord a
 
 **Isaiah 3:1**
 
-Look now, Master Lord Sabaoth will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
+Look now, Master Lord of hosts will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
 
 **Isaiah 3:2**
 
@@ -71774,7 +71774,7 @@ And I will leave my vineyard, and it shall certainly not be pruned nor dug, and 
 
 **Isaiah 5:7**
 
-For vineyard of Lord Sabaoth = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
+For vineyard of Lord of hosts = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
 
 **Isaiah 5:8**
 
@@ -71782,7 +71782,7 @@ Woe those joining house to house and bringing field near to field, to take somet
 
 **Isaiah 5:9**
 
-For these things were heard in ears of Lord Sabaoth: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
+For these things were heard in ears of Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
 
 **Isaiah 5:10**
 
@@ -71810,7 +71810,7 @@ And man will be humbled and male will be dishonored, and lofty eyes will be humb
 
 **Isaiah 5:16**
 
-And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
+And the Lord of hosts will be exalted in judgment, and the Holy God will be glorified in righteousness.
 
 **Isaiah 5:17**
 
@@ -71842,11 +71842,11 @@ those justifying ungodly for gifts and taking away right of righteous.
 
 **Isaiah 5:24**
 
-Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of Lord Sabaoth but provoked oracle of Holy One of Israel.
+Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of Lord of hosts but provoked oracle of Holy One of Israel.
 
 **Isaiah 5:25**
 
-And Lord Sabaoth was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
+And Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
 
 **Isaiah 5:26**
 
@@ -71880,7 +71880,7 @@ And seraphim stood around him; six wings to one and six wings to one; with two t
 
 **Isaiah 6:3**
 
-And one cried to another and said, Holy, holy, holy, Lord Sabaoth; whole earth full of his glory.
+And one cried to another and said, Holy, holy, holy, Lord of hosts; whole earth full of his glory.
 
 **Isaiah 6:4**
 
@@ -71888,7 +71888,7 @@ And lintel was raised from voice with which they cried, and house was filled wit
 
 **Isaiah 6:5**
 
-And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw king Lord Sabaoth with my eyes.
+And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw king Lord of hosts with my eyes.
 
 **Isaiah 6:6**
 
@@ -71950,7 +71950,7 @@ We will go up into Judah and by speaking with them turn them toward us, and we w
 
 **Isaiah 7:7**
 
-Thus says Lord Sabaoth: This counsel will certainly not remain, nor shall it be.
+Thus says Lord of hosts: This counsel will certainly not remain, nor shall it be.
 
 **Isaiah 7:8**
 
@@ -72096,7 +72096,7 @@ And he will say, I will wait for God who turned his face from house of Jacob, an
 
 **Isaiah 8:18**
 
-Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from Lord Sabaoth who dwells on Mount Zion.
+Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from Lord of hosts who dwells on Mount Zion.
 
 **Isaiah 8:19**
 
@@ -72142,7 +72142,7 @@ Because child was born to us, son was given to us, whose rule became upon his sh
 
 **Isaiah 9:6**
 
-Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
+Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord of hosts will do these things.
 
 **Isaiah 9:7**
 
@@ -72264,7 +72264,7 @@ Will axe be glorified without one chopping with it, or saw be lifted up without 
 
 **Isaiah 10:16**
 
-And not thus, but Lord Sabaoth will send dishonor into your honor, and under your glory burning fire will be burned.
+And not thus, but Lord of hosts will send dishonor into your honor, and under your glory burning fire will be burned.
 
 **Isaiah 10:17**
 
@@ -72296,7 +72296,7 @@ Because God will make cut-short word in whole inhabited world.
 
 **Isaiah 10:24**
 
-Therefore thus says Lord Sabaoth, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see way of Egypt.
+Therefore thus says Lord of hosts, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see way of Egypt.
 
 **Isaiah 10:25**
 
@@ -72332,7 +72332,7 @@ Today on road to remain, with hand he calls to mountain, daughter of Zion, and h
 
 **Isaiah 10:33**
 
-For look, Master Lord Sabaoth shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
+For look, Master Lord of hosts shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
 
 **Isaiah 10:34**
 
@@ -72446,7 +72446,7 @@ I command, and I bring them; they are sanctified, and I bring them. Giants come 
 
 **Isaiah 13:4**
 
-Voice of many nations on mountains, like many nations; voice of kings and nations gathered together. Lord Sabaoth has commanded warlike nation
+Voice of many nations on mountains, like many nations; voice of kings and nations gathered together. Lord of hosts has commanded warlike nation
 
 **Isaiah 13:5**
 
@@ -72482,7 +72482,7 @@ And those left behind will be more precious than untried gold, and man will be m
 
 **Isaiah 13:13**
 
-For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of Lord Sabaoth in day when his anger comes.
+For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of Lord of hosts in day when his anger comes.
 
 **Isaiah 13:14**
 
@@ -72608,7 +72608,7 @@ Prepare your children to be slaughtered for sins of your father, so that they do
 
 **Isaiah 14:22**
 
-And I will rise against them, says Lord Sabaoth, and I will destroy from them name and remnant and seed, thus says Lord.
+And I will rise against them, says Lord of hosts, and I will destroy from them name and remnant and seed, thus says Lord.
 
 **Isaiah 14:23**
 
@@ -72616,7 +72616,7 @@ And I will make Babylonia desolate for hedgehogs to dwell and it will be for not
 
 **Isaiah 14:24**
 
-Thus says Lord Sabaoth: As I have spoken, so it will be, and as I have counseled, so it remains,
+Thus says Lord of hosts: As I have spoken, so it will be, and as I have counseled, so it remains,
 
 **Isaiah 14:25**
 
@@ -72758,7 +72758,7 @@ Left forever for bed of flocks and rest, and there will not be one pursuing.
 
 **Isaiah 17:3**
 
-And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says Lord Sabaoth.
+And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says Lord of hosts.
 
 **Isaiah 17:4**
 
@@ -72832,7 +72832,7 @@ And he will leave them together to birds of heaven and beasts of earth, and bird
 
 **Isaiah 18:7**
 
-At that time gifts will be brought to Lord Sabaoth from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of Lord Sabaoth was invoked, Mount Zion.
+At that time gifts will be brought to Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of Lord of hosts was invoked, Mount Zion.
 
 ### Chapter 19
 
@@ -72850,7 +72850,7 @@ And spirit of Egyptians will be troubled within them, and I will scatter their c
 
 **Isaiah 19:4**
 
-And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says Lord Sabaoth.
+And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says Lord of hosts.
 
 **Isaiah 19:5**
 
@@ -72882,7 +72882,7 @@ And princes of Tanis will be fools, wise counselors of king; their counsel will 
 
 **Isaiah 19:12**
 
-Where now are your wise men? Let them announce to you and tell what Lord Sabaoth has counseled against Egypt.
+Where now are your wise men? Let them announce to you and tell what Lord of hosts has counseled against Egypt.
 
 **Isaiah 19:13**
 
@@ -72898,7 +72898,7 @@ And there will not be for Egyptians work which head and tail, beginning and end,
 
 **Isaiah 19:16**
 
-In that day Egyptians will be as women, in fear and trembling from face of hand of Lord Sabaoth which he himself lays upon them.
+In that day Egyptians will be as women, in fear and trembling from face of hand of Lord of hosts which he himself lays upon them.
 
 **Isaiah 19:17**
 
@@ -72934,7 +72934,7 @@ In that day Israel will be third among Assyrians and Egyptians, blessed in land
 
 **Isaiah 19:25**
 
-which Lord Sabaoth blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
+which Lord of hosts blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
 
 ### Chapter 20
 
@@ -73002,7 +73002,7 @@ And look, he comes, rider of pair. And answering he said, Babylon has fallen, an
 
 **Isaiah 21:10**
 
-Hear, you left behind and you being pained; hear what Lord Sabaoth, God of Israel, announced to us.
+Hear, you left behind and you being pained; hear what Lord of hosts, God of Israel, announced to us.
 
 **Isaiah 21:11**
 
@@ -73052,7 +73052,7 @@ Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort
 
 **Isaiah 22:5**
 
-Because day of trouble and destruction and trampling and wandering from Lord Sabaoth in valley of Zion; they wander from small to great, they wander on mountains.
+Because day of trouble and destruction and trampling and wandering from Lord of hosts in valley of Zion; they wander from small to great, they wander on mountains.
 
 **Isaiah 22:6**
 
@@ -73080,7 +73080,7 @@ And you made water for yourselves between two walls inside old pool, and you did
 
 **Isaiah 22:12**
 
-And Lord Sabaoth called in that day for weeping and mourning and shaving and girding of sackcloth.
+And Lord of hosts called in that day for weeping and mourning and shaving and girding of sackcloth.
 
 **Isaiah 22:13**
 
@@ -73088,11 +73088,11 @@ But they made gladness and rejoicing, slaughtering calves and sacrificing sheep,
 
 **Isaiah 22:14**
 
-And these things are uncovered in ears of Lord Sabaoth: this sin will certainly not be forgiven you until you die.
+And these things are uncovered in ears of Lord of hosts: this sin will certainly not be forgiven you until you die.
 
 **Isaiah 22:15**
 
-Thus says Lord Sabaoth: Go into chamber to Sobna the steward and say to him,
+Thus says Lord of hosts: Go into chamber to Sobna the steward and say to him,
 
 **Isaiah 22:16**
 
@@ -73100,7 +73100,7 @@ What do you have here, and what is here to you, that you cut out for yourself he
 
 **Isaiah 22:17**
 
-Look now, Lord Sabaoth will throw out and pulverize man and remove your robe.
+Look now, Lord of hosts will throw out and pulverize man and remove your robe.
 
 **Isaiah 22:18**
 
@@ -73132,7 +73132,7 @@ And whole glorious thing in house of his father will be trusting on him, from sm
 
 **Isaiah 22:25**
 
-In that day, thus says Lord Sabaoth, man supported in trustworthy place will be shaken, and he will fall, and glory upon him will be removed, because Lord spoke.
+In that day, thus says Lord of hosts, man supported in trustworthy place will be shaken, and he will fall, and glory upon him will be removed, because Lord spoke.
 
 ### Chapter 23
 
@@ -73170,7 +73170,7 @@ Who planned these things against Tyre? Is she not lesser, or does she not prevai
 
 **Isaiah 23:9**
 
-Lord Sabaoth counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
+Lord of hosts counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
 
 **Isaiah 23:10**
 
@@ -73178,7 +73178,7 @@ Work your land, for ship no longer comes from Carthage.
 
 **Isaiah 23:11**
 
-And your hand, the one provoking kings, no longer has strength over the sea. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+And your hand, the one provoking kings, no longer has strength over the sea. Lord of hosts commanded concerning Canaan to destroy her strength.
 
 **Isaiah 23:12**
 
@@ -73326,7 +73326,7 @@ They will bless you as faint-hearted thirsty men in Zion, from ungodly men to wh
 
 **Isaiah 25:6**
 
-And Lord Sabaoth will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
+And Lord of hosts will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
 
 **Isaiah 25:7**
 
@@ -73512,7 +73512,7 @@ And fallen flower of hope of glory on top of high mountain will be like early fi
 
 **Isaiah 28:5**
 
-In that day Lord Sabaoth will be crown of hope, woven thing of glory, to remnant of my people.
+In that day Lord of hosts will be crown of hope, woven thing of glory, to remnant of my people.
 
 **Isaiah 28:6**
 
@@ -73580,7 +73580,7 @@ As mountain of ungodly he will rise, and he will be in valley of Gibeon with wra
 
 **Isaiah 28:22**
 
-And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from Lord Sabaoth, what he will do upon whole earth.
+And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from Lord of hosts, what he will do upon whole earth.
 
 **Isaiah 28:23**
 
@@ -73608,7 +73608,7 @@ With bread it will be eaten; for not forever will I be angry with you, nor voice
 
 **Isaiah 28:29**
 
-And these things came out from Lord Sabaoth: counsel wonders; lift vain comfort high.
+And these things came out from Lord of hosts: counsel wonders; lift vain comfort high.
 
 ### Chapter 29
 
@@ -73634,7 +73634,7 @@ And wealth of ungodly will be as dust from wheel and as carried chaff, and it wi
 
 **Isaiah 29:6**
 
-For from Lord Sabaoth there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
+For from Lord of hosts there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
 
 **Isaiah 29:7**
 
@@ -73858,7 +73858,7 @@ Egyptian = man and not God, flesh of horses and there is no help. But Lord will 
 
 **Isaiah 31:4**
 
-Because thus Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus Lord Sabaoth will come down to campaign against Mount Zion and her mountains.
+Because thus Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus Lord of hosts will come down to campaign against Mount Zion and her mountains.
 
 **Isaiah 31:5**
 
@@ -74326,7 +74326,7 @@ And Hezekiah prayed to Lord, saying,
 
 **Isaiah 37:16**
 
-Lord Sabaoth, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
+Lord of hosts, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
 
 **Isaiah 37:17**
 
@@ -74390,7 +74390,7 @@ And those left in Judah will put forth root down and make seed upward.
 
 **Isaiah 37:32**
 
-Because from Jerusalem those left will go out and those being saved from Mount Zion. Zeal of Lord Sabaoth will do these things.
+Because from Jerusalem those left will go out and those being saved from Mount Zion. Zeal of Lord of hosts will do these things.
 
 **Isaiah 37:33**
 
@@ -74526,7 +74526,7 @@ And Isaiah said, What did they see in your house? And Hezekiah said, They saw al
 
 **Isaiah 39:5**
 
-And Isaiah said to him, Hear word of Lord Sabaoth.
+And Isaiah said to him, Hear word of Lord of hosts.
 
 **Isaiah 39:6**
 
@@ -75024,7 +75024,7 @@ This one will say, I belong to God; and this one will cry out in name of Jacob; 
 
 **Isaiah 44:6**
 
-Thus says God, king of Israel, one rescuing him, God Sabaoth: I first, and I after these things; besides me no god exists.
+Thus says God, king of Israel, one rescuing him, God of hosts: I first, and I after these things; besides me no god exists.
 
 **Isaiah 44:7**
 
@@ -75166,11 +75166,11 @@ I made earth and humankind on it. I with my hand fixed heaven; I commanded all s
 
 **Isaiah 45:13**
 
-I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says Lord Sabaoth.
+I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says Lord of hosts.
 
 **Isaiah 45:14**
 
-Thus says Lord Sabaoth: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
+Thus says Lord of hosts: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
 
 **Isaiah 45:15**
 
@@ -75286,7 +75286,7 @@ Your shame will be uncovered, your reproaches seen. From you I will take justice
 
 **Isaiah 47:4**
 
-Said your rescuer, Lord Sabaoth, Holy One of Israel his name.
+Said your rescuer, Lord of hosts, Holy One of Israel his name.
 
 **Isaiah 47:5**
 
@@ -75340,7 +75340,7 @@ Hear these things, house of Jacob, those called by name of Israel and come out o
 
 **Isaiah 48:2**
 
-And holding fast to name of holy city and leaning on God of Israel; Lord Sabaoth his name.
+And holding fast to name of holy city and leaning on God of Israel; Lord of hosts his name.
 
 **Isaiah 48:3**
 
@@ -75634,7 +75634,7 @@ For in being saved you will not stand still nor delay.
 
 **Isaiah 51:15**
 
-Because I am your God, stirring sea and sounding its waves. Lord Sabaoth my name.
+Because I am your God, stirring sea and sounding its waves. Lord of hosts my name.
 
 **Isaiah 51:16**
 
@@ -75800,7 +75800,7 @@ Do not fear, because you were put to shame; do not be disgraced, because you wer
 
 **Isaiah 54:5**
 
-Because Lord making you, Lord Sabaoth his name, and one rescuing you, he God of Israel, will be called God of all earth.
+Because Lord making you, Lord of hosts his name, and one rescuing you, he God of Israel, will be called God of all earth.
 
 **Isaiah 54:6**
 
@@ -78860,7 +78860,7 @@ Behold, days come, says Lord, and I will raise up for David a righteous dawning,
 
 **Jeremiah 23:6**
 
-In his days Judah will be saved and Israel will camp in confidence, and this is his name which Lord will call him: Josedek.
+In his days Judah will be saved and Israel will camp in confidence, and this is his name which Lord will call him: The Lord Is Righteous.
 
 **Jeremiah 23:7**
 
@@ -79158,7 +79158,7 @@ Mount the horses. Prepare chariots. Go out, warriors, Ethiopians and Libyans arm
 
 **Jeremiah 26:10**
 
-And that day belongs to Lord our God, day of vengeance to avenge his enemies, and sword of Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to Lord Sabaoth from land of north by river Euphrates.
+And that day belongs to Lord our God, day of vengeance to avenge his enemies, and sword of Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to Lord of hosts from land of north by river Euphrates.
 
 **Jeremiah 26:11**
 
@@ -83320,7 +83320,7 @@ And glory of Lord went up from cherubim to forecourt of house, and cloud filled 
 
 **Ezekiel 10:5**
 
-And sound of wings of cherubim was heard as far as outer court, like voice of God Shaddai speaking.
+And sound of wings of cherubim was heard as far as outer court, like voice of God Almighty speaking.
 
 **Ezekiel 10:6**
 

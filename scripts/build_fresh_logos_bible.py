@@ -295,6 +295,7 @@ class NameMeaningNote:
     text: str
     note_type: str
     case_sensitive: bool = True
+    chapter_scannable: bool = True
 
     @property
     def display_text(self) -> str:
@@ -1132,6 +1133,28 @@ def short_variant_phrase(value: str) -> str:
     return f"{truncated}..."
 
 
+SOURCE_REF_ONLY_DIVINE_NOTE_MARKERS = (
+    "at the hebrew",
+    "at the el shaddai",
+    "at job",
+    "does not preserve",
+    "preserves saddai here",
+    "hagar's title",
+    "bethel title",
+    "renders yahweh",
+    "city-name line",
+    "lxx has iosedek",
+    "messianic title differs",
+)
+
+
+def should_scan_divine_note_by_chapter(language: str, note: str) -> bool:
+    if language != "Greek LXX":
+        return True
+    lowered = note.casefold()
+    return not any(marker in lowered for marker in SOURCE_REF_ONLY_DIVINE_NOTE_MARKERS)
+
+
 def load_name_meaning_notes(
     *,
     proper_names_path: Path,
@@ -1212,6 +1235,7 @@ def load_name_meaning_notes(
         reader = csv.DictReader(raw.splitlines())
         for row in reader:
             counts["name_of_god_rows"] += 1
+            language = normalize_space(row.get("language", ""))
             ref = normalize_note_ref(row.get("first_reference", ""))
             lemma = normalize_space(row.get("lemma", ""))
             transliteration = normalize_space(row.get("transliteration", ""))
@@ -1222,7 +1246,8 @@ def load_name_meaning_notes(
                 counts["name_of_god_skipped"] += 1
                 continue
             label = transliteration or lemma or renderings
-            pieces = [f"Divine name/title: {label}"]
+            prefix = f"{language} divine name/title" if language else "Divine name/title"
+            pieces = [f"{prefix}: {label}"]
             if lemma:
                 pieces[-1] += f" ({lemma})"
             if meaning:
@@ -1240,6 +1265,7 @@ def load_name_meaning_notes(
                     text=" ".join(pieces),
                     note_type="divine_name",
                     case_sensitive=True,
+                    chapter_scannable=should_scan_divine_note_by_chapter(language, note),
                 )
             )
             counts["name_of_god_included"] += 1
@@ -1253,6 +1279,8 @@ def load_name_meaning_notes(
 
 
 def is_chapter_scannable_name_note(note: NameMeaningNote) -> bool:
+    if not note.chapter_scannable:
+        return False
     if note.note_type != "divine_name":
         return True
     # Single-word divine renderings are too ambiguous to infer from English alone
