@@ -3,23 +3,23 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 30,
-    "tr_literal_pass1": 5723,
-    "needs_focused_tr_review": 2204
+    "tr_literal_manual": 31,
+    "tr_literal_pass1": 5755,
+    "needs_focused_tr_review": 2171
   },
   "changed_by_book": {
-    "MAT": 823,
-    "MRK": 474,
-    "LUK": 801,
-    "JHN": 631,
-    "ACT": 654,
+    "MAT": 838,
+    "MRK": 475,
+    "LUK": 803,
+    "JHN": 632,
+    "ACT": 660,
     "ROM": 275,
-    "1CO": 303,
+    "1CO": 305,
     "2CO": 176,
     "GAL": 101,
     "EPH": 120,
-    "PHP": 72,
-    "COL": 72,
+    "PHP": 73,
+    "COL": 73,
     "1TH": 70,
     "2TH": 36,
     "1TI": 64,
@@ -28,25 +28,25 @@
     "PHM": 17,
     "HEB": 193,
     "JAS": 81,
-    "1PE": 82,
+    "1PE": 83,
     "2PE": 47,
     "1JN": 83,
     "2JN": 10,
     "3JN": 10,
     "JUD": 19,
-    "REV": 292
+    "REV": 295
   },
   "rule_counts": {
-    "manual TR literal override": 30,
+    "manual TR literal override": 31,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 228,
     "rendered general brings-forth as produces": 29,
-    "modernized archaic directional unto": 2079,
+    "modernized archaic directional unto": 2078,
     "aligned apoluo with release": 19,
     "modernized was-minded idiom": 2,
     "modernized behold": 221,
-    "modernized fear-not imperative": 14,
-    "normalized NT kurios as Lord": 663,
+    "modernized fear-not imperative": 16,
+    "normalized NT kurios as Lord": 662,
     "removed UKJV inline Strong-style lexical marker": 794,
     "modernized childbirth bring-forth idiom": 25,
     "fixed borne grammar": 1,
@@ -54,8 +54,8 @@
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 260,
-    "UKJV seed retained; needs focused Greek review": 2204,
-    "removed UKJV plural-expansion artifact": 1117,
+    "UKJV seed retained; needs focused Greek review": 2171,
+    "removed UKJV plural-expansion artifact": 1116,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
     "modernized worshipped spelling": 28,
@@ -65,9 +65,12 @@
     "modernized thereof": 38,
     "standardized Jeremiah": 2,
     "standardized Ramah": 1,
+    "modernized personal which as who": 256,
     "modernized thither": 15,
     "modernized raiment": 21,
     "rendered axios as worthy": 2,
+    "modernized think-not wording": 5,
+    "modernized brings-not wording": 4,
     "modernized hewn": 6,
     "rendered apotheke as storehouse": 2,
     "rendered halon as threshing floor": 2,
@@ -77,7 +80,6 @@
     "modernized get-you imperative": 4,
     "modernized sea-coast idiom": 2,
     "rendered ethne as nations": 94,
-    "modernized personal which as who": 235,
     "modernized them-which relative": 80,
     "modernized from-thence idiom": 16,
     "rendered ploion as boat": 43,
@@ -120,15 +122,17 @@
     "modernized them-that relative": 190,
     "rendered telones as tax collector": 22,
     "modernized be-therefore order": 1,
-    "modernized alms wording": 1,
+    "modernized alms wording": 2,
     "modernized be-not-you imperative": 5,
     "modernized like-to wording": 1,
     "fixed Father relative agreement": 2,
     "modernized pray-you imperative": 6,
+    "modernized in-earth wording": 9,
     "fixed yours artifact": 3,
     "modernized forever spelling": 51,
     "modernized forgive-not wording": 2,
     "modernized be-not imperative": 20,
+    "fixed does-corrupt agreement": 2,
     "modernized no-man idiom": 140,
     "modernized take-no-thought idiom": 2,
     "modernized fowls": 11,
@@ -140,7 +144,7 @@
     "modernized wherewithal": 1,
     "fixed negative subjunctive wording": 1,
     "fixed sentence casing": 3,
-    "modernized be-not clause": 4,
+    "modernized be-not clause": 12,
     "modernized judge-not idiom": 4,
     "fixed many-there-is artifact": 1,
     "modernized enter-you-in idiom": 1,
@@ -148,6 +152,7 @@
     "modernized there-be idiom": 26,
     "fixed few-there-is artifact": 1,
     "rendered daimonion as demon": 64,
+    "modernized fell-not wording": 1,
     "modernized came-to-pass idiom": 66,
     "modernized was-come perfect": 60,
     "modernized beseeching": 3,
@@ -159,10 +164,12 @@
     "modernized besought": 33,
     "modernized everything spelling": 7,
     "fixed him-that relative artifact": 16,
+    "modernized sins-be-forgiven wording": 5,
     "modernized inverted question": 20,
     "modernized tax-booth idiom": 3,
     "modernized reclining-at-meal idiom": 12,
     "modernized go-you imperative": 11,
+    "modernized fast-not wording": 2,
     "cleaned old-garment wording": 2,
     "modernized garment where not contextually technical": 19,
     "rendered askos as wineskin": 4,
@@ -171,7 +178,9 @@
     "modernized labour spelling": 49,
     "modernized go-not idiom": 6,
     "modernized staves": 7,
+    "modernized if-be wording": 2,
     "modernized him-which relative": 12,
+    "modernized takes-not wording": 1,
     "modernized repented-not wording": 6,
     "modernized wherein": 37,
     "rendered hades as Hades": 10,
@@ -182,6 +191,8 @@
     "fixed from-whence artifact": 13,
     "modernized whence": 32,
     "modernized forthwith": 9,
+    "modernized hear-not wording": 1,
+    "modernized see-not wording": 1,
     "modernized waxed-gross idiom": 2,
     "modernized he-which relative": 23,
     "modernized by-and-by idiom": 4,
@@ -210,6 +221,7 @@
     "fixed millstone relative artifact": 3,
     "cleaned must-essentially source artifact": 9,
     "rendered aionios as eternal": 25,
+    "modernized went-not wording": 5,
     "rendered ean genetai as if it happens": 1,
     "fixed nations-man article artifact": 1,
     "modernized anything spelling": 38,
@@ -248,12 +260,14 @@
     "modernized where-will-you idiom": 3,
     "rendered aphesis as forgiveness": 9,
     "rendered diatheke as covenant": 10,
+    "modernized enter-not wording": 2,
     "modernized held-his-peace idiom": 2,
     "modernized answered-not wording": 1,
     "modernized will-you-that idiom": 5,
     "modernized you-that relative": 2,
     "modernized if-he-be idiom": 3,
     "rendered hagioi as holy ones": 61,
+    "fixed that-that wording": 2,
     "modernized say-you imperative": 3,
     "fixed imperative casing": 2,
     "modernized hold-your-peace idiom": 2,
@@ -266,6 +280,7 @@
     "modernized I-pray-you wording": 7,
     "fixed commanded-them relative artifact": 3,
     "fixed adjective-order artifact": 1,
+    "modernized eat-not wording": 4,
     "modernized meats": 6,
     "modernized speech-impediment wording": 1,
     "fixed good-news possessive artifact": 3,
@@ -315,6 +330,7 @@
     "fixed duplicate lest artifact": 3,
     "fixed look-it artifact": 1,
     "modernized not-able wording": 1,
+    "fixed duplicated think-not artifact": 1,
     "modernized comes-not wording": 3,
     "fixed Luke 19:3 word order": 1,
     "modernized salvation-has-come wording": 1,
@@ -339,6 +355,7 @@
     "fixed whence casing after knows": 1,
     "modernized how-says-you idiom": 3,
     "modernized abides-not wording": 2,
+    "modernized we-be wording": 1,
     "fixed seen-him relative artifact": 1,
     "modernized keeps-not wording": 3,
     "modernized hears-not wording": 2,
@@ -459,13 +476,15 @@
     "fixed non-person relative after witness": 1,
     "fixed clothing-down-to-foot artifact": 1,
     "rendered phiale as bowl": 12,
+    "modernized prevailed-not wording": 1,
     "fixed became-rich artifact": 1,
     "modernized waxed-rich idiom": 1,
     "modernized no-more-at-all idiom": 4,
-    "fixed Revelation relative artifact": 1
+    "fixed Revelation relative artifact": 1,
+    "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2204,
+  "review_queue_rows": 2171,
   "examples": {
     "manual TR literal override": [
       {
@@ -605,14 +624,14 @@
         "draft_translation": "But while he thought on these things, look, the angel of the Lord appeared to him in a dream, saying, Joseph, you son of David, do not fear to take to you Mary your wife: for that which is conceived in her is of the Holy Spirit."
       },
       {
+        "ref": "Matthew 10:26",
+        "book_code": "MAT",
+        "draft_translation": "Do not fear them therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+      },
+      {
         "ref": "Matthew 10:28",
         "book_code": "MAT",
         "draft_translation": "And do not fear those who kill the body, but are not able to kill the soul: but rather fear him who is able to destroy both soul and body in Gehenna."
-      },
-      {
-        "ref": "Matthew 28:5",
-        "book_code": "MAT",
-        "draft_translation": "And the angel answered and said to the women, do not fear: for I know that you seek Jesus, who was crucified."
       }
     ],
     "normalized NT kurios as Lord": [
@@ -913,6 +932,23 @@
         "draft_translation": "In Ramah was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not."
       }
     ],
+    "modernized personal which as who": [
+      {
+        "ref": "Matthew 2:20",
+        "book_code": "MAT",
+        "draft_translation": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead who sought the young child's life."
+      },
+      {
+        "ref": "Matthew 4:16",
+        "book_code": "MAT",
+        "draft_translation": "The people who sat in darkness saw great light; and to those who sat in the region and shadow of death light is sprung up."
+      },
+      {
+        "ref": "Matthew 5:12",
+        "book_code": "MAT",
+        "draft_translation": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets who were before you."
+      }
+    ],
     "modernized thither": [
       {
         "ref": "Matthew 2:22",
@@ -959,16 +995,50 @@
         "draft_translation": "But showed first to them of Damascus, and at Jerusalem, and throughout all the borders of Judea, and then to the nations, that they should repent and turn to God, and do works worthy of repentance."
       }
     ],
-    "modernized hewn": [
+    "modernized think-not wording": [
+      {
+        "ref": "Matthew 3:9",
+        "book_code": "MAT",
+        "draft_translation": "And do not think to say within yourselves, We have Abraham to our father: for I say to you, that God is able of these stones to raise up children to Abraham."
+      },
+      {
+        "ref": "Matthew 5:17",
+        "book_code": "MAT",
+        "draft_translation": "Do not think that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfill."
+      },
+      {
+        "ref": "Matthew 10:34",
+        "book_code": "MAT",
+        "draft_translation": "Do not think that I am come to send peace on earth: I came not to send peace, but a sword."
+      }
+    ],
+    "modernized brings-not wording": [
       {
         "ref": "Matthew 3:10",
         "book_code": "MAT",
-        "draft_translation": "And now also the axe is laid to the root of the trees: therefore every tree which brings not forth good fruit is cut down, and cast into the fire."
+        "draft_translation": "And now also the axe is laid to the root of the trees: therefore every tree which does not bring forth good fruit is cut down, and cast into the fire."
       },
       {
         "ref": "Matthew 7:19",
         "book_code": "MAT",
-        "draft_translation": "Every tree that brings not forth good fruit is cut down, and cast into the fire."
+        "draft_translation": "Every tree that does not bring forth good fruit is cut down, and cast into the fire."
+      },
+      {
+        "ref": "Luke 3:9",
+        "book_code": "LUK",
+        "draft_translation": "And now also the axe is laid to the root of the trees: every tree therefore which does not bring forth good fruit is cut down, and cast into the fire."
+      }
+    ],
+    "modernized hewn": [
+      {
+        "ref": "Matthew 3:10",
+        "book_code": "MAT",
+        "draft_translation": "And now also the axe is laid to the root of the trees: therefore every tree which does not bring forth good fruit is cut down, and cast into the fire."
+      },
+      {
+        "ref": "Matthew 7:19",
+        "book_code": "MAT",
+        "draft_translation": "Every tree that does not bring forth good fruit is cut down, and cast into the fire."
       },
       {
         "ref": "Matthew 27:60",
@@ -1092,23 +1162,6 @@
         "draft_translation": "(For after all these things do the nations seek:) for your heavenly Father knows that you have need of all these things."
       }
     ],
-    "modernized personal which as who": [
-      {
-        "ref": "Matthew 4:16",
-        "book_code": "MAT",
-        "draft_translation": "The people who sat in darkness saw great light; and to those who sat in the region and shadow of death light is sprung up."
-      },
-      {
-        "ref": "Matthew 5:12",
-        "book_code": "MAT",
-        "draft_translation": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets who were before you."
-      },
-      {
-        "ref": "Matthew 5:16",
-        "book_code": "MAT",
-        "draft_translation": "Let your light so shine before men, that they may see your good works, and glorify your Father who is in heaven."
-      }
-    ],
     "modernized them-which relative": [
       {
         "ref": "Matthew 4:16",
@@ -1220,7 +1273,7 @@
       {
         "ref": "Matthew 9:2",
         "book_code": "MAT",
-        "draft_translation": "And, look, they brought to him a man sick of the paralysis, lying on a bed: and Jesus seeing their faith said to the sick of the paralysis; Son, be of good cheer; your sins be forgiven you."
+        "draft_translation": "And, look, they brought to him a man sick of the paralysis, lying on a bed: and Jesus seeing their faith said to the sick of the paralysis; Son, be of good cheer; your sins are forgiven you."
       }
     ],
     "rendered daimonizomai as demonized": [
@@ -1579,7 +1632,7 @@
       {
         "ref": "John 8:41",
         "book_code": "JHN",
-        "draft_translation": "You do the deeds of your father. Then said they to him, We be not born of sexual immorality; we have one Father, even God."
+        "draft_translation": "You do the deeds of your father. Then said they to him, We were not born of sexual immorality; we have one Father, even God."
       }
     ],
     "modernized swear-not idiom": [
@@ -1783,6 +1836,11 @@
         "ref": "Matthew 6:1",
         "book_code": "MAT",
         "draft_translation": "Take heed that you do not do your charitable giving before men, to be seen of them: otherwise you have no reward of your Father who is in heaven."
+      },
+      {
+        "ref": "Matthew 6:3",
+        "book_code": "MAT",
+        "draft_translation": "But when you do charitable giving, let not your left hand know what your right hand does:"
       }
     ],
     "modernized be-not-you imperative": [
@@ -1818,7 +1876,7 @@
       {
         "ref": "Luke 11:2",
         "book_code": "LUK",
-        "draft_translation": "And he said to them, When you pray, say, Our Father who is in heaven, Hallowed be your name. Your kingdom come. Your will be done, as in heaven, so in earth."
+        "draft_translation": "And he said to them, When you pray, say, Our Father who is in heaven, Hallowed be your name. Your kingdom come. Your will be done, as in heaven, so on earth."
       }
     ],
     "modernized pray-you imperative": [
@@ -1836,6 +1894,23 @@
         "ref": "Matthew 24:20",
         "book_code": "MAT",
         "draft_translation": "But pray that your flight not be in the winter, neither on the Sabbath:"
+      }
+    ],
+    "modernized in-earth wording": [
+      {
+        "ref": "Matthew 6:10",
+        "book_code": "MAT",
+        "draft_translation": "Your kingdom come, Your will be done on earth, as it is in heaven."
+      },
+      {
+        "ref": "Matthew 28:18",
+        "book_code": "MAT",
+        "draft_translation": "And Jesus came and spoke to them, saying, All power is given to me in heaven and on earth."
+      },
+      {
+        "ref": "Luke 11:2",
+        "book_code": "LUK",
+        "draft_translation": "And he said to them, When you pray, say, Our Father who is in heaven, Hallowed be your name. Your kingdom come. Your will be done, as in heaven, so on earth."
       }
     ],
     "fixed yours artifact": [
@@ -1899,6 +1974,18 @@
         "ref": "Luke 21:9",
         "book_code": "LUK",
         "draft_translation": "But when you shall hear of wars and commotions, do not be terrified: for these things must first come to pass; but the end is not immediately."
+      }
+    ],
+    "fixed does-corrupt agreement": [
+      {
+        "ref": "Matthew 6:19",
+        "book_code": "MAT",
+        "draft_translation": "Lay not up for yourselves treasures upon earth, where moth and rust corrupt, and where thieves break through and steal:"
+      },
+      {
+        "ref": "Matthew 6:20",
+        "book_code": "MAT",
+        "draft_translation": "But lay up for yourselves treasures in heaven, where neither moth nor rust corrupt, and where thieves do not break through nor steal:"
       }
     ],
     "modernized no-man idiom": [
@@ -1968,7 +2055,7 @@
       {
         "ref": "Luke 12:26",
         "book_code": "LUK",
-        "draft_translation": "If you then be not able to do that thing which is least, why are you anxious for the rest?"
+        "draft_translation": "If then you are not able to do that thing which is least, why are you anxious for the rest?"
       }
     ],
     "modernized toil-not wording": [
@@ -2152,6 +2239,13 @@
         "ref": "Matthew 8:33",
         "book_code": "MAT",
         "draft_translation": "And those who kept them fled, and went their ways into the city, and told everything, and what was befallen to the possessed of the demons."
+      }
+    ],
+    "modernized fell-not wording": [
+      {
+        "ref": "Matthew 7:25",
+        "book_code": "MAT",
+        "draft_translation": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it did not fall: for it was founded upon a rock."
       }
     ],
     "modernized came-to-pass idiom": [
@@ -2341,6 +2435,23 @@
         "draft_translation": "The woman was a Greek, a Syrophenician by nation; and she begged him that he would cast forth the demon out of her daughter."
       }
     ],
+    "modernized sins-be-forgiven wording": [
+      {
+        "ref": "Matthew 9:2",
+        "book_code": "MAT",
+        "draft_translation": "And, look, they brought to him a man sick of the paralysis, lying on a bed: and Jesus seeing their faith said to the sick of the paralysis; Son, be of good cheer; your sins are forgiven you."
+      },
+      {
+        "ref": "Matthew 9:5",
+        "book_code": "MAT",
+        "draft_translation": "For whether is easier, to say, your sins are forgiven you; or to say, Arise, and walk?"
+      },
+      {
+        "ref": "Mark 2:5",
+        "book_code": "MRK",
+        "draft_translation": "When Jesus saw their faith, he said to the sick of the paralysis, Son, your sins are forgiven you."
+      }
+    ],
     "modernized inverted question": [
       {
         "ref": "Matthew 9:4",
@@ -2407,6 +2518,18 @@
         "ref": "Matthew 20:4",
         "book_code": "MAT",
         "draft_translation": "And said to them; Go also into the vineyard, and whatever is right I will give you. And they went their way."
+      }
+    ],
+    "modernized fast-not wording": [
+      {
+        "ref": "Matthew 9:14",
+        "book_code": "MAT",
+        "draft_translation": "Then came to him the disciples of John, saying, Why do we and the Pharisees fast often, but your disciples do not fast?"
+      },
+      {
+        "ref": "Mark 2:18",
+        "book_code": "MRK",
+        "draft_translation": "And the disciples of John and of the Pharisees used to fast: and they come and say to him, Why do the disciples of John and of the Pharisees fast, but your disciples do not fast?"
       }
     ],
     "cleaned old-garment wording": [
@@ -2540,6 +2663,18 @@
         "draft_translation": "In that same hour said Jesus to the crowds, Are you come out as against a thief with swords and staffs in order to take me? I sat daily with you teaching in the temple, and you laid no hold on me."
       }
     ],
+    "modernized if-be wording": [
+      {
+        "ref": "Matthew 10:13",
+        "book_code": "MAT",
+        "draft_translation": "And if the house is worthy, let your peace come upon it: but if it is not worthy, let your peace return to you."
+      },
+      {
+        "ref": "John 1:25",
+        "book_code": "JHN",
+        "draft_translation": "And they asked him, and said to him, Why baptize you then, if you are not the Christ, nor Elijah, neither that prophet?"
+      }
+    ],
     "modernized him-which relative": [
       {
         "ref": "Matthew 10:28",
@@ -2555,6 +2690,13 @@
         "ref": "Matthew 24:18",
         "book_code": "MAT",
         "draft_translation": "Neither let him who is in the field return back to take his clothes."
+      }
+    ],
+    "modernized takes-not wording": [
+      {
+        "ref": "Matthew 10:38",
+        "book_code": "MAT",
+        "draft_translation": "And the one who does not take his cross, and follows after me, is not worthy of me."
       }
     ],
     "modernized repented-not wording": [
@@ -2725,6 +2867,20 @@
         "ref": "Mark 1:29",
         "book_code": "MRK",
         "draft_translation": "And immediately, when they had come out of the synagogue, they entered into the house of Simon and Andrew, with James and John."
+      }
+    ],
+    "modernized hear-not wording": [
+      {
+        "ref": "Matthew 13:13",
+        "book_code": "MAT",
+        "draft_translation": "Therefore speak I to them in parables: because they seeing do not see; and hearing they do not hear, neither do they understand."
+      }
+    ],
+    "modernized see-not wording": [
+      {
+        "ref": "Matthew 13:13",
+        "book_code": "MAT",
+        "draft_translation": "Therefore speak I to them in parables: because they seeing do not see; and hearing they do not hear, neither do they understand."
       }
     ],
     "modernized waxed-gross idiom": [
@@ -3148,11 +3304,28 @@
         "draft_translation": "Then shall he say also to them on the left hand, Depart from me, you cursed, into eternal fire, prepared for the devil and his angels:"
       }
     ],
+    "modernized went-not wording": [
+      {
+        "ref": "Matthew 18:13",
+        "book_code": "MAT",
+        "draft_translation": "And if it happens that he finds it, Amen, I say to you, he rejoices more of that sheep, than of the ninety and nine that did not go astray."
+      },
+      {
+        "ref": "Matthew 21:30",
+        "book_code": "MAT",
+        "draft_translation": "And he came to the second, and said likewise. And he answered and said, I go, sir: and did not go."
+      },
+      {
+        "ref": "John 6:22",
+        "book_code": "JHN",
+        "draft_translation": "The day following, when the people who stood on the other side of the sea saw that there was no other boat there, save that one into where his disciples were entered, and that Jesus did not go with his disciples into the boat, but that his disciples were gone away alone;"
+      }
+    ],
     "rendered ean genetai as if it happens": [
       {
         "ref": "Matthew 18:13",
         "book_code": "MAT",
-        "draft_translation": "And if it happens that he finds it, Amen, I say to you, he rejoices more of that sheep, than of the ninety and nine which went not astray."
+        "draft_translation": "And if it happens that he finds it, Amen, I say to you, he rejoices more of that sheep, than of the ninety and nine that did not go astray."
       }
     ],
     "fixed nations-man article artifact": [
@@ -3699,6 +3872,18 @@
         "draft_translation": "Likewise also the cup after supper, saying, This cup is the new covenant in my blood, which is shed for you."
       }
     ],
+    "modernized enter-not wording": [
+      {
+        "ref": "Matthew 26:41",
+        "book_code": "MAT",
+        "draft_translation": "Watch and pray, that you not enter into temptation: the spirit indeed is willing, but the flesh is weak."
+      },
+      {
+        "ref": "Luke 22:40",
+        "book_code": "LUK",
+        "draft_translation": "And when he was at the place, he said to them, Pray that you not enter into temptation."
+      }
+    ],
     "modernized held-his-peace idiom": [
       {
         "ref": "Matthew 26:63",
@@ -3768,7 +3953,7 @@
       {
         "ref": "Matthew 27:52",
         "book_code": "MAT",
-        "draft_translation": "And the graves were opened; and many bodies of the holy ones which slept arose,"
+        "draft_translation": "And the graves were opened; and many bodies of the holy ones who slept arose,"
       },
       {
         "ref": "Acts 9:13",
@@ -3778,7 +3963,19 @@
       {
         "ref": "Acts 9:32",
         "book_code": "ACT",
-        "draft_translation": "And it happened, as Peter passed throughout all quarters, he came down also to the holy ones which dwelt at Lydda."
+        "draft_translation": "And it happened, as Peter passed throughout all quarters, he came down also to the holy ones who dwelt at Lydda."
+      }
+    ],
+    "fixed that-that wording": [
+      {
+        "ref": "Matthew 27:63",
+        "book_code": "MAT",
+        "draft_translation": "Saying, Sir, we remember that this deceiver said, while he was yet alive, After three days I will rise again."
+      },
+      {
+        "ref": "John 21:23",
+        "book_code": "JHN",
+        "draft_translation": "Then went this saying abroad among the brothers, that disciple would not die: yet Jesus said not to him, He shall not die; but, If I will that he tarry till I come, what is that to you?"
       }
     ],
     "modernized say-you imperative": [
@@ -3960,6 +4157,23 @@
         "draft_translation": "For Herod feared John, knowing that he was a just and holy man, and observed him; and when he heard him, he did many things, and heard him gladly."
       }
     ],
+    "modernized eat-not wording": [
+      {
+        "ref": "Mark 7:3",
+        "book_code": "MRK",
+        "draft_translation": "For the Pharisees, and all the Jews, except they wash their hands often, do not eat, holding the tradition of the elders."
+      },
+      {
+        "ref": "Mark 7:4",
+        "book_code": "MRK",
+        "draft_translation": "And when they come from the market, except they wash, they do not eat. And many other things there is, which they have received to hold, as the washing of cups, and pots, brazen vessels, and of tables."
+      },
+      {
+        "ref": "1 Corinthians 8:8",
+        "book_code": "1CO",
+        "draft_translation": "But food commends us not to God: for neither, if we eat, are we the better; neither, if we do not eat, are we the worse."
+      }
+    ],
     "modernized meats": [
       {
         "ref": "Mark 7:19",
@@ -4111,7 +4325,7 @@
       {
         "ref": "Acts 17:27",
         "book_code": "ACT",
-        "draft_translation": "That they should seek the Lord, if perhaps they might feel after him, and find him, though he be not far from every one of us:"
+        "draft_translation": "That they should seek the Lord, if perhaps they might feel after him, and find him, though he is not far from every one of us:"
       }
     ],
     "modernized come-to-pass idiom": [
@@ -4588,6 +4802,13 @@
         "draft_translation": "Lest by any means, after he has laid the foundation, and cannot finish it, all who see it begin to mock him,"
       }
     ],
+    "fixed duplicated think-not artifact": [
+      {
+        "ref": "Luke 17:9",
+        "book_code": "LUK",
+        "draft_translation": "Does he thank that slave because he did the things that were commanded him? I do not think so."
+      }
+    ],
     "modernized comes-not wording": [
       {
         "ref": "Luke 17:20",
@@ -4740,7 +4961,7 @@
       {
         "ref": "John 2:9",
         "book_code": "JHN",
-        "draft_translation": "When the ruler of the feast had tasted the water that was made wine, and did not know from where it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,"
+        "draft_translation": "When the ruler of the feast had tasted the water that was made wine, and did not know from where it was: (but the servants who drew the water knew;) the governor of the feast called the bridegroom,"
       },
       {
         "ref": "John 7:28",
@@ -4849,6 +5070,13 @@
         "ref": "2 John 1:9",
         "book_code": "2JN",
         "draft_translation": "Whoever trangresses, and does not abide in the doctrine of Christ, has not God. the one who abides in the doctrine of Christ, he has both the Father and the Son."
+      }
+    ],
+    "modernized we-be wording": [
+      {
+        "ref": "John 8:41",
+        "book_code": "JHN",
+        "draft_translation": "You do the deeds of your father. Then said they to him, We were not born of sexual immorality; we have one Father, even God."
       }
     ],
     "fixed seen-him relative artifact": [
@@ -5295,7 +5523,7 @@
       {
         "ref": "1 Thessalonians 4:5",
         "book_code": "1TH",
-        "draft_translation": "Not in the lust of desire, even as the nations which do not know God:"
+        "draft_translation": "Not in the lust of desire, even as the nations who do not know God:"
       }
     ],
     "rendered eiper as if indeed": [
@@ -6086,6 +6314,13 @@
         "draft_translation": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the bowls of the wrath of God upon the earth."
       }
     ],
+    "modernized prevailed-not wording": [
+      {
+        "ref": "Revelation 12:8",
+        "book_code": "REV",
+        "draft_translation": "And did not prevail; neither was their place found any more in heaven."
+      }
+    ],
     "fixed became-rich artifact": [
       {
         "ref": "Revelation 18:3",
@@ -6122,6 +6357,13 @@
         "ref": "Revelation 20:4",
         "book_code": "REV",
         "draft_translation": "And I saw thrones, and they sat upon them, and judgment was given to them: and I saw the souls of those who were beheaded for the witness of Jesus, and for the word of God, and those who had not worshiped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+      }
+    ],
+    "modernized lived-not wording": [
+      {
+        "ref": "Revelation 20:5",
+        "book_code": "REV",
+        "draft_translation": "But the rest of the dead did not live again until the thousand years were finished. This is the first resurrection."
       }
     ]
   }

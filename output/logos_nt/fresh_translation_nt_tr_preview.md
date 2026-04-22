@@ -123,7 +123,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Corinthians
 
-**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God who is at Corinth, with all the holy ones which are in all Achaia:
+**2 Corinthians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the assembly of God who is at Corinth, with all the holy ones who are in all Achaia:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -157,7 +157,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ephesians
 
-**Ephesians 1:1** Paul, an apostle of Jesus Christ by the will of God, to the holy ones which are at Ephesus, and to the faithful in Christ Jesus:
+**Ephesians 1:1** Paul, an apostle of Jesus Christ by the will of God, to the holy ones who are at Ephesus, and to the faithful in Christ Jesus:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
