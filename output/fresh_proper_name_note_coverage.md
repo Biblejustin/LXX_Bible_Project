@@ -1,0 +1,92 @@
+# Proper Name Note Coverage
+
+- supplemental note rows: `959`
+- Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
+
+Policy:
+- existing meaning rows remain in `data/proper_names.csv`
+- place names stay out of this supplemental file so Logos atlas/place links still work
+- this file covers remaining people names, people-group names, supernatural names, and LXX-style transliterated forms
+
+## Included Top Rows
+
+- `Levites` (people_group, 240x, first Exodus 6:25) — manual_high_frequency_people_group
+- `Egyptians` (people_group, 114x, first Genesis 12:12) — logos_primary_entity
+- `Assyrians` (people_group, 110x, first Genesis 2:14) — logos_primary_entity
+- `Chaldeans` (people_group, 74x, first Genesis 11:28) — logos_primary_entity
+- `Eleazar` (person, 73x, first Exodus 6:23) — logos_alias_entity
+- `Sabaoth` (transliterated_form, 56x, first Joshua 6:17) — manual_high_frequency_lxx_form
+- `Philistines` (people_group, 53x, first Genesis 21:32) — logos_primary_entity
+- `Iou` (transliterated_form, 51x, first 2 Kings 9:2) — manual_high_frequency_lxx_form
+- `Balak` (person, 50x, first Genesis 14:2) — logos_primary_entity
+- `Ioudaioi` (transliterated_form, 49x, first Ezra 4:12) — manual_high_frequency_lxx_form
+- `Amalek` (person, 46x, first Genesis 14:7) — logos_primary_entity
+- `Amorites` (people_group, 46x, first Genesis 14:7) — logos_primary_entity
+- `Jehoshaphat` (person, 45x, first 2 Samuel 8:16) — logos_alias_entity
+- `Semei` (person, 45x, first Exodus 6:17) — logos_alias_entity
+- `Asaph` (person, 44x, first 2 Kings 18:18) — logos_alias_entity
+- `Iosaphat` (transliterated_form, 44x, first 2 Samuel 20:24) — manual_high_frequency_lxx_form
+- `Beniamin` (transliterated_form, 43x, first 1 Chronicles 2:2) — manual_high_frequency_lxx_form
+- `Canaanite` (people_group, 43x, first Genesis 38:2) — logos_alias_entity
+- `Galaad` (transliterated_form, 42x, first Genesis 46:20) — manual_high_frequency_lxx_form
+- `Amorite` (people_group, 41x, first Genesis 14:13) — logos_alias_entity
+- `Ioas` (transliterated_form, 40x, first 2 Kings 11:2) — manual_high_frequency_lxx_form
+- `Merari` (person, 39x, first Genesis 46:11) — logos_primary_entity
+- `Ahaz` (person, 38x, first 2 Kings 15:38) — logos_alias_entity
+- `Ochozias` (transliterated_form, 37x, first 1 Kings 22:40) — manual_high_frequency_lxx_form
+- `Seir` (person, 37x, first Genesis 14:6) — logos_primary_entity
+- `Micha` (person, 36x, first Judges 17:1) — logos_alias_entity
+- `Ader` (transliterated_form, 35x, first 1 Kings 11:14) — manual_high_frequency_lxx_form
+- `Chiram` (transliterated_form, 35x, first 2 Samuel 5:11) — manual_high_frequency_lxx_form
+- `Galgala` (transliterated_form, 33x, first Joshua 4:19) — manual_high_frequency_lxx_form
+- `Gabaa` (transliterated_form, 32x, first Joshua 15:57) — manual_high_frequency_lxx_form
+- `Persians` (people_group, 32x, first 2 Chronicles 36:22) — logos_primary_entity
+- `Amnon` (person, 31x, first 2 Samuel 3:2) — logos_alias_entity
+- `Iessai` (transliterated_form, 31x, first 1 Samuel 16:1) — manual_high_frequency_lxx_form
+- `Ionathan` (transliterated_form, 31x, first 2 Samuel 17:17) — manual_high_frequency_lxx_form
+- `Sihon` (person, 31x, first Numbers 21:21) — logos_primary_entity
+- `Canaanites` (people_group, 30x, first Genesis 10:18) — logos_primary_entity
+- `Jehoiada` (person, 30x, first 2 Samuel 8:18) — logos_alias_entity
+- `Hittite` (people_group, 29x, first Genesis 23:10) — logos_alias_entity
+- `Joash` (person, 29x, first Judges 6:11) — logos_alias_entity
+- `Nabat` (person, 29x, first 1 Kings 11:26) — logos_alias_entity
+- `Banaias` (person, 28x, first 2 Samuel 8:18) — logos_alias_entity
+- `Levite` (people_group, 28x, first Exodus 4:14) — manual_high_frequency_people_group
+- `Korah` (person, 27x, first Exodus 38:22) — logos_alias_entity
+- `Sarouia` (transliterated_form, 27x, first 1 Samuel 26:6) — manual_high_frequency_lxx_form
+- `Sychem` (transliterated_form, 27x, first Genesis 12:6) — manual_high_frequency_lxx_form
+- `Abessa` (transliterated_form, 25x, first 1 Samuel 26:6) — manual_high_frequency_lxx_form
+- `Abia` (transliterated_form, 25x, first 1 Samuel 8:2) — manual_high_frequency_lxx_form
+- `Bersabee` (transliterated_form, 25x, first Joshua 19:2) — manual_high_frequency_lxx_form
+- `Egyptian` (people_group, 25x, first Genesis 16:1) — logos_alias_entity
+- `Machir` (person, 25x, first Genesis 46:20) — logos_alias_entity
+- `Azarias` (transliterated_form, 24x, first 2 Kings 14:21) — manual_high_frequency_lxx_form
+- `Baasa` (transliterated_form, 24x, first 1 Kings 15:16) — manual_high_frequency_lxx_form
+- `Kaath` (transliterated_form, 24x, first Numbers 26:57) — manual_high_frequency_lxx_form
+- `Amaziah` (person, 23x, first 1 Chronicles 3:12) — logos_alias_entity
+- `Eliab` (person, 23x, first Numbers 1:9) — logos_alias_entity
+- `Og` (person, 23x, first Numbers 21:33) — logos_primary_entity
+- `Orna` (transliterated_form, 23x, first 2 Samuel 24:16) — manual_high_frequency_lxx_form
+- `Rama` (transliterated_form, 23x, first Joshua 18:25) — manual_high_frequency_lxx_form
+- `Chousi` (person, 22x, first 2 Samuel 15:32) — logos_alias_entity
+- `Adraazar` (transliterated_form, 21x, first 2 Samuel 8:3) — manual_high_frequency_lxx_form
+- `Aminadab` (person, 21x, first Exodus 6:23) — logos_alias_entity
+- `Anchous` (transliterated_form, 21x, first 1 Samuel 21:11) — manual_high_frequency_lxx_form
+- `Chelkias` (person, 21x, first 2 Kings 18:18) — logos_primary_entity
+- `Iodae` (transliterated_form, 21x, first 2 Samuel 20:23) — manual_high_frequency_lxx_form
+- `Joram` (person, 21x, first 2 Kings 1:18) — logos_alias_entity
+- `Manasse` (transliterated_form, 21x, first 2 Kings 10:33) — manual_high_frequency_lxx_form
+- `Michaias` (transliterated_form, 21x, first 1 Kings 22:8) — manual_high_frequency_lxx_form
+- `Sisara` (transliterated_form, 21x, first Judges 4:2) — manual_high_frequency_lxx_form
+- `Achitophel` (transliterated_form, 20x, first 2 Samuel 15:12) — manual_high_frequency_lxx_form
+- `Adonias` (transliterated_form, 20x, first 1 Kings 1:5) — manual_high_frequency_lxx_form
+- `Gedoliah` (transliterated_form, 20x, first Jeremiah 45:1) — manual_high_frequency_lxx_form
+- `Joel` (person, 20x, first 1 Chronicles 3:22) — logos_alias_entity
+- `Kis` (transliterated_form, 20x, first 1 Samuel 9:1) — manual_high_frequency_lxx_form
+- `Moyses` (transliterated_form, 20x, first 1 Kings 2:3) — manual_high_frequency_lxx_form
+- `Nun` (person, 20x, first Exodus 33:11) — logos_primary_entity
+- `Assour` (transliterated_form, 19x, first 1 Kings 2:35) — manual_high_frequency_lxx_form
+- `Hazael` (person, 19x, first 2 Kings 8:8) — logos_primary_entity
+- `Nabouthai` (transliterated_form, 19x, first 1 Kings 20:1) — manual_high_frequency_lxx_form
+- `Syrian` (person, 19x, first Genesis 25:20) — logos_alias_entity
+- `Chebron` (transliterated_form, 18x, first Exodus 6:18) — manual_high_frequency_lxx_form

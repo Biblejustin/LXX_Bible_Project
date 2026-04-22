@@ -32,8 +32,8 @@
     "REV": 404
   },
   "translation_note_filter": {
-    "rows": 22984,
-    "included": 2913,
+    "rows": 22987,
+    "included": 2916,
     "skipped_unreviewed": 479,
     "included_mt_lxx_difference_notes": 340,
     "skipped_generic_mt_lxx_without_concrete_detail": 9105,
@@ -73,13 +73,15 @@
     "missing_books": []
   },
   "name_meaning_note_filter": {
-    "proper_name_rows": 152,
-    "proper_name_included": 152,
+    "proper_name_rows": 215,
+    "proper_name_included": 215,
+    "transliterated_proper_name_rows": 959,
+    "transliterated_proper_name_included": 959,
     "name_of_god_rows": 53,
     "name_of_god_included": 53,
-    "included": 205,
-    "refs": 179,
-    "placement_skipped_missing_source_ref": 94,
+    "included": 1227,
+    "refs": 955,
+    "placement_skipped_missing_source_ref": 1116,
     "placement_chapter_scannable_source_notes": 104,
     "placement_source_ref_anchored_ambiguous_divine_notes": 7,
     "placement_chapter_first_occurrence_notes": 757,
@@ -128,7 +130,7 @@
   "place_links": {
     "enabled": true,
     "source_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
-    "candidate_labels": 951,
+    "candidate_labels": 950,
     "skipped_ambiguous_labels": 72,
     "datatype": "BibleKnowledgebase",
     "note": "Links are conservative Personal Book datatype links, not internal Logos Factbook tag overlays."
@@ -164,7 +166,7 @@
     "verse_anchored_crossref_notes": 5995,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
-    "place_link_count": 573,
+    "place_link_count": 572,
     "book_preface_pages": 27,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
@@ -193,7 +195,7 @@
     "verse_anchored_crossref_notes": 5995,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
-    "place_link_count": 573,
+    "place_link_count": 572,
     "book_preface_pages": 27,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,

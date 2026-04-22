@@ -63,6 +63,7 @@ DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_TRANSLATION_DECISIONS = RESEARCH / "translation_decisions.csv"
 DEFAULT_PROPER_NAMES = DATA / "proper_names.csv"
+DEFAULT_TRANSLITERATED_PROPER_NAMES = DATA / "proper_name_transliteration_notes.csv"
 DEFAULT_NAMES_OF_GOD = DATA / "names_of_god.csv"
 DEFAULT_BOOK_INTROS = DATA / "book_intros_template.csv"
 DEFAULT_LOGOS_DOCX = OUTPUT / "fresh_translation_ot_logos_bible.docx"
@@ -1134,6 +1135,7 @@ def short_variant_phrase(value: str) -> str:
 def load_name_meaning_notes(
     *,
     proper_names_path: Path,
+    transliterated_proper_names_path: Path,
     names_of_god_path: Path,
 ) -> tuple[dict[str, list[NameMeaningNote]], dict[str, int]]:
     grouped: dict[str, list[NameMeaningNote]] = defaultdict(list)
@@ -1169,6 +1171,36 @@ def load_name_meaning_notes(
                     )
                 )
                 counts["proper_name_included"] += 1
+    if transliterated_proper_names_path.exists():
+        with transliterated_proper_names_path.open("r", encoding="utf-8", newline="") as handle:
+            reader = csv.DictReader(handle)
+            for row in reader:
+                counts["transliterated_proper_name_rows"] += 1
+                ref = normalize_note_ref(row.get("first_reference", ""))
+                name = normalize_space(row.get("name", ""))
+                kind = normalize_space(row.get("kind", ""))
+                note = normalize_space(row.get("footnote", ""))
+                if not ref or not name:
+                    counts["transliterated_proper_name_skipped"] += 1
+                    continue
+                label = {
+                    "person": "Personal name",
+                    "people_group": "People-name",
+                    "supernatural_being": "Divine or supernatural name",
+                    "transliterated_form": "Transliterated proper noun",
+                }.get(kind, "Proper name")
+                pieces = [f"{label}: {name}."]
+                if note:
+                    pieces.append(note)
+                grouped[ref].append(
+                    NameMeaningNote(
+                        trigger_phrase=name,
+                        text=" ".join(pieces),
+                        note_type="proper_name",
+                        case_sensitive=True,
+                    )
+                )
+                counts["transliterated_proper_name_included"] += 1
     if names_of_god_path.exists():
         raw = names_of_god_path.read_text(encoding="utf-8").replace("“", '"').replace("”", '"')
         reader = csv.DictReader(raw.splitlines())
@@ -1205,7 +1237,11 @@ def load_name_meaning_notes(
                 )
             )
             counts["name_of_god_included"] += 1
-    counts["included"] = counts["proper_name_included"] + counts["name_of_god_included"]
+    counts["included"] = (
+        counts["proper_name_included"]
+        + counts["transliterated_proper_name_included"]
+        + counts["name_of_god_included"]
+    )
     counts["refs"] = len(grouped)
     return dict(grouped), dict(counts)
 
@@ -2430,7 +2466,7 @@ Scope:
 {source_basis_note}
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
 {variant_note}
-- Name meanings: `data/proper_names.csv` and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
+- Name meanings: `data/proper_names.csv`, `data/proper_name_transliteration_notes.csv`, and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 {source_note}
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
 {future_work_note}
@@ -2535,6 +2571,7 @@ def main() -> None:
     parser.add_argument("--footnotes", type=Path, default=DEFAULT_FOOTNOTES)
     parser.add_argument("--translation-decisions", type=Path, default=DEFAULT_TRANSLATION_DECISIONS)
     parser.add_argument("--proper-names", type=Path, default=DEFAULT_PROPER_NAMES)
+    parser.add_argument("--transliterated-proper-names", type=Path, default=DEFAULT_TRANSLITERATED_PROPER_NAMES)
     parser.add_argument("--names-of-god", type=Path, default=DEFAULT_NAMES_OF_GOD)
     parser.add_argument("--book-intros", type=Path, default=DEFAULT_BOOK_INTROS)
     parser.add_argument("--logos-docx", type=Path, default=DEFAULT_LOGOS_DOCX)
@@ -2589,6 +2626,7 @@ def main() -> None:
     )
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
+        transliterated_proper_names_path=args.transliterated_proper_names,
         names_of_god_path=args.names_of_god,
     )
     name_notes, name_note_placement_counts = place_name_meaning_notes_by_chapter(verses, source_name_notes)
