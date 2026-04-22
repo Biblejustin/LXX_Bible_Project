@@ -3,30 +3,30 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 20,
-    "tr_literal_pass1": 5724,
-    "needs_focused_tr_review": 2213
+    "tr_literal_manual": 30,
+    "tr_literal_pass1": 5723,
+    "needs_focused_tr_review": 2204
   },
   "changed_by_book": {
     "MAT": 823,
-    "MRK": 473,
-    "LUK": 800,
-    "JHN": 630,
-    "ACT": 653,
-    "ROM": 274,
+    "MRK": 474,
+    "LUK": 801,
+    "JHN": 631,
+    "ACT": 654,
+    "ROM": 275,
     "1CO": 303,
-    "2CO": 175,
+    "2CO": 176,
     "GAL": 101,
     "EPH": 120,
     "PHP": 72,
     "COL": 72,
     "1TH": 70,
-    "2TH": 35,
+    "2TH": 36,
     "1TI": 64,
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
-    "HEB": 192,
+    "HEB": 193,
     "JAS": 81,
     "1PE": 82,
     "2PE": 47,
@@ -34,27 +34,27 @@
     "2JN": 10,
     "3JN": 10,
     "JUD": 19,
-    "REV": 291
+    "REV": 292
   },
   "rule_counts": {
-    "manual TR literal override": 20,
-    "aligned gennao with fathered": 18,
+    "manual TR literal override": 30,
+    "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 228,
-    "rendered general brings-forth as produces": 30,
+    "rendered general brings-forth as produces": 29,
     "modernized archaic directional unto": 2079,
     "aligned apoluo with release": 19,
     "modernized was-minded idiom": 2,
     "modernized behold": 221,
     "modernized fear-not imperative": 14,
     "normalized NT kurios as Lord": 663,
-    "removed UKJV inline Strong-style lexical marker": 795,
+    "removed UKJV inline Strong-style lexical marker": 794,
     "modernized childbirth bring-forth idiom": 25,
     "fixed borne grammar": 1,
     "rendered magoi as Magi": 3,
     "standardized Judea spelling": 43,
     "modernized are-come perfect": 11,
-    "modernized he-that relative": 261,
-    "UKJV seed retained; needs focused Greek review": 2213,
+    "modernized he-that relative": 260,
+    "UKJV seed retained; needs focused Greek review": 2204,
     "removed UKJV plural-expansion artifact": 1117,
     "modernized lo": 30,
     "modernized were-come perfect": 39,
@@ -77,7 +77,7 @@
     "modernized get-you imperative": 4,
     "modernized sea-coast idiom": 2,
     "rendered ethne as nations": 94,
-    "modernized personal which as who": 228,
+    "modernized personal which as who": 235,
     "modernized them-which relative": 80,
     "modernized from-thence idiom": 16,
     "rendered ploion as boat": 43,
@@ -100,7 +100,7 @@
     "modernized no-wise idiom": 8,
     "modernized verily": 99,
     "rendered amen formula directly": 76,
-    "modernized whosoever": 93,
+    "modernized whosoever": 92,
     "rendered geenna as Gehenna": 12,
     "modernized ought-as-anything idiom": 10,
     "modernized yours before noun": 68,
@@ -109,13 +109,13 @@
     "modernized porneia wording": 28,
     "modernized swear-not idiom": 2,
     "modernized cannot spelling": 4,
-    "modernized nay": 17,
+    "modernized nay": 16,
     "modernized whatsoever": 68,
-    "modernized yea": 56,
+    "modernized yea": 55,
     "modernized resist-not wording": 1,
     "modernized any-man idiom": 101,
     "rendered chiton as tunic": 12,
-    "modernized him-that relative": 143,
+    "modernized him-that relative": 142,
     "modernized neighbour spelling": 21,
     "modernized them-that relative": 190,
     "rendered telones as tax collector": 22,
@@ -149,7 +149,7 @@
     "fixed few-there-is artifact": 1,
     "rendered daimonion as demon": 64,
     "modernized came-to-pass idiom": 66,
-    "modernized was-come perfect": 61,
+    "modernized was-come perfect": 60,
     "modernized beseeching": 3,
     "rendered doulos-family wording as slave": 129,
     "modernized marvelled spelling": 21,
@@ -172,10 +172,12 @@
     "modernized go-not idiom": 6,
     "modernized staves": 7,
     "modernized him-which relative": 12,
+    "modernized repented-not wording": 6,
     "modernized wherein": 37,
     "rendered hades as Hades": 10,
     "modernized Sabbath-day wording": 30,
     "modernized corn as grain": 8,
+    "modernized Sabbath-days wording": 7,
     "fixed charged-them relative artifact": 6,
     "fixed from-whence artifact": 13,
     "modernized whence": 32,
@@ -194,7 +196,7 @@
     "modernized if-it-be wording": 1,
     "modernized nigh": 44,
     "rendered draught as latrine": 2,
-    "fixed question casing": 3,
+    "fixed question casing": 8,
     "rendered ekklesia as assembly": 109,
     "modernized article before consonant sound": 1,
     "modernized offence spelling": 19,
@@ -208,6 +210,7 @@
     "fixed millstone relative artifact": 3,
     "cleaned must-essentially source artifact": 9,
     "rendered aionios as eternal": 25,
+    "rendered ean genetai as if it happens": 1,
     "fixed nations-man article artifact": 1,
     "modernized anything spelling": 38,
     "cleaned forasmuch-as modernization artifact": 10,
@@ -244,7 +247,7 @@
     "capitalized Passover": 26,
     "modernized where-will-you idiom": 3,
     "rendered aphesis as forgiveness": 9,
-    "rendered diatheke as covenant": 12,
+    "rendered diatheke as covenant": 10,
     "modernized held-his-peace idiom": 2,
     "modernized answered-not wording": 1,
     "modernized will-you-that idiom": 5,
@@ -252,6 +255,7 @@
     "modernized if-he-be idiom": 3,
     "rendered hagioi as holy ones": 61,
     "modernized say-you imperative": 3,
+    "fixed imperative casing": 2,
     "modernized hold-your-peace idiom": 2,
     "modernized held-their-peace idiom": 6,
     "modernized hearken": 9,
@@ -282,6 +286,7 @@
     "modernized counsellor spelling": 3,
     "modernized craved": 1,
     "modernized affrighted": 4,
+    "modernized believed-not wording": 14,
     "modernized believes-not idiom": 8,
     "modernized whereby": 15,
     "modernized believe-not idiom": 16,
@@ -316,7 +321,7 @@
     "modernized every-one-which relative": 1,
     "modernized in-the-which wording": 9,
     "fixed whence casing after tell": 3,
-    "rendered me genoito directly": 14,
+    "rendered me genoito directly": 12,
     "modernized go-you-not imperative": 1,
     "modernized gainsay": 1,
     "modernized at-food artifact": 1,
@@ -330,6 +335,7 @@
     "rendered zoopoieo as gives life": 3,
     "fixed Father's-will relative wording": 1,
     "modernized full-come idiom": 1,
+    "fixed everything-whole artifact": 1,
     "fixed whence casing after knows": 1,
     "modernized how-says-you idiom": 3,
     "modernized abides-not wording": 2,
@@ -343,7 +349,7 @@
     "fixed take-you-him imperative": 2,
     "modernized speak-you-not question": 1,
     "modernized from-thenceforth idiom": 1,
-    "rendered splanchna as inward parts": 7,
+    "rendered splanchna as inward parts": 6,
     "cleaned so-that-that wording": 1,
     "modernized insomuch-as idiom": 1,
     "rendered episkope as oversight": 2,
@@ -355,6 +361,7 @@
     "modernized since-then-as wording": 4,
     "modernized waxed-bold idiom": 1,
     "fixed had-were artifact": 1,
+    "fixed brothers casing": 6,
     "fixed graven-by-art typo": 1,
     "modernized clave": 1,
     "modernized adventure-as-venture": 1,
@@ -364,7 +371,7 @@
     "modernized nations relative as that": 1,
     "fixed Acts 22:29 relative artifact": 1,
     "modernized do-not-you imperative": 1,
-    "modernized if-there-be idiom": 9,
+    "modernized if-there-be idiom": 8,
     "modernized colour spelling": 2,
     "modernized under-color idiom": 1,
     "modernized immoveable spelling": 2,
@@ -373,6 +380,7 @@
     "modernized things-which-be-not wording": 1,
     "rendered homoioma as likeness": 3,
     "modernized concupiscence": 3,
+    "rendered eiper as if indeed": 3,
     "modernized if-Christ-be idiom": 4,
     "fixed earnest expectation artifact": 2,
     "fixed non-person relative after love": 1,
@@ -396,19 +404,20 @@
     "modernized conversation as conduct": 18,
     "modernized overmuch": 1,
     "modernized faint-not idiom": 4,
+    "rendered eige as if indeed": 2,
     "modernized pray-you wording": 1,
-    "rendered epichoregeo as supply": 4,
     "modernized forevermore spelling": 3,
     "modernized own-selves wording": 1,
+    "rendered epichoregeo as supply": 3,
     "modernized says-not wording": 1,
     "removed supplied quickened not present in verse": 1,
     "rendered syzoopoieo as made alive together": 2,
     "fixed be-release artifact": 1,
     "modernized clamour spelling": 1,
+    "modernized wrestle-not wording": 1,
     "modernized thereunto": 4,
     "rendered diakonos as servant": 3,
     "rendered episkopos as overseer": 4,
-    "rendered splanchna affection idiom": 1,
     "modernized in-a-strait idiom": 1,
     "modernized therewith": 3,
     "rendered hagios as holy one": 1,
@@ -433,6 +442,7 @@
     "fixed earnest-heed artifact": 1,
     "fixed Hebrews 7:28 temporal wording": 1,
     "fixed waxs-old artifact": 1,
+    "modernized perished-not wording": 1,
     "modernized waxed-valiant idiom": 1,
     "fixed than-that artifact": 1,
     "modernized therewith word order": 1,
@@ -447,13 +457,15 @@
     "fixed know-you word order": 1,
     "aligned peri relative wording": 1,
     "fixed non-person relative after witness": 1,
+    "fixed clothing-down-to-foot artifact": 1,
     "rendered phiale as bowl": 12,
+    "fixed became-rich artifact": 1,
     "modernized waxed-rich idiom": 1,
     "modernized no-more-at-all idiom": 4,
     "fixed Revelation relative artifact": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 2213,
+  "review_queue_rows": 2204,
   "examples": {
     "manual TR literal override": [
       {
@@ -600,7 +612,7 @@
       {
         "ref": "Matthew 28:5",
         "book_code": "MAT",
-        "draft_translation": "And the angel answered and said to the women, do not fear you: for I know that you seek Jesus, who was crucified."
+        "draft_translation": "And the angel answered and said to the women, do not fear: for I know that you seek Jesus, who was crucified."
       }
     ],
     "normalized NT kurios as Lord": [
@@ -2545,11 +2557,28 @@
         "draft_translation": "Neither let him who is in the field return back to take his clothes."
       }
     ],
+    "modernized repented-not wording": [
+      {
+        "ref": "Matthew 11:20",
+        "book_code": "MAT",
+        "draft_translation": "Then began he to reproach the cities in which most of his mighty works were done, because they did not repent:"
+      },
+      {
+        "ref": "Matthew 21:32",
+        "book_code": "MAT",
+        "draft_translation": "For John came to you in the way of righteousness, and you believed him not: but the tax collectors and the prostitutes believed him: and you, when you had seen it, did not repent afterward, that you might believe him."
+      },
+      {
+        "ref": "Revelation 2:21",
+        "book_code": "REV",
+        "draft_translation": "And I gave her space to repent of her sexual immorality; and she did not repent."
+      }
+    ],
     "modernized wherein": [
       {
         "ref": "Matthew 11:20",
         "book_code": "MAT",
-        "draft_translation": "Then began he to reproach the cities in which most of his mighty works were done, because they repented not:"
+        "draft_translation": "Then began he to reproach the cities in which most of his mighty works were done, because they did not repent:"
       },
       {
         "ref": "Matthew 25:13",
@@ -2611,6 +2640,23 @@
         "ref": "Mark 4:28",
         "book_code": "MRK",
         "draft_translation": "For the earth produces fruit of herself; first the blade, then the ear, after that the full grain in the ear."
+      }
+    ],
+    "modernized Sabbath-days wording": [
+      {
+        "ref": "Matthew 12:5",
+        "book_code": "MAT",
+        "draft_translation": "Or have you not read in the law, how that on the Sabbath the priests in the temple profane the sabbath, and are blameless?"
+      },
+      {
+        "ref": "Matthew 12:10",
+        "book_code": "MAT",
+        "draft_translation": "And, look, there was a man who had his hand withered. And they asked him, saying, Is it lawful to heal on the Sabbath? that they might accuse him."
+      },
+      {
+        "ref": "Matthew 12:12",
+        "book_code": "MAT",
+        "draft_translation": "How much then is a man better than a sheep? Therefore it is lawful to do well on the Sabbath."
       }
     ],
     "fixed charged-them relative artifact": [
@@ -2901,14 +2947,14 @@
         "draft_translation": "He says to them, But who do you say that I am?"
       },
       {
-        "ref": "Mark 8:29",
-        "book_code": "MRK",
-        "draft_translation": "And he says to them, But who do you say that I am? And Peter answers and says to him, You are the Christ."
+        "ref": "Matthew 27:17",
+        "book_code": "MAT",
+        "draft_translation": "Therefore when they were gathered together, Pilate said to them, Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?"
       },
       {
-        "ref": "Luke 9:20",
-        "book_code": "LUK",
-        "draft_translation": "He said to them, But who do you say that I am? Peter answering said, The Christ of God."
+        "ref": "Mark 3:4",
+        "book_code": "MRK",
+        "draft_translation": "And he says to them, Is it lawful to do good on the Sabbath, or to do evil? To save life, or to kill? But they were silent."
       }
     ],
     "rendered ekklesia as assembly": [
@@ -3100,6 +3146,13 @@
         "ref": "Matthew 25:41",
         "book_code": "MAT",
         "draft_translation": "Then shall he say also to them on the left hand, Depart from me, you cursed, into eternal fire, prepared for the devil and his angels:"
+      }
+    ],
+    "rendered ean genetai as if it happens": [
+      {
+        "ref": "Matthew 18:13",
+        "book_code": "MAT",
+        "draft_translation": "And if it happens that he finds it, Amen, I say to you, he rejoices more of that sheep, than of the ninety and nine which went not astray."
       }
     ],
     "fixed nations-man article artifact": [
@@ -3365,7 +3418,7 @@
       {
         "ref": "Matthew 21:32",
         "book_code": "MAT",
-        "draft_translation": "For John came to you in the way of righteousness, and you believed him not: but the tax collectors and the prostitutes believed him: and you, when you had seen it, repented not afterward, that you might believe him."
+        "draft_translation": "For John came to you in the way of righteousness, and you believed him not: but the tax collectors and the prostitutes believed him: and you, when you had seen it, did not repent afterward, that you might believe him."
       },
       {
         "ref": "Luke 15:30",
@@ -3669,7 +3722,7 @@
       {
         "ref": "Matthew 27:17",
         "book_code": "MAT",
-        "draft_translation": "Therefore when they were gathered together, Pilate said to them, Whom Do you want me to release to you? Barabbas, or Jesus who is called Christ?"
+        "draft_translation": "Therefore when they were gathered together, Pilate said to them, Whom do you want me to release to you? Barabbas, or Jesus who is called Christ?"
       },
       {
         "ref": "Matthew 27:21",
@@ -3745,23 +3798,35 @@
         "draft_translation": "And wherever he shall go in, say to the householder, The Teacher says, Where is the guest room, where I shall eat the Passover with my disciples?"
       }
     ],
-    "modernized hold-your-peace idiom": [
+    "fixed imperative casing": [
       {
         "ref": "Mark 1:25",
         "book_code": "MRK",
-        "draft_translation": "And Jesus rebuked him, saying, be silent, and come out of him."
+        "draft_translation": "And Jesus rebuked him, saying, Be silent, and come out of him."
       },
       {
         "ref": "Luke 4:35",
         "book_code": "LUK",
-        "draft_translation": "And Jesus rebuked him, saying, be silent, and come out of him. And when the demon had thrown him in the midst, he came out of him, and hurt him not."
+        "draft_translation": "And Jesus rebuked him, saying, Be silent, and come out of him. And when the demon had thrown him in the midst, he came out of him, and hurt him not."
+      }
+    ],
+    "modernized hold-your-peace idiom": [
+      {
+        "ref": "Mark 1:25",
+        "book_code": "MRK",
+        "draft_translation": "And Jesus rebuked him, saying, Be silent, and come out of him."
+      },
+      {
+        "ref": "Luke 4:35",
+        "book_code": "LUK",
+        "draft_translation": "And Jesus rebuked him, saying, Be silent, and come out of him. And when the demon had thrown him in the midst, he came out of him, and hurt him not."
       }
     ],
     "modernized held-their-peace idiom": [
       {
         "ref": "Mark 3:4",
         "book_code": "MRK",
-        "draft_translation": "And he says to them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they were silent."
+        "draft_translation": "And he says to them, Is it lawful to do good on the Sabbath, or to do evil? To save life, or to kill? But they were silent."
       },
       {
         "ref": "Mark 9:34",
@@ -4173,6 +4238,23 @@
         "ref": "Luke 24:37",
         "book_code": "LUK",
         "draft_translation": "But they were terrified and frightened, and supposed that they had seen a spirit."
+      }
+    ],
+    "modernized believed-not wording": [
+      {
+        "ref": "Mark 16:11",
+        "book_code": "MRK",
+        "draft_translation": "And they, when they had heard that he was alive, and had been seen of her, did not believe."
+      },
+      {
+        "ref": "Mark 16:14",
+        "book_code": "MRK",
+        "draft_translation": "Afterward he appeared to the eleven as they reclined at table, and upbraided them with their unbelief and hardness of heart, because they did not believe those who had seen him after he was risen."
+      },
+      {
+        "ref": "Luke 24:41",
+        "book_code": "LUK",
+        "draft_translation": "And while they yet did not believe for joy, and wondered, he said to them, Have you here any food?"
       }
     ],
     "modernized believes-not idiom": [
@@ -4726,6 +4808,13 @@
         "draft_translation": "Go you up to this feast: I do not go up yet to this feast: for my time is not yet fully come."
       }
     ],
+    "fixed everything-whole artifact": [
+      {
+        "ref": "John 7:23",
+        "book_code": "JHN",
+        "draft_translation": "If a man on the Sabbath receive circumcision, that the law of Moses should not be broken; are you angry at me, because I have made a man entirely whole on the Sabbath?"
+      }
+    ],
     "fixed whence casing after knows": [
       {
         "ref": "John 7:27",
@@ -4899,9 +4988,9 @@
         "draft_translation": "You are not straitened in us, but you are straitened in your own inward parts."
       },
       {
-        "ref": "Philippians 2:1",
-        "book_code": "PHP",
-        "draft_translation": "if there is therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any inward parts and mercies,"
+        "ref": "Colossians 3:12",
+        "book_code": "COL",
+        "draft_translation": "Put on therefore, as the elect of God, holy and beloved, inward parts of mercies, kindness, humbleness of mind, meekness, longsuffering;"
       }
     ],
     "cleaned so-that-that wording": [
@@ -5019,6 +5108,23 @@
         "ref": "Acts 15:13",
         "book_code": "ACT",
         "draft_translation": "And after they were silent, James answered, saying, Men and brothers, Listen to me:"
+      }
+    ],
+    "fixed brothers casing": [
+      {
+        "ref": "Acts 15:23",
+        "book_code": "ACT",
+        "draft_translation": "And they wrote letters by them after this manner; The apostles and elders and brothers send greeting to the brothers who are of the nations in Antioch and Syria and Cilicia."
+      },
+      {
+        "ref": "Romans 16:14",
+        "book_code": "ROM",
+        "draft_translation": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brothers who are with them."
+      },
+      {
+        "ref": "Galatians 1:2",
+        "book_code": "GAL",
+        "draft_translation": "And all the brothers who are with me, to the assemblies of Galatia:"
       }
     ],
     "fixed graven-by-art typo": [
@@ -5190,6 +5296,23 @@
         "ref": "1 Thessalonians 4:5",
         "book_code": "1TH",
         "draft_translation": "Not in the lust of desire, even as the nations which do not know God:"
+      }
+    ],
+    "rendered eiper as if indeed": [
+      {
+        "ref": "Romans 8:9",
+        "book_code": "ROM",
+        "draft_translation": "But you are not in the flesh, but in the Spirit, if indeed the Spirit of God dwell in you. Now if anyone have not the Spirit of Christ, he is none of his."
+      },
+      {
+        "ref": "Romans 8:17",
+        "book_code": "ROM",
+        "draft_translation": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if indeed we suffer with him, that we may be also glorified together."
+      },
+      {
+        "ref": "1 Corinthians 15:15",
+        "book_code": "1CO",
+        "draft_translation": "Yes, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if indeed the dead rise not."
       }
     ],
     "modernized if-Christ-be idiom": [
@@ -5463,28 +5586,23 @@
         "draft_translation": "And let us not be weary in well doing: for in due season we shall reap, if we do not faint."
       }
     ],
+    "rendered eige as if indeed": [
+      {
+        "ref": "2 Corinthians 5:3",
+        "book_code": "2CO",
+        "draft_translation": "If indeed being clothed we shall not be found naked."
+      },
+      {
+        "ref": "Ephesians 4:21",
+        "book_code": "EPH",
+        "draft_translation": "If indeed you have heard him, and have been taught by him, as the truth is in Jesus:"
+      }
+    ],
     "modernized pray-you wording": [
       {
         "ref": "2 Corinthians 5:20",
         "book_code": "2CO",
         "draft_translation": "Now then we are ambassadors for Christ, as though God did plead to you by us: we plead with you in Christ's place, be reconciled to God."
-      }
-    ],
-    "rendered epichoregeo as supply": [
-      {
-        "ref": "2 Corinthians 9:10",
-        "book_code": "2CO",
-        "draft_translation": "Now the one who supplies seed to the sower both supply bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)"
-      },
-      {
-        "ref": "Galatians 3:5",
-        "book_code": "GAL",
-        "draft_translation": "He therefore that supplies to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?"
-      },
-      {
-        "ref": "Colossians 2:19",
-        "book_code": "COL",
-        "draft_translation": "And not holding the Head, from which all the body by joints and bands having nourishment supplied, and knit together, increases with the increase of God."
       }
     ],
     "modernized forevermore spelling": [
@@ -5509,6 +5627,23 @@
         "ref": "2 Corinthians 13:5",
         "book_code": "2CO",
         "draft_translation": "Examine yourselves, whether you be in the faith; prove your own selves. Do you not know yourselves, how that Jesus Christ is in you, except you be reprobates?"
+      }
+    ],
+    "rendered epichoregeo as supply": [
+      {
+        "ref": "Galatians 3:5",
+        "book_code": "GAL",
+        "draft_translation": "He therefore that supplies to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?"
+      },
+      {
+        "ref": "Colossians 2:19",
+        "book_code": "COL",
+        "draft_translation": "And not holding the Head, from which all the body by joints and bands having nourishment supplied, and knit together, increases with the increase of God."
+      },
+      {
+        "ref": "2 Peter 1:11",
+        "book_code": "2PE",
+        "draft_translation": "For so an entrance shall be supplied to you abundantly into the eternal kingdom of our Lord and Savior Jesus Christ."
       }
     ],
     "modernized says-not wording": [
@@ -5549,6 +5684,13 @@
         "ref": "Ephesians 4:31",
         "book_code": "EPH",
         "draft_translation": "Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be removed from you, with all malice:"
+      }
+    ],
+    "modernized wrestle-not wording": [
+      {
+        "ref": "Ephesians 6:12",
+        "book_code": "EPH",
+        "draft_translation": "For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual wickedness in high places."
       }
     ],
     "modernized thereunto": [
@@ -5602,13 +5744,6 @@
         "draft_translation": "For an overseer must be blameless, as the steward of God; not self-willed, not soon angry, not given to wine, not an attacker, not given to filthy illegal gain;"
       }
     ],
-    "rendered splanchna affection idiom": [
-      {
-        "ref": "Philippians 1:8",
-        "book_code": "PHP",
-        "draft_translation": "For God is my record, how greatly I long after you all in the deep affection of Jesus Christ."
-      }
-    ],
     "modernized in-a-strait idiom": [
       {
         "ref": "Philippians 1:23",
@@ -5637,7 +5772,7 @@
       {
         "ref": "Philippians 4:21",
         "book_code": "PHP",
-        "draft_translation": "Salute every holy one in Christ Jesus. The brothers which are with me greet you."
+        "draft_translation": "Salute every holy one in Christ Jesus. the brothers who are with me greet you."
       }
     ],
     "modernized irreproachable": [
@@ -5822,6 +5957,13 @@
         "draft_translation": "In that he says, A new covenant, he has made the first old. Now that which decays and grows old is ready to vanish away."
       }
     ],
+    "modernized perished-not wording": [
+      {
+        "ref": "Hebrews 11:31",
+        "book_code": "HEB",
+        "draft_translation": "By faith the prostitute Rahab did not perish with those who did not believe, when she had received the spies with peace."
+      }
+    ],
     "modernized waxed-valiant idiom": [
       {
         "ref": "Hebrews 11:34",
@@ -5920,6 +6062,13 @@
         "draft_translation": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son."
       }
     ],
+    "fixed clothing-down-to-foot artifact": [
+      {
+        "ref": "Revelation 1:13",
+        "book_code": "REV",
+        "draft_translation": "And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment reaching to the feet, and girt about the breast with a golden girdle."
+      }
+    ],
     "rendered phiale as bowl": [
       {
         "ref": "Revelation 5:8",
@@ -5937,11 +6086,18 @@
         "draft_translation": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the bowls of the wrath of God upon the earth."
       }
     ],
+    "fixed became-rich artifact": [
+      {
+        "ref": "Revelation 18:3",
+        "book_code": "REV",
+        "draft_translation": "For all nations have drunk of the wine of the wrath of her sexual immorality, and the kings of the earth have committed sexual immorality with her, and the merchants of the earth became rich through the abundance of her delicacies."
+      }
+    ],
     "modernized waxed-rich idiom": [
       {
         "ref": "Revelation 18:3",
         "book_code": "REV",
-        "draft_translation": "For all nations have drunk of the wine of the wrath of her sexual immorality, and the kings of the earth have committed sexual immorality with her, and the merchants of the earth are became rich through the abundance of her delicacies."
+        "draft_translation": "For all nations have drunk of the wine of the wrath of her sexual immorality, and the kings of the earth have committed sexual immorality with her, and the merchants of the earth became rich through the abundance of her delicacies."
       }
     ],
     "modernized no-more-at-all idiom": [

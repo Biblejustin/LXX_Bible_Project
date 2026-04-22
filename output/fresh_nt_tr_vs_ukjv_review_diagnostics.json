@@ -2,34 +2,33 @@
   "method": "TR literal draft is primary; UKJV is witness only.",
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
-  "same_normalized": 4383,
-  "different_normalized": 3574,
-  "priority_rows": 97,
-  "queue_rows": 97,
+  "same_normalized": 4367,
+  "different_normalized": 3590,
+  "priority_rows": 0,
+  "queue_rows": 0,
   "status_counts": {
-    "tr_literal_manual": 20,
-    "tr_literal_pass1": 5724,
-    "needs_focused_tr_review": 2213
+    "tr_literal_manual": 30,
+    "tr_literal_pass1": 5723,
+    "needs_focused_tr_review": 2204
   },
   "latest_review_status_counts": {
-    "keep": 911,
-    "unreviewed": 6944,
-    "revised": 102
+    "keep": 947,
+    "unreviewed": 6897,
+    "revised": 113
   },
-  "resolved_review_rows": 1013,
+  "resolved_review_rows": 1060,
   "importance_counts": {
-    "none": 6793,
-    "low": 1067,
-    "medium": 97
+    "none": 7284,
+    "low": 673
   },
   "theme_counts": {
     "christology": 1990,
     "textual_literal": 775,
     "spirit_church": 523,
-    "soteriology": 934,
-    "law_covenant": 418,
+    "soteriology": 945,
+    "law_covenant": 417,
     "judgment_afterlife": 433,
-    "anthropology_ethics": 908
+    "anthropology_ethics": 913
   },
   "outputs": {
     "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_nt_tr_vs_ukjv_review.csv",

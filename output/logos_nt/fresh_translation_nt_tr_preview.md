@@ -145,7 +145,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 32
 
-**Galatians 1:2** And all the brothers which are with me, to the assemblies of Galatia:
+**Galatians 1:2** And all the brothers who are with me, to the assemblies of Galatia:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7

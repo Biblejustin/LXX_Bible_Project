@@ -622,6 +622,20 @@ def apply_greek_triggered_revisions(row: dict[str, str], text: str, notes: list[
             text = replace_literal(text, r"\bBut Amen,\s*I say\b", "But truly I say", "kept de-linked amen formula as but truly", notes)
     if "κυρι" in greek:
         text = replace_word_fixed(text, "LORD", "Lord", "normalized NT kurios as Lord", notes)
+    if greek_has_phrase(greek, "ειπερ"):
+        text = replace_literal(text, r"\bIf so be that\b", "If indeed", "rendered eiper as if indeed", notes)
+        text = replace_literal(text, r"\bif so be that\b", "if indeed", "rendered eiper as if indeed", notes)
+    if greek_has_phrase(greek, "ειγε"):
+        text = replace_literal(text, r"\bIf so be that\b", "If indeed", "rendered eige as if indeed", notes)
+        text = replace_literal(text, r"\bif so be that\b", "if indeed", "rendered eige as if indeed", notes)
+    if greek_has_phrase(greek, "εαν γενηται"):
+        text = replace_literal(
+            text,
+            r"\bAnd if so be that he find it\b",
+            "And if it happens that he finds it",
+            "rendered ean genetai as if it happens",
+            notes,
+        )
     if greek_has_token_part(greek, "γεννησ", "γεννηθ", "γεννημ", "γεννα"):
         text = replace_literal(text, r"\bproduces\b", "fathered", "aligned gennao with fathered", notes)
     if greek_has_stem(greek, "διαθηκ"):
@@ -684,6 +698,8 @@ def apply_greek_triggered_revisions(row: dict[str, str], text: str, notes: list[
     if greek_has_stem(greek, "σπλαγχν"):
         text = replace_literal(text, r"\bbowels of compassion\b", "compassion", "rendered splanchna compassion idiom", notes, flags=re.I)
         text = replace_literal(text, r"\bin the bowels of Jesus Christ\b", "in the deep affection of Jesus Christ", "rendered splanchna affection idiom", notes, flags=re.I)
+        text = replace_literal(text, r"\bbowels and mercies\b", "deep affections and mercies", "rendered splanchna affection idiom", notes, flags=re.I)
+        text = replace_literal(text, r"\binward parts and mercies\b", "deep affections and mercies", "rendered splanchna affection idiom", notes, flags=re.I)
         text = replace_word(text, "bowels", "inward parts", "rendered splanchna as inward parts", notes)
     if greek_has_stem(greek, "πτυ"):
         text = replace_word(text, "fan", "winnowing fork", "rendered ptuon as winnowing fork", notes)
@@ -913,6 +929,23 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\bbecause that\b", "because", "modernized because-that wording"),
         (r"\bof which you have heard\b", "concerning which you have heard", "aligned peri relative wording"),
         (r"\bdoes not righteousness\b", "does not do righteousness", "fixed do-righteousness wording"),
+        (r"\bmade a man everything whole\b", "made a man entirely whole", "fixed everything-whole artifact"),
+        (r"\bWhom Do you want\b", "Whom do you want", "fixed question casing"),
+        (r"\bdo not fear you\b", "do not fear", "modernized fear-not imperative"),
+        (r"\bon the sabbath days\b", "on the Sabbath", "modernized Sabbath-days wording"),
+        (r"\bBrothers which are\b", "Brothers who are", "modernized personal which as who"),
+        (r"\bbrothers which are\b", "brothers who are", "modernized personal which as who"),
+        (r"\bwhich also bears fruit\b", "who also bears fruit", "modernized personal which as who"),
+        (r"\bclothed with a clothing down to the foot\b", "clothed with a garment reaching to the feet", "fixed clothing-down-to-foot artifact"),
+        (r"\bThe Brothers who are\b", "The brothers who are", "fixed brothers casing"),
+        (r"\bbrothers, Has not God\b", "brothers, has not God", "fixed question casing"),
+        (r"\bsaying, be silent\b", "saying, Be silent", "fixed imperative casing"),
+        (r"\bor to do evil\? to save life\b", "or to do evil? To save life", "fixed question casing"),
+        (r"\brepented not\b", "did not repent", "modernized repented-not wording"),
+        (r"\bperished not\b", "did not perish", "modernized perished-not wording"),
+        (r"\bbelieved not\b", "did not believe", "modernized believed-not wording"),
+        (r"\bwe wrestle not against\b", "we do not wrestle against", "modernized wrestle-not wording"),
+        (r"\bare became rich\b", "became rich", "fixed became-rich artifact"),
         (r"\bsays not the law\b", "does not the law say", "modernized says-not question"),
         (r"\bHe says not,", "He does not say,", "modernized says-not wording"),
         (r"\bsays not,", "does not say,", "modernized says-not wording"),
@@ -929,6 +962,16 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
     ]
     for pattern, replacement, note in final_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
+    case_sensitive_replacements = [
+        (r"\bWhom Do\b", "Whom do", "fixed question casing"),
+        (r"\bto The brothers\b", "to the brothers", "fixed brothers casing"),
+        (r"\band The brothers\b", "and the brothers", "fixed brothers casing"),
+        (r"\ball The brothers\b", "all the brothers", "fixed brothers casing"),
+        (r"\bSalute The brothers\b", "Salute the brothers", "fixed brothers casing"),
+        (r"\bThe brothers who are\b", "the brothers who are", "fixed brothers casing"),
+    ]
+    for pattern, replacement, note in case_sensitive_replacements:
+        text = replace_literal(text, pattern, replacement, note, notes)
     return text
 
 
@@ -948,7 +991,17 @@ MANUAL_OVERRIDES = {
     "Romans 1:3": "concerning his Son, who came from David's seed according to flesh,",
     "Romans 1:4": "who was marked out Son of God in power according to Spirit of holiness by resurrection of dead ones: Jesus Christ our Lord,",
     "Romans 3:25": "whom God set forth as propitiation through faith in his blood, for a display of his righteousness because of the passing over of the sins that had happened before, in the forbearance of God;",
+    "Romans 3:31": "Do we then make void the law through faith? May it not be. Rather, we establish the law.",
+    "Romans 7:7": "What then shall we say? Is the law sin? May it not be. But I did not know sin except through the law: for I had not known desire, unless the law had said, You shall not covet.",
+    "Galatians 4:4": "But when the fullness of the time had come, God sent forth his Son, having come from a woman, having come under law,",
+    "Hebrews 9:16": "For where a will is, the death of the one who made it must be established.",
+    "Hebrews 9:17": "For a will is firm when people are dead, since it never has force while the one who made it lives.",
+    "Hebrews 9:18": "Therefore neither was the first covenant inaugurated without blood.",
+    "Philippians 2:1": "If therefore there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any deep affections and mercies,",
+    "1 John 5:1": "Everyone who believes that Jesus is the Christ has been born of God: and everyone who loves the one who fathered loves also the one begotten from him.",
     "Galatians 2:17": "But if, while seeking to be justified in Christ, we ourselves also were found sinners, then is Christ a servant of sin? May it not be.",
+    "2 Corinthians 9:10": "Now may the one who supplies seed to the sower and bread for food supply and multiply your seed sown, and increase the fruits of your righteousness;",
+    "Philippians 1:8": "For God is my witness, how I long for you all in the deep affection of Jesus Christ.",
     "1 Timothy 1:4": "nor to give heed to myths and endless genealogies, which produce disputes rather than godly edification which is in faith.",
     "1 Peter 4:10": "As each received a gift, serve it to one another, as good stewards of the manifold grace of God.",
     "1 Peter 5:13": "She who is in Babylon, elect together with you, greets you; and Marcus my son.",

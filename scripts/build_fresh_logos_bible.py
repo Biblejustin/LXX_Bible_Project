@@ -1561,6 +1561,8 @@ def clean_tsk_markup(fragment: str) -> str:
     fragment = re.sub(r"\s+", " ", fragment)
     fragment = re.sub(r"\bin the which\b", "in which", fragment, flags=re.I)
     fragment = re.sub(r"\bover the which\b", "over which", fragment, flags=re.I)
+    fragment = re.sub(r"\brepented not\b", "did not repent", fragment, flags=re.I)
+    fragment = re.sub(r"\bbelieved not\b", "did not believe", fragment, flags=re.I)
     return fragment.strip(" ;,")
 
 
