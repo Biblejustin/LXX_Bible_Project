@@ -22,16 +22,16 @@
       "description": "Active invocation formula, calling on the divine name.",
       "row_count": "13",
       "dominant_bucket": "call-on-name",
-      "dominant_count": "5",
-      "bucket_summary": "other=6, call-on-name=5, call-in-name=2"
+      "dominant_count": "7",
+      "bucket_summary": "call-on-name=7, other=6"
     },
     {
       "family": "soteria-sacrifice-formula",
       "description": "Cultic \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9- terms in sacrificial context.",
       "row_count": "71",
       "dominant_bucket": "salvation",
-      "dominant_count": "70",
-      "bucket_summary": "salvation=70, well-being=1"
+      "dominant_count": "71",
+      "bucket_summary": "salvation=71"
     },
     {
       "family": "into-living-soul-formula",
@@ -43,7 +43,7 @@
     }
   ],
   "row_count": 110,
-  "outlier_count": 4,
+  "outlier_count": 7,
   "unresolved_outlier_count": 0,
   "review_markdown": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.md",
   "review_csv": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_ot_idiom_consistency_review.csv",

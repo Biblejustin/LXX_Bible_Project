@@ -340,7 +340,7 @@ Rows: 21004
 - importance: `high`
 - fresh_mt_ratio: `0.066`
 - fresh_brenton_ratio: `0.167`
-- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - mt: God forbid that we should rebel against the LORD, and turn this day from following the LORD, to build an altar for burnt offerings, for food offerings, or for sacrifices, beside the altar of the LORD our God that is before his tabernacle.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
@@ -623,6 +623,15 @@ Rows: 21004
 - mt: Thus says the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, says the Lord GOD.
 - brenton: Thus saith the Lord God; Let it suffice you, ye princes of Israel: remove injustice and misery, execute judgment and justice; take away oppression from my people, saith the Lord God.
 
+## Genesis 1:2
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.691`
+- fresh_brenton_ratio: `0.871`
+- fresh: But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- mt: And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
+
 ## 1 Chronicles 16:35
 - priority: `21`
 - importance: `high`
@@ -631,15 +640,6 @@ Rows: 21004
 - fresh: And say, Save us, God of our salvation, and deliver us from nations, to praise your holy name and to boast in your praises.
 - mt: And say all of you, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to your holy name, and glory in your praise.
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
-
-## Genesis 1:2
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.699`
-- fresh_brenton_ratio: `0.844`
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
-- mt: And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
-- brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Zechariah 7:9
 - priority: `21`
@@ -161957,15 +161957,6 @@ Rows: 21004
 - mt: Then went king David in, and sat before the LORD, and he said, Who am I, O Lord GOD? and what is my house, that you have brought me until now?
 - brenton: And king David came in, and sat before the Lord, and said, Who am I, O Lord, my Lord, and what is my house, that thou hast loved me hitherto?
 
-## 1 Kings 18:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.787`
-- fresh_brenton_ratio: `0.856`
-- fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
-- mt: And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for all of you are many; and call on the name of your gods, but put no fire under.
-- brenton: And Eliu said to the prophets of shame, Choose to yourselves one calf, and dress it first, for ye are many; and call ye on the name of your god; but apply no fire.
-
 ## Genesis 35:20
 - priority: `0`
 - importance: `none`
@@ -163981,6 +163972,15 @@ Rows: 21004
 - fresh: And I will set his kingdom right forever, if he is strong to keep my commandments and my judgments, as this day.
 - mt: Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.
 - brenton: And I will establish his kingdom for ever, if he continue to keep my commandments, and my judgments, as at this day.
+
+## 1 Kings 18:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.793`
+- fresh_brenton_ratio: `0.862`
+- fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call on the name of your god, but put no fire.
+- mt: And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for all of you are many; and call on the name of your gods, but put no fire under.
+- brenton: And Eliu said to the prophets of shame, Choose to yourselves one calf, and dress it first, for ye are many; and call ye on the name of your god; but apply no fire.
 
 ## 1 Chronicles 10:7
 - priority: `0`
@@ -172226,15 +172226,6 @@ Rows: 21004
 - mt: And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might show these my signs before him:
 - brenton: And the Lord spoke to Moses, saying, Go in to Pharao: for I have hardened his heart and the heart of his servants, that these signs may come upon them; in order
 
-## Genesis 1:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.821`
-- fresh_brenton_ratio: `0.870`
-- fresh: At the beginning, God made heaven and earth.
-- mt: In the beginning God created the heaven and the earth.
-- brenton: In the beginning God made the heaven and the earth.
-
 ## 1 Kings 8:57
 - priority: `0`
 - importance: `none`
@@ -174844,15 +174835,6 @@ Rows: 21004
 - fresh: You shall not pervert the judgment of a poor man in his case.
 - mt: You shall not shift the judgment of your poor in his cause.
 - brenton: Thou shalt not wrest the sentence of the poor in his judgment.
-
-## 1 Kings 18:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.831`
-- fresh_brenton_ratio: `0.653`
-- fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
-- mt: And call all of you on the name of your gods, and I will call on the name of the LORD: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
-- brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
 
 ## Lamentations 3:31
 - priority: `0`
@@ -179660,6 +179642,15 @@ Rows: 21004
 - mt: And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.
 - brenton: And Moses offered up the whole ram on the altar: it is a whole-burnt-offering for a sweet-smelling savour; it is a burnt-offering to the Lord, as the Lord commanded Moses.
 
+## 1 Kings 18:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.854`
+- fresh_brenton_ratio: `0.676`
+- fresh: And call aloud on the name of your gods, and I will call on the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- mt: And call all of you on the name of your gods, and I will call on the name of the LORD: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
+- brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
+
 ## Genesis 38:13
 - priority: `0`
 - importance: `none`
@@ -181486,6 +181477,15 @@ Rows: 21004
 - fresh: In that day the Lord made a covenant with Abram, saying, To your seed I will give this land, from the river of Egypt as far as the great river, the Euphrates river,
 - mt: In the same day the LORD made a covenant with Abram, saying, Unto your seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
 - brenton: In that day the Lord made a covenant with Abram, saying, To thy seed I will give this land, from the river of Egypt to the great river Euphrates.
+
+## Genesis 1:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.863`
+- fresh_brenton_ratio: `0.913`
+- fresh: In the beginning, God made heaven and earth.
+- mt: In the beginning God created the heaven and the earth.
+- brenton: In the beginning God made the heaven and the earth.
 
 ## 2 Kings 16:6
 - priority: `0`

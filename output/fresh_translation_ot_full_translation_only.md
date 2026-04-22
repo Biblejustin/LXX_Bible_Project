@@ -2,6 +2,8 @@
 
 Scope: Genesis-Malachi (39 books)
 
+Display: drafted verses only
+
 ## Genesis
 
 ### Chapter 1
@@ -25982,7 +25984,7 @@ And we said, if ever it happens and they speak to us and to our generations tomo
 
 **Joshua 22:29**
 
-May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 
 **Joshua 22:30**
 
@@ -37452,11 +37454,11 @@ Let them give us two calves, and let them choose one for themselves and butcher 
 
 **1 Kings 18:24**
 
-And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+And call aloud on the name of your gods, and I will call on the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
 
 **1 Kings 18:25**
 
-And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
+And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call on the name of your god, but put no fire.
 
 **1 Kings 18:26**
 

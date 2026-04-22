@@ -51,16 +51,16 @@ Only verses with tracked decision rows or footnotes.
 - 45. Isaiah 44:2 | score 22 | decisions 1 | footnotes 1 | keep
 - 46. Jeremiah 23:5 | score 22 | decisions 1 | footnotes 1 | revised
 - 47. Joshua 22:23 | score 22 | decisions 1 | footnotes 1 | keep
-- 48. Joshua 22:29 | score 22 | decisions 1 | footnotes 1 | keep
-- 49. Joshua 24:19 | score 22 | decisions 1 | footnotes 1 | revised
-- 50. Leviticus 7:11 | score 22 | decisions 1 | footnotes 1 | keep
-- 51. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1 | revised
-- 52. Numbers 35:25 | score 22 | decisions 2 | footnotes 2 | keep
-- 53. Numbers 6:14 | score 22 | decisions 1 | footnotes 1 | revised
-- 54. Numbers 6:18 | score 22 | decisions 4 | footnotes 4 | revised
-- 55. Psalms 83:12 | score 22 | decisions 1 | footnotes 1 | revised
-- 56. Psalms 84:11 | score 22 | decisions 1 | footnotes 1 | keep
-- 57. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1 | revised
-- 58. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1 | keep
-- 59. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1 | keep
-- 60. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1 | keep
+- 48. Joshua 24:19 | score 22 | decisions 1 | footnotes 1 | revised
+- 49. Leviticus 7:11 | score 22 | decisions 1 | footnotes 1 | keep
+- 50. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1 | revised
+- 51. Numbers 35:25 | score 22 | decisions 2 | footnotes 2 | keep
+- 52. Numbers 6:14 | score 22 | decisions 1 | footnotes 1 | revised
+- 53. Numbers 6:18 | score 22 | decisions 4 | footnotes 4 | revised
+- 54. Psalms 83:12 | score 22 | decisions 1 | footnotes 1 | revised
+- 55. Psalms 84:11 | score 22 | decisions 1 | footnotes 1 | keep
+- 56. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1 | revised
+- 57. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1 | keep
+- 58. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1 | keep
+- 59. 2 Chronicles 6:20 | score 21 | decisions 1 | footnotes 1 | keep
+- 60. 2 Samuel 22:51 | score 21 | decisions 1 | footnotes 1 | keep

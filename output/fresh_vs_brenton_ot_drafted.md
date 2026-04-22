@@ -28,7 +28,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: At the beginning, God made heaven and earth.
+- fresh: In the beginning, God made heaven and earth.
 - brenton: In the beginning God made the heaven and the earth.
 
 ### Genesis 1:2
@@ -37,7 +37,7 @@ Note:
 - decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- fresh: But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ### Genesis 1:3
@@ -57521,7 +57521,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
 ### Joshua 22:30
@@ -82866,7 +82866,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- fresh: And call aloud on the name of your gods, and I will call on the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
 - brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
 
 ### 1 Kings 18:25
@@ -82875,7 +82875,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
+- fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call on the name of your god, but put no fire.
 - brenton: And Eliu said to the prophets of shame, Choose to yourselves one calf, and dress it first, for ye are many; and call ye on the name of your god; but apply no fire.
 
 ### 1 Kings 18:26

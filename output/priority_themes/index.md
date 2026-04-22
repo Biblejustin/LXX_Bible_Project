@@ -3,7 +3,7 @@
 Themes: 7
 
 ## Creation / Anthropology
-- rows: 53
+- rows: 52
 - books: 29
 - file: creation_anthropology.md
 - top refs: 1 Kings 2:35, Deuteronomy 12:21, Joshua 22:5, 1 Chronicles 22:19, Genesis 2:7

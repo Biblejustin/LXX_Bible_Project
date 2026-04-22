@@ -506,16 +506,6 @@ Rows: 232
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - OT clues: 1Sam.20.16 (4) -> May the name of Jonathan be removed from the house of David, and may the Lord seek out the enemies of David. || Deut.18.19 (4) -> And the man who does not hear whatever the prophet speaks in my name, I will exact it from him. || 2Chr.24.22 (2) -> And Joash did not remember mercy which Jehoiada his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge. || Deut.12.11 (2) -> And it shall be, the place that the Lord your God chooses for his name to be called there, there you shall bring everything that I command you today, your whole burnt offerings and your sacrifices and your tithes and the firstfruits of your hands and every choice gift that you vow to your God.
 
-## Joshua 22:29
-- score: 22
-- latest review status: keep
-- top vote: 4
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 0
-- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
-- OT clues: Deut.12.13-Deut.12.14 (4) -> Watch yourself lest you bring up your whole burnt offerings in every place that you see, || Josh.24.16 (4) -> And the people answered and said, May it never be for us to forsake the Lord so as to serve other gods. || 1Kgs.21.3 (2) -> And he said to him, Thus says son of Ader: Your silver and your gold are mine, and your wives and your children are mine. || 1Sam.12.23 (2) -> And as for me, far be it from me to sin against the Lord by ceasing to pray concerning you, and I will serve the Lord and show you the good and straight way.
-
 ## Joshua 24:19
 - score: 22
 - latest review status: revised
@@ -716,7 +706,7 @@ Rows: 232
 - OT crossrefs: 7
 - NT crossrefs: 0
 - shared-family hits: 0
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- fresh: But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - OT clues: Jer.4.23 (97) -> I looked upon earth, and behold, nothing, and to heaven, and its lights were not. || Ps.104.30 (74) -> Their land teemed with frogs in chambers of their kings. || Isa.45.18 (67) -> Thus says Lord, one making heaven, this God showing earth and making it, he marked it out; not in vain he made it, but to be inhabited. I am, and there is no other. || Ps.33.6 (47) -> Draw near to him and be enlightened, and your faces will by no means be ashamed.
 
 ## Genesis 24:14
@@ -975,6 +965,16 @@ Rows: 232
 - fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 - OT clues: Ps.8.4-Ps.8.8 (49) -> Because I will see heavens, works of your fingers, moon and stars which you founded. || Gen.3.22 (42) -> And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.' || Gen.5.1 (40) -> This is the book of the origin of humans. On the day God made Adam, according to the image of God he made him. || Ps.100.3 (39) -> I did not set before my eyes lawless thing; those doing transgressions I hated.
 - NT clues: Col.3.10 (82) -> And have put on the new man, which is renewed in knowledge after the image of him that created him: || Eph.4.24 (75) -> And that all of you put on the new man, which after God is created in righteousness and true holiness. || 2Cor.3.18 (38) -> But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit (o. pneuma) of the LORD.
+
+## Joshua 22:29
+- score: 20
+- latest review status: keep
+- top vote: 4
+- OT crossrefs: 8
+- NT crossrefs: 0
+- shared-family hits: 0
+- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- OT clues: Deut.12.13-Deut.12.14 (4) -> Watch yourself lest you bring up your whole burnt offerings in every place that you see, || Josh.24.16 (4) -> And the people answered and said, May it never be for us to forsake the Lord so as to serve other gods. || 1Kgs.21.3 (2) -> And he said to him, Thus says son of Ader: Your silver and your gold are mine, and your wives and your children are mine. || 1Sam.12.23 (2) -> And as for me, far be it from me to sin against the Lord by ceasing to pray concerning you, and I will serve the Lord and show you the good and straight way.
 
 ## Malachi 3:1
 - score: 20

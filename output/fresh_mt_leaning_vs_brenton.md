@@ -2453,9 +2453,9 @@ Rows: 522
 ## 1 Kings 18:24
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.831`
-- fresh_brenton_ratio: `0.653`
-- fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- fresh_mt_ratio: `0.854`
+- fresh_brenton_ratio: `0.676`
+- fresh: And call aloud on the name of your gods, and I will call on the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
 - mt: And call all of you on the name of your gods, and I will call on the name of the LORD: and the God that answers by fire, let him be God. And all the people answered and said, It is well spoken.
 - brenton: And do ye call loudly on the name of your gods, and I will call on the name of the Lord my God, and it shall come to pass that the God who shall answer by fire, he is God. And all the people answered and said, The word which thou hast spoken is good.
 

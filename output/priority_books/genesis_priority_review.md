@@ -5,7 +5,7 @@ Selected verses: 6
 ## Genesis 1:2
 - score: 21
 - reasons: decisions=4; footnotes=1; reviewed_decisions=1; importance=high; keywords=abyss, god, spirit; crossref_top_vote=97; eng_reco=keep; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=Spirit of God rendering; reco=keep
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- fresh: But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:26

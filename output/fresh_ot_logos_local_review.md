@@ -114,20 +114,6 @@ Rows: 19
 - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - brenton: And if we have built to ourselves an altar, so as to apostatize from the Lord our God, so as to offer upon it a sacrifice of whole-burnt-offerings, so as to offer upon it a sacrifice of peace-offering,—the Lord shall require it.
 
-## Joshua 22:29
-- priority: `22`
-- importance: `high`
-- checked: `1`
-- scopes: soteria-sacrifice-formula
-- signals: lexical_support
-- supports: salvation-shaped rendering
-- recommendation: `keep`
-- confidence: `high`
-- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
-- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
-- brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
-
 ## Leviticus 7:11
 - priority: `22`
 - importance: `high`
@@ -195,8 +181,22 @@ Rows: 19
 - confidence: `medium`
 - tools: AutoComplete.db WordSense; recent history; local index inspection
 - summary: Local Logos word-sense index distinguishes spirit, Spirit of God, and soul/spirit crossover. That supports reading pneuma Theou here as Spirit, not mere wind.
-- fresh: Now the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
+- fresh: But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
+
+## Joshua 22:29
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
 
 ## Numbers 15:8
 - priority: `20`

@@ -4,7 +4,7 @@ Repeated Greek idiom families. Use this to check whether one verse is drifting a
 
 Families: 5
 Rows checked: 110
-Outliers: 4
+Outliers: 7
 Unresolved outliers: 0
 
 ## Family Summary
@@ -76,15 +76,15 @@ Unresolved outliers: 0
 ### call-on-name-formula
 - description: Active invocation formula, calling on the divine name.
 - rows: 13
-- dominant bucket: `call-on-name` (5)
-- buckets: other=6, call-on-name=5, call-in-name=2
+- dominant bucket: `call-on-name` (7)
+- buckets: call-on-name=7, other=6
 
 - 1 Kings 8:43 [other]
   - fresh: then you will hear from heaven from your ready dwelling place and do according to all that the foreigner calls on you for, so that all the peoples of the earth may know your name and fear you as your people Israel do, and may know that your name is called upon this house that I built.
-- 1 Kings 18:24 [call-in-name]
-  - fresh: And call in the name of your gods, and I will call in the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
-- 1 Kings 18:25 [call-in-name]
-  - fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call in the name of your god, but put no fire.
+- 1 Kings 18:24 [call-on-name]
+  - fresh: And call aloud on the name of your gods, and I will call on the name of the Lord my God, and the god who answers by fire, he is God. And all the people answered and said, Good is the word that you spoke.
+- 1 Kings 18:25 [call-on-name]
+  - fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call on the name of your god, but put no fire.
 - 2 Chronicles 6:33 [other]
   - fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever foreigner calls upon you for, so that all peoples of earth may know your name and fear you as your people Israel and know that your name is called upon this house which I built.
 - 2 Kings 5:11 [call-on-name]
@@ -109,8 +109,8 @@ Unresolved outliers: 0
 ### soteria-sacrifice-formula
 - description: Cultic σωτηρι- terms in sacrificial context.
 - rows: 71
-- dominant bucket: `salvation` (70)
-- buckets: salvation=70, well-being=1
+- dominant bucket: `salvation` (71)
+- buckets: salvation=71
 
 - 1 Chronicles 16:1 [salvation]
   - fresh: And they brought in ark of God and set it in middle of tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
@@ -154,8 +154,8 @@ Unresolved outliers: 0
   - fresh: And if we built for ourselves an altar so as to turn away from the Lord our God, so as to offer on it sacrifices of whole burnt offerings or so as to make on it a sacrifice of salvation, the Lord himself shall require it.
 - Joshua 22:27 [salvation]
   - fresh: but so that this may be a witness between us and you and between our generations after us, to render service to the Lord before him in our offerings and in our sacrifices and in our sacrifices of salvation, and your children will not say to our children tomorrow, You have no share in the Lord.
-- Joshua 22:29 [well-being]
-  - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of well-being and the sacrifice of salvation besides the altar of the Lord that is before his tent.
+- Joshua 22:29 [salvation]
+  - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - Judges 20:26 [salvation]
   - fresh: And all the sons of Israel and all the people went up and came to Baethel and wept before the Lord and fasted on that day and offered whole burnt offerings of salvation before the Lord.
 - Judges 21:4 [salvation]

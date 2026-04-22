@@ -6,7 +6,7 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 53
+- anthropology: 52
 - covenant/law: 88
 - death/afterlife: 2
 - kingship: 102
@@ -62,6 +62,6 @@ Use MD for reading order.
 - 45. Isaiah 44:2 | score 22 | kingship | keep
 - 46. Jeremiah 23:5 | score 22 | covenant/law, kingship | revised
 - 47. Joshua 22:23 | score 22 | ritual, kingship | keep
-- 48. Joshua 22:29 | score 22 | anthropology, ritual, kingship | keep
-- 49. Joshua 24:19 | score 22 | theology, anthropology, covenant/law, ritual | revised
-- 50. Leviticus 7:11 | score 22 | covenant/law, ritual, kingship | keep
+- 48. Joshua 24:19 | score 22 | theology, anthropology, covenant/law, ritual | revised
+- 49. Leviticus 7:11 | score 22 | covenant/law, ritual, kingship | keep
+- 50. Nehemiah 1:11 | score 22 | theology, kingship | revised
