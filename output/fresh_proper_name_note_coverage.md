@@ -26,7 +26,6 @@ Policy:
 - `Assyrians` (people_group, 110x, first Genesis 2:14) — logos_primary_entity
 - `Samaria` (transliterated_form, 109x, first Judges 10:1) — not_classified
 - `Ammon` (transliterated_form, 106x, first Numbers 21:24) — not_classified
-- `Gentiles` (people_group, 99x, first Matthew 4:15) — logos_primary_entity
 - `Pharisees` (people_group, 87x, first Matthew 3:7) — logos_primary_entity
 - `Moses` (person, 80x, first Matthew 8:4) — logos_primary_entity
 - `Gilead` (transliterated_form, 78x, first Genesis 31:21) — not_classified
@@ -41,7 +40,6 @@ Policy:
 - `David` (person, 59x, first Matthew 1:1) — logos_primary_entity
 - `Hebron` (transliterated_form, 57x, first Genesis 13:18) — not_classified
 - `Jericho` (place, 57x, first Numbers 22:1) — logos_alias_place_atlas_link_preserved
-- `Sabaoth` (transliterated_form, 56x, first Joshua 6:17) — manual_high_frequency_source_form
 - `Midian` (transliterated_form, 54x, first Exodus 2:15) — not_classified
 - `Philistines` (people_group, 53x, first Genesis 21:32) — logos_primary_entity
 - `Edom` (place, 52x, first Genesis 25:30) — logos_primary_place_atlas_link_preserved
@@ -57,7 +55,7 @@ Policy:
 - `Beniamin` (transliterated_form, 43x, first 1 Chronicles 2:2) — manual_high_frequency_source_form
 - `Canaanite` (people_group, 43x, first Genesis 38:2) — logos_alias_entity
 - `Damascus` (place, 43x, first Genesis 14:15) — logos_primary_place_atlas_link_preserved
-- `Judaea` (transliterated_form, 43x, first Matthew 2:1) — manual_high_frequency_source_form
+- `Judea` (place, 43x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
 - `Tyre` (place, 43x, first Joshua 19:35) — logos_primary_place_atlas_link_preserved
 - `Galaad` (transliterated_form, 42x, first Genesis 46:20) — manual_high_frequency_source_form
 - `Amorite` (people_group, 41x, first Genesis 14:13) — logos_alias_entity
@@ -91,3 +89,5 @@ Policy:
 - `Carmel` (place, 30x, first Joshua 19:26) — logos_primary_place_atlas_link_preserved
 - `Elijah` (person, 30x, first Matthew 11:14) — logos_alias_entity
 - `Jehoiada` (person, 30x, first 2 Samuel 8:18) — logos_alias_entity
+- `Hittite` (people_group, 29x, first Genesis 23:10) — logos_alias_entity
+- `Joash` (person, 29x, first Judges 6:11) — logos_alias_entity

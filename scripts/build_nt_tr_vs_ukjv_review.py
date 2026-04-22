@@ -170,8 +170,36 @@ STATUS_WEIGHTS = {
 
 def normalize_for_compare(text: str) -> str:
     text = text.lower()
+    text = re.sub(r"\([a-z]\.\s*[^)]+\)", " ", text)
     text = text.replace("'", "")
     text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    comparison_replacements = [
+        ("all of you all", "you"),
+        ("all of you", "you"),
+        ("unto", "to"),
+        ("thereunto", "to this"),
+        ("hereunto", "to this"),
+        ("whosoever", "whoever"),
+        ("whatsoever", "whatever"),
+        ("wherefore", "therefore"),
+        ("henceforth", "from now on"),
+        ("thenceforth", "from then on"),
+        ("thence", "from there"),
+        ("thither", "there"),
+        ("offence", "offense"),
+        ("saviour", "savior"),
+        ("honour", "honor"),
+        ("judaea", "judea"),
+        ("he that", "the one who"),
+        ("he which", "the one who"),
+        ("which was", "who was"),
+        ("which were", "who were"),
+        ("which is", "who is"),
+        ("which are", "who are"),
+    ]
+    for old, new in comparison_replacements:
+        text = re.sub(rf"\b{re.escape(old)}\b", new, text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -236,6 +264,8 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
     tr_norm = normalize_for_compare(tr_text)
     ukjv_norm = normalize_for_compare(ukjv_text)
     same_normalized = bool(tr_norm and ukjv_norm and tr_norm == ukjv_norm)
+    has_text_gap = not tr_text or not ukjv_text
+    has_meaningful_difference = has_text_gap or not same_normalized
 
     themes, keyword_hits = find_theme_hits(f"{tr_text} {ukjv_text}")
     matched_notes = note_matches(notes)
@@ -251,25 +281,23 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
     if not same_normalized:
         score += 2
         reasons.append("TR draft differs from UKJV witness")
+    elif tr_text and ukjv_text:
+        reasons.append("TR draft matches UKJV witness")
 
-    if status in STATUS_WEIGHTS:
+    if has_meaningful_difference and status in STATUS_WEIGHTS:
         score += STATUS_WEIGHTS[status]
         reasons.append(f"status:{status}")
 
-    for note in matched_notes:
-        score += NOTE_WEIGHTS[note]
-        reasons.append(note)
+    if has_meaningful_difference:
+        for note in matched_notes:
+            score += NOTE_WEIGHTS[note]
+            reasons.append(note)
 
-    if keyword_hits:
+    if has_meaningful_difference and keyword_hits:
         score += min(12, len(keyword_hits) * 2)
         reasons.append("theology/literal keyword hit")
 
-    requires_review = (
-        not same_normalized
-        or status == "needs_focused_tr_review"
-        or not tr_text
-        or not ukjv_text
-    )
+    requires_review = has_meaningful_difference
 
     if resolved:
         importance = "none"
@@ -398,10 +426,7 @@ def main() -> None:
     queue_rows = [
         row
         for row in priority_rows
-        if (
-            row["latest_review_status"] not in RESOLVED_REVIEW_STATUSES
-            and (row["importance"] == "high" or row["review_status"] == "needs_focused_tr_review")
-        )
+        if row["latest_review_status"] not in RESOLVED_REVIEW_STATUSES
     ]
     priority_rows.sort(key=priority_sort_key)
     queue_rows.sort(key=priority_sort_key)

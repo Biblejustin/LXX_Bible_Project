@@ -70,6 +70,7 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
     assert len(rows) == 3121
     assert not [row for row in rows if not row["name_meaning"].strip()]
     assert not [row for row in rows if "meaning uncertain" in row["name_meaning"].lower()]
+    assert not [row for row in rows if row["equivalent_confidence"] == "fallback"]
 
     expected = {
         "Armathaim": ("Ramathaimzophim", "the two watch-towers"),
@@ -78,6 +79,8 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
         "Anna": ("Hannah", "gracious; merciful; he that gives"),
         "Phennana": ("Peninnah", "pearl; precious stone; the face"),
         "Nasib": ("Zuph", "watcher; honeycomb"),
+        "Iosedek": ("Jozadak", "Yahweh is righteous; justice of the Lord"),
+        "Josedek": ("Josedech", "Yahweh is righteous; justice of the Lord"),
     }
     for source_name, (english_equivalent, meaning) in expected.items():
         assert by_name[source_name]["english_equivalent"] == english_equivalent

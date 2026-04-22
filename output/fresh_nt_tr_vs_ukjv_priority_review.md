@@ -3,531 +3,9 @@
 Method: `draft_translation` = TR literal draft. `ukjv_translation` = UKJV witness only.
 Review target: meaningful or theologically relevant differences, not every style difference.
 
-Rows shown: 300 of 3628
+Rows shown: 300 of 398
 
-## 1. 1 Corinthians 10:32 - medium - score 17
-
-- TR draft: Give none offense, neither to the Jews, nor to the Gentiles, nor to the assembly of God:
-- UKJV witness: Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 2. 1 Corinthians 11:22 - medium - score 17
-
-- TR draft: What? have you not houses to eat and to drink in? or despise you the assembly of God, and shame those who have not? What shall I say to you? shall I praise you in this? I praise you not.
-- UKJV witness: What? have all of you not houses to eat and to drink in? or despise all of you the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 3. 1 Corinthians 12:28 - medium - score 17
-
-- TR draft: And God has set some in the assembly, first apostles, secondly prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-- UKJV witness: And God has set some in the church, first apostles, secondly prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 4. 1 Corinthians 14:4 - medium - score 17
-
-- TR draft: the one who speaks in an unknown tongue edifies himself; but the one who prophesies edifies the assembly.
-- UKJV witness: He that speaks in an unknown tongue edifies himself; but he that prophesies edifies the church.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 5. 1 Corinthians 14:5 - medium - score 17
-
-- TR draft: I would that you all spoke with tongues but rather that you prophesied: for greater is the one who prophesies than the one who speaks with tongues, except he interpret, that the assembly may receive edifying.
-- UKJV witness: I would that all of you all spoke with tongues but rather that all of you prophesied: for greater is he that prophesies than he that speaks with tongues, except he interpret, that the church may receive edifying.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 6. 1 Corinthians 14:12 - medium - score 17
-
-- TR draft: Even so you, since you are zealous of spiritual gifts, seek that you may excel to the edifying of the assembly.
-- UKJV witness: Even so all of you, forasmuch as all of you are zealous of spiritual (o. pneuma) gifts, seek that all of you may excel to the edifying of the church.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 7. 1 Corinthians 14:19 - medium - score 17
-
-- TR draft: Yet in the assembly I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
-- UKJV witness: Yet in the church I had rather speak five words (o. logos) with my understanding, that by my voice I might teach others also, than ten thousand words (o. logos) in an unknown tongue.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 8. 1 Corinthians 14:23 - medium - score 17
-
-- TR draft: If therefore the whole assembly be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that you are mad?
-- UKJV witness: If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that all of you are mad?
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 9. 1 Corinthians 14:28 - medium - score 17
-
-- TR draft: But if there is no interpreter, let him keep silence in the assembly; and let him speak to himself, and to God.
-- UKJV witness: But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 10. 1 Corinthians 14:35 - medium - score 17
-
-- TR draft: And if they will learn anything, let them ask their husbands at home: for it is a shame for women to speak in the assembly.
-- UKJV witness: And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 11. 1 Thessalonians 2:14 - medium - score 17
-
-- TR draft: For you, brothers, became followers of the assemblies of God who in Judea are in Christ Jesus: for you also have suffered like things of your own countrymen, even as they have of the Jews:
-- UKJV witness: For all of you, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for all of you also have suffered like things of your own countrymen, even as they have of the Jews:
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 12. 1 Timothy 3:5 - medium - score 17
-
-- TR draft: (For if a man do not know how to rule his own house, how shall he take care of the assembly of God?)
-- UKJV witness: (For if a man know not how to rule his own house, how shall he take care of the church of God?)
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 13. 1 Timothy 3:15 - medium - score 17
-
-- TR draft: But if I tarry long, that you may know how you ought to behave yourself in the house of God, who is the assembly of the living God, the pillar and ground of the truth.
-- UKJV witness: But if I tarry long, that you may know how you ought to behave yourself in the house of God, which is the church of the living God, the pillar and ground of the truth.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 14. 1 Timothy 5:16 - medium - score 17
-
-- TR draft: If anyone or woman that believes have widows, let them relieve them, and let not the assembly be charged; that it may relieve those who are widows indeed.
-- UKJV witness: If any man or woman that believes have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 15. 3 John 1:9 - medium - score 17
-
-- TR draft: I wrote to the assembly: but Diotrephes, who loves to have the preeminence among them, receives us not.
-- UKJV witness: I wrote unto the church: but Diotrephes, who loves to have the preeminence among them, receives us not.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 16. 3 John 1:10 - medium - score 17
-
-- TR draft: Therefore, if I come, I will remember his deeds which he does, babbling against us with malicious words: and not content with it, neither does he himself receive the brothers, and forbids those who would, and casts them out of the assembly.
-- UKJV witness: Wherefore, if I come, I will remember his deeds which he does, babbling against us with malicious words: (o. logos) and not content therewith, neither does he himself receive the brethren, and forbids them that would, and casts them out of the church.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 17. Acts 5:11 - medium - score 17
-
-- TR draft: And great fear came upon all the assembly, and upon as many as heard these things.
-- UKJV witness: And great fear came upon all the church, and upon as many as heard these things.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 18. Acts 8:3 - medium - score 17
-
-- TR draft: As for Saul, he made havoc of the assembly, entering into every house, and haling men and women committed them to prison.
-- UKJV witness: As for Saul, he made havoc of the church, entering into every house, and haling men and women committed them to prison.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 19. Acts 11:22 - medium - score 17
-
-- TR draft: Then tidings of these things came to the ears of the assembly which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
-- UKJV witness: Then tidings (o. logos) of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 20. Acts 11:26 - medium - score 17
-
-- TR draft: And when he had found him, he brought him to Antioch. And it happened, that a whole year they assembled themselves with the assembly, and taught much people. And the disciples were called Christians first in Antioch.
-- UKJV witness: And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 21. Acts 12:5 - medium - score 17
-
-- TR draft: Peter therefore was kept in prison: but prayer was made without ceasing of the assembly to God for him.
-- UKJV witness: Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 22. Acts 13:1 - medium - score 17
-
-- TR draft: Now there were in the assembly that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
-- UKJV witness: Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 23. Acts 15:3 - medium - score 17
-
-- TR draft: And being brought on their way by the assembly, they passed through Phenice and Samaria, declaring the conversion of the nations: and they caused great joy to all the brothers.
-- UKJV witness: And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 24. Acts 15:4 - medium - score 17
-
-- TR draft: And when they had come to Jerusalem, they were received of the assembly, and of the apostles and elders, and they declared all things that God had done with them.
-- UKJV witness: And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 25. Acts 15:22 - medium - score 17
-
-- TR draft: Then pleased it the apostles and elders with the whole assembly, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brothers:
-- UKJV witness: Then pleased it the apostles and elders with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brethren:
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 26. Acts 18:22 - medium - score 17
-
-- TR draft: And when he had landed at Caesarea, and gone up, and saluted the assembly, he went down to Antioch.
-- UKJV witness: And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 27. Acts 20:17 - medium - score 17
-
-- TR draft: And from Miletus he sent to Ephesus, and called the elders of the assembly.
-- UKJV witness: And from Miletus he sent to Ephesus, and called the elders of the church.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 28. Colossians 4:15 - medium - score 17
-
-- TR draft: Salute the brothers which are in Laodicea, and Nymphas, and the assembly which is in his house.
-- UKJV witness: Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 29. Colossians 4:16 - medium - score 17
-
-- TR draft: And when this epistle is read among you, cause that it be read also in the assembly of the Laodiceans; and that you likewise read the epistle from Laodicea.
-- UKJV witness: And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that all of you likewise read the epistle from Laodicea.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 30. Ephesians 1:22 - medium - score 17
-
-- TR draft: And has put all things under his feet, and gave him to be the head over all things to the assembly,
-- UKJV witness: And has put all things under his feet, and gave him to be the head over all things to the church,
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 31. Ephesians 3:10 - medium - score 17
-
-- TR draft: To the intent that now to the principalities and powers in heavenly places might be known by the assembly the manifold wisdom of God,
-- UKJV witness: To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 32. Ephesians 5:27 - medium - score 17
-
-- TR draft: That he might present it to himself a glorious assembly, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
-- UKJV witness: That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 33. Galatians 1:13 - medium - score 17
-
-- TR draft: For you have heard of my conduct in time past in the Jews' religion, how that beyond measure I persecuted the assembly of God, and wasted it:
-- UKJV witness: For all of you have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 34. Hebrews 2:12 - medium - score 17
-
-- TR draft: Saying, I will declare your name to my brothers, in the midst of the assembly will I sing praise to you.
-- UKJV witness: Saying, I will declare your name unto my brethren, in the midst of the church will I sing praise unto you.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 35. John 1:51 - medium - score 17
-
-- TR draft: And he says to him, Amen, amen, I say to you, Hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of man.
-- UKJV witness: And he says unto him, Verily, verily, I say unto you, Hereafter all of you shall see heaven open, and the angels of God ascending and descending upon the Son of man.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 36. John 3:5 - medium - score 17
-
-- TR draft: Jesus answered, Amen, amen, I say to you, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
-- UKJV witness: Jesus answered, Verily, verily, I say unto you, Except a man be born of water and of the Spirit, (o. pneuma) he cannot enter into the kingdom of God.
-- Themes: christology; spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 37. John 5:19 - medium - score 17
-
-- TR draft: Then answered Jesus and said to them, Amen, amen, I say to you, The Son can do nothing of himself, but what he sees the Father do: for what things whatever he does, these also does the Son likewise.
-- UKJV witness: Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he sees the Father do: for what things whatsoever he does, these also does the Son likewise.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 38. John 5:25 - medium - score 17
-
-- TR draft: Amen, amen, I say to you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and those who hear shall live.
-- UKJV witness: Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 39. John 13:21 - medium - score 17
-
-- TR draft: When Jesus had thus said, he was troubled in spirit, and testified, and said, Amen, amen, I say to you, that one of you shall betray me.
-- UKJV witness: When Jesus had thus said, he was troubled in spirit, (o. pneuma) and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
-- Themes: christology; spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 40. Matthew 18:17 - medium - score 17
-
-- TR draft: And if he shall neglect to hear them, tell it to the assembly: but if he neglect to hear the assembly, let him be to you as a man of the nations and a tax collector.
-- UKJV witness: And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto you as an heathen man and a publican.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 41. Matthew 21:21 - medium - score 17
-
-- TR draft: Jesus answered and said to them, Amen, I say to you, If you have faith, and doubt not, you shall not only do this which is done to the fig tree, but also if you shall say to this mountain, Be removed, and be cast into the sea; it shall be done.
-- UKJV witness: Jesus answered and said unto them, Verily I say unto you, If all of you have faith, and doubt not, all of you shall not only do this which is done to the fig tree, but also if all of you shall say unto this mountain, Be you removed, and be you cast into the sea; it shall be done.
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 42. Philemon 1:2 - medium - score 17
-
-- TR draft: And to our beloved Apphia, and Archippus our fellow soldier, and to the assembly in your house:
-- UKJV witness: And to our beloved Apphia, and Archippus our fellow soldier, and to the church in your house:
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 43. Revelation 1:4 - medium - score 17
-
-- TR draft: John to the seven assemblies which are in Asia: Grace be to you, and peace, from him who is, and which was, and which is to come; and from the seven Spirits which are before his throne;
-- UKJV witness: John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits (o. pneuma) which are before his throne;
-- Themes: anthropology_ethics; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 44. Revelation 2:11 - medium - score 17
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies; the one who overcomes shall not be hurt of the second death.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches; He that overcomes shall not be hurt of the second death.
-- Themes: judgment_afterlife; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 45. Revelation 22:16 - medium - score 17
-
-- TR draft: I Jesus have sent mine angel to testify to you these things in the assemblies. I am the root and the offspring of David, and the bright and morning star.
-- UKJV witness: I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 46. Romans 16:23 - medium - score 17
-
-- TR draft: Gaius mine host, and of the whole assembly, salutes you. Erastus the chamberlain of the city salutes you, and Quartus a brother.
-- UKJV witness: Gaius mine host, and of the whole church, salutes you. Erastus the chamberlain of the city salutes you, and Quartus a brother.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 47. 1 Corinthians 1:7 - medium - score 16
-
-- TR draft: So that you come behind in no gift; waiting for the coming of our Lord Jesus Christ:
-- UKJV witness: So that all of you come behind in no gift; waiting for the coming of our Lord Jesus Christ:
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 48. 1 Corinthians 1:8 - medium - score 16
-
-- TR draft: Who shall also confirm you to the end, that you may be blameless in the day of our Lord Jesus Christ.
-- UKJV witness: Who shall also confirm you unto the end, that all of you may be blameless in the day of our Lord Jesus Christ.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 49. 1 Corinthians 6:11 - medium - score 16
-
-- TR draft: And such were some of you: but you are washed, but you are sanctified, but you are justified in the name of the Lord Jesus, and by the Spirit of our God.
-- UKJV witness: And such were some of you: but all of you are washed, but all of you are sanctified, but all of you are justified in the name of the Lord Jesus, and by the Spirit (o. pneuma) of our God.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 50. 1 Corinthians 6:13 - medium - score 16
-
-- TR draft: Foods for the belly, and the belly for foods: but God shall destroy both it and them. Now the body is not for sexual immorality, but for the Lord; and the Lord for the body.
-- UKJV witness: Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 51. 1 Corinthians 7:21 - medium - score 16
-
-- TR draft: Are you called being a slave? care not for it: but if you may be made free, use it rather.
-- UKJV witness: Are you called being a servant? care not for it: but if you may be made free, use it rather.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 52. 1 Corinthians 7:34 - medium - score 16
-
-- TR draft: There is difference also between a wife and a virgin. The unmarried woman cares for the things of the Lord, that she may be holy both in body and in spirit: but she that is married cares for the things of the world, how she may please her husband.
-- UKJV witness: There is difference also between a wife and a virgin. The unmarried woman cares for the things of the Lord, that she may be holy both in body and in spirit: (o. pneuma) but she that is married cares for the things of the world, how she may please her husband.
-- Themes: anthropology_ethics; christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 53. 1 Corinthians 9:16 - medium - score 16
-
-- TR draft: For though I preach the good news, I have nothing to glory of: for necessity is laid upon me; yes, woe is to me, if I preach not the good news!
-- UKJV witness: For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 54. 1 Corinthians 9:19 - medium - score 16
-
-- TR draft: For though I be free from all men, yet have I made myself slave to all, that I might gain the more.
-- UKJV witness: For though I be free from all men, yet have I made myself servant unto all, that I might gain the more.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 55. 1 Corinthians 10:21 - medium - score 16
-
-- TR draft: You cannot drink the cup of the Lord, and the cup of demons: you cannot be partakers of the Lord's table, and of the table of demons.
-- UKJV witness: All of you cannot drink the cup of the Lord, and the cup of devils: all of you cannot be partakers of the Lord's table, and of the table of devils.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 56. 1 Corinthians 11:27 - medium - score 16
-
-- TR draft: Therefore whoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
-- UKJV witness: Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
-- Themes: anthropology_ethics; christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 57. 1 Corinthians 15:1 - medium - score 16
-
-- TR draft: Moreover, brothers, I declare to you the good news which I preached to you, which also you have received, and in which you stand;
-- UKJV witness: Moreover, brethren, I declare unto you the gospel which I preached unto you, which also all of you have received, and wherein all of you stand;
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 58. 1 Corinthians 15:57 - medium - score 16
-
-- TR draft: But thanks be to God, who gives us the victory through our Lord Jesus Christ.
-- UKJV witness: But thanks be to God, which gives us the victory through our Lord Jesus Christ.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 59. 1 John 5:20 - medium - score 16
+## 1. 1 John 5:20 - medium - score 16
 
 - TR draft: And we know that the Son of God has come, and has given us an understanding, that we may know him who is true, and we are in him who is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 - UKJV witness: And we know that the Son of God has come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
@@ -536,331 +14,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 60. 1 Peter 5:14 - medium - score 16
-
-- TR draft: Greet you one another with a kiss of love. Peace be with you all that are in Christ Jesus. Amen.
-- UKJV witness: Greet all of you one another with a kiss of love. (o. agape) Peace be with you all that are in Christ Jesus. Amen.
-- Themes: anthropology_ethics; christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 61. 1 Thessalonians 1:8 - medium - score 16
-
-- TR draft: For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith toward God is spread abroad; so that we need not to speak anything.
-- UKJV witness: For from you sounded out the word (o. logos) of the Lord not only in Macedonia and Achaia, but also in every place your faith toward God is spread abroad; so that we need not to speak any thing.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 62. 1 Thessalonians 2:2 - medium - score 16
-
-- TR draft: But even after that we had suffered before, and were shamefully pleaded, as you know, at Philippi, we were bold in our God to speak to you the good news of God with much contention.
-- UKJV witness: But even after that we had suffered before, and were shamefully pleaded, as all of you know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 63. 1 Thessalonians 2:4 - medium - score 16
-
-- TR draft: But as we were allowed of God to be put in trust with the good news, even so we speak; not as pleasing men, but God, who tries our hearts.
-- UKJV witness: But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which tries our hearts.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 64. 1 Thessalonians 2:8 - medium - score 16
-
-- TR draft: So being affectionately desirous of you, we were willing to have imparted to you, not the good news of God only, but also our own souls, because you were dear to us.
-- UKJV witness: So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because all of you were dear unto us.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 65. 1 Thessalonians 2:9 - medium - score 16
-
-- TR draft: For you remember, brothers, our labor and travail: for laboring night and day, because we would not be chargeable to any of you, we preached to you the good news of God.
-- UKJV witness: For all of you remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 66. 1 Thessalonians 3:11 - medium - score 16
-
-- TR draft: Now God himself and our Father, and our Lord Jesus Christ, direct our way to you.
-- UKJV witness: Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 67. 1 Thessalonians 3:13 - medium - score 16
-
-- TR draft: To the end he may establish your hearts blameless in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his holy ones.
-- UKJV witness: To the end he may establish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 68. 1 Timothy 1:11 - medium - score 16
-
-- TR draft: According to the glorious good news of the blessed God, who was committed to my trust.
-- UKJV witness: According to the glorious gospel of the blessed God, which was committed to my trust.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 69. 1 Timothy 1:16 - medium - score 16
-
-- TR draft: Nevertheless for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to those who should hereafter believe on him to life eternal.
-- UKJV witness: Nevertheless for this cause I obtained mercy, that in me first Jesus Christ might show forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.
-- Themes: anthropology_ethics; christology; judgment_afterlife; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 70. 1 Timothy 6:3 - medium - score 16
-
-- TR draft: If anyone teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
-- UKJV witness: If any man teach otherwise, and consent not to wholesome words, (o. logos) even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 71. 2 Corinthians 4:3 - medium - score 16
-
-- TR draft: But if our good news be hid, it is hid to those who are lost:
-- UKJV witness: But if our gospel be hid, it is hid to them that are lost:
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 72. 2 Corinthians 4:14 - medium - score 16
-
-- TR draft: Knowing that the one who raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
-- UKJV witness: Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 73. 2 Corinthians 10:16 - medium - score 16
-
-- TR draft: To preach the good news in the regions beyond you, and not to boast in another man's line of things made ready to our hand.
-- UKJV witness: To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 74. 2 Corinthians 11:7 - medium - score 16
-
-- TR draft: Have I committed an offense in abasing myself that you might be exalted, because I have preached to you the good news of God freely?
-- UKJV witness: Have I committed an offence in abasing myself that all of you might be exalted, because I have preached to you the gospel of God freely?
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 75. 2 Corinthians 11:31 - medium - score 16
-
-- TR draft: The God and Father of our Lord Jesus Christ, who is blessed for evermore, knows that I lie not.
-- UKJV witness: The God and Father of our Lord Jesus Christ, which is blessed for evermore, knows that I lie not.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 76. 2 Peter 1:8 - medium - score 16
-
-- TR draft: For if these things be in you, and abound, they make you that you shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.
-- UKJV witness: For if these things be in you, and abound, they make you that all of you shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 77. 2 Peter 1:16 - medium - score 16
-
-- TR draft: For we have not followed cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
-- UKJV witness: For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 78. 2 Peter 3:2 - medium - score 16
-
-- TR draft: That you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Savior:
-- UKJV witness: That all of you may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
-- Themes: christology; law_covenant; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 79. 2 Thessalonians 2:1 - medium - score 16
-
-- TR draft: Now we plead to you, brothers, by the coming of our Lord Jesus Christ, and by our gathering together to him,
-- UKJV witness: Now we plead to you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 80. 2 Thessalonians 2:13 - medium - score 16
-
-- TR draft: But we are bound to give thanks always to God for you, brothers beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
-- UKJV witness: But we are bound to give thanks always to God for you, brethren beloved of the Lord, because God has from the beginning chosen you to salvation through sanctification of the Spirit (o. pneuma) and belief of the truth:
-- Themes: christology; soteriology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 81. 2 Thessalonians 3:5 - medium - score 16
-
-- TR draft: And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
-- UKJV witness: And the Lord direct your hearts into the love (o. agape) of God, and into the patient waiting for Christ.
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 82. 2 Thessalonians 3:6 - medium - score 16
-
-- TR draft: Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother that walks disorderly, and not after the tradition which he received of us.
-- UKJV witness: Now we command you, brethren, in the name of our Lord Jesus Christ, that all of you withdraw yourselves from every brother that walks disorderly, and not after the tradition which he received of us.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 83. 2 Thessalonians 3:12 - medium - score 16
-
-- TR draft: Now those who are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
-- UKJV witness: Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 84. Acts 3:22 - medium - score 16
-
-- TR draft: For Moses truly said to the fathers, A prophet shall the Lord your God raise up to you of your brothers, like to me; him shall you hear in all things whatever he shall say to you.
-- UKJV witness: For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall all of you hear in all things whatsoever he shall say unto you.
-- Themes: christology; spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 85. Acts 7:37 - medium - score 16
-
-- TR draft: This is that Moses, which said to the children of Israel, A prophet shall the Lord your God raise up to you of your brothers, like to me; him shall you hear.
-- UKJV witness: This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall all of you hear.
-- Themes: christology; law_covenant; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 86. Acts 7:59 - medium - score 16
-
-- TR draft: And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.
-- UKJV witness: And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. (o. pneuma)
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 87. Acts 11:17 - medium - score 16
-
-- TR draft: Since then as God gave them the like gift as he did to us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
-- UKJV witness: Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 88. Acts 11:23 - medium - score 16
-
-- TR draft: Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave to the Lord.
-- UKJV witness: Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
-- Themes: anthropology_ethics; christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 89. Acts 12:7 - medium - score 16
-
-- TR draft: And, look, the angel of the Lord came upon him, and a light shined in the prison: and he stroke Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
-- UKJV witness: And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he stroke Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 90. Acts 13:2 - medium - score 16
-
-- TR draft: As they ministered to the Lord, and fasted, the Holy Spirit said, Separate me Barnabas and Saul for the work to which I have called them.
-- UKJV witness: As they ministered to the Lord, and fasted, the Holy Spirit (o. pneuma) said, Separate me Barnabas and Saul for the work unto which I have called them.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 91. Acts 13:48 - medium - score 16
-
-- TR draft: And when the nations heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
-- UKJV witness: And when the Gentiles heard this, they were glad, and glorified the word (o. logos) of the Lord: and as many as were ordained to eternal life believed.
-- Themes: christology; judgment_afterlife
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 92. Acts 14:3 - medium - score 16
-
-- TR draft: Long time therefore remained they speaking boldly in the Lord, who gave testimony to the word of his grace, and granted signs and wonders to be done by their hands.
-- UKJV witness: Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word (o. logos) of his grace, and granted signs and wonders to be done by their hands.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 93. Acts 14:7 - medium - score 16
-
-- TR draft: And there they preached the good news.
-- UKJV witness: And there they preached the gospel.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 94. Acts 14:21 - medium - score 16
-
-- TR draft: And when they had preached the good news to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
-- UKJV witness: And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 95. Acts 18:25 - medium - score 16
-
-- TR draft: This man was instructed in the way of the Lord; and being fervent in the spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John.
-- UKJV witness: This man was instructed in the way of the Lord; and being fervent in the spirit, (o. pneuma) he spoke and taught diligently the things of the Lord, knowing only the baptism of John.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 96. Acts 19:4 - medium - score 16
+## 2. Acts 19:4 - medium - score 16
 
 - TR draft: Then said Paul, John truly baptized with the baptism of repentance, saying to the people, that they should believe on him who should come after him, that is, on Christ Jesus.
 - UKJV witness: Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.
@@ -869,151 +23,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 97. Acts 19:10 - medium - score 16
-
-- TR draft: And this continued by the space of two years; so that all those who dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
-- UKJV witness: And this continued by the space of two years; so that all they which dwelt in Asia heard the word (o. logos) of the Lord Jesus, both Jews and Greeks.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 98. Acts 21:13 - medium - score 16
-
-- TR draft: Then Paul answered, What mean you to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
-- UKJV witness: Then Paul answered, What mean all of you to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 99. Acts 21:20 - medium - score 16
-
-- TR draft: And when they heard it, they glorified the Lord, and said to him, You see, brother, how many thousands of Jews there are who believe; and they are all zealous of the law:
-- UKJV witness: And when they heard it, they glorified the Lord, and said unto him, You see, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
-- Themes: christology; law_covenant; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 100. Acts 28:31 - medium - score 16
-
-- TR draft: Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no one forbidding him.
-- UKJV witness: Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 101. Colossians 2:6 - medium - score 16
-
-- TR draft: As you have therefore received Christ Jesus the Lord, so walk you in him:
-- UKJV witness: As all of you have therefore received Christ Jesus the Lord, so walk all of you in him:
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 102. Colossians 3:17 - medium - score 16
-
-- TR draft: And whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
-- UKJV witness: And whatsoever all of you do in (o. logos) word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 103. Colossians 3:22 - medium - score 16
-
-- TR draft: Slaves, obey in all things your masters according to the flesh; not with eye-service, as men-pleasers; but in singleness of heart, fearing God;
-- UKJV witness: Servants, obey in all things your masters according to the flesh; not with eye-service, as men-pleasers; but in singleness of heart, fearing God;
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 104. Ephesians 3:14 - medium - score 16
-
-- TR draft: For this cause I bow my knees to the Father of our Lord Jesus Christ,
-- UKJV witness: For this cause I bow my knees unto the Father of our Lord Jesus Christ,
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 105. Ephesians 5:20 - medium - score 16
-
-- TR draft: Giving thanks always for all things to God and the Father in the name of our Lord Jesus Christ;
-- UKJV witness: Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 106. Ephesians 6:6 - medium - score 16
-
-- TR draft: Not with eye-service, as men-pleasers; but as the slaves of Christ, doing the will of God from the heart;
-- UKJV witness: Not with eye-service, as men-pleasers; but as the servants of Christ, doing the will of God from the heart;
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 107. Ephesians 6:19 - medium - score 16
-
-- TR draft: And for me, that utterance may be given to me, that I may open my mouth boldly, to make known the mystery of the good news,
-- UKJV witness: And for me, that utterance (o. logos) may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 108. Galatians 1:9 - medium - score 16
-
-- TR draft: As we said before, so say I now again, if anyone preach any other good news to you than that you have received, let him be accursed.
-- UKJV witness: As we said before, so say I now again, if any man preach any other gospel unto you than that all of you have received, let him be accursed.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 109. Galatians 1:11 - medium - score 16
-
-- TR draft: But I certify you, brothers, that the good news which was preached of me is not after man.
-- UKJV witness: But I certify you, brethren, that the gospel which was preached of me is not after man.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 110. Galatians 2:2 - medium - score 16
-
-- TR draft: And I went up by revelation, and communicated to those who good news which I preach among the nations, but privately to those who were of reputation, lest by any means I should run, or had run, in vain.
-- UKJV witness: And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 111. Galatians 2:5 - medium - score 16
-
-- TR draft: To whom we gave place by subjection, no, not for an hour; that the truth of the good news might continue with you.
-- UKJV witness: To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 112. Galatians 3:14 - medium - score 16
-
-- TR draft: That the blessing of Abraham might come on the nations through Jesus Christ; that we might receive the promise of the Spirit through faith.
-- UKJV witness: That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit (o. pneuma) through faith.
-- Themes: christology; law_covenant; soteriology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 113. Galatians 5:6 - medium - score 16
+## 3. Galatians 5:6 - medium - score 16
 
 - TR draft: For in Jesus Christ neither circumcision avails anything, nor uncircumcision; but faith which works by love.
 - UKJV witness: For in Jesus Christ neither circumcision avails any thing, nor uncircumcision; but faith which works by love. (o. agape)
@@ -1022,214 +32,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 114. Galatians 6:17 - medium - score 16
-
-- TR draft: from now on let no one trouble me: for I bear in my body the marks of the Lord Jesus.
-- UKJV witness: From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 115. Hebrews 8:8 - medium - score 16
-
-- TR draft: For finding fault with them, he says, Look, the days come, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
-- UKJV witness: For finding fault with them, he says, Behold, the days come, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
-- Themes: christology; law_covenant
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 116. John 8:49 - medium - score 16
-
-- TR draft: Jesus answered, I have not a demon; but I honor my Father, and you do dishonour me.
-- UKJV witness: Jesus answered, I have not a devil; but I honour my Father, and all of you do dishonour me.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 117. John 8:52 - medium - score 16
-
-- TR draft: Then said the Jews to him, Now we know that you have a demon. Abraham is dead, and the prophets; and you says, If a man keep my saying, he shall never taste of death.
-- UKJV witness: Then said the Jews unto him, Now we know that you have a devil. Abraham is dead, and the prophets; and you says, If a man keep my saying, (o. logos) he shall never taste of death.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 118. John 18:10 - medium - score 16
-
-- TR draft: Then Simon Peter having a sword drew it, and stroke the high priest's slave, and cut off his right ear. The slave's name was Malchus.
-- UKJV witness: Then Simon Peter having a sword drew it, and stroke the high priest's servant, and cut off his right ear. The servant's name was Malchus.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 119. John 20:31 - medium - score 16
-
-- TR draft: But these are written, that you might believe that Jesus is the Christ, the Son of God; and that believing you might have life through his name.
-- UKJV witness: But these are written, that all of you might believe that Jesus is the Christ, the Son of God; and that believing all of you might have life through his name.
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 120. John 21:16 - medium - score 16
-
-- TR draft: He says to him again the second time, Simon, son of Jonas, love you me? He says to him, Yes, Lord; you know that I love you. He says to him, Feed my sheep.
-- UKJV witness: He says to him again the second time, Simon, son of Jonas, love you me? He says unto him, Yea, Lord; you know that I love you. He says unto him, Feed my sheep.
-- Themes: anthropology_ethics; christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 121. Jude 1:9 - medium - score 16
-
-- TR draft: Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, dared not bring against him a railing accusation, but said, The Lord rebuke you.
-- UKJV witness: Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke you.
-- Themes: anthropology_ethics; christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 122. Jude 1:17 - medium - score 16
-
-- TR draft: But, beloved, remember you the words which were spoken before of the apostles of our Lord Jesus Christ;
-- UKJV witness: But, beloved, remember all of you the words (o. rhema) which were spoken before of the apostles of our Lord Jesus Christ;
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 123. Luke 1:15 - medium - score 16
-
-- TR draft: For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Spirit, even from his mother's womb.
-- UKJV witness: For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Spirit, (o. pneuma) even from his mother's womb.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 124. Luke 1:35 - medium - score 16
-
-- TR draft: And the angel answered and said to her, The Holy Spirit shall come upon you, and the power of the Highest shall overshadow you: therefore also that holy thing which shall be born of you shall be called the Son of God.
-- UKJV witness: And the angel answered and said unto her, The Holy Spirit (o. pneuma) shall come upon you, and the power of the Highest shall overshadow you: therefore also that holy thing which shall be born of you shall be called the Son of God.
-- Themes: christology; spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 125. Luke 1:38 - medium - score 16
-
-- TR draft: And Mary said, Look the handmaid of the Lord; be it to me according to your word. And the angel departed from her.
-- UKJV witness: And Mary said, Behold the handmaid of the Lord; be it unto me according to your word. (o. rhema) And the angel departed from her.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 126. Luke 2:11 - medium - score 16
-
-- TR draft: For to you is born this day in the city of David a Savior, who is Christ the Lord.
-- UKJV witness: For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 127. Luke 4:33 - medium - score 16
-
-- TR draft: And in the synagogue there was a man, who had a spirit of an unclean demon, and cried out with a loud voice,
-- UKJV witness: And in the synagogue there was a man, which had a spirit (o. pneuma) of an unclean devil, and cried out with a loud voice,
-- Themes: spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 128. Luke 4:41 - medium - score 16
-
-- TR draft: And demons also came out of many, crying out, and saying, You are Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
-- UKJV witness: And devils also came out of many, crying out, and saying, You are Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 129. Luke 6:5 - medium - score 16
-
-- TR draft: And he said to them, That the Son of man is Lord also of the sabbath.
-- UKJV witness: And he said unto them, That the Son of man is Lord also of the sabbath.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 130. Luke 7:2 - medium - score 16
-
-- TR draft: And a certain centurion's slave, who was dear to him, was sick, and ready to die.
-- UKJV witness: And a certain centurion's servant, who was dear unto him, was sick, and ready to die.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 131. Luke 7:8 - medium - score 16
-
-- TR draft: For I also am a man set under authority, having under me soldiers, and I say to one, Go, and he goes; and to another, Come, and he comes; and to my slave, Do this, and he does it.
-- UKJV witness: For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goes; and to another, Come, and he comes; and to my servant, Do this, and he does it.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 132. Luke 7:10 - medium - score 16
-
-- TR draft: And those who were sent, returning to the house, found the slave whole that had been sick.
-- UKJV witness: And they that were sent, returning to the house, found the servant whole that had been sick.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 133. Luke 8:29 - medium - score 16
-
-- TR draft: (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he broke the bands, and was driven of the demon into the wilderness.)
-- UKJV witness: (For he had commanded the unclean spirit (o. pneuma) to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
-- Themes: spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 134. Luke 9:6 - medium - score 16
-
-- TR draft: And they departed, and went through the towns, preaching the good news, and healing every where.
-- UKJV witness: And they departed, and went through the towns, preaching the gospel, and healing every where.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 135. Luke 10:17 - medium - score 16
-
-- TR draft: And the seventy returned again with joy, saying, Lord, even the demons are subject to us through your name.
-- UKJV witness: And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through your name.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 136. Luke 10:21 - medium - score 16
-
-- TR draft: In that hour Jesus rejoiced in spirit, and said, I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and prudent, and have revealed them to babes: even so, Father; for so it seemed good in your sight.
-- UKJV witness: In that hour Jesus rejoiced in spirit, (o. pneuma) and said, I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and prudent, and have revealed them unto babes: even so, Father; for so it seemed good in your sight.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 137. Luke 12:10 - medium - score 16
+## 4. Luke 12:10 - medium - score 16
 
 - TR draft: And whoever shall speak a word against the Son of man, it shall be forgiven him: but to him who blasphemes against the Holy Spirit it shall not be forgiven.
 - UKJV witness: And whosoever shall speak a word (o. logos) against the Son of man, it shall be forgiven him: but unto him that blasphemes against the Holy Spirit (o. pneuma) it shall not be forgiven.
@@ -1238,232 +41,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 138. Luke 14:17 - medium - score 16
-
-- TR draft: And sent his slave at supper time to say to those who were bidden, Come; for all things are now ready.
-- UKJV witness: And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 139. Luke 17:6 - medium - score 16
-
-- TR draft: And the Lord said, If you had faith as a grain of mustard seed, you might say to this sycamine tree, Be plucked up by the root, and be planted in the sea; and it should obey you.
-- UKJV witness: And the Lord said, If all of you had faith as a grain of mustard seed, all of you might say unto this sycamine tree, Be you plucked up by the root, and be you planted in the sea; and it should obey you.
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 140. Luke 17:7 - medium - score 16
-
-- TR draft: But which of you, having a slave plowing or feeding cattle, will say to him immediately, when he has come from the field, Go and sit down to food?
-- UKJV witness: But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he has come from the field, Go and sit down to food?
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 141. Luke 17:9 - medium - score 16
-
-- TR draft: Does he thank that slave because he did the things that were commanded him? I I think not not.
-- UKJV witness: Does he thank that servant because he did the things that were commanded him? I I think not not.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 142. Luke 19:17 - medium - score 16
-
-- TR draft: And he said to him, Well, you good slave: because you have been faithful in a very little, have you authority over ten cities.
-- UKJV witness: And he said unto him, Well, you good servant: because you have been faithful in a very little, have you authority over ten cities.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 143. Luke 20:1 - medium - score 16
-
-- TR draft: And it happened, that on one of those days, as he taught the people in the temple, and preached the good news, the chief priests and the scribes came upon him with the elders,
-- UKJV witness: And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 144. Luke 20:10 - medium - score 16
-
-- TR draft: And at the season he sent a slave to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
-- UKJV witness: And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 145. Luke 20:11 - medium - score 16
-
-- TR draft: And again he sent another slave: and they beat him also, and pleaded him shamefully, and sent him away empty.
-- UKJV witness: And again he sent another servant: and they beat him also, and pleaded him shamefully, and sent him away empty.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 146. Luke 22:50 - medium - score 16
-
-- TR draft: And one of them stroke the slave of the high priest, and cut off his right ear.
-- UKJV witness: And one of them stroke the servant of the high priest, and cut off his right ear.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 147. Matthew 1:24 - medium - score 16
-
-- TR draft: Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took to him his wife:
-- UKJV witness: Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 148. Matthew 2:13 - medium - score 16
-
-- TR draft: And when they were departed, look, the angel of the Lord appears to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and stay there until I bring you word: for Herod will seek the young child to destroy him.
-- UKJV witness: And when they were departed, behold, the angel of the Lord appears to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be you there until I bring you word: for Herod will seek the young child to destroy him.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 149. Matthew 7:22 - medium - score 16
-
-- TR draft: Many will say to me in that day, Lord, Lord, have we not prophesied in your name? and in your name have cast out demons? and in your name done many wonderful works?
-- UKJV witness: Many will say to me in that day, Lord, Lord, have we not prophesied in your name? and in your name have cast out devils? and in your name done many wonderful works?
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 150. Matthew 8:8 - medium - score 16
-
-- TR draft: The centurion answered and said, Lord, I am not worthy that you should come under my roof: but speak the word only, and my servant shall be healed.
-- UKJV witness: The centurion answered and said, Lord, I am not worthy that you should come under my roof: but speak the word (o. logos) only, and my servant shall be healed.
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 151. Matthew 8:9 - medium - score 16
-
-- TR draft: For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goes; and to another, Come, and he comes; and to my slave, Do this, and he does it.
-- UKJV witness: For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goes; and to another, Come, and he comes; and to my servant, Do this, and he does it.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 152. Matthew 9:28 - medium - score 16
-
-- TR draft: And when he had come into the house, the blind men came to him: and Jesus says to them, Believe you that I am able to do this? They said to him, Yes, Lord.
-- UKJV witness: And when he was come into the house, the blind men came to him: and Jesus says unto them, Believe all of you that I am able to do this? They said unto him, Yea, Lord.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 153. Matthew 9:33 - medium - score 16
-
-- TR draft: And when the demon was cast out, the mute spoke: and the crowds marveled, saying, It was never so seen in Israel.
-- UKJV witness: And when the devil was cast out, the dumb spoke: and the multitudes marvelled, saying, It was never so seen in Israel.
-- Themes: law_covenant; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 154. Matthew 12:8 - medium - score 16
-
-- TR draft: For the Son of man is Lord even of the Sabbath.
-- UKJV witness: For the Son of man is Lord even of the sabbath day.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 155. Matthew 12:32 - medium - score 16
-
-- TR draft: And whoever speaks a word against the Son of man, it shall be forgiven him: but whoever speaks against the Holy Spirit, it shall not be forgiven him, neither in this world, neither in the world to come.
-- UKJV witness: And whosoever speaks a word (o. logos) against the Son of man, it shall be forgiven him: but whosoever speaks against the Holy Spirit, (o. pneuma) it shall not be forgiven him, neither in this world, neither in the world to come.
-- Themes: christology; spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 156. Matthew 17:18 - medium - score 16
-
-- TR draft: And Jesus rebuked the demon; and he departed out of him: and the child was cured from that very hour.
-- UKJV witness: And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 157. Matthew 18:28 - medium - score 16
-
-- TR draft: But the same slave went out, and found one of his fellow slaves, which owed him a hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that you owe.
-- UKJV witness: But the same servant went out, and found one of his fellow servants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that you owe.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 158. Matthew 18:29 - medium - score 16
-
-- TR draft: And his fellow slave fell down at his feet, and begged him, saying, Have patience with me, and I will pay you all.
-- UKJV witness: And his fellow servant fell down at his feet, and besought him, saying, Have patience with me, and I will pay you all.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 159. Matthew 18:33 - medium - score 16
-
-- TR draft: Should not you also have had compassion on your fellow slave, even as I had pity on you?
-- UKJV witness: Should not you also have had compassion on your fellow servant, even as I had pity on you?
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 160. Matthew 20:27 - medium - score 16
-
-- TR draft: And whoever will be chief among you, let him be your slave:
-- UKJV witness: And whosoever will be chief among you, let him be your servant:
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 161. Matthew 24:14 - medium - score 16
-
-- TR draft: And this good news of the kingdom shall be preached in all the world for a witness to all nations; and then shall the end come.
-- UKJV witness: And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 162. Matthew 25:30 - medium - score 16
-
-- TR draft: And cast you the useless slave into outer darkness: there shall be weeping and gnashing of teeth.
-- UKJV witness: And cast all of you the useless servant into outer darkness: there shall be weeping and gnashing of teeth.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 163. Matthew 26:63 - medium - score 16
+## 5. Matthew 26:63 - medium - score 16
 
 - TR draft: But Jesus was silent, And the high priest answered and said to him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
 - UKJV witness: But Jesus held his peace, And the high priest answered and said unto him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
@@ -1472,79 +50,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 164. Mark 5:15 - medium - score 16
-
-- TR draft: And they come to Jesus, and see him who was possessed with the demon, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
-- UKJV witness: And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 165. Mark 10:44 - medium - score 16
-
-- TR draft: And whoever of you will be the foremost, shall be slave of all.
-- UKJV witness: And whosoever of you will be the chiefest, shall be servant of all.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 166. Mark 12:2 - medium - score 16
-
-- TR draft: And at the season he sent to the husbandmen a slave, that he might receive from the husbandmen of the fruit of the vineyard.
-- UKJV witness: And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 167. Mark 12:4 - medium - score 16
-
-- TR draft: And again he sent to them another slave; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled.
-- UKJV witness: And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 168. Mark 12:36 - medium - score 16
-
-- TR draft: For David himself said by the Holy Spirit, The Lord said to my Lord, Sit you on my right hand, till I make your enemies your footstool.
-- UKJV witness: For David himself said by the Holy Spirit, (o. pneuma) The LORD said to my Lord, Sit you on my right hand, till I make yours enemies your footstool.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 169. Mark 13:10 - medium - score 16
-
-- TR draft: And the good news must first be published among all nations.
-- UKJV witness: And the gospel must first be published among all nations.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 170. Mark 13:34 - medium - score 16
-
-- TR draft: For the Son of Man is as a man taking a far journey, who left his house, and gave authority to his slaves, and to every man his work, and commanded the gate keeper to watch.
-- UKJV witness: For the Son of Man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the gate keeper to watch.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 171. Mark 14:47 - medium - score 16
-
-- TR draft: And one of those who stood by drew a sword, and stroke a slave of the high priest, and cut off his ear.
-- UKJV witness: And one of them that stood by drew a sword, and stroke a servant of the high priest, and cut off his ear.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 172. Mark 15:32 - medium - score 16
+## 6. Mark 15:32 - medium - score 16
 
 - TR draft: Let Christ the King of Israel descend now from the cross, that we may see and believe. And those who were crucified with him reviled him.
 - UKJV witness: Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
@@ -1553,160 +59,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 173. Mark 16:15 - medium - score 16
-
-- TR draft: And he said to them, Go into all the world, and preach the good news to every creature.
-- UKJV witness: And he said unto them, Go all of you into all the world, and preach the gospel to every creature.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 174. Mark 16:20 - medium - score 16
-
-- TR draft: And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.
-- UKJV witness: And they went forth, and preached every where, the Lord working with them, and confirming the word (o. logos) with signs following. Amen.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 175. Philemon 1:13 - medium - score 16
-
-- TR draft: Whom I would have retained with me, that in your position he might have ministered to me in the bonds of the good news:
-- UKJV witness: Whom I would have retained with me, that in your position he might have ministered unto me in the bonds of the gospel:
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 176. Philippians 1:5 - medium - score 16
-
-- TR draft: For your fellowship in the good news from the first day until now;
-- UKJV witness: For your fellowship in the gospel from the first day until now;
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 177. Philippians 1:12 - medium - score 16
-
-- TR draft: But I would you should understand, brothers, that the things which happened to me have fallen out rather to the furtherance of the good news;
-- UKJV witness: But I would all of you should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 178. Philippians 2:7 - medium - score 16
-
-- TR draft: But made himself of no reputation, and took upon him the form of a slave, and was made in the likeness of men:
-- UKJV witness: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 179. Philippians 3:3 - medium - score 16
-
-- TR draft: For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
-- UKJV witness: For we are the circumcision, which worship God in the spirit, (o. pneuma) and rejoice in Christ Jesus, and have no confidence in the flesh.
-- Themes: anthropology_ethics; christology; law_covenant; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 180. Philippians 3:8 - medium - score 16
-
-- TR draft: Yes doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
-- UKJV witness: Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 181. Philippians 4:3 - medium - score 16
-
-- TR draft: And I implore you also, true yokefellow, help those women who labored with me in the good news, with Clement also, and with other my fellow laborers, whose names are in the book of life.
-- UKJV witness: And I implore you also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellow labourers, whose names are in the book of life.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 182. Revelation 11:15 - medium - score 16
-
-- TR draft: And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign forever and ever.
-- UKJV witness: And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 183. Revelation 16:5 - medium - score 16
-
-- TR draft: And I heard the angel of the waters say, You are righteous, O Lord, who are, and were, and shall be, because you have judged thus.
-- UKJV witness: And I heard the angel of the waters say, You are righteous, O Lord, which are, and were, and shall be, because you have judged thus.
-- Themes: christology; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 184. Revelation 19:18 - medium - score 16
-
-- TR draft: That you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of those who sit on them, and the flesh of all men, both free and slave, both small and great.
-- UKJV witness: That all of you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 185. Revelation 22:9 - medium - score 16
-
-- TR draft: Then says he to me, See you do it not: for I am your fellow slave, and of your brothers the prophets, and of those who keep the sayings of this book: worship God.
-- UKJV witness: Then says he unto me, See you do it not: for I am your fellow servant, and of your brethren the prophets, and of them which keep the sayings (o. logos) of this book: worship God.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 186. Revelation 22:20 - medium - score 16
-
-- TR draft: the one who testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
-- UKJV witness: He which testifies these things says, Surely I come quickly. Amen. Even so, come, Lord Jesus.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 187. Romans 1:15 - medium - score 16
-
-- TR draft: So, as much as in me is, I am ready to preach the good news to you that are at Rome also.
-- UKJV witness: So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 188. Romans 2:5 - medium - score 16
-
-- TR draft: But after your hardness and refusing to repent heart treasure up to yourself wrath against the day of wrath and revelation of the righteous judgment of God;
-- UKJV witness: But after your hardness and refusing to repent heart treasure up unto yourself wrath against the day of wrath and revelation of the righteous judgment of God;
-- Themes: anthropology_ethics; judgment_afterlife; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 189. Romans 3:22 - medium - score 16
-
-- TR draft: Even the righteousness of God who is by faith of Jesus Christ to all and upon all those who believe: for there is no difference:
-- UKJV witness: Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 190. Romans 5:17 - medium - score 16
+## 7. Romans 5:17 - medium - score 16
 
 - TR draft: For if by one man's offense death reigned by one; much more those who receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 - UKJV witness: For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
@@ -1715,52 +68,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 191. Romans 6:17 - medium - score 16
-
-- TR draft: But God be thanked, that you were the slaves of sin, but you have obeyed from the heart that form of doctrine which was delivered you.
-- UKJV witness: But God be thanked, that all of you were the servants of sin, but all of you have obeyed from the heart that form of doctrine which was delivered you.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 192. Romans 6:18 - medium - score 16
-
-- TR draft: Being then made free from sin, you became the slaves of righteousness.
-- UKJV witness: Being then made free from sin, all of you became the servants of righteousness.
-- Themes: anthropology_ethics; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 193. Romans 6:19 - medium - score 16
-
-- TR draft: I speak after the manner of men because of the infirmity of your flesh: for as you have yielded your members slaves to uncleanness and to iniquity to iniquity; even so now yield your members slaves to righteousness to holiness.
-- UKJV witness: I speak after the manner of men because of the infirmity of your flesh: for as all of you have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
-- Themes: anthropology_ethics; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 194. Romans 6:20 - medium - score 16
-
-- TR draft: For when you were the slaves of sin, you were free from righteousness.
-- UKJV witness: For when all of you were the servants of sin, all of you were free from righteousness.
-- Themes: anthropology_ethics; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 195. Romans 6:22 - medium - score 16
-
-- TR draft: But now being made free from sin, and become slaves to God, you have your fruit to holiness, and the end eternal life.
-- UKJV witness: But now being made free from sin, and become servants to God, all of you have your fruit unto holiness, and the end everlasting life.
-- Themes: anthropology_ethics; judgment_afterlife
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered doulos-family wording as slave; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 196. Romans 8:10 - medium - score 16
+## 8. Romans 8:10 - medium - score 16
 
 - TR draft: And if Christ is in you, the body is dead because of sin; but the Spirit is life because of righteousness.
 - UKJV witness: And if Christ be in you, the body is dead because of sin; but the Spirit (o. pneuma) is life because of righteousness.
@@ -1769,565 +77,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 197. Romans 11:28 - medium - score 16
-
-- TR draft: As concerning the good news, they are enemies for your sakes: but as concerning the election, they are beloved for the father's sakes.
-- UKJV witness: As concerning the gospel, they are enemies for your sakes: but as concerning the election, they are beloved for the father's sakes.
-- Themes: textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered euangelion as good news; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 198. Romans 15:6 - medium - score 16
-
-- TR draft: That you may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
-- UKJV witness: That all of you may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 199. Romans 16:18 - medium - score 16
-
-- TR draft: For those who are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
-- UKJV witness: For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 200. Titus 3:5 - medium - score 16
-
-- TR draft: Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Spirit;
-- UKJV witness: Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Spirit; (o. pneuma)
-- Themes: anthropology_ethics; soteriology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 201. 1 Corinthians 14:33 - medium - score 15
-
-- TR draft: For God is not the author of confusion, but of peace, as in all assemblies of the holy ones.
-- UKJV witness: For God is not the author of confusion, but of peace, as in all churches of the saints.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 202. 1 Corinthians 14:34 - medium - score 15
-
-- TR draft: Let your women keep silence in the assemblies: for it is not permitted to them to speak; but they are commanded to be under obedience as also says the law.
-- UKJV witness: Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience as also says the law.
-- Themes: law_covenant
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 203. 2 Corinthians 8:1 - medium - score 15
-
-- TR draft: Moreover, brothers, we do you to know of the grace of God bestowed on the assemblies of Macedonia;
-- UKJV witness: Moreover, brethren, we do you to know of the grace of God bestowed on the churches of Macedonia;
-- Themes: soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 204. 2 Corinthians 8:23 - medium - score 15
-
-- TR draft: Whether any do enquire of Titus, he is my partner and fellow-helper concerning you: or our brothers be enquired of, they are the messengers of the assemblies, and the glory of Christ.
-- UKJV witness: Whether any do enquire of Titus, he is my partner and fellow-helper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 205. 2 Corinthians 8:24 - medium - score 15
-
-- TR draft: Therefore show you to them, and before the assemblies, the proof of your love, and of our boasting on your behalf.
-- UKJV witness: Wherefore show all of you to them, and before the churches, the proof of your love, (o. agape) and of our boasting on your behalf.
-- Themes: anthropology_ethics
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 206. 2 Corinthians 12:13 - medium - score 15
-
-- TR draft: For what is it in which you were inferior to other assemblies, except it be that I myself was not burdensome to you? forgive me this wrong.
-- UKJV witness: For what is it wherein all of you were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.
-- Themes: soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 207. 2 Thessalonians 1:4 - medium - score 15
-
-- TR draft: So that we ourselves glory in you in the assemblies of God for your patience and faith in all your persecutions and tribulations that you endure:
-- UKJV witness: So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that all of you endure:
-- Themes: soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 208. Acts 16:5 - medium - score 15
-
-- TR draft: And so were the assemblies established in the faith, and increased in number daily.
-- UKJV witness: And so were the churches established in the faith, and increased in number daily.
-- Themes: soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 209. Galatians 1:22 - medium - score 15
-
-- TR draft: And was unknown by face to the assemblies of Judea which were in Christ:
-- UKJV witness: And was unknown by face unto the churches of Judaea which were in Christ:
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 210. John 3:3 - medium - score 15
-
-- TR draft: Jesus answered and said to him, Amen, amen, I say to you, Except a man be born again, he cannot see the kingdom of God.
-- UKJV witness: Jesus answered and said unto him, Verily, verily, I say unto you, Except a man be born again, he cannot see the kingdom of God.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 211. John 6:26 - medium - score 15
-
-- TR draft: Jesus answered them and said, Amen, amen, I say to you, You seek me, not because you saw the miracles, but because you did eat of the loaves, and were filled.
-- UKJV witness: Jesus answered them and said, Verily, verily, I say unto you, All of you seek me, not because all of you saw the miracles, but because all of you did eat of the loaves, and were filled.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 212. John 6:32 - medium - score 15
-
-- TR draft: Then Jesus said to them, Amen, amen, I say to you, Moses gave you not that bread from heaven; but my Father gives you the true bread from heaven.
-- UKJV witness: Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father gives you the true bread from heaven.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 213. John 6:47 - medium - score 15
-
-- TR draft: Amen, amen, I say to you, the one who believes on me has eternal life.
-- UKJV witness: Verily, verily, I say unto you, He that believes on me has everlasting life.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 214. John 8:51 - medium - score 15
-
-- TR draft: Amen, amen, I say to you, If a man keep my saying, he shall never see death.
-- UKJV witness: Verily, verily, I say unto you, If a man keep my saying, (o. logos) he shall never see death.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 215. John 8:58 - medium - score 15
-
-- TR draft: Jesus said to them, Amen, amen, I say to you, Before Abraham was, I am.
-- UKJV witness: Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 216. John 10:7 - medium - score 15
-
-- TR draft: Then said Jesus to them again, Amen, amen, I say to you, I am the door of the sheep.
-- UKJV witness: Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 217. John 13:38 - medium - score 15
-
-- TR draft: Jesus answered him, Will you lay down your life for my sake? Amen, amen, I say to you, The cock shall not crow, till you have denied me three times.
-- UKJV witness: Jesus answered him, Will you lay down your life for my sake? Verily, verily, I say unto you, The cock shall not crow, till you have denied me three times.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 218. Luke 4:24 - medium - score 15
-
-- TR draft: And he said, Amen, I say to you, No prophet is accepted in his own country.
-- UKJV witness: And he said, Verily I say unto you, No prophet is accepted in his own country.
-- Themes: spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 219. Luke 23:43 - medium - score 15
-
-- TR draft: And Jesus said to him, Amen, I say to you, today shall you be with me in paradise.
-- UKJV witness: And Jesus said unto him, Verily I say unto you, To day shall you be with me in paradise.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 220. Matthew 6:5 - medium - score 15
-
-- TR draft: And when you pray, you shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Amen, I say to you, They have their reward.
-- UKJV witness: And when you pray, you shall not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
-- Themes: anthropology_ethics; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 221. Matthew 10:15 - medium - score 15
-
-- TR draft: Amen, I say to you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
-- UKJV witness: Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 222. Matthew 19:23 - medium - score 15
-
-- TR draft: Then said Jesus to his disciples, Amen, I say to you, That a rich man shall hardly enter into the kingdom of heaven.
-- UKJV witness: Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 223. Matthew 21:31 - medium - score 15
-
-- TR draft: Whether of them two did the will of his father? They say to him, The first. Jesus says to them, Amen, I say to you, That the tax collectors and the prostitutes go into the kingdom of God before you.
-- UKJV witness: Whether of them two did the will of his father? They say unto him, The first. Jesus says unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 224. Matthew 24:2 - medium - score 15
-
-- TR draft: And Jesus said to them, See you not all these things? Amen, I say to you, There shall not be left here one stone upon another, that shall not be thrown down.
-- UKJV witness: And Jesus said unto them, See all of you not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 225. Matthew 25:40 - medium - score 15
-
-- TR draft: And the King shall answer and say to them, Amen, I say to you, Inasmuch as you have done it to one of the least of these my brothers, you have done it to me.
-- UKJV witness: And the King shall answer and say unto them, Verily I say unto you, Inasmuch as all of you have done it unto one of the least of these my brethren, all of you have done it unto me.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 226. Matthew 26:34 - medium - score 15
-
-- TR draft: Jesus said to him, Amen, I say to you, That this night, before the cock crow, you shall deny me three times.
-- UKJV witness: Jesus said unto him, Verily I say unto you, That this night, before the cock crow, you shall deny me three times.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 227. Mark 6:11 - medium - score 15
-
-- TR draft: And whoever shall not receive you, nor hear you, when you depart from there, shake off the dust under your feet for a testimony against them. Amen, I say to you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
-- UKJV witness: And whosoever shall not receive you, nor hear you, when all of you depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 228. Mark 8:12 - medium - score 15
-
-- TR draft: And he sighed deeply in his spirit, and says, Why does this generation seek after a sign? Amen, I say to you, There shall no sign be given to this generation.
-- UKJV witness: And he sighed deeply in his spirit, (o. pneuma) and says, Why does this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation.
-- Themes: spirit_church; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 229. Mark 9:1 - medium - score 15
-
-- TR draft: And he said to them, Amen, I say to you, That there is some of those who stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
-- UKJV witness: And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
-- Themes: judgment_afterlife; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 230. Mark 9:41 - medium - score 15
-
-- TR draft: For whoever shall give you a cup of water to drink in my name, because you belong to Christ, Amen, I say to you, he shall not lose his reward.
-- UKJV witness: For whosoever shall give you a cup of water to drink in my name, because all of you belong to Christ, verily I say unto you, he shall not lose his reward.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 231. Mark 14:18 - medium - score 15
-
-- TR draft: And as they sat and did eat, Jesus said, Amen, I say to you, One of you which eats with me shall betray me.
-- UKJV witness: And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eats with me shall betray me.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 232. Mark 14:30 - medium - score 15
-
-- TR draft: And Jesus says to him, Amen, I say to you, That this day, even in this night, before the cock crow twice, you shall deny me three times.
-- UKJV witness: And Jesus says unto him, Verily I say unto you, That this day, even in this night, before the cock crow twice, you shall deny me three times.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered amen formula directly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 233. Revelation 2:7 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies; To him who overcomes will I give to eat of the tree of life, which is in the midst of the paradise of God.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches; To him that overcomes will I give to eat of the tree of life, which is in the midst of the paradise of God.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 234. Revelation 2:17 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies; To him who overcomes will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no one knows saving the one who receives it.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches; To him that overcomes will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knows saving he that receives it.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 235. Revelation 2:23 - medium - score 15
-
-- TR draft: And I will kill her children with death; and all the assemblies shall know that I am the one who searches the reins and hearts: and I will give to every one of you according to your works.
-- UKJV witness: And I will kill her children with death; and all the churches shall know that I am he which searches the reins and hearts: and I will give unto every one of you according to your works.
-- Themes: judgment_afterlife
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 236. Revelation 2:29 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 237. Revelation 3:6 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 238. Revelation 3:13 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 239. Revelation 3:22 - medium - score 15
-
-- TR draft: the one who has an ear, let him hear what the Spirit says to the assemblies.
-- UKJV witness: He that has an ear, let him hear what the Spirit (o. pneuma) says unto the churches.
-- Themes: spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 240. Romans 16:16 - medium - score 15
-
-- TR draft: Salute one another with a holy kiss. The assemblies of Christ salute you.
-- UKJV witness: Salute one another with an holy kiss. The churches of Christ salute you.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered ekklesia as assembly; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 241. 1 Corinthians 1:30 - medium - score 14
-
-- TR draft: But of him are you in Christ Jesus, who of God is made to us wisdom, and righteousness, and sanctification, and redemption:
-- UKJV witness: But of him are all of you in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 242. 1 Corinthians 6:17 - medium - score 14
-
-- TR draft: But the one who is joined to the Lord is one spirit.
-- UKJV witness: But he that is joined unto the Lord is one spirit. (o. pneuma)
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 243. 1 Corinthians 7:12 - medium - score 14
-
-- TR draft: But to the rest speak I, not the Lord: If any brother has a wife that does not believe, and she be pleased to dwell with him, let him not release her.
-- UKJV witness: But to the rest speak I, not the Lord: If any brother has a wife that believes not, and she be pleased to dwell with him, let him not put her away.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 244. 1 Corinthians 9:2 - medium - score 14
-
-- TR draft: If I be not an apostle to others, yet doubtless I am to you: for the seal of mine apostleship are you in the Lord.
-- UKJV witness: If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are all of you in the Lord.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 245. 1 Corinthians 11:23 - medium - score 14
-
-- TR draft: For I have received of the Lord that which also I delivered to you, That the Lord Jesus the same night in which he was betrayed took bread:
-- UKJV witness: For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 246. 1 Corinthians 11:29 - medium - score 14
-
-- TR draft: For the one who eats and drinks unworthily, eats and drinks judgment to himself, not discerning the Lord's body.
-- UKJV witness: For he that eats and drinks unworthily, eats and drinks damnation to himself, not discerning the Lord's body.
-- Themes: anthropology_ethics; judgment_afterlife
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 247. 1 Corinthians 12:12 - high - score 14
-
-- TR draft: For as the body is one, and has many members, and all the members of that one body, being many, are one body: so also is Christ.
-- UKJV witness: For as the body is one, and has many members, and all the members of that one body, being many, are one body: so also is Christ.
-- Themes: anthropology_ethics; christology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 248. 1 Corinthians 14:21 - medium - score 14
-
-- TR draft: In the law it is written, With men of other tongues and other lips will I speak to this people; and yet for all that will they not hear me, says the Lord.
-- UKJV witness: In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, says the LORD.
-- Themes: christology; law_covenant
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 249. 1 Corinthians 14:37 - medium - score 14
-
-- TR draft: If anyone think himself to be a prophet, or spiritual, let him acknowledge that the things that I write to you are the commandments of the Lord.
-- UKJV witness: If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 250. 1 Corinthians 15:16 - high - score 14
-
-- TR draft: For if the dead rise not, then is not Christ raised:
-- UKJV witness: For if the dead rise not, then is not Christ raised:
-- Themes: christology; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 251. 1 Corinthians 15:19 - high - score 14
-
-- TR draft: If in this life only we have hope in Christ, we are of all men most miserable.
-- UKJV witness: If in this life only we have hope in Christ, we are of all men most miserable.
-- Themes: anthropology_ethics; christology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 252. 1 Corinthians 15:21 - high - score 14
-
-- TR draft: For since by man came death, by man came also the resurrection of the dead.
-- UKJV witness: For since by man came death, by man came also the resurrection of the dead.
-- Themes: judgment_afterlife; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 253. 1 Corinthians 15:35 - high - score 14
-
-- TR draft: But some man will say, How are the dead raised up? and with what body do they come?
-- UKJV witness: But some man will say, How are the dead raised up? and with what body do they come?
-- Themes: anthropology_ethics; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 254. 1 Corinthians 15:38 - high - score 14
-
-- TR draft: But God gives it a body as it has pleased him, and to every seed his own body.
-- UKJV witness: But God gives it a body as it has pleased him, and to every seed his own body.
-- Themes: anthropology_ethics; textual_literal
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 255. 1 Corinthians 15:42 - high - score 14
-
-- TR draft: So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
-- UKJV witness: So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
-- Themes: soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 256. 1 Corinthians 15:44 - high - score 14
-
-- TR draft: It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
-- UKJV witness: It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body.
-- Themes: anthropology_ethics; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 257. 1 Corinthians 16:24 - medium - score 14
-
-- TR draft: My love be with you all in Christ Jesus. Amen.
-- UKJV witness: My love (o. agape) be with you all in Christ Jesus. Amen.
-- Themes: anthropology_ethics; christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 258. 1 John 1:3 - medium - score 14
-
-- TR draft: That which we have seen and heard declare we to you, that you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
-- UKJV witness: That which we have seen and heard declare we unto you, that all of you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
-- Themes: christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 259. 1 John 2:1 - medium - score 14
+## 9. 1 John 2:1 - medium - score 14
 
 - TR draft: My little children, these things write I to you, that you do not sin. And if anyone sin, we have an advocate with the Father, Jesus Christ the righteous:
 - UKJV witness: My little children, these things write I unto you, that all of you sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
@@ -2336,52 +86,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 260. 1 John 2:25 - high - score 14
-
-- TR draft: And this is the promise that he has promised us, even eternal life.
-- UKJV witness: And this is the promise that he has promised us, even eternal life.
-- Themes: judgment_afterlife; law_covenant
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 261. 1 John 3:8 - medium - score 14
-
-- TR draft: the one who commits sin is of the devil; for the devil sins from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
-- UKJV witness: He that commits sin is of the devil; for the devil sins from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
-- Themes: anthropology_ethics; christology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 262. 1 John 3:20 - high - score 14
-
-- TR draft: For if our heart condemn us, God is greater than our heart, and knows all things.
-- UKJV witness: For if our heart condemn us, God is greater than our heart, and knows all things.
-- Themes: anthropology_ethics; judgment_afterlife
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 263. 1 John 3:21 - high - score 14
-
-- TR draft: Beloved, if our heart condemn us not, then have we confidence toward God.
-- UKJV witness: Beloved, if our heart condemn us not, then have we confidence toward God.
-- Themes: anthropology_ethics; judgment_afterlife
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 264. 1 John 4:2 - medium - score 14
-
-- TR draft: by this know you the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God:
-- UKJV witness: Hereby know all of you the Spirit (o. pneuma) of God: Every spirit (o. pneuma) that confesses that Jesus Christ has come in the flesh is of God:
-- Themes: anthropology_ethics; christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 265. 1 John 4:3 - medium - score 14
+## 10. 1 John 4:3 - medium - score 14
 
 - TR draft: And every spirit that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, of which you have heard that it should come; and even now already is it in the world.
 - UKJV witness: And every spirit (o. pneuma) that confesses not that Jesus Christ has come in the flesh is not of God: and this is that spirit of antichrist, whereof all of you have heard that it should come; and even now already is it in the world.
@@ -2390,160 +95,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 266. 1 John 4:21 - high - score 14
-
-- TR draft: And this commandment have we from him, That he who loves God love his brother also.
-- UKJV witness: And this commandment have we from him, That he who loves God love his brother also.
-- Themes: anthropology_ethics; law_covenant
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 267. 1 John 5:6 - medium - score 14
-
-- TR draft: This is the one who came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that bears witness, because the Spirit is truth.
-- UKJV witness: This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit (o. pneuma) that bears witness, because the Spirit (o. pneuma) is truth.
-- Themes: christology; soteriology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 268. 1 John 5:11 - high - score 14
-
-- TR draft: And this is the record, that God has given to us eternal life, and this life is in his Son.
-- UKJV witness: And this is the record, that God has given to us eternal life, and this life is in his Son.
-- Themes: judgment_afterlife; textual_literal
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 269. 1 John 5:13 - medium - score 14
-
-- TR draft: These things have I written to you that believe on the name of the Son of God; that you may know that you have eternal life, and that you may believe on the name of the Son of God.
-- UKJV witness: These things have I written unto you that believe on the name of the Son of God; that all of you may know that all of you have eternal life, and that all of you may believe on the name of the Son of God.
-- Themes: christology; judgment_afterlife; soteriology; textual_literal
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 270. 1 Peter 1:7 - medium - score 14
-
-- TR draft: That the trial of your faith, being much more precious than of gold that perishes, though it be tried with fire, might be found to praise and honor and glory at the appearing of Jesus Christ:
-- UKJV witness: That the trial of your faith, being much more precious than of gold that perishes, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:
-- Themes: christology; judgment_afterlife; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 271. 1 Peter 1:9 - high - score 14
-
-- TR draft: Receiving the end of your faith, even the salvation of your souls.
-- UKJV witness: Receiving the end of your faith, even the salvation of your souls.
-- Themes: soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 272. 1 Peter 1:13 - medium - score 14
-
-- TR draft: Therefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought to you at the revelation of Jesus Christ;
-- UKJV witness: Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;
-- Themes: anthropology_ethics; christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 273. 1 Peter 1:19 - high - score 14
-
-- TR draft: But with the precious blood of Christ, as of a lamb without blemish and without spot:
-- UKJV witness: But with the precious blood of Christ, as of a lamb without blemish and without spot:
-- Themes: christology; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 274. 1 Peter 3:12 - medium - score 14
-
-- TR draft: For the eyes of the Lord are over the righteous, and his ears are open to their prayers: but the face of the Lord is against those who do evil.
-- UKJV witness: For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
-- Themes: christology; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 275. 1 Peter 3:15 - medium - score 14
-
-- TR draft: But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asks you a reason of the hope that is in you with meekness and fear:
-- UKJV witness: But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asks you a reason (o. logos) of the hope that is in you with meekness and fear:
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 276. 1 Peter 3:18 - medium - score 14
-
-- TR draft: For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
-- UKJV witness: For Christ also has once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: (o. pneuma)
-- Themes: anthropology_ethics; christology; judgment_afterlife; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 277. 1 Peter 4:18 - high - score 14
-
-- TR draft: And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
-- UKJV witness: And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
-- Themes: soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 278. 1 Peter 5:1 - high - score 14
-
-- TR draft: The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
-- UKJV witness: The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
-- Themes: christology; spirit_church
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 279. 1 Thessalonians 3:12 - medium - score 14
-
-- TR draft: And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:
-- UKJV witness: And the Lord make you to increase and abound in love (o. agape) one toward another, and toward all men, even as we do toward you:
-- Themes: anthropology_ethics; christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 280. 1 Thessalonians 4:1 - medium - score 14
-
-- TR draft: Furthermore then we plead to you, brothers, and exhort you by the Lord Jesus, that as you have received of us how you ought to walk and to please God, so you would abound more and more.
-- UKJV witness: Furthermore then we plead to you, brethren, and exhort you by the Lord Jesus, that as all of you have received of us how all of you ought to walk and to please God, so all of you would abound more and more.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 281. 1 Thessalonians 4:2 - medium - score 14
-
-- TR draft: For you know what commandments we gave you by the Lord Jesus.
-- UKJV witness: For all of you know what commandments we gave you by the Lord Jesus.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 282. 1 Thessalonians 4:15 - medium - score 14
-
-- TR draft: For this we say to you by the word of the Lord, that we which are alive and remain to the coming of the Lord shall not prevent those who are asleep.
-- UKJV witness: For this we say unto you by the word (o. logos) of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 283. 1 Thessalonians 5:8 - medium - score 14
+## 11. 1 Thessalonians 5:8 - medium - score 14
 
 - TR draft: But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for a helmet, the hope of salvation.
 - UKJV witness: But let us, who are of the day, be sober, putting on the breastplate of faith and love; (o. agape) and for an helmet, the hope of salvation.
@@ -2552,43 +104,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 284. 1 Timothy 1:5 - medium - score 14
-
-- TR draft: Now the end of the commandment is love out of a pure heart, and of a good conscience, and of faith sincere:
-- UKJV witness: Now the end of the commandment is love (o. agape) out of a pure heart, and of a good conscience, and of faith sincere:
-- Themes: anthropology_ethics; law_covenant; soteriology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 285. 1 Timothy 1:9 - high - score 14
-
-- TR draft: Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
-- UKJV witness: Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
-- Themes: law_covenant; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 286. 1 Timothy 2:5 - high - score 14
-
-- TR draft: For there is one God, and one mediator between God and men, the man Christ Jesus;
-- UKJV witness: For there is one God, and one mediator between God and men, the man Christ Jesus;
-- Themes: christology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 287. 1 Timothy 4:1 - medium - score 14
-
-- TR draft: Now the Spirit speaks expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of demons;
-- UKJV witness: Now the Spirit (o. pneuma) speaks expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, (o. pneuma) and doctrines of devils;
-- Themes: soteriology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; rendered daimonion as demon; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 288. 1 Timothy 4:12 - medium - score 14
+## 12. 1 Timothy 4:12 - medium - score 14
 
 - TR draft: Let no one despise your youth; but be an example of the believers, in word, in conduct, in love, in spirit, in faith, in purity.
 - UKJV witness: Let no man despise your youth; but be you an example of the believers, in word, (o. logos) in conversation, in love, (o. agape) in spirit, (o. pneuma) in faith, in purity.
@@ -2597,25 +113,7 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 289. 1 Timothy 6:10 - high - score 14
-
-- TR draft: For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
-- UKJV witness: For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
-- Themes: anthropology_ethics; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 290. 2 Corinthians 1:14 - medium - score 14
-
-- TR draft: As also you have acknowledged us in part, that we are your rejoicing, even as you also are ours in the day of the Lord Jesus.
-- UKJV witness: As also all of you have acknowledged us in part, that we are your rejoicing, even as all of you also are our's in the day of the Lord Jesus.
-- Themes: christology
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
-- Latest review: none
-- Decision: check TR literal choice against Greek, then keep or adjust
-
-## 291. 2 Corinthians 1:19 - medium - score 14
+## 13. 2 Corinthians 1:19 - medium - score 14
 
 - TR draft: For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yes and no, but in him was yes.
 - UKJV witness: For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
@@ -2624,83 +122,2585 @@ Rows shown: 300 of 3628
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 292. 2 Corinthians 3:17 - medium - score 14
+## 14. 2 Timothy 1:9 - medium - score 14
 
-- TR draft: Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
-- UKJV witness: Now the Lord is that Spirit: (o. pneuma) and where the Spirit (o. pneuma) of the Lord is, there is liberty.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
+- TR draft: Who has saved us, and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
+- UKJV witness: Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 293. 2 Corinthians 3:18 - medium - score 14
+## 15. Hebrews 2:14 - medium - score 14
 
-- TR draft: But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
-- UKJV witness: But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit (o. pneuma) of the LORD.
-- Themes: christology; spirit_church
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
+- TR draft: Since then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him who had the power of death, that is, the devil;
+- UKJV witness: Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
+- Themes: anthropology_ethics; judgment_afterlife; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
 
-## 294. 2 Corinthians 4:6 - high - score 14
+## 16. Hebrews 9:15 - medium - score 14
 
-- TR draft: For God, who commanded the light to shine out of darkness, has shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
-- UKJV witness: For God, who commanded the light to shine out of darkness, has shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
-- Themes: christology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
+- TR draft: And for this cause he is the mediator of the new covenant, that by means of death, for the redemption of the transgressions that were under the first covenant, those who are called might receive the promise of eternal inheritance.
+- UKJV witness: And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
+- Themes: judgment_afterlife; law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
-- Decision: review Greek; UKJV witness not enough
+- Decision: check TR literal choice against Greek, then keep or adjust
 
-## 295. 2 Corinthians 5:18 - high - score 14
+## 17. John 3:18 - medium - score 14
 
-- TR draft: And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
-- UKJV witness: And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
-- Themes: christology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
+- TR draft: the one who believes on him is not condemned: but the one who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God.
+- UKJV witness: He that believes on him is not condemned: but he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
-- Decision: review Greek; UKJV witness not enough
+- Decision: check TR literal choice against Greek, then keep or adjust
 
-## 296. 2 Corinthians 5:21 - high - score 14
+## 18. John 7:39 - medium - score 14
 
-- TR draft: For he has made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
-- UKJV witness: For he has made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
+- TR draft: (But this spoke he of the Spirit, which those who believe on him should receive: for the Holy Spirit was not yet given; because that Jesus was not yet glorified.)
+- UKJV witness: (But this spoke he of the Spirit, (o. pneuma) which they that believe on him should receive: for the Holy Spirit (o. pneuma) was not yet given; because that Jesus was not yet glorified.)
+- Themes: christology; soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 19. John 11:4 - medium - score 14
+
+- TR draft: When Jesus heard that, he said, This sickness is not to death, but for the glory of God, that the Son of God might be glorified by it.
+- UKJV witness: When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
+- Themes: christology; judgment_afterlife; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 20. John 12:34 - medium - score 14
+
+- TR draft: The people answered him, We have heard out of the law that Christ abides forever: and how do you say, The Son of man must be lifted up? who is this Son of man?
+- UKJV witness: The people answered him, We have heard out of the law that Christ abides for ever: and how says you, The Son of man must be lifted up? who is this Son of man?
+- Themes: christology; law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 21. Luke 8:12 - medium - score 14
+
+- TR draft: Those by the way side are those who hear; then comes the devil, and takes away the word out of their hearts, lest they should believe and be saved.
+- UKJV witness: Those by the way side are they that hear; then comes the devil, and takes away the word (o. logos) out of their hearts, lest they should believe and be saved.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 22. Matthew 20:18 - medium - score 14
+
+- TR draft: Look, we go up to Jerusalem; and the Son of man shall be betrayed to the chief priests and to the scribes, and they shall condemn him to death,
+- UKJV witness: Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,
+- Themes: christology; judgment_afterlife; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 23. Matthew 27:40 - medium - score 14
+
+- TR draft: And saying, You who destroy the temple, and build it in three days, save yourself. If you be the Son of God, come down from the cross.
+- UKJV witness: And saying, You that destroys the temple, and build it in three days, save yourself. If you be the Son of God, come down from the cross.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 24. Matthew 27:54 - medium - score 14
+
+- TR draft: Now when the centurion, and those who were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
+- UKJV witness: Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 25. Mark 3:29 - medium - score 14
+
+- TR draft: But the one who shall blaspheme against the Holy Spirit has never forgiveness, but is in danger of eternal judgment.
+- UKJV witness: But he that shall blaspheme against the Holy Spirit (o. pneuma) has never forgiveness, but is in danger of eternal damnation.
+- Themes: judgment_afterlife; soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 26. Philippians 1:20 - medium - score 14
+
+- TR draft: According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
+- UKJV witness: According to my earn expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
+- Themes: anthropology_ethics; christology; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 27. Philippians 3:9 - medium - score 14
+
+- TR draft: And be found in him, not having my own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+- UKJV witness: And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+- Themes: christology; law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 28. Romans 4:11 - medium - score 14
+
+- TR draft: And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all those who believe, though they be not circumcised; that righteousness might be imputed to them also:
+- UKJV witness: And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 29. Romans 7:4 - medium - score 14
+
+- TR draft: Therefore, my brothers, you also are become dead to the law by the body of Christ; that you should be married to another, even to him who is raised from the dead, that we should bear fruit to God.
+- UKJV witness: Wherefore, my brethren, all of you also are become dead to the law by the body of Christ; that all of you should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.
+- Themes: anthropology_ethics; christology; law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 30. Romans 8:1 - medium - score 14
+
+- TR draft: There is therefore now no condemnation to those who are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+- UKJV witness: There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. (o. pneuma)
+- Themes: anthropology_ethics; christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 31. Romans 10:6 - medium - score 14
+
+- TR draft: But the righteousness which is of faith speaks likewise, Say not in your heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
+- UKJV witness: But the righteousness which is of faith speaks likewise, Say not in yours heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
+- Themes: anthropology_ethics; christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 32. Titus 3:15 - medium - score 14
+
+- TR draft: All that are with me salute you. Greet those who love us in the faith. Grace be with you all. Amen.
+- UKJV witness: All that are with me salute you. Greet them that love us in the faith. Grace be with you all. Amen.
+- Themes: anthropology_ethics; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 33. 1 Corinthians 2:2 - medium - score 12
+
+- TR draft: For I determined not to know anything among you, save Jesus Christ, and him crucified.
+- UKJV witness: For I determined not to know any thing among you, save Jesus Christ, and him crucified.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 34. 1 Corinthians 5:3 - medium - score 12
+
+- TR draft: For I truly, as absent in body, but present in spirit, have judged already, as though I were present, concerning him who has so done this deed,
+- UKJV witness: For I verily, as absent in body, but present in spirit, (o. pneuma) have judged already, as though I were present, concerning him that has so done this deed,
+- Themes: anthropology_ethics; spirit_church; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 35. 1 Corinthians 6:18 - medium - score 12
+
+- TR draft: Flee sexual immorality. Every sin that a man does is without the body; but the one who commits sexual immorality sins against his own body.
+- UKJV witness: Flee fornication. Every sin that a man does is without the body; but he that commits fornication sins against his own body.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 36. 1 Corinthians 6:19 - medium - score 12
+
+- TR draft: What? do you not know that your body is the temple of the Holy Spirit which is in you, which you have of God, and you are not your own?
+- UKJV witness: What? know all of you not that your body is the temple of the Holy Spirit (o. pneuma) which is in you, which all of you have of God, and all of you are not your own?
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 37. 1 Corinthians 15:17 - medium - score 12
+
+- TR draft: And if Christ is not raised, your faith is vain; you are yet in your sins.
+- UKJV witness: And if Christ be not raised, your faith is vain; all of you are yet in your sins.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 38. 1 John 2:5 - medium - score 12
+
+- TR draft: But whoever keeps his word, in him truly is the love of God perfected: by this know we that we are in him.
+- UKJV witness: But whoso keeps his word, (o. logos) in him verily is the love (o. agape) of God perfected: hereby know we that we are in him.
+- Themes: anthropology_ethics; christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 39. 1 John 5:10 - medium - score 12
+
+- TR draft: the one who believes on the Son of God has the witness in himself: the one who does not believe God has made him a liar; because he does not believe the record that God gave of his Son.
+- UKJV witness: He that believes on the Son of God has the witness in himself: he that believes not God has made him a liar; because he believes not the record that God gave of his Son.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 40. 1 Peter 1:22 - medium - score 12
+
+- TR draft: Seeing you have purified your souls in obeying the truth through the Spirit to sincere love of the brothers, see that you love one another with a pure heart fervently:
+- UKJV witness: Seeing all of you have purified your souls in obeying the truth through the Spirit (o. pneuma) unto sincere love of the brethren, see that all of you love one another with a pure heart fervently:
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 41. 1 Peter 4:1 - medium - score 12
+
+- TR draft: Since then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for the one who has suffered in the flesh has ceased from sin;
+- UKJV witness: Forasmuch then as Christ has suffered for us in the flesh, arm yourselves likewise with the same mind: for he that has suffered in the flesh has ceased from sin;
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 42. 1 Peter 4:11 - medium - score 12
+
+- TR draft: If anyone speak, let him speak as the oracles of God; if anyone minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion forever and ever. Amen.
+- UKJV witness: If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God gives: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 43. 1 Timothy 3:13 - medium - score 12
+
+- TR draft: For those who have served well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
+- UKJV witness: For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 44. 1 Timothy 4:6 - medium - score 12
+
+- TR draft: If you put the brothers in remembrance of these things, you shall be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, to which you have attained.
+- UKJV witness: If you put the brethren in remembrance of these things, you shall be a good minister of Jesus Christ, nourished up in the words (o. logos) of faith and of good doctrine, unto which you have attained.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 45. 2 Corinthians 3:3 - medium - score 12
+
+- TR draft: since you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
+- UKJV witness: Forasmuch as all of you are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit (o. pneuma) of the living God; not in tables of stone, but in fleshy tables of the heart.
+- Themes: anthropology_ethics; christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 46. 2 Corinthians 8:7 - medium - score 12
+
+- TR draft: Therefore, as you abound in everything, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that you abound in this grace also.
+- UKJV witness: Therefore, as all of you abound in every thing, in faith, and utterance, (o. logos) and knowledge, and in all diligence, and in your love (o. agape) to us, see that all of you abound in this grace also.
 - Themes: anthropology_ethics; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
-- Decision: review Greek; UKJV witness not enough
+- Decision: check TR literal choice against Greek, then keep or adjust
 
-## 297. 2 Corinthians 7:10 - high - score 14
+## 47. 2 Corinthians 13:5 - medium - score 12
 
-- TR draft: For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
-- UKJV witness: For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
-- Themes: judgment_afterlife; soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
+- TR draft: Examine yourselves, whether you be in the faith; prove your own selves. Do you not know your own selves, how that Jesus Christ is in you, except you be reprobates?
+- UKJV witness: Examine yourselves, whether all of you be in the faith; prove your own selves. Know all of you not your own selves, how that Jesus Christ is in you, except all of you be reprobates?
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
-- Decision: review Greek; UKJV witness not enough
+- Decision: check TR literal choice against Greek, then keep or adjust
 
-## 298. 2 Corinthians 12:7 - high - score 14
+## 48. 2 Peter 3:7 - medium - score 12
 
-- TR draft: And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
-- UKJV witness: And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
-- Themes: anthropology_ethics; textual_literal
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 299. 2 Peter 2:5 - high - score 14
-
-- TR draft: And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
-- UKJV witness: And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
-- Themes: soteriology
-- Why: status:needs_focused_tr_review; theology/literal keyword hit
-- Latest review: none
-- Decision: review Greek; UKJV witness not enough
-
-## 300. 2 Peter 2:9 - medium - score 14
-
-- TR draft: The Lord knows how to deliver the godly out of temptations, and to reserve the unjust to the day of judgment to be punished:
-- UKJV witness: The Lord knows how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:
+- TR draft: But the heavens and the earth, which are now, by the same word are kept in store, reserved to fire against the day of judgment and destruction of ungodly men.
+- UKJV witness: But the heavens and the earth, which are now, by the same word (o. logos) are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
 - Themes: christology; judgment_afterlife
-- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; normalized NT kurios as Lord; theology/literal keyword hit
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 49. Acts 5:3 - medium - score 12
+
+- TR draft: But Peter said, Ananias, why has Satan filled your heart to lie to the Holy Spirit, and to keep back part of the price of the land?
+- UKJV witness: But Peter said, Ananias, why has Satan filled yours heart to lie to the Holy Spirit, (o. pneuma) and to keep back part of the price of the land?
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 50. Acts 10:44 - medium - score 12
+
+- TR draft: While Peter yet spoke these words, the Holy Spirit fell on all those who heard the word.
+- UKJV witness: While Peter yet spoke these words, (o. rhema) the Holy Spirit (o. pneuma) fell on all them which heard the word. (o. logos)
+- Themes: christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 51. Acts 17:31 - medium - score 12
+
+- TR draft: Because he has appointed a day, in the which he will judge the world in righteousness by that man whom he has ordained; of which he has given assurance to all men, in that he has raised him from the dead.
+- UKJV witness: Because he has appointed a day, in the which he will judge the world in righteousness by that man whom he has ordained; whereof he has given assurance unto all men, in that he has raised him from the dead.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 52. Acts 18:5 - medium - score 12
+
+- TR draft: And when Silas and Timotheus had come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+- UKJV witness: And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, (o. pneuma) and testified to the Jews that Jesus was Christ.
+- Themes: christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 53. Acts 22:3 - medium - score 12
+
+- TR draft: I am truly a man who am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
+- UKJV witness: I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as all of you all are this day.
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 54. Acts 23:6 - medium - score 12
+
+- TR draft: But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brothers, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+- UKJV witness: But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+- Themes: anthropology_ethics; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 55. Colossians 2:12 - medium - score 12
+
+- TR draft: Buried with him in baptism, in which also you are risen with him through the faith of the operation of God, who has raised him from the dead.
+- UKJV witness: Buried with him in baptism, wherein also all of you are risen with him through the faith of the operation of God, who has raised him from the dead.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 56. Ephesians 2:13 - medium - score 12
+
+- TR draft: But now in Christ Jesus you who sometimes were far off are made near by the blood of Christ.
+- UKJV witness: But now in Christ Jesus all of you who sometimes were far off are made nigh by the blood of Christ.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 57. Ephesians 4:30 - medium - score 12
+
+- TR draft: And grieve not the holy Spirit of God, by which you are sealed to the day of redemption.
+- UKJV witness: And grieve not the holy Spirit (o. pneuma) of God, whereby all of you are sealed unto the day of redemption.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 58. Galatians 3:5 - medium - score 12
+
+- TR draft: He therefore that supplies to you the Spirit, and works miracles among you, does he it by the works of the law, or by the hearing of faith?
+- UKJV witness: He therefore that ministers to you the Spirit, (o. pneuma) and works miracles among you, does he it by the works of the law, or by the hearing of faith?
+- Themes: law_covenant; soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 59. Galatians 3:21 - medium - score 12
+
+- TR draft: Is the law then against the promises of God? May it not be: for if there had been a law given which could have given life, truly righteousness should have been by the law.
+- UKJV witness: Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
+- Themes: law_covenant; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 60. Galatians 5:14 - medium - score 12
+
+- TR draft: For all the law is fulfilled in one word, even in this; You shall love your neighbor as yourself.
+- UKJV witness: For all the law is fulfilled in one word, (o. logos) even in this; You shall love your neighbour as yourself.
+- Themes: anthropology_ethics; christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 61. Galatians 6:15 - medium - score 12
+
+- TR draft: For in Christ Jesus neither circumcision avails anything, nor uncircumcision, but a new creature.
+- UKJV witness: For in Christ Jesus neither circumcision avails any thing, nor uncircumcision, but a new creature.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 62. Hebrews 3:1 - medium - score 12
+
+- TR draft: Therefore, holy brothers, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus;
+- UKJV witness: Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
+- Themes: christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 63. Hebrews 5:7 - medium - score 12
+
+- TR draft: Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears to him who was able to save him from death, and was heard in that he feared;
+- UKJV witness: Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
+- Themes: anthropology_ethics; judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 64. Hebrews 7:5 - medium - score 12
+
+- TR draft: And truly those who are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brothers, though they come out of the loins of Abraham:
+- UKJV witness: And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 65. Hebrews 7:28 - medium - score 12
+
+- TR draft: For the law makes men high priests who have infirmity; but the word of the oath, which was since the law, makes the Son, who is consecrated for evermore.
+- UKJV witness: For the law makes men high priests which have infirmity; but the word (o. logos) of the oath, which was since the law, makes the Son, who is consecrated for evermore.
+- Themes: christology; law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 66. Hebrews 9:22 - medium - score 12
+
+- TR draft: And almost all things are by the law purged with blood; and without shedding of blood is no forgiveness.
+- UKJV witness: And almost all things are by the law purged with blood; and without shedding of blood is no remission.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 67. Hebrews 9:28 - medium - score 12
+
+- TR draft: So Christ was once offered to bear the sins of many; and to those who look for him shall he appear the second time without sin to salvation.
+- UKJV witness: So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
+- Themes: anthropology_ethics; christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 68. Hebrews 12:24 - medium - score 12
+
+- TR draft: And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel.
+- UKJV witness: And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things that that of Abel.
+- Themes: christology; law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 69. James 2:8 - medium - score 12
+
+- TR draft: If you fulfill the royal law according to the scripture, You shall love your neighbor as yourself, you do well:
+- UKJV witness: If all of you fulfill the royal law according to the scripture, You shall love your neighbour as yourself, all of you do well:
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 70. John 6:54 - medium - score 12
+
+- TR draft: Whoever eats my flesh, and drinks my blood, has eternal life; and I will raise him up at the last day.
+- UKJV witness: Whoso eats my flesh, and drinks my blood, has eternal life; and I will raise him up at the last day.
+- Themes: anthropology_ethics; judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 71. John 12:47 - medium - score 12
+
+- TR draft: And if anyone hear my words, and do not believe, I judge him not: for I came not to judge the world, but to save the world.
+- UKJV witness: And if any man hear my words, (o. rhema) and believe not, I judge him not: for I came not to judge the world, but to save the world.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 72. John 18:31 - medium - score 12
+
+- TR draft: Then said Pilate to them, Take you him, and judge him according to your law. The Jews therefore said to him, It is not lawful for us to put anyone to death:
+- UKJV witness: Then said Pilate unto them, Take all of you him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
+- Themes: judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 73. Jude 1:7 - medium - score 12
+
+- TR draft: Even as Sodom and Gomorrha, and the cities about them likewise, giving themselves over to sexual immorality, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+- UKJV witness: Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 74. Jude 1:23 - medium - score 12
+
+- TR draft: And others save with fear, pulling them out of the fire; hating even the clothing spotted by the flesh.
+- UKJV witness: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
+- Themes: anthropology_ethics; judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 75. Luke 2:25 - medium - score 12
+
+- TR draft: And, look, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Spirit was upon him.
+- UKJV witness: And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Spirit (o. pneuma) was upon him.
+- Themes: law_covenant; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 76. Luke 5:24 - medium - score 12
+
+- TR draft: But that you may know that the Son of man has power upon earth to forgive sins, (he said to the sick of the paralysis,) I say to you, Arise, and take up your couch, and go into your house.
+- UKJV witness: But that all of you may know that the Son of man has power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto you, Arise, and take up your couch, and go into yours house.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 77. Luke 6:37 - medium - score 12
+
+- TR draft: Do not judge, and you shall not be judged: condemn not, and you shall not be condemned: forgive, and you shall be forgiven:
+- UKJV witness: Judge not, and all of you shall not be judged: condemn not, and all of you shall not be condemned: forgive, and all of you shall be forgiven:
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 78. Luke 7:9 - medium - score 12
+
+- TR draft: When Jesus heard these things, he marveled at him, and turned him about, and said to the people that followed him, I say to you, I have not found so great faith, no, not in Israel.
+- UKJV witness: When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
+- Themes: christology; law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 79. Luke 9:22 - medium - score 12
+
+- TR draft: Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be killed, and be raised the third day.
+- UKJV witness: Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 80. Luke 18:39 - medium - score 12
+
+- TR draft: And those who went before rebuked him, that he should be silent: but he cried so much the more, You son of David, have mercy on me.
+- UKJV witness: And they which went before rebuked him, that he should hold his peace: but he cried so much the more, You son of David, have mercy on me.
+- Themes: anthropology_ethics; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 81. Luke 19:9 - medium - score 12
+
+- TR draft: And Jesus said to him, This day is salvation come to this house, since he also is a son of Abraham.
+- UKJV witness: And Jesus said unto him, This day is salvation come to this house, forasmuch as he also is a son of Abraham.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 82. Matthew 1:21 - medium - score 12
+
+- TR draft: And she shall bear a son, and you shall call his name JESUS: for he shall save his people from their sins.
+- UKJV witness: And she shall bring forth a son, and you shall call his name JESUS: for he shall save his people from their sins.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 83. Matthew 5:9 - medium - score 12
+
+- TR draft: Blessed are the peacemakers: for they shall be called the sons of God.
+- UKJV witness: Blessed are the peacemakers: for they shall be called the children of God.
+- Themes: none
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; kept huios as sons where Greek has sons of God
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 84. Matthew 8:29 - medium - score 12
+
+- TR draft: And, look, they cried out, saying, What have we to do with you, Jesus, you Son of God? are you come here to torment us before the time?
+- UKJV witness: And, behold, they cried out, saying, What have we to do with you, Jesus, you Son of God? are you come here to torment us before the time?
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 85. Matthew 9:2 - medium - score 12
+
+- TR draft: And, look, they brought to him a man sick of the paralysis, lying on a bed: and Jesus seeing their faith said to the sick of the paralysis; Son, be of good cheer; your sins be forgiven you.
+- UKJV witness: And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; your sins be forgiven you.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 86. Matthew 9:6 - medium - score 12
+
+- TR draft: But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick of the paralysis,) Arise, take up your bed, and go to your house.
+- UKJV witness: But that all of you may know that the Son of man has power on earth to forgive sins, (then says he to the sick of the palsy,) Arise, take up your bed, and go unto yours house.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 87. Matthew 16:13 - medium - score 12
+
+- TR draft: When Jesus came into the borders of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
+- UKJV witness: When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 88. Matthew 17:9 - medium - score 12
+
+- TR draft: And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no one, until the Son of man be risen again from the dead.
+- UKJV witness: And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 89. Matthew 17:22 - medium - score 12
+
+- TR draft: And while they remained in Galilee, Jesus said to them, The Son of man shall be betrayed into the hands of men:
+- UKJV witness: And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 90. Matthew 23:35 - medium - score 12
+
+- TR draft: That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you killed between the temple and the altar.
+- UKJV witness: That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom all of you slew between the temple and the altar.
+- Themes: soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 91. Matthew 26:28 - medium - score 12
+
+- TR draft: For this is my blood of the new covenant, which is shed for many for the forgiveness of sins.
+- UKJV witness: For this is my blood of the new testament, which is shed for many for the remission of sins.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 92. Matthew 28:19 - medium - score 12
+
+- TR draft: Go therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit:
+- UKJV witness: Go all of you therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit: (o. pneuma)
+- Themes: spirit_church; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 93. Mark 1:4 - medium - score 12
+
+- TR draft: John did baptize in the wilderness, and preach the baptism of repentance for the forgiveness of sins.
+- UKJV witness: John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 94. Mark 2:5 - medium - score 12
+
+- TR draft: When Jesus saw their faith, he said to the sick of the paralysis, Son, your sins be forgiven you.
+- UKJV witness: When Jesus saw their faith, he said unto the sick of the palsy, Son, your sins be forgiven you.
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 95. Mark 2:10 - medium - score 12
+
+- TR draft: But that you may know that the Son of man has power on earth to forgive sins, (he says to the sick of the paralysis,)
+- UKJV witness: But that all of you may know that the Son of man has power on earth to forgive sins, (he says to the sick of the palsy,)
+- Themes: christology; soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 96. Mark 5:36 - medium - score 12
+
+- TR draft: As soon as Jesus heard the word that was spoken, he says to the ruler of the synagogue, do not be afraid, only believe.
+- UKJV witness: As soon as Jesus heard the word (o. logos) that was spoken, he says unto the ruler of the synagogue, Be not afraid, only believe.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 97. Mark 9:12 - medium - score 12
+
+- TR draft: And he answered and told them, Elijah truly comes first, and restores all things; and how it is written of the Son of man, that he must suffer many things, and be set at nothing.
+- UKJV witness: And he answered and told them, Elijah verily comes first, and restores all things; and how it is written of the Son of man, that he must suffer many things, and be set at nothing.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 98. Mark 14:61 - medium - score 12
+
+- TR draft: But he was silent, and answered nothing. Again the high priest asked him, and said to him, Are you the Christ, the Son of the Blessed?
+- UKJV witness: But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Are you the Christ, the Son of the Blessed?
+- Themes: anthropology_ethics; christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 99. Philippians 2:1 - medium - score 12
+
+- TR draft: if there is therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any inward parts and mercies,
+- UKJV witness: If there be therefore any consolation in Christ, if any comfort of love, (o. agape) if any fellowship of the Spirit, (o. pneuma) if any bowels and mercies,
+- Themes: anthropology_ethics; christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 100. Revelation 1:2 - medium - score 12
+
+- TR draft: Who bore record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+- UKJV witness: Who bare record of the word (o. logos) of God, and of the testimony of Jesus Christ, and of all things that he saw.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 101. Revelation 1:5 - medium - score 12
+
+- TR draft: And from Jesus Christ, who is the faithful witness, and the First-Born of the dead, and the prince of the kings of the earth. To him who loved us, and washed us from our sins in his own blood,
+- UKJV witness: And from Jesus Christ, who is the faithful witness, and the First-Born of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 102. Revelation 6:10 - medium - score 12
+
+- TR draft: And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on those who dwell on the earth?
+- UKJV witness: And they cried with a loud voice, saying, How long, O Lord, holy and true, do you not judge and avenge our blood on them that dwell on the earth?
+- Themes: christology; judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 103. Revelation 14:8 - medium - score 12
+
+- TR draft: And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her sexual immorality.
+- UKJV witness: And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
+- Themes: anthropology_ethics; judgment_afterlife; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 104. Romans 2:25 - medium - score 12
+
+- TR draft: For circumcision truly profits, if you keep the law: but if you be a breaker of the law, your circumcision is made uncircumcision.
+- UKJV witness: For circumcision verily profits, if you keep the law: but if you be a breaker of the law, your circumcision is made uncircumcision.
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 105. Romans 4:14 - medium - score 12
+
+- TR draft: For if those who are of the law be heirs, faith is made void, and the promise made of no effect:
+- UKJV witness: For if they which are of the law be heirs, faith is made void, and the promise made of no effect:
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 106. Romans 5:2 - medium - score 12
+
+- TR draft: By whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God.
+- UKJV witness: By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 107. Romans 6:3 - medium - score 12
+
+- TR draft: Do you not know, that so many of us as were baptized into Jesus Christ were baptized into his death?
+- UKJV witness: Know all of you not, that so many of us as were baptized into Jesus Christ were baptized into his death?
+- Themes: christology; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 108. Romans 7:5 - medium - score 12
+
+- TR draft: For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bear fruit to death.
+- UKJV witness: For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.
+- Themes: anthropology_ethics; judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 109. Romans 7:8 - medium - score 12
+
+- TR draft: But sin, taking occasion by the commandment, worked in me all manner of desire. For without the law sin was dead.
+- UKJV witness: But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 110. Romans 7:13 - medium - score 12
+
+- TR draft: Was then that which is good made death to me? May it not be. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
+- UKJV witness: Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
+- Themes: anthropology_ethics; judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 111. Romans 8:9 - medium - score 12
+
+- TR draft: But you are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if anyone have not the Spirit of Christ, he is none of his.
+- UKJV witness: But all of you are not in the flesh, but in the Spirit, (o. pneuma) if so be that the Spirit (o. pneuma) of God dwell in you. Now if any man have not the Spirit (o. pneuma) of Christ, he is none of his.
+- Themes: anthropology_ethics; christology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 112. Romans 9:8 - medium - score 12
+
+- TR draft: That is, those who are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
+- UKJV witness: That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
+- Themes: anthropology_ethics; law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 113. Romans 10:8 - medium - score 12
+
+- TR draft: But what says it? The word is near you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
+- UKJV witness: But what says it? The word (o. rhema) is nigh you, even in your mouth, and in your heart: that is, the word (o. rhema) of faith, which we preach;
+- Themes: anthropology_ethics; christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 114. 1 Corinthians 1:18 - medium - score 10
+
+- TR draft: For the preaching of the cross is to those who perish foolishness; but to us which are saved it is the power of God.
+- UKJV witness: For the preaching (o. logos) of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 115. 1 Corinthians 1:21 - medium - score 10
+
+- TR draft: For after that in the wisdom of God the world by wisdom did not know God, it pleased God by the foolishness of preaching to save those who believe.
+- UKJV witness: For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 116. 1 Corinthians 2:9 - medium - score 10
+
+- TR draft: But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for those who love him.
+- UKJV witness: But as it is written, Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God has prepared for them that love him.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 117. 1 Corinthians 3:11 - medium - score 10
+
+- TR draft: For other foundation can no one lay than that is laid, which is Jesus Christ.
+- UKJV witness: For other foundation can no man lay than that is laid, which is Jesus Christ.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 118. 1 Corinthians 3:15 - medium - score 10
+
+- TR draft: If anyone's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
+- UKJV witness: If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 119. 1 Corinthians 4:3 - medium - score 10
+
+- TR draft: But with me it is a very small thing that I should be judged of you, or of man's judgment: yes, I do not judge my own self.
+- UKJV witness: But with me it is a very small thing that I should be judged of you, or of man's judgment: yea, I judge not mine own self.
+- Themes: judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 120. 1 Corinthians 4:21 - medium - score 10
+
+- TR draft: What do you want? shall I come to you with a rod, or in love, and in the spirit of meekness?
+- UKJV witness: What will all of you? shall I come unto you with a rod, or in love, (o. agape) and in the spirit (o. pneuma) of meekness?
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 121. 1 Corinthians 6:16 - medium - score 10
+
+- TR draft: What? do you not know that the one who is joined to a prostitute is one body? for two, says he, shall be one flesh.
+- UKJV witness: What? know all of you not that he which is joined to an harlot is one body? for two, says he, shall be one flesh.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 122. 1 Corinthians 8:12 - medium - score 10
+
+- TR draft: But when you sin so against the brothers, and wound their weak conscience, you sin against Christ.
+- UKJV witness: But when all of you sin so against the brethren, and wound their weak conscience, all of you sin against Christ.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 123. 1 Corinthians 9:20 - medium - score 10
+
+- TR draft: And to the Jews I became as a Jew, that I might gain the Jews; to those who are under the law, as under the law, that I might gain those who are under the law;
+- UKJV witness: And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
+- Themes: law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 124. 1 Corinthians 9:21 - medium - score 10
+
+- TR draft: To those who are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain those who are without law.
+- UKJV witness: To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 125. 1 Corinthians 10:18 - medium - score 10
+
+- TR draft: Look Israel after the flesh: are not those who eat of the sacrifices partakers of the altar?
+- UKJV witness: Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 126. 1 Corinthians 11:25 - medium - score 10
+
+- TR draft: After the same manner also he took the cup, when he had supped, saying, This cup is the new covenant in my blood: this do you, as often as you drink it, in remembrance of me.
+- UKJV witness: After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do all of you, as often as all of you drink it, in remembrance of me.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 127. 1 Corinthians 15:12 - medium - score 10
+
+- TR draft: Now if Christ is preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
+- UKJV witness: Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 128. 1 Corinthians 15:13 - medium - score 10
+
+- TR draft: But if there is no resurrection of the dead, then is Christ not risen:
+- UKJV witness: But if there be no resurrection of the dead, then is Christ not risen:
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 129. 1 Corinthians 15:14 - medium - score 10
+
+- TR draft: And if Christ is not risen, then is our preaching vain, and your faith is also vain.
+- UKJV witness: And if Christ be not risen, then is our preaching vain, and your faith is also vain.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 130. 1 Corinthians 15:15 - medium - score 10
+
+- TR draft: Yes, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
+- UKJV witness: Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 131. 1 Corinthians 15:34 - medium - score 10
+
+- TR draft: Awake to righteousness, and do not sin; for some have not the knowledge of God: I speak this to your shame.
+- UKJV witness: Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 132. 1 Corinthians 15:50 - medium - score 10
+
+- TR draft: Now this I say, brothers, that flesh and blood cannot inherit the kingdom of God; neither does corruption inherit incorruption.
+- UKJV witness: Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither does corruption inherit incorruption.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 133. 1 John 2:7 - medium - score 10
+
+- TR draft: Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you have heard from the beginning.
+- UKJV witness: Brethren, I write no new commandment unto you, but an old commandment which all of you had from the beginning. The old commandment is the word (o. logos) which all of you have heard from the beginning.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 134. 1 John 3:7 - medium - score 10
+
+- TR draft: Little children, let no one deceive you: the one who does righteousness is righteous, even as he is righteous.
+- UKJV witness: Little children, let no man deceive you: he that does righteousness is righteous, even as he is righteous.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 135. 1 John 3:14 - medium - score 10
+
+- TR draft: We know that we have passed from death to life, because we love the brothers. the one who loves not his brother abides in death.
+- UKJV witness: We know that we have passed from death unto life, because we love the brethren. He that loves not his brother abides in death.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 136. 1 John 4:1 - medium - score 10
+
+- TR draft: Beloved, do not believe every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
+- UKJV witness: Beloved, believe not every spirit, (o. pneuma) but try the spirits (o. pneuma) whether they are of God: because many false prophets are gone out into the world.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 137. 1 John 5:1 - medium - score 10
+
+- TR draft: Whoever believes that Jesus is the Christ is born of God: and every one that loves him who fathered loves him also that is begotten of him.
+- UKJV witness: Whosoever believes that Jesus is the Christ is born of God: and every one that loves him that brings forth loves him also that is begotten of him.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 138. 1 John 5:16 - medium - score 10
+
+- TR draft: If anyone see his brother sin a sin which is not to death, he shall ask, and he shall give him life for those who do not sin to death. There is a sin to death: I do not say that he shall pray for it.
+- UKJV witness: If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 139. 1 John 5:17 - medium - score 10
+
+- TR draft: All unrighteousness is sin: and there is a do not sin to death.
+- UKJV witness: All unrighteousness is sin: and there is a sin not unto death.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 140. 1 Peter 1:23 - medium - score 10
+
+- TR draft: Being born again, not of corruptible seed, but of incorruptible, by the word of God, who lives and abides forever.
+- UKJV witness: Being born again, not of corruptible seed, but of incorruptible, by the word (o. logos) of God, which lives and abides for ever.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 141. 1 Peter 2:5 - medium - score 10
+
+- TR draft: You also, as lively stones, are built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+- UKJV witness: All of you also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 142. 1 Peter 2:24 - medium - score 10
+
+- TR draft: Who his own self bore our sins in his own body on the tree, that we, being dead to sins, should live to righteousness: by whose stripes you were healed.
+- UKJV witness: Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes all of you were healed.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 143. 1 Peter 5:5 - medium - score 10
+
+- TR draft: Likewise, you younger, submit yourselves to the elder. Yes, you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
+- UKJV witness: Likewise, all of you younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 144. 1 Thessalonians 2:13 - medium - score 10
+
+- TR draft: For this cause also thank we God without ceasing, because, when you received the word of God who you heard of us, you received it not as the word of men, but as it is in truth, the word of God, who effectually works also in you that believe.
+- UKJV witness: For this cause also thank we God without ceasing, because, when all of you received the word (o. logos) of God which all of you heard of us, all of you received it not as the word (o. logos) of men, but as it is in truth, the word (o. logos) of God, which effectually works also in you that believe.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 145. 1 Thessalonians 4:14 - medium - score 10
+
+- TR draft: For if we believe that Jesus died and rose again, even so those also who sleep in Jesus will God bring with him.
+- UKJV witness: For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 146. 1 Thessalonians 5:18 - medium - score 10
+
+- TR draft: In everything give thanks: for this is the will of God in Christ Jesus concerning you.
+- UKJV witness: In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 147. 1 Timothy 1:17 - medium - score 10
+
+- TR draft: Now to the King eternal, immortal, invisible, the only wise God, be honor and glory forever and ever. Amen.
+- UKJV witness: Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 148. 1 Timothy 4:10 - medium - score 10
+
+- TR draft: For therefore we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, specially of those that believe.
+- UKJV witness: For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 149. 1 Timothy 5:12 - medium - score 10
+
+- TR draft: Having judgment, because they have cast off their first faith.
+- UKJV witness: Having damnation, because they have cast off their first faith.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 150. 1 Timothy 6:12 - medium - score 10
+
+- TR draft: Fight the good fight of faith, lay hold on eternal life, to which you are also called, and have professed a good confession before many witnesses.
+- UKJV witness: Fight the good fight of faith, lay hold on eternal life, unto which you are also called, and have professed a good profession before many witnesses.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 151. 1 Timothy 6:13 - medium - score 10
+
+- TR draft: I give you charge in the sight of God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+- UKJV witness: I give you charge in the sight of God, who replenishes life to all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 152. 2 Corinthians 2:10 - medium - score 10
+
+- TR draft: To whom you forgive anything, I forgive also: for if I forgave anything, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+- UKJV witness: To whom all of you forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 153. 2 Corinthians 2:15 - medium - score 10
+
+- TR draft: For we are to God a sweet taste of Christ, in those who are saved, and in those who perish:
+- UKJV witness: For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 154. 2 Corinthians 3:6 - medium - score 10
+
+- TR draft: Who also has made us able ministers of the new covenant; not of the letter, but of the spirit: for the letter kills, but the spirit gives life.
+- UKJV witness: Who also has made us able ministers of the new testament; not of the letter, but of the spirit: (o. pneuma) for the letter kills, but the spirit (o. pneuma) gives life.
+- Themes: law_covenant; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 155. 2 Corinthians 3:7 - medium - score 10
+
+- TR draft: But if the ministration of death, written and engraved in stones, was glorious, so that the children of Israel could not steadfastly look the face of Moses for the glory of his countenance; which glory was to be done away:
+- UKJV witness: But if the ministration of death, written and engraved in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:
+- Themes: judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 156. 2 Corinthians 3:14 - medium - score 10
+
+- TR draft: But their minds were blinded: for until this day remains the same vail untaken away in the reading of the old covenant; which vail is done away in Christ.
+- UKJV witness: But their minds were blinded: for until this day remains the same vail untaken away in the reading of the old testament; which vail is done away in Christ.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 157. 2 Corinthians 5:16 - medium - score 10
+
+- TR draft: Therefore from now on know we no one after the flesh: yes, though we have known Christ after the flesh, yet now from now on know we him no more.
+- UKJV witness: Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 158. 2 Corinthians 9:10 - medium - score 10
+
+- TR draft: Now the one who supplies seed to the sower both supply bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
+- UKJV witness: Now he that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
+- Themes: soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 159. 2 Corinthians 10:15 - medium - score 10
+
+- TR draft: Not boasting of things without our measure, that is, of other men's labors; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
+- UKJV witness: Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 160. 2 Corinthians 12:2 - medium - score 10
+
+- TR draft: I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such a one caught up to the third heaven.
+- UKJV witness: I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knows;) such an one caught up to the third heaven.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 161. 2 Corinthians 12:12 - medium - score 10
+
+- TR draft: Truly the signs of an apostle were worked among you in all patience, in signs, and wonders, and mighty deeds.
+- UKJV witness: Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.
+- Themes: spirit_church; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 162. 2 Corinthians 13:11 - medium - score 10
+
+- TR draft: Finally, brothers, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
+- UKJV witness: Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love (o. agape) and peace shall be with you.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 163. 2 John 1:1 - medium - score 10
+
+- TR draft: The elder to the elect lady and her children, whom I love in the truth; and not I only, but also all those who have known the truth;
+- UKJV witness: The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 164. 2 Peter 2:8 - medium - score 10
+
+- TR draft: (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day today with their unlawful deeds;)
+- UKJV witness: (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 165. 2 Peter 2:14 - medium - score 10
+
+- TR draft: Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: a heart they have exercised with covetous practices; cursed children:
+- UKJV witness: Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 166. 2 Peter 3:13 - medium - score 10
+
+- TR draft: Nevertheless we, according to his promise, look for new heavens and a new earth, in which dwells righteousness.
+- UKJV witness: Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwells righteousness.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 167. 2 Thessalonians 1:3 - medium - score 10
+
+- TR draft: We are bound to thank God always for you, brothers, as it is meet, because that your faith grows exceedingly, and the love of every one of you all toward each other abounds;
+- UKJV witness: We are bound to thank God always for you, brethren, as it is meet, because that your faith grows exceedingly, and the love (o. agape) of every one of you all toward each other abounds;
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 168. 2 Thessalonians 2:3 - medium - score 10
+
+- TR draft: Let no one deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of destruction;
+- UKJV witness: Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
+- Themes: anthropology_ethics; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 169. 2 Thessalonians 2:10 - medium - score 10
+
+- TR draft: And with all deceivableness of unrighteousness in those who perish; because they received not the love of the truth, that they might be saved.
+- UKJV witness: And with all deceivableness of unrighteousness in them that perish; because they received not the love (o. agape) of the truth, that they might be saved.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 170. 2 Timothy 3:12 - medium - score 10
+
+- TR draft: Yes, and all that will live godly in Christ Jesus shall suffer persecution.
+- UKJV witness: Yea, and all that will live godly in Christ Jesus shall suffer persecution.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 171. Acts 2:17 - medium - score 10
+
+- TR draft: And it will happen in the last days, says God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+- UKJV witness: And it shall come to pass in the last days, says God, I will pour out of my Spirit (o. pneuma) upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 172. Acts 2:32 - medium - score 10
+
+- TR draft: This Jesus has God raised up, of which we all are witnesses.
+- UKJV witness: This Jesus has God raised up, whereof we all are witnesses.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 173. Acts 3:20 - medium - score 10
+
+- TR draft: And he shall send Jesus Christ, who before was preached to you:
+- UKJV witness: And he shall send Jesus Christ, which before was preached unto you:
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 174. Acts 3:23 - medium - score 10
+
+- TR draft: And it will happen, that every soul, which will not hear that prophet, shall be destroyed from among the people.
+- UKJV witness: And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 175. Acts 4:12 - medium - score 10
+
+- TR draft: Neither is there salvation in any other: for there is no other name under heaven given among men, by which we must be saved.
+- UKJV witness: Neither is there salvation in any other: for there is no other name under heaven given among men, whereby we must be saved.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 176. Acts 4:32 - medium - score 10
+
+- TR draft: And the multitude of those who believed were of one heart and of one soul: neither did any of them say that anything of the things which he possessed was his own; but they had all things common.
+- UKJV witness: And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 177. Acts 5:30 - medium - score 10
+
+- TR draft: The God of our fathers raised up Jesus, whom you killed and hanged on a tree.
+- UKJV witness: The God of our fathers raised up Jesus, whom all of you slew and hanged on a tree.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 178. Acts 5:32 - medium - score 10
+
+- TR draft: And we are his witnesses of these things; and so is also the Holy Spirit, whom God has given to those who obey him.
+- UKJV witness: And we are his witnesses of these things; (o. rhema) and so is also the Holy Spirit, (o. pneuma) whom God has given to them that obey him.
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 179. Acts 6:3 - medium - score 10
+
+- TR draft: Therefore, brothers, look you out among you seven men of honest report, full of the Holy Spirit and wisdom, whom we may appoint over this business.
+- UKJV witness: Wherefore, brethren, look all of you out among you seven men of honest report, full of the Holy Spirit (o. pneuma) and wisdom, whom we may appoint over this business.
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 180. Acts 7:8 - medium - score 10
+
+- TR draft: And he gave him the covenant of circumcision: and so Abraham fathered Isaac, and circumcised him the eighth day; and Isaac fathered Jacob; and Jacob fathered the twelve patriarchs.
+- UKJV witness: And he gave him the covenant of circumcision: and so Abraham brings forth Isaac, and circumcised him the eighth day; and Isaac brings forth Jacob; and Jacob brings forth the twelve patriarchs.
+- Themes: law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 181. Acts 7:23 - medium - score 10
+
+- TR draft: And when he was full forty years old, it came into his heart to visit his brothers the children of Israel.
+- UKJV witness: And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 182. Acts 7:35 - medium - score 10
+
+- TR draft: This Moses whom they refused, saying, Who made you a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel who appeared to him in the bush.
+- UKJV witness: This Moses whom they refused, saying, Who made you a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
+- Themes: judgment_afterlife; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 183. Acts 7:56 - medium - score 10
+
+- TR draft: And said, Look, I see the heavens opened, and the Son of man standing on the right hand of God.
+- UKJV witness: And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 184. Acts 8:15 - medium - score 10
+
+- TR draft: Who, when they had come down, prayed for them, that they might receive the Holy Spirit:
+- UKJV witness: Who, when they were come down, prayed for them, that they might receive the Holy Spirit: (o. pneuma)
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 185. Acts 8:22 - medium - score 10
+
+- TR draft: Repent therefore of this your wickedness, and pray God, if perhaps the thought of your heart may be forgiven you.
+- UKJV witness: Repent therefore of this your wickedness, and pray God, if perhaps the thought of yours heart may be forgiven you.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 186. Acts 9:29 - medium - score 10
+
+- TR draft: And he spoke boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to kill him.
+- UKJV witness: And he spoke boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 187. Acts 10:47 - medium - score 10
+
+- TR draft: Can anyone forbid water, that these should not be baptized, who have received the Holy Spirit as well as we?
+- UKJV witness: Can any man forbid water, that these should not be baptized, which have received the Holy Spirit (o. pneuma) as well as we?
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 188. Acts 13:4 - medium - score 10
+
+- TR draft: So they, being sent forth by the Holy Spirit, departed to Seleucia; and from there they sailed to Cyprus.
+- UKJV witness: So they, being sent forth by the Holy Spirit, (o. pneuma) departed unto Seleucia; and from thence they sailed to Cyprus.
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 189. Acts 13:15 - medium - score 10
+
+- TR draft: And after the reading of the law and the prophets the rulers of the synagogue sent to them, saying, You men and brothers, if you have any word of exhortation for the people, say on.
+- UKJV witness: And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, All of you men and brethren, if all of you have any word (o. logos) of exhortation for the people, say on.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 190. Acts 13:26 - medium - score 10
+
+- TR draft: Men and brothers, children of the stock of Abraham, and whoever among you fears God, to you is the word of this salvation sent.
+- UKJV witness: Men and brethren, children of the stock of Abraham, and whosoever among you fears God, to you is the word (o. logos) of this salvation sent.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 191. Acts 15:8 - medium - score 10
+
+- TR draft: And God, who knows the hearts, bore them witness, giving them the Holy Spirit, even as he did to us;
+- UKJV witness: And God, which knows the hearts, bare them witness, giving them the Holy Spirit, (o. pneuma) even as he did unto us;
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 192. Acts 15:20 - medium - score 10
+
+- TR draft: But that we write to them, that they abstain from pollutions of idols, and from sexual immorality, and from things strangled, and from blood.
+- UKJV witness: But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 193. Acts 15:24 - medium - score 10
+
+- TR draft: since we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, You must be circumcised, and keep the law: to whom we gave no such commandment:
+- UKJV witness: Forasmuch as we have heard, that certain which went out from us have troubled you with words, (o. logos) subverting your souls, saying, All of you must be circumcised, and keep the law: to whom we gave no such commandment:
+- Themes: law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 194. Acts 15:29 - medium - score 10
+
+- TR draft: That you abstain from foods offered to idols, and from blood, and from things strangled, and from sexual immorality: from which if you keep yourselves, you shall do well. Fare you well.
+- UKJV witness: That all of you abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if all of you keep yourselves, all of you shall do well. Fare all of you well.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 195. Acts 17:3 - medium - score 10
+
+- TR draft: Opening and alleging, that Christ must have suffered, and risen again from the dead; and that this Jesus, whom I preach to you, is Christ.
+- UKJV witness: Opening and alleging, that Christ must essentially have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 196. Acts 19:2 - medium - score 10
+
+- TR draft: He said to them, Have you received the Holy Spirit since you believed? And they said to him, We have not so much as heard whether there is any Holy Spirit.
+- UKJV witness: He said unto them, Have all of you received the Holy Spirit (o. pneuma) since all of you believed? And they said unto him, We have not so much as heard whether there be any Holy Spirit. (o. pneuma)
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 197. Acts 20:32 - medium - score 10
+
+- TR draft: And now, brothers, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all those who are sanctified.
+- UKJV witness: And now, brethren, I commend you to God, and to the word (o. logos) of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 198. Acts 22:20 - medium - score 10
+
+- TR draft: And when the blood of your martyr Stephen was shed, I also was standing by, and consenting to his death, and kept the clothing of those who killed him.
+- UKJV witness: And when the blood of your martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 199. Acts 24:15 - medium - score 10
+
+- TR draft: And have hope toward God, who they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust.
+- UKJV witness: And have hope toward God, which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 200. Acts 26:9 - medium - score 10
+
+- TR draft: I truly thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
+- UKJV witness: I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 201. Acts 26:18 - medium - score 10
+
+- TR draft: To open their eyes, and to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins, and inheritance among those who are sanctified by faith that is in me.
+- UKJV witness: To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 202. Colossians 3:15 - medium - score 10
+
+- TR draft: And let the peace of God rule in your hearts, to the which also you are called in one body; and be thankful.
+- UKJV witness: And let the peace of God rule in your hearts, to the which also all of you are called in one body; and be all of you thankful.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 203. Colossians 4:11 - medium - score 10
+
+- TR draft: And Jesus, who is called Justus, who are of the circumcision. These only are my fellow workers to the kingdom of God, who have been a comfort to me.
+- UKJV witness: And Jesus, which is called Justus, who are of the circumcision. These only are my fellow workers unto the kingdom of God, which have been a comfort unto me.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 204. Ephesians 1:20 - medium - score 10
+
+- TR draft: Which he worked in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+- UKJV witness: Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 205. Ephesians 2:3 - medium - score 10
+
+- TR draft: Among whom also we all had our conduct in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+- UKJV witness: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 206. Ephesians 2:4 - medium - score 10
+
+- TR draft: But God, who is rich in mercy, for his great love with which he loved us,
+- UKJV witness: But God, who is rich in mercy, for his great love (o. agape) wherewith he loved us,
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 207. Ephesians 2:16 - medium - score 10
+
+- TR draft: And that he might reconcile both to God in one body by the cross, having killed the enmity by it:
+- UKJV witness: And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 208. Ephesians 3:19 - medium - score 10
+
+- TR draft: And to know the love of Christ, who passes knowledge, that you might be filled with all the fullness of God.
+- UKJV witness: And to know the love (o. agape) of Christ, which passes knowledge, that all of you might be filled with all the fullness of God.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 209. Ephesians 4:26 - medium - score 10
+
+- TR draft: Be angry, and do not sin: let not the sun go down upon your wrath:
+- UKJV witness: Be all of you angry, and sin not: let not the sun go down upon your wrath:
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 210. Ephesians 5:2 - medium - score 10
+
+- TR draft: And walk in love, as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweet smelling taste.
+- UKJV witness: And walk in love, (o. agape) as Christ also has loved us, and has given himself for us an offering and a sacrifice to God for a sweet smelling savour.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 211. Ephesians 6:12 - medium - score 10
+
+- TR draft: For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual wickedness in high places.
+- UKJV witness: For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 212. Galatians 2:4 - medium - score 10
+
+- TR draft: And that because of false brothers unexpectedly brought in, who came in privately to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+- UKJV witness: And that because of false brethren unexpectedly brought in, who came in privately to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 213. Galatians 3:11 - medium - score 10
+
+- TR draft: But that no one is justified by the law in the sight of God, it is evident: for, The just shall live by faith.
+- UKJV witness: But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 214. Galatians 4:4 - medium - score 10
+
+- TR draft: But when the fullness of the time had come, God sent forth his Son, made of a woman, made under the law,
+- UKJV witness: But when the fullness of the time was come, God sent forth his Son, made of a woman, made under the law,
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 215. Galatians 4:5 - medium - score 10
+
+- TR draft: To redeem those who were under the law, that we might receive the adoption of sons.
+- UKJV witness: To redeem them that were under the law, that we might receive the adoption of sons.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 216. Galatians 4:29 - medium - score 10
+
+- TR draft: But as then the one who was born after the flesh persecuted him who was born after the Spirit, even so it is now.
+- UKJV witness: But as then he that was born after the flesh persecuted him that was born after the Spirit, (o. pneuma) even so it is now.
+- Themes: anthropology_ethics; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 217. Galatians 5:11 - medium - score 10
+
+- TR draft: And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? then is the stumbling block of the cross ceased.
+- UKJV witness: And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 218. Galatians 5:13 - medium - score 10
+
+- TR draft: For, brothers, you have been called to liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
+- UKJV witness: For, brethren, all of you have been called unto liberty; only use not liberty for an occasion to the flesh, but by love (o. agape) serve one another.
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 219. Galatians 5:19 - medium - score 10
+
+- TR draft: Now the works of the flesh are manifest, which are these; Adultery, sexual immorality, uncleanness, lasciviousness,
+- UKJV witness: Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 220. Hebrews 1:8 - medium - score 10
+
+- TR draft: But to the Son he says, Your throne, O God, is forever and ever: a sceptre of righteousness is the sceptre of your kingdom.
+- UKJV witness: But unto the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
+- Themes: soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 221. Hebrews 2:4 - medium - score 10
+
+- TR draft: God also bearing them witness, both with signs and wonders, and with various miracles, and gifts of the Holy Spirit, according to his own will?
+- UKJV witness: God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Spirit, (o. pneuma) according to his own will?
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 222. Hebrews 2:16 - medium - score 10
+
+- TR draft: For truly he took not on him the nature of angels; but he took on him the seed of Abraham.
+- UKJV witness: For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
+- Themes: textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 223. Hebrews 3:5 - medium - score 10
+
+- TR draft: And Moses truly was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
+- UKJV witness: And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
+- Themes: anthropology_ethics; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 224. Hebrews 3:7 - medium - score 10
+
+- TR draft: Therefore (as the Holy Spirit says, today if you will hear his voice,
+- UKJV witness: Wherefore (as the Holy Spirit (o. pneuma) says, To day if all of you will hear his voice,
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 225. Hebrews 5:5 - medium - score 10
+
+- TR draft: So also Christ glorified not himself to be made a high priest; but the one who said to him, You are my Son, today have I begotten you.
+- UKJV witness: So also Christ glorified not himself to be made an high priest; but he that said unto him, You are my Son, to day have I begotten you.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 226. Hebrews 7:18 - medium - score 10
+
+- TR draft: For there is truly a disannulling of the commandment going before for the weakness and unprofitableness of it.
+- UKJV witness: For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 227. Hebrews 7:19 - medium - score 10
+
+- TR draft: For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw near to God.
+- UKJV witness: For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 228. Hebrews 7:22 - medium - score 10
+
+- TR draft: By so much was Jesus made a guarantor of a better covenant.
+- UKJV witness: By so much was Jesus made a guarantor of a better testament.
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 229. Hebrews 9:1 - medium - score 10
+
+- TR draft: Then truly the first covenant had also ordinances of divine service, and a worldly sanctuary.
+- UKJV witness: Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 230. Hebrews 9:13 - medium - score 10
+
+- TR draft: For if the blood of bulls and of goats, and the ashes of a heifer sprinkling the unclean, sanctifies to the purifying of the flesh:
+- UKJV witness: For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, santifies to the purifying of the flesh:
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 231. Hebrews 9:16 - medium - score 10
+
+- TR draft: For where a covenant is, there must also of necessity be the death of the testator.
+- UKJV witness: For where a testament is, there must also of necessity be the death of the testator.
+- Themes: judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 232. Hebrews 9:20 - medium - score 10
+
+- TR draft: Saying, This is the blood of the covenant which God has commanded with authority to you.
+- UKJV witness: Saying, This is the blood of the testament which God has commanded with authority unto you.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 233. Hebrews 10:8 - medium - score 10
+
+- TR draft: Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither had pleasure in it; which are offered by the law;
+- UKJV witness: Above when he said, Sacrifice and offering and burnt offerings and offering for sin you would not, neither had pleasure therein; which are offered by the law;
+- Themes: anthropology_ethics; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 234. Hebrews 10:15 - medium - score 10
+
+- TR draft: of which the Holy Spirit also is a witness to us: for after that he had said before,
+- UKJV witness: Whereof the Holy Spirit (o. pneuma) also is a witness to us: for after that he had said before,
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 235. Hebrews 10:18 - medium - score 10
+
+- TR draft: Now where forgiveness of these is, there is no more offering for sin.
+- UKJV witness: Now where remission of these is, there is no more offering for sin.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 236. Hebrews 10:19 - medium - score 10
+
+- TR draft: Having therefore, brothers, boldness to enter into the holiest by the blood of Jesus,
+- UKJV witness: Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 237. Hebrews 10:38 - medium - score 10
+
+- TR draft: Now the just shall live by faith: but if anyone draw back, my soul shall have no pleasure in him.
+- UKJV witness: Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 238. Hebrews 10:39 - medium - score 10
+
+- TR draft: But we are not of them who draw back to destruction; but of those who believe to the saving of the soul.
+- UKJV witness: But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 239. Hebrews 11:6 - medium - score 10
+
+- TR draft: But without faith it is impossible to please him: for the one who comes to God must believe that he is, and that he is a rewarder of those who diligently seek him.
+- UKJV witness: But without faith it is impossible to please him: for he that comes to God must believe that he is, and that he is a rewarder of them that diligently seek him.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 240. Hebrews 11:24 - medium - score 10
+
+- TR draft: By faith Moses, when he had come to years, refused to be called the son of Pharaoh's daughter;
+- UKJV witness: By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;
+- Themes: soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 241. Hebrews 11:31 - medium - score 10
+
+- TR draft: By faith the prostitute Rahab perished not with those who believed not, when she had received the spies with peace.
+- UKJV witness: By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 242. Hebrews 11:33 - medium - score 10
+
+- TR draft: Who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions.
+- UKJV witness: Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions.
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 243. Hebrews 13:7 - medium - score 10
+
+- TR draft: Remember those who have the rule over you, who have spoken to you the word of God: whose faith follow, considering the end of their conduct.
+- UKJV witness: Remember them which have the rule over you, who have spoken unto you the word (o. logos) of God: whose faith follow, considering the end of their conversation.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 244. Hebrews 13:8 - medium - score 10
+
+- TR draft: Jesus Christ the same yesterday, and today, and forever.
+- UKJV witness: Jesus Christ the same yesterday, and to day, and for ever.
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 245. Hebrews 13:9 - medium - score 10
+
+- TR draft: Do not be carried about with various and strange doctrines. For it is a good thing that the heart be established with grace; not with foods, which have not profited those who have been occupied in it.
+- UKJV witness: Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 246. James 1:15 - medium - score 10
+
+- TR draft: Then when lust has conceived, it produces sin: and sin, when it is finished, produces death.
+- UKJV witness: Then when lust has conceived, it brings forth sin: and sin, when it is finished, brings forth death.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 247. James 2:5 - medium - score 10
+
+- TR draft: Listen, my beloved brothers, Has not God chosen the poor of this world rich in faith, and heirs of the kingdom which he has promised to those who love him?
+- UKJV witness: Hearken, my beloved brethren, Has not God chosen the poor of this world rich in faith, and heirs of the kingdom which he has promised to them that love him?
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 248. James 2:14 - medium - score 10
+
+- TR draft: What does it profit, my brothers, though a man say he has faith, and have not works? can faith save him?
+- UKJV witness: What does it profit, my brethren, though a man say he has faith, and have not works? can faith save him?
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 249. James 2:16 - medium - score 10
+
+- TR draft: And one of you say to them, Depart in peace, be warmed and filled; notwithstanding you give them not those things which are necessary to the body; what does it profit?
+- UKJV witness: And one of you say unto them, Depart in peace, be all of you warmed and filled; notwithstanding all of you give them not those things which are necessary to the body; what does it profit?
+- Themes: anthropology_ethics
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 250. James 3:2 - medium - score 10
+
+- TR draft: For in many things we offend all. If anyone offend not in word, the same is a perfect man, and able also to bridle the whole body.
+- UKJV witness: For in many things we offend all. If any man offend not in word, (o. logos) the same is a perfect man, and able also to bridle the whole body.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 251. James 3:18 - medium - score 10
+
+- TR draft: And the fruit of righteousness is sown in peace of those who make peace.
+- UKJV witness: And the fruit of righteousness is sown in peace of them that make peace.
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 252. James 4:11 - medium - score 10
+
+- TR draft: Speak not evil one of another, brothers. the one who speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law: but if you judge the law, you are not a doer of the law, but a judge.
+- UKJV witness: Speak not evil one of another, brethren. He that speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law: but if you judge the law, you are not a doer of the law, but a judge.
+- Themes: judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 253. John 1:18 - medium - score 10
+
+- TR draft: No one has seen God at any time, the only begotten Son, who is in the bosom of the Father, he has declared him.
+- UKJV witness: No man has seen God at any time, the only begotten Son, which is in the bosom of the Father, he has declared him.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 254. John 1:29 - medium - score 10
+
+- TR draft: The next day John sees Jesus coming to him, and says, Look the Lamb of God, who takes away the sin of the world.
+- UKJV witness: The next day John sees Jesus coming unto him, and says, Behold the Lamb of God, which takes away the sin of the world.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 255. John 1:34 - medium - score 10
+
+- TR draft: And I saw, and bore record that this is the Son of God.
+- UKJV witness: And I saw, and bare record that this is the Son of God.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 256. John 3:10 - medium - score 10
+
+- TR draft: Jesus answered and said to him, Are you a teacher of Israel, and do not know these things?
+- UKJV witness: Jesus answered and said unto him, Are you a master of Israel, and know not these things?
+- Themes: christology; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 257. John 3:13 - medium - score 10
+
+- TR draft: And no one has ascended up to heaven, but the one who came down from heaven, even the Son of man who is in heaven.
+- UKJV witness: And no man has ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 258. John 5:14 - medium - score 10
+
+- TR draft: Afterward Jesus finds him in the temple, and said to him, Look, you are made whole: sin no more, lest a worse thing come to you.
+- UKJV witness: Afterward Jesus finds him in the temple, and said unto him, Behold, you are made whole: sin no more, lest a worse thing come unto you.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 259. John 5:22 - medium - score 10
+
+- TR draft: For the Father judges no one, but has committed all judgment to the Son:
+- UKJV witness: For the Father judges no man, but has committed all judgment unto the Son:
+- Themes: judgment_afterlife; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 260. John 5:29 - medium - score 10
+
+- TR draft: And shall come forth; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.
+- UKJV witness: And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+- Themes: judgment_afterlife; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 261. John 5:30 - medium - score 10
+
+- TR draft: I can of my own self do nothing: as I hear, I judge: and my judgment is just; because I seek not my own will, but the will of the Father who has sent me.
+- UKJV witness: I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which has sent me.
+- Themes: judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 262. John 5:38 - medium - score 10
+
+- TR draft: And you have not his word abiding in you: for whom he has sent, him you do not believe.
+- UKJV witness: And all of you have not his word (o. logos) abiding in you: for whom he has sent, him all of you believe not.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 263. John 6:22 - medium - score 10
+
+- TR draft: The day following, when the people who stood on the other side of the sea saw that there was no other boat there, save that one into where his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+- UKJV witness: The day following, when the people which stood on the other side of the sea saw that there was no other boat there, save that one into where his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 264. John 6:64 - medium - score 10
+
+- TR draft: But there are some of you that do not believe. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+- UKJV witness: But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 265. John 7:23 - medium - score 10
+
+- TR draft: If a man on the Sabbath receive circumcision, that the law of Moses should not be broken; are you angry at me, because I have made a man everything whole on the Sabbath?
+- UKJV witness: If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are all of you angry at me, because I have made a man everything whole on the sabbath day?
+- Themes: law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 266. John 7:51 - medium - score 10
+
+- TR draft: Does our law judge anyone, before it hear him, and know what he does?
+- UKJV witness: Does our law judge any man, before it hear him, and know what he does?
+- Themes: judgment_afterlife; law_covenant
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 267. John 8:15 - medium - score 10
+
+- TR draft: You judge after the flesh; I judge no one.
+- UKJV witness: All of you judge after the flesh; I judge no man.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 268. John 8:31 - medium - score 10
+
+- TR draft: Then said Jesus to those Jews who believed on him, If you continue in my word, then are you my disciples indeed;
+- UKJV witness: Then said Jesus to those Jews which believed on him, If all of you continue in my word, (o. logos) then are all of you my disciples indeed;
+- Themes: christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 269. John 9:39 - medium - score 10
+
+- TR draft: And Jesus said, For judgment I am come into this world, that those who see not might see; and that those who see might be made blind.
+- UKJV witness: And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+- Themes: christology; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 270. John 10:36 - medium - score 10
+
+- TR draft: Do you say of him, whom the Father has sanctified, and sent into the world, You blaspheme; because I said, I am the Son of God?
+- UKJV witness: Say all of you of him, whom the Father has sanctified, and sent into the world, You blaspheme; because I said, I am the Son of God?
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 271. John 12:44 - medium - score 10
+
+- TR draft: Jesus cried and said, the one who believes on me, does not believe on me, but on him who sent me.
+- UKJV witness: Jesus cried and said, He that believes on me, believes not on me, but on him that sent me.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 272. John 14:23 - medium - score 10
+
+- TR draft: Jesus answered and said to him, If a man love me, he will keep my words: and my Father will love him, and we will come to him, and make our remained with him.
+- UKJV witness: Jesus answered and said unto him, If a man love me, he will keep my words: (o. logos) and my Father will love him, and we will come unto him, and make our abode with him.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 273. John 16:9 - medium - score 10
+
+- TR draft: Of sin, because they do not believe on me;
+- UKJV witness: Of sin, because they believe not on me;
+- Themes: anthropology_ethics; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 274. John 17:12 - medium - score 10
+
+- TR draft: While I was with them in the world, I kept them in your name: those that you gave me I have kept, and none of them is lost, but the son of destruction; that the scripture might be fulfilled.
+- UKJV witness: While I was with them in the world, I kept them in your name: those that you gave me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+- Themes: law_covenant; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 275. John 19:9 - medium - score 10
+
+- TR draft: And went again into the judgment hall, and says to Jesus, From where are you? But Jesus gave him no answer.
+- UKJV witness: And went again into the judgment hall, and says unto Jesus, Whence are you? But Jesus gave him no answer.
+- Themes: christology; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 276. John 19:26 - medium - score 10
+
+- TR draft: When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he says to his mother, Woman, look your son!
+- UKJV witness: When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he says unto his mother, Woman, behold your son!
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 277. John 19:38 - medium - score 10
+
+- TR draft: And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, begged Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
+- UKJV witness: And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 278. Luke 1:13 - medium - score 10
+
+- TR draft: But the angel said to him, do not fear, Zacharias: for your prayer is heard; and your wife Elisabeth shall bear you a son, and you shall call his name John.
+- UKJV witness: But the angel said unto him, Fear not, Zacharias: for your prayer is heard; and your wife Elisabeth shall bear you a son, and you shall call his name John.
+- Themes: textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 279. Luke 1:31 - medium - score 10
+
+- TR draft: And, look, you shall conceive in your womb, and bear a son, and shall call his name JESUS.
+- UKJV witness: And, behold, you shall conceive in your womb, and bring forth a son, and shall call his name JESUS.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 280. Luke 1:41 - medium - score 10
+
+- TR draft: And it happened, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Spirit:
+- UKJV witness: And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Spirit: (o. pneuma)
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 281. Luke 1:77 - medium - score 10
+
+- TR draft: To give knowledge of salvation to his people by the forgiveness of their sins,
+- UKJV witness: To give knowledge of salvation unto his people by the remission of their sins,
+- Themes: soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 282. Luke 1:79 - medium - score 10
+
+- TR draft: To give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace.
+- UKJV witness: To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.
+- Themes: anthropology_ethics; judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 283. Luke 1:80 - medium - score 10
+
+- TR draft: And the child grew, and grew strong in spirit, and was in the deserts till the day of his showing to Israel.
+- UKJV witness: And the child grew, and waxed strong in spirit, (o. pneuma) and was in the deserts till the day of his showing unto Israel.
+- Themes: law_covenant; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 284. Luke 2:7 - medium - score 10
+
+- TR draft: And she bore her firstborn son, and wrapped him in swaddling clothes, and laid him in a crib; because there was no room for them in the inn.
+- UKJV witness: And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a crib; because there was no room for them in the inn.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 285. Luke 2:40 - medium - score 10
+
+- TR draft: And the child grew, and grew strong in spirit, filled with wisdom: and the grace of God was upon him.
+- UKJV witness: And the child grew, and waxed strong in spirit, (o. pneuma) filled with wisdom: and the grace of God was upon him.
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 286. Luke 3:3 - medium - score 10
+
+- TR draft: And he came into all the country about Jordan, preaching the baptism of repentance for the forgiveness of sins;
+- UKJV witness: And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
+- Themes: soteriology; spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 287. Luke 4:9 - medium - score 10
+
+- TR draft: And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said to him, If you be the Son of God, cast yourself down from here:
+- UKJV witness: And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If you be the Son of God, cast yourself down from behind:
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 288. Luke 8:15 - medium - score 10
+
+- TR draft: But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bear fruit with patience.
+- UKJV witness: But that on the good ground are they, which in an honest and good heart, having heard the word, (o. logos) keep it, and bring forth fruit with patience.
+- Themes: anthropology_ethics; christology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 289. Luke 8:50 - medium - score 10
+
+- TR draft: But when Jesus heard it, he answered him, saying, do not fear: believe only, and she shall be made whole.
+- UKJV witness: But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 290. Luke 10:29 - medium - score 10
+
+- TR draft: But he, willing to justify himself, said to Jesus, And who is my neighbor?
+- UKJV witness: But he, willing to justify himself, said unto Jesus, And who is my neighbour?
+- Themes: christology; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 291. Luke 11:13 - medium - score 10
+
+- TR draft: If you then, being evil, know how to give good gifts to your children: how much more shall your heavenly Father give the Holy Spirit to those who ask him?
+- UKJV witness: If all of you then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit (o. pneuma) to them that ask him?
+- Themes: spirit_church
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 292. Luke 11:31 - medium - score 10
+
+- TR draft: The queen of the south shall rise up in the judgment with the men of this generation, and condemn them: for she came from the utmost parts of the earth to hear the wisdom of Solomon; and, look, a greater than Solomon is here.
+- UKJV witness: The queen of the south shall rise up in the judgment with the men of this generation, and condemn them: for she came from the utmost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
+- Themes: judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 293. Luke 11:32 - medium - score 10
+
+- TR draft: The men of Nineveh shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, look, a greater than Jonas is here.
+- UKJV witness: The men of Nineveh shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.
+- Themes: judgment_afterlife
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 294. Luke 11:51 - medium - score 10
+
+- TR draft: From the blood of Abel to the blood of Zacharias which perished between the altar and the temple: truly I say to you, It shall be required of this generation.
+- UKJV witness: From the blood of Abel unto the blood of Zacharias which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
+- Themes: soteriology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 295. Luke 12:40 - medium - score 10
+
+- TR draft: Be therefore ready also: for the Son of man comes at an hour when you think not.
+- UKJV witness: Be all of you therefore ready also: for the Son of man comes at an hour when all of you think not.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 296. Luke 15:25 - medium - score 10
+
+- TR draft: Now his elder son was in the field: and as he came and drew near to the house, he heard music and dancing.
+- UKJV witness: Now his elder son was in the field: and as he came and drew nigh to the house, he heard music and dancing.
+- Themes: spirit_church; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 297. Luke 18:31 - medium - score 10
+
+- TR draft: Then he took to him the twelve, and said to them, Look, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+- UKJV witness: Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 298. Luke 20:41 - medium - score 10
+
+- TR draft: And he said to them, How say those who Christ is David's son?
+- UKJV witness: And he said unto them, How say they that Christ is David's son?
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 299. Luke 21:36 - medium - score 10
+
+- TR draft: Watch you therefore, and pray always, that you may be accounted worthy to escape all these things that will happen, and to stand before the Son of man.
+- UKJV witness: Watch all of you therefore, and pray always, that all of you may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+- Themes: christology; textual_literal
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
+- Latest review: none
+- Decision: check TR literal choice against Greek, then keep or adjust
+
+## 300. Luke 22:20 - medium - score 10
+
+- TR draft: Likewise also the cup after supper, saying, This cup is the new covenant in my blood, which is shed for you.
+- UKJV witness: Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
+- Themes: law_covenant; soteriology
+- Why: TR draft differs from UKJV witness; status:tr_literal_pass1; theology/literal keyword hit
 - Latest review: none
 - Decision: check TR literal choice against Greek, then keep or adjust
