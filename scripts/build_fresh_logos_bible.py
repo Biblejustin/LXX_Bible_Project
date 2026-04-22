@@ -1576,7 +1576,18 @@ def parse_tsk_crossref_groups(
 def build_crossrefs_for_verses(
     verses: list[Verse],
     testament: str,
+    *,
+    enabled: bool,
 ) -> tuple[dict[str, list[CrossReferenceNote]], dict[str, object]]:
+    if not enabled:
+        return {}, {
+            "enabled": False,
+            "reason": "Disabled by default; use --include-crossrefs to add the full TSK/OpenBible layer.",
+            "source_counts": {},
+            "verses_with_crossrefs": 0,
+            "crossref_note_groups": 0,
+            "total_crossrefs_after_canonicalization": 0,
+        }
     tsk_refs, tsk_diag = parse_tsk_crossref_groups(testament)
     open_refs, open_diag = parse_openbible_crossrefs(limit_per_verse=9999)
     by_ref: dict[str, list[CrossReferenceNote]] = {}
@@ -1949,10 +1960,15 @@ def build_docx(
     footnote_number_restart: str = "chapter",
     place_links: dict[str, PlaceLink] | None = None,
     place_link_pattern: re.Pattern[str] | None = None,
+    crossrefs_enabled: bool = False,
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
-        subject=f"{description} with translation notes and cross-references",
+        subject=(
+            f"{description} with translation notes and cross-references"
+            if crossrefs_enabled
+            else f"{description} with translation, textual, supplemental, and name notes"
+        ),
     )
     stats = BuildStats(
         output_kind="logos" if logos else "proofreading",
@@ -1968,6 +1984,7 @@ def build_docx(
         datatype=datatype,
         milestone_mode=milestone_mode,
         footnote_number_restart=footnote_number_restart,
+        crossrefs_enabled=crossrefs_enabled,
     )
 
     current_book = ""
@@ -2040,6 +2057,7 @@ def add_title_page(
     datatype: str,
     milestone_mode: str,
     footnote_number_restart: str,
+    crossrefs_enabled: bool,
 ) -> None:
     doc.add_paragraph([run(title)], style="Title")
     subtitle = "Logos Personal Book source" if logos else "Proofreading and print copy"
@@ -2063,11 +2081,18 @@ def add_title_page(
         description,
         note_policy,
         "Includes book preface pages before each book's chapter text.",
-        "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row.",
+        (
+            "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row."
+            if crossrefs_enabled
+            else "Cross-reference footnote layer is excluded by default so translation, textual, and name notes remain readable."
+        ),
         "Includes name-meaning notes at first exact occurrence per chapter.",
         supplemental_policy,
         vocab_policy,
-        f"Regular footnote numbering restarts by {footnote_number_restart}. Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility.",
+        (
+            f"Regular footnote numbering restarts by {footnote_number_restart}. "
+            "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
+        ),
     ]
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
@@ -2315,6 +2340,7 @@ def build_readme(
     book_intros_path: Path,
     translation_decisions_path: Path,
     deuterocanonical_work: dict[str, object],
+    crossrefs_enabled: bool,
 ) -> None:
     try:
         book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
@@ -2339,9 +2365,9 @@ def build_readme(
     except ValueError:
         source_display = str(source_path)
     source_note = (
-        "- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        "- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
         if testament == "ot"
-        else "- Supplemental source notes: no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source, but TSK remains the primary cross-reference source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        else "- Supplemental source notes: no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
     )
     variant_note = (
         f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`."
@@ -2368,6 +2394,11 @@ def build_readme(
         "Logos Personal Book source with verse milestones remapped to standard English/MT references so existing reference-anchored Logos notes from MT-based Bibles can show. Compile as resource type `Bible`."
         if testament == "ot"
         else "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
+    )
+    crossref_note = (
+        "- Cross-references: full TSK/OpenBible cross-reference footnote layer included because `--include-crossrefs` was used. See root `NOTICE.md` for public-domain/CC-BY attribution details."
+        if crossrefs_enabled
+        else "- Cross-references: omitted from the default Personal Book build. This keeps the source from being flooded by TSK/OpenBible footnotes and leaves translation, textual, supplemental, and name-meaning notes visible. Rebuild with `--include-crossrefs` only when a cross-reference-heavy edition is desired."
     )
     content = f"""# Fresh Translation {config["label"]} Logos/Proofreading Files
 
@@ -2404,7 +2435,7 @@ Scope:
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
 {future_work_note}
 - Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
-- Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details.
+{crossref_note}
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
 
 Validation:
@@ -2529,6 +2560,11 @@ def main() -> None:
         default="chapter",
         help="Visible footnote numbering restart scope inside the single DOCX file.",
     )
+    parser.add_argument(
+        "--include-crossrefs",
+        action="store_true",
+        help="Include the full TSK/OpenBible cross-reference footnote layer. Disabled by default to keep notes readable.",
+    )
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
 
@@ -2560,7 +2596,11 @@ def main() -> None:
         **name_note_counts,
         **{f"placement_{key}": value for key, value in name_note_placement_counts.items()},
     }
-    crossrefs, crossref_diag = build_crossrefs_for_verses(verses, args.testament)
+    crossrefs, crossref_diag = build_crossrefs_for_verses(
+        verses,
+        args.testament,
+        enabled=args.include_crossrefs,
+    )
     if args.no_place_links:
         place_links: dict[str, PlaceLink] = {}
         place_link_diag: dict[str, object] = {
@@ -2606,6 +2646,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links=place_links,
         place_link_pattern=place_link_pattern,
+        crossrefs_enabled=args.include_crossrefs,
     )
     mt_bridge_stats = build_docx(
         path=args.mt_bridge_docx,
@@ -2626,6 +2667,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links=place_links,
         place_link_pattern=place_link_pattern,
+        crossrefs_enabled=args.include_crossrefs,
     )
     proof_stats = build_docx(
         path=args.proof_docx,
@@ -2646,6 +2688,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links={},
         place_link_pattern=None,
+        crossrefs_enabled=args.include_crossrefs,
     )
     build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
@@ -2664,6 +2707,7 @@ def main() -> None:
         book_intros_path=args.book_intros,
         translation_decisions_path=args.translation_decisions,
         deuterocanonical_work=deuterocanonical_work,
+        crossrefs_enabled=args.include_crossrefs,
     )
     validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
