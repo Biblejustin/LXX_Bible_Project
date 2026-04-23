@@ -11,3 +11,4 @@ output/*.aux
 output/*.log
 output/*.out
 output/working/
+output/proper_name_*summary*.*

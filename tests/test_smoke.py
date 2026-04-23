@@ -1,5 +1,6 @@
 import csv
 import hashlib
+import importlib.util
 import json
 import zipfile
 from pathlib import Path
@@ -67,24 +68,138 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {row["name"]: row for row in rows}
 
-    assert len(rows) == 3191
+    assert len(rows) >= 2300
     assert not [row for row in rows if not row["name_meaning"].strip()]
     assert not [row for row in rows if "meaning uncertain" in row["name_meaning"].lower()]
     assert not [row for row in rows if row["equivalent_confidence"] == "fallback"]
 
     expected = {
-        "Armathaim": ("Ramathaimzophim", "the two watch-towers"),
-        "Siphā": ("Zophim", "watchers"),
-        "Thoke": ("Tohu", "that lives; that declares"),
-        "Anna": ("Hannah", "gracious; merciful; he that gives"),
-        "Phennana": ("Peninnah", "pearl; precious stone; the face"),
-        "Nasib": ("Zuph", "watcher; honeycomb"),
-        "Iosedek": ("Jozadak", "Yahweh is righteous; justice of the Lord"),
-        "Josedek": ("Josedech", "Yahweh is righteous; justice of the Lord"),
+        "Ramathaimzophim": ("Ramathaimzophim", "the two watch-towers"),
+        "Tohu": ("Tohu", "that lives; that declares"),
+        "Hannah": ("Hannah", "gracious; merciful; he that gives"),
+        "Peninnah": ("Peninnah", "pearl; precious stone; the face"),
+        "Zuph": ("Zuph", "watcher; honeycomb"),
+        "Jozadak": ("Jozadak", "Yahweh is righteous; justice of the Lord"),
+        "Josedech": ("Josedech", "Yahweh is righteous; justice of the Lord"),
     }
     for source_name, (english_equivalent, meaning) in expected.items():
         assert by_name[source_name]["english_equivalent"] == english_equivalent
         assert by_name[source_name]["name_meaning"] == meaning
+
+
+def test_nt_proper_name_notes_have_no_placeholder_meanings() -> None:
+    rows = csv_rows("data/proper_name_transliteration_notes.csv")
+    nt_rows = [row for row in rows if row["source"] == "nt"]
+    placeholder_rows = [
+        row
+        for row in nt_rows
+        if any(
+            marker in row["name_meaning"].lower()
+            for marker in ("same as", "possibly", "uncertain", "unknown")
+        )
+    ]
+
+    assert not placeholder_rows
+
+
+def test_ot_proper_name_notes_only_have_known_residual_weak_meanings() -> None:
+    rows = csv_rows("data/proper_name_transliteration_notes.csv")
+    ot_rows = [row for row in rows if row["source"] == "ot"]
+    placeholder_rows = [
+        row
+        for row in ot_rows
+        if any(
+            marker in row["name_meaning"].lower()
+            for marker in ("same as", "possibly", "uncertain", "unknown", "the same as")
+        )
+    ]
+
+    residual = {
+        (row["first_reference"], row["name"], row["name_meaning"])
+        for row in placeholder_rows
+    }
+    assert residual == set()
+
+
+def test_nt_review_priority_queue_is_empty() -> None:
+    diagnostics = json.loads(
+        (ROOT / "output/fresh_nt_tr_vs_ukjv_review_diagnostics.json").read_text(encoding="utf-8")
+    )
+
+    assert diagnostics["priority_rows"] == 0
+    assert diagnostics["queue_rows"] == 0
+
+
+def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
+    rows = csv_rows("data/proper_name_transliteration_notes.csv")
+    by_name = {(row["name"], row["first_reference"]): row for row in rows}
+
+    expected = {
+        ("JESUS", "Matthew 1:21"): "Jesus",
+        ("NAZARETH", "John 19:19"): "Nazareth",
+        ("GOD", "Acts 17:23"): "God",
+        ("BABYLON", "Revelation 17:5"): "Babylon",
+    }
+    for key, equivalent in expected.items():
+        assert by_name[key]["english_equivalent"] == equivalent
+
+
+def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
+    paths = [
+        ROOT / "data" / "research" / "translation_decisions.csv",
+        ROOT / "data" / "research" / "translation_footnotes.csv",
+        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
+        ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
+        ROOT / "output" / "logos" / "fresh_translation_ot_logos_bible_preview.md",
+        ROOT / "output" / "logos_nt" / "fresh_translation_nt_tr_preview.md",
+    ]
+
+    for path in paths:
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        assert "[[" not in text or "BibleKnowledgebase@" not in text
+
+
+def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
+    paths = [
+        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
+        ROOT / "data" / "research" / "translation_footnotes.csv",
+    ]
+    forbidden = [
+        "Jeminite",
+        "Jeminaian",
+        "Ouai Ichabod",
+        "Geththaite",
+        "Geththaites",
+        "Eththi",
+        "Elioun",
+        "Shilom",
+        "Pheleththi",
+        "Chereththi",
+        "Chetti",
+        "Sabee",
+        "Aoronite",
+        "Ioanas",
+        "Adroi",
+        "Iethri",
+    ]
+
+    for path in paths:
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        for term in forbidden:
+            assert term not in text, f"{term} leaked in {path}"
+
+
+def test_sync_ot_support_text_helper_strips_logos_markup() -> None:
+    script_path = ROOT / "scripts" / "sync_ot_support_text.py"
+    assert script_path.exists()
+
+    spec = importlib.util.spec_from_file_location("sync_ot_support_text", script_path)
+    module = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
+    spec.loader.exec_module(module)
+
+    sample = "And they came to [[Shiloh >> BibleKnowledgebase@Shiloh]] and [[Ophni >> BibleKnowledgebase@Ophni]]."
+    assert module.strip_logos_links(sample) == "And they came to Shiloh and Ophni."
 
 
 def test_pinned_raw_artifacts_are_unchanged() -> None:

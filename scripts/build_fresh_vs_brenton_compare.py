@@ -3,6 +3,7 @@ import argparse
 import csv
 import json
 import re
+import sys
 import zipfile
 from collections import defaultdict
 from pathlib import Path
@@ -24,6 +25,8 @@ DEFAULT_OUTPUT = OUTPUT / "fresh_vs_brenton_ot_drafted.md"
 DEFAULT_CSV = OUTPUT / "fresh_vs_brenton_ot_drafted.csv"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_vs_brenton_ot_drafted_diagnostics.json"
 IMPORTANCE_ORDER = {"none": 0, "low": 1, "medium": 2, "high": 3}
+
+csv.field_size_limit(sys.maxsize)
 
 BOOK_FILENAME_MAP = {
     "GEN": "02-GENeng-Brenton.usfm",

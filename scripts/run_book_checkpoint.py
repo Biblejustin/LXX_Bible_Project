@@ -14,6 +14,8 @@ DECISIONS = ROOT / "data" / "research" / "translation_decisions.csv"
 FOOTNOTES = ROOT / "data" / "research" / "translation_footnotes.csv"
 OUTPUT = ROOT / "output"
 
+csv.field_size_limit(sys.maxsize)
+
 
 def run(cmd: list[str]) -> None:
     subprocess.run(cmd, check=True, cwd=ROOT)
@@ -37,6 +39,7 @@ def drafted_counts() -> dict[str, tuple[int, int]]:
 
 def main() -> None:
     py = sys.executable
+    run([py, str(SCRIPTS / "sync_ot_support_text.py")])
     run(
         [
             py,
@@ -65,6 +68,26 @@ def main() -> None:
             str(OUTPUT / "fresh_vs_brenton_ot_drafted_diagnostics.json"),
         ]
     )
+    run(
+        [
+            py,
+            str(SCRIPTS / "build_fresh_logos_bible.py"),
+            "--testament",
+            "ot",
+            "--source",
+            str(SOURCE),
+            "--logos-docx",
+            str(OUTPUT / "logos" / "fresh_translation_ot_logos_bible.docx"),
+            "--preview",
+            str(OUTPUT / "logos" / "fresh_translation_ot_logos_bible_preview.md"),
+            "--diagnostics",
+            str(OUTPUT / "logos" / "fresh_translation_ot_logos_bible_diagnostics.json"),
+            "--mt-bridge-docx",
+            str(OUTPUT / "logos" / "fresh_translation_ot_logos_bible_mt_notes.docx"),
+            "--proof-docx",
+            str(OUTPUT / "logos" / "fresh_translation_ot_proofreading.docx"),
+        ]
+    )
 
     counts = drafted_counts()
     done_books = {book: f"{done}/{total}" for book, (done, total) in counts.items() if done == total and total}
@@ -80,6 +103,7 @@ def main() -> None:
                 "in_progress_books": in_progress,
                 "translation_only": str(OUTPUT / "fresh_translation_ot_full_translation_only.md"),
                 "compare_csv": str(OUTPUT / "fresh_vs_brenton_ot_drafted.csv"),
+                "logos_preview": str(OUTPUT / "logos" / "fresh_translation_ot_logos_bible_preview.md"),
             },
             indent=2,
         )

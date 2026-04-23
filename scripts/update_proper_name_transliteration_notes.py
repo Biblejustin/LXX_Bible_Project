@@ -659,6 +659,50 @@ MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_ROWS = [
 MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_SPECS = [
     ("Souba", "1 Kings 2:46", "ot", "Shisha"),
     ("Saba", "1 Kings 4:3", "ot", "Shisha"),
+    ("Amman", "2 Samuel 2:24", "ot", "Ammah"),
+    ("Amman", "2 Chronicles 36:5", "ot", "Ammon"),
+    ("Abiesdri", "Daniel 1:11", "ot", "Melzar"),
+    ("Bakcha", "1 Kings 4:12", "ot", "Baana"),
+    ("Gaddi", "1 Chronicles 5:26", "ot", "Gadites"),
+    ("Kades", "Joshua 19:37", "ot", "Kedesh"),
+    ("Deblatha", "Ezekiel 6:14", "ot", "Diblath"),
+    ("Thaimanites", "Job 6:19", "ot", "Tema"),
+    ("Sabeans", "Job 6:19", "ot", "Sheba"),
+    ("Aggai", "Isaiah 10:28", "ot", "Aiath"),
+    ("Bathouel", "Joel 1:1", "ot", "Pethuel"),
+    ("Deblathaim", "Numbers 33:46", "ot", "Almon-diblathaim"),
+    ("Chetti", "2 Samuel 15:18", "ot", "Cherethites"),
+    ("Ebelmaola", "1 Kings 4:12", "ot", "Abelmeholah"),
+    ("Eliadae", "1 Kings 11:14", "ot", "Eliada"),
+    ("Gaithan", "1 Kings 5:11", "ot", "Ethan"),
+    ("Iethri", "1 Chronicles 6:6", "ot", "Jethri"),
+    ("Iethrite", "1 Chronicles 11:40", "ot", "Ithrite"),
+    ("Ioasar", "1 Chronicles 2:18", "ot", "Jesher"),
+    ("Iothor", "1 Chronicles 2:17", "ot", "Jether"),
+    ("Iesias", "1 Chronicles 24:21", "ot", "Isshiah"),
+    ("Iesias", "Ezra 8:7", "ot", "Jeshaiah"),
+    ("Mekedo", "1 Kings 4:12", "ot", "Megiddo"),
+    ("Rhodians", "Ezekiel 27:15", "ot", "Dedan"),
+    ("Raemmath", "1 Kings 11:14", "ot", "Ramah"),
+    ("Souri", "1 Chronicles 25:3", "ot", "Zeri"),
+    ("Mardochaios", "Ezra 2:2", "ot", "Mordecai"),
+    ("Jephthae", "Judges 11:1", "ot", "Jephthah"),
+    ("Mephibosthe", "2 Samuel 3:7", "ot", "Ishbosheth"),
+    ("Mephibosthe", "2 Samuel 4:4", "ot", "Mephibosheth"),
+    ("Ourias", "2 Samuel 11:3", "ot", "Uriah"),
+    ("Ourias", "2 Kings 16:10", "ot", "Urijah"),
+    ("Ornia", "1 Kings 4:5", "ot", "Azariah"),
+    ("Iarim", "1 Chronicles 13:5", "ot", "Kirjathjearim"),
+    ("Sior", "2 Kings 8:21", "ot", "Zair"),
+    ("Idouia", "1 Chronicles 4:19", "ot", "Hodiah"),
+    ("Nachem", "1 Chronicles 4:19", "ot", "Naham"),
+    ("Esthemoe", "1 Chronicles 4:19", "ot", "Eshtemoa"),
+    ("Semeion", "1 Chronicles 4:19", "ot", "Shimon"),
+    ("Semeion", "1 Chronicles 4:20", "ot", "Shimon"),
+    ("Rana", "1 Chronicles 4:20", "ot", "Rinnah"),
+    ("Zoath", "1 Chronicles 4:20", "ot", "Zoheth"),
+    ("Micha", "Nehemiah 10:12", "ot", "Micah"),
+    ("Roob", "Nehemiah 10:12", "ot", "Rehob"),
     ("Judas", "Matthew 1:2", "nt", "Judah"),
     ("Phares", "Matthew 1:3", "nt", "Perez"),
     ("Zara", "Matthew 1:3", "nt", "Zerah"),
@@ -721,16 +765,22 @@ MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_SPECS = [
 ]
 
 EQUIVALENT_OVERRIDES = {
+    "BABYLON": "Babylon",
     "Abessa": "Abishai",
+    "Abiesdri": "Ashpenaz",
     "Abia": "Abijah",
     "Abigaia": "Abigail",
     "Achia": "Ahijah",
     "Achimaas": "Ahimaaz",
     "Achitophel": "Ahithophel",
+    "Ada": "Adah",
     "Adonias": "Adonijah",
     "Adraazar": "Hadadezer",
     "Adrazar": "Hadadezer",
     "Ader": "Hadad",
+    "Aggai": "Ai",
+    "Ammanites": "Ammonites",
+    "Amorrites": "Amorites",
     "Akchō": "Acco",
     "Ambri": "Omri",
     "Anchous": "Achish",
@@ -740,12 +790,17 @@ EQUIVALENT_OVERRIDES = {
     "Azarias": "Azariah",
     "Baasa": "Baasha",
     "Baithsamyis": "Beth-shemesh",
+    "Beeera": "Beerah",
+    "Bathouel": "Bethuel",
+    "Deblatha": "Riblah",
+    "Deblathaim": "Beth-diblathaim",
     "Beniamin": "Benjamin",
     "Bēbai": "Bebai",
     "Belasōr": "Baal-hazor",
     "Bersabee": "Beersheba",
     "Bethleem": "Bethlehem",
     "Bethlehem": "Bethlehem",
+    "GOD": "God",
     "Chebron": "Hebron",
     "Chiram": "Hiram",
     "Chōrēb": "Horeb",
@@ -763,25 +818,34 @@ EQUIVALENT_OVERRIDES = {
     "Giezi": "Gehazi",
     "Gotholia": "Athaliah",
     "Gothoniēl": "Othniel",
+    "Gesirite": "Geshurites",
     "Iabis": "Jabesh",
     "Iazēr": "Jazer",
     "Iessai": "Jesse",
     "Iezabel": "Jezebel",
     "Iōchabēd": "Ichabod",
+    "Idumea": "Edom",
+    "Idumean": "Edomite",
+    "Idumeans": "Edomites",
     "Ioachas": "Jehoahaz",
     "Ioas": "Joash",
     "Iodae": "Jehoiada",
+    "JESUS": "Jesus",
     "Ionathan": "Jonathan",
     "Iosaphat": "Jehoshaphat",
     "Iosedek": "Jozadak",
+    "Iothor": "Ithra",
     "Iou": "Jehu",
     "Ioudaioi": "Jews",
     "Jephonnē": "Jephunneh",
+    "Kades": "Kadesh",
+    "Karmelite": "Carmelite",
     "Kaath": "Kohath",
     "Kerōe": "Iron",
     "Kis": "Kish",
     "Manasse": "Manasseh",
     "Melchol": "Michal",
+    "Maachathi": "Maachathites",
     "Moyses": "Moses",
     "Nabouthai": "Naboth",
     "Naiman": "Naaman",
@@ -789,19 +853,34 @@ EQUIVALENT_OVERRIDES = {
     "Ochozias": "Ahaziah",
     "Orna": "Araunah",
     "Phadaēl": "Pedahel",
+    "Phaloch": "Pul",
     "Phaltiēl": "Paltiel",
     "Phinees": "Phinehas",
     "Rama": "Ramah",
+    "Horonin": "Beth-horon",
+    "Rison": "Dishan",
+    "Rhodians": "Dodanim",
+    "Ros": "Rosh",
+    "Rouben": "Reuben",
+    "Roubenites": "Reubenites",
     "Sabaoth": "Lord of hosts",
     "Sabaōth": "Lord of hosts",
+    "Saba": "Sheba",
+    "Sala": "Shelah",
+    "Assur": "Assyria",
+    "Sarira": "Zereda",
     "Salamiēl": "Shammua",
     "Samaias": "Shemaiah",
+    "Selmona": "Zalmonah",
     "Sarouia": "Zeruiah",
     "Siba": "Ziba",
     "Sisara": "Sisera",
     "Sychem": "Shechem",
     "Thaiman": "Teman",
+    "Tanis": "Zoan",
     "Thersa": "Tirzah",
+    "Thaglathfellasar": "Tilgathpilneser",
+    "Thaglathphalnasar": "Tilgathpilneser",
     "Achaz": "Ahaz",
     "Abiud": "Abiud",
     "Aminadab": "Amminadab",
@@ -833,6 +912,7 @@ EQUIVALENT_OVERRIDES = {
     "Marcus": "Mark",
     "Mathusala": "Methuselah",
     "Maleleel": "Mahalaleel",
+    "NAZARETH": "Nazareth",
     "Naasson": "Nahshon",
     "Nachor": "Nahor",
     "Nephthalim": "Naphtali",
@@ -857,22 +937,102 @@ EQUIVALENT_OVERRIDES = {
     "Urias": "Uriah",
     "Zara": "Zerah",
     "Zabulon": "Zebulun",
+    "Zaboucham": "Buz",
+    "Zabdias": "Zebadiah",
+    "Zaboulon": "Zebulun",
+    "Zabouth": "Zabud",
+    "Zabouthaithan": "Vaizatha",
     "Zacharias": "Zechariah",
+    "Zacharia": "Zechariah",
     "Zorobabel": "Zerubbabel",
 }
 
 EQUIVALENT_MEANING_OVERRIDES = {
+    "Adah": "an assembly",
+    "Ai": "heap; ruin",
+    "Aiath": "heap; ruin",
+    "Ammah": "a cubit; mother-city; beginning",
+    "Assyria": "country of Assur or Ashur",
+    "Ashpenaz": "horse-nose; chief eunuch of Nebuchadnezzar",
+    "Beerah": "a well; declaring",
+    "Beth-diblathaim": "house of fig-cakes; house near Diblathaim",
+    "Beth-eked": "house of shearing; shearing house",
+    "Beth-horon": "house of wrath",
+    "Bethuel": "filiation of God",
+    "Carmelite": "circumcised lamb; harvest; full of ears of corn",
+    "Diblath": "paste of dry figs",
+    "Edom": "red; earthy; bloody",
+    "Edomite": "red; earthy; bloody",
+    "Edomites": "people of Edom; red",
+    "Dishan": "a threshing",
     "Baal-hazor": "Baal's village; lord of the enclosure",
+    "Baalzebub": "lord of flies",
+    "BABYLON": "confusion; mixture",
     "Beth-shemesh": "house of the sun",
+    "Cappadocia": "land of beautiful horses",
     "Damascus": "silent is the sackcloth weaver; traditional city-name meaning",
     "Iron": "watchful; alert",
+    "Juda": "the praise of the Lord; confession",
+    "Judaea": "land of Judah",
+    "Judas": "the praise of the Lord; confession",
     "Jezreel": "God sows",
     "Hophni": "he that covers; my fist",
+    "Huri": "their liberty; their whiteness; their hole",
+    "Husham": "hastily; great haste",
+    "Hathach": "good; well-disposed",
+    "Julius": "downy; soft and tender hair",
     "LORD of hosts": "Yahweh of armies; Lord of heavenly hosts",
+    "Jahdai": "Yah leads",
+    "Jorkeam": "green people; grasslike folks",
     "Lord of hosts": "Yahweh of armies; Lord of heavenly hosts",
+    "Kartan": "town; double city",
+    "Lamech": "powerful; overthrower",
+    "Maleleel": "praising God",
+    "Melzar": "master of wine; chief butler; steward",
+    "Matthan": "gifts; rains",
+    "Michael": "Who is like God?",
+    "Ithra": "abundance; excellence",
+    "Jose": "raised; who pardons",
+    "Joses": "raised; who pardons",
+    "Nimrod": "often linked with rebellion; exact etymology debated",
+    "Naashon": "that foretells; that conjectures",
+    "Nahor": "hoarse; dry; hot",
+    "Nahshon": "that foretells; that conjectures",
+    "Nahum": "comforter; penitent",
+    "Naum": "comforter; penitent",
+    "Nereus": "water; sea",
+    "Nephthalim": "that struggles or fights",
+    "Nicolas": "victory of the people",
+    "Naphtali": "that struggles or fights",
+    "Nachor": "hoarse; dry; hot",
+    "Paulus": "small; little",
+    "Shelah": "that breaks; that unties; that undresses",
     "Pedahel": "God has redeemed",
+    "Persis": "Persian woman",
+    "Philippi": "city of Philip; horse-loving town",
+    "Rachab": "broad; spacious",
+    "Rama": "height; exalted place",
+    "Ramathaimzophim": "the two watch-towers",
+    "Ramah": "height; exalted place",
+    "Rhodes": "rose island; rose",
+    "Salathiel": "asked or lent of God",
+    "Saron": "his plain; his song",
+    "Shealtiel": "asked or lent of God",
+    "Shimea": "that hears, or obeys; perdition",
+    "Siloam": "sent",
+    "Tilgathpilneser": "that binds or takes away captivity",
+    "Tiras": "desire",
+    "Zarah": "east; brightness",
+    "Zerah": "east; brightness",
+    "Zabud": "given; gift",
+    "Zalmonah": "the shade; the sound of the number; his image",
+    "Zoan": "motion",
+    "Beelzebub": "lord of flies",
+    "Jew": "praised one; one from Judah",
     "Jews": "People of Judah; Judeans",
     "Judea": "land of Judah",
+    "Kedesh": "holy place; sanctuary",
+    "Zereda": "ambush; change of dominion",
 }
 
 CONTEXTUAL_FOOTNOTE_OVERRIDES = {
@@ -889,23 +1049,34 @@ CONTEXTUAL_FOOTNOTE_OVERRIDES = {
 }
 
 UKJV_EQUIVALENT_OVERRIDES = {
+    "Bakcha": "Baana",
     "Bethshemesh": "Beth-shemesh",
+    "Gaithan": "Ethan",
+    "Ioasar": "Jesher",
+    "Iethrite": "Ithrite",
+    "Ithrites": "Ithrite",
     "Kadeshbarnea": "Kadesh-Barnea",
+    "Mekedo": "Megiddo",
     "MeribahKadesh": "Meribah-kadesh",
+    "Raemmath": "Ramah",
     "Sichem": "Shechem",
 }
 
 MEANING_NAME_ALIASES = {
     "Acco": "Accho",
     "Aijalon": "Ajalon",
+    "Baana": "Baanah",
     "Beth-shemesh": "Bethshemesh",
     "Bethlehemite": "Bethlehem",
     "Ephrathah": "Ephratah",
     "Gileadites": "Gilead",
     "Hoshea": "Hosea",
     "Ichabod's": "Ichabod",
+    "Ithrite": "Jether",
+    "Ittai": "Ithai",
     "Joktheel": "Joktheel",
     "Jezreel": "Jezreel",
+    "Jethri": "Jether",
     "Paltiel": "Paltiel",
     "Pedahel": "Pedahel",
     "Phaltiel": "Paltiel",
@@ -943,13 +1114,40 @@ MEANING_NAME_ALIASES = {
 
 EQUIVALENT_OVERRIDES.update(
     {
+        "Achamani": "Hachmoni",
         "Adonai": "Lord",
         "Adōnai": "Lord",
         "Anna": "Hannah",
+        "Arama": "Ramah",
         "Caesar": "Caesar",
+        "Chalanne": "Calneh",
+        "Charoub": "Cherub",
+        "Chasloniem": "Casluhim",
+        "Chazad": "Chesed",
+        "Chorraeans": "Horites",
+        "Iebous": "Jebus",
+        "Ierousa": "Jerusha",
+        "Iesbakasa": "Joshbekashah",
+        "Iesboam": "Jashobeam",
+        "Iesebaal": "Jashobeam",
+        "Iobel": "Jabal",
+        "Iarim": "Harum",
+        "Korite": "Korahite",
+        "Mardochaios": "Mordecai",
+        "Mephibosthe": "Mephibosheth",
+        "Ornia": "Adonijah",
+        "Ourias": "Uriah",
         "Phasga": "Pisgah",
+        "Phaldes": "Pildash",
+        "Phylistieim": "Philistines",
+        "Ramathaimzophim": "Ramathaimzophim",
+        "Selei": "Shilhi",
+        "Sior": "Zair",
         "Sharon": "Sharon",
         "Siphā": "Zophim",
+        "Thekoue": "Kue",
+        "Thekoim": "Tekoites",
+        "Thema": "Thamah",
         "Syria": "Syria",
         "Thoke": "Tohu",
         "Nasib": "Zuph",
@@ -1200,6 +1398,7 @@ EQUIVALENT_MEANING_OVERRIDES.update(
         "Canneh": "established settlement",
         "Carchemish": "fortress/market of Chemosh; lamb withdrawn",
         "Chelkias": "Yahweh is my portion",
+        "Cherub": "guardian being; blessing",
         "Cononiah": "Yahweh has established",
         "Dara": "pearl of wisdom; home of knowledge",
         "Enaim": "two springs; open place",
@@ -1213,21 +1412,28 @@ EQUIVALENT_MEANING_OVERRIDES.update(
         "Haziel": "God sees; vision of God",
         "Hezion": "vision; revelation",
         "Ieremeel": "God has mercy; God exalts",
+        "Isshiah": "it is the Lord",
         "Ivvah": "iniquity; ruin",
         "Jahziel": "God sees",
         "Jehoaddah": "Yahweh has adorned; testimony of Yahweh",
         "Jehozadak": "Yahweh is righteous; justice of the Lord",
         "Jehiel": "God lives",
         "Jehoshabeath": "Yahweh has sworn",
+        "Jeshaiah": "salvation of Yahweh",
         "Jezreelites": "people of Jezreel; God sows",
         "Jezreelite": "person of Jezreel; God sows",
+        "Jephthah": "he opens",
         "Joiakim": "Yahweh raises/establishes",
+        "Joshbekashah": "a hard seat; difficult dwelling",
         "Josedech": "Yahweh is righteous; justice of the Lord",
         "Jozadak": "Yahweh is righteous; justice of the Lord",
         "Kadesh": "holiness",
         "Kehelathah": "assembly; congregation",
         "Keilah": "fortress; citadel",
+        "Korahite": "descendant of Korah; baldness; ice; frost",
+        "Korahites": "descendants of Korah; baldness; ice; frost",
         "Kir-hareseth": "city of the sun; wall of burnt brick",
+        "Kirjathjearim": "city of woods",
         "Kolaiah": "voice of Yahweh",
         "Kore": "caller; crier",
         "Kue": "Cilician region",
@@ -1246,11 +1452,13 @@ EQUIVALENT_MEANING_OVERRIDES.update(
         "Naaran": "young person; youth",
         "Nebajoth": "words; prophecies; buds",
         "Neco": "lame; beaten",
+        "Urijah": "the Lord is my light or fire",
         "Nephtoah": "opening; open",
         "Ninevites": "people of Nineveh; dwelling of Ninus/fish-city",
         "Pashhur": "freedom; splendor",
         "Peleth": "swiftness; judges/destroyers name-family",
         "Petra": "rock",
+        "Pildash": "flame of fire",
         "Rapha": "healing; comfort",
         "Salu": "exalted; weighed",
         "Shaalim": "foxes; paths",
@@ -1264,6 +1472,7 @@ EQUIVALENT_MEANING_OVERRIDES.update(
         "Tahapanes": "secret temptation",
         "Tahash": "that makes haste; that keeps silence",
         "Tahtim hodshi": "lower/new land",
+        "Tekoites": "people of Tekoa; trumpet; confirmed",
         "Tekoah": "trumpet; confirmed",
         "Teresh": "strict; severe",
         "Thimnathah": "portion; allotment",
@@ -1290,6 +1499,7 @@ EQUIVALENT_MEANING_OVERRIDES.update(
         "Tibhath": "extension; slaughtering place; name meaning approximate",
         "Valley of Salt": "valley of salt",
         "winepress of Zeeb": "winepress of Zeeb; Zeeb means wolf",
+        "Zeri": "built; fashioned; balsam",
     }
 )
 
@@ -1601,6 +1811,31 @@ def load_curated_meanings() -> dict[str, str]:
     return meanings
 
 
+def resolve_alias_meaning(
+    meaning: str,
+    curated: dict[str, str],
+    hitchcock: dict[str, str],
+    seen: set[str] | None = None,
+) -> str:
+    raw = meaning.strip()
+    match = re.match(r"^(?:the )?same as ([A-Za-z][A-Za-z' -]+?)(?:,.*)?$", raw, re.IGNORECASE)
+    if not match:
+        return raw
+    alias = match.group(1).strip()
+    alias_key = normalize_lookup(alias)
+    if not alias_key:
+        return raw
+    if seen is None:
+        seen = set()
+    if alias_key in seen:
+        return raw
+    seen = seen | {alias_key}
+    resolved = curated.get(alias_key) or hitchcock.get(alias_key)
+    if not resolved or resolved.strip() == raw:
+        return raw
+    return resolve_alias_meaning(resolved, curated, hitchcock, seen)
+
+
 def meaning_for_name(name: str, curated: dict[str, str], hitchcock: dict[str, str]) -> str:
     base = display_name(name)
     if base.endswith("'s"):
@@ -1623,9 +1858,9 @@ def meaning_for_name(name: str, curated: dict[str, str], hitchcock: dict[str, st
     for candidate in candidates:
         key = normalize_lookup(candidate)
         if key in curated:
-            return curated[key]
+            return resolve_alias_meaning(curated[key], curated, hitchcock, {key})
         if key in hitchcock:
-            return hitchcock[key]
+            return resolve_alias_meaning(hitchcock[key], curated, hitchcock, {key})
     return "meaning uncertain/not securely attested in the consulted name dictionaries"
 
 
@@ -2237,25 +2472,45 @@ def main() -> None:
         (row["name"], row["first_reference"], row["english_equivalent"])
         for row in note_rows
     }
-    for manual_row in MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_ROWS:
+    equivalent_keys = {
+        (row["first_reference"], row["source"], row["english_equivalent"]): idx
+        for idx, row in enumerate(note_rows)
+    }
+
+    def add_manual_note_row(manual_row: dict[str, str]) -> None:
         note_key = (
             manual_row["name"],
             manual_row["first_reference"],
             manual_row["english_equivalent"],
         )
-        if note_key in seen_note_keys:
-            continue
-        note_rows.append(dict(manual_row))
-        coverage_rows.append(
-            {
-                **manual_row,
-                "occurrences": "1",
-                "sample_refs": manual_row["first_reference"],
-                "reason": "manual contextual standard-equivalent note",
-            }
+        equivalent_key = (
+            manual_row["first_reference"],
+            manual_row["source"],
+            manual_row["english_equivalent"],
         )
+        coverage_row = {
+            **manual_row,
+            "occurrences": "1",
+            "sample_refs": manual_row["first_reference"],
+            "reason": "manual contextual standard-equivalent note",
+        }
+        existing_idx = equivalent_keys.get(equivalent_key)
+        if existing_idx is not None:
+            note_rows[existing_idx] = dict(manual_row)
+            coverage_rows[existing_idx] = coverage_row
+            seen_note_keys.add(note_key)
+            counts["included_manual_contextual_transliterated_note"] += 1
+            return
+        if note_key in seen_note_keys:
+            return
+        note_rows.append(dict(manual_row))
+        coverage_rows.append(coverage_row)
         seen_note_keys.add(note_key)
+        equivalent_keys[equivalent_key] = len(note_rows) - 1
         counts["included_manual_contextual_transliterated_note"] += 1
+
+    for manual_row in MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_ROWS:
+        add_manual_note_row(manual_row)
 
     for spec in MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_SPECS:
         manual_row = build_manual_contextual_note_row(
@@ -2264,24 +2519,7 @@ def main() -> None:
             curated_meanings=curated_meanings,
             hitchcock_meanings=hitchcock_meanings,
         )
-        note_key = (
-            manual_row["name"],
-            manual_row["first_reference"],
-            manual_row["english_equivalent"],
-        )
-        if note_key in seen_note_keys:
-            continue
-        note_rows.append(manual_row)
-        coverage_rows.append(
-            {
-                **manual_row,
-                "occurrences": "1",
-                "sample_refs": manual_row["first_reference"],
-                "reason": "manual contextual standard-equivalent note",
-            }
-        )
-        seen_note_keys.add(note_key)
-        counts["included_manual_contextual_transliterated_note"] += 1
+        add_manual_note_row(manual_row)
 
     fieldnames = ["name", "kind", "first_reference", "source", "footnote"]
     fieldnames = [

@@ -4,8 +4,8 @@
   "rows": 7957,
   "same_normalized": 4173,
   "different_normalized": 3784,
-  "priority_rows": 18,
-  "queue_rows": 18,
+  "priority_rows": 0,
+  "queue_rows": 0,
   "status_counts": {
     "tr_literal_manual": 31,
     "tr_literal_pass1": 5852,
@@ -18,9 +18,8 @@
   },
   "resolved_review_rows": 1065,
   "importance_counts": {
-    "none": 7216,
-    "low": 723,
-    "medium": 18
+    "none": 7282,
+    "low": 675
   },
   "theme_counts": {
     "christology": 1990,

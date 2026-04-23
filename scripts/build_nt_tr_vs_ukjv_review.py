@@ -355,8 +355,12 @@ STYLE_ONLY_NOTES = {
     "rendered magoi as Magi",
     "rendered ochlos as crowd",
     "rendered phiale as bowl",
+    "standardized NT proper-name English equivalent",
+    "standardized Juda as Judah in tribe/land contexts",
     "standardized Jeremiah",
     "standardized Judea spelling",
+    "translated sabaoth as hosts",
+    "normalized NT kurios as Lord",
     "removed UKJV inline Strong-style lexical marker",
     "removed UKJV plural-expansion artifact",
 }

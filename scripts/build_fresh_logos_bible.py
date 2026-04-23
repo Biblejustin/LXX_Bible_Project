@@ -10,6 +10,7 @@ import html
 import json
 import re
 import sqlite3
+import sys
 import zipfile
 from collections import Counter, defaultdict
 from dataclasses import dataclass
@@ -58,6 +59,8 @@ DATA = ROOT / "data"
 RAW = DATA / "raw"
 RESEARCH = DATA / "research"
 OUTPUT = ROOT / "output" / "logos"
+
+csv.field_size_limit(sys.maxsize)
 
 DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"

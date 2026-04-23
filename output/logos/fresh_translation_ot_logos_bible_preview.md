@@ -72,7 +72,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Deuteronomy
 
-**Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Pharan and Tophel and Lobon and Aulon and Katakrusea.
+**Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Paran and Tophel and Laban and Aulon and Katakrusea.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 20
@@ -140,17 +140,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Samuel
 
-**1 Samuel 1:1** There was a man from Armathaim Siphā, from the hill-country of Ephraim, and his name was Elkana, son of Ieremeēl, son of Eliou, son of Thoke, in Nasib Ephraim.
+**1 Samuel 1:1** There was a man from Ramathaimzophim, from the hill-country of Ephraim, and his name was Elkana, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**1 Samuel 1:2** And to him were two wives; the name of the one was Anna and the name of the second Phennana, and Phennana had children, but Anna had no child.
+**1 Samuel 1:2** And to him were two wives; the name of the one was Hannah and the name of the second Peninnah, and Peninnah had children, but Hannah had no child.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**1 Samuel 1:3** And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
+**1 Samuel 1:3** And the man went up from days to days from his city, from Ramathaimzophim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 19
@@ -184,7 +184,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 8
 
-**1 Kings 1:3** And they sought a beautiful young woman from all the border of Israel, and they found Abisak the Somanite and brought her to the king.
+**1 Kings 1:3** And they sought a beautiful young woman from all the border of Israel, and they found Abishag the Shunammite and brought her to the king.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -196,12 +196,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 7
 
-**2 Kings 1:2** And Ochozias fell through the lattice in his upper room in Samaria and became sick, and he sent messengers and said to them, Come and seek in Baal of flies, god of Akkarōn, whether I will live from this sickness. And they went to inquire through him.
+**2 Kings 1:2** And Ahaziah fell through the lattice in his upper room in Samaria and became sick, and he sent messengers and said to them, Come and seek in Baal of flies, god of Ekron, whether I will live from this sickness. And they went to inquire through him.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 21
 
-**2 Kings 1:3** And angel of the Lord spoke to Elijah the Thesbite, saying, Rise, come to meet the messengers of Ochozias king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Akkarōn?
+**2 Kings 1:3** And angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 18
@@ -213,12 +213,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**1 Chronicles 1:2** Kainan, Maleleel, Iared,
+**1 Chronicles 1:2** Kenan, Mahalaleel, Jared,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**1 Chronicles 1:3** Enoch, Mathousala, Lamech,
+**1 Chronicles 1:3** Enoch, Methuselah, Lamech,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -235,31 +235,31 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**2 Chronicles 1:3** And Solomon and all assembly with him went to high place in Gabaon, because there was tent of testimony of God which Moyses servant of Lord made in wilderness.
+**2 Chronicles 1:3** And Solomon and all assembly with him went to high place in Gibeon, because there was tent of testimony of God which Moses servant of Lord made in wilderness.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 8
 
 ## Ezra
 
-**Ezra 1:1** And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Ieremias, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+**Ezra 1:1** And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Ezra 1:2** Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Ioudaia.
+**Ezra 1:2** Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
 
-**Ezra 1:3** Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Ioudaia and build house of God of Israel. He is the God in Jerusalem.
+**Ezra 1:3** Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build house of God of Israel. He is the God in Jerusalem.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 10
 
 ## Nehemiah
 
-**Nehemiah 1:1** Words of Nehemias son of Achalia. And it came to be in month Chaseleu, twentieth year, and I was in Sousan the citadel.
+**Nehemiah 1:1** Words of Nehemiah son of Hachaliah. And it came to be in month Chisleu, twentieth year, and I was in Shushan the citadel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
@@ -281,7 +281,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Esther 1:2** In those days, when King Artaxerxes was enthroned in Sousa the city,
+**Esther 1:2** In those days, when King Artaxerxes was enthroned in Shushan the city,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9
@@ -429,7 +429,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezekiel
 
-**Ezekiel 1:1** And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chobar, and heavens were opened and I saw visions of God.
+**Ezekiel 1:1** And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 31
@@ -439,24 +439,24 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and word of Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chobar, and hand of Lord came upon me.
+**Ezekiel 1:3** and word of Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and hand of Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
 
 ## Daniel
 
-**Daniel 1:1** In third year of Jehoiakim of Judea, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+**Daniel 1:1** In third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**Daniel 1:2** And Lord gave it into his hands, and Jehoiakim king of Judea, and some of holy vessels of Lord, and he carried them to Babylon and placed them in his idol-house.
+**Daniel 1:2** And Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of Lord, and he carried them to Babylon and placed them in his idol-house.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23
 
-**Daniel 1:3** And king said to Abiesdri, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
+**Daniel 1:3** And king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
@@ -473,14 +473,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 19
 
-**Hosea 1:3** And he went and took Gomer daughter of Debelaiim, and she conceived and bore him a son.
+**Hosea 1:3** And he went and took Gomer daughter of Diblaim, and she conceived and bore him a son.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 1
 
 ## Joel
 
-**Joel 1:1** Word of Lord that came to Joel son of Bathouel.
+**Joel 1:1** Word of Lord that came to Joel son of Pethuel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
@@ -514,7 +514,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Obadiah
 
-**Obadiah 1:1** Vision of Obadiah. Thus says Lord God to Idumea: I heard a report from Lord, and he sent a message to nations: Rise, and let us rise against her for war.
+**Obadiah 1:1** Vision of Obadiah. Thus says Lord God to Edom: I heard a report from Lord, and he sent a message to nations: Rise, and let us rise against her for war.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -531,7 +531,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jonah
 
-**Jonah 1:1** Word of Lord came to Jonah son of Amathi, saying,
+**Jonah 1:1** Word of Lord came to Jonah son of Amittai, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
@@ -565,7 +565,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Nahum
 
-**Nahum 1:1** Oracle of Nineveh. Book of vision of Nahum the Elkesaite.
+**Nahum 1:1** Oracle of Nineveh. Book of vision of Nahum the Elkoshite.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
@@ -599,7 +599,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zephaniah
 
-**Zephaniah 1:1** Word of Lord that came to Zephaniah son of Cushi, son of Godolias, son of Amarias, son of Hezekias, in days of Josiah son of Amon king of Judah.
+**Zephaniah 1:1** Word of Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in days of Josiah son of Amon king of Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
@@ -616,7 +616,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Haggai
 
-**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Salathiel from tribe of Judah, and to Jeshua son of Josedek, the great priest, saying,
+**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
@@ -633,7 +633,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zechariah
 
-**Zechariah 1:1** In eighth month of second year of Darius, word of Lord came to Zechariah son of Barachias, son of Addo, the prophet, saying,
+**Zechariah 1:1** In eighth month of second year of Darius, word of Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14

@@ -2,6 +2,7 @@
 import argparse
 import csv
 import json
+import sys
 from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -35,6 +36,8 @@ REQUIRED_SOURCE_COLUMNS = [
     "syntax_notes",
     "draft_translation",
 ]
+
+csv.field_size_limit(sys.maxsize)
 
 
 def load_csv_rows(path: Path) -> List[Dict[str, str]]:
