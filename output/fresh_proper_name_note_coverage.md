@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `3121`
+- supplemental note rows: `3191`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
@@ -66,6 +66,7 @@ Policy:
 - `Ochozias` (transliterated_form, 37x, first 1 Kings 22:40) — manual_high_frequency_source_form
 - `Satan` (supernatural_being, 37x, first Matthew 4:10) — logos_primary_entity
 - `Seir` (person, 37x, first Genesis 14:6) — logos_primary_entity
+- `Eli` (person, 36x, first 1 Samuel 1:3) — logos_primary_entity
 - `Idumea` (place, 36x, first Genesis 36:16) — logos_primary_place_atlas_link_preserved
 - `Micha` (person, 36x, first Judges 17:1) — logos_alias_entity
 - `Naphtali` (transliterated_form, 36x, first Genesis 30:8) — not_classified
@@ -75,8 +76,8 @@ Policy:
 - `Joseph` (person, 35x, first Matthew 1:16) — logos_alias_entity
 - `Galgala` (transliterated_form, 33x, first Joshua 4:19) — manual_high_frequency_source_form
 - `Heshbon` (place, 33x, first Numbers 21:25) — logos_primary_place_atlas_link_preserved
-- `Judas` (transliterated_form, 33x, first Matthew 1:2) — manual_high_frequency_source_form
 - `Gabaa` (transliterated_form, 32x, first Joshua 15:57) — manual_high_frequency_source_form
+- `Judas` (transliterated_form, 32x, first Matthew 10:4) — manual_high_frequency_source_form
 - `Persians` (people_group, 32x, first 2 Chronicles 36:22) — logos_primary_entity
 - `Amnon` (person, 31x, first 2 Samuel 3:2) — logos_alias_entity
 - `Bashan` (place, 31x, first Numbers 21:33) — logos_primary_place_atlas_link_preserved
@@ -90,4 +91,3 @@ Policy:
 - `Elijah` (person, 30x, first Matthew 11:14) — logos_alias_entity
 - `Jehoiada` (person, 30x, first 2 Samuel 8:18) — logos_alias_entity
 - `Hittite` (people_group, 29x, first Genesis 23:10) — logos_alias_entity
-- `Joash` (person, 29x, first Judges 6:11) — logos_alias_entity

@@ -9,12 +9,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 32
 
-**Matthew 1:2** Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judas and his brothers;
+**Matthew 1:2** Abraham fathered Isaac; and Isaac fathered Jacob; and Jacob fathered Judah and his brothers;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 27
 
-**Matthew 1:3** And Judas fathered Phares and Zara of Thamar; and Phares fathered Esrom; and Esrom fathered Aram;
+**Matthew 1:3** And Judah fathered Perez and Zerah of Tamar; and Perez fathered Hezron; and Hezron fathered Aram;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
@@ -174,7 +174,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Philippians
 
-**Philippians 1:1** Paul and Timotheus, the slaves of Jesus Christ, to all the holy ones in Christ Jesus who are at Philippi, with the overseers and servants:
+**Philippians 1:1** Paul and Timothy, the slaves of Jesus Christ, to all the holy ones in Christ Jesus who are at Philippi, with the overseers and servants:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 39
@@ -191,7 +191,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Colossians
 
-**Colossians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
+**Colossians 1:1** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
@@ -208,7 +208,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Thessalonians
 
-**1 Thessalonians 1:1** Paul, and Silvanus, and Timotheus, to the assembly of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be to you, and peace, from God our Father, and the Lord Jesus Christ.
+**1 Thessalonians 1:1** Paul, and Silvanus, and Timothy, to the assembly of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be to you, and peace, from God our Father, and the Lord Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 35
@@ -225,7 +225,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Thessalonians
 
-**2 Thessalonians 1:1** Paul, and Silvanus, and Timotheus, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:
+**2 Thessalonians 1:1** Paul, and Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
@@ -235,7 +235,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is meet, because your faith grows exceedingly, and the love of every one of you all toward each other abounds;
+**2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is fitting, because your faith grows exceedingly, and the love of every one of you all toward each other abounds;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 25
@@ -327,7 +327,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## James
 
-**James 1:1** James, a slave of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+**James 1:1** James, a slave of God and of the Lord Jesus Christ, to the twelve tribes which are scattered, greeting.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 40

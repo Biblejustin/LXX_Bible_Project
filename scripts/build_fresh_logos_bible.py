@@ -1211,6 +1211,7 @@ def load_name_meaning_notes(
                 if not ref or not name:
                     counts["transliterated_proper_name_skipped"] += 1
                     continue
+                english_equivalent = normalize_space(row.get("english_equivalent", ""))
                 label = {
                     "person": "Personal name",
                     "place": "Place name",
@@ -1221,14 +1222,20 @@ def load_name_meaning_notes(
                 pieces = [f"{label}: {name}."]
                 if note:
                     pieces.append(note)
-                grouped[ref].append(
-                    NameMeaningNote(
-                        trigger_phrase=name,
-                        text=" ".join(pieces),
-                        note_type="proper_name",
-                        case_sensitive=True,
+                note_text = " ".join(pieces)
+                triggers = [name]
+                if english_equivalent and english_equivalent != name:
+                    triggers.append(english_equivalent)
+                    counts["transliterated_proper_name_alternate_triggers"] += 1
+                for trigger in triggers:
+                    grouped[ref].append(
+                        NameMeaningNote(
+                            trigger_phrase=trigger,
+                            text=note_text,
+                            note_type="proper_name",
+                            case_sensitive=True,
+                        )
                     )
-                )
                 counts["transliterated_proper_name_included"] += 1
     if names_of_god_path.exists():
         raw = names_of_god_path.read_text(encoding="utf-8").replace("“", '"').replace("”", '"')

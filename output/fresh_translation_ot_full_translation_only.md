@@ -6832,7 +6832,7 @@ And sons of Core: Asir and Elkana and Abiasaph. These are the generations of Cor
 
 **Exodus 6:25**
 
-And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the fathers of the Levites according to their generations.
+And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinehas. These are the heads of the fathers of the Levites according to their generations.
 
 **Exodus 6:26**
 
@@ -25564,7 +25564,7 @@ And it shall turn back from the rising of the sun to Baithegenech and join to Ze
 
 **Joshua 19:28**
 
-and Elbon and Raab and Ememaon and Kanthan, as far as great Sidon.
+and Elbon and Rehob and Ememaon and Kanthan, as far as great Sidon.
 
 **Joshua 19:29**
 
@@ -25808,7 +25808,7 @@ And from the tribe of Asher, Basellan and its set-apart lands, and Dabbōn and i
 
 **Joshua 21:31**
 
-and Chelkath and its set-apart lands, and Raab and its set-apart lands, four cities.
+and Chelkath and its set-apart lands, and Rehob and its set-apart lands, four cities.
 
 **Joshua 21:32**
 
@@ -29084,7 +29084,7 @@ And to him were two wives; the name of the one was Anna and the name of the seco
 
 **1 Samuel 1:3**
 
-And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God of hosts at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
+And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
 
 **1 Samuel 1:4**
 
@@ -29108,7 +29108,7 @@ And Elkana her husband said to her, Anna. And she said to him, Behold, here I am
 
 **1 Samuel 1:9**
 
-And Anna rose after they ate in Shilō and stood before the Lord, and Heli the priest was sitting upon the seat by the posts of the temple of the Lord.
+And Anna rose after they ate in Shiloh and stood before the Lord, and Eli the priest was sitting upon the seat by the posts of the temple of the Lord.
 
 **1 Samuel 1:10**
 
@@ -29120,15 +29120,15 @@ And she vowed a vow to the Lord, saying, Lord, Lord my God of hosts, if you will
 
 **1 Samuel 1:12**
 
-And it came to be, while she multiplied in praying before the Lord, Heli the priest watched her mouth.
+And it came to be, while she multiplied in praying before the Lord, Eli the priest watched her mouth.
 
 **1 Samuel 1:13**
 
-And she was speaking in her heart, and her lips were moving, but her voice was not heard, and Heli counted her as a drunken woman.
+And she was speaking in her heart, and her lips were moving, but her voice was not heard, and Eli counted her as a drunken woman.
 
 **1 Samuel 1:14**
 
-And the servant Heli said to her, How long will you be drunk? Put away your wine and go from the presence of the Lord.
+And the servant Eli said to her, How long will you be drunk? Put away your wine and go from the presence of the Lord.
 
 **1 Samuel 1:15**
 
@@ -29140,7 +29140,7 @@ Do not give your servant as a daughter of pestilence, because out of the abundan
 
 **1 Samuel 1:17**
 
-And Heli answered and said to her, Go in peace. The God of Israel give you every request of yours that you asked from him.
+And Eli answered and said to her, Go in peace. The God of Israel give you every request of yours that you asked from him.
 
 **1 Samuel 1:18**
 
@@ -29172,7 +29172,7 @@ And she went up with him to Shiloh with a three-year-old calf and breads and an 
 
 **1 Samuel 1:25**
 
-And they brought him before the Lord, and his father slaughtered the sacrifice that he made from days to days to the Lord, and he brought the child and slaughtered the calf, and Anna, the mother of the child, brought him to Heli.
+And they brought him before the Lord, and his father slaughtered the sacrifice that he made from days to days to the Lord, and he brought the child and slaughtered the calf, and Anna, the mother of the child, brought him to Eli.
 
 **1 Samuel 1:26**
 
@@ -29230,11 +29230,11 @@ The Lord will make his adversary weak; the Lord is holy. Let not the wise boast 
 
 **1 Samuel 2:11**
 
-And they left him there before the Lord and went away to Armathaim, and the child was ministering before the face of the Lord before Heli the priest.
+And they left him there before the Lord and went away to Armathaim, and the child was ministering before the face of the Lord before Eli the priest.
 
 **1 Samuel 2:12**
 
-And the sons of Heli the priest were sons of pestilence, not knowing the Lord.
+And the sons of Eli the priest were sons of pestilence, not knowing the Lord.
 
 **1 Samuel 2:13**
 
@@ -29266,7 +29266,7 @@ And his mother made for him a small doublet and brought it up to him from days t
 
 **1 Samuel 2:20**
 
-And Heli blessed Elkana and his wife, saying, May the Lord repay you seed from this woman in place of the loan that you loaned to the Lord. And the man went to his place.
+And Eli blessed Elkana and his wife, saying, May the Lord repay you seed from this woman in place of the loan that you loaned to the Lord. And the man went to his place.
 
 **1 Samuel 2:21**
 
@@ -29274,7 +29274,7 @@ And the Lord visited Anna, and she bore yet three sons and two daughters, and th
 
 **1 Samuel 2:22**
 
-And Heli was very old and heard what his sons were doing to the sons of Israel.
+And Eli was very old and heard what his sons were doing to the sons of Israel.
 
 **1 Samuel 2:23**
 
@@ -29294,7 +29294,7 @@ And the child Samuel was going on and growing and good both with the Lord and wi
 
 **1 Samuel 2:27**
 
-And a man of God came to Heli and said, Thus says the Lord: In revealing did I reveal myself to the house of your father while they were in the land of Egypt, servants to the house of Pharaoh?
+And a man of God came to Eli and said, Thus says the Lord: In revealing did I reveal myself to the house of your father while they were in the land of Egypt, servants to the house of Pharaoh?
 
 **1 Samuel 2:28**
 
@@ -29322,7 +29322,7 @@ And a man I will not destroy for you from my altar, to fail his eyes and make hi
 
 **1 Samuel 2:34**
 
-And this will be the sign to you that will come upon these your two sons, Ophni and Phinees: in one day both will die.
+And this will be the sign to you that will come upon these your two sons, Hophni and Phinehas: in one day both will die.
 
 **1 Samuel 2:35**
 
@@ -29336,11 +29336,11 @@ And it shall be that the one left over in your house will come to bow down to hi
 
 **1 Samuel 3:1**
 
-And the child Samuel was ministering to the Lord before Heli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
+And the child Samuel was ministering to the Lord before Eli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
 
 **1 Samuel 3:2**
 
-And it came to be on that day, and Heli was sleeping in his place, and his eyes began to grow heavy and he was not able to see.
+And it came to be on that day, and Eli was sleeping in his place, and his eyes began to grow heavy and he was not able to see.
 
 **1 Samuel 3:3**
 
@@ -29352,11 +29352,11 @@ And the Lord called, Samuel, Samuel. And he said, Behold, here I am.
 
 **1 Samuel 3:5**
 
-And he ran to Heli and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep. And he went back and slept.
+And he ran to Eli and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep. And he went back and slept.
 
 **1 Samuel 3:6**
 
-And the Lord added and called, Samuel, Samuel. And he went to Heli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
+And the Lord added and called, Samuel, Samuel. And he went to Eli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
 
 **1 Samuel 3:7**
 
@@ -29364,7 +29364,7 @@ And Samuel was before knowing God and before the word of the Lord was revealed t
 
 **1 Samuel 3:8**
 
-And the Lord added to call Samuel a third time, and he rose and went to Heli and said, Behold, here I am, because you called me. And Heli understood that the Lord had called the child.
+And the Lord added to call Samuel a third time, and he rose and went to Eli and said, Behold, here I am, because you called me. And Eli understood that the Lord had called the child.
 
 **1 Samuel 3:9**
 
@@ -29380,7 +29380,7 @@ And the Lord said to Samuel, Behold, I am doing my words in Israel, so that whoe
 
 **1 Samuel 3:12**
 
-In that day I will raise upon Heli all that I spoke against his house; I will begin and I will complete.
+In that day I will raise upon Eli all that I spoke against his house; I will begin and I will complete.
 
 **1 Samuel 3:13**
 
@@ -29388,15 +29388,15 @@ And I have announced to him that I am avenging his house forever for the injusti
 
 **1 Samuel 3:14**
 
-I swore to the house of Heli whether the injustice of the house of Heli will be propitiated by incense and by sacrifices forever.
+I swore to the house of Eli whether the injustice of the house of Eli will be propitiated by incense and by sacrifices forever.
 
 **1 Samuel 3:15**
 
-And Samuel slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samuel feared to report the vision to Heli.
+And Samuel slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samuel feared to report the vision to Eli.
 
 **1 Samuel 3:16**
 
-And Heli said to Samuel, Samuel, child. And he said, Behold, here I am.
+And Eli said to Samuel, Samuel, child. And he said, Behold, here I am.
 
 **1 Samuel 3:17**
 
@@ -29404,7 +29404,7 @@ And he said, What is the word spoken to you? Do not hide it from me. Thus may Go
 
 **1 Samuel 3:18**
 
-And Samuel reported all the words and did not hide from him, and Heli said, He is the Lord; what is good before him he will do.
+And Samuel reported all the words and did not hide from him, and Eli said, He is the Lord; what is good before him he will do.
 
 **1 Samuel 3:19**
 
@@ -29416,7 +29416,7 @@ And all Israel knew, from Dan and as far as Bersabee, that Samuel was faithful a
 
 **1 Samuel 3:21**
 
-And the Lord again made himself known in Shiloh, because the Lord was revealed to Samuel, and Samuel was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Heli was very old, and his sons were going on and their way was evil before the Lord.
+And the Lord again made himself known in Shiloh, because the Lord was revealed to Samuel, and Samuel was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Eli was very old, and his sons were going on and their way was evil before the Lord.
 
 ### Chapter 4
 
@@ -29434,7 +29434,7 @@ And the people came into the camp, and the elders of Israel said, Why did the Lo
 
 **1 Samuel 4:4**
 
-And the people sent to Shiloh, and they took from there the ark of the Lord seated on cherubim, and both sons of Heli were with the ark, Ophni and Phinees.
+And the people sent to Shiloh, and they took from there the ark of the Lord seated on cherubim, and both sons of Eli were with the ark, Hophni and Phinehas.
 
 **1 Samuel 4:5**
 
@@ -29462,7 +29462,7 @@ And they fought them, and a man of Israel stumbled, and each fled to his tent, a
 
 **1 Samuel 4:11**
 
-And the ark of God was taken, and both sons of Heli died, Ophni and Phinees.
+And the ark of God was taken, and both sons of Eli died, Hophni and Phinehas.
 
 **1 Samuel 4:12**
 
@@ -29470,19 +29470,19 @@ And a Jeminite man ran from the battle line and came to Shiloh on that day, and 
 
 **1 Samuel 4:13**
 
-And he came, and behold, Heli was sitting on the seat by the gate, watching the road, because his heart was beside itself concerning the ark of God. And the man entered into the city to report, and the city cried out.
+And he came, and behold, Eli was sitting on the seat by the gate, watching the road, because his heart was beside itself concerning the ark of God. And the man entered into the city to report, and the city cried out.
 
 **1 Samuel 4:14**
 
-And Heli heard the sound of the outcry and said, What is this cry of this sound? And the man hurried and entered and reported to Heli.
+And Eli heard the sound of the outcry and said, What is this cry of this sound? And the man hurried and entered and reported to Eli.
 
 **1 Samuel 4:15**
 
-And Heli was ninety years old, and his eyes had become fixed, and he did not see, and Heli said to the men standing around him, What is the voice of this sound?
+And Eli was ninety years old, and his eyes had become fixed, and he did not see, and Eli said to the men standing around him, What is the voice of this sound?
 
 **1 Samuel 4:16**
 
-And the man hurried and came near to Heli and said to him, I am the one coming from the camp, and I fled from the battle line today. And he said, What is the matter, child?
+And the man hurried and came near to Eli and said to him, I am the one coming from the camp, and I fled from the battle line today. And he said, What is the matter, child?
 
 **1 Samuel 4:17**
 
@@ -29494,7 +29494,7 @@ And it came to be, when he mentioned the ark of God, he fell from the seat backw
 
 **1 Samuel 4:19**
 
-And his daughter-in-law, wife of Phinees, had conceived to give birth, and she heard the news that the ark of God had been taken and that her father-in-law and her husband had died, and she crouched down and gave birth, because her labor pains turned upon her.
+And his daughter-in-law, wife of Phinehas, had conceived to give birth, and she heard the news that the ark of God had been taken and that her father-in-law and her husband had died, and she crouched down and gave birth, because her labor pains turned upon her.
 
 **1 Samuel 4:20**
 
@@ -30290,7 +30290,7 @@ And Saul was sitting on the edge of the hill under the pomegranate tree in Magd�
 
 **1 Samuel 14:3**
 
-And Achia son of Ahitub, brother of Iōchabēd, son of Phinees, son of Heli, priest of God in Sēlōm, was carrying an ephod. And the people did not know that Jonathan had gone.
+And Achia son of Ahitub, brother of Iōchabēd, son of Phinehas, son of Eli, priest of God in Shiloh, was carrying an ephod. And the people did not know that Jonathan had gone.
 
 **1 Samuel 14:4**
 
@@ -30466,7 +30466,7 @@ And Saul went up from after the foreigners, and the foreigners went away to thei
 
 **1 Samuel 14:47**
 
-And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king Souba and against the foreigners. Wherever he turned, he was being saved.
+And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king of Zobah and against the foreigners. Wherever he turned, he was being saved.
 
 **1 Samuel 14:48**
 
@@ -30474,7 +30474,7 @@ And he worked might and struck Amalek and delivered Israel from the hand of thos
 
 **1 Samuel 14:49**
 
-And the sons of Saul were Jonathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Melchol.
+And the sons of Saul were Jonathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Michal.
 
 **1 Samuel 14:50**
 
@@ -30894,7 +30894,7 @@ And all Israel and Judah loved David, because he was going out and coming in bef
 
 **1 Samuel 18:20**
 
-And Melchol daughter of Saul loved David, and it was reported to Saul, and it was made straight in his eyes.
+And Michal daughter of Saul loved David, and it was reported to Saul, and it was made straight in his eyes.
 
 **1 Samuel 18:21**
 
@@ -30922,7 +30922,7 @@ And the servants of Saul report these words to David, and the word was made stra
 
 **1 Samuel 18:27**
 
-And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Melchol his daughter to be his wife.
+And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Michal his daughter to be his wife.
 
 **1 Samuel 18:28**
 
@@ -30976,15 +30976,15 @@ And Saul sought to strike the spear into David, but David withdrew from before S
 
 **1 Samuel 19:11**
 
-And it came to be on that night, Saul sent messengers to the house of David to guard him so as to kill him in the morning. And Melchol his wife reported to David, saying, If you do not save your life this night, tomorrow you will be put to death.
+And it came to be on that night, Saul sent messengers to the house of David to guard him so as to kill him in the morning. And Michal his wife reported to David, saying, If you do not save your life this night, tomorrow you will be put to death.
 
 **1 Samuel 19:12**
 
-And Melchol let David down through the window, and he went away and fled and was saved.
+And Michal let David down through the window, and he went away and fled and was saved.
 
 **1 Samuel 19:13**
 
-And Melchol took the tomb-images and placed them on the bed, and she put a goat’s liver at his head and covered them with a garment.
+And Michal took the tomb-images and placed them on the bed, and she put a goat’s liver at his head and covered them with a garment.
 
 **1 Samuel 19:14**
 
@@ -31000,7 +31000,7 @@ And the messengers come, and behold, the tomb-images were on the bed and a goat�
 
 **1 Samuel 19:17**
 
-And Saul said to Melchol, Why did you thus deceive me and send away my enemy, and he escaped? And Melchol said to Saul, He said, Send me away, or else I will kill you.
+And Saul said to Michal, Why did you thus deceive me and send away my enemy, and he escaped? And Michal said to Saul, He said, Send me away, or else I will kill you.
 
 **1 Samuel 19:18**
 
@@ -31740,7 +31740,7 @@ And David took Achinaam from Iezraēl, and both became his wives.
 
 **1 Samuel 25:44**
 
-And Saul gave Melchol his daughter, the wife of David, to Phalti son of Lais from Romma.
+And Saul gave Michal his daughter, the wife of David, to Phalti son of Lais from Romma.
 
 ### Chapter 26
 
@@ -32516,11 +32516,11 @@ And Abner sent messengers to David in Thailaim, where he was at once, saying, Ma
 
 **2 Samuel 3:13**
 
-And David said, I will well make a covenant with you; only one word I ask from you, saying, You will not see my face unless you bring Melchol daughter of Saul when you come to see my face.
+And David said, I will well make a covenant with you; only one word I ask from you, saying, You will not see my face unless you bring Michal daughter of Saul when you come to see my face.
 
 **2 Samuel 3:14**
 
-And David sent messengers to Mephibosthe son of Saul, saying, Give back to me my wife Melchol, whom I took for one hundred foreskins of foreigners.
+And David sent messengers to Mephibosthe son of Saul, saying, Give back to me my wife Michal, whom I took for one hundred foreskins of foreigners.
 
 **2 Samuel 3:15**
 
@@ -32838,7 +32838,7 @@ And David and all the house of Israel brought up the ark of the Lord with shouti
 
 **2 Samuel 6:16**
 
-And it came to be, as the ark was coming as far as the City of David, Melchol daughter of Saul was looking through the window, and she saw king David dancing and beating time before the Lord, and she counted him as nothing in her heart.
+And it came to be, as the ark was coming as far as the City of David, Michal daughter of Saul was looking through the window, and she saw king David dancing and beating time before the Lord, and she counted him as nothing in her heart.
 
 **2 Samuel 6:17**
 
@@ -32854,11 +32854,11 @@ And he distributed to all the people, to all the host of Israel, from Dan to Bee
 
 **2 Samuel 6:20**
 
-And David returned to bless his house, and Melchol daughter of Saul came out to meet David and blessed him and said, How glorious today was the king of Israel, who was uncovered today in the eyes of the servant-girls of his servants, just as one of the dancers uncovers himself in being uncovered.
+And David returned to bless his house, and Michal daughter of Saul came out to meet David and blessed him and said, How glorious today was the king of Israel, who was uncovered today in the eyes of the servant-girls of his servants, just as one of the dancers uncovers himself in being uncovered.
 
 **2 Samuel 6:21**
 
-And David said to Melchol, I will dance before the Lord. Blessed be the Lord, who chose me over your father and over all his house, to appoint me as leader over his people, over Israel, and I will play and dance before the Lord.
+And David said to Michal, I will dance before the Lord. Blessed be the Lord, who chose me over your father and over all his house, to appoint me as leader over his people, over Israel, and I will play and dance before the Lord.
 
 **2 Samuel 6:22**
 
@@ -32866,7 +32866,7 @@ And I will uncover myself still more thus, and I will be worthless in your eyes,
 
 **2 Samuel 6:23**
 
-And to Melchol daughter of Saul there came to be no child until the day of her death.
+And to Michal daughter of Saul there came to be no child until the day of her death.
 
 ### Chapter 7
 
@@ -32998,7 +32998,7 @@ And David struck Moab and measured them with lines, laying them on the ground, a
 
 **2 Samuel 8:3**
 
-And David struck Adraazar son of Raab king of Souba, as he was going to set up his hand on the river Euphrates.
+And David struck Hadadezer son of Rehob king of Zobah, as he was going to set up his hand on the river Euphrates.
 
 **2 Samuel 8:4**
 
@@ -33006,7 +33006,7 @@ And David pre-took from his men one thousand chariots and seven thousand horseme
 
 **2 Samuel 8:5**
 
-And Syria of Damascus comes to help Adraazar king of Souba, and David struck among the Syrians twenty-two thousand men.
+And Syria of Damascus comes to help Hadadezer king of Zobah, and David struck among the Syrians twenty-two thousand men.
 
 **2 Samuel 8:6**
 
@@ -33014,19 +33014,19 @@ And David placed a garrison in Syria by Damascus, and Syria became to David as s
 
 **2 Samuel 8:7**
 
-And David took the golden bracelets that were upon the servants of Adraazar king of Souba and brought them to Jerusalem. And Sousakim king of Egypt took them when he came up to Jerusalem in the days of Rehoboam son of Solōmōn.
+And David took the golden bracelets that were upon the servants of Hadadezer king of Zobah and brought them to Jerusalem. And Sousakim king of Egypt took them when he came up to Jerusalem in the days of Rehoboam son of Solōmōn.
 
 **2 Samuel 8:8**
 
-And from Masbak, from the chosen cities of Adraazar, king David took very much bronze. In it Solomon made the bronze sea and the pillars and the basins and all the vessels.
+And from Masbak, from the chosen cities of Hadadezer, king David took very much bronze. In it Solomon made the bronze sea and the pillars and the basins and all the vessels.
 
 **2 Samuel 8:9**
 
-And Thoou king of Emath heard that David struck all the force of Adraazar,
+And Thoou king of Emath heard that David struck all the force of Hadadezer,
 
 **2 Samuel 8:10**
 
-and Thoou sent Ieddouran his son to king David to ask him the things of peace and to bless him, because he had fought Adraazar and struck him, because he was opposing Adraazar. And in his hands were silver vessels and gold vessels and bronze vessels.
+and Thoou sent Ieddouran his son to king David to ask him the things of peace and to bless him, because he had fought Hadadezer and struck him, because he was opposing Hadadezer. And in his hands were silver vessels and gold vessels and bronze vessels.
 
 **2 Samuel 8:11**
 
@@ -33034,7 +33034,7 @@ And king David consecrated these things to the Lord, along with the silver and a
 
 **2 Samuel 8:12**
 
-from Idoumaia and from the land of Moab and from the sons of Ammon and from the foreigners and from Amalek and from the spoils of Adraazar son of Raab king of Souba.
+from Idoumaia and from the land of Moab and from the sons of Ammon and from the foreigners and from Amalek and from the spoils of Hadadezer son of Rehob king of Zobah.
 
 **2 Samuel 8:13**
 
@@ -33146,7 +33146,7 @@ And David heard and sent Joab and all the force, the mighty men.
 
 **2 Samuel 10:8**
 
-And the sons of Ammon went out and arrayed for war by the entrance of the gate, and Syria of Souba and Rōōb and Istōb and Maacha were alone in the field.
+And the sons of Ammon went out and arrayed for war by the entrance of the gate, and Syria of Zobah and Rōōb and Istōb and Maacha were alone in the field.
 
 **2 Samuel 10:9**
 
@@ -33178,7 +33178,7 @@ And Syria saw that it had stumbled before Israel, and they were gathered togethe
 
 **2 Samuel 10:16**
 
-And Adraazar sent and gathered Syria from beyond the river Chalamak, and they came to Ailam, and Sōbak, chief of the force of Adraazar, was before them.
+And Hadarezer sent and gathered Syria from beyond the river Chalamak, and they came to Ailam, and Sōbak, chief of the force of Hadarezer, was before them.
 
 **2 Samuel 10:17**
 
@@ -33190,7 +33190,7 @@ And Syria fled from before Israel, and David killed from Syria seven hundred cha
 
 **2 Samuel 10:19**
 
-And all the kings, servants of Adraazar, saw that they had stumbled before Israel, and they defected with Israel and served them, and Syria feared to save the sons of Ammon still more.
+And all the kings, servants of Hadarezer, saw that they had stumbled before Israel, and they defected with Israel and served them, and Syria feared to save the sons of Ammon still more.
 
 ### Chapter 11
 
@@ -33422,7 +33422,7 @@ And David gathered all the people and went to Rabbath and fought in it and captu
 
 **2 Samuel 12:30**
 
-And he took the crown of Melchol their king from his head, and its weight was a talent of gold and precious stone, and it was on David’s head, and he brought out the spoils of the city very greatly.
+And he took the crown of their king from his head, and its weight was a talent of gold and precious stone, and it was on David’s head, and he brought out the spoils of the city very greatly.
 
 **2 Samuel 12:31**
 
@@ -35452,7 +35452,7 @@ And King Solomon is blessed, and the throne of David will be prepared before the
 
 **1 Kings 2:46**
 
-And King Solomon commanded Banaias son of Iodae, and he went out and struck him and he died. And King Solomon was very understanding and wise, and Judah and Israel were exceedingly many, like the sand on the sea in multitude, eating and drinking and rejoicing. And Solomon was ruler over all the kingdoms, and they were bringing gifts and serving Solomon all the days of his life. And Solomon began opening the domains of Lebanon. And he built Thermai in the wilderness. And this was Solomon's provision: thirty cors of fine flour and sixty cors of beaten flour, ten choice calves and twenty pasture-fed cattle and one hundred sheep, besides deer and gazelles and choice fatted birds. For he was ruler over everything beyond the river, from Raphi to Gaza, over all the kings beyond the river. And he had peace from all his sides all around, and Judah and Israel lived trusting, each under his vine and under his fig tree, eating and drinking, from Dan to Bersabee, all the days of Solomon. And these were the chiefs of Solomon: Azariou son of Sadok the priest, and Orniou son of Nathan, chief of the overseers, and Edram over his house, and Souba secretary, and Basa son of Achithalam recorder, and Abi son of Joab commander in chief, and Achire son of Edrai over the levies, and Banaia son of Iodae over the court guard and over the brickwork, and Zachour son of Nathan the counselor. And Solomon had forty thousand brood mares for chariots and twelve thousand horsemen. And he was ruler in all the kingdoms from the river to the land of the foreigners and to the borders of Egypt. Solomon son of David reigned over Israel and Judah in Jerusalem.
+And King Solomon commanded Banaias son of Iodae, and he went out and struck him and he died. And King Solomon was very understanding and wise, and Judah and Israel were exceedingly many, like the sand on the sea in multitude, eating and drinking and rejoicing. And Solomon was ruler over all the kingdoms, and they were bringing gifts and serving Solomon all the days of his life. And Solomon began opening the domains of Lebanon. And he built Thermai in the wilderness. And this was Solomon's provision: thirty cors of fine flour and sixty cors of beaten flour, ten choice calves and twenty pasture-fed cattle and one hundred sheep, besides deer and gazelles and choice fatted birds. For he was ruler over everything beyond the river, from Raphi to Gaza, over all the kings beyond the river. And he had peace from all his sides all around, and Judah and Israel lived trusting, each under his vine and under his fig tree, eating and drinking, from Dan to Bersabee, all the days of Solomon. And these were the chiefs of Solomon: Azariou son of Sadok the priest, and Orniou son of Nathan, chief of the overseers, and Edram over his house, and Shisha secretary, and Basa son of Achithalam recorder, and Abi son of Joab commander in chief, and Achire son of Edrai over the levies, and Banaia son of Iodae over the court guard and over the brickwork, and Zachour son of Nathan the counselor. And Solomon had forty thousand brood mares for chariots and twelve thousand horsemen. And he was ruler in all the kingdoms from the river to the land of the foreigners and to the borders of Egypt. Solomon son of David reigned over Israel and Judah in Jerusalem.
 
 ### Chapter 3
 
@@ -35576,7 +35576,7 @@ And these were his rulers: Azariou son of Sadok,
 
 **1 Kings 4:3**
 
-and Eliareph and Achia sons of Saba, secretaries, and Iosaphat son of Achilid, recorder,
+and Eliareph and Achia sons of Shisha, secretaries, and Iosaphat son of Achilid, recorder,
 
 **1 Kings 4:4**
 
@@ -36578,7 +36578,7 @@ Yet I will not take the whole kingdom. I will give one scepter to your son for t
 
 **1 Kings 11:14**
 
-And the Lord raised up an adversary against Solomon, Ader the Idumean, and Esrom son of Eliadae, who was in Raemmath, of Adrazar king of Souba his lord. And men were gathered to him, and he was chief of a band, and he took Damascus beforehand, and they were an adversary to Israel all the days of Solomon. And Ader the Idumean was from the seed of the kingdom in Idumea.
+And the Lord raised up an adversary against Solomon, Ader the Idumean, and Esrom son of Eliadae, who was in Raemmath, of Hadadezer king of Zobah his lord. And men were gathered to him, and he was chief of a band, and he took Damascus beforehand, and they were an adversary to Israel all the days of Solomon. And Ader the Idumean was from the seed of the kingdom in Idumea.
 
 **1 Kings 11:15**
 
@@ -36968,7 +36968,7 @@ And it came to be in the fifth year of king Rehoboam, Sousakim king of Egypt cam
 
 **1 Kings 14:26**
 
-And he took all the treasures of the house of the Lord and the treasures of the king's house, and the golden spears that David took from the hand of the sons of Adraazar king of Souba and brought them into Jerusalem. He took everything, the golden arms.
+And he took all the treasures of the house of the Lord and the treasures of the king's house, and the golden spears that David took from the hand of the sons of Hadadezer king of Zobah and brought them into Jerusalem. He took everything, the golden arms.
 
 **1 Kings 14:27**
 
@@ -41836,7 +41836,7 @@ And sons of Ambram: Aaron, Moses, and Mariam. And sons of Aaron: Nadab and Abiou
 
 **1 Chronicles 5:30**
 
-Eleazar begot Phinees, Phinees begot Abisou,
+Eleazar begot Phinehas, Phinehas begot Abisou,
 
 **1 Chronicles 5:31**
 
@@ -42022,7 +42022,7 @@ And Aaron and his sons were burning incense upon the altar of the whole-burnt-of
 
 **1 Chronicles 6:35**
 
-And these are sons of Aaron: Eleazar his son, Phinees his son, Abisou his son,
+And these are sons of Aaron: Eleazar his son, Phinehas his son, Abisou his son,
 
 **1 Chronicles 6:36**
 
@@ -42552,7 +42552,7 @@ And Salom son of Kore son of Abiasaph son of Kore, and his brothers to house of 
 
 **1 Chronicles 9:20**
 
-And Phinees son of Eleazar was ruler over them before, and these were with him.
+And Phinehas son of Eleazar was ruler over them before, and these were with him.
 
 **1 Chronicles 9:21**
 
@@ -43308,7 +43308,7 @@ And all Israel were bringing up ark of covenant of Lord with signal and sound of
 
 **1 Chronicles 15:29**
 
-And it came to pass, ark of covenant of Lord came as far as City of David, and Melchol daughter of Saul looked through window and saw king David dancing and playing, and she despised him in her soul.
+And it came to pass, ark of covenant of Lord came as far as City of David, and Michal daughter of Saul looked through window and saw king David dancing and playing, and she despised him in her soul.
 
 ### Chapter 16
 
@@ -43602,7 +43602,7 @@ And he struck Moab, and Moab became servants to David, bringing gifts.
 
 **1 Chronicles 18:3**
 
-And David struck Adraazar king of Souba Hamath, as he was going to set his hand upon river Euphrates.
+And David struck Hadarezer king of Zobah-Hamath, as he was going to set his hand upon river Euphrates.
 
 **1 Chronicles 18:4**
 
@@ -43610,7 +43610,7 @@ And David captured from them one thousand chariots and seven thousand horsemen a
 
 **1 Chronicles 18:5**
 
-And Syrian from Damascus came to help Adraazar king of Souba, and David struck among Syrians twenty-two thousand men.
+And Syrian from Damascus came to help Hadarezer king of Zobah, and David struck among Syrians twenty-two thousand men.
 
 **1 Chronicles 18:6**
 
@@ -43618,19 +43618,19 @@ And David put garrison in Syria by Damascus, and they became servants to David, 
 
 **1 Chronicles 18:7**
 
-And David took golden armlets which were on servants of Adraazar and brought them to Jerusalem.
+And David took golden armlets which were on servants of Hadarezer and brought them to Jerusalem.
 
 **1 Chronicles 18:8**
 
-And from Metabēchas and from chosen cities of Adraazar, David took very much bronze. From it Solomon made bronze sea and pillars and bronze vessels.
+And from Metabēchas and from chosen cities of Hadarezer, David took very much bronze. From it Solomon made bronze sea and pillars and bronze vessels.
 
 **1 Chronicles 18:9**
 
-And Thōa king of Hamath heard that David struck all force of Adraazar king of Souba.
+And Thōa king of Hamath heard that David struck all force of Hadarezer king of Zobah.
 
 **1 Chronicles 18:10**
 
-And he sent Idouram his son to king David to ask about peace and to bless him because he fought Adraazar and struck him, because Adraazar was man of war against Thōa, with every silver and gold vessel.
+And he sent Idouram his son to king David to ask about peace and to bless him because he fought Hadarezer and struck him, because Hadarezer was man of war against Thōa, with every silver and gold vessel.
 
 **1 Chronicles 18:11**
 
@@ -43684,7 +43684,7 @@ And men came to report to David concerning men, and he sent to meet them, becaus
 
 **1 Chronicles 19:6**
 
-And sons of Ammon saw that people of David had been shamed, and Anan and sons of Ammon sent one thousand talents of silver to hire for themselves chariots and horsemen from Syria of Mesopotamia and from Syria of Moocha and from Souba.
+And sons of Ammon saw that people of David had been shamed, and Anan and sons of Ammon sent one thousand talents of silver to hire for themselves chariots and horsemen from Syria of Mesopotamia and from Syria of Moocha and from Zobah.
 
 **1 Chronicles 19:7**
 
@@ -43724,7 +43724,7 @@ And sons of Ammon saw that Syrians fled, and they too fled from before Joab and 
 
 **1 Chronicles 19:16**
 
-And Syria saw that Israel routed him, and they sent messengers and brought out Syrians from beyond river, with Sophach commander of force of Adraazar before them.
+And Syria saw that Israel routed him, and they sent messengers and brought out Syrians from beyond river, with Sophach commander of force of Hadarezer before them.
 
 **1 Chronicles 19:17**
 
@@ -43736,7 +43736,7 @@ And Syria fled from before David, and David killed from Syria seven thousand cha
 
 **1 Chronicles 19:19**
 
-And servants of Adraazar saw that they had fallen before Israel, and they made covenant with David and served him. And Syria did not want to help sons of Ammon anymore.
+And servants of Hadarezer saw that they had fallen before Israel, and they made covenant with David and served him. And Syria did not want to help sons of Ammon anymore.
 
 ### Chapter 20
 
@@ -45466,7 +45466,7 @@ and cities which Chiram gave to Solomon, Solomon built them and settled sons of 
 
 **2 Chronicles 8:3**
 
-And Solomon came to Aimath Sōba and prevailed over it.
+And Solomon came to Hamath-Zobah and prevailed over it.
 
 **2 Chronicles 8:4**
 
@@ -48850,7 +48850,7 @@ son of Zaria, son of Saouia, son of Bokki,
 
 **Ezra 7:5**
 
-son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
+son of Abisoue, son of Phinehas, son of Eleazar, son of Aaron the first priest.
 
 **Ezra 7:6**
 
@@ -48952,7 +48952,7 @@ And these were chiefs of their father-houses, leaders going up with me in reign 
 
 **Ezra 8:2**
 
-from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
+from sons of Phinehas, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
 
 **Ezra 8:3**
 
@@ -49076,7 +49076,7 @@ And we came to Jerusalem and sat there three days.
 
 **Ezra 8:33**
 
-And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
+And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinehas, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
 
 **Ezra 8:34**
 
@@ -59724,7 +59724,7 @@ For end, concerning those to be changed, yet for inscription, of David, for teac
 
 **Psalms 59:2**
 
-When he burned Mesopotamia of Syria and Syria Soba, and Joab returned and struck valley of salt, twelve thousand.
+When he burned Mesopotamia of Syria and Syria of Zobah, and Joab returned and struck valley of salt, twelve thousand.
 
 **Psalms 59:3**
 

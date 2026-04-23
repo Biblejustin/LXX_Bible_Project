@@ -400,6 +400,7 @@ MANUAL_TRANSLITERATED_FORMS = {
     "Sisara",
     "Manasse",
     "Adraazar",
+    "Adrazar",
     "Anchous",
     "Achitophel",
     "Adonias",
@@ -483,6 +484,242 @@ MANUAL_PLACE_FORMS = {
     "Ephratah",
 }
 
+MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_ROWS = [
+    {
+        "name": "Adraazar",
+        "kind": "transliterated_form",
+        "first_reference": "2 Samuel 8:3",
+        "source": "ot",
+        "english_equivalent": "Hadadezer",
+        "source_form": "Adraazar",
+        "greek_form": "αδρααζαρ",
+        "name_meaning": "beauty of assistance",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Hadadezer. Source form: Adraazar. Greek form: αδρααζαρ. Name meaning: beauty of assistance. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Adraazar",
+        "kind": "transliterated_form",
+        "first_reference": "2 Samuel 10:16",
+        "source": "ot",
+        "english_equivalent": "Hadarezer",
+        "source_form": "Adraazar",
+        "greek_form": "αδρααζαρ",
+        "name_meaning": "beauty of assistance",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Hadarezer. Source form: Adraazar. Greek form: αδρααζαρ. Name meaning: beauty of assistance. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Adrazar",
+        "kind": "transliterated_form",
+        "first_reference": "1 Kings 11:14",
+        "source": "ot",
+        "english_equivalent": "Hadadezer",
+        "source_form": "Adrazar",
+        "greek_form": "αδραζαρ",
+        "name_meaning": "beauty of assistance",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Hadadezer. Source form: Adrazar. Greek form: αδραζαρ. Name meaning: beauty of assistance. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Raab",
+        "kind": "transliterated_form",
+        "first_reference": "Joshua 19:28",
+        "source": "ot",
+        "english_equivalent": "Rehob",
+        "source_form": "Raab",
+        "greek_form": "ρααβ",
+        "name_meaning": "breadth; space; extent",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Rehob. Source form: Raab. Greek form: ρααβ. Name meaning: breadth; space; extent. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Raab",
+        "kind": "transliterated_form",
+        "first_reference": "Joshua 21:31",
+        "source": "ot",
+        "english_equivalent": "Rehob",
+        "source_form": "Raab",
+        "greek_form": "ρααβ",
+        "name_meaning": "breadth; space; extent",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Rehob. Source form: Raab. Greek form: ρααβ. Name meaning: breadth; space; extent. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Raab",
+        "kind": "transliterated_form",
+        "first_reference": "2 Samuel 8:3",
+        "source": "ot",
+        "english_equivalent": "Rehob",
+        "source_form": "Raab",
+        "greek_form": "ρααβ",
+        "name_meaning": "breadth; space; extent",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Standard English equivalent: Rehob. Source form: Raab. Greek form: ρααβ. Name meaning: breadth; space; extent. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "2 Samuel 8:3",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "2 Samuel 10:8",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "1 Kings 11:14",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "1 Kings 14:26",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "1 Chronicles 18:3",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Souba",
+        "kind": "place",
+        "first_reference": "1 Chronicles 19:6",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Souba",
+        "greek_form": "σουβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Souba. Greek form: σουβα. Equivalent source: manual/standard English equivalent.",
+    },
+    {
+        "name": "Soba",
+        "kind": "place",
+        "first_reference": "Psalms 59:2",
+        "source": "ot",
+        "english_equivalent": "Zobah",
+        "source_form": "Soba",
+        "greek_form": "σωβα",
+        "name_meaning": "an army; warring",
+        "equivalent_source": "manual/standard English equivalent",
+        "equivalent_confidence": "manual",
+        "footnote": "Place-name meaning: Zobah — an army; warring. Standard English equivalent: Zobah. Source form: Soba. Greek form: σωβα. Equivalent source: manual/standard English equivalent.",
+    },
+]
+
+MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_SPECS = [
+    ("Souba", "1 Kings 2:46", "ot", "Shisha"),
+    ("Saba", "1 Kings 4:3", "ot", "Shisha"),
+    ("Judas", "Matthew 1:2", "nt", "Judah"),
+    ("Phares", "Matthew 1:3", "nt", "Perez"),
+    ("Zara", "Matthew 1:3", "nt", "Zerah"),
+    ("Thamar", "Matthew 1:3", "nt", "Tamar"),
+    ("Esrom", "Matthew 1:3", "nt", "Hezron"),
+    ("Aminadab", "Matthew 1:4", "nt", "Amminadab"),
+    ("Naasson", "Matthew 1:4", "nt", "Nahshon"),
+    ("Booz", "Matthew 1:5", "nt", "Boaz"),
+    ("Rachab", "Matthew 1:5", "nt", "Rahab"),
+    ("Urias", "Matthew 1:6", "nt", "Uriah"),
+    ("Roboam", "Matthew 1:7", "nt", "Rehoboam"),
+    ("Abia", "Matthew 1:7", "nt", "Abijah"),
+    ("Josaphat", "Matthew 1:8", "nt", "Jehoshaphat"),
+    ("Ozias", "Matthew 1:8", "nt", "Uzziah"),
+    ("Joatham", "Matthew 1:9", "nt", "Jotham"),
+    ("Achaz", "Matthew 1:9", "nt", "Ahaz"),
+    ("Ezekias", "Matthew 1:9", "nt", "Hezekiah"),
+    ("Manasses", "Matthew 1:10", "nt", "Manasseh"),
+    ("Josias", "Matthew 1:10", "nt", "Josiah"),
+    ("Jechonias", "Matthew 1:11", "nt", "Jeconiah"),
+    ("Salathiel", "Matthew 1:12", "nt", "Shealtiel"),
+    ("Zorobabel", "Matthew 1:12", "nt", "Zerubbabel"),
+    ("Juda", "Matthew 2:6", "nt", "Judah"),
+    ("Zabulon", "Matthew 4:13", "nt", "Zebulun"),
+    ("Nephthalim", "Matthew 4:13", "nt", "Naphtali"),
+    ("Jonas", "Matthew 12:39", "nt", "Jonah"),
+    ("Zacharias", "Matthew 23:35", "nt", "Zechariah"),
+    ("Barachias", "Matthew 23:35", "nt", "Berechiah"),
+    ("Noe", "Matthew 24:37", "nt", "Noah"),
+    ("Juda", "Mark 6:3", "nt", "Judas"),
+    ("Elisabeth", "Luke 1:5", "nt", "Elizabeth"),
+    ("Thara", "Luke 3:34", "nt", "Terah"),
+    ("Nachor", "Luke 3:34", "nt", "Nahor"),
+    ("Saruch", "Luke 3:35", "nt", "Serug"),
+    ("Ragau", "Luke 3:35", "nt", "Reu"),
+    ("Phalec", "Luke 3:35", "nt", "Peleg"),
+    ("Sala", "Luke 3:35", "nt", "Shelah"),
+    ("Sem", "Luke 3:36", "nt", "Shem"),
+    ("Mathusala", "Luke 3:37", "nt", "Methuselah"),
+    ("Maleleel", "Luke 3:37", "nt", "Mahalaleel"),
+    ("Sychem", "Acts 7:16", "nt", "Shechem"),
+    ("Charran", "Acts 7:2", "nt", "Haran"),
+    ("Madian", "Acts 7:29", "nt", "Midian"),
+    ("Cis", "Acts 13:21", "nt", "Kish"),
+    ("Timotheus", "Acts 16:1", "nt", "Timothy"),
+    ("Rebecca", "Romans 9:10", "nt", "Rebekah"),
+    ("Sabaoth", "Romans 9:29", "nt", "Lord of hosts"),
+    ("Sodoma", "Romans 9:29", "nt", "Sodom"),
+    ("Gomorrha", "Romans 9:29", "nt", "Gomorrah"),
+    ("Sion", "Romans 9:33", "nt", "Zion"),
+    ("Osee", "Romans 9:25", "nt", "Hosea"),
+    ("Phebe", "Romans 16:1", "nt", "Phoebe"),
+    ("Agar", "Galatians 4:24", "nt", "Hagar"),
+    ("Marcus", "Colossians 4:10", "nt", "Mark"),
+    ("Lucas", "Philemon 1:24", "nt", "Luke"),
+    ("Sara", "Hebrews 11:11", "nt", "Sarah"),
+    ("Gedeon", "Hebrews 11:32", "nt", "Gideon"),
+    ("Jephthae", "Hebrews 11:32", "nt", "Jephthah"),
+    ("Sabaoth", "James 5:4", "nt", "Lord of hosts"),
+]
+
 EQUIVALENT_OVERRIDES = {
     "Abessa": "Abishai",
     "Abia": "Abijah",
@@ -492,6 +729,7 @@ EQUIVALENT_OVERRIDES = {
     "Achitophel": "Ahithophel",
     "Adonias": "Adonijah",
     "Adraazar": "Hadadezer",
+    "Adrazar": "Hadadezer",
     "Ader": "Hadad",
     "Akchō": "Acco",
     "Ambri": "Omri",
@@ -554,8 +792,8 @@ EQUIVALENT_OVERRIDES = {
     "Phaltiēl": "Paltiel",
     "Phinees": "Phinehas",
     "Rama": "Ramah",
-    "Sabaoth": "LORD of hosts",
-    "Sabaōth": "LORD of hosts",
+    "Sabaoth": "Lord of hosts",
+    "Sabaōth": "Lord of hosts",
     "Salamiēl": "Shammua",
     "Samaias": "Shemaiah",
     "Sarouia": "Zeruiah",
@@ -567,13 +805,20 @@ EQUIVALENT_OVERRIDES = {
     "Achaz": "Ahaz",
     "Abiud": "Abiud",
     "Aminadab": "Amminadab",
+    "Agar": "Hagar",
+    "Aser": "Asher",
+    "Barachias": "Berechiah",
     "Booz": "Boaz",
+    "Charran": "Haran",
+    "Cis": "Kish",
     "Elisabeth": "Elizabeth",
     "Eliud": "Eliud",
     "Esrom": "Hezron",
     "Ezekias": "Hezekiah",
+    "Gedeon": "Gideon",
     "Gomorrha": "Gomorrah",
     "Jechonias": "Jeconiah",
+    "Jephthae": "Jephthah",
     "Jeremy": "Jeremiah",
     "Josedek": "Josedech",
     "Joatham": "Jotham",
@@ -582,17 +827,37 @@ EQUIVALENT_OVERRIDES = {
     "Juda": "Judah",
     "Judaea": "Judea",
     "Judas": "Judas",
+    "Lucas": "Luke",
+    "Madian": "Midian",
     "Manasses": "Manasseh",
+    "Marcus": "Mark",
+    "Mathusala": "Methuselah",
+    "Maleleel": "Mahalaleel",
     "Naasson": "Nahshon",
+    "Nachor": "Nahor",
+    "Nephthalim": "Naphtali",
     "Noe": "Noah",
+    "Osee": "Hosea",
     "Ozias": "Uzziah",
     "Phares": "Perez",
+    "Phalec": "Peleg",
+    "Phebe": "Phoebe",
+    "Rachab": "Rahab",
+    "Ragau": "Reu",
+    "Rebecca": "Rebekah",
+    "Roboam": "Rehoboam",
     "Salathiel": "Shealtiel",
+    "Sara": "Sarah",
+    "Saruch": "Serug",
     "Sion": "Zion",
     "Sodoma": "Sodom",
     "Thamar": "Tamar",
+    "Thara": "Terah",
     "Timotheus": "Timothy",
+    "Urias": "Uriah",
     "Zara": "Zerah",
+    "Zabulon": "Zebulun",
+    "Zacharias": "Zechariah",
     "Zorobabel": "Zerubbabel",
 }
 
@@ -602,7 +867,9 @@ EQUIVALENT_MEANING_OVERRIDES = {
     "Damascus": "silent is the sackcloth weaver; traditional city-name meaning",
     "Iron": "watchful; alert",
     "Jezreel": "God sows",
+    "Hophni": "he that covers; my fist",
     "LORD of hosts": "Yahweh of armies; Lord of heavenly hosts",
+    "Lord of hosts": "Yahweh of armies; Lord of heavenly hosts",
     "Pedahel": "God has redeemed",
     "Jews": "People of Judah; Judeans",
     "Judea": "land of Judah",
@@ -1801,6 +2068,55 @@ def should_include_unclassified(equivalent: EquivalentInfo) -> bool:
         return False
 
 
+def build_manual_contextual_note_row(
+    spec: tuple[str, str, str, str],
+    *,
+    source_rows_by_ref: dict[str, dict[str, str]],
+    curated_meanings: dict[str, str],
+    hitchcock_meanings: dict[str, str],
+) -> dict[str, str]:
+    name, first_reference, source, english_equivalent = spec
+    greek_form = find_greek_form(name, source_rows_by_ref.get(first_reference))
+    equivalent = EquivalentInfo(
+        equivalent=english_equivalent,
+        meaning=best_meaning_for_name(english_equivalent, name, curated_meanings, hitchcock_meanings),
+        greek_form=greek_form,
+        source_form=name,
+        witness="manual/standard English equivalent",
+        confidence="manual",
+    )
+    footnote = footnote_for("transliterated_form", "manual contextual standard-equivalent note", equivalent)
+    if name == "Judas" and english_equivalent == "Judah":
+        greek_piece = f" Greek form: {greek_form}." if greek_form else ""
+        footnote = (
+            "Standard English equivalent in this genealogy context: Judah. "
+            f"Source form: Judas.{greek_piece} "
+            f"Name meaning: {equivalent.meaning}. "
+            "Equivalent source: manual context review."
+        )
+    elif name == "Juda" and english_equivalent == "Judas":
+        greek_piece = f" Greek form: {greek_form}." if greek_form else ""
+        footnote = (
+            "Standard English equivalent in this brother-of-Jesus context: Judas. "
+            f"Source form: Juda.{greek_piece} "
+            f"Name meaning: {equivalent.meaning}. "
+            "Equivalent source: manual context review."
+        )
+    return {
+        "name": name,
+        "kind": "transliterated_form",
+        "first_reference": first_reference,
+        "source": source,
+        "english_equivalent": english_equivalent,
+        "source_form": name,
+        "greek_form": greek_form,
+        "name_meaning": equivalent.meaning,
+        "equivalent_source": equivalent.witness,
+        "equivalent_confidence": equivalent.confidence,
+        "footnote": footnote,
+    }
+
+
 def main() -> None:
     existing_label_sources = existing_note_label_sources()
     primary_kinds, any_kinds, logos_db = load_logos_entity_kinds()
@@ -1916,6 +2232,56 @@ def main() -> None:
             }
         )
         counts[f"included_{kind}"] += 1
+
+    seen_note_keys = {
+        (row["name"], row["first_reference"], row["english_equivalent"])
+        for row in note_rows
+    }
+    for manual_row in MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_ROWS:
+        note_key = (
+            manual_row["name"],
+            manual_row["first_reference"],
+            manual_row["english_equivalent"],
+        )
+        if note_key in seen_note_keys:
+            continue
+        note_rows.append(dict(manual_row))
+        coverage_rows.append(
+            {
+                **manual_row,
+                "occurrences": "1",
+                "sample_refs": manual_row["first_reference"],
+                "reason": "manual contextual standard-equivalent note",
+            }
+        )
+        seen_note_keys.add(note_key)
+        counts["included_manual_contextual_transliterated_note"] += 1
+
+    for spec in MANUAL_CONTEXTUAL_TRANSLITERATED_NOTE_SPECS:
+        manual_row = build_manual_contextual_note_row(
+            spec,
+            source_rows_by_ref=source_rows_by_ref,
+            curated_meanings=curated_meanings,
+            hitchcock_meanings=hitchcock_meanings,
+        )
+        note_key = (
+            manual_row["name"],
+            manual_row["first_reference"],
+            manual_row["english_equivalent"],
+        )
+        if note_key in seen_note_keys:
+            continue
+        note_rows.append(manual_row)
+        coverage_rows.append(
+            {
+                **manual_row,
+                "occurrences": "1",
+                "sample_refs": manual_row["first_reference"],
+                "reason": "manual contextual standard-equivalent note",
+            }
+        )
+        seen_note_keys.add(note_key)
+        counts["included_manual_contextual_transliterated_note"] += 1
 
     fieldnames = ["name", "kind", "first_reference", "source", "footnote"]
     fieldnames = [

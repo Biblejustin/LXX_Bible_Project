@@ -15132,7 +15132,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the fathers of the Levites according to their generations.
+- fresh: And Eleazar son of Aaron took for himself as wife one of the daughters of Phutiel, and she bore to him Phinehas. These are the heads of the fathers of the Levites according to their generations.
 - brenton: And Eleazar the son of Aaron took to himself for a wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the family of the Levites, according to their generations.
 
 ### Exodus 6:26
@@ -53246,7 +53246,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the city shall be a devoted thing, it and everything in it, to the Lord Sabaoth. Only Rahab the prostitute you shall preserve, her and whatever is in her house.
+- fresh: And the city shall be a devoted thing, it and everything in it, to the Lord of hosts. Only Rahab the prostitute you shall preserve, her and whatever is in her house.
 - brenton: And the city shall be devoted, it and all things that are in it, to the Lord of Hosts: only do ye save Raab the harlot, and all things in her house.
 
 ### Joshua 6:18
@@ -56576,7 +56576,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Elimelech and Amiiel and Maasa, and it shall join to Carmel by the sea and to Sion and Labanath.
+- fresh: and Alammelech and Amiiel and Maasa, and it shall join to Carmel by the sea and to Sion and Labanath.
 - brenton: and Elimelech, and Amiel, and Maasa, and the lot will border on Carmel westward, and on Sion, and Labanath.
 
 ### Joshua 19:27
@@ -56594,7 +56594,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Elbon and Raab and Ememaon and Kanthan, as far as great Sidon.
+- fresh: and Elbon and Rehob and Ememaon and Kanthan, as far as great Sidon.
 - brenton: and Elbon, and Raab, and Ememaon, and Canthan to great Sidon.
 
 ### Joshua 19:29
@@ -57134,7 +57134,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Chelkath and its set-apart lands, and Raab and its set-apart lands, four cities.
+- fresh: and Chelkath and its set-apart lands, and Rehob and its set-apart lands, four cities.
 - brenton: and Chelcat and its suburbs; and Raab and its suburbs; four cities.
 
 ### Joshua 21:32
@@ -63582,16 +63582,16 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethleem of Judah went to reside in the field of Moab, he and his wife and his sons.
+- fresh: And it came to be in the judging of the judges, and there was famine in the land, and a man from Bethlehem of Judah went to reside in the field of Moab, he and his wife and his sons.
 - brenton: And it came to pass when the judges ruled, that there was a famine in the land: and a man went from Bethleem Juda to sojourn in the land of Moab, he, and his wife, and his two sons.
 
 ### Ruth 1:2
 
 - importance: high
 - decisions: 1
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the name of the man was Abimelech, and the name of his wife Noemin, and the names of his two sons Maalōn and Chelaiōn, Ephrathites from Bethleem of Judah, and they came into the field of Moab and were there.
+- fresh: And the name of the man was Elimelech, and the name of his wife Naomi, and the names of his two sons Mahlon and Chilion, Ephrathites from Bethlehem of Judah, and they came into the field of Moab and were there.
 - brenton: And the man's name was Elimelech, and his wife's name Noemin, and the names of his two sons Maalon and Chelaion, Ephrathites of Bethleem of Juda: and they came to the land of Moab, and remained there.
 
 ### Ruth 1:3
@@ -63600,16 +63600,16 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Abimelech, husband of Noemin, died, and she was left, she and her two sons.
+- fresh: And Elimelech, husband of Naomi, died, and she was left, she and her two sons.
 - brenton: And Elimelech the husband of Noemin died; and she was left, and her two sons.
 
 ### Ruth 1:4
 
 - importance: high
 - decisions: 1
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they took for themselves Moabite women; the name of the one was Orpha and the name of the second Ruth, and they dwelt there about ten years.
+- fresh: And they took for themselves Moabite women; the name of the one was Orpah and the name of the second Ruth, and they dwelt there about ten years.
 - brenton: And they took to themselves wives, women of Moab; the name of the one was Orpha, and the name of the second Ruth; and they dwelt there about ten years.
 
 ### Ruth 1:5
@@ -63618,7 +63618,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And both Maalōn and Chelaiōn also died, and the woman was left without her husband and without her two sons.
+- fresh: And both Mahlon and Chilion also died, and the woman was left without her husband and without her two sons.
 - brenton: And both Maalon and Chelaion died also; and the woman was left of her husband and her two sons.
 
 ### Ruth 1:6
@@ -63645,7 +63645,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
+- fresh: And Naomi said to her daughters-in-law, Go now, return each to her mother's house. May the Lord deal with you in mercy, as you dealt with the dead and with me.
 - brenton: And Noemin said to her daughters-in-law, Go now, return each to the house of her mother: the Lord deal mercifully with you, as ye have dealt with the dead, and with me.
 
 ### Ruth 1:9
@@ -63672,7 +63672,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin said, Return now, my daughters. Why are you going with me? Are there yet sons in my womb, and will they be husbands for you?
+- fresh: And Naomi said, Return now, my daughters. Why are you going with me? Are there yet sons in my womb, and will they be husbands for you?
 - brenton: And Noemin said, Return now, my daughters; and why do ye go with me? have I yet sons in my womb to be your husbands?
 
 ### Ruth 1:12
@@ -63698,8 +63698,8 @@ Note:
 - importance: high
 - decisions: 1
 - footnotes: 1
-- same_normalized: yes
-- fresh: And they lifted up their voice and wept again, and Orpha kissed her mother-in-law and returned to her people, but Ruth followed her.
+- same_normalized: no
+- fresh: And they lifted up their voice and wept again, and Orpah kissed her mother-in-law and returned to her people, but Ruth followed her.
 - brenton: And they lifted up their voice, and wept again; and Orpha kissed her mother-in-law and returned to her people; but Ruth followed her.
 
 ### Ruth 1:15
@@ -63708,7 +63708,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law.
+- fresh: And Naomi said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law.
 - brenton: And Noemin said to Ruth, Behold, thy sister-in-law has returned to her people and to her gods; turn now thou also after thy sister-in-law.
 
 ### Ruth 1:16
@@ -63735,7 +63735,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin saw that she was strong in going with her, and she ceased speaking to her any more.
+- fresh: And Naomi saw that she was strong in going with her, and she ceased speaking to her any more.
 - brenton: And Noemin seeing that she was determined to go with her, ceased to speak to her any more.
 
 ### Ruth 1:19
@@ -63744,7 +63744,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And both of them went until they came to Bethleem, and all the city sounded over them, and they said, Is this Noemin?
+- fresh: And both of them went until they came to Bethlehem, and all the city sounded over them, and they said, Is this Naomi?
 - brenton: And they went both of them until they came to Bethleem: and it came to pass, when they arrived at Bethleem, that all the city rang with them, and they said, Is this Noemin?
 
 ### Ruth 1:20
@@ -63753,7 +63753,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she said to them, Do not call me Noemin; call me Bitter, because the Mighty One has made things very bitter in me.
+- fresh: And she said to them, Do not call me Naomi; call me Bitter, because the Mighty One has made things very bitter in me.
 - brenton: And she said to them, Nay, do not call me Noemin; call me ‘Bitter,’ for the Mighty One has dealt very bitterly with me.
 
 ### Ruth 1:21
@@ -63762,7 +63762,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I went away full, and the Lord brought me back empty. And why do you call me Noemin, when the Lord humbled me and the Mighty One afflicted me?
+- fresh: I went away full, and the Lord brought me back empty. And why do you call me Naomi, when the Lord humbled me and the Mighty One afflicted me?
 - brenton: I went out full, and the Lord has brought me back empty: and why call ye me Noemin, whereas the Lord has humbled me, and the Mighty One has afflicted me?
 
 ### Ruth 1:22
@@ -63771,16 +63771,16 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin returned, and Ruth the Moabitess her daughter-in-law with her, returning from the field of Moab. And they came to Bethleem at the beginning of barley harvest.
+- fresh: And Naomi returned, and Ruth the Moabitess her daughter-in-law with her, returning from the field of Moab. And they came to Bethlehem at the beginning of barley harvest.
 - brenton: So Noemin and Ruth the Moabitess, her daughter-in-law, returned from the country of Moab; and they came to Bethleem in the beginning of barley harvest.
 
 ### Ruth 2:1
 
 - importance: high
 - decisions: 1
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And for Noemin there was a known man to her husband, and the man was mighty in strength from the kindred of Abimelech, and his name was Boos.
+- fresh: And for Naomi there was a known man to her husband, and the man was mighty in strength from the kindred of Elimelech, and his name was Boaz.
 - brenton: And Noemin had a friend an acquaintance of her husband, and the man was a mighty man of the kindred of Elimelech, and his name was Booz.
 
 ### Ruth 2:2
@@ -63789,7 +63789,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ruth the Moabitess said to Noemin, Let me now go to the field and glean among the ears behind whoever I find favor in his eyes. And she said to her, Go, daughter.
+- fresh: And Ruth the Moabitess said to Naomi, Let me now go to the field and glean among the ears behind whoever I find favor in his eyes. And she said to her, Go, daughter.
 - brenton: And Ruth the Moabitess said to Noemin, Let me go now to the field, and I will glean among the ears behind the man with whomsoever I shall find favour: and she said to her, Go, daughter.
 
 ### Ruth 2:3
@@ -63798,7 +63798,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she went and gleaned in the field behind the reapers, and it happened by chance upon the portion of the field of Boos, who was from the kindred of Abimelech.
+- fresh: And she went and gleaned in the field behind the reapers, and it happened by chance upon the portion of the field of Boaz, who was from the kindred of Elimelech.
 - brenton: And she went; and came and gleaned in the field behind the reapers; and she happened by chance to come on a portion of the land of Booz, of the kindred of Elimelech.
 
 ### Ruth 2:4
@@ -63807,7 +63807,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, Boos came from Bethleem and said to the reapers, The Lord be with you. And they said to him, May the Lord bless you.
+- fresh: And behold, Boaz came from Bethlehem and said to the reapers, The Lord be with you. And they said to him, May the Lord bless you.
 - brenton: And, behold, Booz came from Bethleem, and said to the reapers, The Lord be with you: and they said to him, The Lord bless thee.
 
 ### Ruth 2:5
@@ -63816,7 +63816,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said to his young servant set over the reapers, Whose young woman is this?
+- fresh: And Boaz said to his young servant set over the reapers, Whose young woman is this?
 - brenton: And Booz said to his servant who was set over the reapers, Whose is this damsel?
 
 ### Ruth 2:6
@@ -63825,7 +63825,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the young servant set over the reapers answered and said, She is the Moabite girl who returned with Noemin from the field of Moab.
+- fresh: And the young servant set over the reapers answered and said, She is the Moabite girl who returned with Naomi from the field of Moab.
 - brenton: And his servant who was set over the reapers answered and said, It is the Moabitish damsel who returned with Noemin out of the land of Moab.
 
 ### Ruth 2:7
@@ -63843,7 +63843,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said to Ruth, Have you not heard, daughter? Do not go to another field to glean, and do not go from here. Here stay close with my girls.
+- fresh: And Boaz said to Ruth, Have you not heard, daughter? Do not go to another field to glean, and do not go from here. Here stay close with my girls.
 - brenton: And Booz said to Ruth, Hast thou not heard, my daughter? go not to glean in another field; and depart not thou hence, join thyself here with my damsels.
 
 ### Ruth 2:9
@@ -63870,7 +63870,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos answered and said to her, It was fully reported to me all that you have done with your mother-in-law after the death of your husband, and how you left your father and your mother and the land of your birth and went to a people you did not know yesterday or the day before.
+- fresh: And Boaz answered and said to her, It was fully reported to me all that you have done with your mother-in-law after the death of your husband, and how you left your father and your mother and the land of your birth and went to a people you did not know yesterday or the day before.
 - brenton: And Booz answered and said to her, It has fully been told me how thou hast dealt with thy mother-in-law after the death of thy husband; and how thou didst leave thy father and thy mother, and the land of thy birth, and camest to a people whom thou knewest not before.
 
 ### Ruth 2:12
@@ -63897,7 +63897,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said to her, Already it is time to eat; come here and eat of the bread and dip your morsel in the vinegar. And Ruth sat beside the reapers, and Boos heaped parched grain for her, and she ate and was filled and left some.
+- fresh: And Boaz said to her, Already it is time to eat; come here and eat of the bread and dip your morsel in the vinegar. And Ruth sat beside the reapers, and Boaz heaped parched grain for her, and she ate and was filled and left some.
 - brenton: And Booz said to her, Now it is time to eat; come hither, and thou shalt eat of the bread, and thou shalt dip thy morsel in the vinegar: and Ruth sat by the side of the reapers, and Booz handed her meal, and she ate, and was satisfied, and left.
 
 ### Ruth 2:15
@@ -63906,7 +63906,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she rose to glean, and Boos commanded his young men, saying, Indeed let her glean even among the sheaves, and do not shame her.
+- fresh: And she rose to glean, and Boaz commanded his young men, saying, Indeed let her glean even among the sheaves, and do not shame her.
 - brenton: And she rose up to glean; and Booz charged his young men, saying, Let her even glean among the sheaves, and reproach her not.
 
 ### Ruth 2:16
@@ -63942,7 +63942,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her mother-in-law said to her, Where did you glean today, and where did you work? Blessed be the one noticing you. And Ruth reported to her mother-in-law where she worked and said, The name of the man with whom I worked today is Boos.
+- fresh: And her mother-in-law said to her, Where did you glean today, and where did you work? Blessed be the one noticing you. And Ruth reported to her mother-in-law where she worked and said, The name of the man with whom I worked today is Boaz.
 - brenton: And her mother-in-law said to her, Where hast thou gleaned to-day, and where hast thou wrought? blessed be he that took notice of thee. And Ruth told her mother-in-law where she had wrought, and said, The name of the man with whom I wrought to-day is Booz.
 
 ### Ruth 2:20
@@ -63951,7 +63951,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Noemin said to her, The man is near to us; he is from those redeeming us.
+- fresh: And Naomi said to her daughter-in-law, Blessed is he by the Lord, because he did not forsake his mercy with the living and with the dead. And Naomi said to her, The man is near to us; he is from those redeeming us.
 - brenton: And Noemin said to her daughter-in-law, Blessed is he of the Lord, because he has not failed in his mercy with the living and with the dead: and Noemin said to her, The man is near akin to us, he is one of our relations.
 
 ### Ruth 2:21
@@ -63969,7 +63969,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin said to Ruth her daughter-in-law, It is good, daughter, that you went with his girls, and they will not meet you in another field.
+- fresh: And Naomi said to Ruth her daughter-in-law, It is good, daughter, that you went with his girls, and they will not meet you in another field.
 - brenton: And Noemin said to Ruth her daughter-in-law, It is well, daughter, that thou wentest out with his damsels; thus they shall not meet thee in another field.
 
 ### Ruth 2:23
@@ -63978,7 +63978,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ruth stayed close to the girls of Boos, gleaning until the barley harvest and the wheat harvest were finished, and she lived with her mother-in-law.
+- fresh: And Ruth stayed close to the girls of Boaz, gleaning until the barley harvest and the wheat harvest were finished, and she lived with her mother-in-law.
 - brenton: And Ruth joined herself to the damsels of Booz to glean until they had finished the barley-harvest and the wheat-harvest.
 
 ### Ruth 3:1
@@ -63987,7 +63987,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin her mother-in-law said to her, Daughter, shall I not seek rest for you, so that it may be well with you?
+- fresh: And Naomi her mother-in-law said to her, Daughter, shall I not seek rest for you, so that it may be well with you?
 - brenton: And she lodged with her mother-in-law: and Noemin her mother-in-law said to her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 
 ### Ruth 3:2
@@ -63996,7 +63996,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, is not Boos our kinsman, with whose girls you were? Behold, he winnows the threshing floor of barley tonight.
+- fresh: And now, is not Boaz our kinsman, with whose girls you were? Behold, he winnows the threshing floor of barley tonight.
 - brenton: And now is not Booz our kinsman, with whose damsels thou wast? behold, he winnows barley this night in the floor.
 
 ### Ruth 3:3
@@ -64041,7 +64041,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos ate and his heart was made glad, and he came to lie down at the edge of the heap, and she came secretly and uncovered the things at his feet.
+- fresh: And Boaz ate and his heart was made glad, and he came to lie down at the edge of the heap, and she came secretly and uncovered the things at his feet.
 - brenton: And Booz ate and drank, and his heart was glad, and he came to lie down by the side of the heap of corn; and she came secretly, and lifted up the covering of his feet.
 
 ### Ruth 3:8
@@ -64104,7 +64104,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she slept at his feet until morning, and she rose before one man could recognize his neighbor. And Boos said, Let it not be known that a woman came to the threshing floor.
+- fresh: And she slept at his feet until morning, and she rose before one man could recognize his neighbor. And Boaz said, Let it not be known that a woman came to the threshing floor.
 - brenton: And she lay at his feet until the morning; and she rose up before a man could know his neighbour; and Booz said, Let it not be known that a woman came into the floor.
 
 ### Ruth 3:15
@@ -64149,7 +64149,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos went up to the gate and sat there, and behold, the redeemer was passing by whom Boos had spoken of, and Boos said to him, Turn aside, sit here, hidden one. And he turned aside and sat.
+- fresh: And Boaz went up to the gate and sat there, and behold, the redeemer was passing by whom Boaz had spoken of, and Boaz said to him, Turn aside, sit here, hidden one. And he turned aside and sat.
 - brenton: And Booz went up to the gate, and sat there; and behold, the relative passed by, of whom Booz spoke: and Booz said to him, Turn aside, sit down here, such a one: and he turned aside and sat down.
 
 ### Ruth 4:2
@@ -64158,7 +64158,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos took ten men from the elders of the city and said, Sit here. And they sat.
+- fresh: And Boaz took ten men from the elders of the city and said, Sit here. And they sat.
 - brenton: And Booz took ten men of the elders of the city, and said, Sit ye here; and they sat down.
 
 ### Ruth 4:3
@@ -64167,7 +64167,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said to the redeemer, The portion of the field that belongs to our brother Abimelech is being given to Noemin who returned from the field of Moab.
+- fresh: And Boaz said to the redeemer, The portion of the field that belongs to our brother Elimelech is being given to Naomi who returned from the field of Moab.
 - brenton: And Booz said to the relative, The matter regards the portion of the field which was our brother Elimelech's which was given to Noemin, now returning out of the land of Moab;
 
 ### Ruth 4:4
@@ -64185,7 +64185,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said, On the day of your acquiring the field from the hand of Noemin, and from Ruth the Moabitess, wife of the dead man, it is necessary for you also to acquire her for yourself, so as to raise up the name of the dead over his inheritance.
+- fresh: And Boaz said, On the day of your acquiring the field from the hand of Naomi, and from Ruth the Moabitess, wife of the dead man, it is necessary for you also to acquire her for yourself, so as to raise up the name of the dead over his inheritance.
 - brenton: And Booz said, In the day of thy buying the field of the hand of Noemin and of Ruth the Moabitess the wife of the deceased, thou must also buy her, so as to raise up the name of the dead upon his inheritance.
 
 ### Ruth 4:6
@@ -64212,7 +64212,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the redeemer said to Boos, Acquire my redemption-right for yourself, and he loosened his sandal and gave it to him.
+- fresh: And the redeemer said to Boaz, Acquire my redemption-right for yourself, and he loosened his sandal and gave it to him.
 - brenton: And the kinsman said to Booz, Buy my right for thyself: and he took off his shoe and gave it to him.
 
 ### Ruth 4:9
@@ -64221,7 +64221,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos said to the elders and to all the people, You are witnesses today that I acquired everything of Abimelech and everything belonging to Chelaiōn and to Maalōn from the hand of Noemin.
+- fresh: And Boaz said to the elders and to all the people, You are witnesses today that I acquired everything of Elimelech and everything belonging to Chilion and to Mahlon from the hand of Naomi.
 - brenton: And Booz said to the elders and to all the people, Ye are this day witnesses, that I have bought all that was Elimelech's, and all that belonged to Chelaion and Maalon, of the hand of Noemin.
 
 ### Ruth 4:10
@@ -64230,7 +64230,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed Ruth the Moabitess, wife of Maalōn, I acquired for myself as wife, to raise up the name of the dead upon his inheritance, and the name of the dead shall not be blotted out from among his brothers and from the tribe of his people. You are witnesses today.
+- fresh: And indeed Ruth the Moabitess, wife of Mahlon, I acquired for myself as wife, to raise up the name of the dead upon his inheritance, and the name of the dead shall not be blotted out from among his brothers and from the tribe of his people. You are witnesses today.
 - brenton: Moreover I have bought for myself for a wife Ruth the Moabitess, the wife of Maalon, to raise up the name of the dead upon his inheritance; so the name of the dead shall not be destroyed from among his brethren, and from the tribe of his people: ye are this day witnesses.
 
 ### Ruth 4:11
@@ -64239,7 +64239,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the people at the gate said, Witnesses. And the elders said, May the Lord make your wife entering into your house like Rachel and like Leia, who both built the house of Israel, and may they make strength in Ephratha, and may your name be in Bethleem.
+- fresh: And all the people at the gate said, Witnesses. And the elders said, May the Lord make your wife entering into your house like Rachel and like Leia, who both built the house of Israel, and may they make strength in Ephratha, and may your name be in Bethlehem.
 - brenton: And all the people who were in the gate said, We are witnesses: and the elders said, The Lord make thy wife who goes into thy house, as Rachel and as Lia, who both together built the house of Israel, and wrought mightily in Ephratha, and there shall be a name to thee in Bethleem.
 
 ### Ruth 4:12
@@ -64257,7 +64257,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Boos took Ruth, and she became his wife, and he went in to her, and the Lord gave her conception, and she bore a son.
+- fresh: And Boaz took Ruth, and she became his wife, and he went in to her, and the Lord gave her conception, and she bore a son.
 - brenton: And Booz took Ruth, and she became his wife, and he went in to her; and the Lord gave her conception, and she bore a son.
 
 ### Ruth 4:14
@@ -64266,7 +64266,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the women said to Noemin, Blessed be the Lord, who did not leave you without a redeemer today, and may your name be called in Israel.
+- fresh: And the women said to Naomi, Blessed be the Lord, who did not leave you without a redeemer today, and may your name be called in Israel.
 - brenton: And the women said to Noemin, Blessed is the Lord, who has not suffered a redeemer to fail thee this day, even to make thy name famous in Israel.
 
 ### Ruth 4:15
@@ -64284,7 +64284,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Noemin took the child and placed him in her bosom, and she became nurse to him.
+- fresh: And Naomi took the child and placed him in her bosom, and she became nurse to him.
 - brenton: And Noemin took the child and laid it in her bosom, and became a nurse to it.
 
 ### Ruth 4:17
@@ -64293,7 +64293,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the neighboring women called his name, saying, A son has been born to Noemin, and they called his name Ōbēd; he is father of Jessai, father of David.
+- fresh: And the neighboring women called his name, saying, A son has been born to Naomi, and they called his name Ōbēd; he is father of Jessai, father of David.
 - brenton: And the neighbours gave it a name, saying, A son has been born to Noemin; and they called his name Obed; this is the father of Jessæ the father of David.
 
 ### Ruth 4:18
@@ -64329,7 +64329,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Salman fathered Boos, and Boos fathered Ōbēd,
+- fresh: and Salman fathered Boaz, and Boaz fathered Ōbēd,
 - brenton: And Salmon begot Booz; and Booz begot Obed.
 
 ### Ruth 4:22
@@ -64367,7 +64367,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God Sabaōth at Shilō, and there were Heli and his two sons, Ophni and Phinees, priests of the Lord.
+- fresh: And the man went up from days to days from his city, from Armathaim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
 - brenton: And the man went up from year to year from his city, from Armathaim, to worship and sacrifice to the Lord God of Sabaoth at Selom: and there were Heli and his two sons Ophni and Phinees, the priests of the Lord.
 
 ### 1 Samuel 1:4
@@ -64421,7 +64421,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Anna rose after they ate in Shilō and stood before the Lord, and Heli the priest was sitting upon the seat by the posts of the temple of the Lord.
+- fresh: And Anna rose after they ate in Shiloh and stood before the Lord, and Eli the priest was sitting upon the seat by the posts of the temple of the Lord.
 - brenton: And Anna rose up after they had eaten in Selom, and stood before the Lord: and Heli the priest was on a seat by the threshold of the temple of the Lord.
 
 ### 1 Samuel 1:10
@@ -64439,7 +64439,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she vowed a vow to the Lord, saying, Adōnai, Lord Elōai Sabaōth, if in looking you look upon the humiliation of your servant and remember me and give to your servant seed of men, then I will give him before you as a given thing until the day of his death, and wine and intoxicating drink he shall not drink, and iron shall not come upon his head.
+- fresh: And she vowed a vow to the Lord, saying, Lord, Lord my God of hosts, if you will indeed look upon the humiliation of your servant and remember me and give to your servant seed of men, then I will give him before you as a given thing until the day of his death, and wine and intoxicating drink he shall not drink, and iron shall not come upon his head.
 - brenton: And she vowed a vow to the Lord, saying, O Lord God of Sabaoth, if thou wilt indeed look upon the humiliation of thine handmaid, and remember me, and give to thine handmaid a man-child, then will I indeed dedicate him to thee till the day of his death; and he shall drink no wine nor strong drink, and no razor shall come upon his head.
 
 ### 1 Samuel 1:12
@@ -64448,7 +64448,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be, while she multiplied in praying before the Lord, Heli the priest watched her mouth.
+- fresh: And it came to be, while she multiplied in praying before the Lord, Eli the priest watched her mouth.
 - brenton: And it came to pass, while she was long praying before the Lord, that Heli the priest marked her mouth.
 
 ### 1 Samuel 1:13
@@ -64457,7 +64457,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she was speaking in her heart, and her lips were moving, but her voice was not heard, and Heli counted her as a drunken woman.
+- fresh: And she was speaking in her heart, and her lips were moving, but her voice was not heard, and Eli counted her as a drunken woman.
 - brenton: And she was speaking in her heart, and her lips moved, but her voice was not heard: and Heli accounted her a drunken woman.
 
 ### 1 Samuel 1:14
@@ -64466,7 +64466,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the servant Heli said to her, How long will you be drunk? Put away your wine and go from the presence of the Lord.
+- fresh: And the servant Eli said to her, How long will you be drunk? Put away your wine and go from the presence of the Lord.
 - brenton: And the servant of Heli said to her, How long wilt thou be drunken? take away thy wine from thee, and go out from the presence of the Lord.
 
 ### 1 Samuel 1:15
@@ -64493,7 +64493,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli answered and said to her, Go in peace. The God of Israel give you every request of yours that you asked from him.
+- fresh: And Eli answered and said to her, Go in peace. The God of Israel give you every request of yours that you asked from him.
 - brenton: And Heli answered and said to her, Go in peace: the God of Israel give thee all thy petition, which thou hast asked of him.
 
 ### 1 Samuel 1:18
@@ -64520,7 +64520,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samuel, and said, Because from the Lord God Sabaōth I asked him.
+- fresh: And she conceived, and it came to be at the turn of the days, that she bore a son and called his name Samuel, and said, Because from the Lord God of hosts I asked him.
 - brenton: And it came to pass when the time was come, that she brought forth a son, and called his name Samuel, and said, Because I asked him of the Lord God of Sabaoth.
 
 ### 1 Samuel 1:21
@@ -64565,7 +64565,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they brought him before the Lord, and his father slaughtered the sacrifice that he made from days to days to the Lord, and he brought the child and slaughtered the calf, and Anna, the mother of the child, brought him to Heli.
+- fresh: And they brought him before the Lord, and his father slaughtered the sacrifice that he made from days to days to the Lord, and he brought the child and slaughtered the calf, and Anna, the mother of the child, brought him to Eli.
 - brenton: And they brought him before the Lord; and his father slew his offering which he offered from year to year to the Lord; and he brought near the child, and slew the calf; and Anna the mother of the child brought him to Heli.
 
 ### 1 Samuel 1:26
@@ -64691,7 +64691,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they left him there before the Lord and went away to Armathaim, and the child was ministering before the face of the Lord before Heli the priest.
+- fresh: And they left him there before the Lord and went away to Armathaim, and the child was ministering before the face of the Lord before Eli the priest.
 - brenton: and departed to Armathaim: and the child ministered in the presence of the Lord before Heli the priest.
 
 ### 1 Samuel 2:12
@@ -64700,7 +64700,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Heli the priest were sons of pestilence, not knowing the Lord.
+- fresh: And the sons of Eli the priest were sons of pestilence, not knowing the Lord.
 - brenton: And the sons of Heli the priest were evil sons, not knowing the Lord.
 
 ### 1 Samuel 2:13
@@ -64772,7 +64772,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli blessed Elkana and his wife, saying, May the Lord repay you seed from this woman in place of the loan that you loaned to the Lord. And the man went to his place.
+- fresh: And Eli blessed Elkana and his wife, saying, May the Lord repay you seed from this woman in place of the loan that you loaned to the Lord. And the man went to his place.
 - brenton: And Heli blessed Helcana and his wife, saying, The Lord recompense to thee seed of this woman, in return for the loan which thou hast lent to the Lord: and the man returned to his place.
 
 ### 1 Samuel 2:21
@@ -64790,7 +64790,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli was very old and heard what his sons were doing to the sons of Israel.
+- fresh: And Eli was very old and heard what his sons were doing to the sons of Israel.
 - brenton: And Heli was very old, and he heard what his sons did to the children of Israel.
 
 ### 1 Samuel 2:23
@@ -64835,7 +64835,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And a man of God came to Heli and said, Thus says the Lord: In revealing did I reveal myself to the house of your father while they were in the land of Egypt, servants to the house of Pharaoh?
+- fresh: And a man of God came to Eli and said, Thus says the Lord: In revealing did I reveal myself to the house of your father while they were in the land of Egypt, servants to the house of Pharaoh?
 - brenton: And a man of God came to Heli, and said, Thus says the Lord, I plainly revealed myself to the house of thy father, when they were servants in Egypt to the house of Pharao.
 
 ### 1 Samuel 2:28
@@ -64898,7 +64898,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this will be the sign to you that will come upon these your two sons, Ophni and Phinees: in one day both will die.
+- fresh: And this will be the sign to you that will come upon these your two sons, Hophni and Phinehas: in one day both will die.
 - brenton: And this which shall come upon thy two sons Ophni and Phinees shall be a sign to thee; in one day they shall both die.
 
 ### 1 Samuel 2:35
@@ -64925,7 +64925,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the child Samuel was ministering to the Lord before Heli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
+- fresh: And the child Samuel was ministering to the Lord before Eli the priest, and the word of the Lord was precious in those days; there was no vision making distinction.
 - brenton: And the child Samuel ministered to the Lord before Heli the priest: and the word of the Lord was precious in those days, there was no distinct vision.
 
 ### 1 Samuel 3:2
@@ -64934,7 +64934,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be on that day, and Heli was sleeping in his place, and his eyes began to grow heavy and he was not able to see.
+- fresh: And it came to be on that day, and Eli was sleeping in his place, and his eyes began to grow heavy and he was not able to see.
 - brenton: And it came to pass at that time that Heli was sleeping in his place; and his eyes began to fail, and could not see.
 
 ### 1 Samuel 3:3
@@ -64961,7 +64961,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he ran to Heli and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep. And he went back and slept.
+- fresh: And he ran to Eli and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep. And he went back and slept.
 - brenton: And he ran to Heli, and said, Here am I, for thou didst call me: and he said, I did not call thee; return, go to sleep; and he returned and went to sleep.
 
 ### 1 Samuel 3:6
@@ -64970,7 +64970,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord added and called, Samuel, Samuel. And he went to Heli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
+- fresh: And the Lord added and called, Samuel, Samuel. And he went to Eli a second time and said, Behold, here I am, because you called me. And he said, I did not call you; go back, sleep.
 - brenton: And the Lord called again, Samuel, Samuel: and he went to Heli the second time, and said, Behold here am I, for thou didst call me: and he said, I called thee not; return, go to sleep.
 
 ### 1 Samuel 3:7
@@ -64988,7 +64988,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord added to call Samuel a third time, and he rose and went to Heli and said, Behold, here I am, because you called me. And Heli understood that the Lord had called the child.
+- fresh: And the Lord added to call Samuel a third time, and he rose and went to Eli and said, Behold, here I am, because you called me. And Eli understood that the Lord had called the child.
 - brenton: And the Lord called Samuel again for the third time: and he arose and went to Heli, and said, Behold, I am here, for thou didst call me: and Heli perceived that the Lord had called the child.
 
 ### 1 Samuel 3:9
@@ -65024,7 +65024,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day I will raise upon Heli all that I spoke against his house; I will begin and I will complete.
+- fresh: In that day I will raise upon Eli all that I spoke against his house; I will begin and I will complete.
 - brenton: In that day I will raise up against Heli all things that I have said against his house; I will begin, and I will make an end.
 
 ### 1 Samuel 3:13
@@ -65042,7 +65042,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I swore to the house of Heli whether the injustice of the house of Heli will be propitiated by incense and by sacrifices forever.
+- fresh: I swore to the house of Eli whether the injustice of the house of Eli will be propitiated by incense and by sacrifices forever.
 - brenton: And it shall not go on so; I have sworn to the house of Eli, the iniquity of the house of Eli shall not be atoned for with incense or sacrifices for ever.
 
 ### 1 Samuel 3:15
@@ -65051,7 +65051,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Samuel slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samuel feared to report the vision to Heli.
+- fresh: And Samuel slept until morning and rose early in the morning and opened the doors of the house of the Lord, and Samuel feared to report the vision to Eli.
 - brenton: And Samuel slept till morning, and rose early in the morning, and opened the doors of the house of the Lord; and Samuel feared to tell Heli the vision.
 
 ### 1 Samuel 3:16
@@ -65060,7 +65060,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli said to Samuel, Samuel, child. And he said, Behold, here I am.
+- fresh: And Eli said to Samuel, Samuel, child. And he said, Behold, here I am.
 - brenton: And Heli said to Samuel, Samuel, my son; and he said, Behold, here am I.
 
 ### 1 Samuel 3:17
@@ -65078,7 +65078,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Samuel reported all the words and did not hide from him, and Heli said, He is the Lord; what is good before him he will do.
+- fresh: And Samuel reported all the words and did not hide from him, and Eli said, He is the Lord; what is good before him he will do.
 - brenton: And Samuel reported all the words, and hid them not from him. And Heli said, He is the Lord, he shall do that which is good in his sight.
 
 ### 1 Samuel 3:19
@@ -65105,7 +65105,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord again made himself known in Shiloh, because the Lord was revealed to Samuel, and Samuel was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Heli was very old, and his sons were going on and their way was evil before the Lord.
+- fresh: And the Lord again made himself known in Shiloh, because the Lord was revealed to Samuel, and Samuel was entrusted to become prophet to the Lord for all Israel from end of the land to end. And Eli was very old, and his sons were going on and their way was evil before the Lord.
 - brenton: And the Lord manifested himself again in Selom, for the Lord revealed himself to Samuel; and Samuel was accredited to all Israel as a prophet to the Lord from one end of the land to the other: and Heli was very old, and his sons kept advancing in wickedness, and their way was evil before the Lord.
 
 ### 1 Samuel 4:1
@@ -65141,7 +65141,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people sent to Shiloh, and they took from there the ark of the Lord seated on cherubim, and both sons of Heli were with the ark, Ophni and Phinees.
+- fresh: And the people sent to Shiloh, and they took from there the ark of the Lord seated on cherubim, and both sons of Eli were with the ark, Hophni and Phinehas.
 - brenton: And the people sent to Selom, and they take thence the ark of the Lord who dwells between the cherubs: and both the sons of Heli, Ophni and Phinees, were with the ark.
 
 ### 1 Samuel 4:5
@@ -65204,7 +65204,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ark of God was taken, and both sons of Heli died, Ophni and Phinees.
+- fresh: And the ark of God was taken, and both sons of Eli died, Hophni and Phinehas.
 - brenton: And the ark of God was taken, and both the sons of Heli, Ophni and Phinees, died.
 
 ### 1 Samuel 4:12
@@ -65222,7 +65222,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he came, and behold, Heli was sitting on the seat by the gate, watching the road, because his heart was beside itself concerning the ark of God. And the man entered into the city to report, and the city cried out.
+- fresh: And he came, and behold, Eli was sitting on the seat by the gate, watching the road, because his heart was beside itself concerning the ark of God. And the man entered into the city to report, and the city cried out.
 - brenton: And he came, and behold, Heli was upon the seat by the gate looking along the way, for his heart was greatly alarmed for the ark of God: and the man entered into the city to bring tidings; and the city cried out.
 
 ### 1 Samuel 4:14
@@ -65231,7 +65231,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli heard the sound of the outcry and said, What is this cry of this sound? And the man hurried and entered and reported to Heli.
+- fresh: And Eli heard the sound of the outcry and said, What is this cry of this sound? And the man hurried and entered and reported to Eli.
 - brenton: And Heli heard the sound of the cry, and said, What is the voice of this cry? and the man hasted and went in, and reported to Heli.
 
 ### 1 Samuel 4:15
@@ -65240,7 +65240,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Heli was ninety years old, and his eyes had become fixed, and he did not see, and Heli said to the men standing around him, What is the voice of this sound?
+- fresh: And Eli was ninety years old, and his eyes had become fixed, and he did not see, and Eli said to the men standing around him, What is the voice of this sound?
 - brenton: Now Heli was ninety years old, and his eyes were fixed, and he saw not.
 
 ### 1 Samuel 4:16
@@ -65249,7 +65249,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the man hurried and came near to Heli and said to him, I am the one coming from the camp, and I fled from the battle line today. And he said, What is the matter, child?
+- fresh: And the man hurried and came near to Eli and said to him, I am the one coming from the camp, and I fled from the battle line today. And he said, What is the matter, child?
 - brenton: And Heli said to them that stood round about him, What is the voice of this sound? And the man hasted and advanced to Heli, and said to him, I am he that is come out of the camp, and I have fled from the battle to-day: and Heli said, What is the event, my son?
 
 ### 1 Samuel 4:17
@@ -65276,7 +65276,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his daughter-in-law, wife of Phinees, had conceived to give birth, and she heard the news that the ark of God had been taken and that her father-in-law and her husband had died, and she crouched down and gave birth, because her labor pains turned upon her.
+- fresh: And his daughter-in-law, wife of Phinehas, had conceived to give birth, and she heard the news that the ark of God had been taken and that her father-in-law and her husband had died, and she crouched down and gave birth, because her labor pains turned upon her.
 - brenton: And his daughter-in-law the wife of Phinees was with child, about to bring forth; and she heard the tidings, that the ark of God was taken, and that her father-in-law and her husband were dead; and she wept and was delivered, for her pains came upon her.
 
 ### 1 Samuel 4:20
@@ -67022,7 +67022,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Achia son of Ahitub, brother of Iōchabēd, son of Phinees, son of Heli, priest of God in Sēlōm, was carrying an ephod. And the people did not know that Jonathan had gone.
+- fresh: And Achia son of Ahitub, brother of Iōchabēd, son of Phinehas, son of Eli, priest of God in Shiloh, was carrying an ephod. And the people did not know that Jonathan had gone.
 - brenton: And Achia son of Achitob, the brother of Jochabed the son of Phinees, the son of Heli, was the priest of God in Selom wearing an ephod: and the people knew not that Jonathan was gone.
 
 ### 1 Samuel 14:4
@@ -67418,7 +67418,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king Souba and against the foreigners. Wherever he turned, he was being saved.
+- fresh: And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baithōr and against king of Zobah and against the foreigners. Wherever he turned, he was being saved.
 - brenton: And Saul received the kingdom, by lot he inherits the office of ruling over Israel: and he fought against all his enemies round about, against Moab, and against the children of Ammon, and against the children of Edom, and against Bæthæor, and against the king of Suba, and against the Philistines: whithersoever he turned, he was victorious.
 
 ### 1 Samuel 14:48
@@ -67436,7 +67436,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Saul were Jonathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Melchol.
+- fresh: And the sons of Saul were Jonathan and Iessiou and Melchisa, and the names of his two daughters: the name of the firstborn Merob, and the name of the second Michal.
 - brenton: And the sons of Saul were Jonathan, and Jessiu, and Melchisa: and these were the names of his two daughters, the name of the first-born Merob, and the name of the second Melchol.
 
 ### 1 Samuel 14:50
@@ -67481,7 +67481,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Sabaōth, Now I will avenge what Amalek did to Israel, how he met him on the road when he was coming up out of Egypt.
+- fresh: Thus says the Lord of hosts, Now I will avenge what Amalek did to Israel, how he met him on the road when he was coming up out of Egypt.
 - brenton: Thus said the Lord of hosts, Now will I take vengeance for what Amalec did to Israel, when he met him in the way as he came up out of Egypt.
 
 ### 1 Samuel 15:3
@@ -68201,7 +68201,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to the foreigner, You come to me with sword and spear and shield, but I go to you in the name of the Lord Sabaōth, God of the battle-line of Israel, whom you have reproached today.
+- fresh: And David said to the foreigner, You come to me with sword and spear and shield, but I go to you in the name of the Lord of hosts, God of the battle-line of Israel, whom you have reproached today.
 - brenton: And David said to the Philistine, Thou comest to me with sword, and with spear, and with shield; but I come to thee in the name of the Lord God of hosts of the army of Israel, which thou hast defied
 
 ### 1 Samuel 17:46
@@ -68363,7 +68363,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Melchol daughter of Saul loved David, and it was reported to Saul, and it was made straight in his eyes.
+- fresh: And Michal daughter of Saul loved David, and it was reported to Saul, and it was made straight in his eyes.
 - brenton: And Melchol the daughter of Saul loved David; and it was told Saul, and the thing was pleasing in his eyes.
 
 ### 1 Samuel 18:21
@@ -68426,7 +68426,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Melchol his daughter to be his wife.
+- fresh: And David rose and went, he and his men, and struck among the foreigners one hundred men, and he brought their foreskins to the king, and he became son-in-law to the king, and he gives to him Michal his daughter to be his wife.
 - brenton: And David arose, and went, he and his men, and smote among the Philistines a hundred men: and he brought their foreskins, and he becomes the king's son-in-law, and Saul gives him Melchol his daughter to wife.
 
 ### 1 Samuel 18:28
@@ -68543,7 +68543,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be on that night, Saul sent messengers to the house of David to guard him so as to kill him in the morning. And Melchol his wife reported to David, saying, If you do not save your life this night, tomorrow you will be put to death.
+- fresh: And it came to be on that night, Saul sent messengers to the house of David to guard him so as to kill him in the morning. And Michal his wife reported to David, saying, If you do not save your life this night, tomorrow you will be put to death.
 - brenton: And it came to pass in that night, that Saul sent messengers to the house of David to watch him, in order to slay him in the morning; and Melchol David's wife told him, saying, Unless thou save thy life this night, to-morrow thou shalt be slain.
 
 ### 1 Samuel 19:12
@@ -68552,7 +68552,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Melchol let David down through the window, and he went away and fled and was saved.
+- fresh: And Michal let David down through the window, and he went away and fled and was saved.
 - brenton: So Melchol lets David down by the window, and he departed, and fled, and escaped.
 
 ### 1 Samuel 19:13
@@ -68561,7 +68561,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Melchol took the tomb-images and placed them on the bed, and she put a goat’s liver at his head and covered them with a garment.
+- fresh: And Michal took the tomb-images and placed them on the bed, and she put a goat’s liver at his head and covered them with a garment.
 - brenton: And Melchol took images, and laid them on the bed, and she put the liver of a goat by his head, and covered them with clothes.
 
 ### 1 Samuel 19:14
@@ -68597,7 +68597,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Saul said to Melchol, Why did you thus deceive me and send away my enemy, and he escaped? And Melchol said to Saul, He said, Send me away, or else I will kill you.
+- fresh: And Saul said to Michal, Why did you thus deceive me and send away my enemy, and he escaped? And Michal said to Saul, He said, Send me away, or else I will kill you.
 - brenton: And Saul said to Melchol, Why hast thou thus deceived me, and suffered my enemy to depart, and he has escaped? and Melchol said to Saul, He said, Let me go, and if not, I will slay thee.
 
 ### 1 Samuel 19:18
@@ -70235,7 +70235,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Saul gave Melchol his daughter, the wife of David, to Phalti son of Lais from Romma.
+- fresh: And Saul gave Michal his daughter, the wife of David, to Phalti son of Lais from Romma.
 - brenton: And Saul gave Melchol his daughter, David's wife, to Phalti the son of Amis who was of Romma.
 
 ### 1 Samuel 26:1
@@ -71938,7 +71938,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said, I will well make a covenant with you; only one word I ask from you, saying, You will not see my face unless you bring Melchol daughter of Saul when you come to see my face.
+- fresh: And David said, I will well make a covenant with you; only one word I ask from you, saying, You will not see my face unless you bring Michal daughter of Saul when you come to see my face.
 - brenton: And David said, With a good will I will make with thee a covenant: only I demand one condition of thee, saying, Thou shalt not see my face, unless thou bring Melchol the daughter of Saul, when thou comest to see my face.
 
 ### 2 Samuel 3:14
@@ -71947,7 +71947,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David sent messengers to Mephibosthe son of Saul, saying, Give back to me my wife Melchol, whom I took for one hundred foreskins of foreigners.
+- fresh: And David sent messengers to Mephibosthe son of Saul, saying, Give back to me my wife Michal, whom I took for one hundred foreskins of foreigners.
 - brenton: And David sent messengers to Jebosthe the son of Saul, saying, Restore me my wife Melchol, whom I took for a hundred foreskins of the Philistines.
 
 ### 2 Samuel 3:15
@@ -72649,7 +72649,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to be, as the ark was coming as far as the City of David, Melchol daughter of Saul was looking through the window, and she saw king David dancing and beating time before the Lord, and she counted him as nothing in her heart.
+- fresh: And it came to be, as the ark was coming as far as the City of David, Michal daughter of Saul was looking through the window, and she saw king David dancing and beating time before the Lord, and she counted him as nothing in her heart.
 - brenton: And it came to pass as the ark arrived at the city of David, that Melchol the daughter of Saul looked through the window, and saw king David dancing and playing before the Lord; and she despised him in her heart.
 
 ### 2 Samuel 6:17
@@ -72685,7 +72685,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David returned to bless his house, and Melchol daughter of Saul came out to meet David and blessed him and said, How glorious today was the king of Israel, who was uncovered today in the eyes of the servant-girls of his servants, just as one of the dancers uncovers himself in being uncovered.
+- fresh: And David returned to bless his house, and Michal daughter of Saul came out to meet David and blessed him and said, How glorious today was the king of Israel, who was uncovered today in the eyes of the servant-girls of his servants, just as one of the dancers uncovers himself in being uncovered.
 - brenton: And David returned to bless his house. And Melchol the daughter of Saul came out to meet David and saluted him, and said, How was the king of Israel glorified to-day, who was to-day uncovered in the eyes of the handmaids of his servants, as one of the dancers wantonly uncovers himself!
 
 ### 2 Samuel 6:21
@@ -72694,7 +72694,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to Melchol, I will dance before the Lord. Blessed be the Lord, who chose me over your father and over all his house, to appoint me as leader over his people, over Israel, and I will play and dance before the Lord.
+- fresh: And David said to Michal, I will dance before the Lord. Blessed be the Lord, who chose me over your father and over all his house, to appoint me as leader over his people, over Israel, and I will play and dance before the Lord.
 - brenton: And David said to Melchol, I will dance before the Lord. Blessed be the Lord who chose me before thy father, and before all his house, to make me head over his people, even over Israel: therefore I will play, and dance before the Lord.
 
 ### 2 Samuel 6:22
@@ -72712,7 +72712,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Melchol daughter of Saul there came to be no child until the day of her death.
+- fresh: And to Michal daughter of Saul there came to be no child until the day of her death.
 - brenton: And Melchol the daughter of Saul had no child till the day of her death.
 
 ### 2 Samuel 7:1
@@ -73000,7 +73000,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David struck Adraazar son of Raab king of Souba, as he was going to set up his hand on the river Euphrates.
+- fresh: And David struck Hadadezer son of Rehob king of Zobah, as he was going to set up his hand on the river Euphrates.
 - brenton: And David smote Adraazar the son of Raab king of Suba, as he went to extend his power to the river Euphrates.
 
 ### 2 Samuel 8:4
@@ -73018,7 +73018,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Syria of Damascus comes to help Adraazar king of Souba, and David struck among the Syrians twenty-two thousand men.
+- fresh: And Syria of Damascus comes to help Hadadezer king of Zobah, and David struck among the Syrians twenty-two thousand men.
 - brenton: And Syria of Damascus comes to help Adraazar king of Suba, and David smote twenty-two thousand men belonging to the Syrian.
 
 ### 2 Samuel 8:6
@@ -73036,7 +73036,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David took the golden bracelets that were upon the servants of Adraazar king of Souba and brought them to Jerusalem. And Sousakim king of Egypt took them when he came up to Jerusalem in the days of Rehoboam son of Solōmōn.
+- fresh: And David took the golden bracelets that were upon the servants of Hadadezer king of Zobah and brought them to Jerusalem. And Sousakim king of Egypt took them when he came up to Jerusalem in the days of Rehoboam son of Solōmōn.
 - brenton: And David took the golden bracelets which were on the servants of Adraazar king of Suba, and brought them to Jerusalem. And Susakim king of Egypt took them, when he went up to Jerusalem in the days of Roboam son of Solomon.
 
 ### 2 Samuel 8:8
@@ -73045,7 +73045,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from Masbak, from the chosen cities of Adraazar, king David took very much bronze. In it Solomon made the bronze sea and the pillars and the basins and all the vessels.
+- fresh: And from Masbak, from the chosen cities of Hadadezer, king David took very much bronze. In it Solomon made the bronze sea and the pillars and the basins and all the vessels.
 - brenton: And king David took from Metebac, and from the choice cities of Adraazar, very much brass: with that Solomon made the brazen sea, and the pillars, and the lavers, and all the furniture.
 
 ### 2 Samuel 8:9
@@ -73054,7 +73054,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Thoou king of Emath heard that David struck all the force of Adraazar,
+- fresh: And Thoou king of Emath heard that David struck all the force of Hadadezer,
 - brenton: And Thoü the king of Hemath heard that David had smitten all the host of Adraazar.
 
 ### 2 Samuel 8:10
@@ -73063,7 +73063,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Thoou sent Ieddouran his son to king David to ask him the things of peace and to bless him, because he had fought Adraazar and struck him, because he was opposing Adraazar. And in his hands were silver vessels and gold vessels and bronze vessels.
+- fresh: and Thoou sent Ieddouran his son to king David to ask him the things of peace and to bless him, because he had fought Hadadezer and struck him, because he was opposing Hadadezer. And in his hands were silver vessels and gold vessels and bronze vessels.
 - brenton: And Thoü sent Jedduram his son to king David, to ask him of his welfare, and to congratulate him on his fighting against Adraazar and smiting him, for he was an enemy to Adraazar: and in his hands were vessels of silver, and vessels of gold, and vessels of brass.
 
 ### 2 Samuel 8:11
@@ -73081,7 +73081,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: from Idoumaia and from the land of Moab and from the sons of Ammon and from the foreigners and from Amalek and from the spoils of Adraazar son of Raab king of Souba.
+- fresh: from Idoumaia and from the land of Moab and from the sons of Ammon and from the foreigners and from Amalek and from the spoils of Hadadezer son of Rehob king of Zobah.
 - brenton: out of Idumea, and out of Moab, and from the children of Ammon, and from the Philistines, and from Amalec, and from the spoils of Adraazar son of Raab king of Suba.
 
 ### 2 Samuel 8:13
@@ -73324,7 +73324,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Ammon went out and arrayed for war by the entrance of the gate, and Syria of Souba and Rōōb and Istōb and Maacha were alone in the field.
+- fresh: And the sons of Ammon went out and arrayed for war by the entrance of the gate, and Syria of Zobah and Rōōb and Istōb and Maacha were alone in the field.
 - brenton: And the children of Ammon went forth, and set the battle in array by the door of the gate: those of Syria, Suba, and Roob, and Istob, and Amalec, being by themselves in the field.
 
 ### 2 Samuel 10:9
@@ -73396,7 +73396,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Adraazar sent and gathered Syria from beyond the river Chalamak, and they came to Ailam, and Sōbak, chief of the force of Adraazar, was before them.
+- fresh: And Hadarezer sent and gathered Syria from beyond the river Chalamak, and they came to Ailam, and Sōbak, chief of the force of Hadarezer, was before them.
 - brenton: And Adraazar sent and gathered the Syrians from the other side of the river Chalamak, and they came to Ælam; and Sobac the captain of the host of Adraazar was at their head.
 
 ### 2 Samuel 10:17
@@ -73423,7 +73423,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the kings, servants of Adraazar, saw that they had stumbled before Israel, and they defected with Israel and served them, and Syria feared to save the sons of Ammon still more.
+- fresh: And all the kings, servants of Hadarezer, saw that they had stumbled before Israel, and they defected with Israel and served them, and Syria feared to save the sons of Ammon still more.
 - brenton: And all the kings the servants of Adraazar saw that they were put to the worse before Israel, and they went over to Israel, and served them: and Syria was afraid to help the children of Ammon any more.
 
 ### 2 Samuel 11:1
@@ -73936,7 +73936,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took the crown of Melchol their king from his head, and its weight was a talent of gold and precious stone, and it was on David’s head, and he brought out the spoils of the city very greatly.
+- fresh: And he took the crown of their king from his head, and its weight was a talent of gold and precious stone, and it was on David’s head, and he brought out the spoils of the city very greatly.
 - brenton: And he took the crown of Molchom their king from off his head, and the weight of it was a talent of gold, with precious stones, and it was upon the head of David; and he carried forth very much spoil of the city.
 
 ### 2 Samuel 12:31
@@ -78438,7 +78438,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And King Solomon commanded Banaias son of Iodae, and he went out and struck him and he died. And King Solomon was very understanding and wise, and Judah and Israel were exceedingly many, like the sand on the sea in multitude, eating and drinking and rejoicing. And Solomon was ruler over all the kingdoms, and they were bringing gifts and serving Solomon all the days of his life. And Solomon began opening the domains of Lebanon. And he built Thermai in the wilderness. And this was Solomon's provision: thirty cors of fine flour and sixty cors of beaten flour, ten choice calves and twenty pasture-fed cattle and one hundred sheep, besides deer and gazelles and choice fatted birds. For he was ruler over everything beyond the river, from Raphi to Gaza, over all the kings beyond the river. And he had peace from all his sides all around, and Judah and Israel lived trusting, each under his vine and under his fig tree, eating and drinking, from Dan to Bersabee, all the days of Solomon. And these were the chiefs of Solomon: Azariou son of Sadok the priest, and Orniou son of Nathan, chief of the overseers, and Edram over his house, and Souba secretary, and Basa son of Achithalam recorder, and Abi son of Joab commander in chief, and Achire son of Edrai over the levies, and Banaia son of Iodae over the court guard and over the brickwork, and Zachour son of Nathan the counselor. And Solomon had forty thousand brood mares for chariots and twelve thousand horsemen. And he was ruler in all the kingdoms from the river to the land of the foreigners and to the borders of Egypt. Solomon son of David reigned over Israel and Judah in Jerusalem.
+- fresh: And King Solomon commanded Banaias son of Iodae, and he went out and struck him and he died. And King Solomon was very understanding and wise, and Judah and Israel were exceedingly many, like the sand on the sea in multitude, eating and drinking and rejoicing. And Solomon was ruler over all the kingdoms, and they were bringing gifts and serving Solomon all the days of his life. And Solomon began opening the domains of Lebanon. And he built Thermai in the wilderness. And this was Solomon's provision: thirty cors of fine flour and sixty cors of beaten flour, ten choice calves and twenty pasture-fed cattle and one hundred sheep, besides deer and gazelles and choice fatted birds. For he was ruler over everything beyond the river, from Raphi to Gaza, over all the kings beyond the river. And he had peace from all his sides all around, and Judah and Israel lived trusting, each under his vine and under his fig tree, eating and drinking, from Dan to Bersabee, all the days of Solomon. And these were the chiefs of Solomon: Azariou son of Sadok the priest, and Orniou son of Nathan, chief of the overseers, and Edram over his house, and Shisha secretary, and Basa son of Achithalam recorder, and Abi son of Joab commander in chief, and Achire son of Edrai over the levies, and Banaia son of Iodae over the court guard and over the brickwork, and Zachour son of Nathan the counselor. And Solomon had forty thousand brood mares for chariots and twelve thousand horsemen. And he was ruler in all the kingdoms from the river to the land of the foreigners and to the borders of Egypt. Solomon son of David reigned over Israel and Judah in Jerusalem.
 - brenton: And Solomon commanded Banæas the son of Jodae, and he went forth and slew him.
 
 ### 1 Kings 3:2
@@ -78708,7 +78708,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Eliareph and Achia sons of Saba, secretaries, and Iosaphat son of Achilid, recorder,
+- fresh: and Eliareph and Achia sons of Shisha, secretaries, and Iosaphat son of Achilid, recorder,
 - brenton: Eliaph, and Achia son of Seba, scribes; and Josaphat son of Achilud, recorder.
 
 ### 1 Kings 4:4
@@ -80931,7 +80931,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord raised up an adversary against Solomon, Ader the Idumean, and Esrom son of Eliadae, who was in Raemmath, of Adrazar king of Souba his lord. And men were gathered to him, and he was chief of a band, and he took Damascus beforehand, and they were an adversary to Israel all the days of Solomon. And Ader the Idumean was from the seed of the kingdom in Idumea.
+- fresh: And the Lord raised up an adversary against Solomon, Ader the Idumean, and Esrom son of Eliadae, who was in Raemmath, of Hadadezer king of Zobah his lord. And men were gathered to him, and he was chief of a band, and he took Damascus beforehand, and they were an adversary to Israel all the days of Solomon. And Ader the Idumean was from the seed of the kingdom in Idumea.
 - brenton: And the Lord raised up an enemy to Solomon, Ader the Idumæan, and Esrom son of Eliadaë who dwelt in Raama, and Adadezer king of Suba his master; (and men gathered to him, and he was head of the conspiracy, and he seized on Damasec,) and they were adversaries to Israel all the days of Solomon: and Ader the Idumæan was of the seed royal in Idumæa.
 
 ### 1 Kings 11:15
@@ -81795,7 +81795,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took all the treasures of the house of the Lord and the treasures of the king's house, and the golden spears that David took from the hand of the sons of Adraazar king of Souba and brought them into Jerusalem. He took everything, the golden arms.
+- fresh: And he took all the treasures of the house of the Lord and the treasures of the king's house, and the golden spears that David took from the hand of the sons of Hadadezer king of Zobah and brought them into Jerusalem. He took everything, the golden arms.
 - brenton: and took all the treasures of the house of the Lord, and the treasures of the king's house, and the golden spears which David took out of the hand of the sons of Adrazaar king of Suba, and brought them into Jerusalem, even all that he took, and the golden shields which Solomon had made, [and carried them away into Egypt.]
 
 ### 1 Kings 14:27
@@ -86837,7 +86837,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to him, Come with me and see in my zeal for the Lord Sabaoth. And he seated him in his chariot.
+- fresh: And he said to him, Come with me and see in my zeal for the Lord of hosts. And he seated him in his chariot.
 - brenton: And he said to him, Come with me, and see me zealous for the Lord. And he caused him to sit in his chariot.
 
 ### 2 Kings 10:17
@@ -92572,7 +92572,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Eleazar begot Phinees, Phinees begot Abisou,
+- fresh: Eleazar begot Phinehas, Phinehas begot Abisou,
 - brenton: Eleazar begot Phinees, Phinees begot Abisu;
 
 ### 1 Chronicles 5:31
@@ -92986,7 +92986,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are sons of Aaron: Eleazar his son, Phinees his son, Abisou his son,
+- fresh: And these are sons of Aaron: Eleazar his son, Phinehas his son, Abisou his son,
 - brenton: And these are the sons of Aaron; Eleazar his son, Phinees his son, Abisu his son,
 
 ### 1 Chronicles 6:36
@@ -94165,7 +94165,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Phinees son of Eleazar was ruler over them before, and these were with him.
+- fresh: And Phinehas son of Eleazar was ruler over them before, and these were with him.
 - brenton: And Phinees son of Eleazar was head over them before the Lord, and these were with him.
 
 ### 1 Chronicles 9:21
@@ -95839,7 +95839,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass, ark of covenant of Lord came as far as City of David, and Melchol daughter of Saul looked through window and saw king David dancing and playing, and she despised him in her soul.
+- fresh: And it came to pass, ark of covenant of Lord came as far as City of David, and Michal daughter of Saul looked through window and saw king David dancing and playing, and she despised him in her soul.
 - brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
 ### 1 Chronicles 16:1
@@ -96487,7 +96487,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David struck Adraazar king of Souba Hamath, as he was going to set his hand upon river Euphrates.
+- fresh: And David struck Hadarezer king of Zobah-Hamath, as he was going to set his hand upon river Euphrates.
 - brenton: And David smote Adraazar king of Suba of Emath, as he was going to establish power toward the river Euphrates.
 
 ### 1 Chronicles 18:4
@@ -96505,7 +96505,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Syrian from Damascus came to help Adraazar king of Souba, and David struck among Syrians twenty-two thousand men.
+- fresh: And Syrian from Damascus came to help Hadarezer king of Zobah, and David struck among Syrians twenty-two thousand men.
 - brenton: And the Syrian came from Damascus to help Adraazar king of Suba; and David smote of the Syrian army twenty and two thousand men.
 
 ### 1 Chronicles 18:6
@@ -96523,7 +96523,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David took golden armlets which were on servants of Adraazar and brought them to Jerusalem.
+- fresh: And David took golden armlets which were on servants of Hadarezer and brought them to Jerusalem.
 - brenton: And David took the golden collars that were on the servants of Adraazar, and brought them to Jerusalem.
 
 ### 1 Chronicles 18:8
@@ -96532,7 +96532,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from Metabēchas and from chosen cities of Adraazar, David took very much bronze. From it Solomon made bronze sea and pillars and bronze vessels.
+- fresh: And from Metabēchas and from chosen cities of Hadarezer, David took very much bronze. From it Solomon made bronze sea and pillars and bronze vessels.
 - brenton: And David took out of Matabeth, and out of the chief cities of Adraazar very much brass: of this Solomon made the brazen sea, and the pillars, and the brazen vessels.
 
 ### 1 Chronicles 18:9
@@ -96541,7 +96541,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Thōa king of Hamath heard that David struck all force of Adraazar king of Souba.
+- fresh: And Thōa king of Hamath heard that David struck all force of Hadarezer king of Zobah.
 - brenton: And Thoa king of Emath heard that David had smitten the whole force of Adraazar king of Suba.
 
 ### 1 Chronicles 18:10
@@ -96550,7 +96550,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he sent Idouram his son to king David to ask about peace and to bless him because he fought Adraazar and struck him, because Adraazar was man of war against Thōa, with every silver and gold vessel.
+- fresh: And he sent Idouram his son to king David to ask about peace and to bless him because he fought Hadarezer and struck him, because Hadarezer was man of war against Thōa, with every silver and gold vessel.
 - brenton: And he sent Aduram his son to king David to ask how he was, and to congratulate him because he had fought against Adraazar, and smitten him; for Thoa was the enemy of Adraazar.
 
 ### 1 Chronicles 18:11
@@ -96667,7 +96667,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Ammon saw that people of David had been shamed, and Anan and sons of Ammon sent one thousand talents of silver to hire for themselves chariots and horsemen from Syria of Mesopotamia and from Syria of Moocha and from Souba.
+- fresh: And sons of Ammon saw that people of David had been shamed, and Anan and sons of Ammon sent one thousand talents of silver to hire for themselves chariots and horsemen from Syria of Mesopotamia and from Syria of Moocha and from Zobah.
 - brenton: And the children of Ammon saw that the people of David were ashamed, and Anan and the children of Ammon sent a thousand talents of silver to hire for themselves chariots and horsemen out of Syria of Mesopotamia, and out of Syria Maacha, and from Sobal.
 
 ### 1 Chronicles 19:7
@@ -96757,7 +96757,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Syria saw that Israel routed him, and they sent messengers and brought out Syrians from beyond river, with Sophach commander of force of Adraazar before them.
+- fresh: And Syria saw that Israel routed him, and they sent messengers and brought out Syrians from beyond river, with Sophach commander of force of Hadarezer before them.
 - brenton: And the Syrian saw that Israel had defeated him, and he sent messengers, and they brought out the Syrians from beyond the river; and Sophath the commander-in-chief of the forces of Adraazar was before them.
 
 ### 1 Chronicles 19:17
@@ -96784,7 +96784,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And servants of Adraazar saw that they had fallen before Israel, and they made covenant with David and served him. And Syria did not want to help sons of Ammon anymore.
+- fresh: And servants of Hadarezer saw that they had fallen before Israel, and they made covenant with David and served him. And Syria did not want to help sons of Ammon anymore.
 - brenton: And the servants of Adraazar saw that they were defeated before Israel, and they made peace with David and served him: and the Syrians would not any more help the children of Ammon.
 
 ### 1 Chronicles 20:1
@@ -100593,7 +100593,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon came to Aimath Sōba and prevailed over it.
+- fresh: And Solomon came to Hamath-Zobah and prevailed over it.
 - brenton: And Solomon came to Bæsoba, and fortified it.
 
 ### 2 Chronicles 8:4
@@ -108047,7 +108047,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest.
+- fresh: son of Abisoue, son of Phinehas, son of Eleazar, son of Aaron the first priest.
 - brenton: the son of Abisue, the son of Phinees, the son of Eleazar, the son of Aaron the first priest.
 
 ### Ezra 7:6
@@ -108272,7 +108272,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Phinees, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
+- fresh: from sons of Phinehas, Gersom; from sons of Ithamar, Daniel; from sons of David, Attous;
 - brenton: Of the sons of Phinees; Gerson: of the sons of Ithamar; Daniel: of the sons of David; Attus.
 
 ### Ezra 8:3
@@ -108551,7 +108551,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinees, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
+- fresh: And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by hand of Merimoth son of Ourias the priest, and with him Eleazar son of Phinehas, and with them Iozabad son of Iesou and Noadia son of Banaia, the Levites,
 - brenton: And it came to pass on the fourth day that we weighed the silver, and the gold, and the vessels, in the house of our God, into the hand of Merimoth the son of Uria the priest; and with him was Eleazar the son of Phinees, and with them Jozabad the son of Jesus, and Noadia the son of Banaia, the Levites.
 
 ### Ezra 8:34
@@ -131932,7 +131932,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When he burned Mesopotamia of Syria and Syria Soba, and Joab returned and struck valley of salt, twelve thousand.
+- fresh: When he burned Mesopotamia of Syria and Syria of Zobah, and Joab returned and struck valley of salt, twelve thousand.
 - brenton: when he had burned Mesopotamia of Syria, and Syria Sobal, and Joab had returned and smitten in the valley of salt twelve thousand.
 
 ### Psalms 59:3
@@ -157635,7 +157635,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Unless Lord Sabaoth had left us seed, we would have become as Sodom and been made like Gomorrah.
+- fresh: Unless Lord of hosts had left us seed, we would have become as Sodom and been made like Gomorrah.
 - brenton: And if the Lord of Sabaoth had not left us a seed, we should have been as Sodoma, and we should have been made like to Gomorrha.
 
 ### Isaiah 1:10
@@ -157770,7 +157770,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says Master, Lord Sabaoth, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
+- fresh: Therefore thus says Master, Lord of hosts, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
 - brenton: Therefore thus saith the Lord, the Lord of hosts, Woe to the mighty men of Israel; for my wrath shall not cease against mine adversaries, and I will execute judgment on mine enemies.
 
 ### Isaiah 1:25
@@ -157941,7 +157941,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For day of Lord Sabaoth upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
+- fresh: For day of Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 - brenton: For the day of the Lord of hosts shall be upon every one that is proud and haughty, and upon every one that is high and towering, and they shall be brought down;
 
 ### Isaiah 2:13
@@ -158031,7 +158031,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look now, Master Lord Sabaoth will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
+- fresh: Look now, Master Lord of hosts will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
 - brenton: Behold now, the Lord, the Lord of hosts, will take away from Jerusalem and from Judea the mighty man and mighty woman, the strength of bread, and the strength of water,
 
 ### Isaiah 3:2
@@ -158373,7 +158373,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For vineyard of Lord Sabaoth = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
+- fresh: For vineyard of Lord of hosts = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
 - brenton: For the vineyard of the Lord of hosts is the house of Israel, and the men of Juda his beloved plant: I expected it to bring forth judgment, and it brought forth iniquity; and not righteousness, but a cry.
 
 ### Isaiah 5:8
@@ -158391,7 +158391,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For these things were heard in ears of Lord Sabaoth: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
+- fresh: For these things were heard in ears of Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
 - brenton: For these things have reached the ears of the Lord of hosts: for though many houses should be built, many and fair houses shall be desolate, and there shall be no inhabitants in them.
 
 ### Isaiah 5:10
@@ -158454,7 +158454,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord Sabaoth will be exalted in judgment, and the Holy God will be glorified in righteousness.
+- fresh: And the Lord of hosts will be exalted in judgment, and the Holy God will be glorified in righteousness.
 - brenton: But the Lord of hosts shall be exalted in judgment, and the holy God shall be glorified in righteousness.
 
 ### Isaiah 5:17
@@ -158526,7 +158526,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of Lord Sabaoth but provoked oracle of Holy One of Israel.
+- fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of Lord of hosts but provoked oracle of Holy One of Israel.
 - brenton: Therefore as stubble shall be burnt by a coal of fire, and shall be consumed by a violent flame, their root shall be as chaff, and their flower shall go up as dust: for they rejected the law of the Lord of hosts, and insulted the word of the Holy One of Israel.
 
 ### Isaiah 5:25
@@ -158535,7 +158535,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Lord Sabaoth was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
+- fresh: And Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
 - brenton: Therefore the Lord of hosts was greatly angered against his people, and he reached forth his hand upon them, and smote them: and the mountains were troubled, and their carcases were as dung in the midst of the way: yet for all this his anger has not been turned away, but his hand is yet raised.
 
 ### Isaiah 5:26
@@ -158607,7 +158607,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And one cried to another and said, Holy, holy, holy, Lord Sabaoth; whole earth full of his glory.
+- fresh: And one cried to another and said, Holy, holy, holy, Lord of hosts; whole earth full of his glory.
 - brenton: And one cried to the other, and they said, Holy, holy, holy, is the Lord of hosts: the whole earth is full of his glory.
 
 ### Isaiah 6:4
@@ -158625,7 +158625,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw king Lord Sabaoth with my eyes.
+- fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw king Lord of hosts with my eyes.
 - brenton: And I said, Woe is me, for I am pricked to the heart; for being a man, and having unclean lips, I dwell in the midst of a people having unclean lips; and I have seen with mine eyes the King, the Lord of hosts.
 
 ### Isaiah 6:6
@@ -158760,7 +158760,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says Lord Sabaoth: This counsel will certainly not remain, nor shall it be.
+- fresh: Thus says Lord of hosts: This counsel will certainly not remain, nor shall it be.
 - brenton: thus saith the Lord of hosts, This counsel shall not abide, nor come to pass.
 
 ### Isaiah 7:8
@@ -159084,7 +159084,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from Lord Sabaoth who dwells on Mount Zion.
+- fresh: Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from Lord of hosts who dwells on Mount Zion.
 - brenton: Behold I and the children which God has given me: and they shall be for signs and wonders in the house of Israel from the Lord of hosts, who dwells in mount Sion.
 
 ### Isaiah 8:19
@@ -159183,7 +159183,7 @@ Note:
 - decisions: 1
 - footnotes: 2
 - same_normalized: no
-- fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord Sabaoth will do these things.
+- fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of Lord of hosts will do these things.
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ### Isaiah 9:7
@@ -159453,7 +159453,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And not thus, but Lord Sabaoth will send dishonor into your honor, and under your glory burning fire will be burned.
+- fresh: And not thus, but Lord of hosts will send dishonor into your honor, and under your glory burning fire will be burned.
 - brenton: but the Lord of hosts shall send dishonour upon thine honour, and burning fire shall be kindled upon thy glory.
 
 ### Isaiah 10:17
@@ -159525,7 +159525,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says Lord Sabaoth, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see way of Egypt.
+- fresh: Therefore thus says Lord of hosts, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see way of Egypt.
 - brenton: Therefore thus saith the Lord of hosts, Be not afraid, my people who dwell in Sion, of the Assyrians, because he shall smite thee with a rod: for I am bringing a stroke upon thee, that thou mayest see the way of Egypt.
 
 ### Isaiah 10:25
@@ -159606,7 +159606,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For look, Master Lord Sabaoth shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
+- fresh: For look, Master Lord of hosts shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
 - brenton: Behold, the Lord, the Lord of hosts, will mightily confound the glorious ones; and the haughty in pride shall be crushed, and the lofty shall be brought low:
 
 ### Isaiah 10:34
@@ -159849,7 +159849,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Voice of many nations on mountains, like many nations; voice of kings and nations gathered together. Lord Sabaoth has commanded warlike nation
+- fresh: Voice of many nations on mountains, like many nations; voice of kings and nations gathered together. Lord of hosts has commanded warlike nation
 - brenton: A voice of many nations on the mountains, even like to that of many nations; a voice of kings and nations gathered together: the Lord of hosts has given command to a war-like nation,
 
 ### Isaiah 13:5
@@ -159930,7 +159930,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of Lord Sabaoth in day when his anger comes.
+- fresh: For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of Lord of hosts in day when his anger comes.
 - brenton: For the heaven shall be enraged, and the earth shall be shaken from her foundation, because of the fierce anger of the Lord of hosts, in the day in which his wrath shall come on.
 
 ### Isaiah 13:14
@@ -160209,7 +160209,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will rise against them, says Lord Sabaoth, and I will destroy from them name and remnant and seed, thus says Lord.
+- fresh: And I will rise against them, says Lord of hosts, and I will destroy from them name and remnant and seed, thus says Lord.
 - brenton: And I will rise up against them, saith the Lord of hosts, and I will destroy their name, and remnant, and seed: thus saith the Lord.
 
 ### Isaiah 14:23
@@ -160227,7 +160227,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says Lord Sabaoth: As I have spoken, so it will be, and as I have counseled, so it remains,
+- fresh: Thus says Lord of hosts: As I have spoken, so it will be, and as I have counseled, so it remains,
 - brenton: Thus saith the Lord of hosts, As I have said, so it shall be: and as I have purposed, so the matter shall remain:
 
 ### Isaiah 14:25
@@ -160533,7 +160533,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says Lord Sabaoth.
+- fresh: And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says Lord of hosts.
 - brenton: And she shall no longer be a strong place for Ephraim to flee to, and there shall no longer be a kingdom in Damascus, or a remnant of Syrians; for thou art no better than the children of Israel, even than their glory; thus saith the Lord of hosts.
 
 ### Isaiah 17:4
@@ -160695,7 +160695,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time gifts will be brought to Lord Sabaoth from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of Lord Sabaoth was invoked, Mount Zion.
+- fresh: At that time gifts will be brought to Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of Lord of hosts was invoked, Mount Zion.
 - brenton: In that time shall presents be brought to the Lord of hosts from a people afflicted and peeled, and from a people great from henceforth and for ever; a nation hoping and yet trodden down, which is in a part of a river of his land, to the place where is the name of the Lord of hosts, the mount Sion.
 
 ### Isaiah 19:1
@@ -160731,7 +160731,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says Lord Sabaoth.
+- fresh: And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says Lord of hosts.
 - brenton: And I will deliver Egypt into the hands of men, of cruel lords; and cruel kings shall rule over them: thus saith the Lord of hosts.
 
 ### Isaiah 19:5
@@ -160803,7 +160803,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Where now are your wise men? Let them announce to you and tell what Lord Sabaoth has counseled against Egypt.
+- fresh: Where now are your wise men? Let them announce to you and tell what Lord of hosts has counseled against Egypt.
 - brenton: Where are now thy wise men? and let them declare to thee, and say, What has the Lord of hosts purposed upon Egypt?
 
 ### Isaiah 19:13
@@ -160839,7 +160839,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Egyptians will be as women, in fear and trembling from face of hand of Lord Sabaoth which he himself lays upon them.
+- fresh: In that day Egyptians will be as women, in fear and trembling from face of hand of Lord of hosts which he himself lays upon them.
 - brenton: But in that day the Egyptians shall be as women, in fear and in trembling because of the hand of the Lord of hosts, which he shall bring upon them.
 
 ### Isaiah 19:17
@@ -160920,7 +160920,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: which Lord Sabaoth blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
+- fresh: which Lord of hosts blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
 - brenton: saying, Blessed be my people that is in Egypt, and that is among the Assyrians, and Israel mine inheritance.
 
 ### Isaiah 20:1
@@ -161064,7 +161064,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear, you left behind and you being pained; hear what Lord Sabaoth, God of Israel, announced to us.
+- fresh: Hear, you left behind and you being pained; hear what Lord of hosts, God of Israel, announced to us.
 - brenton: Hear, ye that are left, and ye that are in pain, hear what things I have heard of the Lord of hosts which the God of Israel has declared to us.
 
 ### Isaiah 21:11
@@ -161172,7 +161172,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because day of trouble and destruction and trampling and wandering from Lord Sabaoth in valley of Zion; they wander from small to great, they wander on mountains.
+- fresh: Because day of trouble and destruction and trampling and wandering from Lord of hosts in valley of Zion; they wander from small to great, they wander on mountains.
 - brenton: For it is a day of trouble, and of destruction, and of treading down, and there is perplexity sent from the Lord of hosts: they wander in the valley of Sion; they wander from the least to the greatest on the mountains.
 
 ### Isaiah 22:6
@@ -161235,7 +161235,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Lord Sabaoth called in that day for weeping and mourning and shaving and girding of sackcloth.
+- fresh: And Lord of hosts called in that day for weeping and mourning and shaving and girding of sackcloth.
 - brenton: And the Lord, the Lord of hosts, called in that day for weeping, and lamentation, and baldness, and for girding with sackcloth:
 
 ### Isaiah 22:13
@@ -161253,7 +161253,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these things are uncovered in ears of Lord Sabaoth: this sin will certainly not be forgiven you until you die.
+- fresh: And these things are uncovered in ears of Lord of hosts: this sin will certainly not be forgiven you until you die.
 - brenton: And these things are revealed in the ears of the Lord of hosts: for this sin shall not be forgiven you, until ye die.
 
 ### Isaiah 22:15
@@ -161262,7 +161262,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says Lord Sabaoth: Go into chamber to Sobna the steward and say to him,
+- fresh: Thus says Lord of hosts: Go into chamber to Sobna the steward and say to him,
 - brenton: Thus saith the Lord of hosts, Go into the chamber, to Somnas the treasurer, and say to him, Why art thou here?
 
 ### Isaiah 22:16
@@ -161280,7 +161280,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look now, Lord Sabaoth will throw out and pulverize man and remove your robe.
+- fresh: Look now, Lord of hosts will throw out and pulverize man and remove your robe.
 - brenton: Behold now, the Lord of hosts casts forth and will utterly destroy such a man, and will take away thy robe and thy glorious crown,
 
 ### Isaiah 22:18
@@ -161352,7 +161352,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, thus says Lord Sabaoth, man supported in trustworthy place will be shaken, and he will fall, and glory upon him will be removed, because Lord spoke.
+- fresh: In that day, thus says Lord of hosts, man supported in trustworthy place will be shaken, and he will fall, and glory upon him will be removed, because Lord spoke.
 - brenton: Thus saith the Lord of hosts, The man that is fastened in the sure place shall be removed and be taken away, and shall fall; and the glory that is upon him shall be utterly destroyed: for the Lord has spoken it.
 
 ### Isaiah 23:1
@@ -161433,7 +161433,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord Sabaoth counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
+- fresh: Lord of hosts counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
 - brenton: The Lord of hosts has purposed to bring down all the pride of the glorious ones, and to disgrace every glorious thing on the earth.
 
 ### Isaiah 23:10
@@ -161451,7 +161451,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your hand, the one provoking kings, no longer has strength over the sea. Lord Sabaoth commanded concerning Canaan to destroy her strength.
+- fresh: And your hand, the one provoking kings, no longer has strength over the sea. Lord of hosts commanded concerning Canaan to destroy her strength.
 - brenton: And thy hand prevails no more by sea, which troubled kings: the Lord of hosts has given a command concerning Chanaan, to destroy the strength thereof.
 
 ### Isaiah 23:12
@@ -161775,7 +161775,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Lord Sabaoth will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
+- fresh: And Lord of hosts will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
 - brenton: And the Lord of hosts shall make a feast for all the nations: on this mount they shall drink gladness, they shall drink wine:
 
 ### Isaiah 25:7
@@ -162180,7 +162180,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Lord Sabaoth will be crown of hope, woven thing of glory, to remnant of my people.
+- fresh: In that day Lord of hosts will be crown of hope, woven thing of glory, to remnant of my people.
 - brenton: In that day the Lord of hosts shall be the crown of hope, the woven crown of glory, to the remnant of the people.
 
 ### Isaiah 28:6
@@ -162333,7 +162333,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from Lord Sabaoth, what he will do upon whole earth.
+- fresh: And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from Lord of hosts, what he will do upon whole earth.
 - brenton: Therefore do not ye rejoice, neither let your bands be made strong; for I have heard of works finished and cut short by the Lord of hosts, which he will execute upon all the earth.
 
 ### Isaiah 28:23
@@ -162396,7 +162396,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these things came out from Lord Sabaoth: counsel wonders; lift vain comfort high.
+- fresh: And these things came out from Lord of hosts: counsel wonders; lift vain comfort high.
 - brenton: And these signs came forth from the Lord of hosts. Take counsel, exalt vain comfort.
 
 ### Isaiah 29:1
@@ -162450,7 +162450,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For from Lord Sabaoth there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
+- fresh: For from Lord of hosts there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
 - brenton: from the Lord of hosts: for there shall be a visitation with thunder, and earthquake, and a loud noise, a rushing tempest, and devouring flame of fire.
 
 ### Isaiah 29:7
@@ -162945,7 +162945,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus Lord Sabaoth will come down to campaign against Mount Zion and her mountains.
+- fresh: Because thus Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus Lord of hosts will come down to campaign against Mount Zion and her mountains.
 - brenton: For thus said the Lord to me, As a lion would roar, or a lion's whelp over prey which he has taken, and cry over it, until the mountains are filled with his voice, and the animals are awe-struck and tremble at the fierceness of his wrath: so the Lord of hosts shall descend to fight upon the mount Sion, even upon her mountains.
 
 ### Isaiah 31:5
@@ -163971,7 +163971,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord Sabaoth, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
+- fresh: Lord of hosts, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
 - brenton: O Lord of hosts, God of Israel, who sittest upon the cherubs, thou alone art the God of every kingdom of the world: thou hast made heaven and earth.
 
 ### Isaiah 37:17
@@ -164115,7 +164115,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from Jerusalem those left will go out and those being saved from Mount Zion. Zeal of Lord Sabaoth will do these things.
+- fresh: Because from Jerusalem those left will go out and those being saved from Mount Zion. Zeal of Lord of hosts will do these things.
 - brenton: for out of Jerusalem there shall be a remnant, and the saved ones out of mount Sion: the zeal of the Lord of hosts shall perform this.
 
 ### Isaiah 37:33
@@ -164412,7 +164412,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said to him, Hear word of Lord Sabaoth.
+- fresh: And Isaiah said to him, Hear word of Lord of hosts.
 - brenton: And Esaias said to him, Hear the word of the Lord of hosts:
 
 ### Isaiah 39:6
@@ -165510,7 +165510,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says God, king of Israel, one rescuing him, God Sabaoth: I first, and I after these things; besides me no god exists.
+- fresh: Thus says God, king of Israel, one rescuing him, God of hosts: I first, and I after these things; besides me no god exists.
 - brenton: Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.
 
 ### Isaiah 44:7
@@ -165825,7 +165825,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says Lord Sabaoth.
+- fresh: I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says Lord of hosts.
 - brenton: I have raised him up to be a king with righteousness, and all his ways are right: he shall build my city, and shall turn the captivity of my people, not for ransoms, nor for rewards, saith the Lord of hosts.
 
 ### Isaiah 45:14
@@ -165834,7 +165834,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says Lord Sabaoth: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
+- fresh: Thus says Lord of hosts: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
 - brenton: Thus saith the Lord of hosts, Egypt has laboured for thee; and the merchandise of the Ethiopians, and the Sabeans, men of stature, shall pass over to thee, and shall be thy servants; and they shall follow after thee bound in fetters, and shall pass over to thee, and shall do obeisance to thee, and make supplication to thee: because God is in thee; and there is no God beside thee, O Lord.
 
 ### Isaiah 45:15
@@ -166086,7 +166086,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Said your rescuer, Lord Sabaoth, Holy One of Israel his name.
+- fresh: Said your rescuer, Lord of hosts, Holy One of Israel his name.
 - brenton: Thy deliverer is the Lord of hosts, the Holy One of Israel is his name.
 
 ### Isaiah 47:5
@@ -166203,7 +166203,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And holding fast to name of holy city and leaning on God of Israel; Lord Sabaoth his name.
+- fresh: And holding fast to name of holy city and leaning on God of Israel; Lord of hosts his name.
 - brenton: maintaining also the name of the holy city, and staying themselves on the God of Israel: the Lord of hosts is his name. The former things I have already declared;
 
 ### Isaiah 48:3
@@ -166851,7 +166851,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I am your God, stirring sea and sounding its waves. Lord Sabaoth my name.
+- fresh: Because I am your God, stirring sea and sounding its waves. Lord of hosts my name.
 - brenton: for I am thy God, that troubles the sea, and causes the waves thereof to roar: the Lord of hosts is my name.
 
 ### Isaiah 51:16
@@ -167211,7 +167211,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Lord making you, Lord Sabaoth his name, and one rescuing you, he God of Israel, will be called God of all earth.
+- fresh: Because Lord making you, Lord of hosts his name, and one rescuing you, he God of Israel, will be called God of all earth.
 - brenton: For it is the Lord that made thee; the Lord of hosts is his name: and he that delivered thee, he is the God of Israel, and shall be called so by the whole earth.
 
 ### Isaiah 54:6
@@ -173936,7 +173936,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In his days Judah will be saved and Israel will camp in confidence, and this is his name which Lord will call him: Josedek.
+- fresh: In his days Judah will be saved and Israel will camp in confidence, and this is his name which Lord will call him: The Lord Is Righteous.
 - brenton: In his days both Juda shall be saved, and Israel shall dwell securely: and this is his name, which the Lord shall call him, Josedec among the prophets.
 
 ### Jeremiah 23:7
@@ -174593,7 +174593,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And that day belongs to Lord our God, day of vengeance to avenge his enemies, and sword of Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to Lord Sabaoth from land of north by river Euphrates.
+- fresh: And that day belongs to Lord our God, day of vengeance to avenge his enemies, and sword of Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to Lord of hosts from land of north by river Euphrates.
 - brenton: And that day shall be to the Lord our God a day of vengeance, to take vengeance on his enemies: and the sword of the Lord shall devour, and be glutted, and be drunken with their blood: for the Lord has a sacrifice from the land of the north at the river Euphrates.
 
 ### Jeremiah 26:11
@@ -183768,7 +183768,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sound of wings of cherubim was heard as far as outer court, like voice of God Shaddai speaking.
+- fresh: And sound of wings of cherubim was heard as far as outer court, like voice of God Almighty speaking.
 - brenton: And the sound of the cherubs' wings was heard as far as the outer court, as the voice of the Almighty God speaking.
 
 ### Ezekiel 10:6

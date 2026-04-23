@@ -19,6 +19,69 @@ DEFAULT_REVIEW_QUEUE = ROOT / "output" / "nt_tr_literal_revision_review_queue.cs
 REVIEW_COLUMNS = ["ukjv_translation", "review_status", "review_notes"]
 STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
 
+NT_PROPER_NAME_REPLACEMENTS = [
+    ("Phares", "Perez"),
+    ("Zara", "Zerah"),
+    ("Thamar", "Tamar"),
+    ("Esrom", "Hezron"),
+    ("Aminadab", "Amminadab"),
+    ("Naasson", "Nahshon"),
+    ("Booz", "Boaz"),
+    ("Rachab", "Rahab"),
+    ("Urias", "Uriah"),
+    ("Roboam", "Rehoboam"),
+    ("Abia", "Abijah"),
+    ("Josaphat", "Jehoshaphat"),
+    ("Ozias", "Uzziah"),
+    ("Joatham", "Jotham"),
+    ("Achaz", "Ahaz"),
+    ("Ezekias", "Hezekiah"),
+    ("Manasses", "Manasseh"),
+    ("Josias", "Josiah"),
+    ("Jechonias", "Jeconiah"),
+    ("Salathiel", "Shealtiel"),
+    ("Zorobabel", "Zerubbabel"),
+    ("Zabulon", "Zebulun"),
+    ("Nephthalim", "Naphtali"),
+    ("Gomorrha", "Gomorrah"),
+    ("Jonas", "Jonah"),
+    ("Sion", "Zion"),
+    ("Barachias", "Berechiah"),
+    ("Noe", "Noah"),
+    ("Elisabeth", "Elizabeth"),
+    ("Aser", "Asher"),
+    ("Thara", "Terah"),
+    ("Nachor", "Nahor"),
+    ("Saruch", "Serug"),
+    ("Ragau", "Reu"),
+    ("Phalec", "Peleg"),
+    ("Sala", "Shelah"),
+    ("Sem", "Shem"),
+    ("Mathusala", "Methuselah"),
+    ("Maleleel", "Mahalaleel"),
+    ("Charran", "Haran"),
+    ("Sychem", "Shechem"),
+    ("Madian", "Midian"),
+    ("Cis", "Kish"),
+    ("Timotheus", "Timothy"),
+    ("Rebecca", "Rebekah"),
+    ("Osee", "Hosea"),
+    ("Sodoma", "Sodom"),
+    ("Phebe", "Phoebe"),
+    ("Agar", "Hagar"),
+    ("Marcus", "Mark"),
+    ("Lucas", "Luke"),
+    ("Sara", "Sarah"),
+    ("Gedeon", "Gideon"),
+    ("Jephthae", "Jephthah"),
+]
+
+NT_CONTEXTUAL_PROPER_NAME_REPLACEMENTS = {
+    "Matthew 1:2": [("Judas", "Judah")],
+    "Matthew 1:3": [("Judas", "Judah")],
+    "Mark 6:3": [("Juda", "Judas")],
+}
+
 
 def greek_has_stem(greek: str, *stems: str) -> bool:
     return any(re.search(rf"(?<!\S){re.escape(stem)}\w*", greek) for stem in stems)
@@ -87,6 +150,16 @@ def replace_word_fixed(text: str, old: str, new: str, note: str, notes: list[str
     if count:
         notes.append(note)
     return new_text
+
+
+def apply_proper_name_revisions(row: dict[str, str], text: str, notes: list[str]) -> str:
+    for old, new in NT_CONTEXTUAL_PROPER_NAME_REPLACEMENTS.get(row.get("ref", ""), []):
+        text = replace_word_fixed(text, old, new, "standardized contextual NT proper-name English equivalent", notes)
+    for old, new in NT_PROPER_NAME_REPLACEMENTS:
+        text = replace_word_fixed(text, old, new, "standardized NT proper-name English equivalent", notes)
+    text = replace_word_fixed(text, "Sabaoth", "hosts", "translated sabaoth as hosts", notes)
+    text = replace_word_fixed(text, "Juda", "Judah", "standardized Juda as Judah in tribe/land contexts", notes)
+    return text
 
 
 def clean_spacing(text: str) -> str:
@@ -733,6 +806,16 @@ def apply_greek_triggered_revisions(row: dict[str, str], text: str, notes: list[
         text = replace_word(text, "minister", "supply", "rendered epichoregeo as supply", notes)
     if greek_has_stem(greek, "αξι") and greek_has_stem(greek, "μετανοι"):
         text = replace_literal(text, r"\bmeet for repentance\b", "worthy of repentance", "rendered axios as worthy", notes, flags=re.I)
+    if greek_has_stem(greek, "δηναρι"):
+        text = replace_word(text, "pence", "denarii", "rendered Greek coin term transliterally", notes)
+        text = replace_word(text, "penny", "denarius", "rendered Greek coin term transliterally", notes)
+    if greek_has_stem(greek, "κοδραντ"):
+        text = replace_word(text, "farthing", "quadrans", "rendered Greek coin term transliterally", notes)
+    if greek_has_stem(greek, "ασσαρι"):
+        text = replace_word(text, "farthing", "assarion", "rendered Greek coin term transliterally", notes)
+    if greek_has_stem(greek, "λεπτ"):
+        text = replace_word(text, "mites", "lepta", "rendered Greek coin term transliterally", notes)
+        text = replace_word(text, "mite", "lepton", "rendered Greek coin term transliterally", notes)
     return text
 
 
@@ -968,6 +1051,29 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\beat not\b", "do not eat", "modernized eat-not wording"),
         (r"\bprevailed not\b", "did not prevail", "modernized prevailed-not wording"),
         (r"\blived not again\b", "did not live again", "modernized lived-not wording"),
+        (r"\bwash not\b", "do not wash", "modernized residual verb-not wording"),
+        (r"\bdefiles not\b", "does not defile", "modernized residual verb-not wording"),
+        (r"\bgoes not out\b", "does not go out", "modernized residual verb-not wording"),
+        (r"\bbelieved him not\b", "did not believe him", "modernized residual verb-not wording"),
+        (r"\bwitness agreed not together\b", "witness did not agree together", "modernized residual verb-not wording"),
+        (r"\bdeparted not from\b", "did not depart from", "modernized residual verb-not wording"),
+        (r"\bfeared not God\b", "did not fear God", "modernized residual verb-not wording"),
+        (r"\blaid not down\b", "did not lay down", "modernized residual verb-not wording"),
+        (r"\bceased not to\b", "did not cease to", "modernized residual verb-not wording"),
+        (r"\bthought not good to\b", "did not think it good to", "modernized residual verb-not wording"),
+        (r"\bpleased not himself\b", "did not please himself", "modernized residual verb-not wording"),
+        (r"\breceived not the\b", "did not receive the", "modernized residual verb-not wording"),
+        (r"\bsuffer not a woman\b", "do not permit a woman", "modernized residual verb-not wording"),
+        (r"\bglorified not himself\b", "did not glorify himself", "modernized residual verb-not wording"),
+        (r"\bcontinued not in\b", "did not continue in", "modernized residual verb-not wording"),
+        (r"\bregarded them not\b", "did not regard them", "modernized residual verb-not wording"),
+        (r"\bCast not away therefore\b", "Do not cast away therefore", "modernized residual verb-not wording"),
+        (r"\bSee that you refuse not\b", "See that you do not refuse", "modernized residual verb-not wording"),
+        (r"\bescaped not\b", "did not escape", "modernized residual verb-not wording"),
+        (r"\brefuse not to die\b", "do not refuse to die", "modernized residual verb-not wording"),
+        (r"\bagreed not among themselves\b", "did not agree among themselves", "modernized residual verb-not wording"),
+        (r"\bhurt not the oil\b", "do not harm the oil", "modernized residual verb-not wording"),
+        (r"\bHurt not the earth\b", "Do not harm the earth", "modernized residual verb-not wording"),
         (r"\bdoes corrupt\b", "corrupt", "fixed does-corrupt agreement"),
         (r"\bare dead which sought\b", "are dead who sought", "modernized personal which as who"),
         (r"\byour sins be forgiven you\b", "your sins are forgiven you", "modernized sins-be-forgiven wording"),
@@ -977,6 +1083,58 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\bin earth\b", "on earth", "modernized in-earth wording"),
         (r"\bif the house be worthy\b", "if the house is worthy", "modernized if-be wording"),
         (r"\bif it be not worthy\b", "if it is not worthy", "modernized if-be wording"),
+        (r"\bIf you be the Son\b", "If you are the Son", "modernized residual be wording"),
+        (r"\bif you be the Son\b", "if you are the Son", "modernized residual be wording"),
+        (r"\bIf you be Christ\b", "If you are Christ", "modernized residual be wording"),
+        (r"\bIf you be the Christ\b", "If you are the Christ", "modernized residual be wording"),
+        (r"\bif you be the Christ\b", "if you are the Christ", "modernized residual be wording"),
+        (r"\bwhether you be the Christ\b", "whether you are the Christ", "modernized residual be wording"),
+        (r"\bif you be willing\b", "if you are willing", "modernized residual be wording"),
+        (r"\bIf I be an offender\b", "If I am an offender", "modernized residual be wording"),
+        (r"\bif your eye be evil\b", "if your eye is evil", "modernized residual be wording"),
+        (r"\bis in you be darkness\b", "is in you is darkness", "modernized residual be wording"),
+        (r"\byou be cast into prison\b", "you may be cast into prison", "modernized residual be wording"),
+        (r"\byou be witnesses\b", "you are witnesses", "modernized residual be wording"),
+        (r"\bmany be stumbled\b", "many will be stumbled", "modernized residual be wording"),
+        (r"\bas soon as you be entered\b", "as soon as you enter", "modernized residual be wording"),
+        (r"\bthey be persuaded\b", "they are persuaded", "modernized residual be wording"),
+        (r"\bthings which be Caesar's\b", "things which are Caesar's", "modernized residual be wording"),
+        (r"\bthings which be God's\b", "things which are God's", "modernized residual be wording"),
+        (r"\bthese be the days\b", "these are the days", "modernized residual be wording"),
+        (r"\bWe be Abraham's seed\b", "We are Abraham's seed", "modernized residual be wording"),
+        (r"\bExcept you be circumcised\b", "Unless you are circumcised", "modernized residual be wording"),
+        (r"\bif you be a breaker\b", "if you are a breaker", "modernized residual be wording"),
+        (r"\bexcept they be sent\b", "unless they are sent", "modernized residual be wording"),
+        (r"\bwhich be the natural branches\b", "which are the natural branches", "modernized residual be wording"),
+        (r"\bwhich be in Christ\b", "which are in Christ", "modernized residual be wording"),
+        (r"\byou be disposed to go\b", "you are disposed to go", "modernized residual be wording"),
+        (r"\bwhether we be Jews or Gentiles\b", "whether we are Jews or Gentiles", "modernized residual be wording"),
+        (r"\bwhether we be slave or free\b", "whether we are slave or free", "modernized residual be wording"),
+        (r"\bwhether we be afflicted\b", "whether we are afflicted", "modernized residual be wording"),
+        (r"\bwhether we be comforted\b", "whether we are comforted", "modernized residual be wording"),
+        (r"\bwhether you be obedient\b", "whether you are obedient", "modernized residual be wording"),
+        (r"\bwhether we be beside ourselves\b", "whether we are beside ourselves", "modernized residual be wording"),
+        (r"\bwhether we be sober\b", "whether we are sober", "modernized residual be wording"),
+        (r"\bif you be otherwise minded\b", "if you are otherwise minded", "modernized residual be wording"),
+        (r"\bif you be led of the Spirit\b", "if you are led by the Spirit", "modernized residual be wording"),
+        (r"\bif you be Christ's\b", "if you are Christ's", "modernized residual be wording"),
+        (r"\bif you be circumcised\b", "if you are circumcised", "modernized residual be wording"),
+        (r"\bif it be of God\b", "if it is of God", "modernized residual be wording"),
+        (r"\bthey be blind\b", "they are blind", "modernized residual be wording"),
+        (r"\bthose who be whole\b", "those who are whole", "modernized residual be wording"),
+        (r"\bmany be called\b", "many are called", "modernized residual be wording"),
+        (r"\bfew chosen\b", "few are chosen", "modernized residual be wording"),
+        (r"\bthey be no gods\b", "they are no gods", "modernized residual be wording"),
+        (r"\bwe be slanderously reported\b", "we are slanderously reported", "modernized residual be wording"),
+        (r"\bif we be dead with\b", "if we died with", "modernized residual be wording"),
+        (r"\bIf we be dead with\b", "If we died with", "modernized residual be wording"),
+        (r"\bif through the offense of one many be dead\b", "if through the offense of one many died", "modernized residual be wording"),
+        (r"\bthose who be of the household\b", "those who are of the household", "modernized residual be wording"),
+        (r"\bthose who be of faith\b", "those who are of faith", "modernized residual be wording"),
+        (r"\bas many as be perfect\b", "as many as are perfect", "modernized residual be wording"),
+        (r"\bthose who be drunken\b", "those who are drunk", "modernized residual be wording"),
+        (r"\bthey be not unfruitful\b", "they may not be unfruitful", "modernized residual be wording"),
+        (r"\byou be not slothful\b", "you may not be slothful", "modernized residual be wording"),
         (r"\bbe not darkness\b", "not be darkness", "modernized be-not clause"),
         (r"\bIf you then be not able\b", "If then you are not able", "modernized be-not clause"),
         (r"\bif you be not that Christ\b", "if you are not the Christ", "modernized if-be wording"),
@@ -1001,6 +1159,62 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\babides not\b", "does not abide", "modernized abides-not wording"),
         (r"\bregards not\b", "does not regard", "modernized regards-not wording"),
         (r"\beats not\b", "does not eat", "modernized eats-not wording"),
+        (r"\bexceeding great joy\b", "exceedingly great joy", "modernized exceeding modifier"),
+        (r"\bexceeding angry\b", "exceedingly angry", "modernized exceeding modifier"),
+        (r"\bexceeding high\b", "exceedingly high", "modernized exceeding modifier"),
+        (r"\bexceeding glad\b", "exceedingly glad", "modernized exceeding modifier"),
+        (r"\bexceeding fierce\b", "exceedingly fierce", "modernized exceeding modifier"),
+        (r"\bexceeding sorry\b", "exceedingly sorry", "modernized exceeding modifier"),
+        (r"\bexceeding sorrowful\b", "exceedingly sorrowful", "modernized exceeding modifier"),
+        (r"\bexceeding white\b", "exceedingly white", "modernized exceeding modifier"),
+        (r"\bexceeding joyful\b", "exceedingly joyful", "modernized exceeding modifier"),
+        (r"\bsore afraid\b", "greatly afraid", "modernized sore modifier"),
+        (r"\bsore amazed\b", "greatly amazed", "modernized sore modifier"),
+        (r"\bsore vexed\b", "severely afflicted", "modernized sore modifier"),
+        (r"\bsore displeased\b", "greatly displeased", "modernized sore modifier"),
+        (r"\brent him sore\b", "convulsed him greatly", "modernized sore modifier"),
+        (r"\bwept sore\b", "wept greatly", "modernized sore modifier"),
+        (r"\bminstrels\b", "flute players", "modernized minstrels"),
+        (r"\bcharger\b", "platter", "modernized charger as platter"),
+        (r"\bchargers\b", "platters", "modernized charger as platter"),
+        (r"\bnot meet to\b", "not fitting to", "modernized meet-as-fitting"),
+        (r"\bam not meet to\b", "am not fit to", "modernized meet-as-fitting"),
+        (r"\bmade us meet to\b", "made us fit to", "modernized meet-as-fitting"),
+        (r"\bit is meet\b", "it is fitting", "modernized meet-as-fitting"),
+        (r"\bcleave to\b", "cling to", "modernized cleave"),
+        (r"\bfoes\b", "enemies", "modernized foes"),
+        (r"\bset a man at variance against\b", "set a man in division against", "modernized variance"),
+        (r"\bfame hereof went abroad\b", "report of this went out", "modernized abroad idiom"),
+        (r"\bspread abroad\b", "spread widely", "modernized abroad idiom"),
+        (r"\bnoised abroad\b", "reported widely", "modernized abroad idiom"),
+        (r"\bwent there a fame abroad of him\b", "a report of him went out", "modernized abroad idiom"),
+        (r"\bThis saying abroad\b", "This saying out", "modernized abroad idiom"),
+        (r"\bthe saying abroad\b", "the saying out", "modernized abroad idiom"),
+        (r"\bDid not you agree\b", "Did you not agree", "modernized inverted question"),
+        (r"\bdid not you sow\b", "did you not sow", "modernized inverted question"),
+        (r"\bWhy could not we cast\b", "Why could we not cast", "modernized inverted question"),
+        (r"\bthere am I\b", "there I am", "modernized inverted clause"),
+        (r"\bhow that he bade them not beware of the leaven of bread\b", "that he did not say to beware of the leaven of bread", "modernized bade/bidden wording"),
+        (r"\bthe one who bade you and him\b", "the one who invited you and him", "modernized bade/bidden wording"),
+        (r"\bwhen the one who bade you comes\b", "when the one who invited you comes", "modernized bade/bidden wording"),
+        (r"\bto him who bade him\b", "to him who invited him", "modernized bade/bidden wording"),
+        (r"\band bade many\b", "and invited many", "modernized bade/bidden wording"),
+        (r"\bSpirit bade me go\b", "Spirit told me to go", "modernized bade/bidden wording"),
+        (r"\bBut bade them farewell\b", "But said farewell to them", "modernized bade/bidden wording"),
+        (r"\band bade that he should be examined\b", "and ordered that he should be examined", "modernized bade/bidden wording"),
+        (r"\bWhen you are bidden\b", "When you are invited", "modernized bade/bidden wording"),
+        (r"\bwhen you are bidden\b", "when you are invited", "modernized bade/bidden wording"),
+        (r"\bherein\b", "in this", "modernized herein"),
+        (r"\bHerein\b", "In this", "modernized herein"),
+        (r"\bhereof\b", "of this", "modernized hereof"),
+        (r"\bscattered abroad\b", "scattered", "modernized abroad idiom"),
+        (r"\bscatters abroad\b", "scatters", "modernized abroad idiom"),
+        (r"\bcome abroad\b", "come out", "modernized abroad idiom"),
+        (r"\bblaze abroad the matter\b", "spread the matter widely", "modernized abroad idiom"),
+        (r"\bshed abroad\b", "poured out", "modernized abroad idiom"),
+        (r"\bdispersed abroad\b", "scattered", "modernized abroad idiom"),
+        (r"\bworldy\b", "worldly", "fixed worldly typo"),
+        (r"\bevery where\b", "everywhere", "modernized every where spelling"),
     ]
     for pattern, replacement, note in final_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
@@ -1054,7 +1268,7 @@ MANUAL_OVERRIDES = {
     "Philippians 1:8": "For God is my witness, how I long for you all in the deep affection of Jesus Christ.",
     "1 Timothy 1:4": "nor to give heed to myths and endless genealogies, which produce disputes rather than godly edification which is in faith.",
     "1 Peter 4:10": "As each received a gift, serve it to one another, as good stewards of the manifold grace of God.",
-    "1 Peter 5:13": "She who is in Babylon, elect together with you, greets you; and Marcus my son.",
+    "1 Peter 5:13": "She who is in Babylon, elect together with you, greets you; and Mark my son.",
     "Revelation 1:1": "Revelation of Jesus Christ, which God gave him to show his slaves what must happen quickly; and he signified it, sending through his angel to his slave John,",
 }
 
@@ -1067,6 +1281,7 @@ def revise_row(row: dict[str, str]) -> tuple[str, list[str], str]:
     notes: list[str] = []
     text = row.get("draft_translation", "")
     text = apply_general_revisions(text, notes)
+    text = apply_proper_name_revisions(row, text, notes)
     text = apply_greek_triggered_revisions(row, text, notes)
     text = apply_final_cleanups(text, notes)
     text = clean_spacing(text)

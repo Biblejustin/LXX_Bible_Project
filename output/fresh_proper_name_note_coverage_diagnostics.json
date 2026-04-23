@@ -5,27 +5,28 @@
   "logos_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
   "ukjv_witness_rows": 31102,
   "hitchcock_meaning_rows": 2731,
-  "note_rows": 3121,
+  "note_rows": 3191,
   "source_counts": {
     "ot_rows": 22896,
     "nt_rows": 7957
   },
   "counts": {
-    "skipped_stopword": 421,
-    "skipped_not_classified": 2652,
-    "equivalent_aligned": 1887,
-    "included_unclassified_resolved_source_form": 1481,
-    "included_transliterated_form": 1958,
-    "included_place": 422,
-    "equivalent_alias": 185,
-    "equivalent_direct": 613,
+    "skipped_stopword": 423,
+    "skipped_not_classified": 2641,
+    "equivalent_aligned": 1872,
+    "included_unclassified_resolved_source_form": 1476,
+    "included_transliterated_form": 1920,
+    "included_place": 423,
+    "equivalent_alias": 183,
+    "equivalent_direct": 647,
     "included_people_group": 148,
-    "skipped_existing_same_source": 198,
-    "included_person": 565,
-    "equivalent_1": 30,
-    "equivalent_0": 192,
-    "equivalent_manual": 214,
-    "included_supernatural_being": 28
+    "skipped_existing_same_source": 199,
+    "included_person": 598,
+    "equivalent_manual": 193,
+    "equivalent_1": 29,
+    "equivalent_0": 193,
+    "included_supernatural_being": 28,
+    "included_manual_contextual_transliterated_note": 74
   },
   "top_rows": [
     {

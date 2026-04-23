@@ -67,7 +67,7 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {row["name"]: row for row in rows}
 
-    assert len(rows) == 3121
+    assert len(rows) == 3191
     assert not [row for row in rows if not row["name_meaning"].strip()]
     assert not [row for row in rows if "meaning uncertain" in row["name_meaning"].lower()]
     assert not [row for row in rows if row["equivalent_confidence"] == "fallback"]
