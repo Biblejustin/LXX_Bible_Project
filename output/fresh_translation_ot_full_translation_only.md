@@ -18028,7 +18028,7 @@ And the name of the Israelite man who had been struck, who was struck with the M
 
 **Numbers 25:15**
 
-And the name of the Midianite woman who had been struck was Chasbi daughter of Sur, chief of the nation Ommoth, of a father's house among Midian.
+And the name of the Midianite woman who had been struck was Chasbi daughter of Sur, chief of a father's house among Midian.
 
 **Numbers 25:16**
 
@@ -30466,7 +30466,7 @@ And Saul went up from after the foreigners, and the foreigners went away to thei
 
 **1 Samuel 14:47**
 
-And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against Baetheor and against king of Zobah and against the foreigners. Wherever he turned, he was being saved.
+And Saul took up rule over Israel and fought all his enemies round about, against Moab and against the sons of Ammon and against the sons of Edom and against the kings of Zobah and against the foreigners. Wherever he turned, he was being saved.
 
 **1 Samuel 14:48**
 
@@ -41906,7 +41906,7 @@ To Gershon: Libni his son, Ieeeth his son, Zemma his son,
 
 **1 Chronicles 6:6**
 
-Ioach his son, Addi his son, Zerah his son, Jethri his son.
+Joab his son, Addi his son, Zerah his son, Jethri his son.
 
 **1 Chronicles 6:7**
 
@@ -42196,7 +42196,7 @@ All these sons of Jediael, chiefs of fathers, mighty in power, were seventeen th
 
 **1 Chronicles 7:12**
 
-And Sapphin and Apphin and sons of Raōm: his son Aher.
+And Sapphin and Apphin and sons of Ir: his son Aher.
 
 **1 Chronicles 7:13**
 

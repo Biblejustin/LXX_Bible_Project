@@ -5,28 +5,28 @@
   "logos_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
   "ukjv_witness_rows": 31102,
   "hitchcock_meaning_rows": 2731,
-  "note_rows": 2335,
+  "note_rows": 2337,
   "source_counts": {
     "ot_rows": 22896,
     "nt_rows": 7957
   },
   "counts": {
     "skipped_stopword": 423,
-    "skipped_not_classified": 2587,
+    "skipped_not_classified": 2585,
     "equivalent_aligned": 802,
     "included_unclassified_resolved_source_form": 449,
     "included_transliterated_form": 456,
     "included_place": 494,
     "equivalent_alias": 79,
-    "equivalent_direct": 1283,
+    "equivalent_direct": 1284,
     "included_people_group": 192,
     "skipped_existing_same_source": 199,
-    "included_person": 1098,
+    "included_person": 1099,
     "equivalent_1": 64,
     "equivalent_manual": 25,
     "equivalent_0": 20,
     "included_supernatural_being": 33,
-    "included_manual_contextual_transliterated_note": 118
+    "included_manual_contextual_transliterated_note": 120
   },
   "top_rows": [
     {
