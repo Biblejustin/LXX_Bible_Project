@@ -1241,6 +1241,9 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
 MANUAL_OVERRIDES = {
     "Matthew 1:1": "Book of the origin of Jesus Christ, son of David, son of Abraham.",
     "Matthew 1:18": "Now the birth of Jesus Christ was this way: after his mother Mary was betrothed to Joseph, before they came together, she was found having in womb from Holy Spirit.",
+    "Matthew 10:5": "These twelve Jesus sent forth, and commanded them, saying, Do not go into the way of the nations, and do not enter into any city of the Samaritans:",
+    "Matthew 13:15": "For this people's heart has become dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.",
+    "Matthew 15:39": "And he sent away the crowd, and got into the boat, and came into the borders of Magdala.",
     "Mark 1:1": "Beginning of the good news of Jesus Christ, Son of God.",
     "Luke 1:1": "Since many took in hand to arrange an account concerning the matters fulfilled among us,",
     "John 1:1": "In the beginning was the Word, and the Word was with God, and the Word was God.",

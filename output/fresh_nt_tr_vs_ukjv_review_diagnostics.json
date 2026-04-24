@@ -7,19 +7,19 @@
   "priority_rows": 0,
   "queue_rows": 0,
   "status_counts": {
-    "tr_literal_manual": 31,
-    "tr_literal_pass1": 5852,
+    "tr_literal_manual": 34,
+    "tr_literal_pass1": 5849,
     "needs_focused_tr_review": 2074
   },
   "latest_review_status_counts": {
-    "keep": 951,
-    "unreviewed": 6892,
-    "revised": 114
+    "keep": 1066,
+    "unreviewed": 6774,
+    "revised": 117
   },
-  "resolved_review_rows": 1065,
+  "resolved_review_rows": 1183,
   "importance_counts": {
-    "none": 7282,
-    "low": 675
+    "none": 7400,
+    "low": 557
   },
   "theme_counts": {
     "christology": 1990,

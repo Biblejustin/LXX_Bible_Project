@@ -5588,7 +5588,7 @@ Greek: τουτους τους δωδεκα απεστειλεν ο ιησους
 Transliteration: toutouv touv dwdeka apesteilen o ihsouv paraggeilav autoiv legwn eiv odon eynwn mh apelyhte kai eiv polin samareitwn mh eiselyhte
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These twelve Jesus sent forth, and commanded them, saying, do not go into the way of the nations, and into any city of the Samaritans enter you not:
+Draft translation: These twelve Jesus sent forth, and commanded them, saying, Do not go into the way of the nations, and do not enter into any city of the Samaritans:
 
 Decision rows:
 - [TODO add decision rows]
@@ -8234,7 +8234,7 @@ Greek: επαχυνθη γαρ η καρδια του λαου τουτου κα
 Transliteration: epacunyh gar h kardia tou laou toutou kai toiv wsin barewv hkousan kai touv ofyalmouv autwn ekammusan mhpote idwsin toiv ofyalmoiv kai toiv wsin akouswsin kai th kardia sunwsin kai epistreqwsin kai iaswmai autouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this people's heart is became dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+Draft translation: For this people's heart has become dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -10598,7 +10598,7 @@ Greek: και απολυσας τους οχλους ενεβη εις το πλ
 Transliteration: kai apolusav touv oclouv enebh eiv to ploion kai hlyen eiv ta oria magdala
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he sent away the crowd, and took boat, and came into the borders of Magdala.
+Draft translation: And he sent away the crowd, and got into the boat, and came into the borders of Magdala.
 
 Decision rows:
 - [TODO add decision rows]

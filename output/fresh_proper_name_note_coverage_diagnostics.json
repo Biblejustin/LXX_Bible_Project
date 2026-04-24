@@ -12,8 +12,8 @@
   },
   "counts": {
     "skipped_stopword": 423,
-    "skipped_not_classified": 2585,
-    "equivalent_aligned": 802,
+    "skipped_not_classified": 2583,
+    "equivalent_aligned": 803,
     "included_unclassified_resolved_source_form": 449,
     "included_transliterated_form": 456,
     "included_place": 494,
@@ -24,7 +24,7 @@
     "included_person": 1099,
     "equivalent_1": 64,
     "equivalent_manual": 25,
-    "equivalent_0": 20,
+    "equivalent_0": 19,
     "included_supernatural_being": 33,
     "included_manual_contextual_transliterated_note": 120
   },

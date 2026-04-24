@@ -3,8 +3,8 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 31,
-    "tr_literal_pass1": 5852,
+    "tr_literal_manual": 34,
+    "tr_literal_pass1": 5849,
     "needs_focused_tr_review": 2074
   },
   "changed_by_book": {
@@ -37,7 +37,7 @@
     "REV": 299
   },
   "rule_counts": {
-    "manual TR literal override": 31,
+    "manual TR literal override": 34,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 228,
     "rendered general brings-forth as produces": 29,
@@ -58,13 +58,13 @@
     "modernized he-that relative": 260,
     "UKJV seed retained; needs focused Greek review": 2074,
     "standardized Juda as Judah in tribe/land contexts": 8,
-    "removed UKJV plural-expansion artifact": 1116,
+    "removed UKJV plural-expansion artifact": 1115,
     "modernized lo": 30,
     "modernized exceeding modifier": 13,
     "modernized were-come perfect": 39,
     "modernized worshipped spelling": 28,
     "modernized be-you imperative": 39,
-    "modernized coasts as borders": 14,
+    "modernized coasts as borders": 13,
     "modernized slew": 10,
     "modernized thereof": 38,
     "standardized Jeremiah": 2,
@@ -84,16 +84,16 @@
     "modernized residual be wording": 48,
     "modernized get-you imperative": 4,
     "modernized sea-coast idiom": 2,
-    "rendered ethne as nations": 94,
+    "rendered ethne as nations": 93,
     "modernized them-which relative": 80,
     "modernized from-thence idiom": 16,
-    "rendered ploion as boat": 43,
+    "rendered ploion as boat": 42,
     "rendered euangelion as good news": 95,
     "literalized seleniazomai": 2,
     "modernized divers": 16,
     "modernized palsy": 12,
     "rendered daimonizomai as demonized": 4,
-    "rendered ochlos as crowd": 79,
+    "rendered ochlos as crowd": 78,
     "modernized they-that relative": 95,
     "modernized they-which relative": 46,
     "kept huios as sons where Greek has sons of God": 2,
@@ -184,7 +184,6 @@
     "modernized abroad idiom": 23,
     "rendered kophos as mute": 8,
     "modernized labour spelling": 49,
-    "modernized go-not idiom": 6,
     "modernized staves": 7,
     "modernized if-be wording": 2,
     "modernized him-which relative": 12,
@@ -203,7 +202,6 @@
     "modernized forthwith": 9,
     "modernized hear-not wording": 1,
     "modernized see-not wording": 1,
-    "modernized waxed-gross idiom": 2,
     "modernized he-which relative": 23,
     "modernized by-and-by idiom": 4,
     "rendered this aion as this age": 13,
@@ -268,6 +266,7 @@
     "modernized henceforth": 10,
     "modernized rumours spelling": 2,
     "modernized who-be wording": 3,
+    "modernized go-not idiom": 5,
     "modernized wherever spelling": 6,
     "modernized knew-not idiom": 13,
     "modernized does-come wording": 1,
@@ -411,6 +410,7 @@
     "modernized colour spelling": 2,
     "modernized under-color idiom": 1,
     "modernized immoveable spelling": 2,
+    "modernized waxed-gross idiom": 1,
     "modernized all-that-be wording": 1,
     "fixed non-person relative after righteousness": 1,
     "modernized things-which-be-not wording": 1,
@@ -520,9 +520,9 @@
         "draft_translation": "Now the birth of Jesus Christ was this way: after his mother Mary was betrothed to Joseph, before they came together, she was found having in womb from Holy Spirit."
       },
       {
-        "ref": "Mark 1:1",
-        "book_code": "MRK",
-        "draft_translation": "Beginning of the good news of Jesus Christ, Son of God."
+        "ref": "Matthew 10:5",
+        "book_code": "MAT",
+        "draft_translation": "These twelve Jesus sent forth, and commanded them, saying, Do not go into the way of the nations, and do not enter into any city of the Samaritans:"
       }
     ],
     "aligned gennao with fathered": [
@@ -2777,23 +2777,6 @@
         "draft_translation": "Come to me, all you that labor and are heavy laden, and I will give you rest."
       }
     ],
-    "modernized go-not idiom": [
-      {
-        "ref": "Matthew 10:5",
-        "book_code": "MAT",
-        "draft_translation": "These twelve Jesus sent forth, and commanded them, saying, do not go into the way of the nations, and into any city of the Samaritans enter you not:"
-      },
-      {
-        "ref": "Matthew 24:26",
-        "book_code": "MAT",
-        "draft_translation": "Therefore if they shall say to you, Look, he is in the desert; do not go forth: look, he is in the secret chambers; believe it not."
-      },
-      {
-        "ref": "Luke 10:7",
-        "book_code": "LUK",
-        "draft_translation": "And in the same house remain, eating and drinking such things as they give: for the laborer is worthy of his hire. do not go from house to house."
-      }
-    ],
     "modernized staves": [
       {
         "ref": "Matthew 10:10",
@@ -3048,18 +3031,6 @@
         "ref": "Matthew 13:13",
         "book_code": "MAT",
         "draft_translation": "Therefore speak I to them in parables: because they seeing do not see; and hearing they do not hear, neither do they understand."
-      }
-    ],
-    "modernized waxed-gross idiom": [
-      {
-        "ref": "Matthew 13:15",
-        "book_code": "MAT",
-        "draft_translation": "For this people's heart is became dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them."
-      },
-      {
-        "ref": "Acts 28:27",
-        "book_code": "ACT",
-        "draft_translation": "For the heart of this people is became dull, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them."
       }
     ],
     "modernized he-which relative": [
@@ -4018,6 +3989,23 @@
         "ref": "1 Peter 2:7",
         "book_code": "1PE",
         "draft_translation": "To you therefore who believe he is precious: but to those who are disobedient, the stone which the builders disallowed, the same is made the head of the corner,"
+      }
+    ],
+    "modernized go-not idiom": [
+      {
+        "ref": "Matthew 24:26",
+        "book_code": "MAT",
+        "draft_translation": "Therefore if they shall say to you, Look, he is in the desert; do not go forth: look, he is in the secret chambers; believe it not."
+      },
+      {
+        "ref": "Luke 10:7",
+        "book_code": "LUK",
+        "draft_translation": "And in the same house remain, eating and drinking such things as they give: for the laborer is worthy of his hire. do not go from house to house."
+      },
+      {
+        "ref": "Luke 17:23",
+        "book_code": "LUK",
+        "draft_translation": "And they shall say to you, See here; or, see there: do not go after them, nor follow them."
       }
     ],
     "modernized wherever spelling": [
@@ -5779,6 +5767,13 @@
         "ref": "1 Corinthians 15:58",
         "book_code": "1CO",
         "draft_translation": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, since you know that your labor is not in vain in the Lord."
+      }
+    ],
+    "modernized waxed-gross idiom": [
+      {
+        "ref": "Acts 28:27",
+        "book_code": "ACT",
+        "draft_translation": "For the heart of this people is became dull, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them."
       }
     ],
     "modernized all-that-be wording": [

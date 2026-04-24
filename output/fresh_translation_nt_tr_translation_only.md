@@ -1134,7 +1134,7 @@ Simon the Canaanite, and Judas Iscariot, who also betrayed him.
 
 **Matthew 10:5**
 
-These twelve Jesus sent forth, and commanded them, saying, do not go into the way of the nations, and into any city of the Samaritans enter you not:
+These twelve Jesus sent forth, and commanded them, saying, Do not go into the way of the nations, and do not enter into any city of the Samaritans:
 
 **Matthew 10:6**
 
@@ -1668,7 +1668,7 @@ And in them is fulfilled the prophecy of Isaiah, which says, By hearing you shal
 
 **Matthew 13:15**
 
-For this people's heart is became dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+For this people's heart has become dull, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
 
 **Matthew 13:16**
 
@@ -2144,7 +2144,7 @@ And those who did eat were four thousand men, beside women and children.
 
 **Matthew 15:39**
 
-And he sent away the crowd, and took boat, and came into the borders of Magdala.
+And he sent away the crowd, and got into the boat, and came into the borders of Magdala.
 
 ### Chapter 16
 
