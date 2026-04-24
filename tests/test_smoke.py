@@ -45,12 +45,15 @@ def test_fresh_source_csv_shapes() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     nt_rows = csv_rows("data/raw/tr_greek/nt_full.csv")
 
-    assert len(ot_rows) == 22896
+    assert len(ot_rows) == 22909
     assert len(nt_rows) == 7957
     assert SOURCE_COLUMNS <= set(ot_rows[0])
     assert SOURCE_COLUMNS | {"ukjv_translation", "review_status", "review_notes"} <= set(nt_rows[0])
     assert ot_rows[0]["ref"] == "Genesis 1:1"
     assert nt_rows[0]["ref"] == "Matthew 1:1"
+    assert [row["ref"] for row in ot_rows if row["greek_text"] == "MT-only insertion; no LXX Greek row"] == [
+        f"Jeremiah 40:{verse}" for verse in range(14, 27)
+    ]
 
 
 def test_tr_manifest_matches_imported_csv() -> None:
@@ -64,6 +67,40 @@ def test_tr_manifest_matches_imported_csv() -> None:
     assert all(row["ukjv_translation"].strip() for row in nt_rows)
 
 
+def test_jeremiah_33_mt_only_completeness_insertion_is_marked_and_mapped() -> None:
+    ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
+    mt_only_rows = [row for row in ot_rows if row["greek_text"] == "MT-only insertion; no LXX Greek row"]
+
+    assert [row["ref"] for row in mt_only_rows] == [f"Jeremiah 40:{verse}" for verse in range(14, 27)]
+    assert all(row["draft_translation"].startswith("[") and row["draft_translation"].endswith("]") for row in mt_only_rows)
+
+    versification_map = json.loads(
+        (ROOT / "data" / "versification" / "lxx_to_eng_map.json").read_text(encoding="utf-8")
+    )["mapped_refs"]
+    for verse in range(14, 27):
+        assert versification_map[f"JER 40:{verse}"] == f"JER 33:{verse}"
+
+    notes = csv_rows("data/research/translation_footnotes.csv")
+    note = next(row for row in notes if row["ref"] == "Jeremiah 40:14" and row["note_type"] == "textual")
+    assert "supplies MT Jeremiah 33:14-26" in note["footnote_text"]
+    assert "absent from the LXX text used here" in note["footnote_text"]
+    assert "not quoted in the New Testament" in note["footnote_text"]
+
+
+def test_1_kings_20_21_lxx_ordering_is_present_and_mapped() -> None:
+    ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
+    by_ref = {row["ref"]: row for row in ot_rows}
+
+    assert "Naboth" in by_ref["1 Kings 20:1"]["draft_translation"]
+    assert "son of Hadad" in by_ref["1 Kings 21:1"]["draft_translation"]
+
+    versification_map = json.loads(
+        (ROOT / "data" / "versification" / "lxx_to_eng_map.json").read_text(encoding="utf-8")
+    )["mapped_refs"]
+    assert versification_map["1KI 21:1"] == "1KI 20:1"
+    assert versification_map["1KI 21:43"] == "1KI 20:43"
+
+
 def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {row["name"]: row for row in rows}
@@ -74,7 +111,8 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
     assert not [row for row in rows if row["equivalent_confidence"] == "fallback"]
 
     expected = {
-        "Ramathaimzophim": ("Ramathaimzophim", "the two watch-towers"),
+        "Ramathaim-Zophim": ("Ramathaim-Zophim", "the two watch-towers"),
+        "Dizahab": ("Dizahab", "where much gold is"),
         "Tohu": ("Tohu", "that lives; that declares"),
         "Hannah": ("Hannah", "gracious; merciful; he that gives"),
         "Peninnah": ("Peninnah", "pearl; precious stone; the face"),

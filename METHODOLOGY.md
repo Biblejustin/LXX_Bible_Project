@@ -77,6 +77,27 @@ Cross-references are generated from public-domain TSK data, with OpenBible data
 available as a separately noticed support layer. Large reference sets are
 filtered for readability in the Logos Personal Book output.
 
+## Reader-Facing Conventions
+
+The Old Testament Logos output keeps LXX source ordering and visible LXX verse
+numbers. The MT-note bridge file may remap hidden Logos milestones to standard
+English/MT references so existing reference-anchored notes can appear, but the
+printed verse numbers remain from the LXX source rows by design.
+
+Jeremiah 40:14-26 is a deliberate completeness insertion for MT Jeremiah
+33:14-26. It is bracketed in the main text because those verses are present in
+the Masoretic Text, absent from the LXX text used for this edition, and not
+quoted in the New Testament.
+
+Some 1 Kings material follows the Greek order rather than the standard
+English/MT chapter order. The Naboth vineyard account appears in this
+LXX-numbered edition at 1 Kings 20, while the Ben-Hadad battle material appears
+at 1 Kings 21. That is source ordering, not a missing chapter.
+
+Phrases such as "sons of Israel" and "sons of men" are intentionally literal
+where the Greek uses son-language. These may be smoothed later only after local
+review, not by a global replacement.
+
 ## Proper Names And Places
 
 Proper-name notes come from:
@@ -97,6 +118,11 @@ The intended policy is:
   meaning.
 - Deuterocanonical and non-canonical names may be marked for later review when
   no reliable equivalent is established.
+
+Name meanings are a reader aid, not a claim of final etymological certainty.
+Many current meanings are seeded from public-domain legacy resources such as
+Hitchcock's Bible Names Dictionary, then supplemented with manual review. These
+entries should be corrected when stronger lexical evidence is found.
 
 ## Private Research Boundary
 

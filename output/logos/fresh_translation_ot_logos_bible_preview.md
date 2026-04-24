@@ -72,7 +72,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Deuteronomy
 
-**Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Paran and Tophel and Laban and Aulon and Katakrusea.
+**Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Paran and Tophel and Laban and Aulon and Dizahab.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 20
@@ -140,7 +140,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Samuel
 
-**1 Samuel 1:1** There was a man from Ramathaimzophim, from the hill-country of Ephraim, and his name was Elkana, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
+**1 Samuel 1:1** There was a man from Ramathaim-Zophim, from the hill-country of Ephraim, and his name was Elkana, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 11
@@ -150,7 +150,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**1 Samuel 1:3** And the man went up from days to days from his city, from Ramathaimzophim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
+**1 Samuel 1:3** And the man went up from days to days from his city, from Ramathaim-Zophim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 19

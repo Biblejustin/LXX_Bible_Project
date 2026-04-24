@@ -6,7 +6,9 @@
 - UKJV distributed here as public-domain text; credit line included here as
   requested and gladly given: `I love Jesus (UKJV)`.
 - Hitchcock's Bible Names Dictionary is public-domain data from the CCEL
-  electronic text and is used for proper-name meaning notes.
+  electronic text and is used as a legacy seed source for some proper-name
+  meaning notes. These meanings are reader aids, not final etymological
+  claims, and should be corrected where stronger lexical evidence warrants.
 - Editor's original material in this project is released under `CC-BY 4.0`,
   except where a separate notice applies.
 - Cross-reference support in this repository includes a `CC-BY` OpenBible data

@@ -860,6 +860,13 @@ def load_verses(path: Path) -> list[Verse]:
     return verses
 
 
+MT_ONLY_COMPLETENESS_REFS = {f"Jeremiah 40:{verse}" for verse in range(14, 27)}
+
+
+def is_mt_only_completeness_verse(verse: Verse) -> bool:
+    return verse.ref in MT_ONLY_COMPLETENESS_REFS
+
+
 def load_variant_decisions(path: Path) -> tuple[dict[str, dict[str, str]], dict[str, int]]:
     counts = Counter({"present": int(path.exists())})
     if not path.exists():
@@ -1588,6 +1595,7 @@ def clean_tsk_markup(fragment: str) -> str:
     fragment = re.sub(r"\bbelieved not\b", "did not believe", fragment, flags=re.I)
     fragment = re.sub(r"\bprevailed not\b", "did not prevail", fragment, flags=re.I)
     fragment = re.sub(r"\bthings in earth\b", "things on earth", fragment, flags=re.I)
+    fragment = re.sub(r"\bRamathaim\s*Zophim\b", "Ramathaim-Zophim", fragment, flags=re.I)
     return fragment.strip(" ;,")
 
 
@@ -2124,7 +2132,7 @@ def build_docx(
             notes=translation_notes.get(verse.ref, []),
             name_notes=name_notes.get(verse.ref, []),
             supplemental_notes=supplemental_notes.get(verse.ref, []),
-            crossref_notes=crossrefs.get(verse.ref, []),
+            crossref_notes=[] if is_mt_only_completeness_verse(verse) else crossrefs.get(verse.ref, []),
             place_links=place_links if logos else {},
             place_link_pattern=place_link_pattern if logos else None,
             logos=logos,
@@ -2523,6 +2531,10 @@ Logos import:
 
 {bridge_note}
 
+Verse numbering:
+
+- OT Logos files preserve LXX source ordering and visible LXX verse numbers by design, including places where LXX chapter/verse order differs from standard English/MT order.
+
 Scope:
 
 - Source basis: {config["source_text"]}.
@@ -2530,6 +2542,10 @@ Scope:
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
 {variant_note}
 - Name meanings: `data/proper_names.csv`, `data/proper_name_transliteration_notes.csv`, and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
+- Name-meaning caution: many meanings are seeded from public-domain legacy sources such as Hitchcock's Bible Names Dictionary and are reader aids, not final etymological claims. Correct stronger lexical evidence should replace them as review continues.
+- Literal phrase convention: phrases such as `sons of Israel` and `sons of men` usually preserve Greek son-language intentionally rather than smoothing by default.
+- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.
+- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter.
 {source_note}
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
 {future_work_note}
