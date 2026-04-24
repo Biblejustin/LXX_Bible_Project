@@ -272,8 +272,7 @@ class TranslationNote:
             prefix = "Textual note"
         else:
             prefix = "Translation note"
-        basis = f" Source: {self.source_basis}." if self.source_basis else ""
-        return f"{prefix}: {self.text}{basis}"
+        return f"{prefix}: {reader_facing_note_text(self.text)}"
 
 
 @dataclass(frozen=True)
@@ -302,7 +301,7 @@ class NameMeaningNote:
 
     @property
     def display_text(self) -> str:
-        return self.text
+        return reader_facing_note_text(self.text)
 
 
 @dataclass(frozen=True)
@@ -443,6 +442,20 @@ def text(text_value: str) -> str:
 
 def normalize_space(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+INTERNAL_NOTE_SENTENCE_PATTERNS = (
+    re.compile(r"\s*Equivalent source: [^.]+\."),
+    re.compile(r"\s*Direct Logos export [^.]+\."),
+    re.compile(r"\s*Local Logos word-sense evidence supports [^.]+\."),
+)
+
+
+def reader_facing_note_text(value: str) -> str:
+    text_value = normalize_space(value)
+    for pattern in INTERNAL_NOTE_SENTENCE_PATTERNS:
+        text_value = pattern.sub("", text_value)
+    return normalize_space(text_value)
 
 
 def normalize_note_ref(ref: str) -> str:
