@@ -14,7 +14,6 @@ import sys
 import zipfile
 from collections import Counter, defaultdict
 from dataclasses import dataclass
-from datetime import UTC, datetime
 from pathlib import Path
 from typing import Iterable
 from xml.etree import ElementTree as ET
@@ -78,6 +77,9 @@ DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
 DEFAULT_TEXTUAL_NOTES_HTML = RESEARCH / "textual_notes_export.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
+
+DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
+DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
 
 TESTAMENT_CONFIG = {
     "ot": {
@@ -415,11 +417,10 @@ class MinimalDocx:
         path.parent.mkdir(parents=True, exist_ok=True)
         document_xml = build_document_xml("\n".join(self.body))
         footnotes_xml = build_footnotes_xml(self.footnotes)
-        now = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
         files = {
             "[Content_Types].xml": content_types_xml(),
             "_rels/.rels": root_rels_xml(),
-            "docProps/core.xml": core_props_xml(self.title, self.subject, now),
+            "docProps/core.xml": core_props_xml(self.title, self.subject, DOCX_CORE_TIMESTAMP),
             "docProps/app.xml": app_props_xml(),
             "word/document.xml": document_xml,
             "word/_rels/document.xml.rels": document_rels_xml(),
@@ -429,7 +430,10 @@ class MinimalDocx:
         }
         with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
             for name, payload in files.items():
-                zf.writestr(name, payload)
+                info = zipfile.ZipInfo(name, date_time=DOCX_ZIP_TIMESTAMP)
+                info.compress_type = zipfile.ZIP_DEFLATED
+                info.external_attr = 0o600 << 16
+                zf.writestr(info, payload, compresslevel=9)
 
 
 def attr(text: str) -> str:

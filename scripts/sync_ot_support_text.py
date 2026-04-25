@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from pipeline_common import ROOT, load_csv, replace_token, write_csv
+from fresh_bible.pipeline_common import ROOT, load_csv, replace_token, write_csv
 
 OT_SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
 DECISIONS = ROOT / "data" / "research" / "translation_decisions.csv"

@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from pipeline_common import ROOT, load_csv, replace_token, run_script, write_csv
+from fresh_bible.pipeline_common import ROOT, load_csv, replace_token, run_script, write_csv
 
 SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
 PRIVATE_DIR = ROOT / "data" / "research" / "local" / "proper_name_review"
