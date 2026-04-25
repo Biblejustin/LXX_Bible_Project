@@ -1,5 +1,5 @@
 {
-  "drafted_rows_compared": 22896,
+  "drafted_rows_compared": 22909,
   "books_with_drafts": [
     "1 Chronicles",
     "1 Kings",
@@ -41,16 +41,16 @@
     "Zechariah",
     "Zephaniah"
   ],
-  "missing_brenton_rows": 575,
+  "missing_brenton_rows": 588,
   "importance_counts": {
-    "high": 22896,
-    "medium": 0,
-    "low": 0,
+    "high": 22897,
+    "medium": 2,
+    "low": 10,
     "none": 0
   },
   "selected_scope": "Genesis-Malachi (39 books)",
-  "selected_verse_rows": 22896,
-  "selected_drafted_rows": 22896,
+  "selected_verse_rows": 22909,
+  "selected_drafted_rows": 22909,
   "min_importance": "none",
-  "output_compare_rows": 22896
+  "output_compare_rows": 22909
 }

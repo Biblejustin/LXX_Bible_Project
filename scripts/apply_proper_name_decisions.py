@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 import argparse
-import csv
 import json
-import re
-import subprocess
 import sys
 from datetime import datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from pipeline_common import ROOT, load_csv, replace_token, run_script, write_csv
 
-ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
 PRIVATE_DIR = ROOT / "data" / "research" / "local" / "proper_name_review"
 PRIVATE_CSV = PRIVATE_DIR / "proper_name_candidates.csv"
@@ -17,31 +15,6 @@ SUMMARY_JSON = PRIVATE_DIR / "last_apply_summary.json"
 SUMMARY_MD = PRIVATE_DIR / "last_apply_summary.md"
 
 APPLY_STATUSES = {"revise-main-text", "apply"}
-
-
-def load_csv(path: Path) -> list[dict[str, str]]:
-    if not path.exists():
-        return []
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
-
-
-def write_csv(path: Path, rows: list[dict[str, str]], fieldnames: list[str]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def run_script(script_name: str) -> None:
-    script_path = ROOT / "scripts" / script_name
-    subprocess.run([sys.executable, str(script_path)], check=True)
-
-
-def replace_token(text: str, current_form: str, preferred_form: str) -> tuple[str, int]:
-    pattern = re.compile(rf"\b{re.escape(current_form)}\b")
-    return pattern.subn(preferred_form, text)
 
 
 def build_summary(timestamp: str, changed: list[dict[str, str]], dry_run: bool) -> dict[str, object]:

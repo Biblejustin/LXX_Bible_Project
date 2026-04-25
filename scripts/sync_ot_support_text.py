@@ -12,8 +12,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from pipeline_common import ROOT, load_csv, replace_token, write_csv
 
-ROOT = Path(__file__).resolve().parents[1]
 OT_SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
 DECISIONS = ROOT / "data" / "research" / "translation_decisions.csv"
 FOOTNOTES = ROOT / "data" / "research" / "translation_footnotes.csv"
@@ -25,27 +26,8 @@ APPLYABLE_NAME_STATUSES = {"apply", "revise-main-text", "done"}
 csv.field_size_limit(sys.maxsize)
 
 
-def load_csv(path: Path) -> list[dict[str, str]]:
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
-
-
-def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
-    if not rows:
-        return
-    with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(rows[0].keys()), lineterminator="\n")
-        writer.writeheader()
-        writer.writerows(rows)
-
-
 def strip_logos_links(text: str) -> str:
     return LOGOS_LINK_RE.sub(lambda match: match.group(1).strip(), text or "")
-
-
-def replace_token(text: str, current_form: str, preferred_form: str) -> tuple[str, int]:
-    pattern = re.compile(rf"\b{re.escape(current_form)}\b")
-    return pattern.subn(preferred_form, text)
 
 
 def apply_contextual_name_replacements(
@@ -183,8 +165,8 @@ def main() -> None:
                 row["footnote_text"] = updated
                 footnote_name_updates += 1
 
-    write_csv(DECISIONS, decisions)
-    write_csv(FOOTNOTES, footnotes)
+    write_csv(DECISIONS, decisions, lineterminator="\n")
+    write_csv(FOOTNOTES, footnotes, lineterminator="\n")
 
     print(
         {

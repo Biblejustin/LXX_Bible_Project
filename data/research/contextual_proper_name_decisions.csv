@@ -1,5 +1,5 @@
 ref,current_form,preferred_form,match_text,replacement_text,reason,status,notes
-Judges 1:30,Kedrōn,Kedron,,,LXX/Brenton form differs from MT Kitron; remove macron without importing MT place name,done,applied 2026-04-21T06:46:07-05:00
+Judges 1:30,Kedrōn,Kidron,,,LXX/Brenton form differs from MT Kitron; use current standard English form and preserve Greek form in note,done,applied 2026-04-21T06:46:07-05:00
 2 Samuel 15:23,Kedrōn,Kidron,,,Jerusalem wadi/torrent context; familiar English form Kidron,done,applied 2026-04-21T06:46:07-05:00
 2 Kings 23:4,Kedrōn,Kidron,,,Jerusalem wadi/torrent context; familiar English form Kidron,done,applied 2026-04-21T06:46:07-05:00
 2 Kings 23:6,Kedrōn,Kidron,,,Jerusalem wadi/torrent context; familiar English form Kidron,done,applied 2026-04-21T06:46:07-05:00
@@ -119,8 +119,8 @@ Nehemiah 12:26,Iōakim,Joiakim,,,Nehemiah priestly context identifies Joiakim,do
 1 Chronicles 15:20,Iiēl,Jehiel,,,Musician list follows MT Jehiel,done,applied 2026-04-21T06:48:43-05:00
 1 Chronicles 15:21,Iiēl,Jeiel,,,Musician list follows MT/Brenton Jeiel,done,applied 2026-04-21T06:48:43-05:00
 1 Chronicles 23:8,Iiēl,Jehiel,,,Laadan genealogy follows MT Jehiel,done,applied 2026-04-21T06:48:43-05:00
-1 Chronicles 26:21,Iiēl,Jehieli,,,Laadan/Gershonite genealogy follows MT Jehieli,done,applied 2026-04-21T06:48:43-05:00
-1 Chronicles 26:22,Iiēl,Jehieli,,,Sons-of-Jehieli line follows MT Jehieli,done,applied 2026-04-21T06:48:43-05:00
+1 Chronicles 26:21,Jehiel,Jehieli,,,Laadan/Gershonite genealogy follows UKJV Jehieli,done,applied 2026-04-21T06:48:43-05:00
+1 Chronicles 26:22,Jehiel,Jehieli,,,Sons-of-Jehieli line follows UKJV Jehieli,done,applied 2026-04-21T06:48:43-05:00
 1 Chronicles 27:32,Iiēl,Jehiel,,,Royal household line follows MT Jehiel,done,applied 2026-04-21T06:48:43-05:00
 1 Chronicles 29:8,Iiēl,Jehiel,,,Gershonite treasurer context follows MT Jehiel,done,applied 2026-04-21T06:48:43-05:00
 2 Chronicles 21:2,Iiēl,Jehiel,,,Jehoshaphat son list follows MT Jehiel,done,applied 2026-04-21T06:48:43-05:00
@@ -190,7 +190,7 @@ Joshua 21:31,Raab,Rehob,,,Levitical city corresponds to Rehob; use standard Engl
 1 Chronicles 18:5,Souba,Zobah,,,Hadarezer kingdom context identifies Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
 1 Chronicles 18:9,Souba,Zobah,,,Hadarezer kingdom context identifies Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
 1 Chronicles 19:6,Souba,Zobah,,,Aramean ally context identifies Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
-2 Chronicles 8:3,Sōba,Hamath-Zobah,Aimath Sōba,Hamath-Zobah,Solomon campaign place corresponds to Hamath-Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
+2 Chronicles 8:3,Hamathzobah,Hamath-Zobah,,,Solomon campaign place corresponds to Hamath-Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
 Psalms 59:2,Soba,Zobah,Syria Soba,Syria of Zobah,Psalm superscription place corresponds to Zobah; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-22T19:35:58-05:00
 1 Chronicles 4:19,Idouia,Hodiah,,,Genealogy wife-name context; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-23T14:10:00-05:00
 1 Chronicles 4:19,Nachem,Naham,,,Genealogy name context; use standard English equivalent and preserve Greek form in note,done,applied 2026-04-23T14:10:00-05:00

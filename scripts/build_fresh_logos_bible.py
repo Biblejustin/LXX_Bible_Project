@@ -76,7 +76,7 @@ DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_ot_logos_bible_diagnostics.jso
 DEFAULT_README = OUTPUT / "README.md"
 DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
-DEFAULT_TEXTUAL_NOTES_HTML = Path.home() / "Desktop" / "The Lexham Textual Notes on the Bible.html"
+DEFAULT_TEXTUAL_NOTES_HTML = RESEARCH / "textual_notes_export.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 
 TESTAMENT_CONFIG = {
@@ -453,6 +453,8 @@ INTERNAL_NOTE_SENTENCE_PATTERNS = (
 
 def reader_facing_note_text(value: str) -> str:
     text_value = normalize_space(value)
+    if not any(marker in text_value for marker in ("Equivalent source:", "Direct Logos export", "Local Logos word-sense evidence supports")):
+        return text_value
     for pattern in INTERNAL_NOTE_SENTENCE_PATTERNS:
         text_value = pattern.sub("", text_value)
     return normalize_space(text_value)
@@ -1340,10 +1342,11 @@ def place_name_meaning_notes_by_chapter(
                 counts["source_ref_anchored_ambiguous_divine_notes"] += 1
 
     seen_in_chapter: set[tuple[str, int, str]] = set()
+    display_text_cache = {note: note.display_text for note in scannable_notes}
     for verse in verses:
         chapter_key = (verse.book_name, verse.chapter)
         for note in scannable_notes:
-            seen_key = (*chapter_key, note.display_text)
+            seen_key = (*chapter_key, display_text_cache[note])
             if seen_key in seen_in_chapter:
                 continue
             if find_trigger_span(

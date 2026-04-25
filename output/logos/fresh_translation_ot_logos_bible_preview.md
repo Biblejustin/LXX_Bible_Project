@@ -73,7 +73,7 @@ This preview shows the first three verses of each book with note/cross-reference
 ## Deuteronomy
 
 **Deuteronomy 1:1** These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, toward the west, near the Red Sea, between Paran and Tophel and Laban and Aulon and Dizahab.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 20
 
@@ -140,8 +140,8 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 1 Samuel
 
-**1 Samuel 1:1** There was a man from Ramathaim-Zophim, from the hill-country of Ephraim, and his name was Elkana, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
-- Translation/textual notes: 1
+**1 Samuel 1:1** There was a man from Ramathaim-Zophim, from the hill-country of Ephraim, and his name was Elkanah, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
 
@@ -157,7 +157,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Samuel
 
-**2 Samuel 1:1** And it came to be after the death of Saul, David returned from striking Amalek, and David sat in Sekelak two days.
+**2 Samuel 1:1** And it came to be after the death of Saul, David returned from striking Amalek, and David sat in Ziklag two days.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
@@ -225,7 +225,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## 2 Chronicles
 
-**2 Chronicles 1:1** And Solomon son of David was strengthened over his kingdom, and Lord his God was with him and magnified him on high.
+**2 Chronicles 1:1** And Solomon son of David was strengthened over his kingdom, and the Lord his God was with him and magnified him on high.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
@@ -235,7 +235,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**2 Chronicles 1:3** And Solomon and all assembly with him went to high place in Gibeon, because there was tent of testimony of God which Moses servant of Lord made in wilderness.
+**2 Chronicles 1:3** And Solomon and all assembly with him went to high place in Gibeon, because there was tent of testimony of God which Moses servant of the Lord made in wilderness.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 8
@@ -247,7 +247,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Ezra 1:2** Thus said Cyrus king of Persians: Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+**Ezra 1:2** Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
@@ -293,7 +293,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Job
 
-**Job 1:1** There was a certain man in the land of Ausitis, whose name was Job, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
+**Job 1:1** There was a certain man in the land of Uz, whose name was Job, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 23
@@ -315,7 +315,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 51
 
-**Psalms 1:2** but his delight is in law of Lord, and in his law he will meditate day and night.
+**Psalms 1:2** but his delight is in law of the Lord, and in his law he will meditate day and night.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 22
@@ -383,7 +383,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 20
 
-**Isaiah 1:2** Hear, heaven, and give ear, earth, because Lord spoke: Sons I begot and raised high, but they rejected me.
+**Isaiah 1:2** Hear, heaven, and give ear, earth, because the Lord spoke: Sons I begot and raised high, but they rejected me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 27
@@ -439,7 +439,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and word of Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and hand of Lord came upon me.
+**Ezekiel 1:3** and word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
@@ -451,7 +451,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**Daniel 1:2** And Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of Lord, and he carried them to Babylon and placed them in his idol-house.
+**Daniel 1:2** And the Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of the Lord, and he carried them to Babylon and placed them in his idol-house.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23
@@ -463,12 +463,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Hosea
 
-**Hosea 1:1** Word of Lord that came to Hosea son of Beeri in days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in days of Jeroboam son of Joash, king of Israel.
+**Hosea 1:1** Word of the Lord that came to Hosea son of Beeri in days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in days of Jeroboam son of Joash, king of Israel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**Hosea 1:2** Beginning of word of Lord to Hosea. And Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from Lord.
+**Hosea 1:2** Beginning of word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19
@@ -480,7 +480,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Joel
 
-**Joel 1:1** Word of Lord that came to Joel son of Pethuel.
+**Joel 1:1** Word of the Lord that came to Joel son of Pethuel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
@@ -502,19 +502,19 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 22
 
-**Amos 1:2** And he said, Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
+**Amos 1:2** And he said, the Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
 
-**Amos 1:3** And Lord said, For three impieties of Damascus and for four I will not turn him away, because they sawed open with iron saws those pregnant among the Gileadites.
+**Amos 1:3** And the Lord said, For three impieties of Damascus and for four I will not turn him away, because they sawed open with iron saws those pregnant among the Gileadites.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23
 
 ## Obadiah
 
-**Obadiah 1:1** Vision of Obadiah. Thus says Lord God to Edom: I heard a report from Lord, and he sent a message to nations: Rise, and let us rise against her for war.
+**Obadiah 1:1** Vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to nations: Rise, and let us rise against her for war.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -531,7 +531,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jonah
 
-**Jonah 1:1** Word of Lord came to Jonah son of Amittai, saying,
+**Jonah 1:1** Word of the Lord came to Jonah son of Amittai, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
@@ -541,14 +541,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 17
 
-**Jonah 1:3** Jonah rose to flee to Tarshish from face of Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from face of Lord.
+**Jonah 1:3** Jonah rose to flee to Tarshish from face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from face of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 25
 
 ## Micah
 
-**Micah 1:1** And word of Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
+**Micah 1:1** And word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
@@ -558,7 +558,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**Micah 1:3** Because behold, Lord goes out from his place and will come down and step upon heights of earth.
+**Micah 1:3** Because behold, the Lord goes out from his place and will come down and step upon heights of earth.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
@@ -599,63 +599,63 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zephaniah
 
-**Zephaniah 1:1** Word of Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in days of Josiah son of Amon king of Judah.
+**Zephaniah 1:1** Word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in days of Josiah son of Amon king of Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**Zephaniah 1:2** Let all things utterly fail from face of earth, says Lord.
+**Zephaniah 1:2** Let all things utterly fail from face of earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9
 
-**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says Lord.
+**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
 
 ## Haggai
 
-**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, word of Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
 
-**Haggai 1:2** Thus says Lord Almighty: This people says, Time has not yet come to build house of Lord.
+**Haggai 1:2** Thus says the Lord Almighty: This people says, Time has not yet come to build house of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Haggai 1:3** Word of Lord came by hand of Haggai prophet, saying,
+**Haggai 1:3** Word of the Lord came by hand of Haggai prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
 
 ## Zechariah
 
-**Zechariah 1:1** In eighth month of second year of Darius, word of Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+**Zechariah 1:1** In eighth month of second year of Darius, word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
 
-**Zechariah 1:2** Lord was angry with your fathers with great anger.
+**Zechariah 1:2** The Lord was angry with your fathers with great anger.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19
 
-**Zechariah 1:3** And you will say to them, Thus says Lord Almighty: Return to me, and I will return to you, says Lord.
+**Zechariah 1:3** And you will say to them, Thus says the Lord Almighty: Return to me, and I will return to you, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 27
 
 ## Malachi
 
-**Malachi 1:1** Oracle of word of Lord upon Israel by hand of his messenger. Put this now on your hearts.
+**Malachi 1:1** Oracle of word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**Malachi 1:2** I loved you, says Lord. And you said, In what way did you love us? Was not Esau brother of Jacob? says Lord. Yet I loved Jacob,
+**Malachi 1:2** I loved you, says the Lord. And you said, In what way did you love us? Was not Esau brother of Jacob? says the Lord. Yet I loved Jacob,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23

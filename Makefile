@@ -1,4 +1,4 @@
-.PHONY: setup test build-ot build-ot-review build-nt clean-working
+.PHONY: setup test build-ot checkpoint-ot build-ot-review build-nt clean-working
 
 PYTHON ?= python3
 
@@ -11,6 +11,9 @@ test:
 
 build-ot:
 	$(PYTHON) scripts/run_book_checkpoint.py
+
+checkpoint-ot:
+	$(PYTHON) scripts/run_book_checkpoint.py --diff-check --smoke-test
 
 build-ot-review:
 	$(PYTHON) scripts/run_priority_review_suite.py

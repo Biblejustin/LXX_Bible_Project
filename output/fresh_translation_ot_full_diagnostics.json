@@ -1,12 +1,12 @@
 {
-  "verse_rows": 22896,
-  "verses_with_greek_text": 22896,
-  "verses_with_draft_translation": 22896,
+  "verse_rows": 22909,
+  "verses_with_greek_text": 22909,
+  "verses_with_draft_translation": 22909,
   "selected_scope": "Genesis-Malachi (39 books)",
-  "selected_verse_rows": 22896,
-  "selected_drafted_rows": 22896,
-  "output_verse_rows": 22896,
-  "output_drafted_rows": 22896,
+  "selected_verse_rows": 22909,
+  "selected_drafted_rows": 22909,
+  "output_verse_rows": 22909,
+  "output_drafted_rows": 22909,
   "book_count": 39,
   "book_rows": {
     "Genesis": {
@@ -102,8 +102,8 @@
       "drafted_rows": 1289
     },
     "Jeremiah": {
-      "verse_rows": 1299,
-      "drafted_rows": 1299
+      "verse_rows": 1312,
+      "drafted_rows": 1312
     },
     "Lamentations": {
       "verse_rows": 151,
@@ -168,17 +168,17 @@
   },
   "logos_note_rows": 36,
   "decision_rows": 5299,
-  "footnote_rows": 23022,
+  "footnote_rows": 23032,
   "variant_rows": 54,
   "decision_status_counts": {
     "todo": 0,
-    "drafted": 565,
-    "reviewed": 4734
+    "drafted": 563,
+    "reviewed": 4735
   },
   "footnote_status_counts": {
     "todo": 0,
-    "drafted": 479,
-    "reviewed": 22543
+    "drafted": 477,
+    "reviewed": 22553
   },
   "chapters": [
     "1",

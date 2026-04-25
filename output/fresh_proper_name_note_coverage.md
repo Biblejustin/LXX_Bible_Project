@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `2337`
+- supplemental note rows: `2491`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
@@ -11,17 +11,17 @@ Policy:
 
 ## Included Top Rows
 
-- `Jerusalem` (place, 655x, first Joshua 10:1) — logos_primary_place_atlas_link_preserved
+- `Jerusalem` (place, 656x, first Joshua 10:1) — logos_primary_place_atlas_link_preserved
 - `Egypt` (transliterated_form, 587x, first Genesis 12:10) — not_classified
 - `Christ` (person, 571x, first Matthew 1:1) — logos_primary_entity
 - `Babylon` (place, 250x, first Genesis 10:10) — logos_primary_place_atlas_link_preserved
-- `Levites` (people_group, 240x, first Exodus 6:25) — manual_high_frequency_people_group
+- `Levites` (people_group, 243x, first Exodus 6:25) — manual_high_frequency_people_group
 - `Jordan` (place, 195x, first Genesis 13:10) — logos_primary_place_atlas_link_preserved
-- `Jews` (people_group, 170x, first Matthew 2:2) — logos_primary_entity
-- `Moab` (place, 167x, first Genesis 19:37) — logos_primary_place_atlas_link_preserved
+- `Jews` (people_group, 171x, first Matthew 2:2) — logos_primary_entity
+- `Moab` (place, 168x, first Genesis 19:37) — logos_primary_place_atlas_link_preserved
 - `Zion` (transliterated_form, 167x, first Deuteronomy 4:48) — not_classified
 - `Jerusalem` (place, 144x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
-- `Gilead` (transliterated_form, 124x, first Genesis 31:21) — not_classified
+- `Gilead` (transliterated_form, 127x, first Genesis 31:21) — not_classified
 - `Syria` (place, 119x, first Genesis 25:20) — logos_primary_place_atlas_link_preserved
 - `Samaria` (transliterated_form, 118x, first Judges 10:1) — not_classified
 - `Egyptians` (people_group, 114x, first Genesis 12:12) — logos_primary_entity
@@ -31,7 +31,7 @@ Policy:
 - `Jehoshaphat` (person, 90x, first 2 Samuel 8:16) — logos_alias_entity
 - `Pharisees` (people_group, 87x, first Matthew 3:7) — logos_primary_entity
 - `Moses` (person, 80x, first Matthew 8:4) — logos_primary_entity
-- `Hebron` (transliterated_form, 76x, first Genesis 13:18) — not_classified
+- `Hebron` (transliterated_form, 77x, first Genesis 13:18) — not_classified
 - `Simon` (person, 76x, first Matthew 4:18) — logos_alias_entity
 - `Israel` (place, 75x, first Matthew 2:6) — logos_primary_place_atlas_link_preserved
 - `Abraham` (person, 74x, first Matthew 1:1) — logos_primary_entity
@@ -40,54 +40,54 @@ Policy:
 - `Lebanon` (place, 71x, first Deuteronomy 1:7) — logos_primary_place_atlas_link_preserved
 - `Joash` (person, 69x, first Judges 6:11) — logos_alias_entity
 - `Baal` (transliterated_form, 68x, first Numbers 22:41) — not_classified
+- `Shechem` (transliterated_form, 67x, first Genesis 12:6) — not_classified
 - `Galilee` (place, 66x, first Matthew 2:22) — logos_primary_place_atlas_link_preserved
 - `Midian` (transliterated_form, 62x, first Genesis 25:2) — not_classified
-- `Shechem` (transliterated_form, 62x, first Genesis 12:6) — not_classified
 - `Jehu` (person, 60x, first 1 Kings 16:1) — logos_alias_entity
 - `David` (person, 59x, first Matthew 1:1) — logos_primary_entity
 - `Jericho` (place, 57x, first Numbers 22:1) — logos_alias_place_atlas_link_preserved
 - `Azariah` (supernatural_being, 54x, first 1 Kings 2:46) — logos_alias_entity
 - `Philistines` (people_group, 54x, first Genesis 10:14) — logos_primary_entity
+- `Zadok` (person, 54x, first 2 Samuel 8:17) — logos_alias_entity
 - `Benaiah` (person, 52x, first Numbers 33:31) — logos_alias_entity
 - `Bashan` (place, 51x, first Numbers 21:33) — logos_primary_place_atlas_link_preserved
 - `Jehoiada` (person, 51x, first 2 Samuel 8:18) — logos_alias_entity
-- `Balak` (person, 50x, first Genesis 14:2) — logos_primary_entity
 - `Jews` (people_group, 50x, first Ezra 4:12) — logos_primary_entity
 - `Naphtali` (transliterated_form, 50x, first Genesis 30:8) — not_classified
 - `Amorites` (people_group, 48x, first Genesis 14:7) — logos_primary_entity
+- `Balak` (person, 48x, first Numbers 22:2) — logos_primary_entity
 - `Canaanite` (people_group, 48x, first Genesis 38:2) — logos_alias_entity
 - `Amorite` (people_group, 47x, first Genesis 10:16) — logos_alias_entity
 - `Amalek` (person, 46x, first Genesis 14:7) — logos_primary_entity
+- `Judea` (place, 45x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
 - `Shemaiah` (person, 45x, first 1 Kings 12:22) — logos_alias_entity
 - `Asaph` (person, 44x, first 2 Kings 18:18) — logos_alias_entity
-- `Hadad` (person, 44x, first Genesis 36:35) — logos_alias_entity
 - `Kohath` (person, 44x, first Genesis 46:11) — logos_primary_entity
 - `Amaziah` (person, 43x, first 2 Kings 12:22) — logos_alias_entity
 - `Damascus` (place, 43x, first Genesis 14:15) — logos_primary_place_atlas_link_preserved
-- `Judea` (place, 43x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
 - `Tyre` (place, 43x, first Joshua 19:35) — logos_primary_place_atlas_link_preserved
 - `Gibeon` (place, 41x, first Joshua 9:3) — logos_primary_place_atlas_link_preserved
 - `Shimei` (person, 41x, first Numbers 3:18) — logos_alias_entity
 - `Bethlehem` (place, 40x, first Genesis 35:19) — manual_place_atlas_link_preserved
 - `Gilgal` (place, 40x, first Joshua 4:19) — logos_alias_place_atlas_link_preserved
+- `Heshbon` (place, 40x, first Numbers 21:25) — logos_primary_place_atlas_link_preserved
 - `Sodom` (place, 40x, first Genesis 10:19) — logos_primary_place_atlas_link_preserved
 - `Gibeah` (place, 39x, first Joshua 15:57) — logos_alias_place_atlas_link_preserved
 - `Merari` (person, 39x, first Genesis 46:11) — logos_primary_entity
 - `Ahaz` (person, 38x, first 2 Kings 15:38) — logos_alias_entity
 - `Ahaziah` (person, 38x, first 1 Kings 22:40) — logos_alias_entity
-- `Heshbon` (place, 38x, first Numbers 21:25) — logos_primary_place_atlas_link_preserved
-- `Joram` (person, 38x, first 1 Kings 16:22) — logos_alias_entity
+- `Seir` (person, 38x, first Genesis 14:6) — logos_primary_entity
 - `Jesse` (person, 37x, first Ruth 4:17) — logos_primary_entity
 - `Satan` (supernatural_being, 37x, first Matthew 4:10) — logos_primary_entity
-- `Seir` (person, 37x, first Genesis 14:6) — logos_primary_entity
 - `Eli` (person, 36x, first 1 Samuel 1:3) — logos_primary_entity
 - `Gath` (place, 36x, first Joshua 11:22) — logos_primary_place_atlas_link_preserved
+- `Joseph` (person, 36x, first Matthew 1:16) — logos_alias_entity
 - `Sinai` (place, 36x, first Exodus 16:1) — logos_alias_place_atlas_link_preserved
 - `Hiram` (person, 35x, first 2 Samuel 5:11) — logos_alias_entity
-- `Joseph` (person, 35x, first Matthew 1:16) — logos_alias_entity
 - `Sihon` (person, 35x, first Numbers 21:21) — logos_primary_entity
 - `Beersheba` (transliterated_form, 34x, first Joshua 19:2) — not_classified
 - `Carmel` (place, 33x, first Joshua 12:22) — logos_primary_place_atlas_link_preserved
 - `Hittite` (people_group, 33x, first Genesis 23:10) — logos_alias_entity
 - `Gershon` (person, 32x, first Genesis 46:11) — logos_primary_entity
 - `Jezreel` (transliterated_form, 32x, first Joshua 15:56) — not_classified
+- `Judas` (transliterated_form, 32x, first Matthew 10:4) — manual_high_frequency_source_form

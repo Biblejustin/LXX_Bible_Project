@@ -195,7 +195,7 @@ Book-checkpoint rebuild:
 python3 scripts/run_book_checkpoint.py
 ```
 
-This rebuilds consolidated outputs:
+This enforces contextual proper-name decisions, syncs support notes, refreshes proper-name note coverage, and rebuilds consolidated outputs:
 
 - `output/fresh_translation_ot_full.md`
 - `output/fresh_translation_ot_full_translation_only.md`
@@ -328,13 +328,19 @@ Use this for normalizing Greekized OT names toward familiar MT-based English for
 Apply approved proper-name normalizations:
 
 ```bash
+python3 scripts/apply_contextual_proper_name_decisions.py --dry-run
+python3 scripts/apply_contextual_proper_name_decisions.py --summary-only
 python3 scripts/apply_proper_name_decisions.py --dry-run
 python3 scripts/apply_proper_name_decisions.py --rebuild-watch
 python3 scripts/apply_proper_name_decisions.py --forms "Ierousalem,Roboam" --rebuild-watch
 python3 scripts/apply_proper_name_decisions.py --checkpoint
 ```
 
-This reads:
+Contextual decisions read:
+
+- `data/research/contextual_proper_name_decisions.csv`
+
+Bulk candidate decisions read:
 
 - `data/research/local/proper_name_review/proper_name_candidates.csv`
 
