@@ -141,6 +141,7 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert not [row["ref"] for row in ot_rows if "Gods " in row["draft_translation"]]
 
     notes = csv_rows("data/research/translation_footnotes.csv")
+    assert not [row["ref"] for row in notes if "Direct Logos export" in row["footnote_text"]]
     notes_by_ref = {(row["ref"], row["note_type"]): row for row in notes}
     assert "modern English connotations of ecstasy" in notes_by_ref[("Genesis 2:21", "translation")]["footnote_text"]
     assert "watch/guard language" in notes_by_ref[("Genesis 3:15", "translation")]["footnote_text"]

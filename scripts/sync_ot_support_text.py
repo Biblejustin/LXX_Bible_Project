@@ -30,6 +30,23 @@ def strip_logos_links(text: str) -> str:
     return LOGOS_LINK_RE.sub(lambda match: match.group(1).strip(), text or "")
 
 
+def clean_public_note_provenance(text: str) -> str:
+    """Remove build/provenance wording from reader-facing footnote text."""
+
+    cleaned = text or ""
+    replacements = (
+        ("Direct Logos export also shows", "English LXX witnesses also show"),
+        ("Direct Logos export materially supports", "English LXX witnesses materially support"),
+        ("Direct Logos export supports", "English LXX witnesses support"),
+        ("Direct Logos export backs", "English LXX witnesses support"),
+        ("Direct Logos export confirms", "The available witnesses confirm"),
+        ("Direct Logos export shows", "English LXX witnesses show"),
+    )
+    for source, replacement in replacements:
+        cleaned = cleaned.replace(source, replacement)
+    return cleaned
+
+
 def apply_contextual_name_replacements(
     text: str,
     ref: str,
@@ -128,7 +145,7 @@ def main() -> None:
         trigger = row.get("trigger_phrase", "")
         footnote = row.get("footnote_text", "")
         cleaned_trigger = strip_logos_links(trigger)
-        cleaned_footnote = strip_logos_links(footnote)
+        cleaned_footnote = clean_public_note_provenance(strip_logos_links(footnote))
         if cleaned_trigger != trigger:
             row["trigger_phrase"] = cleaned_trigger
             footnote_link_cleans += 1
