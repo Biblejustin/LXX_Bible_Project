@@ -235,6 +235,30 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "Word of the Lord",
         "Word of God",
         "Words of the Lord",
+        "in midst of",
+        "In midst of",
+        "from midst of",
+        "From midst of",
+        "into midst of",
+        "Into midst of",
+        "through midst of",
+        "before eyes of",
+        "from day when",
+        "From day when",
+        "from day they",
+        "until day he",
+        "until day of",
+        "on day you",
+        "On day you",
+        "on day when",
+        "On day when",
+        "on day of",
+        "On day of",
+        "from beginning",
+        "people of land",
+        "People of land",
+        "inhabitants of land",
+        "sons of land",
         "ends of earth",
         "end of earth",
         "face of earth",
@@ -358,6 +382,16 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Jeremiah 1:1"]["draft_translation"].startswith("The word of God")
     assert by_ref["Hosea 1:1"]["draft_translation"].startswith("The word of the Lord")
     assert by_ref["Psalms 11:7"]["draft_translation"].startswith("The words of the Lord")
+    assert "in the midst of their brothers" in by_ref["1 Chronicles 9:38"]["draft_translation"]
+    assert "from the midst of king’s sons" in by_ref["2 Chronicles 22:11"]["draft_translation"]
+    assert "God is in the midst of her" in by_ref["Psalms 45:6"]["draft_translation"]
+    assert "before the eyes of God" in by_ref["Proverbs 5:21"]["draft_translation"]
+    assert "from the day when I brought up Israel" in by_ref["1 Chronicles 17:5"]["draft_translation"]
+    assert "until the day he died" in by_ref["Jeremiah 52:34"]["draft_translation"]
+    assert "on the day you were born" in by_ref["Ezekiel 16:4"]["draft_translation"]
+    assert "from the beginning" in by_ref["Psalms 73:2"]["draft_translation"]
+    assert "people of the land" in by_ref["2 Chronicles 23:13"]["draft_translation"]
+    assert "inhabitants of the land" in by_ref["1 Chronicles 22:18"]["draft_translation"]
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")

@@ -29,7 +29,7 @@ Selected verses: 6
 ## Haggai 2:4
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ## Haggai 2:9

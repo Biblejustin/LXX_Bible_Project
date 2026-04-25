@@ -323,6 +323,46 @@ LORD_OBJECT_REPLACEMENTS = (
         "The words of the Lord",
     ),
     (
+        re.compile(r"\b([Ii]n|[Ff]rom|[Ii]nto|[Tt]hrough|[Aa]mong) midst of\b"),
+        r"\1 the midst of",
+    ),
+    (
+        re.compile(r"\bGod in the midst of\b"),
+        "God is in the midst of",
+    ),
+    (
+        re.compile(r"\bbefore eyes of\b"),
+        "before the eyes of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) day when\b"),
+        r"\1 the day when",
+    ),
+    (
+        re.compile(r"\bfrom day they\b"),
+        "from the day they",
+    ),
+    (
+        re.compile(r"\b([Uu]ntil) day (he|of)\b"),
+        r"\1 the day \2",
+    ),
+    (
+        re.compile(r"\b([Oo]n) day (you|when|of|they|he|she|I)\b"),
+        r"\1 the day \2",
+    ),
+    (
+        re.compile(r"\bfrom beginning\b"),
+        "from the beginning",
+    ),
+    (
+        re.compile(r"\b(people|inhabitants|sons) of land\b"),
+        r"\1 of the land",
+    ),
+    (
+        re.compile(r"\bPeople of land\b"),
+        "People of the land",
+    ),
+    (
         re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
         "the Lord stirred the spirit of Cyrus",
     ),

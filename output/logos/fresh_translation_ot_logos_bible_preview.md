@@ -429,7 +429,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezekiel
 
-**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 31

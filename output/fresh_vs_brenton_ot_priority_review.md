@@ -1164,7 +1164,7 @@ Use:
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved; crossref_top_vote=7; reco=keep
 - crossref top vote: 7
-- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ### Song of Solomon 2:9
@@ -1317,7 +1317,7 @@ Use:
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, virgin; crossref_top_vote=5; reco=keep
 - crossref top vote: 5
-- fresh: The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+- fresh: The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ### Lamentations 2:1
@@ -1901,7 +1901,7 @@ Use:
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
 - crossref top vote: 14
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ### Haggai 2:9

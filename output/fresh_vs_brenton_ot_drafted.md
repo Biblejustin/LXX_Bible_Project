@@ -74530,7 +74530,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he cut his head, and it came to be from beginning of days to days as he would cut it because it weighed heavily upon him, cutting it he weighed the hair of his head at two hundred shekels by the royal shekel.
+- fresh: And when he cut his head, and it came to be from the beginning of days to days as he would cut it because it weighed heavily upon him, cutting it he weighed the hair of his head at two hundred shekels by the royal shekel.
 - brenton: And when he polled his head, (and it was at the beginning of every year that he polled it, because it grew heavy upon him,) even when he polled it, he weighed the hair of his head, two hundred shekels according to the royal shekel.
 
 ### 2 Samuel 14:27
@@ -94327,7 +94327,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Mikloth begot Shimeam. And these also dwelt in Jerusalem in midst of their brothers with their brothers.
+- fresh: And Mikloth begot Shimeam. And these also dwelt in Jerusalem in the midst of their brothers with their brothers.
 - brenton: And Makeloth begot Samaa: and these dwelt in the midst of their brethren in Jerusalem, even in the midst of their brethren.
 
 ### 1 Chronicles 9:39
@@ -96262,7 +96262,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I have not dwelt in house from day when I brought up Israel until this day, but I have been in tent and in dwelling-place.
+- fresh: Because I have not dwelt in house from the day when I brought up Israel until this day, but I have been in tent and in dwelling-place.
 - brenton: For I have not dwelt in a house from the day that I brought up Israel until this day, but I have been in a tabernacle and a tent,
 
 ### 1 Chronicles 17:6
@@ -96298,7 +96298,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will appoint place for my people Israel and plant him, and he shall dwell by himself and not be anxious anymore, and unrighteousness shall not again afflict him as from beginning,
+- fresh: And I will appoint place for my people Israel and plant him, and he shall dwell by himself and not be anxious anymore, and unrighteousness shall not again afflict him as from the beginning,
 - brenton: And I will appoint a place for my people Israel, and I will plant him, and he shall dwell by himself, and shall no longer be anxious; and the son of iniquity shall no longer afflict him, as at the beginning,
 
 ### 1 Chronicles 17:10
@@ -97288,7 +97288,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Is not the Lord with you and has he not given you rest all around? Because he gave inhabitants of land into hands, and land is subdued before the Lord and before his people.
+- fresh: Is not the Lord with you and has he not given you rest all around? Because he gave inhabitants of the land into hands, and land is subdued before the Lord and before his people.
 - brenton: Is not the Lord with you? and he has given you rest round about, for he has given into your hands the inhabitants of the land; and the land is subdued before the Lord, and before his people.
 
 ### 1 Chronicles 22:19
@@ -98755,7 +98755,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David stood in midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
+- fresh: And David stood in the midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
 - brenton: And David stood in the midst of the assembly, and said, Hear me, my brethren, and my people: it was in my heart to build a house of rest for the ark of the covenant of the Lord, and a place for the feet of our Lord, and I prepared materials suitable for the building:
 
 ### 1 Chronicles 28:3
@@ -100035,7 +100035,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From day when I brought my people out of land of Egypt, I did not choose city from all tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
+- fresh: From the day when I brought my people out of land of Egypt, I did not choose city from all tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
 - brenton: From the day when I brought up my people out of the land of Egypt, I chose no city of all the tribes of Israel, to build a house that my name should be there; neither did I choose a man to be a leader over my people Israel.
 
 ### 2 Chronicles 6:6
@@ -100107,7 +100107,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For Solomon made bronze platform and set it in midst of court of sanctuary, its length five cubits and breadth five cubits and height three cubits, and he stood upon it and fell on his knees before all assembly of Israel and spread out his hands toward heaven.
+- fresh: For Solomon made bronze platform and set it in the midst of court of sanctuary, its length five cubits and breadth five cubits and height three cubits, and he stood upon it and fell on his knees before all assembly of Israel and spread out his hands toward heaven.
 - brenton: For Solomon had made a brazen scaffold, and set it in the midst of the court of the sanctuary; the length of it was five cubits, and the breadth of it five cubits, and the height of it three cubits: and he stood upon it, and fell upon his knees before the whole congregation of Israel, and spread abroad his hands to heaven,
 
 ### 2 Chronicles 6:14
@@ -101610,7 +101610,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from people of land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
+- fresh: Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from people of the land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
 - brenton: Did ye not cast out the priests of the Lord, the sons of Aaron, and the Levites, and make to yourselves priests of the people of any other land? whoever came to consecrate himself with a calf of the herd and seven rams, he forthwith became a priest to that which is no god.
 
 ### 2 Chronicles 13:10
@@ -103347,7 +103347,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshabeath daughter of king took Joash son of Ahaziah and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Jehoshabeath daughter of king Jehoram, sister of Ahaziah, wife of Jehoiada the priest, hid him from before Athaliah, and she did not kill him.
+- fresh: And Jehoshabeath daughter of king took Joash son of Ahaziah and stole him from the midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Jehoshabeath daughter of king Jehoram, sister of Ahaziah, wife of Jehoiada the priest, hid him from before Athaliah, and she did not kill him.
 - brenton: But Josabeeth, the daughter of the king, took Joas the son of Ochozias and rescued him secretly out of the midst of the sons of the king that were put to death, and she placed him and his nurse in a bedchamber. So Josabeeth daughter of king Joram, sister of Ochozias, wife of Jodae the priest, hid him, and she even hid him from Gotholia, and she did not slay him.
 
 ### 2 Chronicles 22:12
@@ -103428,7 +103428,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
+- fresh: And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
 - brenton: And the Levites and all Juda did according to all that the priest Jodae commanded them, and they took each his men from the beginning of the sabbath to the end of the sabbath, for Jodae the priest did not dismiss the courses.
 
 ### 2 Chronicles 23:9
@@ -103473,7 +103473,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of land rejoiced, and they sounded with trumpets, and singers with instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of the land rejoiced, and they sounded with trumpets, and singers with instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
 - brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
 
 ### 2 Chronicles 23:14
@@ -103509,7 +103509,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all people of land entered house of Baal and pulled it down, and his altars and idols they crushed small, and Matthan priest of Baal they killed before his altars.
+- fresh: And all people of the land entered house of Baal and pulled it down, and his altars and idols they crushed small, and Matthan priest of Baal they killed before his altars.
 - brenton: And all the people of the land went into the house of Baal, and tore down it and its altars, and they ground his images to powder, and they slew Matthan the priest of Baal before his altars.
 
 ### 2 Chronicles 23:18
@@ -103536,7 +103536,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took patriarchs and mighty men and rulers of people and all people of land, and brought up king to house of the Lord, and entered by inner gate into house of king and seated king upon throne of kingdom.
+- fresh: And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to house of the Lord, and entered by inner gate into house of king and seated king upon throne of kingdom.
 - brenton: And he took the heads of families, and the mighty men, and the chiefs of the people, and all the people of the land, and they conducted the king into the house of the Lord; and he went through the inner gate into the king's house, and they seated the king on the throne of the kingdom.
 
 ### 2 Chronicles 23:21
@@ -103545,7 +103545,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all people of land rejoiced, and city was quiet, and they killed Athaliah with sword.
+- fresh: And all people of the land rejoiced, and city was quiet, and they killed Athaliah with sword.
 - brenton: And all the people of the land rejoiced; and the city was quiet: and they slew Gotholia.
 
 ### 2 Chronicles 24:1
@@ -104049,7 +104049,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all people of land took Uzziah, and he was sixteen years old, and they made him king in place of his father Amaziah.
+- fresh: And all people of the land took Uzziah, and he was sixteen years old, and they made him king in place of his father Amaziah.
 - brenton: Then all the people of the land took Ozias, and he was sixteen years old, and they made him king in the room of his father Amasias.
 
 ### 2 Chronicles 26:2
@@ -104229,7 +104229,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Uzziah the king was leprous until day of his death, and as leper he sat in a separate house, because he was cut off from house of the Lord, and Jotham his son was over kingdom, judging people of land.
+- fresh: And Uzziah the king was leprous until the day of his death, and as leper he sat in a separate house, because he was cut off from house of the Lord, and Jotham his son was over kingdom, judging people of the land.
 - brenton: And Ozias the king was a leper to the day of his death, and he dwelt as a leper in a separate house; for he was cut off from the house of the Lord: and Joathan his son was set over his kingdom, judging the people of the land.
 
 ### 2 Chronicles 26:22
@@ -105840,7 +105840,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And people of land struck those attacking king Amon, and people of land made Josiah his son king in his place.
+- fresh: And people of the land struck those attacking king Amon, and people of the land made Josiah his son king in his place.
 - brenton: And the people of the land slew the men who had conspired against king Amon; and the people of the land made Josias his son king in his stead.
 
 ### 2 Chronicles 34:1
@@ -106389,7 +106389,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And people of land took Jehoahaz son of Josiah and anointed him and made him king in place of his father in Jerusalem.
+- fresh: And people of the land took Jehoahaz son of Josiah and anointed him and made him king in place of his father in Jerusalem.
 - brenton: And the people of the land took Joachaz the son of Josias, and anointed him, and made him king over Jerusalem in the room of his father.
 
 ### 2 Chronicles 36:2
@@ -106416,7 +106416,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Necho.
+- fresh: And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of the land according to ability, to give to Pharaoh Necho.
 - brenton: And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
 
 ### 2 Chronicles 36:5
@@ -106506,7 +106506,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all glorious men of Judah and priests and people of land multiplied to break faith with faithless acts of abominations of nations, and they defiled house of the Lord in Jerusalem.
+- fresh: And all glorious men of Judah and priests and people of the land multiplied to break faith with faithless acts of abominations of nations, and they defiled house of the Lord in Jerusalem.
 - brenton: And all the great men of Juda, and the priests, and the people of the land transgressed abundantly in the abominations of the heathen, and polluted the house of the Lord which was in Jerusalem.
 
 ### 2 Chronicles 36:15
@@ -111244,7 +111244,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you subdued before them inhabitants of land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
+- fresh: And you subdued before them inhabitants of the land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
 - brenton: And they inherited it: and thou didst destroy from before them the dwellers in the land of the Chananites, and thou gavest into their hands them and their kings, and the nations of the land, to do unto them as it pleased them.
 
 ### Nehemiah 9:25
@@ -112495,7 +112495,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In those days I saw in Judah men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Jerusalem on Sabbath day, and I testified on day of their selling.
+- fresh: In those days I saw in Judah men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Jerusalem on Sabbath day, and I testified on the day of their selling.
 - brenton: In those days I saw in Juda men treading wine-presses on the sabbath, and carrying sheaves, and loading asses with both wine, and grapes, and figs, and every kind of burden, and bringing them into Jerusalem on the sabbath-day:
 
 ### Nehemiah 13:16
@@ -115712,7 +115712,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: It sleeps upon gathering of stones, and in midst of pebbles it will live.
+- fresh: It sleeps upon gathering of stones, and in the midst of pebbles it will live.
 - brenton: He lies down upon a gathering of stones, and shall live in the midst of flints.
 
 ### Job 8:18
@@ -118349,7 +118349,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He will not spare it and will not abandon it, but hold it fast in midst of his throat.
+- fresh: He will not spare it and will not abandon it, but hold it fast in the midst of his throat.
 - brenton: though he will not spare it, and will not leave it, but will keep it in the midst of his throat:
 
 ### Job 20:14
@@ -120230,7 +120230,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I shattered jaws of unjust men, and from midst of their teeth I snatched prey.
+- fresh: And I shattered jaws of unjust men, and from the midst of their teeth I snatched prey.
 - brenton: And I broke the jaw-teeth of the unrighteous; I plucked the spoil out of the midst of their teeth.
 
 ### Job 29:18
@@ -126370,7 +126370,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like water I was poured out, and all my bones were scattered; my heart became like wax melting in midst of my belly.
+- fresh: Like water I was poured out, and all my bones were scattered; my heart became like wax melting in the midst of my belly.
 - brenton: I am poured out like water, and all my bones are loosened: my heart in the midst of my belly is become like melting wax.
 
 ### Psalms 21:16
@@ -126442,7 +126442,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will recount your name to my brothers; in midst of assembly I will hymn you.
+- fresh: I will recount your name to my brothers; in the midst of assembly I will hymn you.
 - brenton: I will declare thy name to my brethren: in the midst of the church will I sing praise to thee.
 
 ### Psalms 21:24
@@ -126559,7 +126559,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For even if I walk in midst of shadow of death, I will not fear evils, because you are with me; your rod and your staff, these comforted me.
+- fresh: For even if I walk in the midst of shadow of death, I will not fear evils, because you are with me; your rod and your staff, these comforted me.
 - brenton: Yea, even if I should walk in the midst of the shadow of death, I will not be afraid of evils: for thou art with me; thy rod and thy staff, these have comforted me.
 
 ### Psalms 22:5
@@ -129268,7 +129268,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To do your will, O my God, I wanted, and your law in midst of my belly.
+- fresh: To do your will, O my God, I wanted, and your law in the midst of my belly.
 - brenton: I desired to do thy will, O my God, and thy law in the midst of mine heart.
 
 ### Psalms 39:10
@@ -130087,7 +130087,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: God in midst of her; she will not be shaken. God will help her toward morning.
+- fresh: God is in the midst of her; she will not be shaken. God will help her toward morning.
 - brenton: God is in the midst of her; she shall not be moved: God shall help her with his countenance.
 
 ### Psalms 45:7
@@ -130321,7 +130321,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: We received, O God, your mercy in midst of your temple.
+- fresh: We received, O God, your mercy in the midst of your temple.
 - brenton: We have thought of thy mercy, O God, in the midst of thy people.
 
 ### Psalms 47:11
@@ -131293,7 +131293,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Day and night it will encircle her upon her walls; lawlessness and labor in midst of her,
+- fresh: Day and night it will encircle her upon her walls; lawlessness and labor in the midst of her,
 - brenton: Day and night he shall go round about it upon its walls: iniquity and sorrow and unrighteousness are in the midst of it;
 
 ### Psalms 54:12
@@ -131338,7 +131338,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let death come upon them, and let them go down living to Hades, because evils in their dwellings, in midst of them.
+- fresh: Let death come upon them, and let them go down living to Hades, because evils in their dwellings, in the midst of them.
 - brenton: Let death come upon them, and let them go down alive into Hades, for iniquity is in their dwellings, in the midst of them.
 
 ### Psalms 54:17
@@ -131581,7 +131581,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he rescued my soul from midst of lion-cubs. I slept troubled. Sons of men: their teeth weapon and arrows, and their tongue sharp sword.
+- fresh: And he rescued my soul from the midst of lion-cubs. I slept troubled. Sons of men: their teeth weapon and arrows, and their tongue sharp sword.
 - brenton: and he has delivered my soul from the midst of lions' whelps: I lay down to sleep, though troubled. As for the sons of men, their teeth are arms and missile weapons, and their tongue a sharp sword.
 
 ### Psalms 56:6
@@ -133057,7 +133057,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Princes went before, close behind singers, in midst of young women beating tambourines.
+- fresh: Princes went before, close behind singers, in the midst of young women beating tambourines.
 - brenton: The princes went first, next before the players on instruments, in the midst of damsels playing on timbrels.
 
 ### Psalms 67:27
@@ -134200,7 +134200,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Remember your congregation which you acquired from beginning; you redeemed rod of your inheritance, this Mount Zion in which you dwelt.
+- fresh: Remember your congregation which you acquired from the beginning; you redeemed rod of your inheritance, this Mount Zion in which you dwelt.
 - brenton: Remember thy congregation which thou hast purchased from the beginning; thou didst ransom the rod of thine inheritance; this mount Sion wherein thou hast dwelt.
 
 ### Psalms 73:3
@@ -134218,7 +134218,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those hating you boasted in midst of your feast; they set their signs as signs and did not know,
+- fresh: And those hating you boasted in the midst of your feast; they set their signs as signs and did not know,
 - brenton: And they that hate thee have boasted in the midst of thy feast; they have set up their standards for signs,
 
 ### Psalms 73:5
@@ -134281,7 +134281,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Why do you turn away your hand and your right hand from midst of your bosom to end?
+- fresh: Why do you turn away your hand and your right hand from the midst of your bosom to end?
 - brenton: Wherefore turnest thou away thine hand, and thy right hand from the midst of thy bosom for ever?
 
 ### Psalms 73:12
@@ -134290,7 +134290,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But God our king before age worked salvation in midst of earth.
+- fresh: But God our king before age worked salvation in the midst of earth.
 - brenton: But God is our King of old; he has wrought salvation in the midst of the earth.
 
 ### Psalms 73:13
@@ -134713,7 +134713,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I remembered works of the Lord, because I will remember from beginning your wonders.
+- fresh: I remembered works of the Lord, because I will remember from the beginning your wonders.
 - brenton: I remembered the works of the Lord; for I will remember thy wonders from the beginning.
 
 ### Psalms 76:13
@@ -134812,7 +134812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will open my mouth in parables; I will utter riddles from beginning,
+- fresh: I will open my mouth in parables; I will utter riddles from the beginning,
 - brenton: I will open my mouth in parables: I will utter dark sayings which have been from the beginning.
 
 ### Psalms 77:3
@@ -135046,7 +135046,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they fell into midst of their camp, around their tents.
+- fresh: And they fell into the midst of their camp, around their tents.
 - brenton: And they fell into the midst of their camp, round about their tents.
 
 ### Psalms 77:29
@@ -138484,7 +138484,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in midst of my house.
+- fresh: I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in the midst of my house.
 - brenton: and I will be wise in a blameless way. When wilt thou come to me? I walked in the innocence of my heart, in the midst of my house.
 
 ### Psalms 100:3
@@ -138529,7 +138529,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One doing pride did not dwell in midst of my house; one speaking unjust things did not go straight before my eyes.
+- fresh: One doing pride did not dwell in the midst of my house; one speaking unjust things did not go straight before my eyes.
 - brenton: The proud doer dwelt not in the midst of my house; the unjust speaker prospered not in my sight.
 
 ### Psalms 100:8
@@ -139105,7 +139105,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon them birds of heaven will dwell; from midst of rocks they will give voice.
+- fresh: Upon them birds of heaven will dwell; from the midst of rocks they will give voice.
 - brenton: By them shall the birds of the sky lodge: they shall utter a voice out of the midst of the rocks.
 
 ### Psalms 103:13
@@ -140932,7 +140932,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will confess to the Lord exceedingly with my mouth, and in midst of many I will praise him,
+- fresh: I will confess to the Lord exceedingly with my mouth, and in the midst of many I will praise him,
 - brenton: I will give thanks to the Lord abundantly with my mouth; and in the midst of many I will praise him.
 
 ### Psalms 108:31
@@ -140959,7 +140959,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord will send rod of your power from Zion, and rule in midst of your enemies.
+- fresh: The Lord will send rod of your power from Zion, and rule in the midst of your enemies.
 - brenton: The Lord shall send out a rod of power for thee out of Sion: rule thou in the midst of thine enemies.
 
 ### Psalms 109:3
@@ -144874,7 +144874,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On willows in midst of it we hung our instruments.
+- fresh: On willows in the midst of it we hung our instruments.
 - brenton: We hung our harps on the willows in the midst of it.
 
 ### Psalms 136:3
@@ -145000,7 +145000,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If I walk in midst of affliction, you will make me live; against anger of my enemies you stretched out your hand, and your right hand saved me.
+- fresh: If I walk in the midst of affliction, you will make me live; against anger of my enemies you stretched out your hand, and your right hand saved me.
 - brenton: Though I should walk in the midst of affliction, thou wilt quicken me; thou hast stretched forth thine hands against the wrath of mine enemies, and thy right hand has saved me.
 
 ### Psalms 137:8
@@ -147648,7 +147648,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I almost came into every evil in midst of assembly and congregation."
+- fresh: I almost came into every evil in the midst of assembly and congregation."
 - brenton: I was almost in all evil in the midst of the congregation and assembly.
 
 ### Proverbs 5:15
@@ -147711,7 +147711,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For ways of man before eyes of God, and he watches all his tracks.
+- fresh: For ways of man before the eyes of God, and he watches all his tracks.
 - brenton: For the ways of a man are before the eyes of God, and he looks on all his paths.
 
 ### Proverbs 5:22
@@ -153381,7 +153381,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If you scourge fool in midst of council dishonoring him, you still will not strip away his folly.
+- fresh: If you scourge fool in the midst of council dishonoring him, you still will not strip away his folly.
 - brenton: Though thou scourge a fool, disgracing him in the midst of the council, thou wilt still in no wise remove his folly from him.
 
 ### Proverbs 27:23
@@ -154994,7 +154994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from beginning even to end.
+- fresh: Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from the beginning even to end.
 - brenton: All the things which he has made are beautiful in his time: he has also set the whole world in their heart, that man might not find out the work which God has wrought from the beginning even to the end.
 
 ### Ecclesiastes 3:12
@@ -156670,7 +156670,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As lily in midst of thorns, so my dear one in midst of daughters.
+- fresh: As lily in the midst of thorns, so my dear one in the midst of daughters.
 - brenton: As a lily among thorns, so is my companion among the daughters.
 
 ### Song of Solomon 2:3
@@ -156679,7 +156679,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ### Song of Solomon 2:4
@@ -157788,7 +157788,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will appoint your judges as before, and your counselors as from beginning; afterward you will be called city of righteousness, faithful mother-city Zion.
+- fresh: I will appoint your judges as before, and your counselors as from the beginning; afterward you will be called city of righteousness, faithful mother-city Zion.
 - brenton: And I will establish thy judges as before, and thy counsellors as at the beginning: and afterward thou shalt be called the city of righteousness, the faithful mother-city Sion.
 
 ### Isaiah 1:27
@@ -157887,7 +157887,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For he let go his people, house of Israel, because their land was filled as from beginning with divinations as land of foreigners, and many foreign sons were born to them.
+- fresh: For he let go his people, house of Israel, because their land was filled as from the beginning with divinations as land of foreigners, and many foreign sons were born to them.
 - brenton: For he has forsaken his people the house of Israel, because their land is filled as at the beginning with divinations, as the land of the Philistines, and many strange children were born to them.
 
 ### Isaiah 2:7
@@ -158328,7 +158328,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I put fence around and staked it and planted chosen vine and built tower in midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
+- fresh: I put fence around and staked it and planted chosen vine and built tower in the midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
 - brenton: And I made a hedge round it, and dug a trench, and planted a choice vine, and built a tower in the midst of it, and dug a place for the wine-vat in it: and I waited for it to bring forth grapes, and it brought forth thorns.
 
 ### Isaiah 5:3
@@ -158535,7 +158535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
+- fresh: And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in the midst of road. In all these his anger did not turn away, but hand still high.
 - brenton: Therefore the Lord of hosts was greatly angered against his people, and he reached forth his hand upon them, and smote them: and the mountains were troubled, and their carcases were as dung in the midst of the way: yet for all this his anger has not been turned away, but his hand is yet raised.
 
 ### Isaiah 5:26
@@ -158625,7 +158625,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
+- fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in the midst of people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
 - brenton: And I said, Woe is me, for I am pricked to the heart; for being a man, and having unclean lips, I dwell in the midst of a people having unclean lips; and I have seen with mine eyes the King, the Lord of hosts.
 
 ### Isaiah 6:6
@@ -159813,7 +159813,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in midst of her.
+- fresh: Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in the midst of her.
 - brenton: Exalt and rejoice, ye that dwell in Sion: for the Holy One of Israel is exalted in the midst of her.
 
 ### Isaiah 13:1
@@ -161226,7 +161226,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from beginning, and one who built it you did not see.
+- fresh: And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from the beginning, and one who built it you did not see.
 - brenton: And ye procured to yourselves water between the two walls within the ancient pool: but ye looked not to him that made it from the beginning, and regarded not him that created it.
 
 ### Isaiah 22:12
@@ -161415,7 +161415,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Was this your insolence from beginning before it was handed over?
+- fresh: Was this your insolence from the beginning before it was handed over?
 - brenton: Was not this your pride from the beginning, before she was given up?
 
 ### Isaiah 23:8
@@ -161631,7 +161631,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All these will be in land in midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
+- fresh: All these will be in land in the midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
 - brenton: All this shall be in the land in the midst of the nations, as if one should strip an olive tree, so shall they strip them; but when the vintage is done,
 
 ### Isaiah 24:14
@@ -164628,7 +164628,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will you not know? Will you not hear? Was it not announced to you from beginning? Did you not know foundations of earth?
+- fresh: Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of earth?
 - brenton: Will ye not know? will ye not hear? has it not been told you of old? Have ye not known the foundations of the earth?
 
 ### Isaiah 40:22
@@ -164880,7 +164880,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I will open rivers on mountains and make springs in midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
+- fresh: But I will open rivers on mountains and make springs in the midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
 - brenton: but I will open rivers on the mountains, and fountains in the midst of plains: I will make the desert pools of water, and a thirsty land watercourses.
 
 ### Isaiah 41:19
@@ -164952,7 +164952,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For who will announce from beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
+- fresh: For who will announce from the beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
 - brenton: For who will declare the things from the beginning, that we may know also the former things, and we will say that they are true? there is no one that speaks beforehand, nor any one that hears your words.
 
 ### Isaiah 41:27
@@ -165285,7 +165285,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All nations were gathered together, and rulers will gather. Who among them announces these things, or who from beginning will announce to you? Let them bring their witnesses and be justified and say truth.
+- fresh: All nations were gathered together, and rulers will gather. Who among them announces these things, or who from the beginning will announce to you? Let them bring their witnesses and be justified and say truth.
 - brenton: All the nations are gathered together, and princes shall be gathered out of them: who will declare these things? or who will declare to you things from the beginning? let them bring forth their witnesses, and be justified; and let them hear, and declare the truth.
 
 ### Isaiah 43:10
@@ -165321,7 +165321,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Still from beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
+- fresh: Still from the beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
 - brenton: even from the beginning; and there is none that can deliver out of my hands: I will work, and who shall turn it back?
 
 ### Isaiah 43:14
@@ -165528,7 +165528,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hide yourselves. Have you not heard from beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
+- fresh: Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
 - brenton: Hide not yourselves, nor go astray: have ye not heard from the beginning, and have not I told you? ye are witnesses if there is a God beside me.
 
 ### Isaiah 44:9
@@ -165897,7 +165897,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If they declare, let them come near so they may know together. Who made these things heard from beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
+- fresh: If they declare, let them come near so they may know together. Who made these things heard from the beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
 - brenton: If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.
 
 ### Isaiah 45:22
@@ -166257,7 +166257,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You neither knew nor understood, nor from beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
+- fresh: You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
 - brenton: Thou hast neither known, nor understood, neither from the beginning have I opened thine ears: for I knew that thou wouldest surely deal treacherously, and wouldest be called a transgressor even from the womb.
 
 ### Isaiah 48:9
@@ -166329,7 +166329,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come near to me and hear these things. Not from beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
+- fresh: Come near to me and hear these things. Not from the beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
 - brenton: Draw nigh to me, and hear ye these words; I have not spoken in secret from the beginning: when it took place, there was I, and now the Lord, even the Lord, and his Spirit, hath sent me.
 
 ### Isaiah 48:17
@@ -167022,7 +167022,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Depart, depart. Go out from there, and touch nothing unclean. Go out from midst of her. Be set apart, you carrying vessels of the Lord.
+- fresh: Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you carrying vessels of the Lord.
 - brenton: Depart ye, depart, go out from thence, and touch not the unclean thing; go ye out from the midst of her; separate yourselves, ye that bear the vessels of the Lord.
 
 ### Isaiah 52:12
@@ -168318,7 +168318,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their seed will be known among nations and their offspring in midst of peoples. Everyone seeing them will know them, because these are seed blessed by God.
+- fresh: Their seed will be known among nations and their offspring in the midst of peoples. Everyone seeing them will know them, because these are seed blessed by God.
 - brenton: And their seed shall be known among the Gentiles, and their offspring in the midst of peoples: every one that sees them shall take notice of them, that they are a seed blessed of God;
 
 ### Isaiah 61:10
@@ -168615,7 +168615,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: We became as from beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
+- fresh: We became as from the beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
 - brenton: We are become as at the beginning, when thou didst not rule over us, and thy name was not called upon us.
 
 ### Isaiah 64:1
@@ -169319,7 +169319,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of land.
+- fresh: See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of the land.
 - brenton: Behold, I have made thee this day as a strong city, and as a brazen wall, strong against all the kings of Juda, and the princes thereof, and the people of the land.
 
 ### Jeremiah 1:19
@@ -170444,7 +170444,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Strengthen yourselves, sons of Benjamin, from midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
+- fresh: Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
 - brenton: Strengthen yourselves, ye children of Benjamin, to flee out of the midst of Jerusalem, and sound an alarm with the trumpet in Thecue, and set up a signal over Bæthacharma: for evil threatens from the north, and a great destruction is coming.
 
 ### Jeremiah 6:2
@@ -171947,7 +171947,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in midst of my people.
+- fresh: And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
 - brenton: And it shall be, if they will indeed learn the way of my people, to swear by my name, saying, The Lord lives; as they taught my people to swear by Baal; then shall that nation be built in the midst of my people.
 
 ### Jeremiah 12:17
@@ -172928,7 +172928,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Guard your souls and do not carry burdens on day of Sabbaths and do not go out by gates of Jerusalem.
+- fresh: Thus says the Lord: Guard your souls and do not carry burdens on the day of Sabbaths and do not go out by gates of Jerusalem.
 - brenton: thus saith the Lord; Take heed to your souls, and take up no burdens on the sabbath-day, and go not forth through the gates of Jerusalem;
 
 ### Jeremiah 17:22
@@ -172937,7 +172937,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And do not bring burdens out of your houses on day of Sabbaths, and do no work. Sanctify day of Sabbaths, just as I commanded your fathers, and they did not hear and did not incline their ear.
+- fresh: And do not bring burdens out of your houses on the day of Sabbaths, and do no work. Sanctify day of Sabbaths, just as I commanded your fathers, and they did not hear and did not incline their ear.
 - brenton: and carry forth no burdens out of your houses on the sabbath-day, and ye shall do no work: sanctify the sabbath-day, as I commanded your fathers.
 
 ### Jeremiah 17:23
@@ -172955,7 +172955,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be if in hearing you hear me, says the Lord, not bringing burdens through gates of this city on day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
+- fresh: And it will be if in hearing you hear me, says the Lord, not bringing burdens through gates of this city on the day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
 - brenton: And it shall come to pass, if ye will hearken to me, saith the Lord, to carry in no burdens through the gates of this city on the sabbath-day, and to sanctify the sabbath-day, so as to do no work upon it,
 
 ### Jeremiah 17:25
@@ -172982,7 +172982,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be if you do not hear me, to sanctify day of Sabbaths, not to carry burdens and not to enter by gates of Jerusalem on day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
+- fresh: And it will be if you do not hear me, to sanctify day of Sabbaths, not to carry burdens and not to enter by gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
 - brenton: But it shall come to pass, if ye will not hearken to me to sanctify the sabbath-day, to bear no burdens, nor go in with them by the gates of Jerusalem on the sabbath-day; then will I kindle a fire in the gates thereof, and it shall devour the streets of Jerusalem, and shall not be quenched.
 
 ### Jeremiah 18:1
@@ -173279,7 +173279,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will crush the jar before eyes of men going out with you,
+- fresh: And you will crush the jar before the eyes of men going out with you,
 - brenton: And thou shalt break the bottle in the sight of the men that go forth with thee,
 
 ### Jeremiah 19:11
@@ -173522,7 +173522,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into midst of this city.
+- fresh: Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into the midst of this city.
 - brenton: Thus saith the Lord; Behold, I will turn back the weapons of war wherewith ye fight against the Chaldeans that have besieged you from outside the wall, and I will gather them into the midst of this city.
 
 ### Jeremiah 21:5
@@ -174818,7 +174818,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Become estranged from midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
+- fresh: Become estranged from the midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
 - brenton: Flee ye out of the midst of Babylon, and from the land of the Chaldeans, and go forth, and be as serpents before sleep.
 
 ### Jeremiah 27:9
@@ -175214,7 +175214,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee from midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
+- fresh: Flee from the midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
 - brenton: Flee ye out of the midst of Babylon, and deliver every one his soul: and be not overthrown in her iniquity; for it is the time of her retribution from the Lord; he is rendering to her a recompence.
 
 ### Jeremiah 28:7
@@ -175691,7 +175691,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be when you finish reading this scroll, you will tie stone upon it and throw it into midst of Euphrates,
+- fresh: And it will be when you finish reading this scroll, you will tie stone upon it and throw it into the midst of Euphrates,
 - brenton: And it shall come to pass, when thou shalt cease from reading this book, that thou shalt bind a stone upon it, and cast it into the midst of Euphrates;
 
 ### Jeremiah 28:64
@@ -175826,7 +175826,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in midst of her, and all her cities will become deserts forever.
+- fresh: Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in the midst of her, and all her cities will become deserts forever.
 - brenton: for by myself I have sworn, saith the Lord, that thou shalt be in the midst of her an impassable land, and a reproach, and a curse; and all her cities shall be desert for ever.
 
 ### Jeremiah 30:8
@@ -175880,7 +175880,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, like lion he will go up from midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+- fresh: Behold, like lion he will go up from the midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 - brenton: Behold, he shall come up as a lion out of the midst of Jordan to the place of Ætham: for I will speedily drive them from it, and do ye set the young men against her: for who is like me? and who will withstand me? and who is this shepherd, who shall confront me?
 
 ### Jeremiah 30:14
@@ -177050,7 +177050,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before eyes of priests and all people, saying,
+- fresh: And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of priests and all people, saying,
 - brenton: And it came to pass in the fourth year of Sedekias king of Juda, in the fifth month, that Ananias the false prophet, the son of Azor, from Gabaon, spoke to me in the house of the Lord, in the sight of the priests and all the people, saying,
 
 ### Jeremiah 35:2
@@ -177086,7 +177086,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to Hananiah before eyes of all people and before eyes of priests standing in the house of the Lord,
+- fresh: And Jeremiah said to Hananiah before the eyes of all people and before the eyes of priests standing in the house of the Lord,
 - brenton: Then Jeremias spoke to Ananias in the sight of all the people, and in the sight of the priests that stood in the house of the Lord,
 
 ### Jeremiah 35:6
@@ -177131,7 +177131,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hananiah took before eyes of all people the yokes from Jeremiah’s neck and broke them.
+- fresh: And Hananiah took before the eyes of all people the yokes from Jeremiah’s neck and broke them.
 - brenton: Then Ananias took the yokes from the neck of Jeremias in the sight of all the people, and broke them to pieces.
 
 ### Jeremiah 35:11
@@ -177140,7 +177140,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hananiah said before eyes of all people, saying, Thus said the Lord: Thus I will break yoke of king of Babylon from necks of all nations. And Jeremiah went on his way.
+- fresh: And Hananiah said before the eyes of all people, saying, Thus said the Lord: Thus I will break yoke of king of Babylon from necks of all nations. And Jeremiah went on his way.
 - brenton: And Ananias spoke in the presence of all the people, saying, Thus said the Lord; Thus will I break the yoke of the king of Babylon from the necks of all the nations. And Jeremias went his way.
 
 ### Jeremiah 35:12
@@ -178085,7 +178085,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before eyes of Hanameel son of my father’s brother and before eyes of those standing and writing in scroll of purchase and before eyes of Judeans in court of prison.
+- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in court of prison.
 - brenton: and I gave it to Baruch son of Nerias, son of Maasæas, in the sight of Anameel my father's brother's son, and in the sight of the men that stood by and wrote in the book of the purchase, and in the sight of the Jews that were in the court of the prison.
 
 ### Jeremiah 39:13
@@ -178256,7 +178256,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because this city has been for my anger and for my wrath from day they built it even until this day, to remove it from before my face,
+- fresh: Because this city has been for my anger and for my wrath from the day they built it even until this day, to remove it from before my face,
 - brenton: For this city was obnoxious to my anger and my wrath, from the day that they built it even to this day; that I should remove it from my presence,
 
 ### Jeremiah 39:32
@@ -178994,7 +178994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from day when I spoke to you, from days of Josiah king of Judah until this day.
+- fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from days of Josiah king of Judah until this day.
 - brenton: Take thee a roll of a book, and write upon it all the words which I spoke to thee against Jerusalem, and against Juda, and against all the nations, from the day when I spoke to thee, from the days of Josias king of Juda, even to this day.
 
 ### Jeremiah 43:3
@@ -179282,7 +179282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he and his servants and people of land did not hear words of the Lord which he spoke by the hand of Jeremiah.
+- fresh: And he and his servants and people of the land did not hear words of the Lord which he spoke by the hand of Jeremiah.
 - brenton: And he and his servants and the people of the land hearkened not to the words of the Lord, which he spoke by Jeremias.
 
 ### Jeremiah 44:3
@@ -179300,7 +179300,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah came and passed through midst of city, and they had not given him into house of prison.
+- fresh: And Jeremiah came and passed through the midst of city, and they had not given him into house of prison.
 - brenton: Now Jeremias came and went through the midst of the city: for they had not put him into the house of the prison.
 
 ### Jeremiah 44:5
@@ -179372,7 +179372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in midst of people.
+- fresh: Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in the midst of people.
 - brenton: that Jeremias went forth from Jerusalem to go into the land of Benjamin, to buy thence a property in the midst of the people.
 
 ### Jeremiah 44:13
@@ -179687,7 +179687,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then you will say to them, I cast my mercy before eyes of king, so as not to turn me back to house of Jonathan to die there.
+- fresh: then you will say to them, I cast my mercy before the eyes of king, so as not to turn me back to house of Jonathan to die there.
 - brenton: Then thou shalt say to them, I brought my supplication before the presence of the king, that he would not send me back into the house of Jonathan, that I should die there.
 
 ### Jeremiah 45:27
@@ -179741,7 +179741,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they sent and took Jeremiah from court of prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in midst of people.
+- fresh: And they sent and took Jeremiah from court of prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of people.
 - brenton: and they sent, and took Jeremias out of the court of the prison, and gave him in charge to Godolias the son of Achicam, the son of Saphan: and they brought him out, and he sat in the midst of the people.
 
 ### Jeremiah 46:15
@@ -179786,7 +179786,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in midst of exile of Judah being led to Babylon.
+- fresh: Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in the midst of exile of Judah being led to Babylon.
 - brenton: The word that came from the Lord to Jeremias, after that Nabuzardan the captain of the guard had let him go out of Rama, when he had taken him in manacles in the midst of the captivity of Juda, even those who were carried to Babylon.
 
 ### Jeremiah 47:2
@@ -179822,7 +179822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom king of Babylon appointed in the land of Judah, and dwell with him in midst of people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
+- fresh: And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom king of Babylon appointed in the land of Judah, and dwell with him in the midst of people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
 - brenton: But if not, depart; return to Godolias the son of Achicam, the son of Saphan, whom the king of Babylon has appointed governor in the land of Juda, and dwell with him in the midst of the people in the land of Juda: to whatsoever places it seems good in thine eyes to go, do thou even go. And the captain of the guard made him presents, and let him go.
 
 ### Jeremiah 47:6
@@ -179831,7 +179831,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he came to Gedaliah at Mizpah and sat in midst of people left in land.
+- fresh: And he came to Gedaliah at Mizpah and sat in the midst of people left in land.
 - brenton: And he came to Godolias to Massepha, and dwelt in the midst of his people that was left in the land.
 
 ### Jeremiah 47:7
@@ -179984,7 +179984,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when they entered into midst of city, he slaughtered them into pit.
+- fresh: And it happened when they entered into the midst of city, he slaughtered them into pit.
 - brenton: And it came to pass, when they had entered into the midst of the city, that he slew them and cast them into a pit.
 
 ### Jeremiah 48:8
@@ -179993,7 +179993,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in field: wheat and barley, honey and oil. And he passed by and did not kill them in midst of their brothers.
+- fresh: And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
 - brenton: But ten men were found there, and they said to Ismael, Slay us not: for we have treasures in the field, wheat and barley, honey and oil. So he passed by, and slew them not in the midst of their brethren.
 
 ### Jeremiah 48:9
@@ -180362,7 +180362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Tahpanhes, before eyes of men of Judah.
+- fresh: Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
 - brenton: Take thee great stones, and hide them in the entrance, at the gate of the house of Pharao in Taphnas, in the sight of the men of Juda:
 
 ### Jeremiah 50:10
@@ -180461,7 +180461,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from midst of Judah, so that none be left to you,
+- fresh: And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that none be left to you,
 - brenton: And now thus has the Lord Almighty said, Wherefore do ye commit these great evils against your souls? to cut off man and woman of you, infant and suckling from the midst of Juda, to the end that not one of you should be left;
 
 ### Jeremiah 51:8
@@ -180587,7 +180587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of land, that the Lord remembered and it rose upon his heart?
+- fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
 - brenton: Did not the Lord remember the incense which ye burned in the cities of Juda, and in the streets of Jerusalem, ye, and your fathers, and your kings, and your princes, and the people of the land? and came it not into his heart?
 
 ### Jeremiah 51:22
@@ -180749,7 +180749,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In ninth of the month famine was strengthened in city, and there were no breads for people of land.
+- fresh: In ninth of the month famine was strengthened in city, and there were no breads for people of the land.
 - brenton: on the ninth day of the month, and then the famine was severe in the city, and there was no bread for the people of the land.
 
 ### Jeremiah 52:7
@@ -180794,7 +180794,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until day he died.
+- fresh: And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until the day he died.
 - brenton: And he put out the eyes of Sedekias, and bound him in fetters; and the king of Babylon brought him to Babylon, and put him into the grinding-house, until the day when he died.
 
 ### Jeremiah 52:12
@@ -180911,7 +180911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of land, and sixty men from people of land found in midst of city.
+- fresh: And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of the land, and sixty men from people of the land found in the midst of city.
 - brenton: and one eunuch, who was over the men of war, and seven men of renown, who were in the king's presence, that were found in the city; and the scribe of the forces, who did the part of a scribe to the people of the land; and sixty men of the people of the land, who were found in the midst of the city.
 
 ### Jeremiah 52:26
@@ -180965,7 +180965,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And ration for him was given continually from king of Babylon, from day to day until day he died.
+- fresh: And ration for him was given continually from king of Babylon, from day to day until the day he died.
 - brenton: And his appointed portion was given him continually by the king of Babylon from day to day, until the day when he died.
 
 ## Lamentations
@@ -181111,7 +181111,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+- fresh: The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ### Lamentations 1:16
@@ -182337,7 +182337,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 - brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 
 ### Ezekiel 1:2
@@ -182364,7 +182364,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like appearance of electrum in midst of fire and brightness in it.
+- fresh: And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like appearance of electrum in the midst of fire and brightness in it.
 - brenton: And I looked, and, behold, a sweeping wind came from the north, and a great cloud on it, and there was brightness round about it, and gleaming fire, and in the midst of it as it were the appearance of amber in the midst of the fire, and brightness in it.
 
 ### Ezekiel 1:5
@@ -182445,7 +182445,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in midst of living beings, appearance like burning coals of fire, like sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
+- fresh: And in the midst of living beings, appearance like burning coals of fire, like sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
 - brenton: And in the midst of the living creatures there was an appearance as of burning coals of fire, as an appearance of lamps turning among the living creatures; and the brightness of fire, and out of the fire came forth lightning.
 
 ### Ezekiel 1:15
@@ -182616,7 +182616,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in midst of them.
+- fresh: Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in the midst of them.
 - brenton: Whether then indeed they shall hear or fear, (for it is a provoking house,) yet they shall know that thou art a prophet in the midst of them.
 
 ### Ezekiel 2:6
@@ -182625,7 +182625,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
+- fresh: And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in the midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
 - brenton: And thou, son of man, fear them not, nor be dismayed at their face; (for they will madden and will rise up against thee round about, and thou dwellest in the midst of scorpions): be not afraid of their words, nor be dismayed at their countenance, for it is a provoking house.
 
 ### Ezekiel 2:7
@@ -182877,7 +182877,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And spirit came upon me and set me on my feet and spoke to me and said to me, Enter and shut yourself in midst of your house.
+- fresh: And spirit came upon me and set me on my feet and spoke to me and said to me, Enter and shut yourself in the midst of your house.
 - brenton: Then the Spirit came upon me, and set me on my feet, and spoke to me, and said to me, Go in, and shut thyself up in the midst of thine house.
 
 ### Ezekiel 3:25
@@ -182886,7 +182886,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from midst of them.
+- fresh: And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from the midst of them.
 - brenton: And thou, son of man, behold, bonds are prepared for thee, and they shall bind thee with them, and thou shalt not come forth of the midst of them.
 
 ### Ezekiel 3:26
@@ -183075,7 +183075,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Quarter in fire you will burn in midst of city according to completion of days of confinement. And you will take quarter and burn it in midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
+- fresh: Quarter in fire you will burn in the midst of city according to completion of days of confinement. And you will take quarter and burn it in the midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
 - brenton: A fourth part thou shalt burn in the fire in the midst of the city, at the fulfilment of the days of the siege: and thou shalt take a fourth part, and burn it up in the midst of it: and a fourth part thou shalt cut with a sword round about it: and a fourth part thou shalt scatter to the wind; and I will draw out a sword after them.
 
 ### Ezekiel 5:3
@@ -183093,7 +183093,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from these you will still take and throw them into midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
+- fresh: And from these you will still take and throw them into the midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
 - brenton: And thou shalt take of these again, and cast them into the midst of the fire, and burn them up with fire: from thence shall come forth fire; and thou shalt say to the whole house of Israel,
 
 ### Ezekiel 5:5
@@ -183102,7 +183102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: This is Jerusalem. I set her in midst of nations and lands around her.
+- fresh: Thus says the Lord: This is Jerusalem. I set her in the midst of nations and lands around her.
 - brenton: Thus saith the Lord; This is Jerusalem: I have set her and the countries round about her in the midst of the nations.
 
 ### Ezekiel 5:6
@@ -183327,7 +183327,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will know that I am the Lord when your slain are in midst of your idols, around your altars, on every high hill and under every leafy tree, where they gave there fragrant smell to all their idols.
+- fresh: And you will know that I am the Lord when your slain are in the midst of your idols, around your altars, on every high hill and under every leafy tree, where they gave there fragrant smell to all their idols.
 - brenton: Then ye shall know that I am the Lord, when your slain are in the midst of your idols round about your altars, on every high hill, and under every shady tree, where they offered a sweet savour to all their idols.
 
 ### Ezekiel 6:14
@@ -183579,7 +183579,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ruler will put on desolation, and hands of people of land will be paralyzed. According to their ways I will deal with them, and by their judgments I will avenge them, and they will know that I am the Lord.
+- fresh: Ruler will put on desolation, and hands of people of the land will be paralyzed. According to their ways I will deal with them, and by their judgments I will avenge them, and they will know that I am the Lord.
 - brenton: The prince shall clothe himself with desolation, and the hands of the people of the land shall be made feeble: I will do to them according to their ways, and according to their judgments will I punish them; and they shall know that I am the Lord.
 
 ### Ezekiel 8:1
@@ -183678,7 +183678,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And seventy men from elders of house of Israel, with Jaazaniah son of Shaphan in midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
+- fresh: And seventy men from elders of house of Israel, with Jaazaniah son of Shaphan in the midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
 - brenton: And seventy men of the elders of the house of Israel, and Jechonias the son of Saphan stood in their presence in the midst of them, and each one held his censer in his hand; and the smoke of the incense went up.
 
 ### Ezekiel 8:12
@@ -183759,7 +183759,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, six men came from way of upper gate facing north, and each one had his axe in his hand, and one man in midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
+- fresh: And behold, six men came from way of upper gate facing north, and each one had his axe in his hand, and one man in the midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
 - brenton: And, behold, six men came from the way of the high gate that looks toward the north, and each one's axe was in his hand; and there was one man in the midst of them clothed with a long robe down to the feet, and a sapphire girdle was on his loins: and they came in and stood near the brazen altar.
 
 ### Ezekiel 9:3
@@ -183777,7 +183777,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to him, Pass through midst of Jerusalem and put mark on foreheads of men groaning and grieving over all lawless deeds done in her midst.
+- fresh: And he said to him, Pass through the midst of Jerusalem and put mark on foreheads of men groaning and grieving over all lawless deeds done in her midst.
 - brenton: and said to him, Go through the midst of Jerusalem, and set a mark on the foreheads of the men that groan and that grieve for all the iniquities that are done in the midst of them.
 
 ### Ezekiel 9:5
@@ -183858,7 +183858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to man clothed in robe, Enter into midst of wheels beneath cherubim and fill your hands with coals of fire from midst of cherubim and scatter over city. And he entered before me.
+- fresh: And he said to man clothed in robe, Enter into the midst of wheels beneath cherubim and fill your hands with coals of fire from the midst of cherubim and scatter over city. And he entered before me.
 - brenton: And he said to the man clothed with the long robe, Go in between the wheels that are under the cherubs, and fill thine hands with coals of fire from between the cherubs, and scatter them over the city. And he went in in my sight.
 
 ### Ezekiel 10:3
@@ -183894,7 +183894,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when he commanded man clothed in holy robe, saying, Take fire from midst of wheels, from midst of cherubim, and he went in and stood beside wheels.
+- fresh: And it happened when he commanded man clothed in holy robe, saying, Take fire from the midst of wheels, from the midst of cherubim, and he went in and stood beside wheels.
 - brenton: And it came to pass, when he gave a charge to the man clothed with the sacred robe, saying, Take fire from between the wheels from between the cherubs, that he went in, and stood near the wheels.
 
 ### Ezekiel 10:7
@@ -183903,7 +183903,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And one stretched out his hand into midst of fire that was in midst of cherubim and took and gave into hands of one clothed in holy robe, and he took and went out.
+- fresh: And one stretched out his hand into the midst of fire that was in the midst of cherubim and took and gave into hands of one clothed in holy robe, and he took and went out.
 - brenton: And he stretched forth his hand into the midst of the fire that was between the cherubs, and took thereof, and put it into the hands of the man clothed with the sacred robe: and he took it, and went out.
 
 ### Ezekiel 10:8
@@ -184236,7 +184236,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And glory of the Lord went up from midst of city and stood upon mountain opposite city.
+- fresh: And glory of the Lord went up from the midst of city and stood upon mountain opposite city.
 - brenton: And the glory of the Lord went up from the midst of the city, and stood on the mountain which was in front of the city.
 
 ### Ezekiel 11:24
@@ -184272,7 +184272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, in midst of their injustices you dwell, those who have eyes to see and do not see, and ears to hear and do not hear, because they are provoking house.
+- fresh: Son of man, in the midst of their injustices you dwell, those who have eyes to see and do not see, and ears to hear and do not hear, because they are provoking house.
 - brenton: Son of man, thou dwellest in the midst of the iniquities of those, who have eyes to see, and see not; and have ears to hear, and hear not: because it is a provoking house.
 
 ### Ezekiel 12:3
@@ -184425,7 +184425,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to people of land, Thus says the Lord to those dwelling in Jerusalem upon land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
+- fresh: And you will say to people of the land, Thus says the Lord to those dwelling in Jerusalem upon land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
 - brenton: And thou shalt say to the people of the land, Thus saith the Lord to the inhabitants of Jerusalem on the land of Israel; They shall eat their bread in scarcity, and shall drink their water in desolation, that the land may be desolate with all that it contains: for all that dwell in it are ungodly.
 
 ### Ezekiel 12:20
@@ -184470,7 +184470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For there will no longer be any false vision and flattering diviner in midst of sons of Israel.
+- fresh: For there will no longer be any false vision and flattering diviner in the midst of sons of Israel.
 - brenton: For there shall no more be any false vision, nor any one prophesying flatteries in the midst of the children of Israel.
 
 ### Ezekiel 12:25
@@ -184785,7 +184785,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set my face against that man and make him desolation and ruin, and I will remove him from midst of my people, and you will know that I am the Lord.
+- fresh: And I will set my face against that man and make him desolation and ruin, and I will remove him from the midst of my people, and you will know that I am the Lord.
 - brenton: And I will set my face against that man, and will make him desolate and ruined, and will cut him off from the midst of my people; and ye shall know that I am the Lord.
 
 ### Ezekiel 14:9
@@ -184794,7 +184794,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from midst of my people Israel.
+- fresh: And if prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from the midst of my people Israel.
 - brenton: And if a prophet should cause to err and should speak, I the Lord have caused that prophet to err, and will stretch out my hand upon him, and will utterly destroy him from the midst of my people Israel.
 
 ### Ezekiel 14:10
@@ -185028,7 +185028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And as for your birth, on day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
+- fresh: And as for your birth, on the day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
 - brenton: And as for thy birth in the day wherein thou wast born, thou didst not bind thy breasts, and thou wast not washed in water, neither wast thou salted with salt, neither wast thou swathed in swaddling-bands.
 
 ### Ezekiel 16:5
@@ -185037,7 +185037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on day you were born.
+- fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on the day you were born.
 - brenton: Nor did mine eye pity thee, to do for thee one of all these things, to feel at all for thee; but thou wast cast out on the face of the field, because of the deformity of thy person, in the day wherein thou wast born.
 
 ### Ezekiel 16:6
@@ -185487,7 +185487,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your sister Sodom and her daughters will be restored as they were from beginning, and Samaria and her daughters will be restored as they were from beginning, and you and your daughters will be restored as you were from beginning.
+- fresh: And your sister Sodom and her daughters will be restored as they were from the beginning, and Samaria and her daughters will be restored as they were from the beginning, and you and your daughters will be restored as you were from the beginning.
 - brenton: And thy sister Sodom and her daughters shall be restored as they were at the beginning, and thou and thy daughters shall be restored as ye were at the beginning.
 
 ### Ezekiel 16:56
@@ -185703,7 +185703,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in midst of Babylon he will die.
+- fresh: As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
 - brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
 
 ### Ezekiel 17:17
@@ -185937,7 +185937,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But his father, if he oppresses with oppression and seizes plunder and did opposites in midst of my people, he will die in his injustice.
+- fresh: But his father, if he oppresses with oppression and seizes plunder and did opposites in the midst of my people, he will die in his injustice.
 - brenton: But if his father grievously afflict, or plunder, he has wrought enmity in the midst of my people, and shall die in his iniquity.
 
 ### Ezekiel 18:19
@@ -186081,7 +186081,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, What was your mother? Lioness among lions she became; in midst of lions she multiplied her cubs.
+- fresh: and say, What was your mother? Lioness among lions she became; in the midst of lions she multiplied her cubs.
 - brenton: and say, Why is thy mother become a whelp in the midst of lions? in the midst of lions she has multiplied her whelps.
 
 ### Ezekiel 19:3
@@ -186117,7 +186117,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he prowled in midst of lions; he became lion and learned to seize plunder; he ate men.
+- fresh: And he prowled in the midst of lions; he became lion and learned to seize plunder; he ate men.
 - brenton: And he went up and down in the midst of lions, he became a lion, and learned to take prey, he devoured men.
 
 ### Ezekiel 19:7
@@ -186162,7 +186162,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in midst of stems, and it saw its size in multitude of its branches.
+- fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in the midst of stems, and it saw its size in multitude of its branches.
 - brenton: And she became a rod for a tribe of princes, and was elevated in her bulk in the midst of other trees, and she saw her bulk in the multitude of her branches.
 
 ### Ezekiel 19:12
@@ -186261,7 +186261,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in midst of land of Egypt.
+- fresh: And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in the midst of land of Egypt.
 - brenton: But they revolted from me, and would not hearken to me: they cast not away the abominations of their eyes, and forsook not the devices of Egypt: then I said that I would pour out my wrath upon them, to accomplish my wrath upon them in the midst of Egypt.
 
 ### Ezekiel 20:9
@@ -186558,7 +186558,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before eyes of nations.
+- fresh: In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before the eyes of nations.
 - brenton: I will accept you with a sweet-smelling savour, when I bring you out from the nations, and take you out of the countries wherein ye have been dispersed; and I will be sanctified among you in the sight of the nations.
 
 ### Ezekiel 20:42
@@ -186918,7 +186918,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In fire you will be food for devouring; your blood will be in midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
+- fresh: In fire you will be food for devouring; your blood will be in the midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
 - brenton: Thou shalt be fuel for fire; thy blood shall be in the midst of thy land; there shall be no remembrance at all of thee: for I the Lord have spoken it.
 
 ### Ezekiel 22:1
@@ -187062,7 +187062,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will inherit in you before eyes of nations, and you will know that I am the Lord.
+- fresh: And I will inherit in you before the eyes of nations, and you will know that I am the Lord.
 - brenton: And I will give heritages in thee in the sight of the nations, and ye shall know that I am the Lord.
 
 ### Ezekiel 22:17
@@ -187080,7 +187080,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in midst of silver; it is mixed metal.
+- fresh: Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in the midst of silver; it is mixed metal.
 - brenton: Son of man, behold, the house of Israel are all become to me as it were mixed with brass, and iron, and tin, and lead; they are mixed up in the midst of silver.
 
 ### Ezekiel 22:19
@@ -187089,7 +187089,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because you all became one mixture, therefore I gather you into midst of Jerusalem.
+- fresh: Therefore thus says the Lord: Because you all became one mixture, therefore I gather you into the midst of Jerusalem.
 - brenton: Therefore say, Thus saith the Lord God; Because ye have become one mixture, therefore I will gather you into the midst of Jerusalem.
 
 ### Ezekiel 22:20
@@ -187098,7 +187098,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As silver and bronze and iron and tin and lead are gathered into midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
+- fresh: As silver and bronze and iron and tin and lead are gathered into the midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
 - brenton: As silver, and brass, and iron, and tin, and lead, are gathered into the midst of the furnace, to blow fire into it, that they may be melted: so will I take you in my wrath, and I will gather and melt you.
 
 ### Ezekiel 22:21
@@ -187116,7 +187116,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As silver is melted in midst of furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
+- fresh: As silver is melted in the midst of furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
 - brenton: As silver is melted in the midst of a furnace, so shall ye be melted in the midst thereof; and ye shall know that I the Lord have poured out my wrath upon you.
 
 ### Ezekiel 22:23
@@ -187179,7 +187179,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: People of land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
+- fresh: People of the land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
 - brenton: That sorely oppress the people of the land with injustice, and commit robbery; oppressing the poor and needy, and not dealing justly with the stranger.
 
 ### Ezekiel 22:30
@@ -187548,7 +187548,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they slaughtered their children to their idols, they entered into my holy places to profane them, and so they acted in midst of my house.
+- fresh: And when they slaughtered their children to their idols, they entered into my holy places to profane them, and so they acted in the midst of my house.
 - brenton: And when they sacrificed their children to their idols, they also went into my sanctuary to profane it: and whereas they did thus in the midst of my house;
 
 ### Ezekiel 23:40
@@ -187863,7 +187863,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, is it not on day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
+- fresh: And you, son of man, is it not on the day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
 - brenton: And thou, son of man, shall it not be in the day when I take their strength from them, the pride of their boasting, the desires of their eyes, and the pride of their soul, their sons and their daughters,
 
 ### Ezekiel 24:26
@@ -188079,7 +188079,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Drying place of nets she will be in midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
+- fresh: Drying place of nets she will be in the midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
 - brenton: She shall be in the midst of the sea a place for repairing nets: for I have spoken it, saith the Lord: and it shall be a spoil for the nations.
 
 ### Ezekiel 26:6
@@ -188142,7 +188142,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into midst of sea.
+- fresh: And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into the midst of sea.
 - brenton: And he shall prey upon thy power, and plunder thy substance, and shall cast down thy walls, and break down thy pleasant houses: and he shall cast thy stones and thy timber and thy dust into the midst of thy sea.
 
 ### Ezekiel 26:13
@@ -188466,7 +188466,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in heart of sea on day of your fall.
+- fresh: Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in heart of sea on the day of your fall.
 - brenton: Thy forces, and thy gain, and that of thy traders, and thy rowers, and thy pilots, and thy counsellors, and they that traffic with thee, and all thy warriors that are in thee: and all thy company in the midst of thee shall perish in the heart of the sea, in the day of thy fall.
 
 ### Ezekiel 27:28
@@ -188664,7 +188664,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With cherub I placed you on holy mountain of God; you came to be in midst of fiery stones.
+- fresh: With cherub I placed you on holy mountain of God; you came to be in the midst of fiery stones.
 - brenton: From the day that thou wast created thou wast with the cherub: I set thee on the holy mount of God; thou wast in the midst of the stones of fire.
 
 ### Ezekiel 28:15
@@ -188682,7 +188682,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from mountain of God, and cherub led you out from midst of fiery stones.
+- fresh: From abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from mountain of God, and cherub led you out from the midst of fiery stones.
 - brenton: Of the abundance of thy merchandise thou hast filled thy storehouses with iniquity, and hast sinned: therefore thou hast been cast down wounded from the mount of God, and the cherub has brought thee out of the midst of the stones of fire.
 
 ### Ezekiel 28:17
@@ -188799,7 +188799,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in midst of his rivers, saying, Rivers are mine, and I made them.
+- fresh: and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in the midst of his rivers, saying, Rivers are mine, and I made them.
 - brenton: and say,
 
 ### Ezekiel 29:4
@@ -188808,7 +188808,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from midst of your river, and all fish of your river,
+- fresh: And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from the midst of your river, and all fish of your river,
 - brenton: And I will put hooks in thy jaws, and I will cause the fish of thy river to stick to thy sides, and I will bring thee up out of the midst of thy river:
 
 ### Ezekiel 29:5
@@ -188880,7 +188880,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make its land destruction in midst of desolated land, and its cities in midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
+- fresh: And I will make its land destruction in the midst of desolated land, and its cities in the midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
 - brenton: And I will cause her land to be utterly destroyed in the midst of a land that is desolate, and her cities shall be desolate forty years in the midst of cities that are desolate: and I will disperse Egypt among the nations, and will utterly scatter them into the countries.
 
 ### Ezekiel 29:13
@@ -189024,7 +189024,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be made desolate in midst of desolated lands, and her cities will be in midst of desolated cities.
+- fresh: And it will be made desolate in the midst of desolated lands, and her cities will be in the midst of desolated cities.
 - brenton: And it shall be made desolate in the midst of desolate countries, and their cities shall be desolate in the midst of the desolate cities:
 
 ### Ezekiel 30:8
@@ -189042,7 +189042,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on day of Egypt, because behold, it comes.
+- fresh: On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
 - brenton: In that day shall messengers go forth hasting to destroy Ethiopia utterly, and there shall be tumult among them in the day of Egypt: for, behold, it comes.
 
 ### Ezekiel 30:10
@@ -189222,7 +189222,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in midst of clouds.
+- fresh: Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
 - brenton: Behold, the Assyrian was a cypress in Libanus, and was fair in shoots, and high in stature: his top reached to the midst of the clouds.
 
 ### Ezekiel 31:4
@@ -189285,7 +189285,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because you became great in size and gave your top into midst of clouds and he was seen when he was exalted,
+- fresh: Therefore thus says the Lord: Because you became great in size and gave your top into the midst of clouds and he was seen when he was exalted,
 - brenton: Therefore thus saith the Lord; Because thou art grown great, and hast set thy top in the midst of the clouds, and I saw when he was exalted;
 
 ### Ezekiel 31:11
@@ -189321,7 +189321,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: so that all trees in water might not be exalted in their size, and not give their top into midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in midst of sons of men, to those going down into pit.
+- fresh: so that all trees in water might not be exalted in their size, and not give their top into the midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in the midst of sons of men, to those going down into pit.
 - brenton: in order that none of the trees by the water should exalt themselves by reason of their size: whereas they set their top in the midst of the clouds, yet they continued not in their high state in their place, all that drank water, all were consigned to death, to the depth of the earth, in the midst of the children of men, with them that go down to the pit.
 
 ### Ezekiel 31:15
@@ -189330,7 +189330,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: On day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
+- fresh: Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
 - brenton: Thus saith the Lord God; In the day wherein he went down to Hades, the deep mourned for him: and I stayed her floods, and restrained her abundance of water: and Libanus saddened for him, all the trees of the field fainted for him.
 
 ### Ezekiel 31:16
@@ -189348,7 +189348,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in midst of their life, perished.
+- fresh: For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
 - brenton: For they went down to hell with him among the slain with the sword; and his seed, even they that dwelt under his shadow, perished in the midst of their life.
 
 ### Ezekiel 31:18
@@ -189357,7 +189357,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom were you likened? Go down and be brought down with trees of delight into depth of earth. In midst of uncircumcised you will lie with wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
+- fresh: To whom were you likened? Go down and be brought down with trees of delight into depth of earth. In the midst of uncircumcised you will lie with wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
 - brenton: To whom art thou compared? descend, and be thou debased with the trees of paradise to the depth of the earth: thou shalt lie in the midst of the uncircumcised with them that are slain by the sword. Thus shall Pharao be, and the multitude of his host, saith the Lord God.
 
 ### Ezekiel 32:1
@@ -189528,7 +189528,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In midst of wounded of sword they will fall with him, and all his strength will lie down.
+- fresh: In the midst of wounded of sword they will fall with him, and all his strength will lie down.
 - brenton: They shall fall with him in the midst of them that are slain with the sword, and all his strength shall perish: the giants also shall say to thee,
 
 ### Ezekiel 32:21
@@ -189537,7 +189537,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And giants in depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in midst of wounded of sword.
+- fresh: And giants in depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
 - brenton: Be thou in the depth of the pit: to whom art thou superior? yea, go down, and lie with the uncircumcised, in the midst of them that are slain with the sword.
 
 ### Ezekiel 32:22
@@ -189573,7 +189573,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In midst of wounded.
+- fresh: In the midst of wounded.
 - brenton: in the midst of the slain.
 
 ### Ezekiel 32:26
@@ -189600,7 +189600,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will lie down in midst of uncircumcised with those wounded by sword.
+- fresh: And you will lie down in the midst of uncircumcised with those wounded by sword.
 - brenton: And thou shalt lie in the midst of the uncircumcised, with them that have been slain by the sword.
 
 ### Ezekiel 32:29
@@ -189636,7 +189636,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in midst of uncircumcised with wounded of sword, says the Lord.
+- fresh: Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with wounded of sword, says the Lord.
 - brenton: For I have caused his fear to be upon the land of the living: yet he shall lie in the midst of the uncircumcised with them that are slain with the sword, even Pharao, and all his multitude with him, saith the Lord God.
 
 ### Ezekiel 33:1
@@ -189654,7 +189654,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of land take one man from themselves and give him to themselves for watchman,
+- fresh: Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
 - brenton: Son of man, speak to the children of thy people, and thou shalt say to them,
 
 ### Ezekiel 33:3
@@ -189744,7 +189744,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to sons of your people, Righteousness of righteous one will not rescue him on day he wanders, and lawlessness of impious one will not hurt him on day he turns from his lawlessness, and righteous one will not be able to be saved.
+- fresh: Say to sons of your people, Righteousness of righteous one will not rescue him on the day he wanders, and lawlessness of impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
 - brenton: Say to the children of thy people, The righteousness of the righteous shall not deliver him, in the day wherein he errs: and the iniquity of the ungodly shall not harm him, in the day wherein he turns from his iniquity, but the righteous erring shall not be able to deliver himself.
 
 ### Ezekiel 33:13
@@ -190032,7 +190032,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As shepherd seeks his flock on day when cloud and gloom are in midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on day of cloud and gloom.
+- fresh: As shepherd seeks his flock on the day when cloud and gloom are in the midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on the day of cloud and gloom.
 - brenton: As the shepherd seeks his flock, in the day when there is darkness and cloud, in the midst of the sheep that are separated: so will I seek out my sheep, and will bring them back from every place where they were scattered in the day of cloud and darkness.
 
 ### Ezekiel 34:13
@@ -190635,7 +190635,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: On day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
+- fresh: Thus says the Lord: On the day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
 - brenton: Thus saith the Lord God; In the day wherein I shall cleanse you from all your iniquities I will also cause the cities to be inhabited, and the waste places shall be built upon:
 
 ### Ezekiel 36:34
@@ -190644,7 +190644,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and land that was desolated will be worked, because it had become desolated before eyes of every passerby.
+- fresh: and land that was desolated will be worked, because it had become desolated before the eyes of every passerby.
 - brenton: and the desolate land shall be cultivated, whereas it was desolate in the eyes of every one that passed by.
 
 ### Ezekiel 36:35
@@ -190689,7 +190689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in midst of plain, and it was full of human bones.
+- fresh: And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in the midst of plain, and it was full of human bones.
 - brenton: And the hand of the Lord came upon me, and the Lord brought me forth by the Spirit, and set me in the midst of the plain, and it was full of human bones.
 
 ### Ezekiel 37:2
@@ -190869,7 +190869,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
+- fresh: And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
 - brenton: And thou shalt say to them,
 
 ### Ezekiel 37:22
@@ -191094,7 +191094,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be on that day, on day when Gog comes upon land of Israel, says the Lord God, my wrath will rise up.
+- fresh: And it will be on that day, on the day when Gog comes upon land of Israel, says the Lord God, my wrath will rise up.
 - brenton: And it shall come to pass in that day, in the day when Gog shall come against the land of Israel, saith the Lord God,
 
 ### Ezekiel 38:19
@@ -191202,7 +191202,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And my holy name will be made known in midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
+- fresh: And my holy name will be made known in the midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
 - brenton: And my holy name shall be known in the midst of my people Israel; and my holy name shall no more be profaned: and the nations shall know that I am the Lord, the Holy One in Israel.
 
 ### Ezekiel 39:8
@@ -191256,7 +191256,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all people of land will bury them, and it will be to them for renown on day I was glorified, says the Lord.
+- fresh: And all people of the land will bury them, and it will be to them for renown on the day I was glorified, says the Lord.
 - brenton: Yea, all the people of the land shall bury them; and it shall be to them a place of renown in the day wherein it was glorified, saith the Lord.
 
 ### Ezekiel 39:14
@@ -192309,7 +192309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in midst of them.
+- fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in the midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in the midst of them.
 - brenton: and he said to me,
 
 ### Ezekiel 43:8
@@ -192570,7 +192570,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in midst of house of Israel.
+- fresh: Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in the midst of house of Israel.
 - brenton: Therefore thus saith the Lord God; No alien, uncircumcised in heart or uncircumcised in flesh, shall enter into my sanctuary, of all the children of strangers that are in the midst of the house of Israel.
 
 ### Ezekiel 44:10
@@ -192732,7 +192732,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
+- fresh: And on the day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
 - brenton: And on whatsoever day they shall enter into the inner court to minister in the holy place, they shall bring a propitiation, saith the Lord God.
 
 ### Ezekiel 44:28
@@ -193002,7 +193002,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on day of new moon it will be opened.
+- fresh: Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on the day of new moon it will be opened.
 - brenton: Thus saith the Lord God; The gate that is in the inner court, that looks eastward, shall be shut the six working days; but let it be opened on the sabbath-day, and it shall be opened on the day of the new moon.
 
 ### Ezekiel 46:2
@@ -193047,7 +193047,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on day of new moon, a flawless bull and six lambs and a flawless ram.
+- fresh: And on the day of new moon, a flawless bull and six lambs and a flawless ram.
 - brenton: And on the day of the new moon a calf without blemish, and six lambs, and there shall be a ram without blemish;
 
 ### Ezekiel 46:7
@@ -193083,7 +193083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ruler in midst of them, when they enter, he will enter with them, and when they go out, he will go out.
+- fresh: And the ruler in the midst of them, when they enter, he will enter with them, and when they go out, he will go out.
 - brenton: And the prince shall enter with them in the midst of them when they go in; and when they go forth, he shall go forth.
 
 ### Ezekiel 46:11
@@ -193407,7 +193407,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will cast it by lot for yourselves and for the resident aliens dwelling in midst of you, who have begotten sons in midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in midst of tribes of Israel.
+- fresh: You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in the midst of tribes of Israel.
 - brenton: Ye shall cast the lot upon it, for yourselves and the strangers that sojourn in the midst of you, who have begotten children in the midst of you: and they shall be to you as natives among the children of Israel; they shall eat with you in their inheritance in the midst of the tribes of Israel.
 
 ### Ezekiel 47:23
@@ -193488,7 +193488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in midst of them.
+- fresh: And beside border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in the midst of them.
 - brenton: And from the borders of Juda, from the eastern parts shall be the offering of first-fruits, in breadth twenty-five thousand reeds, and in length as one of the portions measured from the east even to the western parts: and the sanctuary shall be in the midst of them.
 
 ### Ezekiel 48:9
@@ -193506,7 +193506,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in midst of it.
+- fresh: Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in the midst of it.
 - brenton: Out of this shall be the first-fruits of the holy things to the priests, northward, five and twenty-thousand, and towards the west, ten thousand, and southward, five and twenty thousand: and the mountain of the sanctuary, shall be in the midst of it,
 
 ### Ezekiel 48:11
@@ -193551,7 +193551,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in midst of it.
+- fresh: And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in the midst of it.
 - brenton: But concerning the five thousand that remain in the breadth in the five and twenty thousand, they shall be a suburb to the city for dwelling, and for a space before it: and the city shall be in the midst thereof.
 
 ### Ezekiel 48:16
@@ -193605,7 +193605,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in midst of it.
+- fresh: And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in the midst of it.
 - brenton: And the prince shall have the remainder on this side and on that side from the first-fruits of the sanctuary, and there shall be a possession of the city, for five and twenty thousand cubits in length, to the eastern and western borders, for five and twenty thousand to the western borders, next to the portions of the prince; and the first-fruits of the holy things and the sanctuary of the house shall be in the midst of it.
 
 ### Ezekiel 48:22
@@ -193614,7 +193614,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from possession of the Levites and from possession of the city, in midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
+- fresh: And from possession of the Levites and from possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
 - brenton: And there shall be a portion taken from the Levites, from the possession of the city in the midst of the princes between the borders of Juda and the borders of Benjamin, and it shall be the portion of the princes.
 
 ### Ezekiel 48:23
@@ -194597,7 +194597,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from midst of the fire.
+- fresh: And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
 - brenton: [missing]
 
 ### Daniel 3:27
@@ -194903,7 +194903,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Belshazzar the king made a great banquet on day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
+- fresh: Belshazzar the king made a great banquet on the day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
 - brenton: [missing]
 
 ### Daniel 5:1
@@ -196930,7 +196930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: lest I strip her naked and restore her as on day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
+- fresh: lest I strip her naked and restore her as on the day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
 - brenton: that I may strip her naked, and make her again as she was at the day of her birth: and I will make her desolate, and make her as a dry land, and will kill her with thirst.
 
 ### Hosea 2:6
@@ -199002,7 +199002,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will know that I am in midst of Israel, and I am the Lord your God and there is no other besides me, and all my people will no longer be put to shame forever.
+- fresh: And you will know that I am in the midst of Israel, and I am the Lord your God and there is no other besides me, and all my people will no longer be put to shame forever.
 - brenton: And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and that there is none else beside me; and my people shall no more be ashamed for ever.
 
 ### Joel 3:1
@@ -199598,7 +199598,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in midst of her and oppression in her.
+- fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in the midst of her and oppression in her.
 - brenton: Proclaim it to the regions among the Assyrians, and to the regions of Egypt, and say, Gather yourselves to the mountain of Samaria, and behold many wonderful things in the midst of it, and the oppression that is in it.
 
 ### Amos 3:10
@@ -200048,7 +200048,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from midst of cattle-stalls, sucklings,
+- fresh: sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from the midst of cattle-stalls, sucklings,
 - brenton: who sleep upon beds of ivory, and live delicately on their couches, and eat kids out of the flocks, and sucking calves out of the midst of the stalls;
 
 ### Amos 6:5
@@ -200075,7 +200075,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore now they will be captives from beginning of rulers, and neighing of horses from Ephraim will be removed.
+- fresh: Therefore now they will be captives from the beginning of rulers, and neighing of horses from Ephraim will be removed.
 - brenton: Therefore now shall they depart into captivity from the dominion of princes, and the neighing of horses shall be cut off from Ephraim.
 
 ### Amos 6:8
@@ -200210,7 +200210,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lord said to me, Behold, I am setting adamant in midst of my people Israel; I will no longer continue to pass over him.
+- fresh: And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lord said to me, Behold, I am setting adamant in the midst of my people Israel; I will no longer continue to pass over him.
 - brenton: And the Lord said to me, What seest thou, Amos? And I said, An adamant. And the Lord said to me, Behold, I appoint an adamant in the midst of my people Israel: I will not pass by them any more.
 
 ### Amos 7:9
@@ -200228,7 +200228,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in midst of house of Israel; the land cannot bear all his words.
+- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of house of Israel; the land cannot bear all his words.
 - brenton: Then Amasias the priest of Bæthel sent to Jeroboam king of Israel, saying, Amos is forming conspiracies against thee in the midst of the house of Israel: the land will be utterly unable to bear all his words.
 
 ### Amos 7:11
@@ -200653,7 +200653,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From day when you stood opposite, on day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
+- fresh: From the day when you stood opposite, on the day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
 - brenton: From the day that thou stoodest in opposition to him, in the days when foreigners were taking captive his forces, and strangers entered into his gates, and cast lots on Jerusalem, thou also wast as one of them.
 
 ### Obadiah 1:12
@@ -200662,7 +200662,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not look on day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
+- fresh: Do not look on the day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
 - brenton: And thou shouldest not have looked on the day of thy brother in the day of strangers; nor shouldest thou have rejoiced against the children of Juda in the day of their destruction; neither shouldest thou have boasted in the day of their affliction.
 
 ### Obadiah 1:13
@@ -201431,7 +201431,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jacob will surely be gathered with all; I will surely receive remnant of Israel. I will set their turning together like sheep in distress, like flock in midst of their fold; they will spring out from humans.
+- fresh: Jacob will surely be gathered with all; I will surely receive remnant of Israel. I will set their turning together like sheep in distress, like flock in the midst of their fold; they will spring out from humans.
 - brenton: Jacob shall be completely gathered with all his people: I will surely receive the remnant of Israel; I will cause them to return together, as sheep in trouble, as a flock in the midst of their fold: they shall rush forth from among men through the breach made before them:
 
 ### Micah 2:13
@@ -201683,7 +201683,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from beginning, from days of age.
+- fresh: And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from the beginning, from days of age.
 - brenton: And thou, Bethleem, house of Ephratha, art few in number to be reckoned among the thousands of Juda; yet out of thee shall one come forth to me, to be a ruler of Israel; and his goings forth were from the beginning, even from eternity.
 
 ### Micah 5:2
@@ -201728,7 +201728,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And remnant of Jacob among nations, in midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
+- fresh: And remnant of Jacob among nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
 - brenton: And the remnant of Jacob shall be among the Gentiles in the midst of many peoples, as dew falling from the Lord, and as lambs on the grass; that none may assemble nor resist among the sons of men.
 
 ### Micah 5:7
@@ -201737,7 +201737,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And remnant of Jacob among nations and in midst of many peoples will be like lion among beasts of forest and like lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
+- fresh: And remnant of Jacob among nations and in the midst of many peoples will be like lion among beasts of forest and like lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
 - brenton: And the remnant of Jacob shall be among the Gentiles in the midst of many nations, as a lion in the forest among cattle, and as a lion's whelp among flocks of sheep, even as when he goes through, and selects, and carries off his prey, and there is none to deliver.
 
 ### Micah 5:8
@@ -202070,7 +202070,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in forest in midst of Carmel; they will pasture Bashan and Gilead as days of age.
+- fresh: Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
 - brenton: Tend thy people with thy rod, the sheep of thine inheritance, those that inhabit by themselves the thicket in the midst of Carmel: they shall feed in the land of Basan, and in the land of Galaad, as in the days of old.
 
 ### Micah 7:15
@@ -203707,7 +203707,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ### Haggai 2:5
@@ -203716,7 +203716,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And my spirit stands in midst of you; take courage.
+- fresh: And my spirit stands in the midst of you; take courage.
 - brenton: and my Spirit remains in the midst of you; be of good courage.
 
 ### Haggai 2:6
@@ -203833,7 +203833,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from day when temple of the Lord was founded; set it in your hearts.
+- fresh: Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from the day when temple of the Lord was founded; set it in your hearts.
 - brenton: Set your hearts now to think from this day and upward, from the four and twentieth day of the ninth month, even from the day when the foundation of the temple of the Lord was laid;
 
 ### Haggai 2:19
@@ -204249,7 +204249,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: If you walk in my ways and keep my commands, then you also will judge my house, and if you guard my court, I will give you those walking about in midst of these standing here.
+- fresh: Thus says the Lord Almighty: If you walk in my ways and keep my commands, then you also will judge my house, and if you guard my court, I will give you those walking about in the midst of these standing here.
 - brenton: Thus saith the Lord Almighty;
 
 ### Zechariah 3:8
@@ -204438,7 +204438,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring it out, says the Lord Almighty, and it will enter house of thief and house of one swearing falsely by my name, and it will lodge in midst of his house and consume it, its timbers and its stones.
+- fresh: And I will bring it out, says the Lord Almighty, and it will enter house of thief and house of one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
 - brenton: And I will bring it forth, saith the Lord Almighty, and it shall enter into the house of the thief, and into the house of him that swears falsely by my name: and it shall rest in the midst of his house, and shall consume it, and the timber of it, and the stones of it.
 
 ### Zechariah 5:5
@@ -204465,7 +204465,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, a talent of lead being lifted, and behold, one woman sat in midst of measure.
+- fresh: And behold, a talent of lead being lifted, and behold, one woman sat in the midst of measure.
 - brenton: And behold a talent of lead lifted up: and behold a woman sat in the midst of the measure.
 
 ### Zechariah 5:8
@@ -204474,7 +204474,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, This is lawlessness. And he threw her into midst of measure and threw lead stone onto its mouth.
+- fresh: And he said, This is lawlessness. And he threw her into the midst of measure and threw lead stone onto its mouth.
 - brenton: And he said, This is iniquity. And he cast it into the midst of the measure, and cast the weight of lead on the mouth of it.
 
 ### Zechariah 5:9
@@ -204681,7 +204681,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to all people of land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+- fresh: Say to all people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 - brenton: Speak to the whole people of the land, and to the priests, saying, Though ye fasted or lamented in the fifth or seventh months (yea, behold, these seventy years) have ye at all fasted to me?
 
 ### Zechariah 7:6
@@ -204789,7 +204789,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: I will return to Zion and dwell in midst of Jerusalem, and Jerusalem will be called city of truth and mountain of the Lord Almighty, holy mountain.
+- fresh: Thus says the Lord: I will return to Zion and dwell in the midst of Jerusalem, and Jerusalem will be called city of truth and mountain of the Lord Almighty, holy mountain.
 - brenton: Thus saith the Lord; I will return to Sion, and dwell in the midst of Jerusalem: and Jerusalem shall be called a true city, and the mountain of the Lord Almighty a holy mountain.
 
 ### Zechariah 8:4
@@ -204834,7 +204834,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will bring them in, and they will dwell in midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
+- fresh: and I will bring them in, and they will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
 - brenton: and I will bring them in, and cause them to dwell in the midst of Jerusalem: and they shall be to me a people, and I will be to them a God, in truth and in righteousness.
 
 ### Zechariah 8:9
@@ -205446,7 +205446,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will save tents of Judah as from beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
+- fresh: And the Lord will save tents of Judah as from the beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
 - brenton: And the Lord shall save the tabernacles of Juda as at the beginning, that the boast of the house of David, and the pride of the inhabitants of Jerusalem, may not magnify themselves against Juda.
 
 ### Zechariah 12:8

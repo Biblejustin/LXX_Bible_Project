@@ -11,7 +11,7 @@ Selected verses: 6
 ## Song of Solomon 2:3
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved; crossref_top_vote=7; reco=keep
-- fresh: As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ## Song of Solomon 2:9

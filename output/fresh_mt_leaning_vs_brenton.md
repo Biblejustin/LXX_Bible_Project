@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 711
+Rows: 712
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -86,9 +86,9 @@ Rows: 711
 ## Amos 7:10
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.869`
-- fresh_brenton_ratio: `0.027`
-- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in midst of house of Israel; the land cannot bear all his words.
+- fresh_mt_ratio: `0.882`
+- fresh_brenton_ratio: `0.026`
+- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of house of Israel; the land cannot bear all his words.
 - mt: Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos has conspired against you in the midst of the house of Israel: the land is not able to bear all his words.
 - brenton: Then Amasias the priest of Bæthel sent to Jeroboam king of Israel, saying, Amos is forming conspiracies against thee in the midst of the house of Israel: the land will be utterly unable to bear all his words.
 
@@ -650,6 +650,15 @@ Rows: 711
 - mt: And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:
 - brenton: And the priest shall take pure running water in an earthen vessel, and he shall take of the dust that is on the floor of the tabernacle of witness, and the priest having taken it shall cast it into the water.
 
+## Ezekiel 1:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.806`
+- fresh_brenton_ratio: `0.193`
+- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+- mt: Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
+- brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
+
 ## Joshua 11:3
 - priority: `0`
 - importance: `none`
@@ -667,15 +676,6 @@ Rows: 711
 - fresh: And Moses brought their judgment before the Lord.
 - mt: And Moses brought their cause before the LORD.
 - brenton: And the Lord spoke to Moses, saying,
-
-## Ezekiel 1:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.804`
-- fresh_brenton_ratio: `0.195`
-- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
-- mt: Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
-- brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 
 ## Ezekiel 5:17
 - priority: `0`
@@ -1540,6 +1540,15 @@ Rows: 711
 - fresh: In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.
 - mt: In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
 - brenton: Seven years and six months he reigned in Chebron over Juda, and thirty-three years he reigned over all Israel and Juda in Jerusalem.
+
+## Ezekiel 33:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.753`
+- fresh_brenton_ratio: `0.392`
+- fresh: Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
+- mt: Son of man, speak to the children of your people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
+- brenton: Son of man, speak to the children of thy people, and thou shalt say to them,
 
 ## Isaiah 19:23
 - priority: `0`
@@ -4088,15 +4097,6 @@ Rows: 711
 - mt: Six days you shall work, but on the seventh day you shall rest: in earring time and in harvest you shall rest.
 - brenton: Six days thou shalt work, but on the seventh day thou shalt rest: there shall be rest in seed-time and harvest.
 
-## Ezekiel 5:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.779`
-- fresh_brenton_ratio: `0.637`
-- fresh: Thus says the Lord: This is Jerusalem. I set her in midst of nations and lands around her.
-- mt: Thus says the Lord GOD; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.
-- brenton: Thus saith the Lord; This is Jerusalem: I have set her and the countries round about her in the midst of the nations.
-
 ## Nehemiah 1:10
 - priority: `0`
 - importance: `none`
@@ -4159,6 +4159,15 @@ Rows: 711
 - fresh: And every creeping thing that creeps upon the earth is an abomination. It shall not be eaten.
 - mt: And every creeping thing that creeps upon the earth shall be an abomination; it shall not be eaten.
 - brenton: And every reptile that creeps on the earth, this shall be an abomination to you; it shall not be eaten.
+
+## Ezekiel 5:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.802`
+- fresh_brenton_ratio: `0.663`
+- fresh: Thus says the Lord: This is Jerusalem. I set her in the midst of nations and lands around her.
+- mt: Thus says the Lord GOD; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.
+- brenton: Thus saith the Lord; This is Jerusalem: I have set her and the countries round about her in the midst of the nations.
 
 ## Ezra 10:33
 - priority: `0`
@@ -5006,15 +5015,6 @@ Rows: 711
 - mt: And it shall be, that you shall drink of the brook; and I have commanded the ravens to feed you there.
 - brenton: And it shall be that thou shalt drink water of the brook, and I will charge the ravens to feed thee there.
 
-## Ezekiel 17:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.826`
-- fresh_brenton_ratio: `0.707`
-- fresh: As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in midst of Babylon he will die.
-- mt: As I live, says the Lord GOD, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die.
-- brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
-
 ## Genesis 12:12
 - priority: `0`
 - importance: `none`
@@ -5140,6 +5140,15 @@ Rows: 711
 - fresh: And cherubim were lifted up. This was living creature I saw by river Chebar.
 - mt: And the cherubims were lifted up. This is the living creature that I saw by the river of Chebar.
 - brenton: And the cherubs were the same living creature which I saw by the river of Chobar.
+
+## Ezekiel 17:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.839`
+- fresh_brenton_ratio: `0.722`
+- fresh: As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
+- mt: As I live, says the Lord GOD, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die.
+- brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
 
 ## Genesis 34:26
 - priority: `0`

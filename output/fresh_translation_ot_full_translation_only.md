@@ -33690,7 +33690,7 @@ And as for Absalom, there was no man in all Israel praised so greatly. From the 
 
 **2 Samuel 14:26**
 
-And when he cut his head, and it came to be from beginning of days to days as he would cut it because it weighed heavily upon him, cutting it he weighed the hair of his head at two hundred shekels by the royal shekel.
+And when he cut his head, and it came to be from the beginning of days to days as he would cut it because it weighed heavily upon him, cutting it he weighed the hair of his head at two hundred shekels by the royal shekel.
 
 **2 Samuel 14:27**
 
@@ -42624,7 +42624,7 @@ and Gedor and his brother and Zechariah and Mikloth.
 
 **1 Chronicles 9:38**
 
-And Mikloth begot Shimeam. And these also dwelt in Jerusalem in midst of their brothers with their brothers.
+And Mikloth begot Shimeam. And these also dwelt in Jerusalem in the midst of their brothers with their brothers.
 
 **1 Chronicles 9:39**
 
@@ -43500,7 +43500,7 @@ Go and speak to David my servant, Thus says the Lord, You shall not build me hou
 
 **1 Chronicles 17:5**
 
-Because I have not dwelt in house from day when I brought up Israel until this day, but I have been in tent and in dwelling-place.
+Because I have not dwelt in house from the day when I brought up Israel until this day, but I have been in tent and in dwelling-place.
 
 **1 Chronicles 17:6**
 
@@ -43516,7 +43516,7 @@ And I was with you in all places where you went, and I destroyed all your enemie
 
 **1 Chronicles 17:9**
 
-And I will appoint place for my people Israel and plant him, and he shall dwell by himself and not be anxious anymore, and unrighteousness shall not again afflict him as from beginning,
+And I will appoint place for my people Israel and plant him, and he shall dwell by himself and not be anxious anymore, and unrighteousness shall not again afflict him as from the beginning,
 
 **1 Chronicles 17:10**
 
@@ -43966,7 +43966,7 @@ And David commanded all rulers of Israel to help Solomon his son:
 
 **1 Chronicles 22:18**
 
-Is not the Lord with you and has he not given you rest all around? Because he gave inhabitants of land into hands, and land is subdued before the Lord and before his people.
+Is not the Lord with you and has he not given you rest all around? Because he gave inhabitants of the land into hands, and land is subdued before the Lord and before his people.
 
 **1 Chronicles 22:19**
 
@@ -44630,7 +44630,7 @@ And David assembled all rulers of Israel, rulers of judges and rulers of courses
 
 **1 Chronicles 28:2**
 
-And David stood in midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
+And David stood in the midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
 
 **1 Chronicles 28:3**
 
@@ -45214,7 +45214,7 @@ And he said, Blessed is the Lord God of Israel, who spoke with his mouth to Davi
 
 **2 Chronicles 6:5**
 
-From day when I brought my people out of land of Egypt, I did not choose city from all tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
+From the day when I brought my people out of land of Egypt, I did not choose city from all tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
 
 **2 Chronicles 6:6**
 
@@ -45246,7 +45246,7 @@ And he stood before altar of the Lord in presence of all assembly of Israel and 
 
 **2 Chronicles 6:13**
 
-For Solomon made bronze platform and set it in midst of court of sanctuary, its length five cubits and breadth five cubits and height three cubits, and he stood upon it and fell on his knees before all assembly of Israel and spread out his hands toward heaven.
+For Solomon made bronze platform and set it in the midst of court of sanctuary, its length five cubits and breadth five cubits and height three cubits, and he stood upon it and fell on his knees before all assembly of Israel and spread out his hands toward heaven.
 
 **2 Chronicles 6:14**
 
@@ -45928,7 +45928,7 @@ And now you say you will stand against kingdom of the Lord by the hand of sons o
 
 **2 Chronicles 13:9**
 
-Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from people of land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
+Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from people of the land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
 
 **2 Chronicles 13:10**
 
@@ -46718,7 +46718,7 @@ And Athaliah mother of Ahaziah saw that her son was dead, and she rose and destr
 
 **2 Chronicles 22:11**
 
-And Jehoshabeath daughter of king took Joash son of Ahaziah and stole him from midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Jehoshabeath daughter of king Jehoram, sister of Ahaziah, wife of Jehoiada the priest, hid him from before Athaliah, and she did not kill him.
+And Jehoshabeath daughter of king took Joash son of Ahaziah and stole him from the midst of king’s sons who were being put to death and put him and his nurse in chamber of beds. And Jehoshabeath daughter of king Jehoram, sister of Ahaziah, wife of Jehoiada the priest, hid him from before Athaliah, and she did not kill him.
 
 **2 Chronicles 22:12**
 
@@ -46756,7 +46756,7 @@ And Levites shall surround king all around, each man with weapon in his hand, an
 
 **2 Chronicles 23:8**
 
-And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
+And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
 
 **2 Chronicles 23:9**
 
@@ -46776,7 +46776,7 @@ And Athaliah heard sound of people running and giving thanks and praising king a
 
 **2 Chronicles 23:13**
 
-And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of land rejoiced, and they sounded with trumpets, and singers with instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of the land rejoiced, and they sounded with trumpets, and singers with instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
 
 **2 Chronicles 23:14**
 
@@ -46792,7 +46792,7 @@ And Jehoiada made covenant between himself and people and king, that they should
 
 **2 Chronicles 23:17**
 
-And all people of land entered house of Baal and pulled it down, and his altars and idols they crushed small, and Matthan priest of Baal they killed before his altars.
+And all people of the land entered house of Baal and pulled it down, and his altars and idols they crushed small, and Matthan priest of Baal they killed before his altars.
 
 **2 Chronicles 23:18**
 
@@ -46804,11 +46804,11 @@ And they stationed gatekeepers at gates of house of the Lord, and no unclean per
 
 **2 Chronicles 23:20**
 
-And he took patriarchs and mighty men and rulers of people and all people of land, and brought up king to house of the Lord, and entered by inner gate into house of king and seated king upon throne of kingdom.
+And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to house of the Lord, and entered by inner gate into house of king and seated king upon throne of kingdom.
 
 **2 Chronicles 23:21**
 
-And all people of land rejoiced, and city was quiet, and they killed Athaliah with sword.
+And all people of the land rejoiced, and city was quiet, and they killed Athaliah with sword.
 
 ### Chapter 24
 
@@ -47038,7 +47038,7 @@ And they carried him upon horses and buried him with his fathers in City of Davi
 
 **2 Chronicles 26:1**
 
-And all people of land took Uzziah, and he was sixteen years old, and they made him king in place of his father Amaziah.
+And all people of the land took Uzziah, and he was sixteen years old, and they made him king in place of his father Amaziah.
 
 **2 Chronicles 26:2**
 
@@ -47118,7 +47118,7 @@ And chief priest and priests turned to him, and behold, he was leprous in forehe
 
 **2 Chronicles 26:21**
 
-And Uzziah the king was leprous until day of his death, and as leper he sat in a separate house, because he was cut off from house of the Lord, and Jotham his son was over kingdom, judging people of land.
+And Uzziah the king was leprous until the day of his death, and as leper he sat in a separate house, because he was cut off from house of the Lord, and Jotham his son was over kingdom, judging people of the land.
 
 **2 Chronicles 26:22**
 
@@ -47848,7 +47848,7 @@ And his servants attacked him and struck him in his house.
 
 **2 Chronicles 33:25**
 
-And people of land struck those attacking king Amon, and people of land made Josiah his son king in his place.
+And people of the land struck those attacking king Amon, and people of the land made Josiah his son king in his place.
 
 ### Chapter 34
 
@@ -48098,7 +48098,7 @@ And his first words and his last, behold, written upon book of kings of Israel a
 
 **2 Chronicles 36:1**
 
-And people of land took Jehoahaz son of Josiah and anointed him and made him king in place of his father in Jerusalem.
+And people of the land took Jehoahaz son of Josiah and anointed him and made him king in place of his father in Jerusalem.
 
 **2 Chronicles 36:2**
 
@@ -48110,7 +48110,7 @@ And king removed him to Egypt and imposed tribute on land, one hundred talents o
 
 **2 Chronicles 36:4**
 
-And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of land according to ability, to give to Pharaoh Necho.
+And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of the land according to ability, to give to Pharaoh Necho.
 
 **2 Chronicles 36:5**
 
@@ -48150,7 +48150,7 @@ And in that he broke with king Nebuchadnezzar what he had sworn him by God, he h
 
 **2 Chronicles 36:14**
 
-And all glorious men of Judah and priests and people of land multiplied to break faith with faithless acts of abominations of nations, and they defiled house of the Lord in Jerusalem.
+And all glorious men of Judah and priests and people of the land multiplied to break faith with faithless acts of abominations of nations, and they defiled house of the Lord in Jerusalem.
 
 **2 Chronicles 36:15**
 
@@ -50296,7 +50296,7 @@ And their sons you multiplied like stars of heaven, and you brought them into th
 
 **Nehemiah 9:24**
 
-And you subdued before them inhabitants of land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
+And you subdued before them inhabitants of the land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
 
 **Nehemiah 9:25**
 
@@ -50860,7 +50860,7 @@ Remember me, O God, in this, and let not my mercy be wiped out, which I did in t
 
 **Nehemiah 13:15**
 
-In those days I saw in Judah men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Jerusalem on Sabbath day, and I testified on day of their selling.
+In those days I saw in Judah men treading winepresses on the Sabbath and bringing sheaves and loading them on the donkeys, and wine and grapes and figs and every burden, and bringing them into Jerusalem on Sabbath day, and I testified on the day of their selling.
 
 **Nehemiah 13:16**
 
@@ -52328,7 +52328,7 @@ For it is moist under sun, and from its decay its shoot will come out.
 
 **Job 8:17**
 
-It sleeps upon gathering of stones, and in midst of pebbles it will live.
+It sleeps upon gathering of stones, and in the midst of pebbles it will live.
 
 **Job 8:18**
 
@@ -53524,7 +53524,7 @@ If evil be sweet in his mouth, he will hide it under his tongue.
 
 **Job 20:13**
 
-He will not spare it and will not abandon it, but hold it fast in midst of his throat.
+He will not spare it and will not abandon it, but hold it fast in the midst of his throat.
 
 **Job 20:14**
 
@@ -54378,7 +54378,7 @@ I was father of weak men, and case that I did not know I searched out.
 
 **Job 29:17**
 
-And I shattered jaws of unjust men, and from midst of their teeth I snatched prey.
+And I shattered jaws of unjust men, and from the midst of their teeth I snatched prey.
 
 **Job 29:18**
 
@@ -57176,7 +57176,7 @@ They opened their mouth upon me like lion seizing and roaring.
 
 **Psalms 21:15**
 
-Like water I was poured out, and all my bones were scattered; my heart became like wax melting in midst of my belly.
+Like water I was poured out, and all my bones were scattered; my heart became like wax melting in the midst of my belly.
 
 **Psalms 21:16**
 
@@ -57208,7 +57208,7 @@ Save me from the mouth of lion, and my humiliation from horns of unicorns.
 
 **Psalms 21:23**
 
-I will recount your name to my brothers; in midst of assembly I will hymn you.
+I will recount your name to my brothers; in the midst of assembly I will hymn you.
 
 **Psalms 21:24**
 
@@ -57262,7 +57262,7 @@ He turned my soul back; he led me upon tracks of righteousness for sake of his n
 
 **Psalms 22:4**
 
-For even if I walk in midst of shadow of death, I will not fear evils, because you are with me; your rod and your staff, these comforted me.
+For even if I walk in the midst of shadow of death, I will not fear evils, because you are with me; your rod and your staff, these comforted me.
 
 **Psalms 22:5**
 
@@ -58500,7 +58500,7 @@ Then I said, Behold, I came. In head-roll of book it is written concerning me.
 
 **Psalms 39:9**
 
-To do your will, O my God, I wanted, and your law in midst of my belly.
+To do your will, O my God, I wanted, and your law in the midst of my belly.
 
 **Psalms 39:10**
 
@@ -58876,7 +58876,7 @@ Rushings of river gladden city of God; Most High sanctified his dwelling.
 
 **Psalms 45:6**
 
-God in midst of her; she will not be shaken. God will help her toward morning.
+God is in the midst of her; she will not be shaken. God will help her toward morning.
 
 **Psalms 45:7**
 
@@ -58984,7 +58984,7 @@ As we heard, so we saw in city of the Lord of hosts, in city of our God; God fou
 
 **Psalms 47:10**
 
-We received, O God, your mercy in midst of your temple.
+We received, O God, your mercy in the midst of your temple.
 
 **Psalms 47:11**
 
@@ -59430,7 +59430,7 @@ Drown them, Lord, and divide their tongues, because I saw lawlessness and contra
 
 **Psalms 54:11**
 
-Day and night it will encircle her upon her walls; lawlessness and labor in midst of her,
+Day and night it will encircle her upon her walls; lawlessness and labor in the midst of her,
 
 **Psalms 54:12**
 
@@ -59450,7 +59450,7 @@ who together with me sweetened foods; in house of God we walked in concord.
 
 **Psalms 54:16**
 
-Let death come upon them, and let them go down living to Hades, because evils in their dwellings, in midst of them.
+Let death come upon them, and let them go down living to Hades, because evils in their dwellings, in the midst of them.
 
 **Psalms 54:17**
 
@@ -59562,7 +59562,7 @@ He sent from heaven and saved me; he gave reproach to those trampling me. Interl
 
 **Psalms 56:5**
 
-And he rescued my soul from midst of lion-cubs. I slept troubled. Sons of men: their teeth weapon and arrows, and their tongue sharp sword.
+And he rescued my soul from the midst of lion-cubs. I slept troubled. Sons of men: their teeth weapon and arrows, and their tongue sharp sword.
 
 **Psalms 56:6**
 
@@ -60240,7 +60240,7 @@ Your goings were seen, O God, goings of my God, my king, in holy place.
 
 **Psalms 67:26**
 
-Princes went before, close behind singers, in midst of young women beating tambourines.
+Princes went before, close behind singers, in the midst of young women beating tambourines.
 
 **Psalms 67:27**
 
@@ -60760,7 +60760,7 @@ For understanding. Of Asaph. Why, O God, did you reject to end? Your anger burne
 
 **Psalms 73:2**
 
-Remember your congregation which you acquired from beginning; you redeemed rod of your inheritance, this Mount Zion in which you dwelt.
+Remember your congregation which you acquired from the beginning; you redeemed rod of your inheritance, this Mount Zion in which you dwelt.
 
 **Psalms 73:3**
 
@@ -60768,7 +60768,7 @@ Lift up your hands against their pride to end, against all evil enemy did in you
 
 **Psalms 73:4**
 
-And those hating you boasted in midst of your feast; they set their signs as signs and did not know,
+And those hating you boasted in the midst of your feast; they set their signs as signs and did not know,
 
 **Psalms 73:5**
 
@@ -60796,11 +60796,11 @@ How long, O God, will enemy reproach? Will adversary provoke your name to end?
 
 **Psalms 73:11**
 
-Why do you turn away your hand and your right hand from midst of your bosom to end?
+Why do you turn away your hand and your right hand from the midst of your bosom to end?
 
 **Psalms 73:12**
 
-But God our king before age worked salvation in midst of earth.
+But God our king before age worked salvation in the midst of earth.
 
 **Psalms 73:13**
 
@@ -60994,7 +60994,7 @@ And I said, Now I began; this change belongs to right hand of Most High.
 
 **Psalms 76:12**
 
-I remembered works of the Lord, because I will remember from beginning your wonders.
+I remembered works of the Lord, because I will remember from the beginning your wonders.
 
 **Psalms 76:13**
 
@@ -61040,7 +61040,7 @@ For understanding. Of Asaph. Attend, my people, to my law; incline your ear to w
 
 **Psalms 77:2**
 
-I will open my mouth in parables; I will utter riddles from beginning,
+I will open my mouth in parables; I will utter riddles from the beginning,
 
 **Psalms 77:3**
 
@@ -61144,7 +61144,7 @@ And he rained flesh upon them like dust and winged birds like sand of seas.
 
 **Psalms 77:28**
 
-And they fell into midst of their camp, around their tents.
+And they fell into the midst of their camp, around their tents.
 
 **Psalms 77:29**
 
@@ -62718,7 +62718,7 @@ Of David. Psalm. Mercy and judgment I will sing to you, Lord.
 
 **Psalms 100:2**
 
-I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in midst of my house.
+I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in the midst of my house.
 
 **Psalms 100:3**
 
@@ -62738,7 +62738,7 @@ My eyes upon faithful ones of earth, so that they may sit with me; one walking i
 
 **Psalms 100:7**
 
-One doing pride did not dwell in midst of my house; one speaking unjust things did not go straight before my eyes.
+One doing pride did not dwell in the midst of my house; one speaking unjust things did not go straight before my eyes.
 
 **Psalms 100:8**
 
@@ -63000,7 +63000,7 @@ They give drink to all beasts of field; wild donkeys will receive for their thir
 
 **Psalms 103:12**
 
-Upon them birds of heaven will dwell; from midst of rocks they will give voice.
+Upon them birds of heaven will dwell; from the midst of rocks they will give voice.
 
 **Psalms 103:13**
 
@@ -63822,7 +63822,7 @@ Let those slandering me be clothed in shame and wrap their shame around themselv
 
 **Psalms 108:30**
 
-I will confess to the Lord exceedingly with my mouth, and in midst of many I will praise him,
+I will confess to the Lord exceedingly with my mouth, and in the midst of many I will praise him,
 
 **Psalms 108:31**
 
@@ -63836,7 +63836,7 @@ Of David. Psalm. The Lord said to my Lord, Sit at my right hand until I place yo
 
 **Psalms 109:2**
 
-The Lord will send rod of your power from Zion, and rule in midst of your enemies.
+The Lord will send rod of your power from Zion, and rule in the midst of your enemies.
 
 **Psalms 109:3**
 
@@ -65630,7 +65630,7 @@ Of David. By rivers of Babylon, there we sat and wept when remembering Zion.
 
 **Psalms 136:2**
 
-On willows in midst of it we hung our instruments.
+On willows in the midst of it we hung our instruments.
 
 **Psalms 136:3**
 
@@ -65688,7 +65688,7 @@ Because the Lord high and looks upon humble things, and high things he knows fro
 
 **Psalms 137:7**
 
-If I walk in midst of affliction, you will make me live; against anger of my enemies you stretched out your hand, and your right hand saved me.
+If I walk in the midst of affliction, you will make me live; against anger of my enemies you stretched out your hand, and your right hand saved me.
 
 **Psalms 137:8**
 
@@ -66902,7 +66902,7 @@ I was not hearing voice of one disciplining me and teaching me, nor inclining my
 
 **Proverbs 5:14**
 
-I almost came into every evil in midst of assembly and congregation."
+I almost came into every evil in the midst of assembly and congregation."
 
 **Proverbs 5:15**
 
@@ -66930,7 +66930,7 @@ Do not be much with strange woman, nor be held in arms of one not your own.
 
 **Proverbs 5:21**
 
-For ways of man before eyes of God, and he watches all his tracks.
+For ways of man before the eyes of God, and he watches all his tracks.
 
 **Proverbs 5:22**
 
@@ -69494,7 +69494,7 @@ Testing for silver and refining for gold, but man tested through mouth of those 
 
 **Proverbs 27:22**
 
-If you scourge fool in midst of council dishonoring him, you still will not strip away his folly.
+If you scourge fool in the midst of council dishonoring him, you still will not strip away his folly.
 
 **Proverbs 27:23**
 
@@ -70226,7 +70226,7 @@ I saw distraction which God gave to sons of man to be distracted in it.
 
 **Ecclesiastes 3:11**
 
-Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from beginning even to end.
+Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from the beginning even to end.
 
 **Ecclesiastes 3:12**
 
@@ -70994,11 +70994,11 @@ I = flower of field, lily of valleys.
 
 **Song of Solomon 2:2**
 
-As lily in midst of thorns, so my dear one in midst of daughters.
+As lily in the midst of thorns, so my dear one in the midst of daughters.
 
 **Song of Solomon 2:3**
 
-As an apple tree among trees of the grove, so my beloved in midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 
 **Song of Solomon 2:4**
 
@@ -71506,7 +71506,7 @@ I will bring my hand upon you and purge you into purity, but rebellious ones I w
 
 **Isaiah 1:26**
 
-I will appoint your judges as before, and your counselors as from beginning; afterward you will be called city of righteousness, faithful mother-city Zion.
+I will appoint your judges as before, and your counselors as from the beginning; afterward you will be called city of righteousness, faithful mother-city Zion.
 
 **Isaiah 1:27**
 
@@ -71552,7 +71552,7 @@ And now, house of Jacob, come, let us walk in light of the Lord.
 
 **Isaiah 2:6**
 
-For he let go his people, house of Israel, because their land was filled as from beginning with divinations as land of foreigners, and many foreign sons were born to them.
+For he let go his people, house of Israel, because their land was filled as from the beginning with divinations as land of foreigners, and many foreign sons were born to them.
 
 **Isaiah 2:7**
 
@@ -71754,7 +71754,7 @@ Now I will sing to my beloved song of my beloved concerning my vineyard. Vineyar
 
 **Isaiah 5:2**
 
-I put fence around and staked it and planted chosen vine and built tower in midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
+I put fence around and staked it and planted chosen vine and built tower in the midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
 
 **Isaiah 5:3**
 
@@ -71846,7 +71846,7 @@ Therefore as stubble will be burned under coal of fire and be consumed under loo
 
 **Isaiah 5:25**
 
-And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
+And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in the midst of road. In all these his anger did not turn away, but hand still high.
 
 **Isaiah 5:26**
 
@@ -71888,7 +71888,7 @@ And lintel was raised from voice with which they cried, and house was filled wit
 
 **Isaiah 6:5**
 
-And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in midst of people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
+And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in the midst of people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
 
 **Isaiah 6:6**
 
@@ -72428,7 +72428,7 @@ Sing hymn to the name of the Lord, because he did high things; announce these in
 
 **Isaiah 12:6**
 
-Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in midst of her.
+Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in the midst of her.
 
 ### Chapter 13
 
@@ -73076,7 +73076,7 @@ And that they pulled down houses of Jerusalem into fortification for wall of cit
 
 **Isaiah 22:11**
 
-And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from beginning, and one who built it you did not see.
+And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from the beginning, and one who built it you did not see.
 
 **Isaiah 22:12**
 
@@ -73162,7 +73162,7 @@ Go away to Carthage; howl, dwellers on this island.
 
 **Isaiah 23:7**
 
-Was this your insolence from beginning before it was handed over?
+Was this your insolence from the beginning before it was handed over?
 
 **Isaiah 23:8**
 
@@ -73260,7 +73260,7 @@ And cities will be left desolate, and abandoned houses will perish.
 
 **Isaiah 24:13**
 
-All these will be in land in midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
+All these will be in land in the midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
 
 **Isaiah 24:14**
 
@@ -74624,7 +74624,7 @@ For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it 
 
 **Isaiah 40:21**
 
-Will you not know? Will you not hear? Was it not announced to you from beginning? Did you not know foundations of earth?
+Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of earth?
 
 **Isaiah 40:22**
 
@@ -74738,7 +74738,7 @@ For poor and needy will seek water and there will not be; their tongue dried up 
 
 **Isaiah 41:18**
 
-But I will open rivers on mountains and make springs in midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
+But I will open rivers on mountains and make springs in the midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
 
 **Isaiah 41:19**
 
@@ -74770,7 +74770,7 @@ But I raised one from north and one from east of sun; they will be called by my 
 
 **Isaiah 41:26**
 
-For who will announce from beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
+For who will announce from the beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
 
 **Isaiah 41:27**
 
@@ -74922,7 +74922,7 @@ And I brought out blind people, and eyes exist yet equally blind, and deaf havin
 
 **Isaiah 43:9**
 
-All nations were gathered together, and rulers will gather. Who among them announces these things, or who from beginning will announce to you? Let them bring their witnesses and be justified and say truth.
+All nations were gathered together, and rulers will gather. Who among them announces these things, or who from the beginning will announce to you? Let them bring their witnesses and be justified and say truth.
 
 **Isaiah 43:10**
 
@@ -74938,7 +74938,7 @@ I announced and saved; I reproached, and there was no foreigner among you. You =
 
 **Isaiah 43:13**
 
-Still from beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
+Still from the beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
 
 **Isaiah 43:14**
 
@@ -75032,7 +75032,7 @@ Who like me? Let him stand, call out, and prepare it before me, from time I made
 
 **Isaiah 44:8**
 
-Do not hide yourselves. Have you not heard from beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
+Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
 
 **Isaiah 44:9**
 
@@ -75198,7 +75198,7 @@ Gather and come; take counsel together, you being saved from nations. They did n
 
 **Isaiah 45:21**
 
-If they declare, let them come near so they may know together. Who made these things heard from beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
+If they declare, let them come near so they may know together. Who made these things heard from the beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
 
 **Isaiah 45:22**
 
@@ -75364,7 +75364,7 @@ Now they come to be and not long ago, and before today you did not hear them, le
 
 **Isaiah 48:8**
 
-You neither knew nor understood, nor from beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
+You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
 
 **Isaiah 48:9**
 
@@ -75396,7 +75396,7 @@ I spoke, I called, I brought him, and I prospered his way.
 
 **Isaiah 48:16**
 
-Come near to me and hear these things. Not from beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
+Come near to me and hear these things. Not from the beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
 
 **Isaiah 48:17**
 
@@ -75712,7 +75712,7 @@ The Lord will uncover his holy arm before all nations, and all ends of the earth
 
 **Isaiah 52:11**
 
-Depart, depart. Go out from there, and touch nothing unclean. Go out from midst of her. Be set apart, you carrying vessels of the Lord.
+Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you carrying vessels of the Lord.
 
 **Isaiah 52:12**
 
@@ -76306,7 +76306,7 @@ For I am the Lord loving righteousness and hating robberies from injustice, and 
 
 **Isaiah 61:9**
 
-Their seed will be known among nations and their offspring in midst of peoples. Everyone seeing them will know them, because these are seed blessed by God.
+Their seed will be known among nations and their offspring in the midst of peoples. Everyone seeing them will know them, because these are seed blessed by God.
 
 **Isaiah 61:10**
 
@@ -76442,7 +76442,7 @@ So we may inherit little of your holy mountain. Our opponents trampled your sanc
 
 **Isaiah 63:19**
 
-We became as from beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
+We became as from the beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
 
 ### Chapter 64
 
@@ -76764,7 +76764,7 @@ And you, gird your waist and rise and say to them all whatever I command you. Do
 
 **Jeremiah 1:18**
 
-See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of land.
+See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of the land.
 
 **Jeremiah 1:19**
 
@@ -77274,7 +77274,7 @@ Prophets prophesy unjust things, and priests clapped with their hands, and my pe
 
 **Jeremiah 6:1**
 
-Strengthen yourselves, sons of Benjamin, from midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
+Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
 
 **Jeremiah 6:2**
 
@@ -77954,7 +77954,7 @@ And it will be after I cast them out, I will return and have mercy on them and s
 
 **Jeremiah 12:16**
 
-And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in midst of my people.
+And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
 
 **Jeremiah 12:17**
 
@@ -78400,11 +78400,11 @@ and say to them, Hear the word of the Lord, kings of Judah and all Judah and all
 
 **Jeremiah 17:21**
 
-Thus says the Lord: Guard your souls and do not carry burdens on day of Sabbaths and do not go out by gates of Jerusalem.
+Thus says the Lord: Guard your souls and do not carry burdens on the day of Sabbaths and do not go out by gates of Jerusalem.
 
 **Jeremiah 17:22**
 
-And do not bring burdens out of your houses on day of Sabbaths, and do no work. Sanctify day of Sabbaths, just as I commanded your fathers, and they did not hear and did not incline their ear.
+And do not bring burdens out of your houses on the day of Sabbaths, and do no work. Sanctify day of Sabbaths, just as I commanded your fathers, and they did not hear and did not incline their ear.
 
 **Jeremiah 17:23**
 
@@ -78412,7 +78412,7 @@ And they hardened their neck beyond their fathers, not to hear me and not to rec
 
 **Jeremiah 17:24**
 
-And it will be if in hearing you hear me, says the Lord, not bringing burdens through gates of this city on day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
+And it will be if in hearing you hear me, says the Lord, not bringing burdens through gates of this city on the day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
 
 **Jeremiah 17:25**
 
@@ -78424,7 +78424,7 @@ And they will come from cities of Judah and from around Jerusalem and from land 
 
 **Jeremiah 17:27**
 
-And it will be if you do not hear me, to sanctify day of Sabbaths, not to carry burdens and not to enter by gates of Jerusalem on day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
+And it will be if you do not hear me, to sanctify day of Sabbaths, not to carry burdens and not to enter by gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
 
 ### Chapter 18
 
@@ -78560,7 +78560,7 @@ And they will eat flesh of their sons and flesh of their daughters, and each wil
 
 **Jeremiah 19:10**
 
-And you will crush the jar before eyes of men going out with you,
+And you will crush the jar before the eyes of men going out with you,
 
 **Jeremiah 19:11**
 
@@ -78672,7 +78672,7 @@ And Jeremiah said to them, Thus you will say to Zedekiah king of Judah,
 
 **Jeremiah 21:4**
 
-Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into midst of this city.
+Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into the midst of this city.
 
 **Jeremiah 21:5**
 
@@ -79260,7 +79260,7 @@ All finding them consumed them, and their enemies said, Let us not leave them gu
 
 **Jeremiah 27:8**
 
-Become estranged from midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
+Become estranged from the midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
 
 **Jeremiah 27:9**
 
@@ -79438,7 +79438,7 @@ Because Israel and Judah were not widowed from their God, from the Lord Almighty
 
 **Jeremiah 28:6**
 
-Flee from midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
+Flee from the midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
 
 **Jeremiah 28:7**
 
@@ -79650,7 +79650,7 @@ then you will say, Lord, Lord, you spoke against this place, to destroy it and f
 
 **Jeremiah 28:63**
 
-And it will be when you finish reading this scroll, you will tie stone upon it and throw it into midst of Euphrates,
+And it will be when you finish reading this scroll, you will tie stone upon it and throw it into the midst of Euphrates,
 
 **Jeremiah 28:64**
 
@@ -79714,7 +79714,7 @@ Because thus said the Lord: Those for whom it was not law to drink cup drank, an
 
 **Jeremiah 30:7**
 
-Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in midst of her, and all her cities will become deserts forever.
+Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in the midst of her, and all her cities will become deserts forever.
 
 **Jeremiah 30:8**
 
@@ -79738,7 +79738,7 @@ As Sodom and Gomorrah and their neighboring places were overthrown, says the Lor
 
 **Jeremiah 30:13**
 
-Behold, like lion he will go up from midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+Behold, like lion he will go up from the midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 
 **Jeremiah 30:14**
 
@@ -80268,7 +80268,7 @@ into Babylon it will enter, says the Lord.
 
 **Jeremiah 35:1**
 
-And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before eyes of priests and all people, saying,
+And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of priests and all people, saying,
 
 **Jeremiah 35:2**
 
@@ -80284,7 +80284,7 @@ and Jeconiah and exile of Judah, because I will break yoke of king of Babylon.
 
 **Jeremiah 35:5**
 
-And Jeremiah said to Hananiah before eyes of all people and before eyes of priests standing in the house of the Lord,
+And Jeremiah said to Hananiah before the eyes of all people and before the eyes of priests standing in the house of the Lord,
 
 **Jeremiah 35:6**
 
@@ -80304,11 +80304,11 @@ Prophet prophesying for peace, when his word comes, they will know prophet whom 
 
 **Jeremiah 35:10**
 
-And Hananiah took before eyes of all people the yokes from Jeremiah’s neck and broke them.
+And Hananiah took before the eyes of all people the yokes from Jeremiah’s neck and broke them.
 
 **Jeremiah 35:11**
 
-And Hananiah said before eyes of all people, saying, Thus said the Lord: Thus I will break yoke of king of Babylon from necks of all nations. And Jeremiah went on his way.
+And Hananiah said before the eyes of all people, saying, Thus said the Lord: Thus I will break yoke of king of Babylon from necks of all nations. And Jeremiah went on his way.
 
 **Jeremiah 35:12**
 
@@ -80736,7 +80736,7 @@ And I took scroll of purchase, sealed and read.
 
 **Jeremiah 39:12**
 
-And I gave it to Baruch son of Neriah son of Maaseiah before eyes of Hanameel son of my father’s brother and before eyes of those standing and writing in scroll of purchase and before eyes of Judeans in court of prison.
+And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in court of prison.
 
 **Jeremiah 39:13**
 
@@ -80812,7 +80812,7 @@ Because sons of Israel and sons of Judah alone were doing evil before my eyes fr
 
 **Jeremiah 39:31**
 
-Because this city has been for my anger and for my wrath from day they built it even until this day, to remove it from before my face,
+Because this city has been for my anger and for my wrath from the day they built it even until this day, to remove it from before my face,
 
 **Jeremiah 39:32**
 
@@ -81148,7 +81148,7 @@ And in the fourth year of Jehoiakim son of Josiah king of Judah, the word of the
 
 **Jeremiah 43:2**
 
-Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from day when I spoke to you, from days of Josiah king of Judah until this day.
+Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from days of Josiah king of Judah until this day.
 
 **Jeremiah 43:3**
 
@@ -81278,7 +81278,7 @@ And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar kin
 
 **Jeremiah 44:2**
 
-And he and his servants and people of land did not hear words of the Lord which he spoke by the hand of Jeremiah.
+And he and his servants and people of the land did not hear words of the Lord which he spoke by the hand of Jeremiah.
 
 **Jeremiah 44:3**
 
@@ -81286,7 +81286,7 @@ And king Zedekiah sent Jucal son of Shelemiah and Zephaniah son of Maaseiah the 
 
 **Jeremiah 44:4**
 
-And Jeremiah came and passed through midst of city, and they had not given him into house of prison.
+And Jeremiah came and passed through the midst of city, and they had not given him into house of prison.
 
 **Jeremiah 44:5**
 
@@ -81318,7 +81318,7 @@ And it happened when force of Chaldeans went up from Jerusalem from face of forc
 
 **Jeremiah 44:12**
 
-Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in midst of people.
+Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in the midst of people.
 
 **Jeremiah 44:13**
 
@@ -81460,7 +81460,7 @@ And if rulers hear that I spoke to you and come to you and say, Announce to us w
 
 **Jeremiah 45:26**
 
-then you will say to them, I cast my mercy before eyes of king, so as not to turn me back to house of Jonathan to die there.
+then you will say to them, I cast my mercy before the eyes of king, so as not to turn me back to house of Jonathan to die there.
 
 **Jeremiah 45:27**
 
@@ -81486,7 +81486,7 @@ And all rulers of king of Babylon entered and sat in middle gate: Nergal-sareser
 
 **Jeremiah 46:14**
 
-And they sent and took Jeremiah from court of prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in midst of people.
+And they sent and took Jeremiah from court of prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of people.
 
 **Jeremiah 46:15**
 
@@ -81508,7 +81508,7 @@ Because saving I will save you, and by sword you will certainly not fall, and yo
 
 **Jeremiah 47:1**
 
-Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in midst of exile of Judah being led to Babylon.
+Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in the midst of exile of Judah being led to Babylon.
 
 **Jeremiah 47:2**
 
@@ -81524,11 +81524,11 @@ Behold, I loosed you from handcuffs on your hands. If it is good before you to c
 
 **Jeremiah 47:5**
 
-And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom king of Babylon appointed in the land of Judah, and dwell with him in midst of people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
+And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom king of Babylon appointed in the land of Judah, and dwell with him in the midst of people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
 
 **Jeremiah 47:6**
 
-And he came to Gedaliah at Mizpah and sat in midst of people left in land.
+And he came to Gedaliah at Mizpah and sat in the midst of people left in land.
 
 **Jeremiah 47:7**
 
@@ -81598,11 +81598,11 @@ And Ishmael went out to meet them. They went and wept, and he said to them, Ente
 
 **Jeremiah 48:7**
 
-And it happened when they entered into midst of city, he slaughtered them into pit.
+And it happened when they entered into the midst of city, he slaughtered them into pit.
 
 **Jeremiah 48:8**
 
-And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in field: wheat and barley, honey and oil. And he passed by and did not kill them in midst of their brothers.
+And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
 
 **Jeremiah 48:9**
 
@@ -81770,7 +81770,7 @@ And the word of the Lord came to Jeremiah in Tahpanhes, saying,
 
 **Jeremiah 50:9**
 
-Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Tahpanhes, before eyes of men of Judah.
+Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
 
 **Jeremiah 50:10**
 
@@ -81816,7 +81816,7 @@ And my wrath and my anger dripped and burned in cities of Judah and outside Jeru
 
 **Jeremiah 51:7**
 
-And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from midst of Judah, so that none be left to you,
+And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that none be left to you,
 
 **Jeremiah 51:8**
 
@@ -81872,7 +81872,7 @@ And Jeremiah said to all people and to men and to women and to all people answer
 
 **Jeremiah 51:21**
 
-Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of land, that the Lord remembered and it rose upon his heart?
+Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
 
 **Jeremiah 51:22**
 
@@ -81946,7 +81946,7 @@ And city came into siege until eleventh year of king Zedekiah.
 
 **Jeremiah 52:6**
 
-In ninth of the month famine was strengthened in city, and there were no breads for people of land.
+In ninth of the month famine was strengthened in city, and there were no breads for people of the land.
 
 **Jeremiah 52:7**
 
@@ -81966,7 +81966,7 @@ And king of Babylon slaughtered sons of Zedekiah before his eyes, and all rulers
 
 **Jeremiah 52:11**
 
-And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until day he died.
+And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until the day he died.
 
 **Jeremiah 52:12**
 
@@ -82018,7 +82018,7 @@ And chief cook took first priest and second priest and three keeping way.
 
 **Jeremiah 52:25**
 
-And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of land, and sixty men from people of land found in midst of city.
+And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of the land, and sixty men from people of the land found in the midst of city.
 
 **Jeremiah 52:26**
 
@@ -82042,7 +82042,7 @@ And he changed his prison garment, and he ate bread continually before his face 
 
 **Jeremiah 52:34**
 
-And ration for him was given continually from king of Babylon, from day to day until day he died.
+And ration for him was given continually from king of Babylon, from day to day until the day he died.
 
 ## Lamentations
 
@@ -82110,7 +82110,7 @@ He kept watch over my ungodlinesses in my hands. They were woven together and we
 
 **Lamentations 1:15**
 
-The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
 
 **Lamentations 1:16**
 
@@ -82666,7 +82666,7 @@ because in thrusting away you thrust us away. You were very angry over us.
 
 **Ezekiel 1:1**
 
-And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 
 **Ezekiel 1:2**
 
@@ -82678,7 +82678,7 @@ and the word of the Lord came to Ezekiel son of Buzi the priest in the land of C
 
 **Ezekiel 1:4**
 
-And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like appearance of electrum in midst of fire and brightness in it.
+And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like appearance of electrum in the midst of fire and brightness in it.
 
 **Ezekiel 1:5**
 
@@ -82714,7 +82714,7 @@ And each went straight before its face. Wherever spirit was going, they went and
 
 **Ezekiel 1:13**
 
-And in midst of living beings, appearance like burning coals of fire, like sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
+And in the midst of living beings, appearance like burning coals of fire, like sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
 
 **Ezekiel 1:15**
 
@@ -82792,11 +82792,11 @@ And you will say to them, Thus says the Lord.
 
 **Ezekiel 2:5**
 
-Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in midst of them.
+Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in the midst of them.
 
 **Ezekiel 2:6**
 
-And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
+And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in the midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
 
 **Ezekiel 2:7**
 
@@ -82910,11 +82910,11 @@ And I rose and went out into plain, and behold, there glory of the Lord stood, j
 
 **Ezekiel 3:24**
 
-And spirit came upon me and set me on my feet and spoke to me and said to me, Enter and shut yourself in midst of your house.
+And spirit came upon me and set me on my feet and spoke to me and said to me, Enter and shut yourself in the midst of your house.
 
 **Ezekiel 3:25**
 
-And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from midst of them.
+And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from the midst of them.
 
 **Ezekiel 3:26**
 
@@ -83002,7 +83002,7 @@ And you, son of man, take for yourself sharp sword, like barber’s razor, acqui
 
 **Ezekiel 5:2**
 
-Quarter in fire you will burn in midst of city according to completion of days of confinement. And you will take quarter and burn it in midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
+Quarter in fire you will burn in the midst of city according to completion of days of confinement. And you will take quarter and burn it in the midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
 
 **Ezekiel 5:3**
 
@@ -83010,11 +83010,11 @@ And you will take from there few in number and wrap them in your cloak.
 
 **Ezekiel 5:4**
 
-And from these you will still take and throw them into midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
+And from these you will still take and throw them into the midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
 
 **Ezekiel 5:5**
 
-Thus says the Lord: This is Jerusalem. I set her in midst of nations and lands around her.
+Thus says the Lord: This is Jerusalem. I set her in the midst of nations and lands around her.
 
 **Ezekiel 5:6**
 
@@ -83116,7 +83116,7 @@ One near will fall by sword, one far off will die by pestilence, and one hemmed 
 
 **Ezekiel 6:13**
 
-And you will know that I am the Lord when your slain are in midst of your idols, around your altars, on every high hill and under every leafy tree, where they gave there fragrant smell to all their idols.
+And you will know that I am the Lord when your slain are in the midst of your idols, around your altars, on every high hill and under every leafy tree, where they gave there fragrant smell to all their idols.
 
 **Ezekiel 6:14**
 
@@ -83230,7 +83230,7 @@ Woe upon woe will be, and report upon report will be, and vision will be sought 
 
 **Ezekiel 7:27**
 
-Ruler will put on desolation, and hands of people of land will be paralyzed. According to their ways I will deal with them, and by their judgments I will avenge them, and they will know that I am the Lord.
+Ruler will put on desolation, and hands of people of the land will be paralyzed. According to their ways I will deal with them, and by their judgments I will avenge them, and they will know that I am the Lord.
 
 ### Chapter 8
 
@@ -83276,7 +83276,7 @@ And I entered and saw, and behold, vain abominations and all idols of house of I
 
 **Ezekiel 8:11**
 
-And seventy men from elders of house of Israel, with Jaazaniah son of Shaphan in midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
+And seventy men from elders of house of Israel, with Jaazaniah son of Shaphan in the midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
 
 **Ezekiel 8:12**
 
@@ -83314,7 +83314,7 @@ And he cried into my ears with loud voice, saying, Near has come vengeance of ci
 
 **Ezekiel 9:2**
 
-And behold, six men came from way of upper gate facing north, and each one had his axe in his hand, and one man in midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
+And behold, six men came from way of upper gate facing north, and each one had his axe in his hand, and one man in the midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
 
 **Ezekiel 9:3**
 
@@ -83322,7 +83322,7 @@ And glory of God of Israel went up from cherubim that was upon them to forecourt
 
 **Ezekiel 9:4**
 
-And he said to him, Pass through midst of Jerusalem and put mark on foreheads of men groaning and grieving over all lawless deeds done in her midst.
+And he said to him, Pass through the midst of Jerusalem and put mark on foreheads of men groaning and grieving over all lawless deeds done in her midst.
 
 **Ezekiel 9:5**
 
@@ -83360,7 +83360,7 @@ And I saw, and behold, above firmament over heads of cherubim, like sapphire sto
 
 **Ezekiel 10:2**
 
-And he said to man clothed in robe, Enter into midst of wheels beneath cherubim and fill your hands with coals of fire from midst of cherubim and scatter over city. And he entered before me.
+And he said to man clothed in robe, Enter into the midst of wheels beneath cherubim and fill your hands with coals of fire from the midst of cherubim and scatter over city. And he entered before me.
 
 **Ezekiel 10:3**
 
@@ -83376,11 +83376,11 @@ And sound of wings of cherubim was heard as far as outer court, like voice of Go
 
 **Ezekiel 10:6**
 
-And it happened when he commanded man clothed in holy robe, saying, Take fire from midst of wheels, from midst of cherubim, and he went in and stood beside wheels.
+And it happened when he commanded man clothed in holy robe, saying, Take fire from the midst of wheels, from the midst of cherubim, and he went in and stood beside wheels.
 
 **Ezekiel 10:7**
 
-And one stretched out his hand into midst of fire that was in midst of cherubim and took and gave into hands of one clothed in holy robe, and he took and went out.
+And one stretched out his hand into the midst of fire that was in the midst of cherubim and took and gave into hands of one clothed in holy robe, and he took and went out.
 
 **Ezekiel 10:8**
 
@@ -83530,7 +83530,7 @@ And cherubim lifted their wings, and wheels beside them, and glory of God of Isr
 
 **Ezekiel 11:23**
 
-And glory of the Lord went up from midst of city and stood upon mountain opposite city.
+And glory of the Lord went up from the midst of city and stood upon mountain opposite city.
 
 **Ezekiel 11:24**
 
@@ -83548,7 +83548,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 12:2**
 
-Son of man, in midst of their injustices you dwell, those who have eyes to see and do not see, and ears to hear and do not hear, because they are provoking house.
+Son of man, in the midst of their injustices you dwell, those who have eyes to see and do not see, and ears to hear and do not hear, because they are provoking house.
 
 **Ezekiel 12:3**
 
@@ -83616,7 +83616,7 @@ Son of man, you will eat your bread with pain, and your water with torment and d
 
 **Ezekiel 12:19**
 
-And you will say to people of land, Thus says the Lord to those dwelling in Jerusalem upon land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
+And you will say to people of the land, Thus says the Lord to those dwelling in Jerusalem upon land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
 
 **Ezekiel 12:20**
 
@@ -83636,7 +83636,7 @@ Therefore say to them, Thus says the Lord: I will turn away this proverb, and ho
 
 **Ezekiel 12:24**
 
-For there will no longer be any false vision and flattering diviner in midst of sons of Israel.
+For there will no longer be any false vision and flattering diviner in the midst of sons of Israel.
 
 **Ezekiel 12:25**
 
@@ -83780,11 +83780,11 @@ Because any man, any man from house of Israel and from proselytes proselyting in
 
 **Ezekiel 14:8**
 
-And I will set my face against that man and make him desolation and ruin, and I will remove him from midst of my people, and you will know that I am the Lord.
+And I will set my face against that man and make him desolation and ruin, and I will remove him from the midst of my people, and you will know that I am the Lord.
 
 **Ezekiel 14:9**
 
-And if prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from midst of my people Israel.
+And if prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from the midst of my people Israel.
 
 **Ezekiel 14:10**
 
@@ -83892,11 +83892,11 @@ and say, Thus says the Lord to Jerusalem: Your root and your birth are from land
 
 **Ezekiel 16:4**
 
-And as for your birth, on day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
+And as for your birth, on the day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
 
 **Ezekiel 16:5**
 
-No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on day you were born.
+No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on the day you were born.
 
 **Ezekiel 16:6**
 
@@ -84096,7 +84096,7 @@ so that you bear your torment and be dishonored from everything you did in provo
 
 **Ezekiel 16:55**
 
-And your sister Sodom and her daughters will be restored as they were from beginning, and Samaria and her daughters will be restored as they were from beginning, and you and your daughters will be restored as you were from beginning.
+And your sister Sodom and her daughters will be restored as they were from the beginning, and Samaria and her daughters will be restored as they were from the beginning, and you and your daughters will be restored as you were from the beginning.
 
 **Ezekiel 16:56**
 
@@ -84194,7 +84194,7 @@ But he will rebel against him by sending his own messengers into Egypt, so that 
 
 **Ezekiel 17:16**
 
-As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in midst of Babylon he will die.
+As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
 
 **Ezekiel 17:17**
 
@@ -84300,7 +84300,7 @@ and turned his hand away from injustice and did not take interest nor excess, an
 
 **Ezekiel 18:18**
 
-But his father, if he oppresses with oppression and seizes plunder and did opposites in midst of my people, he will die in his injustice.
+But his father, if he oppresses with oppression and seizes plunder and did opposites in the midst of my people, he will die in his injustice.
 
 **Ezekiel 18:19**
 
@@ -84366,7 +84366,7 @@ And you, take lamentation for ruler of Israel,
 
 **Ezekiel 19:2**
 
-and say, What was your mother? Lioness among lions she became; in midst of lions she multiplied her cubs.
+and say, What was your mother? Lioness among lions she became; in the midst of lions she multiplied her cubs.
 
 **Ezekiel 19:3**
 
@@ -84382,7 +84382,7 @@ And she saw that he was driven from her and her expectation perished, and she to
 
 **Ezekiel 19:6**
 
-And he prowled in midst of lions; he became lion and learned to seize plunder; he ate men.
+And he prowled in the midst of lions; he became lion and learned to seize plunder; he ate men.
 
 **Ezekiel 19:7**
 
@@ -84402,7 +84402,7 @@ Your mother was like vine, like blossom in pomegranate, planted by water; its fr
 
 **Ezekiel 19:11**
 
-And it became strong rod for tribe of rulers, and it was exalted in its size in midst of stems, and it saw its size in multitude of its branches.
+And it became strong rod for tribe of rulers, and it was exalted in its size in the midst of stems, and it saw its size in multitude of its branches.
 
 **Ezekiel 19:12**
 
@@ -84448,7 +84448,7 @@ And I said to them, Let each cast away abominations of his eyes, and do not defi
 
 **Ezekiel 20:8**
 
-And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in midst of land of Egypt.
+And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in the midst of land of Egypt.
 
 **Ezekiel 20:9**
 
@@ -84580,7 +84580,7 @@ Because on my holy mountain, on high mountain, says the Lord God, there all hous
 
 **Ezekiel 20:41**
 
-In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before eyes of nations.
+In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before the eyes of nations.
 
 **Ezekiel 20:42**
 
@@ -84742,7 +84742,7 @@ And I will pour out my anger upon you; in fire of my wrath I will blow upon you 
 
 **Ezekiel 21:37**
 
-In fire you will be food for devouring; your blood will be in midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
+In fire you will be food for devouring; your blood will be in the midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
 
 ### Chapter 22
 
@@ -84808,7 +84808,7 @@ And I will scatter you among nations and disperse you through lands, and your un
 
 **Ezekiel 22:16**
 
-And I will inherit in you before eyes of nations, and you will know that I am the Lord.
+And I will inherit in you before the eyes of nations, and you will know that I am the Lord.
 
 **Ezekiel 22:17**
 
@@ -84816,15 +84816,15 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 22:18**
 
-Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in midst of silver; it is mixed metal.
+Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in the midst of silver; it is mixed metal.
 
 **Ezekiel 22:19**
 
-Therefore thus says the Lord: Because you all became one mixture, therefore I gather you into midst of Jerusalem.
+Therefore thus says the Lord: Because you all became one mixture, therefore I gather you into the midst of Jerusalem.
 
 **Ezekiel 22:20**
 
-As silver and bronze and iron and tin and lead are gathered into midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
+As silver and bronze and iron and tin and lead are gathered into the midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
 
 **Ezekiel 22:21**
 
@@ -84832,7 +84832,7 @@ And I will blow upon you in fire of my wrath, and you will be melted in her mids
 
 **Ezekiel 22:22**
 
-As silver is melted in midst of furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
+As silver is melted in the midst of furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
 
 **Ezekiel 22:23**
 
@@ -84860,7 +84860,7 @@ And her prophets smearing them over will fall, seeing vain things, divining fals
 
 **Ezekiel 22:29**
 
-People of land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
+People of the land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
 
 **Ezekiel 22:30**
 
@@ -85026,7 +85026,7 @@ And these things they did to me: my holy things they defiled and my Sabbaths the
 
 **Ezekiel 23:39**
 
-And when they slaughtered their children to their idols, they entered into my holy places to profane them, and so they acted in midst of my house.
+And when they slaughtered their children to their idols, they entered into my holy places to profane them, and so they acted in the midst of my house.
 
 **Ezekiel 23:40**
 
@@ -85168,7 +85168,7 @@ And Ezekiel will be for you a sign; according to all that he did you will do whe
 
 **Ezekiel 24:25**
 
-And you, son of man, is it not on day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
+And you, son of man, is it not on the day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
 
 **Ezekiel 24:26**
 
@@ -85268,7 +85268,7 @@ And they will throw down walls of Tyre and pull down your towers, and I will win
 
 **Ezekiel 26:5**
 
-Drying place of nets she will be in midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
+Drying place of nets she will be in the midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
 
 **Ezekiel 26:6**
 
@@ -85296,7 +85296,7 @@ With hoofs of his horses they will trample all your streets; your people he will
 
 **Ezekiel 26:12**
 
-And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into midst of sea.
+And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into the midst of sea.
 
 **Ezekiel 26:13**
 
@@ -85442,7 +85442,7 @@ In much water your rowers led you; south wind shattered you in heart of sea.
 
 **Ezekiel 27:27**
 
-Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in heart of sea on day of your fall.
+Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in heart of sea on the day of your fall.
 
 **Ezekiel 27:28**
 
@@ -85532,7 +85532,7 @@ In delight of paradise of God you came to be. Every precious stone you clothed y
 
 **Ezekiel 28:14**
 
-With cherub I placed you on holy mountain of God; you came to be in midst of fiery stones.
+With cherub I placed you on holy mountain of God; you came to be in the midst of fiery stones.
 
 **Ezekiel 28:15**
 
@@ -85540,7 +85540,7 @@ You were blameless in your days from day you were created until injustices were 
 
 **Ezekiel 28:16**
 
-From abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from mountain of God, and cherub led you out from midst of fiery stones.
+From abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from mountain of God, and cherub led you out from the midst of fiery stones.
 
 **Ezekiel 28:17**
 
@@ -85594,11 +85594,11 @@ Son of man, set your face toward Pharaoh king of Egypt and prophesy against him 
 
 **Ezekiel 29:3**
 
-and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in midst of his rivers, saying, Rivers are mine, and I made them.
+and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in the midst of his rivers, saying, Rivers are mine, and I made them.
 
 **Ezekiel 29:4**
 
-And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from midst of your river, and all fish of your river,
+And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from the midst of your river, and all fish of your river,
 
 **Ezekiel 29:5**
 
@@ -85630,7 +85630,7 @@ Foot of man will not pass through it, and foot of beast will not pass through it
 
 **Ezekiel 29:12**
 
-And I will make its land destruction in midst of desolated land, and its cities in midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
+And I will make its land destruction in the midst of desolated land, and its cities in the midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
 
 **Ezekiel 29:13**
 
@@ -85696,7 +85696,7 @@ And supports of Egypt will fall, and arrogance of her strength will go down. Fro
 
 **Ezekiel 30:7**
 
-And it will be made desolate in midst of desolated lands, and her cities will be in midst of desolated cities.
+And it will be made desolate in the midst of desolated lands, and her cities will be in the midst of desolated cities.
 
 **Ezekiel 30:8**
 
@@ -85704,7 +85704,7 @@ And they will know that I am the Lord when I give fire upon Egypt and all helpin
 
 **Ezekiel 30:9**
 
-On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on day of Egypt, because behold, it comes.
+On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
 
 **Ezekiel 30:10**
 
@@ -85786,7 +85786,7 @@ Son of man, say to Pharaoh king of Egypt and to his multitude, To whom did you l
 
 **Ezekiel 31:3**
 
-Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in midst of clouds.
+Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
 
 **Ezekiel 31:4**
 
@@ -85814,7 +85814,7 @@ Because of multitude of his branches, trees of paradise of delight of God envied
 
 **Ezekiel 31:10**
 
-Therefore thus says the Lord: Because you became great in size and gave your top into midst of clouds and he was seen when he was exalted,
+Therefore thus says the Lord: Because you became great in size and gave your top into the midst of clouds and he was seen when he was exalted,
 
 **Ezekiel 31:11**
 
@@ -85830,11 +85830,11 @@ Upon his fall all birds of heaven rested, and on his stems all beasts of field c
 
 **Ezekiel 31:14**
 
-so that all trees in water might not be exalted in their size, and not give their top into midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in midst of sons of men, to those going down into pit.
+so that all trees in water might not be exalted in their size, and not give their top into the midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in the midst of sons of men, to those going down into pit.
 
 **Ezekiel 31:15**
 
-Thus says the Lord God: On day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
+Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
 
 **Ezekiel 31:16**
 
@@ -85842,11 +85842,11 @@ At sound of his fall nations shook, when I brought him down to Hades with those 
 
 **Ezekiel 31:17**
 
-For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in midst of their life, perished.
+For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
 
 **Ezekiel 31:18**
 
-To whom were you likened? Go down and be brought down with trees of delight into depth of earth. In midst of uncircumcised you will lie with wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
+To whom were you likened? Go down and be brought down with trees of delight into depth of earth. In the midst of uncircumcised you will lie with wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
 
 ### Chapter 32
 
@@ -85924,11 +85924,11 @@ Son of man, lament over strength of Egypt, and daughters of nations will bring h
 
 **Ezekiel 32:20**
 
-In midst of wounded of sword they will fall with him, and all his strength will lie down.
+In the midst of wounded of sword they will fall with him, and all his strength will lie down.
 
 **Ezekiel 32:21**
 
-And giants in depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in midst of wounded of sword.
+And giants in depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
 
 **Ezekiel 32:22**
 
@@ -85944,7 +85944,7 @@ There is Elam and all his force around his tomb, all wounded, those fallen by sw
 
 **Ezekiel 32:25**
 
-In midst of wounded.
+In the midst of wounded.
 
 **Ezekiel 32:26**
 
@@ -85956,7 +85956,7 @@ And they lay with giants fallen from old age, who went down into Hades with weap
 
 **Ezekiel 32:28**
 
-And you will lie down in midst of uncircumcised with those wounded by sword.
+And you will lie down in the midst of uncircumcised with those wounded by sword.
 
 **Ezekiel 32:29**
 
@@ -85972,7 +85972,7 @@ Those king Pharaoh will see and be comforted over all their strength, says the L
 
 **Ezekiel 32:32**
 
-Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in midst of uncircumcised with wounded of sword, says the Lord.
+Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with wounded of sword, says the Lord.
 
 ### Chapter 33
 
@@ -85982,7 +85982,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 33:2**
 
-Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of land take one man from themselves and give him to themselves for watchman,
+Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
 
 **Ezekiel 33:3**
 
@@ -86022,7 +86022,7 @@ Say to them, As I live, thus says the Lord, I do not desire death of impious one
 
 **Ezekiel 33:12**
 
-Say to sons of your people, Righteousness of righteous one will not rescue him on day he wanders, and lawlessness of impious one will not hurt him on day he turns from his lawlessness, and righteous one will not be able to be saved.
+Say to sons of your people, Righteousness of righteous one will not rescue him on the day he wanders, and lawlessness of impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
 
 **Ezekiel 33:13**
 
@@ -86152,7 +86152,7 @@ Because thus says the Lord: Behold, I will seek out my sheep and visit them.
 
 **Ezekiel 34:12**
 
-As shepherd seeks his flock on day when cloud and gloom are in midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on day of cloud and gloom.
+As shepherd seeks his flock on the day when cloud and gloom are in the midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on the day of cloud and gloom.
 
 **Ezekiel 34:13**
 
@@ -86424,11 +86424,11 @@ Not for your sake do I act, says the Lord God; it will be made known to you. Be 
 
 **Ezekiel 36:33**
 
-Thus says the Lord: On day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
+Thus says the Lord: On the day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
 
 **Ezekiel 36:34**
 
-and land that was desolated will be worked, because it had become desolated before eyes of every passerby.
+and land that was desolated will be worked, because it had become desolated before the eyes of every passerby.
 
 **Ezekiel 36:35**
 
@@ -86450,7 +86450,7 @@ As holy sheep, as sheep of Jerusalem in her feasts, so desolate cities will be f
 
 **Ezekiel 37:1**
 
-And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in midst of plain, and it was full of human bones.
+And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in the midst of plain, and it was full of human bones.
 
 **Ezekiel 37:2**
 
@@ -86530,7 +86530,7 @@ And the rods on which you wrote will be in your hand before them.
 
 **Ezekiel 37:21**
 
-And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
+And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
 
 **Ezekiel 37:22**
 
@@ -86632,7 +86632,7 @@ Thus says the Lord God to Gog: Are you the one concerning whom I spoke in former
 
 **Ezekiel 38:18**
 
-And it will be on that day, on day when Gog comes upon land of Israel, says the Lord God, my wrath will rise up.
+And it will be on that day, on the day when Gog comes upon land of Israel, says the Lord God, my wrath will rise up.
 
 **Ezekiel 38:19**
 
@@ -86682,7 +86682,7 @@ And I will send fire upon Gog, and islands will be inhabited in peace, and they 
 
 **Ezekiel 39:7**
 
-And my holy name will be made known in midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
+And my holy name will be made known in the midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
 
 **Ezekiel 39:8**
 
@@ -86706,7 +86706,7 @@ And house of Israel will bury them so that land may be cleansed in seven months.
 
 **Ezekiel 39:13**
 
-And all people of land will bury them, and it will be to them for renown on day I was glorified, says the Lord.
+And all people of the land will bury them, and it will be to them for renown on the day I was glorified, says the Lord.
 
 **Ezekiel 39:14**
 
@@ -87182,7 +87182,7 @@ And I stood, and behold, a voice from the house was speaking to me, and the man 
 
 **Ezekiel 43:7**
 
-And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in midst of them.
+And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in the midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in the midst of them.
 
 **Ezekiel 43:8**
 
@@ -87300,7 +87300,7 @@ And you did not keep charges of my holy things, but you appointed them as keeper
 
 **Ezekiel 44:9**
 
-Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in midst of house of Israel.
+Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in the midst of house of Israel.
 
 **Ezekiel 44:10**
 
@@ -87372,7 +87372,7 @@ And after he is cleansed, seven days they will count for him.
 
 **Ezekiel 44:27**
 
-And on day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
+And on the day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
 
 **Ezekiel 44:28**
 
@@ -87496,7 +87496,7 @@ And in seventh month, on fifteenth of the month, at the feast he will do the sam
 
 **Ezekiel 46:1**
 
-Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on day of new moon it will be opened.
+Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on the day of new moon it will be opened.
 
 **Ezekiel 46:2**
 
@@ -87516,7 +87516,7 @@ And grain offering, a cake with the ram, and for the lambs a sacrifice, gift of 
 
 **Ezekiel 46:6**
 
-And on day of new moon, a flawless bull and six lambs and a flawless ram.
+And on the day of new moon, a flawless bull and six lambs and a flawless ram.
 
 **Ezekiel 46:7**
 
@@ -87532,7 +87532,7 @@ And when people of the land enter before the Lord at the feasts, whoever enters 
 
 **Ezekiel 46:10**
 
-And the ruler in midst of them, when they enter, he will enter with them, and when they go out, he will go out.
+And the ruler in the midst of them, when they enter, he will enter with them, and when they go out, he will go out.
 
 **Ezekiel 46:11**
 
@@ -87678,7 +87678,7 @@ And you will divide this land among them, by tribes of Israel.
 
 **Ezekiel 47:22**
 
-You will cast it by lot for yourselves and for the resident aliens dwelling in midst of you, who have begotten sons in midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in midst of tribes of Israel.
+You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in the midst of tribes of Israel.
 
 **Ezekiel 47:23**
 
@@ -87716,7 +87716,7 @@ And beside border of Reuben, from east side to west side, Judah, one portion.
 
 **Ezekiel 48:8**
 
-And beside border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in midst of them.
+And beside border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in the midst of them.
 
 **Ezekiel 48:9**
 
@@ -87724,7 +87724,7 @@ The first portion that they will set apart to the Lord: twenty-five thousand in 
 
 **Ezekiel 48:10**
 
-Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in midst of it.
+Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in the midst of it.
 
 **Ezekiel 48:11**
 
@@ -87744,7 +87744,7 @@ None of it will be sold, nor measured out, nor will firstfruits of the land be r
 
 **Ezekiel 48:15**
 
-And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in midst of it.
+And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in the midst of it.
 
 **Ezekiel 48:16**
 
@@ -87768,11 +87768,11 @@ Whole first portion, twenty-five thousand by twenty-five thousand, square, you w
 
 **Ezekiel 48:21**
 
-And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in midst of it.
+And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in the midst of it.
 
 **Ezekiel 48:22**
 
-And from possession of the Levites and from possession of the city, in midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
+And from possession of the Levites and from possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
 
 **Ezekiel 48:23**
 
@@ -88216,7 +88216,7 @@ Behold, I see four men loosed, walking in the fire, and no harm happened to them
 
 **Daniel 3:26**
 
-And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from midst of the fire.
+And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
 
 **Daniel 3:27**
 
@@ -88356,7 +88356,7 @@ I confess and praise the Most High, the one who made heaven and earth and seas a
 
 **Daniel 5:0**
 
-Belshazzar the king made a great banquet on day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
+Belshazzar the king made a great banquet on the day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
 
 **Daniel 5:1**
 
@@ -89276,7 +89276,7 @@ Contend with your mother, contend, because she is not my wife and I am not her h
 
 **Hosea 2:5**
 
-lest I strip her naked and restore her as on day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
+lest I strip her naked and restore her as on the day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
 
 **Hosea 2:6**
 
@@ -90226,7 +90226,7 @@ And eating you will eat and be filled and praise the name of the Lord your God, 
 
 **Joel 2:27**
 
-And you will know that I am in midst of Israel, and I am the Lord your God and there is no other besides me, and all my people will no longer be put to shame forever.
+And you will know that I am in the midst of Israel, and I am the Lord your God and there is no other besides me, and all my people will no longer be put to shame forever.
 
 ### Chapter 3
 
@@ -90502,7 +90502,7 @@ Lion will roar, and who will not fear? The Lord God has spoken, and who will not
 
 **Amos 3:9**
 
-Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in midst of her and oppression in her.
+Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in the midst of her and oppression in her.
 
 **Amos 3:10**
 
@@ -90708,7 +90708,7 @@ You coming into evil day, drawing near and touching false Sabbaths,
 
 **Amos 6:4**
 
-sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from midst of cattle-stalls, sucklings,
+sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from the midst of cattle-stalls, sucklings,
 
 **Amos 6:5**
 
@@ -90720,7 +90720,7 @@ drinking strained wine and anointing with first perfumes, and they suffered noth
 
 **Amos 6:7**
 
-Therefore now they will be captives from beginning of rulers, and neighing of horses from Ephraim will be removed.
+Therefore now they will be captives from the beginning of rulers, and neighing of horses from Ephraim will be removed.
 
 **Amos 6:8**
 
@@ -90782,7 +90782,7 @@ Thus the Lord showed me, and behold, a man stood upon an adamant wall, and adama
 
 **Amos 7:8**
 
-And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lord said to me, Behold, I am setting adamant in midst of my people Israel; I will no longer continue to pass over him.
+And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lord said to me, Behold, I am setting adamant in the midst of my people Israel; I will no longer continue to pass over him.
 
 **Amos 7:9**
 
@@ -90790,7 +90790,7 @@ And altars of laughter will be destroyed, and rites of Israel will be laid waste
 
 **Amos 7:10**
 
-And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in midst of house of Israel; the land cannot bear all his words.
+And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of house of Israel; the land cannot bear all his words.
 
 **Amos 7:11**
 
@@ -90986,11 +90986,11 @@ Because of slaughter and impiety toward your brother Jacob, shame will cover you
 
 **Obadiah 1:11**
 
-From day when you stood opposite, on day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
+From the day when you stood opposite, on the day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
 
 **Obadiah 1:12**
 
-Do not look on day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
+Do not look on the day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
 
 **Obadiah 1:13**
 
@@ -91346,7 +91346,7 @@ You were pursued by no pursuer. Spirit set falsehood and dripped to you into win
 
 **Micah 2:12**
 
-Jacob will surely be gathered with all; I will surely receive remnant of Israel. I will set their turning together like sheep in distress, like flock in midst of their fold; they will spring out from humans.
+Jacob will surely be gathered with all; I will surely receive remnant of Israel. I will set their turning together like sheep in distress, like flock in the midst of their fold; they will spring out from humans.
 
 **Micah 2:13**
 
@@ -91464,7 +91464,7 @@ Now daughter of Ephraim will be fenced in with fence. He set pressure upon us; w
 
 **Micah 5:1**
 
-And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from beginning, from days of age.
+And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from the beginning, from days of age.
 
 **Micah 5:2**
 
@@ -91484,11 +91484,11 @@ And they will shepherd Assyria with sword and land of Nimrod in its trench, and 
 
 **Micah 5:6**
 
-And remnant of Jacob among nations, in midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
+And remnant of Jacob among nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
 
 **Micah 5:7**
 
-And remnant of Jacob among nations and in midst of many peoples will be like lion among beasts of forest and like lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
+And remnant of Jacob among nations and in the midst of many peoples will be like lion among beasts of forest and like lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
 
 **Micah 5:8**
 
@@ -91640,7 +91640,7 @@ And earth will be for destruction with those inhabiting it, because of fruits of
 
 **Micah 7:14**
 
-Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in forest in midst of Carmel; they will pasture Bashan and Gilead as days of age.
+Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
 
 **Micah 7:15**
 
@@ -92394,11 +92394,11 @@ Who among you saw this house in its former glory? And how do you see it now? Is 
 
 **Haggai 2:4**
 
-But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 
 **Haggai 2:5**
 
-And my spirit stands in midst of you; take courage.
+And my spirit stands in the midst of you; take courage.
 
 **Haggai 2:6**
 
@@ -92450,7 +92450,7 @@ I struck you with barrenness and blight and hail, all works of your hands, and y
 
 **Haggai 2:18**
 
-Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from day when temple of the Lord was founded; set it in your hearts.
+Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from the day when temple of the Lord was founded; set it in your hearts.
 
 **Haggai 2:19**
 
@@ -92642,7 +92642,7 @@ And angel of the Lord solemnly testified to Joshua, saying,
 
 **Zechariah 3:7**
 
-Thus says the Lord Almighty: If you walk in my ways and keep my commands, then you also will judge my house, and if you guard my court, I will give you those walking about in midst of these standing here.
+Thus says the Lord Almighty: If you walk in my ways and keep my commands, then you also will judge my house, and if you guard my court, I will give you those walking about in the midst of these standing here.
 
 **Zechariah 3:8**
 
@@ -92730,7 +92730,7 @@ And he said to me, This is curse going out over face of all earth, because every
 
 **Zechariah 5:4**
 
-And I will bring it out, says the Lord Almighty, and it will enter house of thief and house of one swearing falsely by my name, and it will lodge in midst of his house and consume it, its timbers and its stones.
+And I will bring it out, says the Lord Almighty, and it will enter house of thief and house of one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
 
 **Zechariah 5:5**
 
@@ -92742,11 +92742,11 @@ And I said, What is it? And he said, This is measure that goes out. And he said,
 
 **Zechariah 5:7**
 
-And behold, a talent of lead being lifted, and behold, one woman sat in midst of measure.
+And behold, a talent of lead being lifted, and behold, one woman sat in the midst of measure.
 
 **Zechariah 5:8**
 
-And he said, This is lawlessness. And he threw her into midst of measure and threw lead stone onto its mouth.
+And he said, This is lawlessness. And he threw her into the midst of measure and threw lead stone onto its mouth.
 
 **Zechariah 5:9**
 
@@ -92842,7 +92842,7 @@ And the word of the Lord of forces came to me, saying,
 
 **Zechariah 7:5**
 
-Say to all people of land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+Say to all people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 
 **Zechariah 7:6**
 
@@ -92892,7 +92892,7 @@ Thus says the Lord Almighty: I have been jealous for Zion with great jealousy, a
 
 **Zechariah 8:3**
 
-Thus says the Lord: I will return to Zion and dwell in midst of Jerusalem, and Jerusalem will be called city of truth and mountain of the Lord Almighty, holy mountain.
+Thus says the Lord: I will return to Zion and dwell in the midst of Jerusalem, and Jerusalem will be called city of truth and mountain of the Lord Almighty, holy mountain.
 
 **Zechariah 8:4**
 
@@ -92912,7 +92912,7 @@ Thus says the Lord Almighty: Behold, I save my people from land of east and from
 
 **Zechariah 8:8**
 
-and I will bring them in, and they will dwell in midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
+and I will bring them in, and they will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
 
 **Zechariah 8:9**
 
@@ -93192,7 +93192,7 @@ In that day I will make chiliarchs of Judah like firebrand in wood and like torc
 
 **Zechariah 12:7**
 
-And the Lord will save tents of Judah as from beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
+And the Lord will save tents of Judah as from the beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
 
 **Zechariah 12:8**
 

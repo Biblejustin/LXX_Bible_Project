@@ -5,7 +5,7 @@ Selected verses: 6
 ## Lamentations 1:15
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, virgin; crossref_top_vote=5; reco=keep
-- fresh: The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+- fresh: The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ## Lamentations 2:1
