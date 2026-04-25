@@ -716,7 +716,7 @@ Books: 38
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord; crossref_top_vote=9; reco=keep
 - keywords: god, holy, king, lord
-- fresh: And ravine of my mountains will be blocked up, and ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in days of earthquake in days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
+- fresh: And ravine of my mountains will be blocked up, and ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in the days of earthquake in the days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
 - brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ## Malachi 1:6

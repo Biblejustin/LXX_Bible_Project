@@ -220,6 +220,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "from mouth of Jeremiah",
         "from mouth of God",
         "by mouth of Jeremiah",
+        "by hand of",
+        "in days of",
+        "In days of",
+        "in land of",
+        "In land of",
+        "from tribe of",
+        "From tribe of",
+        "before face of",
+        "Before face of",
+        "in house of the Lord",
+        "In house of the Lord",
+        "from man even to woman",
+        "Word of the Lord",
+        "Word of God",
+        "Words of the Lord",
         "ends of earth",
         "end of earth",
         "face of earth",
@@ -333,6 +348,16 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by the mouth of Jeremiah" in by_ref["2 Chronicles 36:22"]["draft_translation"]
     assert "from the mouth of God" in by_ref["2 Chronicles 35:22"]["draft_translation"]
     assert "from the mouth of prophets" in by_ref["Zechariah 8:9"]["draft_translation"]
+    assert "by the hand of Samuel" in by_ref["1 Chronicles 11:3"]["draft_translation"]
+    assert "in the days of Artaxerxes" in by_ref["Esther 1:1"]["draft_translation"]
+    assert "in the land of Benjamin" in by_ref["Jeremiah 1:1"]["draft_translation"]
+    assert "from the tribe of Judah" in by_ref["Haggai 1:1"]["draft_translation"]
+    assert "before the face of Most High" in by_ref["Lamentations 3:35"]["draft_translation"]
+    assert "in the house of the Lord" in by_ref["2 Chronicles 20:5"]["draft_translation"]
+    assert "from man to woman" in by_ref["Nehemiah 8:2"]["draft_translation"]
+    assert by_ref["Jeremiah 1:1"]["draft_translation"].startswith("The word of God")
+    assert by_ref["Hosea 1:1"]["draft_translation"].startswith("The word of the Lord")
+    assert by_ref["Psalms 11:7"]["draft_translation"].startswith("The words of the Lord")
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")

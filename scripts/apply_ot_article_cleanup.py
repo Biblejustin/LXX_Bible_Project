@@ -287,6 +287,42 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the mouth of",
     ),
     (
+        re.compile(r"\bby hand of\b"),
+        "by the hand of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) days of\b"),
+        r"\1 the days of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) land of\b"),
+        r"\1 the land of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) tribe of\b"),
+        r"\1 the tribe of",
+    ),
+    (
+        re.compile(r"\b([Bb]efore) face of\b"),
+        r"\1 the face of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) house of the Lord\b"),
+        r"\1 the house of the Lord",
+    ),
+    (
+        re.compile(r"\bfrom man even to woman\b"),
+        "from man to woman",
+    ),
+    (
+        re.compile(r"\bWord of (the Lord|God)\b"),
+        r"The word of \1",
+    ),
+    (
+        re.compile(r"\bWords of the Lord\b"),
+        "The words of the Lord",
+    ),
+    (
         re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
         "the Lord stirred the spirit of Cyrus",
     ),

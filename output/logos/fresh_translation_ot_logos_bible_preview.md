@@ -276,7 +276,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Esther
 
-**Esther 1:1** And it came to be after these words, in days of Artaxerxes, this Artaxerxes ruled from India over one hundred twenty-seven provinces.
+**Esther 1:1** And it came to be after these words, in the days of Artaxerxes, this Artaxerxes ruled from India over one hundred twenty-seven provinces.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -395,17 +395,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jeremiah
 
-**Jeremiah 1:1** Word of God that came upon Jeremiah son of Hilkiah, from priests dwelling in Anathoth in land of Benjamin,
+**Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from priests dwelling in Anathoth in the land of Benjamin,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Jeremiah 1:2** to whom word of God came in days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+**Jeremiah 1:2** to whom word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Jeremiah 1:3** and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
+**Jeremiah 1:3** and it came in the days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -439,7 +439,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
+**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
@@ -463,7 +463,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Hosea
 
-**Hosea 1:1** Word of the Lord that came to Hosea son of Beeri in days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in days of Jeroboam son of Joash, king of Israel.
+**Hosea 1:1** The word of the Lord that came to Hosea son of Beeri in the days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 16
@@ -480,12 +480,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Joel
 
-**Joel 1:1** Word of the Lord that came to Joel son of Pethuel.
+**Joel 1:1** The word of the Lord that came to Joel son of Pethuel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
 
-**Joel 1:2** Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in days of your fathers?
+**Joel 1:2** Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in the days of your fathers?
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 22
@@ -497,7 +497,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Amos
 
-**Amos 1:1** Words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in days of Uzziah king of Judah and in days of Jeroboam son of Joash king of Israel, two years before the earthquake.
+**Amos 1:1** Words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 22
@@ -531,7 +531,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jonah
 
-**Jonah 1:1** Word of the Lord came to Jonah son of Amittai, saying,
+**Jonah 1:1** The word of the Lord came to Jonah son of Amittai, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
@@ -548,7 +548,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Micah
 
-**Micah 1:1** And the word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
+**Micah 1:1** And the word of the Lord came to Micah the Morasthite in the days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
@@ -599,7 +599,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zephaniah
 
-**Zephaniah 1:1** Word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in days of Josiah son of Amon king of Judah.
+**Zephaniah 1:1** The word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon king of Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
@@ -616,7 +616,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Haggai
 
-**Haggai 1:1** In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+**Haggai 1:1** In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
@@ -626,7 +626,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Haggai 1:3** Word of the Lord came by hand of Haggai prophet, saying,
+**Haggai 1:3** The word of the Lord came by the hand of Haggai prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
@@ -650,7 +650,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Malachi
 
-**Malachi 1:1** Oracle of the word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
+**Malachi 1:1** Oracle of the word of the Lord upon Israel by the hand of his messenger. Put this now on your hearts.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6

@@ -119,9 +119,9 @@ Unresolved outliers: 0
 - 1 Chronicles 21:26 [salvation]
   - fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 - 2 Chronicles 7:7 [salvation]
-  - fresh: And Solomon sanctified middle of court in house of the Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
+  - fresh: And Solomon sanctified middle of court in the house of the Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
 - 2 Chronicles 29:35 [salvation]
-  - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of the Lord was set right.
+  - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in the house of the Lord was set right.
 - 2 Chronicles 30:22 [salvation]
   - fresh: And Hezekiah spoke to every heart of Levites, those understanding good understanding for the Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to the Lord God of their fathers.
 - 2 Chronicles 31:2 [salvation]

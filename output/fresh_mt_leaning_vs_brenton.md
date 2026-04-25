@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 712
+Rows: 711
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -140,9 +140,9 @@ Rows: 712
 ## Ezekiel 25:14
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.901`
-- fresh_brenton_ratio: `0.134`
-- fresh: And I will place my vengeance upon Edom by hand of my people Israel, and they will act in Edom according to my anger and according to my wrath, and they will know my vengeance, says the Lord.
+- fresh_mt_ratio: `0.912`
+- fresh_brenton_ratio: `0.133`
+- fresh: And I will place my vengeance upon Edom by the hand of my people Israel, and they will act in Edom according to my anger and according to my wrath, and they will know my vengeance, says the Lord.
 - mt: And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, says the Lord GOD.
 - brenton: And I will execute my vengeance on Idumea by the hand of my people Israel: and they shall deal in Idumea according to mine anger and according to my wrath, and they shall know my vengeance, saith the Lord.
 
@@ -1100,15 +1100,6 @@ Rows: 712
 - mt: When the poor and needy seek water, and there is none, and their tongue fails for thirst, I the LORD will hear them, I the God of Israel will not forsake them.
 - brenton: And the poor and the needy shall exult; for when they shall seek water, and there shall be none, and their tongue is parched with thirst, I the Lord God, I the God of Israel will hear, and will not forsake them:
 
-## 2 Chronicles 10:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.758`
-- fresh_brenton_ratio: `0.272`
-- fresh: And king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
-- mt: So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
-- brenton: And the king hearkened not to the people, for there was a change of their minds from God, saying, The Lord has confirmed his word, which he spoke by the hand of Achia the Selonite concerning Jeroboam the son of Nabat, and concerning all Israel;
-
 ## Leviticus 8:26
 - priority: `0`
 - importance: `none`
@@ -1288,6 +1279,15 @@ Rows: 712
 - fresh: And these are the last words of David: Faithful is David son of Jesse, and faithful the man whom the Lord raised up to be the anointed of the God of Jacob, and beautiful are the psalms of Israel.
 - mt: Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 - brenton: And these are the last words of David.
+
+## 2 Chronicles 10:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.772`
+- fresh_brenton_ratio: `0.331`
+- fresh: And king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by the hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
+- mt: So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
+- brenton: And the king hearkened not to the people, for there was a change of their minds from God, saying, The Lord has confirmed his word, which he spoke by the hand of Achia the Selonite concerning Jeroboam the son of Nabat, and concerning all Israel;
 
 ## Deuteronomy 3:21
 - priority: `0`
@@ -6049,15 +6049,6 @@ Rows: 712
 - fresh: And they set out from Jotbathah and camped at Ebronah.
 - mt: And they removed from Jotbathah, and encamped at Ebronah.
 - brenton: And they departed from Etebatha, and encamped in Ebrona.
-
-## Joel 1:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.925`
-- fresh_brenton_ratio: `0.822`
-- fresh: Word of the Lord that came to Joel son of Pethuel.
-- mt: The word of the LORD that came to Joel the son of Pethuel.
-- brenton: The word of the Lord which came to Joel the son of Bathuel.
 
 ## 1 Chronicles 23:18
 - priority: `0`
