@@ -1,16 +1,16 @@
 {
   "scope": "Genesis-Malachi (39 books)",
-  "drafted_rows_checked": 22896,
-  "rows_with_mt": 21751,
+  "drafted_rows_checked": 22909,
+  "rows_with_mt": 21754,
   "rows_with_brenton": 22321,
   "category_counts": {
-    "same_as_mt_differs_from_brenton": 13,
-    "different_from_both": 21004,
+    "same_as_mt_differs_from_brenton": 51,
+    "different_from_both": 20951,
     "same_as_both": 7,
-    "same_as_brenton_differs_from_mt": 162,
+    "same_as_brenton_differs_from_mt": 177,
     "missing_mt": 1135,
-    "missing_brenton": 565,
-    "other": 10
+    "missing_brenton": 568,
+    "other": 20
   },
-  "mt_leaning_count": 522
+  "mt_leaning_count": 712
 }

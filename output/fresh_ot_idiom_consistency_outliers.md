@@ -27,7 +27,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And there happened to be there a lawless man, and his name was Sabee son of Bochori, a Jeminaian man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Iessai. Each man to your tents, O Israel.
+- fresh: And there happened to be there a lawless man, and his name was Sheba son of Bichri, a Benjamite man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Jesse. Each man to your tents, O Israel.
 
 ## Isaiah 64:6
 - family: `call-on-name-formula`
@@ -43,7 +43,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `revised`
 - needs followup: `no`
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 
 ## Psalms 98:6
 - family: `call-on-name-formula`
@@ -59,4 +59,4 @@ Unresolved: 0
 - dominant bucket: `called-there`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.

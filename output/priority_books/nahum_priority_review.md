@@ -17,13 +17,13 @@ Selected verses: 6
 ## Nahum 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=75; reco=keep
-- fresh: Lord good to those waiting for him in day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in day of distress, and knowing those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ## Nahum 1:9
 - score: 14
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=22; reco=keep
-- fresh: What do you plot against Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
+- fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
 - brenton: What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.
 
 ## Nahum 1:14
@@ -35,5 +35,5 @@ Selected verses: 6
 ## Nahum 3:5
 - score: 14
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=8; reco=keep
-- fresh: Behold, I am against you, says Lord God Almighty, and I will uncover your backside to your face and show nations your shame and kingdoms your dishonor.
+- fresh: Behold, I am against you, says the Lord God Almighty, and I will uncover your backside to your face and show nations your shame and kingdoms your dishonor.
 - brenton: Behold, I am against thee, saith the Lord God Almighty, and I will uncover thy skirts in thy presence, and I will shew the nations thy shame, and the kingdoms thy disgrace.

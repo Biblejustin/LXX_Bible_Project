@@ -42415,7 +42415,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses wrote down their departures and their stages by word of the Lord. And these are the stages of their journey.
+- fresh: And Moses wrote down their departures and their stages by the word of the Lord. And these are the stages of their journey.
 - brenton: And Moses wrote their removals and their stages, by the word of the Lord: and these are the stages of their journeying.
 
 ### Numbers 33:3
@@ -81729,8 +81729,8 @@ Note:
 ### 1 Kings 13:33
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And after this word Jeroboam did not turn back from his evil, and he turned again and made priests of high places from every part of the people. Whoever wished, he filled his hand, and he became priest for the high places.
 - brenton: And after this Jeroboam turned not from his sin, but he turned and made of part of the people priests of the high places: whoever would, he consecrated him, and he became a priest for the high places.
@@ -82452,7 +82452,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Elijah,
+- fresh: And the word of the Lord came to Elijah,
 - brenton: And the word of the Lord came to Eliu, saying,
 
 ### 1 Kings 17:3
@@ -82506,7 +82506,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Elijah,
+- fresh: And the word of the Lord came to Elijah,
 - brenton: And the word of the Lord came to Eliu, saying,
 
 ### 1 Kings 17:9
@@ -83145,7 +83145,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he entered there into the cave and lodged there. And behold, word of the Lord came to him and said, What are you doing here, Elijah?
+- fresh: And he entered there into the cave and lodged there. And behold, the word of the Lord came to him and said, What are you doing here, Elijah?
 - brenton: And he entered there into a cave, and rested there; and, behold, the word of the Lord came to him, and he said, What doest thou here, Eliu?
 
 ### 1 Kings 19:10
@@ -83505,7 +83505,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came by the hand of his servant Elijah concerning Ahab, and the Lord said,
+- fresh: And the word of the Lord came by the hand of his servant Elijah concerning Ahab, and the Lord said,
 - brenton: And the word of the Lord came by the hand of his servant Eliu concerning Achaab, and the Lord said,
 
 ### 1 Kings 20:29
@@ -84015,8 +84015,8 @@ Note:
 ### 1 Kings 22:13
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
 - fresh: And the messenger who went to call Micaiah spoke to him, saying, Behold now, all the prophets speak with one mouth good things concerning the king. Be now also in your words like the words of one of these and speak good things.
 - brenton: And the messenger that went to call Michaias spoke to him, saying, Behold now, all the prophets speak with one mouth good concerning the king, let now thy words be like the words of one of them, and speak good things.
@@ -89474,7 +89474,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah was in the middle court, and word of the Lord came to him, saying,
+- fresh: And Isaiah was in the middle court, and the word of the Lord came to him, saying,
 - brenton: And Esaias was in the middle court, and the word of the Lord came to him, saying,
 
 ### 2 Kings 20:5
@@ -89582,7 +89582,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said to Hezekiah, Hear word of the Lord.
+- fresh: And Isaiah said to Hezekiah, Hear the word of the Lord.
 - brenton: And Esaias said to Ezekias, Hear the word of the Lord:
 
 ### 2 Kings 20:17
@@ -94498,7 +94498,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Saul died in his lawless deeds which he committed lawlessly against the Lord, against word of the Lord, because he did not keep it, because Saul inquired through ventriloquist to seek, and Samuel prophet answered him.
+- fresh: And Saul died in his lawless deeds which he committed lawlessly against the Lord, against the word of the Lord, because he did not keep it, because Saul inquired through ventriloquist to seek, and Samuel prophet answered him.
 - brenton: So Saul died for his transgressions, wherein he transgressed against God, against the word of the Lord, forasmuch as he kept it not, because Saul enquired of a wizard to seek counsel, and Samuel the prophet answered him:
 
 ### 1 Chronicles 10:14
@@ -94507,7 +94507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did not seek Lord, and he put him to death and turned kingdom to David son of Jesse.
+- fresh: And he did not seek the Lord, and he put him to death and turned kingdom to David son of Jesse.
 - brenton: and he sought not the Lord: so he slew him, and turned the kingdom to David the son of Jesse.
 
 ### 1 Chronicles 11:1
@@ -94534,7 +94534,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all elders of Israel came to king in Hebron, and king David made covenant with them in Hebron before the Lord, and they anointed David king over Israel according to word of the Lord by hand of Samuel.
+- fresh: And all elders of Israel came to king in Hebron, and king David made covenant with them in Hebron before the Lord, and they anointed David king over Israel according to the word of the Lord by hand of Samuel.
 - brenton: And all the elders of Israel came to the king to Chebron; and king David made a covenant with them in Chebron before the Lord: and they anointed David to be king over Israel, according to the word of the Lord by Samuel.
 
 ### 1 Chronicles 11:4
@@ -94597,7 +94597,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And these were chiefs of mighty men who belonged to David, those prevailing with him in his kingdom with all Israel to make him king according to word of the Lord over Israel.
+- fresh: And these were chiefs of mighty men who belonged to David, those prevailing with him in his kingdom with all Israel to make him king according to the word of the Lord over Israel.
 - brenton: And these are the chiefs of the mighty men, whom David had, who strengthened themselves with him in his kingdom, with all Israel, to make him king, according to the word of the Lord concerning Israel.
 
 ### 1 Chronicles 11:11
@@ -95146,7 +95146,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these were names of chiefs of army who came to David in Hebron to turn kingdom of Saul to him according to word of the Lord.
+- fresh: And these were names of chiefs of army who came to David in Hebron to turn kingdom of Saul to him according to the word of the Lord.
 - brenton: And these are the names of the commanders of the army, who came to David to Chebron, to turn the kingdom of Saul to him according to the word of the Lord.
 
 ### 1 Chronicles 12:25
@@ -95353,7 +95353,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David brought it up, and all Israel went up to City of David, which belonged to Judah, to bring up from there ark of God, Lord seated upon cheroubim, where his name was called upon it.
+- fresh: And David brought it up, and all Israel went up to City of David, which belonged to Judah, to bring up from there ark of God, the Lord seated upon cheroubim, where his name was called upon it.
 - brenton: And David brought it up: and all Israel went up to the city of David, which belonged to Juda, to bring up thence the ark of the Lord God who sits between the cherubim, whose name is called on it.
 
 ### 1 Chronicles 13:7
@@ -95443,7 +95443,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David knew that Lord had established him over Israel, because his kingdom was exalted on high for sake of his people Israel.
+- fresh: And David knew that the Lord had established him over Israel, because his kingdom was exalted on high for sake of his people Israel.
 - brenton: And David knew that the Lord had designed him to be king over Israel; because his kingdom was highly exalted, on account of his people Israel.
 
 ### 1 Chronicles 14:3
@@ -95857,7 +95857,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in name of the Lord.
+- fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in the name of the Lord.
 - brenton: And David finished offering up whole-burnt-offerings and peace-offerings, and blessed the people in the name of the Lord.
 
 ### 1 Chronicles 16:3
@@ -95938,7 +95938,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Seek Lord and grow strong; seek his face continually.
+- fresh: Seek the Lord and grow strong; seek his face continually.
 - brenton: Seek the Lord and be strong, seek his face continually.
 
 ### 1 Chronicles 16:12
@@ -96244,7 +96244,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass in that night, word of the Lord came to Nathan, saying,
+- fresh: And it came to pass in that night, the word of the Lord came to Nathan, saying,
 - brenton: And it came to pass in that night, that the word of the Lord came to Nathan, saying,
 
 ### 1 Chronicles 17:4
@@ -96883,7 +96883,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joab said, May Lord add to his people a hundredfold as they are, and are not eyes of my lord the king seeing that all are servants to my lord? Why does my lord seek this, so that it should not become sin for Israel?
+- fresh: And Joab said, May the Lord add to his people a hundredfold as they are, and are not eyes of my lord the king seeing that all are servants to my lord? Why does my lord seek this, so that it should not become sin for Israel?
 - brenton: And Joab said, May the Lord add to his people, a hundred-fold as many as they are, and let the eyes of my lord the king see it: all are the servants of my lord. Why does my lord seek this thing? do it not, lest it become a sin to Israel.
 
 ### 1 Chronicles 21:4
@@ -96991,7 +96991,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God sent angel into Jerusalem to destroy it, and as he destroyed, Lord saw and relented over evil and said to angel destroying, It is enough for you; let go your hand. And angel of the Lord was standing at threshing floor of Araunah the Jebusite.
+- fresh: And God sent angel into Jerusalem to destroy it, and as he destroyed, the Lord saw and relented over evil and said to angel destroying, It is enough for you; let go your hand. And angel of the Lord was standing at threshing floor of Araunah the Jebusite.
 - brenton: And God sent an angel to Jerusalem to destroy it: and as he was destroying, the Lord saw, and repented for the evil, and said to the angel that was destroying, Let it suffice thee; withhold thine hand. And the angel of the Lord stood by the threshing-floor of Orna the Jebusite.
 
 ### 1 Chronicles 21:16
@@ -97027,7 +97027,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David went up according to word of Gad, which he spoke in name of the Lord.
+- fresh: And David went up according to word of Gad, which he spoke in the name of the Lord.
 - brenton: And David went up according to the word of Gad, which he spoke in the name of the Lord.
 
 ### 1 Chronicles 21:20
@@ -97189,7 +97189,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said, Solomon, my child, it was upon my heart to build a house for name of the Lord God,
+- fresh: And David said, Solomon, my child, it was upon my heart to build a house for the name of the Lord God,
 - brenton: And David said to Solomon, My child, it was in my heart to build a house to the name of the Lord God.
 
 ### 1 Chronicles 22:8
@@ -97198,7 +97198,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: but word of the Lord came upon me, saying, You poured out blood in abundance and made great wars; you shall not build house to my name, because you poured out much blood on earth before me.
+- fresh: but the word of the Lord came upon me, saying, You poured out blood in abundance and made great wars; you shall not build house to my name, because you poured out much blood on earth before me.
 - brenton: But the word of the Lord came to me, saying, Thou hast shed blood abundantly, and hast carried on great wars: thou shalt not build a house to my name, because thou hast shed much blood upon the earth before me.
 
 ### 1 Chronicles 22:9
@@ -97225,7 +97225,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, my son, Lord shall be with you and prosper you, and you shall build house to the Lord your God as he spoke concerning you.
+- fresh: And now, my son, the Lord shall be with you and prosper you, and you shall build house to the Lord your God as he spoke concerning you.
 - brenton: And now, my son, the Lord shall be with thee, and prosper thee; and thou shalt build a house to the Lord thy God, as he spoke concerning thee.
 
 ### 1 Chronicles 22:12
@@ -97234,7 +97234,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Only may Lord give you wisdom and understanding, and strengthen you over Israel, to keep and to do law of the Lord your God.
+- fresh: Only may the Lord give you wisdom and understanding, and strengthen you over Israel, to keep and to do the law of the Lord your God.
 - brenton: Only may the Lord give thee wisdom and prudence, and strengthen thee over Israel, both to keep and to do the law of the Lord thy God.
 
 ### 1 Chronicles 22:13
@@ -97288,7 +97288,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Is not Lord with you and has he not given you rest all around? Because he gave inhabitants of land into hands, and land is subdued before the Lord and before his people.
+- fresh: Is not the Lord with you and has he not given you rest all around? Because he gave inhabitants of land into hands, and land is subdued before the Lord and before his people.
 - brenton: Is not the Lord with you? and he has given you rest round about, for he has given into your hands the inhabitants of the land; and the land is subdued before the Lord, and before his people.
 
 ### 1 Chronicles 22:19
@@ -98908,7 +98908,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All in writing of hand of the Lord, David gave to Solomon according to understanding given to him for working of pattern.
+- fresh: All in writing of the hand of the Lord, David gave to Solomon according to understanding given to him for working of pattern.
 - brenton: David gave all to Solomon in the Lord's handwriting, according to the knowledge given him of the work of the pattern.
 
 ### 1 Chronicles 28:20
@@ -99360,7 +99360,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon spoke of building house to name of the Lord and house for his kingdom.
+- fresh: And Solomon spoke of building house to the name of the Lord and house for his kingdom.
 - brenton: And Solomon said that he would build a house to the name of the Lord, and a house for his kingdom.
 
 ### 2 Chronicles 2:1
@@ -99387,7 +99387,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: behold, I his son am building house to name of the Lord my God, to sanctify it to him, to burn incense of spices before him and perpetual presentation and to offer whole burnt offerings continually morning and evening and on Sabbaths and on new moons and on feasts of the Lord our God. This is forever upon Israel.
+- fresh: behold, I his son am building house to the name of the Lord my God, to sanctify it to him, to burn incense of spices before him and perpetual presentation and to offer whole burnt offerings continually morning and evening and on Sabbaths and on new moons and on feasts of the Lord our God. This is forever upon Israel.
 - brenton: behold, I also his son am building a house to the name of the Lord my God, to consecrate it to him, to burn incense before him, and to offer shewbread continually, and to offer up whole-burnt-offerings continually morning and evening, and on the sabbaths, and at the new moons, and at the feasts of the Lord our God: this is a perpetual statute for Israel.
 
 ### 2 Chronicles 2:4
@@ -100053,7 +100053,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came upon heart of David my father to build house to name of the Lord God of Israel.
+- fresh: And it came upon heart of David my father to build house to the name of the Lord God of Israel.
 - brenton: And it came into the heart of David my father, to build a house for the name of the Lord God of Israel.
 
 ### 2 Chronicles 6:8
@@ -100080,7 +100080,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord raised up his word which he spoke, and I came to be in place of David my father and sat upon throne of Israel, as the Lord spoke, and I built house to name of the Lord God of Israel.
+- fresh: And the Lord raised up his word which he spoke, and I came to be in place of David my father and sat upon throne of Israel, as the Lord spoke, and I built house to the name of the Lord God of Israel.
 - brenton: And the Lord has confirmed this word, which he spoke; and I am raised up in the room of my father David, and I sit upon the throne of Israel as the Lord said, and I have built the house for the name of the Lord God of Israel:
 
 ### 2 Chronicles 6:11
@@ -100557,7 +100557,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And this exalted house, everyone passing by it will be astonished and say, For what reason did Lord do thus to this land and to this house?
+- fresh: And this exalted house, everyone passing by it will be astonished and say, For what reason did the Lord do thus to this land and to this house?
 - brenton: And as for this lofty house, every one that passes by it shall be amazed, and shall say, Wherefore has the Lord done thus to this land, and to this house?
 
 ### 2 Chronicles 7:22
@@ -101142,7 +101142,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king did not listen to people, because turn came from God, so that Lord might raise up his word which he spoke by hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
+- fresh: And king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
 - brenton: And the king hearkened not to the people, for there was a change of their minds from God, saying, The Lord has confirmed his word, which he spoke by the hand of Achia the Selonite concerning Jeroboam the son of Nabat, and concerning all Israel;
 
 ### 2 Chronicles 10:16
@@ -101196,7 +101196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Shemaiah man of God, saying,
+- fresh: And the word of the Lord came to Shemaiah man of God, saying,
 - brenton: And the word of the Lord came to Samaias the man of God, saying,
 
 ### 2 Chronicles 11:3
@@ -101214,7 +101214,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: You shall not go up and shall not fight against your brothers. Return each to his house, because this thing came from me. And they listened to word of the Lord and turned back from not going against Jeroboam.
+- fresh: Thus says the Lord: You shall not go up and shall not fight against your brothers. Return each to his house, because this thing came from me. And they listened to the word of the Lord and turned back from not going against Jeroboam.
 - brenton: Thus saith the Lord, Ye shall not go up, and ye shall not war against your brethren: return every one to his home; for this thing is of me. And they hearkened to the word of the Lord, and returned from going against Jeroboam.
 
 ### 2 Chronicles 11:5
@@ -101448,7 +101448,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when Lord saw that they were put to shame, word of the Lord came to Shemaiah saying, They were put to shame; I will not destroy them, and I will give them a little salvation, and my wrath shall not drip upon Jerusalem.
+- fresh: And when the Lord saw that they were put to shame, the word of the Lord came to Shemaiah saying, They were put to shame; I will not destroy them, and I will give them a little salvation, and my wrath shall not drip upon Jerusalem.
 - brenton: And when the Lord saw that they repented, then came the word of the Lord to Samaias, saying, They have repented; I will not destroy them, but I will set them in safety for a little while, and my wrath shall not be poured out on Jerusalem.
 
 ### 2 Chronicles 12:8
@@ -101493,7 +101493,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he was put to shame, wrath of the Lord turned away from him and not for destruction to end, and indeed in Judah there were good matters.
+- fresh: And when he was put to shame, the wrath of the Lord turned away from him and not for destruction to end, and indeed in Judah there were good matters.
 - brenton: And when he repented, the anger of the Lord turned from him, and did not destroy him utterly; for there were good things in Juda.
 
 ### 2 Chronicles 12:13
@@ -101511,7 +101511,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did evil, because he did not direct his heart to seek Lord.
+- fresh: And he did evil, because he did not direct his heart to seek the Lord.
 - brenton: And he did evil, for he directed not his heart to seek the Lord.
 
 ### 2 Chronicles 12:15
@@ -101943,7 +101943,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he assembled Judah and Benjamin and sojourners dwelling with him from Ephraim and from Manasseh and from Simeon, because many from Israel joined themselves to him when they saw that Lord his God was with him.
+- fresh: And he assembled Judah and Benjamin and sojourners dwelling with him from Ephraim and from Manasseh and from Simeon, because many from Israel joined themselves to him when they saw that the Lord his God was with him.
 - brenton: And he assembled Juda and Benjamin, and the strangers that dwelt with him, of Ephraim, and of Manasse, and of Symeon: for many of Israel were joined to him, when they saw that the Lord his God was with him.
 
 ### 2 Chronicles 15:10
@@ -102141,7 +102141,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Asa became diseased in his feet in thirty-ninth year of his kingdom, until he was very diseased, and in his disease he did not seek Lord but physicians.
+- fresh: And Asa became diseased in his feet in thirty-ninth year of his kingdom, until he was very diseased, and in his disease he did not seek the Lord but physicians.
 - brenton: And Asa was diseased in his feet in the thirty-ninth year of his reign, until he was very ill: but in his disease he sought not to the Lord, but to the physicians.
 
 ### 2 Chronicles 16:13
@@ -102213,7 +102213,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his heart was lifted high in way of the Lord, and he further removed high places and groves from land of Judah.
+- fresh: And his heart was lifted high in the way of the Lord, and he further removed high places and groves from land of Judah.
 - brenton: And his heart was exalted in the way of the Lord; and he removed the high places and the groves from the land of Juda.
 
 ### 2 Chronicles 17:7
@@ -102240,7 +102240,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they were teaching in Judah, and with them was book of law of the Lord, and they went through cities of Judah and taught people.
+- fresh: And they were teaching in Judah, and with them was book of the law of the Lord, and they went through cities of Judah and taught people.
 - brenton: And they taught in Juda, and there was with them the book of the law of the Lord, and they passed through the cities of Juda, and taught the people.
 
 ### 2 Chronicles 17:10
@@ -102393,7 +102393,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king of Israel said to Jehoshaphat, There is still one man through whom to seek Lord, and I hated him, because he is not prophesying good concerning me, but all his days evil. This is Micaiah son of Imlah. And Jehoshaphat said, Let not king speak thus.
+- fresh: And king of Israel said to Jehoshaphat, There is still one man through whom to seek the Lord, and I hated him, because he is not prophesying good concerning me, but all his days evil. This is Micaiah son of Imlah. And Jehoshaphat said, Let not king speak thus.
 - brenton: And the king of Israel said to Josaphat, There is yet one man by whom to enquire of the Lord; but I hate him, for he does not prophesy concerning me for good, for all his days are for evil: this is Michaias the son of Jembla. And Josaphat said, Let not the king say so.
 
 ### 2 Chronicles 18:8
@@ -102465,7 +102465,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king said to him, How many times shall I make you swear that you speak to me nothing except truth in name of the Lord?
+- fresh: And king said to him, How many times shall I make you swear that you speak to me nothing except truth in the name of the Lord?
 - brenton: And the king said to him, How often shall I solemnly charge thee that thou speak to me nothing but truth in the name of the Lord?
 
 ### 2 Chronicles 18:16
@@ -102492,7 +102492,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, Not so. Hear word of the Lord: I saw Lord sitting on his throne, and all force of heaven stood at his right and at his left.
+- fresh: And he said, Not so. Hear the word of the Lord: I saw the Lord sitting on his throne, and all force of heaven stood at his right and at his left.
 - brenton: But he said, Not so. Hear ye the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven stood by on his right hand and on his left.
 
 ### 2 Chronicles 18:19
@@ -102663,7 +102663,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet good matters were found in you, because you removed groves from land of Judah and directed your heart to seek Lord.
+- fresh: Yet good matters were found in you, because you removed groves from land of Judah and directed your heart to seek the Lord.
 - brenton: Nevertheless some good things have been found in thee, forasmuch as thou didst remove the groves from the land of Juda, and didst direct thine heart to seek after the Lord.
 
 ### 2 Chronicles 19:4
@@ -102699,7 +102699,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now let fear of the Lord be upon you, and keep and do, because with the Lord our God there is no injustice, nor regard of face, nor taking of gifts.
+- fresh: And now let the fear of the Lord be upon you, and keep and do, because with the Lord our God there is no injustice, nor regard of face, nor taking of gifts.
 - brenton: And now let the fear of the Lord be upon you, and be wary, and do your duty: for there is no unrighteousness with the Lord our God, neither is it for him to respect persons, nor to take bribes.
 
 ### 2 Chronicles 19:8
@@ -102717,7 +102717,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he commanded them, saying, Thus you shall do in fear of the Lord, in truth and with full heart.
+- fresh: And he commanded them, saying, Thus you shall do in the fear of the Lord, in truth and with full heart.
 - brenton: And he charged them, saying, Thus shall ye do in the fear of the Lord, in truth and with a perfect heart.
 
 ### 2 Chronicles 19:10
@@ -102762,7 +102762,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he feared, and Jehoshaphat set his face to seek Lord and proclaimed fast in all Judah.
+- fresh: And he feared, and Jehoshaphat set his face to seek the Lord and proclaimed fast in all Judah.
 - brenton: And Josaphat was alarmed, and set his face to seek the Lord earnestly, and he proclaimed a fast in all Juda.
 
 ### 2 Chronicles 20:4
@@ -102771,7 +102771,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Judah gathered to seek Lord, and from all cities of Judah they came to seek Lord.
+- fresh: And Judah gathered to seek the Lord, and from all cities of Judah they came to seek the Lord.
 - brenton: And Juda gathered themselves together to seek after the Lord: even from all the cities of Juda they came to seek the Lord.
 
 ### 2 Chronicles 20:5
@@ -102996,7 +102996,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And terror of the Lord came upon all kingdoms of earth when they heard that Lord fought against adversaries of Israel.
+- fresh: And terror of the Lord came upon all kingdoms of earth when they heard that the Lord fought against adversaries of Israel.
 - brenton: And there was a terror of the Lord upon all the kingdoms of the land, when they heard that the Lord fought against the enemies of Israel.
 
 ### 2 Chronicles 20:30
@@ -103068,7 +103068,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eliezer son of Dodavah from Mareshah prophesied against Jehoshaphat, saying, Because you made friendship with Ahaziah, Lord broke your work, and your ships were wrecked and were not able to go to Tarshish.
+- fresh: And Eliezer son of Dodavah from Mareshah prophesied against Jehoshaphat, saying, Because you made friendship with Ahaziah, the Lord broke your work, and your ships were wrecked and were not able to go to Tarshish.
 - brenton: And Eliezer the son of Dodia of Marisa prophesied against Josaphat, saying, Forasmuch as thou hast allied thyself with Ochozias, the Lord has broken thy work, and thy vessels have been wrecked. And they could not go to Tharsis.
 
 ### 2 Chronicles 21:1
@@ -103329,7 +103329,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is son of Jehoshaphat who sought Lord with whole heart. And there was none in house of Ahaziah strong enough for kingdom.
+- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is son of Jehoshaphat who sought the Lord with whole heart. And there was none in house of Ahaziah strong enough for kingdom.
 - brenton: And he gave orders to seek Ochozias: and they took him while he was healing his wounds in Samaria, and they brought him to Jeu, and he slew him; and they buried him, for they said, He is the son of Josaphat, who sought the Lord with all his heart.
 
 ### 2 Chronicles 22:10
@@ -103743,7 +103743,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joash did not remember mercy which Jehoiada his father did with him and killed his son. And as he was dying, he said, Let Lord see and judge.
+- fresh: And Joash did not remember mercy which Jehoiada his father did with him and killed his son. And as he was dying, he said, Let the Lord see and judge.
 - brenton: So Joas remembered not the kindness which his father Jodae had exercised towards him, but slew his son. And as he died, he said, The Lord look upon it, and judge.
 
 ### 2 Chronicles 24:23
@@ -103824,7 +103824,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But their sons he did not kill, according to covenant of law of the Lord, as written, as the Lord commanded, saying, Fathers shall not die for children, and sons shall not die for fathers, but each shall die for his own sin.
+- fresh: But their sons he did not kill, according to covenant of the law of the Lord, as written, as the Lord commanded, saying, Fathers shall not die for children, and sons shall not die for fathers, but each shall die for his own sin.
 - brenton: But he slew not their sons, according to the covenant of the law of the Lord, as it is written, and as the Lord commanded, saying, The fathers shall not die for the children, and the sons shall not die for the fathers, but they shall die each for his own sin.
 
 ### 2 Chronicles 25:5
@@ -103860,7 +103860,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if you suppose to prevail by these, the Lord will rout you before enemies, because with Lord there is power both to strengthen and to route.
+- fresh: Because if you suppose to prevail by these, the Lord will rout you before enemies, because with the Lord there is power both to strengthen and to route.
 - brenton: For if thou shalt undertake to strengthen thyself with these, then the Lord shall put thee to flight before the enemies: for it is of the Lord both to strengthen and to put to flight.
 
 ### 2 Chronicles 25:9
@@ -104085,7 +104085,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he was seeking Lord in days of Zechariah, one understanding in fear of the Lord, and in his days he sought Lord and the Lord prospered him.
+- fresh: And he was seeking the Lord in days of Zechariah, one understanding in the fear of the Lord, and in his days he sought the Lord and the Lord prospered him.
 - brenton: And he sought the Lord in the days of Zacharias, who understood the fear of the Lord; and in his days he sought the Lord, and the Lord prospered him.
 
 ### 2 Chronicles 26:6
@@ -104400,7 +104400,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there was prophet of the Lord there, Oded his name, and he went out to meet force coming to Samaria and said to them, Behold, wrath of the Lord God of your fathers came upon Judah and he gave them into your hands, and you killed among them in wrath reaching to heavens.
+- fresh: And there was prophet of the Lord there, Oded his name, and he went out to meet force coming to Samaria and said to them, Behold, the wrath of the Lord God of your fathers came upon Judah and he gave them into your hands, and you killed among them in wrath reaching to heavens.
 - brenton: And there was there a prophet of the Lord, his name was Oded: and he went out to meet the host that were coming to Samaria, and said to them, Behold, the wrath of the Lord God of your fathers is upon Juda, and he has delivered them into your hands, and ye have slain them in wrath, and it has reached even to heaven.
 
 ### 2 Chronicles 28:10
@@ -104436,7 +104436,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they said to them, You shall not bring captivity here to us, because you say to add upon our sins and upon our ignorance in sinning to the Lord, because our sin is great, and heat of wrath of the Lord is upon Israel.
+- fresh: And they said to them, You shall not bring captivity here to us, because you say to add upon our sins and upon our ignorance in sinning to the Lord, because our sin is great, and heat of the wrath of the Lord is upon Israel.
 - brenton: and said to them, Ye shall not bring in hither the prisoners to us, for whereas sin against the Lord is upon us, ye mean to add to our sins, and to our trespass: for our sin is great, and the fierce anger of the Lord is upon Israel.
 
 ### 2 Chronicles 28:14
@@ -104634,7 +104634,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And wrath of the Lord was against Judah and Jerusalem, and he gave them to terror and to desolation and to hissing, as you see with your eyes.
+- fresh: And the wrath of the Lord was against Judah and Jerusalem, and he gave them to terror and to desolation and to hissing, as you see with your eyes.
 - brenton: And the Lord was very angry with Juda and Jerusalem, and made them an astonishment, and a desolation, and a hissing, as ye see with your eyes.
 
 ### 2 Chronicles 29:9
@@ -104832,7 +104832,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah the king and rulers told Levites to hymn Lord in words of David and Asaph the prophet, and they hymned with gladness and fell and worshiped.
+- fresh: And Hezekiah the king and rulers told Levites to hymn the Lord in words of David and Asaph the prophet, and they hymned with gladness and fell and worshiped.
 - brenton: And king Ezekias and the princes told the Levites to sing hymns to the Lord in the words of David, and of Asaph the prophet: and they sang hymns with gladness, and fell down and worshipped.
 
 ### 2 Chronicles 29:31
@@ -104994,7 +104994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Judah hand of the Lord came to give them one heart, to come do according to command of king and rulers in word of the Lord.
+- fresh: And in Judah the hand of the Lord came to give them one heart, to come do according to command of king and rulers in the word of the Lord.
 - brenton: And the hand of the Lord was present to give them one heart to come, to do according to the commands of the king and of the princes, by the word of the Lord.
 
 ### 2 Chronicles 30:13
@@ -105048,7 +105048,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because most of people from Ephraim and Manasseh and Issachar and Zebulun had not sanctified themselves, but they ate passover contrary to writing, and Hezekiah prayed for them, saying, Lord the good one make atonement concerning
+- fresh: Because most of people from Ephraim and Manasseh and Issachar and Zebulun had not sanctified themselves, but they ate passover contrary to writing, and Hezekiah prayed for them, saying, May the good Lord make atonement concerning
 - brenton: For the greatest part of the people of Ephraim, and Manasse, and Issachar, and Zabulon, had not purified themselves, but ate the passover contrary to the scripture. On this account also Ezekias prayed concerning them, saying,
 
 ### 2 Chronicles 30:19
@@ -105156,7 +105156,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And portion of king from his possessions was for whole burnt offerings, morning and evening, and whole burnt offerings for Sabbaths and new moons and feasts written in law of the Lord.
+- fresh: And portion of king from his possessions was for whole burnt offerings, morning and evening, and whole burnt offerings for Sabbaths and new moons and feasts written in the law of the Lord.
 - brenton: And the king's proportion out of his substance was appointed for the whole-burnt-offerings, the morning and the evening one, and the whole-burnt-offerings for the sabbaths, and for the new moons, and for the feasts that were ordered in the law of the Lord.
 
 ### 2 Chronicles 31:4
@@ -105552,7 +105552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah was humbled from height of his heart, he and those dwelling in Jerusalem, and wrath of the Lord did not come upon them in days of Hezekiah.
+- fresh: And Hezekiah was humbled from height of his heart, he and those dwelling in Jerusalem, and the wrath of the Lord did not come upon them in days of Hezekiah.
 - brenton: And Ezekias humbled himself after the exaltation of his heart, he and the dwellers in Jerusalem; and the wrath of the Lord did not come upon them in the days of Ezekias.
 
 ### 2 Chronicles 32:27
@@ -105597,7 +105597,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And so, with ambassadors of rulers from Babylon who had been sent to him to inquire from him about wonder that happened upon earth, Lord left him to test him, to know things in his heart.
+- fresh: And so, with ambassadors of rulers from Babylon who had been sent to him to inquire from him about wonder that happened upon earth, the Lord left him to test him, to know things in his heart.
 - brenton: Notwithstanding, in regard to the ambassadors of the princes of Babylon, who were sent to him to enquire of him concerning the prodigy which came upon the land, the Lord left him, to try him, to know what was in his heart.
 
 ### 2 Chronicles 32:32
@@ -105696,7 +105696,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Manasseh led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which Lord removed from before sons of Israel.
+- fresh: And Manasseh led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which the Lord removed from before sons of Israel.
 - brenton: So Manasses led astray Juda and the inhabitants of Jerusalem, to do evil beyond all the nations which the Lord cast out from before the children of Israel.
 
 ### 2 Chronicles 33:10
@@ -105723,7 +105723,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he was afflicted, he sought face of the Lord his God and humbled himself greatly before God of his fathers.
+- fresh: And when he was afflicted, he sought the face of the Lord his God and humbled himself greatly before God of his fathers.
 - brenton: And when he was afflicted, he sought the face of the Lord his God, and was greatly humbled before the face of the God of his fathers;
 
 ### 2 Chronicles 33:13
@@ -105777,7 +105777,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of words of Manasseh and his prayer to God and words of seers speaking to him in name of the Lord God of Israel, behold, upon records.
+- fresh: And rest of words of Manasseh and his prayer to God and words of seers speaking to him in the name of the Lord God of Israel, behold, upon records.
 - brenton: And the rest of the acts of Manasses, and his prayer to God, and the words of the seers that spoke to him in the name of the God of Israel,
 
 ### 2 Chronicles 33:19
@@ -105966,7 +105966,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they were bringing out money brought into house of the Lord, Hilkiah the priest found book of law of the Lord by hand of Moses.
+- fresh: And when they were bringing out money brought into house of the Lord, Hilkiah the priest found book of the law of the Lord by hand of Moses.
 - brenton: And when they brought forth the money that had been brought into the house of the Lord, Chelcias the priest found a book of the law of the Lord given by the hand of Moses.
 
 ### 2 Chronicles 34:15
@@ -106029,7 +106029,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go, seek Lord concerning me and concerning everyone left in Israel and in Judah, concerning words of book found, because great wrath of the Lord is kindled among us, because our fathers did not listen to words of the Lord, to do according to all things written in this book.
+- fresh: Go, seek the Lord concerning me and concerning everyone left in Israel and in Judah, concerning words of book found, because great wrath of the Lord is kindled among us, because our fathers did not listen to words of the Lord, to do according to all things written in this book.
 - brenton: Go, enquire of the Lord for me, and for every one that is left in Israel and Juda, concerning the words of the book that is found: for great is the wrath of the Lord which has been kindled amongst us, because our fathers have not hearkened to the words of the Lord, to do according to all the things written in this book.
 
 ### 2 Chronicles 34:22
@@ -106074,7 +106074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to king of Judah who sent you to seek Lord, thus you shall say to him: Thus says the Lord God of Israel, concerning words which you heard,
+- fresh: And to king of Judah who sent you to seek the Lord, thus you shall say to him: Thus says the Lord God of Israel, concerning words which you heard,
 - brenton: And concerning the king of Juda, who sent you to seek the Lord,—thus shall ye say to him, Thus saith the Lord God of Israel, As for the words which thou hast heard,
 
 ### 2 Chronicles 34:27
@@ -106191,7 +106191,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sacrifice Passover and prepare holy things for your brothers, to do according to word of the Lord by hand of Moses.
+- fresh: And sacrifice Passover and prepare holy things for your brothers, to do according to the word of the Lord by hand of Moses.
 - brenton: And kill ye the passover, and prepare it for your brethren, to do according to the word of the Lord, by the hand of Moses.
 
 ### 2 Chronicles 35:7
@@ -106371,7 +106371,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And words of Josiah and his hope are written in law of the Lord.
+- fresh: And words of Josiah and his hope are written in the law of the Lord.
 - brenton: And the rest of the acts of Josias, and his hope, are written in the law of the Lord.
 
 ### 2 Chronicles 35:27
@@ -106425,7 +106425,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jehoiakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechora daughter of Nerias from Ramah. And he did evil before the Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And the Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Moabites and sons of Ammon and of Samaria, and they revolted after this word according to word of the Lord by hand of his servants the prophets. Yet anger of the Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Jehoiakim poured out, and he filled Jerusalem with innocent blood, and the Lord did not wish to destroy them.
+- fresh: Jehoiakim was twenty-five years old when he reigned, and eleven years he reigned in Jerusalem, and name of his mother was Zechora daughter of Nerias from Ramah. And he did evil before the Lord according to all things his fathers did. In his days Nebuchadnezzar king of Babylon came into land, and he was serving him three years, and he rebelled from him. And the Lord sent against them Chaldeans and raiding bands of Syrians and raiding bands of Moabites and sons of Ammon and of Samaria, and they revolted after this word according to the word of the Lord by hand of his servants the prophets. Yet anger of the Lord was against Judah, to remove him from his face, because of sins of Manasseh in all things he did, and in innocent blood which Jehoiakim poured out, and he filled Jerusalem with innocent blood, and the Lord did not wish to destroy them.
 - brenton: Joachim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem: and his mother's name was Zechora, daughter of Nerias of Rama. And he did that which was evil in the sight of the Lord, according to all that his fathers did.
 
 ### 2 Chronicles 36:6
@@ -106524,7 +106524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But they kept mocking his messengers and despising his words and playing with his prophets, until wrath of the Lord rose upon his people, until there was no healing.
+- fresh: But they kept mocking his messengers and despising his words and playing with his prophets, until the wrath of the Lord rose upon his people, until there was no healing.
 - brenton: Nevertheless they sneered at his messengers, and set at nought his words, and mocked his prophets, until the wrath of the Lord rose up against his people, till there was no remedy.
 
 ### 2 Chronicles 36:17
@@ -106569,7 +106569,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to fulfill word of the Lord by mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
+- fresh: to fulfill the word of the Lord by mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
 - brenton: That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting and sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
 
 ### 2 Chronicles 36:22
@@ -106578,7 +106578,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of Cyrus king of Persians, after word of the Lord by mouth of Jeremiah was fulfilled, Lord stirred spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
+- fresh: In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
 - brenton: In the first year of Cyrus king of the Persians, after the fulfilment of the word of the Lord by the mouth of Jeremias, the Lord stirred up the spirit of Cyrus king of the Persians, and told him to make proclamation in writing throughout all his kingdom, saying,
 
 ### 2 Chronicles 36:23
@@ -106598,7 +106598,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+- fresh: And in first year of Cyrus king of Persians, for fulfillment of the word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
 
 ### Ezra 1:2
@@ -108056,7 +108056,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which the Lord God of Israel gave, and the king gave to him because hand of the Lord his God was upon him in all he sought.
+- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
 ### Ezra 7:7
@@ -111055,7 +111055,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they stood at their standing place and read in book of law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
+- fresh: And they stood at their standing place and read in book of the law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
 - brenton: And they stood in their place, and read in the book of the law of the Lord their god: and they confessed their sins to the Lord, and worshipped the Lord their God.
 
 ### Nehemiah 9:4
@@ -114308,7 +114308,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Naked I came out from womb of my mother, naked also I will go away there. The Lord gave, the Lord took away. As it seemed good to the Lord, so also it came to pass. Let name of the Lord be blessed.
+- fresh: Naked I came out from womb of my mother, naked also I will go away there. The Lord gave, the Lord took away. As it seemed good to the Lord, so also it came to pass. Let the name of the Lord be blessed.
 - brenton: and said, I myself came forth naked from my mother's womb, and naked shall I return thither: the Lord gave, the Lord has taken away: as it seemed good to the Lord, so has it come to pass; blessed be the name of the Lord.
 
 ### Job 1:22
@@ -114407,7 +114407,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And looking at her, he said to her, You spoke like one of the foolish women. If we accepted good things from hand of the Lord, shall we not bear evil things? In all these things that happened to him, Job sinned in nothing with his lips before God.
+- fresh: And looking at her, he said to her, You spoke like one of the foolish women. If we accepted good things from the hand of the Lord, shall we not bear evil things? In all these things that happened to him, Job sinned in nothing with his lips before God.
 - brenton: But he looked on her, and said to her, Thou hast spoken like one of the foolish women. If we have received good things of the hand of the Lord, shall we not endure evil things?
 
 ### Job 2:11
@@ -115181,7 +115181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let Lord begin and wound me; but in end let him not destroy me.
+- fresh: Let the Lord begin and wound me; but in end let him not destroy me.
 - brenton: Let the Lord begin and wound me, but let him not utterly destroy me.
 
 ### Job 6:10
@@ -115586,7 +115586,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will Lord do injustice in judging, or will maker of all disturb what is right?
+- fresh: Will the Lord do injustice in judging, or will maker of all disturb what is right?
 - brenton: Will the Lord be unjust when he judges; or will he that has made all things pervert justice?
 
 ### Job 8:4
@@ -115604,7 +115604,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, rise early toward Lord, begging Almighty.
+- fresh: But you, rise early toward the Lord, begging Almighty.
 - brenton: But be thou early in prayer to the Lord Almighty.
 
 ### Job 8:6
@@ -116315,7 +116315,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But how might Lord speak to you and open his lips with you!
+- fresh: But how might the Lord speak to you and open his lips with you!
 - brenton: But oh that the Lord would speak to thee, and open his lips with thee!
 
 ### Job 11:6
@@ -116531,7 +116531,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who does not know in all these that hand of the Lord made these things,
+- fresh: Who does not know in all these that the hand of the Lord made these things,
 - brenton: Who then has not known in all these things, that the hand of the Lord has made them?
 
 ### Job 12:10
@@ -118160,7 +118160,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Pity me, pity me, O friends, for hand of the Lord is what touched me.
+- fresh: Pity me, pity me, O friends, for the hand of the Lord is what touched me.
 - brenton: Pity me, pity me, O friends; for it is the hand of the Lord that has touched me.
 
 ### Job 19:22
@@ -118952,7 +118952,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who say, What will Lord do to us, or what will Almighty bring upon us?
+- fresh: Who say, What will the Lord do to us, or what will Almighty bring upon us?
 - brenton: Who say, What will the Lord do to us? or what will the Almighty bring upon us?
 
 ### Job 22:18
@@ -119690,7 +119690,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For what hope is there for ungodly man, that he clings, trusting upon Lord? Will he be saved?
+- fresh: For what hope is there for ungodly man, that he clings, trusting upon the Lord? Will he be saved?
 - brenton: For what is the hope of the ungodly, that he holds to it? will he indeed trust in the Lord and be saved?
 
 ### Job 27:9
@@ -119699,7 +119699,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Or will Lord hear his petition, or when necessity comes upon him?
+- fresh: Or will the Lord hear his petition, or when necessity comes upon him?
 - brenton: Will God hear his prayer? or, when distress has come upon him,
 
 ### Job 27:10
@@ -119717,7 +119717,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But now I will declare to you what is in hand of the Lord; what things are with Almighty I will not lie about.
+- fresh: But now I will declare to you what is in the hand of the Lord; what things are with Almighty I will not lie about.
 - brenton: Yet now I will tell you what is in the hand of the Lord: I will not lie concerning the things which are with the Almighty.
 
 ### Job 27:12
@@ -120788,7 +120788,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For fear of the Lord constrained me, and because of his burden I will not endure.
+- fresh: For the fear of the Lord constrained me, and because of his burden I will not endure.
 - brenton: For the fear of the Lord constrained me, and I cannot bear up by reason of his burden.
 
 ### Job 31:24
@@ -120896,7 +120896,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: who would grant one hearing me? And if not, hand of the Lord I would have feared. And written indictment I had against someone.
+- fresh: who would grant one hearing me? And if not, the hand of the Lord I would have feared. And written indictment I had against someone.
 - brenton: (Oh that I had a hearer,) and if I had not feared the hand of the Lord; and as to the written charge which I had against any one,
 
 ### Job 31:36
@@ -123668,7 +123668,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did as Lord instructed them, and through Job he loosed their sin.
+- fresh: And Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did as the Lord instructed them, and through Job he loosed their sin.
 - brenton: So Eliphaz the Thæmanite, and Baldad the Sauchite, and Sophar the Minæan, went and did as the Lord commanded them: and he pardoned their sin for the sake of Job.
 
 ### Job 42:10
@@ -123740,7 +123740,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Job died old and full of days. And it is written that he will rise again with those whom Lord raises up. This man, interpreted from Syriac book, dwelt in land Uz on borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from country of Temanite; after him Hadad son of Bedad, who cut down Midian in plain of Moab, and name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
+- fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from Syriac book, dwelt in land Uz on borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from country of Temanite; after him Hadad son of Bedad, who cut down Midian in plain of Moab, and name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
 - brenton: And Job died, an old man and full of days:
 
 ## Psalms
@@ -123760,7 +123760,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: but his delight is in law of the Lord, and in his law he will meditate day and night.
+- fresh: but his delight is in the law of the Lord, and in his law he will meditate day and night.
 - brenton: But his pleasure is in the law of the Lord; and in his law will he meditate day and night.
 
 ### Psalms 1:3
@@ -123895,7 +123895,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Serve Lord in fear and rejoice in him with trembling.
+- fresh: Serve the Lord in fear and rejoice in him with trembling.
 - brenton: Serve the Lord with fear, and rejoice in him with trembling.
 
 ### Psalms 2:12
@@ -123904,7 +123904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take hold of instruction lest Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
+- fresh: Take hold of instruction lest the Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
 - brenton: Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him.
 
 ### Psalms 3:1
@@ -124039,7 +124039,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Offer a sacrifice of righteousness and hope upon Lord.
+- fresh: Offer a sacrifice of righteousness and hope upon the Lord.
 - brenton: Offer the sacrifice of righteousness, and trust in the Lord.
 
 ### Psalms 4:7
@@ -124129,7 +124129,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will destroy all speaking lie; man of bloods and deceit Lord abhors.
+- fresh: You will destroy all speaking lie; man of bloods and deceit the Lord abhors.
 - brenton: Thou wilt destroy all that speak falsehood: the Lord abhors the bloody and deceitful man.
 
 ### Psalms 5:8
@@ -124273,7 +124273,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord heard my petition; Lord received my prayer.
+- fresh: The Lord heard my petition; The Lord received my prayer.
 - brenton: The Lord has hearkened to my petition; the Lord has accepted my prayer.
 
 ### Psalms 6:11
@@ -124363,7 +124363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord judges peoples. Judge me, Lord, according to my righteousness and according to my innocence upon me.
+- fresh: The Lord judges peoples. Judge me, Lord, according to my righteousness and according to my innocence upon me.
 - brenton: The Lord shall judge the nations: judge me, O Lord, according to my righteousness, and according to my innocence that is in me.
 
 ### Psalms 7:10
@@ -124444,7 +124444,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will confess to the Lord according to his righteousness, and I will sing praise to name of the Lord Most High.
+- fresh: I will confess to the Lord according to his righteousness, and I will sing praise to the name of the Lord Most High.
 - brenton: I will give thanks to the Lord according to his righteousness; I will sing to the name of the Lord most high.
 
 ### Psalms 8:1
@@ -124930,7 +124930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
+- fresh: The Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
 - brenton: The Lord tries the righteous and the ungodly: and he that loves unrighteousness hates his own soul.
 
 ### Psalms 10:6
@@ -124984,7 +124984,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May Lord utterly destroy all deceitful lips and tongue speaking great things,
+- fresh: May the Lord utterly destroy all deceitful lips and tongue speaking great things,
 - brenton: Let the Lord destroy all the deceitful lips, and the tongue that speaks great words:
 
 ### Psalms 11:5
@@ -125083,7 +125083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I hoped in your mercy; my heart will rejoice in your salvation. I will sing to the Lord who did good to me, and sing praise to name of the Lord Most High.
+- fresh: But I hoped in your mercy; my heart will rejoice in your salvation. I will sing to the Lord who did good to me, and sing praise to the name of the Lord Most High.
 - brenton: But I have hoped in thy mercy; my heart shall exult in thy salvation. I will sing to the Lord who has dealt bountifully with me, and I will sing psalms to the name of the Lord most high.
 
 ### Psalms 13:1
@@ -125119,7 +125119,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will not all workers of lawlessness know, those eating my people as food of bread? They did not call upon Lord.
+- fresh: Will not all workers of lawlessness know, those eating my people as food of bread? They did not call upon the Lord.
 - brenton: Will not all the workers of iniquity know, who eat up my people as they would eat bread? they have not called upon the Lord.
 
 ### Psalms 13:5
@@ -125146,7 +125146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will give from Zion salvation of Israel? When Lord turns back captivity of his people, let Jacob rejoice and Israel be glad.
+- fresh: Who will give from Zion salvation of Israel? When the Lord turns back captivity of his people, let Jacob rejoice and Israel be glad.
 - brenton: Who will bring the salvation of Israel out of Sion? when the Lord brings back the captivity of his people, let Jacob exult, and Israel be glad.
 
 ### Psalms 14:1
@@ -125182,7 +125182,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Evildoer is despised before him, but those fearing Lord he glorifies; one swearing to his neighbor and not setting it aside,
+- fresh: Evildoer is despised before him, but those fearing the Lord he glorifies; one swearing to his neighbor and not setting it aside,
 - brenton: In his sight an evil-worker is set at nought, but he honours them that fear the Lord. He swears to his neighbour, and disappoints him not.
 
 ### Psalms 14:5
@@ -125263,7 +125263,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I foresaw Lord before me through all things, because he is at my right hand so that I may not be shaken.
+- fresh: I foresaw the Lord before me through all things, because he is at my right hand so that I may not be shaken.
 - brenton: I foresaw the Lord always before my face; for he is on my right hand, that I should not be moved.
 
 ### Psalms 15:9
@@ -125434,7 +125434,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For end. To servant of the Lord, David, what he spoke to the Lord, words of this song, in day when Lord rescued him from hand of all his enemies and from hand of Saul.
+- fresh: For end. To servant of the Lord, David, what he spoke to the Lord, words of this song, in day when the Lord rescued him from hand of all his enemies and from hand of Saul.
 - brenton: For the end, a Psalm of David the servant of the Lord; the words which he spoke to the Lord, even the words of this Song, in the day in which the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul: and he said:
 
 ### Psalms 17:2
@@ -125461,7 +125461,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Praising, I will call upon Lord, and from my enemies I will be saved.
+- fresh: Praising, I will call upon the Lord, and from my enemies I will be saved.
 - brenton: I will call upon the Lord with praises, and I shall be saved from mine enemies.
 
 ### Psalms 17:5
@@ -125488,7 +125488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in my affliction I called upon Lord, and to my God I cried out. He heard my voice from his holy temple, and my cry before him will enter into his ears.
+- fresh: And in my affliction I called upon the Lord, and to my God I cried out. He heard my voice from his holy temple, and my cry before him will enter into his ears.
 - brenton: And when I was afflicted I called upon the Lord, and cried to my God: he heard my voice out of his holy temple, and my cry shall enter before him, even into his ears.
 
 ### Psalms 17:8
@@ -126037,7 +126037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May Lord hear you in day of affliction; may name of God of Jacob defend you.
+- fresh: May the Lord hear you in day of affliction; may name of God of Jacob defend you.
 - brenton: The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee.
 
 ### Psalms 19:3
@@ -126073,7 +126073,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: We will rejoice in your salvation, and in name of our God we will be magnified. May Lord fulfill all your requests.
+- fresh: We will rejoice in your salvation, and in name of our God we will be magnified. May the Lord fulfill all your requests.
 - brenton: We will exult in thy salvation, and in the name of our God shall we be magnified: the Lord fulfil all thy petitions.
 
 ### Psalms 19:7
@@ -126091,7 +126091,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These in chariots and these in horses, but we in name of the Lord our God will be magnified.
+- fresh: These in chariots and these in horses, but we in the name of the Lord our God will be magnified.
 - brenton: Some glory in chariots, and some in horses: but we will glory in the name of the Lord our God.
 
 ### Psalms 19:9
@@ -126181,7 +126181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because king hopes upon Lord, and in mercy of Most High he will by no means be shaken.
+- fresh: Because king hopes upon the Lord, and in mercy of Most High he will by no means be shaken.
 - brenton: For the king trusts in the Lord, and through the mercy of the Highest he shall not be moved.
 
 ### Psalms 20:9
@@ -126316,7 +126316,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He hoped upon Lord; let him rescue him, let him save him, because he wants him.
+- fresh: He hoped upon the Lord; let him rescue him, let him save him, because he wants him.
 - brenton: He hoped in the Lord: let him deliver him, let him save him, because he takes pleasure in him.
 
 ### Psalms 21:10
@@ -126649,7 +126649,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is this king of glory? Lord strong and mighty, Lord mighty in war.
+- fresh: Who is this king of glory? The Lord, strong and mighty; the Lord, mighty in war.
 - brenton: Who is this king of glory? the Lord strong and mighty, the Lord mighty in battle.
 
 ### Psalms 23:9
@@ -126793,7 +126793,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is stronghold of those fearing him, and name of the Lord belongs to those fearing him, and his covenant to show it to them.
+- fresh: The Lord is stronghold of those fearing him, and the name of the Lord belongs to those fearing him, and his covenant to show it to them.
 - brenton: The Lord is the strength of them that fear him; and his covenant is to manifest truth to them.
 
 ### Psalms 24:15
@@ -126802,7 +126802,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My eyes are always toward Lord, because he will draw my feet out of snare.
+- fresh: My eyes are always toward the Lord, because he will draw my feet out of snare.
 - brenton: Mine eyes are continually to the Lord; for he shall draw my feet out of the snare.
 
 ### Psalms 24:16
@@ -126874,7 +126874,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Of David. Judge me, Lord, because I walked in my innocence, and hoping upon Lord I will by no means weaken.
+- fresh: Of David. Judge me, Lord, because I walked in my innocence, and hoping upon the Lord I will by no means weaken.
 - brenton: A Psalm of David.
 
 ### Psalms 25:2
@@ -127459,7 +127459,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You hated those keeping worthless vanities for nothing, but I hoped upon Lord.
+- fresh: You hated those keeping worthless vanities for nothing, but I hoped upon the Lord.
 - brenton: Thou hast hated them that idly persist in vanities: but I have hoped in the Lord.
 
 ### Psalms 30:8
@@ -127621,7 +127621,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Act like men and let your heart be strengthened, all hoping upon Lord.
+- fresh: Act like men and let your heart be strengthened, all hoping upon the Lord.
 - brenton: Be of good courage, and let your heart be strengthened, all ye that hope in the Lord.
 
 ### Psalms 31:1
@@ -127711,7 +127711,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Many scourges belong to sinner, but mercy will encircle one hoping upon Lord.
+- fresh: Many scourges belong to sinner, but mercy will encircle one hoping upon the Lord.
 - brenton: Many are the scourges of the sinner: but him that hopes in the Lord mercy shall compass about.
 
 ### Psalms 31:11
@@ -127756,7 +127756,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because word of the Lord straight, and all his works in faithfulness.
+- fresh: Because the word of the Lord straight, and all his works in faithfulness.
 - brenton: For the word of the Lord is right; and all his works are faithful.
 
 ### Psalms 32:5
@@ -127774,7 +127774,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By word of the Lord heavens were made firm, and by spirit of his mouth all their power.
+- fresh: By the word of the Lord heavens were made firm, and by spirit of his mouth all their power.
 - brenton: By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.
 
 ### Psalms 32:7
@@ -127810,7 +127810,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord scatters counsels of nations, sets aside reasonings of peoples, and sets aside counsels of rulers.
+- fresh: The Lord scatters counsels of nations, sets aside reasonings of peoples, and sets aside counsels of rulers.
 - brenton: The Lord frustrates the counsels of the nations; he brings to nought also the reasonings of the peoples, and brings to nought the counsels of princes.
 
 ### Psalms 32:11
@@ -127936,7 +127936,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will bless Lord in every season; continually his praise in my mouth.
+- fresh: I will bless the Lord in every season; continually his praise in my mouth.
 - brenton: I will bless the Lord at all times: his praise shall be continually in my mouth.
 
 ### Psalms 33:3
@@ -127954,7 +127954,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Magnify Lord with me, and let us lift up his name together.
+- fresh: Magnify the Lord with me, and let us lift up his name together.
 - brenton: Magnify ye the Lord with me, and let us exalt his name together.
 
 ### Psalms 33:5
@@ -127999,7 +127999,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Taste and see that Lord good; blessed man who hopes upon him.
+- fresh: Taste and see that the Lord is good; blessed is the man who hopes upon him.
 - brenton: Taste and see that the Lord is good: blessed is the man who hopes in him.
 
 ### Psalms 33:10
@@ -128008,7 +128008,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Fear Lord, his holy ones, because there is no lack to those fearing him.
+- fresh: Fear the Lord, his holy ones, because there is no lack to those fearing him.
 - brenton: Fear the Lord, all ye his saints: for there is no want to them that fear him.
 
 ### Psalms 33:11
@@ -128026,7 +128026,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come, children, hear me; fear of the Lord I will teach you.
+- fresh: Come, children, hear me; The fear of the Lord I will teach you.
 - brenton: Come, ye children, hear me: I will teach you the fear of the Lord.
 
 ### Psalms 33:13
@@ -128071,7 +128071,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But face of the Lord against those doing evils, to destroy their memorial from earth.
+- fresh: But the face of the Lord against those doing evils, to destroy their memorial from earth.
 - brenton: but the face of the Lord is against them that do evil, to destroy their memorial from the earth. The righteous cried, and the Lord hearkened to them,
 
 ### Psalms 33:18
@@ -128089,7 +128089,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord near to those crushed in heart, and he will save humble in spirit.
+- fresh: The Lord near to those crushed in heart, and he will save humble in spirit.
 - brenton: The Lord is near to them that are of a contrite heart; and will save the lowly in spirit.
 
 ### Psalms 33:20
@@ -128368,7 +128368,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let those wanting my righteousness rejoice and be glad, and let them always say, Let Lord be magnified, those wanting peace of his servant.
+- fresh: Let those wanting my righteousness rejoice and be glad, and let them always say, Let the Lord be magnified, those wanting peace of his servant.
 - brenton: Let them that rejoice in my righteousness exult and be glad: and let them say continually, The Lord be magnified, who desire the peace of his servant.
 
 ### Psalms 34:28
@@ -128521,7 +128521,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hope upon Lord and do kindness, and dwell in earth, and you will be shepherded upon its wealth.
+- fresh: Hope upon the Lord and do kindness, and dwell in earth, and you will be shepherded upon its wealth.
 - brenton: Hope in the Lord, and do good; and dwell on the land, and thou shalt be fed with the wealth of it.
 
 ### Psalms 36:4
@@ -128656,7 +128656,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord knows ways of blameless ones, and their inheritance will be into age.
+- fresh: The Lord knows ways of blameless ones, and their inheritance will be into age.
 - brenton: The Lord knows the ways of the perfect; and their inheritance shall be for ever.
 
 ### Psalms 36:19
@@ -128800,7 +128800,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Endure Lord and keep his way, and he will lift you up to inherit earth; when sinners are utterly destroyed you will see.
+- fresh: Wait for the Lord and keep his way, and he will lift you up to inherit earth; when sinners are utterly destroyed you will see.
 - brenton: Wait on the Lord, and keep his way, and he shall exalt thee to inherit the land: when the wicked are destroyed, thou shalt see it.
 
 ### Psalms 36:35
@@ -129223,7 +129223,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he threw into my mouth new song, hymn to our God. Many will see and fear and hope upon Lord.
+- fresh: And he threw into my mouth new song, hymn to our God. Many will see and fear and hope upon the Lord.
 - brenton: And he put a new song into my mouth, even a hymn to our God: many shall see it, and fear, and shall hope in the Lord.
 
 ### Psalms 39:5
@@ -129232,7 +129232,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man whose hope is name of the Lord, and did not look toward vanities and false frenzies.
+- fresh: Blessed man whose hope is the name of the Lord, and did not look toward vanities and false frenzies.
 - brenton: Blessed is the man whose hope is the name of the Lord, and who has not regarded vanities and false frenzies.
 
 ### Psalms 39:6
@@ -129340,7 +129340,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all seeking you rejoice and be glad upon you, Lord, and let those loving your salvation always say, Let Lord be magnified.
+- fresh: Let all seeking you rejoice and be glad upon you, Lord, and let those loving your salvation always say, Let the Lord be magnified.
 - brenton: Let all those that seek thee, O Lord, exult and rejoice in thee; and let them that love thy salvation say continually, The Lord be magnified.
 
 ### Psalms 39:18
@@ -129376,7 +129376,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord guard him and make him live and bless him in earth and not hand him over into hands of his enemy.
+- fresh: The Lord guard him and make him live and bless him in earth and not hand him over into hands of his enemy.
 - brenton: May the Lord preserve him and keep him alive, and bless him on the earth, and not deliver him into the hands of his enemy.
 
 ### Psalms 40:4
@@ -129385,7 +129385,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord help him upon bed of his pain; you turned all his bed in his sickness.
+- fresh: The Lord help him upon bed of his pain; you turned all his bed in his sickness.
 - brenton: May the Lord help him upon the bed of his pain; thou hast made all his bed in his sickness.
 
 ### Psalms 40:5
@@ -130249,7 +130249,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Great Lord and greatly praised in city of our God, his holy mountain,
+- fresh: Great is the Lord and greatly praised in city of our God, his holy mountain,
 - brenton: Great is the Lord, and greatly to be praised in the city of our God, in his holy mountain.
 
 ### Psalms 47:3
@@ -131113,7 +131113,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will give out of Zion salvation of Israel? When Lord turns back captivity of his people, Jacob will exult and Israel will rejoice.
+- fresh: Who will give out of Zion salvation of Israel? When the Lord turns back captivity of his people, Jacob will exult and Israel will rejoice.
 - brenton: Who will bring the salvation of Israel out of Sion? When the Lord turns the captivity of his people, Jacob shall exult, and Israel shall be glad.
 
 ### Psalms 53:1
@@ -131401,7 +131401,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Cast your care upon Lord, and he will sustain you; he will not give shaking to righteous one forever.
+- fresh: Cast your care upon the Lord, and he will sustain you; he will not give shaking to righteous one forever.
 - brenton: Cast thy care upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved.
 
 ### Psalms 54:24
@@ -131707,7 +131707,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: God shattered their teeth in their mouth; Lord crushed fangs of lions.
+- fresh: God shattered their teeth in their mouth; The Lord crushed fangs of lions.
 - brenton: God has crushed their teeth in their mouth: God has broken the cheek-teeth of the lions.
 
 ### Psalms 57:8
@@ -132733,7 +132733,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If I saw injustice in my heart, let not Lord hear me.
+- fresh: If I saw injustice in my heart, let not the Lord hear me.
 - brenton: If I have regarded iniquity in my heart, let not the Lord hearken to me.
 
 ### Psalms 65:19
@@ -132868,7 +132868,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to God, make melody to his name; make way for one riding upon westlands. Lord his name, and exult before him; they will be troubled from before his face,
+- fresh: Sing to God, make melody to his name; make way for one riding upon westlands. The Lord is his name, and exult before him; they will be troubled from before his face,
 - brenton: Sing to God, sing praises to his name: make a way for him that rides upon the west (the Lord is his name) and exult before him. They shall be troubled before the face of him,
 
 ### Psalms 67:6
@@ -134470,7 +134470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because cup in hand of the Lord, of unmixed wine full of mixture, and he tilted from this into that, but its dregs were not emptied; all sinners of earth will drink.
+- fresh: Because cup in the hand of the Lord, of unmixed wine full of mixture, and he tilted from this into that, but its dregs were not emptied; all sinners of earth will drink.
 - brenton: For there is a cup in the hand of the Lord, full of unmingled wine; and he has turned it from side to side, but its dregs have not been wholly poured out; all the sinners of the earth shall drink them.
 
 ### Psalms 74:10
@@ -134677,7 +134677,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will Lord reject forever and add no more to take pleasure still?
+- fresh: Will the Lord reject forever and add no more to take pleasure still?
 - brenton: Will the Lord cast off for ever? and will he be well pleased no more?
 
 ### Psalms 76:9
@@ -136549,7 +136549,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord loves gates of Zion above all tabernacles of Jacob.
+- fresh: The Lord loves gates of Zion above all tabernacles of Jacob.
 - brenton: The Lord loves the gates of Sion, more than all the tabernacles of Jacob.
 
 ### Psalms 86:3
@@ -137692,7 +137692,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For day before Sabbath, when earth was settled. Praise, song of David. Lord reigned; he clothed himself with beauty, Lord clothed himself with power and girded himself; for he also made firm inhabited world which will not be shaken.
+- fresh: For day before Sabbath, when earth was settled. Praise, song of David. The Lord reigned; he clothed himself with beauty, the Lord clothed himself with power and girded himself; for he also made firm inhabited world which will not be shaken.
 - brenton: For the day before the Sabbath, when the land was first inhabited, the praise of a Song by David.
 
 ### Psalms 92:2
@@ -137827,7 +137827,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord knows thoughts of men, that they are vain.
+- fresh: The Lord knows thoughts of men, that they are vain.
 - brenton: The Lord knows the thoughts of men, that they are vain.
 
 ### Psalms 93:12
@@ -137881,7 +137881,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If not that Lord helped me, my soul would almost have dwelt in Hades.
+- fresh: If not that the Lord helped me, my soul would almost have dwelt in Hades.
 - brenton: If the Lord had not helped me, my soul had almost sojourned in Hades.
 
 ### Psalms 93:18
@@ -138124,7 +138124,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say among nations, Lord reigned, for he also set inhabited world straight, which will not be shaken; he will judge peoples in uprightness.
+- fresh: Say among nations, the Lord reigned, for he also set inhabited world straight, which will not be shaken; he will judge peoples in uprightness.
 - brenton: Say among the heathen, The Lord reigns: for he has established the world so that it shall not be moved: he shall judge the people in righteousness.
 
 ### Psalms 95:11
@@ -138160,7 +138160,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Of David, when his land is established. Lord reigned; let earth exult; let many islands rejoice.
+- fresh: Of David, when his land is established. The Lord reigned; let earth exult; let many islands rejoice.
 - brenton: For David, when his land is established.
 
 ### Psalms 96:2
@@ -138196,7 +138196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Mountains melted like wax from face of the Lord, from face of the Lord of all earth.
+- fresh: Mountains melted like wax from the face of the Lord, from the face of the Lord of all earth.
 - brenton: The mountains melted like wax at the presence of the Lord, at the presence of the Lord of the whole earth.
 
 ### Psalms 96:6
@@ -138349,7 +138349,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of David. Lord reigned; let peoples be angry; one sitting upon cherubim, let earth be shaken.
+- fresh: Psalm of David. The Lord reigned; let peoples be angry; one sitting upon cherubim, let earth be shaken.
 - brenton: A Psalm of David.
 
 ### Psalms 98:2
@@ -138358,7 +138358,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord great in Zion and high over all peoples.
+- fresh: The Lord great in Zion and high over all peoples.
 - brenton: The Lord is great in Sion, and is high over all the people.
 
 ### Psalms 98:3
@@ -138439,7 +138439,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Serve Lord with gladness; enter before him with exultation.
+- fresh: Serve the Lord with gladness; enter before him with exultation.
 - brenton: Serve the Lord with gladness; come before his presence with exultation.
 
 ### Psalms 99:3
@@ -138682,7 +138682,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations will fear name of the Lord, and all kings of earth your glory.
+- fresh: And nations will fear the name of the Lord, and all kings of earth your glory.
 - brenton: So the nations shall fear thy name, O Lord, and all kings thy glory.
 
 ### Psalms 101:17
@@ -138718,7 +138718,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because he looked down from height of his holy place; Lord from heaven looked upon earth,
+- fresh: because he looked down from height of his holy place; The Lord from heaven looked upon earth,
 - brenton: For he has looked out from the height of his sanctuary; the Lord looked upon the earth from heaven;
 
 ### Psalms 101:21
@@ -138736,7 +138736,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to declare in Zion name of the Lord and his praise in Jerusalem,
+- fresh: to declare in Zion the name of the Lord and his praise in Jerusalem,
 - brenton: to proclaim the name of the Lord in Sion, and his praise in Jerusalem;
 
 ### Psalms 101:23
@@ -138853,7 +138853,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord doing mercies and judgment for all suffering injustice.
+- fresh: The Lord doing mercies and judgment for all suffering injustice.
 - brenton: The Lord executes mercy and judgment for all that are injured.
 
 ### Psalms 102:7
@@ -138916,7 +138916,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As father has compassion on sons, Lord had compassion on those fearing him.
+- fresh: As father has compassion on sons, the Lord had compassion on those fearing him.
 - brenton: As a father pities his children, the Lord pities them that fear him.
 
 ### Psalms 102:14
@@ -138970,7 +138970,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord prepared his throne in heaven, and his kingdom rules all.
+- fresh: The Lord prepared his throne in heaven, and his kingdom rules all.
 - brenton: The Lord has prepared his throne in the heaven; and his kingdom rules over all.
 
 ### Psalms 102:20
@@ -139339,7 +139339,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Praise in his holy name; let heart of those seeking Lord rejoice.
+- fresh: Praise in his holy name; let heart of those seeking the Lord rejoice.
 - brenton: Glory in his holy name: let the heart of them that seek the Lord rejoice.
 
 ### Psalms 104:4
@@ -139348,7 +139348,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Seek Lord and be strengthened; seek his face continually.
+- fresh: Seek the Lord and be strengthened; seek his face continually.
 - brenton: Seek ye the Lord, and be strengthened; seek his face continually.
 
 ### Psalms 104:5
@@ -140023,7 +140023,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not destroy nations which Lord told them,
+- fresh: They did not destroy nations which the Lord told them,
 - brenton: They destroyed not the nations which the Lord told them to destroy;
 
 ### Psalms 105:35
@@ -140167,7 +140167,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let those redeemed by Lord say so, whom he redeemed from hand of enemy
+- fresh: Let those redeemed by the Lord say so, whom he redeemed from hand of enemy
 - brenton: Let them say so who have been redeemed by the Lord, whom he has redeemed from the hand of the enemy;
 
 ### Psalms 106:3
@@ -140986,7 +140986,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord at your right hand crushed kings in day of his anger.
+- fresh: The Lord at your right hand crushed kings in day of his anger.
 - brenton: The Lord at thy right hand has dashed in pieces kings in the day of his wrath.
 
 ### Psalms 109:6
@@ -141094,7 +141094,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Beginning of wisdom fear of the Lord; good understanding to all doing it; his praise remains forever and ever.
+- fresh: Beginning of wisdom the fear of the Lord; good understanding to all doing it; his praise remains forever and ever.
 - brenton: The fear of the Lord is the beginning of wisdom, and all that act accordingly have a good understanding; his praise endures for ever and ever.
 
 ### Psalms 111:1
@@ -141157,7 +141157,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From evil report he will not fear; his heart ready to hope upon Lord.
+- fresh: From evil report he will not fear; his heart ready to hope upon the Lord.
 - brenton: He shall not be afraid of any evil report: his heart is ready to trust in the Lord.
 
 ### Psalms 111:8
@@ -141193,7 +141193,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Alleluia. Praise, servants, Lord; praise name of the Lord.
+- fresh: Alleluia. Praise, servants, Lord; praise the name of the Lord.
 - brenton: Alleluia.
 
 ### Psalms 112:2
@@ -141202,7 +141202,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let name of the Lord be blessed from now and until age.
+- fresh: Let the name of the Lord be blessed from now and until age.
 - brenton: Let the name of the Lord be blessed, from this present time and for ever.
 
 ### Psalms 112:3
@@ -141211,7 +141211,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From risings of sun until settings, praise name of the Lord.
+- fresh: From risings of sun until settings, praise the name of the Lord.
 - brenton: From the rising of the sun to his setting, the name of the Lord is to be praised.
 
 ### Psalms 112:4
@@ -141328,7 +141328,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From face of the Lord earth was shaken, from face of God of Jacob,
+- fresh: From the face of the Lord earth was shaken, from face of God of Jacob,
 - brenton: The earth trembled at the presence of the Lord, at the presence of the God of Jacob;
 
 ### Psalms 113:8
@@ -141436,7 +141436,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Those fearing Lord hoped on Lord; he their helper and defender.
+- fresh: Those fearing the Lord hoped on the Lord; he their helper and defender.
 - brenton: They that fear the Lord trust in the Lord: he is their helper and defender.
 
 ### Psalms 113:20
@@ -141445,7 +141445,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord remembered us and blessed us; he blessed house of Israel, he blessed house of Aaron.
+- fresh: The Lord remembered us and blessed us; he blessed house of Israel, he blessed house of Aaron.
 - brenton: The Lord has remembered us, and blessed us: he has blessed the house of Israel, he has blessed the house of Aaron.
 
 ### Psalms 113:21
@@ -141454,7 +141454,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He blessed those fearing Lord, small with great.
+- fresh: He blessed those fearing the Lord, small with great.
 - brenton: He has blessed them that fear the Lord, both small and great.
 
 ### Psalms 113:22
@@ -141463,7 +141463,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May Lord add upon you, upon you and upon your sons.
+- fresh: May the Lord add upon you, upon you and upon your sons.
 - brenton: The Lord add blessings to you and to your children.
 
 ### Psalms 113:23
@@ -141499,7 +141499,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But we living ones will bless Lord from now and until age.
+- fresh: But we living ones will bless the Lord from now and until age.
 - brenton: But we, the living, will bless the Lord, from henceforth and for ever.
 
 ### Psalms 114:1
@@ -141535,7 +141535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And name of the Lord I called upon: O Lord, rescue my soul.
+- fresh: And the name of the Lord I called upon: O Lord, rescue my soul.
 - brenton: Then I called on the name of the Lord: O Lord, deliver my soul.
 
 ### Psalms 114:5
@@ -141553,7 +141553,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord guarding little ones; I was humbled, and he saved me.
+- fresh: The Lord guards little ones; I was humbled, and he saved me.
 - brenton: The Lord preserves the simple: I was brought low, and he delivered me.
 
 ### Psalms 114:7
@@ -141616,7 +141616,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Cup of salvation I will take, and name of the Lord I will call upon.
+- fresh: Cup of salvation I will take, and the name of the Lord I will call upon.
 - brenton: I will take the cup of salvation, and call upon the name of the Lord.
 
 ### Psalms 115:6
@@ -141715,7 +141715,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all fearing Lord say now that he good, because his mercy forever.
+- fresh: Let all fearing the Lord say now that he good, because his mercy forever.
 - brenton: Let now all that fear the Lord say, that he is good: for his mercy endures for ever.
 
 ### Psalms 117:5
@@ -141733,7 +141733,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord helper to me; I will not fear what man will do to me.
+- fresh: The Lord is helper to me; I will not fear what man will do to me.
 - brenton: The Lord is my helper; and I will not fear what man shall do to me.
 
 ### Psalms 117:7
@@ -141742,7 +141742,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord helper to me, and I will look upon my enemies.
+- fresh: The Lord is helper to me, and I will look upon my enemies.
 - brenton: The Lord is my helper; and I shall see my desire upon mine enemies.
 
 ### Psalms 117:8
@@ -141751,7 +141751,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better to trust upon Lord than to trust upon man.
+- fresh: Better to trust upon the Lord than to trust upon man.
 - brenton: It is better to trust in the Lord than to trust in man.
 
 ### Psalms 117:9
@@ -141760,7 +141760,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better to hope upon Lord than to hope upon rulers.
+- fresh: Better to hope upon the Lord than to hope upon rulers.
 - brenton: It is better to hope in the Lord, than to hope in princes.
 
 ### Psalms 117:10
@@ -141769,7 +141769,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All nations surrounded me, and in name of the Lord I drove them off.
+- fresh: All nations surrounded me, and in the name of the Lord I drove them off.
 - brenton: All nations compassed me about: but in the name of the Lord I repulsed them.
 
 ### Psalms 117:11
@@ -141778,7 +141778,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Surrounding, they surrounded me, and in name of the Lord I drove them off.
+- fresh: Surrounding, they surrounded me, and in the name of the Lord I drove them off.
 - brenton: They completely compassed me about: but in the name of the Lord I repulsed them.
 
 ### Psalms 117:12
@@ -141787,7 +141787,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They surrounded me like bees round honeycomb and were burned like fire in thorns, and in name of the Lord I drove them off.
+- fresh: They surrounded me like bees round honeycomb and were burned like fire in thorns, and in the name of the Lord I drove them off.
 - brenton: They compassed me about as bees do a honeycomb, and they burst into flame as fire among thorns: but in the name of the Lord I repulsed them.
 
 ### Psalms 117:13
@@ -141805,7 +141805,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My strength and my hymn Lord, and he became to me for salvation.
+- fresh: The Lord is my strength and my hymn, and he became to me for salvation.
 - brenton: The Lord is my strength and my song, and is become my salvation.
 
 ### Psalms 117:15
@@ -141913,7 +141913,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed one coming in name of the Lord; we blessed you from house of the Lord.
+- fresh: Blessed one coming in the name of the Lord; we blessed you from house of the Lord.
 - brenton: Blessed is he that comes in the name of the Lord: we have blessed you out of the house of the Lord.
 
 ### Psalms 117:27
@@ -141949,7 +141949,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Alleluia. Aleph. Blessed blameless ones in way, those walking in law of the Lord.
+- fresh: Alleluia. Aleph. Blessed blameless ones in way, those walking in the law of the Lord.
 - brenton: Alleluia.
 
 ### Psalms 118:2
@@ -143695,7 +143695,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For there tribes went up, tribes of the Lord, testimony for Israel, to give thanks to name of the Lord.
+- fresh: For there tribes went up, tribes of the Lord, testimony for Israel, to give thanks to the name of the Lord.
 - brenton: For thither the tribes went up, the tribes of the Lord, as a testimony for Israel, to give thanks unto the name of the Lord.
 
 ### Psalms 121:5
@@ -143848,7 +143848,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our help in name of the Lord, maker of heaven and earth.
+- fresh: Our help in the name of the Lord, maker of heaven and earth.
 - brenton: Our help is in the name of the Lord, who made heaven and earth.
 
 ### Psalms 124:1
@@ -143956,7 +143956,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Song of ascents. Of Solomon. Unless Lord build house, in vain builders labored; unless Lord guard city, in vain guard kept awake.
+- fresh: Song of ascents. Of Solomon. Unless the Lord builds a house, in vain builders labored; unless the Lord guards a city, in vain guard kept awake.
 - brenton: A Song of Degrees.
 
 ### Psalms 126:2
@@ -144037,7 +144037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May Lord bless you from Zion, and may you see good things of Jerusalem all days of your life.
+- fresh: May the Lord bless you from Zion, and may you see good things of Jerusalem all days of your life.
 - brenton: May the Lord bless thee out of Sion; and mayest thou see the prosperity of Jerusalem all the days of thy life.
 
 ### Psalms 127:6
@@ -144082,7 +144082,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord righteous cut necks of sinners.
+- fresh: The righteous Lord cut necks of sinners.
 - brenton: The righteous Lord has cut asunder the necks of sinners.
 
 ### Psalms 128:5
@@ -144118,7 +144118,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And passersby did not say, "Blessing of the Lord upon you; we blessed you in name of the Lord."
+- fresh: And passersby did not say, "Blessing of the Lord upon you; we blessed you in the name of the Lord."
 - brenton: Neither do they that go by say, The blessing of the Lord be upon you: we have blessed you in the name of the Lord.
 
 ### Psalms 129:1
@@ -144181,7 +144181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because with Lord mercy, and much redemption with him.
+- fresh: Because with the Lord mercy, and much redemption with him.
 - brenton: Let Israel hope in the Lord: for with the Lord is mercy, and with him is plenteous redemption.
 
 ### Psalms 129:8
@@ -144415,7 +144415,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Song of ascents. Behold now, bless Lord, all servants of the Lord, standing in house of the Lord, in courts of house of our God.
+- fresh: Song of ascents. Behold now, bless the Lord, all servants of the Lord, standing in house of the Lord, in courts of house of our God.
 - brenton: A Song of Degrees.
 
 ### Psalms 133:2
@@ -144424,7 +144424,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In nights lift your hands to holy things and bless Lord.
+- fresh: In nights lift your hands to holy things and bless the Lord.
 - brenton: Lift up your hands by night in the sanctuaries, and bless the Lord.
 
 ### Psalms 133:3
@@ -144433,7 +144433,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord bless you from Zion, maker of heaven and earth.
+- fresh: The Lord will bless you from Zion, maker of heaven and earth.
 - brenton: May the Lord, who made heaven and earth, bless thee out of Sion.
 
 ### Psalms 134:1
@@ -144442,7 +144442,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Praise name of the Lord; praise the Lord, servants.
+- fresh: Hallelujah. Praise the name of the Lord; praise the Lord, servants.
 - brenton: Alleluia.
 
 ### Psalms 134:2
@@ -144460,7 +144460,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Praise the Lord, because the Lord good; sing psalms to his name, because good.
+- fresh: Praise the Lord, because the Lord is good; sing psalms to his name, because good.
 - brenton: Praise ye the Lord; for the Lord is good: sing praises to his name; for it is good.
 
 ### Psalms 134:4
@@ -144478,7 +144478,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I knew Lord great, and our Lord beyond all gods.
+- fresh: Because I knew that the Lord is great, and our Lord is beyond all gods.
 - brenton: For I know that the Lord is great, and our Lord is above all gods;
 
 ### Psalms 134:6
@@ -144487,7 +144487,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All that Lord wanted he did in heaven and on earth, in seas and in all deeps.
+- fresh: All that the Lord wanted he did in heaven and on earth, in seas and in all deeps.
 - brenton: all that the Lord willed, he did in heaven, and on the earth, in the sea, and in all deeps.
 
 ### Psalms 134:7
@@ -144604,7 +144604,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: House of Israel, bless Lord; house of Aaron, bless Lord.
+- fresh: House of Israel, bless the Lord; house of Aaron, bless the Lord.
 - brenton: O house of Israel, bless ye the Lord: O house of Aaron, bless ye the Lord:
 
 ### Psalms 134:20
@@ -144613,7 +144613,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: House of Levi, bless Lord; those fearing Lord, bless Lord.
+- fresh: House of Levi, bless the Lord; those fearing the Lord, bless the Lord.
 - brenton: O house of Levi, bless ye the Lord: ye that fear the Lord, bless the Lord.
 
 ### Psalms 134:21
@@ -144829,7 +144829,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in our humiliation Lord remembered us, because his mercy forever.
+- fresh: Because in our humiliation the Lord remembered us, because his mercy forever.
 - brenton: For the Lord remembered us in our low estate; for his mercy endures for ever:
 
 ### Psalms 135:24
@@ -145783,7 +145783,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Great Lord and greatly praiseworthy, and of his greatness no end.
+- fresh: Great is the Lord and greatly praiseworthy, and of his greatness no end.
 - brenton: The Lord is great, and greatly to be praised; and there is no end of his greatness.
 
 ### Psalms 144:4
@@ -145837,7 +145837,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord kind to all, and his compassions over all his works.
+- fresh: The Lord is kind to all, and his compassions over all his works.
 - brenton: The Lord is good to those that wait on him; and his compassions are over all his works.
 
 ### Psalms 144:10
@@ -145882,7 +145882,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord supports all falling and straightens all crushed down.
+- fresh: The Lord supports all falling and straightens all crushed down.
 - brenton: The Lord supports all that are falling, and sets up all that are broken down.
 
 ### Psalms 144:15
@@ -145908,8 +145908,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: Lord righteous in all his ways and holy in all his works.
+- same_normalized: yes
+- fresh: The Lord is righteous in all his ways and holy in all his works.
 - brenton: The Lord is righteous in all his ways, and holy in all his works.
 
 ### Psalms 144:18
@@ -145918,7 +145918,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord near to all calling upon him, to all calling upon him in truth.
+- fresh: The Lord near to all calling upon him, to all calling upon him in truth.
 - brenton: The Lord is near to all that call upon him, to all that call upon him in truth.
 
 ### Psalms 144:19
@@ -145990,7 +145990,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed whose helper God of Jacob, his hope upon Lord his God.
+- fresh: Blessed whose helper God of Jacob, his hope upon the Lord his God.
 - brenton: Blessed is he whose helper is the God of Jacob, whose hope is in the Lord his God:
 
 ### Psalms 145:6
@@ -146008,7 +146008,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Doing judgment for wronged ones, giving food to hungry; Lord frees chained ones.
+- fresh: Doing judgment for wronged ones, giving food to hungry; The Lord frees chained ones.
 - brenton: who executes judgment for the wronged: who gives food to the hungry. The Lord looses the fettered ones:
 
 ### Psalms 145:8
@@ -146017,7 +146017,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord straightens crushed ones; The Lord makes blind ones wise; Lord loves righteous.
+- fresh: The Lord straightens crushed ones; The Lord makes blind ones wise; The Lord loves righteous.
 - brenton: the Lord gives wisdom to the blind:
 
 ### Psalms 145:9
@@ -146053,7 +146053,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord building Jerusalem and gathering dispersions of Israel.
+- fresh: The Lord building Jerusalem and gathering dispersions of Israel.
 - brenton: The Lord builds up Jerusalem; and he will gather together the dispersed of Israel.
 
 ### Psalms 146:3
@@ -146089,7 +146089,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord lifting up meek ones and humbling sinners to ground.
+- fresh: The Lord lifting up meek ones and humbling sinners to ground.
 - brenton: The Lord lifts up the meek; but brings sinners down to the ground.
 
 ### Psalms 146:7
@@ -146260,7 +146260,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them praise name of the Lord, because he spoke and they came to be; he commanded and they were created.
+- fresh: Let them praise the name of the Lord, because he spoke and they came to be; he commanded and they were created.
 - brenton: Let them praise the name of the Lord: for he spoke, and they were made; he commanded, and they were created.
 
 ### Psalms 148:6
@@ -146332,7 +146332,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them praise name of the Lord, because his name alone was exalted; his praise upon earth and heaven.
+- fresh: Let them praise the name of the Lord, because his name alone was exalted; his praise upon earth and heaven.
 - brenton: let them praise the name of the Lord: for his name only is exalted; his praise is above the earth and heaven,
 
 ### Psalms 148:14
@@ -146739,7 +146739,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For they hated wisdom, and fear of the Lord they did not choose.
+- fresh: For they hated wisdom, and the fear of the Lord they did not choose.
 - brenton: For they hated wisdom, and did not choose the word of the Lord:
 
 ### Proverbs 1:30
@@ -146820,7 +146820,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then you will understand fear of the Lord and find knowledge of God.
+- fresh: then you will understand the fear of the Lord and find knowledge of God.
 - brenton: then shalt thou understand the fear of the Lord, and find the knowledge of God.
 
 ### Proverbs 2:6
@@ -147054,7 +147054,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Honor Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness.
+- fresh: Honor the Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness.
 - brenton: Honour the Lord with thy just labours, and give him the first of thy fruits of righteousness:
 
 ### Proverbs 3:10
@@ -147081,7 +147081,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For whom Lord loves he disciplines, and he scourges every son whom he receives.
+- fresh: For whom the Lord loves he disciplines, and he scourges every son whom he receives.
 - brenton: for whom the Lord loves, he rebukes, and scourges every son whom he receives.
 
 ### Proverbs 3:13
@@ -147279,7 +147279,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord opposes proud, but to humble he gives grace.
+- fresh: The Lord opposes proud, but to humble he gives grace.
 - brenton: The Lord resists the proud; but he gives grace to the humble.
 
 ### Proverbs 3:35
@@ -147873,7 +147873,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For he rejoices in all things Lord hates, and he is crushed because of uncleanness of soul.
+- fresh: For he rejoices in all things the Lord hates, and he is crushed because of uncleanness of soul.
 - brenton: For he rejoices in all things which God hates, and he is ruined by reason of impurity of soul.
 
 ### Proverbs 6:17
@@ -148485,7 +148485,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord created me beginning of his ways, for his works.
+- fresh: The Lord created me beginning of his ways, for his works.
 - brenton: The Lord made me the beginning of his ways for his works.
 
 ### Proverbs 8:23
@@ -148692,7 +148692,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beginning of wisdom fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- fresh: Beginning of wisdom the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ### Proverbs 9:11
@@ -150033,7 +150033,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In fear of the Lord hope of strength, and for his children he leaves support.
+- fresh: In the fear of the Lord hope of strength, and for his children he leaves support.
 - brenton: In the fear of the Lord is strong confidence: and he leaves his children a support.
 
 ### Proverbs 14:27
@@ -150258,7 +150258,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better little portion with fear of the Lord than great treasures with fearlessness.
+- fresh: Better little portion with the fear of the Lord than great treasures with fearlessness.
 - brenton: Better is a small portion with the fear of the Lord, than great treasures without the fear of the Lord.
 
 ### Proverbs 15:17
@@ -150357,7 +150357,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Gift-taker destroys himself, but one hating taking of gifts is saved. By acts of mercy and faithfulness sins are cleansed, and by fear of the Lord everyone turns from evil.
+- fresh: Gift-taker destroys himself, but one hating taking of gifts is saved. By acts of mercy and faithfulness sins are cleansed, and by the fear of the Lord everyone turns from evil.
 - brenton: A receiver of bribes destroys himself; but he that hates the receiving of bribes is safe.
 
 ### Proverbs 15:28
@@ -151905,7 +151905,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord loves holy hearts, and all blameless with lips are acceptable to him; king shepherds them.
+- fresh: The Lord loves holy hearts, and all blameless with lips are acceptable to him; king shepherds them.
 - brenton: The Lord loves holy hearts, and all blameless persons are acceptable with him: a king rules with his lips.
 
 ### Proverbs 22:12
@@ -152220,7 +152220,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let your heart not envy sinners, but be in fear of the Lord all day.
+- fresh: Let your heart not envy sinners, but be in the fear of the Lord all day.
 - brenton: Let not thine heart envy sinners: but be thou in the fear of the Lord all the day.
 
 ### Proverbs 23:18
@@ -154488,7 +154488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise fear of the Lord.
+- fresh: False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise the fear of the Lord.
 - brenton: Charms are false, and woman's beauty is vain: for it is a wise woman that is blessed, and let her praise the fear of the Lord.
 
 ### Proverbs 31:31
@@ -157644,7 +157644,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, rulers of Sodom; heed law of God, people of Gomorrah.
+- fresh: Hear the word of the Lord, rulers of Sodom; heed law of God, people of Gomorrah.
 - brenton: Hear the word of the Lord, ye rulers of Sodoma; attend to the law of God, thou people of Gomorrha.
 
 ### Isaiah 1:11
@@ -157860,7 +157860,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and word of the Lord from Jerusalem.
+- fresh: Many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will tell us his way, and we will walk in it: for out of Sion shall go forth the law, and the word of the Lord out of Jerusalem.
 
 ### Isaiah 2:4
@@ -157923,7 +157923,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now enter rocks and hide in earth from face of fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: And now enter rocks and hide in earth from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
 - brenton: Now therefore enter ye into the rocks, and hide yourselves in the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:11
@@ -157941,7 +157941,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For day of the Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
+- fresh: For the day of the Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 - brenton: For the day of the Lord of hosts shall be upon every one that is proud and haughty, and upon every one that is high and towering, and they shall be brought down;
 
 ### Isaiah 2:13
@@ -158004,7 +158004,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Carrying them into caves and fissures of rocks and hollows of earth from face of fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: Carrying them into caves and fissures of rocks and hollows of earth from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
 - brenton: having carried them into the caves, and into the clefts of the rocks, and into the caverns of the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:20
@@ -158022,7 +158022,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To enter hollows of solid rock and fissures of rocks from face of fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: To enter hollows of solid rock and fissures of rocks from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
 - brenton: to enter into the caverns of the solid rock, and into the clefts of the rocks, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 3:1
@@ -158526,7 +158526,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want law of the Lord of hosts but provoked oracle of Holy One of Israel.
+- fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked oracle of Holy One of Israel.
 - brenton: Therefore as stubble shall be burnt by a coal of fire, and shall be consumed by a violent flame, their root shall be as chaff, and their flower shall go up as dust: for they rejected the law of the Lord of hosts, and insulted the word of the Holy One of Israel.
 
 ### Isaiah 5:25
@@ -158589,7 +158589,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in year king Uzziah died, I saw Lord sitting on high and lifted throne, and house full of his glory.
+- fresh: And it happened in year king Uzziah died, I saw the Lord sitting on high and lifted throne, and house full of his glory.
 - brenton: And it came to pass in the year in which king Ozias died, that I saw the Lord sitting on a high and exalted throne, and the house was full of his glory.
 
 ### Isaiah 6:2
@@ -158985,7 +158985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because of this behold Lord brings up upon you water of river, strong and much, king of Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
+- fresh: because of this behold the Lord brings up upon you water of river, strong and much, king of Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
 - brenton: therefore, behold, the Lord brings up upon you the water of the river, strong and abundant, even the king of the Assyrians, and his glory: and he shall come up over every valley of yours, and shall walk over every wall of yours:
 
 ### Isaiah 8:8
@@ -159417,7 +159417,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, when Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon great mind of ruler of Assyrians and upon loftiness of glory of his eyes.
+- fresh: And it will be, when the Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon great mind of ruler of Assyrians and upon loftiness of glory of his eyes.
 - brenton: And it shall come to pass, when the Lord shall have finished doing all things on mount Sion and Jerusalem, that I will visit upon the proud heart, even upon the ruler of the Assyrians, and upon the boastful haughtiness of his eyes.
 
 ### Isaiah 10:13
@@ -159804,7 +159804,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing hymn to name of the Lord, because he did high things; announce these in all earth.
+- fresh: Sing hymn to the name of the Lord, because he did high things; announce these in all earth.
 - brenton: Sing praise to the name of the Lord; for he has done great things: declare this in all the earth.
 
 ### Isaiah 12:6
@@ -159867,7 +159867,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Howl, for day of the Lord is near, and crushing from God will come.
+- fresh: Howl, for the day of the Lord is near, and crushing from God will come.
 - brenton: Howl ye, for the day of the Lord is near, and destruction from God shall arrive.
 
 ### Isaiah 13:7
@@ -159894,7 +159894,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For look, day of the Lord comes, incurable, of fury and anger, to make whole inhabited world desolate and destroy sinners out of it.
+- fresh: For look, the day of the Lord comes, incurable, of fury and anger, to make whole inhabited world desolate and destroy sinners out of it.
 - brenton: For behold! the day of the Lord is coming which cannot be escaped, a day of wrath and anger, to make the world desolate, and to destroy sinners out of it.
 
 ### Isaiah 13:10
@@ -160299,7 +160299,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And what will kings of nations answer? That Lord founded Zion, and through him humble of people will be saved.
+- fresh: And what will kings of nations answer? That the Lord founded Zion, and through him humble of people will be saved.
 - brenton: And what shall the kings of the nations answer? That the Lord has founded Sion, and by him the poor of the people shall be saved.
 
 ### Isaiah 15:1
@@ -160695,7 +160695,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time gifts will be brought to the Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where name of the Lord of hosts was invoked, Mount Zion.
+- fresh: At that time gifts will be brought to the Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of river of its land, to place where the name of the Lord of hosts was invoked, Mount Zion.
 - brenton: In that time shall presents be brought to the Lord of hosts from a people afflicted and peeled, and from a people great from henceforth and for ever; a nation hoping and yet trodden down, which is in a part of a river of his land, to the place where is the name of the Lord of hosts, the mount Sion.
 
 ### Isaiah 19:1
@@ -160839,7 +160839,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Egyptians will be as women, in fear and trembling from face of hand of the Lord of hosts which he himself lays upon them.
+- fresh: In that day Egyptians will be as women, in fear and trembling from face of the hand of the Lord of hosts which he himself lays upon them.
 - brenton: But in that day the Egyptians shall be as women, in fear and in trembling because of the hand of the Lord of hosts, which he shall bring upon them.
 
 ### Isaiah 19:17
@@ -160857,7 +160857,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day there will be five cities in Egypt speaking language of Canaan and swearing by name of the Lord; one city will be called City of Righteousness.
+- fresh: In that day there will be five cities in Egypt speaking language of Canaan and swearing by the name of the Lord; one city will be called City of Righteousness.
 - brenton: In that day there shall be five cities in Egypt speaking the language of Chanaan, and swearing by the name of the Lord of hosts; one city shall be called the city of Asedec.
 
 ### Isaiah 19:19
@@ -161649,7 +161649,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this glory of the Lord will be in islands of sea; name of the Lord will be glorious, the Lord God of Israel.
+- fresh: Because of this glory of the Lord will be in islands of sea; The name of the Lord will be glorious, the Lord God of Israel.
 - brenton: Therefore shall the glory of the Lord be in the isles of the sea; the name of the Lord shall be glorious.
 
 ### Isaiah 24:16
@@ -161901,7 +161901,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For way of the Lord = judgment; we hoped in your name and in remembrance.
+- fresh: For the way of the Lord = judgment; we hoped in your name and in remembrance.
 - brenton: For the way of the Lord is judgment: we have hoped in thy name, and on the remembrance of thee,
 
 ### Isaiah 26:9
@@ -162153,7 +162153,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, strong and hard = wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
+- fresh: Behold, strong and hard = the wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
 - brenton: Behold, the anger of the Lord is strong and severe, as descending hail where there is no shelter, violently descending; as a great body of water sweeping away the soil, he shall make rest for the land.
 
 ### Isaiah 28:3
@@ -162261,7 +162261,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear word of the Lord, afflicted men and rulers of this people in Jerusalem,
+- fresh: Therefore hear the word of the Lord, afflicted men and rulers of this people in Jerusalem,
 - brenton: Therefore hear ye the word of the Lord, ye afflicted men, and ye princes of this people that is in Jerusalem.
 
 ### Isaiah 28:15
@@ -162531,7 +162531,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those making counsel deep, and not through Lord. Woe those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
+- fresh: Woe those making counsel deep, and not through the Lord. Woe those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
 - brenton: Woe to them that deepen their counsel, and not by the Lord. Woe to them that take secret counsel, and whose works are in darkness, and they say, Who has seen us? and who shall know us, or what we do?
 
 ### Isaiah 29:16
@@ -162567,7 +162567,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And poor will exult through Lord with gladness, and hopeless among men will be filled with gladness.
+- fresh: And poor will exult through the Lord with gladness, and hopeless among men will be filled with gladness.
 - brenton: and the poor shall rejoice with joy because of the Lord, and they that had no hope among men shall be filled with joy.
 
 ### Isaiah 29:20
@@ -162846,7 +162846,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And light of moon will be as light of sun, and light of sun will be sevenfold in day when Lord heals crushing of his people and will heal pain of your blow.
+- fresh: And light of moon will be as light of sun, and light of sun will be sevenfold in day when the Lord heals crushing of his people and will heal pain of your blow.
 - brenton: And the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold in the day when the Lord shall heal the breach of his people, and shall heal the pain of thy wound.
 
 ### Isaiah 30:27
@@ -162855,7 +162855,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, name of the Lord comes after much time, burning = wrath with glory. Oracle of his lips full of wrath, and anger of wrath as fire will eat.
+- fresh: Behold, the name of the Lord comes after much time, burning = wrath with glory. Oracle of his lips full of wrath, and anger of wrath as fire will eat.
 - brenton: Behold, the name of the Lord comes after a long time, burning wrath: the word of his lips is with glory, a word full of anger, and the anger of his wrath shall devour as fire.
 
 ### Isaiah 30:28
@@ -162909,7 +162909,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For beforehand you will be demanded, lest perhaps deep ravine was prepared also for you to reign, wood laid, fire and much wood; wrath of the Lord as ravine burning with sulfur.
+- fresh: For beforehand you will be demanded, lest perhaps deep ravine was prepared also for you to reign, wood laid, fire and much wood; The wrath of the Lord as ravine burning with sulfur.
 - brenton: For thou shalt be required before thy time: has it been prepared for thee also to reign? nay, God has prepared for thee a deep trench, wood piled, fire and much wood: the wrath of the Lord shall be as a trench kindled with sulphur.
 
 ### Isaiah 31:1
@@ -163224,7 +163224,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By law they will be handed over; in treasures = our salvation. There wisdom and knowledge and piety toward Lord; these are treasures of righteousness.
+- fresh: By law they will be handed over; in treasures = our salvation. There wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
 - brenton: They shall be delivered up to the law: our salvation is our treasure: there are wisdom and knowledge and piety toward the Lord; these are the treasures of righteousness.
 
 ### Isaiah 33:7
@@ -163359,7 +163359,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because name of the Lord great to you; place to you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will vessel go through.
+- fresh: Because the name of the Lord great to you; place to you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will vessel go through.
 - brenton: for the name of the Lord is great to you: ye shall have a place, even rivers and wide and spacious channels: thou shalt not go this way, neither a vessel with oars go thereby.
 
 ### Isaiah 33:22
@@ -163404,7 +163404,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because wrath of the Lord upon all nations and anger upon their number, to destroy them and hand them over into slaughter.
+- fresh: Because the wrath of the Lord upon all nations and anger upon their number, to destroy them and hand them over into slaughter.
 - brenton: For the wrath of the Lord is upon all nations, and his anger upon the number of them, to destroy them, and give them up to slaughter.
 
 ### Isaiah 34:3
@@ -163719,7 +163719,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now did we go up against this land without Lord to war against it?
+- fresh: And now did we go up against this land without the Lord to war against it?
 - brenton: And now, Have we come up against this land to fight against it without the Lord? The Lord said to me, Go up against this land, and destroy it.
 
 ### Isaiah 36:11
@@ -164205,7 +164205,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Isaiah, saying,
+- fresh: And the word of the Lord came to Isaiah, saying,
 - brenton: And the word of the Lord came to Esaias, saying, Go, and say to Ezekias,
 
 ### Isaiah 38:5
@@ -164412,7 +164412,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said to him, Hear word of the Lord of hosts.
+- fresh: And Isaiah said to him, Hear the word of the Lord of hosts.
 - brenton: And Esaias said to him, Hear the word of the Lord of hosts:
 
 ### Isaiah 39:6
@@ -164457,7 +164457,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Priests, speak to heart of Jerusalem; comfort her, because her humiliation is filled, her sin is loosed, because she received from hand of the Lord double her sins.
+- fresh: Priests, speak to heart of Jerusalem; comfort her, because her humiliation is filled, her sin is loosed, because she received from the hand of the Lord double her sins.
 - brenton: Speak, ye priests, to the heart of Jerusalem; comfort her, for her humiliation is accomplished, her sin is put away: for she has received of the Lord's hand double the amount of her sins.
 
 ### Isaiah 40:3
@@ -164466,7 +164466,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Voice of one crying in wilderness, Prepare way of the Lord, make straight paths of our God.
+- fresh: Voice of one crying in wilderness, Prepare the way of the Lord, make straight paths of our God.
 - brenton: The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God.
 
 ### Isaiah 40:4
@@ -165861,7 +165861,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Israel is saved by Lord with everlasting salvation; they will not be ashamed nor disgraced forever.
+- fresh: Israel is saved by the Lord with everlasting salvation; they will not be ashamed nor disgraced forever.
 - brenton: Israel is saved by the Lord with an everlasting salvation: they shall not be ashamed nor confounded for evermore.
 
 ### Isaiah 45:18
@@ -166194,7 +166194,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, house of Jacob, those called by name of Israel and come out of Judah, swearing by name of the Lord God of Israel, remembering not with truth nor with righteousness.
+- fresh: Hear these things, house of Jacob, those called by name of Israel and come out of Judah, swearing by the name of the Lord God of Israel, remembering not with truth nor with righteousness.
 - brenton: Hear these words, ye house of Jacob, who are called by the name of Israel, and have come forth out of Juda, who swear by the name of the Lord God of Israel, making mention of it, but not with truth, nor with righteousness;
 
 ### Isaiah 48:2
@@ -166365,7 +166365,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to end of earth. Say, Lord rescued his servant Jacob.
+- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to end of earth. Say, the Lord rescued his servant Jacob.
 - brenton: Go forth of Babylon, thou that fleest from the Chaldeans: utter aloud a voice of joy, and let this be made known, proclaim it to the end of the earth; say ye, The Lord hath delivered his servant Jacob.
 
 ### Isaiah 48:21
@@ -166392,7 +166392,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, islands, and pay attention, nations, after long time. Lord says, From my mother's womb he called my name.
+- fresh: Hear me, islands, and pay attention, nations, after long time. The Lord says, From my mother's womb he called my name.
 - brenton: Hearken to me, ye islands; and attend, ye Gentiles; after a long time it shall come to pass, saith the Lord: from my mother's womb he has called my name:
 
 ### Isaiah 49:2
@@ -166509,7 +166509,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But Zion said, Lord abandoned me, and the Lord forgot me.
+- fresh: But Zion said, The Lord abandoned me, and the Lord forgot me.
 - brenton: But Sion said, The Lord has forsaken me, and, The Lord has forgotten me.
 
 ### Isaiah 49:15
@@ -166707,7 +166707,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who among you fears Lord? Let him hear voice of his servant. Those going in darkness have no light; trust in name of the Lord and lean on God.
+- fresh: Who among you fears Lord? Let him hear voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
 - brenton: Who is among you that fears the Lord? let him hearken to the voice of his servant: ye that walk in darkness, and have no light, trust in the name of the Lord, and stay upon God.
 
 ### Isaiah 50:11
@@ -166725,7 +166725,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, you pursuing righteousness and seeking Lord. Look to solid rock which you cut and to pit of well which you dug.
+- fresh: Hear me, you pursuing righteousness and seeking the Lord. Look to solid rock which you cut and to pit of well which you dug.
 - brenton: Hearken to me, ye that follow after righteousness, and seek the Lord: look to the solid rock, which ye have hewn, and to the hole of the pit which ye have dug.
 
 ### Isaiah 51:2
@@ -166869,7 +166869,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Awake, awake. Rise, Jerusalem, you who drank cup of wrath from hand of the Lord, because cup of falling, bowl of wrath, you drank and drained it.
+- fresh: Awake, awake. Rise, Jerusalem, you who drank cup of wrath from the hand of the Lord, because cup of falling, bowl of wrath, you drank and drained it.
 - brenton: Awake, awake, stand up, O Jerusalem, that hast drunk at the hand of the Lord the cup of his fury: for thou hast drunk out and drained the cup of calamity, the cup of wrath:
 
 ### Isaiah 51:18
@@ -166896,7 +166896,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your sons in distress, sleeping at edge of every street, like half-cooked beet, full of wrath of the Lord, weakened by the Lord God.
+- fresh: Your sons in distress, sleeping at edge of every street, like half-cooked beet, full of the wrath of the Lord, weakened by the Lord God.
 - brenton: Thy sons are the perplexed ones, that sleep at the top of every street as a half-boiled beet; they that are full of the anger of the Lord, caused to faint by the Lord God.
 
 ### Isaiah 51:21
@@ -166995,7 +166995,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because voice of your watchmen was lifted up, and with voice together they will rejoice, because eye to eye they will see when Lord shows mercy to Zion.
+- fresh: Because voice of your watchmen was lifted up, and with voice together they will rejoice, because eye to eye they will see when the Lord shows mercy to Zion.
 - brenton: For the voice of them that guard thee is exalted, and with the voice together they shall rejoice: for eyes shall look to eyes, when the Lord shall have mercy upon Sion.
 
 ### Isaiah 52:9
@@ -167490,7 +167490,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to foreigners joined to the Lord to serve him and love name of the Lord, so as to be his male and female servants, and all keeping my Sabbaths not profaning them and holding fast my covenant,
+- fresh: And to foreigners joined to the Lord to serve him and love the name of the Lord, so as to be his male and female servants, and all keeping my Sabbaths not profaning them and holding fast my covenant,
 - brenton: And I will give it to the strangers that attach themselves to the Lord, to serve him, and to love the name of the Lord, to be to him servants and handmaids; and as for all that keep my sabbaths from profaning them, and that take hold of my covenant;
 
 ### Isaiah 56:7
@@ -167859,7 +167859,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Surely hand of the Lord not too weak to save, nor his ear made heavy so as not to hear.
+- fresh: Surely the hand of the Lord not too weak to save, nor his ear made heavy so as not to hear.
 - brenton: Has the hand of the Lord no power to save? or has he made his ear heavy, so that he should not hear?
 
 ### Isaiah 59:2
@@ -168021,7 +168021,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those from west will fear name of the Lord, and those from sunrise his glorious name. For wrath from the Lord will come like violent river, coming with fury.
+- fresh: And those from west will fear the name of the Lord, and those from sunrise his glorious name. For wrath from the Lord will come like violent river, coming with fury.
 - brenton: So shall they of the west fear the name of the Lord, and they that come from the rising of the sun his glorious name: for the wrath of the Lord shall come as a mighty river, it shall come with fury.
 
 ### Isaiah 59:20
@@ -168363,7 +168363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will be crown of beauty in hand of the Lord and diadem of kingdom in hand of your God.
+- fresh: You will be crown of beauty in the hand of the Lord and diadem of kingdom in hand of your God.
 - brenton: And thou shalt be a crown of beauty in the hand of the Lord, and a royal diadem in the hand of thy God.
 
 ### Isaiah 62:4
@@ -168507,7 +168507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I remembered mercy of the Lord, virtues of the Lord in all things Lord repays us—Lord good judge to house of Israel. He brings upon us according to his mercy and according to abundance of his righteousness.
+- fresh: I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to house of Israel. He brings upon us according to his mercy and according to abundance of his righteousness.
 - brenton: I remembered the mercy of the Lord, the praises of the Lord in all things wherein he recompenses us. The Lord is a good judge to the house of Israel; he deals with us according to his mercy, and according to the abundance of his righteousness.
 
 ### Isaiah 63:8
@@ -168624,7 +168624,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As wax melts from fire, and fire will burn opponents, and name of the Lord will be evident among opponents; from your face nations will be shaken.
+- fresh: As wax melts from fire, and fire will burn opponents, and the name of the Lord will be evident among opponents; from your face nations will be shaken.
 - brenton: as wax melts before the fire; and fire shall burn up the enemies, and thy name shall be manifest among the adversaries: at thy presence the nations shall be troubled,
 
 ### Isaiah 64:2
@@ -168786,7 +168786,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: As juice is found in cluster and they say, Do not destroy it, because blessing of the Lord is in it, so I will do for sake of one serving me. For his sake I will not destroy them all.
+- fresh: Thus says the Lord: As juice is found in cluster and they say, Do not destroy it, because the blessing of the Lord is in it, so I will do for sake of one serving me. For his sake I will not destroy them all.
 - brenton: Thus saith the Lord, As a grape-stone shall be found in the cluster, and they shall say, Destroy it not; for a blessing is in it: so will I do for the sake of him that serves me, for his sake I will not destroy them all.
 
 ### Isaiah 65:9
@@ -168984,7 +168984,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, you trembling at his word: Your brothers hating you and abhorring you said, Let name of the Lord be glorified so we may see your gladness; but they will be shamed.
+- fresh: Hear the word of the Lord, you trembling at his word: Your brothers hating you and abhorring you said, Let the name of the Lord be glorified so we may see your gladness; but they will be shamed.
 - brenton: Hear the words of the Lord, ye that tremble at his word; speak ye, our brethren, to them that hate you and abominate you, that the name of the Lord may be glorified, and may appear their joy; but they shall be ashamed.
 
 ### Isaiah 66:6
@@ -169065,7 +169065,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will see and your heart will rejoice and your bones spring up like grass, and hand of the Lord will be known to those revering him and he will threaten disobedient ones.
+- fresh: And you will see and your heart will rejoice and your bones spring up like grass, and the hand of the Lord will be known to those revering him and he will threaten disobedient ones.
 - brenton: And ye shall see, and your heart shall rejoice, and your bones shall thrive like grass: and the hand of the Lord shall be known to them that fear him, and he shall threaten the disobedient.
 
 ### Isaiah 66:15
@@ -169193,7 +169193,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to him, saying,
 
 ### Jeremiah 1:5
@@ -169256,7 +169256,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying, What do you see, Jeremiah? And I said, Staff of almond tree.
+- fresh: And the word of the Lord came to me, saying, What do you see, Jeremiah? And I said, Staff of almond tree.
 - brenton: And the word of the Lord came to me, saying, What seest thou? And I said, A rod of an almond tree.
 
 ### Jeremiah 1:12
@@ -169274,7 +169274,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from face of north.
+- fresh: And the word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from face of north.
 - brenton: And the word of the Lord came to me a second time, saying, What seest thou? And I said, A caldron on the fire; and the face of it is toward the north.
 
 ### Jeremiah 1:14
@@ -169355,7 +169355,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, house of Jacob and every family of house of Israel.
+- fresh: Hear the word of the Lord, house of Jacob and every family of house of Israel.
 - brenton: Hear the word of the Lord, O house of Jacob, and every family of the house of Israel.
 
 ### Jeremiah 2:5
@@ -169598,7 +169598,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord. Thus says the Lord: Did I become wilderness to Israel or land laid waste? Why did my people say, We will not be ruled and will not come to you anymore?
+- fresh: Hear the word of the Lord. Thus says the Lord: Did I become wilderness to Israel or land laid waste? Why did my people say, We will not be ruled and will not come to you anymore?
 - brenton: Hear ye the word of the Lord: thus saith the Lord, Have I been a wilderness or a dry land to Israel? wherefore has my people said, We will not be ruled over, and will not come to thee any more?
 
 ### Jeremiah 2:32
@@ -170111,7 +170111,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From face of the Lord and from face of anger of his wrath they vanished.
+- fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from face of anger of his wrath they vanished.
 - brenton: I saw, and, behold, Carmel was desert, and all the cities were burnt with fire at the presence of the Lord, and at the presence of his fierce anger they were utterly destroyed.
 
 ### Jeremiah 4:27
@@ -170192,7 +170192,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Perhaps they are poor, because they were not able, because they did not know way of the Lord and judgment of God.
+- fresh: And I said, Perhaps they are poor, because they were not able, because they did not know the way of the Lord and judgment of God.
 - brenton: Then I said, It may be they are poor; for they are weak, for they know not the way of the Lord, or the judgment of God.
 
 ### Jeremiah 5:5
@@ -170201,7 +170201,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will go to great men and speak with them, because they knew way of the Lord and judgment of God. And behold, together they broke yoke and tore bonds.
+- fresh: I will go to great men and speak with them, because they knew the way of the Lord and judgment of God. And behold, together they broke yoke and tore bonds.
 - brenton: I will go to the rich men, and will speak to them; for they have known the way of the Lord, and the judgment of God: but, behold, with one consent they have broken the yoke, they have burst the bonds.
 
 ### Jeremiah 5:6
@@ -170273,7 +170273,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our prophets were wind, and word of the Lord was not in them. So it will be to them.
+- fresh: Our prophets were wind, and the word of the Lord was not in them. So it will be to them.
 - brenton: Our prophets became wind, and the word of the Lord was not in them.
 
 ### Jeremiah 5:14
@@ -170525,7 +170525,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, word of the Lord became reproach to them. They will not want to hear it.
+- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, the word of the Lord became reproach to them. They will not want to hear it.
 - brenton: To whom shall I speak, and testify, that he may hearken? behold, thine ears are uncircumcised, and they shall not be able to hear: behold, the word of the Lord is become to them a reproach, they will not at all desire it.
 
 ### Jeremiah 6:11
@@ -170714,7 +170714,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, all Judah.
+- fresh: Hear the word of the Lord, all Judah.
 - brenton: Hear ye the word of the Lord, all Judea.
 
 ### Jeremiah 7:3
@@ -171074,7 +171074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How will you say, We are wise, and law of the Lord is with us? In vain false reed of scribes came to be.
+- fresh: How will you say, We are wise, and the law of the Lord is with us? In vain false reed of scribes came to be.
 - brenton: How will ye say, We are wise, and the law of the Lord is with us? In vain have the scribes used a false pen.
 
 ### Jeremiah 8:9
@@ -171083,7 +171083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wise men were ashamed and terrified and caught, because they rejected word of the Lord. What wisdom is in them?
+- fresh: Wise men were ashamed and terrified and caught, because they rejected the word of the Lord. What wisdom is in them?
 - brenton: The wise men are ashamed, and alarmed, and taken; because they have rejected the word of the Lord; what wisdom is there in them?
 
 ### Jeremiah 8:10
@@ -171155,7 +171155,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, voice of cry of daughter of my people from far land: Is Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
+- fresh: Behold, voice of cry of daughter of my people from far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
 - brenton: Behold, there is a sound of the cry of the daughter of my people from a land afar off: Is not the Lord in Sion? is there not a king there? because they have provoked me with their graven images, and with strange vanities.
 
 ### Jeremiah 8:20
@@ -171425,7 +171425,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord which he spoke upon you, house of Israel.
+- fresh: Hear the word of the Lord which he spoke upon you, house of Israel.
 - brenton: Hear ye the word of the Lord, which he has spoken to you, O house of Israel.
 
 ### Jeremiah 10:2
@@ -171524,7 +171524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not like these is portion of Jacob, because one shaping all things is his inheritance. Lord his name.
+- fresh: Not like these is portion of Jacob, because one shaping all things is his inheritance. The Lord is his name.
 - brenton: Such is not the portion of Jacob; for he that formed all things, he is his inheritance; the Lord is his name.
 
 ### Jeremiah 10:17
@@ -171569,7 +171569,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because shepherds acted foolishly and did not seek Lord. Therefore all pasture did not understand, and they were scattered.
+- fresh: Because shepherds acted foolishly and did not seek the Lord. Therefore all pasture did not understand, and they were scattered.
 - brenton: For the shepherds have become foolish, and have not sought the Lord; therefore the whole pasture has failed, and the sheep have been scattered.
 
 ### Jeremiah 10:22
@@ -171785,7 +171785,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord against men of Anathoth seeking my life, saying, You shall not prophesy in name of the Lord, and if not, you will die in our hands.
+- fresh: Therefore thus says the Lord against men of Anathoth seeking my life, saying, You shall not prophesy in the name of the Lord, and if not, you will die in our hands.
 - brenton: Therefore thus saith the Lord concerning the men of Anathoth, that seek my life, that say, Thou shalt not prophesy at all in the name of the Lord, but if thou dost, thou shalt die by our hands:
 
 ### Jeremiah 11:22
@@ -171974,7 +171974,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I bought belt according to word of the Lord and put it around my waist.
+- fresh: And I bought belt according to the word of the Lord and put it around my waist.
 - brenton: So I procured the girdle according to the word of the Lord, and put it about my loins.
 
 ### Jeremiah 13:3
@@ -171982,8 +171982,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Jeremiah 13:4
@@ -172028,7 +172028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying, Thus saith the Lord,
 
 ### Jeremiah 13:9
@@ -172208,7 +172208,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah concerning drought.
+- fresh: And the word of the Lord came to Jeremiah concerning drought.
 - brenton: And the Word of the Lord came to Jeremias concerning the Drought.
 
 ### Jeremiah 14:2
@@ -172676,7 +172676,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be when you announce to this people all these words and they say to you, Why did Lord speak on us all these evils? What our injustice and what our sin which we sinned against the Lord our God?
+- fresh: And it will be when you announce to this people all these words and they say to you, Why did the Lord speak on us all these evils? What our injustice and what our sin which we sinned against the Lord our God?
 - brenton: And it shall come to pass, when thou shalt report to this people all these words, and they shall say to thee, Wherefore has the Lord pronounced against us all these evils? what is our unrighteousness? and what is our sin which we have sinned before the Lord our God?
 
 ### Jeremiah 16:11
@@ -172873,8 +172873,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: Behold, they say to me, Where is word of the Lord? Let it come.
+- same_normalized: yes
+- fresh: Behold, they say to me, Where is the word of the Lord? Let it come.
 - brenton: Behold, they say to me, Where is the word of the Lord? let it come.
 
 ### Jeremiah 17:16
@@ -172919,7 +172919,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to them, Hear word of the Lord, kings of Judah and all Judah and all Jerusalem, entering in these gates.
+- fresh: and say to them, Hear the word of the Lord, kings of Judah and all Judah and all Jerusalem, entering in these gates.
 - brenton: and thou shalt say to them, Hear the word of the Lord, ye kings of Juda, and all Judea, and all Jerusalem, all who go in at these gates:
 
 ### Jeremiah 17:21
@@ -173026,8 +173026,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Jeremiah 18:6
@@ -173216,7 +173216,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to them, Hear word of the Lord, kings of Judah and men of Judah and inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring on this place evils so that ears of everyone hearing them will ring.
+- fresh: and say to them, Hear the word of the Lord, kings of Judah and men of Judah and inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring on this place evils so that ears of everyone hearing them will ring.
 - brenton: and thou shalt say to them,
 
 ### Jeremiah 19:4
@@ -173396,7 +173396,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because with bitter word I will laugh. Lawlessness and misery I will call out, because word of the Lord became to me for reproach and for mockery all my days.
+- fresh: Because with bitter word I will laugh. Lawlessness and misery I will call out, because the word of the Lord became to me for reproach and for mockery all my days.
 - brenton: For I will laugh with my bitter speech, I will call upon rebellion and misery: for the word of the Lord is become a reproach to me and a mockery all my days.
 
 ### Jeremiah 20:9
@@ -173468,7 +173468,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let that man be like cities which Lord overthrew in anger and did not relent. Let him hear cry in morning and battle-shout at midday,
+- fresh: Let that man be like cities which the Lord overthrew in anger and did not relent. Let him hear cry in morning and battle-shout at midday,
 - brenton: Let that man rejoice as the cities which the Lord overthrew in wrath, and repented not: let him hear crying in the morning, and loud lamentation at noon;
 
 ### Jeremiah 20:17
@@ -173504,7 +173504,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ask Lord concerning us, because king of Babylon has risen against us, if the Lord will act according to all his wonders and go away from us.
+- fresh: Ask the Lord concerning us, because king of Babylon has risen against us, if the Lord will act according to all his wonders and go away from us.
 - brenton: Enquire of the Lord for us; for the king of Babylon has risen up against us; if the Lord will do according to all his wonderful works, and the king shall depart from us.
 
 ### Jeremiah 21:3
@@ -173585,7 +173585,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: House of king of Judah, hear word of the Lord.
+- fresh: House of king of Judah, hear the word of the Lord.
 - brenton: O house of the king of Juda, hear ye the word of the Lord.
 
 ### Jeremiah 21:12
@@ -173630,7 +173630,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Hear word of the Lord, king of Judah seated on throne of David, you and your house and your people and those entering by these gates.
+- fresh: and say, Hear the word of the Lord, king of Judah seated on throne of David, you and your house and your people and those entering by these gates.
 - brenton: and thou shalt say,
 
 ### Jeremiah 22:3
@@ -173684,7 +173684,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations will pass through this city, and each will say to his neighbor, Why did Lord do thus to this great city?
+- fresh: And nations will pass through this city, and each will say to his neighbor, Why did the Lord do thus to this great city?
 - brenton: And nations shall pass through this city, and each shall say to his neighbour, Why has the Lord done thus to this great city?
 
 ### Jeremiah 22:9
@@ -173872,8 +173872,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: Land, land, hear word of the Lord.
+- same_normalized: yes
+- fresh: Land, land, hear the word of the Lord.
 - brenton: Land, land, hear the word of the Lord.
 
 ### Jeremiah 22:30
@@ -173963,7 +173963,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In prophets my heart was crushed within me. All my bones were shaken. I became like broken man and like man overcome by wine, before face of the Lord and before face of glory of his splendor.
+- fresh: In prophets my heart was crushed within me. All my bones were shaken. I became like broken man and like man overcome by wine, before the face of the Lord and before face of glory of his splendor.
 - brenton: My heart is broken within me; all my bones are shaken: I am become as a broken-down man, and as a man overcome with wine, because of the Lord, and because of the excellence of his glory.
 
 ### Jeremiah 23:10
@@ -174035,7 +174035,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They say to ones rejecting word of the Lord, Peace will be to you, and to all walking after their own desires, to everyone walking in wandering of his heart, they said, Evils will not come on you.
+- fresh: They say to ones rejecting the word of the Lord, Peace will be to you, and to all walking after their own desires, to everyone walking in wandering of his heart, they said, Evils will not come on you.
 - brenton: They say to them that reject the word of the Lord, There shall be peace to you; and to all that walk after their own lusts, and to every one that walks in the error of his heart, they have said, No evil shall come upon thee.
 
 ### Jeremiah 23:18
@@ -174197,7 +174197,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus each will say to his neighbor and each to his brother, What did Lord answer, and what did Lord speak?
+- fresh: Because thus each will say to his neighbor and each to his brother, What did the Lord answer, and what did the Lord speak?
 - brenton: Thus shall ye say every one to his neighbour, and every one to his brother, What has the Lord answered? and, what has the Lord said?
 
 ### Jeremiah 23:36
@@ -174251,7 +174251,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord showed me two baskets of figs set before face of temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and rulers and craftsmen and prisoners and rich men from Jerusalem and brought them into Babylon.
+- fresh: The Lord showed me two baskets of figs set before face of temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and rulers and craftsmen and prisoners and rich men from Jerusalem and brought them into Babylon.
 - brenton: The Lord shewed me two baskets of figs, lying in front of the temple of the Lord, after Nabuchodonosor king of Babylon had carried captive Jechonias son of Joakim king of Juda, and the princes, and the artificers, and the prisoners, and the rich men out of Jerusalem, and had brought them to Babylon.
 
 ### Jeremiah 24:2
@@ -174277,8 +174277,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Jeremiah 24:5
@@ -175223,7 +175223,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Babylon, golden cup in hand of the Lord, making all earth drunk. Nations drank from her wine. Because of this they were shaken.
+- fresh: Babylon, golden cup in the hand of the Lord, making all earth drunk. Nations drank from her wine. Because of this they were shaken.
 - brenton: Babylon has been a golden cup in the Lord's hand, causing all the earth to be drunken: the nations have drunk of her wine; therefore they were shaken.
 
 ### Jeremiah 28:8
@@ -175259,7 +175259,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Prepare arrows. Fill quivers. Lord stirred spirit of king of Medes, because his wrath is against Babylon, to destroy her, because vengeance of the Lord it is, vengeance of his people it is.
+- fresh: Prepare arrows. Fill quivers. The Lord stirred spirit of king of Medes, because his wrath is against Babylon, to destroy her, because vengeance of the Lord it is, vengeance of his people it is.
 - brenton: Prepare the arrows; fill the quivers: the Lord has stirred up the spirit of the king of the Medes: for his wrath is against Babylon, to destroy it utterly; for it is the Lord's vengeance, it is the vengeance of his people.
 
 ### Jeremiah 28:12
@@ -175331,7 +175331,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not such is portion for Jacob, because one forming all things, he is his inheritance. Lord his name.
+- fresh: Not such is portion for Jacob, because one forming all things, he is his inheritance. The Lord is his name.
 - brenton: Not such is Jacob's portion; for he that formed all things, he is his inheritance; the Lord is his name.
 
 ### Jeremiah 28:20
@@ -175628,7 +175628,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because affliction came upon Babylon. Her warriors were taken. Their bow was terrified, because God repays them. Lord repays her repayment.
+- fresh: Because affliction came upon Babylon. Her warriors were taken. Their bow was terrified, because God repays them. The Lord repays her repayment.
 - brenton: For distress has come upon Babylon, her warriors are taken, their bows are useless: for God recompenses them.
 
 ### Jeremiah 28:57
@@ -176483,7 +176483,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I took cup from hand of the Lord and made nations drink, to whom the Lord sent me against them:
+- fresh: And I took cup from the hand of the Lord and made nations drink, to whom the Lord sent me against them:
 - brenton: So I took the cup out of the Lord's hand, and caused the nations to whom the Lord sent me to drink:
 
 ### Jeremiah 32:18
@@ -176600,7 +176600,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will prophesy against them these words and say: Lord from on high will answer, and from his holy place will give his voice. Word he will answer against his place, and shouting like grape-treaders they will answer against those dwelling on earth.
+- fresh: And you will prophesy against them these words and say: The Lord from on high will answer, and from his holy place will give his voice. Word he will answer against his place, and shouting like grape-treaders they will answer against those dwelling on earth.
 - brenton: And thou shalt prophesy against them these words, and shalt say, The Lord shall speak from on high, from his sanctuary he will utter his voice; he will pronounce a declaration on his place; and these shall answer like men gathering grapes: and destruction is coming on them that dwell on the earth,
 
 ### Jeremiah 32:31
@@ -176627,7 +176627,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And slain by Lord in day of the Lord will be from one end of earth even to other end of earth. They will never be buried. They will be like dung upon face of earth.
+- fresh: And slain by Lord in the day of the Lord will be from one end of earth even to other end of earth. They will never be buried. They will be like dung upon face of earth.
 - brenton: And the slain of the Lord shall be in the day of the Lord from one end of the earth even to the other end of the earth: they shall not be buried; they shall be as dung on the face of the earth.
 
 ### Jeremiah 32:34
@@ -176744,7 +176744,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when Jeremiah ceased speaking all that Lord ordered him to speak to all people, priests and false prophets and all people seized him, saying, Death you will die.
+- fresh: And it happened when Jeremiah ceased speaking all that the Lord ordered him to speak to all people, priests and false prophets and all people seized him, saying, Death you will die.
 - brenton: And it came to pass, when Jeremias had ceased speaking all that the Lord had ordered him to speak to all the people, that the priests and the false prophets and all the people took him, saying,
 
 ### Jeremiah 33:9
@@ -176753,7 +176753,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you prophesied in name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate from dwellers. And all people were gathered against Jeremiah in house of the Lord.
+- fresh: Because you prophesied in the name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate from dwellers. And all people were gathered against Jeremiah in house of the Lord.
 - brenton: Thou shalt surely die, because thou hast prophesied in the name of the Lord, saying, This house shall be as Selo, and this city shall be made quite destitute of inhabitants.
 
 ### Jeremiah 33:10
@@ -176816,7 +176816,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in name of the Lord our God he spoke to us.
+- fresh: And rulers and all people said to priests and to false prophets, There is no judgment of death for this man, because in the name of the Lord our God he spoke to us.
 - brenton: Then the princes and all the people said to the priests and to the false prophets; Judgment of death is not due to this man; for he has spoken to us in the name of the Lord our God.
 
 ### Jeremiah 33:17
@@ -176843,7 +176843,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Did Hezekiah and all Judah kill him by killing? Was it not because they feared Lord and sought face of the Lord, and the Lord stopped from evils which he spoke against them? And we have done great evils against our souls.
+- fresh: Did Hezekiah and all Judah kill him by killing? Was it not because they feared Lord and sought the face of the Lord, and the Lord stopped from evils which he spoke against them? And we have done great evils against our souls.
 - brenton: Did Ezekias and all Juda in any way slay him? Was it not that they feared the Lord, and they made supplication before the Lord, and the Lord ceased from the evils which he had pronounced against them? whereas we have wrought great evil against our own souls.
 
 ### Jeremiah 33:20
@@ -176852,7 +176852,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there was man prophesying in name of the Lord, Uriah son of Shemaiah from Kirjathjearim, and he prophesied concerning this land according to all words of Jeremiah.
+- fresh: And there was man prophesying in the name of the Lord, Uriah son of Shemaiah from Kirjathjearim, and he prophesied concerning this land according to all words of Jeremiah.
 - brenton: And there was another man prophesying in the name of the Lord, Urias the son of Samæas of Cariathiarim; and he prophesied concerning this land according to all the words of Jeremias.
 
 ### Jeremiah 33:21
@@ -177014,7 +177014,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If they are prophets and if word of the Lord is in them, let them answer me.
+- fresh: If they are prophets and if the word of the Lord is in them, let them answer me.
 - brenton: If they are prophets, and if the word of the Lord is in them, let them meet me, for thus has the Lord said.
 
 ### Jeremiah 34:19
@@ -177095,7 +177095,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Jeremiah said, Truly, may Lord do so. May Lord establish your word which you prophesy, to return vessels of house of the Lord and all exile from Babylon into this place.
+- fresh: and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return vessels of house of the Lord and all exile from Babylon into this place.
 - brenton: and Jeremias said, May the Lord indeed do thus; may he confirm thy word which thou dost prophesy, to return the vessels of the house of the Lord, and all the captivity, out of Babylon to this place.
 
 ### Jeremiah 35:7
@@ -177104,7 +177104,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Only hear word of the Lord which I speak into your ears and into ears of all people.
+- fresh: Only hear the word of the Lord which I speak into your ears and into ears of all people.
 - brenton: Nevertheless hear ye the word of the Lord which I speak in your ears, and in the ears of all the people.
 
 ### Jeremiah 35:8
@@ -177149,7 +177149,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah after Hananiah broke yokes from his neck, saying,
+- fresh: And the word of the Lord came to Jeremiah after Hananiah broke yokes from his neck, saying,
 - brenton: And the word of the Lord came to Jeremias, after that Ananias had broken the yokes off his neck, saying,
 
 ### Jeremiah 35:13
@@ -177329,7 +177329,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you said, Lord appointed prophets for us in Babylon.
+- fresh: Because you said, the Lord appointed prophets for us in Babylon.
 - brenton: whereas ye said, The Lord has appointed for us prophets in Babylon:
 
 ### Jeremiah 36:21
@@ -177419,7 +177419,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah, saying,
 - brenton: Then the word of the Lord came to Jeremias, saying,
 
 ### Jeremiah 36:31
@@ -177608,7 +177608,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because wrath of the Lord went out furious. Wrath twisting itself will come upon ungodly.
+- fresh: Because the wrath of the Lord went out furious. Wrath twisting itself will come upon ungodly.
 - brenton: For the wrathful anger of the Lord has gone forth, even a whirlwind of anger has gone forth: it shall come upon the ungodly.
 
 ### Jeremiah 37:24
@@ -177707,7 +177707,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, nations, and announce to islands far away. Say, One winnowing Israel will gather him and guard him like shepherd his flock.
+- fresh: Hear the word of the Lord, nations, and announce to islands far away. Say, One winnowing Israel will gather him and guard him like shepherd his flock.
 - brenton: Hear the words of the Lord, ye nations, and proclaim them to the islands afar off; say, He that scattered Israel will also gather him, and keep him as one that feeds his flock.
 
 ### Jeremiah 38:11
@@ -178031,7 +178031,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah, saying,
 - brenton: And the Word of the Lord came to Jeremias, saying,
 
 ### Jeremiah 39:7
@@ -178049,7 +178049,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hanameel son of Shallum my father’s brother came to me into court of prison and said to me, Buy my field in land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is word of the Lord.
+- fresh: And Hanameel son of Shallum my father’s brother came to me into court of prison and said to me, Buy my field in land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
 - brenton: So Anameel the son of Salom my father's brother came to me into the court of the prison, and said, Buy thee my field that is in the land of Benjamin, in Anathoth: for thou hast a right to buy it, and thou art the elder. So I knew that it was the word of the Lord.
 
 ### Jeremiah 39:9
@@ -178210,8 +178210,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Jeremiah 39:27
@@ -178382,7 +178382,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah second time, and he was still bound in court of prison, saying,
+- fresh: And the word of the Lord came to Jeremiah second time, and he was still bound in court of prison, saying,
 - brenton: And the word of the Lord came to Jeremias the second time, when he was yet bound in the court of the prison, saying,
 
 ### Jeremiah 40:2
@@ -178391,7 +178391,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord, making earth and forming it to set it upright, Lord his name,
+- fresh: Thus said the Lord, making earth and forming it to set it upright, The Lord is his name,
 - brenton: Thus saith the Lord, who made the earth and formed it, to establish it; the Lord is his name;
 
 ### Jeremiah 40:3
@@ -178643,7 +178643,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But hear word of the Lord, Zedekiah king of Judah. Thus says the Lord:
+- fresh: But hear the word of the Lord, Zedekiah king of Judah. Thus says the Lord:
 - brenton: But hear the word of the Lord, O Sedekias king of Juda; Thus saith the Lord,
 
 ### Jeremiah 41:5
@@ -178715,7 +178715,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah, saying,
 - brenton: And the word of the Lord came to Jeremias, saying,
 
 ### Jeremiah 41:13
@@ -178912,8 +178912,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Jeremiah 42:13
@@ -178985,7 +178985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in fourth year of Jehoiakim son of Josiah king of Judah, word of the Lord came to me, saying,
+- fresh: And in fourth year of Jehoiakim son of Josiah king of Judah, the word of the Lord came to me, saying,
 - brenton: In the fourth Year of Joakim son of Josias king of Juda, the word of the Lord came to me, saying,
 
 ### Jeremiah 43:2
@@ -179039,7 +179039,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Perhaps their mercy will fall before face of the Lord and they will turn back from their evil way, because great is anger and wrath of the Lord which he spoke against this people.
+- fresh: Perhaps their mercy will fall before the face of the Lord and they will turn back from their evil way, because great is anger and the wrath of the Lord which he spoke against this people.
 - brenton: Peradventure their supplication will come before the Lord, and they will turn from their evil way: for great is the wrath and the anger of the Lord, which he has pronounced against this people.
 
 ### Jeremiah 43:8
@@ -179219,7 +179219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from mouth of Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from mouth of Jeremiah, saying,
 - brenton: Then the word of the Lord came to Jeremias, after the king had burnt the roll, even all the words which Baruch wrote from the mouth of Jeremias, saying,
 
 ### Jeremiah 43:28
@@ -179318,7 +179318,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah, saying,
 - brenton: And the word of the Lord came to Jeremias, saying,
 
 ### Jeremiah 44:7
@@ -179633,7 +179633,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said, They will certainly not hand you over. Hear word of the Lord which I speak to you, and it will be better for you and your soul will live.
+- fresh: And Jeremiah said, They will certainly not hand you over. Hear the word of the Lord which I speak to you, and it will be better for you and your soul will live.
 - brenton: And Jeremias said, They shall in no wise deliver thee up. Hear the word of the Lord which I speak to thee; and it shall be better for thee, and thy soul shall live.
 
 ### Jeremiah 45:21
@@ -179642,7 +179642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you do not want to go out, this is word which Lord showed me:
+- fresh: And if you do not want to go out, this is word which the Lord showed me:
 - brenton: But if thou wilt not go forth, this is the word which the Lord has shewn me.
 
 ### Jeremiah 45:22
@@ -179696,7 +179696,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all rulers came to Jeremiah and questioned him, and he announced to them according to all these words which king commanded him, and they were silent, because word of the Lord was not heard.
+- fresh: And all rulers came to Jeremiah and questioned him, and he announced to them according to all these words which king commanded him, and they were silent, because the word of the Lord was not heard.
 - brenton: And all the princes came to Jeremias, and asked him: and he told them according to all these words, which the king had commanded him. And they were silent, because the word of the Lord was not heard.
 
 ### Jeremiah 45:28
@@ -179750,7 +179750,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Jeremiah word of the Lord came in court of prison, saying,
+- fresh: And to Jeremiah the word of the Lord came in court of prison, saying,
 - brenton: And the word of the Lord came to Jeremias in the court of the prison, saying,
 
 ### Jeremiah 46:16
@@ -180119,7 +180119,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to them, I heard. Behold, I will pray to the Lord our God according to your words, and word which Lord answers I will announce to you. I will not hide word from you.
+- fresh: And Jeremiah said to them, I heard. Behold, I will pray to the Lord our God according to your words, and word which the Lord answers I will announce to you. I will not hide word from you.
 - brenton: And Jeremias said to them, I have heard you; behold, I will pray for you to the Lord our God, according to your words; and it shall come to pass, that whatsoever word the Lord God shall answer, I will declare it to you; I will not hide anything from you.
 
 ### Jeremiah 49:5
@@ -180128,7 +180128,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they said to Jeremiah, Let Lord be in us as righteous and faithful witness if according to all word which Lord sends you to us we do not do so.
+- fresh: And they said to Jeremiah, Let the Lord be in us as righteous and faithful witness if according to all word which the Lord sends you to us we do not do so.
 - brenton: And they said to Jeremias, Let the Lord be between us for a just and faithful witness, if we do not according to every word which the Lord shall send to us.
 
 ### Jeremiah 49:6
@@ -180146,7 +180146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened after ten days, word of the Lord came to Jeremiah.
+- fresh: And it happened after ten days, the word of the Lord came to Jeremiah.
 - brenton: And it came to pass after ten days, that the word of the Lord came to Jeremias.
 
 ### Jeremiah 49:8
@@ -180218,7 +180218,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore hear word of the Lord. Thus said the Lord: If you set your face toward Egypt and enter there to dwell,
+- fresh: therefore hear the word of the Lord. Thus said the Lord: If you set your face toward Egypt and enter there to dwell,
 - brenton: then hear the word of the Lord; thus saith the Lord;
 
 ### Jeremiah 49:16
@@ -180263,7 +180263,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because you did evil in your souls, sending me, saying, Pray concerning us to the Lord, and according to all Lord says to you we will do.
+- fresh: because you did evil in your souls, sending me, saying, Pray concerning us to the Lord, and according to all the Lord says to you we will do.
 - brenton: that ye have wrought wickedness in your hearts, when ye sent me, saying, Pray thou for us to the Lord; and according to all that the Lord shall speak to thee we will do.
 
 ### Jeremiah 49:21
@@ -180353,7 +180353,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Jeremiah in Tahpanhes, saying,
+- fresh: And the word of the Lord came to Jeremiah in Tahpanhes, saying,
 - brenton: And the word of the Lord came to Jeremias in Taphnas, saying,
 
 ### Jeremiah 50:9
@@ -180542,7 +180542,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word which you spoke to us in name of the Lord, we will not hear from you.
+- fresh: Word which you spoke to us in the name of the Lord, we will not hear from you.
 - brenton: As for the word which thou hast spoken to us in the name of the Lord, we will not hearken to thee.
 
 ### Jeremiah 51:17
@@ -180587,7 +180587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of land, that Lord remembered and it rose upon his heart?
+- fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of land, that the Lord remembered and it rose upon his heart?
 - brenton: Did not the Lord remember the incense which ye burned in the cities of Juda, and in the streets of Jerusalem, ye, and your fathers, and your kings, and your princes, and the people of the land? and came it not into his heart?
 
 ### Jeremiah 51:22
@@ -180614,7 +180614,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to people and to women, Hear word of the Lord.
+- fresh: And Jeremiah said to people and to women, Hear the word of the Lord.
 - brenton: And Jeremias said to the people, and to the women, Hear ye the word of the Lord.
 
 ### Jeremiah 51:25
@@ -180632,7 +180632,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear word of the Lord, all Judah dwelling in land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in mouth of any Judah to say, As the Lord lives, Lord, in all land of Egypt.
+- fresh: Therefore hear the word of the Lord, all Judah dwelling in land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in mouth of any Judah to say, As the Lord lives, Lord, in all land of Egypt.
 - brenton: Therefore hear ye the word of the Lord, all Jews dwelling in the land of Egypt; Behold, I have sworn by my great name, saith the Lord, my name shall no longer be in the mouth of every Jew to say, The Lord lives, in all the land of Egypt.
 
 ### Jeremiah 51:27
@@ -181111,7 +181111,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. Lord trod winepress for virgin daughter Judah. Over these things I weep.
+- fresh: The Lord took away all my mighty ones from midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
 - brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ### Lamentations 1:16
@@ -181183,7 +181183,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in day of his anger.
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in day of his anger.
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
 ### Lamentations 2:2
@@ -181192,7 +181192,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord sank all beauties of Jacob, not sparing. He pulled down in wrath strongholds of daughter Judah. He stuck them to ground. He profaned her king and her rulers.
+- fresh: The Lord sank all beauties of Jacob, not sparing. He pulled down in wrath strongholds of daughter Judah. He stuck them to ground. He profaned her king and her rulers.
 - brenton: Beth. In the day of his wrath the Lord has overwhelmed her as in the sea, and not spared: he has brought down in his fury all the beautiful things of Jacob; he has brought down to the ground the strong-holds of the daughter of Juda: he has profaned her king and her princes.
 
 ### Lamentations 2:3
@@ -181228,7 +181228,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He scattered his tent like a vine. He destroyed his feast. Lord forgot in Zion feast and sabbath and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath in Zion and provoked in crash of his anger king and priest and ruler.
 - brenton: Vau. And he has scattered his tabernacle as a vine, he has marred his feast: the Lord has forgotten the feast and the sabbath which he appointed in Sion, and in the fury of his wrath has vexed the king, and priest, and prince.
 
 ### Lamentations 2:7
@@ -181237,7 +181237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord cast off his altar, shook off his sanctuary, broke into hand of enemy wall of her palaces. They gave voice in house of the Lord as on feast day.
+- fresh: The Lord cast off his altar, shook off his sanctuary, broke into hand of enemy wall of her palaces. They gave voice in house of the Lord as on feast day.
 - brenton: Zain. The Lord has rejected his altar, he has cast off his sanctuary, he has broken by the hand of the enemy the wall of her palaces; they have uttered their voice in the house of the Lord as on a feast day.
 
 ### Lamentations 2:8
@@ -181345,7 +181345,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at head of all exits.
+- fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at head of all exits.
 - brenton: Koph. Arise, rejoice in the night at the beginning of thy watch: pour out thy heart as water before the face of the Lord: lift up thy hands to him for the life of thine infants, who faint for hunger at the top of all the streets.
 
 ### Lamentations 2:20
@@ -181570,7 +181570,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord good to those waiting for him, soul that seeks him, good.
+- fresh: The Lord is good to those waiting for him, soul that seeks him, good.
 - brenton: Teth. The Lord is good to them that wait for him: the soul which shall seek him
 
 ### Lamentations 3:26
@@ -181786,7 +181786,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: until Lord looks down and sees from heaven.
+- fresh: until the Lord looks down and sees from heaven.
 - brenton: until the Lord look down, and behold from heaven.
 
 ### Lamentations 3:51
@@ -182029,7 +182029,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord completed his wrath, poured out anger of his wrath, and kindled fire in Zion, and it devoured her foundations.
+- fresh: The Lord completed his wrath, poured out anger of his wrath, and kindled fire in Zion, and it devoured her foundations.
 - brenton: Chaph. The Lord has accomplished his wrath; he has poured out his fierce anger, and has kindled a fire in Sion, and it has devoured her foundations.
 
 ### Lamentations 4:12
@@ -182355,7 +182355,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and hand of the Lord came upon me.
+- fresh: and the word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
 - brenton: And the word of the Lord came to Jezekiel the priest, the son of Buzi, in the land of the Chaldeans, by the river of Chobar; and the hand of the Lord was upon me.
 
 ### Ezekiel 1:4
@@ -182787,7 +182787,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And spirit lifted me and took me up, and I went in rush of my spirit, and hand of the Lord became strong upon me.
+- fresh: And spirit lifted me and took me up, and I went in rush of my spirit, and the hand of the Lord became strong upon me.
 - brenton: And the Spirit lifted me, and took me up, and I went in the impulse of my spirit; and the hand of the Lord was mighty upon me.
 
 ### Ezekiel 3:15
@@ -182805,7 +182805,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened after seven days, word of the Lord came to me, saying,
+- fresh: And it happened after seven days, the word of the Lord came to me, saying,
 - brenton: And after the seven days the word of the Lord came to me, saying, Son of man,
 
 ### Ezekiel 3:17
@@ -182859,7 +182859,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And hand of the Lord came upon me there and said to me, Rise and go out into plain and there it will be spoken to you.
+- fresh: And the hand of the Lord came upon me there and said to me, Rise and go out into plain and there it will be spoken to you.
 - brenton: And the hand of the Lord came upon me; and he said to me, Arise, and go forth into the plain, and there shalt thou be spoken to.
 
 ### Ezekiel 3:23
@@ -183218,8 +183218,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 6:2
@@ -183237,7 +183237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Mountains of Israel, hear word of the Lord. Thus says the Lord to mountains and hills and ravines and valleys: Behold, I bring sword upon you, and your high places will be destroyed.
+- fresh: and say, Mountains of Israel, hear the word of the Lord. Thus says the Lord to mountains and hills and ravines and valleys: Behold, I bring sword upon you, and your high places will be destroyed.
 - brenton: and thou shalt say,
 
 ### Ezekiel 6:4
@@ -183345,7 +183345,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying, Also, thou, son of man, say,
 
 ### Ezekiel 7:2
@@ -183426,7 +183426,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, end has come. Behold, day of the Lord. See, rod has blossomed; insolence has sprung up.
+- fresh: Behold, end has come. Behold, the day of the Lord. See, rod has blossomed; insolence has sprung up.
 - brenton: Behold, the day of the Lord! although the rod has blossomed,
 
 ### Ezekiel 7:11
@@ -183588,7 +183588,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in sixth year, in fifth month, on fifth of month, I sat in house and elders of Judah sat before me, and hand of the Lord came upon me.
+- fresh: And it happened in sixth year, in fifth month, on fifth of month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
 - brenton: And it came to pass in the sixth year, in the fifth month, on the fifth day of the month, I was sitting in the house, and the elders of Juda were sitting before me: and the hand of the Lord came upon me.
 
 ### Ezekiel 8:2
@@ -184154,8 +184154,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 11:15
@@ -184262,8 +184262,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 12:2
@@ -184326,7 +184326,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me in morning, saying,
+- fresh: And the word of the Lord came to me in morning, saying,
 - brenton: And the word of the Lord came to me in the morning, saying,
 
 ### Ezekiel 12:9
@@ -184406,8 +184406,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 12:18
@@ -184442,8 +184442,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 12:22
@@ -184488,7 +184488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
 
 ### Ezekiel 12:27
@@ -184514,8 +184514,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 13:2
@@ -184524,7 +184524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, prophesy against prophets of Israel, and you will prophesy and say to them, Hear word of the Lord.
+- fresh: Son of man, prophesy against prophets of Israel, and you will prophesy and say to them, Hear the word of the Lord.
 - brenton: Son of man, prophesy against the prophets of Israel, and thou shalt prophesy, and shalt say to them, Hear ye the word of the Lord:
 
 ### Ezekiel 13:3
@@ -184551,7 +184551,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You did not stand in firm place and did not gather flocks over house of Israel; they did not rise, those speaking, in day of the Lord.
+- fresh: You did not stand in firm place and did not gather flocks over house of Israel; they did not rise, those speaking, in the day of the Lord.
 - brenton: They have not continued steadfast, and they have gathered flocks against the house of Israel, they that say,
 
 ### Ezekiel 13:6
@@ -184560,7 +184560,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Seeing falsehood and divining vanity, those saying, Lord says, though the Lord did not send them, and they began to uphold a word.
+- fresh: Seeing falsehood and divining vanity, those saying, the Lord says, though the Lord did not send them, and they began to uphold a word.
 - brenton: In the day of the Lord, have not stood, seeing false visions, prophesying vanities, who say, The Lord saith, and the Lord has not sent them, and they began to try to confirm the word.
 
 ### Ezekiel 13:7
@@ -184730,8 +184730,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 14:3
@@ -184820,8 +184820,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 14:13
@@ -184928,8 +184928,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 15:2
@@ -185001,7 +185001,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
 
 ### Ezekiel 16:2
@@ -185307,7 +185307,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore, whore, hear word of the Lord.
+- fresh: Therefore, whore, hear the word of the Lord.
 - brenton: Therefore, harlot, hear the word of the Lord:
 
 ### Ezekiel 16:36
@@ -185567,8 +185567,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 17:2
@@ -185658,7 +185658,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
 
 ### Ezekiel 17:12
@@ -185783,8 +185783,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 18:2
@@ -186206,8 +186206,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 20:3
@@ -186593,8 +186593,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 21:2
@@ -186612,7 +186612,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And say to forest of Negeb, Hear word of the Lord. Thus says the Lord God: Behold, I kindle fire in you, and it will devour in you every green tree and every dry tree. Flame kindled will not be quenched, and every face from south to north will be burned in it.
+- fresh: And say to forest of Negeb, Hear the word of the Lord. Thus says the Lord God: Behold, I kindle fire in you, and it will devour in you every green tree and every dry tree. Flame kindled will not be quenched, and every face from south to north will be burned in it.
 - brenton: and thou shalt say to the forest of Nageb, Hear the word of the Lord; thus saith the Lord, even the Lord; Behold, I will kindle a fire in thee, and it shall devour in thee every green tree, and every dry tree: the flame that is kindled shall not be quenched, and every face shall be scorched with it from the south to the north.
 
 ### Ezekiel 21:4
@@ -186638,8 +186638,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 21:7
@@ -186701,8 +186701,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 21:14
@@ -186791,8 +186791,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 21:24
@@ -186926,8 +186926,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 22:2
@@ -187070,8 +187070,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 22:18
@@ -187124,8 +187124,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 22:24
@@ -187205,8 +187205,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 23:2
@@ -187647,7 +187647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to me in ninth year, in tenth month, on tenth of month, saying,
+- fresh: And the word of the Lord came to me in ninth year, in tenth month, on tenth of month, saying,
 - brenton: And the word of the Lord came to me, in the ninth year, in the tenth month, on the tenth day of the month, saying,
 
 ### Ezekiel 24:2
@@ -187772,8 +187772,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 24:16
@@ -187889,8 +187889,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 25:2
@@ -187908,7 +187908,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to sons of Ammon, Hear word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over house of Judah that they went into captivity,
+- fresh: and say to sons of Ammon, Hear the word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over house of Judah that they went into captivity,
 - brenton: and thou shalt say to the children of Ammon,
 
 ### Ezekiel 25:4
@@ -188043,7 +188043,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, on first of month, word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, on first of month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 26:2
@@ -188231,8 +188231,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 27:2
@@ -188546,8 +188546,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 28:2
@@ -188636,8 +188636,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 28:12
@@ -188717,8 +188717,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 28:21
@@ -188781,7 +188781,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In tenth year, in tenth month, on first of month, word of the Lord came to me, saying,
+- fresh: In tenth year, in tenth month, on first of month, the word of the Lord came to me, saying,
 - brenton: In the twelfth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:2
@@ -188925,7 +188925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-seventh year, on first of first month, word of the Lord came to me, saying,
+- fresh: And it happened in twenty-seventh year, on first of first month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:18
@@ -188969,8 +188969,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 30:2
@@ -188988,7 +188988,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because day of the Lord is near, day of end of nations it will be.
+- fresh: because the day of the Lord is near, day of end of nations it will be.
 - brenton: For the day of the Lord is nigh, a day of cloud; it shall be the end of the nations.
 
 ### Ezekiel 30:4
@@ -189141,7 +189141,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in first month, on seventh of month, word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in first month, on seventh of month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 30:21
@@ -189204,7 +189204,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in third month, on first of month, word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in third month, on first of month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 31:2
@@ -189366,7 +189366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in twelfth month, on first of month, word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in twelfth month, on first of month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the tenth month, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 32:2
@@ -189510,7 +189510,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twelfth year of first month, on fifteenth of month, word of the Lord came to me, saying,
+- fresh: And it happened in twelfth year of first month, on fifteenth of month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the first month, on the fifteenth day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 32:18
@@ -189644,8 +189644,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 33:2
@@ -189834,7 +189834,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And hand of the Lord came upon me at evening before he came, and opened my mouth until he came to me in morning, and my mouth being opened was no longer restrained.
+- fresh: And the hand of the Lord came upon me at evening before he came, and opened my mouth until he came to me in morning, and my mouth being opened was no longer restrained.
 - brenton: Now the hand of the Lord had come upon me in the evening, before he came; and he opened my mouth, when he came to me in the morning: and my mouth was open, it was no longer kept closed.
 
 ### Ezekiel 33:23
@@ -189842,8 +189842,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 33:24
@@ -189932,8 +189932,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 34:2
@@ -189987,7 +189987,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore, shepherds, hear word of the Lord.
+- fresh: Therefore, shepherds, hear the word of the Lord.
 - brenton: Therefore, ye shepherds, hear the word of the Lord.
 
 ### Ezekiel 34:8
@@ -190211,8 +190211,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 35:2
@@ -190347,7 +190347,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, prophesy over mountains of Israel and say to mountains of Israel, Hear word of the Lord.
+- fresh: And you, son of man, prophesy over mountains of Israel and say to mountains of Israel, Hear the word of the Lord.
 - brenton: And thou, son of man, prophesy to the mountains of Israel, and say to the mountains of Israel, Hear ye the word of the Lord:
 
 ### Ezekiel 36:2
@@ -190374,7 +190374,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore mountains of Israel hear word of the Lord. Thus says the Lord to mountains and hills and ravines and torrents and desolated and ruined places and abandoned cities, which became plunder and trampling to remaining nations around,
+- fresh: therefore mountains of Israel hear the word of the Lord. Thus says the Lord to mountains and hills and ravines and torrents and desolated and ruined places and abandoned cities, which became plunder and trampling to remaining nations around,
 - brenton: therefore, ye mountains of Israel, hear the word of the Lord; Thus saith the Lord to the mountains, and to the hills, and to the streams, and to the valleys, and to the places that have been made desolate and destroyed, and to the cities that have been deserted, and have become a spoil and a trampling to the nations that were left round about;
 
 ### Ezekiel 36:5
@@ -190481,8 +190481,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 36:17
@@ -190689,7 +190689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in midst of plain, and it was full of human bones.
+- fresh: And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in midst of plain, and it was full of human bones.
 - brenton: And the hand of the Lord came upon me, and the Lord brought me forth by the Spirit, and set me in the midst of the plain, and it was full of human bones.
 
 ### Ezekiel 37:2
@@ -190716,7 +190716,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Prophesy over these bones, and you will say to them, Dry bones, hear word of the Lord.
+- fresh: And he said to me, Prophesy over these bones, and you will say to them, Dry bones, hear the word of the Lord.
 - brenton: And he said to me, Prophesy upon these bones, and thou shalt say to them, Ye dry bones, hear the word of the Lord.
 
 ### Ezekiel 37:5
@@ -190814,8 +190814,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 37:16
@@ -190940,8 +190940,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Ezekiel 38:2
@@ -191112,7 +191112,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+- fresh: And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
 - brenton: and the fish of the sea shall quake at the presence of the Lord, and the birds of the sky and the wild beasts of the field, and all the reptiles that creep upon the earth, and all the men that are on the face of the earth; and the mountains shall be rent, and the valleys shall fall, and every wall on the land shall fall.
 
 ### Ezekiel 38:21
@@ -191409,7 +191409,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-fifth year of our captivity, in first month, on tenth of month, in fourteenth year after city was taken, on that day hand of the Lord came upon me and led me.
+- fresh: And it happened in twenty-fifth year of our captivity, in first month, on tenth of month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
 - brenton: And it came to pass in the twenty-fifth year of our captivity, in the first month, on the tenth day of the month, in the fourteenth year after the taking of the city, in that day the hand of the Lord was upon me, and brought me
 
 ### Ezekiel 40:2
@@ -192030,7 +192030,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wooden altar, three cubits its height and two cubits its length and two cubits its breadth, and it had horns and its base and its walls were wooden, and he said to me, This is the table before face of the Lord.
+- fresh: Wooden altar, three cubits its height and two cubits its length and two cubits its breadth, and it had horns and its base and its walls were wooden, and he said to me, This is the table before the face of the Lord.
 - brenton: a wooden altar, the height of it three cubits, and the length two cubits, and the breadth two cubits; and it had horns, and the base of it and the sides of it were of wood: and he said to me, This is the table, which is before the face of the Lord.
 
 ### Ezekiel 41:23
@@ -194102,7 +194102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And crying aloud he said, Let name of the great Lord be blessed forever, because wisdom and greatness are his.
+- fresh: And crying aloud he said, Let name of the great the Lord be blessed forever, because wisdom and greatness are his.
 - brenton: [missing]
 
 ### Daniel 2:21
@@ -195965,7 +195965,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: According to things written in covenant of Moses, all these evils came upon us, and we did not seek face of the Lord our God to turn from our sins and consider your righteousness, Lord.
+- fresh: According to things written in covenant of Moses, all these evils came upon us, and we did not seek the face of the Lord our God to turn from our sins and consider your righteousness, Lord.
 - brenton: [missing]
 
 ### Daniel 9:14
@@ -196822,7 +196822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Beginning of word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+- fresh: Beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
 - brenton: The beginning of the word of the Lord by Osee. And the Lord said to Osee, Go, take to thyself a wife of fornication, and children of fornication: for the land will surely go a-whoring in departing from the Lord.
 
 ### Hosea 1:3
@@ -197164,7 +197164,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear word of the Lord, sons of Israel, because the Lord has a case against inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
+- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
 - brenton: Hear the word of the Lord, ye children of Israel: for the Lord has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 
 ### Hosea 4:2
@@ -197542,7 +197542,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your strength is that of a pirate man; priests hid way of the Lord; they murdered at Shechem, because they worked lawlessness.
+- fresh: And your strength is that of a pirate man; priests hid the way of the Lord; they murdered at Shechem, because they worked lawlessness.
 - brenton: And thy strength is that of a robber: the priests have hid the way, they have murdered the people of Sicima; for they have wrought iniquity in the house of Israel.
 
 ### Hosea 6:10
@@ -198714,7 +198714,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Alas, alas, alas, for the day, because day of the Lord is near, and like misery from misery it will come.
+- fresh: Alas, alas, alas, for the day, because the day of the Lord is near, and like misery from misery it will come.
 - brenton: Alas, alas, alas for the day! for the day of the Lord is nigh, and it will come as trouble upon trouble.
 
 ### Joel 1:16
@@ -198768,7 +198768,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blow trumpet in Zion, proclaim on my holy mountain, and let all inhabiting the land be shaken, because day of the Lord is present, because it is near:
+- fresh: Blow trumpet in Zion, proclaim on my holy mountain, and let all inhabiting the land be shaken, because the day of the Lord is present, because it is near:
 - brenton: Sound the trumpet in Sion, make a proclamation in my holy mountain, and let all the inhabitants of the land be confounded: for the day of the Lord is near;
 
 ### Joel 2:2
@@ -198858,7 +198858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will give his voice before his force, because his camp is exceedingly great, because works of his words are strong; because great is day of the Lord, very great and conspicuous, and who will be sufficient for it?
+- fresh: And the Lord will give his voice before his force, because his camp is exceedingly great, because works of his words are strong; because great is the day of the Lord, very great and conspicuous, and who will be sufficient for it?
 - brenton: And the Lord shall utter his voice before his host: for his camp is very great: for the execution of his words is mighty: for the day of the Lord is great, very glorious, and who shall be able to resist it?
 
 ### Joel 2:12
@@ -198993,7 +198993,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And eating you will eat and be filled and praise name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
+- fresh: And eating you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
 - brenton: And ye shall eat abundantly, and be satisfied, and shall praise the name of the Lord your God for the things which he has wrought wonderfully with you: and my people shall not be ashamed for ever.
 
 ### Joel 2:27
@@ -199038,7 +199038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sun will be turned into darkness and moon into blood before great and manifest day of the Lord comes.
+- fresh: Sun will be turned into darkness and moon into blood before great and manifest the day of the Lord comes.
 - brenton: The sun shall be turned into darkness, and the moon into blood, before the great and glorious day of the Lord come.
 
 ### Joel 3:5
@@ -199047,7 +199047,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be that everyone who calls on name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 - brenton: And it shall come to pass that whosoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.
 
 ### Joel 4:1
@@ -199173,7 +199173,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sounds resounded in valley of justice, because day of the Lord is near in valley of justice.
+- fresh: Sounds resounded in valley of justice, because the day of the Lord is near in valley of justice.
 - brenton: Noises have resounded in the valley of judgment: for the day of the Lord is near in the valley of judgment.
 
 ### Joel 4:15
@@ -199409,7 +199409,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of sons of Judah and for four I will not turn him away, because they rejected law of the Lord and did not keep his commands, and their vanities that they made led them astray, which their fathers followed after them.
+- fresh: Thus says the Lord: For three impieties of sons of Judah and for four I will not turn him away, because they rejected the law of the Lord and did not keep his commands, and their vanities that they made led them astray, which their fathers followed after them.
 - brenton: Thus saith the Lord; For three sins of the children of Juda, and for four, I will not turn away from him; because they have rejected the law of the Lord, and have not kept his ordinances, and their vain idols which they made, which their fathers followed, caused them to err.
 
 ### Amos 2:5
@@ -199670,7 +199670,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and those with you they will throw into kindled cauldrons, fiery pestilences.
+- fresh: The Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and those with you they will throw into kindled cauldrons, fiery pestilences.
 - brenton: The Lord swears by his holiness, that, behold, the days come upon you, when they shall take you with weapons, and fiery destroyers shall cast those with you into boiling caldrons.
 
 ### Amos 4:3
@@ -199931,7 +199931,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to those desiring day of the Lord. Why is this day of the Lord for you? It is darkness and not light,
+- fresh: Woe to those desiring the day of the Lord. Why is this day of the Lord for you? It is darkness and not light,
 - brenton: Woe to you that desire the day of the Lord! what is this day of the Lord to you? whereas it is darkness, and not light.
 
 ### Amos 5:19
@@ -199949,7 +199949,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Is not day of the Lord darkness and not light, and gloom having no brightness?
+- fresh: Is not the day of the Lord darkness and not light, and gloom having no brightness?
 - brenton: Is not the day of the Lord darkness, and not light? and is not this day gloom without brightness?
 
 ### Amos 5:21
@@ -200102,7 +200102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their household members will take them and force them to bring their bones out of house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because name of the Lord must not be named.
+- fresh: And their household members will take them and force them to bring their bones out of house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because the name of the Lord must not be named.
 - brenton: But a remnant shall be left behind, and their relations shall take them, and shall strenuously endeavour to carry forth their bones from the house: and one shall say to the heads of the house, Is there yet any one else with thee? And he shall say, No one else. And the other shall say, Be silent, that thou name not the name of the Lord.
 
 ### Amos 6:11
@@ -200147,7 +200147,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus Lord showed me, and behold, brood of locusts coming in the morning, and behold, one hopper, Gog the king.
+- fresh: Thus the Lord showed me, and behold, brood of locusts coming in the morning, and behold, one hopper, Gog the king.
 - brenton: Thus has the Lord God shewed me; and, behold, a swarm of locusts coming from the east; and, behold, one caterpillar, king Gog.
 
 ### Amos 7:2
@@ -200174,7 +200174,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus Lord showed me, and behold, the Lord called judgment in fire, and it devoured the great abyss and devoured the portion.
+- fresh: Thus the Lord showed me, and behold, the Lord called judgment in fire, and it devoured the great abyss and devoured the portion.
 - brenton: Thus has the Lord shewed me; and, behold, the Lord called for judgment by fire, and it devoured the great deep, and devoured the Lord's portion.
 
 ### Amos 7:5
@@ -200201,7 +200201,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
+- fresh: Thus the Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
 - brenton: Thus the Lord shewed me; and behold, he stood upon a wall of adamant, and in his hand was an adamant.
 
 ### Amos 7:8
@@ -200282,7 +200282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now hear word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against house of Jacob.
+- fresh: And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against house of Jacob.
 - brenton: And now hear the word of the Lord: Thou sayest, Prophesy not to Israel, and raise not a tumult against the house of Jacob.
 
 ### Amos 7:17
@@ -200300,7 +200300,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus Lord showed me, and behold, a vessel of birdlime.
+- fresh: Thus the Lord showed me, and behold, a vessel of birdlime.
 - brenton: And behold a fowler's basket.
 
 ### Amos 8:2
@@ -200354,7 +200354,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord swears by arrogance of Jacob: Will he ever forget all your works for strife?
+- fresh: The Lord swears by arrogance of Jacob: Will he ever forget all your works for strife?
 - brenton: The Lord swears against the pride of Jacob, None of your works shall ever be forgotten.
 
 ### Amos 8:8
@@ -200390,7 +200390,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days are coming, says the Lord, and I will send famine upon the land, not famine of bread nor thirst of water, but famine of hearing word of the Lord.
+- fresh: Behold, days are coming, says the Lord, and I will send famine upon the land, not famine of bread nor thirst of water, but famine of hearing the word of the Lord.
 - brenton: Behold, the days come, saith the Lord, that I will send forth a famine on the land, not a famine of bread, nor a thirst for water, but a famine of hearing the word of the Lord.
 
 ### Amos 8:12
@@ -200399,7 +200399,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And waters will be shaken to sea, and from north to east they will run around seeking word of the Lord and will never find it.
+- fresh: And waters will be shaken to sea, and from north to east they will run around seeking the word of the Lord and will never find it.
 - brenton: And the waters shall be troubled from sea to sea, and from the north to the east shall men run hither and thither, seeking the word of the Lord, and they shall not find it.
 
 ### Amos 8:13
@@ -200689,7 +200689,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
+- fresh: Because the day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
 - brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
 
 ### Obadiah 1:16
@@ -200772,7 +200772,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah rose to flee to Tarshish from face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from face of the Lord.
+- fresh: Jonah rose to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from the face of the Lord.
 - brenton: But Jonas rose up to flee to Tharsis from the presence of the Lord. And he went down to Joppa, and found a ship going to Tharsis: and he paid his fare, and went up into it, to sail with them to Tharsis from the presence of the Lord.
 
 ### Jonah 1:4
@@ -200781,7 +200781,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
+- fresh: The Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
 - brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
 
 ### Jonah 1:5
@@ -200835,7 +200835,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Men feared with great fear and said to him, What is this you have done? For men knew he was fleeing from face of the Lord, because he told them.
+- fresh: Men feared with great fear and said to him, What is this you have done? For men knew he was fleeing from the face of the Lord, because he told them.
 - brenton: Then the men feared exceedingly, and said to him, What is this that thou hast done? for the men knew that he was fleeing from the face of the Lord, because he had told them.
 
 ### Jonah 1:11
@@ -200889,7 +200889,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Men feared Lord with great fear, sacrificed sacrifice to the Lord, and vowed vows.
+- fresh: Men feared the Lord with great fear, sacrificed sacrifice to the Lord, and vowed vows.
 - brenton: And the men feared the Lord very greatly, and offered a sacrifice to the Lord, and vowed vows.
 
 ### Jonah 2:1
@@ -201188,7 +201188,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
+- fresh: And the word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - brenton: And the word of the Lord came to Michæas the son of Morasthi, in the days of Joatham, and Achaz, and Ezekias, kings of Juda, concerning what he saw regarding Samaria and Jerusalem.
 
 ### Micah 1:2
@@ -201539,7 +201539,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not Lord among us? Evils will certainly not come upon us.
+- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
 - brenton: The heads thereof have judged for gifts, and the priests thereof have answered for hire, and her prophets have divined for silver: and yet they have rested on the Lord, saying, Is not the Lord among us? no evil shall come upon us.
 
 ### Micah 3:12
@@ -201566,7 +201566,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and word of the Lord from Jerusalem.
+- fresh: And many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
 
 ### Micah 4:3
@@ -201809,7 +201809,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now word of the Lord. The Lord said, Rise, plead with mountains, and let hills hear your voice.
+- fresh: Hear now the word of the Lord. The Lord said, Rise, plead with mountains, and let hills hear your voice.
 - brenton: Hear now a word: the Lord God has said; Arise, plead with the mountains, and let the hills hear thy voice.
 
 ### Micah 6:2
@@ -201863,7 +201863,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, fruit of my womb for sin of my soul?
+- fresh: Will the Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, fruit of my womb for sin of my soul?
 - brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
 
 ### Micah 6:8
@@ -202025,7 +202025,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will bear wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
+- fresh: I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
 - brenton: I will bear the indignation of the Lord, because I have sinned against him, until he make good my cause: he also shall maintain my right, and shall bring me out to the light, and I shall behold his righteousness.
 
 ### Micah 7:10
@@ -202189,7 +202189,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord good to those waiting for him in day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in day of distress, and knowing those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ### Nahum 1:8
@@ -203111,7 +203111,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and those turning aside from the Lord and those not seeking Lord and not clinging to the Lord.
+- fresh: and those turning aside from the Lord and those not seeking the Lord and not clinging to the Lord.
 - brenton: and them that turn aside from the Lord, and them that seek not the Lord, and them that cleave not to the Lord.
 
 ### Zephaniah 1:7
@@ -203120,7 +203120,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Stand in awe before the Lord God, because day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
+- fresh: Stand in awe before the Lord God, because the day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
 - brenton: Fear ye before the Lord God; for the day of the Lord is near; for the Lord has prepared his sacrifice, and has sanctified his guests.
 
 ### Zephaniah 1:8
@@ -203129,7 +203129,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
+- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
 - brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
 
 ### Zephaniah 1:9
@@ -203183,7 +203183,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because great day of the Lord is near, near and very swift. Voice of the Lord's day bitter and hard, appointed strong.
+- fresh: Because the great day of the Lord is near, near and very swift. Voice of the Lord's day bitter and hard, appointed strong.
 - brenton: For the great day of the Lord is near, it is near, and very speedy; the sound of the day of the Lord is made bitter and harsh.
 
 ### Zephaniah 1:15
@@ -203219,7 +203219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their silver and their gold will certainly not be able to rescue them in day of the Lord's wrath, and in fire of his zeal all earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
+- fresh: And their silver and their gold will certainly not be able to rescue them in the day of the Lord's wrath, and in fire of his zeal all earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
 - brenton: And their silver and their gold shall in nowise be able to rescue them in the day of the Lord's wrath; but the whole land shall be devoured by the fire of his jealousy; for he will bring a speedy destruction on all them that inhabit the land.
 
 ### Zephaniah 2:1
@@ -203237,7 +203237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: before you come to be like passing flower, before the Lord's wrath comes upon you, before day of the Lord's anger comes upon you.
+- fresh: before you come to be like passing flower, before the Lord's wrath comes upon you, before the day of the Lord's anger comes upon you.
 - brenton: before ye become as the flower that passes away, before the anger of the Lord come upon you, before the day of the wrath of the Lord come upon you.
 
 ### Zephaniah 2:3
@@ -203246,7 +203246,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Seek Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in day of the Lord's wrath.
+- fresh: Seek the Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in the day of the Lord's wrath.
 - brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
 
 ### Zephaniah 2:4
@@ -203435,7 +203435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because then I will turn toward peoples a tongue for its generation, for all to call on name of the Lord, to serve him under one yoke.
+- fresh: Because then I will turn toward peoples a tongue for its generation, for all to call on the name of the Lord, to serve him under one yoke.
 - brenton: For then will I turn to the peoples a tongue for her generation, that all may call on the name of the Lord, to serve him under one yoke.
 
 ### Zephaniah 3:10
@@ -203462,7 +203462,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will leave in you a people gentle and humble, and they will fear name of the Lord.
+- fresh: And I will leave in you a people gentle and humble, and they will fear the name of the Lord.
 - brenton: And I will leave in thee a meek and lowly people;
 
 ### Zephaniah 3:13
@@ -203489,7 +203489,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
+- fresh: The Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
 - brenton: The Lord has taken away thine iniquities, he has ransomed thee from the hand of thine enemies: the Lord, the King of Israel, is in the midst of thee: thou shalt not see evil any more.
 
 ### Zephaniah 3:16
@@ -203545,7 +203545,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In second year of Darius king, in sixth month, on first day of month, word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+- fresh: In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ### Haggai 1:2
@@ -203761,7 +203761,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On twenty-fourth day of ninth month, in second year of Darius, word of the Lord came to Haggai prophet, saying,
+- fresh: On twenty-fourth day of ninth month, in second year of Darius, the word of the Lord came to Haggai prophet, saying,
 - brenton: On the four and twentieth day of the ninth month, in the second year of Darius, the word of the Lord came to Aggæus the prophet, saying,
 
 ### Haggai 2:11
@@ -203889,7 +203889,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighth month of second year of Darius, word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+- fresh: In eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - brenton: In the eighth month, in the second year of the reign of Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 
 ### Zechariah 1:2
@@ -203943,7 +203943,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On twenty-fourth day of eleventh month, this is month Sebat, in second year of Darius, word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+- fresh: On twenty-fourth day of eleventh month, this is month Sebat, in second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - brenton: On the twenty-fourth day in the eleventh month, this is the month Sabat, in the second year of the reign of Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 
 ### Zechariah 1:8
@@ -204186,7 +204186,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all flesh fear from face of the Lord, because he has been roused from his holy clouds.
+- fresh: Let all flesh fear from the face of the Lord, because he has been roused from his holy clouds.
 - brenton: Let all flesh fear before the Lord: for he has risen up from his holy clouds.
 
 ### Zechariah 3:1
@@ -204330,7 +204330,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he answered and said to me: This is word of the Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says the Lord Almighty.
+- fresh: And he answered and said to me: This is the word of the Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says the Lord Almighty.
 - brenton: And he answered and spoke to me, saying, This is the word of the Lord to Zorobabel, saying,
 
 ### Zechariah 4:7
@@ -204347,8 +204347,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Zechariah 4:9
@@ -204581,8 +204581,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
 
 ### Zechariah 6:10
@@ -204645,7 +204645,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in fourth year of Darius king, word of the Lord came to Zechariah on fourth day of ninth month, which is Chisleu.
+- fresh: And it happened in fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of ninth month, which is Chisleu.
 - brenton: And it came to pass in the fourth year of Darius the king, that the word of the Lord came to Zacharias on the fourth day of the ninth month, which is Chaseleu.
 
 ### Zechariah 7:2
@@ -204672,7 +204672,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord of forces came to me, saying,
+- fresh: And the word of the Lord of forces came to me, saying,
 - brenton: And the word of the Lord of hosts came to me, saying,
 
 ### Zechariah 7:5
@@ -204708,7 +204708,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And word of the Lord came to Zechariah, saying,
+- fresh: And the word of the Lord came to Zechariah, saying,
 - brenton: And the word of the Lord came to Zacharias, saying,
 
 ### Zechariah 7:9
@@ -204770,8 +204770,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord Almighty came, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord Almighty came, saying,
 - brenton: And the word of the Lord Almighty came, saying,
 
 ### Zechariah 8:2
@@ -204923,8 +204923,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And word of the Lord Almighty came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord Almighty came to me, saying,
 - brenton: And the word of the Lord Almighty came to me, saying,
 
 ### Zechariah 8:19
@@ -204951,7 +204951,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And inhabitants of five cities will come together to one city, saying, Let us go to make supplication before the Lord and seek face of the Lord Almighty; I too will go.
+- fresh: And inhabitants of five cities will come together to one city, saying, Let us go to make supplication before the Lord and seek the face of the Lord Almighty; I too will go.
 - brenton: and the inhabitants of five cities shall come together to one city, saying, Let us go to make supplication to the Lord, and to seek the face of the Lord Almighty; I will go also.
 
 ### Zechariah 8:22
@@ -204960,7 +204960,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And many peoples and many nations will come to seek face of the Lord Almighty in Jerusalem and to make supplication before the Lord.
+- fresh: And many peoples and many nations will come to seek the face of the Lord Almighty in Jerusalem and to make supplication before the Lord.
 - brenton: And many peoples and many nations shall come to seek earnestly the face of the Lord Almighty in Jerusalem, and to obtain favour of the Lord.
 
 ### Zechariah 8:23
@@ -204978,7 +204978,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Oracle of word of the Lord in land of Hadrach and Damascus his sacrifice, because the Lord looks upon humans and all tribes of Israel,
+- fresh: Oracle of the word of the Lord in land of Hadrach and Damascus his sacrifice, because the Lord looks upon humans and all tribes of Israel,
 - brenton: The burden of the word of the Lord in the land of Sedrach, and his sacrifice shall be in Damascus; for the Lord looks upon men, and upon all the tribes of Israel.
 
 ### Zechariah 9:2
@@ -205329,7 +205329,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be scattered in that day, and Canaanite sheep being kept will know that it is word of the Lord.
+- fresh: And it will be scattered in that day, and Canaanite sheep being kept will know that it is the word of the Lord.
 - brenton: And it shall be broken in that day; and the Chananites, the sheep that are kept for me, shall know that it is the word of the Lord.
 
 ### Zechariah 11:12
@@ -205392,7 +205392,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Oracle of word of the Lord upon Israel, says the Lord, stretching out heaven and founding earth and forming spirit of human within him.
+- fresh: Oracle of the word of the Lord upon Israel, says the Lord, stretching out heaven and founding earth and forming spirit of human within him.
 - brenton: The burden of the word of the Lord for Israel; saith the Lord, that stretches out the sky, and lays the foundation of the earth, and forms the spirit of man within him.
 
 ### Zechariah 12:2
@@ -205536,7 +205536,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, if a man still prophesies, his father and his mother who begot him will say to him, You will not live, because you spoke lies in name of the Lord, and his father and mother who begot him will bind his feet together when he prophesies.
+- fresh: And it will be, if a man still prophesies, his father and his mother who begot him will say to him, You will not live, because you spoke lies in the name of the Lord, and his father and mother who begot him will bind his feet together when he prophesies.
 - brenton: And it shall come to pass, if a man will yet prophesy, that his father and his mother which gave birth to him shall say to him, Thou shalt not live; for thou hast spoken lies in the name of the Lord: and his father and his mother who gave him birth shall bind him as he is prophesying.
 
 ### Zechariah 13:4
@@ -205790,7 +205790,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Oracle of word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
+- fresh: Oracle of the word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
 - brenton: The burden of the word of the Lord to Israel by the hand of his messenger. Lay it, I pray you, to heart.
 
 ### Malachi 1:2
@@ -206204,7 +206204,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These things those fearing the Lord spoke, each to his neighbor, and the Lord paid attention and heard, and he wrote book of remembrance before him for those fearing Lord and revering his name.
+- fresh: These things those fearing the Lord spoke, each to his neighbor, and the Lord paid attention and heard, and he wrote book of remembrance before him for those fearing the Lord and revering his name.
 - brenton: Thus spoke they that feared the Lord, every one to his neighbour: and the Lord gave heed, and hearkened, and he wrote a book of remembrance before him for them that feared the Lord and reverenced his name.
 
 ### Malachi 3:17
@@ -206231,7 +206231,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, day of the Lord comes, burning like furnace, and it will burn them, and all strangers and all doing unlawful things will be stubble, and coming day will kindle them, says the Lord Almighty, and root and branch will not be left from them.
+- fresh: Because behold, the day of the Lord comes, burning like furnace, and it will burn them, and all strangers and all doing unlawful things will be stubble, and coming day will kindle them, says the Lord Almighty, and root and branch will not be left from them.
 - brenton: For, behold, a day comes burning as an oven, and it shall consume them; and all the aliens, and all that do wickedly, shall be stubble: and the day that is coming shall set them on fire, saith the Lord Almighty, and there shall not be left of them root or branch.
 
 ### Malachi 3:20
@@ -206258,7 +206258,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, I send Elijah the Tishbite to you before great and manifest day of the Lord comes,
+- fresh: And behold, I send Elijah the Tishbite to you before great and manifest the day of the Lord comes,
 - brenton: And, behold, I will send to you Elias the Thesbite, before the great and glorious day of the Lord comes;
 
 ### Malachi 3:23

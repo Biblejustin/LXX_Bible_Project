@@ -60,7 +60,7 @@ Rows: 39
 - current bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And Naiman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
+- fresh: And Naaman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -73,7 +73,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And there happened to be there a lawless man, and his name was Sabee son of Bochori, a Jeminaian man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Iessai. Each man to your tents, O Israel.
+- fresh: And there happened to be there a lawless man, and his name was Sheba son of Bichri, a Benjamite man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Jesse. Each man to your tents, O Israel.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -99,7 +99,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `revised`
 - needs followup: `no`
-- fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -151,7 +151,7 @@ Rows: 39
 - current bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: Cup of salvation I will take, and name of Lord I will call upon.
+- fresh: Cup of salvation I will take, and the name of the Lord I will call upon.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -164,7 +164,7 @@ Rows: 39
 - current bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
+- fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, the Lord is my God.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -385,7 +385,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
 - NT refs: Acts 15:17; James 2:7; Romans 2:17
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς || Romans 2:17: Ἰουδαῖος ἐπονομάζῃ
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you || Romans 2:17: Jew / you-are-called
@@ -424,7 +424,7 @@ Rows: 39
 - current bucket: `called-upon`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
+- fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says the Lord God who does these things.
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
@@ -450,7 +450,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
@@ -476,7 +476,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: Because sons of Judah did evil before me, says Lord. They set their abominations in house over which my name has been called, to defile it.
+- fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in house over which my name has been called, to defile it.
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you

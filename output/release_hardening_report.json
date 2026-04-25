@@ -2,11 +2,11 @@
   "summary": [
     {
       "name": "raw OT rows",
-      "value": "22896"
+      "value": "22909"
     },
     {
       "name": "drafted compare rows",
-      "value": "22896"
+      "value": "22909"
     },
     {
       "name": "raw duplicate refs",
@@ -39,7 +39,7 @@
   ],
   "raw_counts": {
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/raw/lxx_greek/ot_full.csv",
-    "rows": 22896,
+    "rows": 22909,
     "duplicate_refs": 0,
     "duplicate_ref_examples": [],
     "missing_draft_translations": 0,
@@ -47,7 +47,7 @@
   },
   "drafted_counts": {
     "path": "/Users/justinscaggs/Documents/Codex_bible/output/fresh_vs_brenton_ot_drafted.csv",
-    "rows": 22896,
+    "rows": 22909,
     "duplicate_refs": 0,
     "duplicate_ref_examples": [],
     "missing_draft_translations": 0,
@@ -194,8 +194,8 @@
     },
     {
       "book_name": "Jeremiah",
-      "drafted": "1299",
-      "total": "1299",
+      "drafted": "1312",
+      "total": "1312",
       "complete": "yes"
     },
     {
@@ -334,10 +334,10 @@
   "active_marker_hits": [],
   "blocking_text_artifacts": [],
   "repeated_word_candidates": [],
-  "review_status_total": 516,
+  "review_status_total": 522,
   "review_status_counts": {
-    "keep": 309,
-    "revised": 207
+    "keep": 310,
+    "revised": 212
   },
   "priority_open_count": 0,
   "priority_open_examples": [],

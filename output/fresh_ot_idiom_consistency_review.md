@@ -46,7 +46,7 @@ Unresolved outliers: 0
 - Exodus 20:24 [called-there]
   - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - Jeremiah 7:11 [other]
-  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
 
 ### name-upon-formula
 - description: Name formula with 'upon' language for house/people/object.
@@ -59,15 +59,15 @@ Unresolved outliers: 0
 - 2 Chronicles 7:14 [other]
   - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
 - Amos 9:12 [called-upon]
-  - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says Lord God who does these things.
+  - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says the Lord God who does these things.
 - Jeremiah 7:10 [other]
   - fresh: and you came and stood before me in house over which my name has been called and said, We have held back from doing all these abominations—
 - Jeremiah 7:11 [other]
-  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says Lord.
+  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
 - Jeremiah 7:14 [other]
   - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
 - Jeremiah 7:30 [other]
-  - fresh: Because sons of Judah did evil before me, says Lord. They set their abominations in house over which my name has been called, to defile it.
+  - fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in house over which my name has been called, to defile it.
 - Jeremiah 14:9 [called-upon]
   - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - Jeremiah 15:16 [called-upon]
@@ -88,13 +88,13 @@ Unresolved outliers: 0
 - 2 Chronicles 6:33 [other]
   - fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever foreigner calls upon you for, so that all peoples of earth may know your name and fear you as your people Israel and know that your name is called upon this house which I built.
 - 2 Kings 5:11 [call-on-name]
-  - fresh: And Naiman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
+  - fresh: And Naaman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
 - 2 Samuel 20:1 [other]
-  - fresh: And there happened to be there a lawless man, and his name was Sabee son of Bochori, a Jeminaian man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Iessai. Each man to your tents, O Israel.
+  - fresh: And there happened to be there a lawless man, and his name was Sheba son of Bichri, a Benjamite man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Jesse. Each man to your tents, O Israel.
 - Isaiah 64:6 [other]
   - fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
 - Joel 3:5 [other]
-  - fresh: And it will be that everyone who calls on name of Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as Lord said, and those bearing good news whom Lord has called.
+  - fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 - Psalms 74:2 [call-on-name]
   - fresh: We will confess to you, O God, we will confess, and we will call on your name.
 - Psalms 79:19 [call-on-name]
@@ -102,9 +102,9 @@ Unresolved outliers: 0
 - Psalms 98:6 [other]
   - fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on Lord, and he heard them.
 - Psalms 115:4 [call-on-name]
-  - fresh: Cup of salvation I will take, and name of Lord I will call upon.
+  - fresh: Cup of salvation I will take, and the name of the Lord I will call upon.
 - Zechariah 13:9 [call-on-name]
-  - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, Lord is my God.
+  - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, the Lord is my God.
 
 ### soteria-sacrifice-formula
 - description: Cultic σωτηρι- terms in sacrificial context.
@@ -115,17 +115,17 @@ Unresolved outliers: 0
 - 1 Chronicles 16:1 [salvation]
   - fresh: And they brought in ark of God and set it in middle of tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - 1 Chronicles 16:2 [salvation]
-  - fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in name of Lord.
+  - fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in the name of the Lord.
 - 1 Chronicles 21:26 [salvation]
-  - fresh: And David built there altar to Lord and offered whole burnt offerings and offerings of salvation, and cried out to Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+  - fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
 - 2 Chronicles 7:7 [salvation]
-  - fresh: And Solomon sanctified middle of court in house of Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
+  - fresh: And Solomon sanctified middle of court in house of the Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
 - 2 Chronicles 29:35 [salvation]
-  - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of Lord was set right.
+  - fresh: And whole burnt offering was much, with fats of completion of the offering of salvation and libations of whole burnt offering, and work in house of the Lord was set right.
 - 2 Chronicles 30:22 [salvation]
-  - fresh: And Hezekiah spoke to every heart of Levites, those understanding good understanding for Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to Lord God of their fathers.
+  - fresh: And Hezekiah spoke to every heart of Levites, those understanding good understanding for the Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to the Lord God of their fathers.
 - 2 Chronicles 31:2 [salvation]
-  - fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of Lord.
+  - fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of the Lord.
 - 2 Chronicles 33:16 [salvation]
   - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
 - Amos 5:22 [salvation]
@@ -139,15 +139,15 @@ Unresolved outliers: 0
 - Exodus 32:6 [salvation]
   - fresh: And rising early the next day, he offered whole burnt offerings and brought sacrifices of salvation. And the people sat down to eat and drink and rose up to play.
 - Ezekiel 43:27 [salvation]
-  - fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says Lord.
+  - fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says the Lord.
 - Ezekiel 45:15 [salvation]
-  - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says Lord God.
+  - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says the Lord God.
 - Ezekiel 45:17 [salvation]
   - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for house of Israel.
 - Ezekiel 46:2 [salvation]
   - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
 - Ezekiel 46:12 [salvation]
-  - fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
+  - fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to the Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
 - Jonah 2:10 [salvation]
   - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - Joshua 22:23 [salvation]
@@ -157,7 +157,7 @@ Unresolved outliers: 0
 - Joshua 22:29 [salvation]
   - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - Judges 20:26 [salvation]
-  - fresh: And all the sons of Israel and all the people went up and came to Baethel and wept before the Lord and fasted on that day and offered whole burnt offerings of salvation before the Lord.
+  - fresh: And all the sons of Israel and all the people went up and came to Bethel and wept before the Lord and fasted on that day and offered whole burnt offerings of salvation before the Lord.
 - Judges 21:4 [salvation]
   - fresh: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
 - Leviticus 3:1 [salvation]

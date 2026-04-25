@@ -3,8 +3,8 @@
 Purpose: final automated release-readiness checks for the fresh OT translation output.
 
 ## Summary
-- raw OT rows: `22896`
-- drafted compare rows: `22896`
+- raw OT rows: `22909`
+- drafted compare rows: `22909`
 - raw duplicate refs: `0`
 - drafted duplicate refs: `0`
 - missing draft translations: `0`
@@ -28,9 +28,9 @@ Purpose: final automated release-readiness checks for the fresh OT translation o
 - repeated-word candidates: `0`
 
 ## Review Coverage
-- latest reviewed refs: `516`
-- `keep`: `309`
-- `revised`: `207`
+- latest reviewed refs: `522`
+- `keep`: `310`
+- `revised`: `212`
 - priority rows still open: `0`
 
 ## Sample Audit

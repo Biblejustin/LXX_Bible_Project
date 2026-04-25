@@ -153,6 +153,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     formulas = (
         "says Lord",
+        "Hear word of the Lord",
         "of Lord",
         "word of Lord",
         "day of Lord",
@@ -207,9 +208,13 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "Sanctify Lord himself",
         "Lord of hosts with us",
         "Who is this king of glory? Lord of hosts",
+        "praise name of the Lord",
+        "Let name of the Lord",
+        "in name of the Lord",
     )
+    non_possessive_lord = r"(?<![Tt]he )(?<!my )(?<!your )(?<!our )(?<!his )(?<!their )\bLord "
     bare_subject_pattern = re.compile(
-        r"(?<![Tt]he )\bLord "
+        non_possessive_lord +
         r"(?:will|has|is|was|sent|said|spoke|gave|gives|heard|chose|chooses|loved|humbled|"
         r"stopped|swore|turned|testified|came|comes|sits|destroys|destroyed|saved|saves|"
         r"answered|guards|guarded|increased|blessed|became|awoke|thundered|reign|reigns|"
@@ -218,7 +223,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         r"arose|looked|passes|passed|helps|cares|commands|commanded)\b"
     )
     bare_title_pattern = re.compile(
-        r"(?<![Tt]he )\bLord (?:God|Almighty|God Almighty|God of Israel|Most High)\b"
+        non_possessive_lord + r"(?:God|Almighty|God Almighty|God of Israel|Most High)\b"
         r"(?= (?:has|was|will|is|sent|answered|his|may|with|touching|gave|chose|loved|said|"
         r"spoke|comes|came|sits|destroys|destroyed|blow|shield|visit|name|fearful|kind|high|"
         r"gives|heard|swore|turned|testified|became|awoke|thundered|reign|reigns|dwells|"
@@ -233,6 +238,8 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         re.compile(r"(?<![Tt]he )\bLord your God in you,"),
         re.compile(r"(?<![Tt]he )\bLord who gathers\b"),
         re.compile(r"(?<![Tt]he )\bLord called your name\b"),
+        re.compile(r"(?<![Tt]he )\bword of the Lord came\b"),
+        re.compile(r"(?<![Tt]he )(?<![Tt]he great )\bday of the Lord is near\b"),
         re.compile(r"(?<![Tt]he )\bLord of hosts (?:has|counseled|commanded|will)\b"),
         re.compile(r"(?<![Tt]he )\bLord lives\b"),
         re.compile(r"\bExalt Lord our God\b"),
@@ -261,6 +268,13 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "As the Lord lives" in by_ref["Jeremiah 23:7"]["draft_translation"]
     assert "Exalt the Lord our God" in by_ref["Psalms 98:5"]["draft_translation"]
     assert by_ref["Zephaniah 3:17"]["draft_translation"].startswith("The Lord your God is in you")
+    assert "by the word of the Lord" in by_ref["Numbers 33:2"]["draft_translation"]
+    assert by_ref["1 Kings 17:2"]["draft_translation"].startswith("And the word of the Lord came")
+    assert "Hear the word of the Lord" in by_ref["2 Kings 20:16"]["draft_translation"]
+    assert "praise the name of the Lord" in by_ref["Psalms 112:1"]["draft_translation"]
+    assert "for the day of the Lord is near" in by_ref["Isaiah 13:6"]["draft_translation"]
+    assert "Let the name of the Lord be blessed" in by_ref["Job 1:21"]["draft_translation"]
+    assert "sought the face of the Lord" in by_ref["2 Chronicles 33:12"]["draft_translation"]
 
 
 def test_lexham_textual_export_is_not_enabled_from_user_desktop_by_default() -> None:

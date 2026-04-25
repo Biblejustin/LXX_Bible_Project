@@ -5,7 +5,7 @@ Selected verses: 6
 ## Esther 1:13
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, law; crossref_top_vote=6; reco=keep
-- fresh: And he said to his friends, Thus Astin has spoken. So make law and judgment concerning this.
+- fresh: And he said to his friends, Thus Vashti has spoken. So make law and judgment concerning this.
 - brenton: [missing]
 
 ## Esther 1:20
@@ -23,7 +23,7 @@ Selected verses: 6
 ## Esther 4:8
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord; crossref_top_vote=5; reco=keep
-- fresh: And he gave him copy of the notice posted in Sousa for their destruction, to show Esther, and he told him to command her, after going in, to plead with the king and urge him for the people, remembering days of your humiliation, how you were nourished in my hand, because Aman, the second to the kingdom, has spoken against us for death. Call upon the Lord and speak to the king concerning us and rescue us from death.
+- fresh: And he gave him copy of the notice posted in Shushan for their destruction, to show Esther, and he told him to command her, after going in, to plead with the king and urge him for the people, remembering days of your humiliation, how you were nourished in my hand, because Aman, the second to the kingdom, has spoken against us for death. Call upon the Lord and speak to the king concerning us and rescue us from death.
 - brenton: [missing]
 
 ## Esther 4:11
@@ -32,8 +32,8 @@ Selected verses: 6
 - fresh: all nations of the kingdom know that every man or woman who enters to the king in the inner court uncalled has no salvation, except the one to whom the king stretches out the golden scepter, that one will be saved. And I have not been called to go in to the king these thirty days.
 - brenton: [missing]
 
-## Esther 4:16
+## Esther 8:8
 - score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, law; crossref_top_vote=19; reco=keep
-- fresh: Go, gather the Ioudaioi in Sousa and fast for me, and do not eat or drink for three days, night and day. And I and my maidservants will likewise go without food, and then I will go in to the king contrary to the law. If then I must perish, I will perish.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, name; crossref_top_vote=9; reco=keep
+- fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
 - brenton: [missing]

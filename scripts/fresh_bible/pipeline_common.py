@@ -27,7 +27,7 @@ def write_csv(
     rows: list[dict[str, str]],
     fieldnames: list[str] | None = None,
     *,
-    lineterminator: str | None = None,
+    lineterminator: str | None = "\n",
 ) -> None:
     if not rows and fieldnames is None:
         return
@@ -67,4 +67,3 @@ def count_token(text: str, form: str) -> int:
 
 def sample_rows(rows: list[dict[str, str]], limit: int) -> list[dict[str, str]]:
     return rows[:limit]
-

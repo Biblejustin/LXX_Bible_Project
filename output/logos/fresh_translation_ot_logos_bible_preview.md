@@ -242,7 +242,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezra
 
-**Ezra 1:1** And in first year of Cyrus king of Persians, for fulfillment of word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+**Ezra 1:1** And in first year of Cyrus king of Persians, for fulfillment of the word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 12
@@ -315,7 +315,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 51
 
-**Psalms 1:2** but his delight is in law of the Lord, and in his law he will meditate day and night.
+**Psalms 1:2** but his delight is in the law of the Lord, and in his law he will meditate day and night.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 22
@@ -439,7 +439,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and hand of the Lord came upon me.
+**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
@@ -468,7 +468,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**Hosea 1:2** Beginning of word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+**Hosea 1:2** Beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19
@@ -541,14 +541,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 17
 
-**Jonah 1:3** Jonah rose to flee to Tarshish from face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from face of the Lord.
+**Jonah 1:3** Jonah rose to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from the face of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 25
 
 ## Micah
 
-**Micah 1:1** And word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
+**Micah 1:1** And the word of the Lord came to Micah the Morasthite in days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
@@ -616,7 +616,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Haggai
 
-**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
@@ -633,7 +633,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zechariah
 
-**Zechariah 1:1** In eighth month of second year of Darius, word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+**Zechariah 1:1** In eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -650,7 +650,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Malachi
 
-**Malachi 1:1** Oracle of word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
+**Malachi 1:1** Oracle of the word of the Lord upon Israel by hand of his messenger. Put this now on your hearts.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
