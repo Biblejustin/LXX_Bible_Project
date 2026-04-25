@@ -242,12 +242,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezra
 
-**Ezra 1:1** And in first year of Cyrus king of Persians, for fulfillment of the word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+**Ezra 1:1** And in the first year of Cyrus king of Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Ezra 1:2** Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+**Ezra 1:2** Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
@@ -310,7 +310,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Psalms
 
-**Psalms 1:1** Blessed man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
+**Psalms 1:1** Blessed is the man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 51

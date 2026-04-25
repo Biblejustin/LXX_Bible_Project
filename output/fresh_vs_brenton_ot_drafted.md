@@ -24267,7 +24267,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys."
+- fresh: For the cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys.
 - brenton: For a cloud was on the tabernacle by day, and fire was on it by night before all Israel, in all their journeyings.
 
 ## Leviticus
@@ -99196,7 +99196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: concerning all his kingdom and his mighty rule and times which came upon him and upon Israel and upon all kingdoms of earth.
+- fresh: concerning all his kingdom and his mighty rule and times which came upon him and upon Israel and upon all kingdoms of the earth.
 - brenton: concerning all his reign, and his power, and the times which went over him, and over Israel, and over all the kingdoms of the earth.
 
 ## 2 Chronicles
@@ -100791,7 +100791,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed your men; blessed these servants of yours standing before you continually and hearing your wisdom.
+- fresh: Blessed are your men; blessed are these servants of yours standing before you continually and hearing your wisdom.
 - brenton: Blessed are thy men, blessed are these thy servants, who stand before thee continually, and hear thy wisdom.
 
 ### 2 Chronicles 9:8
@@ -102249,7 +102249,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And terror of the Lord came upon all kingdoms of earth around Judah, and they did not war against Jehoshaphat.
+- fresh: And terror of the Lord came upon all kingdoms of the earth around Judah, and they did not war against Jehoshaphat.
 - brenton: And a terror of the Lord was upon all the kingdoms of the land round about Juda, and they made no war against Josaphat.
 
 ### 2 Chronicles 17:11
@@ -102996,7 +102996,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And terror of the Lord came upon all kingdoms of earth when they heard that the Lord fought against adversaries of Israel.
+- fresh: And terror of the Lord came upon all kingdoms of the earth when they heard that the Lord fought against adversaries of Israel.
 - brenton: And there was a terror of the Lord upon all the kingdoms of the land, when they heard that the Lord fought against the enemies of Israel.
 
 ### 2 Chronicles 20:30
@@ -106488,7 +106488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did evil before the Lord his God. He was not ashamed before Jeremiah the prophet speaking from mouth of the Lord.
+- fresh: And he did evil before the Lord his God. He was not ashamed before Jeremiah the prophet speaking from the mouth of the Lord.
 - brenton: And he did that which was evil in the sight of the Lord his God: he was not ashamed before the prophet Jeremias, nor because of the word of the Lord;
 
 ### 2 Chronicles 36:13
@@ -106578,7 +106578,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
+- fresh: In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
 - brenton: In the first year of Cyrus king of the Persians, after the fulfilment of the word of the Lord by the mouth of Jeremias, the Lord stirred up the spirit of Cyrus king of the Persians, and told him to make proclamation in writing throughout all his kingdom, saying,
 
 ### 2 Chronicles 36:23
@@ -106587,7 +106587,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he himself commanded me to build for him house in Jerusalem in Judah. Whoever among you is from all his people, his God shall be with him, and let him go up.
+- fresh: Thus says Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he himself commanded me to build for him a house in Jerusalem in Judah. Whoever among you is from all his people, his God shall be with him, and let him go up.
 - brenton: Thus says Cyrus king of the Persians to all the kingdoms of the earth, The Lord God of heaven has given me power, and he has commanded me to build a house to him in Jerusalem, in Judea. Who is there of you of all his people? his God shall be with him, and let him go up.
 
 ## Ezra
@@ -106598,7 +106598,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in first year of Cyrus king of Persians, for fulfillment of the word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+- fresh: And in the first year of Cyrus king of Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - brenton: Now in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,
 
 ### Ezra 1:2
@@ -106607,7 +106607,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+- fresh: Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - brenton: Thus said Cyrus king of the Persians, The Lord God of heaven has given me all the kingdoms of the earth, and he has given me a charge to build him a house in Jerusalem that is in Judea.
 
 ### Ezra 1:3
@@ -123751,7 +123751,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
+- fresh: Blessed is the man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
 - brenton: Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of evil men.
 
 ### Psalms 1:2
@@ -127630,7 +127630,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Of David. Of understanding. Blessed those whose lawless acts were forgiven and whose sins were covered.
+- fresh: Of David. Of understanding. Blessed are those whose lawless acts were forgiven and whose sins were covered.
 - brenton: A Psalm of instruction by David.
 
 ### Psalms 31:2
@@ -127639,7 +127639,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man to whom the Lord will by no means count sin, nor is deceit in his mouth.
+- fresh: Blessed is the man to whom the Lord will by no means count sin, nor is deceit in his mouth.
 - brenton: Blessed is the man to whom the Lord will not impute sin, and in whose mouth there is no guile.
 
 ### Psalms 31:3
@@ -127828,7 +127828,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed nation whose God is the Lord, people whom he chose for inheritance to himself.
+- fresh: Blessed is the nation whose God is the Lord, people whom he chose for inheritance to himself.
 - brenton: Blessed is the nation whose God is the Lord; the people whom he has chosen for his own inheritance.
 
 ### Psalms 32:13
@@ -129232,7 +129232,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man whose hope is the name of the Lord, and did not look toward vanities and false frenzies.
+- fresh: Blessed is the man whose hope is the name of the Lord, and did not look toward vanities and false frenzies.
 - brenton: Blessed is the man whose hope is the name of the Lord, and who has not regarded vanities and false frenzies.
 
 ### Psalms 39:6
@@ -129367,7 +129367,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed one understanding concerning poor and needy man; in evil day the Lord will rescue him.
+- fresh: Blessed is the one understanding concerning poor and needy man; in evil day the Lord will rescue him.
 - brenton: Blessed is the man who thinks on the poor and needy: the Lord shall deliver him in an evil day.
 
 ### Psalms 40:3
@@ -132490,7 +132490,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed one whom you chose and took to yourself; he will dwell in your courts. We will be filled with good things of your house; holy your temple, wondrous in righteousness.
+- fresh: Blessed is the one whom you chose and took to yourself; he will dwell in your courts. We will be filled with good things of your house; holy is your temple, wondrous in righteousness.
 - brenton: Blessed is he whom thou hast chosen and adopted; he shall dwell in thy courts; we shall be filled with the good things of thy house; thy temple is holy.
 
 ### Psalms 64:6
@@ -132751,7 +132751,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed God, who did not turn away my prayer and his mercy from me.
+- fresh: Blessed be God, who did not turn away my prayer and his mercy from me.
 - brenton: Blessed be God, who has not turned away my prayer, nor his mercy from me.
 
 ### Psalms 66:1
@@ -133147,7 +133147,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wonderful God in his holy ones; God of Israel, he will give power and strengthening to his people. Blessed God.
+- fresh: Wonderful God in his holy ones; God of Israel, he will give power and strengthening to his people. Blessed be God.
 - brenton: God is wonderful in his holy places, the God of Israel: he will give power and strength to his people: blessed be God.
 
 ### Psalms 68:1
@@ -136180,7 +136180,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed those dwelling in your house; forever and ever they will praise you. Interlude.
+- fresh: Blessed are those dwelling in your house; forever and ever they will praise you. Interlude.
 - brenton: Blessed are they that dwell in thy house: they will praise thee evermore. Pause.
 
 ### Psalms 83:6
@@ -136189,7 +136189,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man whose support is from you, Lord; ascents in his heart he arranged,
+- fresh: Blessed is the man whose support is from you, Lord; ascents in his heart he arranged,
 - brenton: Blessed is the man whose help is of thee, O Lord; in his heart he has purposed to go up
 
 ### Psalms 83:7
@@ -136909,7 +136909,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed people knowing shout; Lord, in light of your face they will walk.
+- fresh: Blessed are the people knowing shout; Lord, in light of your face they will walk.
 - brenton: Blessed is the people that knows the joyful sound: they shall walk, O Lord, in the light of thy countenance.
 
 ### Psalms 88:17
@@ -137836,7 +137836,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man whom you discipline, Lord, and teach from your law,
+- fresh: Blessed is the man whom you discipline, Lord, and teach from your law,
 - brenton: Blessed is the man whomsoever thou shalt chasten, O Lord, and shalt teach him out of thy law;
 
 ### Psalms 93:13
@@ -139744,7 +139744,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed those keeping judgment and doing righteousness in every time.
+- fresh: Blessed are those keeping judgment and doing righteousness in every time.
 - brenton: Blessed are they that keep judgment, and do righteousness at all times.
 
 ### Psalms 105:4
@@ -141103,7 +141103,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Alleluia. Blessed man fearing Lord; in his commandments he will desire greatly.
+- fresh: Alleluia. Blessed is the man fearing the Lord; in his commandments he will desire greatly.
 - brenton: Alleluia.
 
 ### Psalms 111:2
@@ -141472,7 +141472,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed you by Lord, who made heaven and earth.
+- fresh: Blessed are you by the Lord, who made heaven and earth.
 - brenton: Blessed are ye of the Lord, who made the heaven and the earth.
 
 ### Psalms 113:24
@@ -141913,7 +141913,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed one coming in the name of the Lord; we blessed you from house of the Lord.
+- fresh: Blessed is the one coming in the name of the Lord; we blessed you from house of the Lord.
 - brenton: Blessed is he that comes in the name of the Lord: we have blessed you out of the house of the Lord.
 
 ### Psalms 117:27
@@ -141958,7 +141958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed those searching out his testimonies; with whole heart they will seek him.
+- fresh: Blessed are those searching out his testimonies; with whole heart they will seek him.
 - brenton: Blessed are they that search out his testimonies: they will diligently seek him with the whole heart.
 
 ### Psalms 118:3
@@ -143992,7 +143992,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man who will fill his desire from them; they will not be shamed when they speak with their enemies in gate.
+- fresh: Blessed is the man who will fill his desire from them; they will not be shamed when they speak with their enemies in gate.
 - brenton: Blessed is the man who shall satisfy his desire with them: they shall not be ashamed when they shall speak to their enemies in the gates.
 
 ### Psalms 127:1
@@ -144937,7 +144937,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed who will seize and dash your infants against rock.
+- fresh: Blessed is the one who will seize and dash your infants against rock.
 - brenton: Blessed shall he be who shall seize and dash thine infants against the rock.
 
 ### Psalms 137:1
@@ -145990,7 +145990,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed whose helper God of Jacob, his hope upon the Lord his God.
+- fresh: Blessed is he whose helper is the God of Jacob, his hope upon the Lord his God.
 - brenton: Blessed is he whose helper is the God of Jacob, whose hope is in the Lord his God:
 
 ### Psalms 145:6
@@ -147090,7 +147090,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man who found wisdom, and mortal who saw understanding.
+- fresh: Blessed is the man who found wisdom, and mortal who saw understanding.
 - brenton: Blessed is the man who has found wisdom, and the mortal who knows prudence.
 
 ### Proverbs 3:14
@@ -148584,7 +148584,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man who will hear me, and man who will keep my ways, staying awake at my doors daily, keeping posts of my entrances.
+- fresh: Blessed is the man who will hear me, and man who will keep my ways, staying awake at my doors daily, keeping posts of my entrances.
 - brenton: watching daily at my doors, waiting at the posts of my entrances.
 
 ### Proverbs 8:35
@@ -149268,7 +149268,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed soul, every simple one; but hot-tempered man unseemly.
+- fresh: Every simple soul is blessed, but a hot-tempered man is unseemly.
 - brenton: Every sincere soul is blessed: but a passionate man is not graceful.
 
 ### Proverbs 11:26
@@ -152436,7 +152436,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wisdom and good understanding at gates of wise; wise men do not turn aside from mouth of the Lord.
+- fresh: Wisdom and good understanding at gates of wise; wise men do not turn aside from the mouth of the Lord.
 - brenton: Wisdom and good understanding are in the gates of the wise: the wise turn not aside from the mouth of the Lord,
 
 ### Proverbs 24:8
@@ -153552,7 +153552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man who trembles always in reverence, but hardening heart will fall into evils.
+- fresh: Blessed is the man who trembles always in reverence, but hardening heart will fall into evils.
 - brenton: Blessed is the man who religiously fears always: but the hard of heart shall fall into mischiefs.
 
 ### Proverbs 28:15
@@ -156254,7 +156254,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed are you, land whose king son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
+- fresh: Blessed are you, land whose king is son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
 - brenton: Blessed art thou, O land, whose king is a son of nobles, and whose princes shall eat seasonably, for strength, and shall not be ashamed.
 
 ### Ecclesiastes 10:18
@@ -162774,7 +162774,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed those staying in him.
+- fresh: And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are those staying in him.
 - brenton: And the Lord will again wait, that he may pity you, and will therefore be exalted that he may have mercy upon you: because the Lord your God is a judge: blessed are they that stay themselves upon him.
 
 ### Isaiah 30:19
@@ -162990,7 +162990,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed one having seed in Zion and household in Jerusalem.
+- fresh: For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and household in Jerusalem.
 - brenton: for they shall be compassed with rocks as with a trench, and shall be worsted; and he that flees shall be taken. Thus saith the Lord, Blessed is he that has a seed in Sion, and household friends in Jerusalem.
 
 ### Isaiah 32:1
@@ -163170,7 +163170,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed those sowing over every water, where ox and donkey do not tread.
+- fresh: Blessed are those sowing over every water, where ox and donkey do not tread.
 - brenton: Blessed are they that sow by every water, where the ox and ass tread.
 
 ### Isaiah 33:1
@@ -163359,7 +163359,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the name of the Lord great to you; place to you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will vessel go through.
+- fresh: Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will a vessel go through.
 - brenton: for the name of the Lord is great to you: ye shall have a place, even rivers and wide and spacious channels: thou shalt not go this way, neither a vessel with oars go thereby.
 
 ### Isaiah 33:22
@@ -167454,7 +167454,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
+- fresh: Blessed is the man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
 - brenton: Blessed is the man that does these things, and the man that holds by them, and keeps the sabbaths from profaning them, and keeps his hands from doing unrighteousness.
 
 ### Isaiah 56:3
@@ -172433,7 +172433,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will hand them over to troubles for all kingdoms of earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
+- fresh: And I will hand them over to troubles for all kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
 - brenton: And I will deliver them up for distress to all the kingdoms of the earth, because of Manasses son of Ezekias king of Juda, for all that he did in Jerusalem.
 
 ### Jeremiah 15:5
@@ -174026,7 +174026,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Do not hear words of prophets. They make vain things for themselves. They speak vision from their own heart and not from mouth of the Lord.
+- fresh: Thus says the Lord Almighty: Do not hear words of prophets. They make vain things for themselves. They speak vision from their own heart and not from the mouth of the Lord.
 - brenton: Thus saith the Lord Almighty, Hearken not to the words of the prophets: for they frame a vain vision for themselves; they speak from their own heart, and not from the mouth of the Lord.
 
 ### Jeremiah 23:17
@@ -174323,7 +174323,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give them for dispersion into all kingdoms of earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
+- fresh: And I will give them for dispersion into all kingdoms of the earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
 - brenton: And I will cause them to be dispersed into all the kingdoms of the earth, and they shall be for a reproach, and a proverb, and an object of hatred, and a curse, in every place whither I have driven them out.
 
 ### Jeremiah 24:10
@@ -178760,7 +178760,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of earth.
+- fresh: Therefore thus said the Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of the earth.
 - brenton: Therefore thus said the Lord; Ye have not hearkened to me, to proclaim a release every one to his neighbour: behold, I proclaim a release to you, to the sword, and to the pestilence, and to the famine; and I will give you up to dispersion among all the kingdoms of the earth.
 
 ### Jeremiah 41:18
@@ -179012,7 +179012,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah called Baruch son of Neriah, and Baruch wrote from mouth of Jeremiah all words of the Lord which he answered to him into scroll-sheet.
+- fresh: And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all words of the Lord which he answered to him into scroll-sheet.
 - brenton: So Jeremias called Baruch the son of Nerias: and he wrote from the mouth of Jeremias all the words of the Lord, which he had spoken to him, on a roll of a book.
 
 ### Jeremiah 43:5
@@ -179219,7 +179219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from mouth of Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from the mouth of Jeremiah, saying,
 - brenton: Then the word of the Lord came to Jeremias, after the king had burnt the roll, even all the words which Baruch wrote from the mouth of Jeremias, saying,
 
 ### Jeremiah 43:28
@@ -179264,7 +179264,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch took another sheet and wrote on it from mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
+- fresh: And Baruch took another sheet and wrote on it from the mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
 - brenton: And Baruch took another roll, and wrote upon it from the mouth of Jeremias all the words of the book which Joakim had burnt: and there were yet more words added to it like the former.
 
 ### Jeremiah 44:1
@@ -180677,7 +180677,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
+- fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
 - brenton: The Word which Jeremias the Prophet spoke to Baruch son of Nerias, when he wrote these words in the book from the mouth of Jeremias, in the fourth year of Joakim the son of Josias king of Juda.
 
 ### Jeremiah 51:32
@@ -196289,7 +196289,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in first year of Cyrus the king he told me to be strengthened and be manly.
+- fresh: And in the first year of Cyrus the king he told me to be strengthened and be manly.
 - brenton: [missing]
 
 ### Daniel 11:2
@@ -196793,7 +196793,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is one remaining and gathering to one thousand three hundred thirty-five days.
+- fresh: Blessed is the one remaining and gathering to one thousand three hundred thirty-five days.
 - brenton: [missing]
 
 ### Daniel 12:13
@@ -205275,7 +205275,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be Lord, and we have grown rich, and their shepherds suffered nothing over them.
+- fresh: which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, and we have grown rich, and their shepherds suffered nothing over them.
 - brenton: which their possessors have slain, and have not repented: and they that sold them said, Blessed be the Lord; for we have become rich: and their shepherds have suffered no sorrow for them.
 
 ### Zechariah 11:6

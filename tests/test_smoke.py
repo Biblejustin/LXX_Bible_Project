@@ -212,6 +212,22 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "praise name of the Lord",
         "Let name of the Lord",
         "in name of the Lord",
+        "For cloud was upon the tent",
+        "name of the Lord great to you",
+        "place to you will be rivers",
+        "nor will vessel go through",
+        "from mouth of the Lord",
+        "from mouth of Jeremiah",
+        "the Lord stirred spirit of Cyrus",
+        "all kingdoms of earth",
+        "build for him house in Jerusalem",
+        "Blessed man fearing Lord",
+        "Blessed one having",
+        "Blessed God,",
+        "Blessed be Lord",
+        "Blessed is one remaining",
+        "Blessed soul, every simple one",
+        "whose king son of nobles",
     )
     non_possessive_lord = r"(?<![Tt]he )(?<!my )(?<!your )(?<!our )(?<!his )(?<!their )\bLord "
     bare_subject_pattern = re.compile(
@@ -281,6 +297,30 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "which the Lord planted" in by_ref["Isaiah 44:14"]["draft_translation"]
     assert "the Lord of heaven has authority" in by_ref["Daniel 4:17"]["draft_translation"]
     assert "relied on the Lord saying" in by_ref["Micah 3:11"]["draft_translation"]
+    assert by_ref["Exodus 40:38"]["draft_translation"] == (
+        "For the cloud was upon the tent by day, and fire upon it by night, "
+        "before all Israel in all their journeys."
+    )
+    assert by_ref["Psalms 1:1"]["draft_translation"].startswith("Blessed is the man who")
+    assert by_ref["Psalms 83:5"]["draft_translation"].startswith("Blessed are those")
+    assert by_ref["Psalms 145:5"]["draft_translation"].startswith("Blessed is he whose helper is the God of Jacob")
+    assert "Blessed are you by the Lord" in by_ref["Psalms 113:23"]["draft_translation"]
+    assert "the name of the Lord is great to you" in by_ref["Isaiah 33:21"]["draft_translation"]
+    assert "from the mouth of Jeremiah" in by_ref["Ezra 1:1"]["draft_translation"]
+    assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
+    assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
+    assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")
+    assert by_ref["Isaiah 31:9"]["draft_translation"].endswith(
+        "Blessed is the one having seed in Zion and household in Jerusalem."
+    )
+    assert by_ref["Psalms 65:20"]["draft_translation"].startswith("Blessed be God,")
+    assert by_ref["Psalms 67:36"]["draft_translation"].endswith("Blessed be God.")
+    assert "Blessed be the Lord" in by_ref["Zechariah 11:5"]["draft_translation"]
+    assert by_ref["Proverbs 11:25"]["draft_translation"] == (
+        "Every simple soul is blessed, but a hot-tempered man is unseemly."
+    )
+    assert "whose king is son of nobles" in by_ref["Ecclesiastes 10:17"]["draft_translation"]
+    assert by_ref["Daniel 12:12"]["draft_translation"].startswith("Blessed is the one remaining")
 
 
 def test_lexham_textual_export_is_not_enabled_from_user_desktop_by_default() -> None:

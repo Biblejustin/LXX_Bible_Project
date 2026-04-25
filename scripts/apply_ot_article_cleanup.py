@@ -259,6 +259,114 @@ LORD_OBJECT_REPLACEMENTS = (
         "relied on the Lord saying",
     ),
     (
+        re.compile(r"\bFor cloud was upon the tent by day\b"),
+        "For the cloud was upon the tent by day",
+    ),
+    (
+        re.compile(r'\bbefore all Israel in all their journeys\."'),
+        "before all Israel in all their journeys.",
+    ),
+    (
+        re.compile(r"\bthe name of the Lord great to you; place to you will be\b"),
+        "the name of the Lord is great to you; a place for you will be",
+    ),
+    (
+        re.compile(r"\bnor will vessel go through\b"),
+        "nor will a vessel go through",
+    ),
+    (
+        re.compile(r"\bAnd in first year of Cyrus\b"),
+        "And in the first year of Cyrus",
+    ),
+    (
+        re.compile(r"\bfrom mouth of (the Lord|Jeremiah)\b"),
+        r"from the mouth of \1",
+    ),
+    (
+        re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
+        "the Lord stirred the spirit of Cyrus",
+    ),
+    (
+        re.compile(r"\ball kingdoms of earth\b"),
+        "all kingdoms of the earth",
+    ),
+    (
+        re.compile(r"\bbuild for him house in Jerusalem\b"),
+        "build for him a house in Jerusalem",
+    ),
+    (
+        re.compile(r"\bBlessed your men; blessed these servants\b"),
+        "Blessed are your men; blessed are these servants",
+    ),
+    (
+        re.compile(r"\bBlessed man (who|to whom|whose|whom|doing)\b"),
+        r"Blessed is the man \1",
+    ),
+    (
+        re.compile(r"\bBlessed man fearing Lord\b"),
+        "Blessed is the man fearing the Lord",
+    ),
+    (
+        re.compile(r"\bBlessed nation whose\b"),
+        "Blessed is the nation whose",
+    ),
+    (
+        re.compile(r"\bBlessed one (understanding|whom|coming)\b"),
+        r"Blessed is the one \1",
+    ),
+    (
+        re.compile(r"\bBlessed one having\b"),
+        "Blessed is the one having",
+    ),
+    (
+        re.compile(r"\bBlessed those\b"),
+        "Blessed are those",
+    ),
+    (
+        re.compile(r"\bBlessed people knowing\b"),
+        "Blessed are the people knowing",
+    ),
+    (
+        re.compile(r"\bBlessed you by Lord\b"),
+        "Blessed are you by the Lord",
+    ),
+    (
+        re.compile(r"\bBlessed who will\b"),
+        "Blessed is the one who will",
+    ),
+    (
+        re.compile(r"\bBlessed is one remaining\b"),
+        "Blessed is the one remaining",
+    ),
+    (
+        re.compile(r"\bBlessed whose helper God of Jacob\b"),
+        "Blessed is he whose helper is the God of Jacob",
+    ),
+    (
+        re.compile(r"\bBlessed God,"),
+        "Blessed be God,",
+    ),
+    (
+        re.compile(r"\bBlessed God\."),
+        "Blessed be God.",
+    ),
+    (
+        re.compile(r"\bBlessed be Lord\b"),
+        "Blessed be the Lord",
+    ),
+    (
+        re.compile(r"\bBlessed soul, every simple one; but hot-tempered man unseemly\."),
+        "Every simple soul is blessed, but a hot-tempered man is unseemly.",
+    ),
+    (
+        re.compile(r"\bBlessed are you, land whose king son of nobles\b"),
+        "Blessed are you, land whose king is son of nobles",
+    ),
+    (
+        re.compile(r"\bholy your temple\b"),
+        "holy is your temple",
+    ),
+    (
         re.compile(r"\bwithout Lord to war\b"),
         "without the Lord to war",
     ),

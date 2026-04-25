@@ -10960,7 +10960,7 @@ But if the cloud did not go up, they did not set out until the day the cloud wen
 
 **Exodus 40:38**
 
-For cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys."
+For the cloud was upon the tent by day, and fire upon it by night, before all Israel in all their journeys.
 
 ## Leviticus
 
@@ -44828,7 +44828,7 @@ And rest of matters of king David, first and last, are written in words of Samue
 
 **1 Chronicles 29:30**
 
-concerning all his kingdom and his mighty rule and times which came upon him and upon Israel and upon all kingdoms of earth.
+concerning all his kingdom and his mighty rule and times which came upon him and upon Israel and upon all kingdoms of the earth.
 
 ## 2 Chronicles
 
@@ -45556,7 +45556,7 @@ And I did not believe words until I came and my eyes saw, and behold, half multi
 
 **2 Chronicles 9:7**
 
-Blessed your men; blessed these servants of yours standing before you continually and hearing your wisdom.
+Blessed are your men; blessed are these servants of yours standing before you continually and hearing your wisdom.
 
 **2 Chronicles 9:8**
 
@@ -46220,7 +46220,7 @@ And they were teaching in Judah, and with them was book of the law of the Lord, 
 
 **2 Chronicles 17:10**
 
-And terror of the Lord came upon all kingdoms of earth around Judah, and they did not war against Jehoshaphat.
+And terror of the Lord came upon all kingdoms of the earth around Judah, and they did not war against Jehoshaphat.
 
 **2 Chronicles 17:11**
 
@@ -46558,7 +46558,7 @@ And they entered into Jerusalem with harps and lyres and trumpets to house of th
 
 **2 Chronicles 20:29**
 
-And terror of the Lord came upon all kingdoms of earth when they heard that the Lord fought against adversaries of Israel.
+And terror of the Lord came upon all kingdoms of the earth when they heard that the Lord fought against adversaries of Israel.
 
 **2 Chronicles 20:30**
 
@@ -48142,7 +48142,7 @@ Zedekiah was twenty-one years old when he reigned, and eleven years he reigned i
 
 **2 Chronicles 36:12**
 
-And he did evil before the Lord his God. He was not ashamed before Jeremiah the prophet speaking from mouth of the Lord.
+And he did evil before the Lord his God. He was not ashamed before Jeremiah the prophet speaking from the mouth of the Lord.
 
 **2 Chronicles 36:13**
 
@@ -48182,11 +48182,11 @@ to fulfill the word of the Lord by mouth of Jeremiah, until land welcomed its Sa
 
 **2 Chronicles 36:22**
 
-In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
+In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
 
 **2 Chronicles 36:23**
 
-Thus says Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he himself commanded me to build for him house in Jerusalem in Judah. Whoever among you is from all his people, his God shall be with him, and let him go up.
+Thus says Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he himself commanded me to build for him a house in Jerusalem in Judah. Whoever among you is from all his people, his God shall be with him, and let him go up.
 
 ## Ezra
 
@@ -48194,11 +48194,11 @@ Thus says Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of
 
 **Ezra 1:1**
 
-And in first year of Cyrus king of Persians, for fulfillment of the word of the Lord from mouth of Jeremiah, the Lord stirred spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+And in the first year of Cyrus king of Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 
 **Ezra 1:2**
 
-Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 
 **Ezra 1:3**
 
@@ -55972,7 +55972,7 @@ And Job died old and full of days. And it is written that he will rise again wit
 
 **Psalms 1:1**
 
-Blessed man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
+Blessed is the man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
 
 **Psalms 1:2**
 
@@ -57756,11 +57756,11 @@ Act like men and let your heart be strengthened, all hoping upon the Lord.
 
 **Psalms 31:1**
 
-Of David. Of understanding. Blessed those whose lawless acts were forgiven and whose sins were covered.
+Of David. Of understanding. Blessed are those whose lawless acts were forgiven and whose sins were covered.
 
 **Psalms 31:2**
 
-Blessed man to whom the Lord will by no means count sin, nor is deceit in his mouth.
+Blessed is the man to whom the Lord will by no means count sin, nor is deceit in his mouth.
 
 **Psalms 31:3**
 
@@ -57846,7 +57846,7 @@ But counsel of the Lord remains into age, reasonings of his heart from generatio
 
 **Psalms 32:12**
 
-Blessed nation whose God is the Lord, people whom he chose for inheritance to himself.
+Blessed is the nation whose God is the Lord, people whom he chose for inheritance to himself.
 
 **Psalms 32:13**
 
@@ -58484,7 +58484,7 @@ And he threw into my mouth new song, hymn to our God. Many will see and fear and
 
 **Psalms 39:5**
 
-Blessed man whose hope is the name of the Lord, and did not look toward vanities and false frenzies.
+Blessed is the man whose hope is the name of the Lord, and did not look toward vanities and false frenzies.
 
 **Psalms 39:6**
 
@@ -58546,7 +58546,7 @@ For end. Psalm of David.
 
 **Psalms 40:2**
 
-Blessed one understanding concerning poor and needy man; in evil day the Lord will rescue him.
+Blessed is the one understanding concerning poor and needy man; in evil day the Lord will rescue him.
 
 **Psalms 40:3**
 
@@ -59982,7 +59982,7 @@ Words of lawless men overpowered us, and our ungodlinesses you will propitiate.
 
 **Psalms 64:5**
 
-Blessed one whom you chose and took to yourself; he will dwell in your courts. We will be filled with good things of your house; holy your temple, wondrous in righteousness.
+Blessed is the one whom you chose and took to yourself; he will dwell in your courts. We will be filled with good things of your house; holy is your temple, wondrous in righteousness.
 
 **Psalms 64:6**
 
@@ -60100,7 +60100,7 @@ Therefore God heard me; he attended to voice of my supplication.
 
 **Psalms 65:20**
 
-Blessed God, who did not turn away my prayer and his mercy from me.
+Blessed be God, who did not turn away my prayer and his mercy from me.
 
 ### Chapter 66
 
@@ -60280,7 +60280,7 @@ Give glory to God; over Israel his magnificence and his power in clouds.
 
 **Psalms 67:36**
 
-Wonderful God in his holy ones; God of Israel, he will give power and strengthening to his people. Blessed God.
+Wonderful God in his holy ones; God of Israel, he will give power and strengthening to his people. Blessed be God.
 
 ### Chapter 68
 
@@ -61660,11 +61660,11 @@ For even sparrow found house for itself, and turtledove nest for herself where s
 
 **Psalms 83:5**
 
-Blessed those dwelling in your house; forever and ever they will praise you. Interlude.
+Blessed are those dwelling in your house; forever and ever they will praise you. Interlude.
 
 **Psalms 83:6**
 
-Blessed man whose support is from you, Lord; ascents in his heart he arranged,
+Blessed is the man whose support is from you, Lord; ascents in his heart he arranged,
 
 **Psalms 83:7**
 
@@ -61994,7 +61994,7 @@ Righteousness and judgment are the foundation of your throne; mercy and truth wi
 
 **Psalms 88:16**
 
-Blessed people knowing shout; Lord, in light of your face they will walk.
+Blessed are the people knowing shout; Lord, in light of your face they will walk.
 
 **Psalms 88:17**
 
@@ -62416,7 +62416,7 @@ The Lord knows thoughts of men, that they are vain.
 
 **Psalms 93:12**
 
-Blessed man whom you discipline, Lord, and teach from your law,
+Blessed is the man whom you discipline, Lord, and teach from your law,
 
 **Psalms 93:13**
 
@@ -63288,7 +63288,7 @@ Who will speak powers of the Lord, make all his praises heard?
 
 **Psalms 105:3**
 
-Blessed those keeping judgment and doing righteousness in every time.
+Blessed are those keeping judgment and doing righteousness in every time.
 
 **Psalms 105:4**
 
@@ -63904,7 +63904,7 @@ Beginning of wisdom the fear of the Lord; good understanding to all doing it; hi
 
 **Psalms 111:1**
 
-Alleluia. Blessed man fearing Lord; in his commandments he will desire greatly.
+Alleluia. Blessed is the man fearing the Lord; in his commandments he will desire greatly.
 
 **Psalms 111:2**
 
@@ -64072,7 +64072,7 @@ May the Lord add upon you, upon you and upon your sons.
 
 **Psalms 113:23**
 
-Blessed you by Lord, who made heaven and earth.
+Blessed are you by the Lord, who made heaven and earth.
 
 **Psalms 113:24**
 
@@ -64276,7 +64276,7 @@ O Lord, save indeed; O Lord, prosper indeed.
 
 **Psalms 117:26**
 
-Blessed one coming in the name of the Lord; we blessed you from house of the Lord.
+Blessed is the one coming in the name of the Lord; we blessed you from house of the Lord.
 
 **Psalms 117:27**
 
@@ -64298,7 +64298,7 @@ Alleluia. Aleph. Blessed blameless ones in way, those walking in the law of the 
 
 **Psalms 118:2**
 
-Blessed those searching out his testimonies; with whole heart they will seek him.
+Blessed are those searching out his testimonies; with whole heart they will seek him.
 
 **Psalms 118:3**
 
@@ -65218,7 +65218,7 @@ Like arrows in hand of mighty one, so sons of those thrust out.
 
 **Psalms 126:5**
 
-Blessed man who will fill his desire from them; they will not be shamed when they speak with their enemies in gate.
+Blessed is the man who will fill his desire from them; they will not be shamed when they speak with their enemies in gate.
 
 ### Chapter 127
 
@@ -65658,7 +65658,7 @@ Daughter of Babylon, wretched one, blessed who will repay you repayment that you
 
 **Psalms 136:9**
 
-Blessed who will seize and dash your infants against rock.
+Blessed is the one who will seize and dash your infants against rock.
 
 ### Chapter 137
 
@@ -66144,7 +66144,7 @@ His spirit will go out and he will return to his earth; in that day all their pl
 
 **Psalms 145:5**
 
-Blessed whose helper God of Jacob, his hope upon the Lord his God.
+Blessed is he whose helper is the God of Jacob, his hope upon the Lord his God.
 
 **Psalms 145:6**
 
@@ -66650,7 +66650,7 @@ For whom the Lord loves he disciplines, and he scourges every son whom he receiv
 
 **Proverbs 3:13**
 
-Blessed man who found wisdom, and mortal who saw understanding.
+Blessed is the man who found wisdom, and mortal who saw understanding.
 
 **Proverbs 3:14**
 
@@ -67324,7 +67324,7 @@ Now then, son, hear me.
 
 **Proverbs 8:34**
 
-Blessed man who will hear me, and man who will keep my ways, staying awake at my doors daily, keeping posts of my entrances.
+Blessed is the man who will hear me, and man who will keep my ways, staying awake at my doors daily, keeping posts of my entrances.
 
 **Proverbs 8:35**
 
@@ -67634,7 +67634,7 @@ There are those sowing their own things and making them more; there are also tho
 
 **Proverbs 11:25**
 
-Blessed soul, every simple one; but hot-tempered man unseemly.
+Every simple soul is blessed, but a hot-tempered man is unseemly.
 
 **Proverbs 11:26**
 
@@ -69068,7 +69068,7 @@ With steering war happens, and help with counseling heart.
 
 **Proverbs 24:7**
 
-Wisdom and good understanding at gates of wise; wise men do not turn aside from mouth of the Lord.
+Wisdom and good understanding at gates of wise; wise men do not turn aside from the mouth of the Lord.
 
 **Proverbs 24:8**
 
@@ -69572,7 +69572,7 @@ One covering his ungodliness will not prosper, but one confessing rebukes will b
 
 **Proverbs 28:14**
 
-Blessed man who trembles always in reverence, but hardening heart will fall into evils.
+Blessed is the man who trembles always in reverence, but hardening heart will fall into evils.
 
 **Proverbs 28:15**
 
@@ -70800,7 +70800,7 @@ Woe to you, city whose king young, and your rulers eat in morning.
 
 **Ecclesiastes 10:17**
 
-Blessed are you, land whose king son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
+Blessed are you, land whose king is son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
 
 **Ecclesiastes 10:18**
 
@@ -73780,7 +73780,7 @@ At voice of one, thousand will flee, and at voice of five, many will flee until 
 
 **Isaiah 30:18**
 
-And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed those staying in him.
+And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are those staying in him.
 
 **Isaiah 30:19**
 
@@ -73878,7 +73878,7 @@ And Asshur will fall, not by sword of man, nor sword of human devour him; and he
 
 **Isaiah 31:9**
 
-For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed one having seed in Zion and household in Jerusalem.
+For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and household in Jerusalem.
 
 ### Chapter 32
 
@@ -73960,7 +73960,7 @@ And if hail comes down, it will not come upon you, and those dwelling in forests
 
 **Isaiah 32:20**
 
-Blessed those sowing over every water, where ox and donkey do not tread.
+Blessed are those sowing over every water, where ox and donkey do not tread.
 
 ### Chapter 33
 
@@ -74046,7 +74046,7 @@ Behold Zion, city of our salvation. Your eyes will see Jerusalem, rich city; ten
 
 **Isaiah 33:21**
 
-Because the name of the Lord great to you; place to you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will vessel go through.
+Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will a vessel go through.
 
 **Isaiah 33:22**
 
@@ -75912,7 +75912,7 @@ Thus says the Lord: Keep judgment. Do righteousness, because my salvation draws 
 
 **Isaiah 56:2**
 
-Blessed man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
+Blessed is the man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
 
 **Isaiah 56:3**
 
@@ -78176,7 +78176,7 @@ And I will avenge on them with four kinds, says the Lord: sword for slaughter an
 
 **Jeremiah 15:4**
 
-And I will hand them over to troubles for all kingdoms of earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
+And I will hand them over to troubles for all kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
 
 **Jeremiah 15:5**
 
@@ -78900,7 +78900,7 @@ Therefore thus says the Lord: Behold, I feed them pain and give them bitter wate
 
 **Jeremiah 23:16**
 
-Thus says the Lord Almighty: Do not hear words of prophets. They make vain things for themselves. They speak vision from their own heart and not from mouth of the Lord.
+Thus says the Lord Almighty: Do not hear words of prophets. They make vain things for themselves. They speak vision from their own heart and not from the mouth of the Lord.
 
 **Jeremiah 23:17**
 
@@ -79034,7 +79034,7 @@ And like bad figs, which will not be eaten because of their badness, thus says t
 
 **Jeremiah 24:9**
 
-And I will give them for dispersion into all kingdoms of earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
+And I will give them for dispersion into all kingdoms of the earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
 
 **Jeremiah 24:10**
 
@@ -81040,7 +81040,7 @@ And you turned back and profaned my name, by turning back each his male servant 
 
 **Jeremiah 41:17**
 
-Therefore thus said the Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of earth.
+Therefore thus said the Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of the earth.
 
 **Jeremiah 41:18**
 
@@ -81156,7 +81156,7 @@ Perhaps house of Judah will hear all evils which I plan to do to them, so that t
 
 **Jeremiah 43:4**
 
-And Jeremiah called Baruch son of Neriah, and Baruch wrote from mouth of Jeremiah all words of the Lord which he answered to him into scroll-sheet.
+And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all words of the Lord which he answered to him into scroll-sheet.
 
 **Jeremiah 43:5**
 
@@ -81248,7 +81248,7 @@ And king commanded Jeremeeel son of king and Seraiah son of Azriel to seize Baru
 
 **Jeremiah 43:27**
 
-And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from mouth of Jeremiah, saying,
+And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from the mouth of Jeremiah, saying,
 
 **Jeremiah 43:28**
 
@@ -81268,7 +81268,7 @@ And I will visit upon him and upon his seed and upon his servants, and I will br
 
 **Jeremiah 43:32**
 
-And Baruch took another sheet and wrote on it from mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
+And Baruch took another sheet and wrote on it from the mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
 
 ### Chapter 44
 
@@ -81912,7 +81912,7 @@ Thus said the Lord: Behold, I give Hophra king of Egypt into hands of his enemy 
 
 **Jeremiah 51:31**
 
-Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
+Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
 
 **Jeremiah 51:32**
 
@@ -88984,7 +88984,7 @@ But I will plainly show you first things in writing of truth, and no one was hel
 
 **Daniel 11:1**
 
-And in first year of Cyrus the king he told me to be strengthened and be manly.
+And in the first year of Cyrus the king he told me to be strengthened and be manly.
 
 **Daniel 11:2**
 
@@ -89210,7 +89210,7 @@ From time sacrifice is removed continually and abomination of desolation is prep
 
 **Daniel 12:12**
 
-Blessed is one remaining and gathering to one thousand three hundred thirty-five days.
+Blessed is the one remaining and gathering to one thousand three hundred thirty-five days.
 
 **Daniel 12:13**
 
@@ -93114,7 +93114,7 @@ Thus says the Lord Almighty: Shepherd sheep of slaughter,
 
 **Zechariah 11:5**
 
-which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be Lord, and we have grown rich, and their shepherds suffered nothing over them.
+which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, and we have grown rich, and their shepherds suffered nothing over them.
 
 **Zechariah 11:6**
 
