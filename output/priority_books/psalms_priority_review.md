@@ -5,7 +5,7 @@ Selected verses: 6
 ## Psalms 19:7
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, lord, salvation; crossref_top_vote=52; eng_reco=keep; reco=keep
-- fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in acts of power.
+- fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in the acts of power.
 - brenton: Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.
 
 ## Psalms 23:5

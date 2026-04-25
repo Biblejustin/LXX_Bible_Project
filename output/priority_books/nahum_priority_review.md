@@ -17,7 +17,7 @@ Selected verses: 6
 ## Nahum 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=75; reco=keep
-- fresh: The Lord is good to those waiting for him in day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ## Nahum 1:9

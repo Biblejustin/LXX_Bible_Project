@@ -224,7 +224,7 @@ Rows: 49
 - signals: mt_leaning, unclear
 - recommendation: `keep`
 - latest review status: `revised`
-- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
+- fresh: And he will stand and see and shepherd his flock in the strength of the Lord and in the glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: And the Lord shall stand, and see, and feed his flock with power, and they shall dwell in the glory of the name of the Lord their God: for now shall they be magnified to the ends of the earth.
 
 ## Jeremiah 9:23

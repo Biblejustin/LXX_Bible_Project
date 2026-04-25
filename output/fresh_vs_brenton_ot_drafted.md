@@ -1324,7 +1324,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to birds of heaven, because I regret that I made them.'
+- fresh: And God said, 'I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to the birds of heaven, because I regret that I made them.'
 - brenton: And God said, I will blot out man whom I have made from the face of the earth, even man with cattle, and reptiles with flying creatures of the sky, for I am grieved that I have made them.
 
 ### Genesis 6:8
@@ -9352,7 +9352,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jacob came to Isaac his father at Mamre, to city of the plain (this is Hebron) in the land of Canaan, where Abraham and Isaac had sojourned.
+- fresh: And Jacob came to Isaac his father at Mamre, to the city of the plain (this is Hebron) in the land of Canaan, where Abraham and Isaac had sojourned.
 - brenton: And Jacob came to Isaac his father to Mambre, to a city of the plain; this is Chebron in the land of Chanaan, where Abraam and Isaac sojourned.
 
 ### Genesis 35:28
@@ -18282,7 +18282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: "You yourselves have seen what I did to the Egyptians, and I took you up as on wings of eagles, and I brought you near to myself."
+- fresh: "You yourselves have seen what I did to the Egyptians, and I took you up as on the wings of eagles, and I brought you near to myself."
 - brenton: Ye have seen all that I have done to the Egyptians, and I took you up as upon eagles' wings, and I brought you near to myself.
 
 ### Exodus 19:5
@@ -38806,7 +38806,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses sent envoys to Sihon king of the Amorites with words of peace, saying,
+- fresh: And Moses sent envoys to Sihon king of the Amorites with the words of peace, saying,
 - brenton: We will pass through thy land, we will go by the road; we will not turn aside to the field or to the vineyard.
 
 ### Numbers 21:22
@@ -39364,7 +39364,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Spirit of God came to be on him, and taking up his oracle, he said: From Mesopotamia Balak king of Moab has summoned me, from mountains of the east, saying, Come, curse Jacob for me, and come, curse Israel for me.
+- fresh: And the Spirit of God came to be on him, and taking up his oracle, he said: From Mesopotamia Balak king of Moab has summoned me, from the mountains of the east, saying, Come, curse Jacob for me, and come, curse Israel for me.
 - brenton: And he took up his parable, and said, Balac king of Moab sent for me out of Mesopotamia, out of the mountains of the east, saying, Come, curse me Jacob, and Come, call for a curse for me upon Israel.
 
 ### Numbers 23:8
@@ -40435,7 +40435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To these the land shall be divided for inheritance by number of names.
+- fresh: To these the land shall be divided for inheritance by the number of names.
 - brenton: To these the land shall be divided, so that they may inherit according to the number of the names.
 
 ### Numbers 26:54
@@ -42739,7 +42739,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Aaron the priest went up by command of the Lord and died there, in the fortieth year of the departure of the sons of Israel from the land of Egypt, in the fifth month, on the first day of the month.
+- fresh: And Aaron the priest went up by the command of the Lord and died there, in the fortieth year of the departure of the sons of Israel from the land of Egypt, in the fifth month, on the first day of the month.
 - brenton: And Aaron the priest went up by the command of the Lord, and died there in the fortieth year of the departure of the children of Israel from the land of Egypt, in the fifth month, on the first day of the month.
 
 ### Numbers 33:39
@@ -43513,7 +43513,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses commanded the sons of Israel by command of the Lord, saying, Thus the tribe of the sons of Joseph speaks.
+- fresh: And Moses commanded the sons of Israel by the command of the Lord, saying, Thus the tribe of the sons of Joseph speaks.
 - brenton: And Moses charged the children of Israel by the commandment of the Lord, saying, Thus says the tribe of the children of Joseph.
 
 ### Numbers 36:6
@@ -44235,7 +44235,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I sent envoys from the wilderness of Kedemoth to Sihon king of Heshbon with words of peace, saying,
+- fresh: And I sent envoys from the wilderness of Kedemoth to Sihon king of Heshbon with the words of peace, saying,
 - brenton: And I sent ambassadors from the wilderness of Kedamoth to Seon king of Esebon with peaceable words, saying,
 
 ### Deuteronomy 2:27
@@ -51507,7 +51507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: butter of cattle and milk of sheep, with fat of lambs and rams, sons of bulls and goats, with fat of kidneys of wheat, and they drank the blood of grapes, wine.
+- fresh: butter of cattle and milk of sheep, with the fat of lambs and rams, sons of bulls and goats, with the fat of kidneys of wheat, and they drank the blood of grapes, wine.
 - brenton: Butter of cows, and milk of sheep, with the fat of lambs and rams, of calves and kids, with fat of kidneys of wheat; and he drank wine, the blood of the grape.
 
 ### Deuteronomy 32:15
@@ -51966,7 +51966,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Joseph he said, His land is from the blessings of the Lord, from seasons of heaven and dew and from springs of depths below,
+- fresh: And to Joseph he said, His land is from the blessings of the Lord, from seasons of heaven and dew and from the springs of depths below,
 - brenton: And to Joseph he said, His land is of the blessing of the Lord, of the seasons of sky and dew, and of the deeps of wells below,
 
 ### Deuteronomy 33:14
@@ -54434,7 +54434,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when Jabin king of Hazor heard, he sent to Jobab king of Madon and to the king of Shimron and to king of Achshaph,
+- fresh: And when Jabin king of Hazor heard, he sent to Jobab king of Madon and to the king of Shimron and to the king of Achshaph,
 - brenton: And when Jabis the king of Asor heard, he sent to Jobab king of Maron, and to the king of Symoön, and to the king of Aziph,
 
 ### Joshua 11:2
@@ -56792,7 +56792,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By command of God they gave him the city he asked, Thamnasarach, which is in the hill-country of Ephraim, and he built the city and lived in it.
+- fresh: By the command of God they gave him the city he asked, Thamnasarach, which is in the hill-country of Ephraim, and he built the city and lived in it.
 - brenton: by the command of God, and they gave him the city which he asked for, Thamnasarach, which is in the mount of Ephraim; and he built the city, and dwelt in it.
 
 ### Joshua 19:51
@@ -56882,7 +56882,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Israel gave to the Levites, in their inheriting, by command of the Lord, the cities and their pasturelands.
+- fresh: And the sons of Israel gave to the Levites, in their inheriting, by the command of the Lord, the cities and their pasturelands.
 - brenton: So the children of Israel gave to the Levites in their inheritance by the command of the Lord the cities and the country round.
 
 ### Joshua 21:4
@@ -57233,7 +57233,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Around these cities each city had its pasturelands around the city, all these cities. And Joshua finished dividing the land within their boundaries. And the sons of Israel gave Joshua a share by command of the Lord; they gave him the city he asked, Thamnasarach, they gave it to him in the hill-country of Ephraim. And Joshua built the city and lived in it. And Joshua took the stone knives with which he circumcised the sons of Israel who were born on the way in the wilderness and placed them in Thamnasarach.
+- fresh: Around these cities each city had its pasturelands around the city, all these cities. And Joshua finished dividing the land within their boundaries. And the sons of Israel gave Joshua a share by the command of the Lord; they gave him the city he asked, Thamnasarach, they gave it to him in the hill-country of Ephraim. And Joshua built the city and lived in it. And Joshua took the stone knives with which he circumcised the sons of Israel who were born on the way in the wilderness and placed them in Thamnasarach.
 - brenton: and their suburbs round about these cities: a city and the suburbs round about the city to all these cities:
 
 ### Joshua 21:43
@@ -57341,7 +57341,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Reuben and the sons of Gad and the half tribe of the sons of Manasseh went from the sons of Israel from Shiloh in the land of Canaan to go to the land of Gilead, to the land of their possession which they inherited by command of the Lord by the hand of Moses.
+- fresh: And the sons of Reuben and the sons of Gad and the half tribe of the sons of Manasseh went from the sons of Israel from Shiloh in the land of Canaan to go to the land of Gilead, to the land of their possession which they inherited by the command of the Lord by the hand of Moses.
 - brenton: So the sons of Ruben, and the sons of Gad, and the half tribe of Manasse, departed from the children of Israel in Selo in the land of Chanaan, to go away into Galaad, into the land of their possession, which they inherited by the command of the Lord, by the hand of Moses.
 
 ### Joshua 22:10
@@ -59125,7 +59125,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You who ride on beasts of burden, you who sit on carpets,
+- fresh: You who ride on the beasts of burden, you who sit on carpets,
 - brenton: Ye that mount a she-ass at noon-day, ye that sit on the judgment-seat, and walk by the roads of them that sit in judgment by the way; declare
 
 ### Judges 5:11
@@ -62464,7 +62464,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the family of Dan, from Zorah and Eshtaol, six hundred men girded with weapons of war set out.
+- fresh: And from the family of Dan, from Zorah and Eshtaol, six hundred men girded with the weapons of war set out.
 - brenton: And there departed thence of the families of Dan, from Saraa and from Esthaol, six hundred men, girded with weapons of war.
 
 ### Judges 18:12
@@ -62509,7 +62509,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the six hundred men girded with weapons of war, from the sons of Dan, stood by the doorway of the gate.
+- fresh: And the six hundred men girded with the weapons of war, from the sons of Dan, stood by the doorway of the gate.
 - brenton: And the six hundred men of the sons of Dan who were girded with their weapons of war stood by the door of the gate.
 
 ### Judges 18:17
@@ -62518,7 +62518,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the five men going to inspect the land went up there and took the carved image and the ephod and the teraphim and the molten image, while the priest stood by the doorway of the gate and the six hundred men girded with weapons of war.
+- fresh: And the five men going to inspect the land went up there and took the carved image and the ephod and the teraphim and the molten image, while the priest stood by the doorway of the gate and the six hundred men girded with the weapons of war.
 - brenton: And the five men who went to spy out the land went up, and entered into the house of Michaias, and the priest stood.
 
 ### Judges 18:18
@@ -64664,7 +64664,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He raises the poor from the earth and lifts the needy from the dung heap, to seat him with rulers of peoples and to allot to them a throne of glory.
+- fresh: He raises the poor from the earth and lifts the needy from the dung heap, to seat him with the rulers of peoples and to allot to them a throne of glory.
 - brenton: He lifts up the poor from the earth, and raises the needy from the dunghill; to seat him with the princes of the people, and causing them to inherit the throne of glory:
 
 ### 1 Samuel 2:9
@@ -67886,7 +67886,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he sent and brought him in. And he was ruddy, with beauty of eyes, and good in appearance to the Lord. And the Lord said to Samuel, Rise and anoint David, because this one is good.
+- fresh: And he sent and brought him in. And he was ruddy, with the beauty of eyes, and good in appearance to the Lord. And the Lord said to Samuel, Rise and anoint David, because this one is good.
 - brenton: And he sent and fetched him: and he was ruddy, with beauty of eyes, and very goodly to behold. And the Lord said to Samuel, Arise, and anoint David, for he is good.
 
 ### 1 Samuel 16:13
@@ -68174,7 +68174,7 @@ Note:
 - decisions: 1
 - footnotes: 2
 - same_normalized: no
-- fresh: And Goliad saw David and dishonored him, because he was a youth, and he was ruddy, with beauty of eyes.
+- fresh: And Goliad saw David and dishonored him, because he was a youth, and he was ruddy, with the beauty of eyes.
 - brenton: And Goliath saw David, and despised him; for he was a lad, and ruddy, with a fair countenance.
 
 ### 1 Samuel 17:43
@@ -72127,7 +72127,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your hands were not bound, your feet were not in fetters; you fell as Nabal falls before sons of wrongdoing. And all the people gathered to weep for him.
+- fresh: Your hands were not bound, your feet were not in fetters; you fell as Nabal falls before the sons of wrongdoing. And all the people gathered to weep for him.
 - brenton: Thy hands were not bound, and thy feet were not put in fetters: one brought thee not near as Nabal; thou didst fall before children of iniquity.
 
 ### 2 Samuel 3:35
@@ -76609,7 +76609,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he rode on cheroubin and flew, and he was seen on wings of wind.
+- fresh: And he rode on cheroubin and flew, and he was seen on the wings of wind.
 - brenton: And he rode upon the cherubs and did fly, and was seen upon the wings of the wind.
 
 ### 2 Samuel 22:12
@@ -76618,7 +76618,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made darkness his hiding place around him, his tent, dark water thickened in clouds of air.
+- fresh: And he made darkness his hiding place around him, his tent, dark water thickened in the clouds of air.
 - brenton: And he made darkness his hiding-place; his tabernacle round about him was the darkness of waters, he condensed it with the clouds of the air.
 
 ### 2 Samuel 22:13
@@ -78483,7 +78483,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon said, You did great mercy with your servant David my father, just as he walked before you in truth and in righteousness and in uprightness of heart with you, and you kept for him this great mercy, to give his son upon his throne, as on this day.
+- fresh: And Solomon said, You did great mercy with your servant David my father, just as he walked before you in truth and in righteousness and in the uprightness of heart with you, and you kept for him this great mercy, to give his son upon his throne, as on this day.
 - brenton: And Solomon said, Thou hast dealt very mercifully with thy servant David my father according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee, and thou hast kept for him this great mercy, to set his son upon his throne, as it is this day.
 
 ### 1 Kings 3:7
@@ -88484,7 +88484,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Israel secretly did matters not so against the Lord their God, and they built for themselves high places in all their cities, from tower of watchmen to fortified city.
+- fresh: And the sons of Israel secretly did matters not so against the Lord their God, and they built for themselves high places in all their cities, from the tower of watchmen to fortified city.
 - brenton: and in those of the children of Israel as many as secretly practised customs, not as they should have done, against the Lord their God:
 
 ### 2 Kings 17:10
@@ -88844,7 +88844,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He struck the Philistines as far as Gaza and as far as its border, from tower of watchmen to fortified city.
+- fresh: He struck the Philistines as far as Gaza and as far as its border, from the tower of watchmen to fortified city.
 - brenton: He smote the Philistines even to Gaza, and to the border of it, from the tower of the watchmen even to the strong city.
 
 ### 2 Kings 18:9
@@ -90068,7 +90068,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his ordinances with all heart and with all soul, to establish the words of this covenant written in this book. And all the people stood to the covenant.
+- fresh: And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his ordinances with all his heart and with all his soul, to establish the words of this covenant written in this book. And all the people stood to the covenant.
 - brenton: And the king stood by a pillar, and made a covenant before the Lord, to walk after the Lord, to keep his commandments and his testimonies and his ordinances with all the heart and with all the soul, to confirm the words of this covenant; even the things written in this book. And all the people stood to the covenant.
 
 ### 2 Kings 23:4
@@ -92257,7 +92257,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These who came by names were rulers in their generations, and in houses of their fathers they were multiplied into a multitude.
+- fresh: These who came by names were rulers in their generations, and in the houses of their fathers they were multiplied into a multitude.
 - brenton: These went by the names of princes in their families, and they increased abundantly in their fathers' households.
 
 ### 1 Chronicles 4:39
@@ -92275,7 +92275,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they found rich and good pasture, and the land before them was wide, and peace and quiet, because from sons of Ham those dwelling there had been before.
+- fresh: And they found rich and good pasture, and the land before them was wide, and peace and quiet, because from the sons of Ham those dwelling there had been before.
 - brenton: And they found abundant and good pastures, and the land before them was wide, and there was peace and quietness; for there were some of the children of Cham who dwelt there before.
 
 ### 1 Chronicles 4:41
@@ -92419,7 +92419,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their brothers according to houses of their fathers: Michael, Meshullam, Sheba, Ioree, Jachan, Zoue, and Obed, seven.
+- fresh: And their brothers according to the houses of their fathers: Michael, Meshullam, Sheba, Ioree, Jachan, Zoue, and Obed, seven.
 - brenton: And their brethren according to the houses of their fathers; Michael, Mosollam, and Sebee, and Joree, and Joachan, and Zue, and Obed, seven.
 
 ### 1 Chronicles 5:14
@@ -92437,7 +92437,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: son of Abdiel son of Guni, chief of house of fathers.
+- fresh: son of Abdiel son of Guni, chief of the house of fathers.
 - brenton: who was the brother of the son of Abdiel, the son of Guni, he was chief of the house of their families.
 
 ### 1 Chronicles 5:16
@@ -92464,7 +92464,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Reuben and Gad and half tribe of Manasseh, from sons of power, men bearing shields and sword and drawing bow and taught in war, forty-four thousand seven hundred sixty, going out to war.
+- fresh: Sons of Reuben and Gad and half tribe of Manasseh, from the sons of power, men bearing shields and sword and drawing bow and taught in war, forty-four thousand seven hundred sixty, going out to war.
 - brenton: The sons of Ruben and Gad, and the half-tribe of Manasse, of mighty men, bearing shields and sword, and bending the bow, and skilled in war, were forty and four thousand and seven hundred and sixty, going forth to battle.
 
 ### 1 Chronicles 5:19
@@ -92815,7 +92815,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are whom David appointed by hands of singers in the house of the Lord, when the ark came to rest.
+- fresh: And these are whom David appointed by the hands of singers in the house of the Lord, when the ark came to rest.
 - brenton: And these were the men whom David set over the service of the singers in the house of the Lord when the ark was at rest.
 
 ### 1 Chronicles 6:17
@@ -92833,7 +92833,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are those standing, and their sons. From sons of Kohath: Heman the singer, son of Joel son of Samuel,
+- fresh: And these are those standing, and their sons. From the sons of Kohath: Heman the singer, son of Joel son of Samuel,
 - brenton: And these were the men that stood, and their sons, of the sons of Caath: Æman the psalm singer, son of Joel, the son of Samuel,
 
 ### 1 Chronicles 6:19
@@ -92968,7 +92968,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their brothers according to houses of their fathers, the Levites, were given for every work of service of the tent of the house of God.
+- fresh: And their brothers according to the houses of their fathers, the Levites, were given for every work of service of the tent of the house of God.
 - brenton: And their brethren according to the houses of their fathers, were the Levites who were appointed to all the work of ministration of the tabernacle of the house of God.
 
 ### 1 Chronicles 6:34
@@ -93085,7 +93085,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to the sons of Kohath, the rest, from the families, from the tribe, from half tribe of Manasseh, by lot, ten cities.
+- fresh: And to the sons of Kohath, the rest, from the families, from the tribe, from the half tribe of Manasseh, by lot, ten cities.
 - brenton: And to the sons of Caath that were left of their families, there were given out of the tribe, namely, out of the half-tribe of Manasse, by lot, ten cities.
 
 ### 1 Chronicles 6:47
@@ -93301,7 +93301,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And with them by their generations, by houses of their fathers, mighty men to draw up for war, thirty-six thousand, because they multiplied wives and sons.
+- fresh: And with them by their generations, by the houses of their fathers, mighty men to draw up for war, thirty-six thousand, because they multiplied wives and sons.
 - brenton: And with them, according to their generations, according to the houses of their families, were men mighty to set armies in array for war, thirty and six thousand, for they had multiplied their wives and children.
 
 ### 1 Chronicles 7:5
@@ -93985,7 +93985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Ulam were mighty men of power, drawing bow, multiplying sons and sons of sons, a hundred fifty. All these were from sons of Benjamin.
+- fresh: And sons of Ulam were mighty men of power, drawing bow, multiplying sons and sons of sons, a hundred fifty. All these were from the sons of Benjamin.
 - brenton: And the sons of Ælam were mighty men, bending the bow, and multiplying sons and grandsons, a hundred and fifty. All these were of the sons of Benjamin.
 
 ### 1 Chronicles 9:1
@@ -94012,7 +94012,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Jerusalem dwelt from sons of Judah and from sons of Benjamin and from sons of Ephraim and Manasseh,
+- fresh: And in Jerusalem dwelt from the sons of Judah and from the sons of Benjamin and from the sons of Ephraim and Manasseh,
 - brenton: And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin, and of the children of Ephraim, and Manasse.
 
 ### 1 Chronicles 9:4
@@ -94066,7 +94066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and their brothers by their generations, nine hundred fifty-six. All the men were chiefs of fathers by houses of their fathers.
+- fresh: and their brothers by their generations, nine hundred fifty-six. All the men were chiefs of fathers by the houses of their fathers.
 - brenton: and their brethren according to their generations, nine hundred and fifty-six, all the men were heads of families according to the houses of their fathers.
 
 ### 1 Chronicles 9:10
@@ -94084,7 +94084,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Azariah son of Hilkiah son of Meshullam son of Zadok son of Meraioth son of Ahitub, ruler of house of God,
+- fresh: and Azariah son of Hilkiah son of Meshullam son of Zadok son of Meraioth son of Ahitub, ruler of the house of God,
 - brenton: and Azaria the son of Chelcias, the son of Mosollam, the son of Sadoc, the son of Maraïoth, the son of Achitob, the ruler of the house of God;
 
 ### 1 Chronicles 9:12
@@ -94102,7 +94102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and their brothers, chiefs of houses of fathers, one thousand seven hundred sixty, mighty in strength for work of service of house of God.
+- fresh: and their brothers, chiefs of houses of fathers, one thousand seven hundred sixty, mighty in strength for work of service of the house of God.
 - brenton: and their brethren, chiefs of their families, a thousand seven hundred and sixty, mighty men for the work of the ministration of the house of God.
 
 ### 1 Chronicles 9:14
@@ -94156,7 +94156,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shallum son of Kore son of Abiasaph son of Kore, and his brothers to the house of his father, the Korahites, were over works of the service, guarding the guards of the tent, and their fathers were over the encampment of the Lord, guarding the entrance.
+- fresh: And Shallum son of Kore son of Abiasaph son of Kore, and his brothers to the house of his father, the Korahites, were over the works of the service, guarding the guards of the tent, and their fathers were over the encampment of the Lord, guarding the entrance.
 - brenton: And Sellum the son of Core, the son of Abiasaph, the son of Core, and his brethren belonging to the house of his father, the Corites were over the works of the service, keeping the watches of the tabernacle, and their fathers over the camp of the Lord, keeping the entrance.
 
 ### 1 Chronicles 9:20
@@ -94462,7 +94462,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they stripped him and took his head and his weapons, and sent into land of Philistines all around to proclaim good news to their idols and to people.
+- fresh: And they stripped him and took his head and his weapons, and sent into the land of Philistines all around to proclaim good news to their idols and to people.
 - brenton: And they stripped him, and took his head, and his armour, and sent them into the land of the Philistines round about, to proclaim the glad tidings to their idols, and to the people.
 
 ### 1 Chronicles 10:10
@@ -94633,7 +94633,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he stood in middle of portion and saved it and struck Philistines, and the Lord made great deliverance.
+- fresh: And he stood in the middle of the portion and saved it and struck Philistines, and the Lord made great deliverance.
 - brenton: And he stood in the midst of the portion, and rescued it, and smote the Philistines; and the Lord wrought a great deliverance.
 
 ### 1 Chronicles 11:15
@@ -94642,7 +94642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And three from thirty chiefs went down to rock, to David, into cave of Adullam, and camp of Philistines had camped in valley of giants.
+- fresh: And three from thirty chiefs went down to rock, to David, into cave of Adullam, and camp of Philistines had camped in the valley of giants.
 - brenton: And three of the thirty chiefs went down to the rock to David, to the cave of Odollam, and the camp of the Philistines was in the giants' valley.
 
 ### 1 Chronicles 11:16
@@ -94714,7 +94714,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he struck Egyptian man, visible man, five cubits tall, and in hand of Egyptian was spear like beam of weavers, and Benaiah went down against him with staff and took spear from hand of Egyptian and killed him with his own spear.
+- fresh: And he struck Egyptian man, visible man, five cubits tall, and in the hand of Egyptian was spear like beam of weavers, and Benaiah went down against him with staff and took spear from the hand of Egyptian and killed him with his own spear.
 - brenton: And he smote an Egyptian, a wonderful man five cubits high; and in the hand of the Egyptian there was a spear like a weavers' beam; and Banaia went down to him with a staff, and took the spear out of the Egyptian's hand, and slew him with his own spear.
 
 ### 1 Chronicles 11:24
@@ -94948,7 +94948,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: with bow in right hand and in left hand, slingers with stones and arrows, from brothers of Saul, from Benjamin.
+- fresh: with bow in right hand and in left hand, slingers with stones and arrows, from the brothers of Saul, from Benjamin.
 - brenton: and using the bow with the right hand and with the left, and slingers with stones, and shooters with bows. Of the brethren of Saul of Benjamin,
 
 ### 1 Chronicles 12:3
@@ -95065,7 +95065,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These from sons of Gad were chiefs of army; least one was over hundred, and greatest over thousand.
+- fresh: These from the sons of Gad were chiefs of army; least one was over hundred, and greatest over thousand.
 - brenton: These were chiefs of the army of the sons of Gad, the least one commander of a hundred, and the greatest one of a thousand.
 
 ### 1 Chronicles 12:16
@@ -95083,7 +95083,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And some from sons of Benjamin and Judah came for help to David.
+- fresh: And some from the sons of Benjamin and Judah came for help to David.
 - brenton: And there came some of the sons of Benjamin and Juda to the assistance of David.
 
 ### 1 Chronicles 12:18
@@ -95146,7 +95146,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these were names of chiefs of army who came to David in Hebron to turn kingdom of Saul to him according to the word of the Lord.
+- fresh: And these were names of chiefs of army who came to David in Hebron to turn the kingdom of Saul to him according to the word of the Lord.
 - brenton: And these are the names of the commanders of the army, who came to David to Chebron, to turn the kingdom of Saul to him according to the word of the Lord.
 
 ### 1 Chronicles 12:25
@@ -95164,7 +95164,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From sons of Simeon, mighty in strength for battle line, seven thousand one hundred.
+- fresh: From the sons of Simeon, mighty in strength for battle line, seven thousand one hundred.
 - brenton: Of the sons of Symeon mighty for battle, seven thousand and a hundred.
 
 ### 1 Chronicles 12:27
@@ -95173,7 +95173,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From sons of Levi, four thousand six hundred.
+- fresh: From the sons of Levi, four thousand six hundred.
 - brenton: Of the sons of Levi, four thousand and six hundred.
 
 ### 1 Chronicles 12:28
@@ -95200,7 +95200,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Benjamin, brothers of Saul, three thousand, and still most of them were keeping watch of house of Saul.
+- fresh: And from the sons of Benjamin, brothers of Saul, three thousand, and still most of them were keeping watch of the house of Saul.
 - brenton: And of the sons of Benjamin, the brethren of Saul, three thousand: and still the greater part of them kept the guard of the house of Saul.
 
 ### 1 Chronicles 12:31
@@ -95209,7 +95209,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Ephraim, twenty thousand eight hundred, mighty in strength, men of name by houses of their fathers.
+- fresh: And from the sons of Ephraim, twenty thousand eight hundred, mighty in strength, men of name by the houses of their fathers.
 - brenton: And of the sons of Ephraim, twenty thousand and eight hundred mighty men, famous in the houses of their fathers.
 
 ### 1 Chronicles 12:32
@@ -95218,7 +95218,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from half tribe of Manasseh, eighteen thousand who were named by name to come make David king.
+- fresh: And from the half tribe of Manasseh, eighteen thousand who were named by name to come make David king.
 - brenton: And of the half-tribe of Manasse, eighteen thousand, even those who were named by name, to make David king.
 
 ### 1 Chronicles 12:33
@@ -95227,7 +95227,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Issachar, knowing understanding for times, knowing what Israel should do, their chiefs were two hundred, and all their brothers with them.
+- fresh: And from the sons of Issachar, knowing understanding for times, knowing what Israel should do, their chiefs were two hundred, and all their brothers with them.
 - brenton: And of the sons of Issachar having wisdom with regard to the times, knowing what Israel should do, two hundred; and all their brethren with them.
 
 ### 1 Chronicles 12:34
@@ -95272,7 +95272,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from beyond Jordan, from Reuben and Gad and from half tribe of Manasseh, with every weapon of war, one hundred twenty thousand.
+- fresh: And from beyond Jordan, from Reuben and Gad and from the half tribe of Manasseh, with every weapon of war, one hundred twenty thousand.
 - brenton: And from the country beyond Jordan, from Ruben, and the Gadites, and from the half-tribe of Manasse, a hundred and twenty thousand, with all weapons of war.
 
 ### 1 Chronicles 12:39
@@ -95317,7 +95317,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to all assembly of Israel, If this seems good to you, and if it has been prospered from the Lord our God, let us send to our brothers left behind in all land of Israel, and with them to priests and Levites in cities of their possession, and let them gather to us.
+- fresh: And David said to all assembly of Israel, If this seems good to you, and if it has been prospered from the Lord our God, let us send to our brothers left behind in all land of Israel, and with them to priests and Levites in the cities of their possession, and let them gather to us.
 - brenton: And David said to the whole congregation of Israel, If it seem good to you, and it should be prospered by the Lord our God, let us send to our brethren that are left in all the land of Israel, and let the priests the Levites who are with them in the cities of their possession come, and let them be gathered to us.
 
 ### 1 Chronicles 13:3
@@ -95326,7 +95326,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And let us bring ark of our God to us, because from days of Saul they did not seek it.
+- fresh: And let us bring ark of our God to us, because from the days of Saul they did not seek it.
 - brenton: And let us bring over to us the ark of our God; for men have not enquired at it since the days of Saul.
 
 ### 1 Chronicles 13:4
@@ -95335,7 +95335,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all assembly said to do so, because word was upright in eyes of all people.
+- fresh: And all assembly said to do so, because word was upright in the eyes of all people.
 - brenton: And all the congregation said that they would do thus; for the saying was right in the eyes of all the people.
 
 ### 1 Chronicles 13:5
@@ -95344,7 +95344,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David assembled all Israel from borders of Egypt and as far as entrance of Hamath, to bring ark of God from city of Kirjathjearim.
+- fresh: And David assembled all Israel from the borders of Egypt and as far as entrance of Hamath, to bring ark of God from the city of Kirjathjearim.
 - brenton: So David assembled all Israel, from the borders of Egypt even to the entering in of Hemath, to bring in the ark of God from the city of Jarim.
 
 ### 1 Chronicles 13:6
@@ -95371,7 +95371,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David and all Israel were playing before God with all strength, and with songs and lyres and harps and tambourines and cymbals and trumpets.
+- fresh: And David and all Israel were playing before God with all their strength, and with songs and lyres and harps and tambourines and cymbals and trumpets.
 - brenton: And David and all Israel were playing before the Lord with all their might, and that together with singers, and with harps, and with lutes, with timbrels, and with cymbals, and with trumpets.
 
 ### 1 Chronicles 13:9
@@ -95506,7 +95506,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Philistines came and fell upon valley of giants.
+- fresh: And Philistines came and fell upon the valley of giants.
 - brenton: And the Philistines came and assembled together in the giants' valley.
 
 ### 1 Chronicles 14:10
@@ -95542,7 +95542,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Philistines added yet again and again fell upon valley of giants.
+- fresh: And Philistines added yet again and again fell upon the valley of giants.
 - brenton: And the Philistines once more assembled themselves in the giants' valley.
 
 ### 1 Chronicles 14:14
@@ -95596,7 +95596,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then David said, It is not for any to carry ark of God except Levites, because the Lord chose them to carry ark of the Lord and to minister to him forever.
+- fresh: Then David said, It is not for any to carry the ark of God except Levites, because the Lord chose them to carry the ark of the Lord and to minister to him forever.
 - brenton: Then said David, It is not lawful for any to bear the ark of God, but the Levites; for the Lord has chosen them to bear the ark of the Lord, and to minister to him for ever.
 
 ### 1 Chronicles 15:3
@@ -95605,7 +95605,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David assembled all Israel in Jerusalem to bring up ark of the Lord to place which he prepared for it.
+- fresh: And David assembled all Israel in Jerusalem to bring up the ark of the Lord to place which he prepared for it.
 - brenton: And David assembled all Israel at Jerusalem, to bring up the ark of the Lord to the place which he had prepared for it.
 
 ### 1 Chronicles 15:4
@@ -95623,7 +95623,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Kohath, Uriel chief, and his brothers, one hundred twenty;
+- fresh: from the sons of Kohath, Uriel chief, and his brothers, one hundred twenty;
 - brenton: Of the sons of Caath; there was Uriel the chief, and his brethren, a hundred and twenty.
 
 ### 1 Chronicles 15:6
@@ -95632,7 +95632,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Merari, Asaiah chief, and his brothers, two hundred fifty;
+- fresh: from the sons of Merari, Asaiah chief, and his brothers, two hundred fifty;
 - brenton: Of the sons of Merari; Asaia the chief, and his brethren, two hundred and twenty.
 
 ### 1 Chronicles 15:7
@@ -95641,7 +95641,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Gershom, Joel chief, and his brothers, one hundred fifty;
+- fresh: from the sons of Gershom, Joel chief, and his brothers, one hundred fifty;
 - brenton: Of the sons of Gedson; Joel the chief, and his brethren, a hundred and thirty.
 
 ### 1 Chronicles 15:8
@@ -95650,7 +95650,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Elzaphan, Shemaiah chief, and his brothers, two hundred;
+- fresh: from the sons of Elzaphan, Shemaiah chief, and his brothers, two hundred;
 - brenton: Of the sons of Elisaphat; Semei the chief, and his brethren, two hundred.
 
 ### 1 Chronicles 15:9
@@ -95659,7 +95659,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Hebron, Eliel chief, and his brothers, eighty;
+- fresh: from the sons of Hebron, Eliel chief, and his brothers, eighty;
 - brenton: Of the sons of Chebrom; Eliel the chief, and his brethren eighty.
 
 ### 1 Chronicles 15:10
@@ -95668,7 +95668,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Uzziel, Amminadab chief, and his brothers, one hundred twelve.
+- fresh: from the sons of Uzziel, Amminadab chief, and his brothers, one hundred twelve.
 - brenton: Of the sons of Oziel; Aminadab the chief, and his brethren a hundred and twelve.
 
 ### 1 Chronicles 15:11
@@ -95704,7 +95704,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests and Levites sanctified themselves to bring up ark of God of Israel.
+- fresh: And priests and Levites sanctified themselves to bring up the ark of God of Israel.
 - brenton: So the priests and the Levites sanctified themselves, to bring up the ark of the God of Israel.
 
 ### 1 Chronicles 15:15
@@ -95722,7 +95722,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to chiefs of Levites, Station their brothers, singers with instruments of songs, lyres and harps and cymbals, to raise sound with voice of gladness.
+- fresh: And David said to the chiefs of Levites, Station their brothers, singers with the instruments of songs, lyres and harps and cymbals, to raise sound with the voice of gladness.
 - brenton: And David said to the chiefs of the Levites, Set your brethren the singers with musical instruments, lutes, harps, and cymbals, to sound aloud with a voice of joy.
 
 ### 1 Chronicles 15:17
@@ -95731,7 +95731,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites stationed Heman son of Joel, and from his brothers Asaph son of Berechiah, and from sons of Merari, their brothers, Ethan son of Kushaiah,
+- fresh: And Levites stationed Heman son of Joel, and from his brothers Asaph son of Berechiah, and from the sons of Merari, their brothers, Ethan son of Kushaiah,
 - brenton: So the Levites appointed Æman the son of Joel; Asaph the son of Barachias was one of his brethren; and Æthan the son of Kisæus was of the sons of Merari their brethren;
 
 ### 1 Chronicles 15:18
@@ -95794,7 +95794,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before ark of God, and Obededom and Iia were gatekeepers of ark of God.
+- fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before the ark of God, and Obededom and Iia were gatekeepers of ark of God.
 - brenton: And Somnia, and Josaphat, and Nathanael, and Amasai, and Zacharia, and Banæa, and Eliezer, the priests, were sounding with trumpets before the ark of God: and Abdedom and Jeia were door-keepers of the ark of God.
 
 ### 1 Chronicles 15:25
@@ -95803,7 +95803,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David and elders of Israel and commanders of thousands were going to bring up ark of covenant of the Lord from the house of Obededom with gladness.
+- fresh: And David and elders of Israel and commanders of thousands were going to bring up the ark of covenant of the Lord from the house of Obededom with gladness.
 - brenton: So David, and the elders of Israel, and the captains of thousands, went to bring up the ark of the covenant from the house of Abdedom with gladness.
 
 ### 1 Chronicles 15:26
@@ -95848,7 +95848,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they brought in ark of God and set it in middle of tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+- fresh: And they brought in ark of God and set it in the middle of the tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - brenton: So they brought in the ark of God, and set it in the midst of the tabernacle which David pitched for it; and they offered whole-burnt-offerings and peace-offerings before God.
 
 ### 1 Chronicles 16:2
@@ -95875,7 +95875,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he appointed before ark of covenant of the Lord from Levites, ministers proclaiming aloud and giving thanks and praising the Lord God of Israel:
+- fresh: And he appointed before the ark of covenant of the Lord from Levites, ministers proclaiming aloud and giving thanks and praising the Lord God of Israel:
 - brenton: And he appointed before the ark of the covenant of the Lord, Levites to minister and lift up the voice, and to give thanks and praise the Lord God of Israel:
 
 ### 1 Chronicles 16:5
@@ -95893,7 +95893,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Benaiah and Uzziel the priests with trumpets continually before ark of covenant of God.
+- fresh: and Benaiah and Uzziel the priests with trumpets continually before the ark of covenant of God.
 - brenton: and Banæas and Oziel the priests sounding continually with trumpets before the ark of the covenant of God in that day.
 
 ### 1 Chronicles 16:7
@@ -95965,7 +95965,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He is the Lord our God; in all earth are his judgments.
+- fresh: He is the Lord our God; in all the earth are his judgments.
 - brenton: He is the Lord our God; his judgments are in all the earth.
 
 ### 1 Chronicles 16:15
@@ -96046,7 +96046,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to the Lord, all earth; announce his salvation from day to day.
+- fresh: Sing to the Lord, all the earth; announce his salvation from day to day.
 - brenton: Sing ye to the Lord, all the earth; proclaim his salvation from day to day.
 
 ### 1 Chronicles 16:25
@@ -96100,7 +96100,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all earth fear from before him; let earth be set right and not be shaken.
+- fresh: Let all the earth fear from before him; let earth be set right and not be shaken.
 - brenton: Let the whole earth fear before him; let the earth be established, and not be moved.
 
 ### 1 Chronicles 16:31
@@ -96163,7 +96163,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they left there before ark of covenant of the Lord Asaph and his brothers to minister before ark continually, each day’s matter for its day,
+- fresh: And they left there before the ark of covenant of the Lord Asaph and his brothers to minister before ark continually, each day’s matter for its day,
 - brenton: And they left there Asaph and his brethren before the ark of the covenant of the Lord, to minister before the ark continually, according to the service of each day: from day to day.
 
 ### 1 Chronicles 16:38
@@ -96181,7 +96181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Zadok the priest and his brothers the priests before tent of the Lord at high place in Gibeon,
+- fresh: and Zadok the priest and his brothers the priests before the tent of the Lord at high place in Gibeon,
 - brenton: And they appointed Sadoc the priest, and his brethren the priests, before the tabernacle of the Lord in the high place in Gabaon,
 
 ### 1 Chronicles 16:40
@@ -96469,7 +96469,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass after these things, David struck Philistines and routed them, and he took Gath and its villages from hand of Philistines.
+- fresh: And it came to pass after these things, David struck Philistines and routed them, and he took Gath and its villages from the hand of Philistines.
 - brenton: And it came to pass afterwards, that David smote the Philistines, and routed them, and took Geth and its villages out of the hand of the Philistines.
 
 ### 1 Chronicles 18:2
@@ -96568,7 +96568,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Abishai son of Zeruiah struck Edom in valley of salt pits, eighteen thousand.
+- fresh: And Abishai son of Zeruiah struck Edom in the valley of salt pits, eighteen thousand.
 - brenton: And Abesa son of Saruia smote the Idumeans in the valley of Salt, eighteen thousand.
 
 ### 1 Chronicles 18:13
@@ -96631,7 +96631,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said, I will do mercy with Anan son of Nahash, as his father did mercy with me. And David sent messengers to comfort him concerning his father. And servants of David came into land of sons of Ammon to comfort him.
+- fresh: And David said, I will do mercy with Anan son of Nahash, as his father did mercy with me. And David sent messengers to comfort him concerning his father. And servants of David came into the land of sons of Ammon to comfort him.
 - brenton: And David said, I will act kindly toward Anan the son of Naas, as his father acted kindly towards me. And David sent messengers to condole with him on the death of his father. So the servants of David came into the land of the children of Ammon to Anan, to comfort him.
 
 ### 1 Chronicles 19:3
@@ -96694,7 +96694,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Ammon came out and drew up for battle by gate of city, and kings who came camped by themselves in plain.
+- fresh: And sons of Ammon came out and drew up for battle by the gate of the city, and kings who came camped by themselves in plain.
 - brenton: And the children of Ammon came forth, and set themselves in array for battle by the gate of the city: and the kings that were come forth encamped by themselves in the plain.
 
 ### 1 Chronicles 19:10
@@ -96712,7 +96712,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of people he gave into hand of Abishai his brother, and they drew up opposite sons of Ammon.
+- fresh: And rest of people he gave into the hand of Abishai his brother, and they drew up opposite sons of Ammon.
 - brenton: And the rest of the people he gave into the hand of his brother Abesai, and they set themselves in array against the children of Ammon.
 
 ### 1 Chronicles 19:12
@@ -96802,7 +96802,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David took crown of Molchol their king from his head, and its weight was found to be a talent of gold, and in it was precious stone, and it was upon head of David. And he brought out spoils of city very many.
+- fresh: And David took crown of Molchol their king from his head, and its weight was found to be a talent of gold, and in it was precious stone, and it was upon the head of David. And he brought out spoils of city very many.
 - brenton: And David took the crown of Molchom their king off his head, and the weight of it was found to be a talent of gold, and on it were precious stones; and it was placed on the head of David: and he brought out the spoils of the city which were very great.
 
 ### 1 Chronicles 20:3
@@ -96811,7 +96811,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And people in it he brought out and cut with saws and with iron picks, and thus David did to all sons of Ammon. And David and all his people returned to Jerusalem.
+- fresh: And people in it he brought out and cut with saws and with iron picks, and thus David did to all the sons of Ammon. And David and all his people returned to Jerusalem.
 - brenton: And he brought out the people that were in it, and sawed them asunder with saws, and cut them with iron axes, and with harrows: and thus David did to all the children of Ammon. And David and all his people returned to Jerusalem.
 
 ### 1 Chronicles 20:4
@@ -96820,7 +96820,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass after these things, there was still war in Gezer with Philistines. Then Sibbecai the Hushathite struck Saph from sons of giants, and he humbled him.
+- fresh: And it came to pass after these things, there was still war in Gezer with Philistines. Then Sibbecai the Hushathite struck Saph from the sons of giants, and he humbled him.
 - brenton: And it came to pass afterward that there was again war with the Philistines in Gazer: then Sobochai the Sosathite smote Saphut of the sons of the giants, and laid him low.
 
 ### 1 Chronicles 20:5
@@ -96874,7 +96874,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king David said to Joab and to chiefs of force, Go, number Israel from Beersheba to Dan, and bring to me, and I shall know their number.
+- fresh: And king David said to Joab and to the chiefs of force, Go, number Israel from Beersheba to Dan, and bring to me, and I shall know their number.
 - brenton: And king David said to Joab and to the captains of the forces, Go, number Israel from Bersabee even to Dan, and bring me the account, and I shall know their number.
 
 ### 1 Chronicles 21:3
@@ -96973,7 +96973,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to Gad, All three press me very hard. Let me now fall into hands of the Lord, because his mercies are very many; but into hands of men I shall not fall.
+- fresh: And David said to Gad, All three press me very hard. Let me now fall into the hands of the Lord, because his mercies are very many; but into the hands of men I shall not fall.
 - brenton: And David said to Gad, They are very hard for me, even all the three: let me fall now into the hands of the Lord, for his mercies are very abundant, and let me not fall by any means into the hands of man.
 
 ### 1 Chronicles 21:14
@@ -96991,7 +96991,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God sent angel into Jerusalem to destroy it, and as he destroyed, the Lord saw and relented over evil and said to angel destroying, It is enough for you; let go your hand. And angel of the Lord was standing at threshing floor of Araunah the Jebusite.
+- fresh: And God sent angel into Jerusalem to destroy it, and as he destroyed, the Lord saw and relented over evil and said to angel destroying, It is enough for you; let go your hand. And angel of the Lord was standing at the threshing floor of Araunah the Jebusite.
 - brenton: And God sent an angel to Jerusalem to destroy it: and as he was destroying, the Lord saw, and repented for the evil, and said to the angel that was destroying, Let it suffice thee; withhold thine hand. And the angel of the Lord stood by the threshing-floor of Orna the Jebusite.
 
 ### 1 Chronicles 21:16
@@ -97009,7 +97009,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to God, Was it not I who said to number among people? And I am one who sinned; I acted evilly with evil. But these sheep, what did they do? Lord God, let your hand be on me and on house of my father, and not on your people for destruction, Lord.
+- fresh: And David said to God, Was it not I who said to number among people? And I am one who sinned; I acted evilly with evil. But these sheep, what did they do? Lord God, let your hand be on me and on the house of my father, and not on your people for destruction, Lord.
 - brenton: And David said to God, Was it not I that gave orders to number the people? and I am the guilty one; I have greatly sinned: but these sheep, what have they done? O Lord God, let thy hand be upon me, and upon my father's house, and not on thy people for destruction, O Lord!
 
 ### 1 Chronicles 21:18
@@ -97018,7 +97018,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel of the Lord said to Gad to tell David to go up and set altar to the Lord at threshing floor of Araunah the Jebusite.
+- fresh: And angel of the Lord said to Gad to tell David to go up and set altar to the Lord at the threshing floor of Araunah the Jebusite.
 - brenton: And the angel of the Lord told Gad to tell David, that he should go up to erect an altar to the Lord, in the threshing-floor of Orna the Jebusite.
 
 ### 1 Chronicles 21:19
@@ -97026,8 +97026,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: And David went up according to word of Gad, which he spoke in the name of the Lord.
+- same_normalized: yes
+- fresh: And David went up according to the word of Gad, which he spoke in the name of the Lord.
 - brenton: And David went up according to the word of Gad, which he spoke in the name of the Lord.
 
 ### 1 Chronicles 21:20
@@ -97090,7 +97090,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+- fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon the altar of whole burnt offering and consumed whole burnt offering.
 - brenton: And David built there an altar to the Lord, and offered up whole-burnt-offerings and peace-offerings: and he cried to the Lord, and he answered him by fire out of heaven on the altar of whole-burnt-offerings, and it consumed the whole-burnt-offering.
 
 ### 1 Chronicles 21:27
@@ -97108,7 +97108,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time, when David saw that the Lord answered him at threshing floor of Araunah the Jebusite, he sacrificed there.
+- fresh: At that time, when David saw that the Lord answered him at the threshing floor of Araunah the Jebusite, he sacrificed there.
 - brenton: At that time when David saw that the Lord answered him in the threshing-floor of Orna the Jebusite, he also sacrificed there.
 
 ### 1 Chronicles 21:29
@@ -97171,7 +97171,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said, Solomon my son is tender youth, and house to build for the Lord must be for greatness beyond, for name and for glory in all earth; I will prepare for him. And David prepared in abundance before his death.
+- fresh: And David said, Solomon my son is tender youth, and house to build for the Lord must be for greatness beyond, for name and for glory in all the earth; I will prepare for him. And David prepared in abundance before his death.
 - brenton: And David said, My son Solomon is a tender child, and the house for me to build to the Lord is for superior magnificence for a name and for a glory through all the earth: I will make preparation for it. And David prepared abundantly before his death.
 
 ### 1 Chronicles 22:6
@@ -97333,7 +97333,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From these, overseers over works of house of the Lord were twenty-four thousand, and scribes and judges six thousand,
+- fresh: From these, overseers over the works of the house of the Lord were twenty-four thousand, and scribes and judges six thousand,
 - brenton: Of the overseers over the works of the house of the Lord there were twenty-four thousand, and there were six thousand scribes and judges;
 
 ### 1 Chronicles 23:5
@@ -97387,7 +97387,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to sons of Shimei: Jahath and Ziza and Joash and Beriah; these were four sons of Shimei.
+- fresh: And to the sons of Shimei: Jahath and Ziza and Joash and Beriah; these were four sons of Shimei.
 - brenton: And to the sons of Semei, Jeth, and Ziza, and Joas, and Beria: these were the four sons of Semei.
 
 ### 1 Chronicles 23:11
@@ -97513,7 +97513,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These were sons of Levi according to houses of their fathers, chiefs of fathers according to their mustering, by number of their names, by head, doing works of service of house of the Lord from twenty years old and upward.
+- fresh: These were sons of Levi according to the houses of their fathers, chiefs of fathers according to their mustering, by the number of their names, by head, doing works of service of the house of the Lord from twenty years old and upward.
 - brenton: These are the sons of Levi according to the houses of their fathers; chiefs of their families according to their numbering, according to the number of their names, according to their polls, doing the works of service of the house of the Lord, from twenty years old and upward.
 
 ### 1 Chronicles 23:25
@@ -97549,7 +97549,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he set them by the hand of Aaron to minister in the house of the Lord, over courts and over storerooms and over cleansing of all holy things and over works of service of house of God,
+- fresh: Because he set them by the hand of Aaron to minister in the house of the Lord, over courts and over storerooms and over cleansing of all holy things and over the works of service of the house of God,
 - brenton: For he appointed them to wait on Aaron, to minister in the house of the Lord, over the courts, and over the chambers, and over the purification of all the holy things, and over the works of the service of the house of God;
 
 ### 1 Chronicles 23:29
@@ -97612,7 +97612,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And David divided them, and Zadok from sons of Eleazar and Ahimelech from sons of Ithamar, according to their mustering for their service by houses of their fathers.
+- fresh: And David divided them, and Zadok from the sons of Eleazar and Ahimelech from the sons of Ithamar, according to their mustering for their service by the houses of their fathers.
 - brenton: And David distributed them, even Sadoc of the sons of Eleazar, and Achimelech of the sons of Ithamar, according to their numbering, according to their service, according to the houses of their fathers.
 
 ### 1 Chronicles 24:4
@@ -97756,7 +97756,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This was their mustering for their service to enter house of the Lord according to their ordinance by the hand of Aaron their father, as the Lord God of Israel commanded him.
+- fresh: This was their mustering for their service to enter the house of the Lord according to their ordinance by the hand of Aaron their father, as the Lord God of Israel commanded him.
 - brenton: This is their numbering according to their service to go into the house of the Lord, according to their appointment by the hand of Aaron their father, as the Lord God of Israel commanded.
 
 ### 1 Chronicles 24:20
@@ -97855,7 +97855,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Mushi: Mahali and Eder and Jeremoth. These were sons of Levites by houses of their fathers.
+- fresh: And sons of Mushi: Mahali and Eder and Jeremoth. These were sons of Levites by the houses of their fathers.
 - brenton: And the sons of Musi; Mooli, and Eder, and Jerimoth. These were the sons of the Levites according to the houses of their families.
 
 ### 1 Chronicles 24:31
@@ -97909,7 +97909,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All these were sons of Heman, one sounding to king in words of God, to raise horn, and God gave to Heman fourteen sons and three daughters.
+- fresh: All these were sons of Heman, one sounding to king in the words of God, to raise horn, and God gave to Heman fourteen sons and three daughters.
 - brenton: All these were the sons of Æman the king's chief player in the praises of God, to lift up the horn. And God gave to Æman fourteen sons, and three daughters.
 
 ### 1 Chronicles 25:6
@@ -98152,7 +98152,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For divisions of gates: for sons of Korhites, Meshelemiah son of Kore from sons of Abiasaph.
+- fresh: For divisions of gates: for sons of Korhites, Meshelemiah son of Kore from the sons of Abiasaph.
 - brenton: And for the divisions of the gates: the sons of the Corites were Mosellemia, of the sons of Asaph.
 
 ### 1 Chronicles 26:2
@@ -98215,7 +98215,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All these were from sons of Obededom, they and their brothers and their sons, working strongly in service, all sixty-two for Obededom.
+- fresh: All these were from the sons of Obededom, they and their brothers and their sons, working strongly in service, all sixty-two for Obededom.
 - brenton: All these were of the sons of Abdedom, they and their sons and their brethren, doing mightily in service: in all sixty-two born to Abdedom.
 
 ### 1 Chronicles 26:9
@@ -98233,7 +98233,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Hosah from sons of Merari, sons keeping the rule, because he was not firstborn, yet his father made him chief.
+- fresh: And to Hosah from the sons of Merari, sons keeping the rule, because he was not firstborn, yet his father made him chief.
 - brenton: And to Osa of the sons of Merari there were born sons, keeping the dominion; though he was not the first-born, yet his father made him chief of the second division.
 
 ### 1 Chronicles 26:11
@@ -98251,7 +98251,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To these divisions of gates, to chiefs of mighty men, were courses like their brothers, to minister in the house of the Lord.
+- fresh: To these divisions of gates, to the chiefs of mighty men, were courses like their brothers, to minister in the house of the Lord.
 - brenton: To these were assigned the divisions of the gates, to the chiefs of the mighty men the daily courses, even their brethren, to minister in the house of the Lord.
 
 ### 1 Chronicles 26:13
@@ -98260,7 +98260,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they cast lots, small like great, by houses of their fathers, for gate and gate.
+- fresh: And they cast lots, small like great, by the houses of their fathers, for gate and gate.
 - brenton: And they cast lots for the small as well as for the great, for the several gates, according to their families.
 
 ### 1 Chronicles 26:14
@@ -98287,7 +98287,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For second, to Hosah toward west, by gate of storeroom of ascent, guard opposite guard.
+- fresh: For second, to Hosah toward west, by the gate of storeroom of ascent, guard opposite guard.
 - brenton: They gave the lot for the second to Osa westward, after the gate of the chamber by the ascent, watch against watch.
 
 ### 1 Chronicles 26:17
@@ -98323,7 +98323,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites their brothers were over treasuries of house of the Lord and over treasuries of dedicated things.
+- fresh: And Levites their brothers were over the treasuries of the house of the Lord and over the treasuries of dedicated things.
 - brenton: And the Levites their brethren were over the treasures of the house of the Lord, and over the treasures of the hallowed things.
 
 ### 1 Chronicles 26:21
@@ -98341,7 +98341,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Jehieli, Zetham and Joel his brother, were over treasuries of house of the Lord.
+- fresh: And sons of Jehieli, Zetham and Joel his brother, were over the treasuries of the house of the Lord.
 - brenton: The sons of Jeiel were Zethom, and Joel; brethren who were over the treasures of the house of the Lord.
 
 ### 1 Chronicles 26:23
@@ -98386,7 +98386,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: which he took from wars and from spoils, and from them he dedicated, to avoid delaying building of house of God.
+- fresh: which he took from wars and from spoils, and from them he dedicated, to avoid delaying building of the house of God.
 - brenton: things which he took out of cities and from the spoils, and consecrated some of them, so that the building of the house of God should not want supplies;
 
 ### 1 Chronicles 26:28
@@ -98458,7 +98458,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From sons of Perez, chief of all commanders of force for first month.
+- fresh: From the sons of Perez, chief of all commanders of force for first month.
 - brenton: Of the sons of Tharez one was chief of all the captains of the host for the first month.
 
 ### 1 Chronicles 27:4
@@ -98521,7 +98521,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Seventh for seventh month, Helez from Pallu, from sons of Ephraim, and over his division twenty-four thousand.
+- fresh: Seventh for seventh month, Helez from Pallu, from the sons of Ephraim, and over his division twenty-four thousand.
 - brenton: The seventh for the seventh month was Chelles of Phallus of the children of Ephraim: and in his division were twenty and four thousand.
 
 ### 1 Chronicles 27:11
@@ -98539,7 +98539,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ninth for ninth month, Abiezer from Anetothite, from land of Benjamin, and over his division twenty-four thousand.
+- fresh: Ninth for ninth month, Abiezer from Anetothite, from the land of Benjamin, and over his division twenty-four thousand.
 - brenton: The ninth for the ninth month was Abiezer of Anathoth, of the land of Benjamin: and in his division were twenty and four thousand.
 
 ### 1 Chronicles 27:13
@@ -98593,7 +98593,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: for Judah, Eliab from brothers of David; for Issachar, Omri son of Michael;
+- fresh: for Judah, Eliab from the brothers of David; for Issachar, Omri son of Michael;
 - brenton: for Juda, Eliab of the brethren of David: for Issachar, Ambri the son of Michael:
 
 ### 1 Chronicles 27:19
@@ -98647,7 +98647,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joab son of Zeruiah began numbering among people and did not finish, and because of these things wrath came upon Israel, and number was not entered in book of matters of days of king David.
+- fresh: And Joab son of Zeruiah began numbering among people and did not finish, and because of these things wrath came upon Israel, and number was not entered in the book of matters of days of king David.
 - brenton: And Joab the son of Saruia began to number the people, and did not finish the work, for there was hereupon wrath on Israel; and the number was not recorded in the book of the chronicles of king David.
 
 ### 1 Chronicles 27:25
@@ -98683,7 +98683,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And over olive groves and sycamines in lowland was Balanas the Gederite, and over treasuries of oil was Joash.
+- fresh: And over olive groves and sycamines in lowland was Balanas the Gederite, and over the treasuries of oil was Joash.
 - brenton: And over the oliveyards, and over the sycamores in the plain country was Ballanan the Gedorite; and over the stores of oil was Joas.
 
 ### 1 Chronicles 27:29
@@ -98719,7 +98719,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jonathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Hachmoni was with sons of king.
+- fresh: And Jonathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Hachmoni was with the sons of king.
 - brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
 
 ### 1 Chronicles 27:33
@@ -98755,7 +98755,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David stood in the midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
+- fresh: And David stood in the midst of assembly and said, Hear me, my brothers and my people. It came upon my heart to build the house of rest for ark of covenant of the Lord and footstool of our Lord, and I prepared fitting things for dwelling.
 - brenton: And David stood in the midst of the assembly, and said, Hear me, my brethren, and my people: it was in my heart to build a house of rest for the ark of the covenant of the Lord, and a place for the feet of our Lord, and I prepared materials suitable for the building:
 
 ### 1 Chronicles 28:3
@@ -98782,7 +98782,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from all my sons, because the Lord gave me many sons, he chose in Solomon my son to seat him upon throne of kingdom of the Lord over Israel.
+- fresh: And from all my sons, because the Lord gave me many sons, he chose in Solomon my son to seat him upon the throne of kingdom of the Lord over Israel.
 - brenton: And of all my sons, (for the Lord has given me many sons,) he has chosen Solomon my son, to set him on the throne of the kingdom of the Lord over Israel.
 
 ### 1 Chronicles 28:6
@@ -98809,7 +98809,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, before all assembly of the Lord and in ears of our God, keep and seek all commandments of the Lord our God, so that you may inherit good land and leave inheritance to your sons after you forever.
+- fresh: And now, before all assembly of the Lord and in the ears of our God, keep and seek all commandments of the Lord our God, so that you may inherit good land and leave inheritance to your sons after you forever.
 - brenton: And now I charge you before the whole assembly of the Lord, and in the audience of our God, keep and seek all the commandments of the Lord our God, that ye may inherit the good land, and leave it for your sons to inherit after you for ever.
 
 ### 1 Chronicles 28:9
@@ -98845,7 +98845,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and pattern which he had in his spirit of courts of house of the Lord and all storerooms around, for treasuries of house of the Lord and treasuries of holy things,
+- fresh: and pattern which he had in his spirit of courts of the house of the Lord and all storerooms around, for treasuries of the house of the Lord and treasuries of holy things,
 - brenton: and the plan which he had in his mind of the courts of the house of the Lord, and of all the chambers round about, designed for the treasuries of the house of God, and of the treasuries of the holy things, and of the chambers for resting:
 
 ### 1 Chronicles 28:13
@@ -98854,7 +98854,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and of chambers of courses of priests and Levites, for every work of service of house of the Lord and of storehouses of vessels of service of worship of house of the Lord,
+- fresh: and of chambers of courses of priests and Levites, for every work of service of the house of the Lord and of storehouses of vessels of service of worship of the house of the Lord,
 - brenton: and the plan of the courses of the priests and Levites, for all the work of the service of the house of the Lord, and of the stores of vessels for ministration of the service of the house of the Lord.
 
 ### 1 Chronicles 28:14
@@ -98908,7 +98908,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All in writing of the hand of the Lord, David gave to Solomon according to understanding given to him for working of pattern.
+- fresh: All in the writing of the hand of the Lord, David gave to Solomon according to understanding given to him for working of pattern.
 - brenton: David gave all to Solomon in the Lord's handwriting, according to the knowledge given him of the work of the pattern.
 
 ### 1 Chronicles 28:20
@@ -98917,7 +98917,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And David said to Solomon his son, Be strong and act like man and do. Do not fear and do not be dismayed, because the Lord my God is with you. He will not let go of you and will not forsake you until you finish every work of service of house of the Lord.
+- fresh: And David said to Solomon his son, Be strong and act like man and do. Do not fear and do not be dismayed, because the Lord my God is with you. He will not let go of you and will not forsake you until you finish every work of service of the house of the Lord.
 - brenton: And David said to Solomon his son, Be strong, and play the man, and do: fear not, neither be terrified; for the Lord my God is with thee; he will not forsake thee, and will not fail thee, until thou hast finished all the work of the service of the house of the Lord. And behold the pattern of the temple, even his house, and its treasury, and the upper chambers, and the inner store-rooms, and the place of propitiation, and the plan of the house of the Lord.
 
 ### 1 Chronicles 28:21
@@ -98926,7 +98926,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, courses of priests and Levites for every service of house of God are with you, and with you in every work are all willing men in wisdom for every craft, and rulers and all people for all your words.
+- fresh: And behold, courses of priests and Levites for every service of the house of God are with you, and with you in every work are all willing men in wisdom for every craft, and rulers and all people for all your words.
 - brenton: And see, here are the courses of the priests and Levites for all the service of the house of the Lord, and there shall be with thee men for every workmanship, and every one of ready skill in every art: also the chief men and all the people, ready for all thy commands.
 
 ### 1 Chronicles 29:1
@@ -98989,7 +98989,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gave for works of house of the Lord five thousand talents of gold and ten thousand gold pieces, and ten thousand talents of silver, and eighteen thousand talents of bronze, and one hundred thousand talents of iron.
+- fresh: And they gave for works of the house of the Lord five thousand talents of gold and ten thousand gold pieces, and ten thousand talents of silver, and eighteen thousand talents of bronze, and one hundred thousand talents of iron.
 - brenton: And they gave for the works of the house of the Lord five thousand talents of gold, and ten thousand gold pieces, and ten thousand talents of silver, and eighteen thousand talents of brass, and a hundred thousand talents of iron.
 
 ### 1 Chronicles 29:8
@@ -98998,7 +98998,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those with whom stone was found gave it to treasuries of house of the Lord by the hand of Jehiel the Gershonite.
+- fresh: And those with whom stone was found gave it to treasuries of the house of the Lord by the hand of Jehiel the Gershonite.
 - brenton: And they who had precious stone, gave it into the treasuries of the house of the Lord by the hand of Jeiel the Gedsonite.
 
 ### 1 Chronicles 29:9
@@ -99133,7 +99133,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon sat on throne of David his father and prospered, and all Israel listened to him.
+- fresh: And Solomon sat on the throne of David his father and prospered, and all Israel listened to him.
 - brenton: And Solomon sat upon the throne of his father David, and was highly honoured; and all Israel obeyed him.
 
 ### 1 Chronicles 29:24
@@ -99187,7 +99187,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of king David, first and last, are written in words of Samuel seer and in words of Nathan prophet and in words of Gad seer,
+- fresh: And rest of matters of king David, first and last, are written in the words of Samuel seer and in the words of Nathan prophet and in the words of Gad seer,
 - brenton: And the rest of the acts of David, the former and the latter, are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer,
 
 ### 1 Chronicles 29:30
@@ -99216,7 +99216,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon spoke to all Israel, to commanders of thousands and of hundreds and to judges and to all rulers before Israel, to chiefs of fathers.
+- fresh: And Solomon spoke to all Israel, to commanders of thousands and of hundreds and to judges and to all rulers before Israel, to the chiefs of fathers.
 - brenton: And Solomon spoke to all Israel, to the captains of thousands, and to the captains of hundreds, and to the judges, and to all the rulers over Israel, even the heads of the families;
 
 ### 2 Chronicles 1:3
@@ -99243,7 +99243,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And bronze altar which Bezaleel son of Ourios son of Hur made was there before tent of the Lord, and Solomon and assembly sought it.
+- fresh: And bronze altar which Bezaleel son of Ourios son of Hur made was there before the tent of the Lord, and Solomon and assembly sought it.
 - brenton: And the brazen altar which Beseleel the son of Urias, the son of Or, had made, was there before the tabernacle of the Lord: and Solomon and the congregation enquired at it.
 
 ### 2 Chronicles 1:6
@@ -99315,7 +99315,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon came from high place in Gibeon to Jerusalem, from before tent of testimony, and reigned over Israel.
+- fresh: And Solomon came from high place in Gibeon to Jerusalem, from before the tent of testimony, and reigned over Israel.
 - brenton: And Solomon came from the high place that was in Gabaon to Jerusalem, from before the tabernacle of witness, and reigned over Israel.
 
 ### 2 Chronicles 1:14
@@ -99324,7 +99324,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen, and he placed them in cities of chariots, and people were with king in Jerusalem.
+- fresh: And Solomon gathered chariots and horsemen, and he had one thousand four hundred chariots and twelve thousand horsemen, and he placed them in the cities of chariots, and people were with king in Jerusalem.
 - brenton: And Solomon collected chariots and horsemen: and he had fourteen hundred chariots, and twelve thousand horsemen: and he set them in the cities of chariots, and the people were with the king in Jerusalem.
 
 ### 2 Chronicles 1:15
@@ -99477,7 +99477,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: whose mother was from daughters of Dan and whose father was Tyrian man, knowing how to work in gold and in silver and in bronze and in iron, in stones and woods, and to weave in purple and in blue and in fine linen and in scarlet, and to carve carvings and devise every design whatever you give him, together with your wise men and wise men of David my lord your father.
+- fresh: whose mother was from the daughters of Dan and whose father was Tyrian man, knowing how to work in gold and in silver and in bronze and in iron, in stones and woods, and to weave in purple and in blue and in fine linen and in scarlet, and to carve carvings and devise every design whatever you give him, together with your wise men and wise men of David my lord your father.
 - brenton: (his mother was of the daughters of Dan, and his father was a Tyrian), skilled to work in gold, and in silver, and in brass, and in iron, and in stones and wood; and to weave with purple, and blue, and fine linen, and scarlet; and to engrave, and to understand every device, whatsoever thou shalt give him to do with thy craftsmen, and the craftsmen of my lord David thy father.
 
 ### 2 Chronicles 2:14
@@ -99522,7 +99522,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon began building house of the Lord in Jerusalem on mountain of Moriah, where the Lord appeared to David his father, in place which David prepared at threshing floor of Araunah the Jebusite.
+- fresh: And Solomon began building house of the Lord in Jerusalem on the mountain of Moriah, where the Lord appeared to David his father, in place which David prepared at the threshing floor of Araunah the Jebusite.
 - brenton: And Solomon began to build the house of the Lord in Jerusalem in the mount of Amoria, where the Lord appeared to his father David, in the place which David had prepared in the threshing-floor of Orna the Jebusite.
 
 ### 2 Chronicles 3:2
@@ -99657,7 +99657,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made chains in debir and put them on heads of pillars, and he made one hundred pomegranates and put them on chains.
+- fresh: And he made chains in debir and put them on the heads of pillars, and he made one hundred pomegranates and put them on chains.
 - brenton: And he made chains, as in the oracle, and put them on the heads of the pillars; and he made a hundred pomegranates, and put them on the chains.
 
 ### 2 Chronicles 3:17
@@ -99756,7 +99756,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set sea from corner of house on right, toward east, opposite.
+- fresh: And he set sea from the corner of the house on right, toward east, opposite.
 - brenton: And he set the sea at the corner of the house on the right, as it were fronting the east.
 
 ### 2 Chronicles 4:11
@@ -99774,7 +99774,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: two pillars, and upon them bowl-capitals on heads of pillars, two, and two nets to cover two bowl-capitals which were on heads of pillars,
+- fresh: two pillars, and upon them bowl-capitals on the heads of pillars, two, and two nets to cover two bowl-capitals which were on the heads of pillars,
 - brenton: two pillars, and upon them an embossed work for the chapiters on the heads of the two pillars, and two nets to cover the heads of the chapiters which are on the heads of the pillars;
 
 ### 2 Chronicles 4:13
@@ -99837,7 +99837,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon made all vessels of house of the Lord, and golden altar and tables, and on them breads of presentation,
+- fresh: And Solomon made all vessels of the house of the Lord, and golden altar and tables, and on them breads of presentation,
 - brenton: And Solomon made all the vessels of the house of the Lord, and the golden altar, and the tables, and upon them were to be the loaves of shewbread;
 
 ### 2 Chronicles 4:20
@@ -99864,7 +99864,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and inner door of house into holy of holies, and doors of house of temple, golden.
+- fresh: and inner door of house into the holy of holies, and doors of the house of temple, golden.
 - brenton: And there was the inner door of the house opening into the holy of holies, and he made the inner doors of the temple of gold. So all the work which Solomon wrought for the house of the Lord was finished.
 
 ### 2 Chronicles 5:1
@@ -99873,7 +99873,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all work which Solomon made in the house of the Lord was finished, and Solomon brought in holy things of David his father, silver and gold and vessels, and gave them into treasure of house of the Lord.
+- fresh: And all work which Solomon made in the house of the Lord was finished, and Solomon brought in the holy things of David his father, silver and gold and vessels, and gave them into treasure of the house of the Lord.
 - brenton: And Solomon brought in the holy things of his father David, the silver, and the gold, and the other vessels, and put them in the treasury of the house of the Lord.
 
 ### 2 Chronicles 5:2
@@ -99882,7 +99882,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Solomon assembled elders of Israel and all rulers of tribes, leaders of fathers of sons of Israel, in Jerusalem, to bring up ark of covenant of the Lord from City of David, this is Zion.
+- fresh: Then Solomon assembled elders of Israel and all rulers of tribes, leaders of fathers of sons of Israel, in Jerusalem, to bring up the ark of covenant of the Lord from City of David, this is Zion.
 - brenton: Then Solomon assembled all the elders of Israel, and all the heads of the tribes, even the leaders of the families of the children of Israel, to Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David,—this is Sion.
 
 ### 2 Chronicles 5:3
@@ -99927,7 +99927,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests brought in ark of covenant of the Lord to its place, into debir of house, into holy of holies, under wings of cheroubim.
+- fresh: And priests brought in ark of covenant of the Lord to its place, into debir of house, into the holy of holies, under wings of cheroubim.
 - brenton: And the priests brought in the ark of the covenant of the Lord into its place, into the oracle of the house, even into the holy of holies, under the wings of the cherubs.
 
 ### 2 Chronicles 5:8
@@ -99954,7 +99954,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There was nothing in ark except two tablets which Moses put in Horeb, when the Lord made covenant with sons of Israel as they came out from land of Egypt.
+- fresh: There was nothing in ark except two tablets which Moses put in Horeb, when the Lord made covenant with the sons of Israel as they came out from the land of Egypt.
 - brenton: There was nothing in the ark except the two tables which Moses placed there in Choreb, which God gave in covenant with the children of Israel, when they went out of the land of Egypt.
 
 ### 2 Chronicles 5:11
@@ -100035,7 +100035,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the day when I brought my people out of land of Egypt, I did not choose city from all tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
+- fresh: From the day when I brought my people out of land of Egypt, I did not choose city from all the tribes of Israel to build house for my name to be there, and I did not choose man to be ruler over my people Israel,
 - brenton: From the day when I brought up my people out of the land of Egypt, I chose no city of all the tribes of Israel, to build a house that my name should be there; neither did I choose a man to be a leader over my people Israel.
 
 ### 2 Chronicles 6:6
@@ -100053,7 +100053,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came upon heart of David my father to build house to the name of the Lord God of Israel.
+- fresh: And it came upon the heart of David my father to build house to the name of the Lord God of Israel.
 - brenton: And it came into the heart of David my father, to build a house for the name of the Lord God of Israel.
 
 ### 2 Chronicles 6:8
@@ -100080,7 +100080,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord raised up his word which he spoke, and I came to be in place of David my father and sat upon throne of Israel, as the Lord spoke, and I built house to the name of the Lord God of Israel.
+- fresh: And the Lord raised up his word which he spoke, and I came to be in place of David my father and sat upon the throne of Israel, as the Lord spoke, and I built house to the name of the Lord God of Israel.
 - brenton: And the Lord has confirmed this word, which he spoke; and I am raised up in the room of my father David, and I sit upon the throne of Israel as the Lord said, and I have built the house for the name of the Lord God of Israel:
 
 ### 2 Chronicles 6:11
@@ -100098,7 +100098,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he stood before altar of the Lord in presence of all assembly of Israel and spread out his hands.
+- fresh: And he stood before the altar of the Lord in presence of all assembly of Israel and spread out his hands.
 - brenton: And he stood before the altar of the Lord in the presence of all the congregation of Israel, and spread out his hands.
 
 ### 2 Chronicles 6:13
@@ -100134,7 +100134,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, Lord God of Israel, keep for your servant David my father what you spoke to him, saying, Man shall not fail for you from before me sitting on throne of Israel, if only your sons keep their way to walk in my law as you walked before me.
+- fresh: And now, Lord God of Israel, keep for your servant David my father what you spoke to him, saying, Man shall not fail for you from before me sitting on the throne of Israel, if only your sons keep their way to walk in my law as you walked before me.
 - brenton: And now, Lord God of Israel, keep with thy servant David my father the things which thou spokest to him, saying, There shall not fail thee a man before me sitting on the throne of Israel, if only thy sons will take heed to their way to walk in my law, as thou didst walk before me.
 
 ### 2 Chronicles 6:17
@@ -100161,7 +100161,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall look upon prayer of your servant and upon my petition, Lord God, to hear petition and prayer which your servant prays before you today,
+- fresh: And you shall look upon the prayer of your servant and upon my petition, Lord God, to hear petition and prayer which your servant prays before you today,
 - brenton: Yet thou shalt have respect to the prayer of thy servant, and to my petition, O Lord God, so as to hearken to the petition and the prayer which thy servant prays before thee this day:
 
 ### 2 Chronicles 6:20
@@ -100215,7 +100215,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then you shall hear from heaven and be merciful to sins of your people Israel and return them to land which you gave to them and to their fathers.
+- fresh: then you shall hear from heaven and be merciful to the sins of your people Israel and return them to the land which you gave to them and to their fathers.
 - brenton: then shalt thou hearken out of heaven and shalt be merciful to the sins of thy people Israel, and thou shalt restore them to the land which thou gavest to them and to their fathers.
 
 ### 2 Chronicles 6:26
@@ -100233,7 +100233,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: then you shall hear from heaven and be merciful to sins of your servants and your people Israel, because you will show them good way in which they shall walk, and you will give rain upon your land which you gave to your people for inheritance.
+- fresh: then you shall hear from heaven and be merciful to the sins of your servants and your people Israel, because you will show them good way in which they shall walk, and you will give rain upon your land which you gave to your people for inheritance.
 - brenton: then shalt thou hearken from heaven, and thou shalt be merciful to the sins of thy servants, and of thy people Israel; for thou shalt shew them the good way in which they shall walk; and thou shalt send rain upon thy land, which thou gavest to thy people for an inheritance.
 
 ### 2 Chronicles 6:28
@@ -100269,7 +100269,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: so that they may fear your ways all days which they live upon face of land which you gave to our fathers.
+- fresh: so that they may fear your ways all days which they live upon the face of land which you gave to our fathers.
 - brenton: that they may reverence all thy ways all the days which they live upon the face of the land, which thou gavest to our fathers.
 
 ### 2 Chronicles 6:32
@@ -100314,7 +100314,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because they will sin against you, for there will not be man who will not sin, and you will strike them and hand them over before enemies, and those taking them captive shall take them captive to land of enemies, far or near,
+- fresh: Because they will sin against you, for there will not be man who will not sin, and you will strike them and hand them over before enemies, and those taking them captive shall take them captive to the land of enemies, far or near,
 - brenton: Whereas if they shall sin against thee, (for there is no man who will not sin,) and thou shalt smite them, and deliver them up before their enemies, and they that take them captive shall carry them away into a land of enemies, to a land far off or near;
 
 ### 2 Chronicles 6:37
@@ -100332,7 +100332,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and turn toward you with all heart and all soul in the land of those who took them captive, and pray by way of their land which you gave to their fathers and city which you chose and house which I built to your name,
+- fresh: and turn toward you with all their heart and all their soul in the land of those who took them captive, and pray by way of their land which you gave to their fathers and city which you chose and house which I built to your name,
 - brenton: and if they shall turn to thee with all their heart and all their soul in the land of them that carried them captives, whither they carried them captives, and shall pray toward their land which thou gavest to their fathers, and the city which thou didst choose, and the house which I built to thy name:—
 
 ### 2 Chronicles 6:39
@@ -100386,7 +100386,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests were not able to enter house of the Lord at that time, because glory of the Lord filled house.
+- fresh: And priests were not able to enter the house of the Lord at that time, because glory of the Lord filled house.
 - brenton: And the priests could not enter into the house of the Lord at that time, for the glory of the Lord filled the house.
 
 ### 2 Chronicles 7:3
@@ -100422,7 +100422,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests stood at their charges, and Levites with instruments of songs of the Lord, of David king, for giving thanks before the Lord, because his mercy is forever, with hymns of David by their hand, and priests were blowing trumpets before them, and all Israel stood.
+- fresh: And priests stood at their charges, and Levites with the instruments of songs of the Lord, of David king, for giving thanks before the Lord, because his mercy is forever, with hymns of David by their hand, and priests were blowing trumpets before them, and all Israel stood.
 - brenton: And the priests were standing at their watches, and the Levites with instruments of music of the Lord, belonging to king David, to give thanks before the Lord, for his mercy endures for ever, with the hymns of David, by their ministry: and the priests were blowing the trumpets before them, and all Israel standing.
 
 ### 2 Chronicles 7:7
@@ -100440,7 +100440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon made feast at that time seven days, and all Israel with him, very great assembly, from entrance of Hamath and as far as river of Egypt.
+- fresh: And Solomon made feast at that time seven days, and all Israel with him, very great assembly, from the entrance of Hamath and as far as river of Egypt.
 - brenton: And Solomon kept the feast at that time seven days, and all Israel with him, a very great assembly, from the entering in of Æmath, and as far as the river of Egypt.
 
 ### 2 Chronicles 7:9
@@ -100467,7 +100467,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon finished house of the Lord and house of king, and all things which Solomon desired in his soul to do in the house of the Lord and in his house prospered.
+- fresh: And Solomon finished house of the Lord and house of the king, and all things which Solomon desired in his soul to do in the house of the Lord and in his house prospered.
 - brenton: So Solomon finished the house of the Lord, and the king's house: and in whatever Solomon wished in his heart to do in the house of the Lord and in his own house, he prospered.
 
 ### 2 Chronicles 7:12
@@ -100503,7 +100503,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Now my eyes shall be open and my ears attentive to prayer of this place.
+- fresh: Now my eyes shall be open and my ears attentive to the prayer of this place.
 - brenton: And now my eyes shall be open, and my ears attentive to the prayer of this place.
 
 ### 2 Chronicles 7:16
@@ -100566,7 +100566,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they shall say, Because they forsook the Lord God of their fathers, who brought them out from land of Egypt, and laid hold of other gods and worshiped them and served them, therefore he brought upon them all this evil.
+- fresh: And they shall say, Because they forsook the Lord God of their fathers, who brought them out from the land of Egypt, and laid hold of other gods and worshiped them and served them, therefore he brought upon them all this evil.
 - brenton: And men shall say, Because they forsook the Lord God of their fathers, who brought them out of the land of Egypt, and they attached themselves to other gods, and worshipped them, and served them: and therefore he has brought upon them all this evil.
 
 ### 2 Chronicles 8:1
@@ -100647,7 +100647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But from sons of Israel Solomon did not make servants for his kingdom, because they were men of war and rulers and mighty men and rulers of chariots and horsemen.
+- fresh: But from the sons of Israel Solomon did not make servants for his kingdom, because they were men of war and rulers and mighty men and rulers of chariots and horsemen.
 - brenton: But Solomon did not make any of the children of Israel servants in his kingdom; for, behold, they were warriors and rulers, and mighty men, and captains of chariots and horsemen.
 
 ### 2 Chronicles 8:10
@@ -100683,7 +100683,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And according to matter of each day, for offering according to commandments of Moses, on Sabbaths and on new moons and on feasts three times of year, in feast of unleavened bread and in feast of weeks and in feast of tents.
+- fresh: And according to the matter of each day, for offering according to commandments of Moses, on Sabbaths and on new moons and on feasts three times of year, in the feast of unleavened bread and in the feast of weeks and in the feast of tents.
 - brenton: according to the daily rate, to offer up sacrifices according to the commandments of Moses, on the sabbaths, and at the new moons, and at the feasts, three times in the year, at the feast of unleavened bread, and at the feast of weeks, and at the feast of tabernacles.
 
 ### 2 Chronicles 8:14
@@ -100692,7 +100692,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he established according to ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to matter of day in its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
+- fresh: And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to the matter of day in its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
 - brenton: And he established, according to the order of his father David, the courses of the priests, and that according to their public ministrations: and the Levites were appointed over their charges, to praise and minister before the priests according to the daily order: and the porters were appointed according to their courses to the different gates: for thus were the commandments of David the man of God.
 
 ### 2 Chronicles 8:15
@@ -100728,7 +100728,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hiram sent by hands of his servants ships and servants knowing sea, and they went with servants of Solomon to Ophir and took from there four hundred fifty talents of gold and came to king Solomon.
+- fresh: And Hiram sent by the hands of his servants ships and servants knowing sea, and they went with the servants of Solomon to Ophir and took from there four hundred fifty talents of gold and came to king Solomon.
 - brenton: And Chiram sent by the hand of his servants ships, and servants skilled in naval affairs; and they went with the servants of Solomon to Sophira, and brought thence four hundred and fifty talents of gold, and they came to king Solomon.
 
 ### 2 Chronicles 9:1
@@ -100827,7 +100827,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king made from pine woods stairways for the house of the Lord and for the house of king and lyres and harps for singers, and such things were not seen before in the land of Judah.
+- fresh: And king made from pine woods stairways for the house of the Lord and for the house of the king and lyres and harps for singers, and such things were not seen before in the land of Judah.
 - brenton: And the king made of the pine timber steps to the house of the Lord, and to the king's house, and harps and lutes for the singers: and such were not seen before in the land of Juda.
 
 ### 2 Chronicles 9:12
@@ -100836,7 +100836,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king Solomon gave to queen of Sheba all her desires which she asked, besides all which she brought to king Solomon, and she returned to her land.
+- fresh: And king Solomon gave to the queen of Sheba all her desires which she asked, besides all which she brought to king Solomon, and she returned to her land.
 - brenton: And king Solomon gave to the queen of Saba all that she requested, besides all that she brought to king Solomon: and she returned to her own land.
 
 ### 2 Chronicles 9:13
@@ -100890,7 +100890,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And six steps to throne, fastened with gold, and armrests on this side and on that side on seat of throne, and two lions standing beside armrests.
+- fresh: And six steps to throne, fastened with gold, and armrests on this side and on that side on the seat of throne, and two lions standing beside armrests.
 - brenton: And there were six steps to the throne, riveted with gold, and elbows on either side of the seat of the throne, and two lions standing by the elbows:
 
 ### 2 Chronicles 9:19
@@ -100908,7 +100908,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all vessels of king Solomon were of gold, and all vessels of house of forest of Lebanon covered with gold; silver was not reckoned in the days of Solomon as anything.
+- fresh: And all vessels of king Solomon were of gold, and all vessels of the house of forest of Lebanon covered with gold; silver was not reckoned in the days of Solomon as anything.
 - brenton: And all king Solomon's vessels were of gold, and all the vessels of the house of the forest of Lebanon were covered with gold: silver was not thought anything of in the days of Solomon.
 
 ### 2 Chronicles 9:21
@@ -100917,7 +100917,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because ships went for king to Tarshish with servants of Hiram; once every three years ships came from Tarshish to king full of gold and silver and ivory and monkeys.
+- fresh: Because ships went for king to Tarshish with the servants of Hiram; once every three years ships came from Tarshish to king full of gold and silver and ivory and monkeys.
 - brenton: For a ship went for the king to Tharsis with the servants of Chiram: once every three years came vessels from Tharsis to the king, laden with gold, and silver, and ivory, and apes.
 
 ### 2 Chronicles 9:22
@@ -100953,7 +100953,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon had four thousand mares for chariots and twelve thousand horsemen, and he put them in cities of chariots and with king in Jerusalem.
+- fresh: And Solomon had four thousand mares for chariots and twelve thousand horsemen, and he put them in the cities of chariots and with king in Jerusalem.
 - brenton: And Solomon had four thousand mares for chariots, and twelve thousand horsemen; and he put them in the chariot cities, and with the king in Jerusalem.
 
 ### 2 Chronicles 9:26
@@ -100989,7 +100989,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of Solomon, first and last, behold, written in words of Nathan prophet and in words of Ahijah the Shilonite and in visions of Iddo the seer concerning Jeroboam son of Nebat.
+- fresh: And rest of matters of Solomon, first and last, behold, written in the words of Nathan prophet and in the words of Ahijah the Shilonite and in visions of Iddo the seer concerning Jeroboam son of Nebat.
 - brenton: And the rest of the acts of Solomon, the first and the last, behold, these are written in the words of Nathan the prophet, and in the words of Achia the Selonite, and in the visions of Joel the seer concerning Jeroboam the son of Nabat.
 
 ### 2 Chronicles 9:30
@@ -101007,7 +101007,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Solomon slept, and they buried him in city of David his father, and Rehoboam his son reigned in his place.
+- fresh: And Solomon slept, and they buried him in the city of David his father, and Rehoboam his son reigned in his place.
 - brenton: And Solomon fell asleep, and they buried him in the city of David his father: and Roboam his son reigned in his stead.
 
 ### 2 Chronicles 10:1
@@ -101133,7 +101133,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he spoke to them according to counsel of younger men, saying, My father made your yoke heavy, and I will add upon it. My father disciplined you with whips, but I will discipline you with scorpions.
+- fresh: And he spoke to them according to the counsel of younger men, saying, My father made your yoke heavy, and I will add upon it. My father disciplined you with whips, but I will discipline you with scorpions.
 - brenton: and spoke to them according to the counsel of the young men, saying, My father made your yoke heavy, but I will add to it: my father chastised you with whips, but I will chastise you with scorpions.
 
 ### 2 Chronicles 10:15
@@ -101160,7 +101160,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But over men of Israel dwelling in cities of Judah, Rehoboam reigned over them.
+- fresh: But over the men of Israel dwelling in the cities of Judah, Rehoboam reigned over them.
 - brenton: But the men of Israel, even those who dwelt in the cities of Juda, remained and made Roboam king over them.
 
 ### 2 Chronicles 10:18
@@ -101178,7 +101178,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Israel broke covenant with house of David until this day.
+- fresh: And Israel broke covenant with the house of David until this day.
 - brenton: So Israel rebelled against the house of David until this day.
 
 ### 2 Chronicles 11:1
@@ -101331,7 +101331,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they strengthened kingdom of Judah and strengthened Rehoboam son of Solomon for three years, because he walked in ways of David and Solomon three years.
+- fresh: And they strengthened kingdom of Judah and strengthened Rehoboam son of Solomon for three years, because he walked in the ways of David and Solomon three years.
 - brenton: And they strengthened the kingdom of Juda; and Juda strengthened Roboam the son of Solomon for three years, for he walked three years in the ways of David and Solomon.
 
 ### 2 Chronicles 11:18
@@ -101430,7 +101430,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shemaiah the prophet came to Rehoboam and rulers of Judah, those gathered into Jerusalem because of Shishak, and said to them, Thus says the Lord: You forsake me, and I also will forsake you into hand of Shishak.
+- fresh: And Shemaiah the prophet came to Rehoboam and rulers of Judah, those gathered into Jerusalem because of Shishak, and said to them, Thus says the Lord: You forsake me, and I also will forsake you into the hand of Shishak.
 - brenton: And Samaias the prophet came to Roboam, and to the princes of Juda that were gathered to Jerusalem for fear of Susakim, and said to them, Thus said the Lord, Ye have left me, and I will leave you in the hand of Susakim.
 
 ### 2 Chronicles 12:6
@@ -101466,7 +101466,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shishak king of Egypt came up and took treasures in the house of the Lord and treasures in the house of king. He took all, and he took golden shields which Solomon made.
+- fresh: And Shishak king of Egypt came up and took treasures in the house of the Lord and treasures in the house of the king. He took all, and he took golden shields which Solomon made.
 - brenton: So Susakim king of Egypt went up against Jerusalem, and took the treasures that were in the house of the Lord, and the treasures that were in the king's house: he took all; and he took the golden shields which Solomon had made.
 
 ### 2 Chronicles 12:10
@@ -101520,7 +101520,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And matters of Rehoboam, first and last, behold, are they not written in words of Shemaiah the prophet and Iddo the seer and his acts? And Rehoboam fought Jeroboam all his days.
+- fresh: And matters of Rehoboam, first and last, behold, are they not written in the words of Shemaiah the prophet and Iddo the seer and his acts? And Rehoboam fought Jeroboam all his days.
 - brenton: And the acts of Roboam, the first and the last, behold, are they not written in the book of Samaia the prophet, and Addo the seer, with his achievements.
 
 ### 2 Chronicles 12:16
@@ -101538,7 +101538,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighteenth year of reign of Jeroboam, Abijah reigned over Judah.
+- fresh: In the eighteenth year of reign of Jeroboam, Abijah reigned over Judah.
 - brenton: In the eighteenth year of the reign of Jeroboam Abia began to reign over Juda.
 
 ### 2 Chronicles 13:2
@@ -101565,7 +101565,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Abijah stood up from mount Zemaraim, which is in mountain of Ephraim, and said, Hear, Jeroboam and all Israel.
+- fresh: And Abijah stood up from mount Zemaraim, which is in the mountain of Ephraim, and said, Hear, Jeroboam and all Israel.
 - brenton: And Abia rose up from the mount Somoron, which is in mount Ephraim, and said, Hear ye, Jeroboam, and all Israel:
 
 ### 2 Chronicles 13:5
@@ -101601,7 +101601,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now you say you will stand against kingdom of the Lord by the hand of sons of David, and you are many people, and with you are golden calves which Jeroboam made for you as gods.
+- fresh: And now you say you will stand against the kingdom of the Lord by the hand of sons of David, and you are many people, and with you are golden calves which Jeroboam made for you as gods.
 - brenton: And now ye profess to resist the kingdom of the Lord in the hand of the sons of David; and ye are a great multitude, and with you are golden calves, which Jeroboam made you for gods.
 
 ### 2 Chronicles 13:9
@@ -101610,7 +101610,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from people of the land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
+- fresh: Did you not cast out priests of the Lord, sons of Aaron, and Levites, and make for yourselves priests from the people of the land? Everyone coming to fill hands with young bull from cattle and seven rams became priest to what was not god.
 - brenton: Did ye not cast out the priests of the Lord, the sons of Aaron, and the Levites, and make to yourselves priests of the people of any other land? whoever came to consecrate himself with a calf of the herd and seven rams, he forthwith became a priest to that which is no god.
 
 ### 2 Chronicles 13:10
@@ -101727,7 +101727,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of Abijah and his deeds and his words are written in book of prophet Iddo.
+- fresh: And rest of matters of Abijah and his deeds and his words are written in the book of prophet Iddo.
 - brenton: And the rest of the acts of Abia, and his deeds, and his sayings, are written in the book of the prophet Addo.
 
 ### 2 Chronicles 13:23
@@ -101745,7 +101745,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did good and upright in sight of the Lord his God.
+- fresh: And he did good and upright in the sight of the Lord his God.
 - brenton: And he did that which was good and right in the sight of the Lord his God.
 
 ### 2 Chronicles 14:2
@@ -101772,7 +101772,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he removed from all cities of Judah altars and idols, and land was at peace.
+- fresh: And he removed from all the cities of Judah altars and idols, and land was at peace.
 - brenton: And he removed from all the cities of Juda the altars and the idols, and established in quietness
 
 ### 2 Chronicles 14:5
@@ -101934,7 +101934,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he heard these words and prophecy of Hadad the prophet, he was strengthened and cast out abominations from all land of Judah and Benjamin and from cities which he seized in mountain of Ephraim and renewed altar of the Lord which was before temple of the Lord.
+- fresh: And when he heard these words and prophecy of Hadad the prophet, he was strengthened and cast out abominations from all land of Judah and Benjamin and from cities which he seized in the mountain of Ephraim and renewed altar of the Lord which was before the temple of the Lord.
 - brenton: And when Asa heard these words, and the prophecy of Adad the prophet, then he strengthened himself, and cast out the abominations from all the land of Juda and Benjamin, and from the cities which Jeroboam possessed, in mount Ephraim, and he renewed the altar of the Lord, which was before the temple of the Lord.
 
 ### 2 Chronicles 15:9
@@ -101997,7 +101997,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all Judah rejoiced over oath, because with all soul they swore and with all desire sought him, and he was found by them, and the Lord gave them rest all around.
+- fresh: And all Judah rejoiced over oath, because with all their soul they swore and with all their desire sought him, and he was found by them, and the Lord gave them rest all around.
 - brenton: And all Juda rejoiced concerning the oath: for they swore with all their heart, and they sought him with all their desires; and he was found of them: and the Lord gave them rest round about.
 
 ### 2 Chronicles 15:16
@@ -102024,7 +102024,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought in holy things of David his father and holy things of house of the Lord God, silver and gold and vessels.
+- fresh: And he brought in the holy things of David his father and holy things of the house of the Lord God, silver and gold and vessels.
 - brenton: And he brought in the holy things of David his father, and the holy things of the house of God, silver, and gold, and vessels.
 
 ### 2 Chronicles 15:19
@@ -102042,7 +102042,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in thirty-eighth year of kingdom of Asa, Baasha king of Israel came up against Judah and built Ramah so as not to give exit and entry to Asa king of Judah.
+- fresh: And in the thirty-eighth year of kingdom of Asa, Baasha king of Israel came up against Judah and built Ramah so as not to give exit and entry to Asa king of Judah.
 - brenton: And in the thirty-eighth year of the reign of Asa, the king of Israel went up against Juda, and built Rama, so as not to allow egress or ingress to Asa king of Juda.
 
 ### 2 Chronicles 16:2
@@ -102051,7 +102051,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Asa took gold and silver from treasures of house of the Lord and house of king and sent to Ben-hadad king of Syria dwelling in Damascus, saying,
+- fresh: And Asa took gold and silver from treasures of the house of the Lord and house of the king and sent to Ben-hadad king of Syria dwelling in Damascus, saying,
 - brenton: And Asa took silver and gold out of the treasures of the house of the Lord, and of the king's house, and sent them to the son of Ader king of Syria, which dwelt in Damascus, saying,
 
 ### 2 Chronicles 16:3
@@ -102069,7 +102069,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ben-hadad listened to king Asa and sent chiefs of his force against cities of Israel, and he struck Ijon and Dan and Abelmaim and all surrounding places of Naphtali.
+- fresh: And Ben-hadad listened to king Asa and sent chiefs of his force against the cities of Israel, and he struck Ijon and Dan and Abelmaim and all surrounding places of Naphtali.
 - brenton: And the son of Ader hearkened to king Asa, and sent the captains of his host against the cities of Israel; and smote Æon, and Dan, and Abelmain, and all the country round Nephthali.
 
 ### 2 Chronicles 16:5
@@ -102114,7 +102114,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because eyes of the Lord look through all earth to strengthen every heart full toward him. You acted foolishly in this; from now on wars shall be with you.
+- fresh: Because eyes of the Lord look through all the earth to strengthen every heart full toward him. You acted foolishly in this; from now on wars shall be with you.
 - brenton: For the eyes of the Lord look upon all the earth, to strengthen every heart that is perfect toward him. In this thou hast done foolishly; henceforth there shall be war with thee.
 
 ### 2 Chronicles 16:10
@@ -102132,7 +102132,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, matters of Asa, first and last, are written in book of kings of Judah and Israel.
+- fresh: And behold, matters of Asa, first and last, are written in the book of kings of Judah and Israel.
 - brenton: And, behold, the acts of Asa, the first and the last, are written in the book of the kings of Juda and Israel.
 
 ### 2 Chronicles 16:12
@@ -102177,7 +102177,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he put force in all fortified cities of Judah and set rulers in all cities of Judah and in cities of Ephraim which Asa his father seized.
+- fresh: And he put force in all fortified cities of Judah and set rulers in all cities of Judah and in the cities of Ephraim which Asa his father seized.
 - brenton: And he put garrisons in all the strong cities of Juda, and appointed captains in all the cities of Juda, and in the cities of Ephraim, which Asa his father had taken.
 
 ### 2 Chronicles 17:3
@@ -102195,7 +102195,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: but sought the Lord God of his father and walked in commandments of his father and not according to works of Israel.
+- fresh: but sought the Lord God of his father and walked in the commandments of his father and not according to the works of Israel.
 - brenton: but he sought to the Lord God of his father, and walked in the commandments of his father, and not according to the works of Israel.
 
 ### 2 Chronicles 17:5
@@ -102213,7 +102213,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his heart was lifted high in the way of the Lord, and he further removed high places and groves from land of Judah.
+- fresh: And his heart was lifted high in the way of the Lord, and he further removed high places and groves from the land of Judah.
 - brenton: And his heart was exalted in the way of the Lord; and he removed the high places and the groves from the land of Juda.
 
 ### 2 Chronicles 17:7
@@ -102222,7 +102222,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in cities of Judah,
+- fresh: And in the third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in the cities of Judah,
 - brenton: And in the third year of his reign, he sent his chief men, and his mighty men, Abdias and Zacharias, and Nathanael, and Michaias, to teach in the cities of Juda.
 
 ### 2 Chronicles 17:8
@@ -102285,7 +102285,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And this was their number according to houses of their fathers: for Judah, commanders of thousands: Adnah the chief, and with him three hundred thousand mighty men of force;
+- fresh: And this was their number according to the houses of their fathers: for Judah, commanders of thousands: Adnah the chief, and with him three hundred thousand mighty men of force;
 - brenton: And this is their number according to the houses of their fathers; even the captains of thousands in Juda were, Ednas the chief, and with him mighty men of strength three hundred thousand.
 
 ### 2 Chronicles 17:15
@@ -102339,7 +102339,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshaphat had still much wealth and glory, and he joined by marriage with house of Ahab.
+- fresh: And Jehoshaphat had still much wealth and glory, and he joined by marriage with the house of Ahab.
 - brenton: And Josaphat had yet great wealth and glory, and he connected himself by marriage with the house of Achaab.
 
 ### 2 Chronicles 18:2
@@ -102348,7 +102348,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after end of years he went down to Ahab in Samaria, and Ahab sacrificed to him many sheep and calves and to people with him, and deceived him to go up with him to Ramoth of Gilead.
+- fresh: And after the end of years he went down to Ahab in Samaria, and Ahab sacrificed to him many sheep and calves and to people with him, and deceived him to go up with him to Ramoth of Gilead.
 - brenton: And he went down after a term of years to Achaab to Samaria: and Achaab slew for him sheep and calves, in abundance, and for the people with him, and he much desired him to go up with him to Ramoth of the country of Galaad.
 
 ### 2 Chronicles 18:3
@@ -102366,7 +102366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshaphat said to king of Israel, Seek now today Lord.
+- fresh: And Jehoshaphat said to the king of Israel, Seek now today Lord.
 - brenton: And Josaphat said to the king of Israel, Seek, I pray thee, the Lord to-day.
 
 ### 2 Chronicles 18:5
@@ -102375,7 +102375,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king of Israel gathered prophets, four hundred men, and said to them, Shall I go to Ramoth Gilead for battle, or shall I hold back? And they said, Go up, and God will give into hands of king.
+- fresh: And king of Israel gathered prophets, four hundred men, and said to them, Shall I go to Ramoth Gilead for battle, or shall I hold back? And they said, Go up, and God will give into the hands of king.
 - brenton: And the king of Israel gathered the prophets, four hundred men, and said to them, Shall I go to Ramoth Galaad to battle, or shall I forbear? And they said, Go up, and God shall deliver it into the hands of the king.
 
 ### 2 Chronicles 18:6
@@ -102411,7 +102411,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king of Israel and Jehoshaphat king of Judah were sitting each on his throne, clothed in robes, sitting in broad place of gate of Samaria, and all prophets were prophesying before them.
+- fresh: And king of Israel and Jehoshaphat king of Judah were sitting each on his throne, clothed in robes, sitting in the broad place of gate of Samaria, and all prophets were prophesying before them.
 - brenton: And the king of Israel and Josaphat king of Juda were sitting each on his throne, and clothed in their robes, sitting in the open space at the entrance of the gate of Samaria: and all the prophets were prophesying before them.
 
 ### 2 Chronicles 18:10
@@ -102429,7 +102429,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all prophets were prophesying thus, saying, Go up to Ramoth Gilead and prosper, and the Lord will give into hands of king.
+- fresh: And all prophets were prophesying thus, saying, Go up to Ramoth Gilead and prosper, and the Lord will give into the hands of king.
 - brenton: And all the prophets prophesied so, saying, Go up to Ramoth Galaad, and thou shalt prosper; and the Lord shall deliver it into the hands of the king.
 
 ### 2 Chronicles 18:12
@@ -102519,7 +102519,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, I will go out and be lying spirit in mouth of all his prophets. And he said, You shall deceive and you shall be able; go out and do so.
+- fresh: And he said, I will go out and be lying spirit in the mouth of all his prophets. And he said, You shall deceive and you shall be able; go out and do so.
 - brenton: And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And the Lord said, Thou shalt deceive him, and shalt prevail: go forth, and do so.
 
 ### 2 Chronicles 18:22
@@ -102528,7 +102528,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, behold, the Lord has put lying spirit in mouth of all these prophets of yours, and the Lord spoke evil against you.
+- fresh: And now, behold, the Lord has put lying spirit in the mouth of all these prophets of yours, and the Lord spoke evil against you.
 - brenton: And now, behold, the Lord has put a false spirit in the mouth of these thy prophets, and the Lord has spoken evil against thee.
 
 ### 2 Chronicles 18:23
@@ -102663,7 +102663,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet good matters were found in you, because you removed groves from land of Judah and directed your heart to seek the Lord.
+- fresh: Yet good matters were found in you, because you removed groves from the land of Judah and directed your heart to seek the Lord.
 - brenton: Nevertheless some good things have been found in thee, forasmuch as thou didst remove the groves from the land of Juda, and didst direct thine heart to seek after the Lord.
 
 ### 2 Chronicles 19:4
@@ -102672,7 +102672,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshaphat dwelt in Jerusalem and again went out to people from Beersheba to mountain of Ephraim and turned them back to the Lord God of their fathers.
+- fresh: And Jehoshaphat dwelt in Jerusalem and again went out to people from Beersheba to the mountain of Ephraim and turned them back to the Lord God of their fathers.
 - brenton: And Josaphat dwelt in Jerusalem: and he again went out among the people from Bersabee to the mount of Ephraim, and turned them back to the Lord God of their fathers.
 
 ### 2 Chronicles 19:5
@@ -102771,7 +102771,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Judah gathered to seek the Lord, and from all cities of Judah they came to seek the Lord.
+- fresh: And Judah gathered to seek the Lord, and from all the cities of Judah they came to seek the Lord.
 - brenton: And Juda gathered themselves together to seek after the Lord: even from all the cities of Juda they came to seek the Lord.
 
 ### 2 Chronicles 20:5
@@ -102780,7 +102780,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoshaphat stood in assembly of Judah in Jerusalem, in the house of the Lord, before new court,
+- fresh: And Jehoshaphat stood in the assembly of Judah in Jerusalem, in the house of the Lord, before new court,
 - brenton: And Josaphat stood up in the assembly of Juda in Jerusalem, in the house of the Lord, in front of the new court.
 
 ### 2 Chronicles 20:6
@@ -102798,7 +102798,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Are you not the Lord who destroyed inhabitants of this land from before your people Israel and gave it to seed of Abraham your beloved forever?
+- fresh: Are you not the Lord who destroyed inhabitants of this land from before your people Israel and gave it to the seed of Abraham your beloved forever?
 - brenton: Art not thou the Lord that didst destroy the inhabitants of this land before the face of thy people Israel, and didst give it to thy beloved seed of Abraham for ever?
 
 ### 2 Chronicles 20:8
@@ -102825,7 +102825,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, behold, sons of Ammon and Moab and mount Seir, through whom you did not allow Israel to pass when they came out from land of Egypt, because they turned away from them and did not destroy them,
+- fresh: And now, behold, sons of Ammon and Moab and mount Seir, through whom you did not allow Israel to pass when they came out from the land of Egypt, because they turned away from them and did not destroy them,
 - brenton: And now, behold, the children of Ammon, and Moab, and mount Seir, with regard to whom thou didst not permit Israel to pass through their border, when they had come out of the land of Egypt, (for they turned away from them, and did not destroy them;)—
 
 ### 2 Chronicles 20:11
@@ -102861,7 +102861,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And upon Uzziel son of Zechariah, from sons of Benaiah, from sons of Levite, from Mattaniah the Levite, from sons of Asaph, spirit of the Lord came in assembly,
+- fresh: And upon Uzziel son of Zechariah, from the sons of Benaiah, from the sons of Levite, from Mattaniah the Levite, from the sons of Asaph, spirit of the Lord came in assembly,
 - brenton: And Oziel the son of Zacharias, of the children of Banaias, of the sons of Eleïel the sons of Matthanias the Levite, of the sons of Asaph,—upon him came the Spirit of the Lord in the assembly:
 
 ### 2 Chronicles 20:15
@@ -102879,7 +102879,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Tomorrow go down against them. Behold, they are going up by ascent of Ziz, and you will find them at end of river of wilderness Jeruel.
+- fresh: Tomorrow go down against them. Behold, they are going up by ascent of Ziz, and you will find them at the end of river of wilderness Jeruel.
 - brenton: To-morrow go ye down against them: behold, they come up by the ascent of Assis, and ye shall find them at the extremity of the river of the wilderness of Jeriel.
 
 ### 2 Chronicles 20:17
@@ -102906,7 +102906,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites from sons of Kohath and from sons of Kore rose to praise the Lord God of Israel with very great loud voice.
+- fresh: And Levites from the sons of Kohath and from the sons of Kore rose to praise the Lord God of Israel with very great loud voice.
 - brenton: And the Levites of the children of Caath, and they of the sons of Core, rose up to praise the Lord God of Israel with a loud voice on high.
 
 ### 2 Chronicles 20:20
@@ -102915,7 +102915,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they rose early in morning and went out into wilderness of Tekoa, and as they went out, Jehoshaphat stood and cried, saying, Hear me, Judah and inhabitants of Jerusalem. Trust in the Lord your God and you shall be trusted; trust in his prophet and you shall prosper.
+- fresh: And they rose early in morning and went out into the wilderness of Tekoa, and as they went out, Jehoshaphat stood and cried, saying, Hear me, Judah and inhabitants of Jerusalem. Trust in the Lord your God and you shall be trusted; trust in his prophet and you shall prosper.
 - brenton: And they rose early in the morning and went out to the wilderness of Thecoe: and as they went out, Josaphat stood and cried, and said, Hear me, Juda, and the dwellers in Jerusalem; put your trust in the Lord God, and your trust shall be honoured; trust in his prophet, and ye shall prosper.
 
 ### 2 Chronicles 20:21
@@ -102942,7 +102942,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Ammon and Moab rose against inhabitants of mount Seir to destroy and wipe out, and when they finished inhabitants of Seir, they rose against one another for destruction.
+- fresh: And sons of Ammon and Moab rose against the inhabitants of mount Seir to destroy and wipe out, and when they finished inhabitants of Seir, they rose against one another for destruction.
 - brenton: Then the children of Ammon and Moab rose up against the dwellers in mount Seir, to destroy and consume them; and when they had made an end of destroying the inhabitants of Seir, they rose up against one another so that they were utterly destroyed.
 
 ### 2 Chronicles 20:24
@@ -102969,7 +102969,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on fourth day they were gathered to valley of blessing, because there they blessed the Lord. Therefore name of that place was called Valley of Blessing until this day.
+- fresh: And on fourth day they were gathered to the valley of blessing, because there they blessed the Lord. Therefore name of that place was called Valley of Blessing until this day.
 - brenton: And it came to pass on the fourth day they were gathered to the Valley of Blessing; for there they blessed the Lord: therefore they called the name of that place the Valley of Blessing, until this day.
 
 ### 2 Chronicles 20:27
@@ -103023,7 +103023,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he walked in ways of Asa his father and did not turn aside from doing upright in sight of the Lord.
+- fresh: And he walked in the ways of Asa his father and did not turn aside from doing upright in the sight of the Lord.
 - brenton: And he walked in the ways of his father Asa, and turned not aside from doing that which was right in the sight of the Lord.
 
 ### 2 Chronicles 20:33
@@ -103041,7 +103041,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of Jehoshaphat, first and last, behold, written in words of Jehu son of Anani, who wrote book of kings of Israel.
+- fresh: And rest of matters of Jehoshaphat, first and last, behold, written in the words of Jehu son of Anani, who wrote book of kings of Israel.
 - brenton: And the rest of the acts of Josaphat, the first and the last, behold, they are written in the history of Jeu the son of Anani, who wrote the book of the kings of Israel.
 
 ### 2 Chronicles 20:35
@@ -103122,7 +103122,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he walked in way of kings of Israel, as house of Ahab did, because daughter of Ahab was his wife, and he did evil before the Lord.
+- fresh: And he walked in the way of kings of Israel, as house of Ahab did, because daughter of Ahab was his wife, and he did evil before the Lord.
 - brenton: And he walked in the way of the kings of Israel, as did the house of Achaab; for a daughter of Achaab was his wife: and he did that which was evil in the sight of the Lord:
 
 ### 2 Chronicles 21:7
@@ -103167,7 +103167,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he too made high places in cities of Judah and prostituted inhabitants of Jerusalem and led Judah astray.
+- fresh: And he too made high places in the cities of Judah and prostituted inhabitants of Jerusalem and led Judah astray.
 - brenton: For he built high places in the cities of Juda, and caused the dwellers in Jerusalem to go a-whoring, and led Juda astray.
 
 ### 2 Chronicles 21:12
@@ -103176,7 +103176,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And writing came to him from Elijah the prophet, saying, Thus says the Lord God of David your father: Because you did not walk in way of Jehoshaphat your father and in ways of Asa king of Judah,
+- fresh: And writing came to him from Elijah the prophet, saying, Thus says the Lord God of David your father: Because you did not walk in the way of Jehoshaphat your father and in the ways of Asa king of Judah,
 - brenton: And there came to him a message in writing from Eliu the prophet, saying, Thus saith the Lord God of thy father David, Because thou hast not walked in the way of thy father Josaphat, nor in the ways of Asa king of Juda,
 
 ### 2 Chronicles 21:13
@@ -103185,7 +103185,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: but walked in ways of kings of Israel and prostituted Judah and inhabitants of Jerusalem as house of Ahab prostituted, and you killed your brothers, sons of your father, those better than you,
+- fresh: but walked in the ways of kings of Israel and prostituted Judah and inhabitants of Jerusalem as house of Ahab prostituted, and you killed your brothers, sons of your father, those better than you,
 - brenton: but hast walked in the ways of the kings of Israel, and hast caused Juda and the dwellers in Jerusalem to go a-whoring, as the house of Achaab caused Israel to go a-whoring, and thou hast slain thy brethren, the sons of thy father, who were better than thyself;
 
 ### 2 Chronicles 21:14
@@ -103221,7 +103221,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they went up against Judah and overpowered and carried away all baggage they found in the house of king and his sons and his daughters, and no son was left to him except Ahaziah, youngest of his sons.
+- fresh: And they went up against Judah and overpowered and carried away all baggage they found in the house of the king and his sons and his daughters, and no son was left to him except Ahaziah, youngest of his sons.
 - brenton: and they went up against Juda, and prevailed against them, and took away all the store which they found in the house of the king, and his sons, and his daughters; and there was no son left to him but Ochozias the youngest of his sons.
 
 ### 2 Chronicles 21:18
@@ -103275,7 +103275,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he walked in way of house of Ahab, because his mother was counselor to him in sinning.
+- fresh: And he walked in the way of the house of Ahab, because his mother was counselor to him in sinning.
 - brenton: And he walked in the way of the house of Achaab; for his mother was his counsellor to do evil.
 
 ### 2 Chronicles 22:4
@@ -103284,7 +103284,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did evil before the Lord like house of Ahab, because they were counselors to him after death of his father, to destroy him.
+- fresh: And he did evil before the Lord like house of Ahab, because they were counselors to him after the death of his father, to destroy him.
 - brenton: And he did that which was evil in the sight of the Lord as the house of Achaab had done: for they were his counsellors after the death of his father to his destruction.
 
 ### 2 Chronicles 22:5
@@ -103374,7 +103374,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they went around Judah and gathered Levites from all cities of Judah and chiefs of fathers of Israel and came to Jerusalem.
+- fresh: And they went around Judah and gathered Levites from all the cities of Judah and chiefs of fathers of Israel and came to Jerusalem.
 - brenton: And they went round about Juda, and gathered the Levites out of all the cities of Juda, and heads of the families of Israel, and they came to Jerusalem.
 
 ### 2 Chronicles 23:3
@@ -103392,7 +103392,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Now this is thing which you shall do: one-third of you entering on Sabbath, of priests and Levites, shall be at gates of entries,
+- fresh: Now this is thing which you shall do: one-third of you entering on Sabbath, of priests and Levites, shall be at the gates of entries,
 - brenton: Now this is the thing which ye shall do. Let a third part of you, even of the priests and of the Levites, enter in on the sabbath, even into the gates of the entrances;
 
 ### 2 Chronicles 23:5
@@ -103401,7 +103401,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and one-third in the house of king, and one-third at middle gate, and all people in courts of house of the Lord.
+- fresh: and one-third in the house of the king, and one-third at middle gate, and all people in the courts of the house of the Lord.
 - brenton: and let a third part be in the house of the king; and another third at the middle gate: and all the people in the courts of the Lord's house.
 
 ### 2 Chronicles 23:6
@@ -103473,7 +103473,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of the land rejoiced, and they sounded with trumpets, and singers with instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
 - brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
 
 ### 2 Chronicles 23:14
@@ -103491,7 +103491,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gave her free passage, and she went through horse gate of house of king, and they killed her there.
+- fresh: And they gave her free passage, and she went through horse gate of the house of the king, and they killed her there.
 - brenton: So they let her go out; and she went through the horsemen's gate of the house of the king, and they slew her there.
 
 ### 2 Chronicles 23:16
@@ -103518,7 +103518,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehoiada the priest entrusted works of house of the Lord by the hand of priests and Levites and restored courses of priests and Levites which David appointed over the house of the Lord, to offer whole burnt offerings to the Lord as written in law of Moses, with gladness and with songs by the hand of David.
+- fresh: And Jehoiada the priest entrusted works of the house of the Lord by the hand of priests and Levites and restored courses of priests and Levites which David appointed over the house of the Lord, to offer whole burnt offerings to the Lord as written in the law of Moses, with gladness and with songs by the hand of David.
 - brenton: And Jodae the priest committed the works of the house of the Lord into the hand of the priests and Levites, and he re-established the courses of the priests and Levites which David appointed over the house of the Lord, and he appointed them to offer whole-burnt-offerings to the Lord, as it is written in the law of Moses, with gladness, and with songs by the hand of David.
 
 ### 2 Chronicles 23:19
@@ -103527,7 +103527,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they stationed gatekeepers at gates of house of the Lord, and no unclean person in any matter shall enter.
+- fresh: And they stationed gatekeepers at the gates of the house of the Lord, and no unclean person in any matter shall enter.
 - brenton: And the porters stood at the gates of the house of the Lord, that no one unclean in any respect should enter in.
 
 ### 2 Chronicles 23:20
@@ -103536,7 +103536,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to the house of the Lord, and entered by inner gate into the house of king and seated king upon throne of kingdom.
+- fresh: And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to the house of the Lord, and entered by inner gate into the house of the king and seated king upon the throne of kingdom.
 - brenton: And he took the heads of families, and the mighty men, and the chiefs of the people, and all the people of the land, and they conducted the king into the house of the Lord; and he went through the inner gate into the king's house, and they seated the king on the throne of the kingdom.
 
 ### 2 Chronicles 23:21
@@ -103563,7 +103563,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joash did upright in sight of the Lord all days of Jehoiada the priest.
+- fresh: And Joash did upright in the sight of the Lord all days of Jehoiada the priest.
 - brenton: And Joas did that which was right in the sight of the Lord all the days of Jodae the priest.
 
 ### 2 Chronicles 24:3
@@ -103581,7 +103581,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things it came upon heart of Joash to repair house of the Lord.
+- fresh: And after these things it came upon the heart of Joash to repair the house of the Lord.
 - brenton: And it came to pass afterward that it came into the heart of Joas to repair the house of the Lord.
 
 ### 2 Chronicles 24:5
@@ -103590,7 +103590,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he gathered priests and Levites and said to them, Go out into cities of Judah and gather from all Israel silver to strengthen house of the Lord year by year, and hurry to speak. And Levites did not hurry.
+- fresh: And he gathered priests and Levites and said to them, Go out into the cities of Judah and gather from all Israel silver to strengthen the house of the Lord year by year, and hurry to speak. And Levites did not hurry.
 - brenton: And he gathered the priests and the Levites, and said to them, Go out into the cities of Juda, and collect money of all Israel to repair the house of the Lord from year to year, and make haste to speak of it. But the Levites hasted not.
 
 ### 2 Chronicles 24:6
@@ -103608,7 +103608,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Athaliah was lawless, and her sons pulled down house of God, and indeed holy things of house of the Lord they made for Baals.
+- fresh: Because Athaliah was lawless, and her sons pulled down house of God, and indeed holy things of the house of the Lord they made for Baals.
 - brenton: For Gotholia was a transgressor, and her sons tore down the house of God; for they offered the holy things of the house of the Lord to Baalim.
 
 ### 2 Chronicles 24:8
@@ -103617,7 +103617,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king said, Let a chest be made and placed at gate of house of the Lord outside.
+- fresh: And king said, Let a chest be made and placed at the gate of the house of the Lord outside.
 - brenton: And the king said, Let a box be made, and let it be put at the gate of the house of the Lord without.
 
 ### 2 Chronicles 24:9
@@ -103653,7 +103653,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king and Jehoiada the priest gave it to those doing works for work of house of the Lord, and they hired stonecutters and carpenters to repair house of the Lord, and workers in iron and bronze to repair house of the Lord.
+- fresh: And king and Jehoiada the priest gave it to those doing works for work of the house of the Lord, and they hired stonecutters and carpenters to repair the house of the Lord, and workers in iron and bronze to repair the house of the Lord.
 - brenton: And the king and Jodae the priest gave it to the workmen employed in the service of the house of the Lord, and they hired masons and carpenters to repair the house of the Lord, also smiths and braziers to repair the house of the Lord.
 
 ### 2 Chronicles 24:13
@@ -103698,7 +103698,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after death of Jehoiada, rulers of Judah came and bowed to king; then king listened to them.
+- fresh: And after the death of Jehoiada, rulers of Judah came and bowed to king; then king listened to them.
 - brenton: And it came to pass after the death of Jodae, that the princes of Juda went in, and did obeisance to the king. Then the king hearkened to them.
 
 ### 2 Chronicles 24:18
@@ -103734,7 +103734,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they conspired against him and stoned him by command of king Joash in court of house of the Lord.
+- fresh: And they conspired against him and stoned him by the command of king Joash in the court of the house of the Lord.
 - brenton: And they conspired against him, and stoned him by command of king Joas in the court of the Lord's house.
 
 ### 2 Chronicles 24:22
@@ -103752,7 +103752,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass after completion of year, force of Syria came up against him and came upon Judah and Jerusalem and destroyed all rulers of people among people, and all their spoils they sent to king of Damascus.
+- fresh: And it came to pass after completion of year, force of Syria came up against him and came upon Judah and Jerusalem and destroyed all rulers of people among people, and all their spoils they sent to the king of Damascus.
 - brenton: And it came to pass after the end of the year, that the host of Syria went up against him, and came against Juda and Jerusalem: and they slew all the chiefs of the people among the people, and all their spoils they sent to the king of Damascus.
 
 ### 2 Chronicles 24:24
@@ -103806,7 +103806,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did upright in sight of the Lord, but not with full heart.
+- fresh: And he did upright in the sight of the Lord, but not with full heart.
 - brenton: And he did that which was right in the sight of the Lord, but not with a perfect heart.
 
 ### 2 Chronicles 25:3
@@ -103833,7 +103833,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah gathered house of Judah and set them by houses of their fathers over thousands and hundreds in all Judah and Jerusalem, and counted them from twenty years old and upward and found them three hundred thousand able to go out to battle, holding spear and shield.
+- fresh: And Amaziah gathered house of Judah and set them by the houses of their fathers over thousands and hundreds in all Judah and Jerusalem, and counted them from twenty years old and upward and found them three hundred thousand able to go out to battle, holding spear and shield.
 - brenton: And Amasias assembled the house of Juda, and appointed them according to the houses of their families for captains of thousands and captains of hundreds in all Juda and Jerusalem: and he numbered them from twenty years old and upwards, and found them three hundred thousand able to go out to war, holding spear and shield.
 
 ### 2 Chronicles 25:6
@@ -103869,7 +103869,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah said to man of God, And what shall I do with hundred talents which I gave to force of Israel? And man of God said, the Lord is able to give you many more than these.
+- fresh: And Amaziah said to the man of God, And what shall I do with hundred talents which I gave to force of Israel? And man of God said, the Lord is able to give you many more than these.
 - brenton: And Amasias said to the man of God, But what shall I do for the hundred talents which I have given to the army of Israel? And the man of God said, The Lord can give thee much more than these.
 
 ### 2 Chronicles 25:10
@@ -103878,7 +103878,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah separated force that came to him from Ephraim to go to their place, and they were very angry against Judah and returned to their place in heat of anger.
+- fresh: And Amaziah separated force that came to him from Ephraim to go to their place, and they were very angry against Judah and returned to their place in the heat of anger.
 - brenton: And Amasias separated from the army that came to him from Ephraim, that they might go away to their place; and they were very angry with Juda, and they returned to their place with great wrath.
 
 ### 2 Chronicles 25:11
@@ -103887,7 +103887,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah strengthened himself and took his people and went to valley of salt pits and struck there ten thousand sons of Seir.
+- fresh: And Amaziah strengthened himself and took his people and went to the valley of salt pits and struck there ten thousand sons of Seir.
 - brenton: And Amasias strengthened himself, and took his people, and went to the valley of salt, and smote there the children of Seir ten thousand.
 
 ### 2 Chronicles 25:12
@@ -103896,7 +103896,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And ten thousand sons of Judah took captive alive and brought them to top of cliff and threw them down from top of cliff, and all were broken apart.
+- fresh: And ten thousand sons of Judah took captive alive and brought them to the top of cliff and threw them down from the top of cliff, and all were broken apart.
 - brenton: And the children of Juda took ten thousand prisoners, and they carried them to the top of the precipice, and cast them headlong from the top of the precipice, and they were all dashed to pieces.
 
 ### 2 Chronicles 25:13
@@ -103995,7 +103995,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joash king of Israel seized Amaziah king of Judah, son of Joash, at Beth-shemesh and brought him to Jerusalem and pulled down from wall of Jerusalem, from gate of Ephraim to corner gate, four hundred cubits.
+- fresh: And Joash king of Israel seized Amaziah king of Judah, son of Joash, at Beth-shemesh and brought him to Jerusalem and pulled down from the wall of Jerusalem, from the gate of Ephraim to corner gate, four hundred cubits.
 - brenton: And Joas king of Israel took prisoner Amasias king of Juda, son of Joas, son of Joachaz, in Bæthsamys, and brought him to Jerusalem; and he pulled down part of the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
 
 ### 2 Chronicles 25:24
@@ -104004,7 +104004,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all gold and silver and all vessels found in the house of the Lord and with Obededom and treasures of house of king and sons of mixtures, and he returned to Samaria.
+- fresh: And all gold and silver and all vessels found in the house of the Lord and with Obededom and treasures of the house of the king and sons of mixtures, and he returned to Samaria.
 - brenton: And he took all the gold and the silver, and all the vessels that were found in the house of the Lord and with Abdedom, and the treasures of the king's house, and the hostages, and he returned to Samaria.
 
 ### 2 Chronicles 25:25
@@ -104013,7 +104013,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah son of Joash king of Judah lived after death of Joash son of Jehoahaz king of Israel fifteen years.
+- fresh: And Amaziah son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
 - brenton: And Amasias the son of Joas king of Juda lived after the death of Joas the son of Joachaz king of Israel fifteen years.
 
 ### 2 Chronicles 25:26
@@ -104022,7 +104022,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of Amaziah, first and last, behold, written upon book of kings of Judah and Israel.
+- fresh: And rest of matters of Amaziah, first and last, behold, written upon the book of kings of Judah and Israel.
 - brenton: And the rest of the acts of Amasias, the first and the last, lo! are they not written in the book of the kings of Juda and Israel?
 
 ### 2 Chronicles 25:27
@@ -104076,7 +104076,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did upright in sight of the Lord according to all things Amaziah his father did.
+- fresh: And he did upright in the sight of the Lord according to all things Amaziah his father did.
 - brenton: And he did that which was right in the sight of the Lord, according to all that Amasias his father did.
 
 ### 2 Chronicles 26:5
@@ -104157,7 +104157,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And with them military force was three hundred seven thousand five hundred, those doing war with strength of power to help king against adversaries.
+- fresh: And with them military force was three hundred seven thousand five hundred, those doing war with the strength of power to help king against adversaries.
 - brenton: and with them was a warrior force, three hundred thousand and seven thousand and five hundred: these waged war mightily to help the king against his enemies.
 
 ### 2 Chronicles 26:14
@@ -104184,7 +104184,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he became strong, his heart was lifted up to ruin, and he acted unjustly against the Lord his God and entered into temple of the Lord to burn incense on altar of incense.
+- fresh: And when he became strong, his heart was lifted up to ruin, and he acted unjustly against the Lord his God and entered into the temple of the Lord to burn incense on the altar of incense.
 - brenton: And when he was strong, his heart was lifted up to his destruction; and he transgressed against the Lord his God, and went into the temple of the Lord to burn incense on the altar of incense.
 
 ### 2 Chronicles 26:17
@@ -104265,7 +104265,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did upright in sight of the Lord according to all things which Uzziah his father did, but he did not enter into temple of the Lord, and still people were being corrupted.
+- fresh: And he did upright in the sight of the Lord according to all things which Uzziah his father did, but he did not enter into the temple of the Lord, and still people were being corrupted.
 - brenton: And he did that which was right in the sight of the Lord, according to all that his father Ozias did: but he went not into the temple of the Lord. And still the people corrupted themselves.
 
 ### 2 Chronicles 27:3
@@ -104274,7 +104274,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He built high gate of house of the Lord, and in wall of Ophel he built much.
+- fresh: He built high gate of the house of the Lord, and in the wall of Ophel he built much.
 - brenton: He built the high gate of the house of the Lord, and he built much in the wall of Opel.
 
 ### 2 Chronicles 27:4
@@ -104283,7 +104283,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he built cities in mountain of Judah, and in forests dwellings and towers.
+- fresh: And he built cities in the mountain of Judah, and in forests dwellings and towers.
 - brenton: In the mountain of Juda, and in the woods, he built both dwelling-places and towers.
 
 ### 2 Chronicles 27:5
@@ -104292,7 +104292,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He fought against king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in the first year and second and third.
+- fresh: He fought against the king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in the first year and second and third.
 - brenton: He fought against the king of the children of Ammon, and prevailed against him: and the children of Ammon gave him even annually a hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. These the king of the children of Ammon brought to him annually in the first and second and third years.
 
 ### 2 Chronicles 27:6
@@ -104310,7 +104310,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of matters of Jotham and war and deeds of him, behold, written in book of kings of Judah and Israel.
+- fresh: And rest of matters of Jotham and war and deeds of him, behold, written in the book of kings of Judah and Israel.
 - brenton: And the rest of the acts of Joatham, and his war, and his deeds, behold, they are written in the book of the kings of Juda and Israel.
 
 ### 2 Chronicles 27:9
@@ -104328,7 +104328,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ahaz was twenty years old when he reigned, and sixteen years he reigned in Jerusalem, and he did not do upright in sight of the Lord like David his father.
+- fresh: Ahaz was twenty years old when he reigned, and sixteen years he reigned in Jerusalem, and he did not do upright in the sight of the Lord like David his father.
 - brenton: Achaz was five and twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: and he did not that which was right in the sight of the Lord, as David his father.
 
 ### 2 Chronicles 28:2
@@ -104346,7 +104346,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he sacrificed in Gaibennom and brought his children through fire according to abominations of nations which the Lord destroyed from before sons of Israel.
+- fresh: And he sacrificed in Gaibennom and brought his children through fire according to abominations of nations which the Lord destroyed from before the sons of Israel.
 - brenton: And he sacrificed to their idols in the valley of Benennom, and passed his children through the fire, according to the abominations of the heathen, whom the Lord cast out from before the children of Israel.
 
 ### 2 Chronicles 28:4
@@ -104364,7 +104364,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord his God gave him into hand of king of Syria, and he struck him and took from them many captives and brought them to Damascus. And indeed into hands of king of Israel he gave him, and he struck him with great blow.
+- fresh: And the Lord his God gave him into the hand of king of Syria, and he struck him and took from them many captives and brought them to Damascus. And indeed into the hands of king of Israel he gave him, and he struck him with great blow.
 - brenton: And the Lord his God delivered him into the hand of the king of Syria; and he smote him, and took captive of them a great band of prisoners, and carried him to Damascus. Also God delivered him into the hands of the king of Israel, who smote him with a great slaughter.
 
 ### 2 Chronicles 28:6
@@ -104427,7 +104427,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers from sons of Ephraim rose up: Oudia son of Johanan and Berechiah son of Meshillemoth and Ezechias son of Hillel and Amaziah son of Hadlai, against those coming from war.
+- fresh: And rulers from the sons of Ephraim rose up: Oudia son of Johanan and Berechiah son of Meshillemoth and Ezechias son of Hillel and Amaziah son of Hadlai, against those coming from war.
 - brenton: And the chiefs of the sons of Ephraim rose up, Udias the son of Joanas, and Barachias the son of Mosolamoth, and Ezekias the son of Sellem, and Amasias the son of Eldai, against those that came from the war,
 
 ### 2 Chronicles 28:13
@@ -104454,7 +104454,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And men called by name rose and took hold of captivity, and all naked they clothed from spoils and dressed them and shod them and gave them to eat and to be anointed, and took hold of every weak one on beasts of burden and set them in Jericho, city of palms, by their brothers, and returned to Samaria.
+- fresh: And men called by name rose and took hold of captivity, and all naked they clothed from spoils and dressed them and shod them and gave them to eat and to be anointed, and took hold of every weak one on the beasts of burden and set them in Jericho, city of palms, by their brothers, and returned to Samaria.
 - brenton: And the men who were called by name rose up, and took hold of the prisoners, and clothed all the naked from the spoils, and gave them garments and shoes, and gave them food to eat, and oil to anoint themselves with, and they helped also every one that was weak with asses, and placed them in Jericho, the city of palm-trees, with their brethren; and they returned to Samaria.
 
 ### 2 Chronicles 28:16
@@ -104463,7 +104463,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time Ahaz sent to king of Asshur to help him.
+- fresh: At that time Ahaz sent to the king of Asshur to help him.
 - brenton: At that time king Achaz sent to the king of Assyria to help him, and on this occasion,
 
 ### 2 Chronicles 28:17
@@ -104508,7 +104508,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ahaz took what was in the house of the Lord and in the house of king and of rulers and gave to king of Asshur, and it was not for help to him.
+- fresh: And Ahaz took what was in the house of the Lord and in the house of the king and of rulers and gave to the king of Asshur, and it was not for help to him.
 - brenton: And Achaz took the things that were in the house of the Lord, and the things in the house of the king, and of the princes, and gave them to the king of Assyria: but he was no help to him,
 
 ### 2 Chronicles 28:22
@@ -104535,7 +104535,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ahaz removed vessels of house of the Lord and cut them up and shut doors of house of the Lord and made for himself altars in every corner in Jerusalem.
+- fresh: And Ahaz removed vessels of the house of the Lord and cut them up and shut doors of the house of the Lord and made for himself altars in every corner in Jerusalem.
 - brenton: And Achaz removed the vessels of the house of the Lord, and cut them in pieces, and shut the doors of the house of the Lord, and made to himself altars in every corner in Jerusalem:
 
 ### 2 Chronicles 28:25
@@ -104553,7 +104553,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of his matters and his deeds, first and last, behold, written upon book of kings of Judah and Israel.
+- fresh: And rest of his matters and his deeds, first and last, behold, written upon the book of kings of Judah and Israel.
 - brenton: And the rest of his acts, and his deeds, the first and the last, behold, they are written in the book of the kings of Juda and Israel.
 
 ### 2 Chronicles 28:27
@@ -104580,7 +104580,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did upright in sight of the Lord according to all things David his father did.
+- fresh: And he did upright in the sight of the Lord according to all things David his father did.
 - brenton: And he did that which was right in the sight of the Lord, according to all that his father David had done.
 
 ### 2 Chronicles 29:3
@@ -104589,7 +104589,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass when he stood over his kingdom, in the first month, he opened doors of house of the Lord and repaired them.
+- fresh: And it came to pass when he stood over his kingdom, in the first month, he opened doors of the house of the Lord and repaired them.
 - brenton: And it came to pass, when he was established over his kingdom, in the first month, he opened the doors of the house of the Lord, and repaired them.
 
 ### 2 Chronicles 29:4
@@ -104616,7 +104616,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because our fathers rebelled and did evil before the Lord and forsook him and turned face away from tent of the Lord and gave neck.
+- fresh: Because our fathers rebelled and did evil before the Lord and forsook him and turned face away from the tent of the Lord and gave neck.
 - brenton: For our fathers have revolted, and done that which was evil before the Lord our God, and have forsaken him, and have turned away their face from the tabernacle of the Lord, and have turned their back.
 
 ### 2 Chronicles 29:7
@@ -104670,7 +104670,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites rose: Maath son of Amasai and Joel son of Azariah from sons of Kohath, and from sons of Merari, Kish son of Abdi and Azariah son of Igal, and from sons of Gershonites, Igal son of Zemmath and Joadam son of Joah,
+- fresh: And Levites rose: Maath son of Amasai and Joel son of Azariah from the sons of Kohath, and from the sons of Merari, Kish son of Abdi and Azariah son of Igal, and from the sons of Gershonites, Igal son of Zemmath and Joadam son of Joah,
 - brenton: Then the Levites rose up, Maath the son of Amasi, and Joel the son of Azarias, of the sons of Caath: and of the sons of Merari, Kis the son of Abdi, and Azarias the son of Ilaelel: and of the sons of Gedsoni, Jodaad the son of Zemmath, and Joadam: these were the sons of Joacha.
 
 ### 2 Chronicles 29:13
@@ -104679,7 +104679,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Elzaphan, Shimri and Jeiel, and from sons of Asaph, Zechariah and Mattaniah,
+- fresh: and from the sons of Elzaphan, Shimri and Jeiel, and from the sons of Asaph, Zechariah and Mattaniah,
 - brenton: And of the sons of Elisaphan; Zambri, and Jeiel: and of the sons of Asaph; Zacharias, and Matthanias:
 
 ### 2 Chronicles 29:14
@@ -104688,7 +104688,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Heman, Jehiel and Shimei, and from sons of Jeduthun, Shemaiah and Uzziel.
+- fresh: and from the sons of Heman, Jehiel and Shimei, and from the sons of Jeduthun, Shemaiah and Uzziel.
 - brenton: and of the sons of Æman; Jeiel, and Semei: and of the sons of Idithun; Samaias, and Oziel.
 
 ### 2 Chronicles 29:15
@@ -104697,7 +104697,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gathered their brothers and sanctified themselves according to command of king by ordinance of the Lord to cleanse house of the Lord.
+- fresh: And they gathered their brothers and sanctified themselves according to the command of king by ordinance of the Lord to cleanse house of the Lord.
 - brenton: And they gathered their brethren, and they purified themselves according to the king's command by the order of the Lord, to purify the house of the Lord.
 
 ### 2 Chronicles 29:16
@@ -104706,7 +104706,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests entered inside house of the Lord to sanctify it and threw out every uncleanness found in the house of the Lord into court of house of the Lord, and Levites received it to throw outside into torrent of Kidron.
+- fresh: And priests entered inside the house of the Lord to sanctify it and threw out every uncleanness found in the house of the Lord into the court of the house of the Lord, and Levites received it to throw outside into the torrent of Kidron.
 - brenton: And the priests entered into the house of the Lord, to purify it, and they cast out all the uncleanness that was found in the house of the Lord, even into the court of the house of the Lord: and the Levites received it to cast into the brook of Kedron without.
 
 ### 2 Chronicles 29:17
@@ -104733,7 +104733,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all vessels which king Ahaz defiled in his kingdom in his rebellion we prepared and sanctified. Behold, they are before altar of the Lord.
+- fresh: And all vessels which king Ahaz defiled in his kingdom in his rebellion we prepared and sanctified. Behold, they are before the altar of the Lord.
 - brenton: and all the vessels which king Achaz polluted in his reign, in his apostacy, we have prepared and purified: behold, they are before the altar of the Lord.
 
 ### 2 Chronicles 29:20
@@ -104751,7 +104751,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon altar of the Lord.
+- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
 - brenton: And he brought seven calves, seven rams, seven lambs, seven kids of goats for a sin-offering, for the kingdom, and for the holy things, and for Israel: and he told the priests the sons of Aaron to go up to the altar of the Lord.
 
 ### 2 Chronicles 29:22
@@ -104787,7 +104787,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he stationed Levites in the house of the Lord with cymbals and harps and lyres according to command of David king and Gad the seer for king and Nathan the prophet, because ordinance was from the Lord by the hand of prophets.
+- fresh: And he stationed Levites in the house of the Lord with cymbals and harps and lyres according to the command of David king and Gad the seer for king and Nathan the prophet, because ordinance was from the Lord by the hand of prophets.
 - brenton: And he stationed the Levites in the house of the Lord with cymbals, and lutes, and harps, according to the commandment of king David, and of Gad the king's seer, and Nathan the prophet: for by the commandment of the Lord the order was in the hand of the prophets.
 
 ### 2 Chronicles 29:26
@@ -104796,7 +104796,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites stood with instruments of David, and priests with trumpets.
+- fresh: And Levites stood with the instruments of David, and priests with trumpets.
 - brenton: And the Levites stood with the instruments of David, and the priests with the trumpets.
 
 ### 2 Chronicles 29:27
@@ -104805,7 +104805,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah said to offer whole burnt offering upon altar, and when they began to offer whole burnt offering, they began to sing to the Lord, and trumpets with instruments of David king of Israel.
+- fresh: And Hezekiah said to offer whole burnt offering upon altar, and when they began to offer whole burnt offering, they began to sing to the Lord, and trumpets with the instruments of David king of Israel.
 - brenton: And Ezekias told them to offer up the whole-burnt-offering on the altar: and when they began to offer the whole-burnt-offering, they began to sing to the Lord, and the trumpets accompanied the instruments of David king of Israel.
 
 ### 2 Chronicles 29:28
@@ -104832,7 +104832,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah the king and rulers told Levites to hymn the Lord in words of David and Asaph the prophet, and they hymned with gladness and fell and worshiped.
+- fresh: And Hezekiah the king and rulers told Levites to hymn the Lord in the words of David and Asaph the prophet, and they hymned with gladness and fell and worshiped.
 - brenton: And king Ezekias and the princes told the Levites to sing hymns to the Lord in the words of David, and of Asaph the prophet: and they sang hymns with gladness, and fell down and worshipped.
 
 ### 2 Chronicles 29:31
@@ -104940,7 +104940,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And runners went with letters from king and rulers through all Israel and Judah according to command of king, saying, Sons of Israel, return to God of Abraham and Isaac and Israel, and he will return remnant, those left from hand of king of Asshur.
+- fresh: And runners went with letters from king and rulers through all Israel and Judah according to the command of king, saying, Sons of Israel, return to God of Abraham and Isaac and Israel, and he will return remnant, those left from the hand of king of Asshur.
 - brenton: And the posts went with the letters from the king and the princes to all Israel and Juda, according to the command of the king, saying, Children of Israel, return to the Lord God of Abraam, and Isaac, and Israel, and bring back them that have escaped even those that were left of the hand of the king of Assyria.
 
 ### 2 Chronicles 30:7
@@ -104994,7 +104994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Judah the hand of the Lord came to give them one heart, to come do according to command of king and rulers in the word of the Lord.
+- fresh: And in Judah the hand of the Lord came to give them one heart, to come do according to the command of king and rulers in the word of the Lord.
 - brenton: And the hand of the Lord was present to give them one heart to come, to do according to the commands of the king and of the princes, by the word of the Lord.
 
 ### 2 Chronicles 30:13
@@ -105012,7 +105012,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into torrent of Kidron.
+- fresh: And they rose and took down altars in Jerusalem, and all things in which they burned incense to false gods they pulled down and threw into the torrent of Kidron.
 - brenton: And they arose, and took away the altars that were in Jerusalem, and all on which they burnt incense to false gods they tore down and cast into the brook Kedron.
 
 ### 2 Chronicles 30:15
@@ -105021,7 +105021,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they sacrificed passover on fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into the house of the Lord.
+- fresh: And they sacrificed passover on the fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into the house of the Lord.
 - brenton: Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites repented, and purified themselves, and brought whole-burnt-offerings into the house of the Lord.
 
 ### 2 Chronicles 30:16
@@ -105030,7 +105030,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they stood at their station according to their ordinance, according to command of Moses man of God, and priests received blood from hand of Levites.
+- fresh: And they stood at their station according to their ordinance, according to the command of Moses man of God, and priests received blood from the hand of Levites.
 - brenton: And they stood at their post, according to their ordinance, according to the commandment of Moses the man of God: and the priests received the blood from the hand of the Levites.
 
 ### 2 Chronicles 30:17
@@ -105057,7 +105057,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: every heart directing itself to seek the Lord God of their fathers and not according to purity of holy things.
+- fresh: every heart directing itself to seek the Lord God of their fathers and not according to the purity of holy things.
 - brenton: The good Lord be merciful with regard to every heart that sincerely seeks the Lord God of their fathers, and is not purified according to the purification of the sanctuary.
 
 ### 2 Chronicles 30:20
@@ -105111,7 +105111,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all assembly rejoiced, priests and Levites and all assembly from Judah and those found from Israel and sojourners who came from land of Israel and those dwelling in Judah.
+- fresh: And all assembly rejoiced, priests and Levites and all assembly from Judah and those found from Israel and sojourners who came from the land of Israel and those dwelling in Judah.
 - brenton: And all the congregation, the priests and the Levites, rejoiced, and all the congregation of Juda, and they that were present of Jerusalem, and the strangers that came from the land of Israel, and the dwellers in Juda.
 
 ### 2 Chronicles 30:26
@@ -105120,7 +105120,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there was great gladness in Jerusalem; from days of Solomon son of David king of Israel there had not been such feast in Jerusalem.
+- fresh: And there was great gladness in Jerusalem; from the days of Solomon son of David king of Israel there had not been such feast in Jerusalem.
 - brenton: And there was great joy in Jerusalem: from the days of Solomon the son of David king of Israel there was not such a feast in Jerusalem.
 
 ### 2 Chronicles 30:27
@@ -105138,7 +105138,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when all these things were finished, all Israel found in cities of Judah went out and broke pillars and cut down groves and pulled down high places and altars from all Judah and Benjamin and from Ephraim and from Manasseh until end, and all Israel returned each to his inheritance and to their cities.
+- fresh: And when all these things were finished, all Israel found in the cities of Judah went out and broke pillars and cut down groves and pulled down high places and altars from all Judah and Benjamin and from Ephraim and from Manasseh until end, and all Israel returned each to his inheritance and to their cities.
 - brenton: And when all these things were finished, all Israel that were found in the cities of Juda went out, and broke in pieces the pillars, and cut down the groves, and tore down the high places and the altars out of all Judea and Benjamin, also of Ephraim and Manasse, till they made an end: and all Israel returned, every one to his inheritance, and to their cities.
 
 ### 2 Chronicles 31:2
@@ -105147,7 +105147,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of the Lord.
+- fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in the courts of the house of the Lord.
 - brenton: And Ezekias appointed the courses of the priests and the Levites, and the courses of each one according to his ministry, to the priests and to the Levites, for the whole-burnt-offering, and for the peace-offering, and to praise, and to give thanks, and to minister in the gates and in the courts of the house of the Lord.
 
 ### 2 Chronicles 31:3
@@ -105165,7 +105165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he told people dwelling in Jerusalem to give portion of priests and Levites so that they might grow strong in service of house of the Lord.
+- fresh: And he told people dwelling in Jerusalem to give portion of priests and Levites so that they might grow strong in service of the house of the Lord.
 - brenton: And they told the people who dwelt in Jerusalem, to give the portion of the priests and the Levites, that they might be strong in the ministry of the house of the Lord.
 
 ### 2 Chronicles 31:5
@@ -105183,7 +105183,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Israel and Judah and those dwelling in cities of Judah also brought tithes of calves and sheep and tithes of goats and sanctified to the Lord their God and brought in and set in heaps, heaps.
+- fresh: Sons of Israel and Judah and those dwelling in the cities of Judah also brought tithes of calves and sheep and tithes of goats and sanctified to the Lord their God and brought in and set in heaps, heaps.
 - brenton: And they that dwelt in the cities of Juda themselves also brought tithes of calves and sheep, and tithes of goats, and consecrated them to the Lord their God, and they brought them and laid them in heaps.
 
 ### 2 Chronicles 31:7
@@ -105246,7 +105246,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jehiel and Azaziah and Nahath and Asahel and Jerimoth and Jozabad and Eliel and Samachia and Maath and Benaiah and his sons were set under Cononiah and Shimei his brother, as king Hezekiah and Azariah leader of house of the Lord commanded.
+- fresh: And Jehiel and Azaziah and Nahath and Asahel and Jerimoth and Jozabad and Eliel and Samachia and Maath and Benaiah and his sons were set under Cononiah and Shimei his brother, as king Hezekiah and Azariah leader of the house of the Lord commanded.
 - brenton: And Jeiel, and Ozias, and Naeth, and Asael, and Jerimoth, and Jozabad, and Eliel, and Samachia, and Maath, and Banaias, and his sons, were appointed by Chonenias and Semei his brother, as Ezekias the king, and Azarias who was over the house of the Lord commanded.
 
 ### 2 Chronicles 31:14
@@ -105282,7 +105282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This is reckoning of priests by houses of fathers, and Levites in their courses from twenty years and upward in their arrangement.
+- fresh: This is reckoning of priests by the houses of fathers, and Levites in their courses from twenty years and upward in their arrangement.
 - brenton: This is the distribution of the priests according to the houses of their families; and the Levites in their daily courses from twenty years old and upward were in their order,
 
 ### 2 Chronicles 31:18
@@ -105372,7 +105372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set war-captains over people, and they were gathered to him in broad place of gate of valley, and he spoke to their heart, saying,
+- fresh: And he set war-captains over people, and they were gathered to him in the broad place of gate of valley, and he spoke to their heart, saying,
 - brenton: And he appointed captains of war over the people, and they were gathered to meet him to the open place of the gate of the valley, and he encouraged them, saying,
 
 ### 2 Chronicles 32:7
@@ -105381,7 +105381,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Be strong and act like men. Do not fear from face of king of Asshur and from face of all nation with him, because more are with us than with him.
+- fresh: Be strong and act like men. Do not fear from the face of king of Asshur and from the face of all nation with him, because more are with us than with him.
 - brenton: Be strong and courageous, and fear not, neither be dismayed before the king of Assyria, and before all the nation that is with him: for there are more with us than with him.
 
 ### 2 Chronicles 32:8
@@ -105390,7 +105390,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With him are fleshly arms, but with us is the Lord our God, to save and to fight our battle. And people grew bold upon words of Hezekiah king of Judah.
+- fresh: With him are fleshly arms, but with us is the Lord our God, to save and to fight our battle. And people grew bold upon the words of Hezekiah king of Judah.
 - brenton: With him are arms of flesh; but with us is the Lord our God to save us, and to fight our battle. And the people were encouraged at the words of Ezekias king of Juda.
 
 ### 2 Chronicles 32:9
@@ -105435,7 +105435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will you not know what I and my fathers did to all peoples of lands? Were gods of nations of all earth at all able to save their people from my hand?
+- fresh: Will you not know what I and my fathers did to all peoples of lands? Were gods of nations of all the earth at all able to save their people from my hand?
 - brenton: Know ye not what I and my fathers have done to all the nations of the countries? Could the gods of the nations of all the earth at all rescue their people out of my hand?
 
 ### 2 Chronicles 32:14
@@ -105453,7 +105453,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now let not Hezekiah deceive you, and let him not make you trust according to these things, and do not believe him, because no god of any nation and kingdom was able to save his people from my hand and from hand of my fathers. So your God will certainly not save you from my hand.
+- fresh: Now let not Hezekiah deceive you, and let him not make you trust according to these things, and do not believe him, because no god of any nation and kingdom was able to save his people from my hand and from the hand of my fathers. So your God will certainly not save you from my hand.
 - brenton: Now then, let not Ezekias deceive you, and let him not make you thus confident, and believe him not: for no god of any kingdom or nation is at all able to deliver his people out of my hand, or the hand of my fathers: therefore your God shall not deliver you out of my hand.
 
 ### 2 Chronicles 32:16
@@ -105507,7 +105507,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord sent angel and crushed every mighty warrior and ruler and commander in camp of king of Asshur, and he returned with shame of face to his land, and he came into the house of his god, and those coming from his own belly struck him down there with sword.
+- fresh: And the Lord sent angel and crushed every mighty warrior and ruler and commander in camp of king of Asshur, and he returned with the shame of face to his land, and he came into the house of his god, and those coming from his own belly struck him down there with sword.
 - brenton: And the Lord sent an angel, and he destroyed every mighty man and warrior, and leader and captain in the camp of the king of Assyria: and he returned with shame of face to his own land and came into the house of his god: and some of them that came out of his bowels slew him with the sword.
 
 ### 2 Chronicles 32:22
@@ -105516,7 +105516,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord saved Hezekiah and those dwelling in Jerusalem from hand of Sennacherib king of Asshur and from hand of all, and gave them rest round about.
+- fresh: And the Lord saved Hezekiah and those dwelling in Jerusalem from the hand of Sennacherib king of Asshur and from the hand of all, and gave them rest round about.
 - brenton: So the Lord delivered Ezekias and the dwellers in Jerusalem out of the hand of Sennacherim king of Assyria, and out of the hand of all his enemies, and gave them rest round about.
 
 ### 2 Chronicles 32:23
@@ -105525,7 +105525,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And many brought gifts to the Lord in Jerusalem, and offerings to Hezekiah king of Judah, and he was lifted up in eyes of all nations after these things.
+- fresh: And many brought gifts to the Lord in Jerusalem, and offerings to Hezekiah king of Judah, and he was lifted up in the eyes of all nations after these things.
 - brenton: And many brought gifts to the Lord to Jerusalem, and presents to Ezekias king of Juda; and he was exalted in the eyes of all the nations after these things.
 
 ### 2 Chronicles 32:24
@@ -105552,7 +105552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah was humbled from height of his heart, he and those dwelling in Jerusalem, and the wrath of the Lord did not come upon them in the days of Hezekiah.
+- fresh: And Hezekiah was humbled from the height of his heart, he and those dwelling in Jerusalem, and the wrath of the Lord did not come upon them in the days of Hezekiah.
 - brenton: And Ezekias humbled himself after the exaltation of his heart, he and the dwellers in Jerusalem; and the wrath of the Lord did not come upon them in the days of Ezekias.
 
 ### 2 Chronicles 32:27
@@ -105606,7 +105606,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of words of Hezekiah and his mercy, behold, written in prophecy of Isaiah son of Amoz the prophet and in book of kings of Judah and Israel.
+- fresh: And rest of words of Hezekiah and his mercy, behold, written in prophecy of Isaiah son of Amoz the prophet and in the book of kings of Judah and Israel.
 - brenton: And the rest of the acts of Ezekias, and his kindness, behold, they are written in the prophecy of Esaias the son of Amos the prophet, and in the book of the kings of Juda and Israel.
 
 ### 2 Chronicles 32:33
@@ -105633,7 +105633,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did evil before the Lord, from all abominations of nations whom the Lord destroyed from before sons of Israel.
+- fresh: And he did evil before the Lord, from all abominations of nations whom the Lord destroyed from before the sons of Israel.
 - brenton: And he did that which was evil in the sight of the Lord, according to all the abominations of the heathen, whom the Lord destroyed from before the face of the children of Israel.
 
 ### 2 Chronicles 33:3
@@ -105642,7 +105642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he turned again and rebuilt high places which Hezekiah his father pulled down, and set up pillars to Baalim and made groves and bowed down to all army of heaven and served them.
+- fresh: And he turned again and rebuilt high places which Hezekiah his father pulled down, and set up pillars to Baalim and made groves and bowed down to all the army of heaven and served them.
 - brenton: And he returned and built the high places, which his father Ezekias had pulled down, and set up images to Baalim, and made groves, and worshipped all the host of heaven, and served them.
 
 ### 2 Chronicles 33:4
@@ -105660,7 +105660,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he built altars to all army of heaven in two courts of house of the Lord.
+- fresh: And he built altars to all the army of heaven in two courts of the house of the Lord.
 - brenton: And he built altars to all the host of heaven in the two courts of the house of the Lord.
 
 ### 2 Chronicles 33:6
@@ -105678,7 +105678,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set carved and molten image which he made in the house of God, of which God said to David and to Solomon his son, In this house and Jerusalem, which I chose from all tribes of Israel, I will put my name forever.
+- fresh: And he set carved and molten image which he made in the house of God, of which God said to David and to Solomon his son, In this house and Jerusalem, which I chose from all the tribes of Israel, I will put my name forever.
 - brenton: And he set the graven image, the molten statue, the idol which he made, in the house of God, of which God had said to David and to Solomon his son, In this house, and Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name for ever;
 
 ### 2 Chronicles 33:8
@@ -105687,7 +105687,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will not again add to move foot of Israel from land which I gave to their fathers, only if they keep to do all things which I commanded them, according to all law and ordinances and judgments by the hand of Moses.
+- fresh: And I will not again add to move foot of Israel from the land which I gave to their fathers, only if they keep to do all things which I commanded them, according to all law and ordinances and judgments by the hand of Moses.
 - brenton: and I will not again remove the foot of Israel from the land which I gave to their fathers, if only they will take heed to do all things which I have commanded them, according to all the law and the ordinances and the judgments given by the hand of Moses.
 
 ### 2 Chronicles 33:9
@@ -105696,7 +105696,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Manasseh led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which the Lord removed from before sons of Israel.
+- fresh: And Manasseh led Judah and those dwelling in Jerusalem astray, to do evil beyond all nations which the Lord removed from before the sons of Israel.
 - brenton: So Manasses led astray Juda and the inhabitants of Jerusalem, to do evil beyond all the nations which the Lord cast out from before the children of Israel.
 
 ### 2 Chronicles 33:10
@@ -105750,7 +105750,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he removed foreign gods and carved thing from the house of the Lord, and all altars which he built on mountain of house of the Lord and in Jerusalem, and he threw them outside city.
+- fresh: And he removed foreign gods and carved thing from the house of the Lord, and all altars which he built on the mountain of the house of the Lord and in Jerusalem, and he threw them outside city.
 - brenton: And he removed the strange gods and the graven image out of the house of the Lord, and all the altars which he had built in the mount of the house of the Lord, and in Jerusalem, and without the city.
 
 ### 2 Chronicles 33:16
@@ -105786,7 +105786,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his prayer and how he was heard, and all his sins and his rebellions and places on which he built high places and set up groves and carved things before he turned back, behold, written upon words of seers.
+- fresh: And his prayer and how he was heard, and all his sins and his rebellions and places on which he built high places and set up groves and carved things before he turned back, behold, written upon the words of seers.
 - brenton: behold, they are in the account of his prayer; and God hearkened to him. And all his sins, and his backslidings, and the spots on which he built the high places, and set there groves and graven images, before he repented, behold, they are written in the books of the seers.
 
 ### 2 Chronicles 33:20
@@ -105858,7 +105858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did upright before the Lord and walked in ways of David his father and did not turn aside right or left.
+- fresh: And he did upright before the Lord and walked in the ways of David his father and did not turn aside right or left.
 - brenton: And he did that which was right in the sight of the Lord, and walked in the ways of his father David, and turned not aside to the right hand or to the left.
 
 ### 2 Chronicles 34:3
@@ -105894,7 +105894,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in cities of Ephraim and Manasseh and Simeon and Naphtali and in their places round about.
+- fresh: And in the cities of Ephraim and Manasseh and Simeon and Naphtali and in their places round about.
 - brenton: And he did so in the cities of Manasse, and Ephraim, and Symeon, and Nephthali, and the places round about them.
 
 ### 2 Chronicles 34:7
@@ -105912,7 +105912,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in eighteenth year of his kingdom, after cleansing land and house, he sent Shaphan son of Azelia and Maaseiah ruler of city and Joah son of Jehoahaz his recorder to strengthen house of the Lord his God.
+- fresh: And in the eighteenth year of his kingdom, after cleansing land and house, he sent Shaphan son of Azelia and Maaseiah ruler of city and Joah son of Jehoahaz his recorder to strengthen the house of the Lord his God.
 - brenton: And in the eighteenth year of his reign, after having cleansed the land, and the house, he sent Saphan the son of Ezelias, and Maasa prefect of the city, and Juach son of Joachaz his recorder, to repair the house of the Lord his God.
 
 ### 2 Chronicles 34:9
@@ -105921,7 +105921,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came to Hilkiah the high priest and gave money brought into the house of God, which Levites keeping gate gathered from hand of Manasseh and Ephraim and of rulers and from all remnant in Israel and sons of Judah and Benjamin and those dwelling in Jerusalem.
+- fresh: And they came to Hilkiah the high priest and gave money brought into the house of God, which Levites keeping gate gathered from the hand of Manasseh and Ephraim and of rulers and from all remnant in Israel and sons of Judah and Benjamin and those dwelling in Jerusalem.
 - brenton: And they came to Chelcias the high priest, and gave the money that was brought into the house of God, which the Levites who kept the gate collected of the hand of Manasse and Ephraim, and of the princes, and of every one that was left in Israel, and of the children of Juda and Benjamin, and of the dwellers in Jerusalem.
 
 ### 2 Chronicles 34:10
@@ -105930,7 +105930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gave it into hand of workers, those appointed in the house of the Lord, and they gave it to those doing works, who were working in the house of the Lord, to repair and strengthen house.
+- fresh: And they gave it into the hand of workers, those appointed in the house of the Lord, and they gave it to those doing works, who were working in the house of the Lord, to repair and strengthen house.
 - brenton: And they gave it into the hand of the workmen, who were appointed in the house of the Lord, and they gave it to the workmen who wrought in the house of the Lord, to repair and strengthen the house.
 
 ### 2 Chronicles 34:11
@@ -105948,7 +105948,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And men were faithfully upon works, and overseers over them were Jahath and Obadiah the Levites from sons of Merari, and Zechariah and Meshullam from sons of Kohath, to oversee. And every Levite skilled in instruments of songs,
+- fresh: And men were faithfully upon works, and overseers over them were Jahath and Obadiah the Levites from the sons of Merari, and Zechariah and Meshullam from the sons of Kohath, to oversee. And every Levite skilled in instruments of songs,
 - brenton: And the men were faithfully engaged in the works: and over them were superintendents, Jeth and Abdias, Levites of the sons of Merari, and Zacharias and Mosollam, of the sons of Caath, appointed to oversee; and every Levite, and every one that understood how to play on musical instruments.
 
 ### 2 Chronicles 34:13
@@ -105984,7 +105984,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shaphan brought book to king and further brought word back to king: All money placed in hand of your servants doing work,
+- fresh: And Shaphan brought book to king and further brought word back to king: All money placed in the hand of your servants doing work,
 - brenton: And Saphan brought in the book to the king, and moreover gave an account to the king, saying, This is all the money given into the hand of thy servants that work.
 
 ### 2 Chronicles 34:17
@@ -105993,7 +105993,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: they melted down money found in the house of the Lord and gave it into hand of overseers and into hand of those doing work.
+- fresh: they melted down money found in the house of the Lord and gave it into the hand of overseers and into the hand of those doing work.
 - brenton: And they have collected the money that was found in the house of the Lord, and given it into the hand of the overseers, and into the hand of them that do the work.
 
 ### 2 Chronicles 34:18
@@ -106029,7 +106029,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go, seek the Lord concerning me and concerning everyone left in Israel and in Judah, concerning words of book found, because great wrath of the Lord is kindled among us, because our fathers did not listen to words of the Lord, to do according to all things written in this book.
+- fresh: Go, seek the Lord concerning me and concerning everyone left in Israel and in Judah, concerning words of book found, because great wrath of the Lord is kindled among us, because our fathers did not listen to the words of the Lord, to do according to all things written in this book.
 - brenton: Go, enquire of the Lord for me, and for every one that is left in Israel and Juda, concerning the words of the book that is found: for great is the wrath of the Lord which has been kindled amongst us, because our fathers have not hearkened to the words of the Lord, to do according to all the things written in this book.
 
 ### 2 Chronicles 34:22
@@ -106056,7 +106056,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I bring evils upon this place, all words written in book read before king of Judah,
+- fresh: Thus says the Lord: Behold, I bring evils upon this place, all words written in book read before the king of Judah,
 - brenton: Thus saith the Lord, Behold, I bring evil upon this place, even all the words that are written in the book that was read before the king of Juda:
 
 ### 2 Chronicles 34:25
@@ -106074,7 +106074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to king of Judah who sent you to seek the Lord, thus you shall say to him: Thus says the Lord God of Israel, concerning words which you heard,
+- fresh: And to the king of Judah who sent you to seek the Lord, thus you shall say to him: Thus says the Lord God of Israel, concerning words which you heard,
 - brenton: And concerning the king of Juda, who sent you to seek the Lord,—thus shall ye say to him, Thus saith the Lord God of Israel, As for the words which thou hast heard,
 
 ### 2 Chronicles 34:27
@@ -106119,7 +106119,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And king stood upon pillar and made covenant before the Lord, to walk before the Lord, to keep his commandments and his testimonies and his ordinances with all heart and with all soul, words of covenant written upon this book.
+- fresh: And king stood upon pillar and made covenant before the Lord, to walk before the Lord, to keep his commandments and his testimonies and his ordinances with all his heart and with all his soul, words of covenant written upon this book.
 - brenton: And the king stood at a pillar, and made a covenant before the Lord, to walk before the Lord, to keep his commandments and testimonies, and his ordinances, with all his heart and with all his soul, so as to perform the words of the covenant that were written in this book.
 
 ### 2 Chronicles 34:32
@@ -106137,7 +106137,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah removed all abominations from all land that belonged to sons of Israel and made all found in Jerusalem and in Israel serve the Lord their God. All his days they did not turn away from behind the Lord God of their fathers.
+- fresh: And Josiah removed all abominations from all land that belonged to the sons of Israel and made all found in Jerusalem and in Israel serve the Lord their God. All his days they did not turn away from behind the Lord God of their fathers.
 - brenton: And Josias removed all the abominations out of the whole land which belonged to the children of Israel, and caused all that were found in Jerusalem and in Israel, to serve the Lord their God all his days: he departed not from following the Lord God of his fathers.
 
 ### 2 Chronicles 35:1
@@ -106146,7 +106146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah kept Passover to the Lord his God, and they sacrificed Passover on fourteenth of the first month.
+- fresh: And Josiah kept Passover to the Lord his God, and they sacrificed Passover on the fourteenth of the first month.
 - brenton: And Josias kept a passover to the Lord his God; and sacrificed the passover on the fourteenth day of the first month.
 
 ### 2 Chronicles 35:2
@@ -106155,7 +106155,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set priests in their charges and strengthened them for works of house of the Lord.
+- fresh: And he set priests in their charges and strengthened them for works of the house of the Lord.
 - brenton: And he appointed the priests at their charges, and encouraged them for the services of the house of the Lord.
 
 ### 2 Chronicles 35:3
@@ -106173,7 +106173,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And prepare yourselves by houses of your fathers and by your courses, according to writing of David king of Israel and by the hand of Solomon his son.
+- fresh: And prepare yourselves by the houses of your fathers and by your courses, according to the writing of David king of Israel and by the hand of Solomon his son.
 - brenton: And prepare yourselves according to the houses of your families, and according to your daily courses, according to the writing of David king of Israel, and the order by the hand of his son Solomon.
 
 ### 2 Chronicles 35:5
@@ -106200,7 +106200,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah contributed to sons of people sheep and lambs and kids of goats, all for Passover, to all found, to number of thirty thousand, and three thousand calves; these were from king's possessions.
+- fresh: And Josiah contributed to the sons of people sheep and lambs and kids of goats, all for Passover, to all found, to the number of thirty thousand, and three thousand calves; these were from king's possessions.
 - brenton: And Josias gave as an offering to the children of the people, sheep, and lambs, and kids of the young of the goats, all for the passover, even for all that were found, in number amounting to thirty thousand, and three thousand calves, these were of the substance of the king.
 
 ### 2 Chronicles 35:8
@@ -106209,7 +106209,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his rulers contributed to people and to priests and Levites. Hilkiah and Zechariah and Jehiel, rulers of house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
+- fresh: And his rulers contributed to people and to priests and Levites. Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave to priests for Passover sheep and lambs and kids, two thousand six hundred, and calves three hundred.
 - brenton: And his princes gave an offering to the people, and to the priests, and to the Levites: and Chelcias and Zacharias and Jeiel the chief men gave to the priests of the house of God, they even gave for the passover sheep, and lambs, and kids, two thousand six hundred, and three hundred calves.
 
 ### 2 Chronicles 35:9
@@ -106227,7 +106227,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And service was set right, and priests stood in their station and Levites in their divisions according to command of king.
+- fresh: And service was set right, and priests stood in their station and Levites in their divisions according to the command of king.
 - brenton: And the service was duly ordered, and the priests stood in their place, and the Levites in their divisions, according to the command of the king.
 
 ### 2 Chronicles 35:11
@@ -106245,7 +106245,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they prepared whole burnt offering to give to them according to division by houses of fathers for sons of people, to bring to the Lord, as written in book of Moses, and thus till morning.
+- fresh: And they prepared whole burnt offering to give to them according to division by the houses of fathers for sons of people, to bring to the Lord, as written in the book of Moses, and thus till morning.
 - brenton: And they prepared the whole-burnt-offering to give to them, according to the division by the houses of families, even to the sons of the people, to offer to the Lord, as it is written in the book of Moses.
 
 ### 2 Chronicles 35:13
@@ -106254,7 +106254,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they roasted Passover in fire according to ordinance, and holy things they boiled in bronze pots and cauldrons, and it went well, and they ran to all sons of people.
+- fresh: And they roasted Passover in fire according to ordinance, and holy things they boiled in bronze pots and cauldrons, and it went well, and they ran to all the sons of people.
 - brenton: And thus they did till the morning. And they roasted the passover with fire according to the ordinance; and boiled the holy pieces in copper vessels and caldrons, and the feast went on well, and they quickly served all the children of the people.
 
 ### 2 Chronicles 35:14
@@ -106281,7 +106281,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all service of the Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon altar of the Lord according to command of king Josiah.
+- fresh: And all service of the Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon the altar of the Lord according to the command of king Josiah.
 - brenton: So all the service of the Lord was duly ordered and prepared in that day, for keeping the passover, and offering the whole-burnt-sacrifices on the altar of the Lord, according to the command of king Josias.
 
 ### 2 Chronicles 35:17
@@ -106299,7 +106299,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And no Passover like it came to be in Israel from days of Samuel the prophet, and all kings of Israel did not keep such Passover as Josiah kept, and priests and Levites and all Judah and Israel found there and those dwelling in Jerusalem, to the Lord.
+- fresh: And no Passover like it came to be in Israel from the days of Samuel the prophet, and all kings of Israel did not keep such Passover as Josiah kept, and priests and Levites and all Judah and Israel found there and those dwelling in Jerusalem, to the Lord.
 - brenton: And there was no passover like it in Israel from the days of Samuel the prophet, or any king of Israel: they kept not such a passover as Josias, and the priests, and the Levites, and all Juda and Israel that were present, and the dwellers in Jerusalem, kept to the Lord.
 
 ### 2 Chronicles 35:19
@@ -106308,7 +106308,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighteenth year of reign of Josiah this Passover was kept.
+- fresh: In the eighteenth year of reign of Josiah this Passover was kept.
 - brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ### 2 Chronicles 35:20
@@ -106317,7 +106317,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh Necho king of Egypt went up against king of Assyrians at river Euphrates, and king Josiah went to meet him.
+- fresh: And Pharaoh Necho king of Egypt went up against the king of Assyrians at river Euphrates, and king Josiah went to meet him.
 - brenton: And Pharao Nechao king of Egypt went up against the king of the Assyrians to the river Euphrates, and king Josias went to meet him.
 
 ### 2 Chronicles 35:21
@@ -106335,7 +106335,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Necho from the mouth of God, and came to fight in plain of Megiddo.
+- fresh: And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to the words of Necho from the mouth of God, and came to fight in the plain of Megiddo.
 - brenton: However Josias turned not his face from him, but strengthened himself to fight against him, and hearkened not to the words of Nechao by the mouth of God, and he came to fight in the plain of Mageddo.
 
 ### 2 Chronicles 35:23
@@ -106380,7 +106380,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his first words and his last, behold, written upon book of kings of Israel and Judah.
+- fresh: And his first words and his last, behold, written upon the book of kings of Israel and Judah.
 - brenton: And his acts, the first and the last, behold, they are written in the book of the kings of Israel and Juda.
 
 ### 2 Chronicles 36:1
@@ -106416,7 +106416,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to mouth of Pharaoh, and each man required silver and gold from people of the land according to ability, to give to Pharaoh Necho.
+- fresh: And Pharaoh Necho made Eliakim son of Josiah king of Judah in place of Josiah his father and changed his name to Jehoiakim, and Pharaoh Necho took Jehoahaz his brother and brought him into Egypt, and he died there. And they gave silver and gold to Pharaoh. Then land began to be taxed, to give silver according to the mouth of Pharaoh, and each man required silver and gold from the people of the land according to ability, to give to Pharaoh Necho.
 - brenton: And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
 
 ### 2 Chronicles 36:5
@@ -106443,7 +106443,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he carried part of vessels of house of the Lord to Babylon and put them in his temple in Babylon.
+- fresh: And he carried part of vessels of the house of the Lord to Babylon and put them in his temple in Babylon.
 - brenton: And he carried away a part of the vessels of the house of the Lord to Babylon, and put them in his temple in Babylon.
 
 ### 2 Chronicles 36:8
@@ -106452,7 +106452,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rest of words of Jehoiakim and all things he did, are not these written upon book of words of days for kings of Judah? And Jehoiakim slept with his fathers and was buried in Ganoza with his fathers, and Jeconiah his son reigned in his place.
+- fresh: And rest of words of Jehoiakim and all things he did, are not these written upon the book of words of days for kings of Judah? And Jehoiakim slept with his fathers and was buried in Ganoza with his fathers, and Jeconiah his son reigned in his place.
 - brenton: And the rest of the acts of Joakim, and all that he did, behold, are not these things written in the book of the chronicles of the kings of Juda? And Joakim slept with his fathers, and was buried with his fathers in Ganozae: and Jechonias his son reigned in his stead.
 
 ### 2 Chronicles 36:9
@@ -106470,7 +106470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when year turned, king Nebuchadnezzar sent and brought him into Babylon with desirable vessels of house of the Lord, and he made Zedekiah his father's brother king over Judah and Jerusalem.
+- fresh: And when year turned, king Nebuchadnezzar sent and brought him into Babylon with desirable vessels of the house of the Lord, and he made Zedekiah his father's brother king over Judah and Jerusalem.
 - brenton: And at the turn of the year, king Nabuchodonosor sent, and brought him to Babylon, with the precious vessels of the house of the Lord, and made Sedekias his father's brother king over Juda and Jerusalem.
 
 ### 2 Chronicles 36:11
@@ -106542,7 +106542,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all vessels of house of God, great and small, and treasures and all treasures of king and nobles, he brought all into Babylon.
+- fresh: And all vessels of the house of God, great and small, and treasures and all treasures of king and nobles, he brought all into Babylon.
 - brenton: And all the vessels of the house of God, the great and the small, and the treasures of the house of the Lord, and all the treasures of the king and the great men; he brought all to Babylon.
 
 ### 2 Chronicles 36:19
@@ -106634,7 +106634,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build house of the Lord in Jerusalem.
+- fresh: Then heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
 - brenton: Then the chiefs of the families of Juda and Benjamin arose, and the priests, and the Levites, all whose spirit the Lord stirred up to go up to build the house of the Lord that is in Jerusalem.
 
 ### Ezra 1:6
@@ -106652,7 +106652,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And King Cyrus brought out vessels of house of the Lord, which Nebuchadnezzar took from Jerusalem and placed in the house of his god.
+- fresh: And King Cyrus brought out vessels of the house of the Lord, which Nebuchadnezzar took from Jerusalem and placed in the house of his god.
 - brenton: And king Cyrus brought out the vessels of the house of the Lord, which Nabuchodonosor had brought from Jerusalem, and put in the house of his god.
 
 ### Ezra 1:8
@@ -106697,7 +106697,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are sons of the province, those coming up from captivity of the exile whom Nebuchadnezzar king of Babylon exiled to Babylon, and they returned to Jerusalem and Judah, each to his city.
+- fresh: And these are sons of the province, those coming up from the captivity of the exile whom Nebuchadnezzar king of Babylon exiled to Babylon, and they returned to Jerusalem and Judah, each to his city.
 - brenton: And these are the people of the land that went up, of the number of prisoners who were removed, whom Nabuchodonosor king of Babylon carried away to Babylon, and they returned to Juda and Jerusalem, every man to his city;
 
 ### Ezra 2:2
@@ -106742,7 +106742,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Pahathmoab, to sons of Iesoue-Joab: 2,812.
+- fresh: Sons of Pahathmoab, to the sons of Iesoue-Joab: 2,812.
 - brenton: The children of Phaath Moab, belonging to the sons of Jesue and Joab, two thousand eight hundred and twelve.
 
 ### Ezra 2:7
@@ -107012,7 +107012,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the priests: sons of Iedoua, of house of Jeshua, 973.
+- fresh: And the priests: sons of Iedoua, of the house of Jeshua, 973.
 - brenton: And the priests, the sons of Jedua, belonging to the house of Jesus, were nine hundred and seventy-three.
 
 ### Ezra 2:37
@@ -107048,7 +107048,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Levites: sons of Jeshua and Kadmiel, to sons of Hodaiah, 74.
+- fresh: And the Levites: sons of Jeshua and Kadmiel, to the sons of Hodaiah, 74.
 - brenton: And the Levites, the sons of Jesus and Cadmiel, belonging to the sons of Oduia, seventy-four.
 
 ### Ezra 2:41
@@ -107237,7 +107237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of the priests: sons of Habaiah, sons of Koz, sons of Barzillai, who took a wife from daughters of Barzillai the Gileadite and was called by their name.
+- fresh: And from the sons of the priests: sons of Habaiah, sons of Koz, sons of Barzillai, who took a wife from the daughters of Barzillai the Gileadite and was called by their name.
 - brenton: And of the children of the priests, the children of Labeia, the children of Akkus, the children of Berzellai, who took a wife of the daughter of Berzellai the Galaadite, and was called by their name.
 
 ### Ezra 2:62
@@ -107309,7 +107309,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: According to their strength they gave into treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
+- fresh: According to their strength they gave into the treasury of the work 61,000 minas of pure gold, 5,000 minas of silver, and 100 priestly bowls.
 - brenton: According to their power they gave into the treasury of the work pure gold sixty-one thousand pieces, and five thousand pounds of silver, and one hundred priests' garments.
 
 ### Ezra 2:70
@@ -107336,7 +107336,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in law of Moses man of God.
+- fresh: And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in the law of Moses man of God.
 - brenton: Then stood up Jesus the son of Josedec, and his brethren the priests, and Zorobabel the son of Salathiel, and his brethren, and they built the altar of the God of Israel, to offer upon it whole-burnt-offerings, according to the things that were written in the law of Moses the man of God.
 
 ### Ezra 3:3
@@ -107345,7 +107345,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they prepared the altar on its place, because terror from peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
+- fresh: And they prepared the altar on its place, because terror from the peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
 - brenton: And they set up the altar on its place, for there was a terror upon them because of the people of the lands: and the whole-burnt-offering was offered up upon it to the Lord morning and evening.
 
 ### Ezra 3:4
@@ -107408,7 +107408,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they laid foundations to build house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to ordinance of David king of Israel.
+- fresh: And they laid foundations to build the house of the Lord, and the priests stood arrayed with trumpets and the Levites, sons of Asaph, with cymbals, to praise the Lord according to the ordinance of David king of Israel.
 - brenton: And they laid a foundation for building the house of the Lord: and the priests in their robes stood with trumpets and the Levites the sons of Asaph with cymbals, to praise the Lord, according to the order of David king of Israel.
 
 ### Ezra 3:11
@@ -107417,7 +107417,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of house of the Lord.
+- fresh: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of the house of the Lord.
 - brenton: And they answered each other with praise and thanksgiving to the Lord, saying, For it is good, for his mercy to Israel endures for ever. And all the people shouted with a loud voice to praise the Lord at the laying the foundation of the house of the Lord.
 
 ### Ezra 3:12
@@ -107435,7 +107435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people could not distinguish sound of shout of joy from sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
+- fresh: And the people could not distinguish sound of shout of joy from the sound of weeping of the people, for the people cried out with a loud voice, and the sound was heard from far away.
 - brenton: And the people did not distinguish the voice of the glad shout from the voice of the weeping of the people: for the people shouted with a loud voice, and the voice was heard even from afar off.
 
 ### Ezra 4:1
@@ -107453,7 +107453,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came near to Zerubbabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from days of Esarhaddon king of Asshur, who brought us up here.
+- fresh: And they came near to Zerubbabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Asshur, who brought us up here.
 - brenton: And they drew near to Zorobabel, and to the heads of families, and said to them, We will build with you; for as ye do, we seek to serve our God, and we do sacrifice to him from the days of Asaradan king of Assur, who brought us hither.
 
 ### Ezra 4:3
@@ -107489,7 +107489,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in reign of Ahasuerus, at beginning of his reign, they wrote a letter against inhabitants of Judah and Jerusalem.
+- fresh: And in the reign of Ahasuerus, at the beginning of his reign, they wrote a letter against the inhabitants of Judah and Jerusalem.
 - brenton: And in the reign of Assuerus, even in the beginning of his reign, they wrote a letter against the inhabitants of Juda and Jerusalem.
 
 ### Ezra 4:7
@@ -107525,7 +107525,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and the rest of the nations whom Asnapper the great and honored deported and settled in cities of Samaria and the rest beyond the River.
+- fresh: and the rest of the nations whom Asnapper the great and honored deported and settled in the cities of Samaria and the rest beyond the River.
 - brenton: and the rest of the nations whom the great and noble Assenaphar removed, and settled them in the cities of Somoron, and the rest of them beyond the river.
 
 ### Ezra 4:11
@@ -107651,7 +107651,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then work of house of God in Jerusalem ceased, and it lay idle until second year of reign of Darius king of Persians.
+- fresh: Then work of the house of God in Jerusalem ceased, and it lay idle until second year of reign of Darius king of Persians.
 - brenton: Then ceased the work of the house of God in Jerusalem, and it was at a stand until the second year of the reign of Darius king of the Persians.
 
 ### Ezra 5:1
@@ -107660,7 +107660,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in name of God of Israel upon them.
+- fresh: And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in the name of God of Israel upon them.
 - brenton: And Aggæus the prophet, and Zacharias the son of Addo, prophesied a prophecy to the Jews in Juda and Jerusalem in the name of the God of Israel, even to them.
 
 ### Ezra 5:2
@@ -107669,7 +107669,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to build house of God in Jerusalem, and with them were prophets of God helping them.
+- fresh: Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to build the house of God in Jerusalem, and with them were prophets of God helping them.
 - brenton: Then rose up Zorobabel the son of Salathiel, and Jesus the son of Josedec, and began to build the house of God that was in Jerusalem: and with them were the prophets of God assisting them.
 
 ### Ezra 5:3
@@ -107723,7 +107723,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let it be known to the king that we went into land of Judah, to the house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
+- fresh: Let it be known to the king that we went into the land of Judah, to the house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
 - brenton: Be it known to the king, that we went into the land of Judea, to the house of the great God; and it is building with choice stones, and they are laying timbers in the walls, and that work is prospering, and goes on favourably in their hands.
 
 ### Ezra 5:9
@@ -107759,7 +107759,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But from time when our fathers provoked God of heaven, he gave them into hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
+- fresh: But from time when our fathers provoked God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
 - brenton: But after that our fathers provoked the God of heaven, he gave them into the hands of Nabuchodonosor the Chaldean, king of Babylon, and he destroyed this house, and carried the people captive to Babylon.
 
 ### Ezra 5:13
@@ -107777,7 +107777,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And vessels of house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into temple of the king, King Cyrus took them out from temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
+- fresh: And vessels of the house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into the temple of the king, King Cyrus took them out from the temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
 - brenton: And the gold and silver vessels of the house of God, which Nabuchodonosor brought out from the house that was in Jerusalem, and carried them into the temple of the king, them did king Cyrus bring out from the temple of the king, and gave them to Sabanasar the treasurer, who was over the treasure;
 
 ### Ezra 5:15
@@ -107795,7 +107795,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then that Sheshbazzar came and laid foundations of house of God in Jerusalem, and from then until now it has been built and not completed.
+- fresh: Then that Sheshbazzar came and laid foundations of the house of God in Jerusalem, and from then until now it has been built and not completed.
 - brenton: Then that Sabanazar came, and laid the foundations of the house of God in Jerusalem: and from that time even until now it has been building, and has not been finished.
 
 ### Ezra 5:17
@@ -107822,7 +107822,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
+- fresh: And in the city of Bareis, city of the Medes, one scroll was found, and this memorandum was written in it:
 - brenton: And there was found in the city, in the palace, a volume, and this was the record written in it.
 
 ### Ezra 6:3
@@ -107849,7 +107849,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And silver and gold vessels of house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in the house of God.
+- fresh: And silver and gold vessels of the house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in the house of God.
 - brenton: And the silver and the gold vessels of the house of God, which Nabuchodonosor carried off from the house that was in Jerusalem, and carried to Babylon, let them even be given, and be carried to the temple that is in Jerusalem, and put in the place where they were set in the house of God.
 
 ### Ezra 6:6
@@ -107885,7 +107885,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
+- fresh: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to God of heaven, wheat, salt, wine, and oil, according to the word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
 - brenton: And whatever need there may be, ye shall give both the young of bulls and rams, and lambs for whole-burnt-offerings to the God of heaven, wheat, salt, wine, oil:—let it be given them according to the word of the priests that are in Jerusalem, day by day whatsoever they shall ask;
 
 ### Ezra 6:10
@@ -107930,7 +107930,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And elders of the Jews were building and prospering through prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by decree of God of Israel and by decree of Cyrus and Darius and Artaxerxes, kings of Persia.
+- fresh: And elders of the Jews were building and prospering through prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by the decree of God of Israel and by the decree of Cyrus and Darius and Artaxerxes, kings of Persia.
 - brenton: And the elders of the Jews and the Levites built, at the prophecy of Aggæus the prophet, and Zacharias the son of Addo: and they built up, and finished it, by the decree of the God of Israel, and by the decree of Cyrus, and Darius, and Arthasastha, kings of the Persians.
 
 ### Ezra 6:15
@@ -107939,7 +107939,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they completed this house by third day of the month Adar, which was sixth year in reign of Darius the king.
+- fresh: And they completed this house by third day of the month Adar, which was sixth year in the reign of Darius the king.
 - brenton: And they finished this house by the third day of the month Adar, which is the sixth year of the reign of Darius the king.
 
 ### Ezra 6:16
@@ -107948,7 +107948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of house of God with gladness.
+- fresh: And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of the house of God with gladness.
 - brenton: And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of the house of God with gladness.
 
 ### Ezra 6:17
@@ -107957,7 +107957,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they offered at dedication of house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to number of tribes of Israel.
+- fresh: And they offered at dedication of the house of God one hundred calves, two hundred rams, four hundred lambs, and twelve goat kids for sin concerning all Israel, according to the number of tribes of Israel.
 - brenton: And they offered for the dedication of the house of God a hundred calves, two hundred rams, four hundred lambs, twelve kids of the goats for a sin-offering for all Israel, according to the number of the tribes of Israel.
 
 ### Ezra 6:18
@@ -107966,7 +107966,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they set priests in their divisions and Levites in their allotments for service of God in Jerusalem, according to writing of book of Moses.
+- fresh: And they set priests in their divisions and Levites in their allotments for service of God in Jerusalem, according to the writing of book of Moses.
 - brenton: And they set the priests in their divisions, and the Levites in their separate orders, for the services of God in Jerusalem, according to the writing of the book of Moses.
 
 ### Ezra 6:19
@@ -108002,7 +108002,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Asshur toward them, to strengthen their hands in works of house of God of Israel.
+- fresh: And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of king of Asshur toward them, to strengthen their hands in the works of the house of God of Israel.
 - brenton: And they kept the feast of unleavened bread seven days with gladness, because the Lord made them glad, and he turned the heart of the king of Assyria to them, to strengthen their hands in the works of the house of the God of Israel.
 
 ### Ezra 7:1
@@ -108011,7 +108011,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these words, in reign of Artaxerxes king of Persians, Ezra son of Seraiah, son of Azariah, son of Hilkiah,
+- fresh: And after these words, in the reign of Artaxerxes king of Persians, Ezra son of Seraiah, son of Azariah, son of Hilkiah,
 - brenton: Now after these things, in the reign of Arthasastha king of the Persians, came up Esdras the son of Saraias, the son of Azarias, the son of Chelcias,
 
 ### Ezra 7:2
@@ -108056,7 +108056,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This Ezra came up from Babylon, and he was a quick scribe in law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
+- fresh: This Ezra came up from Babylon, and he was a quick scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
 ### Ezra 7:7
@@ -108065,7 +108065,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And some from sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Jerusalem in seventh year of King Artaxerxes.
+- fresh: And some from the sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Jerusalem in seventh year of King Artaxerxes.
 - brenton: And some of the children of Israel went up, and some of the priests, and of the Levites, and the singers, and the door-keepers, and the Nathinim, to Jerusalem, in the seventh year of Arthasastha the king.
 
 ### Ezra 7:8
@@ -108119,7 +108119,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From me decree has been set that everyone in my kingdom who freely chooses from people of Israel and priests and Levites to go to Jerusalem with you may go.
+- fresh: From me decree has been set that everyone in my kingdom who freely chooses from the people of Israel and priests and Levites to go to Jerusalem with you may go.
 - brenton: A decree is made by me, that every one who is willing in my kingdom of the people of Israel, and of the priests and Levites, to go to Jerusalem, be permitted to go with thee.
 
 ### Ezra 7:14
@@ -108155,7 +108155,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on altar of house of your God in Jerusalem.
+- fresh: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on the altar of the house of your God in Jerusalem.
 - brenton: And as for every one that arrives there, speedily order him by this letter to bring calves, rams, lambs, and their meat-offerings, and their drink-offerings; and thou shalt offer them on the altar of the house of your God which is in Jerusalem.
 
 ### Ezra 7:18
@@ -108173,7 +108173,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And vessels given to you for service of house of God, deliver before God in Jerusalem.
+- fresh: And vessels given to you for service of the house of God, deliver before God in Jerusalem.
 - brenton: And deliver the vessels that are given thee for the service of the house of God, before God in Jerusalem.
 
 ### Ezra 7:20
@@ -108209,7 +108209,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Everything in decree of God of heaven, let it be done carefully for the house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
+- fresh: Everything in decree of God of heaven, let it be done carefully for the house of God of heaven. Take care lest anyone attack it, lest wrath come upon the kingdom of the king and his sons.
 - brenton: Let whatever is in the decree of the God of heaven, be done: take heed lest any one make an attack on the house of the God of heaven, lest at any time there should be wrath against the realm of the king and his sons.
 
 ### Ezra 7:24
@@ -108245,7 +108245,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is the Lord God of our fathers, who gave thus into heart of the king to glorify house of the Lord in Jerusalem,
+- fresh: Blessed is the Lord God of our fathers, who gave thus into the heart of the king to glorify house of the Lord in Jerusalem,
 - brenton: Blessed be the Lord God of our fathers, who has put it thus into the heart of the king, to glorify the house of the Lord which is in Jerusalem;
 
 ### Ezra 7:28
@@ -108263,7 +108263,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these were chiefs of their father-houses, leaders going up with me in reign of Artaxerxes, king of Babylon:
+- fresh: And these were chiefs of their father-houses, leaders going up with me in the reign of Artaxerxes, king of Babylon:
 - brenton: And these are the heads of their families, the leaders that went up with me in the reign of Arthasastha the king of Babylon.
 
 ### Ezra 8:2
@@ -108272,7 +108272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Phinehas, Gershom; from sons of Ithamar, Daniel; from sons of David, Hattush;
+- fresh: from the sons of Phinehas, Gershom; from the sons of Ithamar, Daniel; from the sons of David, Hattush;
 - brenton: Of the sons of Phinees; Gerson: of the sons of Ithamar; Daniel: of the sons of David; Attus.
 
 ### Ezra 8:3
@@ -108281,7 +108281,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Sechanias; from sons of Parosh, Zechariah, and with him a band of one hundred fifty males;
+- fresh: from the sons of Sechanias; from the sons of Parosh, Zechariah, and with him a band of one hundred fifty males;
 - brenton: Of the sons of Sachania, and of the sons of Phoros; Zacharias: and with him a company of a hundred and fifty.
 
 ### Ezra 8:4
@@ -108290,7 +108290,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Pahathmoab, Elianas son of Zerahiah, and with him two hundred males;
+- fresh: from the sons of Pahathmoab, Elianas son of Zerahiah, and with him two hundred males;
 - brenton: Of the sons of Phaath-Moab; Eliana the son of Saraia, and with him two hundred that were males.
 
 ### Ezra 8:5
@@ -108299,7 +108299,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from sons of Zathoes, Shechaniah son of Aziel, and with him three hundred males;
+- fresh: from the sons of Zathoes, Shechaniah son of Aziel, and with him three hundred males;
 - brenton: And of the sons of Zathoes; Sechenias the son of Aziel, and with him three hundred males.
 
 ### Ezra 8:6
@@ -108308,7 +108308,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Adin, Obeth son of Jonathan, and with him fifty males;
+- fresh: and from the sons of Adin, Obeth son of Jonathan, and with him fifty males;
 - brenton: And of the sons of Adin; Obeth the son of Jonathan, and with him fifty males.
 
 ### Ezra 8:7
@@ -108317,7 +108317,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Elam, Jeshaiah son of Athaliah, and with him seventy males;
+- fresh: and from the sons of Elam, Jeshaiah son of Athaliah, and with him seventy males;
 - brenton: And of the sons of Elam; Isæas the son of Athelia, and with him seventy males.
 
 ### Ezra 8:8
@@ -108326,7 +108326,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Shephatiah, Zebadiah son of Michael, and with him eighty males;
+- fresh: and from the sons of Shephatiah, Zebadiah son of Michael, and with him eighty males;
 - brenton: And of the sons of Saphatia; Zabadias the son of Michael, and with him eighty males.
 
 ### Ezra 8:9
@@ -108335,7 +108335,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Joab, Obadiah son of Jehiel, and with him two hundred eighteen males;
+- fresh: and from the sons of Joab, Obadiah son of Jehiel, and with him two hundred eighteen males;
 - brenton: And of the sons of Joab; Abadia the son of Jeiel, and with him two hundred and eighteen males.
 
 ### Ezra 8:10
@@ -108344,7 +108344,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
+- fresh: and from the sons of Baani, Salimoth son of Iosephia, and with him one hundred sixty males;
 - brenton: And of the sons of Baani; Selimuth the son of Josephia, and with him a hundred and sixty males.
 
 ### Ezra 8:11
@@ -108353,7 +108353,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Bebai, Zechariah son of Bebai, and with him seventy-eight males;
+- fresh: and from the sons of Bebai, Zechariah son of Bebai, and with him seventy-eight males;
 - brenton: And of the sons of Babi; Zacharias the son of Babi, and with him twenty-eight males.
 
 ### Ezra 8:12
@@ -108362,7 +108362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Azgad, Johanan son of Hakkatan, and with him one hundred ten males;
+- fresh: and from the sons of Azgad, Johanan son of Hakkatan, and with him one hundred ten males;
 - brenton: And of the sons of Asgad; Joanan the son of Accatan, and with him a hundred and ten males.
 
 ### Ezra 8:13
@@ -108371,7 +108371,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Adonikam, the last, and these their names: Eliphalat, Jehiel, and Shemaiah, and with them sixty males;
+- fresh: and from the sons of Adonikam, the last, and these their names: Eliphalat, Jehiel, and Shemaiah, and with them sixty males;
 - brenton: And of the sons of Adonicam were the last, and these were their names, Eliphalat, Jeel, and Samæa, and with them sixty males.
 
 ### Ezra 8:14
@@ -108380,7 +108380,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of Bigvai, Uthai, and with him seventy males.
+- fresh: and from the sons of Bigvai, Uthai, and with him seventy males.
 - brenton: And of the sons of Baguæ, Uthai, and Zabud, and with him seventy males.
 
 ### Ezra 8:15
@@ -108389,7 +108389,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gathered them to the river coming to Ahava, and we camped there three days, and I discerned among the people and the priests, but from sons of Levi I found no one there.
+- fresh: And I gathered them to the river coming to Ahava, and we camped there three days, and I discerned among the people and the priests, but from the sons of Levi I found no one there.
 - brenton: And I gathered them to the river that comes to Evi, and we encamped there three days: and I reviewed the people and the priests, and found none of the sons of Levi there.
 
 ### Ezra 8:16
@@ -108416,7 +108416,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came to us, because good hand of our God was upon us, a man, Mahli, from sons of Mahali son of Levi son of Israel, and his sons and his brothers, eighteen.
+- fresh: And they came to us, because good hand of our God was upon us, a man, Mahli, from the sons of Mahali son of Levi son of Israel, and his sons and his brothers, eighteen.
 - brenton: And they came to us, as the good hand of our God was upon us, even a man of understanding of the sons of Mooli, the son of Levi, the son of Israel, and at the commencement came his sons and his brethren, eighteen.
 
 ### Ezra 8:19
@@ -108425,7 +108425,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hashabiah and Jeshaiah from sons of Merari, his brothers and their sons, twenty.
+- fresh: And Hashabiah and Jeshaiah from the sons of Merari, his brothers and their sons, twenty.
 - brenton: And Asebia, and Isaia of the sons of Merari, his brethren and his sons, twenty.
 
 ### Ezra 8:20
@@ -108470,7 +108470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I separated twelve from chiefs of the priests: Seraiah, Hashabiah, and with them ten from their brothers.
+- fresh: And I separated twelve from the chiefs of the priests: Seraiah, Hashabiah, and with them ten from their brothers.
 - brenton: And I gave charge to twelve of the chiefs of the priests, to Saraia, to Asabia, and ten of their brethren with them.
 
 ### Ezra 8:25
@@ -108479,7 +108479,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I weighed out to them the silver and the gold and the vessels, the firstfruits of house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
+- fresh: And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
 - brenton: And I weighed to them the silver, and the gold, and the vessels of the first-fruits of the house of our God, which the king, and his councillors, and his princes, and all Israel that were found, had dedicated.
 
 ### Ezra 8:26
@@ -108515,7 +108515,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Jerusalem, in chambers of house of the Lord.
+- fresh: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Jerusalem, in the chambers of the house of the Lord.
 - brenton: Be watchful and keep them, until ye weigh them before the chief priests and the Levites, and the chiefs of families in Jerusalem, at the chambers of the house of the Lord.
 
 ### Ezra 8:30
@@ -108533,7 +108533,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we set out from river Ahava on twelfth day of the first month to come to Jerusalem, and hand of our God was upon us, and he rescued us from hand of enemy and foe on the road.
+- fresh: And we set out from river Ahava on twelfth day of the first month to come to Jerusalem, and hand of our God was upon us, and he rescued us from the hand of enemy and foe on the road.
 - brenton: And we departed from the river of Aüe on the twelfth day of the first month, to come to Jerusalem: and the hand of our God was upon us, and delivered us from the hand of the enemy and adversary in the way.
 
 ### Ezra 8:32
@@ -108587,7 +108587,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Jebusite, Ammonite, Moabite, Moserite, and Amorite.
+- fresh: And when these things were finished, the rulers came near to me saying, People of Israel and the priests and the Levites have not separated themselves from the peoples of the lands in their abominations, from the Canaanite, Hittite, Perizzite, Jebusite, Ammonite, Moabite, Moserite, and Amorite.
 - brenton: And when these things were finished, the princes drew near to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands in their abominations, even the Chananite, the Ethite, the Pherezite, the Jebusite, the Ammonite, the Moabite, and the Moserite and the Amorite.
 
 ### Ezra 9:2
@@ -108596,7 +108596,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with peoples of the lands, and hand of the rulers was first in this faithlessness.
+- fresh: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with the peoples of the lands, and hand of the rulers was first in this faithlessness.
 - brenton: For they have taken of their daughters for themselves and their sons; and the holy seed has passed among the nations of the lands, and the hand of the rulers has been first in this transgression.
 
 ### Ezra 9:3
@@ -108641,7 +108641,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
+- fresh: From the days of our fathers we have been in great trespass until this day, and in our lawlessnesses we and our kings and our sons were given into the hand of kings of the nations, to sword and captivity and plundering and shame of face, as this day.
 - brenton: From the days of our fathers we have been in a great trespass until this day: and because of our iniquities we, and our kings, and our children, have been delivered into the hand of the kings of the Gentiles by the sword, and by captivity, and by spoil, and with shame of our face, as at this day.
 
 ### Ezra 9:8
@@ -108704,7 +108704,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: shall we turn again to scatter your commandments and intermarry with peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
+- fresh: shall we turn again to scatter your commandments and intermarry with the peoples of the lands? Do not be angry with us until completion, so that there be no remnant and no one escaping.
 - brenton: whereas we have repeatedly broken thy commandments, and intermarried with the people of the lands: be not very angry with us to our utter destruction, so that there should be no remnant or escaping one.
 
 ### Ezra 9:15
@@ -108731,7 +108731,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shechaniah son of Jehiel, from sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from peoples of the land, and now there is patient hope for Israel about this.
+- fresh: And Shechaniah son of Jehiel, from the sons of Elam, answered and said to Ezra, We acted faithlessly against our God and seated foreign women from the peoples of the land, and now there is patient hope for Israel about this.
 - brenton: And Sechenias the son of Jeel, of the sons of Elam, answered and said to Esdras, We have broken covenant with our God, and have taken strange wives of the nations of the land: yet now there is patience of hope to Israel concerning this thing.
 
 ### Ezra 10:3
@@ -108740,7 +108740,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in commandments of our God, and let it be according to law.
+- fresh: And now let us make a covenant with our God to put out all the women and those born from them, according to your counsel. Rise and warn them in the commandments of our God, and let it be according to law.
 - brenton: Now then let us make a covenant with our God to put away all the wives, and their offspring, as thou shalt advise:
 
 ### Ezra 10:4
@@ -108776,7 +108776,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they proclaimed through Judah and Jerusalem to all sons of the exile to gather into Jerusalem.
+- fresh: And they proclaimed through Judah and Jerusalem to all the sons of the exile to gather into Jerusalem.
 - brenton: And they made proclamation throughout Juda and Jerusalem to all the children of the captivity, that they should assemble at Jerusalem, saying,
 
 ### Ezra 10:8
@@ -108785,7 +108785,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And everyone who would not come within three days, according to counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
+- fresh: And everyone who would not come within three days, according to the counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
 - brenton: Every one who shall not arrive within three days, as is the counsel of the rulers and the elders, all his substance shall be forfeited, and he shall be separated from the congregation of the captivity.
 
 ### Ezra 10:9
@@ -108794,7 +108794,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of house of God, trembling because of the matter and because of the winter.
+- fresh: And all men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
 - brenton: So all the men of Juda and Benjamin assembled at Jerusalem within the three days. This was the ninth month: on the twentieth day of the month all the people sat down in the street of the house of the Lord, because of their alarm concerning the word, and because of the storm.
 
 ### Ezra 10:10
@@ -108812,7 +108812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from peoples of the land and from the foreign women.
+- fresh: And now give praise to the Lord God of your fathers and do what is pleasing before him, and separate yourselves from the peoples of the land and from the foreign women.
 - brenton: Now therefore give praise to the Lord God of our fathers, and do that which is pleasing in his sight: and separate yourselves from the peoples of the land, and from the strange wives.
 
 ### Ezra 10:12
@@ -108875,7 +108875,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of the priests who had seated foreign women were found these: from sons of Jeshua son of Jozadak and his brothers, Maaseiah and Eliezer and Jarib and Gedaliah.
+- fresh: And from the sons of the priests who had seated foreign women were found these: from the sons of Jeshua son of Jozadak and his brothers, Maaseiah and Eliezer and Jarib and Gedaliah.
 - brenton: And there were found some of the sons of the priests who had taken strange wives: of the sons of Jesus the son of Josedec, and his brethren; Maasia, and Eliezer, and Jarib, and Gadalia.
 
 ### Ezra 10:19
@@ -108893,7 +108893,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Immer: Anani and Zebadiah.
+- fresh: And from the sons of Immer: Anani and Zebadiah.
 - brenton: And of the sons of Emmer; Anani, and Zabdia.
 
 ### Ezra 10:21
@@ -108902,7 +108902,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Harim: Maaseiah and Eliah and Shemaiah and Jehiel and Uzziah.
+- fresh: And from the sons of Harim: Maaseiah and Eliah and Shemaiah and Jehiel and Uzziah.
 - brenton: And of the sons of Eram; Masael, and Elia, and Samaia, and Jeel, and Ozia.
 
 ### Ezra 10:22
@@ -108911,7 +108911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Pashur: Elioenai, Maaseiah, Ishmael, Nathanael, Jozabad, and Elasah.
+- fresh: And from the sons of Pashur: Elioenai, Maaseiah, Ishmael, Nathanael, Jozabad, and Elasah.
 - brenton: And of the sons of Phasur; Elionai, Maasia, and Ismael, and Nathanael, and Jozabad, and Elasa.
 
 ### Ezra 10:23
@@ -108938,7 +108938,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from Israel, from sons of Parosh: Ramiah and Iazia and Malchijah and Mijamin and Eleazar and Hashabiah and Benaiah.
+- fresh: And from Israel, from the sons of Parosh: Ramiah and Iazia and Malchijah and Mijamin and Eleazar and Hashabiah and Benaiah.
 - brenton: Also of Israel: of the sons of Phoros; Ramia, and Azia, and Melchia, and Meamin, and Eleazar, and Asabia, and Banaia.
 
 ### Ezra 10:26
@@ -108947,7 +108947,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Elam: Mattaniah and Zechariah and Jehiel and Obadiah and Jeremoth and Eliah.
+- fresh: And from the sons of Elam: Mattaniah and Zechariah and Jehiel and Obadiah and Jeremoth and Eliah.
 - brenton: And of the sons of Helam; Matthania, and Zacharia, and Jaïel, and Abdia, and Jarimoth, and Elia.
 
 ### Ezra 10:27
@@ -108956,7 +108956,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Oziza.
+- fresh: And from the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Oziza.
 - brenton: And of the sons of Zathua; Elionai, Elisub, Matthanai, and Armoth, and Zabad, and Oziza.
 
 ### Ezra 10:28
@@ -108965,7 +108965,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Bebai: Johanan, Hananiah, Zabbai, Athlai.
+- fresh: And from the sons of Bebai: Johanan, Hananiah, Zabbai, Athlai.
 - brenton: And of the sons of Babei; Joanan, Anania, and Zabu, and Thali.
 
 ### Ezra 10:29
@@ -108974,7 +108974,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Salouia, and Ramoth.
+- fresh: And from the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Salouia, and Ramoth.
 - brenton: And of the sons of Banui; Mosollam, Maluch, Adaias, Jasub, and Saluia, and Remoth.
 
 ### Ezra 10:30
@@ -108983,7 +108983,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Pahathmoab: Edna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Bani, and Manasseh.
+- fresh: And from the sons of Pahathmoab: Edna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Bani, and Manasseh.
 - brenton: And of the sons of Phaath Moab; Edne, and Chalel, and Banaia, Maasia, Matthania, Beseleel, and Banui, and Manasse.
 
 ### Ezra 10:31
@@ -108992,7 +108992,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Harim: Eliezer, Iessia, Malchijah, Shemaiah, Shimeon,
+- fresh: And from the sons of Harim: Eliezer, Iessia, Malchijah, Shemaiah, Shimeon,
 - brenton: And of the sons of Eram; Eliezer, Jesia, Melchia, Samaias, Semeon,
 
 ### Ezra 10:32
@@ -109010,7 +109010,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Hashum: Mattenai, Mathatha, Zabad, Eliphaleph, Jeremai, Manasseh, Shimei.
+- fresh: And from the sons of Hashum: Mattenai, Mathatha, Zabad, Eliphaleph, Jeremai, Manasseh, Shimei.
 - brenton: And of the sons of Asem; Metthania, Matthatha, Zadab, Eliphalet, Jerami, Manasse, Semei.
 
 ### Ezra 10:34
@@ -109019,7 +109019,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From sons of Bani: Maadai, Amram, Uel,
+- fresh: From the sons of Bani: Maadai, Amram, Uel,
 - brenton: And of the sons of Bani; Moodia, Amram, Uel,
 
 ### Ezra 10:35
@@ -109100,7 +109100,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From sons of Nebo: Jehiel, Mattithiah, Zedem, Zebina, Jahdai, Joel, and Benaiah.
+- fresh: From the sons of Nebo: Jehiel, Mattithiah, Zedem, Zebina, Jahdai, Joel, and Benaiah.
 - brenton: Of the sons of Nabu; Jael, Matthanias, Zabad, Zebennas, Jadai, and Joel, and Banaia.
 
 ### Ezra 10:44
@@ -109192,7 +109192,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But if you return to me and keep my commandments and do them, even if your dispersion is from edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
+- fresh: But if you return to me and keep my commandments and do them, even if your dispersion is from the edge of heaven, from there I will gather them and bring them into the place which I chose for my name to dwell there.
 - brenton: But if ye turn again to me, and keep my commandments, and do them; if ye should be scattered under the utmost bound of heaven, thence will I gather them, and I will bring them into the place which I have chosen to cause my name to dwell there.
 
 ### Nehemiah 1:10
@@ -109210,7 +109210,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Please, Lord, let your ear be attentive to prayer of your servant and to prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
+- fresh: Please, Lord, let your ear be attentive to the prayer of your servant and to the prayer of your servants who desire to fear your name, and prosper your servant today and give him for compassions before this man. And I was cupbearer to the king.
 - brenton: Turn not away, I pray thee, O Lord, but let thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and cause him to find mercy in the sight of this man. Now I was the king's cup-bearer.
 
 ### Nehemiah 2:1
@@ -109255,7 +109255,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Judah, to city of tombs of my fathers, and I will rebuild it.
+- fresh: and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Judah, to the city of tombs of my fathers, and I will rebuild it.
 - brenton: And I said to the king, If it seem good to the king, and if thy servant shall have found favour in thy sight, I ask that thou wouldest send him into Juda, to the city of the sepulchres of my fathers; then will I rebuild it.
 
 ### Nehemiah 2:6
@@ -109327,7 +109327,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I went out by night through gate of Goleila and toward mouth of spring of the figs and to gate of the dung-heaps, and I was inspecting wall of Jerusalem, which they are pulling down, and its gates were devoured by fire.
+- fresh: And I went out by night through the gate of Goleila and toward mouth of spring of the figs and to the gate of the dung-heaps, and I was inspecting wall of Jerusalem, which they are pulling down, and its gates were devoured by fire.
 - brenton: And I went forth by the gate of the valley by night, and to the mouth of the well of fig trees, and to the dung-gate: and I mourned over the wall of Jerusalem which they were destroying, and her gates were devoured with fire.
 
 ### Nehemiah 2:14
@@ -109336,7 +109336,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I passed on to gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
+- fresh: And I passed on to the gate of Ain and to the king's pool, and there was no place for the beast under me to pass.
 - brenton: And I passed on to the fountain gate, and to the king's pool; and there was no room for the beast to pass under me.
 
 ### Nehemiah 2:15
@@ -109345,7 +109345,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by gate of the gorge and returned.
+- fresh: And I was going up by night along wall of the torrent and was inspecting the wall, and I went in by the gate of the gorge and returned.
 - brenton: And I went up by the wall of the brook by night, and mourned over the wall, and passed through the gate of the valley, and returned.
 
 ### Nehemiah 2:16
@@ -109516,7 +109516,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the wall of pool of Kodia at the king's garden, and as far as the stairs going down from city of David.
+- fresh: And the wall of pool of Kodia at the king's garden, and as far as the stairs going down from the city of David.
 - brenton: But Solomon the son of Choleze repaired the gate of the fountain, the ruler of part of Maspha; he built it, and covered it, and set up its doors and its bars, and the wall of the pool of the skins by the meadow of the king, and as far as the steps that lead down from the city of David.
 
 ### Nehemiah 3:16
@@ -109552,7 +109552,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And next to him Ezer son of Jeshua, ruler of Mizpah, repaired a second measure from tower of ascent adjoining the angle.
+- fresh: And next to him Ezer son of Jeshua, ruler of Mizpah, repaired a second measure from the tower of ascent adjoining the angle.
 - brenton: And next to him repaired Azur the son of Joshua, ruler of Masphai, another portion of the tower of ascent, where it meets the corner.
 
 ### Nehemiah 3:20
@@ -109561,7 +109561,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: After him Baruch son of Zabbai repaired a second measure, from the angle to door of house of Eliashib the great priest.
+- fresh: After him Baruch son of Zabbai repaired a second measure, from the angle to the door of the house of Eliashib the great priest.
 - brenton: After him repaired Baruch the son of Zabu, a second portion, from the corner as far as the door of the house of Eliasub the high priest.
 
 ### Nehemiah 3:21
@@ -109570,7 +109570,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: After him Meremoth son of Urijah son of Koz repaired a second measure, from door of house of Eliashib to end of house of Eliashib.
+- fresh: After him Meremoth son of Urijah son of Koz repaired a second measure, from the door of the house of Eliashib to end of the house of Eliashib.
 - brenton: After him repaired Meramoth the son of Uria the son of Accos, a second part from the door of the house of Eliasub, to the end of the house of Eliasub.
 
 ### Nehemiah 3:22
@@ -109849,7 +109849,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we were doing the work, and half of them were holding the spears from rising of dawn until coming out of the stars.
+- fresh: And we were doing the work, and half of them were holding the spears from the rising of dawn until coming out of the stars.
 - brenton: And it came to pass, when our enemies heard that it was made known to us, and God had frustrated their counsel, that we all returned to the wall, every man to his work.
 
 ### Nehemiah 4:16
@@ -110056,7 +110056,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sanballat and Geshem sent to me saying, Come, let us gather together in the villages in plain of Ono. But they were reckoning to do evil to me.
+- fresh: Sanballat and Geshem sent to me saying, Come, let us gather together in the villages in the plain of Ono. But they were reckoning to do evil to me.
 - brenton: that Sanaballat and Gesam sent to me, saying, Come and let us meet together in the villages in the plain of Ono. But they were plotting to do me mischief.
 
 ### Nehemiah 6:3
@@ -110263,7 +110263,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are sons of the province, those who came up from captivity of the exile whom Nebuchadnezzar king of Babylon exiled, and they returned to Jerusalem and to Judah, each man to his own city,
+- fresh: And these are sons of the province, those who came up from the captivity of the exile whom Nebuchadnezzar king of Babylon exiled, and they returned to Jerusalem and to Judah, each man to his own city,
 - brenton: Now these are the children of the country, that came up from captivity, of the number which Nabuchodonosor king of Babylon carried away, and they returned to Jerusalem and to Juda, every man to his city;
 
 ### Nehemiah 7:7
@@ -110308,7 +110308,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Pahathmoab, to sons of Jeshua and Joab: 2,818.
+- fresh: Sons of Pahathmoab, to the sons of Jeshua and Joab: 2,818.
 - brenton: The children of Phaath Moab, with the children of Jesus and Joab, two thousand six hundred and eighteen.
 
 ### Nehemiah 7:12
@@ -110560,7 +110560,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The priests: sons of Jehoiada, of house of Jeshua, 973.
+- fresh: The priests: sons of Jehoiada, of the house of Jeshua, 973.
 - brenton: The priests; the sons of Jodae, pertaining to the house of Jesus, nine hundred and seventy-three.
 
 ### Nehemiah 7:40
@@ -110596,7 +110596,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Levites: sons of Jeshua, of Kadmiel, to sons of Hodaiah, 74.
+- fresh: The Levites: sons of Jeshua, of Kadmiel, to the sons of Hodaiah, 74.
 - brenton: The Levites; the children of Jesus the son of Cadmiel, with the children of Uduia, seventy-four.
 
 ### Nehemiah 7:44
@@ -110776,7 +110776,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the priests: sons of Habaiah, sons of Koz, sons of Barzillai, because he took wives from daughters of Barzillai the Gileadite and was called by their name.
+- fresh: And from the priests: sons of Habaiah, sons of Koz, sons of Barzillai, because he took wives from the daughters of Barzillai the Gileadite and was called by their name.
 - brenton: And of the priests; the children of Ebia, the children of Acos, the children of Berzelli, for they took wives of the daughters of Berzelli the Galaadite, and they were called by their name.
 
 ### Nehemiah 7:64
@@ -110848,7 +110848,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from chiefs of father-houses they gave to treasury of the work twenty thousand gold pieces and two thousand two hundred minas of silver.
+- fresh: And from the chiefs of father-houses they gave to treasury of the work twenty thousand gold pieces and two thousand two hundred minas of silver.
 - brenton: And some of the heads of families gave into the treasuries of the work, twenty thousand pieces of gold, and two thousand three hundred pounds of silver.
 
 ### Nehemiah 7:72
@@ -110938,7 +110938,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they read in book of law of God, and Ezra was teaching and distinguishing it by knowledge of the Lord, and the people understood in the reading.
+- fresh: And they read in the book of law of God, and Ezra was teaching and distinguishing it by knowledge of the Lord, and the people understood in the reading.
 - brenton: And they read in the book of the law of God, and Esdras taught, and instructed them distinctly in the knowledge of the Lord, and the people understood the law in the reading.
 
 ### Nehemiah 8:9
@@ -111010,7 +111010,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in courts of house of God and in the broad places of the city, even to Gate of Ephraim.
+- fresh: And the people went out and brought them and made booths for themselves, each on his roof and in their courts and in the courts of the house of God and in the broad places of the city, even to Gate of Ephraim.
 - brenton: And the people went forth, and brought them, and made booths for themselves, each one upon his roof, and in their courts, and in the courts of the house of God, and in the streets of the city, and as far as the gate of Ephraim.
 
 ### Nehemiah 8:17
@@ -111019,7 +111019,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the assembly, those returned from captivity, made booths and sat in booths, for sons of Israel had not done thus from days of Jeshua son of Nun until that day. And there was very great rejoicing.
+- fresh: And all the assembly, those returned from captivity, made booths and sat in booths, for sons of Israel had not done thus from the days of Jeshua son of Nun until that day. And there was very great rejoicing.
 - brenton: And all the congregation who had returned from the captivity, made booths, and dwelt in booths: for the children of Israel had not done so from the days of Jesus the son of Naue until that day: and there was great joy.
 
 ### Nehemiah 8:18
@@ -111028,7 +111028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he read in book of law of God day by day, from the first day until the last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
+- fresh: And he read in the book of law of God day by day, from the first day until the last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
 - brenton: And Esdras read in the book of the law of God daily, from the first day even to the last day: and they kept the feast seven days; and on the eighth day a solemn assembly, according to the ordinance.
 
 ### Nehemiah 9:1
@@ -111055,7 +111055,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they stood at their standing place and read in book of the law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
+- fresh: And they stood at their standing place and read in the book of the law of the Lord their God, and they were confessing to the Lord and worshiping the Lord their God.
 - brenton: And they stood in their place, and read in the book of the law of the Lord their god: and they confessed their sins to the Lord, and worshipped the Lord their God.
 
 ### Nehemiah 9:4
@@ -111091,7 +111091,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You are the Lord God. You chose Abram and brought him out from land of the Chaldeans and placed on him the name Abraham.
+- fresh: You are the Lord God. You chose Abram and brought him out from the land of the Chaldeans and placed on him the name Abraham.
 - brenton: Thou art the Lord God, thou didst choose Abram, and broughtest him out of the land of the Chaldeans, and gavest him the name of Abraam:
 
 ### Nehemiah 9:8
@@ -111127,7 +111127,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you split the sea before them, and they passed through middle of the sea on dry land, and their pursuers you threw into the deep like a stone in mighty water.
+- fresh: And you split the sea before them, and they passed through the middle of the sea on dry land, and their pursuers you threw into the deep like a stone in mighty water.
 - brenton: And thou didst cleave the sea before them, and they passed through the midst of the sea on dry land; and thou didst cast into the deep them that were about to pursue them, as a stone in the mighty water.
 
 ### Nehemiah 9:12
@@ -111136,7 +111136,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in pillar of cloud you guided them by day, and in pillar of fire by night, to enlighten for them the road in which they would go.
+- fresh: And in the pillar of cloud you guided them by day, and in the pillar of fire by night, to enlighten for them the road in which they would go.
 - brenton: And thou guidedst them by day by a pillar of cloud, and by night by a pillar of fire, to enlighten for them the way wherein they should walk.
 
 ### Nehemiah 9:13
@@ -111271,7 +111271,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you gave them into hand of those afflicting them, and they afflicted them, and they cried out to you in time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from hand of those afflicting them.
+- fresh: And you gave them into the hand of those afflicting them, and they afflicted them, and they cried out to you in the time of their affliction, and you from heaven heard, and in your great compassions gave them saviors, and they saved them from the hand of those afflicting them.
 - brenton: Then thou gavest them into the hand of them that afflicted them, and they did afflict them: and they cried to thee in the time of their affliction, and thou didst hear them from thy heaven, and in thy great compassions gavest them deliverers, and didst save them from the hand of them that afflicted them.
 
 ### Nehemiah 9:28
@@ -111280,7 +111280,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they rested, they turned again to do evil before you, and you forsook them into hands of their enemies, and they ruled over them. And they cried out to you again, and you from heaven heard and rescued them in your many compassions.
+- fresh: And when they rested, they turned again to do evil before you, and you forsook them into the hands of their enemies, and they ruled over them. And they cried out to you again, and you from heaven heard and rescued them in your many compassions.
 - brenton: But when they rested, they did evil again before thee: so thou leftest them in the hands of their enemies, and they ruled over them: and they cried again to thee, and thou heardest them from heaven, and didst deliver them in thy great compassions.
 
 ### Nehemiah 9:29
@@ -111298,7 +111298,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you drew over them many years and testified to them by your Spirit in hand of your prophets, and they gave no ear, and you gave them into hand of peoples of the land.
+- fresh: And you drew over them many years and testified to them by your Spirit in the hand of your prophets, and they gave no ear, and you gave them into the hand of peoples of the land.
 - brenton: Yet thou didst bear long with them many years, and didst testify to them by thy Spirit by the hand of thy prophets: but they hearkened not; so thou gavest them into the hand of the nations of the land.
 
 ### Nehemiah 9:31
@@ -111316,7 +111316,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, our God, strong, great, mighty, and fearful, keeping your covenant and your mercy, let not all the toil grow little before you, which found us and our kings and our rulers and our priests and our prophets and our fathers and all your people, from days of kings of Asshur until this day.
+- fresh: And now, our God, strong, great, mighty, and fearful, keeping your covenant and your mercy, let not all the toil grow little before you, which found us and our kings and our rulers and our priests and our prophets and our fathers and all your people, from the days of kings of Asshur until this day.
 - brenton: And now, O our God, the powerful, the great, the mighty, and the terrible, keeping thy covenant and thy mercy, let not all the trouble seem little in thy sight which has come upon us, and our kings, and our princes, and our priests, and our prophets, and our fathers, and upon all thy people, from the days of the kings of Assur even to this day.
 
 ### Nehemiah 9:33
@@ -111451,7 +111451,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Levites: Jeshua son of Azania, Benaiah from sons of Henadad, Kadmiel,
+- fresh: And the Levites: Jeshua son of Azania, Benaiah from the sons of Henadad, Kadmiel,
 - brenton: and his brethren, Sabania, Oduia, Calitan, Phelia, Anan,
 
 ### Nehemiah 10:11
@@ -111622,7 +111622,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
+- fresh: And the rest of the people, the priests, the Levites, the gatekeepers, the singers, the nethinim, and everyone joining from the peoples of the land to law of God, their wives, their sons, their daughters, everyone knowing and understanding,
 - brenton: were urgent with their brethren, and bound them under a curse, and entered into a curse, and into an oath, to walk in the law of God, which was given by the hand of Moses, the servant of God; to keep and to do all the commandments of the Lord, and his judgments, and his ordinances;
 
 ### Nehemiah 10:30
@@ -111631,7 +111631,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in law of God which was given by the hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
+- fresh: were strengthening themselves upon their brothers, and cursed themselves and entered into a curse and into an oath, to walk in the law of God which was given by the hand of Moses servant of God, and to keep and do all commandments of the Lord our God and his judgments,
 - brenton: and that we will not, they said,give our daughters to the people of the land, nor will we take their daughters to our sons.
 
 ### Nehemiah 10:31
@@ -111649,7 +111649,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and that from peoples of the land bringing wares and every merchandise on Sabbath day to sell, we would not buy from them on Sabbath and on holy day, and we would leave the seventh year and demand of every hand.
+- fresh: and that from the peoples of the land bringing wares and every merchandise on Sabbath day to sell, we would not buy from them on Sabbath and on holy day, and we would leave the seventh year and demand of every hand.
 - brenton: And we will impose ordinances upon ourselves, to levy on ourselves the third part of a didrachm yearly for the service of the house of our God;
 
 ### Nehemiah 10:33
@@ -111658,7 +111658,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we will set commandments upon ourselves, to give upon ourselves a third of a didrachma yearly for service of house of our God,
+- fresh: And we will set commandments upon ourselves, to give upon ourselves a third of a didrachma yearly for service of the house of our God,
 - brenton: the shewbread, and the continual meat-offering, and for the continual whole-burnt-offering, of the sabbaths, of the new moon, for the feast, and for the holy things, and the sin-offerings, to make atonement for Israel, and for the works of the house of our God.
 
 ### Nehemiah 10:34
@@ -111667,7 +111667,7 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ### Nehemiah 10:35
@@ -111676,7 +111676,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into the house of our God, to the house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
+- fresh: And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into the house of our God, to the house of our fathers, at appointed times from years, year by year, to burn on the altar of the Lord our God as written in the law,
 - brenton: and to bring the first-fruits of our land, and the first-fruits of the fruit of every tree, year by year, into the house of the Lord:
 
 ### Nehemiah 10:36
@@ -111703,7 +111703,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and the firstfruit of our grains and fruit of every tree, wine and oil, we will bring to the priests into treasury-room of house of God, and tithe of our land to the Levites, and they, the Levites, are tithing in all cities of our service.
+- fresh: and the firstfruit of our grains and fruit of every tree, wine and oil, we will bring to the priests into treasury-room of the house of God, and tithe of our land to the Levites, and they, the Levites, are tithing in all cities of our service.
 - brenton: And the priest the son of Aaron shall be with the Levites in the tithe of the Levite: and the Levites shall bring up the tenth part of their tithe to the house of our God, into the treasuries of the house of God.
 
 ### Nehemiah 10:39
@@ -111748,7 +111748,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are rulers of the province who settled in Jerusalem, while in cities of Judah each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Solomon.
+- fresh: And these are rulers of the province who settled in Jerusalem, while in the cities of Judah each settled in his own holding, in their cities: Israel, the priests, and the Levites, and the nethinim, and sons of servants of Solomon.
 - brenton: Now these are the chiefs of the province who dwelt in Jerusalem, and in the cities of Juda; every man dwelt in his possession in their cities: Israel, the priests, and the Levites, and the Nathinim, and the children of the servants of Solomon.
 
 ### Nehemiah 11:4
@@ -111757,7 +111757,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Jerusalem settled some from sons of Judah and some from sons of Benjamin. From sons of Judah: Athaiah son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalaleel, from sons of Perez,
+- fresh: And in Jerusalem settled some from the sons of Judah and some from the sons of Benjamin. From the sons of Judah: Athaiah son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalaleel, from the sons of Perez,
 - brenton: And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin. Of the children of Juda; Athaia son of Azia, the son of Zacharia, the son of Samaria, the son of Saphatia, the son of Maleleel, and some of the sons of Phares;
 
 ### Nehemiah 11:5
@@ -111892,7 +111892,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And overseer of the Levites was son of Bani, Uzzi, son of Hashabiah, son of Micah, from sons of Asaph the singers, over against work of house of God.
+- fresh: And overseer of the Levites was son of Bani, Uzzi, son of Hashabiah, son of Micah, from the sons of Asaph the singers, over against work of the house of God.
 - brenton: And the overseer of the Levites was the son of Bani, son of Ozi, son of Asabia, the son of Micha. Of the sons of Asaph the singers some were over the house of God,
 
 ### Nehemiah 11:23
@@ -111919,7 +111919,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And toward the farmsteads in their field, some from sons of Judah settled in Kirjatharba
+- fresh: And toward the farmsteads in their field, some from the sons of Judah settled in Kirjatharba
 - brenton: and with regard to villages in their country district: and some of the children of Juda dwelt in Cariatharboc,
 
 ### Nehemiah 11:26
@@ -112135,7 +112135,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Levites in the days of Eliashib, Joiada, Johanan, and Jaddua were written as heads of fathers, and the priests in reign of Darius the Persian.
+- fresh: The Levites in the days of Eliashib, Joiada, Johanan, and Jaddua were written as heads of fathers, and the priests in the reign of Darius the Persian.
 - brenton: The Levites in the days of Eliasib, Joada, and Joa, and Joanan, and Idua, were recorded heads of families: also the priests, in the reign of Darius the Persian.
 
 ### Nehemiah 12:23
@@ -112144,7 +112144,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Levi, heads of fathers, were written in book of words of the days until days of Johanan son of Eliashib.
+- fresh: Sons of Levi, heads of fathers, were written in the book of words of the days until days of Johanan son of Eliashib.
 - brenton: And the sons of Levi, heads of families, were written in the book of the chronicles, even to the days of Joanan son of Elisue.
 
 ### Nehemiah 12:24
@@ -112153,7 +112153,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And leaders of the Levites were Hashabiah and Sherebiah and Jeshua and sons of Kadmiel, and their brothers opposite them, to hymn and praise by command of David man of God, course by course.
+- fresh: And leaders of the Levites were Hashabiah and Sherebiah and Jeshua and sons of Kadmiel, and their brothers opposite them, to hymn and praise by the command of David man of God, course by course.
 - brenton: And the heads of the Levites were Asabia, and Sarabia, and Jesu: and the sons of Cadmiel, and their brethren over against them, were to sing hymns of praise, according to the commandment of David the man of God, course by course.
 
 ### Nehemiah 12:25
@@ -112252,7 +112252,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from sons of the priests with trumpets, Zechariah son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micah, son of Zaccur, son of Asaph,
+- fresh: and from the sons of the priests with trumpets, Zechariah son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micah, son of Zaccur, son of Asaph,
 - brenton: And some of the sons of the priest with trumpets, Zacharias son of Jonathan, son of Samaias, son of Matthania, son of Michaia, son of Zacchur, son of Asaph:
 
 ### Nehemiah 12:36
@@ -112270,7 +112270,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: at Gate of Ain opposite them. They went up on steps of city of David, on ascent of the wall above house of David and as far as Water Gate eastward.
+- fresh: at Gate of Ain opposite them. They went up on steps of city of David, on the ascent of the wall above house of David and as far as Water Gate eastward.
 - brenton: at the gate, to praise before them, and they went up by the steps of the city of David, in the ascent of the wall, above the house of David, even to the water-gate
 
 ### Nehemiah 12:38
@@ -112369,7 +112369,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On that day it was read in book of Moses in ears of the people, and it was found written in it that Ammonites and Moabites should not enter into assembly of God forever,
+- fresh: On that day it was read in the book of Moses in the ears of the people, and it was found written in it that Ammonites and Moabites should not enter into assembly of God forever,
 - brenton: In that day they read in the book of Moses in the ears of the people; and it was found written in it, that the Ammonites and Moabites should not enter into the congregation of God for ever;
 
 ### Nehemiah 13:2
@@ -112396,7 +112396,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And before this, Eliashib the priest was dwelling in treasury-room of house of our God, being near to Tobiah,
+- fresh: And before this, Eliashib the priest was dwelling in treasury-room of the house of our God, being near to Tobiah,
 - brenton: And before this time Eliasib the priest dwelt in the treasury of the house of our God, connected with Tobias;
 
 ### Nehemiah 13:5
@@ -112414,7 +112414,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in all this I was not in Jerusalem, because in thirty-second year of Artaxerxes king of Babylon I came to the king, and after end of days I asked leave from the king.
+- fresh: And in all this I was not in Jerusalem, because in thirty-second year of Artaxerxes king of Babylon I came to the king, and after the end of days I asked leave from the king.
 - brenton: But in all this time I was not in Jerusalem; for in the thirty-second year of Arthasastha king of Babylon I came to the king, and after a certain time I made my request of the king;
 
 ### Nehemiah 13:7
@@ -112423,7 +112423,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I came to Jerusalem and understood the evil which Eliashib did for Tobiah, making for him a treasury-room in court of house of God.
+- fresh: And I came to Jerusalem and understood the evil which Eliashib did for Tobiah, making for him a treasury-room in the court of the house of God.
 - brenton: and I came to Jerusalem, and I understood the mischief which Eliasib had done in the case of Tobias, in making for him a treasury in the court of the house of God.
 
 ### Nehemiah 13:8
@@ -112432,7 +112432,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it seemed very evil to me, and I threw all vessels of house of Tobiah outside the treasury-room.
+- fresh: And it seemed very evil to me, and I threw all vessels of the house of Tobiah outside the treasury-room.
 - brenton: And it appeared very evil to me: so I cast forth all the furniture of the house of Tobias from the treasury.
 
 ### Nehemiah 13:9
@@ -112441,7 +112441,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, and they purified the treasury-rooms, and I restored there vessels of house of God, the manna, and the frankincense.
+- fresh: And I said, and they purified the treasury-rooms, and I restored there vessels of the house of God, the manna, and the frankincense.
 - brenton: And I gave orders, and they purified the treasuries: and I restored thither the vessels of the house of God, and the offerings, and the frankincense.
 
 ### Nehemiah 13:10
@@ -112477,7 +112477,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Over hand of Shelemiah the priest and Zadok the scribe and Pedaiah from the Levites, and over their hand Hanan son of Zaccur son of Mattaniah, because they were reckoned faithful to divide to their brothers.
+- fresh: Over the hand of Shelemiah the priest and Zadok the scribe and Pedaiah from the Levites, and over their hand Hanan son of Zaccur son of Mattaniah, because they were reckoned faithful to divide to their brothers.
 - brenton: to the charge of Selemia the priest, and Sadoc the scribe, and Phadaea of the Levites: and next to them was Anan the son of Zacchur, son of Matthanias; for they were accounted faithful: it was their office to distribute to their brethren.
 
 ### Nehemiah 13:14
@@ -112504,7 +112504,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they were dwelling in it, bringing fish and every kind of merchandise, selling on the Sabbath to sons of Judah and in Jerusalem.
+- fresh: And they were dwelling in it, bringing fish and every kind of merchandise, selling on the Sabbath to the sons of Judah and in Jerusalem.
 - brenton: and I testified in the day of their sale. Also their dwelt in it men bringing fish, and selling every kind of merchandise to the children of Juda and in Jerusalem on the sabbath.
 
 ### Nehemiah 13:17
@@ -112513,7 +112513,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I contended with sons of Judah, the free men, and said to them, What is this evil thing you are doing, profaning the Sabbath day?
+- fresh: And I contended with the sons of Judah, the free men, and said to them, What is this evil thing you are doing, profaning the Sabbath day?
 - brenton: And I strove with the free children of Juda, and said to them, What is this evil thing which ye do, and profane the sabbath-day?
 
 ### Nehemiah 13:18
@@ -112558,7 +112558,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I told the Levites, those being purified and coming to guard the gates, to sanctify the Sabbath day. Concerning these things remember me, O God, and spare me according to abundance of your mercy.
+- fresh: And I told the Levites, those being purified and coming to guard the gates, to sanctify the Sabbath day. Concerning these things remember me, O God, and spare me according to the abundance of your mercy.
 - brenton: and I told the Levites who were purifying themselves, and came and kept the gates, that they should sanctify the sabbath-day. Remember me, O God, for these things, and spare me according to the abundance of thy mercy.
 
 ### Nehemiah 13:23
@@ -112612,7 +112612,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from sons of Joiada, of Eliashib the great priest, was son-in-law of Sanballat the Horonite, and I drove him out from me.
+- fresh: And from the sons of Joiada, of Eliashib the great priest, was son-in-law of Sanballat the Horonite, and I drove him out from me.
 - brenton: and Elisub the high priest, one of the sons of Joada, being son-in-law of Sanaballat the Uranite, I chased him away from me.
 
 ### Nehemiah 13:29
@@ -112686,7 +112686,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: when days of the marriage were fulfilled, the king made a drinking-feast for the nations found in the city for six days, in court of house of the king,
+- fresh: when days of the marriage were fulfilled, the king made a drinking-feast for the nations found in the city for six days, in the court of the house of the king,
 - brenton: [missing]
 
 ### Esther 1:6
@@ -112911,7 +112911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when command of the king was heard, many girls were gathered into Shushan the city under hand of Hegai, and Esther was led to Hegai, keeper of the women.
+- fresh: And when command of the king was heard, many girls were gathered into Shushan the city under the hand of Hegai, and Esther was led to Hegai, keeper of the women.
 - brenton: [missing]
 
 ### Esther 2:9
@@ -112947,7 +112947,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
+- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with the oil of myrrh and six months with spices and with the women's cosmetics.
 - brenton: [missing]
 
 ### Esther 2:13
@@ -113109,7 +113109,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made a decree in the twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mordecai in one day, and the lot fell on fourteenth of the month, which is Adar.
+- fresh: And he made a decree in the twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy the race of Mordecai in one day, and the lot fell on the fourteenth of the month, which is Adar.
 - brenton: [missing]
 
 ### Esther 3:8
@@ -113127,7 +113127,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If it seems good to the king, let it be decreed to destroy them, and I will write ten thousand talents of silver into treasury of the king.
+- fresh: If it seems good to the king, let it be decreed to destroy them, and I will write ten thousand talents of silver into the treasury of the king.
 - brenton: [missing]
 
 ### Esther 3:10
@@ -113136,7 +113136,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king removed the ring and gave it into hand of Aman to seal against the writings against the Jews.
+- fresh: And the king removed the ring and gave it into the hand of Aman to seal against the writings against the Jews.
 - brenton: [missing]
 
 ### Esther 3:11
@@ -113154,7 +113154,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And scribes of the king were called on thirteenth of the first month, and they wrote as Aman commanded to the generals and the rulers over every province, from India to Ethiopia, to the one hundred twenty-seven provinces, and to rulers of the nations in their own language, by Artaxerxes the king.
+- fresh: And scribes of the king were called on the thirteenth of the first month, and they wrote as Aman commanded to the generals and the rulers over every province, from India to Ethiopia, to the one hundred twenty-seven provinces, and to the rulers of the nations in their own language, by Artaxerxes the king.
 - brenton: [missing]
 
 ### Esther 3:13
@@ -113163,7 +113163,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it was sent by book-carriers into kingdom of Artaxerxes to destroy race of the Jews in one day of the twelfth month, which is Adar, and to plunder their goods.
+- fresh: And it was sent by book-carriers into the kingdom of Artaxerxes to destroy the race of the Jews in one day of the twelfth month, which is Adar, and to plunder their goods.
 - brenton: [missing]
 
 ### Esther 3:14
@@ -113190,7 +113190,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Mordecai, perceiving what was being carried out, tore his garments and put on sackcloth and sprinkled himself with ashes, and leaping through broad place of the city he cried with a loud voice, A nation that did no wrong is being taken away.
+- fresh: And Mordecai, perceiving what was being carried out, tore his garments and put on sackcloth and sprinkled himself with ashes, and leaping through the broad place of the city he cried with a loud voice, A nation that did no wrong is being taken away.
 - brenton: [missing]
 
 ### Esther 4:2
@@ -113532,7 +113532,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and let one of the king's glorious friends give it, and let him robe the man whom the king loves and lift him upon the horse and proclaim through broad place of the city, saying, Thus it shall be to every man whom the king honors.
+- fresh: and let one of the king's glorious friends give it, and let him robe the man whom the king loves and lift him upon the horse and proclaim through the broad place of the city, saying, Thus it shall be to every man whom the king honors.
 - brenton: [missing]
 
 ### Esther 6:10
@@ -113550,7 +113550,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Aman took the robe and the horse and robed Mordecai and lifted him upon the horse and went through broad place of the city and proclaimed, saying, Thus it shall be to every man whom the king wishes to honor.
+- fresh: And Aman took the robe and the horse and robed Mordecai and lifted him upon the horse and went through the broad place of the city and proclaimed, saying, Thus it shall be to every man whom the king wishes to honor.
 - brenton: [missing]
 
 ### Esther 6:12
@@ -113775,7 +113775,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: on one day in all kingdom of Artaxerxes, on thirteenth of the twelfth month, which is Adar.
+- fresh: on one day in all kingdom of Artaxerxes, on the thirteenth of the twelfth month, which is Adar.
 - brenton: [missing]
 
 ### Esther 8:13
@@ -113829,7 +113829,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For in the twelfth month, on thirteenth of the month, which is Adar, the letters written by the king were at hand.
+- fresh: For in the twelfth month, on the thirteenth of the month, which is Adar, the letters written by the king were at hand.
 - brenton: [missing]
 
 ### Esther 9:2
@@ -113991,7 +113991,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Mordecai wrote these words into a book and sent to the Jews, as many as were in kingdom of Artaxerxes, both near and far,
+- fresh: And Mordecai wrote these words into a book and sent to the Jews, as many as were in the kingdom of Artaxerxes, both near and far,
 - brenton: [missing]
 
 ### Esther 9:21
@@ -114108,7 +114108,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his strength and bravery and the wealth and glory of his kingdom, behold, these are written in book of kings of Persia and Media for remembrance.
+- fresh: And his strength and bravery and the wealth and glory of his kingdom, behold, these are written in the book of kings of Persia and Media for remembrance.
 - brenton: [missing]
 
 ### Esther 10:3
@@ -114308,7 +114308,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Naked I came out from womb of my mother, naked also I will go away there. The Lord gave, the Lord took away. As it seemed good to the Lord, so also it came to pass. Let the name of the Lord be blessed.
+- fresh: Naked I came out from the womb of my mother, naked also I will go away there. The Lord gave, the Lord took away. As it seemed good to the Lord, so also it came to pass. Let the name of the Lord be blessed.
 - brenton: and said, I myself came forth naked from my mother's womb, and naked shall I return thither: the Lord gave, the Lord has taken away: as it seemed good to the Lord, so has it come to pass; blessed be the name of the Lord.
 
 ### Job 1:22
@@ -114578,7 +114578,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: or like miscarriage coming out from womb of a mother, or like infants who never saw light.
+- fresh: or like miscarriage coming out from the womb of a mother, or like infants who never saw light.
 - brenton: or I should have been as an untimely birth proceeding from his mother's womb, or as infants who never saw light.
 
 ### Job 3:17
@@ -114749,7 +114749,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By command of the Lord they will perish, and by breath of his wrath they will be wiped out.
+- fresh: By the command of the Lord they will perish, and by breath of his wrath they will be wiped out.
 - brenton: They shall perish by the command of the Lord, and shall be utterly consumed by the breath of his wrath.
 
 ### Job 4:10
@@ -114839,7 +114839,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then those dwelling in houses of clay, from which we also are from the same clay, he struck like a moth.
+- fresh: then those dwelling in the houses of clay, from which we also are from the same clay, he struck like a moth.
 - brenton: But as for them that dwell in houses of clay, of whom we also are formed of the same clay, he smites them like a moth.
 
 ### Job 4:20
@@ -114893,7 +114893,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let their sons be far from deliverance, and let them be beaten at doors of inferiors, and there will be no one rescuing.
+- fresh: Let their sons be far from deliverance, and let them be beaten at the doors of inferiors, and there will be no one rescuing.
 - brenton: Let their children be far from safety, and let them be crushed at the doors of vile men, and let there be no deliverer.
 
 ### Job 5:5
@@ -114992,7 +114992,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But let the weak perish in war, and let the powerless come out from hand of the mighty.
+- fresh: But let the weak perish in war, and let the powerless come out from the hand of the mighty.
 - brenton: and let them perish in war, and let the weak escape from the hand of the mighty.
 
 ### Job 5:16
@@ -115037,7 +115037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In famine he will rescue you from death, and in war he will free you from hand of iron.
+- fresh: In famine he will rescue you from death, and in war he will free you from the hand of iron.
 - brenton: In famine he shall deliver thee from death: and in war he shall free thee from the power of the sword.
 
 ### Job 5:21
@@ -115307,7 +115307,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: So as to save me from enemies, or rescue me from hand of rulers?
+- fresh: So as to save me from enemies, or rescue me from the hand of rulers?
 - brenton: to deliver me from enemies, or to rescue me from the hand of the mighty ones?
 
 ### Job 6:24
@@ -115595,7 +115595,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If your sons sinned before him, he sent them away in hand of their lawlessness.
+- fresh: If your sons sinned before him, he sent them away in the hand of their lawlessness.
 - brenton: If thy sons have sinned before him, he has cast them away because of their transgression.
 
 ### Job 8:5
@@ -115973,7 +115973,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For earth is given into hands of ungodly; he covers faces of its judges. But if not he, who is it?
+- fresh: For earth is given into the hands of ungodly; he covers faces of its judges. But if not he, who is it?
 - brenton: For they are delivered into the hands of the unrighteous man: he covers the faces of the judges of the earth: but if it be not he, who is it?
 
 ### Job 9:25
@@ -116099,7 +116099,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Is it good to you if I act unjustly, that you reject works of your hands, but give heed to counsel of ungodly?
+- fresh: Is it good to you if I act unjustly, that you reject works of your hands, but give heed to the counsel of ungodly?
 - brenton: Is it good before thee if I be unrighteous? for thou hast disowned the work of thy hands, and attended to the counsel of the ungodly.
 
 ### Job 10:4
@@ -116261,7 +116261,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: before I go from where I will not return, into land dark and gloomy,
+- fresh: before I go from where I will not return, into a dark and gloomy land,
 - brenton: before I go whence I shall not return, to a land of darkness and gloominess;
 
 ### Job 10:22
@@ -116270,7 +116270,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: into land of eternal darkness, where there is no light, nor seeing of life among mortals.
+- fresh: into the land of eternal darkness, where there is no light, nor seeing of life among mortals.
 - brenton: to a land of perpetual darkness, where there is no light, neither can any one see the life of mortals.
 
 ### Job 11:1
@@ -116333,7 +116333,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will you find track of the Lord, or reach to ends of what Almighty made?
+- fresh: Will you find track of the Lord, or reach to the ends of what Almighty made?
 - brenton: Wilt thou find out the traces of the Lord? or hast thou come to the end of that which the Almighty has made?
 
 ### Job 11:8
@@ -116729,7 +116729,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear correction of my mouth, and give attention to judgment of my lips.
+- fresh: Hear correction of my mouth, and give attention to the judgment of my lips.
 - brenton: But hear ye the reasoning of my mouth, and attend to the judgment of my lips.
 
 ### Job 13:7
@@ -117170,7 +117170,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You are guilty by words of your mouth, nor did you discern words of mighty men.
+- fresh: You are guilty by the words of your mouth, nor did you discern words of mighty men.
 - brenton: Thou art guilty by the words of thy mouth, neither hast thou discerned the words of the mighty.
 
 ### Job 15:6
@@ -117323,7 +117323,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let him not believe he will turn back from darkness, for he is already appointed into hands of iron.
+- fresh: Let him not believe he will turn back from darkness, for he is already appointed into the hands of iron.
 - brenton: Let him not trust that he shall return from darkness, for he has been already made over to the power of the sword.
 
 ### Job 15:23
@@ -117539,7 +117539,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For the Lord handed me over into hands of unjust one, and threw me upon ungodly men.
+- fresh: For the Lord handed me over into the hands of unjust one, and threw me upon ungodly men.
 - brenton: For the Lord has delivered me into the hands of unrighteous men, and thrown me upon the ungodly.
 
 ### Job 16:12
@@ -117746,7 +117746,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They turned night into day; light is near from face of darkness.
+- fresh: They turned night into day; light is near from the face of darkness.
 - brenton: I have turned the night into day: the light is short because of darkness.
 
 ### Job 17:13
@@ -118448,7 +118448,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will not be saved from hand of iron; bronze bow will wound him.
+- fresh: And he will not be saved from the hand of iron; bronze bow will wound him.
 - brenton: And he shall by no means escape from the power of the sword; let the brazen bow wound him.
 
 ### Job 20:25
@@ -118601,7 +118601,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Taking up psaltery and harp, they rejoice at sound of song.
+- fresh: Taking up psaltery and harp, they rejoice at the sound of song.
 - brenton: and they rejoice at the voice of a song.
 
 ### Job 21:13
@@ -118700,7 +118700,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This man will die in strength of his simplicity, altogether prosperous and flourishing.
+- fresh: This man will die in the strength of his simplicity, altogether prosperous and flourishing.
 - brenton: One shall die in his perfect strength, and wholly at ease and prosperous;
 
 ### Job 21:24
@@ -118763,7 +118763,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For wicked man is spared in day of destruction; they will be led away in day of his wrath.
+- fresh: For wicked man is spared in the day of destruction; they will be led away in the day of his wrath.
 - brenton: For the wicked hastens to the day of destruction: they shall be led away for the day of his vengeance.
 
 ### Job 21:31
@@ -119294,7 +119294,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They snatched orphan from breast, and humbled one who had fallen out.
+- fresh: They snatched orphan from the breast, and humbled one who had fallen out.
 - brenton: They have snatched the fatherless from the breast, and have afflicted the outcast.
 
 ### Job 24:10
@@ -119375,7 +119375,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He is light upon face of water; let their portion be cursed upon earth.
+- fresh: He is light upon the face of water; let their portion be cursed upon earth.
 - brenton: He is swift on the face of the water: let his portion be cursed on the earth; and let their plants be laid bare.
 
 ### Job 24:19
@@ -119582,7 +119582,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He drew boundary by decree upon face of water, until completion of light with darkness.
+- fresh: He drew boundary by decree upon the face of water, until completion of light with darkness.
 - brenton: He has encompassed the face of the water by an appointed ordinance, until the end of light and darkness.
 
 ### Job 26:11
@@ -120014,7 +120014,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: It escaped every man and was hidden from birds of heaven.
+- fresh: It escaped every man and was hidden from the birds of heaven.
 - brenton: It has escaped the notice of every man, and has been hidden from the birds of the sky.
 
 ### Job 28:22
@@ -120185,7 +120185,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because I rescued poor man from hand of mighty man, and I helped orphan who had no helper.
+- fresh: because I rescued poor man from the hand of mighty man, and I helped orphan who had no helper.
 - brenton: For I saved the poor out of the hand of the oppressor, and helped the fatherless who had no helper.
 
 ### Job 29:13
@@ -120662,7 +120662,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If my heart followed after wife of another man, and if I sat in ambush at her doors,
+- fresh: If my heart followed after the wife of another man, and if I sat in ambush at her doors,
 - brenton: If my heart has gone forth after another man's wife, and if I laid wait at her doors;
 
 ### Job 31:10
@@ -120959,7 +120959,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elihu son of Barachel the Buzite of kin of Ram from country of Uz was angered; and against Job he was greatly angered because he declared himself righteous before the Lord.
+- fresh: And Elihu son of Barachel the Buzite of kin of Ram from the country of Uz was angered; and against Job he was greatly angered because he declared himself righteous before the Lord.
 - brenton: Then Elius the son of Barachiel, the Buzite, of the kindred of Ram, of the country of Ausis, was angered: and he was very angry with Job, because he justified himself before the Lord.
 
 ### Job 32:3
@@ -120986,7 +120986,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elihu saw that there was no answer in mouth of the three men, and his wrath became angry.
+- fresh: And Elihu saw that there was no answer in the mouth of the three men, and his wrath became angry.
 - brenton: And Elius saw that there was no answer in the mouth of the three men; and he was angered in his wrath.
 
 ### Job 32:6
@@ -121535,7 +121535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But he repays man according to what each does, and in path of man he will find him.
+- fresh: But he repays man according to what each does, and in the path of man he will find him.
 - brenton: Yea, he renders to a man accordingly as each of them does, and in a man's path he will find him.
 
 ### Job 34:12
@@ -121580,7 +121580,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But if not, take warning; hear these things; give ear to voice of words.
+- fresh: But if not, take warning; hear these things; give ear to the voice of words.
 - brenton: Take heed lest he rebuke thee: hear this, hearken to the voice of words.
 
 ### Job 34:17
@@ -121868,7 +121868,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: distinguishing me from beasts of earth and from birds of heaven?
+- fresh: distinguishing me from beasts of earth and from the birds of heaven?
 - brenton: who makes me to differ from the four-footed beasts of the earth, and from the birds of the sky?
 
 ### Job 35:12
@@ -121958,7 +121958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Know that the Lord will by no means reject blameless one, mighty in strength of heart.
+- fresh: Know that the Lord will by no means reject blameless one, mighty in the strength of heart.
 - brenton: But know that the Lord will not cast off an innocent man: being mighty in strength of wisdom,
 
 ### Job 36:6
@@ -122237,7 +122237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Under whole heaven is his rule, and his light upon wings of earth.
+- fresh: Under whole heaven is his rule, and his light upon the wings of earth.
 - brenton: His dominion is under the whole heaven, and his light is at the extremities of the earth.
 
 ### Job 37:4
@@ -122246,7 +122246,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: After him voice will roar; he will thunder with voice of his arrogance, and he will not exchange them when he hears his voice.
+- fresh: After him voice will roar; he will thunder with the voice of his arrogance, and he will not exchange them when he hears his voice.
 - brenton: After him shall be a cry with a loud voice; he shall thunder with the voice of his excellency, yet he shall not cause men to pass away, for one shall hear his voice.
 
 ### Job 37:5
@@ -122498,7 +122498,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I fenced in sea with gates when it rushed out, coming forth from womb of its mother,
+- fresh: And I fenced in sea with gates when it rushed out, coming forth from the womb of its mother,
 - brenton: And I shut up the sea with gates, when it rushed out, coming forth out of its mother's womb.
 
 ### Job 38:9
@@ -123398,7 +123398,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will uncover face of its clothing? And who would enter fold of its breastplate?
+- fresh: Who will uncover the face of its clothing? And who would enter fold of its breastplate?
 - brenton: Who will open the face of his garment? and who can enter within the fold of his breast-plate?
 
 ### Job 41:6
@@ -123740,7 +123740,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from Syriac book, dwelt in land Uz on borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from country of Temanite; after him Hadad son of Bedad, who cut down Midian in plain of Moab, and name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
+- fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from Syriac book, dwelt in land Uz on the borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from the country of Temanite; after him Hadad son of Bedad, who cut down Midian in the plain of Moab, and name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
 - brenton: And Job died, an old man and full of days:
 
 ## Psalms
@@ -123751,7 +123751,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is the man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
+- fresh: Blessed is the man who did not walk in the counsel of ungodly men, and did not stand in the way of sinners, and did not sit upon the seat of pestilent men,
 - brenton: Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of evil men.
 
 ### Psalms 1:2
@@ -123787,7 +123787,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this ungodly men will not stand in judgment, nor sinners in counsel of righteous men.
+- fresh: Because of this ungodly men will not stand in judgment, nor sinners in the counsel of righteous men.
 - brenton: Therefore the ungodly shall not rise in judgment, nor sinners in the counsel of the just.
 
 ### Psalms 1:6
@@ -123913,7 +123913,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of David, when he fled from face of Absalom his son.
+- fresh: Psalm of David, when he fled from the face of Absalom his son.
 - brenton: A Psalm of David, when he fled from the presence of his son Abessalom.
 
 ### Psalms 3:2
@@ -124093,7 +124093,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Attend to voice of my petition, my King and my God, because to you I will pray, Lord.
+- fresh: Attend to the voice of my petition, my King and my God, because to you I will pray, Lord.
 - brenton: Attend to the voice of my supplication, my King, and my God: for to thee, O Lord, will I pray.
 
 ### Psalms 5:4
@@ -124138,7 +124138,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I, in multitude of your mercy, will enter into your house; I will worship toward your holy temple in your fear.
+- fresh: But I, in the multitude of your mercy, will enter into your house; I will worship toward your holy temple in your fear.
 - brenton: But I will enter into thine house in the multitude of thy mercy: I will worship in thy fear toward thy holy temple.
 
 ### Psalms 5:9
@@ -124165,7 +124165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Judge them, God; let them fall from their counsels. According to multitude of their ungodliness cast them out, because they embittered you, Lord.
+- fresh: Judge them, God; let them fall from their counsels. According to the multitude of their ungodliness cast them out, because they embittered you, Lord.
 - brenton: Judge them, O God; let them fail of their counsels: cast them out according to the abundance of their ungodliness; for they have provoked thee, O Lord.
 
 ### Psalms 5:12
@@ -124462,7 +124462,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, our Lord, how wondrous your name in all earth, because your magnificence was lifted above heavens.
+- fresh: Lord, our Lord, how wondrous your name in all the earth, because your magnificence was lifted above heavens.
 - brenton: O Lord, our Lord, how wonderful is thy name in all the earth! for thy magnificence is exalted above the heavens.
 
 ### Psalms 8:3
@@ -124507,7 +124507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you set him over works of your hands; all things you subjected under his feet:
+- fresh: And you set him over the works of your hands; all things you subjected under his feet:
 - brenton: and thou hast set him over the works of thy hands: thou hast put all things under his feet:
 
 ### Psalms 8:8
@@ -124534,7 +124534,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, our Lord, how wondrous your name in all earth.
+- fresh: Lord, our Lord, how wondrous your name in all the earth.
 - brenton: O Lord our Lord, how wonderful is thy name in all the earth!
 
 ### Psalms 9:1
@@ -124669,7 +124669,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: so that I may declare all your praises in gates of daughter of Zion. I will rejoice in your salvation.
+- fresh: so that I may declare all your praises in the gates of daughter of Zion. I will rejoice in your salvation.
 - brenton: that I may declare all thy praises in the gates of the daughter of Sion: I will exult in thy salvation.
 
 ### Psalms 9:16
@@ -124687,7 +124687,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is known, making judgments; in works of his hands sinner was caught. Song of interlude.
+- fresh: The Lord is known, making judgments; in the works of his hands sinner was caught. Song of interlude.
 - brenton: The Lord is known as executing judgments: the sinner is taken in the works of his hands. A song of Pause.
 
 ### Psalms 9:18
@@ -124759,7 +124759,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sinner provoked Lord; according to multitude of his anger he will not seek him. God is not before him.
+- fresh: Sinner provoked Lord; according to the multitude of his anger he will not seek him. God is not before him.
 - brenton: The sinner has provoked the Lord: according to the abundance of his pride he will not seek after him: God is not before him.
 
 ### Psalms 9:26
@@ -124966,7 +124966,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Save me, Lord, because holy man failed, because truths were diminished from sons of men.
+- fresh: Save me, Lord, because holy man failed, because truths were diminished from the sons of men.
 - brenton: Save me, O Lord; for the godly man has failed; for truth is diminished from among the children of men.
 
 ### Psalms 11:3
@@ -125101,7 +125101,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord looked down from heaven upon sons of men to see if there is one understanding or seeking God.
+- fresh: The Lord looked down from heaven upon the sons of men to see if there is one understanding or seeking God.
 - brenton: The Lord looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.
 
 ### Psalms 13:3
@@ -125362,7 +125362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Guard me as apple of eye; in shelter of your wings you will cover me
+- fresh: Guard me as apple of eye; in the shelter of your wings you will cover me
 - brenton: Keep me as the apple of the eye from those that resist thy right hand: thou shalt screen me by the covering of thy wings,
 
 ### Psalms 16:9
@@ -125371,7 +125371,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from face of ungodly men who distressed me. My enemies enclosed my soul.
+- fresh: from the face of ungodly men who distressed me. My enemies enclosed my soul.
 - brenton: from the face of the ungodly that have afflicted me: mine enemies have compassed about my soul.
 
 ### Psalms 16:10
@@ -125434,7 +125434,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For end. To servant of the Lord, David, what he spoke to the Lord, words of this song, in day when the Lord rescued him from hand of all his enemies and from hand of Saul.
+- fresh: For end. To the servant of the Lord, David, what he spoke to the Lord, words of this song, in day when the Lord rescued him from the hand of all his enemies and from the hand of Saul.
 - brenton: For the end, a Psalm of David the servant of the Lord; the words which he spoke to the Lord, even the words of this Song, in the day in which the Lord delivered him out of the hand of all his enemies, and out of the hand of Saul: and he said:
 
 ### Psalms 17:2
@@ -125524,7 +125524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he mounted cheroub and flew; he flew upon wings of winds.
+- fresh: And he mounted cheroub and flew; he flew upon the wings of winds.
 - brenton: And he mounted on cherubs and flew: he flew on the wings of winds.
 
 ### Psalms 17:12
@@ -125533,7 +125533,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made darkness his hiding place; around him his tent, dark water in clouds of air.
+- fresh: And he made darkness his hiding place; around him his tent, dark water in the clouds of air.
 - brenton: And he made darkness his secret place: round about him was his tabernacle, even dark water in the clouds of the air.
 
 ### Psalms 17:13
@@ -125596,7 +125596,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They came before me in day of my affliction, and the Lord became my support.
+- fresh: They came before me in the day of my affliction, and the Lord became my support.
 - brenton: They prevented me in the day of mine affliction: but the Lord was my stay against them.
 
 ### Psalms 17:20
@@ -125614,7 +125614,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will repay me according to my righteousness, and according to purity of my hands he will repay me,
+- fresh: And the Lord will repay me according to my righteousness, and according to the purity of my hands he will repay me,
 - brenton: And the Lord will recompense me according to my righteousness; even according to the purity of my hands will he recompense me.
 
 ### Psalms 17:22
@@ -125650,7 +125650,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will repay me according to my righteousness and according to purity of my hands before his eyes.
+- fresh: And the Lord will repay me according to my righteousness and according to the purity of my hands before his eyes.
 - brenton: And the Lord shall recompense me according to my righteousness, and according to the purity of my hands before his eyes.
 
 ### Psalms 17:26
@@ -125929,7 +125929,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Into all earth their sound went out, and to ends of inhabited world their words. In sun he set his tent.
+- fresh: Into all the earth their sound went out, and to the ends of inhabited world their words. In sun he set his tent.
 - brenton: Their voice is gone out into all the earth, and their words to the ends of the world.
 
 ### Psalms 18:6
@@ -125947,7 +125947,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From edge of heaven is his going out, and his return to edge of heaven, and there is none who will hide from his heat.
+- fresh: From the edge of heaven is his going out, and his return to edge of heaven, and there is none who will hide from his heat.
 - brenton: His going forth is from the extremity of heaven, and his circuit to the other end of heaven: and no one shall be hidden from his heat.
 
 ### Psalms 18:8
@@ -126037,7 +126037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May the Lord hear you in day of affliction; may name of God of Jacob defend you.
+- fresh: May the Lord hear you in the day of affliction; may name of God of Jacob defend you.
 - brenton: The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee.
 
 ### Psalms 19:3
@@ -126073,7 +126073,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: We will rejoice in your salvation, and in name of our God we will be magnified. May the Lord fulfill all your requests.
+- fresh: We will rejoice in your salvation, and in the name of our God we will be magnified. May the Lord fulfill all your requests.
 - brenton: We will exult in thy salvation, and in the name of our God shall we be magnified: the Lord fulfil all thy petitions.
 
 ### Psalms 19:7
@@ -126082,7 +126082,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in acts of power.
+- fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in the acts of power.
 - brenton: Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.
 
 ### Psalms 19:8
@@ -126181,7 +126181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because king hopes upon the Lord, and in mercy of Most High he will by no means be shaken.
+- fresh: Because king hopes upon the Lord, and in the mercy of Most High he will by no means be shaken.
 - brenton: For the king trusts in the Lord, and through the mercy of the Highest he shall not be moved.
 
 ### Psalms 20:9
@@ -126199,7 +126199,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will set them like furnace of fire in time of your face; Lord in his anger will trouble them, and fire will devour them.
+- fresh: You will set them like furnace of fire in the time of your face; Lord in his anger will trouble them, and fire will devour them.
 - brenton: Thou shalt make them as a fiery oven at the time of thy presence: the Lord shall trouble them in his anger, and fire shall devour them.
 
 ### Psalms 20:11
@@ -126208,7 +126208,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their fruit from earth you will destroy, and their seed from sons of men,
+- fresh: Their fruit from earth you will destroy, and their seed from the sons of men,
 - brenton: Thou shalt destroy their fruit from the earth, and their seed from among the sons of men.
 
 ### Psalms 20:12
@@ -126325,7 +126325,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you are one drawing me out from womb, my hope from breasts of my mother.
+- fresh: Because you are one drawing me out from womb, my hope from the breasts of my mother.
 - brenton: For thou art he that drew me out of the womb; my hope from my mother's breasts.
 
 ### Psalms 21:11
@@ -126334,7 +126334,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon you I was cast from womb; from belly of my mother you are my God.
+- fresh: Upon you I was cast from womb; from the belly of my mother you are my God.
 - brenton: I was cast on thee from the womb: thou art my God from my mother's belly.
 
 ### Psalms 21:12
@@ -126424,7 +126424,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rescue my soul from sword, and my only one from hand of dog.
+- fresh: Rescue my soul from sword, and my only one from the hand of dog.
 - brenton: Deliver my soul from the sword; my only-begotten one from the power of the dog.
 
 ### Psalms 21:22
@@ -126577,7 +126577,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your mercy will pursue me all days of my life, and my dwelling in the house of the Lord to length of days.
+- fresh: And your mercy will pursue me all days of my life, and my dwelling in the house of the Lord to the length of days.
 - brenton: Thy mercy also shall follow me all the days of my life: and my dwelling shall be in the house of the Lord for a very long time.
 
 ### Psalms 23:1
@@ -126604,7 +126604,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will go up to mountain of the Lord, and who will stand in his holy place?
+- fresh: Who will go up to the mountain of the Lord, and who will stand in his holy place?
 - brenton: Who shall go up to the mountain of the Lord, and who shall stand in his holy place?
 
 ### Psalms 23:4
@@ -126901,7 +126901,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I did not sit with assembly of vanity, and with lawless men I will by no means enter.
+- fresh: I did not sit with the assembly of vanity, and with lawless men I will by no means enter.
 - brenton: I have not sat with the council of vanity, and will in nowise enter in with transgressors.
 
 ### Psalms 25:5
@@ -126928,7 +126928,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to hear voice of praise and recount all your wondrous deeds.
+- fresh: to hear the voice of praise and recount all your wondrous deeds.
 - brenton: to hear the voice of praise, and to declare all thy wonderful works.
 
 ### Psalms 25:8
@@ -127018,7 +127018,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he hid me in tent in day of my evils; he sheltered me in hidden place of his tent; on rock he lifted me up.
+- fresh: Because he hid me in tent in the day of my evils; he sheltered me in the hidden place of his tent; on rock he lifted me up.
 - brenton: For in the day of mine afflictions he hid me in his tabernacle: he sheltered me in the secret of his tabernacle; he set me up on a rock.
 
 ### Psalms 26:6
@@ -127135,7 +127135,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Give to them according to their works and according to evil of their pursuits; according to works of their hands give to them; repay to them their repayment.
+- fresh: Give to them according to their works and according to evil of their pursuits; according to the works of their hands give to them; repay to them their repayment.
 - brenton: Give them according to their works, and according to the wickedness of their devices: give them according to the works of their hands; render their recompence unto them.
 
 ### Psalms 27:5
@@ -127540,7 +127540,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My times in your hands. Rescue me from hand of my enemies and from those pursuing me.
+- fresh: My times in your hands. Rescue me from the hand of my enemies and from those pursuing me.
 - brenton: My lots are in thy hands: deliver me from the hand of mine enemies,
 
 ### Psalms 30:17
@@ -127576,7 +127576,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How much the multitude of your goodness, Lord, which you hid for those fearing you; you worked it out for those hoping upon you before sons of men.
+- fresh: How much the multitude of your goodness, Lord, which you hid for those fearing you; you worked it out for those hoping upon you before the sons of men.
 - brenton: How abundant is the multitude of thy goodness, O Lord, which thou hast laid up for them that fear thee! thou hast wrought it out for them that hope on thee, in the presence of the sons of men.
 
 ### Psalms 30:21
@@ -127585,7 +127585,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will hide them in hidden place of your face from disturbance of men; you will shelter them in tent from contradiction of tongues.
+- fresh: You will hide them in the hidden place of your face from disturbance of men; you will shelter them in tent from contradiction of tongues.
 - brenton: Thou wilt hide them in the secret of thy presence from the vexation of man: thou wilt screen them in a tabernacle from the contradiction of tongues.
 
 ### Psalms 30:22
@@ -127594,7 +127594,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is the Lord, because he made his mercy wondrous in city of enclosure.
+- fresh: Blessed is the Lord, because he made his mercy wondrous in the city of enclosure.
 - brenton: Blessed be the Lord: for he has magnified his mercy in a fortified city.
 
 ### Psalms 30:23
@@ -127603,7 +127603,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I said in my ecstasy, So then I am cast away from face of your eyes. Because of this you heard voice of my petition when I cried out to you.
+- fresh: But I said in my ecstasy, So then I am cast away from the face of your eyes. Because of this you heard voice of my petition when I cried out to you.
 - brenton: But I said in my extreme fear, I am cast out from the sight of thine eyes: therefore thou didst hearken, O Lord, to the voice of my supplication when I cried to thee.
 
 ### Psalms 30:24
@@ -127774,7 +127774,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By the word of the Lord heavens were made firm, and by spirit of his mouth all their power.
+- fresh: By the word of the Lord heavens were made firm, and by the spirit of his mouth all their power.
 - brenton: By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.
 
 ### Psalms 32:7
@@ -127792,7 +127792,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all earth fear Lord, and from him let all dwelling inhabited world be shaken,
+- fresh: Let all the earth fear Lord, and from him let all dwelling inhabited world be shaken,
 - brenton: Let all the earth fear the Lord; and let all that dwell in the world be moved because of him.
 
 ### Psalms 32:9
@@ -127873,7 +127873,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Horse false thing for salvation, and in multitude of its power it will not be saved.
+- fresh: Horse false thing for salvation, and in the multitude of its power it will not be saved.
 - brenton: A horse is vain for safety; neither shall he be delivered by the greatness of his power.
 
 ### Psalms 32:18
@@ -128215,7 +128215,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All my bones will say, Lord, who like you, rescuing poor man from hand of those stronger than he, and poor and needy from those plundering him?
+- fresh: All my bones will say, Lord, who like you, rescuing poor man from the hand of those stronger than he, and poor and needy from those plundering him?
 - brenton: All my bones shall say, O Lord, who is like to thee? delivering the poor out of the hand of them that are stronger than he, yea, the poor and needy one from them that spoil him.
 
 ### Psalms 34:11
@@ -128386,7 +128386,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For end. To servant of the Lord, David.
+- fresh: For end. To the servant of the Lord, David.
 - brenton: For the end, by David the servant of the Lord.
 
 ### Psalms 35:2
@@ -128449,7 +128449,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How you multiplied your mercy, God; but sons of men will hope in shelter of your wings.
+- fresh: How you multiplied your mercy, God; but sons of men will hope in the shelter of your wings.
 - brenton: How hast thou multiplied thy mercy, O God! so the children of men shall trust in the shelter of thy wings.
 
 ### Psalms 35:9
@@ -128593,7 +128593,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But meek ones will inherit earth and take delight in abundance of peace.
+- fresh: But meek ones will inherit earth and take delight in the abundance of peace.
 - brenton: But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
 
 ### Psalms 36:12
@@ -128845,7 +128845,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But salvation of righteous ones from the Lord, and he is their defender in time of affliction.
+- fresh: But salvation of righteous ones from the Lord, and he is their defender in the time of affliction.
 - brenton: But the salvation of the righteous is of the Lord; and he is their defender in the time of affliction.
 
 ### Psalms 36:40
@@ -128890,7 +128890,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no healing in my flesh from face of your wrath; no peace to my bones from face of my sins.
+- fresh: There is no healing in my flesh from the face of your wrath; no peace to my bones from the face of my sins.
 - brenton: For there is no health in my flesh because of thine anger; there is no peace to my bones because of my sins.
 
 ### Psalms 37:5
@@ -128908,7 +128908,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My wounds stank and rotted from face of my foolishness.
+- fresh: My wounds stank and rotted from the face of my foolishness.
 - brenton: My bruises have become noisome and corrupt, because of my foolishness.
 
 ### Psalms 37:7
@@ -129376,7 +129376,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord guard him and make him live and bless him in earth and not hand him over into hands of his enemy.
+- fresh: The Lord guard him and make him live and bless him in earth and not hand him over into the hands of his enemy.
 - brenton: May the Lord preserve him and keep him alive, and bless him on the earth, and not deliver him into the hands of his enemy.
 
 ### Psalms 40:4
@@ -129385,7 +129385,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord help him upon bed of his pain; you turned all his bed in his sickness.
+- fresh: The Lord help him upon the bed of his pain; you turned all his bed in his sickness.
 - brenton: May the Lord help him upon the bed of his pain; thou hast made all his bed in his sickness.
 
 ### Psalms 40:5
@@ -129520,7 +129520,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These things I remembered, and I poured out my soul upon me, because I will pass through into place of wondrous tent, as far as house of God, with voice of exultation and confession, sound of festival-keepers.
+- fresh: These things I remembered, and I poured out my soul upon me, because I will pass through into place of wondrous tent, as far as house of God, with the voice of exultation and confession, sound of festival-keepers.
 - brenton: I remembered these things, and poured out my soul in me, for I will go to the place of thy wondrous tabernacle, even to the house of God, with a voice of exultation and thanksgiving and of the sound of those who keep festival.
 
 ### Psalms 41:6
@@ -129538,7 +129538,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Toward myself my soul was troubled; therefore I will remember you from land of Jordan and Hermoniim, from little mountain.
+- fresh: Toward myself my soul was troubled; therefore I will remember you from the land of Jordan and Hermoniim, from little mountain.
 - brenton: O my God, my soul has been troubled within me: therefore will I remember thee from the land of Jordan, and of the Ermonites, from the little hill.
 
 ### Psalms 41:8
@@ -129547,7 +129547,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Abyss calls abyss at sound of your cataracts; all your surges and your waves passed over me.
+- fresh: Abyss calls abyss at the sound of your cataracts; all your surges and your waves passed over me.
 - brenton: Deep calls to deep at the voice of thy cataracts: all thy billows and thy waves have gone over me.
 
 ### Psalms 41:9
@@ -129619,7 +129619,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will go in to altar of God, to God gladdening my youth; I will confess to you with harp, O God, my God.
+- fresh: And I will go in to the altar of God, to God gladdening my youth; I will confess to you with harp, O God, my God.
 - brenton: And I will go in to the altar of God, to God who gladdens my youth: I will give thanks to thee on the harp, O God, my God.
 
 ### Psalms 42:5
@@ -129781,7 +129781,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from voice of reproacher and slanderer, from face of enemy and pursuer.
+- fresh: from the voice of reproacher and slanderer, from the face of enemy and pursuer.
 - brenton: because of the voice of the slanderer and reviler; because of the enemy and avenger.
 
 ### Psalms 43:18
@@ -129925,7 +129925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your arrows sharpened, mighty one; peoples will fall under you, in heart of enemies of king.
+- fresh: Your arrows sharpened, mighty one; peoples will fall under you, in the heart of enemies of king.
 - brenton: Thy weapons are sharpened, Mighty One, (the nations shall fall under thee) they are in the heart of the king's enemies.
 
 ### Psalms 44:7
@@ -129943,7 +129943,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You loved righteousness and hated lawlessness; therefore God, your God, anointed you with oil of exultation beyond your companions.
+- fresh: You loved righteousness and hated lawlessness; therefore God, your God, anointed you with the oil of exultation beyond your companions.
 - brenton: Thou hast loved righteousness, and hated iniquity: therefore God, thy God, has anointed thee with the oil of gladness beyond thy fellows.
 
 ### Psalms 44:9
@@ -130015,7 +130015,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They will be brought in gladness and exultation; they will be led into temple of king.
+- fresh: They will be brought in gladness and exultation; they will be led into the temple of king.
 - brenton: They shall be brought with gladness and exultation: they shall be led into the king's temple.
 
 ### Psalms 44:17
@@ -130024,7 +130024,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In place of your fathers sons were born to you; you will appoint them rulers over all earth.
+- fresh: In place of your fathers sons were born to you; you will appoint them rulers over all the earth.
 - brenton: Instead of thy fathers children are born to thee: thou shalt make them princes over all the earth.
 
 ### Psalms 44:18
@@ -130159,7 +130159,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All nations, clap hands; shout to God with voice of exultation.
+- fresh: All nations, clap hands; shout to God with the voice of exultation.
 - brenton: Clap your hands, all ye nations; shout to God with a voice of exultation.
 
 ### Psalms 46:3
@@ -130168,7 +130168,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord Most High fearful, great king over all earth.
+- fresh: Because the Lord Most High fearful, great king over all the earth.
 - brenton: For the Lord most high is terrible; he is a great king over all the earth.
 
 ### Psalms 46:4
@@ -130213,7 +130213,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because God king of all earth, sing with understanding.
+- fresh: Because God king of all the earth, sing with understanding.
 - brenton: For God is king of all the earth: sing praises with understanding.
 
 ### Psalms 46:9
@@ -130249,7 +130249,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Great is the Lord and greatly praised in city of our God, his holy mountain,
+- fresh: Great is the Lord and greatly praised in the city of our God, his holy mountain,
 - brenton: Great is the Lord, and greatly to be praised in the city of our God, in his holy mountain.
 
 ### Psalms 47:3
@@ -130258,7 +130258,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: well-rooted, joy of all earth. Mounts of Zion, sides of north, city of great king.
+- fresh: well-rooted, joy of all the earth. Mounts of Zion, sides of north, city of great king.
 - brenton: The city of the great King is well planted on the mountains of Sion, with the joy of the whole earth, on the sides of the north.
 
 ### Psalms 47:4
@@ -130312,7 +130312,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As we heard, so we saw in city of the Lord of hosts, in city of our God; God founded her forever. Interlude.
+- fresh: As we heard, so we saw in the city of the Lord of hosts, in the city of our God; God founded her forever. Interlude.
 - brenton: As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God: God has founded it for ever. Pause.
 
 ### Psalms 47:10
@@ -130429,7 +130429,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: those trusting in their strength and boasting in abundance of their wealth.
+- fresh: those trusting in their strength and boasting in the abundance of their wealth.
 - brenton: They that trust in their strength, and boast themselves in the multitude of their wealth—
 
 ### Psalms 48:8
@@ -130510,7 +130510,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But God will redeem my soul from hand of Hades when he receives me. Interlude.
+- fresh: But God will redeem my soul from the hand of Hades when he receives me. Interlude.
 - brenton: But God shall deliver my soul from the power of Hades, when he shall receive me. Pause.
 
 ### Psalms 48:17
@@ -130564,7 +130564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of Asaph. God of gods, Lord, spoke and called earth from rising of sun to its setting.
+- fresh: Psalm of Asaph. God of gods, Lord, spoke and called earth from the rising of sun to its setting.
 - brenton: A Psalm for Asaph.
 
 ### Psalms 49:2
@@ -130690,7 +130690,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And call upon me in day of affliction, and I will deliver you, and you will glorify me. Interlude.
+- fresh: And call upon me in the day of affliction, and I will deliver you, and you will glorify me. Interlude.
 - brenton: And call upon me in the day of affliction; and I will deliver thee, and thou shalt glorify me. Pause.
 
 ### Psalms 49:16
@@ -130789,7 +130789,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Have mercy on me, O God, according to your great mercy, and according to multitude of your compassions blot out my lawlessness.
+- fresh: Have mercy on me, O God, according to your great mercy, and according to the multitude of your compassions blot out my lawlessness.
 - brenton: Have mercy upon me, O God, according to thy great mercy; and according to the multitude of thy compassions blot out my transgression.
 
 ### Psalms 50:4
@@ -131014,7 +131014,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore God will tear you down to end; may he pluck you out and remove you from tent, and your root from land of living. Interlude.
+- fresh: Therefore God will tear you down to end; may he pluck you out and remove you from tent, and your root from the land of living. Interlude.
 - brenton: Therefore may God destroy thee for ever, may he pluck thee up and utterly remove thee from thy dwelling, and thy root from the land of the living. Pause.
 
 ### Psalms 51:8
@@ -131032,7 +131032,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold man who did not make God his helper, but hoped in multitude of his wealth and was strengthened in his vanity.
+- fresh: Behold man who did not make God his helper, but hoped in the multitude of his wealth and was strengthened in his vanity.
 - brenton: Behold the man who made not God his help; but trusted in the abundance of his wealth, and strengthened himself in his vanity.
 
 ### Psalms 51:10
@@ -131041,7 +131041,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I like fruitful olive tree in the house of God; I hoped in mercy of God forever and forever of forever.
+- fresh: But I like fruitful olive tree in the house of God; I hoped in the mercy of God forever and forever of forever.
 - brenton: But I am as a fruitful olive in the house of God: I have trusted in the mercy of God for ever, even for evermore.
 
 ### Psalms 51:11
@@ -131077,7 +131077,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: God looked down from heaven upon sons of men to see whether there is one understanding or seeking God.
+- fresh: God looked down from heaven upon the sons of men to see whether there is one understanding or seeking God.
 - brenton: God looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.
 
 ### Psalms 52:4
@@ -131149,7 +131149,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: O God, hear my prayer; give ear to words of my mouth.
+- fresh: O God, hear my prayer; give ear to the words of my mouth.
 - brenton: O God, hear my prayer; hearken to the words of my mouth.
 
 ### Psalms 53:5
@@ -131230,7 +131230,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from voice of enemy and from affliction of sinner, because they bent lawlessness upon me and in wrath were enraged against me.
+- fresh: from the voice of enemy and from the affliction of sinner, because they bent lawlessness upon me and in wrath were enraged against me.
 - brenton: because of the voice of the enemy, and because of the oppression of the sinner: for they brought iniquity against me, and were wrathfully angry with me.
 
 ### Psalms 54:5
@@ -131410,7 +131410,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, O God, will bring them down into pit of corruption; men of bloods and deceit will not halve their days, but I will hope upon you, Lord.
+- fresh: But you, O God, will bring them down into the pit of corruption; men of bloods and deceit will not halve their days, but I will hope upon you, Lord.
 - brenton: But thou, O God, shalt bring them down to the pit of destruction; bloody and crafty men shall not live out half their days; but I will hope in thee, O Lord.
 
 ### Psalms 55:1
@@ -131536,7 +131536,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because you rescued my soul from death and my feet from slipping, so that I may be well-pleasing before God in light of living ones.
+- fresh: because you rescued my soul from death and my feet from slipping, so that I may be well-pleasing before God in the light of living ones.
 - brenton: For thou hast delivered my soul from death, and my feet from sliding, that I should be well-pleasing before God in the land of the living.
 
 ### Psalms 56:1
@@ -131545,7 +131545,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For end, do not destroy. Of David, for inscription, when he fled from face of Saul into cave.
+- fresh: For end, do not destroy. Of David, for inscription, when he fled from the face of Saul into cave.
 - brenton: For the end. Destroy not: by David, for a memorial, when he fled from the presence of Saul to the cave.
 
 ### Psalms 56:2
@@ -131554,7 +131554,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Have mercy on me, O God, have mercy on me, because my soul has trusted in you, and in shadow of your wings I will hope until lawlessness passes by.
+- fresh: Have mercy on me, O God, have mercy on me, because my soul has trusted in you, and in the shadow of your wings I will hope until lawlessness passes by.
 - brenton: Have mercy, upon me, O God, have mercy upon me: for my soul has trusted in thee: and in the shadow of thy wings will I hope, until the iniquity have passed away.
 
 ### Psalms 56:3
@@ -131590,7 +131590,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Be exalted above heavens, O God, and over all earth your glory.
+- fresh: Be exalted above heavens, O God, and over all the earth your glory.
 - brenton: Be thou exalted, O God, above the heavens; and thy glory above all the earth.
 
 ### Psalms 56:7
@@ -131644,7 +131644,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Be exalted above heavens, O God, and over all earth your glory.
+- fresh: Be exalted above heavens, O God, and over all the earth your glory.
 - brenton: Be thou exalted, O God, above the heavens; and thy glory above all the earth.
 
 ### Psalms 57:1
@@ -131689,7 +131689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their fury according to likeness of serpent, like deaf asp stopping its ears,
+- fresh: Their fury according to the likeness of serpent, like deaf asp stopping its ears,
 - brenton: Their venom is like that of a serpent; as that of a deaf asp, and that stops her ears;
 
 ### Psalms 57:6
@@ -131743,7 +131743,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Righteous one will rejoice when he sees vengeance of ungodly; he will wash his hands in blood of sinner.
+- fresh: Righteous one will rejoice when he sees vengeance of ungodly; he will wash his hands in the blood of sinner.
 - brenton: The righteous shall rejoice when he sees the vengeance of the ungodly: he shall wash his hands in the blood of the sinner.
 
 ### Psalms 57:12
@@ -131905,7 +131905,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I will sing of your power and exult in morning in your mercy, because you became my supporter and refuge in day of my affliction.
+- fresh: But I will sing of your power and exult in morning in your mercy, because you became my supporter and refuge in the day of my affliction.
 - brenton: But I will sing to thy strength, and in the morning will I exult in thy mercy; for thou hast been my supporter, and my refuge in the day of mine affliction.
 
 ### Psalms 58:18
@@ -131968,7 +131968,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You gave signal to those fearing you, to flee from face of bow. Interlude.
+- fresh: You gave signal to those fearing you, to flee from the face of bow. Interlude.
 - brenton: Thou hast given a token to them that fear thee, that they might flee from the bow. Pause.
 
 ### Psalms 59:7
@@ -132076,7 +132076,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You guided me, because you became my hope, tower of strength from face of enemy.
+- fresh: You guided me, because you became my hope, tower of strength from the face of enemy.
 - brenton: because thou wert my hope, a tower of strength from the face of the enemy.
 
 ### Psalms 60:5
@@ -132310,7 +132310,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you became my helper, and in shelter of your wings I will exult.
+- fresh: Because you became my helper, and in the shelter of your wings I will exult.
 - brenton: For thou hast been my helper, and in the shelter of thy wings will I rejoice.
 
 ### Psalms 62:9
@@ -132337,7 +132337,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They will be handed over into hands of sword; they will be portions of foxes.
+- fresh: They will be handed over into the hands of sword; they will be portions of foxes.
 - brenton: They shall be delivered up to the power of the sword; they shall be portions for foxes.
 
 ### Psalms 62:12
@@ -132373,7 +132373,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You sheltered me from conspiracy of evil-doers, from multitude of workers of lawlessness,
+- fresh: You sheltered me from conspiracy of evil-doers, from the multitude of workers of lawlessness,
 - brenton: Thou hast sheltered me from the conspiracy of them that do wickedly; from the multitude of them that work iniquity;
 
 ### Psalms 63:4
@@ -132580,7 +132580,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For end. Song of psalm of resurrection. Shout to God, all earth.
+- fresh: For end. Song of psalm of resurrection. Shout to God, all the earth.
 - brenton: For the end, a Song of a Psalm of resurrection.
 
 ### Psalms 65:2
@@ -132598,7 +132598,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to God, How fearful your works. In multitude of your power your enemies will lie to you.
+- fresh: Say to God, How fearful your works. In the multitude of your power your enemies will lie to you.
 - brenton: Say unto God, How awful are thy works! through the greatness of thy power thine enemies shall lie to thee.
 
 ### Psalms 65:4
@@ -132607,7 +132607,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all earth worship you and sing to you; let them sing to your name. Interlude.
+- fresh: Let all the earth worship you and sing to you; let them sing to your name. Interlude.
 - brenton: Let all the earth worship thee, and sing to thee; let them sing to thy name. Pause.
 
 ### Psalms 65:5
@@ -132742,7 +132742,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore God heard me; he attended to voice of my supplication.
+- fresh: Therefore God heard me; he attended to the voice of my supplication.
 - brenton: Therefore God has hearkened to me; he has attended to the voice of my prayer.
 
 ### Psalms 65:20
@@ -132850,7 +132850,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As smoke fails, let them fail; as wax melts from face of fire, so let sinners perish from face of God.
+- fresh: As smoke fails, let them fail; as wax melts from the face of fire, so let sinners perish from the face of God.
 - brenton: As smoke vanishes, let them vanish: as wax melts before the fire, so let the sinners perish from before God.
 
 ### Psalms 67:4
@@ -132904,7 +132904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Earth was shaken, for even heavens dripped from face of God, this Sinai, from face of God of Israel.
+- fresh: Earth was shaken, for even heavens dripped from the face of God, this Sinai, from the face of God of Israel.
 - brenton: the earth quaked, yea, the heavens dropped water at the presence of the God of Sina, at the presence of the God of Israel.
 
 ### Psalms 67:10
@@ -133030,7 +133030,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord said, From Bashan I will turn back, I will turn back in depths of sea,
+- fresh: The Lord said, From Bashan I will turn back, I will turn back in the depths of sea,
 - brenton: The Lord said, I will bring again from Basan, I will bring my people again through the depths of the sea.
 
 ### Psalms 67:24
@@ -133066,7 +133066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In assemblies bless God, Lord, from springs of Israel.
+- fresh: In assemblies bless God, Lord, from the springs of Israel.
 - brenton: Praise God in the congregations, the Lord from the fountains of Israel.
 
 ### Psalms 67:28
@@ -133174,7 +133174,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I was stuck in mud of deep, and no standing-place; I came into depths of sea, and storm sank me.
+- fresh: I was stuck in mud of deep, and no standing-place; I came into the depths of sea, and storm sank me.
 - brenton: I am stuck fast in deep mire, and there is no standing: I am come in to the depths of the sea, and a storm has overwhelmed me.
 
 ### Psalms 68:4
@@ -133228,7 +133228,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I became estranged to my brothers and foreign to sons of my mother,
+- fresh: I became estranged to my brothers and foreign to the sons of my mother,
 - brenton: I became strange to my brethren, and a stranger to my mother's children.
 
 ### Psalms 68:10
@@ -133300,7 +133300,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, Lord, because your mercy kind; according to multitude of your compassions look upon me.
+- fresh: Hear me, Lord, because your mercy kind; according to the multitude of your compassions look upon me.
 - brenton: Hear me, O Lord; for thy mercy is good: according to the multitude of thy compassions look upon me.
 
 ### Psalms 68:18
@@ -133570,7 +133570,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My God, rescue me from hand of sinner, from hand of law-breaking and unjust man.
+- fresh: My God, rescue me from the hand of sinner, from the hand of law-breaking and unjust man.
 - brenton: Deliver me, O my God, from the hand of the sinner, from the hand of the transgressor and unjust man.
 
 ### Psalms 70:5
@@ -133588,7 +133588,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On you I was supported from womb; from belly of my mother you my protector; in you my hymn continually.
+- fresh: On you I was supported from womb; from the belly of my mother you my protector; in you my hymn continually.
 - brenton: On thee have I been stayed from the womb: from the belly of my mother thou art my protector: of thee is my praise continually.
 
 ### Psalms 70:7
@@ -133615,7 +133615,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not cast me away in time of old age; when my strength fails, do not forsake me.
+- fresh: Do not cast me away in the time of old age; when my strength fails, do not forsake me.
 - brenton: Cast me not off at the time of old age; forsake me not when my strength fails.
 
 ### Psalms 70:10
@@ -133714,7 +133714,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How many afflictions, many and evil, you showed me; and turning back, you made me live, and from depths of earth again you brought me up.
+- fresh: How many afflictions, many and evil, you showed me; and turning back, you made me live, and from the depths of earth again you brought me up.
 - brenton: What afflictions many and sore hast thou shewed me! yet thou didst turn and quicken me, and broughtest me again from the depths of the earth.
 
 ### Psalms 70:21
@@ -133723,7 +133723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You multiplied your greatness, and turning back you comforted me, and from depths of earth again you brought me up.
+- fresh: You multiplied your greatness, and turning back you comforted me, and from the depths of earth again you brought me up.
 - brenton: Thou didst multiply thy righteousness, and didst turn and comfort me, and broughtest me again out of the depths of the earth.
 
 ### Psalms 70:22
@@ -133822,7 +133822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will rule from sea to sea and from river to ends of inhabited world.
+- fresh: And he will rule from sea to sea and from river to the ends of inhabited world.
 - brenton: And he shall have dominion from sea to sea, and from the river to the ends of the earth.
 
 ### Psalms 71:9
@@ -133858,7 +133858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he rescued poor man from hand of ruler and needy one to whom no helper existed.
+- fresh: Because he rescued poor man from the hand of ruler and needy one to whom no helper existed.
 - brenton: For he has delivered the poor from the oppressor; and the needy who had no helper.
 
 ### Psalms 71:13
@@ -133894,7 +133894,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There will be support in earth on tops of mountains; his fruit will be lifted above Lebanon, and they will flower from city like grass of earth.
+- fresh: There will be support in earth on the tops of mountains; his fruit will be lifted above Lebanon, and they will flower from city like grass of earth.
 - brenton: There shall be an establishment on the earth on the tops of the mountains: the fruit thereof shall be exalted above Libanus, and they of the city shall flourish as grass of the earth.
 
 ### Psalms 71:17
@@ -133921,7 +133921,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And blessed name of his glory forever and forever of forever, and all earth will be filled with his glory. Amen, amen.
+- fresh: And blessed name of his glory forever and forever of forever, and all the earth will be filled with his glory. Amen, amen.
 - brenton: And blessed is his glorious name for ever, even for ever and ever: and all the earth shall be filled with his glory. So be it, so be it.
 
 ### Psalms 71:20
@@ -134182,7 +134182,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But for me, clinging to God good; to place hope in the Lord, to declare all your praises in gates of daughter of Zion.
+- fresh: But for me, clinging to God good; to place hope in the Lord, to declare all your praises in the gates of daughter of Zion.
 - brenton: But it is good for me to cleave close to God, to put my trust in the Lord; that I may proclaim all thy praises in the gates of the daughter of Sion.
 
 ### Psalms 73:1
@@ -134632,7 +134632,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In day of my affliction I sought God; my hands by night before him, and I was not deceived. My soul refused to be comforted.
+- fresh: In the day of my affliction I sought God; my hands by night before him, and I was not deceived. My soul refused to be comforted.
 - brenton: In the day of mine affliction I earnestly sought the Lord; even with my hands by night before him, and I was not deceived; my soul refused to be comforted.
 
 ### Psalms 76:4
@@ -134803,7 +134803,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For understanding. Of Asaph. Attend, my people, to my law; incline your ear to words of my mouth.
+- fresh: For understanding. Of Asaph. Attend, my people, to my law; incline your ear to the words of my mouth.
 - brenton: A Psalm of instruction for Asaph.
 
 ### Psalms 77:2
@@ -134875,7 +134875,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Ephraim, stringing and shooting bows, turned back in day of war.
+- fresh: Sons of Ephraim, stringing and shooting bows, turned back in the day of war.
 - brenton: The children of Ephraim, bending and shooting with the bow, turned back in the day of battle.
 
 ### Psalms 77:10
@@ -134902,7 +134902,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: things he did wondrously before their fathers in the land of Egypt, in plain of Zoan.
+- fresh: things he did wondrously before their fathers in the land of Egypt, in the plain of Zoan.
 - brenton: the miracles which he wrought before their fathers, in the land of Egypt, in the plain of Tanes.
 
 ### Psalms 77:13
@@ -134920,7 +134920,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he guided them in cloud by day and all night in light of fire.
+- fresh: And he guided them in cloud by day and all night in the light of fire.
 - brenton: And he guided them with a cloud by day, and all the night with a light of fire.
 
 ### Psalms 77:15
@@ -135172,7 +135172,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not remember his hand, day when he redeemed them from hand of afflicter,
+- fresh: They did not remember his hand, day when he redeemed them from the hand of afflicter,
 - brenton: They remembered not his hand, the day in which he delivered them from the hand of the oppressor.
 
 ### Psalms 77:43
@@ -135181,7 +135181,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: how he set his signs in Egypt and his wonders in plain of Zoan,
+- fresh: how he set his signs in Egypt and his wonders in the plain of Zoan,
 - brenton: How he had wrought his signs in Egypt, and his wonders in the field of Tanes:
 
 ### Psalms 77:44
@@ -135253,7 +135253,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he struck every firstborn in Egypt, first fruits of their labors in tents of Ham.
+- fresh: And he struck every firstborn in Egypt, first fruits of their labors in the tents of Ham.
 - brenton: and smote every first-born in the land of Egypt; the first-fruits of their labours in the tents of Cham.
 
 ### Psalms 77:52
@@ -135343,7 +135343,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he gave their strength into captivity and their beauty into hand of enemy.
+- fresh: And he gave their strength into captivity and their beauty into the hand of enemy.
 - brenton: And he gave their strength into captivity, and their beauty into the enemy's hand.
 
 ### Psalms 77:62
@@ -135442,7 +135442,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he shepherded them in innocence of his heart and guided them in understandings of his hands.
+- fresh: And he shepherded them in the innocence of his heart and guided them in understandings of his hands.
 - brenton: So he tended them in the innocency of his heart; and guided them by the skilfulness of his hands.
 
 ### Psalms 78:1
@@ -135460,7 +135460,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They set dead bodies of your servants as food to birds of heaven, flesh of your holy ones to beasts of earth.
+- fresh: They set dead bodies of your servants as food to the birds of heaven, flesh of your holy ones to the beasts of earth.
 - brenton: They have given the dead bodies of thy servants to be food for the birds of the sky, the flesh of thy holy ones for the wild beasts of the earth.
 
 ### Psalms 78:3
@@ -135793,7 +135793,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He set it as testimony in Joseph when he went out from land of Egypt; he heard language he did not know.
+- fresh: He set it as testimony in Joseph when he went out from the land of Egypt; he heard language he did not know.
 - brenton: He made it to be a testimony in Joseph, when he came forth out of the land of Egypt: he heard a language which he understood not.
 
 ### Psalms 80:7
@@ -135811,7 +135811,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In affliction you called on me, and I rescued you; I heard you in hidden place of storm; I tested you at water of contradiction. Interlude.
+- fresh: In affliction you called on me, and I rescued you; I heard you in the hidden place of storm; I tested you at the water of contradiction. Interlude.
 - brenton: Thou didst call upon me in trouble, and I delivered thee; I heard thee in the secret place of the storm: I proved thee at the water of Strife. Pause.
 
 ### Psalms 80:9
@@ -135838,7 +135838,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For I am the Lord your God, who brought you up from land of Egypt; widen your mouth, and I will fill it.
+- fresh: For I am the Lord your God, who brought you up from the land of Egypt; widen your mouth, and I will fill it.
 - brenton: For I am the Lord thy God, that brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.
 
 ### Psalms 80:12
@@ -135892,7 +135892,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he fed them from fat of wheat, and from rock he satisfied them with honey.
+- fresh: And he fed them from the fat of wheat, and from rock he satisfied them with honey.
 - brenton: And he fed them with the fat of wheat; and satisfied them with honey out of the rock.
 
 ### Psalms 81:1
@@ -135901,7 +135901,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of Asaph. God stood in gathering of gods, and in midst he judges gods.
+- fresh: Psalm of Asaph. God stood in the gathering of gods, and in midst he judges gods.
 - brenton: A Psalm for Asaph.
 
 ### Psalms 81:2
@@ -135928,7 +135928,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rescue needy one and poor one; deliver from hand of sinner.
+- fresh: Rescue needy one and poor one; deliver from the hand of sinner.
 - brenton: Rescue the needy, and deliver the poor out of the hand of the sinner.
 
 ### Psalms 81:5
@@ -136045,7 +136045,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For Asshur also came along with them; they became support to sons of Lot. Interlude.
+- fresh: For Asshur also came along with them; they became support to the sons of Lot. Interlude.
 - brenton: Yea, Assur too is come with them: they have become a help to the children of Lot. Pause.
 
 ### Psalms 82:10
@@ -136135,7 +136135,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And let them know that your name Lord, you alone Most High over all earth.
+- fresh: And let them know that your name Lord, you alone Most High over all the earth.
 - brenton: And let them know that thy name is Lord; that thou alone art Most High over all the earth.
 
 ### Psalms 83:1
@@ -136198,7 +136198,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: in valley of weeping, into place he appointed; for lawgiver will also give blessings.
+- fresh: in the valley of weeping, into place he appointed; for lawgiver will also give blessings.
 - brenton: the valley of weeping, to the place which he has appointed, for there the law-giver will grant blessings.
 
 ### Psalms 83:8
@@ -136225,7 +136225,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our defender, see, O God, and look upon face of your anointed.
+- fresh: Our defender, see, O God, and look upon the face of your anointed.
 - brenton: Behold, O God our defender, and look upon the face of thine anointed.
 
 ### Psalms 83:11
@@ -136234,7 +136234,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in tents of sinners.
+- fresh: Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
 - brenton: For one day in thy courts is better than thousands. I would rather be an abject in the house of God, than dwell in the tents of sinners.
 
 ### Psalms 83:12
@@ -136288,7 +136288,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You stopped all your anger; you turned back from wrath of your anger.
+- fresh: You stopped all your anger; you turned back from the wrath of your anger.
 - brenton: Thou hast caused all thy wrath to cease: thou hast turned from thy fierce anger.
 
 ### Psalms 84:5
@@ -136432,7 +136432,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Give ear, Lord, to my prayer and attend to voice of my supplication.
+- fresh: Give ear, Lord, to my prayer and attend to the voice of my supplication.
 - brenton: Give ear to my prayer, O Lord; and attend to the voice of my supplication.
 
 ### Psalms 85:7
@@ -136441,7 +136441,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In day of my affliction I cried to you, because you heard me.
+- fresh: In the day of my affliction I cried to you, because you heard me.
 - brenton: In the day of my trouble I cried to thee: for thou didst hear me.
 
 ### Psalms 85:8
@@ -136585,7 +136585,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord will recount in writing of peoples and rulers, these who were born in her. Interlude.
+- fresh: The Lord will recount in the writing of peoples and rulers, these who were born in her. Interlude.
 - brenton: The Lord shall recount it in the writing of the people, and of these princes that were born in her. Pause.
 
 ### Psalms 86:7
@@ -136657,7 +136657,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They set me in lowest pit, in dark places and in shadow of death.
+- fresh: They set me in lowest pit, in dark places and in the shadow of death.
 - brenton: They laid me in the lowest pit, in dark places, and in the shadow of death.
 
 ### Psalms 87:8
@@ -136819,7 +136819,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Heavens will confess your wonders, Lord, and your truth in assembly of holy ones.
+- fresh: Heavens will confess your wonders, Lord, and your truth in the assembly of holy ones.
 - brenton: The heavens shall declare thy wonders, O Lord; and thy truth in the assembly of the saints.
 
 ### Psalms 88:7
@@ -136837,7 +136837,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: God glorified in council of holy ones, great and fearful above all around him.
+- fresh: God glorified in the council of holy ones, great and fearful above all around him.
 - brenton: God is glorified in the council of the saints; great and terrible toward all that are round about him.
 
 ### Psalms 88:9
@@ -136909,7 +136909,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed are the people knowing shout; Lord, in light of your face they will walk.
+- fresh: Blessed are the people knowing shout; Lord, in the light of your face they will walk.
 - brenton: Blessed is the people that knows the joyful sound: they shall walk, O Lord, in the light of thy countenance.
 
 ### Psalms 88:17
@@ -137206,7 +137206,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is man who will live and not see death? Will he rescue his soul from hand of Hades? Interlude.
+- fresh: Who is man who will live and not see death? Will he rescue his soul from the hand of Hades? Interlude.
 - brenton: What man is there who shall live, and not see death? shall any one deliver his soul from the hand of Hades? Pause.
 
 ### Psalms 88:50
@@ -137314,7 +137314,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You set our lawlessnesses before you, our age in light of your face.
+- fresh: You set our lawlessnesses before you, our age in the light of your face.
 - brenton: Thou hast set our transgressions before thee: our age is in the light of thy countenance.
 
 ### Psalms 89:9
@@ -137404,7 +137404,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Praise, song of David. One dwelling in help of Most High will lodge in shelter of God of heaven.
+- fresh: Praise, song of David. One dwelling in help of Most High will lodge in the shelter of God of heaven.
 - brenton: Praise of a Song, by David.
 
 ### Psalms 90:2
@@ -137422,7 +137422,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he will rescue me from snare of hunters and from troubled word.
+- fresh: Because he will rescue me from the snare of hunters and from troubled word.
 - brenton: For he shall deliver thee from the snare of the hunters, from every troublesome matter.
 
 ### Psalms 90:4
@@ -137584,7 +137584,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you gladdened me, Lord, in your workmanship, and in works of your hands I will exult.
+- fresh: Because you gladdened me, Lord, in your workmanship, and in the works of your hands I will exult.
 - brenton: For thou, O Lord, hast made me glad with thy work: and in the operations of thy hands will I exult.
 
 ### Psalms 91:6
@@ -137665,7 +137665,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Planted in the house of the Lord, in courts of our God they will flower.
+- fresh: Planted in the house of the Lord, in the courts of our God they will flower.
 - brenton: They that are planted in the house of the Lord shall flourish in the courts of our God.
 
 ### Psalms 91:15
@@ -137899,7 +137899,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, according to multitude of my pains in my heart, your comforts loved my soul.
+- fresh: Lord, according to the multitude of my pains in my heart, your comforts loved my soul.
 - brenton: thy mercy, O Lord, helped me. O Lord, according to the multitude of my griefs within my heart, thy consolations have soothed my soul.
 
 ### Psalms 93:20
@@ -138043,7 +138043,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: When house was being built after captivity. Song of David. Sing to the Lord new song; sing to the Lord, all earth.
+- fresh: When house was being built after captivity. Song of David. Sing to the Lord new song; sing to the Lord, all the earth.
 - brenton: When the house was built after the Captivity, a Song by David.
 
 ### Psalms 95:2
@@ -138115,7 +138115,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Worship Lord in his holy court; let all earth be shaken from before him.
+- fresh: Worship Lord in his holy court; let all the earth be shaken from before him.
 - brenton: Worship the Lord in his holy court: let all the earth tremble before him.
 
 ### Psalms 95:10
@@ -138196,7 +138196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Mountains melted like wax from the face of the Lord, from the face of the Lord of all earth.
+- fresh: Mountains melted like wax from the face of the Lord, from the face of the Lord of all the earth.
 - brenton: The mountains melted like wax at the presence of the Lord, at the presence of the Lord of the whole earth.
 
 ### Psalms 96:6
@@ -138232,7 +138232,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you are Lord, Most High over all earth; you were greatly exalted above all gods.
+- fresh: Because you are Lord, Most High over all the earth; you were greatly exalted above all gods.
 - brenton: For thou art Lord most high over all the earth; thou art greatly exalted above all gods.
 
 ### Psalms 96:10
@@ -138241,7 +138241,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You loving Lord, hate evil; The Lord guards souls of his holy ones; from hand of sinners he will rescue them.
+- fresh: You loving Lord, hate evil; The Lord guards souls of his holy ones; from the hand of sinners he will rescue them.
 - brenton: Ye that love the Lord, hate evil; the Lord preserves the souls of his saints; he shall deliver them from the hand of sinners.
 
 ### Psalms 96:11
@@ -138295,7 +138295,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Shout to God, all earth; sing and exult and make melody.
+- fresh: Shout to God, all the earth; sing and exult and make melody.
 - brenton: Shout to God, all the earth; sing, and exult, and sing psalms.
 
 ### Psalms 97:5
@@ -138403,7 +138403,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In pillar of cloud he spoke to them; they kept his testimonies and ordinances he gave them.
+- fresh: In the pillar of cloud he spoke to them; they kept his testimonies and ordinances he gave them.
 - brenton: He spoke to them in a pillar of cloud; they kept his testimonies, and the ordinances which he gave them.
 
 ### Psalms 98:8
@@ -138430,7 +138430,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm for confession. Shout to the Lord, all earth.
+- fresh: Psalm for confession. Shout to the Lord, all the earth.
 - brenton: A Psalm for Thanksgiving.
 
 ### Psalms 99:2
@@ -138484,7 +138484,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will sing and understand in blameless way. When will you come to me? I walked in innocence of my heart in the midst of my house.
+- fresh: I will sing and understand in blameless way. When will you come to me? I walked in the innocence of my heart in the midst of my house.
 - brenton: and I will be wise in a blameless way. When wilt thou come to me? I walked in the innocence of my heart, in the midst of my house.
 
 ### Psalms 100:3
@@ -138538,7 +138538,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In mornings I killed all sinners of earth, to destroy from city of the Lord all workers of lawlessness.
+- fresh: In mornings I killed all sinners of earth, to destroy from the city of the Lord all workers of lawlessness.
 - brenton: Early did I slay all the sinners of the land, that I might destroy out of the city of the Lord all that work iniquity.
 
 ### Psalms 101:1
@@ -138592,7 +138592,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From voice of my groaning, my bone clung to my flesh.
+- fresh: From the voice of my groaning, my bone clung to my flesh.
 - brenton: By reason of the voice of my groaning, my bone has cleaved to my flesh.
 
 ### Psalms 101:7
@@ -138637,7 +138637,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from face of your anger and your fury, because lifting me up you dashed me down.
+- fresh: from the face of your anger and your fury, because lifting me up you dashed me down.
 - brenton: because of thine anger and thy wrath: for thou hast lifted me up, and dashed me down.
 
 ### Psalms 101:12
@@ -138700,7 +138700,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He looked upon prayer of humble ones and did not despise their supplication.
+- fresh: He looked upon the prayer of humble ones and did not despise their supplication.
 - brenton: He has had regard to the prayer of the lowly, and has not despised their petition.
 
 ### Psalms 101:19
@@ -138718,7 +138718,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because he looked down from height of his holy place; The Lord from heaven looked upon earth,
+- fresh: because he looked down from the height of his holy place; The Lord from heaven looked upon earth,
 - brenton: For he has looked out from the height of his sanctuary; the Lord looked upon the earth from heaven;
 
 ### Psalms 101:21
@@ -138754,7 +138754,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He answered him in way of his strength, Tell me fewness of my days.
+- fresh: He answered him in the way of his strength, Tell me fewness of my days.
 - brenton: He answered him in the way of his strength: tell me the fewness of my days.
 
 ### Psalms 101:25
@@ -138763,7 +138763,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not bring me up in half of my days; your years through generations of generations.
+- fresh: Do not bring me up in half of my days; your years through the generations of generations.
 - brenton: Take me not away in the midst of my days: thy years are through all generations.
 
 ### Psalms 101:26
@@ -138862,7 +138862,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He made known his ways to Moses, to sons of Israel his wills.
+- fresh: He made known his ways to Moses, to the sons of Israel his wills.
 - brenton: He made known his ways to Moses, his will to the children of Israel.
 
 ### Psalms 102:8
@@ -138952,7 +138952,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But mercy of the Lord from age and until age upon those fearing him, and his righteousness upon sons of sons,
+- fresh: But mercy of the Lord from age and until age upon those fearing him, and his righteousness upon the sons of sons,
 - brenton: But the mercy of the Lord is from generation to generation upon them that fear him, and his righteousness to children's children;
 
 ### Psalms 102:18
@@ -138979,7 +138979,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Bless the Lord, all his angels, mighty in strength, doing his word, to hear voice of his words.
+- fresh: Bless the Lord, all his angels, mighty in strength, doing his word, to hear the voice of his words.
 - brenton: Bless the Lord, all ye his angels, mighty in strength, who perform his bidding, ready to hearken to the voice of his words.
 
 ### Psalms 102:21
@@ -139024,7 +139024,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: roofing his upper rooms in waters, setting clouds as his ascent, walking on wings of winds,
+- fresh: roofing his upper rooms in waters, setting clouds as his ascent, walking on the wings of winds,
 - brenton: Who covers his chambers with waters; who makes the clouds his chariot; who walks on the wings of the wind.
 
 ### Psalms 103:4
@@ -139060,7 +139060,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From your rebuke they will flee; from voice of your thunder they will fear.
+- fresh: From your rebuke they will flee; from the voice of your thunder they will fear.
 - brenton: At thy rebuke they shall flee; at the voice of thy thunder they shall be alarmed.
 
 ### Psalms 103:8
@@ -139096,7 +139096,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They give drink to all beasts of field; wild donkeys will receive for their thirst.
+- fresh: They give drink to all the beasts of field; wild donkeys will receive for their thirst.
 - brenton: They shall give drink to all the wild beasts of the field: the wild asses shall take of them to quench their thirst.
 
 ### Psalms 103:12
@@ -139114,7 +139114,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One watering mountains from his upper rooms; from fruit of your works earth will be satisfied.
+- fresh: One watering mountains from his upper rooms; from the fruit of your works earth will be satisfied.
 - brenton: He waters the mountains from his chambers: the earth shall be satisfied with the fruit of thy works.
 
 ### Psalms 103:14
@@ -139582,7 +139582,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their land teemed with frogs in chambers of their kings.
+- fresh: Their land teemed with frogs in the chambers of their kings.
 - brenton: Their land produced frogs abundantly, in the chambers of their kings.
 
 ### Psalms 104:31
@@ -139807,7 +139807,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he saved them from hand of those hating and redeemed them from hand of enemy.
+- fresh: And he saved them from the hand of those hating and redeemed them from the hand of enemy.
 - brenton: And he saved them out of the hand of them that hated them, and redeemed them out of the hand of the enemy.
 
 ### Psalms 105:11
@@ -140005,7 +140005,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they angered him at water of contradiction, and Moses was harmed because of them,
+- fresh: And they angered him at the water of contradiction, and Moses was harmed because of them,
 - brenton: They provoked him also at the water of Strife, and Moses was hurt for their sakes;
 
 ### Psalms 105:33
@@ -140086,7 +140086,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he handed them into hands of nations, and those hating them ruled over them.
+- fresh: And he handed them into the hands of nations, and those hating them ruled over them.
 - brenton: And he delivered them into the hands of their enemies; and they that hated them ruled over them.
 
 ### Psalms 105:42
@@ -140122,7 +140122,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he remembered his covenant and relented according to multitude of his mercy.
+- fresh: And he remembered his covenant and relented according to the multitude of his mercy.
 - brenton: And he remembered his covenant, and repented according to the multitude of his mercy.
 
 ### Psalms 105:46
@@ -140167,7 +140167,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let those redeemed by the Lord say so, whom he redeemed from hand of enemy
+- fresh: Let those redeemed by the Lord say so, whom he redeemed from the hand of enemy
 - brenton: Let them say so who have been redeemed by the Lord, whom he has redeemed from the hand of the enemy;
 
 ### Psalms 106:3
@@ -140212,7 +140212,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he guided them in straight way to go into city of dwelling.
+- fresh: And he guided them in straight way to go into the city of dwelling.
 - brenton: And he guided them into a straight path, that they might go to a city of habitation.
 
 ### Psalms 106:8
@@ -140221,7 +140221,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them confess to the Lord his mercies and his wonders to sons of men,
+- fresh: Let them confess to the Lord his mercies and his wonders to the sons of men,
 - brenton: Let them acknowledge to the Lord his mercies, and his wonderful works to the children of men.
 
 ### Psalms 106:9
@@ -140284,7 +140284,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them confess to the Lord his mercies and his wonders to sons of men,
+- fresh: Let them confess to the Lord his mercies and his wonders to the sons of men,
 - brenton: Let them acknowledge to the Lord his mercies, and his wonders to the children of men.
 
 ### Psalms 106:16
@@ -140338,7 +140338,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them confess to the Lord his mercies and his wonders to sons of men,
+- fresh: Let them confess to the Lord his mercies and his wonders to the sons of men,
 - brenton: Let them acknowledge to the Lord his mercies, and his wonderful works to the children of men.
 
 ### Psalms 106:22
@@ -140428,7 +140428,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them confess to the Lord his mercies and his wonders to sons of men,
+- fresh: Let them confess to the Lord his mercies and his wonders to the sons of men,
 - brenton: Let them acknowledge to the Lord his mercies, and his wonderful works to the children of men.
 
 ### Psalms 106:32
@@ -140437,7 +140437,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: let them exalt him in assembly of people, and in seat of elders let them praise him.
+- fresh: let them exalt him in the assembly of people, and in the seat of elders let them praise him.
 - brenton: Let them exalt him in the congregation of the people, and praise him in the seat of the elders.
 
 ### Psalms 106:33
@@ -140500,7 +140500,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they were few and afflicted from affliction of evils and pain.
+- fresh: And they were few and afflicted from the affliction of evils and pain.
 - brenton: Again they become few, and are brought low, by the pressure of evils and pain.
 
 ### Psalms 106:40
@@ -140590,7 +140590,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Be exalted above heavens, O God, and over all earth your glory.
+- fresh: Be exalted above heavens, O God, and over all the earth your glory.
 - brenton: Be thou exalted, O God, above the heavens; and thy glory above all the earth.
 
 ### Psalms 107:7
@@ -140689,7 +140689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And with words of hatred they surrounded me and fought me without cause.
+- fresh: And with the words of hatred they surrounded me and fought me without cause.
 - brenton: And they have compassed me with words of hatred; and fought against me without a cause.
 
 ### Psalms 108:4
@@ -140968,7 +140968,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With you beginning in day of your power, in splendors of holy ones; from womb before morning-star I begot you.
+- fresh: With you beginning in the day of your power, in splendors of holy ones; from womb before morning-star I begot you.
 - brenton: With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.
 
 ### Psalms 109:4
@@ -140986,7 +140986,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord at your right hand crushed kings in day of his anger.
+- fresh: The Lord at your right hand crushed kings in the day of his anger.
 - brenton: The Lord at thy right hand has dashed in pieces kings in the day of his wrath.
 
 ### Psalms 109:6
@@ -140995,7 +140995,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He will judge among nations, he will fill corpses, he will crush heads over land of many.
+- fresh: He will judge among nations, he will fill corpses, he will crush heads over the land of many.
 - brenton: He shall judge among the nations, he shall fill up the number of corpses, he shall crush the heads of many on the earth.
 
 ### Psalms 109:7
@@ -141013,7 +141013,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Alleluia. I will confess to you, Lord, with whole heart, in council of straight ones and gathering.
+- fresh: Alleluia. I will confess to you, Lord, with whole heart, in the council of straight ones and gathering.
 - brenton: Alleluia.
 
 ### Psalms 110:2
@@ -141256,7 +141256,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to make him sit with rulers, with rulers of his people,
+- fresh: to make him sit with rulers, with the rulers of his people,
 - brenton: to set him with princes, even with the princes of his people:
 
 ### Psalms 112:9
@@ -141328,7 +141328,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From the face of the Lord earth was shaken, from face of God of Jacob,
+- fresh: From the face of the Lord earth was shaken, from the face of God of Jacob,
 - brenton: The earth trembled at the presence of the Lord, at the presence of the God of Jacob;
 
 ### Psalms 113:8
@@ -141481,7 +141481,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Heaven of heaven belongs to the Lord, but earth he gave to sons of men.
+- fresh: Heaven of heaven belongs to the Lord, but earth he gave to the sons of men.
 - brenton: The heaven of heavens belongs to the Lord: but he has given the earth to the sons of men.
 
 ### Psalms 113:25
@@ -141661,7 +141661,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: in courts of house of the Lord, in your midst, Jerusalem.
+- fresh: in the courts of the house of the Lord, in your midst, Jerusalem.
 - brenton: in the courts of the Lord's house, in the midst of thee, Jerusalem.
 
 ### Psalms 116:1
@@ -141814,7 +141814,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Voice of exultation and salvation in tents of righteous ones; right hand of the Lord did mighty deed.
+- fresh: Voice of exultation and salvation in the tents of righteous ones; right hand of the Lord did mighty deed.
 - brenton: The voice of exultation and salvation is in the tabernacles of the righteous: the right hand of the Lord has wrought mightily.
 
 ### Psalms 117:16
@@ -142003,7 +142003,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will confess to you, Lord, in uprightness of heart when I learn judgments of your righteousness.
+- fresh: I will confess to you, Lord, in the uprightness of heart when I learn judgments of your righteousness.
 - brenton: I will give thee thanks with uprightness of heart, when I have learnt the judgments of thy righteousness.
 
 ### Psalms 118:8
@@ -142255,7 +142255,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Guide me in path of your commandments, because I wanted it.
+- fresh: Guide me in the path of your commandments, because I wanted it.
 - brenton: Guide me in the path of thy commandments; for I have delighted in it.
 
 ### Psalms 118:36
@@ -143128,7 +143128,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Look upon me and have mercy on me according to judgment of those loving your name.
+- fresh: Look upon me and have mercy on me according to the judgment of those loving your name.
 - brenton: Look upon me and have mercy upon me, after the manner of them that love thy name.
 
 ### Psalms 118:133
@@ -143740,7 +143740,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For sake of house of the Lord our God, I sought good things for you.
+- fresh: For sake of the house of the Lord our God, I sought good things for you.
 - brenton: Because of the house of the Lord our God, I have diligently sought thy good.
 
 ### Psalms 122:1
@@ -143839,7 +143839,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our soul like sparrow rescued from snare of hunters; snare crushed, and we rescued.
+- fresh: Our soul like sparrow rescued from the snare of hunters; snare crushed, and we rescued.
 - brenton: Our soul has been delivered as a sparrow from the snare of the fowlers: the snare is broken, and we are delivered.
 
 ### Psalms 123:8
@@ -143983,7 +143983,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like arrows in hand of mighty one, so sons of those thrust out.
+- fresh: Like arrows in the hand of mighty one, so sons of those thrust out.
 - brenton: As arrows in the hand of a mighty man; so are the children of those who were outcasts.
 
 ### Psalms 126:5
@@ -144136,7 +144136,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, hear my voice; let your ears attend to voice of my supplication.
+- fresh: Lord, hear my voice; let your ears attend to the voice of my supplication.
 - brenton: O Lord, hearken to my voice; let thine ears be attentive to the voice of my supplication.
 
 ### Psalms 129:3
@@ -144244,7 +144244,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If I enter tent of my house, if I go up upon bed of my couch,
+- fresh: If I enter tent of my house, if I go up upon the bed of my couch,
 - brenton: I will not go into the tabernacle of my house; I will not go up to the couch of my bed;
 
 ### Psalms 131:4
@@ -144316,7 +144316,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord swore truth to David, and he will not set it aside: from fruit of your belly I will set upon your throne.
+- fresh: The Lord swore truth to David, and he will not set it aside: from the fruit of your belly I will set upon your throne.
 - brenton: The Lord sware in truth to David, and he will not annul it, saying, Of the fruit of thy body will I set a king upon thy throne.
 
 ### Psalms 131:12
@@ -144406,7 +144406,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like dew of Hermon descending upon mountains of Zion, because there the Lord commanded blessing and life until age.
+- fresh: Like dew of Hermon descending upon the mountains of Zion, because there the Lord commanded blessing and life until age.
 - brenton: As the dew of Aermon, that comes down on the mountains of Sion: for there the Lord commanded the blessing, even life for ever.
 
 ### Psalms 133:1
@@ -144415,7 +144415,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Song of ascents. Behold now, bless the Lord, all servants of the Lord, standing in the house of the Lord, in courts of house of our God.
+- fresh: Song of ascents. Behold now, bless the Lord, all servants of the Lord, standing in the house of the Lord, in the courts of the house of our God.
 - brenton: A Song of Degrees.
 
 ### Psalms 133:2
@@ -144451,7 +144451,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Those standing in the house of the Lord, in courts of house of our God.
+- fresh: Those standing in the house of the Lord, in the courts of the house of our God.
 - brenton: who stand in the house of the Lord, in the courts of the house of our God.
 
 ### Psalms 134:3
@@ -144910,7 +144910,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let my tongue cling to my throat if I do not remember you, if I do not set Jerusalem first at beginning of my gladness.
+- fresh: Let my tongue cling to my throat if I do not remember you, if I do not set Jerusalem first at the beginning of my gladness.
 - brenton: May my tongue cleave to my throat, if I do not remember thee; if I do not prefer Jerusalem as the chief of my joy.
 
 ### Psalms 136:7
@@ -144919,7 +144919,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Remember, Lord, sons of Edom in day of Jerusalem, those saying, "Empty it, empty it, down to its foundation."
+- fresh: Remember, Lord, sons of Edom in the day of Jerusalem, those saying, "Empty it, empty it, down to its foundation."
 - brenton: Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to its foundations.
 
 ### Psalms 136:8
@@ -144982,7 +144982,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And let them sing in ways of the Lord, because great glory of the Lord.
+- fresh: And let them sing in the ways of the Lord, because great glory of the Lord.
 - brenton: And let them sing in the ways of the Lord; for great is the glory of the Lord.
 
 ### Psalms 137:6
@@ -145270,7 +145270,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Guard me, Lord, from hand of sinner; from unjust men deliver me, who devised to trip my steps.
+- fresh: Guard me, Lord, from the hand of sinner; from unjust men deliver me, who devised to trip my steps.
 - brenton: Keep me, O Lord, from the hand of the sinner; rescue me from unjust men; who have purposed to overthrow my goings.
 
 ### Psalms 139:6
@@ -145288,7 +145288,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I said to the Lord, "My God you." Give ear, Lord, to voice of my supplication.
+- fresh: I said to the Lord, "My God you." Give ear, Lord, to the voice of my supplication.
 - brenton: I said to the Lord, Thou art my God; hearken, O Lord, to the voice of my supplication.
 
 ### Psalms 139:8
@@ -145297,7 +145297,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, Lord, strength of my salvation, you overshadowed over my head in day of war.
+- fresh: Lord, Lord, strength of my salvation, you overshadowed over my head in the day of war.
 - brenton: O Lord God, the strength of my salvation; thou hast screened my head in the day of battle.
 
 ### Psalms 139:9
@@ -145360,7 +145360,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of David. Lord, I cried to you; hear me. Attend to voice of my supplication when I cry to you.
+- fresh: Psalm of David. Lord, I cried to you; hear me. Attend to the voice of my supplication when I cry to you.
 - brenton: A Psalm of David.
 
 ### Psalms 140:2
@@ -145387,7 +145387,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not incline my heart to words of evil, to make excuses of excuses in sins with men working lawlessness, and I will not join with their chosen ones.
+- fresh: Do not incline my heart to the words of evil, to make excuses of excuses in sins with men working lawlessness, and I will not join with their chosen ones.
 - brenton: Incline not my heart to evil things, to employ pretexts for sins, with men who work iniquity: and let me not unite with their choice ones.
 
 ### Psalms 140:5
@@ -145558,7 +145558,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I remembered ancient days and meditated on all your works; in works of your hands I kept meditating.
+- fresh: I remembered ancient days and meditated on all your works; in the works of your hands I kept meditating.
 - brenton: I remembered the days of old; and I meditated on all thy doings: yea, I meditated on the works of thine hands.
 
 ### Psalms 142:6
@@ -145684,7 +145684,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Send out your hand from height; rescue me and deliver me from many waters, from hand of foreign sons,
+- fresh: Send out your hand from height; rescue me and deliver me from many waters, from the hand of foreign sons,
 - brenton: Send forth thine hand from on high; rescue me, and deliver me out of great waters, out of the hand of strange children;
 
 ### Psalms 143:8
@@ -145720,7 +145720,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rescue me and deliver me from hand of foreign sons, whose mouth spoke vanity and their right hand right hand of injustice.
+- fresh: Rescue me and deliver me from the hand of foreign sons, whose mouth spoke vanity and their right hand right hand of injustice.
 - brenton: Deliver me, and rescue me from the hand of strange children, whose mouth has spoken vanity, and their right hand is a right hand of iniquity;
 
 ### Psalms 143:12
@@ -145864,7 +145864,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to make known to sons of men your dominion and glory of magnificence of your kingdom.
+- fresh: to make known to the sons of men your dominion and glory of magnificence of your kingdom.
 - brenton: to make known to the sons of men thy power, and the glorious majesty of thy kingdom.
 
 ### Psalms 144:13
@@ -146125,7 +146125,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not in strength of horse will he desire, nor in legs of man does he delight.
+- fresh: Not in the strength of horse will he desire, nor in legs of man does he delight.
 - brenton: He will not take pleasure in the strength of a horse; neither is he well-pleased with the legs of a man.
 
 ### Psalms 146:11
@@ -146161,7 +146161,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One making your borders peace and filling you with fat of wheat.
+- fresh: One making your borders peace and filling you with the fat of wheat.
 - brenton: He makes thy borders peaceful, and fills thee with the flour of wheat.
 
 ### Psalms 147:4
@@ -146350,7 +146350,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Sing to the Lord new song; his praise in assembly of holy ones.
+- fresh: Hallelujah. Sing to the Lord new song; his praise in the assembly of holy ones.
 - brenton: Alleluia.
 
 ### Psalms 149:2
@@ -146440,7 +146440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Praise him for his dominions; praise him according to multitude of his greatness.
+- fresh: Praise him for his dominions; praise him according to the multitude of his greatness.
 - brenton: Praise him on account of his mighty acts: praise him according to his abundant greatness.
 
 ### Psalms 150:3
@@ -146892,7 +146892,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: those abandoning straight ways to walk in ways of darkness,
+- fresh: those abandoning straight ways to walk in the ways of darkness,
 - brenton: Alas for those who forsake right paths, to walk in ways of darkness;
 
 ### Proverbs 2:14
@@ -147054,7 +147054,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Honor the Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness.
+- fresh: Honor the Lord from your righteous labors and offer firstfruits to him from the fruits of your righteousness.
 - brenton: Honour the Lord with thy just labours, and give him the first of thy fruits of righteousness:
 
 ### Proverbs 3:10
@@ -147063,7 +147063,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: So your storehouses may be filled with fullness of grain, and your wine vats gush wine.
+- fresh: So your storehouses may be filled with the fullness of grain, and your wine vats gush wine.
 - brenton: that thy storehouses may be completely filled with corn, and that thy presses may burst forth with wine.
 
 ### Proverbs 3:11
@@ -147270,7 +147270,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Curse of God in houses of ungodly, but dwellings of righteous are blessed.
+- fresh: Curse of God in the houses of ungodly, but dwellings of righteous are blessed.
 - brenton: The curse of God is in the houses of the ungodly; but the habitations of the just are blessed.
 
 ### Proverbs 3:34
@@ -147405,7 +147405,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not go upon ways of ungodly, nor envy ways of lawless men.
+- fresh: Do not go upon the ways of ungodly, nor envy ways of lawless men.
 - brenton: Go not in the ways of the ungodly, neither covet the ways of transgressors.
 
 ### Proverbs 4:15
@@ -147576,7 +147576,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For she does not go upon ways of life, and her tracks slippery and not well known.
+- fresh: For she does not go upon the ways of life, and her tracks slippery and not well known.
 - brenton: For she goes not upon the paths of life; but her ways are slippery, and not easily known.
 
 ### Proverbs 5:7
@@ -147684,7 +147684,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let fountain of your water be your own, and rejoice with wife of your youth.
+- fresh: Let fountain of your water be your own, and rejoice with the wife of your youth.
 - brenton: Let thy fountain of water be truly thine own; and rejoice with the wife of thy youth.
 
 ### Proverbs 5:19
@@ -147729,7 +147729,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This one dies with undisciplined men, and from abundance of his own livelihood is cast out and lost through folly.
+- fresh: This one dies with undisciplined men, and from the abundance of his own livelihood is cast out and lost through folly.
 - brenton: Such a man dies with the uninstructed; and he is cast forth from the abundance of his own substance, and has perished through folly.
 
 ### Proverbs 6:1
@@ -147756,7 +147756,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do, son, what I command you, and save yourself, for you came into hands of evil men through your friend. Go, do not grow slack, but press your friend whom you guaranteed.
+- fresh: Do, son, what I command you, and save yourself, for you came into the hands of evil men through your friend. Go, do not grow slack, but press your friend whom you guaranteed.
 - brenton: My son, do what I command thee, and deliver thyself; for on thy friend's account thou art come into the power of evil men: faint not, but stir up even thy friend for whom thou art become surety.
 
 ### Proverbs 6:4
@@ -148035,7 +148035,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For jealousy fills wrath of her husband; he will not spare in day of judgment.
+- fresh: For jealousy fills wrath of her husband; he will not spare in the day of judgment.
 - brenton: For the soul of her husband is full of jealousy: he will not spare in the day of vengeance.
 
 ### Proverbs 6:35
@@ -148071,7 +148071,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Bind them on your fingers, and write them on breadth of your heart.
+- fresh: Bind them on your fingers, and write them on the breadth of your heart.
 - brenton: And bind them on thy fingers, and write them on the table of thine heart.
 
 ### Proverbs 7:4
@@ -148323,7 +148323,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To you, men, I call, and I send out my voice to sons of men.
+- fresh: To you, men, I call, and I send out my voice to the sons of men.
 - brenton: You, O men, I exhort; and utter my voice to the sons of men.
 
 ### Proverbs 8:5
@@ -148467,7 +148467,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In ways of righteousness I walk, and among tracks of judgment I turn about,
+- fresh: In the ways of righteousness I walk, and among tracks of judgment I turn about,
 - brenton: I walk in ways of righteousness, and am conversant with the paths of judgment;
 
 ### Proverbs 8:21
@@ -148728,7 +148728,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: She sat at doors of her house on chair openly in squares,
+- fresh: She sat at the doors of her house on chair openly in squares,
 - brenton: She sits at the doors of her house, on a seat openly in the streets,
 
 ### Proverbs 9:15
@@ -148818,7 +148818,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessing of the Lord upon head of righteous, but mouth of ungodly will cover untimely grief.
+- fresh: Blessing of the Lord upon the head of righteous, but mouth of ungodly will cover untimely grief.
 - brenton: The blessing of the Lord is upon the head of the just: but untimely grief shall cover the mouth of the ungodly.
 
 ### Proverbs 10:7
@@ -148863,7 +148863,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Fountain of life in hand of righteous, but mouth of ungodly will cover destruction.
+- fresh: Fountain of life in the hand of righteous, but mouth of ungodly will cover destruction.
 - brenton: There is a fountain of life in the hand of a righteous man; but destruction shall cover the mouth of the ungodly.
 
 ### Proverbs 10:12
@@ -148962,7 +148962,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessing of the Lord upon head of righteous, it makes rich, and grief in heart will not be added to it.
+- fresh: Blessing of the Lord upon the head of righteous, it makes rich, and grief in heart will not be added to it.
 - brenton: The blessing of the Lord is upon the head of the righteous; it enriches him, and grief of heart shall not be added to it.
 
 ### Proverbs 10:23
@@ -149124,7 +149124,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In mouth of ungodly snare to citizens, but perception of righteous good way.
+- fresh: In the mouth of ungodly snare to citizens, but perception of righteous good way.
 - brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Proverbs 11:10
@@ -149277,7 +149277,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One withholding grain, may peoples leave him behind, but blessing upon head of one sharing.
+- fresh: One withholding grain, may peoples leave him behind, but blessing upon the head of one sharing.
 - brenton: May he that hoards corn leave it to the nation: but blessing be on the head of him that gives it.
 
 ### Proverbs 11:27
@@ -149313,7 +149313,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From fruit of righteousness grows tree of life, but untimely souls of lawless are taken away.
+- fresh: From the fruit of righteousness grows tree of life, but untimely souls of lawless are taken away.
 - brenton: Out of the fruit of righteousness grows a tree of life; but the souls of transgressors are cut off before their time.
 
 ### Proverbs 11:31
@@ -149448,7 +149448,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From fruits of mouth soul of man will be filled with goods, and reward of his lips will be given him.
+- fresh: From the fruits of mouth soul of man will be filled with goods, and reward of his lips will be given him.
 - brenton: The soul of a man shall be filled with good from the fruits of his mouth; and the recompence of his lips shall be given to him.
 
 ### Proverbs 12:15
@@ -149502,7 +149502,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Deceit in heart of one devising evils, but those willing peace will rejoice.
+- fresh: Deceit in the heart of one devising evils, but those willing peace will rejoice.
 - brenton: There is deceit in the heart of him that imagines evil; but they that love peace shall rejoice.
 
 ### Proverbs 12:21
@@ -149574,7 +149574,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In ways of righteousness life, but ways of the resentful to death.
+- fresh: In the ways of righteousness life, but ways of the resentful to death.
 - brenton: In the ways of righteousness is life; but the ways of those that remember injuries lead to death.
 
 ### Proverbs 13:1
@@ -149592,7 +149592,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From fruits of righteousness good man will eat, but souls of lawless perish untimely.
+- fresh: From the fruits of righteousness good man will eat, but souls of lawless perish untimely.
 - brenton: A good man shall eat of the fruits of righteousness: but the lives of transgressors shall perish before their time.
 
 ### Proverbs 13:3
@@ -149835,7 +149835,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Where no oxen, stalls clean, but much produce manifest in strength of ox.
+- fresh: Where no oxen, stalls clean, but much produce manifest in the strength of ox.
 - brenton: Where no oxen are, the cribs are clean; but where there is abundant produce, the strength of the ox is apparent.
 
 ### Proverbs 14:5
@@ -150051,7 +150051,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In multitude of nation glory of king, but in lack of people crushing of ruler.
+- fresh: In the multitude of nation glory of king, but in lack of people crushing of ruler.
 - brenton: In a populous nation is the glory of a king: but in the failure of people is the ruin of a prince.
 
 ### Proverbs 14:29
@@ -150096,7 +150096,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In good heart of man wisdom rests, but in heart of fools it is not discerned.
+- fresh: In good heart of man wisdom rests, but in the heart of fools it is not discerned.
 - brenton: There is wisdom in the good heart of a man: but in the heart of fools it is not discerned.
 
 ### Proverbs 14:34
@@ -150168,7 +150168,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In abundant righteousness much strength, but ungodly root and branch perish from earth. In houses of righteous much strength, but fruits of ungodly perish.
+- fresh: In abundant righteousness much strength, but ungodly root and branch perish from earth. In the houses of righteous much strength, but fruits of ungodly perish.
 - brenton: In the houses of the righteous is much strength: but the fruits of the ungodly shall perish.
 
 ### Proverbs 15:7
@@ -150501,7 +150501,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In light of king's life is son, and those acceptable to him like late cloud.
+- fresh: In the light of king's life is son, and those acceptable to him like late cloud.
 - brenton: The son of a king is in the light of life; and they that are in favour with him are as a cloud of latter rain.
 
 ### Proverbs 16:16
@@ -150645,7 +150645,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Crown of boasting = old age, and in ways of righteousness it is found.
+- fresh: Crown of boasting = old age, and in the ways of righteousness it is found.
 - brenton: Old age is a crown of honour, but it is found in the ways of righteousness.
 
 ### Proverbs 16:32
@@ -150789,7 +150789,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Authority gives beginning to words of righteousness, but before want comes faction and battle.
+- fresh: Authority gives beginning to the words of righteousness, but before want comes faction and battle.
 - brenton: Rightful rule gives power to words; but sedition and strife precede poverty.
 
 ### Proverbs 17:15
@@ -150942,7 +150942,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: When ungodly comes into depth of evils, he despises; and dishonor and reproach come upon him.
+- fresh: When ungodly comes into the depth of evils, he despises; and dishonor and reproach come upon him.
 - brenton: When an ungodly man comes into a depth of evils, he despises them; but dishonour and reproach come upon him.
 
 ### Proverbs 18:4
@@ -150951,7 +150951,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Deep water = word in heart of man, and river springing up = fountain of life.
+- fresh: Deep water = word in the heart of man, and river springing up = fountain of life.
 - brenton: A word in the heart of a man is a deep water, and a river and fountain of life spring forth.
 
 ### Proverbs 18:5
@@ -151095,7 +151095,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From fruits of mouth man will fill his belly, and from fruits of his lips he will be filled.
+- fresh: From the fruits of mouth man will fill his belly, and from the fruits of his lips he will be filled.
 - brenton: A man fills his belly with the fruits of his mouth; and he shall be satisfied with the fruits of his lips.
 
 ### Proverbs 18:21
@@ -151104,7 +151104,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Death and life in hand of tongue, and those mastering it will eat its fruits.
+- fresh: Death and life in the hand of tongue, and those mastering it will eat its fruits.
 - brenton: Life and death are in the power of the tongue; and they that rule it shall eat the fruits thereof.
 
 ### Proverbs 18:22
@@ -151212,7 +151212,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Foolish son shame to father, and vows from wages of prostitute not pure.
+- fresh: Foolish son shame to father, and vows from the wages of prostitute not pure.
 - brenton: A foolish son is a disgrace to his father: vows paid out of the hire of a harlot are not pure.
 
 ### Proverbs 19:14
@@ -151284,7 +151284,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Many reasonings in heart of man, but counsel of the Lord remains forever.
+- fresh: Many reasonings in the heart of man, but counsel of the Lord remains forever.
 - brenton: There are many thoughts in a man's heart; but the counsel of the Lord abides for ever.
 
 ### Proverbs 19:22
@@ -151374,7 +151374,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Threat of king not different from wrath of lion; one provoking him sins against his own soul.
+- fresh: Threat of king not different from the wrath of lion; one provoking him sins against his own soul.
 - brenton: The threat of a king differs not from the rage of a lion; and he that provokes him sins against his own soul.
 
 ### Proverbs 20:3
@@ -151401,7 +151401,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Deep water = counsel in heart of man, but prudent man will draw it out.
+- fresh: Deep water = counsel in the heart of man, but prudent man will draw it out.
 - brenton: Counsel in a man's heart is deep water; but a prudent man will draw it out.
 
 ### Proverbs 20:6
@@ -151545,7 +151545,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Blows and bruises meet evils, and wounds into storerooms of belly.
+- fresh: Blows and bruises meet evils, and wounds into the storerooms of belly.
 - brenton: Bruises and contusions befall bad men; and plagues shall come into the inward parts of their belly.
 
 ### Proverbs 21:1
@@ -151554,7 +151554,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like rush of water, so heart of king in hand of God; wherever he wills to incline, there he bent it.
+- fresh: Like rush of water, so heart of king in the hand of God; wherever he wills to incline, there he bent it.
 - brenton: As a rush of water, so is the king's heart in God's hand: he turns it whithersoever he may desire to point out.
 
 ### Proverbs 21:2
@@ -151617,7 +151617,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better dwell on corner of open roof than in plastered rooms with injustice and common house.
+- fresh: Better dwell on the corner of open roof than in plastered rooms with injustice and common house.
 - brenton: It is better to dwell in a corner on the house-top, than in plastered rooms with unrighteousness, and in an open house.
 
 ### Proverbs 21:10
@@ -151680,7 +151680,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Man wandering from way of righteousness will rest in assembly of giants.
+- fresh: Man wandering from the way of righteousness will rest in the assembly of giants.
 - brenton: A man that wanders out of the way of righteousness, shall rest in the congregation of giants.
 
 ### Proverbs 21:17
@@ -151716,7 +151716,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Desired treasure rests on mouth of wise, but foolish men swallow it down.
+- fresh: Desired treasure rests on the mouth of wise, but foolish men swallow it down.
 - brenton: A desirable treasure will rest on the mouth of the wise; but foolish men will swallow it up.
 
 ### Proverbs 21:21
@@ -151941,7 +151941,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Folly fastened to heart of youth, but rod and discipline far from him.
+- fresh: Folly fastened to the heart of youth, but rod and discipline far from him.
 - brenton: Folly is attached to the heart of a child, but the rod and instruction are then far from him.
 
 ### Proverbs 22:16
@@ -151959,7 +151959,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Incline your ear to words of wise and hear my word, and set your heart on them so that you may know they are good.
+- fresh: Incline your ear to the words of wise and hear my word, and set your heart on them so that you may know they are good.
 - brenton: Incline thine ear to the words of wise men: hear also my word, and apply thine heart,
 
 ### Proverbs 22:18
@@ -151986,7 +151986,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, write them for yourself threefold for counsel and knowledge on breadth of your heart.
+- fresh: And you, write them for yourself threefold for counsel and knowledge on the breadth of your heart.
 - brenton: And do thou too repeatedly record them for thyself on the table of thine heart, for counsel and knowledge.
 
 ### Proverbs 22:21
@@ -152148,7 +152148,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Speak nothing into ears of fool, lest he sneer at your prudent words.
+- fresh: Speak nothing into the ears of fool, lest he sneer at your prudent words.
 - brenton: Say nothing in the ears of a fool, lest at any time he sneer at thy wise words.
 
 ### Proverbs 23:10
@@ -152364,7 +152364,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will lie down as in heart of sea and as helmsman in great swell.
+- fresh: And you will lie down as in the heart of the sea and as helmsman in great swell.
 - brenton: And thou shalt lie as in the midst of the sea, and as a pilot in a great storm.
 
 ### Proverbs 23:35
@@ -152436,7 +152436,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wisdom and good understanding at gates of wise; wise men do not turn aside from the mouth of the Lord.
+- fresh: Wisdom and good understanding at the gates of wise; wise men do not turn aside from the mouth of the Lord.
 - brenton: Wisdom and good understanding are in the gates of the wise: the wise turn not aside from the mouth of the Lord,
 
 ### Proverbs 24:8
@@ -152463,7 +152463,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In evil day and in day of affliction until he should fail.
+- fresh: In evil day and in the day of affliction until he should fail.
 - brenton: He shall be defiled in the evil day, and in the day of affliction, until he be utterly consumed.
 
 ### Proverbs 24:11
@@ -152724,7 +152724,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Kill ungodly men from face of king, and his throne will be set right in righteousness.
+- fresh: Kill ungodly men from the face of king, and his throne will be set right in righteousness.
 - brenton: Slay the ungodly from before the king, and his throne shall prosper in righteousness.
 
 ### Proverbs 25:6
@@ -152733,7 +152733,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not act boastfully before king, nor stand in places of rulers.
+- fresh: Do not act boastfully before king, nor stand in the places of rulers.
 - brenton: Be not boastful in the presence of the king, and remain not in the places of princes;
 
 ### Proverbs 25:7
@@ -152895,7 +152895,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better dwell on corner of roof than with scolding woman in common house.
+- fresh: Better dwell on the corner of roof than with scolding woman in common house.
 - brenton: It is better to dwell on a corner of the roof, than with a railing woman in an open house.
 
 ### Proverbs 25:25
@@ -153012,7 +153012,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thorns grow in hand of drunkard, and slavery in hand of fools.
+- fresh: Thorns grow in the hand of drunkard, and slavery in the hand of fools.
 - brenton: Thorns grow in the hand of a drunkard, and servitude in the hand of fools.
 
 ### Proverbs 26:10
@@ -153129,7 +153129,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Words of whisperers soft, yet these strike into storerooms of inward parts.
+- fresh: Words of whisperers soft, yet these strike into the storerooms of inward parts.
 - brenton: The words of cunning knaves are soft; but they smite even to the inmost parts of the bowels.
 
 ### Proverbs 26:23
@@ -153534,7 +153534,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Through help of righteous much glory comes, but in places of ungodly men are caught.
+- fresh: Through help of righteous much glory comes, but in the places of ungodly men are caught.
 - brenton: By reason of the help of righteous men great glory arises: but in the places of the ungodly men are caught.
 
 ### Proverbs 28:13
@@ -153678,7 +153678,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In places of ungodly righteous groan, but in their destruction righteous will multiply.
+- fresh: In the places of ungodly righteous groan, but in their destruction righteous will multiply.
 - brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
 
 ### Proverbs 29:1
@@ -153723,7 +153723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One preparing net on face of his own friend wraps it around his own feet.
+- fresh: One preparing net on the face of his own friend wraps it around his own feet.
 - brenton: He that prepares a net in the way of his own friend, entangles his own feet in it.
 
 ### Proverbs 29:6
@@ -154002,7 +154002,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: lest being filled I become liar and say, "Who sees me?" Or becoming poor I steal and swear by name of God.
+- fresh: lest being filled I become liar and say, "Who sees me?" Or becoming poor I steal and swear by the name of God.
 - brenton: [missing]
 
 ### Proverbs 30:10
@@ -154011,7 +154011,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hand servant over into hands of master, lest he curse you and you vanish.
+- fresh: Do not hand servant over into the hands of master, lest he curse you and you vanish.
 - brenton: [missing]
 
 ### Proverbs 30:11
@@ -154362,7 +154362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Having considered field, she bought it, and from fruits of her hands planted possession.
+- fresh: Having considered field, she bought it, and from the fruits of her hands planted possession.
 - brenton: She views a farm, and buys it: and with the fruit of her hands she plants a possession.
 
 ### Proverbs 31:17
@@ -154497,7 +154497,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Give her from fruits of her hands, and let her husband be praised in gates.
+- fresh: Give her from the fruits of her hands, and let her husband be praised in gates.
 - brenton: Give her of the fruit of her lips; and let her husband be praised in the gates.
 
 ## Ecclesiastes
@@ -154616,7 +154616,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to sons of man to be distracted in it.
+- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to the sons of man to be distracted in it.
 - brenton: And I applied my heart to seek out and examine by wisdom concerning all things that are done under heaven, for God has given to the sons of men an evil trouble to be troubled therewith.
 
 ### Ecclesiastes 1:14
@@ -154877,7 +154877,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from hand of God.
+- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
 - brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ### Ecclesiastes 2:25
@@ -154985,7 +154985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw distraction which God gave to sons of man to be distracted in it.
+- fresh: I saw distraction which God gave to the sons of man to be distracted in it.
 - brenton: I have seen all the trouble, which God has given to the sons of men to be troubled with.
 
 ### Ecclesiastes 3:11
@@ -155102,7 +155102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I turned and saw all slanders happening under sun, and look, tears of those slandered, and there is no comforter for them, and from hand of those slandering them = strength, and there is no comforter for them.
+- fresh: And I turned and saw all slanders happening under sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them = strength, and there is no comforter for them.
 - brenton: So I returned, and saw all the oppressions that were done under the sun: and behold the tear of the oppressed, and they had no comforter; and on the side of them that oppressed them was power; but they had no comforter:
 
 ### Ecclesiastes 4:2
@@ -155264,7 +155264,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because dream comes in multitude of distraction, and voice of fool in multitude of words.
+- fresh: Because dream comes in the multitude of distraction, and voice of fool in the multitude of words.
 - brenton: For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.
 
 ### Ecclesiastes 5:3
@@ -155300,7 +155300,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in multitude of dreams and vanities and many words, instead fear God.
+- fresh: Because in the multitude of dreams and vanities and many words, instead fear God.
 - brenton: For there is evil in a multitude of dreams and vanities and many words: but fear thou God.
 
 ### Ecclesiastes 5:7
@@ -155336,7 +155336,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
+- fresh: In the multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
 - brenton: In the multitude of good they are increased that eat it: and what virtue has the owner, but the right of beholding it with his eyes?
 
 ### Ecclesiastes 5:11
@@ -155651,7 +155651,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In day of goodness, live in good, and in day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
+- fresh: In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
 - brenton: In the day of prosperity live joyfully, and consider in the day of adversity: consider, I say, God also has caused the one to agree with the other for this reason, that man should find nothing after him.
 
 ### Ecclesiastes 7:15
@@ -155858,7 +155858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no man exercising authority over spirit to restrain spirit, and there is no authority in day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
+- fresh: There is no man exercising authority over spirit to restrain spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
 - brenton: There is no man that has power over the spirit to retain the spirit; and there is no power in the day of death: and there is no discharge in the day of battle; neither shall ungodliness save her votary.
 
 ### Ecclesiastes 8:9
@@ -155948,7 +155948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in hand of God; yet love and hatred man does not know; all things before them.
+- fresh: Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in the hand of God; yet love and hatred man does not know; all things before them.
 - brenton: I saw that the righteous, and the wise, and their works, are in the hand of God: yea, there is no man that knows either love or hatred, though all are before their face.
 
 ### Ecclesiastes 9:2
@@ -156146,7 +156146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is evil I saw under sun, like involuntary thing that went out from face of ruler.
+- fresh: There is evil I saw under sun, like involuntary thing that went out from the face of ruler.
 - brenton: There is an evil which I have seen under the sun, wherein an error has proceeded from the ruler.
 
 ### Ecclesiastes 10:6
@@ -156281,7 +156281,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Even in your conscience do not curse king, and in chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
+- fresh: Even in your conscience do not curse king, and in the chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
 - brenton: Even in thy conscience, curse not the king; and curse not the rich in thy bedchamber: for a bird of the air shall carry thy voice, and that which has wings shall report thy speech.
 
 ### Ecclesiastes 11:1
@@ -156290,7 +156290,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Send your bread upon face of water, because in multitude of days you will find it.
+- fresh: Send your bread upon the face of water, because in the multitude of days you will find it.
 - brenton: Send forth thy bread upon the face of the water: for thou shalt find it after many days.
 
 ### Ecclesiastes 11:2
@@ -156326,7 +156326,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
+- fresh: As you do not know what way of spirit, as bones in the womb of pregnant woman, so you will not know works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
 
 ### Ecclesiastes 11:6
@@ -156362,7 +156362,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in ways of your heart and in sight of your eyes, and know that for all these God will bring you in judgment.
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 - brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ### Ecclesiastes 11:10
@@ -156407,7 +156407,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and doors in market will be shut in weakness of sound of grinder, and he will rise at sound of sparrow, and all daughters of song will be brought low.
+- fresh: and doors in market will be shut in weakness of sound of grinder, and he will rise at the sound of sparrow, and all daughters of song will be brought low.
 - brenton: and they shall shut the doors in the market-place, because of the weakness of the voice of her that grinds at the mill; and he shall rise up at the voice of the sparrow, and all the daughters of song shall be brought low;
 
 ### Ecclesiastes 12:5
@@ -156733,7 +156733,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My beloved is like gazelle or fawn of deer on mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
+- fresh: My beloved is like gazelle or fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 - brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
 
 ### Song of Solomon 2:10
@@ -156778,7 +156778,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And come, my dove, in shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
+- fresh: And come, my dove, in the shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
 - brenton: Thou art my dove, in the shelter of the rock, near the wall: shew me thy face, and cause me to hear thy voice; for thy voice is sweet, and thy countenance is beautiful.
 
 ### Song of Solomon 2:15
@@ -156841,7 +156841,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into chamber of one who conceived me.
+- fresh: Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of one who conceived me.
 - brenton: It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.
 
 ### Song of Solomon 3:5
@@ -156895,7 +156895,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He made its pillars silver and its recliner gold, its seat purple, its inside paved with love from daughters of Jerusalem.
+- fresh: He made its pillars silver and its recliner gold, its seat purple, its inside paved with love from the daughters of Jerusalem.
 - brenton: He made the pillars of it silver, the bottom of it gold, the covering of it scarlet, in the midst of it a pavement of love, for the daughters of Jerusalem.
 
 ### Song of Solomon 3:11
@@ -156904,7 +156904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come out and see in King Solomon, with crown with which his mother crowned him in day of his wedding and in day of gladness of his heart.
+- fresh: Come out and see in King Solomon, with crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
 - brenton: Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.
 
 ### Song of Solomon 4:1
@@ -156958,7 +156958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Until day breathes and shadows move, I will go for myself to mountain of myrrh and hill of frankincense.
+- fresh: Until day breathes and shadows move, I will go for myself to the mountain of myrrh and hill of frankincense.
 - brenton: Until the day dawn, and the shadows depart, I will betake me to the mountain of myrrh, and to the hill of frankincense.
 
 ### Song of Solomon 4:7
@@ -156976,7 +156976,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from top of Senir and Hermon, from dens of lions, from mountains of leopards.
+- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from the top of Senir and Hermon, from dens of lions, from the mountains of leopards.
 - brenton: Come from Libanus, my bride, come from Libanus: thou shalt come and pass from the top of Faith, from the top of Sanir and Hermon, from the lions' dens, from the mountains of the leopards.
 
 ### Song of Solomon 4:9
@@ -157345,7 +157345,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your neck as ivory tower. Your eyes as pools in Heshbon at gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
+- fresh: Your neck as ivory tower. Your eyes as pools in Heshbon at the gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
 - brenton: Thy neck is as an ivory tower; thine eyes are as pools in Esebon, by the gates of the daughter of many: thy nose is as the tower of Libanus, looking toward Damascus.
 
 ### Song of Solomon 7:6
@@ -157444,7 +157444,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will take you, I will bring you into the house of my mother and into chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
+- fresh: I will take you, I will bring you into the house of my mother and into the chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
 - brenton: I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.
 
 ### Song of Solomon 8:3
@@ -157552,7 +157552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee, my beloved, and be like gazelle or fawn of deer on mountains of spices.
+- fresh: Flee, my beloved, and be like gazelle or fawn of deer on the mountains of spices.
 - brenton: Away, my kinsman, and be like a doe or a fawn on the mountains of spices.
 
 ## Isaiah
@@ -157563,7 +157563,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
+- fresh: Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in the reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
 - brenton: The vision which Esaias the son of Amos saw, which he saw against Juda and against Jerusalem, in the reign of Ozias, and Joatham, and Achaz, and Ezekias, who reigned over Judea.
 
 ### Isaiah 1:2
@@ -157860,7 +157860,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Many nations will go and say, Come, let us go up to mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
+- fresh: Many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will tell us his way, and we will walk in it: for out of Sion shall go forth the law, and the word of the Lord out of Jerusalem.
 
 ### Isaiah 2:4
@@ -157878,7 +157878,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, house of Jacob, come, let us walk in light of the Lord.
+- fresh: And now, house of Jacob, come, let us walk in the light of the Lord.
 - brenton: And now, O house of Jacob, come, and let us walk in the light of the Lord.
 
 ### Isaiah 2:6
@@ -157923,7 +157923,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now enter rocks and hide in earth from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: And now enter rocks and hide in earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
 - brenton: Now therefore enter ye into the rocks, and hide yourselves in the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:11
@@ -158004,7 +158004,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Carrying them into caves and fissures of rocks and hollows of earth from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: Carrying them into caves and fissures of rocks and hollows of earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
 - brenton: having carried them into the caves, and into the clefts of the rocks, and into the caverns of the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:20
@@ -158022,7 +158022,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To enter hollows of solid rock and fissures of rocks from face of the fear of the Lord and from glory of his strength when he rises to shatter earth.
+- fresh: To enter hollows of solid rock and fissures of rocks from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
 - brenton: to enter into the caverns of the solid rock, and into the clefts of the rocks, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 3:1
@@ -158121,7 +158121,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to lawless one; evil will happen to him according to works of his hands.
+- fresh: Woe to lawless one; evil will happen to him according to the works of his hands.
 - brenton: Woe to the transgressor! evils shall happen to him according to the works of his hands.
 
 ### Isaiah 3:12
@@ -158292,7 +158292,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord will wash filth of sons and daughters of Zion and cleanse blood from their midst by spirit of judgment and spirit of burning.
+- fresh: Because the Lord will wash filth of sons and daughters of Zion and cleanse blood from their midst by the spirit of judgment and spirit of burning.
 - brenton: For the Lord shall wash away the filth of the sons and daughters of Sion, and shall purge out the blood from the midst of them, with the spirit of judgment, and the spirit of burning.
 
 ### Isaiah 4:5
@@ -158391,7 +158391,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For these things were heard in ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
+- fresh: For these things were heard in the ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
 - brenton: For these things have reached the ears of the Lord of hosts: for though many houses should be built, many and fair houses shall be desolate, and there shall be no inhabitants in them.
 
 ### Isaiah 5:10
@@ -158841,7 +158841,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because before child knows good or evil, he rejects evil to choose good, and land which you fear from face of two kings will be forsaken.
+- fresh: Because before child knows good or evil, he rejects evil to choose good, and land which you fear from the face of two kings will be forsaken.
 - brenton: For before the child shall know good or evil, he refuses evil, to choose the good; and the land shall be forsaken which thou art afraid of because of the two kings.
 
 ### Isaiah 7:17
@@ -158850,7 +158850,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But God will bring upon you and upon your people and upon house of your father days not yet come since day Ephraim was taken away from Judah = king of Assyrians.
+- fresh: But God will bring upon you and upon your people and upon the house of your father days not yet come since day Ephraim was taken away from Judah = king of Assyrians.
 - brenton: But God shall bring upon thee, and upon thy people, and upon the house of thy father, days which have never come, from the day that Ephraim took away from Juda the king of the Assyrians.
 
 ### Isaiah 7:18
@@ -158877,7 +158877,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day the Lord will shave with razor, great and drunken, which is beyond river, by king of Assyrians, the head and hairs of feet, and beard he will remove.
+- fresh: In that day the Lord will shave with razor, great and drunken, which is beyond river, by the king of Assyrians, the head and hairs of feet, and beard he will remove.
 - brenton: In that day the Lord shall shave with the hired razor of the king of Assyria beyond the river the head, and the hairs of the feet, and will remove the beard.
 
 ### Isaiah 7:21
@@ -158895,7 +158895,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, from abundance of milk, everyone left on land will eat butter and honey.
+- fresh: And it will be, from the abundance of milk, everyone left on land will eat butter and honey.
 - brenton: And it shall come to pass from their drinking an abundance of milk, that every one that is left on the land shall eat butter and honey.
 
 ### Isaiah 7:23
@@ -158958,7 +158958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because before child knows to call father or mother, he will take power of Damascus and spoils of Samaria before king of Assyrians.
+- fresh: Because before child knows to call father or mother, he will take power of Damascus and spoils of Samaria before the king of Assyrians.
 - brenton: For before the child shall know how to call his father or his mother, one shall take the power of Damascus and the spoils of Samaria before the king of the Assyrians.
 
 ### Isaiah 8:5
@@ -159183,7 +159183,7 @@ Note:
 - decisions: 1
 - footnotes: 2
 - same_normalized: no
-- fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of the Lord of hosts will do these things.
+- fresh: Great his rule, and his peace has no boundary, upon the throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of the Lord of hosts will do these things.
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ### Isaiah 9:7
@@ -159228,7 +159228,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Syria from east of sun and Greeks from west of sun, devouring Israel with whole mouth. In all these his anger did not turn away, but hand still high.
+- fresh: Syria from the east of sun and Greeks from west of sun, devouring Israel with whole mouth. In all these his anger did not turn away, but hand still high.
 - brenton: even Syria from the rising of the sun, and the Greeks from the setting of the sun, who devour Israel with open mouth. For all this his anger is not turned away, but still his hand is exalted.
 
 ### Isaiah 9:12
@@ -159336,7 +159336,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And what will they do in day of visitation? For affliction will come to you from far off, and to whom will you flee to be helped, and where will you leave your glory?
+- fresh: And what will they do in the day of visitation? For affliction will come to you from far off, and to whom will you flee to be helped, and where will you leave your glory?
 - brenton: And what will they do in the day of visitation? for affliction shall come to you from afar: and to whom will ye flee for help? and where will ye leave your glory,
 
 ### Isaiah 10:4
@@ -159624,7 +159624,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rod will come out from root of Jesse, and flower from root will go up.
+- fresh: And rod will come out from the root of Jesse, and flower from root will go up.
 - brenton: And there shall come forth a rod out of the root of Jesse, and a blossom shall come up from his root:
 
 ### Isaiah 11:2
@@ -159714,7 +159714,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, the Lord will add to show his hand, to be zealous for remnant left of his people which might be left from Assyrians and Egypt and Babylon and Ethiopia and from Elamites and from east of sun and from Arabia.
+- fresh: And it will be in that day, the Lord will add to show his hand, to be zealous for remnant left of his people which might be left from Assyrians and Egypt and Babylon and Ethiopia and from Elamites and from the east of sun and from Arabia.
 - brenton: And it shall be in that day, that the Lord shall again shew his hand, to be zealous for the remnant that is left of the people, which shall be left by the Assyrians, and that from Egypt, and from the country of Babylon, and from Ethiopia, and from the Elamites, and from the rising of the sun, and out of Arabia.
 
 ### Isaiah 11:12
@@ -159759,7 +159759,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will be passage for my people left in Egypt, and it will be for Israel as day when he came out from land of Egypt.
+- fresh: And there will be passage for my people left in Egypt, and it will be for Israel as day when he came out from the land of Egypt.
 - brenton: And there shall be a passage for my people that is left in Egypt: and it shall be to Israel as the day when he came forth out of the land of Egypt.
 
 ### Isaiah 12:1
@@ -159786,7 +159786,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will draw water with gladness from springs of salvation.
+- fresh: And you will draw water with gladness from the springs of salvation.
 - brenton: Draw ye therefore water with joy out of the wells of salvation.
 
 ### Isaiah 12:4
@@ -159804,7 +159804,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing hymn to the name of the Lord, because he did high things; announce these in all earth.
+- fresh: Sing hymn to the name of the Lord, because he did high things; announce these in all the earth.
 - brenton: Sing praise to the name of the Lord; for he has done great things: declare this in all the earth.
 
 ### Isaiah 12:6
@@ -159858,7 +159858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to come from far land, from edge of foundation of heaven, Lord and his warriors, to destroy whole inhabited world.
+- fresh: to come from far land, from the edge of foundation of heaven, Lord and his warriors, to destroy whole inhabited world.
 - brenton: to come from a land afar off, from the utmost foundation of heaven; the Lord and his warriors are coming to destroy all the world.
 
 ### Isaiah 13:6
@@ -159984,7 +159984,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Babylon, called glorious by king of Chaldeans, will be as when God overthrew Sodom and Gomorrah.
+- fresh: And Babylon, called glorious by the king of Chaldeans, will be as when God overthrew Sodom and Gomorrah.
 - brenton: And Babylon, which is called glorious by the king of the Chaldeans, shall be as when God overthrew Sodoma and Gomorrha.
 
 ### Isaiah 13:20
@@ -160029,7 +160029,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations will take them and bring them into their place, and they will inherit and multiply on land of God as male slaves and female slaves, and they will capture those who captured them and rule those who ruled them.
+- fresh: And nations will take them and bring them into their place, and they will inherit and multiply on the land of God as male slaves and female slaves, and they will capture those who captured them and rule those who ruled them.
 - brenton: And the Gentiles shall take them, and bring them into their place: and they shall inherit them, and they shall be multiplied upon the land for servants and handmaidens: and they that took them captives shall become captives to them; and they that had lordship over them shall be under their rule.
 
 ### Isaiah 14:3
@@ -160074,7 +160074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All earth rested confidently; it cries out with gladness.
+- fresh: All the earth rested confidently; it cries out with gladness.
 - brenton: All the earth cries aloud with joy:
 
 ### Isaiah 14:8
@@ -160146,7 +160146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But now you will go down into Hades and into foundations of earth.
+- fresh: But now you will go down into Hades and into the foundations of earth.
 - brenton: But now thou shalt go down to hell, even to the foundations of the earth.
 
 ### Isaiah 14:16
@@ -160272,7 +160272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not rejoice, all you foreigners; for yoke of one striking you was broken, for from seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
+- fresh: Do not rejoice, all you foreigners; for yoke of one striking you was broken, for from the seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
 - brenton: Rejoice not, all ye Philistines, because the yoke of him that smote you is broken: for out of the seed of the serpent shall come forth the young of asps, and their young shall come forth flying serpents.
 
 ### Isaiah 14:30
@@ -160344,7 +160344,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Heart of Moab cries within her, as far as Zoar, for heifer is three years old. Upon ascent of Luhith they will go up to you weeping; on way of Horonaim they cry out, destruction and earthquake.
+- fresh: Heart of Moab cries within her, as far as Zoar, for heifer is three years old. Upon the ascent of Luhith they will go up to you weeping; on the way of Horonaim they cry out, destruction and earthquake.
 - brenton: The heart of the region of Moab cries within her to Segor; for it is as a heifer of three years old: and on the ascent of Luith they shall go up to thee weeping by the way of Aroniim: she cries, Destruction, and trembling.
 
 ### Isaiah 15:6
@@ -160362,7 +160362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Will it thus be saved? For I will bring upon valley of Arabs, and they will take it.
+- fresh: Will it thus be saved? For I will bring upon the valley of Arabs, and they will take it.
 - brenton: Shall Moab even thus be delivered? for I will bring the Arabians upon the valley, and they shall take it.
 
 ### Isaiah 15:8
@@ -160416,7 +160416,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Fugitives of Moab will dwell with you; they will be shelter to you from face of pursuer, because your alliance was removed and ruler perished, one trampling on earth.
+- fresh: Fugitives of Moab will dwell with you; they will be shelter to you from the face of pursuer, because your alliance was removed and ruler perished, one trampling on earth.
 - brenton: The fugitives of Moab shall sojourn with thee; they shall be to you a shelter from the face of the pursuer: for thine alliance has been taken away, and the oppressing ruler has perished from off the earth.
 
 ### Isaiah 16:5
@@ -160425,7 +160425,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And throne will be set right with mercy, and one will sit upon it with truth in tent of David, judging and seeking judgment and hastening righteousness.
+- fresh: And throne will be set right with mercy, and one will sit upon it with truth in the tent of David, judging and seeking judgment and hastening righteousness.
 - brenton: And a throne shall be established with mercy; and one shall sit upon it with truth in the tabernacle of David, judging, and earnestly seeking judgments, and hasting righteousness.
 
 ### Isaiah 16:6
@@ -160578,7 +160578,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they certainly will not be trusting in altars, nor in works of their hands which their fingers made, and they will not see their trees nor their abominations.
+- fresh: And they certainly will not be trusting in altars, nor in the works of their hands which their fingers made, and they will not see their trees nor their abominations.
 - brenton: And they shall not at all trust in their altars, nor in the works of their hands, which their fingers made; and they shall not look to the trees, nor to their abominations.
 
 ### Isaiah 17:9
@@ -160587,7 +160587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day your cities will be abandoned as Amorites and Hivites abandoned from face of sons of Israel, and they will be desolate.
+- fresh: In that day your cities will be abandoned as Amorites and Hivites abandoned from the face of sons of Israel, and they will be desolate.
 - brenton: In that day thy cities shall be deserted, as the Amorites and the Evæans deserted theirs, because of the children of Israel; and they shall be desolate.
 
 ### Isaiah 17:10
@@ -160668,7 +160668,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus the Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in day of harvest.
+- fresh: Because thus the Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in the day of harvest.
 - brenton: For thus said the Lord to me, There shall be security in my city, as the light of noonday heat, and it shall be as a cloud of dew in the day of harvest.
 
 ### Isaiah 18:5
@@ -160686,7 +160686,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will leave them together to birds of heaven and beasts of earth, and birds of heaven will gather on them and all beasts of earth will come upon him.
+- fresh: And he will leave them together to the birds of heaven and beasts of earth, and birds of heaven will gather on them and all beasts of earth will come upon him.
 - brenton: and he shall leave them together to the birds of the sky, and to the wild beasts of the earth: and the fowls of the sky shall be gathered upon them, and all the beasts of the land shall come upon him.
 
 ### Isaiah 18:7
@@ -160731,7 +160731,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will hand over Egypt into hands of harsh lords, and harsh kings will rule them, thus says the Lord of hosts.
+- fresh: And I will hand over Egypt into the hands of harsh lords, and harsh kings will rule them, thus says the Lord of hosts.
 - brenton: And I will deliver Egypt into the hands of men, of cruel lords; and cruel kings shall rule over them: thus saith the Lord of hosts.
 
 ### Isaiah 19:5
@@ -160758,7 +160758,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And green rush, all around river, and everything sown by river will dry up, wind-blasted.
+- fresh: And green rush, all around river, and everything sown by the river will dry up, wind-blasted.
 - brenton: And all the green herbage round about the river, and everything sown by the side of the river, shall be blasted with the wind and dried up.
 
 ### Isaiah 19:8
@@ -160839,7 +160839,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Egyptians will be as women, in fear and trembling from face of the hand of the Lord of hosts which he himself lays upon them.
+- fresh: In that day Egyptians will be as women, in fear and trembling from the face of the hand of the Lord of hosts which he himself lays upon them.
 - brenton: But in that day the Egyptians shall be as women, in fear and in trembling because of the hand of the Lord of hosts, which he shall bring upon them.
 
 ### Isaiah 19:17
@@ -160956,7 +160956,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus king of Assyrians will lead captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with shame of Egypt uncovered.
+- fresh: Because thus king of Assyrians will lead captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with the shame of Egypt uncovered.
 - brenton: for thus shall the king of the Assyrians lead the captivity of Egypt and the Ethiopians, young men and old, naked and barefoot, having the shame of Egypt exposed.
 
 ### Isaiah 20:5
@@ -160974,7 +160974,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And dwellers in this island will say, Look, we were trusting to flee to them for help, who were not able to be saved from king of Assyrians; and how shall we be saved?
+- fresh: And dwellers in this island will say, Look, we were trusting to flee to them for help, who were not able to be saved from the king of Assyrians; and how shall we be saved?
 - brenton: And they that dwell in this island shall say in that day, Behold, we trusted to flee to them for help, who could not save themselves from the king of the Assyrians: and how shall we be saved?
 
 ### Isaiah 21:1
@@ -161163,7 +161163,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort me over crushing of daughter of my kin.
+- fresh: Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort me over the crushing of daughter of my kin.
 - brenton: Therefore I said, Let me alone, I will weep bitterly; labour not to comfort me for the breach of the daughter of my people.
 
 ### Isaiah 22:5
@@ -161172,7 +161172,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because day of trouble and destruction and trampling and wandering from the Lord of hosts in valley of Zion; they wander from small to great, they wander on mountains.
+- fresh: Because day of trouble and destruction and trampling and wandering from the Lord of hosts in the valley of Zion; they wander from small to great, they wander on mountains.
 - brenton: For it is a day of trouble, and of destruction, and of treading down, and there is perplexity sent from the Lord of hosts: they wander in the valley of Sion; they wander from the least to the greatest on the mountains.
 
 ### Isaiah 22:6
@@ -161253,7 +161253,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And these things are uncovered in ears of the Lord of hosts: this sin will certainly not be forgiven you until you die.
+- fresh: And these things are uncovered in the ears of the Lord of hosts: this sin will certainly not be forgiven you until you die.
 - brenton: And these things are revealed in the ears of the Lord of hosts: for this sin shall not be forgiven you, until ye die.
 
 ### Isaiah 22:15
@@ -161334,7 +161334,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set him ruler in trustworthy place, and he will be for throne of glory of house of his father.
+- fresh: And I will set him ruler in trustworthy place, and he will be for throne of glory of the house of his father.
 - brenton: And I will make him a ruler in a sure place, and he shall be for a glorious throne of his father's house.
 
 ### Isaiah 22:24
@@ -161361,7 +161361,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from land of Kittim; it was led captive.
+- fresh: Vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from the land of Kittim; it was led captive.
 - brenton: The Word concerning Tyre.
 
 ### Isaiah 23:2
@@ -161469,7 +161469,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And into land of Chaldeans, and this has been desolated by Assyrians; even there rest will not be to you, because its wall has fallen.
+- fresh: And into the land of Chaldeans, and this has been desolated by Assyrians; even there rest will not be to you, because its wall has fallen.
 - brenton: And if thou depart to the land of the Chaldeans, this also is laid waste by the Assyrians, for her wall is fallen.
 
 ### Isaiah 23:14
@@ -161640,7 +161640,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These will cry out with voice, and those left on land will rejoice together in glory of the Lord; water of sea will be troubled.
+- fresh: These will cry out with voice, and those left on land will rejoice together in the glory of the Lord; water of sea will be troubled.
 - brenton: these shall cry aloud; and they that are left on the land shall rejoice together in the glory of the Lord: the water of the sea shall be troubled.
 
 ### Isaiah 24:15
@@ -161793,7 +161793,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Death swallowed after growing strong, and again God took away every tear from every face; reproach of people he took away from all earth, for mouth of the Lord spoke.
+- fresh: Death swallowed after growing strong, and again God took away every tear from every face; reproach of people he took away from all the earth, for mouth of the Lord spoke.
 - brenton: Death has prevailed and swallowed men up; but again the Lord God has taken away every tear from every face. He has taken away the reproach of his people from all the earth: for the mouth of the Lord has spoken it.
 
 ### Isaiah 25:9
@@ -162180,7 +162180,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day the Lord of hosts will be crown of hope, woven thing of glory, to remnant of my people.
+- fresh: In that day the Lord of hosts will be crown of hope, woven thing of glory, to the remnant of my people.
 - brenton: In that day the Lord of hosts shall be the crown of hope, the woven crown of glory, to the remnant of the people.
 
 ### Isaiah 28:6
@@ -162216,7 +162216,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom did we announce evils, and to whom did we announce message? Those weaned from milk, those pulled from breast.
+- fresh: To whom did we announce evils, and to whom did we announce message? Those weaned from milk, those pulled from the breast.
 - brenton: To whom have we reported evils? and to whom have we reported a message? even to those that are weaned from the milk, who are drawn from the breast.
 
 ### Isaiah 28:10
@@ -162279,7 +162279,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I cast into foundations of Zion costly stone, chosen, precious cornerstone into her foundations, and one believing on him certainly will not be put to shame.
+- fresh: Therefore thus says the Lord: Behold, I cast into the foundations of Zion costly stone, chosen, precious cornerstone into her foundations, and one believing on him certainly will not be put to shame.
 - brenton: therefore thus saith the Lord, even the Lord,
 
 ### Isaiah 28:17
@@ -162324,7 +162324,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As mountain of ungodly he will rise, and he will be in valley of Gibeon with wrath. He will do his works, works of bitterness; but his wrath will use strange way, and his bitterness alien.
+- fresh: As mountain of ungodly he will rise, and he will be in the valley of Gibeon with wrath. He will do his works, works of bitterness; but his wrath will use strange way, and his bitterness alien.
 - brenton: The Lord shall rise up as a mountain of ungodly men, and shall be in the valley of Gabaon; he shall perform his works with wrath, even a work of bitterness, and his wrath shall deal strangely, and his destruction shall be strange.
 
 ### Isaiah 28:22
@@ -162486,7 +162486,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord has given you drink by spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing hidden things.
+- fresh: Because the Lord has given you drink by the spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing hidden things.
 - brenton: For the Lord has made you to drink a spirit of deep sleep; and he shall close their eyes, and the eyes of their prophets and of their rulers, who see secret things.
 
 ### Isaiah 29:11
@@ -162504,7 +162504,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And this book will be given into hands of man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
+- fresh: And this book will be given into the hands of man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
 - brenton: And this book shall be given into the hands of a man that is unlearned, and one shall say to him, Read this; and he shall say, I am not learned.
 
 ### Isaiah 29:13
@@ -162594,7 +162594,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord upon house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change face.
+- fresh: Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change face.
 - brenton: Therefore thus saith the Lord concerning the house of Jacob, whom he set apart from Abraam, Jacob shall not now be ashamed, neither shall he now change countenance.
 
 ### Isaiah 29:23
@@ -162765,7 +162765,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At voice of one, thousand will flee, and at voice of five, many will flee until you are left as mast on mountain and as standard-bearer on hill.
+- fresh: At the voice of one, thousand will flee, and at the voice of five, many will flee until you are left as mast on mountain and as standard-bearer on hill.
 - brenton: A thousand shall flee because of the voice of one, and many shall flee on account of the voice of five; until ye be left as a signal-post upon a mountain, and as one bearing an ensign upon a hill.
 
 ### Isaiah 30:18
@@ -162783,7 +162783,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at voice of your cry, whenever he saw, he heard you.
+- fresh: Because holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at the voice of your cry, whenever he saw, he heard you.
 - brenton: For the holy people shall dwell in Sion: and whereas Jerusalem has wept bitterly, saying, Pity me; he shall pity thee: when he perceived the voice of thy cry, he hearkened to thee.
 
 ### Isaiah 30:20
@@ -162819,7 +162819,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then there will be rain for seed of your land, and bread from produce of your land will be abundant and rich, and your cattle will be grazed in that day in rich and spacious place.
+- fresh: Then there will be rain for seed of your land, and bread from the produce of your land will be abundant and rich, and your cattle will be grazed in that day in rich and spacious place.
 - brenton: Then shall there be rain to the seed of thy land; and the bread of the fruit of thy land shall be plenteous and rich: and thy cattle shall feed in that day in a fertile and spacious place.
 
 ### Isaiah 30:24
@@ -162873,7 +162873,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Must you not rejoice continually and go into my holy things continually, as those keeping feast and as those rejoicing to enter with flute into mountain of the Lord, to God of Israel?
+- fresh: Must you not rejoice continually and go into my holy things continually, as those keeping feast and as those rejoicing to enter with flute into the mountain of the Lord, to God of Israel?
 - brenton: Must ye always rejoice, and go into my holy places continually, as they that keep a feast? and must ye go with a pipe, as those that rejoice, into the mountain of the Lord, to the God of Israel?
 
 ### Isaiah 30:30
@@ -162981,7 +162981,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Asshur will fall, not by sword of man, nor sword of human devour him; and he will flee, not from face of sword, and young men will be for defeat.
+- fresh: And Asshur will fall, not by the sword of man, nor sword of human devour him; and he will flee, not from the face of the sword, and young men will be for defeat.
 - brenton: And the Assyrian shall fall: not the sword of a great man, nor the sword of a mean man shall devour him; neither shall he flee from the face of the sword: but the young men shall be overthrown:
 
 ### Isaiah 31:9
@@ -163107,7 +163107,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thorn and grass will come up on land of my people, and from every house gladness will be taken away, rich city.
+- fresh: Thorn and grass will come up on the land of my people, and from every house gladness will be taken away, rich city.
 - brenton: As for the land of my people, the thorn and grass shall come upon it, and joy shall be removed from every house.
 
 ### Isaiah 32:14
@@ -163152,7 +163152,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his people will dwell in city of peace and settle trusting and rest with wealth.
+- fresh: And his people will dwell in the city of peace and settle trusting and rest with wealth.
 - brenton: And his people shall inhabit a city of peace, and dwell in it in confidence, and they shall rest with wealth.
 
 ### Isaiah 32:19
@@ -163188,7 +163188,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, have mercy on us, for on you we have trusted. Seed of disobedient became for destruction, but our salvation in time of affliction.
+- fresh: Lord, have mercy on us, for on you we have trusted. Seed of disobedient became for destruction, but our salvation in the time of affliction.
 - brenton: Lord, have mercy upon us; for we have trusted in thee: the seed of the rebellious is gone to destruction, but our deliverance was in a time of affliction.
 
 ### Isaiah 33:3
@@ -163197,7 +163197,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At voice of your fear peoples were astonished; from your fear nations were scattered.
+- fresh: At the voice of your fear peoples were astonished; from your fear nations were scattered.
 - brenton: By reason of the terrible sound the nations were dismayed for fear of thee, and the heathen were scattered.
 
 ### Isaiah 33:4
@@ -163440,7 +163440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sword of the Lord was filled with blood, fattened from fat of lambs and from fat of goats and rams, because sacrifice to the Lord in Besor and great slaughter in Edom.
+- fresh: Sword of the Lord was filled with blood, fattened from the fat of lambs and from the fat of goats and rams, because sacrifice to the Lord in Besor and great slaughter in Edom.
 - brenton: The sword of the Lord is filled with blood, it is glutted with fat, with the blood of goats and lambs, and with the fat of goats and rams: for the Lord has a sacrifice in Bosor, and a great slaughter in Idumea.
 
 ### Isaiah 34:7
@@ -163539,7 +163539,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he himself will cast lots to them, and his hand divided to them to graze forever; you will inherit forever; through generations of generations they will rest upon it.
+- fresh: And he himself will cast lots to them, and his hand divided to them to graze forever; you will inherit forever; through the generations of generations they will rest upon it.
 - brenton: And he shall cast lots for them, and his hand has portioned out their pasture, saying, Ye shall inherit the land for ever: they shall rest on it through all generations.
 
 ### Isaiah 35:1
@@ -163647,7 +163647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king of Assyrians sent Rabshakeh from Lachish into Jerusalem to king Hezekiah with much force, and he stood by conduit of upper pool on road of fuller's field.
+- fresh: And king of Assyrians sent Rabshakeh from Lachish into Jerusalem to king Hezekiah with much force, and he stood by conduit of upper pool on the road of fuller's field.
 - brenton: And the king of the Assyrians sent Rabsaces out of Laches to Jerusalem to king Ezekias with a large force: and he stood by the conduit of the upper pool in the way of the fuller's field.
 
 ### Isaiah 36:3
@@ -163728,7 +163728,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into ears of men on wall?
+- fresh: And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into the ears of men on wall?
 - brenton: Then Eliakim and Somnas and Joach said to him, Speak to thy servants in the Syrian tongue; for we understand it: and speak not to us in the Jewish tongue: and wherefore speakest thou in the ears of the men on the wall?
 
 ### Isaiah 36:12
@@ -163764,7 +163764,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And do not let Hezekiah say to you that God will rescue you and this city certainly will not be handed into hand of king of Assyrians.
+- fresh: And do not let Hezekiah say to you that God will rescue you and this city certainly will not be handed into the hand of king of Assyrians.
 - brenton: And let not Ezekias say to you, That God will deliver you, and this city will not at all be delivered into the hand of the king of the Assyrians.
 
 ### Isaiah 36:16
@@ -163782,7 +163782,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: until I come and take you into land like your land, land of grain and wine and breads and vineyards.
+- fresh: until I come and take you into a land like your land, land of grain and wine and breads and vineyards.
 - brenton: until I come and take you to a land, like your own land, a land of corn and wine, and bread and vineyards.
 
 ### Isaiah 36:18
@@ -163791,7 +163791,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not let Hezekiah deceive you, saying, Your God will rescue you. Did gods of nations each rescue its own land from hand of king of Assyrians?
+- fresh: Do not let Hezekiah deceive you, saying, Your God will rescue you. Did gods of nations each rescue its own land from the hand of king of Assyrians?
 - brenton: Let not Ezekias deceive you, saying, God will deliver you. Have the gods of the nations delivered each one his own land out of the hand of the king of the Assyrians?
 
 ### Isaiah 36:19
@@ -163917,7 +163917,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus you will say to Hezekiah king of Judah: Do not let your God, on whom you trust, deceive you, saying, Jerusalem certainly will not be handed into hands of king of Assyrians.
+- fresh: Thus you will say to Hezekiah king of Judah: Do not let your God, on whom you trust, deceive you, saying, Jerusalem certainly will not be handed into the hands of king of Assyrians.
 - brenton: Thus shall ye say to Ezekias king of Judea, Let not thy God, in whom thou trustest, deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of the Assyrians.
 
 ### Isaiah 37:11
@@ -164043,7 +164043,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because through envoys you reproached Lord. For you said, In multitude of my chariots I went up into height of mountains and into far parts of Lebanon, and I cut down height of its cedar and beauty of cypress and entered height of region of forest.
+- fresh: Because through envoys you reproached Lord. For you said, In the multitude of my chariots I went up into height of mountains and into far parts of Lebanon, and I cut down height of its cedar and beauty of cypress and entered height of region of forest.
 - brenton: For thou hast reproached the Lord by messengers; for thou hast said, With the multitude of chariots have I ascended to the height of mountains, and to the sides of Libanus; and I have cropped the height of his cedars and the beauty of his cypresses; and I entered into the height of the forest region:
 
 ### Isaiah 37:25
@@ -164223,7 +164223,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from hand of king of Assyrians I will save you and shield over this city.
+- fresh: and from the hand of king of Assyrians I will save you and shield over this city.
 - brenton: And I will deliver thee and this city out of the hand of the king of the Assyrians: and I will defend this city.
 
 ### Isaiah 38:7
@@ -164241,7 +164241,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: shadow of stair-steps which sun went down, ten steps of house of your father, I will turn back the sun ten steps. And sun went up ten steps which shadow had gone down.
+- fresh: shadow of stair-steps which sun went down, ten steps of the house of your father, I will turn back the sun ten steps. And sun went up ten steps which shadow had gone down.
 - brenton: behold, I will turn back the shadow of the degrees of the dial by which ten degrees on the house of thy father the sun has gone down—I will turn back the sun the ten degrees; so the sun went back the ten degrees by which the shadow had gone down.
 
 ### Isaiah 38:9
@@ -164259,7 +164259,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, In height of my days, in gates of Hades I will leave remaining years.
+- fresh: I said, In height of my days, in the gates of Hades I will leave remaining years.
 - brenton: I said in the end of my days, I shall go to the gates of the grave: I shall part with the remainder of my years.
 
 ### Isaiah 38:11
@@ -164430,7 +164430,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and from your children whom you begot they will take and make eunuchs in the house of king of Babylonians.
+- fresh: and from your children whom you begot they will take and make eunuchs in the house of the king of Babylonians.
 - brenton: that they shall take also of thy children whom thou shalt beget; and they shall make them eunuchs in the house of the king of the Babylonians.
 
 ### Isaiah 39:8
@@ -164457,7 +164457,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Priests, speak to heart of Jerusalem; comfort her, because her humiliation is filled, her sin is loosed, because she received from the hand of the Lord double her sins.
+- fresh: Priests, speak to the heart of Jerusalem; comfort her, because her humiliation is filled, her sin is loosed, because she received from the hand of the Lord double her sins.
 - brenton: Speak, ye priests, to the heart of Jerusalem; comfort her, for her humiliation is accomplished, her sin is put away: for she has received of the Lord's hand double the amount of her sins.
 
 ### Isaiah 40:3
@@ -164520,7 +164520,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On high mountain go up, one bringing good news to Zion. Lift your voice with strength, one bringing good news to Jerusalem. Lift up, do not fear; say to cities of Judah, Behold your God.
+- fresh: On high mountain go up, one bringing good news to Zion. Lift your voice with strength, one bringing good news to Jerusalem. Lift up, do not fear; say to the cities of Judah, Behold your God.
 - brenton: O thou that bringest glad tidings to Zion, go up on the high mountain; lift up thy voice with strength, thou that bringest glad tidings to Jerusalem; lift it up, fear not; say unto the cities of Juda, Behold your God!
 
 ### Isaiah 40:10
@@ -164547,7 +164547,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who measured water with hand and heaven with span, and who set all earth by handful? Who set mountains with scale and glens with balance?
+- fresh: Who measured water with his hand and heaven with a span, and who set all the earth with a handful? Who set mountains with a scale and glens with a balance?
 - brenton: Who has measured the water in his hand, and the heaven with a span, and all the earth in a handful? Who has weighed the mountains in scales, and the forests in a balance?
 
 ### Isaiah 40:13
@@ -164862,7 +164862,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will winnow them, and wind will take them and storm scatter them. But you will rejoice in holy things of Israel, and they will exult.
+- fresh: And you will winnow them, and wind will take them and storm scatter them. But you will rejoice in the holy things of Israel, and they will exult.
 - brenton: and thou shalt winnow them, and the wind shall carry them away, and a tempest shall scatter them: but thou shalt rejoice in the holy ones of Israel.
 
 ### Isaiah 41:17
@@ -164943,7 +164943,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I raised one from north and one from east of sun; they will be called by my name. Let rulers come, and as potter's clay and as potter treading clay, thus you will be trampled.
+- fresh: But I raised one from north and one from the east of sun; they will be called by my name. Let rulers come, and as potter's clay and as potter treading clay, thus you will be trampled.
 - brenton: But I have raised up him that comes from the north, and him that comes from the rising of the sun: they shall be called by my name: let the princes come, and as potter's clay, and as a potter treading clay, so shall ye be trodden down.
 
 ### Isaiah 41:26
@@ -165501,7 +165501,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This one will say, I belong to God; and this one will cry out in name of Jacob; and another will write, I belong to God, in name of Israel.
+- fresh: This one will say, I belong to God; and this one will cry out in the name of Jacob; and another will write, I belong to God, in the name of Israel.
 - brenton: One shall say, I am God's; and another shall call himself by the name of Jacob; and another shall write with his hand, I am God's, and shall call himself by the name of Israel.
 
 ### Isaiah 44:6
@@ -165564,7 +165564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For craftsman sharpened iron, worked it with axe, pierced it with drill, worked it with strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
+- fresh: For craftsman sharpened iron, worked it with axe, pierced it with drill, worked it with the strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
 - brenton: For the artificer sharpens the iron; he fashions the idol with an axe, and fixes it with an awl, and fashions it with the strength of his arm: and he will be hungry and weak, and will drink no water.
 
 ### Isaiah 44:13
@@ -165690,7 +165690,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: confirming words of his servant and making true counsel of his messengers, saying, Jerusalem, You will be inhabited, and to cities of Judah, You will be built, and her desolate places will spring up.
+- fresh: confirming words of his servant and making true counsel of his messengers, saying, Jerusalem, You will be inhabited, and to the cities of Judah, You will be built, and her desolate places will spring up.
 - brenton: and confirming the word of his servant, and verifying the counsel of his messengers: who says to Jerusalem, Thou shalt be inhabited; and to the cities of Idumea, Ye shall be built, and her desert places shall spring forth.
 
 ### Isaiah 44:27
@@ -165879,7 +165879,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not in secret I have spoken, nor in dark place of earth. I did not say to seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
+- fresh: Not in secret I have spoken, nor in the dark place of earth. I did not say to the seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
 - brenton: I have not spoken in secret, nor in a dark place of the earth: I said not to the seed of Jacob, Seek vanity: I, even I, am the Lord, speaking righteousness, and proclaiming truth.
 
 ### Isaiah 45:20
@@ -166194,7 +166194,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, house of Jacob, those called by name of Israel and come out of Judah, swearing by the name of the Lord God of Israel, remembering not with truth nor with righteousness.
+- fresh: Hear these things, house of Jacob, those called by the name of Israel and come out of Judah, swearing by the name of the Lord God of Israel, remembering not with truth nor with righteousness.
 - brenton: Hear these words, ye house of Jacob, who are called by the name of Israel, and have come forth out of Juda, who swear by the name of the Lord God of Israel, making mention of it, but not with truth, nor with righteousness;
 
 ### Isaiah 48:2
@@ -166329,7 +166329,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come near to me and hear these things. Not from the beginning did I speak in secret, nor in dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
+- fresh: Come near to me and hear these things. Not from the beginning did I speak in secret, nor in the dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
 - brenton: Draw nigh to me, and hear ye these words; I have not spoken in secret from the beginning: when it took place, there was I, and now the Lord, even the Lord, and his Spirit, hath sent me.
 
 ### Isaiah 48:17
@@ -166365,7 +166365,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
+- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with the voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
 - brenton: Go forth of Babylon, thou that fleest from the Chaldeans: utter aloud a voice of joy, and let this be made known, proclaim it to the end of the earth; say ye, The Lord hath delivered his servant Jacob.
 
 ### Isaiah 48:21
@@ -166446,7 +166446,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because Holy One of Israel is faithful, and he chose you.
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ### Isaiah 49:8
@@ -166455,7 +166455,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: In acceptable time I heard you, and in day of salvation I helped you, and I gave you covenant of nations, to establish earth and inherit deserted inheritances.
+- fresh: Thus says the Lord: In acceptable time I heard you, and in the day of salvation I helped you, and I gave you covenant of nations, to establish earth and inherit deserted inheritances.
 - brenton: Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I succoured thee: and I have formed thee, and given thee for a covenant of the nations, to establish the earth, and to cause to inherit the desert heritages:
 
 ### Isaiah 49:9
@@ -166491,7 +166491,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: See, these come from far away; these from north, and these from sea; and others from land of Persians.
+- fresh: See, these come from far away; these from north, and these from sea; and others from the land of Persians.
 - brenton: Behold, these shall come from far: and these from the north and the west, and others from the land of the Persians.
 
 ### Isaiah 49:13
@@ -166788,7 +166788,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For as garment it will be eaten by time and as wool it will be eaten by moth. But my righteousness will be forever and my salvation to generations of generations.
+- fresh: For as garment it will be eaten by time and as wool it will be eaten by moth. But my righteousness will be forever and my salvation to the generations of generations.
 - brenton: For as a garment will be devoured by time, and as wool will be devoured by a moth, so shall they be consumed; but my righteousness shall be for ever, and my salvation for all generations.
 
 ### Isaiah 51:9
@@ -166923,7 +166923,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put it into hands of those wronging you and humbling you, who said to your soul, Bend down so we may pass by. And you made your back level with earth outside for those passing by.
+- fresh: And I will put it into the hands of those wronging you and humbling you, who said to your soul, Bend down so we may pass by. And you made your back level with earth outside for those passing by.
 - brenton: And I will give it into the hands of them that injured thee, and them that afflicted thee; who said to thy soul, Bow down, that we may pass over: and thou didst level thy body with the ground to them passing by without.
 
 ### Isaiah 52:1
@@ -167211,7 +167211,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord making you, the Lord of hosts is his name, and one rescuing you, he God of Israel, will be called God of all earth.
+- fresh: Because the Lord making you, the Lord of hosts is his name, and one rescuing you, he God of Israel, will be called God of all the earth.
 - brenton: For it is the Lord that made thee; the Lord of hosts is his name: and he that delivered thee, he is the God of Israel, and shall be called so by the whole earth.
 
 ### Isaiah 54:6
@@ -167544,7 +167544,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: See how righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from face of injustice righteous man is taken away.
+- fresh: See how righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from the face of injustice righteous man is taken away.
 - brenton: See how the just man has perished, and no one lays it to heart: and righteous men are taken away, and no one considers: for the righteous has been removed out of the way of injustice.
 
 ### Isaiah 57:2
@@ -167661,7 +167661,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will say, Clear roads before him and lift obstacles from way of my people.
+- fresh: And they will say, Clear roads before him and lift obstacles from the way of my people.
 - brenton: And they shall say, Clear the ways before him, and take up the stumbling-blocks out of the way of my people.
 
 ### Isaiah 57:15
@@ -167832,7 +167832,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your everlasting desolations will be built, and your foundations everlasting to generations of generations. And you will be called builder of fences, and you will stop the paths between.
+- fresh: And your everlasting desolations will be built, and your foundations everlasting to the generations of generations. And you will be called builder of fences, and you will stop the paths between.
 - brenton: And thy old waste desert places shall be built up, and thy foundations shall last through all generations; and thou shalt be called a repairer of breaches, and thou shalt cause thy paths between to be in peace.
 
 ### Isaiah 58:13
@@ -168363,7 +168363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will be crown of beauty in the hand of the Lord and diadem of kingdom in hand of your God.
+- fresh: You will be crown of beauty in the hand of the Lord and diadem of kingdom in the hand of your God.
 - brenton: And thou shalt be a crown of beauty in the hand of the Lord, and a royal diadem in the hand of thy God.
 
 ### Isaiah 62:4
@@ -168408,7 +168408,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord swore by his right hand and by strength of his arm: If I again give your grain and your foods to your enemies, and if sons of foreigners again drink your wine for which you labored—
+- fresh: The Lord swore by his right hand and by the strength of his arm: If I again give your grain and your foods to your enemies, and if sons of foreigners again drink your wine for which you labored—
 - brenton: For the Lord has sworn by his glory, and by the might of his arm, I will no more give thy corn and thy provisions to thine enemies; nor shall strangers any more drink thy wine, for which thou hast laboured.
 
 ### Isaiah 62:9
@@ -168435,7 +168435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For see, the Lord made it heard to the end of the earth: Say to daughter of Zion, See, your savior comes, holding his wage and his work before his face.
+- fresh: For see, the Lord made it heard to the end of the earth: Say to the daughter of Zion, See, your savior comes, holding his wage and his work before his face.
 - brenton: For behold, the Lord has proclaimed to the end of the earth, say ye to the daughter of Sion, Behold, thy Saviour has come to thee, having his reward and his work before his face.
 
 ### Isaiah 62:12
@@ -168507,7 +168507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to abundance of his righteousness.
+- fresh: I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to the abundance of his righteousness.
 - brenton: I remembered the mercy of the Lord, the praises of the Lord in all things wherein he recompenses us. The Lord is a good judge to the house of Israel; he deals with us according to his mercy, and according to the abundance of his righteousness.
 
 ### Isaiah 63:8
@@ -169038,7 +169038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: so you may nurse and be filled from breast of her comfort, so that having sucked you may delight from entrance of her glory.
+- fresh: so you may nurse and be filled from the breast of her comfort, so that having sucked you may delight from the entrance of her glory.
 - brenton: that ye may suck, and be satisfied with the breast of her consolation; that ye may milk out, and delight yourselves with the influx of her glory.
 
 ### Isaiah 66:12
@@ -169083,7 +169083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For by fire of the Lord all earth will be judged and by his sword all flesh; many wounded will be by Lord.
+- fresh: For by fire of the Lord all the earth will be judged and by his sword all flesh; many wounded will be by Lord.
 - brenton: For with the fire of the Lord all the earth shall be judged, and all flesh with his sword: many shall be slain by the Lord.
 
 ### Isaiah 66:17
@@ -169175,7 +169175,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to whom word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+- fresh: to whom the word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
 - brenton: accordingly as the word of God came to him in the days of Josias son of Amos king of Juda, in the thirteenth year of his reign.
 
 ### Jeremiah 1:3
@@ -169274,7 +169274,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from face of north.
+- fresh: And the word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from the face of north.
 - brenton: And the word of the Lord came to me a second time, saying, What seest thou? And I said, A caldron on the fire; and the face of it is toward the north.
 
 ### Jeremiah 1:14
@@ -169283,7 +169283,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, From face of north evils will burn out upon all dwelling in land.
+- fresh: And the Lord said to me, From the face of north evils will burn out upon all dwelling in land.
 - brenton: And the Lord said to me, From the north shall flame forth evils upon all the inhabitants of the land.
 
 ### Jeremiah 1:15
@@ -169355,7 +169355,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear the word of the Lord, house of Jacob and every family of house of Israel.
+- fresh: Hear the word of the Lord, house of Jacob and every family of the house of Israel.
 - brenton: Hear the word of the Lord, O house of Jacob, and every family of the house of Israel.
 
 ### Jeremiah 2:5
@@ -169373,7 +169373,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they did not say, Where is the Lord who brought us up from land of Egypt, who guided us in wilderness, in boundless and untrodden land, in waterless and fruitless land, in land through which no one traveled and no son of man dwelt there?
+- fresh: And they did not say, Where is the Lord who brought us up from the land of Egypt, who guided us in wilderness, in boundless and untrodden land, in waterless and fruitless land, in land through which no one traveled and no son of man dwelt there?
 - brenton: And they said not, Where is the Lord, who brought us up out of the land of Egypt, who guided us in the wilderness, in an untried and trackless land, in a land which no man at all went through, and no man dwelt there?
 
 ### Jeremiah 2:7
@@ -169400,7 +169400,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore I will still enter judgment with you, says the Lord, and with sons of your sons I will enter judgment.
+- fresh: Therefore I will still enter judgment with you, says the Lord, and with the sons of your sons I will enter judgment.
 - brenton: Therefore I will yet plead with you, and will plead with your children's children.
 
 ### Jeremiah 2:10
@@ -169562,7 +169562,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To tree they said, You are my father, and to stone, You birthed me. And they turned to me backs and not faces, and at time of their evils they will say, Rise and save us.
+- fresh: To tree they said, You are my father, and to stone, You birthed me. And they turned to me backs and not faces, and at the time of their evils they will say, Rise and save us.
 - brenton: They said to a stock, Thou art my father; and to a stone, Thou hast begotten me: and they have turned their backs to me, and not their faces: yet in the time of their afflictions they will say, Arise, and save us.
 
 ### Jeremiah 2:28
@@ -169571,7 +169571,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And where are your gods which you made for yourself? Let them rise if they will save you at time of your affliction, because according to number of your cities were your gods, Judah, and according to number of streets of Jerusalem they sacrificed to Baal.
+- fresh: And where are your gods which you made for yourself? Let them rise if they will save you at the time of your affliction, because according to the number of your cities were your gods, Judah, and according to the number of streets of Jerusalem they sacrificed to Baal.
 - brenton: And where are thy gods, which thou madest for thyself? will they arise and save in the time of thine affliction? for according to the number of thy cities were thy gods, O Juda; and according to the number of the streets of Jerusalem they sacrificed to Baal.
 
 ### Jeremiah 2:29
@@ -169805,7 +169805,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In those days and at that time they will call Jerusalem throne of the Lord, and all nations will gather into it, and they will no longer walk after thoughts of their evil heart.
+- fresh: In those days and at that time they will call Jerusalem throne of the Lord, and all nations will gather into it, and they will no longer walk after the thoughts of their evil heart.
 - brenton: In those days and at that time they shall call Jerusalem the throne of the Lord; and all the nations shall be gathered to it: and they shall not walk any more after the imaginations of their evil heart.
 
 ### Jeremiah 3:18
@@ -169814,7 +169814,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In those days house of Judah will come together upon house of Israel, and they will come together from land of north and from all regions upon land which I caused their fathers to inherit.
+- fresh: In those days house of Judah will come together upon the house of Israel, and they will come together from the land of the north and from all regions upon land which I caused their fathers to inherit.
 - brenton: In those days the house of Juda shall come together to the house of Israel, and they shall come, together, from the land of the north, and from all the countries, to the land, which I caused their fathers to inherit.
 
 ### Jeremiah 3:19
@@ -169904,7 +169904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord to men of Judah and inhabitants of Jerusalem: Break up fresh ground for yourselves and do not sow among thorns.
+- fresh: Because thus says the Lord to the men of Judah and inhabitants of Jerusalem: Break up fresh ground for yourselves and do not sow among thorns.
 - brenton: For thus saith the Lord to the men of Juda, and to the inhabitants of Jerusalem, Break up fresh ground for yourselves, and sow not among thorns.
 
 ### Jeremiah 4:4
@@ -170012,7 +170012,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because voice of one declaring will come from Dan, and pain will be heard from mountain of Ephraim.
+- fresh: Because voice of one declaring will come from Dan, and pain will be heard from the mountain of Ephraim.
 - brenton: For a voice of one publishing from Dan shall come, and trouble out of mount Ephraim shall be heard of.
 
 ### Jeremiah 4:16
@@ -170021,7 +170021,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Remind nations. See, they have come. Declare in Jerusalem: Crowds come from far land, and they gave their voice against cities of Judah.
+- fresh: Remind nations. See, they have come. Declare in Jerusalem: Crowds come from far land, and they gave their voice against the cities of Judah.
 - brenton: Remind ye the nations; behold, they are come: proclaim it in Jerusalem, that bands are approaching from a land afar off, and have uttered their voice against the cities of Juda.
 
 ### Jeremiah 4:17
@@ -170111,7 +170111,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from face of anger of his wrath they vanished.
+- fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from the face of anger of his wrath they vanished.
 - brenton: I saw, and, behold, Carmel was desert, and all the cities were burnt with fire at the presence of the Lord, and at the presence of his fierce anger they were utterly destroyed.
 
 ### Jeremiah 4:27
@@ -170138,7 +170138,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From sound of horseman and bent bow every region withdrew. They entered caves and hid in groves and climbed rocks. Every city abandoned; man does not dwell in them.
+- fresh: From the sound of horseman and bent bow every region withdrew. They entered caves and hid in groves and climbed rocks. Every city abandoned; man does not dwell in them.
 - brenton: The whole land has recoiled from the noise of the horseman and the bent bow; they have gone into the caves, and have hidden themselves in the groves, and have gone up upon the rocks: every city was abandoned, no man dwelt in them.
 
 ### Jeremiah 4:30
@@ -170165,7 +170165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Run about in streets of Jerusalem and see and know and seek in her broad places whether you find man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
+- fresh: Run about in the streets of Jerusalem and see and know and seek in her broad places whether you find man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
 - brenton: Run ye about in the streets of Jerusalem, and see, and know, and seek in her broad places, if ye can find one, if there is any one that does judgment, and seeks faithfulness; and I will pardon them, saith the Lord.
 
 ### Jeremiah 5:2
@@ -170219,7 +170219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For which of these shall I be gracious to you? Your sons abandoned me and swore by those that are not gods. And I fed them, and they committed adultery, and in houses of prostitutes they lodged.
+- fresh: For which of these shall I be gracious to you? Your sons abandoned me and swore by those that are not gods. And I fed them, and they committed adultery, and in the houses of prostitutes they lodged.
 - brenton: In what way shall I forgive thee for these things? Thy sons have forsaken me, and sworn by them that are no gods: and I fed them to the full, and they committed adultery, and lodged in harlots' houses.
 
 ### Jeremiah 5:8
@@ -170228,7 +170228,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They became lustful horses, each neighing after wife of his neighbor.
+- fresh: They became lustful horses, each neighing after the wife of his neighbor.
 - brenton: They became as wanton horses: they neighed each one after his neighbour's wife.
 
 ### Jeremiah 5:9
@@ -170534,7 +170534,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was filled with my wrath and held back and did not finish them. I will pour it on infants outside and on gathering of young men together, because man and woman will be taken, elder with fullness of days.
+- fresh: And I was filled with my wrath and held back and did not finish them. I will pour it on infants outside and on gathering of young men together, because man and woman will be taken, elder with the fullness of days.
 - brenton: And I allowed my wrath to come to the full, yet I kept it in, and did not utterly destroy them: I will pour it out on the children without, and on the assembly of young men together: for man and woman shall be taken together, the old man with him that is full of days.
 
 ### Jeremiah 6:12
@@ -170570,7 +170570,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They were ashamed because they failed, yet not even as ashamed were they ashamed, and they did not know their dishonor. Therefore they will fall in their falling, and in time of their visitation they will perish, said the Lord.
+- fresh: They were ashamed because they failed, yet not even as ashamed were they ashamed, and they did not know their dishonor. Therefore they will fall in their falling, and in the time of their visitation they will perish, said the Lord.
 - brenton: They were ashamed because they failed; yet they were not ashamed as those who are truly ashamed, and they knew not their own disgrace: therefore shall they utterly fall when they do fall, and in the time of visitation shall they perish, said the Lord.
 
 ### Jeremiah 6:16
@@ -170849,7 +170849,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do you not see what they do in cities of Judah and in streets of Jerusalem?
+- fresh: Do you not see what they do in the cities of Judah and in the streets of Jerusalem?
 - brenton: Seest thou not what they do in the cities of Juda, and in the streets of Jerusalem?
 
 ### Jeremiah 7:18
@@ -170894,7 +170894,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I did not speak to your fathers and did not command them in day I brought them up from land of Egypt concerning whole burnt offerings and sacrifice.
+- fresh: Because I did not speak to your fathers and did not command them in day I brought them up from the land of Egypt concerning whole burnt offerings and sacrifice.
 - brenton: For I spoke not to your fathers, and commanded them not in the day wherein I brought them up out of the land of Egypt, concerning whole-burnt-offerings and sacrifice:
 
 ### Jeremiah 7:23
@@ -170921,7 +170921,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From day their fathers came out from land of Egypt until this day, I sent to you all my servants the prophets, day and early morning I sent.
+- fresh: From day their fathers came out from the land of Egypt until this day, I sent to you all my servants the prophets, day and early morning I sent.
 - brenton: from the day that their fathers went forth out of the land of Egypt, even until this day. And I sent to you all my servants, the prophets, by day and early in the morning: yea, I sent them,
 
 ### Jeremiah 7:26
@@ -170975,7 +170975,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they built altar of Topheth, which is in valley of son of Hinnom, to burn their sons and their daughters in fire, which I did not command them, nor did I conceive in my heart.
+- fresh: And they built altar of Topheth, which is in the valley of son of Hinnom, to burn their sons and their daughters in fire, which I did not command them, nor did I conceive in my heart.
 - brenton: And they have built the altar of Tapheth, which is in the valley of the son of Ennom, to burn their sons and their daughters with fire; which I did not command them to do, neither did I design it in my heart.
 
 ### Jeremiah 7:32
@@ -170993,7 +170993,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And dead bodies of this people will be for food to birds of heaven and beasts of earth, and none will frighten them away.
+- fresh: And dead bodies of this people will be for food to the birds of heaven and beasts of earth, and none will frighten them away.
 - brenton: And the dead bodies of this people shall be for food to the birds of the sky, and to the wild beasts of the earth; and there shall be none to drive them away.
 
 ### Jeremiah 7:34
@@ -171002,7 +171002,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy from cities of Judah and from streets of Jerusalem voice of rejoicing and voice of gladness, voice of bridegroom and voice of bride, because whole land will become desolation.
+- fresh: And I will destroy from the cities of Judah and from streets of Jerusalem voice of rejoicing and voice of gladness, voice of bridegroom and voice of bride, because whole land will become desolation.
 - brenton: And I will destroy out of the cities of Juda, and the streets of Jerusalem, the voice of them that make merry, and the voice of them that rejoice, the voice of the bridegroom, and the voice of the bride; for the whole land shall become a desolation.
 
 ### Jeremiah 8:1
@@ -171020,7 +171020,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of the earth.
+- fresh: And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon the face of the earth.
 - brenton: and they shall spread them out to the sun, and the moon, and to all the stars, and to all the host of heaven, which they have loved, and which they have served, and after which they have walked, and to which they have held, and which they have worshipped; they shall not be mourned for, neither shall they be buried; but they shall be for an example on the face of the earth,
 
 ### Jeremiah 8:3
@@ -171128,7 +171128,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From Dan we will hear sound of sharpness of his horses. From sound of neighing of his cavalry all land shook, and he will come and devour land and its fullness, city and those dwelling in it.
+- fresh: From Dan we will hear sound of sharpness of his horses. From the sound of neighing of his cavalry all land shook, and he will come and devour land and its fullness, city and those dwelling in it.
 - brenton: We shall hear the neighing of his swift horses out of Dan: the whole land quaked at the sound of the neighing of his horses; and he shall come, and devour the land and the fulness of it; the city, and them that dwell in it.
 
 ### Jeremiah 8:17
@@ -171173,7 +171173,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Over crushing of daughter of my people I was darkened. Distress seized me, pangs as of woman giving birth.
+- fresh: Over the crushing of daughter of my people I was darkened. Distress seized me, pangs as of woman giving birth.
 - brenton: For the breach of the daughter of my people I have been saddened: in my perplexity pangs have seized upon me as of a woman in travail.
 
 ### Jeremiah 8:22
@@ -171272,7 +171272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take up mourning over mountains and lament over paths of wilderness, because they failed so that there are no men, and they did not hear sound of existence; from birds of heaven even to cattle they were astonished and went away.
+- fresh: Take up mourning over mountains and lament over paths of wilderness, because they failed so that there are no men, and they did not hear sound of existence; from the birds of heaven even to cattle they were astonished and went away.
 - brenton: Take up a lamentation for the mountains, and a mournful dirge for the paths of the wilderness, for they are desolate for want of men; they heard not the sound of life from the birds of the sky, nor the cattle: they were amazed, they are gone.
 
 ### Jeremiah 9:10
@@ -171290,7 +171290,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is wise man and let him understand this, and to whom word of mouth of the Lord came, let him declare to you: Why did land perish, burned like wilderness, so as not to be passed through?
+- fresh: Who is wise man and let him understand this, and to whom the word of mouth of the Lord came, let him declare to you: Why did land perish, burned like wilderness, so as not to be passed through?
 - brenton: Who is the wise man, that he may understand this? and he that has the word of the mouth of the Lord addressed to him, let him tell you wherefore the land has been destroyed, has been ravaged by fire like a desert, so that no one passes through it.
 
 ### Jeremiah 9:12
@@ -171308,7 +171308,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: but went after pleasures of their evil heart and after idols which their fathers taught them,
+- fresh: but went after the pleasures of their evil heart and after idols which their fathers taught them,
 - brenton: but went after the lusts of their evil heart, and after the idols which their fathers taught them to worship:
 
 ### Jeremiah 9:14
@@ -171380,7 +171380,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And dead bodies of men will be example upon face of field of your land, and like grass behind reaper, and none will gather.
+- fresh: And dead bodies of men will be example upon the face of field of your land, and like grass behind reaper, and none will gather.
 - brenton: And the carcases of the men shall be for an example on the face of the field of your land, like grass after the mower, and there shall be none to gather them.
 
 ### Jeremiah 9:22
@@ -171416,7 +171416,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: upon Egypt and upon Judah and upon Edom and upon sons of Ammon and upon sons of Moab and upon all clipping what is before his face, those dwelling in wilderness, because all nations uncircumcised in flesh and all house of Israel uncircumcised in their hearts.
+- fresh: upon Egypt and upon Judah and upon Edom and upon the sons of Ammon and upon the sons of Moab and upon all clipping what is before his face, those dwelling in wilderness, because all nations uncircumcised in flesh and all house of Israel uncircumcised in their hearts.
 - brenton: on Egypt, and on Idumea, and on Edom, and on the children of Ammon, and on the children of Moab, and on every one that shaves his face round about, even them that dwell in the wilderness; for all the Gentiles are uncircumcised in flesh, and all the house of Israel are uncircumcised in their hearts.
 
 ### Jeremiah 10:1
@@ -171515,7 +171515,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They are vanities, mocked works. In time of their visitation they will perish.
+- fresh: They are vanities, mocked works. In the time of their visitation they will perish.
 - brenton: They are vain works, wrought in mockery; in the time of their visitation they shall perish.
 
 ### Jeremiah 10:16
@@ -171578,7 +171578,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Voice of report, behold, comes, and great shaking from land of north, to make cities of Judah vanish and lodging-place of sparrows.
+- fresh: Voice of report, behold, comes, and great shaking from the land of the north, to make cities of Judah vanish and lodging-place of sparrows.
 - brenton: Behold, there comes a sound of a noise, and a great earthquake from the land of the north, to make the cities of Juda a desolation, and a resting-place for ostriches.
 
 ### Jeremiah 10:23
@@ -171623,7 +171623,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear words of this covenant and speak to men of Judah and inhabitants of Jerusalem,
+- fresh: Hear words of this covenant and speak to the men of Judah and inhabitants of Jerusalem,
 - brenton: Hear ye the words of this covenant, and thou shalt speak to the men of Juda, and to the dwellers in Jerusalem;
 
 ### Jeremiah 11:3
@@ -171641,7 +171641,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which I commanded your fathers in day I brought them up from land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
+- fresh: which I commanded your fathers in day I brought them up from the land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
 - brenton: which I commanded your fathers, in the day wherein I brought them up out of the land of Egypt, out of the iron furnace, saying, Hearken to my voice, and do all things that I shall command you; so shall ye be to me a people, and I will be to you a God;
 
 ### Jeremiah 11:5
@@ -171659,7 +171659,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Read these words in cities of Judah and outside Jerusalem, saying, Hear words of this covenant and do them.
+- fresh: And the Lord said to me, Read these words in the cities of Judah and outside Jerusalem, saying, Hear words of this covenant and do them.
 - brenton: And the Lord said to me, Read these words in the cities of Juda, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them.
 
 ### Jeremiah 11:8
@@ -171704,7 +171704,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And cities of Judah and inhabitants of Jerusalem will go and cry to gods to whom they burn incense; they surely will not save them in time of their evils.
+- fresh: And cities of Judah and inhabitants of Jerusalem will go and cry to gods to whom they burn incense; they surely will not save them in the time of their evils.
 - brenton: And the cities of Juda and the dwellers in Jerusalem shall go, and cry to the gods to whom they burn incense; which shall not deliver them in the time of their troubles.
 
 ### Jeremiah 11:13
@@ -171713,7 +171713,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because according to number of your cities were your gods, Judah, and according to number of streets of Jerusalem you set up altars to burn incense to Baal.
+- fresh: Because according to the number of your cities were your gods, Judah, and according to the number of streets of Jerusalem you set up altars to burn incense to Baal.
 - brenton: For according to the number of thy cities were thy gods, O Juda; and according to the number of the streets of Jerusalem have ye set up altars to burn incense to Baal.
 
 ### Jeremiah 11:14
@@ -171722,7 +171722,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call on me in time of their affliction.
+- fresh: And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call on me in the time of their affliction.
 - brenton: And thou, pray not for this people, and intercede not for them in supplication and prayer: for I will not hear in the day in which they call upon me, in the day of their affliction.
 
 ### Jeremiah 11:15
@@ -171740,7 +171740,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord called your name Beautiful olive tree, fair in appearance. At sound of its pruning fire was kindled on it. Great affliction came on you; its branches were made useless.
+- fresh: The Lord called your name Beautiful olive tree, fair in appearance. At the sound of its pruning fire was kindled on it. Great affliction came on you; its branches were made useless.
 - brenton: The Lord called thy name a fair olive tree, of a goodly shade in appearance, at the noise of its being lopped, fire was kindled against it; great is the affliction coming upon thee: her branches are become good for nothing.
 
 ### Jeremiah 11:17
@@ -171749,7 +171749,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord who planted you spoke evils against you because of evil of house of Israel and house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
+- fresh: And the Lord who planted you spoke evils against you because of evil of the house of Israel and house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
 - brenton: And the Lord that planted thee has pronounced evils against thee, because of the iniquity of the house of Israel and the house of Juda, whatsoever they have done against themselves to provoke me to anger by burning incense to Baal.
 
 ### Jeremiah 11:18
@@ -171767,7 +171767,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was like innocent lamb led to be sacrificed. I did not know they reasoned evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from land of living, and his name shall no longer be remembered.
+- fresh: And I was like innocent lamb led to be sacrificed. I did not know they reasoned evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from the land of living, and his name shall no longer be remembered.
 - brenton: But I as an innocent lamb led to the slaughter, knew not: against me they devised an evil device, saying, Come and let us put wood into his bread, and let us utterly destroy him from off the land of the living, and let his name not be remembered any more.
 
 ### Jeremiah 11:20
@@ -171803,7 +171803,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And remnant of them will not exist, because I will bring evils upon inhabitants of Anathoth in year of their visitation.
+- fresh: And remnant of them will not exist, because I will bring evils upon the inhabitants of Anathoth in the year of their visitation.
 - brenton: and there shall be no remnant left of them; for I will bring evil upon the dwellers in Anathoth, in the year of their visitation.
 
 ### Jeremiah 12:1
@@ -171812,7 +171812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Righteous are you, Lord, because I will speak in defense to you; yet I will speak judgments to you: Why does way of ungodly prosper? All dealing faithlessly in acts of faithlessness flourished.
+- fresh: Righteous are you, Lord, because I will speak in defense to you; yet I will speak judgments to you: Why does way of ungodly prosper? All dealing faithlessly in the acts of faithlessness flourished.
 - brenton: Righteous art thou, O Lord, that I may make my defence to thee, yea, I will speak to thee of judgments. Why is it that the way of ungodly men prospers? that all that deal very treacherously are flourishing?
 
 ### Jeremiah 12:2
@@ -171866,7 +171866,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I have abandoned my house, left my inheritance, given beloved of my soul into hands of her enemies.
+- fresh: I have abandoned my house, left my inheritance, given beloved of my soul into the hands of her enemies.
 - brenton: I have forsaken mine house, I have left mine heritage; I have given my beloved one into the hands of her enemies.
 
 ### Jeremiah 12:8
@@ -172271,7 +172271,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hope of Israel, Lord, and saving in time of evils, why did you become like resident alien upon land and like native one turning aside into lodging?
+- fresh: Hope of Israel, Lord, and saving in the time of evils, why did you become like resident alien upon land and like native one turning aside into lodging?
 - brenton: O Lord, thou art the hope of Israel, and deliverest us in time of troubles; why art thou become as a sojourner upon the land, or as one born in the land, yet turning aside for a resting-place?
 
 ### Jeremiah 14:9
@@ -172343,7 +172343,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And people to whom they prophesy will lie thrown in streets of Jerusalem from face of sword and famine, and there will be none burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
+- fresh: And people to whom they prophesy will lie thrown in the streets of Jerusalem from the face of the sword and famine, and there will be none burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
 - brenton: And the people to whom they prophesy, they also shall be cast out in the streets of Jerusalem, because of the sword and famine; and there shall be none to bury them: their wives also, and their sons, and their daughters shall die thus; and I will pour out their wickedness upon them.
 
 ### Jeremiah 14:17
@@ -172361,7 +172361,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If I go out into field, behold, wounded of sword, and if I enter city, behold, pain of famine, because priest and prophet went into land which they did not know.
+- fresh: If I go out into field, behold, wounded of sword, and if I enter city, behold, pain of famine, because priest and prophet went into the land which they did not know.
 - brenton: If I go forth into the plain, then behold the slain by the sword! and if I enter into the city, then behold the distress of famine! for priest and prophet have gone to a land which they knew not.
 
 ### Jeremiah 14:19
@@ -172460,7 +172460,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter them in dispersion in gates of my people. They were made childless; they destroyed my people because of their evils.
+- fresh: And I will scatter them in dispersion in the gates of my people. They were made childless; they destroyed my people because of their evils.
 - brenton: And I will completely scatter them; in the gates of my people they are bereaved of children: they have destroyed my people because of their iniquities.
 
 ### Jeremiah 15:8
@@ -172496,7 +172496,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let it be, Master, as you straighten their way. Did I not stand before you in time of their evils and in time of their affliction for good things toward enemy?
+- fresh: Let it be, Master, as you straighten their way. Did I not stand before you in the time of their evils and in the time of their affliction for good things toward enemy?
 - brenton: Be it so, Lord, in their prosperity; surely I stood before thee in the time of their calamities, and in the time of their affliction, for their good against the enemy.
 
 ### Jeremiah 15:12
@@ -172586,7 +172586,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and to deliver you from hand of evil ones, and I will redeem you from hand of pestilent men.
+- fresh: and to deliver you from the hand of evil ones, and I will redeem you from the hand of pestilent men.
 - brenton: for I am with thee to save thee, and to deliver thee out of the hand of wicked men; and I will ransom thee out of the hand of pestilent men.
 
 ### Jeremiah 16:1
@@ -172622,7 +172622,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By diseased death they will die. They will not be mourned and not buried. For example upon face of the earth they will be. By sword they will fall and by famine be finished, and to beasts of earth and birds of heaven.
+- fresh: By diseased death they will die. They will not be mourned and not buried. For example upon the face of the earth they will be. By sword they will fall and by famine be finished, and to the beasts of earth and birds of heaven.
 - brenton: They shall die of grievous death; they shall not be lamented, nor buried; they shall be for an example on the face of the earth; and they shall be for the wild beasts of the land, and for the birds of the sky: they shall fall by the sword, and shall be consumed with famine.
 
 ### Jeremiah 16:5
@@ -172694,7 +172694,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you acted more evilly than your fathers, and behold, you each walk after pleasures of your evil heart, so as not to obey me.
+- fresh: And you acted more evilly than your fathers, and behold, you each walk after the pleasures of your evil heart, so as not to obey me.
 - brenton: (and ye sinned worse than your fathers; for, behold, ye walk every one after the lusts of your own evil heart, so as not to hearken to me);
 
 ### Jeremiah 16:13
@@ -172703,7 +172703,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will cast you away from this land into land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
+- fresh: And I will cast you away from this land into the land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
 - brenton: therefore I will cast you off from this good land into a land which neither ye nor your fathers have known; and ye shall serve there other gods, who shall have no mercy upon you.
 
 ### Jeremiah 16:14
@@ -172712,7 +172712,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives who brought up sons of Israel from land of Egypt,
+- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives who brought up sons of Israel from the land of Egypt,
 - brenton: Therefore, behold, the days come, saith the Lord, when they shall no more say, The Lord lives, that brought up the children of Israel out of the land of Egypt;
 
 ### Jeremiah 16:15
@@ -172721,7 +172721,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: but, As the Lord lives who brought up house of Israel from land of north and from all regions where they were driven there, and I will restore them to their land which I gave to their fathers.
+- fresh: but, As the Lord lives who brought up house of Israel from the land of the north and from all regions where they were driven there, and I will restore them to their land which I gave to their fathers.
 - brenton: but, The Lord lives, who brought up the house of Israel from the land of the north, and from all the countries whither they were thrust out: and I will restore them to their own land, which I gave to their fathers.
 
 ### Jeremiah 16:16
@@ -172757,7 +172757,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, my strength and my help and my refuge in day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
+- fresh: Lord, my strength and my help and my refuge in the day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
 - brenton: O Lord, thou art my strength, and mine help, and my refuge in days of evil: to thee the Gentiles shall come from the end of the earth, and shall say, How vain were the idols which our fathers procured to themselves, and there is no help in them.
 
 ### Jeremiah 16:20
@@ -172811,7 +172811,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will be like flourishing tree by waters and upon moisture it will cast its roots, and will not fear when heat comes, and on it will be woodland shoots. In year of drought it will not fear and will not cease making fruit.
+- fresh: And he will be like flourishing tree by waters and upon moisture it will cast its roots, and will not fear when heat comes, and on it will be woodland shoots. In the year of drought it will not fear and will not cease making fruit.
 - brenton: And he shall be as a thriving tree by the waters, and he shall cast forth his root toward a moist place: he shall not fear when heat comes, and there shall be upon him shady branches: he shall not fear in a year of drought, and he shall not fail to bear fruit.
 
 ### Jeremiah 17:9
@@ -172838,7 +172838,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in middle of his days they will leave him, and at his end he will be fool.
+- fresh: Partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in the middle of his days they will leave him, and at his end he will be fool.
 - brenton: The partridge utters her voice, she gathers eggs which she did not lay; so is a man gaining his wealth unjustly; in the midst of his days his riches shall leave him, and at his latter end he will be a fool.
 
 ### Jeremiah 17:12
@@ -172910,7 +172910,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Go and stand in gates of sons of your people, in which kings of Judah enter and go out, and in all gates of Jerusalem,
+- fresh: Thus says the Lord: Go and stand in the gates of sons of your people, in which kings of Judah enter and go out, and in all gates of Jerusalem,
 - brenton: Thus saith the Lord; Go and stand in the gates of the children of thy people, by which the kings of Juda enter, and by which they go out, and in all the gates of Jerusalem:
 
 ### Jeremiah 17:20
@@ -172955,7 +172955,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be if in hearing you hear me, says the Lord, not bringing burdens through gates of this city on the day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
+- fresh: And it will be if in hearing you hear me, says the Lord, not bringing burdens through the gates of this city on the day of Sabbaths and sanctifying day of Sabbaths, so as not to do any work,
 - brenton: And it shall come to pass, if ye will hearken to me, saith the Lord, to carry in no burdens through the gates of this city on the sabbath-day, and to sanctify the sabbath-day, so as to do no work upon it,
 
 ### Jeremiah 17:25
@@ -172964,7 +172964,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then kings and rulers seated on throne of David will enter through gates of this city and mounted on their chariots and horses, they and their rulers, men of Judah and inhabitants of Jerusalem, and this city will be inhabited forever.
+- fresh: then kings and rulers seated on the throne of David will enter through the gates of this city and mounted on their chariots and horses, they and their rulers, men of Judah and inhabitants of Jerusalem, and this city will be inhabited forever.
 - brenton: that there shall enter through the gates of this city kings and princes sitting on the throne of David, and riding on their chariots and horses, they, and their princes, the men of Juda, and the dwellers in Jerusalem: and this city shall be inhabited for ever.
 
 ### Jeremiah 17:26
@@ -172973,7 +172973,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will come from cities of Judah and from around Jerusalem and from land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into the house of the Lord.
+- fresh: And they will come from the cities of Judah and from around Jerusalem and from the land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into the house of the Lord.
 - brenton: And men shall come out of the cities of Juda, and from round about Jerusalem, and out of the land of Benjamin, and out of the plain country, and from the hill country, and from the south country, bringing whole-burnt-offerings, and sacrifices, and incense, and manna, and frankincense, bringing praise to the house of the Lord.
 
 ### Jeremiah 17:27
@@ -173081,7 +173081,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now speak to men of Judah and inhabitants of Jerusalem: Behold, I form evils against you and think thought against you. Let each turn from his evil way, and you will make your practices better.
+- fresh: And now speak to the men of Judah and inhabitants of Jerusalem: Behold, I form evils against you and think thought against you. Let each turn from his evil way, and you will make your practices better.
 - brenton: And now say to the men of Juda, and to the inhabitants of Jerusalem, Behold, I prepare evils against you, and devise a device against you: let every one turn now from his evil way, and amend your practices.
 
 ### Jeremiah 18:12
@@ -173171,7 +173171,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore give their sons to famine and gather them into hands of sword. Let their wives become childless and widows, and their men become killed by death, and their young men fallen by sword in war.
+- fresh: Therefore give their sons to famine and gather them into the hands of sword. Let their wives become childless and widows, and their men become killed by death, and their young men fallen by sword in war.
 - brenton: Therefore do thou deliver their sons to famine, and gather them to the power of the sword: let their women be childless and widows; and let their men be cut off by death, and their young men fall by the sword in war.
 
 ### Jeremiah 18:22
@@ -173189,7 +173189,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in time of your wrath do in them.
+- fresh: And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in the time of your wrath do in them.
 - brenton: And thou, Lord, knowest all their deadly counsel against me: account not their iniquities guiltless, and blot not out their sins from before thee: let their weakness come before thee; deal with them in the time of thy wrath.
 
 ### Jeremiah 19:1
@@ -173198,7 +173198,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then the Lord said to me, Go and buy shaped earthen jar and bring from elders of people and from elders of priests,
+- fresh: Then the Lord said to me, Go and buy shaped earthen jar and bring from the elders of people and from the elders of priests,
 - brenton: Then said the Lord to me, Go and get an earthen bottle, the work of the potter, and thou shalt bring some of the elders of the people, and of the priests;
 
 ### Jeremiah 19:2
@@ -173252,7 +173252,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will slaughter counsel of Judah and counsel of Jerusalem in this place, and I will cast them down by sword before their enemies and in hands of those seeking their souls, and I will give their dead bodies for food to birds of heaven and beasts of earth.
+- fresh: And I will slaughter counsel of Judah and counsel of Jerusalem in this place, and I will cast them down by sword before their enemies and in the hands of those seeking their souls, and I will give their dead bodies for food to the birds of heaven and beasts of earth.
 - brenton: And I will destroy the counsel of Juda and the counsel of Jerusalem in this place; and I will cast them down with the sword before their enemies, and by the hands of them that seek their lives: and I will give their dead bodies for food to the birds of the sky and to the wild beasts of the earth.
 
 ### Jeremiah 19:8
@@ -173306,7 +173306,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And houses of Jerusalem and houses of kings of Judah will be as place of falling away of uncleannesses, in all houses in which they burned incense on their roofs to all army of heaven and poured drink offerings to foreign gods.
+- fresh: And houses of Jerusalem and houses of kings of Judah will be as place of falling away of uncleannesses, in all houses in which they burned incense on their roofs to all the army of heaven and poured drink offerings to foreign gods.
 - brenton: And the houses of Jerusalem, and the houses of the kings of Juda shall be as a ruinous place, because of their uncleannesses in all the houses, wherein they burnt incense upon their roofs to all the host of heaven, and poured drink-offerings to strange gods.
 
 ### Jeremiah 19:14
@@ -173315,7 +173315,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah came from the place of falling away where the Lord sent him there to prophesy, and he stood in court of house of the Lord and said to all the people,
+- fresh: And Jeremiah came from the place of falling away where the Lord sent him there to prophesy, and he stood in the court of the house of the Lord and said to all the people,
 - brenton: And Jeremias came from the place of the Fall, whither the Lord had sent him to prophesy; and he stood in the court of the Lord's house; and said to all the people, Thus saith the Lord;
 
 ### Jeremiah 19:15
@@ -173333,7 +173333,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pashhur son of Immer the priest, and he was appointed ruler of house of the Lord, heard Jeremiah prophesying these words.
+- fresh: And Pashhur son of Immer the priest, and he was appointed ruler of the house of the Lord, heard Jeremiah prophesying these words.
 - brenton: Now Paschor the son of Emmer, the priest, who also had been appointed chief of the house of the Lord, heard Jeremias prophesying these words.
 
 ### Jeremiah 20:2
@@ -173342,7 +173342,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he struck him and threw him into stocks, which were at gate of house appointed of upper place, which was in the house of the Lord.
+- fresh: And he struck him and threw him into stocks, which were at the gate of house appointed of upper place, which was in the house of the Lord.
 - brenton: And he smote him, and cast him into the dungeon which was by the gate of the upper house that was set apart, which was by the house of the Lord.
 
 ### Jeremiah 20:3
@@ -173360,7 +173360,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Behold, I give you into exile with all your friends, and they will fall by sword of their enemies and your eyes will see, and I will give you and all Judah into hands of king of Babylon, and they will carry them away and cut them down with swords.
+- fresh: Because thus says the Lord: Behold, I give you into exile with all your friends, and they will fall by the sword of their enemies and your eyes will see, and I will give you and all Judah into the hands of king of Babylon, and they will carry them away and cut them down with swords.
 - brenton: For thus saith the Lord, Behold, I will give thee up to captivity with all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall see it: and I will give thee and all Juda into the hands of the king of Babylon, and they shall carry them captives, and cut them in pieces with swords.
 
 ### Jeremiah 20:5
@@ -173369,7 +173369,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give all strength of this city and all its toils and all treasures of king of Judah into hands of his enemies, and they will carry them into Babylon.
+- fresh: And I will give all strength of this city and all its toils and all treasures of king of Judah into the hands of his enemies, and they will carry them into Babylon.
 - brenton: And I will give all the strength of this city, and all the labours of it, and all the treasures of the king of Juda, into the hands of his enemies, and they shall bring them to Babylon.
 
 ### Jeremiah 20:6
@@ -173441,7 +173441,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to the Lord. Praise him, because he rescued soul of poor man from hand of evildoers.
+- fresh: Sing to the Lord. Praise him, because he rescued soul of poor man from the hand of evildoers.
 - brenton: Sing ye to the Lord, sing praise to him: for he has rescued the soul of the poor from the hand of evil-doers.
 
 ### Jeremiah 20:14
@@ -173477,7 +173477,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because he did not kill me in womb of mother, and my mother became my tomb and womb of eternal conception.
+- fresh: because he did not kill me in the womb of mother, and my mother became my tomb and womb of eternal conception.
 - brenton: because he slew me not in the womb, and my mother became not my tomb, and her womb always great with me.
 
 ### Jeremiah 20:18
@@ -173549,7 +173549,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and people left in this city from death and from famine and from sword into hands of their enemies seeking their lives, and they will cut them down with edge of sword. I will not spare them and I will not pity them.
+- fresh: And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and people left in this city from death and from famine and from sword into the hands of their enemies seeking their lives, and they will cut them down with edge of sword. I will not spare them and I will not pity them.
 - brenton: And after this, thus saith the Lord; I will give Sedekias king of Juda, and his servants, and the people that is left in this city from the pestilence, and from the famine, and from the sword, into the hands of their enemies, that seek their lives: and they shall cut them in pieces with the edge of the sword: I will not spare them, and I will not have compassion upon them.
 
 ### Jeremiah 21:8
@@ -173576,7 +173576,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I have set my face against this city for evils and not for good. It will be handed over into hands of king of Babylon, and he will burn it with fire.
+- fresh: Because I have set my face against this city for evils and not for good. It will be handed over into the hands of king of Babylon, and he will burn it with fire.
 - brenton: For I have set my face against this city for evil, and not for good: it shall be delivered into the hands of the king of Babylon, and he shall consume it with fire.
 
 ### Jeremiah 21:11
@@ -173594,7 +173594,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: House of David, thus says the Lord: Judge judgment in morning, and set right, and rescue plundered one from hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
+- fresh: House of David, thus says the Lord: Judge judgment in morning, and set right, and rescue plundered one from the hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
 - brenton: O house of David, thus saith the Lord; Judge judgment in the morning, and act rightly, and rescue the spoiled one from the hand of him that wrongs him, lest mine anger be kindled like fire, and it burn, and there be none to quench it.
 
 ### Jeremiah 21:13
@@ -173603,7 +173603,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I am against you, one dwelling in valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
+- fresh: Behold, I am against you, one dwelling in the valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
 - brenton: Behold, I am against thee that dwellest in the valley of Sor; in the plain country, even against them that say, Who shall alarm us? or who shall enter into our habitation?
 
 ### Jeremiah 21:14
@@ -173621,7 +173621,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Go and go down into the house of king of Judah, and there you will speak this word,
+- fresh: Thus says the Lord: Go and go down into the house of the king of Judah, and there you will speak this word,
 - brenton: Thus saith the Lord; Go thou, and go down to the house of the king of Juda, and thou shalt speak there this word,
 
 ### Jeremiah 22:2
@@ -173630,7 +173630,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Hear the word of the Lord, king of Judah seated on throne of David, you and your house and your people and those entering by these gates.
+- fresh: and say, Hear the word of the Lord, king of Judah seated on the throne of David, you and your house and your people and those entering by these gates.
 - brenton: and thou shalt say,
 
 ### Jeremiah 22:3
@@ -173648,7 +173648,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if in doing you do this word, kings seated on throne of David will enter through gates of this house and mounted on chariots and horses, they and their servants and their people.
+- fresh: Because if in doing you do this word, kings seated on the throne of David will enter through the gates of this house and mounted on chariots and horses, they and their servants and their people.
 - brenton: For if ye will indeed perform this word, then shall there enter in by the gates of this house kings sitting upon the throne of David, and riding on chariots and horses, they, and their servants, and their people.
 
 ### Jeremiah 22:5
@@ -173666,7 +173666,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord against the house of king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into wilderness, cities not to be inhabited.
+- fresh: Because thus says the Lord against the house of the king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into wilderness, cities not to be inhabited.
 - brenton: For thus saith the Lord concerning the house of the king of Juda; Thou art Galaad to me, and the head of Libanus: yet surely I will make thee a desert, even cities that shall not be inhabited:
 
 ### Jeremiah 22:7
@@ -173837,7 +173837,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will hand you over into hands of those seeking your life, whom you fear before their face, into hands of Chaldeans.
+- fresh: And I will hand you over into the hands of those seeking your life, whom you fear before their face, into the hands of Chaldeans.
 - brenton: and I will deliver thee into the hands of them that seek thy life, before whom thou art afraid, into the hands of the Chaldeans.
 
 ### Jeremiah 22:26
@@ -173846,7 +173846,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will throw you and your mother who bore you into land where you were not born, and there you will die.
+- fresh: And I will throw you and your mother who bore you into the land where you were not born, and there you will die.
 - brenton: And I will cast forth thee, and thy mother that bore thee, into a land where thou wast not born; and there ye shall die.
 
 ### Jeremiah 22:27
@@ -173855,7 +173855,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But to land which they long for with their souls, they will never return.
+- fresh: But to the land which they long for with their souls, they will never return.
 - brenton: But they shall by no means return to the land which they long for in their souls.
 
 ### Jeremiah 22:28
@@ -173864,7 +173864,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jeconiah was dishonored like vessel of no use, because he was thrown out and cast into land which he did not know.
+- fresh: Jeconiah was dishonored like vessel of no use, because he was thrown out and cast into the land which he did not know.
 - brenton: Jechonias is dishonoured as a good-for-nothing vessel; for he is thrown out and cast forth into a land which he knew not.
 
 ### Jeremiah 22:29
@@ -173882,7 +173882,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Write this man as rejected, because no man from his seed will grow, sitting on throne of David and ruling any longer in Judah.
+- fresh: Write this man as rejected, because no man from his seed will grow, sitting on the throne of David and ruling any longer in Judah.
 - brenton: Write ye this man an outcast: for there shall none of his seed at all grow up to sit on the throne of David, or as a prince yet in Juda.
 
 ### Jeremiah 23:1
@@ -173945,7 +173945,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives, who brought up house of Israel from land of Egypt,
+- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives, who brought up house of Israel from the land of Egypt,
 - brenton: [missing]
 
 ### Jeremiah 23:8
@@ -173954,7 +173954,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: but, As the Lord lives, who gathered all seed of Israel from land of north and from all lands where he drove them there and restored them to their land.
+- fresh: but, As the Lord lives, who gathered all seed of Israel from the land of the north and from all lands where he drove them there and restored them to their land.
 - brenton: [missing]
 
 ### Jeremiah 23:9
@@ -173990,7 +173990,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore let their way become for them slipping-place in gloom, and they will stumble and fall in it, because I will bring evils on them in year of their visitation, says the Lord.
+- fresh: Therefore let their way become for them slipping-place in gloom, and they will stumble and fall in it, because I will bring evils on them in the year of their visitation, says the Lord.
 - brenton: Therefore let their way be to them slippery and dark: and they shall be tripped up and fall in it: for I will bring evils upon them, in the year of their visitation.
 
 ### Jeremiah 23:13
@@ -173999,7 +173999,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in prophets of Samaria I saw lawless things. They prophesied by Baal and led my people Israel astray.
+- fresh: And in the prophets of Samaria I saw lawless things. They prophesied by Baal and led my people Israel astray.
 - brenton: And in the prophets of Samaria I have seen lawless deeds; they prophesied by Baal, and led my people Israel astray.
 
 ### Jeremiah 23:14
@@ -174008,7 +174008,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening hands of evildoers, so that each not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
+- fresh: And in the prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening hands of evildoers, so that each not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
 - brenton: Also in the prophets of Jerusalem I have seen horrible things: as they committed adultery, and walked in lies, and strengthened the hands of many, that they should not return each from his evil way: they are all become to me as Sodoma, and the inhabitants thereof as Gomorrha.
 
 ### Jeremiah 23:15
@@ -174062,7 +174062,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And anger of the Lord will not turn back until he does it and until he raises it up from undertaking of his heart. At last of days they will understand these things.
+- fresh: And anger of the Lord will not turn back until he does it and until he raises it up from undertaking of his heart. At the last of days they will understand these things.
 - brenton: And the Lord's wrath shall return no more, until he have accomplished it, and until he have established it, according to the purpose of his heart: at the end of the days they shall understand it.
 
 ### Jeremiah 23:21
@@ -174116,7 +174116,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How long will this be in heart of prophets prophesying lies and prophesying desires of their own heart?
+- fresh: How long will this be in the heart of prophets prophesying lies and prophesying desires of their own heart?
 - brenton: How long shall these things be in the heart of the prophets that prophesy lies, when they prophesy the purposes of their own heart?
 
 ### Jeremiah 23:27
@@ -174287,7 +174287,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God of Israel: As these good figs, so I will recognize exiles of Judah whom I sent away from this place into land of Chaldeans for good.
+- fresh: Thus says the Lord God of Israel: As these good figs, so I will recognize exiles of Judah whom I sent away from this place into the land of Chaldeans for good.
 - brenton: Thus saith the Lord, the God of Israel; As these good figs, so will I acknowledge the Jews that have been carried away captive, whom I have sent forth out of this place into the land of the Chaldeans for good.
 
 ### Jeremiah 24:6
@@ -174332,7 +174332,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send on them famine and death and sword until they fail from land which I gave them.
+- fresh: And I will send on them famine and death and sword until they fail from the land which I gave them.
 - brenton: And I will send against them famine, and pestilence, and the sword, until they are consumed from off the land which I gave them.
 
 ### Jeremiah 25:1
@@ -174350,7 +174350,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which he spoke to all people of Judah and to ones dwelling in Jerusalem, saying,
+- fresh: which he spoke to all the people of Judah and to ones dwelling in Jerusalem, saying,
 - brenton: which he spoke to all the people of Juda, and to the inhabitants of Jerusalem, saying,
 
 ### Jeremiah 25:3
@@ -174386,7 +174386,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not go after foreign gods, to serve them and bow to them, so that you not provoke me by works of your hands, to harm you.
+- fresh: Do not go after foreign gods, to serve them and bow to them, so that you not provoke me by the works of your hands, to harm you.
 - brenton: Go ye not after strange gods, to serve them, and to worship them, that ye provoke me not by the works of your hands, to do you hurt.
 
 ### Jeremiah 25:7
@@ -174485,7 +174485,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will terrify them before their enemies seeking their lives, and I will bring on them evils according to anger of my wrath, and I will send my sword after them until I consume them.
+- fresh: And I will terrify them before their enemies seeking their lives, and I will bring on them evils according to the anger of my wrath, and I will send my sword after them until I consume them.
 - brenton: And I will put them in fear before their enemies that seek their life; and I will bring evils upon them according to my great anger; and I will send forth my sword after them, until I have utterly destroyed them.
 
 ### Jeremiah 25:18
@@ -174503,7 +174503,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be at last of days, I will turn captivity of Elam, says the Lord.
+- fresh: And it will be at the last of days, I will turn captivity of Elam, says the Lord.
 - brenton: But it shall come to pass at the end of days, that I will turn the captivity of Ælam, saith the Lord.
 
 ### Jeremiah 25:20
@@ -174512,7 +174512,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At beginning of Zedekiah king reigning, this word came concerning Elam.
+- fresh: At the beginning of Zedekiah king reigning, this word came concerning Elam.
 - brenton: In the beginning of the reign of king Sedekias, there came this word concerning Ælam.
 
 ### Jeremiah 26:2
@@ -174521,7 +174521,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
+- fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by the river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
 - brenton: For Egypt, against the Power of Pharao Nechao King of Egypt, who was by the river Euphrates in Charmis, whom Nabuchodonosor king of Babylon smote in the fourth year of Joakim king of Juda.
 
 ### Jeremiah 26:3
@@ -174593,7 +174593,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And that day belongs to the Lord our God, day of vengeance to avenge his enemies, and sword of the Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to the Lord of hosts from land of north by river Euphrates.
+- fresh: And that day belongs to the Lord our God, day of vengeance to avenge his enemies, and sword of the Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to the Lord of hosts from the land of the north by the river Euphrates.
 - brenton: And that day shall be to the Lord our God a day of vengeance, to take vengeance on his enemies: and the sword of the Lord shall devour, and be glutted, and be drunken with their blood: for the Lord has a sacrifice from the land of the north at the river Euphrates.
 
 ### Jeremiah 26:11
@@ -174647,7 +174647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from face of Greek sword.
+- fresh: And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from the face of Greek sword.
 - brenton: And thy multitude has fainted and fallen; and each one said to his neighbour, Let us arise, and return into our country to our people, from the Grecian sword.
 
 ### Jeremiah 26:17
@@ -174719,7 +174719,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Daughter of Egypt was put to shame. She was handed into hands of people from north.
+- fresh: Daughter of Egypt was put to shame. She was handed into the hands of people from north.
 - brenton: The daughter of Egypt is confounded; she is delivered into the hands of a people from the north.
 
 ### Jeremiah 26:25
@@ -174737,7 +174737,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But do not fear, my servant Jacob, and do not be terrified, Israel, because behold, I save you from far away, and your seed from land of their captivity, and Jacob will return and be quiet and sleep, and there will not be one harassing him.
+- fresh: But do not fear, my servant Jacob, and do not be terrified, Israel, because behold, I save you from far away, and your seed from the land of their captivity, and Jacob will return and be quiet and sleep, and there will not be one harassing him.
 - brenton: But fear not thou, my servant Jacob, neither be thou alarmed, Israel: for, behold, I will save thee from afar, and thy seed from their captivity; and Jacob shall return, and be at ease, and sleep, and there shall be no one to trouble him.
 
 ### Jeremiah 26:28
@@ -174818,7 +174818,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Become estranged from the midst of Babylon, and go out from land of Chaldeans, and become like dragons before flocks.
+- fresh: Become estranged from the midst of Babylon, and go out from the land of Chaldeans, and become like dragons before flocks.
 - brenton: Flee ye out of the midst of Babylon, and from the land of the Chaldeans, and go forth, and be as serpents before sleep.
 
 ### Jeremiah 27:9
@@ -174827,7 +174827,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, I raise up against Babylon gatherings of nations from land of north, and they will array against her. From there she will be taken, like arrow of wise warrior that will not return empty.
+- fresh: Because behold, I raise up against Babylon gatherings of nations from the land of the north, and they will array against her. From there she will be taken, like arrow of wise warrior that will not return empty.
 - brenton: For, behold, I stir up against Babylon the gatherings of nations out of the land of the north; and they shall set themselves in array against her: thence shall she be taken, as the dart of an expert warrior shall not return empty.
 
 ### Jeremiah 27:10
@@ -174890,7 +174890,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Destroy seed from Babylon and one holding sickle in time of harvest. From face of Greek sword each will turn to his people, and each will flee into his land.
+- fresh: Destroy seed from Babylon and one holding sickle in the time of harvest. From the face of Greek sword each will turn to his people, and each will flee into his land.
 - brenton: Utterly destroy seed out of Babylon, and him that holds a sickle in time of harvest: for fear of the Grecian sword, they shall return every one to his people, and every one shall flee to his own land.
 
 ### Jeremiah 27:17
@@ -174953,7 +174953,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How hammer of all earth was broken and shattered. How Babylon became for disappearance among nations.
+- fresh: How hammer of all the earth was broken and shattered. How Babylon became for disappearance among nations.
 - brenton: How is the hammer of the whole earth broken and crushed! How is Babylon become a desolation among the nations!
 
 ### Jeremiah 27:24
@@ -174998,7 +174998,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Voice of ones fleeing and escaping from land of Babylon, to announce in Zion vengeance from the Lord our God.
+- fresh: Voice of ones fleeing and escaping from the land of Babylon, to announce in Zion vengeance from the Lord our God.
 - brenton: A voice of men fleeing and escaping from the land of Babylon, to declare to Sion the vengeance that comes from the Lord our God.
 
 ### Jeremiah 27:29
@@ -175160,7 +175160,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from voice of Babylon's capture earth will be shaken and cry will be heard among nations.
+- fresh: Because from the voice of Babylon's capture earth will be shaken and cry will be heard among nations.
 - brenton: For at the sound of the taking of Babylon the earth shall quake, and a cry shall be heard among the nations.
 
 ### Jeremiah 28:1
@@ -175178,7 +175178,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send revilers into Babylon, and they will revile her and ruin her land. Woe upon Babylon all around in day of her affliction.
+- fresh: And I will send revilers into Babylon, and they will revile her and ruin her land. Woe upon Babylon all around in the day of her affliction.
 - brenton: And I will send forth against Babylon spoilers, and they shall spoil her, and shall ravage her land. Woe to Babylon round about her in the day of her affliction.
 
 ### Jeremiah 28:3
@@ -175223,7 +175223,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Babylon, golden cup in the hand of the Lord, making all earth drunk. Nations drank from her wine. Because of this they were shaken.
+- fresh: Babylon, golden cup in the hand of the Lord, making all the earth drunk. Nations drank from her wine. Because of this they were shaken.
 - brenton: Babylon has been a golden cup in the Lord's hand, causing all the earth to be drunken: the nations have drunk of her wine; therefore they were shaken.
 
 ### Jeremiah 28:8
@@ -175268,7 +175268,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon walls of Babylon raise signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
+- fresh: Upon the walls of Babylon raise signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
 - brenton: Lift up a standard on the walls of Babylon, prepare the quivers, rouse the guards, prepare the weapons: for the Lord has taken the work in hand, and will execute what he has spoken against the inhabitants of Babylon,
 
 ### Jeremiah 28:13
@@ -175322,7 +175322,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They are vain works, mocked things. In time of their visitation they will perish.
+- fresh: They are vain works, mocked things. In the time of their visitation they will perish.
 - brenton: They are vain works, objects of scorn; in the time of their visitation they shall perish.
 
 ### Jeremiah 28:19
@@ -175385,7 +175385,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I am against you, corrupt mountain destroying all earth, and I will stretch out my hand upon you and roll you down from rocks and give you as mountain set on fire.
+- fresh: Behold, I am against you, corrupt mountain destroying all the earth, and I will stretch out my hand upon you and roll you down from rocks and give you as mountain set on fire.
 - brenton: Behold, I am against thee, the ruined mountain, that destroys the whole earth; and I will stretch out mine hand upon thee, and will roll thee down upon the rocks, and will make thee as a burnt mountain.
 
 ### Jeremiah 28:26
@@ -175439,7 +175439,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Runner will run to meet runner, and announcer to meet announcer, to announce to king of Babylon that his city was taken.
+- fresh: Runner will run to meet runner, and announcer to meet announcer, to announce to the king of Babylon that his city was taken.
 - brenton: One shall rush, running to meet another runner, and one shall go with tidings to meet another with tidings, to bring tidings to the king of Babylon, that his city is taken.
 
 ### Jeremiah 28:32
@@ -175457,7 +175457,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord, house of king of Babylon is like ripe threshing-floor. Yet little, and her harvest will come.
+- fresh: Because thus says the Lord, house of the king of Babylon is like ripe threshing-floor. Yet little, and her harvest will come.
 - brenton: For thus saith the Lord, The houses of the king of Babylon shall be threshed as a floor in the season; yet a little while, and her harvest shall come.
 
 ### Jeremiah 28:34
@@ -175529,7 +175529,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How praise of all earth was taken and trapped. How Babylon became for disappearance among nations.
+- fresh: How praise of all the earth was taken and trapped. How Babylon became for disappearance among nations.
 - brenton: How has the boast of all the earth been taken and caught in a snare! how has Babylon become a desolation among the nations!
 
 ### Jeremiah 28:42
@@ -175565,7 +175565,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Babylon slain ones of all earth will fall.
+- fresh: And in Babylon slain ones of all the earth will fall.
 - brenton: and in Babylon the slain men of all the earth shall fall.
 
 ### Jeremiah 28:50
@@ -175700,7 +175700,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and you will say, Thus Babylon will sink and will never rise from face of evils which I bring upon her.
+- fresh: and you will say, Thus Babylon will sink and will never rise from the face of evils which I bring upon her.
 - brenton: and shalt say, Thus shall Babylon sink, and not rise, because of the evils which I bring upon it.
 
 ### Jeremiah 29:1
@@ -175727,7 +175727,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From sound of his rush, from weapons of his feet and from shaking of his chariots, sound of his wheels, fathers did not turn back toward their sons from slackening of their hands.
+- fresh: From the sound of his rush, from weapons of his feet and from shaking of his chariots, sound of his wheels, fathers did not turn back toward their sons from slackening of their hands.
 - brenton: at the sound of his rushing, at the sound of his hoofs, and at the rattling of his chariots, at the noise of his wheels: the fathers turned not to their children because of the weakness of their hands,
 
 ### Jeremiah 29:4
@@ -175898,7 +175898,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from sound of their fall earth was shaken, and your cry was heard in sea.
+- fresh: Because from the sound of their fall, earth was shaken, and your cry was heard in the sea.
 - brenton: For at the sound of their fall the earth was scared, and the cry of the sea was not heard.
 
 ### Jeremiah 30:16
@@ -175916,7 +175916,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Melchom inherit Gad, and his people dwell in his cities?
+- fresh: To the sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Melchom inherit Gad, and his people dwell in his cities?
 - brenton: Concerning the sons of Ammon thus saith the Lord, Are there no sons in Israel? or have they no one to succeed them? wherefore has Melchol inherited Galaad, and why shall their people dwell in their cities?
 
 ### Jeremiah 30:18
@@ -175961,7 +175961,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To Kedar, royal court, which Nebuchadnezzar king of Babylon struck, thus said the Lord: Rise and go up against Kedar and fill yourselves with sons of the east.
+- fresh: To Kedar, royal court, which Nebuchadnezzar king of Babylon struck, thus said the Lord: Rise and go up against Kedar and fill yourselves with the sons of the east.
 - brenton: Concerning Kedar the Queen of the Palace, whom Nabuchodonosor King of Babylon smote, thus saith the Lord;
 
 ### Jeremiah 30:24
@@ -176051,7 +176051,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will kindle fire in wall of Damascus, and it will devour streets of son of Hader.
+- fresh: And I will kindle fire in the wall of Damascus, and it will devour streets of son of Hader.
 - brenton: And I will kindle a fire in the wall of Damascus, and it shall devour the streets of the son of Ader.
 
 ### Jeremiah 31:1
@@ -176096,7 +176096,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because on ascent of Alauth one will go up with weeping, weeping. On road of Horonaim they heard cry of crushing.
+- fresh: Because on the ascent of Alauth one will go up with weeping, weeping. On the road of Horonaim they heard cry of crushing.
 - brenton: for Aloth is filled with weeping: one shall go up weeping by the way of Oronaim; ye have heard a cry of destruction.
 
 ### Jeremiah 31:6
@@ -176240,7 +176240,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And judgment comes upon land of Mishor, upon Helon and upon Iassa and upon Mephaath,
+- fresh: And judgment comes upon the land of Mishor, upon Helon and upon Iassa and upon Mephaath,
 - brenton: And judgment is coming against the land of Misor, upon Chelon, and Rephas, and Mophas,
 
 ### Jeremiah 31:22
@@ -176258,7 +176258,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and upon Kirjathaim and upon house of Beth-gamul and upon house of Maon,
+- fresh: and upon Kirjathaim and upon the house of Beth-gamul and upon the house of Maon,
 - brenton: and upon Cariathaim, and upon the house of Gæmol, and upon the house of Maon,
 
 ### Jeremiah 31:24
@@ -176330,7 +176330,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore over Moab howl everywhere. Cry over men of Kir-heres of drought.
+- fresh: Therefore over Moab howl everywhere. Cry over the men of Kir-heres of drought.
 - brenton: Therefore howl ye for Moab on all sides; cry out against the shorn men in a gloomy place. I will weep for thee,
 
 ### Jeremiah 31:32
@@ -176375,7 +176375,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore my heart for Moab will sound like flutes, and my heart over men of Kir-heres will sound like flute, because what he prepared perished from man.
+- fresh: Therefore my heart for Moab will sound like flutes, and my heart over the men of Kir-heres will sound like flute, because what he prepared perished from man.
 - brenton: Therefore the heart of Moab shall sound as pipes, my heart shall sound as a pipe for the shorn men; forasmuch as what every man has gained has perished from him.
 
 ### Jeremiah 31:37
@@ -176447,7 +176447,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One fleeing from face of fear will fall into pit, and one coming up from pit will be caught in snare, because I will bring these things upon Moab in year of her visitation.
+- fresh: One fleeing from the face of fear will fall into pit, and one coming up from pit will be caught in snare, because I will bring these things upon Moab in the year of her visitation.
 - brenton: He that flees from the terror shall fall into the pit, and he that comes up out of the pit shall even be taken in the snare: for I will bring these things upon Moab in the year of their visitation.
 
 ### Jeremiah 32:13
@@ -176474,7 +176474,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will drink and vomit and go mad from face of sword which I send among them.
+- fresh: And they will drink and vomit and go mad from the face of the sword which I send among them.
 - brenton: And they shall drink, and vomit, and be mad, because of the sword which I send among them.
 
 ### Jeremiah 32:17
@@ -176564,7 +176564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and all kings from east, far and near, each toward his brother, and all kingdoms upon face of the earth.
+- fresh: and all kings from east, far and near, each toward his brother, and all kingdoms upon the face of the earth.
 - brenton: and all the kings from the north, the far and the near, each one with his brother, and all the kingdoms which are on the face of the earth.
 
 ### Jeremiah 32:27
@@ -176573,7 +176573,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to them, Thus said the Lord Almighty: Drink and get drunk and vomit and fall and not rise from face of sword which I send among you.
+- fresh: And you will say to them, Thus said the Lord Almighty: Drink and get drunk and vomit and fall and not rise from the face of the sword which I send among you.
 - brenton: And thou shalt say to them, Thus said the Lord Almighty; Drink ye, be ye drunken; and ye shall vomit, and shall fall, and shall in nowise rise, because of the sword which I send among you.
 
 ### Jeremiah 32:28
@@ -176627,7 +176627,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And slain by Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon face of the earth.
+- fresh: And slain by Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon the face of the earth.
 - brenton: And the slain of the Lord shall be in the day of the Lord from one end of the earth even to the other end of the earth: they shall not be buried; they shall be as dung on the face of the earth.
 
 ### Jeremiah 32:34
@@ -176663,7 +176663,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And remnants of peace will cease from face of my burning anger.
+- fresh: And remnants of peace will cease from the face of my burning anger.
 - brenton: And the peaceable abodes that remain shall be destroyed before the fierceness of my anger.
 
 ### Jeremiah 32:38
@@ -176672,7 +176672,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He abandoned his lodging like lion, because their land became trackless waste from face of great sword.
+- fresh: He abandoned his lodging like lion, because their land became trackless waste from the face of great sword.
 - brenton: He has forsaken his lair, as a lion: for their land is become desolate before the great sword.
 
 ### Jeremiah 33:1
@@ -176681,7 +176681,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At beginning of king Jehoiakim son of Josiah this word came from the Lord.
+- fresh: At the beginning of king Jehoiakim son of Josiah this word came from the Lord.
 - brenton: In the beginning of the Reign of King Joakim Son of Josias there came this Word from the Lord.
 
 ### Jeremiah 33:2
@@ -176690,7 +176690,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Stand in court of house of the Lord and answer all Judeans and all coming to worship in the house of the Lord all words which I ordered you to answer them. Do not leave out word.
+- fresh: Thus said the Lord: Stand in the court of the house of the Lord and answer all Judeans and all coming to worship in the house of the Lord all words which I ordered you to answer them. Do not leave out word.
 - brenton: Thus said the Lord; Stand in the court of the Lord's house, and thou shalt declare to all the Jews, and to all that come to worship in the house of the Lord, all the words which I commanded thee to speak to them; abate not one word.
 
 ### Jeremiah 33:3
@@ -176717,7 +176717,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to listen to words of my servants the prophets whom I send to you early, and I sent, and you did not hear me,
+- fresh: to listen to the words of my servants the prophets whom I send to you early, and I sent, and you did not hear me,
 - brenton: to hearken to the words of my servants the prophets, whom I send to you early in the morning; yea, I sent them, but ye hearkened not to me;
 
 ### Jeremiah 33:6
@@ -176726,7 +176726,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then I will give this house like Shiloh, and this city I will give for curse to all nations of all earth.
+- fresh: then I will give this house like Shiloh, and this city I will give for curse to all nations of all the earth.
 - brenton: then will I make this house as Selo, and I will make this city a curse to all the nations of all the earth.
 
 ### Jeremiah 33:7
@@ -176762,7 +176762,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers of Judah heard this word and went up from the house of king into the house of the Lord and sat in entrance of new gate of the Lord.
+- fresh: And rulers of Judah heard this word and went up from the house of the king into the house of the Lord and sat in the entrance of the new gate of the Lord.
 - brenton: And the princes of Juda heard this word, and they went up out of the house of the king to the house of the Lord, and sat in the entrance of the new gate.
 
 ### Jeremiah 33:11
@@ -176825,7 +176825,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And men from elders of land stood up and said to all assembly of people,
+- fresh: And men from the elders of land stood up and said to all assembly of people,
 - brenton: And there rose up men of the elders of the land, and said to all the assembly of the people,
 
 ### Jeremiah 33:18
@@ -176834,7 +176834,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Micah the Morasthite was in the days of Hezekiah king of Judah and said to all people of Judah, Thus said the Lord: Zion will be plowed like field and Jerusalem will be for trackless waste and mountain of house for grove of forest.
+- fresh: Micah the Morasthite was in the days of Hezekiah king of Judah and said to all the people of Judah, Thus said the Lord: Zion will be plowed like field and Jerusalem will be for trackless waste and mountain of house for grove of forest.
 - brenton: Michæas the Morathite lived in the days of Ezekias king of Juda, and said to all the people of Juda, Thus saith the Lord; Sion shall be ploughed as a field, and Jerusalem shall become a desolation, and the mountain of the house shall be a thicket of trees.
 
 ### Jeremiah 33:19
@@ -176888,7 +176888,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into hands of people, so that they not kill him.
+- fresh: But hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into the hands of people, so that they not kill him.
 - brenton: Nevertheless the hand of Achicam son of Saphan was with Jeremias, to prevent his being delivered into the hands of the people, or being killed.
 
 ### Jeremiah 34:2
@@ -176906,7 +176906,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will send them to king of Edom and to king of Moab and to king of sons of Ammon and to king of Tyre and to king of Sidon by the hand of their messengers coming to meet them in Jerusalem to Zedekiah king of Judah.
+- fresh: And you will send them to the king of Edom and to the king of Moab and to the king of sons of Ammon and to the king of Tyre and to the king of Sidon by the hand of their messengers coming to meet them in Jerusalem to Zedekiah king of Judah.
 - brenton: and thou shalt send them to the king of Idumea, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Sidon, by the hands of their messengers that come to meet them at Jerusalem to Sedekias king of Juda.
 
 ### Jeremiah 34:4
@@ -177005,7 +177005,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To you and to all this people and to priests I spoke, saying, Thus said the Lord: Do not hear words of prophets prophesying to you, saying, Behold, vessels of house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
+- fresh: To you and to all this people and to priests I spoke, saying, Thus said the Lord: Do not hear words of prophets prophesying to you, saying, Behold, vessels of the house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
 - brenton: I spoke to you, and to all this people, and to the priests, saying, Thus said the Lord; Hearken not to the words of the prophets that prophesy to you, saying, Behold, the vessels of the Lord's house shall return from Babylon: for they prophesy to you unrighteous words. I sent them not.
 
 ### Jeremiah 34:18
@@ -177068,7 +177068,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Still two years of days, and I will restore into this place vessels of house of the Lord,
+- fresh: Still two years of days, and I will restore into this place vessels of the house of the Lord,
 - brenton: Yet two full years, and I will return into this place the vessels of the house of the Lord,
 
 ### Jeremiah 35:4
@@ -177095,7 +177095,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return vessels of house of the Lord and all exile from Babylon into this place.
+- fresh: and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return vessels of the house of the Lord and all exile from Babylon into this place.
 - brenton: and Jeremias said, May the Lord indeed do thus; may he confirm thy word which thou dost prophesy, to return the vessels of the house of the Lord, and all the captivity, out of Babylon to this place.
 
 ### Jeremiah 35:7
@@ -177104,7 +177104,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Only hear the word of the Lord which I speak into your ears and into ears of all people.
+- fresh: Only hear the word of the Lord which I speak into your ears and into the ears of all people.
 - brenton: Nevertheless hear ye the word of the Lord which I speak in your ears, and in the ears of all the people.
 
 ### Jeremiah 35:8
@@ -177203,7 +177203,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are words of scroll which Jeremiah sent from Jerusalem to elders of exile and to priests and to false prophets, letter into Babylon to exile and to all people,
+- fresh: And these are words of scroll which Jeremiah sent from Jerusalem to the elders of exile and to priests and to false prophets, letter into Babylon to exile and to all people,
 - brenton: And these are the words of the book which Jeremias sent from Jerusalem to the elders of the captivity, and to the priests, and to the false prophets, even an epistle to Babylon for the captivity, and to all the people;
 
 ### Jeremiah 36:2
@@ -177221,7 +177221,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: by the hand of Eleasah son of Shaphan and Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to king of Babylon in Babylon, saying,
+- fresh: by the hand of Eleasah son of Shaphan and Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to the king of Babylon in Babylon, saying,
 - brenton: by the hand of Eleasan son of Saphan, and Gamarias son of Chelcias, (whom Sedekias king of Juda sent to the king of Babylon to Babylon) saying,
 
 ### Jeremiah 36:4
@@ -177338,7 +177338,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord concerning Ahab and concerning Zedekiah: Behold, I give them into hands of king of Babylon, and he will strike them before your eyes.
+- fresh: Thus said the Lord concerning Ahab and concerning Zedekiah: Behold, I give them into the hands of king of Babylon, and he will strike them before your eyes.
 - brenton: Thus saith the Lord concerning Achiab, and concerning Sedekias; Behold, I will deliver them into the hands of the king of Babylon; and he shall smite them in your sight.
 
 ### Jeremiah 36:22
@@ -177410,7 +177410,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zephaniah read the scroll into ears of Jeremiah.
+- fresh: And Zephaniah read the scroll into the ears of Jeremiah.
 - brenton: And Sophonias read the book in the ears of Jeremias.
 
 ### Jeremiah 36:30
@@ -177464,7 +177464,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because behold, days come, says the Lord, and I will restore exile of my people Israel and Judah, says the Lord, and I will restore them into land which I gave to their fathers, and they will rule it.
+- fresh: because behold, days come, says the Lord, and I will restore exile of my people Israel and Judah, says the Lord, and I will restore them into the land which I gave to their fathers, and they will rule it.
 - brenton: For, behold, the days come, saith the Lord, when I will bring back the captivity of my people Israel and Juda, said the Lord: and I will bring them back to the land which I gave to their fathers, and they shall be lords of it.
 
 ### Jeremiah 37:4
@@ -177617,7 +177617,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Wrath of anger of the Lord will not turn back until he does and until he establishes undertaking of his heart. At last of days you will know these things.
+- fresh: Wrath of anger of the Lord will not turn back until he does and until he establishes undertaking of his heart. At the last of days you will know these things.
 - brenton: The fierce anger of the Lord shall not return, until he shall execute it, and until he shall establish the purpose of his heart: in the latter days ye shall know these things.
 
 ### Jeremiah 38:1
@@ -177653,7 +177653,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with assembly of ones playing.
+- fresh: Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with the assembly of ones playing.
 - brenton: For I will build thee, and thou shalt be built, O virgin of Israel: thou shalt yet take thy timbrel, and go forth with the party of them that make merry.
 
 ### Jeremiah 38:5
@@ -177671,7 +177671,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because there is day of calling of defenders in mountain of Ephraim: Rise and go up to Zion, to the Lord our God.
+- fresh: Because there is day of calling of defenders in the mountain of Ephraim: Rise and go up to Zion, to the Lord our God.
 - brenton: For it is a day when those that plead on the mountains of Ephraim shall call, saying, Arise ye, and go up to Sion to the Lord your God.
 
 ### Jeremiah 38:7
@@ -177680,7 +177680,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord to Jacob: Rejoice and neigh over head of nations. Make it heard and praise. Say, the Lord saved his people, remnant of Israel.
+- fresh: Because thus said the Lord to Jacob: Rejoice and neigh over the head of nations. Make it heard and praise. Say, the Lord saved his people, remnant of Israel.
 - brenton: For thus saith the Lord to Jacob; Rejoice ye, and exult over the head of the nations: make proclamation, and praise ye: say, The Lord has delivered his people, the remnant of Israel.
 
 ### Jeremiah 38:8
@@ -177689,7 +177689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I bring them from north and gather them from the ends of the earth in feast of Phasce, and they will beget great crowd and return here.
+- fresh: Behold, I bring them from north and gather them from the ends of the earth in the feast of Phasce, and they will beget great crowd and return here.
 - brenton: Behold, I bring them from the north, and will gather them from the end of the earth to the feast of the passover: and the people shall beget a great multitude, and they shall return hither.
 
 ### Jeremiah 38:9
@@ -177716,7 +177716,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord ransomed Jacob, delivered him from hand of ones stronger than he.
+- fresh: Because the Lord ransomed Jacob, delivered him from the hand of ones stronger than he.
 - brenton: For the Lord has ransomed Jacob, he has rescued him out of the hand of them that were stronger than he.
 
 ### Jeremiah 38:12
@@ -177725,7 +177725,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will come and rejoice in mountain Zion, and come upon good things of the Lord, upon land of grain and wine and fruits and cattle and sheep. And their soul will be like fruitful tree, and they will hunger no longer.
+- fresh: And they will come and rejoice in mountain Zion, and come upon good things of the Lord, upon the land of grain and wine and fruits and cattle and sheep. And their soul will be like fruitful tree, and they will hunger no longer.
 - brenton: And they shall come, and shall rejoice in the mount of Sion, and shall come to the good things of the Lord, even to a land of corn, and wine, and fruits, and cattle, and sheep: and their soul shall be as a fruitful tree; and they shall hunger no more.
 
 ### Jeremiah 38:13
@@ -177734,7 +177734,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then virgins will rejoice in gathering of young men, and elders will rejoice, and I will turn their mourning into joy and make them glad.
+- fresh: Then virgins will rejoice in the gathering of young men, and elders will rejoice, and I will turn their mourning into joy and make them glad.
 - brenton: Then shall the virgins rejoice in the assembly of youth, and the old men shall rejoice; and I will turn their mourning into joy, and will make them merry.
 
 ### Jeremiah 38:14
@@ -177761,7 +177761,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is wage for your works, and they will return from land of enemies.
+- fresh: Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is wage for your works, and they will return from the land of enemies.
 - brenton: Thus saith the Lord; Let thy voice cease from weeping, and thine eyes from thy tears: for there is a reward for thy works; and they shall return from the land of thine enemies.
 
 ### Jeremiah 38:17
@@ -177788,7 +177788,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because after my captivity I repented, and after my knowing I groaned in day of shame and showed you that I received reproach from my youth.
+- fresh: Because after my captivity I repented, and after my knowing I groaned in the day of shame and showed you that I received reproach from my youth.
 - brenton: For after my captivity I repented; and after I knew, I groaned for the day of shame, and shewed thee that I bore reproach from my youth.
 
 ### Jeremiah 38:20
@@ -177833,7 +177833,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And dwellers in cities of Judah and in all its land together with farmer and one lifted in flock.
+- fresh: And dwellers in the cities of Judah and in all its land together with farmer and one lifted in flock.
 - brenton: And there shall be dwellers in the cities of Juda, and in all his land, together with the husbandman, and the shepherd shall go forth with the flock.
 
 ### Jeremiah 38:25
@@ -177896,7 +177896,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and I will make with house of Israel and house of Judah new covenant,
+- fresh: Behold, days come, says the Lord, and I will make with the house of Israel and house of Judah new covenant,
 - brenton: Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel, and with the house of Juda:
 
 ### Jeremiah 38:32
@@ -177905,7 +177905,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: not according to covenant which I made with their fathers in day when I took their hand to bring them out from land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
+- fresh: not according to covenant which I made with their fathers in day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
 - brenton: not according to the covenant which I made with their fathers in the day when I took hold of their hand to bring them out of the land of Egypt; for they abode not in my covenant, and I disregarded them, saith the Lord.
 
 ### Jeremiah 38:33
@@ -177914,7 +177914,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because this is covenant which I will make with house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be people to me.
+- fresh: Because this is covenant which I will make with the house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be people to me.
 - brenton: For this is my covenant which I will make with the house of Israel; after those days, saith the Lord, I will surely put my laws into their mind, and write them on their hearts; and I will be to them a God, and they shall be to me a people.
 
 ### Jeremiah 38:34
@@ -177959,7 +177959,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and city will be built to the Lord from tower of Hanameel to corner gate.
+- fresh: Behold, days come, says the Lord, and city will be built to the Lord from the tower of Hanameel to corner gate.
 - brenton: Behold, the days come, saith the Lord, when the city shall be built to the Lord from the tower of Anameel to the gate of the corner.
 
 ### Jeremiah 38:39
@@ -177995,7 +177995,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And force of king of Babylon fenced against Jerusalem, and Jeremiah was guarded in court of prison, which is in the house of king.
+- fresh: And force of king of Babylon fenced against Jerusalem, and Jeremiah was guarded in the court of the prison, which is in the house of the king.
 - brenton: And the host of the king of Babylon had made a rampart against Jerusalem: and Jeremias was kept in the court of the prison, which is in the king's house;
 
 ### Jeremiah 39:3
@@ -178004,7 +178004,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In which king Zedekiah shut him up, saying, Why do you prophesy, saying, Thus said the Lord: Behold, I give this city into hands of king of Babylon, and he will take it.
+- fresh: In which king Zedekiah shut him up, saying, Why do you prophesy, saying, Thus said the Lord: Behold, I give this city into the hands of king of Babylon, and he will take it.
 - brenton: in which king Sedekias had shut him up, saying, Wherefore dost thou prophesy, saying, Thus saith the Lord, Behold, I will give this city into the hands of the king of Babylon, and he shall take it;
 
 ### Jeremiah 39:4
@@ -178013,7 +178013,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah will certainly not be saved from hand of Chaldeans, because in handing over he will be handed into hands of king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
+- fresh: And Zedekiah will certainly not be saved from the hand of Chaldeans, because in handing over he will be handed into the hands of king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
 - brenton: and Sedekias shall by no means be delivered out of the hand of the Chaldeans, for he shall certainly be given up into the hands of the king of Babylon, and his mouth shall speak to his mouth, and his eyes shall look upon his eyes;
 
 ### Jeremiah 39:5
@@ -178049,7 +178049,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hanameel son of Shallum my father’s brother came to me into court of prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
+- fresh: And Hanameel son of Shallum my father’s brother came to me into the court of the prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
 - brenton: So Anameel the son of Salom my father's brother came to me into the court of the prison, and said, Buy thee my field that is in the land of Benjamin, in Anathoth: for thou hast a right to buy it, and thou art the elder. So I knew that it was the word of the Lord.
 
 ### Jeremiah 39:9
@@ -178085,7 +178085,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in court of prison.
+- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in the court of the prison.
 - brenton: and I gave it to Baruch son of Nerias, son of Maasæas, in the sight of Anameel my father's brother's son, and in the sight of the men that stood by and wrote in the book of the purchase, and in the sight of the Jews that were in the court of the prison.
 
 ### Jeremiah 39:13
@@ -178139,7 +178139,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: doing mercy to thousands and repaying sins of fathers into bosom of their children after them, God great and mighty,
+- fresh: doing mercy to thousands and repaying sins of fathers into the bosom of their children after them, God great and mighty,
 - brenton: Granting mercy to thousands, and recompensing the sins of the fathers into the bosoms of their children after them: the great, the strong God;
 
 ### Jeremiah 39:19
@@ -178148,7 +178148,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord of great counsel and mighty in works, God great, Almighty, and great in name, Lord. Your eyes are upon ways of sons of men, to give to each according to his way,
+- fresh: Lord of great counsel and mighty in works, God great, Almighty, and great in name, Lord. Your eyes are upon the ways of sons of men, to give to each according to his way,
 - brenton: the Lord of great counsel, and mighty in deeds, the great Almighty God, and Lord of great name: thine eyes are upon the ways of the children of men, to give to every one according to his way:
 
 ### Jeremiah 39:20
@@ -178166,7 +178166,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you brought your people Israel out from land of Egypt with signs and with wonders and with strong hand and with high arm and with great visions.
+- fresh: And you brought your people Israel out from the land of Egypt with signs and with wonders and with strong hand and with high arm and with great visions.
 - brenton: and thou didst bring out thy people Israel out of the land of Egypt with signs, and with wonders, with a mighty hand, and with a high arm, and with great sights;
 
 ### Jeremiah 39:22
@@ -178193,7 +178193,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, crowd comes to this city to seize it, and city was given into hands of Chaldeans fighting against it from face of sword and famine. As you spoke, so it happened.
+- fresh: Behold, crowd comes to this city to seize it, and city was given into the hands of Chaldeans fighting against it from the face of the sword and famine. As you spoke, so it happened.
 - brenton: Behold, a multitude is come against the city to take it; and the city is given into the hands of the Chaldeans that fight against it, by the power of the sword, and the famine: as thou hast spoken, so has it happened.
 
 ### Jeremiah 39:25
@@ -178202,7 +178202,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you say to me, Buy field for yourself with silver, and I wrote scroll and sealed and brought witnesses, and city was given into hands of Chaldeans.
+- fresh: And you say to me, Buy field for yourself with silver, and I wrote scroll and sealed and brought witnesses, and city was given into the hands of Chaldeans.
 - brenton: And thou sayest to me, Buy thee the field for money; and I wrote a book, and sealed it, and took the testimony of witnesses: and the city is given into the hands of the Chaldeans.
 
 ### Jeremiah 39:26
@@ -178229,7 +178229,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord God of Israel: This city in being given over will be handed into hands of king of Babylon, and he will take it.
+- fresh: Therefore thus said the Lord God of Israel: This city in being given over will be handed into the hands of king of Babylon, and he will take it.
 - brenton: Therefore thus saith the Lord God of Israel; This city shall certainly be delivered into the hands of the king of Babylon, and he shall take it:
 
 ### Jeremiah 39:29
@@ -178292,7 +178292,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they built altars to Baal in valley of son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
+- fresh: And they built altars to Baal in the valley of son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
 - brenton: And they built to Baal the altars that are in the valley of the son of Ennom, to offer their sons and their daughters to king Moloch; which things I commanded them not, neither came it into my mind that they should do this abomination, to cause Juda to sin.
 
 ### Jeremiah 39:36
@@ -178301,7 +178301,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now thus said the Lord God of Israel concerning this city which you say will be handed into hands of king of Babylon by sword and famine and by sending away:
+- fresh: And now thus said the Lord God of Israel concerning this city which you say will be handed into the hands of king of Babylon by sword and famine and by sending away:
 - brenton: And now thus has the Lord God of Israel said concerning this city, of which thou sayest, It shall be delivered into the hands of the king of Babylon by the sword, and by famine, and banishment.
 
 ### Jeremiah 39:37
@@ -178364,7 +178364,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And fields will still be bought in land which you say is trackless waste, from men and cattle, and they were handed into hands of Chaldeans.
+- fresh: And fields will still be bought in land which you say is trackless waste, from men and cattle, and they were handed into the hands of Chaldeans.
 - brenton: And there shall yet be fields bought in the land, of which thou sayest, It shall be destitute of man and beast; and they are delivered into the hands of the Chaldeans.
 
 ### Jeremiah 39:44
@@ -178373,7 +178373,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will buy fields with silver and write scroll and seal and bring witnesses in the land of Benjamin and around Jerusalem and in cities of Judah and in cities of hill country and in cities of lowland and in cities of Negeb, because I will restore their exiles.
+- fresh: And they will buy fields with silver and write scroll and seal and bring witnesses in the land of Benjamin and around Jerusalem and in the cities of Judah and in the cities of hill country and in the cities of lowland and in the cities of Negeb, because I will restore their exiles.
 - brenton: And they shall buy fields for money, and thou shalt write a book, and seal it, and shalt take the testimony of witnesses in the land of Benjamin, and round about Jerusalem, and in the cities of Juda, and in the cities of the mountain, and in the cities of the plain, and in the cities of the south: for I will turn their captivity.
 
 ### Jeremiah 40:1
@@ -178382,7 +178382,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah second time, and he was still bound in court of prison, saying,
+- fresh: And the word of the Lord came to Jeremiah second time, and he was still bound in the court of the prison, saying,
 - brenton: And the word of the Lord came to Jeremias the second time, when he was yet bound in the court of the prison, saying,
 
 ### Jeremiah 40:2
@@ -178463,7 +178463,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Still in this place, which you say is desolate from men and cattle, in cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle, it will be heard
+- fresh: Thus said the Lord: Still in this place, which you say is desolate from men and cattle, in the cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle, it will be heard
 - brenton: Thus saith the Lord; There shall yet be heard in this place, of which ye say, It is destitute of men and cattle, in the cities of Juda, and in the streets of Jerusalem, the places that have been made desolate for want of men and cattle,
 
 ### Jeremiah 40:11
@@ -178490,7 +178490,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In cities of hill country and in cities of lowland and in cities of Negeb and in the land of Benjamin and around Jerusalem and in cities of Judah, sheep will still pass under hand of one counting, said the Lord.
+- fresh: In the cities of hill country and in the cities of lowland and in the cities of Negeb and in the land of Benjamin and around Jerusalem and in the cities of Judah, sheep will still pass under the hand of one counting, said the Lord.
 - brenton: In the cities of the hill country, and in the cities of the valley, and in the cities of the south, and in the land of Benjamin, and in the cities round about Jerusalem, and in the cities of Juda, flocks shall yet pass under the hand of him that numbers them, saith the Lord.
 
 ### Jeremiah 40:14
@@ -178625,7 +178625,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city in being handed over will be handed into hands of king of Babylon, and he will seize it and burn it with fire.
+- fresh: Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city in being handed over will be handed into the hands of king of Babylon, and he will seize it and burn it with fire.
 - brenton: Thus has the Lord said; Go to Sedekias king of Juda, and thou shalt say to him, Thus has the Lord said, This city shall certainly be delivered into the hands of the king of Babylon, and he shall take it, and shall burn it with fire:
 
 ### Jeremiah 41:3
@@ -178670,7 +178670,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And force of king of Babylon fought against Jerusalem and against cities of Judah, against Lachish and against Azekah, because these were left among cities of Judah, fortified cities.
+- fresh: And force of king of Babylon fought against Jerusalem and against the cities of Judah, against Lachish and against Azekah, because these were left among cities of Judah, fortified cities.
 - brenton: And the host of the king of Babylon warred against Jerusalem, and against the cities of Juda, and against Lachis, and against Azeca: for these strong cities were left among the cities of Juda.
 
 ### Jeremiah 41:8
@@ -178724,7 +178724,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: I made covenant with your fathers in day when I brought them out from land of Egypt, out of house of slavery, saying,
+- fresh: Thus said the Lord God of Israel: I made covenant with your fathers in day when I brought them out from the land of Egypt, out of the house of slavery, saying,
 - brenton: Thus saith the Lord; I made a covenant with your fathers in the day wherein I took them out of the land of Egypt, out of the house of bondage, saying,
 
 ### Jeremiah 41:14
@@ -178787,7 +178787,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will give them to their enemies, and their dead bodies will be food to birds of heaven and beasts of earth.
+- fresh: and I will give them to their enemies, and their dead bodies will be food to the birds of heaven and beasts of earth.
 - brenton: I will even give them to their enemies, and their carcases shall be food for the birds of the sky and for the wild beasts of the earth.
 
 ### Jeremiah 41:21
@@ -178796,7 +178796,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah king of Judah and their rulers I will give into hands of their enemies and force of king of Babylon to those fleeing away from them.
+- fresh: And Zedekiah king of Judah and their rulers I will give into the hands of their enemies and force of king of Babylon to those fleeing away from them.
 - brenton: And I will give Sedekias king of Judea, and their princes, into the hands of their enemies, and the host of the king of Babylon shall come upon them that run away from them.
 
 ### Jeremiah 41:22
@@ -178841,7 +178841,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I brought them into the house of the Lord, into chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
+- fresh: and I brought them into the house of the Lord, into the chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
 - brenton: and I brought them into the house of the Lord, into the chamber of the sons of Joanan, the son of Ananias, the son of Godolias, a man of God, who dwells near the house of the princes that are over the house of Maasæas the son of Selom, who kept the court.
 
 ### Jeremiah 42:5
@@ -178877,7 +178877,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And we listened to voice of Jonadab our father, so as not to drink wine all our days, we and our wives and our sons and our daughters,
+- fresh: And we listened to the voice of Jonadab our father, so as not to drink wine all our days, we and our wives and our sons and our daughters,
 - brenton: And we hearkened to the voice of Jonadab our father, so as to drink no wine all our days, we, and our wives, and our sons, and our daughters;
 
 ### Jeremiah 42:9
@@ -178904,7 +178904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when Nebuchadnezzar came up against land, we said, Enter, and let us enter Jerusalem from face of force of Chaldeans and from face of force of Assyrians, and we dwelt there.
+- fresh: And it happened when Nebuchadnezzar came up against land, we said, Enter, and let us enter Jerusalem from the face of force of Chaldeans and from the face of force of Assyrians, and we dwelt there.
 - brenton: And it came to pass, when Nabuchodonosor came up against the land, that we said we would come in; and we entered into Jerusalem, for fear of the host of the Chaldeans, and for fear of the host of the Assyrians: and we dwelt there.
 
 ### Jeremiah 42:12
@@ -178976,7 +178976,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: man from sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
+- fresh: man from the sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
 - brenton: there shall never be wanting a man of the sons of Jonadab the son of Rechab to stand before my face while the earth remains.
 
 ### Jeremiah 43:1
@@ -178994,7 +178994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from days of Josiah king of Judah until this day.
+- fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from the days of Josiah king of Judah until this day.
 - brenton: Take thee a roll of a book, and write upon it all the words which I spoke to thee against Jerusalem, and against Juda, and against all the nations, from the day when I spoke to thee, from the days of Josias king of Juda, even to this day.
 
 ### Jeremiah 43:3
@@ -179030,7 +179030,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will read from this sheet into ears of people in the house of the Lord in day of fasting, and in ears of all Judah coming from their cities you will read to them.
+- fresh: And you will read from this sheet into the ears of people in the house of the Lord in the day of fasting, and in the ears of all Judah coming from their cities you will read to them.
 - brenton: so thou shalt read in this roll in the ears of the people in the house of the Lord, on the fast day; and in the ears of all Juda that come out of their cities, thou shalt read to them.
 
 ### Jeremiah 43:7
@@ -179066,7 +179066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch read in scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in upper court, in entrance of new gate of house of the Lord, in ears of all people.
+- fresh: And Baruch read in scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all people.
 - brenton: And Baruch read in the book the words of Jeremias in the house of the Lord, in the house of Gamarias son of Saphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, and in the ears of all the people.
 
 ### Jeremiah 43:11
@@ -179084,7 +179084,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and went down to the house of king, to the house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
+- fresh: and went down to the house of the king, to the house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
 - brenton: And he went down to the king's house, into the house of the scribe: and, behold, there were sitting there all the princes, Elisama the scribe, and Dalæas the son of Selemias, and Jonathan the son of Acchobor, and Gamarias the son of Saphan, and Sedekias the son of Ananias, and all the princes.
 
 ### Jeremiah 43:13
@@ -179093,7 +179093,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Micaiah announced to them all words which he heard while Baruch read into ears of people.
+- fresh: And Micaiah announced to them all words which he heard while Baruch read into the ears of people.
 - brenton: And Michæas reported to them all the words which he had heard Baruch reading in the ears of the people.
 
 ### Jeremiah 43:14
@@ -179102,7 +179102,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all rulers sent to Baruch son of Neriah Jehudi son of Nethaniah son of Shelemiah son of Chusi, saying, Scroll in which you read in ears of people, take it in your hand and come. And Baruch took scroll and went down to them.
+- fresh: And all rulers sent to Baruch son of Neriah Jehudi son of Nethaniah son of Shelemiah son of Chusi, saying, Scroll in which you read in the ears of people, take it in your hand and come. And Baruch took scroll and went down to them.
 - brenton: And all the princes sent to Baruch son of Nerias Judin the son of Nathanias, the son of Selemias, the son of Chusi, saying, Take in thine hand the roll in which thou readest in the ears of the people, and come. So Baruch took the roll, and went down to them.
 
 ### Jeremiah 43:15
@@ -179165,7 +179165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king sent Jehudi to take scroll, and he took it from the house of Elishama and read it into ears of king and into ears of all rulers standing around king.
+- fresh: And king sent Jehudi to take scroll, and he took it from the house of Elishama and read it into the ears of king and into the ears of all rulers standing around king.
 - brenton: And the king sent Judin to fetch the roll: and he took it out of the house of Elisama: and Judin read in the ears of the king, and in the ears of all the princes who stood round the king.
 
 ### Jeremiah 43:22
@@ -179246,7 +179246,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on throne of David, and his corpse will be thrown out in heat of day and frost of night.
+- fresh: Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on the throne of David, and his corpse will be thrown out in the heat of day and frost of night.
 - brenton: Therefore thus saith the Lord concerning Joakim king of Juda; He shall not have a man to sit on the throne of David: and his carcase shall be cast forth in the heat by day, and in the frost by night.
 
 ### Jeremiah 43:31
@@ -179255,7 +179255,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon land of Judah all evils which I spoke to them and they did not hear.
+- fresh: And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon the land of Judah all evils which I spoke to them and they did not hear.
 - brenton: And I will visit him, and his family, and his servants: and I will bring upon him, and upon the inhabitants of Jerusalem, and upon the land of Juda, all the evils which I spoke of to them; and they hearkened not.
 
 ### Jeremiah 43:32
@@ -179327,7 +179327,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Thus you will say to king of Judah who sent to you to seek me: Behold, force of Pharaoh which came out to help you will return into land of Egypt.
+- fresh: Thus said the Lord: Thus you will say to the king of Judah who sent to you to seek me: Behold, force of Pharaoh which came out to help you will return into the land of Egypt.
 - brenton: Thus said the Lord; Thus shalt thou say to the king of Juda who sent to thee, to seek me; Behold, the army of Pharao which is come forth to help you: they shall return to the land of Egypt:
 
 ### Jeremiah 44:8
@@ -179363,7 +179363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when force of Chaldeans went up from Jerusalem from face of force of Pharaoh,
+- fresh: And it happened when force of Chaldeans went up from Jerusalem from the face of force of Pharaoh,
 - brenton: And it came to pass, when the host of the Chaldeans had gone up from Jerusalem for fear of the host of Pharao,
 
 ### Jeremiah 44:12
@@ -179372,7 +179372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jeremiah went out from Jerusalem to go into land of Benjamin to buy from there in the midst of people.
+- fresh: Jeremiah went out from Jerusalem to go into the land of Benjamin to buy from there in the midst of people.
 - brenton: that Jeremias went forth from Jerusalem to go into the land of Benjamin, to buy thence a property in the midst of the people.
 
 ### Jeremiah 44:13
@@ -179381,7 +179381,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened he was at gate of Benjamin, and there man with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You flee to Chaldeans.
+- fresh: And it happened he was at the gate of Benjamin, and there man with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You flee to Chaldeans.
 - brenton: And he was in the gate of Benjamin, and there was there a man with whom he lodged, Saruia the son of Selemias, the son of Ananias; and he caught Jeremias, saying, Thou art fleeing to the Chaldeans.
 
 ### Jeremiah 44:14
@@ -179417,7 +179417,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah sent and called him, and king asked him secretly, to say whether there is word from the Lord. And he said, There is. Into hands of king of Babylon you will be handed over.
+- fresh: And Zedekiah sent and called him, and king asked him secretly, to say whether there is word from the Lord. And he said, There is. Into the hands of king of Babylon you will be handed over.
 - brenton: Then Sedekias sent, and called him; and the king asked him secretly, saying, Is there a word from the Lord? and he said, There is: thou shalt be delivered into the hands of the king of Babylon.
 
 ### Jeremiah 44:18
@@ -179453,7 +179453,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king commanded, and they put him into the house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from city. And Jeremiah sat in court of prison.
+- fresh: And king commanded, and they put him into the house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from city. And Jeremiah sat in the court of the prison.
 - brenton: Then the king commanded, and they cast him into the prison, and gave him a loaf a day out of the place where they bake, until the bread failed out of the city. So Jeremias continued in the court of the prison.
 
 ### Jeremiah 45:1
@@ -179480,7 +179480,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord: This city in being handed over will be handed into hands of force of king of Babylon, and he will seize it.
+- fresh: Because thus said the Lord: This city in being handed over will be handed into the hands of force of king of Babylon, and he will seize it.
 - brenton: For thus saith the Lord; This city shall certainly be delivered into the hands of the host of the king of Babylon, and they shall take it.
 
 ### Jeremiah 45:4
@@ -179507,7 +179507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they threw him into pit of Malchiah son of king, which was in court of prison, and lowered him into pit, and in pit there was no water but mire, and he was in mire.
+- fresh: And they threw him into the pit of Malchiah son of king, which was in the court of the prison, and lowered him into pit, and in pit there was no water but mire, and he was in mire.
 - brenton: And they cast him into the dungeon of Melchias the king's son, which was in the court of the prison; and they let him down into the pit: and there was no water in the pit, but mire: and he was in the mire.
 
 ### Jeremiah 45:7
@@ -179516,7 +179516,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ebed-melech the Ethiopian heard, and he was in the house of king, that they put Jeremiah into pit, and king was in gate of Benjamin.
+- fresh: And Ebed-melech the Ethiopian heard, and he was in the house of the king, that they put Jeremiah into pit, and king was in the gate of Benjamin.
 - brenton: And Abdemelech the Ethiopian heard, (now he was in the king's household,) that they had put Jeremias into the dungeon; and the king was in the gate of Benjamin:
 
 ### Jeremiah 45:8
@@ -179534,7 +179534,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You did evil, what you did, to kill this man from face of famine, because there are no longer breads in city.
+- fresh: You did evil, what you did, to kill this man from the face of famine, because there are no longer breads in city.
 - brenton: Thou hast done evil in what thou hast done to slay this man with hunger: for there is no more bread in the city.
 
 ### Jeremiah 45:10
@@ -179552,7 +179552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ebed-melech took the men and entered into lower chamber of house of king and took from there old rags and old ropes and threw them to Jeremiah into pit.
+- fresh: And Ebed-melech took the men and entered into lower chamber of the house of the king and took from there old rags and old ropes and threw them to Jeremiah into pit.
 - brenton: So Abdemelech took the men, and went into the underground part of the king's house, and took thence old rags and old ropes, and threw them to Jeremias into the dungeon.
 
 ### Jeremiah 45:12
@@ -179570,7 +179570,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they pulled him with ropes and brought him up from pit, and Jeremiah sat in court of prison.
+- fresh: And they pulled him with ropes and brought him up from pit, and Jeremiah sat in the court of the prison.
 - brenton: And they drew him with the ropes, and lifted him out of the dungeon: and Jeremias remained in the court of the prison.
 
 ### Jeremiah 45:14
@@ -179597,7 +179597,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king swore to him, saying, As the Lord lives, who made this soul for us, if I kill you and if I give you into hands of these men.
+- fresh: And king swore to him, saying, As the Lord lives, who made this soul for us, if I kill you and if I give you into the hands of these men.
 - brenton: And the king swore to him, saying, As the Lord lives who gave us this soul, I will not slay thee, neither will I give thee into the hands of these men.
 
 ### Jeremiah 45:17
@@ -179606,7 +179606,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to him, Thus said the Lord: If in going out you go out to rulers of king of Babylon, your soul will live and this city will certainly not be burned with fire, and you and your house will live.
+- fresh: And Jeremiah said to him, Thus said the Lord: If in going out you go out to the rulers of king of Babylon, your soul will live and this city will certainly not be burned with fire, and you and your house will live.
 - brenton: And Jeremias said to him, Thus saith the Lord; If thou wilt indeed go forth to the captains of the king of Babylon, thy soul shall live, and this city shall certainly not be burnt with fire; and thou shalt live, and thy house.
 
 ### Jeremiah 45:18
@@ -179615,7 +179615,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you do not go out, this city will be given into hands of Chaldeans, and they will burn it with fire, and you will certainly not be saved.
+- fresh: And if you do not go out, this city will be given into the hands of Chaldeans, and they will burn it with fire, and you will certainly not be saved.
 - brenton: But if thou wilt not go forth, this city shall be delivered into the hands of the Chaldeans, and they shall burn it with fire, and thou shalt by no means escape.
 
 ### Jeremiah 45:19
@@ -179651,7 +179651,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, all women left in the house of king of Judah were being brought out to rulers of king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
+- fresh: Behold, all women left in the house of the king of Judah were being brought out to the rulers of king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
 - brenton: And, behold, all the women that are left in the house of the king of Juda were brought forth to the princes of the king of Babylon; and they said, The men who were at peace with thee have deceived thee, and will prevail against thee; and they shall cause thy foot to slide and fail, they have turned back from thee.
 
 ### Jeremiah 45:23
@@ -179705,7 +179705,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah sat in court of prison until time when Jerusalem was taken.
+- fresh: And Jeremiah sat in the court of the prison until time when Jerusalem was taken.
 - brenton: And Jeremias remained in the court of the prison, until the time when Jerusalem was taken.
 
 ### Jeremiah 46:1
@@ -179741,7 +179741,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they sent and took Jeremiah from court of prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of people.
+- fresh: And they sent and took Jeremiah from the court of the prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of people.
 - brenton: and they sent, and took Jeremias out of the court of the prison, and gave him in charge to Godolias the son of Achicam, the son of Saphan: and they brought him out, and he sat in the midst of the people.
 
 ### Jeremiah 46:15
@@ -179750,7 +179750,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Jeremiah the word of the Lord came in court of prison, saying,
+- fresh: And to Jeremiah the word of the Lord came in the court of the prison, saying,
 - brenton: And the word of the Lord came to Jeremias in the court of the prison, saying,
 
 ### Jeremiah 46:16
@@ -179768,7 +179768,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will save you in that day, and I will certainly not give you into hands of men whose face you fear from before them.
+- fresh: And I will save you in that day, and I will certainly not give you into the hands of men whose face you fear from before them.
 - brenton: But I will save thee in that day, and I will by no means deliver thee into the hands of the men before whom thou art afraid.
 
 ### Jeremiah 46:18
@@ -179858,7 +179858,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Gedaliah swore to them and to their men, saying, Do not fear from face of servants of Chaldeans. Dwell in land and serve king of Babylon, and it will be better for you.
+- fresh: And Gedaliah swore to them and to their men, saying, Do not fear from the face of servants of Chaldeans. Dwell in land and serve king of Babylon, and it will be better for you.
 - brenton: And Godolias swore to them and to their men, saying, Be not afraid before the children of the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be better for you.
 
 ### Jeremiah 47:10
@@ -179885,7 +179885,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came to Gedaliah into land of Judah, to Mizpah, and gathered wine and very much fruit and oil.
+- fresh: And they came to Gedaliah into the land of Judah, to Mizpah, and gathered wine and very much fruit and oil.
 - brenton: And they came to Godolias into the land of Juda, to Massepha, and gathered grapes, and very much summer fruit, and oil.
 
 ### Jeremiah 47:13
@@ -179930,7 +179930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in seventh month Ishmael son of Nethaniah son of Eleasah, from seed of king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
+- fresh: And it happened in seventh month Ishmael son of Nethaniah son of Eleasah, from the seed of king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
 - brenton: Now it came to pass in the seventh month that Ismael the son of Nathanias the son of Eleasa of the seed royal, came, and ten men with him, to Godolias to Massepha: and they ate bread there together.
 
 ### Jeremiah 48:2
@@ -180056,7 +180056,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ishmael escaped with eight men and went to sons of Ammon.
+- fresh: And Ishmael escaped with eight men and went to the sons of Ammon.
 - brenton: But Ismael escaped with eight men and went to the children of Ammon.
 
 ### Jeremiah 48:16
@@ -180083,7 +180083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: from face of Chaldeans, because they feared from face of them, because Ishmael struck Gedaliah whom king of Babylon appointed in land.
+- fresh: from the face of Chaldeans, because they feared from the face of them, because Ishmael struck Gedaliah whom king of Babylon appointed in land.
 - brenton: for they were afraid of them, because Ismael had smitten Godolias, whom the king of Babylon made governor in the land.
 
 ### Jeremiah 49:1
@@ -180182,7 +180182,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not fear from face of king of Babylon, whom you fear from face of him. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
+- fresh: Do not fear from the face of king of Babylon, whom you fear from the face of him. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
 - brenton: Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the Lord: for I am with you, to deliver you, and save you out of their hand.
 
 ### Jeremiah 49:12
@@ -180200,7 +180200,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you say, We will certainly not settle in this land, so as not to hear voice of the Lord,
+- fresh: And if you say, We will certainly not settle in this land, so as not to hear the voice of the Lord,
 - brenton: But if ye say, We will not dwell in this land, that we may not hearken to the voice of the Lord;
 
 ### Jeremiah 49:14
@@ -180227,7 +180227,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then sword which you fear from face of it will find you in the land of Egypt, and famine about which you have concern will overtake you behind you in Egypt, and there you will die.
+- fresh: then sword which you fear from the face of it will find you in the land of Egypt, and famine about which you have concern will overtake you behind you in Egypt, and there you will die.
 - brenton: If ye set your face toward Egypt, and go in there to dwell; then it shall be, that the sword which ye fear shall find you in the land of Egypt, and the famine to which ye have regard, shall overtake you, coming after you in Egypt; and there ye shall die.
 
 ### Jeremiah 49:17
@@ -180308,7 +180308,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But Baruch son of Neriah conspires against us, so as to give us into hands of Chaldeans, to kill us and exile us to Babylon.
+- fresh: But Baruch son of Neriah conspires against us, so as to give us into the hands of Chaldeans, to kill us and exile us to Babylon.
 - brenton: but Baruch the son of Nerias sets thee against us, that thou mayest deliver us into the hands of the Chaldeans, to kill us, and that we should be carried away captives to Babylon.
 
 ### Jeremiah 50:4
@@ -180362,7 +180362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take for yourself great stones and hide them in entrance by gate of house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
+- fresh: Take for yourself great stones and hide them in entrance by the gate of the house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
 - brenton: Take thee great stones, and hide them in the entrance, at the gate of the house of Pharao in Taphnas, in the sight of the men of Juda:
 
 ### Jeremiah 50:10
@@ -180389,7 +180389,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will burn fire in houses of their gods and burn them and carry them away, and destroy land of Egypt as shepherd destroys his garment, and he will go out in peace.
+- fresh: And he will burn fire in the houses of their gods and burn them and carry them away, and destroy land of Egypt as shepherd destroys his garment, and he will go out in peace.
 - brenton: And he shall kindle a fire in the houses of their gods, and shall burn them, and shall carry them away captives: and shall search the land of Egypt, as a shepherd searches his garment; and he shall go forth in peace.
 
 ### Jeremiah 50:13
@@ -180452,7 +180452,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And my wrath and my anger dripped and burned in cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
+- fresh: And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
 - brenton: So mine anger and my wrath dropped upon them, and was kindled in the gates of Juda, and in the streets of Jerusalem; and they became a desolation and a waste, as at this day.
 
 ### Jeremiah 51:7
@@ -180470,7 +180470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: provoking me by works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of earth?
+- fresh: provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of earth?
 - brenton: by provoking me with the works of your hands, to burn incense to other gods in the land of Egypt, into which ye entered to dwell there, that ye might be cut off, and that ye might become a curse and a reproach among all the nations of the earth?
 
 ### Jeremiah 51:9
@@ -180524,7 +180524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will not be anyone saved of remnants of Judah sojourning in the land of Egypt to return into land of Judah, upon which they hope in their souls to return there. They will certainly not return, except rescued ones.
+- fresh: And there will not be anyone saved of remnants of Judah sojourning in the land of Egypt to return into the land of Judah, upon which they hope in their souls to return there. They will certainly not return, except rescued ones.
 - brenton: and there shall not one be preserved of the remnant of Juda that sojourn in the land of Egypt, to return to the land of Juda, to which they hope in their hearts to return: they shall not return, but only they that escape.
 
 ### Jeremiah 51:15
@@ -180551,7 +180551,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in doing we will do every word which goes out from our mouth, to burn incense to queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in cities of Judah and outside Jerusalem, and we were filled with bread and became good and saw no evils.
+- fresh: Because in doing we will do every word which goes out from our mouth, to burn incense to the queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in the cities of Judah and outside Jerusalem, and we were filled with bread and became good and saw no evils.
 - brenton: For we will surely perform every word that shall proceed out of our mouth, to burn incense to the queen of heaven, and to pour drink-offerings to her, as we and our fathers have done, and our kings and princes, in the cities of Juda, and in the streets of Jerusalem: and so we were filled with bread, and were well, and saw no evils.
 
 ### Jeremiah 51:18
@@ -180560,7 +180560,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when we stopped burning incense to queen of heaven, we were all diminished and failed by sword and famine.
+- fresh: And when we stopped burning incense to the queen of heaven, we were all diminished and failed by sword and famine.
 - brenton: But since we left off to burn incense to the queen of heaven, we have all been brought low, and have been consumed by sword and by famine.
 
 ### Jeremiah 51:19
@@ -180569,7 +180569,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And because we burn incense to queen of heaven and pour libations to her, did we make cakes for her and pour libations to her without our husbands?
+- fresh: And because we burn incense to the queen of heaven and pour libations to her, did we make cakes for her and pour libations to her without our husbands?
 - brenton: And whereas we burned incense to the queen of heaven, and poured drink-offerings to her, did we make cakes to her, and pour drink-offerings to her, without our husbands?
 
 ### Jeremiah 51:20
@@ -180587,7 +180587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Was it not incense which you burned in cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
+- fresh: Was it not incense which you burned in the cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
 - brenton: Did not the Lord remember the incense which ye burned in the cities of Juda, and in the streets of Jerusalem, ye, and your fathers, and your kings, and your princes, and the people of the land? and came it not into his heart?
 
 ### Jeremiah 51:22
@@ -180596,7 +180596,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord was no longer able to bear from face of evil of your deeds, from abominations which you did, and your land became for desolation and for trackless waste and for curse as in this day,
+- fresh: And the Lord was no longer able to bear from the face of evil of your deeds, from abominations which you did, and your land became for desolation and for trackless waste and for curse as in this day,
 - brenton: And the Lord could no longer bear you, because of the wickedness of your doings, and because of your abominations which ye wrought; and so your land became a desolation and a waste, and a curse, as at this day;
 
 ### Jeremiah 51:23
@@ -180623,7 +180623,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to queen of heaven and pour libations to her. In abiding you abided in your vows and in doing you did them.
+- fresh: Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to the queen of heaven and pour libations to her. In abiding you abided in your vows and in doing you did them.
 - brenton: Thus has the Lord God of Israel said; Ye women have spoken with your mouth, and ye fulfilled it with your hands, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour drink-offerings to her: full well did ye keep to your vows, and ye have indeed performed them.
 
 ### Jeremiah 51:26
@@ -180632,7 +180632,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in mouth of any Judah to say, As the Lord lives, Lord, in all land of Egypt.
+- fresh: Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in the mouth of any Judah to say, As the Lord lives, Lord, in all land of Egypt.
 - brenton: Therefore hear ye the word of the Lord, all Jews dwelling in the land of Egypt; Behold, I have sworn by my great name, saith the Lord, my name shall no longer be in the mouth of every Jew to say, The Lord lives, in all the land of Egypt.
 
 ### Jeremiah 51:27
@@ -180650,7 +180650,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those saved from swords will return to land of Judah, few in number, and remnants of Judah who went into land of Egypt to dwell there will know whose word stands.
+- fresh: And those saved from swords will return to the land of Judah, few in number, and remnants of Judah who went into the land of Egypt to dwell there will know whose word stands.
 - brenton: And they that escape the sword shall return to the land of Juda few in number, and the remnant of Juda, who have continued in the land of Egypt to dwell there, shall know whose word shall stand.
 
 ### Jeremiah 51:29
@@ -180668,7 +180668,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Behold, I give Hophra king of Egypt into hands of his enemy and into hands of ones seeking his soul, just as I gave Zedekiah king of Judah into hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
+- fresh: Thus said the Lord: Behold, I give Hophra king of Egypt into the hands of his enemy and into the hands of ones seeking his soul, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
 - brenton: Thus said the Lord; Behold, I will give Uaphres king of Egypt into the hands of his enemy, and into the hands of one that seeks his life; as I gave Sedekias king of Juda into the hands of Nabuchodonosor king of Babylon, his enemy, and who sought his life.
 
 ### Jeremiah 51:31
@@ -180776,7 +180776,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they seized king and led him to king of Babylon at Riblah, and he spoke with him with judgment.
+- fresh: And they seized king and led him to the king of Babylon at Riblah, and he spoke with him with judgment.
 - brenton: And they took the king, and brought him to the king of Babylon to Deblatha, and he judged him.
 
 ### Jeremiah 52:10
@@ -180812,7 +180812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he burned house of the Lord and house of king and all houses of city, and every great house he burned with fire.
+- fresh: And he burned house of the Lord and house of the king and all houses of city, and every great house he burned with fire.
 - brenton: and he burnt the house of the Lord, and the king's house; and all the houses of the city, and every great house he burnt with fire.
 
 ### Jeremiah 52:14
@@ -180911,7 +180911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of the land, and sixty men from people of the land found in the midst of city.
+- fresh: And one eunuch who was overseer of men of war, and seven named men in face of king found in city, and secretary of forces writing for people of the land, and sixty men from the people of the land found in the midst of city.
 - brenton: and one eunuch, who was over the men of war, and seven men of renown, who were in the king's presence, that were found in the city; and the scribe of the forces, who did the part of a scribe to the people of the land; and sixty men of the people of the land, who were found in the midst of the city.
 
 ### Jeremiah 52:26
@@ -180920,7 +180920,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Nebuzaradan chief cook took them and led them to king of Babylon at Riblah.
+- fresh: And Nebuzaradan chief cook took them and led them to the king of Babylon at Riblah.
 - brenton: And Nabuzardan the captain of the king's guard took them, and brought them to the king of Babylon to Deblatha.
 
 ### Jeremiah 52:27
@@ -180965,7 +180965,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And ration for him was given continually from king of Babylon, from day to day until the day he died.
+- fresh: And ration for him was given continually from the king of Babylon, from day to day until the day he died.
 - brenton: And his appointed portion was given him continually by the king of Babylon from day to day, until the day when he died.
 
 ## Lamentations
@@ -181003,7 +181003,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Judah was exiled from her affliction and from multitude of her slavery. She sat among nations and found no rest. All persecuting her overtook her between oppressors.
+- fresh: Judah was exiled from her affliction and from the multitude of her slavery. She sat among nations and found no rest. All persecuting her overtook her between oppressors.
 - brenton: Gimel. Judea is gone into captivity by reason of her affliction, and by reason of the abundance of her servitude: she dwells among the nations, she has not found rest: all her pursuers have overtaken her between her oppressors.
 
 ### Lamentations 1:4
@@ -181039,7 +181039,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jerusalem remembered days of her humiliation and her rejections, all her desires from ancient days, when her people fell into hand of afflicter and there was no helper for her. Seeing her, her enemies laughed at her deportation.
+- fresh: Jerusalem remembered days of her humiliation and her rejections, all her desires from ancient days, when her people fell into the hand of afflicter and there was no helper for her. Seeing her, her enemies laughed at her deportation.
 - brenton: Zain. Jerusalem remembered the days of her affliction, and her rejection; she thought on all her desirable things which were from the days of old, when her people fell into the hands of the oppressor, and there was none to help her: when her enemies saw it they laughed at her habitation.
 
 ### Lamentations 1:8
@@ -181084,7 +181084,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not to you, all passing by road? Turn and see if there is pain like my pain which happened, word spoken in me. The Lord humbled me in day of anger of his wrath.
+- fresh: Not to you, all passing by road? Turn and see if there is pain like my pain which happened, word spoken in me. The Lord humbled me in the day of anger of his wrath.
 - brenton: Lamed. All ye that pass by the way, turn, and see if there is sorrow like to my sorrow, which has happened to me. The Lord who spoke by me has afflicted me in the day of his fierce anger.
 
 ### Lamentations 1:13
@@ -181183,7 +181183,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in day of his anger.
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in the day of his anger.
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
 ### Lamentations 2:2
@@ -181201,7 +181201,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He broke in anger of his wrath every horn of Israel. He turned back his right hand from face of enemy and kindled in Jacob like fire-flame and devoured all around.
+- fresh: He broke in anger of his wrath every horn of Israel. He turned back his right hand from the face of enemy and kindled in Jacob like fire-flame and devoured all around.
 - brenton: Gimel. He has broken in his fierce anger all the horn of Israel: he has turned back his right hand from the face of the enemy, and has kindled a flame in Jacob as fire, and it has devoured all things round about.
 
 ### Lamentations 2:4
@@ -181210,7 +181210,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He bent his bow like enemy, fixed his right hand like adversary, and killed all desirable things of my eyes. In tent of daughter Zion he poured out his wrath like fire.
+- fresh: He bent his bow like enemy, fixed his right hand like adversary, and killed all desirable things of my eyes. In the tent of daughter Zion he poured out his wrath like fire.
 - brenton: Daleth. He has bent his bow as an opposing enemy: he has strengthened his right hand as an adversary, and has destroyed all the desirable things of my eyes in the tabernacle of the daughter of Sion: he has poured forth his anger as fire.
 
 ### Lamentations 2:5
@@ -181237,7 +181237,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord cast off his altar, shook off his sanctuary, broke into hand of enemy wall of her palaces. They gave voice in the house of the Lord as on feast day.
+- fresh: The Lord cast off his altar, shook off his sanctuary, broke into the hand of enemy wall of her palaces. They gave voice in the house of the Lord as on feast day.
 - brenton: Zain. The Lord has rejected his altar, he has cast off his sanctuary, he has broken by the hand of the enemy the wall of her palaces; they have uttered their voice in the house of the Lord as on a feast day.
 
 ### Lamentations 2:8
@@ -181273,7 +181273,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: My eyes failed in tears. My heart was troubled. My glory poured out on earth over crushing of daughter of my people, when infant and suckling failed in streets of city.
+- fresh: My eyes failed in tears. My heart was troubled. My glory poured out on earth over the crushing of daughter of my people, when infant and suckling failed in the streets of city.
 - brenton: Chaph. Mine eyes have failed with tears, my heart is troubled, my glory is cast down to the ground, for the destruction of the daughter of my people; while the infant and suckling swoon in the streets of the city.
 
 ### Lamentations 2:12
@@ -181282,7 +181282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To their mothers they said, Where grain and wine? as they failed like wounded in streets of city, as their souls poured out into bosom of their mothers.
+- fresh: To their mothers they said, Where grain and wine? as they failed like wounded in the streets of city, as their souls poured out into the bosom of their mothers.
 - brenton: Lamed. They said to their mothers, Where is corn and wine? while they fainted like wounded men in the streets of the city, while their souls were poured out into their mother's bosom.
 
 ### Lamentations 2:13
@@ -181309,7 +181309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All passing along road clapped hands over you. They hissed and shook their heads over daughter Jerusalem. Is this the city they called crown of glory, joy of all earth?
+- fresh: All passing along road clapped hands over you. They hissed and shook their heads over daughter Jerusalem. Is this the city they called crown of glory, joy of all the earth?
 - brenton: Samech. All that go by the way have clapped their hands at thee; they have hissed and shaken their head at the daughter of Jerusalem. Is this the city, they say, the crown of joy of all the earth?
 
 ### Lamentations 2:16
@@ -181345,7 +181345,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at head of all exits.
+- fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at the head of all exits.
 - brenton: Koph. Arise, rejoice in the night at the beginning of thy watch: pour out thy heart as water before the face of the Lord: lift up thy hands to him for the life of thine infants, who faint for hunger at the top of all the streets.
 
 ### Lamentations 2:20
@@ -181363,7 +181363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Young boy and elder slept in street. My virgins and my young men went in captivity. In sword and famine you killed. In day of your anger you cooked. You did not spare.
+- fresh: Young boy and elder slept in street. My virgins and my young men went in captivity. In sword and famine you killed. In the day of your anger you cooked. You did not spare.
 - brenton: Chsen. The child and old man have lain down in the street: my virgins and my young men are gone into captivity: thou hast slain them with the sword and with famine; in the day of thy wrath thou hast mangled them, thou hast not spared.
 
 ### Lamentations 2:22
@@ -181372,7 +181372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You called my sojourners around like feast day, and there were not in day of anger of the Lord one saved and left. As I held and multiplied, all my enemies.
+- fresh: You called my sojourners around like feast day, and there were not in the day of anger of the Lord one saved and left. As I held and multiplied, all my enemies.
 - brenton: Thau. He has called my sojourners round about to a solemn day, and there was not in the day of the wrath of the Lord any one that escaped or was left; whereas I have strengthened and multiplied all mine enemies.
 
 ### Lamentations 3:1
@@ -181624,7 +181624,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because one who humbled will have compassion according to multitude of his mercy.
+- fresh: Because one who humbled will have compassion according to the multitude of his mercy.
 - brenton: Chaph. For he that has brought down will pity, and that according to the abundance of his mercy.
 
 ### Lamentations 3:33
@@ -181768,7 +181768,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Streams of waters my eye will bring down over crushing of daughter of my people.
+- fresh: Streams of waters my eye will bring down over the crushing of daughter of my people.
 - brenton: Mine eye shall pour down torrents of water, for the destruction of the daughter of my people.
 
 ### Lamentations 3:49
@@ -181912,7 +181912,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will repay them repayment, Lord, according to works of their hands.
+- fresh: You will repay them repayment, Lord, according to the works of their hands.
 - brenton: Thou wilt render them a recompence, O Lord, according to the works of their hands.
 
 ### Lamentations 3:65
@@ -181939,7 +181939,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How gold was dimmed, good silver changed. Holy stones were poured out at head of all exits.
+- fresh: How gold was dimmed, good silver changed. Holy stones were poured out at the head of all exits.
 - brenton: Aleph. How will the gold be tarnished, and the fine silver changed! the sacred stones have been poured forth at the top of all the streets.
 
 ### Lamentations 4:2
@@ -182011,7 +182011,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Better were wounded of sword than wounded of famine. They went pierced from produce of fields.
+- fresh: Better were wounded of sword than wounded of famine. They went pierced from the produce of fields.
 - brenton: Teth. The slain with the sword were better than they that were slain with hunger: they have departed, pierced through from want of the fruits of the field.
 
 ### Lamentations 4:10
@@ -182038,7 +182038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Kings of earth did not believe, all dwellers of world, that enemy and oppressor would enter through gates of Jerusalem,
+- fresh: Kings of earth did not believe, all dwellers of world, that enemy and oppressor would enter through the gates of Jerusalem,
 - brenton: Lamed. The kings of the earth, even all that dwell in the world, believed not that an enemy and oppressor would enter through the gates of Jerusalem.
 
 ### Lamentations 4:13
@@ -182209,7 +182209,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With our souls we bring our bread from face of sword of wilderness.
+- fresh: With our souls we bring our bread from the face of the sword of wilderness.
 - brenton: We shall bring in our bread with danger of our lives, because of the sword of the wilderness.
 
 ### Lamentations 5:10
@@ -182218,7 +182218,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our skin was shriveled like oven, contracted from face of storms of famine.
+- fresh: Our skin was shriveled like oven, contracted from the face of storms of famine.
 - brenton: Our skin is blackened like an oven; they are convulsed, because of the storms of famine.
 
 ### Lamentations 5:11
@@ -182227,7 +182227,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They humbled women in Zion, virgins in cities of Judah.
+- fresh: They humbled women in Zion, virgins in the cities of Judah.
 - brenton: They humbled the women in Sion, the virgins in the cities of Juda.
 
 ### Lamentations 5:12
@@ -182337,7 +182337,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+- fresh: And it happened in thirtieth year, in the fourth month, on the fifth of the month, and I was in the midst of captivity by the river Chebar, and heavens were opened and I saw visions of God.
 - brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 
 ### Ezekiel 1:2
@@ -182355,7 +182355,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
+- fresh: and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - brenton: And the word of the Lord came to Jezekiel the priest, the son of Buzi, in the land of the Chaldeans, by the river of Chobar; and the hand of the Lord was upon me.
 
 ### Ezekiel 1:4
@@ -182517,7 +182517,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And likeness over head of the living beings, like firmament, as appearance of crystal stretched over their wings above.
+- fresh: And likeness over the head of the living beings, like firmament, as appearance of crystal stretched over their wings above.
 - brenton: And the likeness over the heads of the living creatures was as a firmament, as the appearance of crystal, spread out over their wings above.
 
 ### Ezekiel 1:23
@@ -182571,7 +182571,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like appearance of bow when it is in cloud in day of rain, so was standing of brightness around. This was appearance of likeness of glory of the Lord, and I saw and fell on my face and heard voice speaking.
+- fresh: Like appearance of bow when it is in cloud in the day of rain, so was standing of brightness around. This was appearance of likeness of glory of the Lord, and I saw and fell on my face and heard voice speaking.
 - brenton: As the appearance of the bow when it is in the cloud in days of rain, so was the form of the brightness round about.
 
 ### Ezekiel 2:1
@@ -182670,7 +182670,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, consume this scroll and go and speak to sons of Israel.
+- fresh: And he said to me, Son of man, consume this scroll and go and speak to the sons of Israel.
 - brenton: And he said to me, Son of man, eat this volume, and go and speak to the children of Israel.
 
 ### Ezekiel 3:2
@@ -182760,7 +182760,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And go, enter to captivity, to sons of your people, and speak to them and say to them, Thus says the Lord, whether perhaps they hear, whether perhaps they yield.
+- fresh: And go, enter to captivity, to the sons of your people, and speak to them and say to them, Thus says the Lord, whether perhaps they hear, whether perhaps they yield.
 - brenton: And go thy way, go in to the captivity, to the children of thy people, and thou shalt speak to them, and say to them, Thus saith the Lord; whether they will hear, or whether they will forbear.
 
 ### Ezekiel 3:12
@@ -182796,7 +182796,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I entered to captivity, astonished, and went around those dwelling by river Chebar, those there, and sat there seven days turning among them.
+- fresh: And I entered to captivity, astonished, and went around those dwelling by the river Chebar, those there, and sat there seven days turning among them.
 - brenton: Then I passed through the air and came into the captivity, and went round to them that dwelt by the river of Chobar who were there; and I sat there seven days, conversant in the midst of them.
 
 ### Ezekiel 3:16
@@ -182868,7 +182868,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I rose and went out into plain, and behold, there glory of the Lord stood, just as vision and as glory which I saw by river Chebar, and I fell on my face.
+- fresh: And I rose and went out into plain, and behold, there glory of the Lord stood, just as vision and as glory which I saw by the river Chebar, and I fell on my face.
 - brenton: And I arose, and went forth to the plain: and, behold, the glory of the Lord stood there, according to the vision, and according to the glory of the Lord, which I saw by the river of Chobar: and I fell on my face.
 
 ### Ezekiel 3:24
@@ -182931,7 +182931,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you take for yourself iron pan and set it as iron wall between you and city and prepare your face against it, and it will be in confinement and you will confine it. This is sign to sons of Israel.
+- fresh: And you take for yourself iron pan and set it as iron wall between you and city and prepare your face against it, and it will be in confinement and you will confine it. This is sign to the sons of Israel.
 - brenton: And take thou to thyself an iron pan, and thou shalt set it for an iron wall between thee and the city: and thou shalt set thy face against it, and it shall be in a siege, and thou shalt besiege it. This is a sign to the children of Israel.
 
 ### Ezekiel 4:4
@@ -182940,7 +182940,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will lie on your left side and set injustices of house of Israel upon it. According to number of days, one hundred fifty, which you lie on it, you will bear their injustices.
+- fresh: And you will lie on your left side and set injustices of the house of Israel upon it. According to the number of days, one hundred fifty, which you lie on it, you will bear their injustices.
 - brenton: And thou shalt lie upon thy left side, and lay the iniquities of the house of Israel upon it, according to the number of the hundred and fifty days during which thou shalt lie upon it: and thou shalt bear their iniquities.
 
 ### Ezekiel 4:5
@@ -182949,7 +182949,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave you their two injustices for number of days, one hundred ninety days, and you will bear injustices of house of Israel.
+- fresh: And I gave you their two injustices for number of days, one hundred ninety days, and you will bear injustices of the house of Israel.
 - brenton: For I have appointed thee their iniquities for a number of days, for a hundred and ninety days: so thou shalt bear the iniquities of the house of Israel.
 
 ### Ezekiel 4:6
@@ -182958,7 +182958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will finish all these and lie on your right side and bear injustices of house of Judah forty days. Day for year I set to you.
+- fresh: And you will finish all these and lie on your right side and bear injustices of the house of Judah forty days. Day for year I set to you.
 - brenton: And thou shalt accomplish this, and then shalt lie on thy right side, and shalt bear the iniquities of the house of Juda forty days: I have appointed thee a day for a year.
 
 ### Ezekiel 4:7
@@ -182985,7 +182985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you take for yourself wheat and barley and bean and lentil and millet and spelt and put them into earthen vessel and make them for yourself into loaves, and according to number of days which you sleep on your side, one hundred ninety days, you will eat them.
+- fresh: And you take for yourself wheat and barley and bean and lentil and millet and spelt and put them into earthen vessel and make them for yourself into loaves, and according to the number of days which you sleep on your side, one hundred ninety days, you will eat them.
 - brenton: Take thou also to thee wheat, and barley, and beans, and lentiles, and millet, and bread-corn; and thou shalt cast them into one earthen vessel, and shalt make them into loaves for thyself; and thou shalt eat them a hundred and ninety days, according to the number of the days during which thou sleepest on thy side.
 
 ### Ezekiel 4:10
@@ -183093,7 +183093,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from these you will still take and throw them into the midst of fire and burn them in fire. Out from it fire will go out, and you will say to all house of Israel,
+- fresh: And from these you will still take and throw them into the midst of fire and burn them in fire. Out from it fire will go out, and you will say to all the house of Israel,
 - brenton: And thou shalt take of these again, and cast them into the midst of the fire, and burn them up with fire: from thence shall come forth fire; and thou shalt say to the whole house of Israel,
 
 ### Ezekiel 5:5
@@ -183309,7 +183309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Clap with hand and stamp with foot and say, Alas, alas, over all abominations of house of Israel. By sword and by death and by famine they will fall.
+- fresh: Thus says the Lord: Clap with hand and stamp with foot and say, Alas, alas, over all abominations of the house of Israel. By sword and by death and by famine they will fall.
 - brenton: Thus saith the Lord; Clap with thy hand, and stamp with thy foot and say, Aha, aha! for all the abominations of the house of Israel: they shall fall by the sword, and by pestilence, and by famine.
 
 ### Ezekiel 6:12
@@ -183354,7 +183354,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, say, Thus says the Lord to land of Israel: End has come; end has come upon four wings of land.
+- fresh: And you, son of man, say, Thus says the Lord to the land of Israel: End has come; end has come upon four wings of land.
 - brenton: Thus saith the Lord;
 
 ### Ezekiel 7:3
@@ -183525,7 +183525,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will hand them over into hands of strangers to plunder them, and to scourges of earth for spoil, and they will profane them.
+- fresh: And I will hand them over into the hands of strangers to plunder them, and to scourges of earth for spoil, and they will profane them.
 - brenton: And I will deliver them into the hands of strangers to make them a prey, and to the pests of the earth for a spoil; and they shall profane them.
 
 ### Ezekiel 7:22
@@ -183588,7 +183588,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in sixth year, in the fifth month, on fifth of the month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
+- fresh: And it happened in sixth year, in the fifth month, on the fifth of the month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
 - brenton: And it came to pass in the sixth year, in the fifth month, on the fifth day of the month, I was sitting in the house, and the elders of Juda were sitting before me: and the hand of the Lord came upon me.
 
 ### Ezekiel 8:2
@@ -183606,7 +183606,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he stretched out likeness of hand and took me by top of my head, and spirit lifted me between earth and heaven and brought me to Jerusalem in vision of God, to forecourt of inner gate facing north, where pillar of the possessor was.
+- fresh: And he stretched out likeness of hand and took me by top of my head, and spirit lifted me between earth and heaven and brought me to Jerusalem in the vision of God, to the forecourt of inner gate facing north, where pillar of the possessor was.
 - brenton: And he stretched forth the likeness of a hand, and took me up by the crown of my head; and the Spirit lifted me up between the earth and sky, and brought me to Jerusalem in a vision of God, to the porch of the gate that looks to the north, where was the pillar of the Purchaser.
 
 ### Ezekiel 8:4
@@ -183642,7 +183642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me to forecourt of court.
+- fresh: And he brought me to the forecourt of court.
 - brenton: And he brought me to the porch of the court.
 
 ### Ezekiel 8:8
@@ -183669,7 +183669,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I entered and saw, and behold, vain abominations and all idols of house of Israel engraved on it all around.
+- fresh: And I entered and saw, and behold, vain abominations and all idols of the house of Israel engraved on it all around.
 - brenton: So I went in and looked; and beheld vain abominations, and all the idols of the house of Israel, portrayed upon them round about.
 
 ### Ezekiel 8:11
@@ -183678,7 +183678,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And seventy men from elders of house of Israel, with Jaazaniah son of Shaphan in the midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
+- fresh: And seventy men from the elders of the house of Israel, with Jaazaniah son of Shaphan in the midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
 - brenton: And seventy men of the elders of the house of Israel, and Jechonias the son of Saphan stood in their presence in the midst of them, and each one held his censer in his hand; and the smoke of the incense went up.
 
 ### Ezekiel 8:12
@@ -183687,7 +183687,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen what elders of house of Israel do, each in his hidden chamber? For they said, the Lord does not see; the Lord has abandoned land.
+- fresh: And he said to me, Son of man, have you seen what elders of the house of Israel do, each in his hidden chamber? For they said, the Lord does not see; the Lord has abandoned land.
 - brenton: And he said to me, Thou hast seen, son of man, what the elders of the house of Israel do, each one of them in their secret chamber: because they have said, The Lord sees not; The Lord has forsaken the earth.
 
 ### Ezekiel 8:13
@@ -183705,7 +183705,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me to forecourt of gate of house of the Lord facing north, and behold, there women sat lamenting Tammuz.
+- fresh: And he brought me to the forecourt of gate of the house of the Lord facing north, and behold, there women sat lamenting Tammuz.
 - brenton: And he brought me in to the porch of the house of the Lord that looks to the north; and, behold, there were women sitting there lamenting for Thammuz.
 
 ### Ezekiel 8:15
@@ -183723,7 +183723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me into inner court of house of the Lord, and behold, at forecourt of temple of the Lord, between porch and between altar, about twenty men, their backs toward temple of the Lord and their faces opposite, and these were bowing to sun.
+- fresh: And he brought me into inner court of the house of the Lord, and behold, at the forecourt of temple of the Lord, between porch and between altar, about twenty men, their backs toward the temple of the Lord and their faces opposite, and these were bowing to sun.
 - brenton: And he brought me into the inner court of the house of the Lord, and at the entrance of the temple of the Lord, between the porch and the altar, were about twenty men, with their back parts toward the temple of the Lord, and their faces turned the opposite way; and these were worshipping the sun.
 
 ### Ezekiel 8:17
@@ -183759,7 +183759,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, six men came from way of upper gate facing north, and each one had his axe in his hand, and one man in the midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
+- fresh: And behold, six men came from the way of upper gate facing north, and each one had his axe in his hand, and one man in the midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
 - brenton: And, behold, six men came from the way of the high gate that looks toward the north, and each one's axe was in his hand; and there was one man in the midst of them clothed with a long robe down to the feet, and a sapphire girdle was on his loins: and they came in and stood near the brazen altar.
 
 ### Ezekiel 9:3
@@ -183768,7 +183768,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And glory of God of Israel went up from cherubim that was upon them to forecourt of house, and he called man clothed in full-length robe who had belt upon his loins.
+- fresh: And glory of God of Israel went up from cherubim that was upon them to the forecourt of house, and he called man clothed in full-length robe who had belt upon his loins.
 - brenton: And the glory of the God of Israel, that was upon them, went up from the cherubs to the porch of the house.
 
 ### Ezekiel 9:4
@@ -183822,7 +183822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Injustice of house of Israel and Judah has grown exceedingly, exceedingly, because land was filled with many peoples and city filled with injustice and uncleanness, because they said, the Lord has abandoned land; The Lord does not see.
+- fresh: And he said to me, Injustice of the house of Israel and Judah has grown exceedingly, exceedingly, because land was filled with many peoples and city filled with injustice and uncleanness, because they said, the Lord has abandoned land; The Lord does not see.
 - brenton: Then said he to me, The iniquity of the house of Israel and Juda is become very exceedingly great: for the land is filled with many nations, and the city is filled with iniquity and uncleanness: because they have said, The Lord has forsaken the earth, The Lord looks not upon it.
 
 ### Ezekiel 9:10
@@ -183876,7 +183876,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And glory of the Lord went up from cherubim to forecourt of house, and cloud filled house, and court was filled with brightness of glory of the Lord.
+- fresh: And glory of the Lord went up from cherubim to the forecourt of house, and cloud filled house, and court was filled with brightness of glory of the Lord.
 - brenton: Then the glory of the Lord departed from the cherubs to the porch of the house; and the cloud filled the house, and the court was filled with the brightness of the glory of the Lord.
 
 ### Ezekiel 10:5
@@ -183903,7 +183903,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And one stretched out his hand into the midst of fire that was in the midst of cherubim and took and gave into hands of one clothed in holy robe, and he took and went out.
+- fresh: And one stretched out his hand into the midst of fire that was in the midst of cherubim and took and gave into the hands of one clothed in holy robe, and he took and went out.
 - brenton: And he stretched forth his hand into the midst of the fire that was between the cherubs, and took thereof, and put it into the hands of the man clothed with the sacred robe: and he took it, and went out.
 
 ### Ezekiel 10:8
@@ -183966,7 +183966,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And cherubim were lifted up. This was living creature I saw by river Chebar.
+- fresh: And cherubim were lifted up. This was living creature I saw by the river Chebar.
 - brenton: And the cherubs were the same living creature which I saw by the river of Chobar.
 
 ### Ezekiel 10:16
@@ -184002,7 +184002,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And cherubim lifted their wings and were raised from earth before me when they went out, and wheels were beside them, and they stood at forecourt of gate of house of the Lord opposite, and glory of God of Israel was above them.
+- fresh: And cherubim lifted their wings and were raised from earth before me when they went out, and wheels were beside them, and they stood at the forecourt of gate of the house of the Lord opposite, and glory of God of Israel was above them.
 - brenton: And the cherubs lifted up their wings, and mounted up from the earth in my sight: when they went forth, the wheels were also beside them, and they stood at the entrance of the front gate of the house of the Lord; and the glory of the God of Israel was upon them above.
 
 ### Ezekiel 10:20
@@ -184011,7 +184011,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This is living creature I saw beneath God of Israel by river Chebar, and I knew that they are cherubim.
+- fresh: This is living creature I saw beneath God of Israel by the river Chebar, and I knew that they are cherubim.
 - brenton: This is the living creature which I saw under the God of Israel by the river of Chobar; and I knew that they were cherubs.
 
 ### Ezekiel 10:21
@@ -184029,7 +184029,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And likeness of their faces: these are faces I saw beneath glory of God of Israel by river Chebar, and each went straight before its face.
+- fresh: And likeness of their faces: these are faces I saw beneath glory of God of Israel by the river Chebar, and each went straight before its face.
 - brenton: And as for the likeness of their faces, these are the same faces which I saw under the glory of the God of Israel by the river of Chobar: and they went each straight forward.
 
 ### Ezekiel 11:1
@@ -184038,7 +184038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And spirit took me up and brought me to gate of house of the Lord opposite, facing east, and behold, at forecourt of gate about twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of people.
+- fresh: And spirit took me up and brought me to the gate of the house of the Lord opposite, facing east, and behold, at the forecourt of gate about twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of people.
 - brenton: Moreover the Spirit took me up, and brought me to the front gate of the house of the Lord, that looks eastward: and behold at the entrance of the gate were about five and twenty men; and I saw in the midst of them Jechonias the son of Ezer, and Phaltias the son of Banæas, the leaders of the people.
 
 ### Ezekiel 11:2
@@ -184110,7 +184110,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring you out from its midst and hand you over into hands of strangers, and I will perform judgments among you.
+- fresh: And I will bring you out from its midst and hand you over into the hands of strangers, and I will perform judgments among you.
 - brenton: And I will bring you forth out of the midst of it, and will deliver you into the hands of strangers, and will execute judgments among you.
 
 ### Ezekiel 11:10
@@ -184119,7 +184119,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By sword you will fall. On borders of Israel I will judge you, and you will know that I am the Lord.
+- fresh: By sword you will fall. On the borders of Israel I will judge you, and you will know that I am the Lord.
 - brenton: Ye shall fall by the sword; I will judge you on the mountains of Israel; and ye shall know that I am the Lord.
 
 ### Ezekiel 11:11
@@ -184128,7 +184128,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This will not be cooking pot for you, and you will never become flesh in its midst. On borders of Israel I will judge you,
+- fresh: This will not be cooking pot for you, and you will never become flesh in its midst. On the borders of Israel I will judge you,
 - brenton: [missing]
 
 ### Ezekiel 11:12
@@ -184245,7 +184245,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And spirit took me up and brought me to land of Chaldeans, to captivity, in vision, in Spirit of God, and I came up from vision that I saw.
+- fresh: And spirit took me up and brought me to the land of Chaldeans, to captivity, in vision, in Spirit of God, and I came up from vision that I saw.
 - brenton: And the Spirit took me up, and brought me to the land of the Chaldeans, to the captivity, in a vision by the Spirit of God: and I went up after the vision which I saw.
 
 ### Ezekiel 11:25
@@ -184344,7 +184344,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to them, Thus says the Lord God to ruler and leader in Jerusalem and to all house of Israel who are in their midst.
+- fresh: Say to them, Thus says the Lord God to ruler and leader in Jerusalem and to all the house of Israel who are in their midst.
 - brenton: Say to them,
 
 ### Ezekiel 12:11
@@ -184371,7 +184371,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will spread my net over him, and he will be caught in my enclosure, and I will bring him to Babylon, to land of Chaldeans, and he will not see it, and there he will die.
+- fresh: And I will spread my net over him, and he will be caught in my enclosure, and I will bring him to Babylon, to the land of Chaldeans, and he will not see it, and there he will die.
 - brenton: And I will spread out my net upon him, and he shall be caught in my toils: and I will bring him to Babylon to the land of the Chaldeans; but he shall not see it, though he shall die there.
 
 ### Ezekiel 12:14
@@ -184425,7 +184425,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to people of the land, Thus says the Lord to those dwelling in Jerusalem upon land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
+- fresh: And you will say to the people of the land, Thus says the Lord to those dwelling in Jerusalem upon the land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
 - brenton: And thou shalt say to the people of the land, Thus saith the Lord to the inhabitants of Jerusalem on the land of Israel; They shall eat their bread in scarcity, and shall drink their water in desolation, that the land may be desolate with all that it contains: for all that dwell in it are ungodly.
 
 ### Ezekiel 12:20
@@ -184452,7 +184452,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, what is this proverb among you on land of Israel, saying, Days are far off; vision has perished?
+- fresh: Son of man, what is this proverb among you on the land of Israel, saying, Days are far off; vision has perished?
 - brenton: Son of man, what is your parable on the land of Israel, that ye say, The days are long, the vision has perished?
 
 ### Ezekiel 12:23
@@ -184587,7 +184587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will stretch out my hand against prophets seeing false things and uttering vanities. In assembly of my people they will not be, nor will they be written in record of house of Israel, nor will they enter into land of Israel, and they will know that I am the Lord.
+- fresh: And I will stretch out my hand against prophets seeing false things and uttering vanities. In assembly of my people they will not be, nor will they be written in record of the house of Israel, nor will they enter into the land of Israel, and they will know that I am the Lord.
 - brenton: And I will stretch forth my hand against the prophets that see false visions, and those that utter vanities: they shall not partake of the instruction of my people, neither shall they be written in the roll of the house of Israel, and they shall not enter into the land of Israel; and they shall know that I am the Lord.
 
 ### Ezekiel 13:10
@@ -184722,7 +184722,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And men from elders of Israel came to me and sat before me.
+- fresh: And men from the elders of Israel came to me and sat before me.
 - brenton: And there came to me men of the people of Israel, of the elders, and sat before me.
 
 ### Ezekiel 14:2
@@ -185019,7 +185019,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord to Jerusalem: Your root and your birth are from land of Canaan; your father was Amorite and your mother Hittite.
+- fresh: and say, Thus says the Lord to Jerusalem: Your root and your birth are from the land of Canaan; your father was Amorite and your mother Hittite.
 - brenton: and thou shalt say,
 
 ### Ezekiel 16:4
@@ -185037,7 +185037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on face of plain, in perversity of your life, on the day you were born.
+- fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on the face of plain, in perversity of your life, on the day you were born.
 - brenton: Nor did mine eye pity thee, to do for thee one of all these things, to feel at all for thee; but thou wast cast out on the face of the field, because of the deformity of thy person, in the day wherein thou wast born.
 
 ### Ezekiel 16:6
@@ -185055,7 +185055,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Multiply, as growth of field, I made you, and you multiplied and grew great and entered into cities of cities. Your breasts were raised and your hair sprang up, but you were naked and unseemly.
+- fresh: Multiply, as growth of field, I made you, and you multiplied and grew great and entered into the cities of cities. Your breasts were raised and your hair sprang up, but you were naked and unseemly.
 - brenton: increase; I have made thee as the springing grass of the field. So thou didst increase and grow, and didst enter into great cities: thy breasts were set, and thy hair grew, whereas thou wast naked and bare.
 
 ### Ezekiel 16:8
@@ -185217,7 +185217,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at head of every road you built your brothel and ruined your beauty and spread your legs to every passerby and multiplied your whoring.
+- fresh: And at the head of every road you built your brothel and ruined your beauty and spread your legs to every passerby and multiplied your whoring.
 - brenton: and on the head of every way thou didst set up thy fornications, and didst defile thy beauty, and didst open thy feet to every passer by, and didst multiply thy fornication.
 
 ### Ezekiel 16:26
@@ -185226,7 +185226,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you whored with sons of Egypt, your neighbors, great of flesh, and you whored often to provoke me.
+- fresh: And you whored with the sons of Egypt, your neighbors, great of flesh, and you whored often to provoke me.
 - brenton: And thou didst go a-whoring after the children of Egypt thy neighbours, great of flesh; and didst go a-whoring often to provoke me to anger.
 
 ### Ezekiel 16:27
@@ -185271,7 +185271,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In your daughters you built your brothel at head of every road and made your base in every square, and you were not like prostitute gathering wages.
+- fresh: In your daughters you built your brothel at the head of every road and made your base in every square, and you were not like prostitute gathering wages.
 - brenton: Thou hast built a house of harlotry in every top of a way, and hast set up thine high place in every street; and thou didst become as a harlot gathering hires.
 
 ### Ezekiel 16:32
@@ -185316,7 +185316,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Because you poured out your bronze and your shame will be uncovered in your whoring toward your lovers and toward all thoughts of your lawless deeds and in blood of your children whom you gave to them,
+- fresh: Thus says the Lord: Because you poured out your bronze and your shame will be uncovered in your whoring toward your lovers and toward all thoughts of your lawless deeds and in the blood of your children whom you gave to them,
 - brenton: Thus saith the Lord, Because thou hast poured forth thy money, therefore thy shame shall be discovered in thy harlotry with thy lovers, and with regard to all the imaginations of thine iniquities, and for the blood of thy children which thou hast given to them.
 
 ### Ezekiel 16:37
@@ -185334,7 +185334,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will avenge you with vengeance of adulteress and blood-shedder, and I will set you in blood of wrath and jealousy.
+- fresh: And I will avenge you with the vengeance of adulteress and blood-shedder, and I will set you in the blood of wrath and jealousy.
 - brenton: And I will be avenged on thee with the vengeance of an adulteress, and I will bring upon thee blood of fury and jealousy.
 
 ### Ezekiel 16:39
@@ -185595,7 +185595,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He clipped off tips of its tenderness and brought them into land of Canaan; in fortified city he set them.
+- fresh: He clipped off tips of its tenderness and brought them into the land of Canaan; in fortified city he set them.
 - brenton: he cropped off the ends of the tender twigs, and brought them into the land of Chanaan; he laid them up in a walled city.
 
 ### Ezekiel 17:5
@@ -185604,7 +185604,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took from seed of land and put it in open field, a plant by much water, under watch he set it.
+- fresh: And he took from the seed of land and put it in open field, a plant by much water, under watch he set it.
 - brenton: And he took of the seed of the land, and sowed it in a field planted by much water; he set it in a conspicuous place.
 
 ### Ezekiel 17:6
@@ -185676,7 +185676,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then he will take from seed of kingdom and make covenant with him and bring him under curse, and he will take leaders of land,
+- fresh: then he will take from the seed of kingdom and make covenant with him and bring him under curse, and he will take leaders of land,
 - brenton: And he shall take of the seed royal, and shall make a covenant with him, and shall bind him with an oath: and he shall take the princes of the land:
 
 ### Ezekiel 17:14
@@ -185757,7 +185757,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: I myself will take from choice cedar, from top of their heart, I will clip off and plant on high mountain and hang it there.
+- fresh: Because thus says the Lord: I myself will take from choice cedar, from the top of their heart, I will clip off and plant on high mountain and hang it there.
 - brenton: For thus saith the Lord; I will even take of the choice branches of the cedar from the top thereof, I will crop off their hearts, and I will plant it on a high mountain:
 
 ### Ezekiel 17:23
@@ -185829,7 +185829,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: will not eat on mountains and will not lift his eyes to thoughts of house of Israel, and will not defile wife of his neighbor, and will not approach woman in her monthly flow.
+- fresh: will not eat on mountains and will not lift his eyes to thoughts of the house of Israel, and will not defile wife of his neighbor, and will not approach woman in her monthly flow.
 - brenton: who shall not eat upon the mountains, and shall not at all lift up his eyes to the devices of the house of Israel, and shall not defile his neighbour's wife, and shall not draw nigh to her that is removed,
 
 ### Ezekiel 18:7
@@ -185874,7 +185874,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: who did not walk in way of his righteous father, but also ate on mountains and defiled wife of his neighbor,
+- fresh: who did not walk in the way of his righteous father, but also ate on mountains and defiled wife of his neighbor,
 - brenton: who has not walked in the way of his righteous father, but has even eaten upon the mountains, and has defiled his neighbour's wife,
 
 ### Ezekiel 18:12
@@ -185910,7 +185910,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: he has not eaten on mountains and has not set his eyes on thoughts of house of Israel and has not defiled wife of his neighbor,
+- fresh: he has not eaten on mountains and has not set his eyes on thoughts of the house of Israel and has not defiled wife of his neighbor,
 - brenton: and if he has not eaten on the mountains, and has not set his eyes on the devices of the house of Israel, and has not defiled his neighbour's wife,
 
 ### Ezekiel 18:16
@@ -186099,7 +186099,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations heard against him; in their corruption he was caught, and they brought him with bridle into land of Egypt.
+- fresh: And nations heard against him; in their corruption he was caught, and they brought him with bridle into the land of Egypt.
 - brenton: And the nations heard a report of him; he was caught in their pit, and they brought him into the land of Egypt in chains.
 
 ### Ezekiel 19:5
@@ -186144,7 +186144,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they put him in bridle and cage and brought him to king of Babylon and led him into prison, so that his voice might no longer be heard on mountains of Israel.
+- fresh: And they put him in bridle and cage and brought him to the king of Babylon and led him into prison, so that his voice might no longer be heard on the mountains of Israel.
 - brenton: And they put him in chains and in a cage, and he came to the king of Babylon; and he cast him into prison, that his voice should not be heard on the mountains of Israel.
 
 ### Ezekiel 19:10
@@ -186162,7 +186162,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in the midst of stems, and it saw its size in multitude of its branches.
+- fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in the midst of stems, and it saw its size in the multitude of its branches.
 - brenton: And she became a rod for a tribe of princes, and was elevated in her bulk in the midst of other trees, and she saw her bulk in the multitude of her branches.
 
 ### Ezekiel 19:12
@@ -186198,7 +186198,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in seventh year, in the fifth month, on tenth of the month, men from elders of house of Israel came to inquire of the Lord and sat before me.
+- fresh: And it happened in seventh year, in the fifth month, on the tenth of the month, men from the elders of the house of Israel came to inquire of the Lord and sat before me.
 - brenton: And it came to pass in the seventh year, on the fifteenth day of the month, there came men of the elders of the house of Israel to enquire of the Lord, and they sat before me.
 
 ### Ezekiel 20:2
@@ -186216,7 +186216,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, speak to elders of Israel and say to them, Thus says the Lord: Is it to inquire of me that you come? As I live, I will not answer you, says the Lord.
+- fresh: Son of man, speak to the elders of Israel and say to them, Thus says the Lord: Is it to inquire of me that you come? As I live, I will not answer you, says the Lord.
 - brenton: Son of man, speak to the elders of the house of Israel, and thou shalt say to them, Thus saith the Lord; Are ye come to enquire of me? As I live, I will not be enquired of by you, saith the Lord.
 
 ### Ezekiel 20:4
@@ -186234,7 +186234,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And say to them, Thus says the Lord: From day I chose house of Israel and made myself known to seed of house of Jacob and was known to them in the land of Egypt and took hold of their hand, saying, I am the Lord your God,
+- fresh: And say to them, Thus says the Lord: From day I chose house of Israel and made myself known to the seed of the house of Jacob and was known to them in the land of Egypt and took hold of their hand, saying, I am the Lord your God,
 - brenton: and thou shalt say to them, Thus saith the Lord;
 
 ### Ezekiel 20:6
@@ -186243,7 +186243,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: on that day I took hold of their hand to bring them out from land of Egypt into land that I prepared for them, land flowing with milk and honey, a honeycomb beyond every land.
+- fresh: on that day I took hold of their hand to bring them out from the land of Egypt into the land that I prepared for them, land flowing with milk and honey, a honeycomb beyond every land.
 - brenton: in that day I helped them with my hand, to bring them out of the land of Egypt into the land which I prepared for them, a land flowing with milk and honey, it is abundant beyond every land.
 
 ### Ezekiel 20:7
@@ -186270,7 +186270,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I acted so that my name might not at all be profaned before nations among whom they were, among whom I was made known to them before them, to bring them out from land of Egypt.
+- fresh: And I acted so that my name might not at all be profaned before nations among whom they were, among whom I was made known to them before them, to bring them out from the land of Egypt.
 - brenton: But I wrought so that my name should not be at all profaned in the sight of the Gentiles, in the midst of whom they are, among whom I was made known to them in their sight, to bring them out of the land of Egypt.
 
 ### Ezekiel 20:10
@@ -186279,7 +186279,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought them out from land of Egypt and led them into wilderness.
+- fresh: And I brought them out from the land of Egypt and led them into wilderness.
 - brenton: And I brought them into the wilderness.
 
 ### Ezekiel 20:11
@@ -186324,7 +186324,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I lifted my hand against them in wilderness, not at all to bring them into land that I gave them, land flowing milk and honey, a honeycomb beyond every land,
+- fresh: And I lifted my hand against them in wilderness, not at all to bring them into the land that I gave them, land flowing milk and honey, a honeycomb beyond every land,
 - brenton: But I lifted up my hand against them in the wilderness once for all, that I would not bring them into the land which I gave them, a land flowing with milk and honey, it is sweeter than all lands:
 
 ### Ezekiel 20:16
@@ -186333,7 +186333,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because they rejected my judgments and did not walk in my ordinances and profaned my Sabbaths, and after thoughts of their hearts they went.
+- fresh: because they rejected my judgments and did not walk in my ordinances and profaned my Sabbaths, and after the thoughts of their hearts they went.
 - brenton: because they rejected mine ordinances, and walked not in my commandments, but profaned my sabbaths, and went after the imaginations of their hearts.
 
 ### Ezekiel 20:17
@@ -186405,7 +186405,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because they did not do my judgments and rejected my ordinances and profaned my Sabbaths, and their eyes were after thoughts of their fathers.
+- fresh: because they did not do my judgments and rejected my ordinances and profaned my Sabbaths, and their eyes were after the thoughts of their fathers.
 - brenton: because they kept not mine ordinances, and rejected my commandments, and profaned my sabbaths, and their eyes went after the imaginations of their fathers.
 
 ### Ezekiel 20:25
@@ -186441,7 +186441,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought them into land about which I lifted my hand to give it to them, and they saw every high hill and every shady tree and there they sacrificed to their gods and set there fragrant smell and poured out there their drink offerings.
+- fresh: And I brought them into the land about which I lifted my hand to give it to them, and they saw every high hill and every shady tree and there they sacrificed to their gods and set there fragrant smell and poured out there their drink offerings.
 - brenton: Whereas I brought them into the land concerning which I lifted up mine hand to give it them; and they looked upon every high hill, and every shady tree, and they sacrificed there to their gods, and offered there a sweet-smelling savour, and there they poured out their drink-offerings.
 
 ### Ezekiel 20:29
@@ -186504,7 +186504,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring you into wilderness of peoples and judge with you there face to face.
+- fresh: And I will bring you into the wilderness of peoples and judge with you there face to face.
 - brenton: And I will bring you into the wilderness of the nations, and will plead with you there face to face.
 
 ### Ezekiel 20:36
@@ -186531,7 +186531,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will pick out from you impious ones and rebels, because I will bring them out from their sojourning, but into land of Israel they will not enter, and you will know that I am the Lord.
+- fresh: And I will pick out from you impious ones and rebels, because I will bring them out from their sojourning, but into the land of Israel they will not enter, and you will know that I am the Lord.
 - brenton: And I will separate from among you the ungodly and the revolters; for I will lead them forth out of their place of sojourning, and they shall not enter into the land of Israel: and ye shall know that I am the Lord, even the Lord.
 
 ### Ezekiel 20:39
@@ -186567,7 +186567,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will know that I am the Lord when I bring you into land of Israel, into land concerning which I lifted my hand to give it to your fathers.
+- fresh: And you will know that I am the Lord when I bring you into the land of Israel, into the land concerning which I lifted my hand to give it to your fathers.
 - brenton: And ye shall know that I am the Lord, when I have brought you into the land of Israel, into the land concerning which I lifted up my hand to give it to your fathers.
 
 ### Ezekiel 20:43
@@ -186648,7 +186648,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore prophesy, son of man, and set your face toward Jerusalem and look toward their holy places, and you will prophesy against land of Israel.
+- fresh: Therefore prophesy, son of man, and set your face toward Jerusalem and look toward their holy places, and you will prophesy against the land of Israel.
 - brenton: Therefore prophesy, son of man, set thy face steadfastly toward Jerusalem, and look toward their holy places, and thou shalt prophesy against the land of Israel,
 
 ### Ezekiel 21:8
@@ -186657,7 +186657,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to land of Israel, Behold, I am against you and will draw my dagger from its sheath and destroy from you righteous and lawless.
+- fresh: And you will say to the land of Israel, Behold, I am against you and will draw my dagger from its sheath and destroy from you righteous and lawless.
 - brenton: and thou shalt say to the land of Israel, Thus saith the Lord; Behold, I am against thee, and I will draw forth my sword out of its sheath, and I will destroy out of thee the transgressor and unrighteous.
 
 ### Ezekiel 21:9
@@ -186729,7 +186729,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he gave it ready for his hand to seize. Sword has been honed; it is ready to be given into hand of one striking through.
+- fresh: And he gave it ready for his hand to seize. Sword has been honed; it is ready to be given into the hand of one striking through.
 - brenton: And he made it ready for his hand to hold: the sword is sharpened, it is ready to put into the hand of the slayer.
 
 ### Ezekiel 21:17
@@ -186801,7 +186801,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, appoint for yourself two ways for sword of king of Babylon to enter. From one land both will come out, and hand at beginning of road, at beginning of city’s road.
+- fresh: And you, son of man, appoint for yourself two ways for sword of king of Babylon to enter. From one land both will come out, and hand at the beginning of road, at the beginning of city’s road.
 - brenton: And thou, son of man, appoint thee two ways, that the sword of the king of Babylon may enter in: the two shall go forth of one country; and there shall be a force at the top of the way of the city, thou shalt set it at the top of the way,
 
 ### Ezekiel 21:25
@@ -186819,7 +186819,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because king of Babylon will stand on old road, at beginning of two roads, to divine divination, to shake rod, and inquire by carved things and inspect liver. On his right
+- fresh: Because king of Babylon will stand on old road, at the beginning of two roads, to divine divination, to shake rod, and inquire by carved things and inspect liver. On his right
 - brenton: For the king of Babylon shall stand on the old way, at the head of the two ways, to use divination, to make bright the arrow, and to enquire of the graven images, and to examine the victims.
 
 ### Ezekiel 21:27
@@ -186855,7 +186855,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, profane lawless leader of Israel, whose day has come in time of injustice of the end,
+- fresh: And you, profane lawless leader of Israel, whose day has come in the time of injustice of the end,
 - brenton: And thou profane wicked prince of Israel, whose day, even an end, is come in a season of iniquity, thus saith the Lord;
 
 ### Ezekiel 21:31
@@ -186891,7 +186891,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: while in your vain vision and your false divination, to hand you over on necks of slain lawless ones whose day has come in time of injustice of the end.
+- fresh: while in your vain vision and your false divination, to hand you over on necks of slain lawless ones whose day has come in the time of injustice of the end.
 - brenton: While thou art seeing vain visions, and while thou art prophesying falsehoods, to bring thyself upon the necks of ungodly transgressors, the day is come, even an end, in a season of iniquity.
 
 ### Ezekiel 21:35
@@ -186909,7 +186909,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will pour out my anger upon you; in fire of my wrath I will blow upon you and hand you over into hands of barbarous men, crafting destruction.
+- fresh: And I will pour out my anger upon you; in the fire of my wrath I will blow upon you and hand you over into the hands of barbarous men, crafting destruction.
 - brenton: And I will pour out my wrath upon thee, I will blow upon thee with the fire of my wrath, and I will deliver thee into the hands of barbarians skilled in working destruction.
 
 ### Ezekiel 21:37
@@ -186972,7 +186972,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, leaders of house of Israel, each with his kin, were mixed up in you so as to pour out blood.
+- fresh: Behold, leaders of the house of Israel, each with his kin, were mixed up in you so as to pour out blood.
 - brenton: Behold, the princes of the house of Israel have conspired in thee each one with his kindred, that they might shed blood.
 
 ### Ezekiel 22:7
@@ -187017,7 +187017,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Each one acted lawlessly with wife of his neighbor, and each one defiled his daughter-in-law in impiety, and each one humbled his sister, daughter of his father, in you.
+- fresh: Each one acted lawlessly with the wife of his neighbor, and each one defiled his daughter-in-law in impiety, and each one humbled his sister, daughter of his father, in you.
 - brenton: They have dealt unlawfully each one with his neighbour's wife; and each one in ungodliness has defiled his daughter-in-law: and in thee they have humbled each one his sister, the daughter of his father.
 
 ### Ezekiel 22:12
@@ -187107,7 +187107,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will blow upon you in fire of my wrath, and you will be melted in her midst.
+- fresh: And I will blow upon you in the fire of my wrath, and you will be melted in her midst.
 - brenton: And I will blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.
 
 ### Ezekiel 22:22
@@ -187134,7 +187134,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, say to her, You are land not rained on, nor did rain come upon you in day of wrath.
+- fresh: Son of man, say to her, You are land not rained on, nor did rain come upon you in the day of wrath.
 - brenton: Son of man, say to her, Thou art the land that is not rained upon, neither has rain come upon thee in the day of wrath:
 
 ### Ezekiel 22:25
@@ -187197,7 +187197,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I poured out my wrath upon it; in fire of my anger, to complete, I have put their ways on their heads, says the Lord God.
+- fresh: And I poured out my wrath upon it; in the fire of my anger, to complete, I have put their ways on their heads, says the Lord God.
 - brenton: So I have poured out my wrath upon her in the fury of mine anger, to accomplish it. I have recompensed their ways on their own heads, saith the Lord God.
 
 ### Ezekiel 23:1
@@ -187278,7 +187278,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this I gave her into hands of her lovers, into hands of sons of Assyria on whom she set herself.
+- fresh: Because of this I gave her into the hands of her lovers, into the hands of sons of Assyria on whom she set herself.
 - brenton: Therefore I delivered her into the hands of her lovers, into the hands of the children of the Assyrians, on whom she doted.
 
 ### Ezekiel 23:10
@@ -187341,7 +187341,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And she set herself on them at sight of her eyes and sent messengers to them into land of Chaldeans.
+- fresh: And she set herself on them at sight of her eyes and sent messengers to them into the land of Chaldeans.
 - brenton: And she doted upon them as soon as she saw them, and sent forth messengers to them into the land of the Chaldeans.
 
 ### Ezekiel 23:17
@@ -187440,7 +187440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will turn your impieties away from you and your whoring from land of Egypt, and you will not lift your eyes to them, and Egypt you will remember no more.
+- fresh: And I will turn your impieties away from you and your whoring from the land of Egypt, and you will not lift your eyes to them, and Egypt you will remember no more.
 - brenton: So I will turn back thine ungodliness from thee, and thy fornication from the land of Egypt: and thou shalt not lift up thine eyes upon them, and shalt no more remember Egypt.
 
 ### Ezekiel 23:28
@@ -187449,7 +187449,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God: Behold, I hand you over into hands of those you hate, from whom your soul turned away,
+- fresh: Because thus says the Lord God: Behold, I hand you over into the hands of those you hate, from whom your soul turned away,
 - brenton: Wherefore thus saith the Lord God; Behold, I will deliver thee into the hands of those whom thou hatest, from whom thy soul is alienated.
 
 ### Ezekiel 23:29
@@ -187575,7 +187575,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sound of harmony they struck up, and to men from multitude of people coming from wilderness they put bracelets on their hands and crown of boasting on their heads.
+- fresh: And sound of harmony they struck up, and to men from the multitude of people coming from wilderness they put bracelets on their hands and crown of boasting on their heads.
 - brenton: and they raised a sound of music, and that with men coming from the wilderness out of a multitude of men, and they put bracelets on their hands, and a crown of glory on their heads;
 
 ### Ezekiel 23:43
@@ -187602,7 +187602,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And righteous men, they will avenge them with vengeance of adulteress and vengeance of blood, because they are adulteresses and blood is in their hands.
+- fresh: And righteous men, they will avenge them with the vengeance of adulteress and vengeance of blood, because they are adulteresses and blood is in their hands.
 - brenton: And they are just men, and shall take vengeance on them with the judgment of an adulteress and the judgment of blood: for they are adulteresses, and blood is in their hands.
 
 ### Ezekiel 23:46
@@ -187647,7 +187647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me in ninth year, in the tenth month, on tenth of the month, saying,
+- fresh: And the word of the Lord came to me in ninth year, in the tenth month, on the tenth of the month, saying,
 - brenton: And the word of the Lord came to me, in the ninth year, in the tenth month, on the tenth day of the month, saying,
 
 ### Ezekiel 24:2
@@ -187908,7 +187908,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to sons of Ammon, Hear the word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over the house of Judah that they went into captivity,
+- fresh: and say to the sons of Ammon, Hear the word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over the land of Israel that it was destroyed, and over the house of Judah that they went into captivity,
 - brenton: and thou shalt say to the children of Ammon,
 
 ### Ezekiel 25:4
@@ -187917,7 +187917,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore behold, I give you to sons of the east for inheritance, and they will camp in their equipment in you and set their tents in you. They will eat your fruits, and they will drink your richness.
+- fresh: therefore behold, I give you to the sons of the east for inheritance, and they will camp in their equipment in you and set their tents in you. They will eat your fruits, and they will drink your richness.
 - brenton: therefore, behold, I will deliver you to the children of Kedem for an inheritance, and they shall lodge in thee with their stuff, and they shall pitch their tents in thee: they shall eat thy fruits, and they shall drink thy milk.
 
 ### Ezekiel 25:5
@@ -187935,7 +187935,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Because you clapped your hand and stamped your foot and rejoiced with all your soul over land of Israel,
+- fresh: Because thus says the Lord: Because you clapped your hand and stamped your foot and rejoiced with all your soul over the land of Israel,
 - brenton: For thus saith the Lord; Because thou hast clapped thine hands, and stamped with thy foot, and heartily rejoiced against the land of Israel;
 
 ### Ezekiel 25:7
@@ -187971,7 +187971,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to sons of the east over sons of Ammon I gave them for inheritance, so that remembrance of sons of Ammon might not be.
+- fresh: to the sons of the east over the sons of Ammon I gave them for inheritance, so that remembrance of sons of Ammon might not be.
 - brenton: I have given him the children of Kedem in addition to the children of Ammon for an inheritance, that there may be no remembrance of the children of Ammon.
 
 ### Ezekiel 25:11
@@ -188043,7 +188043,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, on first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, on the first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 26:2
@@ -188124,7 +188124,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From multitude of his horses their dust will cover you, and from sound of his horsemen and wheels of his chariots your walls will shake when he enters your gates as one entering city from plain.
+- fresh: From the multitude of his horses their dust will cover you, and from the sound of his horsemen and wheels of his chariots your walls will shake when he enters your gates as one entering city from plain.
 - brenton: By reason of the multitude of his horses their dust shall cover thee, and by reason of the sound of his horsemen and the wheels of his chariots thy walls shall be shaken, when he enters into thy gates, as one entering into a city from the plain.
 
 ### Ezekiel 26:11
@@ -188169,7 +188169,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God to Tyre: Will not the islands shake at sound of your fall, when wounded groan, when sword is broken in your midst?
+- fresh: Because thus says the Lord God to Tyre: Will not the islands shake at the sound of your fall, when wounded groan, when sword is broken in your midst?
 - brenton: For thus saith the Lord God to Sor; Shall not the isles shake at the sound of thy fall, while the wounded are groaning, while they have drawn a sword in the midst of thee?
 
 ### Ezekiel 26:16
@@ -188214,7 +188214,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then I will bring you down with those going down into pit, to people of old age, and make you dwell in depths of earth like everlasting desolation with those going down into pit, so that you will not be inhabited nor arise upon land of life.
+- fresh: then I will bring you down with those going down into pit, to the people of old age, and make you dwell in the depths of earth like everlasting desolation with those going down into pit, so that you will not be inhabited nor arise upon the land of the living.
 - brenton: and great waters shall cover thee; and I shall bring thee down to them that go down to the pit, to the people of old time, and shall cause thee to dwell in the depths of the earth, as in everlasting desolation, with them that go down to the pit, that thou mayest not be inhabited, nor stand upon the land of life;
 
 ### Ezekiel 26:21
@@ -188250,7 +188250,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to Tyre dwelling at entrance of sea, merchant of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
+- fresh: and say to Tyre dwelling at the entrance of the sea, merchant of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
 - brenton: and thou shalt say to Sor that dwells at the entrance of the sea, to the mart of the nations coming from many islands, Thus saith the Lord to Sor;
 
 ### Ezekiel 27:4
@@ -188259,7 +188259,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In heart of sea, in Beelim, your sons set your beauty.
+- fresh: In the heart of the sea, in Beelim, your sons set your beauty.
 - brenton: In the heart of the sea thy sons have put beauty upon thee for Beelim.
 
 ### Ezekiel 27:5
@@ -188277,7 +188277,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From Bashan they made your oars; your decking they made from ivory, forest houses from islands of Kittim.
+- fresh: From Bashan they made your oars; your decking they made from ivory, forest houses from the islands of Kittim.
 - brenton: They made thine oars of wood out of the land of Basan; thy sacred utensils they made of ivory, thy shady houses of wood from the isles of Chetiim.
 
 ### Ezekiel 27:7
@@ -188286,7 +188286,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you; blue and purple from islands of Elishah became your garments.
+- fresh: Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you; blue and purple from the islands of Elishah became your garments.
 - brenton: Fine linen with embroidery from Egypt supplied thy couch, to put honour upon thee, and to clothe thee with blue and purple from the isles of Elisai; and they became thy coverings.
 
 ### Ezekiel 27:8
@@ -188367,7 +188367,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Men traded your merchandise from abundance of your mixed goods; myrrh and embroidered cloth from Tarshish and Ramoth and Chorchor they gave for your market.
+- fresh: Men traded your merchandise from the abundance of your mixed goods; myrrh and embroidered cloth from Tarshish and Ramoth and Chorchor they gave for your market.
 - brenton: even men as thy merchandise, from the multitude of thy trading population, myrrh and embroidered works from Tharsis: Ramoth also and Chorchor furnished thy market.
 
 ### Ezekiel 27:17
@@ -188385,7 +188385,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Damascus was your merchant from abundance of all your power, wine from Helbon and wool from Miletus.
+- fresh: Damascus was your merchant from the abundance of all your power, wine from Helbon and wool from Miletus.
 - brenton: The people of Damascus were thy merchants by reason of the abundance of all thy power; wine out of Chelbon, and wool from Miletus; and they brought wine into thy market.
 
 ### Ezekiel 27:19
@@ -188448,7 +188448,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and became very heavy in heart of sea.
+- fresh: Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and became very heavy in the heart of the sea.
 - brenton: Ships were thy merchants, in abundance, with thy trading population: and thou wast filled and very heavily loaded in the heart of the sea.
 
 ### Ezekiel 27:26
@@ -188457,7 +188457,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In much water your rowers led you; south wind shattered you in heart of sea.
+- fresh: In much water your rowers led you; south wind shattered you in the heart of the sea.
 - brenton: Thy rowers have brought thee into great waters: the south wind has broken thee in the heart of the sea.
 
 ### Ezekiel 27:27
@@ -188466,7 +188466,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in heart of sea on the day of your fall.
+- fresh: Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in the heart of the sea on the day of your fall.
 - brenton: Thy forces, and thy gain, and that of thy traders, and thy rowers, and thy pilots, and thy counsellors, and they that traffic with thee, and all thy warriors that are in thee: and all thy company in the midst of thee shall perish in the heart of the sea, in the day of thy fall.
 
 ### Ezekiel 27:28
@@ -188475,7 +188475,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At sound of your cry your pilots will fear with fear.
+- fresh: At the sound of your cry your pilots will fear with fear.
 - brenton: At the cry of thy voice thy pilots shall be greatly terrified.
 
 ### Ezekiel 27:29
@@ -188520,7 +188520,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Now you were shattered in sea, in depth of water; your mixed trade and all your gathering in your midst fell. All your rowers.
+- fresh: Now you were shattered in sea, in the depth of water; your mixed trade and all your gathering in your midst fell. All your rowers.
 - brenton: Now art thou broken in the sea, thy traders are in the deep water, and all thy company in the midst of thee: all thy rowers have fallen.
 
 ### Ezekiel 27:35
@@ -188556,7 +188556,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, say to ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am god, I have dwelt in dwelling of God in heart of sea, but you are man and not god, and you set your heart as heart of god,
+- fresh: And you, son of man, say to the ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am god, I have dwelt in dwelling of God in the heart of the sea, but you are man and not god, and you set your heart as the heart of a god,
 - brenton: And thou, son of man, say to the prince of Tyrus, Thus saith the Lord; Because thine heart has been exalted, and thou hast said, I am God, I have inhabited the dwelling of God in the heart of the sea; yet thou art man and not God, though thou hast set thine heart as the heart of God:
 
 ### Ezekiel 28:3
@@ -188592,7 +188592,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Since you set your heart as heart of god,
+- fresh: Therefore thus says the Lord: Since you set your heart as the heart of a god,
 - brenton: Therefore thus saith the Lord; Since thou hast set thine heart as the heart of God;
 
 ### Ezekiel 28:7
@@ -188610,7 +188610,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will bring you down, and you will die death of wounded in heart of sea.
+- fresh: And they will bring you down, and you will die death of wounded in the heart of the sea.
 - brenton: and they shall bring down thy beauty to destruction. And they shall bring thee down; and thou shalt die the death of the slain in the heart of the sea.
 
 ### Ezekiel 28:9
@@ -188628,7 +188628,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You will die deaths of uncircumcised by hands of foreigners, because I have spoken, says the Lord.
+- fresh: You will die deaths of uncircumcised by the hands of foreigners, because I have spoken, says the Lord.
 - brenton: Thou shalt perish by the hands of strangers among the multitude of the uncircumcised: for I have spoken it, saith the Lord.
 
 ### Ezekiel 28:11
@@ -188682,7 +188682,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from mountain of God, and cherub led you out from the midst of fiery stones.
+- fresh: From the abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from the mountain of God, and cherub led you out from the midst of fiery stones.
 - brenton: Of the abundance of thy merchandise thou hast filled thy storehouses with iniquity, and hast sinned: therefore thou hast been cast down wounded from the mount of God, and the cherub has brought thee out of the midst of the stones of fire.
 
 ### Ezekiel 28:17
@@ -188781,7 +188781,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In tenth year, in the tenth month, on first of the month, the word of the Lord came to me, saying,
+- fresh: In tenth year, in the tenth month, on the first of the month, the word of the Lord came to me, saying,
 - brenton: In the twelfth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:2
@@ -188817,7 +188817,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will cast you down quickly, and all fish of your river, upon face of plain. You will fall and not be gathered nor collected; to beasts of earth and birds of heaven I have given you for food.
+- fresh: and I will cast you down quickly, and all fish of your river, upon the face of plain. You will fall and not be gathered nor collected; to the beasts of earth and birds of heaven I have given you for food.
 - brenton: and I will quickly cast down thee and all the fish of thy river: thou shalt fall on the face of the plain, and shalt by no means be gathered, and shalt not be brought together: I have given thee for food to the wild beasts of the earth and to the fowls of the sky.
 
 ### Ezekiel 29:6
@@ -188925,7 +188925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-seventh year, on first of the first month, the word of the Lord came to me, saying,
+- fresh: And it happened in twenty-seventh year, on the first of the first month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:18
@@ -189069,7 +189069,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make their rivers dry and destroy the land and its fullness by hands of foreigners. I, the Lord, have spoken.
+- fresh: And I will make their rivers dry and destroy the land and its fullness by the hands of foreigners. I, the Lord, have spoken.
 - brenton: And I will make their rivers desolate, and will destroy the land and the fulness of it by the hands of strangers: I the Lord have spoken.
 
 ### Ezekiel 30:13
@@ -189078,7 +189078,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God: And I will destroy great men from Memphis and rulers from land of Egypt, and they will no longer be.
+- fresh: Because thus says the Lord God: And I will destroy great men from Memphis and rulers from the land of Egypt, and they will no longer be.
 - brenton: For thus saith the Lord God; I will also destroy the nobles from Memphis, and the princes of Memphis out of the land of Egypt; and they shall be no more.
 
 ### Ezekiel 30:14
@@ -189186,7 +189186,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will strengthen arms of king of Babylon, but arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into hands of king of Babylon and he stretches it out over land of Egypt.
+- fresh: And I will strengthen arms of king of Babylon, but arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into the hands of king of Babylon and he stretches it out over the land of Egypt.
 - brenton: Yea, I will strengthen the arms of the king of Babylon, and the arms of Pharao shall fail: and they shall know that I am the Lord, when I have put my sword into the hands of the king of Babylon, and he shall stretch it out over the land of Egypt.
 
 ### Ezekiel 30:26
@@ -189204,7 +189204,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in the third month, on first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in the third month, on the first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 31:2
@@ -189267,7 +189267,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: No cypresses like these were in paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in paradise of God was likened to him in his beauty.
+- fresh: No cypresses like these were in the paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in the paradise of God was likened to him in his beauty.
 - brenton: And such cypresses as this were in the paradise of God; and there were no pines like his shoots, and there were no firs like his branches: no tree in the paradise of God was like him in his beauty,
 
 ### Ezekiel 31:9
@@ -189294,7 +189294,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I delivered him into hands of ruler of nations, and he made his destruction.
+- fresh: I delivered him into the hands of ruler of nations, and he made his destruction.
 - brenton: therefore I delivered him into the hands of the prince of the nations, and he wrought his destruction.
 
 ### Ezekiel 31:12
@@ -189339,7 +189339,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At sound of his fall nations shook, when I brought him down to Hades with those going down into pit, and all trees of delight, the choice things of Lebanon, all drinking water, comforted him in earth.
+- fresh: At the sound of his fall nations shook, when I brought him down to Hades with those going down into pit, and all trees of delight, the choice things of Lebanon, all drinking water, comforted him in earth.
 - brenton: At the sound of his fall the nations quaked, when I brought him down to Hades with them that go down to the pit: and all the trees of Delight comforted him in the heart, and the choice plants of Libanus, all that drink water.
 
 ### Ezekiel 31:17
@@ -189357,7 +189357,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom were you likened? Go down and be brought down with trees of delight into depth of earth. In the midst of uncircumcised you will lie with wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
+- fresh: To whom were you likened? Go down and be brought down with trees of delight into the depth of earth. In the midst of uncircumcised you will lie with the wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
 - brenton: To whom art thou compared? descend, and be thou debased with the trees of paradise to the depth of the earth: thou shalt lie in the midst of the uncircumcised with them that are slain by the sword. Thus shall Pharao be, and the multitude of his host, saith the Lord God.
 
 ### Ezekiel 32:1
@@ -189366,7 +189366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in the twelfth month, on first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in the twelfth month, on the first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the tenth month, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 32:2
@@ -189510,7 +189510,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the twelfth year of the first month, on fifteenth of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the twelfth year of the first month, on the fifteenth of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the first month, on the fifteenth day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 32:18
@@ -189519,7 +189519,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, lament over strength of Egypt, and daughters of nations will bring her down, the dead, into depth of earth, to those going down into pit.
+- fresh: Son of man, lament over strength of Egypt, and daughters of nations will bring her down, the dead, into the depth of earth, to those going down into pit.
 - brenton: Son of man, lament over the strength of Egypt, for the nations shall bring down her daughters dead to the depth of the earth, to them that go down to the pit.
 
 ### Ezekiel 32:20
@@ -189537,7 +189537,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And giants in depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
+- fresh: And giants in the depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
 - brenton: Be thou in the depth of the pit: to whom art thou superior? yea, go down, and lie with the uncircumcised, in the midst of them that are slain with the sword.
 
 ### Ezekiel 32:22
@@ -189546,7 +189546,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is Assyria and all his gathering; all wounded. There they were given, and their burial is in depth of pit, and his gathering was around his tomb, all wounded, those fallen by sword,
+- fresh: There is Assyria and all his gathering; all wounded. There they were given, and their burial is in the depth of pit, and his gathering was around his tomb, all wounded, those fallen by sword,
 - brenton: There are Assur and all his company: all his slain have been laid there:
 
 ### Ezekiel 32:23
@@ -189555,7 +189555,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: those who gave their fear upon land of life.
+- fresh: those who gave their fear upon the land of the living.
 - brenton: and their burial is in the depth of the pit, and his company are set round about his tomb: all the slain that fell by the sword, who had caused the fear of them to be upon the land of the living.
 
 ### Ezekiel 32:24
@@ -189564,7 +189564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is Elam and all his force around his tomb, all wounded, those fallen by sword and going down uncircumcised into depth of earth, those who gave their fear on land of life, and they bore their torment with those going down into pit.
+- fresh: There is Elam and all his force around his tomb, all wounded, those fallen by sword and going down uncircumcised into the depth of earth, those who gave their fear on the land of the living, and they bore their torment with those going down into pit.
 - brenton: There is Ælam and all his host round about his tomb: all the slain that fell by the sword, and the uncircumcised that go down to the deep of the earth, who caused their fear to be upon the land of the living: and they have received their punishment with them that go down to the pit,
 
 ### Ezekiel 32:25
@@ -189582,7 +189582,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by sword, those who gave their fear upon land of life.
+- fresh: There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by sword, those who gave their fear upon the land of the living.
 - brenton: There were laid Mosoch, and Thobel, and all his strength round about his tomb: all his slain men, all the uncircumcised, slain with the sword, who caused their fear to be in the land of the living.
 
 ### Ezekiel 32:27
@@ -189591,7 +189591,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they lay with giants fallen from old age, who went down into Hades with weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of life.
+- fresh: And they lay with giants fallen from old age, who went down into Hades with the weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of the living.
 - brenton: And they are laid with the giants that fell of old, who went down to Hades with their weapons of war: and they laid their swords under their heads, but their iniquities were upon their bones, because they terrified all men during their life.
 
 ### Ezekiel 32:28
@@ -189618,7 +189618,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There all rulers of north, all generals of Assyria, those going down wounded, with their fear and their strength they slept uncircumcised with wounded of sword, and they bore their torment with those going down into pit.
+- fresh: There all rulers of north, all generals of Assyria, those going down wounded, with their fear and their strength they slept uncircumcised with the wounded of sword, and they bore their torment with those going down into pit.
 - brenton: There are the princes of the north, even all the captains of Assur, who go down slain to Hades: they lie uncircumcised among the slain with the sword together with their terror and their strength, and they have received their punishment with them that go down to the pit.
 
 ### Ezekiel 32:31
@@ -189636,7 +189636,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I gave his fear upon land of life, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with wounded of sword, says the Lord.
+- fresh: Because I gave his fear upon the land of the living, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with the wounded of sword, says the Lord.
 - brenton: For I have caused his fear to be upon the land of the living: yet he shall lie in the midst of the uncircumcised with them that are slain with the sword, even Pharao, and all his multitude with him, saith the Lord God.
 
 ### Ezekiel 33:1
@@ -189654,7 +189654,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, speak to sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
+- fresh: Son of man, speak to the sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
 - brenton: Son of man, speak to the children of thy people, and thou shalt say to them,
 
 ### Ezekiel 33:3
@@ -189690,7 +189690,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if watchman sees sword coming and does not signal with trumpet, and people do not guard themselves, and sword coming takes life from them, that one was taken in his own lawlessness, but his blood I will seek from hand of watchman.
+- fresh: And if watchman sees sword coming and does not signal with trumpet, and people do not guard themselves, and sword coming takes life from them, that one was taken in his own lawlessness, but his blood I will seek from the hand of watchman.
 - brenton: But if the watchman see the sword coming, and do not sound the trumpet, and the people do not watch; and the sword come, and take a soul from among them, that soul is taken because of its iniquity; but the blood thereof will I require at the watchman's hand.
 
 ### Ezekiel 33:7
@@ -189744,7 +189744,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to sons of your people, Righteousness of righteous one will not rescue him on the day he wanders, and lawlessness of impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
+- fresh: Say to the sons of your people, Righteousness of righteous one will not rescue him on the day he wanders, and lawlessness of impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
 - brenton: Say to the children of thy people, The righteousness of the righteous shall not deliver him, in the day wherein he errs: and the iniquity of the ungodly shall not harm him, in the day wherein he turns from his iniquity, but the righteous erring shall not be able to deliver himself.
 
 ### Ezekiel 33:13
@@ -189825,7 +189825,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the twelfth year, in the twelfth month, on fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
+- fresh: And it happened in the twelfth year, in the twelfth month, on the fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
 - brenton: And it came to pass in the tenth year of our captivity, in the twelfth month, on the fifth day of the month, that one that had escaped from Jerusalem came to me, saying, The city is taken.
 
 ### Ezekiel 33:22
@@ -189852,7 +189852,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, those dwelling in desolated places on land of Israel say, Abraham was one and possessed land, and we are many; to us land was given for possession.
+- fresh: Son of man, those dwelling in desolated places on the land of Israel say, Abraham was one and possessed land, and we are many; to us land was given for possession.
 - brenton: Son of man, they that inhabit the desolate places on the land of Israel say, Abraam was one, and he possessed the land: and we are more numerous; to us the land is given for a possession.
 
 ### Ezekiel 33:25
@@ -189870,7 +189870,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As I live, surely those in desolated places will fall by sword, and those on face of plain will be given to beasts of field for food, and those in fortified places and caves I will kill with death.
+- fresh: As I live, surely those in desolated places will fall by sword, and those on the face of plain will be given to the beasts of field for food, and those in fortified places and caves I will kill with death.
 - brenton: As I live, surely they that are in the desolate places shall fall by swords, and they that are in the open plain shall be given for food to the wild beasts of the field, and them that are in the fortified cities and them that are in the caves I will slay with pestilence.
 
 ### Ezekiel 33:28
@@ -189978,7 +189978,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And my sheep were scattered on every mountain and on every high hill and over face of all earth, and there was no one seeking nor turning them back.
+- fresh: And my sheep were scattered on every mountain and on every high hill and over the face of all the earth, and there was no one seeking nor turning them back.
 - brenton: And my sheep were scattered on every mountain, and on every high hill: yea, they were scattered on the face of the earth, and there was none to seek them out, nor to bring them back.
 
 ### Ezekiel 34:7
@@ -190041,7 +190041,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring them out from nations and gather them from lands and bring them into their land and feed them on mountains of Israel and in ravines and in every habitation of land.
+- fresh: And I will bring them out from nations and gather them from lands and bring them into their land and feed them on the mountains of Israel and in ravines and in every habitation of land.
 - brenton: And I will bring them out from the Gentiles, and will gather them from the countries, and will bring them into their own land, and will feed them upon the mountains of Israel, and in the valleys, and in every inhabited place of the land.
 
 ### Ezekiel 34:14
@@ -190050,7 +190050,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In good pasture I will feed them, and on high mountain of Israel will be their folds; there they will lie down and rest in good delight, and in rich pasture they will be fed on mountains of Israel.
+- fresh: In good pasture I will feed them, and on high mountain of Israel will be their folds; there they will lie down and rest in good delight, and in rich pasture they will be fed on the mountains of Israel.
 - brenton: I will feed them in a good pasture, on a high mountain of Israel: and their folds shall be there, and they shall lie down, and there shall they rest in perfect prosperity, and they shall feed in a fat pasture on the mountains of Israel.
 
 ### Ezekiel 34:15
@@ -190167,7 +190167,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And trees in field will give their fruit and land will give its strength, and they will dwell on their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from hand of those enslaving them.
+- fresh: And trees in field will give their fruit and land will give its strength, and they will dwell on their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from the hand of those enslaving them.
 - brenton: And the trees that are in the field shall yield their fruit, and the earth shall yield her strength, and they shall dwell in the confidence of peace on their land, and they shall know that I am the Lord, when I have broken their yoke; and I will deliver them out of the hand of those that enslaved them.
 
 ### Ezekiel 34:28
@@ -190248,7 +190248,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you became perpetual enemy and laid plots against the house of Israel into hand of enemies, sword in time of injustice at the last,
+- fresh: Because you became perpetual enemy and laid plots against the house of Israel into the hand of enemies, sword in the time of injustice at the last,
 - brenton: Because thou hast been a perpetual enemy, and hast laid wait craftily for the house of Israel, with the hand of enemies with a sword, in the time of injustice, at the last:
 
 ### Ezekiel 35:6
@@ -190365,7 +190365,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore prophesy and say, Thus says the Lord: Because you were dishonored and hated by those around you, so as to be possession to remnant of nations, and you went up for talk of tongue and for reproach among nations,
+- fresh: therefore prophesy and say, Thus says the Lord: Because you were dishonored and hated by those around you, so as to be possession to the remnant of nations, and you went up for talk of tongue and for reproach among nations,
 - brenton: therefore prophesy, and say, Thus saith the Lord God; Because ye have been dishonoured, and hated by those round about you, that ye might be a possession to the remainder of the nations, and ye became a by-word, and a reproach to the nations:
 
 ### Ezekiel 36:4
@@ -190383,7 +190383,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus says the Lord: Surely in fire of my wrath I spoke against remaining nations and against all Edom, because they gave my land to themselves for possession with joy, dishonoring souls, so as to destroy it for plunder.
+- fresh: therefore thus says the Lord: Surely in the fire of my wrath I spoke against remaining nations and against all Edom, because they gave my land to themselves for possession with joy, dishonoring souls, so as to destroy it for plunder.
 - brenton: therefore thus saith the Lord; Verily in the fire of my wrath have I spoken against the rest of the nations, and against all Idumea, because they have appropriated my land to themselves for a possession with joy, disregarding the lives of the inhabitants, to destroy it by plunder:
 
 ### Ezekiel 36:6
@@ -190392,7 +190392,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore prophesy over land of Israel and say to mountains and hills and ravines and valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproach of nations.
+- fresh: Therefore prophesy over the land of Israel and say to mountains and hills and ravines and valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproach of nations.
 - brenton: therefore prophesy concerning the land of Israel, and say to the mountains, and to the hills, and to the valleys, and to the forests, Thus saith the Lord; Behold, I have spoken in my jealousy and in my wrath, because ye have borne the reproaches of the heathen:
 
 ### Ezekiel 36:7
@@ -190698,7 +190698,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he led me around them, round about, and behold, very many on face of plain, very dry.
+- fresh: And he led me around them, round about, and behold, very many on the face of plain, very dry.
 - brenton: And he led me round about them every way: and, behold, there were very many on the face of the plain, very dry.
 
 ### Ezekiel 37:3
@@ -190788,7 +190788,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore prophesy and say, Thus says the Lord: Behold, I open your tombs and bring you up from your tombs and bring you into land of Israel.
+- fresh: Therefore prophesy and say, Thus says the Lord: Behold, I open your tombs and bring you up from your tombs and bring you into the land of Israel.
 - brenton: Therefore prophesy and say,
 
 ### Ezekiel 37:13
@@ -190851,7 +190851,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then you will say to them, Thus says the Lord: Behold, I take tribe of Joseph from hand of Ephraim and tribes of Israel attached to him, and I will place them upon tribe of Judah, and they will be one rod in hand of Judah.
+- fresh: Then you will say to them, Thus says the Lord: Behold, I take tribe of Joseph from the hand of Ephraim and tribes of Israel attached to him, and I will place them upon tribe of Judah, and they will be one rod in the hand of Judah.
 - brenton: Then shalt thou say to them, Thus saith the Lord; Behold, I will take the tribe of Joseph, which is in the hand of Ephraim, and the tribes of Israel that belong to him, and I will add them to the tribe of Juda, and they shall become one rod in the hand of Juda.
 
 ### Ezekiel 37:20
@@ -190869,7 +190869,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into land of Israel.
+- fresh: And you will say to them, Thus says the Lord God: Behold, I take whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into the land of Israel.
 - brenton: And thou shalt say to them,
 
 ### Ezekiel 37:22
@@ -190878,7 +190878,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make them one nation in my land and on mountains of Israel, and one ruler will be over them, and they will no longer be two nations, nor be divided any longer into two kingdoms.
+- fresh: And I will make them one nation in my land and on the mountains of Israel, and one ruler will be over them, and they will no longer be two nations, nor be divided any longer into two kingdoms.
 - brenton: And I will make them a nation in my land, even on the mountains of Israel; and they shall have one prince: and they shall be no more two nations, neither shall they be divided any more at all into two kingdoms:
 
 ### Ezekiel 37:23
@@ -191004,7 +191004,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: After many days he will be prepared, and in latter years he will come and enter into land turned back from sword, gathered from many nations onto land of Israel, which became desolation through all time, and this people came out from nations and they all will dwell in peace.
+- fresh: After many days he will be prepared, and in latter years he will come and enter into land turned back from sword, gathered from many nations onto the land of Israel, which became desolation through all time, and this people came out from nations and they all will dwell in peace.
 - brenton: He shall be prepared after many days, and he shall come at the end of years, and shall come to a land that is brought back from the sword, when the people are gathered from many nations against the land of Israel, which was entirely desolate: and he is come forth out of the nations, and they shall all dwell securely.
 
 ### Ezekiel 38:9
@@ -191094,7 +191094,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be on that day, on the day when Gog comes upon land of Israel, says the Lord God, my wrath will rise up.
+- fresh: And it will be on that day, on the day when Gog comes upon the land of Israel, says the Lord God, my wrath will rise up.
 - brenton: And it shall come to pass in that day, in the day when Gog shall come against the land of Israel, saith the Lord God,
 
 ### Ezekiel 38:19
@@ -191103,7 +191103,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in my zeal, in fire of my anger, I spoke: Surely on that day there will be great earthquake upon land of Israel.
+- fresh: And in my zeal, in the fire of my anger, I spoke: Surely on that day there will be great earthquake upon the land of Israel.
 - brenton: that my wrath and my jealousy shall arise, I have spoken in the fire of mine anger, verily in that day there shall be a great shaking in the land of Israel;
 
 ### Ezekiel 38:20
@@ -191112,7 +191112,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+- fresh: And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on the face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
 - brenton: and the fish of the sea shall quake at the presence of the Lord, and the birds of the sky and the wild beasts of the field, and all the reptiles that creep upon the earth, and all the men that are on the face of the earth; and the mountains shall be rent, and the valleys shall fall, and every wall on the land shall fall.
 
 ### Ezekiel 38:21
@@ -191157,7 +191157,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will gather you and lead you and bring you up from farthest north and bring you upon mountains of Israel.
+- fresh: And I will gather you and lead you and bring you up from farthest north and bring you upon the mountains of Israel.
 - brenton: and I will assemble thee, and guide thee, and raise thee up on the extremity of the north, and I will bring thee up upon the mountains of Israel.
 
 ### Ezekiel 39:3
@@ -191175,7 +191175,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon mountains of Israel you will fall, you and all around you and nations with you. I have given you to flocks of birds, to every bird, and to all beasts of field to be devoured.
+- fresh: Upon the mountains of Israel you will fall, you and all around you and nations with you. I have given you to flocks of birds, to every bird, and to all the beasts of field to be devoured.
 - brenton: and thou and all that belong to thee shall fall, and the nations that are with thee shall be given to multitudes of birds, even to every fowl, and I have given thee to all the wild beasts of the field to be devoured.
 
 ### Ezekiel 39:5
@@ -191184,7 +191184,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon face of plain you will fall, because I have spoken, says the Lord.
+- fresh: Upon the face of plain you will fall, because I have spoken, says the Lord.
 - brenton: Thou shalt fall on the face of the field: for I have spoken it, saith the Lord.
 
 ### Ezekiel 39:6
@@ -191265,7 +191265,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And men will appoint for continual duty, going through the land to bury those left on face of land, to cleanse it; after seven months they will search.
+- fresh: And men will appoint for continual duty, going through the land to bury those left on the face of land, to cleanse it; after seven months they will search.
 - brenton: And they shall appoint men continually to go over the land, to bury them that have been left on the face of the earth, to cleanse it after the space of seven months, and they shall seek them out.
 
 ### Ezekiel 39:15
@@ -191292,7 +191292,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, say, Thus says the Lord: Say to every bird and to all beasts of field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, great sacrifice on mountains of Israel, and eat flesh and drink blood.
+- fresh: And you, son of man, say, Thus says the Lord: Say to every bird and to all the beasts of field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, great sacrifice on the mountains of Israel, and eat flesh and drink blood.
 - brenton: And thou, son of man, say, Thus saith the Lord; Say to every winged bird, and to all the wild beasts of the field,
 
 ### Ezekiel 39:18
@@ -191346,7 +191346,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all nations will know that because of their sins house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into hands of their enemies, and they all fell by sword.
+- fresh: And all nations will know that because of their sins house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into the hands of their enemies, and they all fell by sword.
 - brenton: And all the nations shall know that the house of Israel were led captive because of their sins, because they rebelled against me, and I turned away my face from them, and delivered them into the hands of their enemies, and they all fell by the sword.
 
 ### Ezekiel 39:24
@@ -191364,7 +191364,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on house of Israel and be jealous for my holy name.
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
 - brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
 ### Ezekiel 39:26
@@ -191400,7 +191400,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will no longer turn my face away from them, because I poured out my wrath upon house of Israel, says the Lord God.
+- fresh: And I will no longer turn my face away from them, because I poured out my wrath upon the house of Israel, says the Lord God.
 - brenton: And I will no more turn away my face from them, because I have poured out my wrath upon the house of Israel, saith the Lord God.
 
 ### Ezekiel 40:1
@@ -191409,7 +191409,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-fifth year of our captivity, in the first month, on tenth of the month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
+- fresh: And it happened in twenty-fifth year of our captivity, in the first month, on the tenth of the month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
 - brenton: And it came to pass in the twenty-fifth year of our captivity, in the first month, on the tenth day of the month, in the fourteenth year after the taking of the city, in that day the hand of the Lord was upon me, and brought me
 
 ### Ezekiel 40:2
@@ -191418,7 +191418,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In vision of God into land of Israel, and he set me on very high mountain, and on it as building of city opposite.
+- fresh: In the vision of God into the land of Israel, and he set me on very high mountain, and on it as building of city opposite.
 - brenton: in a vision of God into the land of Israel, and set me on a very high mountain, and upon it there was as it were the frame of a city before me.
 
 ### Ezekiel 40:3
@@ -191517,7 +191517,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured the gate from wall of one chamber to wall of the other chamber, breadth twenty-five cubits, doorway opposite doorway.
+- fresh: And he measured the gate from the wall of one chamber to the wall of the other chamber, breadth twenty-five cubits, doorway opposite doorway.
 - brenton: And he measured the gate from the wall of one chamber to the wall of the other chamber: the breadth was twenty-five cubits, the one gate over against the other gate.
 
 ### Ezekiel 40:14
@@ -191535,7 +191535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from court of outer gate to court of inner porch of gate, fifty cubits.
+- fresh: And from the court of outer gate to the court of inner porch of gate, fifty cubits.
 - brenton: And the open space of the gate without to the open space of the porch of the gate within was fifty cubits.
 
 ### Ezekiel 40:16
@@ -191562,7 +191562,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the porticoes along back of the gates, according to length of the gates, the lower colonnade.
+- fresh: And the porticoes along back of the gates, according to the length of the gates, the lower colonnade.
 - brenton: And the porticos were behind the gates; according to the length of the gates, was the lower peristyle.
 
 ### Ezekiel 40:19
@@ -191571,7 +191571,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured width of court from court of outer gate inward to court of gate facing out, one hundred cubits, facing east, and he brought me northward.
+- fresh: And he measured width of court from the court of outer gate inward to the court of gate facing out, one hundred cubits, facing east, and he brought me northward.
 - brenton: And he measured the breadth of the court, from the open space of the outer gate inwards to the open space of the gate looking outwards: a hundred cubits was the distance to the place of the gate looking eastward: and he brought me to the north;
 
 ### Ezekiel 40:20
@@ -191589,7 +191589,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And its chambers, three here and three there, and its porches and its palms, and it came to be according to measures of gate facing east, fifty cubits its length and twenty-five cubits its breadth.
+- fresh: And its chambers, three here and three there, and its porches and its palms, and it came to be according to the measures of gate facing east, fifty cubits its length and twenty-five cubits its breadth.
 - brenton: and the chambers, three on this side and three on that; and the posts, and the porches, and the palm-trees thereof: and they were according to the measures of the gate that looks eastward: the length thereof was fifty cubits, and the breadth thereof was twenty-five cubits.
 
 ### Ezekiel 40:22
@@ -191886,7 +191886,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And side room against side room, thirty-three twice, and interval in wall of the house, in the side rooms around, for the places laying hold of sight, so that they do not at all touch walls of the house.
+- fresh: And side room against side room, thirty-three twice, and interval in the wall of the house, in the side rooms around, for the places laying hold of sight, so that they do not at all touch walls of the house.
 - brenton: And the sides were twice ninety, side against side; and there was a space in the wall of the house at the sides round about, that they should be for them that take hold of them to see, that they should not at all touch the walls of the house.
 
 ### Ezekiel 41:7
@@ -191913,7 +191913,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And width of wall of the side room outside, five cubits, and the remaining space between side rooms of the house.
+- fresh: And width of the wall of the side room outside, five cubits, and the remaining space between side rooms of the house.
 - brenton: and the breadth of the wall of each side without was five cubits; and the spaces that were left between the sides of the house,
 
 ### Ezekiel 41:10
@@ -192156,7 +192156,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: According to the light at beginning of the walkway, and those toward the south opposite the south, opposite the remnant and opposite the dividing structure, chambers.
+- fresh: According to the light at the beginning of the walkway, and those toward the south opposite the south, opposite the remnant and opposite the dividing structure, chambers.
 - brenton: by the opening of the walk at the corner; and the south parts were toward the south, toward the remaining space, and toward the partition, and so were the chambers.
 
 ### Ezekiel 42:11
@@ -192165,7 +192165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the walkway before them according to measures of the chambers toward north, and according to their length and breadth and all their exits and all their returns and their lights and their doors,
+- fresh: And the walkway before them according to the measures of the chambers toward north, and according to their length and breadth and all their exits and all their returns and their lights and their doors,
 - brenton: And the walk was in front of them, according to the measures of the chambers toward the north, both according to the length of them, and according to the breadth of them, and according to all their openings, and according to all their turnings, and according to their lights, and according to their doors.
 
 ### Ezekiel 42:12
@@ -192309,7 +192309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in the midst of house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in the midst of them.
+- fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in the midst of the house of Israel forever? House of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in the midst of them.
 - brenton: and he said to me,
 
 ### Ezekiel 43:8
@@ -192417,7 +192417,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
+- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
 - brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
 
 ### Ezekiel 43:20
@@ -192534,7 +192534,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you about all ordinances of house of the Lord and all its laws; set your heart on entrance of the house, with all its exits in all holy things.
+- fresh: And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you about all ordinances of the house of the Lord and all its laws; set your heart on entrance of the house, with all its exits in all holy things.
 - brenton: And the Lord said to me, Son of man, attend with thine heart, and see with thine eyes, and hear with thine ears all that I say to thee, according to all the ordinances of the house of the Lord, and all the regulations thereof; and thou shalt attend well to the entrance of the house, according to all its outlets, in all the holy things.
 
 ### Ezekiel 44:6
@@ -192570,7 +192570,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in the midst of house of Israel.
+- fresh: Therefore thus says the Lord God: No foreign son, uncircumcised in heart and uncircumcised in flesh, will enter my holy things, among all foreign sons who are in the midst of the house of Israel.
 - brenton: Therefore thus saith the Lord God; No alien, uncircumcised in heart or uncircumcised in flesh, shall enter into my sanctuary, of all the children of strangers that are in the midst of the house of Israel.
 
 ### Ezekiel 44:10
@@ -192588,7 +192588,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will be in my holy things, serving as doorkeepers at gates of the house and ministering to the house; they will slaughter burnt offerings and sacrifices for the people, and they will stand before the people to minister to them.
+- fresh: And they will be in my holy things, serving as doorkeepers at the gates of the house and ministering to the house; they will slaughter burnt offerings and sacrifices for the people, and they will stand before the people to minister to them.
 - brenton: Yet they shall minister in my sanctuary, being porters at the gates of the house, and serving the house: they shall slay the victims and the whole-burnt-offerings for the people, and they shall stand before the people to minister to them.
 
 ### Ezekiel 44:12
@@ -192642,7 +192642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they enter gates of the inner court, they will put on linen garments; they will not wear wool when they minister from gate of the inner court.
+- fresh: And when they enter gates of the inner court, they will put on linen garments; they will not wear wool when they minister from the gate of the inner court.
 - brenton: And it shall come to pass when they enter the gates of the inner court, that they shall put on linen robes; and they shall not put on woollen garments when they minister at the gate of the inner court.
 
 ### Ezekiel 44:18
@@ -192687,7 +192687,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not take widow or divorced woman for wife, except a virgin from seed of house of Israel; but a widow, if she is widow of a priest, they may take.
+- fresh: They will not take widow or divorced woman for wife, except a virgin from the seed of the house of Israel; but a widow, if she is widow of a priest, they may take.
 - brenton: Neither shall they take to themselves to wife a widow, or one that is put away, but a virgin of the seed of Israel: but if there should happen to be a priest's widow, they shall take her.
 
 ### Ezekiel 44:23
@@ -192822,7 +192822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And as possession of the city you will give five thousand in breadth and twenty-five thousand in length, like first portion of the holy things; it will belong to all house of Israel.
+- fresh: And as possession of the city you will give five thousand in breadth and twenty-five thousand in length, like first portion of the holy things; it will belong to all the house of Israel.
 - brenton: And ye shall appoint for the possession of the city five thousand in breadth, and in length twenty-five thousand: after the manner of the first-fruits of the holy portion, they shall be for all the house of Israel.
 
 ### Ezekiel 45:7
@@ -192912,7 +192912,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All the people will give this first portion to ruler of Israel.
+- fresh: All the people will give this first portion to the ruler of Israel.
 - brenton: And all the people shall give these first-fruits to the prince of Israel.
 
 ### Ezekiel 45:17
@@ -192921,7 +192921,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
+- fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of the house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
 - brenton: And through the prince shall be offered the whole-burnt-offerings and the meat-offerings, and the drink-offerings in the feasts, and at the new moons, and on the sabbaths; and in all the feasts of the house of Israel: he shall offer the sin-offerings, and the meat-offering, and the whole-burnt-offerings, and the peace-offerings, to make atonement for the house of Israel.
 
 ### Ezekiel 45:18
@@ -192930,7 +192930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: In the first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
+- fresh: Thus says the Lord God: In the first month, on the first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
 - brenton: Thus saith the Lord God; In the first month, on the first day of the month, ye shall take a calf without blemish out of the herd, to make atonement for the holy place.
 
 ### Ezekiel 45:19
@@ -192948,7 +192948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And thus you will do in seventh month, on first of the month; you will take a portion from each one and make atonement for the house.
+- fresh: And thus you will do in seventh month, on the first of the month; you will take a portion from each one and make atonement for the house.
 - brenton: And thus shalt thou do in the seventh month; on the first day of the month thou shalt take a rate from each one; and ye shall make atonement for the house.
 
 ### Ezekiel 45:21
@@ -192957,7 +192957,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+- fresh: And in the first month, on the fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
 - brenton: And in the first month, on the fourteenth day of the month, ye shall have the feast of the passover; seven days shall ye eat unleavened bread.
 
 ### Ezekiel 45:22
@@ -192993,7 +192993,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in seventh month, on fifteenth of the month, at the feast he will do the same seven days, as for the sin offering and as for the burnt offerings and as for the grain offering and as for the oil.
+- fresh: And in seventh month, on the fifteenth of the month, at the feast he will do the same seven days, as for the sin offering and as for the burnt offerings and as for the grain offering and as for the oil.
 - brenton: And in the seventh month, on the fifteenth day of the month, thou shalt sacrifice in the feast in the same way seven days, as they sacrificed the sin-offerings, and the whole-burnt-offerings, and the freewill-offering, and the oil.
 
 ### Ezekiel 46:1
@@ -193164,7 +193164,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me into the entrance at back of the gate, into chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
+- fresh: And he brought me into the entrance at back of the gate, into the chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
 - brenton: And he brought me into the entrance of the place behind the gate, into the chamber of the sanctuary belonging to the priests, that looks toward the north: and, behold, there was a place set apart.
 
 ### Ezekiel 46:20
@@ -193182,7 +193182,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me out into outer court and led me around to the four corners of the court, and behold, a court at corner of the court, a court at corner of the court.
+- fresh: And he brought me out into outer court and led me around to the four corners of the court, and behold, a court at the corner of the court, a court at the corner of the court.
 - brenton: And he brought me into the outer court, and led me round upon the four sides of the court; and, behold, there was a court on each of the sides of the court,
 
 ### Ezekiel 46:22
@@ -193272,7 +193272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In my turning back, behold, on bank of the river very many trees, on this side and on that side.
+- fresh: In my turning back, behold, on the bank of the river very many trees, on this side and on that side.
 - brenton: as I returned; and, behold, on the brink of the river there were very many trees on this side and on that side.
 
 ### Ezekiel 47:8
@@ -193362,7 +193362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These are the boundaries from the sea, from court of Hazar-enan, the borders of Damascus, and the parts toward north.
+- fresh: These are the boundaries from the sea, from the court of Hazar-enan, the borders of Damascus, and the parts toward north.
 - brenton: These are the borders from the sea, from the habitations of Ænan, the coasts of Damascus, and the northern coasts.
 
 ### Ezekiel 47:18
@@ -193524,7 +193524,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will have the first portion given from first portions of the land, holy of holies, from borders of the Levites.
+- fresh: And they will have the first portion given from first portions of the land, holy of holies, from the borders of the Levites.
 - brenton: And the first-fruits shall be given to them out of the first-fruits of the land, even a most holy portion from the borders of the Levites.
 
 ### Ezekiel 48:13
@@ -193587,7 +193587,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those working the city will work it from all tribes of Israel.
+- fresh: And those working the city will work it from all the tribes of Israel.
 - brenton: And they that labour for the city shall labour for it out of all the tribes of Israel.
 
 ### Ezekiel 48:20
@@ -193596,7 +193596,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Whole first portion, twenty-five thousand by twenty-five thousand, square, you will set apart as first portion of the holy things from possession of the city.
+- fresh: Whole first portion, twenty-five thousand by twenty-five thousand, square, you will set apart as first portion of the holy things from the possession of the city.
 - brenton: The whole offering shall be a square of twenty-five thousand by twenty-five thousand: ye shall separate again part of it, the first-fruits of the sanctuary, from the possession of the city.
 
 ### Ezekiel 48:21
@@ -193614,7 +193614,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from possession of the Levites and from possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
+- fresh: And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
 - brenton: And there shall be a portion taken from the Levites, from the possession of the city in the midst of the princes between the borders of Juda and the borders of Benjamin, and it shall be the portion of the princes.
 
 ### Ezekiel 48:23
@@ -194147,7 +194147,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from captivity of sons of Judah who will declare each thing to the king.
+- fresh: Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from the captivity of sons of Judah who will declare each thing to the king.
 - brenton: [missing]
 
 ### Daniel 2:26
@@ -194372,7 +194372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in plain of the enclosure of land of Babylon.
+- fresh: In eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in the plain of the enclosure of land of Babylon.
 - brenton: [missing]
 
 ### Daniel 3:2
@@ -194471,7 +194471,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But there are certain Judean men whom you appointed over land of Babylon, Shadrach, Meshach, and Abednego. Those men did not fear your command, and they did not serve your idol, and they did not worship your golden image that you set up.
+- fresh: But there are certain Judean men whom you appointed over the land of Babylon, Shadrach, Meshach, and Abednego. Those men did not fear your command, and they did not serve your idol, and they did not worship your golden image that you set up.
 - brenton: [missing]
 
 ### Daniel 3:13
@@ -194597,7 +194597,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king came near to door of furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
+- fresh: And king came near to the door of the furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
 - brenton: [missing]
 
 ### Daniel 3:27
@@ -194642,7 +194642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighteenth year of reign of Nebuchadnezzar he said, I was at peace in my house and prospering on my throne.
+- fresh: In the eighteenth year of reign of Nebuchadnezzar he said, I was at peace in my house and prospering on my throne.
 - brenton: [missing]
 
 ### Daniel 4:5
@@ -194705,7 +194705,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And thus he said, Leave one root of it in the earth, so that with beasts of the earth on the mountains it may graze grass like an ox.
+- fresh: And thus he said, Leave one root of it in the earth, so that with the beasts of the earth on the mountains it may graze grass like an ox.
 - brenton: [missing]
 
 ### Daniel 4:16
@@ -194723,7 +194723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Until he knows that the Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
+- fresh: Until he knows that the Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with the beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
 - brenton: [missing]
 
 ### Daniel 4:18
@@ -194768,7 +194768,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on face of whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste house of living God because of sins of his consecrated people.
+- fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on the face of whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste house of living God because of sins of his consecrated people.
 - brenton: [missing]
 
 ### Daniel 4:23
@@ -194813,7 +194813,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord lives in heaven, and his authority is over all the earth. Beg him concerning your sins, and redeem all your wrongs with acts of mercy, so that gentleness may be given you and you may be long-lived upon throne of your kingdom and not destroyed. Love these words, for my word is exact and your time is full.
+- fresh: The Lord lives in heaven, and his authority is over all the earth. Beg him concerning your sins, and redeem all your wrongs with acts of mercy, so that gentleness may be given you and you may be long-lived upon the throne of your kingdom and not destroyed. Love these words, for my word is exact and your time is full.
 - brenton: [missing]
 
 ### Daniel 4:28
@@ -194822,7 +194822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at completion of these words, when Nebuchadnezzar heard judgment of the vision, he kept the words in his heart.
+- fresh: And at the completion of these words, when Nebuchadnezzar heard judgment of the vision, he kept the words in his heart.
 - brenton: [missing]
 
 ### Daniel 4:29
@@ -194831,7 +194831,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after twelve months the king was walking on walls of the city with all his glory and passing along its towers.
+- fresh: And after twelve months the king was walking on the walls of the city with all his glory and passing along its towers.
 - brenton: [missing]
 
 ### Daniel 4:30
@@ -194840,7 +194840,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And answering he said, This is great Babylon, which I built as house of my kingdom by strength of my might; it will be called for honor of my glory.
+- fresh: And answering he said, This is great Babylon, which I built as house of my kingdom by the strength of my might; it will be called for honor of my glory.
 - brenton: [missing]
 
 ### Daniel 4:31
@@ -194849,7 +194849,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at completion of his word he heard a voice from heaven saying, To you it is said, King Nebuchadnezzar, kingdom of Babylon is taken from you and given to another despised man in your house. Behold, I set him over your kingdom, and your authority and your glory and your luxury he will receive, so that you may know that God of heaven has authority in kingdom of men and gives it to whomever he wills. And until sunrise another king will rejoice in your house and hold your glory and your strength and your authority.
+- fresh: And at the completion of his word he heard a voice from heaven saying, To you it is said, King Nebuchadnezzar, kingdom of Babylon is taken from you and given to another despised man in your house. Behold, I set him over your kingdom, and your authority and your glory and your luxury he will receive, so that you may know that God of heaven has authority in the kingdom of men and gives it to whomever he wills. And until sunrise another king will rejoice in your house and hold your glory and your strength and your authority.
 - brenton: [missing]
 
 ### Daniel 4:32
@@ -194876,7 +194876,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And at completion of the seven years, time of my release came, and my sins and my ignorances were filled up before God of heaven, and I prayed concerning my ignorances to God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve God of heaven, the Holy One, and give glory to the Most High; kingdom of your nation is restored to you.
+- fresh: And at the completion of the seven years, time of my release came, and my sins and my ignorances were filled up before God of heaven, and I prayed concerning my ignorances to God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve God of heaven, the Holy One, and give glory to the Most High; kingdom of your nation is restored to you.
 - brenton: [missing]
 
 ### Daniel 4:36
@@ -194894,7 +194894,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as God of heaven did in me and changed great things upon me. All days of my kingdom I will offer sacrifices concerning my soul to the Most High as sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer sacrifice and offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: [missing]
 
 ### Daniel 5:0
@@ -194903,7 +194903,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Belshazzar the king made a great banquet on the day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
+- fresh: Belshazzar the king made a great banquet on the day of dedication of his kingdom, and from his leading men he called two thousand men. On that day Belshazzar, exalted by wine and boasting, praised all gods of the nations, molten and carved, in his place; but to God Most High he gave no praise. In that night fingers like those of a human came out and wrote on the wall of his house, on the plaster opposite the lamp: Mene, Peres, Tekel. And this is their meaning: Mene, it has been numbered; Peres, it has been lifted away; Tekel, it will stand.
 - brenton: [missing]
 
 ### Daniel 5:1
@@ -194921,7 +194921,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his heart was lifted up, and he said that the gold and silver vessels of house of God, which Nebuchadnezzar his father brought from Jerusalem, be brought, and that his companions drink wine from them.
+- fresh: And his heart was lifted up, and he said that the gold and silver vessels of the house of God, which Nebuchadnezzar his father brought from Jerusalem, be brought, and that his companions drink wine from them.
 - brenton: [missing]
 
 ### Daniel 5:3
@@ -194948,7 +194948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that hour fingers like a human hand came out and wrote on wall of his house, on plaster opposite the light before king Belshazzar, and he saw the hand writing.
+- fresh: In that hour fingers like a human hand came out and wrote on the wall of his house, on plaster opposite the light before king Belshazzar, and he saw the hand writing.
 - brenton: [missing]
 
 ### Daniel 5:6
@@ -194993,7 +194993,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then queen remembered Daniel to him, the one from captivity of Judah.
+- fresh: Then queen remembered Daniel to him, the one from the captivity of Judah.
 - brenton: [missing]
 
 ### Daniel 5:11
@@ -195047,7 +195047,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: King, you made a feast for your friends and drank wine, and vessels of house of living God were brought to you, and you and your leading men drank from them. And you praised all handmade idols of men, but you did not bless living God, though your breath is in his hand and he himself gave you your kingdom. You did not bless him or praise him.
+- fresh: King, you made a feast for your friends and drank wine, and vessels of the house of living God were brought to you, and you and your leading men drank from them. And you praised all handmade idols of men, but you did not bless living God, though your breath is in his hand and he himself gave you your kingdom. You did not bless him or praise him.
 - brenton: [missing]
 
 ### Daniel 5:26
@@ -195227,7 +195227,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king, grieved, said Daniel should be thrown into lions' den according to decree established against him. Then king was deeply grieved over Daniel and helped to deliver him until sunset from hands of the satraps.
+- fresh: And king, grieved, said Daniel should be thrown into lions' den according to decree established against him. Then king was deeply grieved over Daniel and helped to deliver him until sunset from the hands of the satraps.
 - brenton: [missing]
 
 ### Daniel 6:16
@@ -195245,7 +195245,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And crying aloud, king Darius said to Daniel, Your God, whom you serve continually three times a day, he himself will deliver you from hand of the lions. Until morning, take courage.
+- fresh: And crying aloud, king Darius said to Daniel, Your God, whom you serve continually three times a day, he himself will deliver you from the hand of the lions. Until morning, take courage.
 - brenton: [missing]
 
 ### Daniel 6:18
@@ -195254,7 +195254,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Daniel was thrown into lions' den, and a stone was brought and placed on mouth of den, and king sealed it with his own ring and with rings of his leading men, so that Daniel might not be taken from them and so that king might not pull him up from the den.
+- fresh: Then Daniel was thrown into lions' den, and a stone was brought and placed on the mouth of the den, and king sealed it with his own ring and with rings of his leading men, so that Daniel might not be taken from them and so that king might not pull him up from the den.
 - brenton: [missing]
 
 ### Daniel 6:19
@@ -195353,7 +195353,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king Darius was added to his line, and Daniel was established in kingdom of Darius, and Cyrus the Persian received his kingdom.
+- fresh: And king Darius was added to his line, and Daniel was established in the kingdom of Darius, and Cyrus the Persian received his kingdom.
 - brenton: [missing]
 
 ### Daniel 7:1
@@ -195362,7 +195362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In the first year of Belshazzar ruling over land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
+- fresh: In the first year of Belshazzar ruling over the land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
 - brenton: [missing]
 
 ### Daniel 7:2
@@ -195470,7 +195470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I was watching in vision of the night, and behold, on clouds of heaven one like son of man was coming, and he was present as Ancient of Days, and those standing by were present with him.
+- fresh: I was watching in the vision of the night, and behold, on clouds of heaven one like son of man was coming, and he was present as Ancient of Days, and those standing by were present with him.
 - brenton: [missing]
 
 ### Daniel 7:14
@@ -195488,7 +195488,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I, Daniel, grew weary in these things in vision of the night.
+- fresh: And I, Daniel, grew weary in these things in the vision of the night.
 - brenton: [missing]
 
 ### Daniel 7:16
@@ -195623,7 +195623,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw in vision of my dream, while I was in Shushan the city, which is in the land of Elam, and while I was still by gate Elam.
+- fresh: And I saw in the vision of my dream, while I was in Shushan the city, which is in the land of Elam, and while I was still by gate Elam.
 - brenton: [missing]
 
 ### Daniel 8:3
@@ -195650,7 +195650,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was pondering, and behold, a male goat was coming from west over face of the earth and was not touching the earth, and the goat had one horn between its eyes.
+- fresh: And I was pondering, and behold, a male goat was coming from west over the face of the earth and was not touching the earth, and the goat had one horn between its eyes.
 - brenton: [missing]
 
 ### Daniel 8:6
@@ -195776,7 +195776,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Behold, I tell you what will be at end of the wrath against sons of your people, for it still awaits hour of completion.
+- fresh: And he said to me, Behold, I tell you what will be at the end of the wrath against sons of your people, for it still awaits hour of completion.
 - brenton: [missing]
 
 ### Daniel 8:20
@@ -195812,7 +195812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at end of their kingdom, when their sins are filled up, a king bold in face, understanding riddles, will arise.
+- fresh: And at the end of their kingdom, when their sins are filled up, a king bold in face, understanding riddles, will arise.
 - brenton: [missing]
 
 ### Daniel 8:24
@@ -195911,7 +195911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To you, Lord, belongs righteousness, and to us shame of face as on this day, to men of Judah and those dwelling in Jerusalem and to all people Israel, those near and those far off in all lands where you scattered them there in the unfaithfulness by which they were unfaithful before you.
+- fresh: To you, Lord, belongs righteousness, and to us shame of face as on this day, to the men of Judah and those dwelling in Jerusalem and to all people Israel, those near and those far off in all lands where you scattered them there in the unfaithfulness by which they were unfaithful before you.
 - brenton: [missing]
 
 ### Daniel 9:8
@@ -195938,7 +195938,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And we did not listen to voice of the Lord our God to follow your law, which you gave before Moses and us through your servants the prophets.
+- fresh: And we did not listen to the voice of the Lord our God to follow your law, which you gave before Moses and us through your servants the prophets.
 - brenton: [missing]
 
 ### Daniel 9:11
@@ -195947,7 +195947,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all Israel abandoned your law and departed from listening to your voice, and curse and oath written in law of Moses, servant of God, came upon us, because we sinned against him.
+- fresh: And all Israel abandoned your law and departed from listening to your voice, and curse and oath written in the law of Moses, servant of God, came upon us, because we sinned against him.
 - brenton: [missing]
 
 ### Daniel 9:12
@@ -196037,7 +196037,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and while I was still speaking in my prayer, behold, the man whom I saw at beginning in my dream, Gabriel, swiftly carried along, came near me at time of evening sacrifice.
+- fresh: and while I was still speaking in my prayer, behold, the man whom I saw at beginning in my dream, Gabriel, swiftly carried along, came near me at the time of evening sacrifice.
 - brenton: [missing]
 
 ### Daniel 9:22
@@ -196055,7 +196055,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At beginning of your petition command went out from the Lord, and I came to show you because you are pitied; so understand the command.
+- fresh: At the beginning of your petition command went out from the Lord, and I came to show you because you are pitied; so understand the command.
 - brenton: [missing]
 
 ### Daniel 9:24
@@ -196091,7 +196091,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to completion of times. And after seven and seventy times and sixty-two years, until time of completion of war, desolation will be removed when covenant prevails over many weeks, and at end of the week sacrifice and drink offering will be taken away, and on the sanctuary there will be abomination of desolations until completion, and completion will be given over the desolation.
+- fresh: And covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to completion of times. And after seven and seventy times and sixty-two years, until time of completion of war, desolation will be removed when covenant prevails over many weeks, and at the end of the week sacrifice and drink offering will be taken away, and on the sanctuary there will be abomination of desolations until completion, and completion will be given over the desolation.
 - brenton: [missing]
 
 ### Daniel 10:1
@@ -196127,7 +196127,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened on twenty-fourth day of the first month, and I was on bank of the great river, which is Tigris.
+- fresh: And it happened on twenty-fourth day of the first month, and I was on the bank of the great river, which is Tigris.
 - brenton: [missing]
 
 ### Daniel 10:5
@@ -196280,7 +196280,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I will plainly show you first things in writing of truth, and no one was helping with me concerning these things except Michael the angel.
+- fresh: But I will plainly show you first things in the writing of truth, and no one was helping with me concerning these things except Michael the angel.
 - brenton: [missing]
 
 ### Daniel 11:1
@@ -196298,7 +196298,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now I came to show you the truth. Behold, three kings have arisen in Persia, and the fourth will gain great wealth beyond all, and when he becomes strong in his wealth he will stir up all against kingdom of Greeks.
+- fresh: And now I came to show you the truth. Behold, three kings have arisen in Persia, and the fourth will gain great wealth beyond all, and when he becomes strong in his wealth he will stir up all against the kingdom of Greeks.
 - brenton: [missing]
 
 ### Daniel 11:3
@@ -196334,7 +196334,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at end of years king of Egypt will bring them in and enter into kingdom of north to make treaties, and he will not prevail, because his arm will not keep strength, and his arm will grow numb, and those going with him; and he remains for an hour.
+- fresh: And at the end of years king of Egypt will bring them in and enter into the kingdom of north to make treaties, and he will not prevail, because his arm will not keep strength, and his arm will grow numb, and those going with him; and he remains for an hour.
 - brenton: [missing]
 
 ### Daniel 11:7
@@ -196361,7 +196361,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will enter into kingdom of Egypt for days and return to his own land.
+- fresh: And he will enter into the kingdom of Egypt for days and return to his own land.
 - brenton: [missing]
 
 ### Daniel 11:10
@@ -196397,7 +196397,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king of north will return and gather assembly of cities greater than first, and at completion of time of a year he will come against it with great crowd and much wealth.
+- fresh: And king of north will return and gather assembly of cities greater than first, and at the completion of time of a year he will come against it with great crowd and much wealth.
 - brenton: [missing]
 
 ### Daniel 11:14
@@ -196406,7 +196406,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in those times thoughts will rise against king of Egypt, and he will rebuild fallen things of your nation and rise to establish the prophecy, and they will stumble.
+- fresh: And in those times thoughts will rise against the king of Egypt, and he will rebuild fallen things of your nation and rise to establish the prophecy, and they will stumble.
 - brenton: [missing]
 
 ### Daniel 11:15
@@ -196505,7 +196505,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And his strength and his heart will be stirred against king of Egypt with great crowd, and king of Egypt will be stirred to war with very strong crowd, and he will not stand, because a scheme will be devised against him.
+- fresh: And his strength and his heart will be stirred against the king of Egypt with great crowd, and king of Egypt will be stirred to war with very strong crowd, and he will not stand, because a scheme will be devised against him.
 - brenton: [missing]
 
 ### Daniel 11:26
@@ -196640,7 +196640,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at time of completion king of Egypt will be butting against him, and king of north will be enraged against him with chariots and many horses and many ships and enter into land of Egypt.
+- fresh: And at the time of completion king of Egypt will be butting against him, and king of north will be enraged against him with chariots and many horses and many ships and enter into the land of Egypt.
 - brenton: [missing]
 
 ### Daniel 11:41
@@ -196694,7 +196694,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at that time Michael will come, the great angel standing over sons of your people. That day will be a distress such as has not happened from time they came to be until that day, and in that day every people found written in the book will be exalted.
+- fresh: And at that time Michael will come, the great angel standing over the sons of your people. That day will be a distress such as has not happened from time they came to be until that day, and in that day every people found written in the book will be exalted.
 - brenton: [missing]
 
 ### Daniel 12:2
@@ -196802,7 +196802,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, go, rest, for there are still days and hours for completion of the end, and you will rest and rise to your glory at completion of days.
+- fresh: And you, go, rest, for there are still days and hours for completion of the end, and you will rest and rise to your glory at the completion of days.
 - brenton: [missing]
 
 ## Hosea
@@ -196840,7 +196840,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge blood of Jezreel upon house of Jehu and make kingdom of house of Israel cease.
+- fresh: And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge blood of Jezreel upon the house of Jehu and make kingdom of the house of Israel cease.
 - brenton: And the Lord said to him, Call his name Jezrael; for yet a little while, and I will avenge the blood of Jezrael on the house of Juda, and will make to cease the kingdom of the house of Israel.
 
 ### Hosea 1:5
@@ -196849,7 +196849,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day: I will shatter bow of Israel in valley of Jezreel.
+- fresh: And it will be in that day: I will shatter bow of Israel in the valley of Jezreel.
 - brenton: And it shall be, in that day, that I will break the bow of Israel in the valley of Jezrael.
 
 ### Hosea 1:6
@@ -197038,7 +197038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give her her possessions from there and valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from land of Egypt.
+- fresh: And I will give her her possessions from there and valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from the land of Egypt.
 - brenton: And I will give her her possessions from thence, and the valley of Achor to open her understanding: and she shall be afflicted there according to the days of her infancy, and according to the days of her coming up out of the land of Egypt.
 
 ### Hosea 2:18
@@ -197065,7 +197065,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in that day I will make covenant for them with beasts of field and birds of heaven and reptiles of earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
+- fresh: And in that day I will make covenant for them with the beasts of field and birds of heaven and reptiles of earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
 - brenton: And I will make for them in that day a covenant with the wild beasts of the field, and with the birds of the sky, and with the reptiles of the earth: and I will break the bow and the sword and the battle from off the earth, and will cause thee to dwell safely.
 
 ### Hosea 2:21
@@ -197164,7 +197164,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
+- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against the inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
 - brenton: Hear the word of the Lord, ye children of Israel: for the Lord has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
 
 ### Hosea 4:2
@@ -197182,7 +197182,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore the land will mourn and be diminished with all inhabiting it, with beasts of the field and with reptiles of the earth and with birds of heaven, and fish of sea will fail.
+- fresh: Therefore the land will mourn and be diminished with all inhabiting it, with the beasts of the field and with reptiles of the earth and with birds of heaven, and fish of sea will fail.
 - brenton: Therefore shall the land mourn, and shall be diminished with all that dwell in it, with the wild beasts of the field, and the reptiles of the earth, and with the birds of the sky, and the fish of the sea shall fail:
 
 ### Hosea 4:4
@@ -197263,7 +197263,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They were asking by symbols, and by his rod it was reporting to him. They were led astray by spirit of whoredom and prostituted themselves away from their God.
+- fresh: They were asking by symbols, and by his rod it was reporting to him. They were led astray by the spirit of whoredom and prostituted themselves away from their God.
 - brenton: They asked counsel by means of signs, and they reported answer to them by their staves: they have gone astray in a spirit of whoredom, and gone grievously a-whoring from their God.
 
 ### Hosea 4:13
@@ -197272,7 +197272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On tops of mountains they were sacrificing, and on hills they were burning offerings under oak and white poplar and shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
+- fresh: On the tops of mountains they were sacrificing, and on hills they were burning offerings under oak and white poplar and shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
 - brenton: They have sacrificed on the tops of the mountains, and on the hills they have sacrificed under the oak and poplar, and under the shady tree, because the shade was good: therefore your daughters shall go a-whoring, and your daughters-in-law shall commit adultery.
 
 ### Hosea 4:14
@@ -197335,7 +197335,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, priests, and pay attention, house of Israel, and house of king, listen closely, because the judgment is toward you, because you became a snare at the lookout and like a net spread out on Tabor.
+- fresh: Hear these things, priests, and pay attention, house of Israel, and house of the king, listen closely, because the judgment is toward you, because you became a snare at the lookout and like a net spread out on Tabor.
 - brenton: Hear these things, ye priests; and attend, O house of Israel; and hearken, O house of the king; for the controversy is with you, because ye have been a snare in Scopia, and as a net spread on Itabyrium,
 
 ### Hosea 5:2
@@ -197506,7 +197506,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this I cut down your prophets; I killed them by words of my mouth, and my judgment will come out like light.
+- fresh: Because of this I cut down your prophets; I killed them by the words of my mouth, and my judgment will come out like light.
 - brenton: Therefore have I mown down your prophets; I have slain them with the word of my mouth: and my judgment shall go forth as the light.
 
 ### Hosea 6:6
@@ -197875,7 +197875,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: What will you do in day of assembly and in day of feast of the Lord?
+- fresh: What will you do in the day of assembly and in the day of feast of the Lord?
 - brenton: What will ye do in the day of the general assembly, and in the day of the feast of the Lord?
 
 ### Hosea 9:6
@@ -197992,7 +197992,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Israel, a flourishing vine, its fruit prospered. According to multitude of its fruits he multiplied the altars; according to goodness of his land he built pillars.
+- fresh: Israel, a flourishing vine, its fruit prospered. According to the multitude of its fruits he multiplied the altars; according to goodness of his land he built pillars.
 - brenton: Israel is a vine with goodly branches, her fruit is abundant: according to the multitude of her fruits she has multiplied her altars; according to the wealth of his land, he has set up pillars.
 
 ### Hosea 10:2
@@ -198028,7 +198028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For calf of house of On, inhabitants of Samaria will dwell as strangers, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
+- fresh: For calf of the house of On, inhabitants of Samaria will dwell as strangers, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
 - brenton: The inhabitants of Samaria shall dwell near the calf of the house of On; for the people of it mourned for it: and as they provoked him, they shall rejoice at his glory, because he has departed from them.
 
 ### Hosea 10:6
@@ -198046,7 +198046,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Samaria threw away her king like twig on face of water.
+- fresh: Samaria threw away her king like twig on the face of water.
 - brenton: Samaria has cast off her king as a twig on the surface of the water.
 
 ### Hosea 10:8
@@ -198100,7 +198100,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Why did you keep silence for impiety and reap its injustices? You ate fruit of lies, because you hoped in your chariots and in multitude of your strength.
+- fresh: Why did you keep silence for impiety and reap its injustices? You ate fruit of lies, because you hoped in your chariots and in the multitude of your strength.
 - brenton: Wherefore have ye passed over ungodliness in silence, and reaped the sins of it? ye have eaten false fruit; for thou hast trusted in thy sins, in the abundance of thy power.
 
 ### Hosea 10:14
@@ -198109,7 +198109,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from the house of Jerubbaal, in day of war, leveled mother upon children.
+- fresh: And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from the house of Jerubbaal, in the day of war, leveled mother upon children.
 - brenton: Therefore shall destruction rise up among thy people, and all thy strong places shall be ruined: as prince Solomon departed out of the house of Jeroboam, in the days of battle they dashed the mother to the ground upon the children,
 
 ### Hosea 10:15
@@ -198199,7 +198199,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will not act according to anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, holy in you, and I will not enter into a city.
+- fresh: I will not act according to the anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, holy in you, and I will not enter into a city.
 - brenton: I will not act according to the fury of my wrath, I will not abandon Ephraim to be utterly destroyed: for I am God, and not man; the Holy One within thee: and I will not enter into the city.
 
 ### Hosea 11:10
@@ -198217,7 +198217,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will stand amazed like bird from Egypt and like dove from land of Assyrians, and I will restore them to their houses, says the Lord.
+- fresh: And they will stand amazed like bird from Egypt and like dove from the land of Assyrians, and I will restore them to their houses, says the Lord.
 - brenton: They shall be amazed and fly as a bird out of Egypt, and as a dove out of the land of the Assyrians: and I will restore them to their houses, saith the Lord.
 
 ### Hosea 12:1
@@ -198307,7 +198307,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I am the Lord your God who brought you up from land of Egypt. I will still make you dwell in tents as in the days of feast.
+- fresh: But I am the Lord your God who brought you up from the land of Egypt. I will still make you dwell in tents as in the days of feast.
 - brenton: But I the Lord thy God brought thee up out of the land of Egypt: I will yet cause thee to dwell in tabernacles, according to the days of the feast.
 
 ### Hosea 12:11
@@ -198316,7 +198316,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will speak to prophets, and I multiplied visions, and by hands of prophets I was likened.
+- fresh: And I will speak to prophets, and I multiplied visions, and by the hands of prophets I was likened.
 - brenton: And I will speak to the prophets, and I have multiplied visions, and by the means of the prophets I was represented.
 
 ### Hosea 12:12
@@ -198361,7 +198361,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: According to word of Ephraim, he received ordinances in Israel, and he set them to Baal and died.
+- fresh: According to the word of Ephraim, he received ordinances in Israel, and he set them to Baal and died.
 - brenton: According to the word of Ephraim he adopted ordinances for himself in Israel; and he established them for Baal, and died.
 
 ### Hosea 13:2
@@ -198370,7 +198370,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
+- fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to the likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
 - brenton: And now they have sinned increasingly, and have made for themselves a molten image of their silver, according to the fashion of idols, the work of artificers accomplished for them: they say, Sacrifice men, for the calves have come to an end.
 
 ### Hosea 13:3
@@ -198388,7 +198388,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from land of Egypt, and besides me you will know no god, and there is no savior except me.
+- fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
 - brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
 
 ### Hosea 13:5
@@ -198415,7 +198415,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will be to them like panther and like leopard on road of Assyrians.
+- fresh: And I will be to them like panther and like leopard on the road of Assyrians.
 - brenton: And I will be to them as a panther, and as a leopard.
 
 ### Hosea 13:8
@@ -198478,7 +198478,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, death? Where is your sting, Hades? Consolation is hidden from my eyes.
+- fresh: From the hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, death? Where is your sting, Hades? Consolation is hidden from my eyes.
 - brenton: I will deliver them out of the power of Hades, and will redeem them from death: where is thy penalty, O death? O Hades, where is thy sting? comfort is hidden from mine eyes.
 
 ### Hosea 13:15
@@ -198804,7 +198804,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Like sound of chariots on tops of mountains they will leap, and like sound of flame of fire devouring stubble, and like great and strong people arrayed for war.
+- fresh: Like sound of chariots on the tops of mountains they will leap, and like sound of flame of fire devouring stubble, and like great and strong people arrayed for war.
 - brenton: As the sound of chariots on the tops of mountains shall they leap, and as the sound of a flame of fire devouring stubble, and as a numerous and strong people setting themselves in array for battle.
 
 ### Joel 2:6
@@ -199065,7 +199065,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will gather all nations and bring them down into valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among nations and divided my land.
+- fresh: I will gather all nations and bring them down into the valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among nations and divided my land.
 - brenton: I will also gather all the Gentiles, and bring them down to the valley of Josaphat, and will plead with them there for my people and my heritage Israel, who have been dispersed among the Gentiles; and these Gentiles have divided my land,
 
 ### Joel 4:3
@@ -199101,7 +199101,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you sold sons of Judah and sons of Jerusalem to sons of Greeks so that you might drive them out from their borders.
+- fresh: And you sold sons of Judah and sons of Jerusalem to the sons of Greeks so that you might drive them out from their borders.
 - brenton: and ye have sold the children of Juda and the children of Jerusalem to the children of the Greeks, that ye might expel them from their coasts.
 
 ### Joel 4:7
@@ -199119,7 +199119,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will sell your sons and your daughters into hands of sons of Judah, and they will sell them into captivity to a distant nation, because the Lord spoke.
+- fresh: And I will sell your sons and your daughters into the hands of sons of Judah, and they will sell them into captivity to a distant nation, because the Lord spoke.
 - brenton: And I will sell your sons and your daughters into the hands of the children of Juda, and they shall sell them into captivity to a far distant nation: for the Lord has spoken it.
 
 ### Joel 4:9
@@ -199155,7 +199155,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all nations be roused and go up into valley of Jehoshaphat, because there I will sit to judge all nations around.
+- fresh: Let all nations be roused and go up into the valley of Jehoshaphat, because there I will sit to judge all nations around.
 - brenton: Let them be aroused, let all the nations go up to the valley of Josaphat: for there will I sit to judge all the Gentiles round about.
 
 ### Joel 4:13
@@ -199173,7 +199173,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sounds resounded in valley of justice, because the day of the Lord is near in valley of justice.
+- fresh: Sounds resounded in the valley of justice, because the day of the Lord is near in the valley of justice.
 - brenton: Noises have resounded in the valley of judgment: for the day of the Lord is near in the valley of judgment.
 
 ### Joel 4:15
@@ -199301,7 +199301,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire on walls of Gaza, and it will devour her foundations.
+- fresh: And I will send fire on the walls of Gaza, and it will devour her foundations.
 - brenton: And I will send forth a fire on the walls of Gaza, and it shall devour its foundations.
 
 ### Amos 1:8
@@ -199328,7 +199328,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire on walls of Tyre, and it will devour her foundations.
+- fresh: And I will send fire on the walls of Tyre, and it will devour her foundations.
 - brenton: And I will send forth a fire on the walls of Tyre, and it shall devour the foundations of it.
 
 ### Amos 1:11
@@ -199364,7 +199364,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will kindle fire on walls of Rabbah, and it will devour her foundations with shouting in day of war, and it will be shaken in day of her completion.
+- fresh: And I will kindle fire on the walls of Rabbah, and it will devour her foundations with shouting in the day of war, and it will be shaken in the day of her completion.
 - brenton: And I will kindle a fire on the walls of Rabbath, and it shall devour her foundations with shouting in the day of war, and she shall be shaken in the days of her destruction:
 
 ### Amos 1:15
@@ -199463,7 +199463,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought you up from land of Egypt and led you around in wilderness forty years, to inherit land of Amorites.
+- fresh: And I brought you up from the land of Egypt and led you around in wilderness forty years, to inherit land of Amorites.
 - brenton: And I brought you up out of the land of Egypt, and led you about in the desert forty years, that ye should inherit the land of the Amorites.
 
 ### Amos 2:11
@@ -199526,7 +199526,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear this word that the Lord spoke against you, house of Israel, and against every tribe that I brought up from land of Egypt, saying,
+- fresh: Hear this word that the Lord spoke against you, house of Israel, and against every tribe that I brought up from the land of Egypt, saying,
 - brenton: Hear ye this word, O house of Israel, which the Lord has spoken concerning you, and against the whole family whom I brought up out of the land of Egypt, saying,
 
 ### Amos 3:2
@@ -199535,7 +199535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Only you I knew from all tribes of the earth; therefore I will avenge upon you all your sins.
+- fresh: Only you I knew from all the tribes of the earth; therefore I will avenge upon you all your sins.
 - brenton: You especially have I known out of all the families of the earth: therefore will I take vengeance upon you for all your sins.
 
 ### Amos 3:3
@@ -199598,7 +199598,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on mountain of Samaria and see many wonders in the midst of her and oppression in her.
+- fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on the mountain of Samaria and see many wonders in the midst of her and oppression in her.
 - brenton: Proclaim it to the regions among the Assyrians, and to the regions of Egypt, and say, Gather yourselves to the mountain of Samaria, and behold many wonderful things in the midst of it, and the oppression that is in it.
 
 ### Amos 3:10
@@ -199661,7 +199661,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear this word, cows of Bashan, those on mountain of Samaria, oppressing poor and trampling needy, saying to their lords, Give to us so that we may drink.
+- fresh: Hear this word, cows of Bashan, those on the mountain of Samaria, oppressing poor and trampling needy, saying to their lords, Give to us so that we may drink.
 - brenton: Hear ye this word, ye heifers of the land of Basan that are in the mountain of Samaria, that oppress the poor, and trample on the needy, which say to their masters, Give us that we may drink.
 
 ### Amos 4:2
@@ -199742,7 +199742,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I sent death among you in way of Egypt and killed your young men by sword with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
+- fresh: I sent death among you in the way of Egypt and killed your young men by sword with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
 - brenton: I sent pestilence among you by the way of Egypt, and slew your young men with the sword, together with thy horses that were taken captive; and in my wrath against you I set fire to your camps: yet not even thus did ye return to me, saith the Lord.
 
 ### Amos 4:11
@@ -199904,7 +199904,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We hated evil things and loved good things, and restore judgment in gates, so that the Lord God Almighty may show mercy to remnant of Joseph.
+- fresh: We hated evil things and loved good things, and restore judgment in gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
 - brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
 
 ### Amos 5:16
@@ -200021,7 +200021,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to those despising Zion and trusting in mountain of Samaria. They gathered firstfruits of nations, and house of Israel entered to them.
+- fresh: Woe to those despising Zion and trusting in the mountain of Samaria. They gathered firstfruits of nations, and house of Israel entered to them.
 - brenton: Woe to them that set at nought Sion, and that trust in the mountain of Samaria: they have gathered the harvest of the heads of the nations, and they have gone in themselves.
 
 ### Amos 6:2
@@ -200066,7 +200066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: drinking strained wine and anointing with first perfumes, and they suffered nothing over crushing of Joseph.
+- fresh: drinking strained wine and anointing with first perfumes, and they suffered nothing over the crushing of Joseph.
 - brenton: who drink strained wine, and anoint themselves with the best ointment: and have suffered nothing on occasion of the calamity of Joseph.
 
 ### Amos 6:7
@@ -200228,7 +200228,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of house of Israel; the land cannot bear all his words.
+- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of the house of Israel; the land cannot bear all his words.
 - brenton: Then Amasias the priest of Bæthel sent to Jeroboam king of Israel, saying, Amos is forming conspiracies against thee in the midst of the house of Israel: the land will be utterly unable to bear all his words.
 
 ### Amos 7:11
@@ -200246,7 +200246,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah said to Amos, O seer, go, withdraw into land of Judah, and live there, and there you will prophesy.
+- fresh: And Amaziah said to Amos, O seer, go, withdraw into the land of Judah, and live there, and there you will prophesy.
 - brenton: And Amasias said to Amos, Go, seer, remove thou into the land of Juda, and live there, and thou shalt prophesy there:
 
 ### Amos 7:13
@@ -200444,7 +200444,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If they hide on top of Carmel, from there I will search out and take them, and if they sink from before my eyes into depths of sea, there I will command the dragon and it will bite them.
+- fresh: If they hide on top of Carmel, from there I will search out and take them, and if they sink from before my eyes into the depths of sea, there I will command the dragon and it will bite them.
 - brenton: If they hide themselves in the top of Carmel, thence will I search them out and take them; and if they should go down from my presence into the depths of the sea, there will I command the serpent, and he shall bite them.
 
 ### Amos 9:4
@@ -200471,7 +200471,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of the earth, the Lord God Almighty is his name.
+- fresh: The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on the face of the earth, the Lord God Almighty is his name.
 - brenton: It is he that builds his ascent up to the sky, and establishes his promise on the earth; who calls the water of the sea, and pours it out on the face of the earth; the Lord Almighty is his name.
 
 ### Amos 9:7
@@ -200480,7 +200480,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Are you not to me like sons of Ethiopians, sons of Israel? says the Lord. Did I not bring Israel up from land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
+- fresh: Are you not to me like sons of Ethiopians, sons of Israel? says the Lord. Did I not bring Israel up from the land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
 - brenton: Are not ye to me as the sons of the Ethiopians, O children of Israel? saith the Lord. Did I not bring Israel up out of the land of Egypt, and the Philistines from Cappadocia, and the Syrians out of the deep?
 
 ### Amos 9:8
@@ -200489,7 +200489,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, eyes of the Lord God are upon kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
+- fresh: Behold, eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
 - brenton: Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will cut it off from the face of the earth; only I will not utterly cut off the house of Jacob, saith the Lord.
 
 ### Amos 9:9
@@ -200662,7 +200662,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not look on the day of your brother in day of strangers, and do not rejoice over sons of Judah in day of their destruction, and do not speak proudly in day of distress.
+- fresh: Do not look on the day of your brother in the day of strangers, and do not rejoice over the sons of Judah in the day of their destruction, and do not speak proudly in the day of distress.
 - brenton: And thou shouldest not have looked on the day of thy brother in the day of strangers; nor shouldest thou have rejoiced against the children of Juda in the day of their destruction; neither shouldest thou have boasted in the day of their affliction.
 
 ### Obadiah 1:13
@@ -200671,7 +200671,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not enter gates of my people in day of their pain, do not also look on their gathering in day of their ruin, and do not also join attack upon their strength in day of their destruction.
+- fresh: Do not enter gates of my people in the day of their pain, do not also look on their gathering in the day of their ruin, and do not also join attack upon their strength in the day of their destruction.
 - brenton: Neither shouldest thou have gone into the gates of the people in the day of their troubles; nor yet shouldest thou have looked upon their gathering in the day of their destruction, nor shouldest thou have attacked their host in the day of their perishing.
 
 ### Obadiah 1:14
@@ -200680,7 +200680,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not stand at their outlets to destroy their survivors, and do not imprison their fugitives in day of distress.
+- fresh: Do not stand at their outlets to destroy their survivors, and do not imprison their fugitives in the day of distress.
 - brenton: Neither shouldest thou have stood at the opening of their passages, to destroy utterly those of them that were escaping; neither shouldest thou have shut up his fugitives in the day of affliction.
 
 ### Obadiah 1:15
@@ -200734,7 +200734,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This beginning of exile belongs to sons of Israel: land of Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit cities of Negeb.
+- fresh: This beginning of exile belongs to the sons of Israel: land of Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit cities of Negeb.
 - brenton: And this shall be the domain of the captivity of the children of Israel, the land of the Chananites as far as Sarepta; and the captives of Jerusalem shall inherit as far as Ephratha; they shall inherit the cities of the south.
 
 ### Obadiah 1:21
@@ -200907,7 +200907,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah prayed to the Lord his God from belly of sea-creature.
+- fresh: Jonah prayed to the Lord his God from the belly of sea-creature.
 - brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
 
 ### Jonah 2:3
@@ -200925,7 +200925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You cast me into depths, into heart of sea, and rivers encircled me. All your billows and waves passed over me.
+- fresh: You cast me into depths, into the heart of the sea, and rivers encircled me. All your billows and waves passed over me.
 - brenton: Thou didst cast me into the depths of the heart of the sea, and the floods compassed me: all thy billows and thy waves have passed upon me.
 
 ### Jonah 2:5
@@ -200952,7 +200952,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I went down into land whose bars are everlasting holds, yet may my life come up from corruption, Lord my God.
+- fresh: I went down into a land whose bars are everlasting holds, yet may my life come up from corruption, Lord my God.
 - brenton: to the clefts of the mountains; I went down into the earth, whose bars are the everlasting barriers: yet, O Lord my God, let my ruined life be restored.
 
 ### Jonah 2:8
@@ -201224,7 +201224,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All these because of impiety of Jacob and because of sin of house of Israel. What is impiety of Jacob? Is it not Samaria? And what is sin of house of Judah? Is it not Jerusalem?
+- fresh: All these because of impiety of Jacob and because of sin of the house of Israel. What is impiety of Jacob? Is it not Samaria? And what is sin of the house of Judah? Is it not Jerusalem?
 - brenton: All these calamities are for the transgression of Jacob, and for the sin of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what is the sin of the house of Juda? is it not Jerusalem?
 
 ### Micah 1:6
@@ -201242,7 +201242,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all her carved things they will cut down, and all her wages they will burn in fire, and all her idols I will make disappear, because from wages of prostitution she gathered them and from wages of prostitution she turned them back.
+- fresh: And all her carved things they will cut down, and all her wages they will burn in fire, and all her idols I will make disappear, because from the wages of prostitution she gathered them and from the wages of prostitution she turned them back.
 - brenton: And they shall cut in pieces all the graven images, and all that she has hired they shall burn with fire, and I will utterly destroy all her idols: because she has gathered of the hires of fornication, and of the hires of fornication has she amassed wealth.
 
 ### Micah 1:8
@@ -201296,7 +201296,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sound of chariots and riders, inhabitant of Lachish. She is beginning of sin to daughter of Zion, because impieties of Israel were found in you.
+- fresh: Sound of chariots and riders, inhabitant of Lachish. She is beginning of sin to the daughter of Zion, because impieties of Israel were found in you.
 - brenton: even a sound of chariots and horsemen: the inhabitants of Lachis, she is the leader of sin to the daughter of Sion: for in thee were found the transgressions of Israel.
 
 ### Micah 1:14
@@ -201368,7 +201368,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore there will not be for you one casting line by lot in assembly of the Lord.
+- fresh: Therefore there will not be for you one casting line by lot in the assembly of the Lord.
 - brenton: Therefore thou shalt have no one to cast a line for the lot.
 
 ### Micah 2:6
@@ -201449,7 +201449,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will say, Hear now these things, leaders of house of Jacob and remnant of house of Israel. Is it not for you to know judgment?
+- fresh: And he will say, Hear now these things, leaders of the house of Jacob and remnant of the house of Israel. Is it not for you to know judgment?
 - brenton: And he shall say, Hear now these words, ye heads of the house of Jacob, and ye remnant of the house of Israel; is it not for you to know judgment?
 
 ### Micah 3:2
@@ -201521,7 +201521,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now these things, leaders of house of Jacob and remnant of house of Israel, hating judgment and twisting all straight things,
+- fresh: Hear now these things, leaders of the house of Jacob and remnant of the house of Israel, hating judgment and twisting all straight things,
 - brenton: Hear now these words, ye chiefs of the house of Jacob, and the remnant of the house of Israel, who hate judgment, and pervert all righteousness;
 
 ### Micah 3:10
@@ -201557,7 +201557,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in last days, mountain of the Lord will be manifest, prepared on tops of mountains and lifted above hills, and peoples will hasten to it.
+- fresh: And it will be in last days, mountain of the Lord will be manifest, prepared on the tops of mountains and lifted above hills, and peoples will hasten to it.
 - brenton: And at the last days the mountain of the Lord shall be manifest, established on the tops of the mountains, and it shall be exalted above the hills; and the peoples shall hasten to it.
 
 ### Micah 4:2
@@ -201566,7 +201566,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And many nations will go and say, Come, let us go up to mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
 
 ### Micah 4:3
@@ -201620,7 +201620,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to daughter of Jerusalem.
+- fresh: And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to the daughter of Jerusalem.
 - brenton: And thou, dark tower of the flock, daughter of Sion, on thee the dominion shall come and enter in, even the first kingdom from Babylon to the daughter of Jerusalem.
 
 ### Micah 4:9
@@ -201638,7 +201638,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Be in labor and act like man and draw near, daughter of Zion, like birthing woman, because now you will go out from city and camp in plain and reach to Babylon. There the Lord your God will rescue you; there he will redeem you from hand of your enemies.
+- fresh: Be in labor and act like man and draw near, daughter of Zion, like birthing woman, because now you will go out from city and camp in plain and reach to Babylon. There the Lord your God will rescue you; there he will redeem you from the hand of your enemies.
 - brenton: Be in pain, and strengthen thyself, and draw near, O daughter of Sion, as a woman in travail: for now thou shalt go forth out of the city, and shalt lodge in the plain, and shalt reach even to Babylon: thence shall the Lord thy God deliver thee, and thence shall he redeem thee out of the hand of thine enemies.
 
 ### Micah 4:11
@@ -201665,7 +201665,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise and thresh them, daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all earth.
+- fresh: Rise and thresh them, daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all the earth.
 - brenton: Arise, and thresh them, O daughter of Sion: for I will make thine horns iron, and I will make thine hoofs brass: and thou shalt utterly destroy many nations, and shalt consecrate their abundance to the Lord, and their strength to the Lord of all the earth.
 
 ### Micah 4:14
@@ -201683,7 +201683,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from the beginning, from days of age.
+- fresh: And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from the beginning, from the days of age.
 - brenton: And thou, Bethleem, house of Ephratha, art few in number to be reckoned among the thousands of Juda; yet out of thee shall one come forth to me, to be a ruler of Israel; and his goings forth were from the beginning, even from eternity.
 
 ### Micah 5:2
@@ -201692,7 +201692,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore he will give them until time when birthing woman births, and rest of their brothers will return upon sons of Israel.
+- fresh: Therefore he will give them until time when birthing woman births, and rest of their brothers will return upon the sons of Israel.
 - brenton: Therefore shall he appoint them to wait till the time of her that travails: she shall bring forth, and then the remnant of their brethren shall return to the children of Israel.
 
 ### Micah 5:3
@@ -201701,7 +201701,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will stand and see and shepherd his flock in strength of the Lord and in glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
+- fresh: And he will stand and see and shepherd his flock in the strength of the Lord and in the glory of the name of the Lord their God. They will remain, because now he will be made great to the ends of the earth.
 - brenton: And the Lord shall stand, and see, and feed his flock with power, and they shall dwell in the glory of the name of the Lord their God: for now shall they be magnified to the ends of the earth.
 
 ### Micah 5:4
@@ -201836,7 +201836,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I brought you up from land of Egypt and redeemed you from the house of slavery and sent before your face Moses and Aaron and Miriam.
+- fresh: Because I brought you up from the land of Egypt and redeemed you from the house of slavery and sent before your face Moses and Aaron and Miriam.
 - brenton: For I brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage, and sent before thee Moses, and Aaron, and Mariam.
 
 ### Micah 6:5
@@ -201899,7 +201899,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Shall lawless one be justified with balance and with bag of deceitful weights?
+- fresh: Shall lawless one be justified with a balance and with a bag of deceitful weights?
 - brenton: Shall the wicked be justified by the balance, or deceitful weights in the bag,
 
 ### Micah 6:12
@@ -201944,7 +201944,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you kept ordinances of Zimri and all works of house of Ahab and walked in their counsels, so that I may give you to destruction and those inhabiting it to hissing, and you will receive reproaches of peoples.
+- fresh: And you kept ordinances of Zimri and all works of the house of Ahab and walked in their counsels, so that I may give you to destruction and those inhabiting it to hissing, and you will receive reproaches of peoples.
 - brenton: For thou hast kept the statutes of Zambri, and done all the works of the house of Achaab; and ye have walked in their ways, that I might deliver thee to utter destruction, and those that inhabit the city to hissing: and ye shall bear the reproach of nations.
 
 ### Micah 7:1
@@ -201980,7 +201980,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their best one is like moth devouring, and walking on measuring line. In day of your watch—woe, woe—your avengings came; now their weepings will be.
+- fresh: Their best one is like moth devouring, and walking on measuring line. In the day of your watch—woe, woe—your avengings came; now their weepings will be.
 - brenton: therefore I will take away their goods as a devouring moth, and as one who acts by a rigid rule in a day of visitation. Woe, woe, thy times of vengeance are come; now shall be their lamentations.
 
 ### Micah 7:5
@@ -202115,7 +202115,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He will turn and pity us; he will sink our injustices, and all our sins will be cast into depths of sea.
+- fresh: He will turn and pity us; he will sink our injustices, and all our sins will be cast into the depths of sea.
 - brenton: He will return and have mercy upon us; he will sink our iniquities, and they shall be cast into the depths of the sea, even all our sins.
 
 ### Micah 7:20
@@ -202189,7 +202189,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is good to those waiting for him in day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ### Nahum 1:8
@@ -202288,7 +202288,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Weapons of their rule are from men, mighty men mocking in fire. Reins of their chariots are in day of his preparation, and horsemen will be thrown into confusion.
+- fresh: Weapons of their rule are from men, mighty men mocking in fire. Reins of their chariots are in the day of his preparation, and horsemen will be thrown into confusion.
 - brenton: They have destroyed the arms of their power from among men, their mighty men sporting with fire: the reins of their chariots shall be destroyed in the day of his preparation, and the horsemen shall be thrown into confusion
 
 ### Nahum 2:5
@@ -202468,7 +202468,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet she will go into exile, captive, and her infants they will dash upon heads of all her roads, and over all her honored ones they will cast lots, and all her great men will be bound in fetters.
+- fresh: Yet she will go into exile, captive, and her infants they will dash upon the heads of all her roads, and over all her honored ones they will cast lots, and all her great men will be bound in fetters.
 - brenton: Yet she shall go as a prisoner into captivity, and they shall dash her infants against the ground at the top of all her ways: and they shall cast lots upon all her glorious possessions, and all her nobles shall be bound in chains.
 
 ### Nahum 3:11
@@ -202486,7 +202486,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All your fortresses are fig trees with watchers; if they are shaken, they fall into mouth of eater.
+- fresh: All your fortresses are fig trees with watchers; if they are shaken, they fall into the mouth of the eater.
 - brenton: All thy strong-holds are as fig-trees having watchers: if they be shaken, they shall fall into the mouth of the eater.
 
 ### Nahum 3:13
@@ -202785,7 +202785,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one grasping evil grasping for his house, to set his nest on high, to be torn away from hand of evils.
+- fresh: Woe to one grasping evil grasping for his house, to set his nest on high, to be torn away from the hand of evils.
 - brenton: Woe to him that covets an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evils.
 
 ### Habakkuk 2:10
@@ -202883,8 +202883,8 @@ Note:
 - importance: high
 - decisions: 0
 - footnotes: 1
-- same_normalized: no
-- fresh: But the Lord is in his holy temple; let all earth fear before him.
+- same_normalized: yes
+- fresh: But the Lord is in his holy temple; let all the earth fear before him.
 - brenton: But the Lord is in his holy temple: let all the earth fear before him.
 
 ### Habakkuk 3:1
@@ -203001,7 +203001,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You went out for salvation of your people, to save your anointed ones. You cast death upon heads of lawless ones and raised bonds to neck. Pause.
+- fresh: You went out for salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds to neck. Pause.
 - brenton: Thou wentest forth for the salvation of thy people, to save thine anointed: thou shalt bring death on the heads of transgressors; thou hast brought bands upon their neck. Pause.
 
 ### Habakkuk 3:14
@@ -203028,7 +203028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I kept watch and my belly was terrified at sound of prayer of my lips, and trembling entered my bones, and under me my habit was disturbed. I will rest in day of distress, to go up among people of my sojourning.
+- fresh: I kept watch and my belly was terrified at the sound of prayer of my lips, and trembling entered my bones, and under me my habit was disturbed. I will rest in the day of distress, to go up among people of my sojourning.
 - brenton: I watched, and my belly trembled at the sound of the prayer of my lips, and trembling entered into my bones, and my frame was troubled within me; I will rest in the day of affliction, from going up to the people of my sojourning.
 
 ### Habakkuk 3:17
@@ -203147,7 +203147,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord, sound of cry from gate of attackers and wailing from the Second Quarter and great crushing from hills.
+- fresh: And it will be in that day, says the Lord, sound of cry from the gate of attackers and wailing from the Second Quarter and great crushing from hills.
 - brenton: And there shall be in that day, saith the Lord, the sound of a cry from the gate of men slaying, and a howling from the second gate, and a great crashing from the hills.
 
 ### Zephaniah 1:11
@@ -203219,7 +203219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their silver and their gold will certainly not be able to rescue them in the day of the Lord's wrath, and in fire of his zeal all earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
+- fresh: And their silver and their gold will certainly not be able to rescue them in the day of the Lord's wrath, and in the fire of his zeal all the earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
 - brenton: And their silver and their gold shall in nowise be able to rescue them in the day of the Lord's wrath; but the whole land shall be devoured by the fire of his jealousy; for he will bring a speedy destruction on all them that inhabit the land.
 
 ### Zephaniah 2:1
@@ -203282,7 +203282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And tract of sea will belong to remnant of house of Judah. Upon them they will pasture; in houses of Ashkelon at evening they will lodge before sons of Judah, because the Lord their God visited them and turned back their captivity.
+- fresh: And tract of sea will belong to the remnant of the house of Judah. Upon them they will pasture; in the houses of Ashkelon at evening they will lodge before the sons of Judah, because the Lord their God visited them and turned back their captivity.
 - brenton: And the sea coast shall be for the remnant of the house of Juda; they shall pasture upon them in the houses of Ascalon; they shall rest in the evening because of the children of Juda; for the Lord their God has visited them, and he will turn away their captivity.
 
 ### Zephaniah 2:8
@@ -203426,7 +203426,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore wait for me, says the Lord, for day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all anger of my wrath, because in fire of my zeal all earth will be consumed.
+- fresh: Therefore wait for me, says the Lord, for day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all anger of my wrath, because in the fire of my zeal all the earth will be consumed.
 - brenton: Therefore wait upon me, saith the Lord, until the day when I rise up for a witness: because my judgment shall be on the gatherings of the nations, to draw to me kings, to pour out upon them all my fierce anger: for the whole earth shall be consumed with the fire of my jealousy.
 
 ### Zephaniah 3:9
@@ -203489,7 +203489,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord removed your injustices and redeemed you from hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
+- fresh: The Lord removed your injustices and redeemed you from the hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
 - brenton: The Lord has taken away thine iniquities, he has ransomed thee from the hand of thine enemies: the Lord, the King of Israel, is in the midst of thee: thou shalt not see evil any more.
 
 ### Zephaniah 3:16
@@ -203525,7 +203525,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for boast and renowned in all earth.
+- fresh: Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for boast and renowned in all the earth.
 - brenton: Behold, I will work in thee for thy sake at that time, saith the Lord: and I will save her that was oppressed, and receive her that was rejected; and I will make them a praise, and honoured in all the earth.
 
 ### Zephaniah 3:20
@@ -203554,7 +203554,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: This people says, Time has not yet come to build house of the Lord.
+- fresh: Thus says the Lord Almighty: This people says, Time has not yet come to build the house of the Lord.
 - brenton: Thus saith the Lord Almighty, saying, This people say, The time is not come to build the house of the Lord.
 
 ### Haggai 1:3
@@ -203644,7 +203644,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of people, listened to voice of the Lord their God and to words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ### Haggai 1:13
@@ -203806,7 +203806,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now set this on your hearts from this day and upward, before stone was set upon stone in temple of the Lord.
+- fresh: And now set this on your hearts from this day and upward, before stone was set upon stone in the temple of the Lord.
 - brenton: And now consider, I pray you, from this day and beforetime, before they laid a stone on a stone in the temple of the Lord, what manner of men ye were.
 
 ### Haggai 2:16
@@ -203869,7 +203869,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will overturn thrones of kings and destroy strength of kings of nations and overturn chariots and riders, and horses and riders will come down, each by sword of his brother.
+- fresh: and I will overturn thrones of kings and destroy strength of kings of nations and overturn chariots and riders, and horses and riders will come down, each by the sword of his brother.
 - brenton: and I will overthrow the thrones of kings, and I will destroy the power of the kings of the nations; and I will overthrow chariots and riders; and the horses and their riders shall come down, every one by the sword striving against his brother.
 
 ### Haggai 2:23
@@ -203979,7 +203979,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they answered angel of the Lord standing between mountains and said, We have patrolled all earth, and behold, all earth is inhabited and at rest.
+- fresh: And they answered angel of the Lord standing between mountains and said, We have patrolled all the earth, and behold, all the earth is inhabited and at rest.
 - brenton: And they answered the angel of the Lord that stood between the mountains, and said, We have gone round all the earth, and, behold, all the earth is inhabited, and is at rest.
 
 ### Zechariah 1:12
@@ -204069,7 +204069,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, What are these coming to do? And he said to me, These are horns that scattered Judah and Israel; they broke them down, and no one lifted head among them. And these came to sharpen them in their hands, the four horns, the nations lifting horn against land of the Lord to scatter it.
+- fresh: And I said, What are these coming to do? And he said to me, These are horns that scattered Judah and Israel; they broke them down, and no one lifted head among them. And these came to sharpen them in their hands, the four horns, the nations lifting horn against the land of the Lord to scatter it.
 - brenton: And I said, What are these coming to do? And he said, These are the horns that scattered Juda, and they broke Israel in pieces, and none of them lifted up his head: and these are come forth to sharpen them for their hands, even the four horns, the nations that lifted up the horn against the land of the Lord to scatter it.
 
 ### Zechariah 2:5
@@ -204123,7 +204123,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ho, ho, flee from land of north, says the Lord, because from four winds of heaven I will gather you, says the Lord.
+- fresh: Ho, ho, flee from the land of the north, says the Lord, because from four winds of heaven I will gather you, says the Lord.
 - brenton: Ho, ho, flee from the land of the north, saith the Lord: for I will gather you from the four winds of heaven, saith the Lord,
 
 ### Zechariah 2:11
@@ -204366,7 +204366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because who despised days of small things? They will rejoice and see tin-stone in hand of Zerubbabel. These seven are eyes of the Lord, looking over all earth.
+- fresh: Because who despised days of small things? They will rejoice and see tin-stone in the hand of Zerubbabel. These seven are eyes of the Lord, looking over all the earth.
 - brenton: For who has despised the small days? surely they shall rejoice, and shall see the plummet of tin in the hand of Zorobabel: these are the seven eyes that look upon all the earth.
 
 ### Zechariah 4:11
@@ -204384,7 +204384,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I asked a second time and said to him, What are two olive branches in hands of two golden nozzles that pour out and bring back golden spouts?
+- fresh: And I asked a second time and said to him, What are two olive branches in the hands of two golden nozzles that pour out and bring back golden spouts?
 - brenton: And I asked the second time, and said to him, What are the two branches of the olive-trees that are by the side of the two golden pipes that pour into and communicate with the golden oil funnels?
 
 ### Zechariah 4:13
@@ -204402,7 +204402,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, These are two sons of richness, standing beside Lord of all earth.
+- fresh: And he said, These are two sons of richness, standing beside Lord of all the earth.
 - brenton: And he said, These are the two anointed ones that stand by the Lord of the whole earth.
 
 ### Zechariah 5:1
@@ -204429,7 +204429,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, This is curse going out over face of all earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
+- fresh: And he said to me, This is curse going out over the face of all the earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
 - brenton: And he said to me,
 
 ### Zechariah 5:4
@@ -204456,7 +204456,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, What is it? And he said, This is measure that goes out. And he said, This is their injustice in all earth.
+- fresh: And I said, What is it? And he said, This is measure that goes out. And he said, This is their injustice in all the earth.
 - brenton: And I said, What is it? And he said, This is the measure that goes forth. And he said, This is their iniquity in all the earth.
 
 ### Zechariah 5:7
@@ -204546,7 +204546,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me answered and said, These are four winds of heaven, going out to stand before the Lord of all earth.
+- fresh: And angel speaking in me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
 - brenton: And the angel that talked with me answered and said, These are the four winds of heaven, and they are going forth to stand before the Lord of all the earth.
 
 ### Zechariah 6:6
@@ -204555,7 +204555,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Where black horses were, they went out to land of north, and white went out behind them, and varied went out to land of south.
+- fresh: Where black horses were, they went out to the land of the north, and white went out behind them, and varied went out to the land of south.
 - brenton: As for the chariot in which were the black horses, they went out to the land of the north; and the white went out after them; and the piebald went out to the land of the south.
 
 ### Zechariah 6:7
@@ -204573,7 +204573,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he cried out and spoke to me, saying, Behold, those going out to land of north gave rest to my wrath in the land of north.
+- fresh: And he cried out and spoke to me, saying, Behold, those going out to the land of the north gave rest to my wrath in the land of the north.
 - brenton: And he cried out and spoke to me, saying, Behold, these go out to the land of the north, and they have quieted mine anger in the land of the north.
 
 ### Zechariah 6:9
@@ -204600,7 +204600,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall take silver and gold and make crowns and place them on head of Joshua son of Josedech, the great priest.
+- fresh: And you shall take silver and gold and make crowns and place them on the head of Joshua son of Josedech, the great priest.
 - brenton: And thou shalt take silver and gold, and make crowns, and thou shalt put them upon the head of Jesus the son of Josedec the high priest;
 
 ### Zechariah 6:12
@@ -204681,7 +204681,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to all people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+- fresh: Say to all the people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 - brenton: Speak to the whole people of the land, and to the priests, saying, Though ye fasted or lamented in the fifth or seventh months (yea, behold, these seventy years) have ye at all fasted to me?
 
 ### Zechariah 7:6
@@ -204798,7 +204798,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Old men and old women will again dwell in streets of Jerusalem, each with staff in hand because of multitude of days.
+- fresh: Thus says the Lord Almighty: Old men and old women will again dwell in the streets of Jerusalem, each with staff in hand because of multitude of days.
 - brenton: Thus saith the Lord Almighty; There shall yet dwell old men and old women in the streets of Jerusalem, every one holding his staff in his hand for age.
 
 ### Zechariah 8:5
@@ -204825,7 +204825,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Behold, I save my people from land of east and from land of setting sun,
+- fresh: Thus says the Lord Almighty: Behold, I save my people from the land of east and from the land of setting sun,
 - brenton: Thus saith the Lord Almighty; Behold, I will save my people from the east country, and the west country;
 
 ### Zechariah 8:8
@@ -204861,7 +204861,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now I will not be to remnant of this people as in former days, says the Lord Almighty.
+- fresh: And now I will not be to the remnant of this people as in former days, says the Lord Almighty.
 - brenton: But now I will not do to the remnant of this people according to the former days, saith the Lord Almighty.
 
 ### Zechariah 8:12
@@ -204870,7 +204870,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I will show peace: vine will give its fruit, land will give its produce, and heaven will give its dew, and I will give all these things to remnant of my people to inherit.
+- fresh: Because I will show peace: vine will give its fruit, land will give its produce, and heaven will give its dew, and I will give all these things to the remnant of my people to inherit.
 - brenton: But I will shew peace: the vine shall yield her fruit, and the land shall yield her produce, and the heaven shall give its dew: and I will give as an inheritance all these things to the remnant of my people.
 
 ### Zechariah 8:13
@@ -205212,7 +205212,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will return them from land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one from them will be left behind.
+- fresh: And I will return them from the land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one from them will be left behind.
 - brenton: And I will bring them again from the land of Egypt, and I will gather them in from among the Assyrians; and I will bring them into the land of Galaad and to Libanus; and there shall not even one of them be left behind.
 
 ### Zechariah 10:11
@@ -205284,7 +205284,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore I will no longer spare inhabitants of earth, says the Lord, and behold, I hand over humans, each into hand of his neighbor and into hand of his king, and they will cut down earth, and I will certainly not rescue from their hand.
+- fresh: Therefore I will no longer spare inhabitants of earth, says the Lord, and behold, I hand over humans, each into the hand of his neighbor and into the hand of his king, and they will cut down earth, and I will certainly not rescue from their hand.
 - brenton: Therefore I will no longer have mercy upon the inhabitants of the land, saith the Lord: but, behold, I will deliver up the men every one into the hand of his neighbour, and into the hand of his king; and they shall destroy the land, and I will not rescue out of their hand.
 
 ### Zechariah 11:7
@@ -205419,7 +205419,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon house of Judah I will open my eyes, and every horse of peoples I will strike with blindness.
+- fresh: In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon the house of Judah I will open my eyes, and every horse of peoples I will strike with blindness.
 - brenton: In that day, saith the Lord Almighty, I will smite every horse with amazement, and his rider with madness: but I will open mine eyes upon the house of Juda, and I will smite all the horses of the nations with blindness.
 
 ### Zechariah 12:5
@@ -205446,7 +205446,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will save tents of Judah as from the beginning, so that boast of house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
+- fresh: And the Lord will save tents of Judah as from the beginning, so that boast of the house of David and uplift of inhabitants of Jerusalem may not magnify against Judah.
 - brenton: And the Lord shall save the tabernacles of Juda as at the beginning, that the boast of the house of David, and the pride of the inhabitants of Jerusalem, may not magnify themselves against Juda.
 
 ### Zechariah 12:8
@@ -205473,7 +205473,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will pour out upon house of David and upon inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
 - brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
 
 ### Zechariah 12:11
@@ -205491,7 +205491,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And land will mourn tribe by tribe, tribe by itself and their women by themselves: tribe of house of David by itself and their women by themselves, tribe of house of Nathan by itself and their women by themselves,
+- fresh: And land will mourn tribe by tribe, tribe by itself and their women by themselves: tribe of the house of David by itself and their women by themselves, tribe of the house of Nathan by itself and their women by themselves,
 - brenton: And the land shall lament in separate families, the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
 
 ### Zechariah 12:13
@@ -205500,7 +205500,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: tribe of house of Levi by itself and their women by themselves, tribe of Simeon by itself and their women by themselves,
+- fresh: tribe of the house of Levi by itself and their women by themselves, tribe of Simeon by itself and their women by themselves,
 - brenton: the family of the house of Levi by itself, and their wives by themselves; the family of Symeon by itself, and their wives by themselves;
 
 ### Zechariah 12:14
@@ -205617,7 +205617,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will go out and line up against those nations, as day of his battle in day of war.
+- fresh: And the Lord will go out and line up against those nations, as day of his battle in the day of war.
 - brenton: And the Lord shall go forth, and fight with those Gentiles as when he fought in the day of war.
 
 ### Zechariah 14:4
@@ -205671,7 +205671,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will be king over all earth; in that day the Lord will be one, and his name one.
+- fresh: And the Lord will be king over all the earth; in that day the Lord will be one, and his name one.
 - brenton: And the Lord shall be king over all the earth: in that day there shall be one Lord, and his name one,
 
 ### Zechariah 14:10
@@ -205680,7 +205680,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Encircling all land and wilderness from Gabe to Rimmon south of Jerusalem—but Ramah remains in its place—from gate of Benjamin to place of first gate to gate of corners and to tower of Hananeel to king's wine-vats.
+- fresh: Encircling all land and wilderness from Gabe to Rimmon south of Jerusalem—but Ramah remains in its place—from the gate of Benjamin to place of first gate to the gate of corners and to tower of Hananeel to king's wine-vats.
 - brenton: compassing all the earth, and the wilderness from Gabe unto Remmon south of Jerusalem. And Rama shall remain in its place. From the gate of Benjamin to the place of the first gate, to the gate of the corners, and to the tower of Anameel, as far as the king's wine-presses,
 
 ### Zechariah 14:11
@@ -205707,7 +205707,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, great astonishment of the Lord upon them, and each will seize hand of his neighbor, and his hand will tangle against hand of his neighbor.
+- fresh: And it will be in that day, great astonishment of the Lord upon them, and each will seize hand of his neighbor, and his hand will tangle against the hand of his neighbor.
 - brenton: And there shall be in that day a great panic from the Lord upon them; and they shall lay hold every man of the hand of his neighbour, and his hand shall be clasped with the hand of his neighbour.
 
 ### Zechariah 14:14
@@ -205734,7 +205734,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, whoever are left from all nations coming against Jerusalem will go up year by year to worship the King, the Lord Almighty, and to celebrate feast of booths.
+- fresh: And it will be, whoever are left from all nations coming against Jerusalem will go up year by year to worship the King, the Lord Almighty, and to celebrate the feast of booths.
 - brenton: And it shall come to pass, that whosoever shall be left of all the nations that came against Jerusalem, shall even come up every year to worship the king, the Lord Almighty, and to keep the feast of tabernacles.
 
 ### Zechariah 14:17
@@ -205752,7 +205752,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if tribe of Egypt does not go up nor come there, then upon them will be downfall with which the Lord will strike all nations that do not go up to celebrate feast of booths.
+- fresh: And if tribe of Egypt does not go up nor come there, then upon them will be downfall with which the Lord will strike all nations that do not go up to celebrate the feast of booths.
 - brenton: And if the family of Egypt shall not go up, nor come; then upon them shall be the overthrow with which the Lord shall smite all the nations, whichever of them shall not come up to keep the feast of tabernacles.
 
 ### Zechariah 14:19
@@ -205761,7 +205761,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This will be sin of Egypt and sin of all nations, whichever do not go up to celebrate feast of booths.
+- fresh: This will be sin of Egypt and sin of all nations, whichever do not go up to celebrate the feast of booths.
 - brenton: This shall be the sin of Egypt, and the sin of all the nations, whosoever shall not come up to keep the feast of tabernacles.
 
 ### Zechariah 14:20
@@ -205862,7 +205862,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now make atonement to face of your God and beg him. These things came by your hands. Shall I receive your faces? says the Lord Almighty.
+- fresh: And now make atonement before the face of your God and beg him. These things came by your hands. Shall I receive your faces? says the Lord Almighty.
 - brenton: And now intreat the face of your God, and make supplication to him. These things have been done by your hands; shall I accept you? saith the Lord Almighty.
 
 ### Malachi 1:10
@@ -205880,7 +205880,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from rising of sun to setting my name has been glorified among nations, and in every place incense is brought to my name and pure sacrifice, because my name is great among nations, says the Lord Almighty.
+- fresh: Because from the rising of sun to setting my name has been glorified among nations, and in every place incense is brought to my name and pure sacrifice, because my name is great among nations, says the Lord Almighty.
 - brenton: For from the rising of the sun even to the going down thereof my name has been glorified among the Gentiles; and in every place incense is offered to my name, and a pure offering: for my name is great among the Gentiles, saith the Lord Almighty.
 
 ### Malachi 1:12

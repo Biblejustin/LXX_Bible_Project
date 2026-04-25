@@ -310,14 +310,14 @@ Books: 22
 - score: 30
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, holy, law, lord, sacrifice; crossref_top_vote=6; eng_reco=keep; reco=keep
 - keywords: altar, god, holy, law, lord, sacrifice, sin
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of house of our God.
+- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Isaiah 9:6
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, peace, righteousness; crossref_top_vote=177; eng_reco=keep; reco=keep
 - keywords: judgment, lord, peace, righteousness
-- fresh: Great his rule, and his peace has no boundary, upon throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of the Lord of hosts will do these things.
+- fresh: Great his rule, and his peace has no boundary, upon the throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. Zeal of the Lord of hosts will do these things.
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
 ## Isaiah 59:21
@@ -366,7 +366,7 @@ Books: 22
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=25; reco=keep
 - keywords: god, lord
-- fresh: Jonah prayed to the Lord his God from belly of sea-creature.
+- fresh: Jonah prayed to the Lord his God from the belly of sea-creature.
 - brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
 
 ## Nahum 1:2
@@ -387,7 +387,7 @@ Books: 22
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=75; reco=keep
 - keywords: lord
-- fresh: The Lord is good to those waiting for him in day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ## Nahum 1:9

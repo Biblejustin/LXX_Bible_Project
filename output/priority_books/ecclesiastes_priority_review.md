@@ -5,7 +5,7 @@ Selected verses: 6
 ## Ecclesiastes 2:24
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, soul; crossref_top_vote=17; reco=keep
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from hand of God.
+- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
 - brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ## Ecclesiastes 2:26
@@ -29,11 +29,11 @@ Selected verses: 6
 ## Ecclesiastes 11:5
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
-- fresh: As you do not know what way of spirit, as bones in womb of pregnant woman, so you will not know works of God, who will make all things.
+- fresh: As you do not know what way of spirit, as bones in the womb of pregnant woman, so you will not know works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
 
 ## Ecclesiastes 11:9
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment; crossref_top_vote=45; reco=keep
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in ways of your heart and in sight of your eyes, and know that for all these God will bring you in judgment.
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 - brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.

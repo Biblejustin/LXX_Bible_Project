@@ -23,7 +23,7 @@ Selected verses: 6
 ## Jonah 2:2
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=25; reco=keep
-- fresh: Jonah prayed to the Lord his God from belly of sea-creature.
+- fresh: Jonah prayed to the Lord his God from the belly of sea-creature.
 - brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
 
 ## Jonah 2:8

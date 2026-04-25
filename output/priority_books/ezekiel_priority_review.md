@@ -17,13 +17,13 @@ Selected verses: 6
 ## Ezekiel 39:25
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on house of Israel and be jealous for my holy name.
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
 - brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
 ## Ezekiel 43:19
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- fresh: And you will give to the Levitical priests, from seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
+- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
 - brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
 
 ## Ezekiel 44:15

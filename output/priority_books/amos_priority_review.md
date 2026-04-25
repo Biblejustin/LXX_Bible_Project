@@ -23,7 +23,7 @@ Selected verses: 6
 ## Amos 5:15
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, mercy; crossref_top_vote=11; reco=keep
-- fresh: We hated evil things and loved good things, and restore judgment in gates, so that the Lord God Almighty may show mercy to remnant of Joseph.
+- fresh: We hated evil things and loved good things, and restore judgment in gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
 - brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
 
 ## Amos 9:1

@@ -113,11 +113,11 @@ Unresolved outliers: 0
 - buckets: salvation=71
 
 - 1 Chronicles 16:1 [salvation]
-  - fresh: And they brought in ark of God and set it in middle of tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+  - fresh: And they brought in ark of God and set it in the middle of the tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - 1 Chronicles 16:2 [salvation]
   - fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in the name of the Lord.
 - 1 Chronicles 21:26 [salvation]
-  - fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon altar of whole burnt offering and consumed whole burnt offering.
+  - fresh: And David built there altar to the Lord and offered whole burnt offerings and offerings of salvation, and cried out to the Lord, and he answered him with fire from heaven upon the altar of whole burnt offering and consumed whole burnt offering.
 - 2 Chronicles 7:7 [salvation]
   - fresh: And Solomon sanctified middle of court in the house of the Lord, because there he made whole burnt offerings and fat of offerings of salvation, because bronze altar which Solomon made was not able to receive whole burnt offerings and grain offerings and fats.
 - 2 Chronicles 29:35 [salvation]
@@ -125,7 +125,7 @@ Unresolved outliers: 0
 - 2 Chronicles 30:22 [salvation]
   - fresh: And Hezekiah spoke to every heart of Levites, those understanding good understanding for the Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to the Lord God of their fathers.
 - 2 Chronicles 31:2 [salvation]
-  - fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in courts of house of the Lord.
+  - fresh: And Hezekiah appointed courses of priests and Levites, each course according to its own service, priests and Levites for whole burnt offering and sacrifice of salvation and to praise and give thanks and minister at gates in the courts of the house of the Lord.
 - 2 Chronicles 33:16 [salvation]
   - fresh: And he restored the altar of the Lord and sacrificed upon it a sacrifice of salvation and of praise, and told Judah to serve the Lord God of Israel.
 - Amos 5:22 [salvation]
@@ -143,7 +143,7 @@ Unresolved outliers: 0
 - Ezekiel 45:15 [salvation]
   - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says the Lord God.
 - Ezekiel 45:17 [salvation]
-  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
+  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of the house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
 - Ezekiel 46:2 [salvation]
   - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
 - Ezekiel 46:12 [salvation]

@@ -17,7 +17,7 @@ Selected verses: 6
 ## Esther 2:12
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, being, king; crossref_top_vote=5; reco=keep
-- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with oil of myrrh and six months with spices and with the women's cosmetics.
+- fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with the oil of myrrh and six months with spices and with the women's cosmetics.
 - brenton: [missing]
 
 ## Esther 4:8

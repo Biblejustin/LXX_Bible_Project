@@ -291,12 +291,124 @@ LORD_OBJECT_REPLACEMENTS = (
         "by the hand of",
     ),
     (
-        re.compile(r"\b([Ii]n) days of\b"),
+        re.compile(r"\b([Ii]n|[Ff]rom) days of\b"),
         r"\1 the days of",
     ),
     (
         re.compile(r"\b([Ii]n) land of\b"),
         r"\1 the land of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]nto|[Tt]o|[Oo]nto) land of\b"),
+        r"\1 the land of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]nto|[Tt]o) land (which|that|where|about|concerning)\b"),
+        r"\1 the land \2",
+    ),
+    (
+        re.compile(r"\binto land dark and gloomy\b"),
+        "into a dark and gloomy land",
+    ),
+    (
+        re.compile(r"\binto land like your land\b"),
+        "into a land like your land",
+    ),
+    (
+        re.compile(r"\binto land whose bars\b"),
+        "into a land whose bars",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]nto|[Tt]o|[Ii]n) city of\b"),
+        r"\1 the city of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]nto|[Tt]o|[Ii]n|[Oo]n) mountain of\b"),
+        r"\1 the mountain of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Tt]o|[Bb]efore) sons of\b"),
+        r"\1 the sons of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Tt]o) daughters of\b"),
+        r"\1 the daughters of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) cities of\b"),
+        r"\1 the cities of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) all cities of\b"),
+        r"\1 all the cities of",
+    ),
+    (
+        re.compile(r"\b([Aa]gainst) cities of\b"),
+        r"\1 the cities of",
+    ),
+    (
+        re.compile(r"\b([Aa]gainst) inhabitants of\b"),
+        r"\1 the inhabitants of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) king of\b"),
+        r"\1 the king of",
+    ),
+    (
+        re.compile(r"\b([Aa]gainst) king of\b"),
+        r"\1 the king of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) queen of\b"),
+        r"\1 the queen of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) people of\b"),
+        r"\1 the people of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) peoples of\b"),
+        r"\1 the peoples of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) sons of\b"),
+        r"\1 the sons of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) sons of\b"),
+        r"\1 the sons of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) all sons of\b"),
+        r"\1 all the sons of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) all people of\b"),
+        r"\1 all the people of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) all house of\b"),
+        r"\1 all the house of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) valley of\b"),
+        r"\1 the valley of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) man of God\b"),
+        r"\1 the man of God",
+    ),
+    (
+        re.compile(r"\b([Bb]efore|[Ff]rom|[Tt]oward|[Ii]n|[Ii]nto) temple of\b"),
+        r"\1 the temple of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon|[Oo]n|[Bb]efore|[Tt]o) altar of\b"),
+        r"\1 the altar of",
+    ),
+    (
+        re.compile(r"\b([Bb]efore) ark of\b"),
+        r"\1 the ark of",
     ),
     (
         re.compile(r"\b([Ff]rom) tribe of\b"),
@@ -351,6 +463,14 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the day \2",
     ),
     (
+        re.compile(r"\b([Ii]n) day of\b"),
+        r"\1 the day of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) time of\b"),
+        r"\1 the time of",
+    ),
+    (
         re.compile(r"\bfrom beginning\b"),
         "from the beginning",
     ),
@@ -367,12 +487,636 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the house of",
     ),
     (
+        re.compile(r"\b([Tt]o) (build|repair) house of\b"),
+        r"\1 \2 the house of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) house of\b"),
+        r"\1 the house of",
+    ),
+    (
+        re.compile(r"\b([Ii]nside) house of\b"),
+        r"\1 the house of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) houses of\b"),
+        r"\1 the houses of",
+    ),
+    (
+        re.compile(r"\b([Bb]y|[Aa]ccording to) houses of\b"),
+        r"\1 the houses of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) chambers of\b"),
+        r"\1 the chambers of",
+    ),
+    (
+        re.compile(r"\b([Oo]f) house of\b"),
+        r"\1 the house of",
+    ),
+    (
+        re.compile(r"\bhouse of king\b"),
+        "house of the king",
+    ),
+    (
+        re.compile(r"\b([Bb]y) river\b"),
+        r"\1 the river",
+    ),
+    (
+        re.compile(r"\b([Ii]n) heart of\b"),
+        r"\1 the heart of",
+    ),
+    (
+        re.compile(r"\bheart of sea\b"),
+        "heart of the sea",
+    ),
+    (
+        re.compile(r"\bset your heart as heart of god\b"),
+        "set your heart as the heart of a god",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Oo]n|[Uu]pon) face of\b"),
+        r"\1 the face of",
+    ),
+    (
+        re.compile(r"\buncover face of\b"),
+        "uncover the face of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) face of\b"),
+        r"\1 the face of",
+    ),
+    (
+        re.compile(r"\bmake atonement to face of your God\b"),
+        "make atonement before the face of your God",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Ff]rom|[Tt]o|[Oo]n) wall of\b"),
+        r"\1 the wall of",
+    ),
+    (
+        re.compile(r"\bwidth of wall\b"),
+        "width of the wall",
+    ),
+    (
+        re.compile(r"\b([Uu]pon|[Oo]ver|[Oo]n) head of\b"),
+        r"\1 the head of",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Uu]pon|[Ii]n) seat of\b"),
+        r"\1 the seat of",
+    ),
+    (
+        re.compile(r"\b([Bb]efore|[Ff]rom|[Ii]n) tent of\b"),
+        r"\1 the tent of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) eyes of\b"),
+        r"\1 the eyes of",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Ii]nto) ears of\b"),
+        r"\1 the ears of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) root of\b"),
+        r"\1 the root of",
+    ),
+    (
+        re.compile(r"\b([Tt]o|[Ff]rom) top of\b"),
+        r"\1 the top of",
+    ),
+    (
+        re.compile(r"\b([Aa]t|[Ff]rom) corner of\b"),
+        r"\1 the corner of",
+    ),
+    (
+        re.compile(r"\bcorner of house\b"),
+        "corner of the house",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Tt]hrough) middle of\b"),
+        r"\1 the middle of",
+    ),
+    (
+        re.compile(r"\bmiddle of tent\b"),
+        "middle of the tent",
+    ),
+    (
+        re.compile(r"\bmiddle of portion\b"),
+        "middle of the portion",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]n|[Aa]t) entrance of\b"),
+        r"\1 the entrance of",
+    ),
+    (
+        re.compile(r"\bentrance of new gate\b"),
+        "entrance of the new gate",
+    ),
+    (
+        re.compile(r"\bentrance of sea\b"),
+        "entrance of the sea",
+    ),
+    (
+        re.compile(r"\b([Tt]o|[Ff]rom) door of\b"),
+        r"\1 the door of",
+    ),
+    (
+        re.compile(r"\bdoor of furnace\b"),
+        "door of the furnace",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Ii]n|[Ii]nto|[Oo]ver|[Aa]gainst) hand of\b"),
+        r"\1 the hand of",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Ii]nto|[Ff]rom|[Bb]y) hands of\b"),
+        r"\1 the hands of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon|[Tt]o|[Ii]nto) heart of\b"),
+        r"\1 the heart of",
+    ),
+    (
+        re.compile(r"\b([Aa]t|[Bb]y|[Ff]rom|[Tt]o|[Tt]hrough|[Ii]n) gate of\b"),
+        r"\1 the gate of",
+    ),
+    (
+        re.compile(r"\bgate of city\b"),
+        "gate of the city",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Ff]rom|[Tt]o|[Ii]nto) court of\b"),
+        r"\1 the court of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) courts of\b"),
+        r"\1 the courts of",
+    ),
+    (
+        re.compile(r"\bcourt of prison\b"),
+        "court of the prison",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Uu]pon) throne of\b"),
+        r"\1 the throne of",
+    ),
+    (
+        re.compile(r"\b([Ii]n|[Oo]n|[Tt]o|[Ii]nto) mouth of\b"),
+        r"\1 the mouth of",
+    ),
+    (
+        re.compile(r"\bmouth of den\b"),
+        "mouth of the den",
+    ),
+    (
+        re.compile(r"\bmouth of eater\b"),
+        "mouth of the eater",
+    ),
+    (
+        re.compile(r"\bto keep his commandments and his testimonies and his ordinances with all heart and with all soul\b"),
+        "to keep his commandments and his testimonies and his ordinances with all his heart and with all his soul",
+    ),
+    (
+        re.compile(r"\bto keep his commandments and his testimonies and his ordinances with all heart and with all soul, words of covenant\b"),
+        "to keep his commandments and his testimonies and his ordinances with all his heart and with all his soul, words of covenant",
+    ),
+    (
+        re.compile(r"\bwere playing before God with all strength\b"),
+        "were playing before God with all their strength",
+    ),
+    (
+        re.compile(r"\bturn toward you with all heart and all soul\b"),
+        "turn toward you with all their heart and all their soul",
+    ),
+    (
+        re.compile(r"\bwith all soul they swore and with all desire sought him\b"),
+        "with all their soul they swore and with all their desire sought him",
+    ),
+    (
         re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
         "the Lord stirred the spirit of Cyrus",
     ),
     (
         re.compile(r"\ball kingdoms of earth\b"),
         "all kingdoms of the earth",
+    ),
+    (
+        re.compile(r"\ball earth\b"),
+        "all the earth",
+    ),
+    (
+        re.compile(r"\bAll earth\b"),
+        "All the earth",
+    ),
+    (
+        re.compile(r"\btheir fall earth was shaken\b"),
+        "their fall, earth was shaken",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) sound of\b"),
+        r"\1 the sound of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) sound of\b"),
+        r"\1 the sound of",
+    ),
+    (
+        re.compile(r"\bheard in sea\b"),
+        "heard in the sea",
+    ),
+    (
+        re.compile(r"\bfrom breast\b"),
+        "from the breast",
+    ),
+    (
+        re.compile(r"\bfrom breasts of\b"),
+        "from the breasts of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) (seed|elders|voice|fruits|abundance|springs|captivity|multitude) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) seed of\b"),
+        r"\1 the seed of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) (edge|rising|womb|belly|fat|fruit|wages|way|glory|east|possession) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) (half tribe|mountains|brothers|borders|chiefs|country|depths|height) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) (affliction|snare|produce|king|cities|islands|wrath) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) birds of\b"),
+        r"\1 the birds of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) all tribes of\b"),
+        r"\1 all the tribes of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) threshing floor of\b"),
+        r"\1 the threshing floor of",
+    ),
+    (
+        re.compile(r"\bin upper court\b"),
+        "in the upper court",
+    ),
+    (
+        re.compile(r"\bin fire of\b"),
+        "in the fire of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (law|works|strength|gates|shelter|light|name|vision) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (year|depth|hidden place|blood|tents|places) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (holy things|clouds|uprightness|commandments|broad place|heat|pillar|path|counsel|mercy|shadow|depths|innocence) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (acts|abundance|gathering|council|ways|womb|dark place|glory|prophets|paradise) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\bin streets of\b"),
+        "in the streets of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) (end|gates|completion|time|head) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) feast of\b"),
+        r"\1 the feast of",
+    ),
+    (
+        re.compile(r"\bin book of\b"),
+        "in the book of",
+    ),
+    (
+        re.compile(r"\bupon book of\b"),
+        "upon the book of",
+    ),
+    (
+        re.compile(r"\bin words of\b"),
+        "in the words of",
+    ),
+    (
+        re.compile(r"\bto words of\b"),
+        "to the words of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (voice|number|birds|beasts|remnant|forecourt|chiefs|prayer|counsel) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (bring up|carry) ark of\b"),
+        r"\1 \2 the ark of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (enter|strengthen) house of\b"),
+        r"\1 \2 the house of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) turn kingdom of\b"),
+        r"\1 turn the kingdom of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (valley|ordinance|judgment|sins) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (men|abundance|elders|people|ruler|cities|generations|measures|length) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) destroy race of\b"),
+        r"\1 destroy the race of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) whom word of\b"),
+        r"\1 whom the word of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) hear voice of\b"),
+        r"\1 hear the voice of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) the all beasts of\b"),
+        r"\1 all the beasts of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) all beasts of\b"),
+        r"\1 all the beasts of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) (rulers|ends|servant|daughter) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) celebrate feast of\b"),
+        r"\1 celebrate the feast of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) all army of\b"),
+        r"\1 all the army of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) voice of\b"),
+        r"\1 the voice of",
+    ),
+    (
+        re.compile(r"\b([Ww]ith) (sons|voice|words|weapons|instruments|beasts|rulers|house|servants|peoples|oil|strength|shame|assembly|fat) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ww]ith) (wounded|beauty|fullness|wife|vengeance) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]ccording to) (number|works|word|writing|counsel) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]ccording to) (matter|abundance|likeness|anger|measures) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]ccording to) purity of\b"),
+        r"\1 the purity of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) prayer of\b"),
+        r"\1 the prayer of",
+    ),
+    (
+        re.compile(r"\bin way of\b"),
+        "in the way of",
+    ),
+    (
+        re.compile(r"\bin ways of\b"),
+        "in the ways of",
+    ),
+    (
+        re.compile(r"\bin sight of\b"),
+        "in the sight of",
+    ),
+    (
+        re.compile(r"\b([Bb]y) spirit of\b"),
+        r"\1 the spirit of",
+    ),
+    (
+        re.compile(r"\b([Ff]rom) tower of\b"),
+        r"\1 the tower of",
+    ),
+    (
+        re.compile(r"\b([Oo]n) (land|tops) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Uu]pon) (borders|road|house|ascent|beasts|way) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Oo]n) (breadth|corner|bank) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) men of\b"),
+        r"\1 the men of",
+    ),
+    (
+        re.compile(r"\b([Bb]y) sword of\b"),
+        r"\1 the sword of",
+    ),
+    (
+        re.compile(r"\b([Bb]y) (number|words) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Bb]y) (command|decree|name|king|strength|works) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) ways of\b"),
+        r"\1 the ways of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) (words|kingdom|bed|inhabitants) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Uu]nder) hand of\b"),
+        r"\1 the hand of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) (works|treasuries|crushing) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]nto) (depth|chamber) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]nto) (depths|kingdom) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]nto) (holy|wilderness|torrent|treasury|pit|valley) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]nto) (cities|storerooms|foundations|bosom) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) kingdom of\b"),
+        r"\1 the kingdom of",
+    ),
+    (
+        re.compile(r"\b([Aa]gainst) kingdom of\b"),
+        r"\1 the kingdom of",
+    ),
+    (
+        re.compile(r"\b([Aa]gainst) land of\b"),
+        r"\1 the land of",
+    ),
+    (
+        re.compile(r"\b([Aa]fter) (end|death|wife) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]fter) (thoughts|pleasures) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Bb]efore) king of\b"),
+        r"\1 the king of",
+    ),
+    (
+        re.compile(r"\b([Tt]hrough) broad place of\b"),
+        r"\1 the broad place of",
+    ),
+    (
+        re.compile(r"\b([Tt]hrough) generations of\b"),
+        r"\1 the generations of",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Uu]pon) (walls|wings|heads) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) (wings|valley) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Tt]hrough) gates of\b"),
+        r"\1 the gates of",
+    ),
+    (
+        re.compile(r"\b([Tt]o) word of\b"),
+        r"\1 the word of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) writing of\b"),
+        r"\1 the writing of",
+    ),
+    (
+        re.compile(r"\bin multitude of\b"),
+        "in the multitude of",
+    ),
+    (
+        re.compile(r"\bIn multitude of\b"),
+        "In the multitude of",
+    ),
+    (
+        re.compile(r"\bto multitude of\b"),
+        "to the multitude of",
+    ),
+    (
+        re.compile(r"\bby command of\b"),
+        "by the command of",
+    ),
+    (
+        re.compile(r"\baccording to command of\b"),
+        "according to the command of",
+    ),
+    (
+        re.compile(r"\bto command of\b"),
+        "to the command of",
+    ),
+    (
+        re.compile(r"\bin assembly of\b"),
+        "in the assembly of",
+    ),
+    (
+        re.compile(r"\bin plain of\b"),
+        "in the plain of",
+    ),
+    (
+        re.compile(r"\bat beginning of\b"),
+        "at the beginning of",
+    ),
+    (
+        re.compile(r"\bAt beginning of\b"),
+        "At the beginning of",
+    ),
+    (
+        re.compile(r"\bin reign of\b"),
+        "in the reign of",
+    ),
+    (
+        re.compile(r"\bon mountains of\b"),
+        "on the mountains of",
+    ),
+    (
+        re.compile(r"\bupon mountains of\b"),
+        "upon the mountains of",
+    ),
+    (
+        re.compile(r"\bUpon mountains of\b"),
+        "Upon the mountains of",
+    ),
+    (
+        re.compile(r"\bover land of\b"),
+        "over the land of",
+    ),
+    (
+        re.compile(r"\bupon land of\b"),
+        "upon the land of",
+    ),
+    (
+        re.compile(r"\bland of north\b"),
+        "land of the north",
+    ),
+    (
+        re.compile(r"\bland of life\b"),
+        "land of the living",
+    ),
+    (
+        re.compile(r"\bface of sword\b"),
+        "face of the sword",
+    ),
+    (
+        re.compile(r"\bWho measured water with hand and heaven with span, and who set all the earth by handful\? Who set mountains with scale and glens with balance\?"),
+        "Who measured water with his hand and heaven with a span, and who set all the earth with a handful? Who set mountains with a scale and glens with a balance?",
+    ),
+    (
+        re.compile(r"\bwith balance and with bag of deceitful weights\b"),
+        "with a balance and with a bag of deceitful weights",
     ),
     (
         re.compile(r"\bbuild for him house in Jerusalem\b"),
@@ -473,6 +1217,26 @@ LORD_OBJECT_REPLACEMENTS = (
     (
         re.compile(r"\b([Oo]n|[Ff]rom) first day\b"),
         r"\1 the first day",
+    ),
+    (
+        re.compile(r"\b([Oo]n) (first|fifth|tenth|thirteenth|fourteenth|fifteenth) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) (forecourt|last) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) doors of\b"),
+        r"\1 the doors of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) water of\b"),
+        r"\1 the water of",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (eighteenth|thirty-eighth) year of\b"),
+        r"\1 the \2 year of",
     ),
     (
         re.compile(r"\b([Oo]n|[Uu]ntil) (eighth|sixteenth|last) day\b"),

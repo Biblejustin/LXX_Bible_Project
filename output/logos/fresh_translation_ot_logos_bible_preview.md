@@ -230,7 +230,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**2 Chronicles 1:2** And Solomon spoke to all Israel, to commanders of thousands and of hundreds and to judges and to all rulers before Israel, to chiefs of fathers.
+**2 Chronicles 1:2** And Solomon spoke to all Israel, to commanders of thousands and of hundreds and to judges and to all rulers before Israel, to the chiefs of fathers.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
@@ -310,7 +310,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Psalms
 
-**Psalms 1:1** Blessed is the man who did not walk in counsel of ungodly men, and did not stand in way of sinners, and did not sit upon seat of pestilent men,
+**Psalms 1:1** Blessed is the man who did not walk in the counsel of ungodly men, and did not stand in the way of sinners, and did not sit upon the seat of pestilent men,
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 51
@@ -378,7 +378,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Isaiah
 
-**Isaiah 1:1** Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
+**Isaiah 1:1** Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in the reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 20
@@ -400,7 +400,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Jeremiah 1:2** to whom word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+**Jeremiah 1:2** to whom the word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -429,7 +429,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezekiel
 
-**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in the midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on the fifth of the month, and I was in the midst of captivity by the river Chebar, and heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 31
@@ -439,7 +439,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by river Chebar, and the hand of the Lord came upon me.
+**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13
@@ -621,7 +621,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 36
 
-**Haggai 1:2** Thus says the Lord Almighty: This people says, Time has not yet come to build house of the Lord.
+**Haggai 1:2** Thus says the Lord Almighty: This people says, Time has not yet come to build the house of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10

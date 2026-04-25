@@ -5,7 +5,7 @@ Selected verses: 6
 ## Proverbs 3:9
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, righteous, righteousness; crossref_top_vote=33; reco=keep
-- fresh: Honor the Lord from your righteous labors and offer firstfruits to him from fruits of your righteousness.
+- fresh: Honor the Lord from your righteous labors and offer firstfruits to him from the fruits of your righteousness.
 - brenton: Honour the Lord with thy just labours, and give him the first of thy fruits of righteousness:
 
 ## Proverbs 3:16
