@@ -218,6 +218,28 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "nor will vessel go through",
         "from mouth of the Lord",
         "from mouth of Jeremiah",
+        "from mouth of God",
+        "by mouth of Jeremiah",
+        "ends of earth",
+        "end of earth",
+        "face of earth",
+        "surface of earth",
+        "from end of the earth",
+        "from ends of the earth",
+        "to end of the earth",
+        "to ends of the earth",
+        "from face of the earth",
+        "In first year",
+        "in second year",
+        "in third year",
+        "in fourth year",
+        "in eighth year",
+        "in twelfth year",
+        "in sixth month",
+        "of first month",
+        "on first day",
+        "from first day",
+        "until last day",
         "the Lord stirred spirit of Cyrus",
         "all kingdoms of earth",
         "build for him house in Jerusalem",
@@ -264,6 +286,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         re.compile(r"\btoward Lord our God\b"),
         re.compile(r"\bHoly, holy, holy, Lord of hosts\b"),
         re.compile(r"\bking Lord of hosts\b"),
+        re.compile(r"\bof month\b"),
     )
 
     for row in ot_rows:
@@ -307,6 +330,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Blessed are you by the Lord" in by_ref["Psalms 113:23"]["draft_translation"]
     assert "the name of the Lord is great to you" in by_ref["Isaiah 33:21"]["draft_translation"]
     assert "from the mouth of Jeremiah" in by_ref["Ezra 1:1"]["draft_translation"]
+    assert "by the mouth of Jeremiah" in by_ref["2 Chronicles 36:22"]["draft_translation"]
+    assert "from the mouth of God" in by_ref["2 Chronicles 35:22"]["draft_translation"]
+    assert "from the mouth of prophets" in by_ref["Zechariah 8:9"]["draft_translation"]
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")
@@ -321,6 +347,17 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     )
     assert "whose king is son of nobles" in by_ref["Ecclesiastes 10:17"]["draft_translation"]
     assert by_ref["Daniel 12:12"]["draft_translation"].startswith("Blessed is the one remaining")
+    assert "face of the earth" in by_ref["Psalms 1:4"]["draft_translation"]
+    assert "ends of the earth" in by_ref["Psalms 2:8"]["draft_translation"]
+    assert "from the end of the earth" in by_ref["Isaiah 5:26"]["draft_translation"]
+    assert "From the ends of the earth" in by_ref["Psalms 60:3"]["draft_translation"]
+    assert "from the face of the earth" in by_ref["Zephaniah 1:2"]["draft_translation"]
+    assert "In the first year of Cyrus" in by_ref["2 Chronicles 36:22"]["draft_translation"]
+    assert "in the second year of their coming" in by_ref["Ezra 3:8"]["draft_translation"]
+    assert by_ref["Daniel 1:1"]["draft_translation"].startswith("In the third year")
+    assert "on the first day of the seventh month" in by_ref["Nehemiah 8:2"]["draft_translation"]
+    assert "from the first day until the last day" in by_ref["Nehemiah 8:18"]["draft_translation"]
+    assert "in the sixth month, on the first day of the month" in by_ref["Haggai 1:1"]["draft_translation"]
 
 
 def test_lexham_textual_export_is_not_enabled_from_user_desktop_by_default() -> None:

@@ -5,7 +5,7 @@ Selected verses: 6
 ## Ezra 6:3
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, sacrifice; crossref_top_vote=4; reco=keep
-- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- fresh: In the first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 - brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
 ## Ezra 7:6

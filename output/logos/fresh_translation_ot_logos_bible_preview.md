@@ -286,7 +286,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 9
 
-**Esther 1:3** in third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
+**Esther 1:3** in the third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -405,7 +405,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Jeremiah 1:3** and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in fifth month.
+**Jeremiah 1:3** and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -429,12 +429,12 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezekiel
 
-**Ezekiel 1:1** And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 31
 
-**Ezekiel 1:2** Fifth of month, this was fifth year of captivity of king Joakim,
+**Ezekiel 1:2** Fifth of the month, this was fifth year of captivity of king Joakim,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -446,7 +446,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Daniel
 
-**Daniel 1:1** In third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+**Daniel 1:1** In the third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
@@ -604,19 +604,19 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**Zephaniah 1:2** Let all things utterly fail from face of earth, says the Lord.
+**Zephaniah 1:2** Let all things utterly fail from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9
 
-**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says the Lord.
+**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
 
 ## Haggai
 
-**Haggai 1:1** In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+**Haggai 1:1** In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
@@ -633,7 +633,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Zechariah
 
-**Zechariah 1:1** In eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+**Zechariah 1:1** In the eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14

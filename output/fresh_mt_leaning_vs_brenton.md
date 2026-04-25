@@ -668,6 +668,15 @@ Rows: 712
 - mt: And Moses brought their cause before the LORD.
 - brenton: And the Lord spoke to Moses, saying,
 
+## Ezekiel 1:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.195`
+- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+- mt: Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
+- brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
+
 ## Ezekiel 5:17
 - priority: `0`
 - importance: `none`
@@ -784,15 +793,6 @@ Rows: 712
 - fresh: For the Lord our God blessed you in every work of your hands. Know how you passed through that great and fearful wilderness. Behold, forty years the Lord your God is with you. You lacked no thing.
 - mt: For the LORD your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the LORD your God has been with you; you have lacked nothing.
 - brenton: For the Lord our God has blessed thee in every work of thy hands. Consider how thou wentest through that great and terrible wilderness: behold, the Lord thy God has been with thee forty years; thou didst not lack any thing.
-
-## Ezekiel 1:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.778`
-- fresh_brenton_ratio: `0.199`
-- fresh: And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
-- mt: Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
-- brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 
 ## Genesis 32:14
 - priority: `0`
@@ -1262,15 +1262,6 @@ Rows: 712
 - mt: Or when the spirit of jealousy comes upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.
 - brenton: or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.
 
-## 2 Chronicles 36:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.764`
-- fresh_brenton_ratio: `0.316`
-- fresh: to fulfill the word of the Lord by mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
-- mt: To fulfill the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfill threescore and ten years.
-- brenton: That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting and sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
-
 ## Lamentations 2:16
 - priority: `0`
 - importance: `none`
@@ -1279,6 +1270,15 @@ Rows: 712
 - fresh: All your enemies opened their mouth over you, hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected. We found it. We saw it.
 - mt: All yours enemies have opened their mouth against you: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
 - brenton: Ain. All thine enemies have opened their mouth against thee: they have hissed and gnashed their teeth, and said, We have swallowed her up: moreover this is the day which we looked for; we have found it, we have seen it.
+
+## 2 Chronicles 36:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.779`
+- fresh_brenton_ratio: `0.334`
+- fresh: to fulfill the word of the Lord by the mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
+- mt: To fulfill the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfill threescore and ten years.
+- brenton: That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting and sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
 
 ## 2 Samuel 23:1
 - priority: `0`
@@ -6041,15 +6041,6 @@ Rows: 712
 - mt: You were perfect in your ways from the day that you were created, till iniquity was found in you.
 - brenton: Thou wast faultless in thy days, from the day that thou wast created, until iniquity was found in thee.
 
-## Ezekiel 45:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.817`
-- fresh_brenton_ratio: `0.713`
-- fresh: And in first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
-- mt: In the first month, in the fourteenth day of the month, all of you shall have the passover, a feast of seven days; unleavened bread shall be eaten.
-- brenton: And in the first month, on the fourteenth day of the month, ye shall have the feast of the passover; seven days shall ye eat unleavened bread.
-
 ## Numbers 33:34
 - priority: `0`
 - importance: `none`
@@ -6193,6 +6184,15 @@ Rows: 712
 - fresh: Helez the Phelothite, Ira son of Ikkesh the Thekoite,
 - mt: Helez the Paltite, Ira the son of Ikkesh the Tekoite,
 - brenton: Selles the Kelothite: Iras the son of Isca the Thecoite.
+
+## Ezekiel 45:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.835`
+- fresh_brenton_ratio: `0.733`
+- fresh: And in the first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+- mt: In the first month, in the fourteenth day of the month, all of you shall have the passover, a feast of seven days; unleavened bread shall be eaten.
+- brenton: And in the first month, on the fourteenth day of the month, ye shall have the feast of the passover; seven days shall ye eat unleavened bread.
 
 ## Ezekiel 48:23
 - priority: `0`

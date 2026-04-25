@@ -167,7 +167,7 @@ Rows: 100
 - book: Isaiah
 - score: 24
 - reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=covenant, lord, seed, spirit; crossref_top_vote=320; eng_reco=keep; reco=keep
-- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said the Lord, from now and forever.
+- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from the mouth of your seed, said the Lord, from now and forever.
 - brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Isaiah 9:6

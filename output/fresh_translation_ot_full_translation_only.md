@@ -18454,7 +18454,7 @@ a tenth of fine flour kneaded in oil for the one lamb, a sacrifice, an aroma of 
 
 **Numbers 28:14**
 
-And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of month by month throughout the months of the year.
+And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of the month by month throughout the months of the year.
 
 **Numbers 28:15**
 
@@ -42962,7 +42962,7 @@ These from sons of Gad were chiefs of army; least one was over hundred, and grea
 
 **1 Chronicles 12:16**
 
-These crossed Jordan in first month, when it was filled over all its banks, and they drove out all dwelling in valleys from east to west.
+These crossed Jordan in the first month, when it was filled over all its banks, and they drove out all dwelling in valleys from east to west.
 
 **1 Chronicles 12:17**
 
@@ -44500,7 +44500,7 @@ From sons of Perez, chief of all commanders of force for first month.
 
 **1 Chronicles 27:4**
 
-And over division of second month was Dodavah the Ahohi, and over his division twenty-four thousand, commanders of force.
+And over division of the second month was Dodavah the Ahohi, and over his division twenty-four thousand, commanders of force.
 
 **1 Chronicles 27:5**
 
@@ -44984,7 +44984,7 @@ And Solomon began building house of the Lord in Jerusalem on mountain of Moriah,
 
 **2 Chronicles 3:2**
 
-And he began building in second month, in fourth year of his reign.
+And he began building in the second month, in the fourth year of his reign.
 
 **2 Chronicles 3:3**
 
@@ -45400,7 +45400,7 @@ And Solomon made feast at that time seven days, and all Israel with him, very gr
 
 **2 Chronicles 7:9**
 
-And on eighth day he made dismissal, because dedication of altar he made seven days, feast.
+And on the eighth day he made dismissal, because dedication of altar he made seven days, feast.
 
 **2 Chronicles 7:10**
 
@@ -46084,7 +46084,7 @@ And he assembled Judah and Benjamin and sojourners dwelling with him from Ephrai
 
 **2 Chronicles 15:10**
 
-And they were gathered into Jerusalem in third month, in fifteenth year of kingdom of Asa.
+And they were gathered into Jerusalem in the third month, in fifteenth year of kingdom of Asa.
 
 **2 Chronicles 15:11**
 
@@ -46208,7 +46208,7 @@ And his heart was lifted high in the way of the Lord, and he further removed hig
 
 **2 Chronicles 17:7**
 
-And in third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in cities of Judah,
+And in the third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in cities of Judah,
 
 **2 Chronicles 17:8**
 
@@ -47148,7 +47148,7 @@ And he built cities in mountain of Judah, and in forests dwellings and towers.
 
 **2 Chronicles 27:5**
 
-He fought against king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in first year and second and third.
+He fought against king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in the first year and second and third.
 
 **2 Chronicles 27:6**
 
@@ -47284,7 +47284,7 @@ And he did upright in sight of the Lord according to all things David his father
 
 **2 Chronicles 29:3**
 
-And it came to pass when he stood over his kingdom, in first month, he opened doors of house of the Lord and repaired them.
+And it came to pass when he stood over his kingdom, in the first month, he opened doors of house of the Lord and repaired them.
 
 **2 Chronicles 29:4**
 
@@ -47340,7 +47340,7 @@ And priests entered inside house of the Lord to sanctify it and threw out every 
 
 **2 Chronicles 29:17**
 
-And they began on first day of new moon of first month to sanctify, and on eighth day of month they entered temple of the Lord, and they sanctified house of the Lord in eight days, and on sixteenth day of first month they finished.
+And they began on the first day of new moon of the first month to sanctify, and on the eighth day of the month they entered temple of the Lord, and they sanctified house of the Lord in eight days, and on the sixteenth day of the first month they finished.
 
 **2 Chronicles 29:18**
 
@@ -47426,7 +47426,7 @@ And Hezekiah sent over all Israel and Judah and wrote letters to Ephraim and Man
 
 **2 Chronicles 30:2**
 
-And king and rulers and all assembly in Jerusalem took counsel to do passover in second month.
+And king and rulers and all assembly in Jerusalem took counsel to do passover in the second month.
 
 **2 Chronicles 30:3**
 
@@ -47470,7 +47470,7 @@ And in Judah the hand of the Lord came to give them one heart, to come do accord
 
 **2 Chronicles 30:13**
 
-And much people gathered into Jerusalem to do feast of unleavened bread in second month, very great assembly.
+And much people gathered into Jerusalem to do feast of unleavened bread in the second month, very great assembly.
 
 **2 Chronicles 30:14**
 
@@ -47478,7 +47478,7 @@ And they rose and took down altars in Jerusalem, and all things in which they bu
 
 **2 Chronicles 30:15**
 
-And they sacrificed passover on fourteenth of second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into house of the Lord.
+And they sacrificed passover on fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into house of the Lord.
 
 **2 Chronicles 30:16**
 
@@ -47556,7 +47556,7 @@ Sons of Israel and Judah and those dwelling in cities of Judah also brought tith
 
 **2 Chronicles 31:7**
 
-In third month they began to lay foundation of heaps, and in seventh month they finished.
+In the third month they began to lay foundation of heaps, and in seventh month they finished.
 
 **2 Chronicles 31:8**
 
@@ -47862,7 +47862,7 @@ And he did upright before the Lord and walked in ways of David his father and di
 
 **2 Chronicles 34:3**
 
-And in eighth year of his kingdom, while he was still a young boy, he began to seek the Lord God of David his father. And in twelfth year of his kingdom he began to cleanse Judah and Jerusalem from high places and groves and molten things.
+And in the eighth year of his kingdom, while he was still a young boy, he began to seek the Lord God of David his father. And in the twelfth year of his kingdom he began to cleanse Judah and Jerusalem from high places and groves and molten things.
 
 **2 Chronicles 34:4**
 
@@ -47988,7 +47988,7 @@ And Josiah removed all abominations from all land that belonged to sons of Israe
 
 **2 Chronicles 35:1**
 
-And Josiah kept Passover to the Lord his God, and they sacrificed Passover on fourteenth of first month.
+And Josiah kept Passover to the Lord his God, and they sacrificed Passover on fourteenth of the first month.
 
 **2 Chronicles 35:2**
 
@@ -48072,7 +48072,7 @@ And he sent messengers to him, saying, What to me and to you, king of Judah? I d
 
 **2 Chronicles 35:22**
 
-And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Necho from mouth of God, and came to fight in plain of Megiddo.
+And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Necho from the mouth of God, and came to fight in plain of Megiddo.
 
 **2 Chronicles 35:23**
 
@@ -48178,11 +48178,11 @@ And he transported remnant to Babylon, and they were servants to him and to his 
 
 **2 Chronicles 36:21**
 
-to fulfill the word of the Lord by mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
+to fulfill the word of the Lord by the mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
 
 **2 Chronicles 36:22**
 
-In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
+In the first year of Cyrus king of Persians, after the word of the Lord by the mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
 
 **2 Chronicles 36:23**
 
@@ -48542,7 +48542,7 @@ And after this came the continual whole burnt offerings, and those for the new m
 
 **Ezra 3:6**
 
-On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
+On the first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
 
 **Ezra 3:7**
 
@@ -48550,7 +48550,7 @@ And they gave silver to stonecutters and craftsmen, and food and drink and oil t
 
 **Ezra 3:8**
 
-And in second year of their coming to house of God in Jerusalem, in second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
+And in the second year of their coming to house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
 
 **Ezra 3:9**
 
@@ -48722,7 +48722,7 @@ But from time when our fathers provoked God of heaven, he gave them into hand of
 
 **Ezra 5:13**
 
-But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
+But in the first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
 
 **Ezra 5:14**
 
@@ -48752,7 +48752,7 @@ And in city of Bareis, city of the Medes, one scroll was found, and this memoran
 
 **Ezra 6:3**
 
-In first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+In the first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 
 **Ezra 6:4**
 
@@ -48800,7 +48800,7 @@ And elders of the Jews were building and prospering through prophecy of Haggai t
 
 **Ezra 6:15**
 
-And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
+And they completed this house by third day of the month Adar, which was sixth year in reign of Darius the king.
 
 **Ezra 6:16**
 
@@ -48862,11 +48862,11 @@ And some from sons of Israel and from the priests and from the Levites and the s
 
 **Ezra 7:8**
 
-And they came to Jerusalem in fifth month; this was seventh year of the king.
+And they came to Jerusalem in the fifth month; this was seventh year of the king.
 
 **Ezra 7:9**
 
-For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Jerusalem, because good hand of his God was upon him.
+For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because good hand of his God was upon him.
 
 **Ezra 7:10**
 
@@ -49216,7 +49216,7 @@ Only Jonathan son of Asahel and Jahaziah son of Tikvah stood for this, and Meshu
 
 **Ezra 10:16**
 
-And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
+And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on the first day of the tenth month to investigate the matter.
 
 **Ezra 10:17**
 
@@ -50134,7 +50134,7 @@ And all the people were gathered as one man into the broad place before Water Ga
 
 **Nehemiah 8:2**
 
-And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on first day of the seventh month.
+And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on the first day of the seventh month.
 
 **Nehemiah 8:3**
 
@@ -50198,7 +50198,7 @@ And all the assembly, those returned from captivity, made booths and sat in boot
 
 **Nehemiah 8:18**
 
-And he read in book of law of God day by day, from first day until last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
+And he read in book of law of God day by day, from the first day until the last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
 
 ### Chapter 9
 
@@ -50940,7 +50940,7 @@ In those days, when King Artaxerxes was enthroned in Shushan the city,
 
 **Esther 1:3**
 
-in third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
+in the third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
 
 **Esther 1:4**
 
@@ -51140,7 +51140,7 @@ And he planned to destroy all the Jews under kingdom of Artaxerxes.
 
 **Esther 3:7**
 
-And he made a decree in twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mordecai in one day, and the lot fell on fourteenth of the month, which is Adar.
+And he made a decree in the twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mordecai in one day, and the lot fell on fourteenth of the month, which is Adar.
 
 **Esther 3:8**
 
@@ -55204,7 +55204,7 @@ In return for what they oppressed, he will bring out judgment of meek men for we
 
 **Job 36:16**
 
-And further he deceived you from mouth of enemy: abyss, pouring out beneath it, and your table came down full of richness.
+And further he deceived you from the mouth of enemy: abyss, pouring out beneath it, and your table came down full of richness.
 
 **Job 36:17**
 
@@ -55984,7 +55984,7 @@ And he will be like tree planted by outlets of waters, which will give its fruit
 
 **Psalms 1:4**
 
-Not so ungodly men, not so, but like chaff which wind throws from face of earth.
+Not so ungodly men, not so, but like chaff which wind throws from the face of the earth.
 
 **Psalms 1:5**
 
@@ -56026,7 +56026,7 @@ declaring decree of the Lord. The Lord said to me, You are my son; today I have 
 
 **Psalms 2:8**
 
-Ask from me, and I will give nations as your inheritance and ends of earth as your possession.
+Ask from me, and I will give nations as your inheritance and ends of the earth as your possession.
 
 **Psalms 2:9**
 
@@ -57204,7 +57204,7 @@ Rescue my soul from sword, and my only one from hand of dog.
 
 **Psalms 21:22**
 
-Save me from mouth of lion, and my humiliation from horns of unicorns.
+Save me from the mouth of lion, and my humiliation from horns of unicorns.
 
 **Psalms 21:23**
 
@@ -57228,7 +57228,7 @@ Poor men will eat and be filled, and those seeking him will praise the Lord; the
 
 **Psalms 21:28**
 
-All ends of earth will remember and turn to the Lord, and all families of nations will worship before you.
+All ends of the earth will remember and turn to the Lord, and all families of nations will worship before you.
 
 **Psalms 21:29**
 
@@ -58892,7 +58892,7 @@ Come, see works of the Lord, what wonders he set upon earth,
 
 **Psalms 45:10**
 
-doing away wars to ends of earth. He will break bow and shatter weapon and burn shields in fire.
+doing away wars to the ends of the earth. He will break bow and shatter weapon and burn shields in fire.
 
 **Psalms 45:11**
 
@@ -58988,7 +58988,7 @@ We received, O God, your mercy in midst of your temple.
 
 **Psalms 47:11**
 
-According to your name, O God, so also your praise to ends of earth; your right hand full of righteousness.
+According to your name, O God, so also your praise to the ends of the earth; your right hand full of righteousness.
 
 **Psalms 47:12**
 
@@ -59698,7 +59698,7 @@ Sin of their mouth, word of their lips. Let them be caught in their pride, and f
 
 **Psalms 58:14**
 
-In wrath of ending, and they will be no more; and they will know that God rules Jacob to ends of earth. Interlude.
+In wrath of ending, and they will be no more; and they will know that God rules Jacob to the ends of the earth. Interlude.
 
 **Psalms 58:15**
 
@@ -59786,7 +59786,7 @@ Hear, O God, my supplication; attend to my prayer.
 
 **Psalms 60:3**
 
-From ends of earth I cried to you when my heart grew faint; on rock you lifted me up.
+From the ends of the earth I cried to you when my heart grew faint; on rock you lifted me up.
 
 **Psalms 60:4**
 
@@ -59986,7 +59986,7 @@ Blessed is the one whom you chose and took to yourself; he will dwell in your co
 
 **Psalms 64:6**
 
-Hear us, God our savior, hope of all ends of earth and of those far off in sea,
+Hear us, God our savior, hope of all ends of the earth and of those far off in sea,
 
 **Psalms 64:7**
 
@@ -60134,7 +60134,7 @@ Earth gave her fruit; may God, our God, bless us.
 
 **Psalms 66:8**
 
-May God bless us, and let all ends of earth fear him.
+May God bless us, and let all ends of the earth fear him.
 
 ### Chapter 67
 
@@ -62478,7 +62478,7 @@ Because great God Lord and great king over all gods,
 
 **Psalms 94:4**
 
-because ends of earth in his hand and heights of mountains his.
+because ends of the earth in his hand and heights of mountains his.
 
 **Psalms 94:5**
 
@@ -62624,7 +62624,7 @@ The Lord made known his salvation; before nations he revealed his righteousness.
 
 **Psalms 97:3**
 
-He remembered his mercy to Jacob and his truth to house of Israel; all ends of earth saw salvation of our God.
+He remembered his mercy to Jacob and his truth to house of Israel; all ends of the earth saw salvation of our God.
 
 **Psalms 97:4**
 
@@ -63072,7 +63072,7 @@ When you turn away your face, they will be troubled; you will take away their sp
 
 **Psalms 103:30**
 
-You send out your spirit, and they will be created, and you renew face of earth.
+You send out your spirit, and they will be created, and you renew face of the earth.
 
 **Psalms 103:31**
 
@@ -65458,7 +65458,7 @@ All that the Lord wanted he did in heaven and on earth, in seas and in all deeps
 
 **Psalms 134:7**
 
-Raising clouds from ends of earth, he made lightnings for rain, bringing winds from his treasuries.
+Raising clouds from the ends of the earth, he made lightnings for rain, bringing winds from his treasuries.
 
 **Psalms 134:8**
 
@@ -67888,7 +67888,7 @@ One walking upright fears Lord, but one twisting his ways will be dishonored.
 
 **Proverbs 14:3**
 
-From mouth of fools rod of insolence, but lips of wise will guard them.
+From the mouth of fools rod of insolence, but lips of wise will guard them.
 
 **Proverbs 14:4**
 
@@ -68362,7 +68362,7 @@ When taking gifts in bosom unjustly, ways do not prosper; ungodly turns aside wa
 
 **Proverbs 17:24**
 
-Face of understanding man belongs to wise one, but eyes of fool to ends of earth.
+Face of understanding man belongs to wise one, but eyes of fool to the ends of the earth.
 
 **Proverbs 17:25**
 
@@ -69320,7 +69320,7 @@ From his own ways one sending word through foolish messenger makes reproach for 
 
 **Proverbs 26:7**
 
-Take away journey of legs and lawlessness from mouth of fools.
+Take away journey of legs and lawlessness from the mouth of fools.
 
 **Proverbs 26:8**
 
@@ -69756,7 +69756,7 @@ But God taught me wisdom, and I knew knowledge of holy ones.
 
 **Proverbs 30:4**
 
-Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of earth? What name to him, or what name to his children, so that you may know?
+Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of the earth? What name to him, or what name to his children, so that you may know?
 
 **Proverbs 30:5**
 
@@ -71850,7 +71850,7 @@ And the Lord of hosts was enraged in anger against his people, and he laid his h
 
 **Isaiah 5:26**
 
-Therefore he will raise signal among nations far off and whistle to them from end of earth, and look, swiftly lightly they come.
+Therefore he will raise signal among nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
 
 **Isaiah 5:27**
 
@@ -72060,7 +72060,7 @@ And it will take away from Judah man who can lift head or be able to accomplish 
 
 **Isaiah 8:9**
 
-Know, nations, and be defeated; hear, to end of earth. Having grown strong, be defeated. If again you grow strong, again you will be defeated.
+Know, nations, and be defeated; hear, to the end of the earth. Having grown strong, be defeated. If again you grow strong, again you will be defeated.
 
 **Isaiah 8:10**
 
@@ -74382,7 +74382,7 @@ And your anger, with which you raged, and your bitterness came up to me, and I w
 
 **Isaiah 37:30**
 
-And this to you = sign: Eat this year what you sowed, and in second year remnant, and in third year sow and reap and plant vineyards and eat their fruit.
+And this to you = sign: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
 
 **Isaiah 37:31**
 
@@ -74652,7 +74652,7 @@ So do not say, Jacob, and what did you speak, Israel? My way was hidden from God
 
 **Isaiah 40:28**
 
-And now did you not know? Did you not hear? Eternal God, God who prepared ends of earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
+And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 
 **Isaiah 40:29**
 
@@ -74686,7 +74686,7 @@ Who worked and did these things? He called it from generations of beginning. I =
 
 **Isaiah 41:5**
 
-Nations saw and feared; ends of earth drew near and came together.
+Nations saw and feared; ends of the earth drew near and came together.
 
 **Isaiah 41:6**
 
@@ -74824,7 +74824,7 @@ Behold, former things came, and new things which I announce; before they spring 
 
 **Isaiah 42:10**
 
-Sing to the Lord new hymn, his beginning; glorify his name from end of earth, those going down into sea and sailing it, islands and those dwelling in them.
+Sing to the Lord new hymn, his beginning; glorify his name from the end of the earth, those going down into sea and sailing it, islands and those dwelling in them.
 
 **Isaiah 42:11**
 
@@ -74910,7 +74910,7 @@ Do not fear, because I am with you. From east I will bring your seed, and from w
 
 **Isaiah 43:6**
 
-I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from ends of earth,
+I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from the ends of the earth,
 
 **Isaiah 43:7**
 
@@ -75202,7 +75202,7 @@ If they declare, let them come near so they may know together. Who made these th
 
 **Isaiah 45:22**
 
-Turn to me and be saved, those from end of earth. I am God and there is no other.
+Turn to me and be saved, those from the end of the earth. I am God and there is no other.
 
 **Isaiah 45:23**
 
@@ -75412,7 +75412,7 @@ And your seed would have become like sand, and offspring of your womb like dust 
 
 **Isaiah 48:20**
 
-Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to end of earth. Say, the Lord rescued his servant Jacob.
+Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
 
 **Isaiah 48:21**
 
@@ -75446,7 +75446,7 @@ And now thus says the Lord, one shaping me from womb as servant to himself, to g
 
 **Isaiah 49:6**
 
-And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to end of earth.
+And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to the end of the earth.
 
 **Isaiah 49:7**
 
@@ -75708,7 +75708,7 @@ Let desolations of Jerusalem break out together in gladness, because the Lord ha
 
 **Isaiah 52:10**
 
-The Lord will uncover his holy arm before all nations, and all ends of earth will see salvation from God.
+The Lord will uncover his holy arm before all nations, and all ends of the earth will see salvation from God.
 
 **Isaiah 52:11**
 
@@ -76178,7 +76178,7 @@ And rescuer will come for sake of Zion and turn away ungodliness from Jacob.
 
 **Isaiah 59:21**
 
-And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said the Lord, from now and forever.
+And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from the mouth of your seed, said the Lord, from now and forever.
 
 ### Chapter 60
 
@@ -76360,7 +76360,7 @@ Go through my gates and make way for my people, and scatter stones from road. Li
 
 **Isaiah 62:11**
 
-For see, the Lord made it heard to end of earth: Say to daughter of Zion, See, your savior comes, holding his wage and his work before his face.
+For see, the Lord made it heard to the end of the earth: Say to daughter of Zion, See, your savior comes, holding his wage and his work before his face.
 
 **Isaiah 62:12**
 
@@ -76704,7 +76704,7 @@ to whom word of God came in days of Josiah son of Amon, king of Judah, in thirte
 
 **Jeremiah 1:3**
 
-and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in fifth month.
+and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
 
 **Jeremiah 1:4**
 
@@ -77358,7 +77358,7 @@ Therefore thus says the Lord: Behold, I give this people weakness, and fathers a
 
 **Jeremiah 6:22**
 
-Thus says the Lord: Behold, people comes from north, and nation will be stirred from ends of earth.
+Thus says the Lord: Behold, people comes from north, and nation will be stirred from the ends of the earth.
 
 **Jeremiah 6:23**
 
@@ -77534,7 +77534,7 @@ At that time, says the Lord, they will bring out bones of kings of Judah and bon
 
 **Jeremiah 8:2**
 
-And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of earth.
+And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of the earth.
 
 **Jeremiah 8:3**
 
@@ -77750,7 +77750,7 @@ The Lord, one making earth by his strength, one setting upright inhabited world 
 
 **Jeremiah 10:13**
 
-And there is abundance of water in heaven, and he brought up clouds from end of earth, made lightning for rain, and brought out light from his treasuries.
+And there is abundance of water in heaven, and he brought up clouds from the end of the earth, made lightning for rain, and brought out light from his treasuries.
 
 **Jeremiah 10:14**
 
@@ -77938,7 +77938,7 @@ It was made into destruction; for me in destruction whole land was made desolate
 
 **Jeremiah 12:12**
 
-Over every opening in wilderness came destroyers, because sword of the Lord will devour from one end of earth to other end; there is no peace for any flesh.
+Over every opening in wilderness came destroyers, because sword of the Lord will devour from one end of the earth to other end; there is no peace for any flesh.
 
 **Jeremiah 12:13**
 
@@ -78262,7 +78262,7 @@ Because thus says the Lord concerning sons and daughters born in this place, and
 
 **Jeremiah 16:4**
 
-By diseased death they will die. They will not be mourned and not buried. For example upon face of earth they will be. By sword they will fall and by famine be finished, and to beasts of earth and birds of heaven.
+By diseased death they will die. They will not be mourned and not buried. For example upon face of the earth they will be. By sword they will fall and by famine be finished, and to beasts of earth and birds of heaven.
 
 **Jeremiah 16:5**
 
@@ -78322,7 +78322,7 @@ And I will repay double their injustices and their sins, by which they profaned 
 
 **Jeremiah 16:19**
 
-Lord, my strength and my help and my refuge in day of evils, to you nations will come from end of earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
+Lord, my strength and my help and my refuge in day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
 
 **Jeremiah 16:20**
 
@@ -79044,7 +79044,7 @@ And I will send on them famine and death and sword until they fail from land whi
 
 **Jeremiah 25:1**
 
-Word coming to Jeremiah concerning all people of Judah in fourth year of Jehoiakim son of Josiah king of Judah,
+Word coming to Jeremiah concerning all people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
 
 **Jeremiah 25:2**
 
@@ -79126,7 +79126,7 @@ At beginning of Zedekiah king reigning, this word came concerning Elam.
 
 **Jeremiah 26:2**
 
-Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in fourth year of Jehoiakim king of Judah.
+Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
 
 **Jeremiah 26:3**
 
@@ -79392,7 +79392,7 @@ As God overthrew Sodom and Gomorrah and those neighboring them, says the Lord, s
 
 **Jeremiah 27:41**
 
-Behold, people comes from north, and great nation and many kings will be roused from end of earth.
+Behold, people comes from north, and great nation and many kings will be roused from the end of the earth.
 
 **Jeremiah 27:42**
 
@@ -79478,7 +79478,7 @@ He made earth in his strength, preparing world in his wisdom. In his understandi
 
 **Jeremiah 28:16**
 
-At his voice he set sound of waters in heaven and brought up clouds from end of earth. He made lightnings for rain and brought out light from his treasuries.
+At his voice he set sound of waters in heaven and brought up clouds from the end of the earth. He made lightnings for rain and brought out light from his treasuries.
 
 **Jeremiah 28:17**
 
@@ -79634,7 +79634,7 @@ Thus says the Lord: Wall of Babylon, broadened out, being dug down, will be torn
 
 **Jeremiah 28:59**
 
-Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in fourth year of his reign, and Seraiah ruler of gifts.
+Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah ruler of gifts.
 
 **Jeremiah 28:60**
 
@@ -80046,7 +80046,7 @@ and all kings of Elam and all kings of Persians,
 
 **Jeremiah 32:26**
 
-and all kings from east, far and near, each toward his brother, and all kingdoms upon face of earth.
+and all kings from east, far and near, each toward his brother, and all kingdoms upon face of the earth.
 
 **Jeremiah 32:27**
 
@@ -80070,11 +80070,11 @@ Destruction comes upon part of earth, because judgment belongs to the Lord among
 
 **Jeremiah 32:32**
 
-Thus said the Lord: Behold, evils come from nation upon nation, and great storm goes out from ends of earth.
+Thus said the Lord: Behold, evils come from nation upon nation, and great storm goes out from the ends of the earth.
 
 **Jeremiah 32:33**
 
-And slain by Lord in the day of the Lord will be from one end of earth even to other end of earth. They will never be buried. They will be like dung upon face of earth.
+And slain by Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon face of the earth.
 
 **Jeremiah 32:34**
 
@@ -80268,7 +80268,7 @@ into Babylon it will enter, says the Lord.
 
 **Jeremiah 35:1**
 
-And it happened in fourth year of Zedekiah king of Judah, in fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in house of the Lord before eyes of priests and all people, saying,
+And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in house of the Lord before eyes of priests and all people, saying,
 
 **Jeremiah 35:2**
 
@@ -80328,7 +80328,7 @@ And Jeremiah said to Hananiah, the Lord did not send you, and you made this peop
 
 **Jeremiah 35:16**
 
-Therefore thus said the Lord: Behold, I send you away from face of earth. In this year you will die.
+Therefore thus said the Lord: Behold, I send you away from the face of the earth. In this year you will die.
 
 **Jeremiah 35:17**
 
@@ -80558,7 +80558,7 @@ Because thus said the Lord to Jacob: Rejoice and neigh over head of nations. Mak
 
 **Jeremiah 38:8**
 
-Behold, I bring them from north and gather them from ends of earth in feast of Phasce, and they will beget great crowd and return here.
+Behold, I bring them from north and gather them from the ends of the earth in feast of Phasce, and they will beget great crowd and return here.
 
 **Jeremiah 38:9**
 
@@ -81144,7 +81144,7 @@ man from sons of Jonadab son of Rechab will certainly not fail, standing before 
 
 **Jeremiah 43:1**
 
-And in fourth year of Jehoiakim son of Josiah king of Judah, the word of the Lord came to me, saying,
+And in the fourth year of Jehoiakim son of Josiah king of Judah, the word of the Lord came to me, saying,
 
 **Jeremiah 43:2**
 
@@ -81176,7 +81176,7 @@ And Baruch did according to all that Jeremiah commanded him, to read in scroll w
 
 **Jeremiah 43:9**
 
-And it happened in eighth year of reign of Jehoiakim, in ninth month, all people in Jerusalem and house of Judah proclaimed fast before the Lord.
+And it happened in the eighth year of reign of Jehoiakim, in the ninth month, all people in Jerusalem and house of Judah proclaimed fast before the Lord.
 
 **Jeremiah 43:10**
 
@@ -81474,11 +81474,11 @@ And Jeremiah sat in court of prison until time when Jerusalem was taken.
 
 **Jeremiah 46:1**
 
-And it happened in ninth year of Zedekiah king of Judah, in tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
+And it happened in ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
 
 **Jeremiah 46:2**
 
-And in eleventh year of Zedekiah, in fourth month, ninth of month, city was breached.
+And in eleventh year of Zedekiah, in the fourth month, ninth of the month, city was breached.
 
 **Jeremiah 46:3**
 
@@ -81912,7 +81912,7 @@ Thus said the Lord: Behold, I give Hophra king of Egypt into hands of his enemy 
 
 **Jeremiah 51:31**
 
-Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
+Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
 
 **Jeremiah 51:32**
 
@@ -81938,7 +81938,7 @@ Zedekiah was twenty-one years old when he reigned, and he reigned eleven years i
 
 **Jeremiah 52:4**
 
-And it happened in ninth year of his reign, in tenth month, tenth of month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
+And it happened in ninth year of his reign, in the tenth month, tenth of the month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
 
 **Jeremiah 52:5**
 
@@ -81946,7 +81946,7 @@ And city came into siege until eleventh year of king Zedekiah.
 
 **Jeremiah 52:6**
 
-In ninth of month famine was strengthened in city, and there were no breads for people of land.
+In ninth of the month famine was strengthened in city, and there were no breads for people of land.
 
 **Jeremiah 52:7**
 
@@ -81970,7 +81970,7 @@ And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon 
 
 **Jeremiah 52:12**
 
-And in fifth month, tenth of month, Nebuzaradan chief cook, who stood before face of king of Babylon, came into Jerusalem.
+And in the fifth month, tenth of the month, Nebuzaradan chief cook, who stood before face of king of Babylon, came into Jerusalem.
 
 **Jeremiah 52:13**
 
@@ -82030,7 +82030,7 @@ And king of Babylon struck them in Riblah in land of Hamath.
 
 **Jeremiah 52:31**
 
-And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in twelfth month, on twenty-fourth of month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from house where he was kept.
+And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on twenty-fourth of the month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from house where he was kept.
 
 **Jeremiah 52:32**
 
@@ -82366,7 +82366,7 @@ Who thus spoke and it happened, when the Lord did not command?
 
 **Lamentations 3:38**
 
-From mouth of Most High will not evils and good come out?
+From the mouth of Most High will not evils and good come out?
 
 **Lamentations 3:39**
 
@@ -82666,11 +82666,11 @@ because in thrusting away you thrust us away. You were very angry over us.
 
 **Ezekiel 1:1**
 
-And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 
 **Ezekiel 1:2**
 
-Fifth of month, this was fifth year of captivity of king Joakim,
+Fifth of the month, this was fifth year of captivity of king Joakim,
 
 **Ezekiel 1:3**
 
@@ -83236,7 +83236,7 @@ Ruler will put on desolation, and hands of people of land will be paralyzed. Acc
 
 **Ezekiel 8:1**
 
-And it happened in sixth year, in fifth month, on fifth of month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
+And it happened in sixth year, in the fifth month, on fifth of the month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
 
 **Ezekiel 8:2**
 
@@ -84420,7 +84420,7 @@ And fire went out from rod of its chosen ones and consumed it, and there was no 
 
 **Ezekiel 20:1**
 
-And it happened in seventh year, in fifth month, on tenth of month, men from elders of house of Israel came to inquire of the Lord and sat before me.
+And it happened in seventh year, in the fifth month, on tenth of the month, men from elders of house of Israel came to inquire of the Lord and sat before me.
 
 **Ezekiel 20:2**
 
@@ -85072,7 +85072,7 @@ And your impiety will be given upon you, and sins of your thoughts you will bear
 
 **Ezekiel 24:1**
 
-And the word of the Lord came to me in ninth year, in tenth month, on tenth of month, saying,
+And the word of the Lord came to me in ninth year, in the tenth month, on tenth of the month, saying,
 
 **Ezekiel 24:2**
 
@@ -85252,7 +85252,7 @@ And I will do in them great acts of vengeance, and they will know that I am the 
 
 **Ezekiel 26:1**
 
-And it happened in eleventh year, on first of month, the word of the Lord came to me, saying,
+And it happened in eleventh year, on first of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 26:2**
 
@@ -85586,7 +85586,7 @@ And they will dwell on it in hope and build houses and plant vineyards and dwell
 
 **Ezekiel 29:1**
 
-In tenth year, in tenth month, on first of month, the word of the Lord came to me, saying,
+In tenth year, in the tenth month, on first of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 29:2**
 
@@ -85650,7 +85650,7 @@ And they will no longer be to house of Israel hope recalling lawlessness, when t
 
 **Ezekiel 29:17**
 
-And it happened in twenty-seventh year, on first of first month, the word of the Lord came to me, saying,
+And it happened in twenty-seventh year, on first of the first month, the word of the Lord came to me, saying,
 
 **Ezekiel 29:18**
 
@@ -85748,7 +85748,7 @@ And I will do judgment in Egypt, and they will know that I am the Lord.
 
 **Ezekiel 30:20**
 
-And it happened in eleventh year, in first month, on seventh of month, the word of the Lord came to me, saying,
+And it happened in eleventh year, in the first month, on seventh of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 30:21**
 
@@ -85778,7 +85778,7 @@ And I will scatter Egypt into nations and winnow them into lands, and all will k
 
 **Ezekiel 31:1**
 
-And it happened in eleventh year, in third month, on first of month, the word of the Lord came to me, saying,
+And it happened in eleventh year, in the third month, on first of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 31:2**
 
@@ -85852,7 +85852,7 @@ To whom were you likened? Go down and be brought down with trees of delight into
 
 **Ezekiel 32:1**
 
-And it happened in eleventh year, in twelfth month, on first of month, the word of the Lord came to me, saying,
+And it happened in eleventh year, in the twelfth month, on first of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 32:2**
 
@@ -85916,7 +85916,7 @@ It is lamentation, and they will lament it; daughters of nations will lament it 
 
 **Ezekiel 32:17**
 
-And it happened in twelfth year of first month, on fifteenth of month, the word of the Lord came to me, saying,
+And it happened in the twelfth year of the first month, on fifteenth of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 32:18**
 
@@ -86058,7 +86058,7 @@ And this is what you said: Way of the Lord is not straight. Each one in his ways
 
 **Ezekiel 33:21**
 
-And it happened in twelfth year, in twelfth month, on fifth of month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
+And it happened in the twelfth year, in the twelfth month, on fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
 
 **Ezekiel 33:22**
 
@@ -86640,7 +86640,7 @@ And in my zeal, in fire of my anger, I spoke: Surely on that day there will be g
 
 **Ezekiel 38:20**
 
-And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
 
 **Ezekiel 38:21**
 
@@ -86776,7 +86776,7 @@ And I will no longer turn my face away from them, because I poured out my wrath 
 
 **Ezekiel 40:1**
 
-And it happened in twenty-fifth year of our captivity, in first month, on tenth of month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
+And it happened in twenty-fifth year of our captivity, in the first month, on tenth of the month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
 
 **Ezekiel 40:2**
 
@@ -87462,7 +87462,7 @@ And it will be ruler's part to provide burnt offerings and sacrifices and drink 
 
 **Ezekiel 45:18**
 
-Thus says the Lord God: In first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
+Thus says the Lord God: In the first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
 
 **Ezekiel 45:19**
 
@@ -87474,7 +87474,7 @@ And thus you will do in seventh month, on first of the month; you will take a po
 
 **Ezekiel 45:21**
 
-And in first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+And in the first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
 
 **Ezekiel 45:22**
 
@@ -87832,7 +87832,7 @@ A circuit of eighteen thousand, and name of the city from the day it comes to be
 
 **Daniel 1:1**
 
-In third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+In the third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 
 **Daniel 1:2**
 
@@ -87918,7 +87918,7 @@ And Daniel remained until first year of reign of Cyrus king of Persians.
 
 **Daniel 2:1**
 
-And in second year of reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
+And in the second year of reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
 
 **Daniel 2:2**
 
@@ -88290,7 +88290,7 @@ The tree planted in the earth whose appearance was great, that is you, king.
 
 **Daniel 4:21**
 
-And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to ends of earth, and all lands serve you.
+And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to the ends of the earth, and all lands serve you.
 
 **Daniel 4:22**
 
@@ -88564,7 +88564,7 @@ And king Darius was added to his line, and Daniel was established in kingdom of 
 
 **Daniel 7:1**
 
-In first year of Belshazzar ruling over land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
+In the first year of Belshazzar ruling over land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
 
 **Daniel 7:2**
 
@@ -88678,7 +88678,7 @@ To completion of the matter, I, Daniel, was very greatly held in ecstasy, and my
 
 **Daniel 8:1**
 
-In third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
+In the third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
 
 **Daniel 8:2**
 
@@ -88788,11 +88788,11 @@ And I, Daniel, became weak for many days, and rising up I again worked in royal 
 
 **Daniel 9:1**
 
-In first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
+In the first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
 
 **Daniel 9:2**
 
-in first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
+in the first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
 
 **Daniel 9:3**
 
@@ -88898,7 +88898,7 @@ And covenant will prevail over many, and again it will turn back, and it will be
 
 **Daniel 10:1**
 
-In first year of Cyrus king of Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
+In the first year of Cyrus king of Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
 
 **Daniel 10:2**
 
@@ -88910,7 +88910,7 @@ I ate no bread of desire, and meat and wine did not enter my mouth, and I did no
 
 **Daniel 10:4**
 
-And it happened on twenty-fourth day of first month, and I was on bank of the great river, which is Tigris.
+And it happened on twenty-fourth day of the first month, and I was on bank of the great river, which is Tigris.
 
 **Daniel 10:5**
 
@@ -88942,7 +88942,7 @@ And he said to me, Daniel, you are a man pitied. Understand the commands that I 
 
 **Daniel 10:12**
 
-And he said to me, Do not fear, Daniel, because from first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
+And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
 
 **Daniel 10:13**
 
@@ -90902,7 +90902,7 @@ And the Lord, the Lord God Almighty, touching the earth and shaking it, and all 
 
 **Amos 9:6**
 
-The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of earth, the Lord God Almighty is his name.
+The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of the earth, the Lord God Almighty is his name.
 
 **Amos 9:7**
 
@@ -90910,7 +90910,7 @@ Are you not to me like sons of Ethiopians, sons of Israel? says the Lord. Did I 
 
 **Amos 9:8**
 
-Behold, eyes of the Lord God are upon kingdom of sinners, and I will remove it from face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
+Behold, eyes of the Lord God are upon kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
 
 **Amos 9:9**
 
@@ -92104,11 +92104,11 @@ Word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Am
 
 **Zephaniah 1:2**
 
-Let all things utterly fail from face of earth, says the Lord.
+Let all things utterly fail from the face of the earth, says the Lord.
 
 **Zephaniah 1:3**
 
-Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says the Lord.
+Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from the face of the earth, says the Lord.
 
 **Zephaniah 1:4**
 
@@ -92320,7 +92320,7 @@ And they will be put to shame in that time when I do well to you and when I rece
 
 **Haggai 1:1**
 
-In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 
 **Haggai 1:2**
 
@@ -92376,13 +92376,13 @@ The Lord stirred the spirit of Zerubbabel son of Shealtiel from tribe of Judah, 
 
 **Haggai 1:15**
 
-on twenty-fourth day of sixth month, in second year of Darius king.
+on twenty-fourth day of the sixth month, in the second year of Darius king.
 
 ### Chapter 2
 
 **Haggai 2:1**
 
-In seventh month, on twenty-first day of month, the Lord spoke by hand of Haggai prophet, saying,
+In seventh month, on twenty-first day of the month, the Lord spoke by hand of Haggai prophet, saying,
 
 **Haggai 2:2**
 
@@ -92418,7 +92418,7 @@ Latter glory of this house will be greater than first, says the Lord Almighty, a
 
 **Haggai 2:10**
 
-On twenty-fourth day of ninth month, in second year of Darius, the word of the Lord came to Haggai prophet, saying,
+On twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai prophet, saying,
 
 **Haggai 2:11**
 
@@ -92450,7 +92450,7 @@ I struck you with barrenness and blight and hail, all works of your hands, and y
 
 **Haggai 2:18**
 
-Submit your hearts now from this day and onward, from twenty-fourth day of ninth month and from day when temple of the Lord was founded; set it in your hearts.
+Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from day when temple of the Lord was founded; set it in your hearts.
 
 **Haggai 2:19**
 
@@ -92458,7 +92458,7 @@ Is seed still known on threshing-floor? And if vine and fig tree and pomegranate
 
 **Haggai 2:20**
 
-Word of the Lord came second time to Haggai prophet on twenty-fourth day of month, saying,
+Word of the Lord came second time to Haggai prophet on twenty-fourth day of the month, saying,
 
 **Haggai 2:21**
 
@@ -92478,7 +92478,7 @@ In that day, says the Lord Almighty, I will take you, Zerubbabel son of Shealtie
 
 **Zechariah 1:1**
 
-In eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+In the eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 
 **Zechariah 1:2**
 
@@ -92502,7 +92502,7 @@ Yet receive my words and my statutes, whatever I command in my Spirit to my serv
 
 **Zechariah 1:7**
 
-On twenty-fourth day of eleventh month, this is month Sebat, in second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+On twenty-fourth day of eleventh month, this is month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 
 **Zechariah 1:8**
 
@@ -92826,7 +92826,7 @@ And those far from them will come and build in house of the Lord, and you will k
 
 **Zechariah 7:1**
 
-And it happened in fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of ninth month, which is Chisleu.
+And it happened in the fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of the ninth month, which is Chisleu.
 
 **Zechariah 7:2**
 
@@ -92834,7 +92834,7 @@ And he sent to Bethel Sharezer and Arbeseer the king and his men to make atoneme
 
 **Zechariah 7:3**
 
-saying to priests in house of the Lord Almighty and to prophets, saying, Has sanctification entered here in fifth month, as I have done already many years?
+saying to priests in house of the Lord Almighty and to prophets, saying, Has sanctification entered here in the fifth month, as I have done already many years?
 
 **Zechariah 7:4**
 
@@ -92842,7 +92842,7 @@ And the word of the Lord of forces came to me, saying,
 
 **Zechariah 7:5**
 
-Say to all people of land and to priests, saying: If you fasted or mourned in fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+Say to all people of land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 
 **Zechariah 7:6**
 
@@ -92916,7 +92916,7 @@ and I will bring them in, and they will dwell in midst of Jerusalem, and they wi
 
 **Zechariah 8:9**
 
-Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
+Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from the mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
 
 **Zechariah 8:10**
 
@@ -93014,7 +93014,7 @@ Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem: behold, your king 
 
 **Zechariah 9:10**
 
-And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to ends of earth.
+And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to the ends of the earth.
 
 **Zechariah 9:11**
 

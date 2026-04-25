@@ -362,7 +362,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said the Lord, from now and forever.
+- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from the mouth of your seed, said the Lord, from now and forever.
 - brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ## Isaiah 9:6
@@ -1682,7 +1682,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- fresh: In the first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 - brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
 ## Ezra 7:12
@@ -2837,7 +2837,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+- fresh: In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ## Haggai 1:12

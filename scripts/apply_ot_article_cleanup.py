@@ -283,6 +283,10 @@ LORD_OBJECT_REPLACEMENTS = (
         r"from the mouth of \1",
     ),
     (
+        re.compile(r"\b([Ff]rom|[Bb]y) mouth of\b"),
+        r"\1 the mouth of",
+    ),
+    (
         re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
         "the Lord stirred the spirit of Cyrus",
     ),
@@ -361,6 +365,38 @@ LORD_OBJECT_REPLACEMENTS = (
     (
         re.compile(r"\bBlessed are you, land whose king son of nobles\b"),
         "Blessed are you, land whose king is son of nobles",
+    ),
+    (
+        re.compile(r"\b([Ee]nds?|[Ff]ace|[Ss]urface) of earth\b"),
+        r"\1 of the earth",
+    ),
+    (
+        re.compile(r"\b([Ff]rom|[Tt]o|[Aa]t) (end|ends|face|surface) of the earth\b"),
+        r"\1 the \2 of the earth",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (first|second|third|fourth|eighth|twelfth) year\b"),
+        r"\1 the \2 year",
+    ),
+    (
+        re.compile(r"\b([Ii]n) (first|second|third|fourth|fifth|sixth|eighth|ninth|tenth|twelfth) month\b"),
+        r"\1 the \2 month",
+    ),
+    (
+        re.compile(r"\bof (first|second|third|fourth|fifth|sixth|eighth|ninth|tenth|twelfth) month\b"),
+        r"of the \1 month",
+    ),
+    (
+        re.compile(r"\bof month\b"),
+        "of the month",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Ff]rom) first day\b"),
+        r"\1 the first day",
+    ),
+    (
+        re.compile(r"\b([Oo]n|[Uu]ntil) (eighth|sixteenth|last) day\b"),
+        r"\1 the \2 day",
     ),
     (
         re.compile(r"\bholy your temple\b"),

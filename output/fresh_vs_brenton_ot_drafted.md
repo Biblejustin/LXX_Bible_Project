@@ -40876,7 +40876,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of month by month throughout the months of the year.
+- fresh: And their libation shall be half a hin for the one bull and a third of a hin for the one ram and a fourth of a hin of wine for the one lamb. This is the whole burnt offering of the month by month throughout the months of the year.
 - brenton: Their drink-offering shall be the half of a hin for one calf; and the third of a hin for one ram; and the fourth part of a hin of wine for one lamb: this is the whole-burnt-offering monthly throughout the months of the year.
 
 ### Numbers 28:15
@@ -95074,7 +95074,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These crossed Jordan in first month, when it was filled over all its banks, and they drove out all dwelling in valleys from east to west.
+- fresh: These crossed Jordan in the first month, when it was filled over all its banks, and they drove out all dwelling in valleys from east to west.
 - brenton: These are the men that crossed over Jordan in the first month, and it had overflowed all its banks; and they drove out all the inhabitants of the valleys, from the east to the west.
 
 ### 1 Chronicles 12:17
@@ -98467,7 +98467,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And over division of second month was Dodavah the Ahohi, and over his division twenty-four thousand, commanders of force.
+- fresh: And over division of the second month was Dodavah the Ahohi, and over his division twenty-four thousand, commanders of force.
 - brenton: And over the division of the second month was Dodia the son of Ecchoc, and over his division was Makelloth also chief: and in his division were twenty and four thousand, chief men of the host.
 
 ### 1 Chronicles 27:5
@@ -99531,7 +99531,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he began building in second month, in fourth year of his reign.
+- fresh: And he began building in the second month, in the fourth year of his reign.
 - brenton: And he began to build in the second month, in the fourth year of his reign.
 
 ### 2 Chronicles 3:3
@@ -100449,7 +100449,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on eighth day he made dismissal, because dedication of altar he made seven days, feast.
+- fresh: And on the eighth day he made dismissal, because dedication of altar he made seven days, feast.
 - brenton: And on the eighth day he kept a solemn assembly: for he kept a feast of seven days as the dedication of the altar.
 
 ### 2 Chronicles 7:10
@@ -101952,7 +101952,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they were gathered into Jerusalem in third month, in fifteenth year of kingdom of Asa.
+- fresh: And they were gathered into Jerusalem in the third month, in fifteenth year of kingdom of Asa.
 - brenton: And they assembled at Jerusalem in the third month, in the fifteenth year of the reign of Asa.
 
 ### 2 Chronicles 15:11
@@ -102222,7 +102222,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in cities of Judah,
+- fresh: And in the third year of his kingdom he sent his rulers and sons of mighty men, Abdian and Zechariah and Nathanael and Michaiah, to teach in cities of Judah,
 - brenton: And in the third year of his reign, he sent his chief men, and his mighty men, Abdias and Zacharias, and Nathanael, and Michaias, to teach in the cities of Juda.
 
 ### 2 Chronicles 17:8
@@ -104292,7 +104292,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He fought against king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in first year and second and third.
+- fresh: He fought against king of sons of Ammon and prevailed over him, and sons of Ammon gave him year by year one hundred talents of silver and ten thousand kors of wheat and ten thousand of barley. These king of Ammon brought him in the first year and second and third.
 - brenton: He fought against the king of the children of Ammon, and prevailed against him: and the children of Ammon gave him even annually a hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. These the king of the children of Ammon brought to him annually in the first and second and third years.
 
 ### 2 Chronicles 27:6
@@ -104589,7 +104589,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came to pass when he stood over his kingdom, in first month, he opened doors of house of the Lord and repaired them.
+- fresh: And it came to pass when he stood over his kingdom, in the first month, he opened doors of house of the Lord and repaired them.
 - brenton: And it came to pass, when he was established over his kingdom, in the first month, he opened the doors of the house of the Lord, and repaired them.
 
 ### 2 Chronicles 29:4
@@ -104715,7 +104715,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they began on first day of new moon of first month to sanctify, and on eighth day of month they entered temple of the Lord, and they sanctified house of the Lord in eight days, and on sixteenth day of first month they finished.
+- fresh: And they began on the first day of new moon of the first month to sanctify, and on the eighth day of the month they entered temple of the Lord, and they sanctified house of the Lord in eight days, and on the sixteenth day of the first month they finished.
 - brenton: And Ezekias began on the first day, even on the new moon of the first month, to purify, and on the eighth day of the month they entered into the temple of the Lord: and they purified the house of the Lord in eight days; and on the thirteenth day of the first month they finished the work.
 
 ### 2 Chronicles 29:18
@@ -104904,7 +104904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And king and rulers and all assembly in Jerusalem took counsel to do passover in second month.
+- fresh: And king and rulers and all assembly in Jerusalem took counsel to do passover in the second month.
 - brenton: For the king, and the princes, and all the congregation in Jerusalem, designed to keep the passover in the second month.
 
 ### 2 Chronicles 30:3
@@ -105003,7 +105003,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And much people gathered into Jerusalem to do feast of unleavened bread in second month, very great assembly.
+- fresh: And much people gathered into Jerusalem to do feast of unleavened bread in the second month, very great assembly.
 - brenton: And a great multitude were gathered to Jerusalem to keep the feast of unleavened bread in the second month, a very great congregation.
 
 ### 2 Chronicles 30:14
@@ -105021,7 +105021,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they sacrificed passover on fourteenth of second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into house of the Lord.
+- fresh: And they sacrificed passover on fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into house of the Lord.
 - brenton: Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites repented, and purified themselves, and brought whole-burnt-offerings into the house of the Lord.
 
 ### 2 Chronicles 30:16
@@ -105192,7 +105192,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In third month they began to lay foundation of heaps, and in seventh month they finished.
+- fresh: In the third month they began to lay foundation of heaps, and in seventh month they finished.
 - brenton: In the third month the heaps began to be piled, and in the seventh month they were finished.
 
 ### 2 Chronicles 31:8
@@ -105867,7 +105867,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in eighth year of his kingdom, while he was still a young boy, he began to seek the Lord God of David his father. And in twelfth year of his kingdom he began to cleanse Judah and Jerusalem from high places and groves and molten things.
+- fresh: And in the eighth year of his kingdom, while he was still a young boy, he began to seek the Lord God of David his father. And in the twelfth year of his kingdom he began to cleanse Judah and Jerusalem from high places and groves and molten things.
 - brenton: And in the eighth year of his reign, and he being yet a youth, he began to seek the Lord God of his father David: and in the twelfth year of his reign he began to purge Juda and Jerusalem from the high places, and the groves, and the ornaments for the altars, and the molten images.
 
 ### 2 Chronicles 34:4
@@ -106146,7 +106146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah kept Passover to the Lord his God, and they sacrificed Passover on fourteenth of first month.
+- fresh: And Josiah kept Passover to the Lord his God, and they sacrificed Passover on fourteenth of the first month.
 - brenton: And Josias kept a passover to the Lord his God; and sacrificed the passover on the fourteenth day of the first month.
 
 ### 2 Chronicles 35:2
@@ -106335,7 +106335,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Necho from mouth of God, and came to fight in plain of Megiddo.
+- fresh: And Josiah did not turn his face away from him, but strengthened himself to fight him, and did not listen to words of Necho from the mouth of God, and came to fight in plain of Megiddo.
 - brenton: However Josias turned not his face from him, but strengthened himself to fight against him, and hearkened not to the words of Nechao by the mouth of God, and he came to fight in the plain of Mageddo.
 
 ### 2 Chronicles 35:23
@@ -106569,7 +106569,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to fulfill the word of the Lord by mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
+- fresh: to fulfill the word of the Lord by the mouth of Jeremiah, until land welcomed its Sabbaths. All days of its desolation it kept Sabbaths to fulfill seventy years.
 - brenton: That the word of the Lord by the mouth of Jeremias might be fulfilled, until the land should enjoy its sabbaths in resting and sabbath keeping all the days of its desolation, till the accomplishment of seventy years.
 
 ### 2 Chronicles 36:22
@@ -106578,7 +106578,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of Cyrus king of Persians, after the word of the Lord by mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
+- fresh: In the first year of Cyrus king of Persians, after the word of the Lord by the mouth of Jeremiah was fulfilled, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed to cry out in all his kingdom, also in writing, saying,
 - brenton: In the first year of Cyrus king of the Persians, after the fulfilment of the word of the Lord by the mouth of Jeremias, the Lord stirred up the spirit of Cyrus king of the Persians, and told him to make proclamation in writing throughout all his kingdom, saying,
 
 ### 2 Chronicles 36:23
@@ -107372,7 +107372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
+- fresh: On the first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
 - brenton: On the first day of the seventh month they began to offer whole-burnt-offerings to the Lord: but the foundation of the house of the Lord was not laid.
 
 ### Ezra 3:7
@@ -107390,7 +107390,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in second year of their coming to house of God in Jerusalem, in second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
+- fresh: And in the second year of their coming to house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in house of the Lord.
 - brenton: And in the second year of their coming to the house of God in Jerusalem, in the second month, began Zorobabel the son of Salathiel, and Jesus the son of Josedec, and the rest of their brethren the priests and the Levites, and all who came from the captivity to Jerusalem, and they appointed the Levites, from twenty years old and upward, over the workmen in the house of the Lord.
 
 ### Ezra 3:9
@@ -107768,7 +107768,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But in first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
+- fresh: But in the first year of King Cyrus, Cyrus the king set decree for this house of God to be built.
 - brenton: And in the first year of king Cyrus, Cyrus the king made a decree that this house of God should be built.
 
 ### Ezra 5:14
@@ -107831,7 +107831,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+- fresh: In the first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 - brenton: In the first year of king Cyrus, Cyrus the king made a decree concerning the holy house of God that was in Jerusalem, saying, Let the house be built, and the place where they sacrifice the sacrifices. (Also he appointed its elevation, in height sixty cubits; its breadth was of sixty cubits.)
 
 ### Ezra 6:4
@@ -107939,7 +107939,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they completed this house by third day of month Adar, which was sixth year in reign of Darius the king.
+- fresh: And they completed this house by third day of the month Adar, which was sixth year in reign of Darius the king.
 - brenton: And they finished this house by the third day of the month Adar, which is the sixth year of the reign of Darius the king.
 
 ### Ezra 6:16
@@ -108074,7 +108074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came to Jerusalem in fifth month; this was seventh year of the king.
+- fresh: And they came to Jerusalem in the fifth month; this was seventh year of the king.
 - brenton: And they came to Jerusalem in the fifth month, this was the seventh year of the king.
 
 ### Ezra 7:9
@@ -108083,7 +108083,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For on first day of first month he founded the going-up from Babylon, and on first day of fifth month they came to Jerusalem, because good hand of his God was upon him.
+- fresh: For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because good hand of his God was upon him.
 - brenton: For in the first day of the first month he began the going up from Babylon, and in the first day of the fifth month they came to Jerusalem, for the good hand of his God was upon him.
 
 ### Ezra 7:10
@@ -108857,7 +108857,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on first day of the tenth month to investigate the matter.
+- fresh: And sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on the first day of the tenth month to investigate the matter.
 - brenton: And the children of the captivity did thus: and Esdras the priest, and heads of families according to their house were separated, and all by their names, for they returned in the first day of the tenth month to search out the matter.
 
 ### Ezra 10:17
@@ -110884,7 +110884,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on first day of the seventh month.
+- fresh: And Ezra the priest brought the law before the assembly, from man even to woman, and everyone understanding to hear, on the first day of the seventh month.
 - brenton: So Esdras the priest brought the law before the congregation both of men and women, and every one who had understanding was present to hearken, on the first day of the seventh month.
 
 ### Nehemiah 8:3
@@ -111028,7 +111028,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he read in book of law of God day by day, from first day until last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
+- fresh: And he read in book of law of God day by day, from the first day until the last day, and they kept feast seven days, and on the eighth day an assembly according to ordinance.
 - brenton: And Esdras read in the book of the law of God daily, from the first day even to the last day: and they kept the feast seven days; and on the eighth day a solemn assembly, according to the ordinance.
 
 ### Nehemiah 9:1
@@ -112668,7 +112668,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: in third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
+- fresh: in the third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
 - brenton: [missing]
 
 ### Esther 1:4
@@ -113109,7 +113109,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made a decree in twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mordecai in one day, and the lot fell on fourteenth of the month, which is Adar.
+- fresh: And he made a decree in the twelfth year of reign of Artaxerxes and cast lots, day by day and month by month, so as to destroy race of Mordecai in one day, and the lot fell on fourteenth of the month, which is Adar.
 - brenton: [missing]
 
 ### Esther 3:8
@@ -122057,7 +122057,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And further he deceived you from mouth of enemy: abyss, pouring out beneath it, and your table came down full of richness.
+- fresh: And further he deceived you from the mouth of enemy: abyss, pouring out beneath it, and your table came down full of richness.
 - brenton: And he has also enticed thee out of the mouth of the enemy:
 
 ### Job 36:17
@@ -123778,7 +123778,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Not so ungodly men, not so, but like chaff which wind throws from face of earth.
+- fresh: Not so ungodly men, not so, but like chaff which wind throws from the face of the earth.
 - brenton: Not so the ungodly;—not so: but rather as the chaff which the wind scatters away from the face of the earth.
 
 ### Psalms 1:5
@@ -123868,7 +123868,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Ask from me, and I will give nations as your inheritance and ends of earth as your possession.
+- fresh: Ask from me, and I will give nations as your inheritance and ends of the earth as your possession.
 - brenton: Ask of me, and I will give thee the heathen for thine inheritance, and the ends of the earth for thy possession.
 
 ### Psalms 2:9
@@ -126433,7 +126433,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Save me from mouth of lion, and my humiliation from horns of unicorns.
+- fresh: Save me from the mouth of lion, and my humiliation from horns of unicorns.
 - brenton: Save me from the lion's mouth; and regard my lowliness from the horns of the unicorns.
 
 ### Psalms 21:23
@@ -126487,7 +126487,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All ends of earth will remember and turn to the Lord, and all families of nations will worship before you.
+- fresh: All ends of the earth will remember and turn to the Lord, and all families of nations will worship before you.
 - brenton: All the ends of the earth shall remember and turn to the Lord: and all the kindreds of the nations shall worship before him.
 
 ### Psalms 21:29
@@ -130123,7 +130123,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: doing away wars to ends of earth. He will break bow and shatter weapon and burn shields in fire.
+- fresh: doing away wars to the ends of the earth. He will break bow and shatter weapon and burn shields in fire.
 - brenton: Putting an end to wars as for the ends of the earth; he will crush the bow, and break in pieces the weapon, and burn the bucklers with fire.
 
 ### Psalms 45:11
@@ -130330,7 +130330,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: According to your name, O God, so also your praise to ends of earth; your right hand full of righteousness.
+- fresh: According to your name, O God, so also your praise to the ends of the earth; your right hand full of righteousness.
 - brenton: According to thy name, O God, so is also thy praise to the ends of the earth: thy right hand is full of righteousness.
 
 ### Psalms 47:12
@@ -131878,7 +131878,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In wrath of ending, and they will be no more; and they will know that God rules Jacob to ends of earth. Interlude.
+- fresh: In wrath of ending, and they will be no more; and they will know that God rules Jacob to the ends of the earth. Interlude.
 - brenton: And for their cursing and falsehood shall utter destruction be denounced: they shall fall by the wrath of utter destruction, and shall not be; so shall they know that the God of Jacob is Lord of the ends of the earth. Pause.
 
 ### Psalms 58:15
@@ -132067,7 +132067,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From ends of earth I cried to you when my heart grew faint; on rock you lifted me up.
+- fresh: From the ends of the earth I cried to you when my heart grew faint; on rock you lifted me up.
 - brenton: From the ends of the earth have I cried to thee, when my heart was in trouble: thou liftedst me up on a rock, thou didst guide me:
 
 ### Psalms 60:4
@@ -132499,7 +132499,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear us, God our savior, hope of all ends of earth and of those far off in sea,
+- fresh: Hear us, God our savior, hope of all ends of the earth and of those far off in sea,
 - brenton: Thou art wonderful in righteousness. Hearken to us, O God our Saviour; the hope of all the ends of the earth, and of them that are on the sea afar off:
 
 ### Psalms 64:7
@@ -132823,7 +132823,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: May God bless us, and let all ends of earth fear him.
+- fresh: May God bless us, and let all ends of the earth fear him.
 - brenton: Let God bless us; and let all the ends of the earth fear him.
 
 ### Psalms 67:1
@@ -137971,7 +137971,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because ends of earth in his hand and heights of mountains his.
+- fresh: because ends of the earth in his hand and heights of mountains his.
 - brenton: For the ends of the earth are in his hands; and the heights of the mountains are his.
 
 ### Psalms 94:5
@@ -138286,7 +138286,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He remembered his mercy to Jacob and his truth to house of Israel; all ends of earth saw salvation of our God.
+- fresh: He remembered his mercy to Jacob and his truth to house of Israel; all ends of the earth saw salvation of our God.
 - brenton: He has remembered his mercy to Jacob, and his truth to the house of Israel; all the ends of the earth have seen the salvation of our God.
 
 ### Psalms 97:4
@@ -139267,7 +139267,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You send out your spirit, and they will be created, and you renew face of earth.
+- fresh: You send out your spirit, and they will be created, and you renew face of the earth.
 - brenton: Thou shalt send forth thy Spirit, and they shall be created; and thou shalt renew the face of the earth.
 
 ### Psalms 103:31
@@ -144496,7 +144496,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Raising clouds from ends of earth, he made lightnings for rain, bringing winds from his treasuries.
+- fresh: Raising clouds from the ends of the earth, he made lightnings for rain, bringing winds from his treasuries.
 - brenton: Who brings up clouds from the extremity of the earth: he has made lightnings for the rain: he brings winds out of his treasures.
 
 ### Psalms 134:8
@@ -149826,7 +149826,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From mouth of fools rod of insolence, but lips of wise will guard them.
+- fresh: From the mouth of fools rod of insolence, but lips of wise will guard them.
 - brenton: Out of the mouth of fools comes a rod of pride; but the lips of the wise preserve them.
 
 ### Proverbs 14:4
@@ -150879,7 +150879,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Face of understanding man belongs to wise one, but eyes of fool to ends of earth.
+- fresh: Face of understanding man belongs to wise one, but eyes of fool to the ends of the earth.
 - brenton: The countenance of a wise man is sensible; but the eyes of a fool go to the ends of the earth.
 
 ### Proverbs 17:25
@@ -152994,7 +152994,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take away journey of legs and lawlessness from mouth of fools.
+- fresh: Take away journey of legs and lawlessness from the mouth of fools.
 - brenton: As well take away the motion of the legs, as transgression from the mouth of fools.
 
 ### Proverbs 26:8
@@ -153957,7 +153957,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of earth? What name to him, or what name to his children, so that you may know?
+- fresh: Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of the earth? What name to him, or what name to his children, so that you may know?
 - brenton: [missing]
 
 ### Proverbs 30:5
@@ -158544,7 +158544,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore he will raise signal among nations far off and whistle to them from end of earth, and look, swiftly lightly they come.
+- fresh: Therefore he will raise signal among nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
 - brenton: Therefore shall he lift up a signal to the nations that are afar, and shall hiss for them from the end of the earth; and, behold, they are coming very quickly.
 
 ### Isaiah 5:27
@@ -159003,7 +159003,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Know, nations, and be defeated; hear, to end of earth. Having grown strong, be defeated. If again you grow strong, again you will be defeated.
+- fresh: Know, nations, and be defeated; hear, to the end of the earth. Having grown strong, be defeated. If again you grow strong, again you will be defeated.
 - brenton: Know, ye Gentiles, and be conquered; hearken ye, even to the extremity of the earth: be conquered, after ye have strengthened yourselves; for even if ye should again strengthen yourselves, ye shall again be conquered.
 
 ### Isaiah 8:10
@@ -164097,7 +164097,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And this to you = sign: Eat this year what you sowed, and in second year remnant, and in third year sow and reap and plant vineyards and eat their fruit.
+- fresh: And this to you = sign: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
 - brenton: And this shall be a sign to thee, Eat this year what thou hast sown; and the second year that which is left: and the third year sow, and reap, and plant vineyards, and eat the fruit of them.
 
 ### Isaiah 37:31
@@ -164691,7 +164691,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now did you not know? Did you not hear? Eternal God, God who prepared ends of earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
+- fresh: And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 - brenton: And now, hast thou not known? hast thou not heard? the eternal God, the God that formed the ends of the earth, shall not hunger, nor be weary, and there is no searching of his understanding.
 
 ### Isaiah 40:29
@@ -164763,7 +164763,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations saw and feared; ends of earth drew near and came together.
+- fresh: Nations saw and feared; ends of the earth drew near and came together.
 - brenton: The nations saw, and feared; the ends of the earth drew nigh, and came together,
 
 ### Isaiah 41:6
@@ -165069,7 +165069,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to the Lord new hymn, his beginning; glorify his name from end of earth, those going down into sea and sailing it, islands and those dwelling in them.
+- fresh: Sing to the Lord new hymn, his beginning; glorify his name from the end of the earth, those going down into sea and sailing it, islands and those dwelling in them.
 - brenton: Sing a new hymn to the Lord: ye who are his dominion, glorify his name from the end of the earth: ye that go down to the sea, and sail upon it; the islands, and they that dwell in them.
 
 ### Isaiah 42:11
@@ -165258,7 +165258,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from ends of earth,
+- fresh: I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from the ends of the earth,
 - brenton: I will say to the north, Bring; and to the south, Keep not back; bring my sons from the land afar off, and my daughters from the ends of the earth;
 
 ### Isaiah 43:7
@@ -165906,7 +165906,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn to me and be saved, those from end of earth. I am God and there is no other.
+- fresh: Turn to me and be saved, those from the end of the earth. I am God and there is no other.
 - brenton: Turn ye to me, and ye shall be saved, ye that come from the end of the earth: I am God, and there is none other.
 
 ### Isaiah 45:23
@@ -166365,7 +166365,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to end of earth. Say, the Lord rescued his servant Jacob.
+- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
 - brenton: Go forth of Babylon, thou that fleest from the Chaldeans: utter aloud a voice of joy, and let this be made known, proclaim it to the end of the earth; say ye, The Lord hath delivered his servant Jacob.
 
 ### Isaiah 48:21
@@ -166437,7 +166437,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to end of earth.
+- fresh: And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to the end of the earth.
 - brenton: And he said to me, It is a great thing for thee to be called my servant, to establish the tribes of Jacob, and to recover the dispersion of Israel: behold, I have given thee for the covenant of a race, for a light of the Gentiles, that thou shouldest be for salvation to the end of the earth.
 
 ### Isaiah 49:7
@@ -167013,7 +167013,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord will uncover his holy arm before all nations, and all ends of earth will see salvation from God.
+- fresh: The Lord will uncover his holy arm before all nations, and all ends of the earth will see salvation from God.
 - brenton: And the Lord shall reveal his holy arm in the sight of all the nations; and all the ends of the earth shall see the salvation that comes from our God.
 
 ### Isaiah 52:11
@@ -168039,7 +168039,7 @@ Note:
 - decisions: 1
 - footnotes: 2
 - same_normalized: no
-- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from mouth of your seed, said the Lord, from now and forever.
+- fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and words I put in your mouth will not fail from your mouth nor from the mouth of your seed, said the Lord, from now and forever.
 - brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
 ### Isaiah 60:1
@@ -168435,7 +168435,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For see, the Lord made it heard to end of earth: Say to daughter of Zion, See, your savior comes, holding his wage and his work before his face.
+- fresh: For see, the Lord made it heard to the end of the earth: Say to daughter of Zion, See, your savior comes, holding his wage and his work before his face.
 - brenton: For behold, the Lord has proclaimed to the end of the earth, say ye to the daughter of Sion, Behold, thy Saviour has come to thee, having his reward and his work before his face.
 
 ### Isaiah 62:12
@@ -169184,7 +169184,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in fifth month.
+- fresh: and it came in days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
 - brenton: And it was in the days of Joakim son of Josias king of Juda, until the eleventh year of Sedekias king of Juda, even until the captivity of Jerusalem in the fifth month.
 
 ### Jeremiah 1:4
@@ -170633,7 +170633,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, people comes from north, and nation will be stirred from ends of earth.
+- fresh: Thus says the Lord: Behold, people comes from north, and nation will be stirred from the ends of the earth.
 - brenton: Thus saith the Lord, Behold, a people comes from the north, and nations shall be stirred up from the end of the earth.
 
 ### Jeremiah 6:23
@@ -171020,7 +171020,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of earth.
+- fresh: And they will spread them out to sun and moon and all stars and all army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be example upon face of the earth.
 - brenton: and they shall spread them out to the sun, and the moon, and to all the stars, and to all the host of heaven, which they have loved, and which they have served, and after which they have walked, and to which they have held, and which they have worshipped; they shall not be mourned for, neither shall they be buried; but they shall be for an example on the face of the earth,
 
 ### Jeremiah 8:3
@@ -171497,7 +171497,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there is abundance of water in heaven, and he brought up clouds from end of earth, made lightning for rain, and brought out light from his treasuries.
+- fresh: And there is abundance of water in heaven, and he brought up clouds from the end of the earth, made lightning for rain, and brought out light from his treasuries.
 - brenton: and set abundance of waters in the sky, and brought up clouds from the ends of the earth; he made lightnings for the rain, and brought forth light out of his treasures.
 
 ### Jeremiah 10:14
@@ -171911,7 +171911,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Over every opening in wilderness came destroyers, because sword of the Lord will devour from one end of earth to other end; there is no peace for any flesh.
+- fresh: Over every opening in wilderness came destroyers, because sword of the Lord will devour from one end of the earth to other end; there is no peace for any flesh.
 - brenton: The ravagers are come to every passage in the wilderness: for the sword of the Lord will devour from one end of the land to the other: no flesh has any peace.
 
 ### Jeremiah 12:13
@@ -172622,7 +172622,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: By diseased death they will die. They will not be mourned and not buried. For example upon face of earth they will be. By sword they will fall and by famine be finished, and to beasts of earth and birds of heaven.
+- fresh: By diseased death they will die. They will not be mourned and not buried. For example upon face of the earth they will be. By sword they will fall and by famine be finished, and to beasts of earth and birds of heaven.
 - brenton: They shall die of grievous death; they shall not be lamented, nor buried; they shall be for an example on the face of the earth; and they shall be for the wild beasts of the land, and for the birds of the sky: they shall fall by the sword, and shall be consumed with famine.
 
 ### Jeremiah 16:5
@@ -172757,7 +172757,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, my strength and my help and my refuge in day of evils, to you nations will come from end of earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
+- fresh: Lord, my strength and my help and my refuge in day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
 - brenton: O Lord, thou art my strength, and mine help, and my refuge in days of evil: to thee the Gentiles shall come from the end of the earth, and shall say, How vain were the idols which our fathers procured to themselves, and there is no help in them.
 
 ### Jeremiah 16:20
@@ -174341,7 +174341,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word coming to Jeremiah concerning all people of Judah in fourth year of Jehoiakim son of Josiah king of Judah,
+- fresh: Word coming to Jeremiah concerning all people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
 - brenton: The Word that came to Jeremias concerning all the people of Juda in the fourth year of Joakim, son of Josias, king of Juda;
 
 ### Jeremiah 25:2
@@ -174521,7 +174521,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in fourth year of Jehoiakim king of Judah.
+- fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
 - brenton: For Egypt, against the Power of Pharao Nechao King of Egypt, who was by the river Euphrates in Charmis, whom Nabuchodonosor king of Babylon smote in the fourth year of Joakim king of Juda.
 
 ### Jeremiah 26:3
@@ -175115,7 +175115,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, people comes from north, and great nation and many kings will be roused from end of earth.
+- fresh: Behold, people comes from north, and great nation and many kings will be roused from the end of the earth.
 - brenton: Behold, a people comes from the north, and a great nation, and many kings shall be stirred up from the end of the earth; holding bow and dagger:
 
 ### Jeremiah 27:42
@@ -175304,7 +175304,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: At his voice he set sound of waters in heaven and brought up clouds from end of earth. He made lightnings for rain and brought out light from his treasuries.
+- fresh: At his voice he set sound of waters in heaven and brought up clouds from the end of the earth. He made lightnings for rain and brought out light from his treasuries.
 - brenton: At his voice he makes a sound of water in the heaven, and brings up clouds from the extremity of the earth; he makes lightnings for rain, and brings light out of his treasures.
 
 ### Jeremiah 28:17
@@ -175655,7 +175655,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in fourth year of his reign, and Seraiah ruler of gifts.
+- fresh: Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah ruler of gifts.
 - brenton: The Word which the Lord commanded the Prophet Jeremias to say to Saræas son of Nerias, son of Maasæas, when he went from Sedekias king of Juda to Babylon, in the fourth year of his reign. And Saræas was over the bounties.
 
 ### Jeremiah 28:60
@@ -176564,7 +176564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and all kings from east, far and near, each toward his brother, and all kingdoms upon face of earth.
+- fresh: and all kings from east, far and near, each toward his brother, and all kingdoms upon face of the earth.
 - brenton: and all the kings from the north, the far and the near, each one with his brother, and all the kingdoms which are on the face of the earth.
 
 ### Jeremiah 32:27
@@ -176618,7 +176618,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Behold, evils come from nation upon nation, and great storm goes out from ends of earth.
+- fresh: Thus said the Lord: Behold, evils come from nation upon nation, and great storm goes out from the ends of the earth.
 - brenton: Thus said the Lord; Behold, evils are proceeding from nation to nation, and a great whirlwind goes forth from the end of the earth.
 
 ### Jeremiah 32:33
@@ -176627,7 +176627,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And slain by Lord in the day of the Lord will be from one end of earth even to other end of earth. They will never be buried. They will be like dung upon face of earth.
+- fresh: And slain by Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon face of the earth.
 - brenton: And the slain of the Lord shall be in the day of the Lord from one end of the earth even to the other end of the earth: they shall not be buried; they shall be as dung on the face of the earth.
 
 ### Jeremiah 32:34
@@ -177050,7 +177050,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in fourth year of Zedekiah king of Judah, in fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in house of the Lord before eyes of priests and all people, saying,
+- fresh: And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in house of the Lord before eyes of priests and all people, saying,
 - brenton: And it came to pass in the fourth year of Sedekias king of Juda, in the fifth month, that Ananias the false prophet, the son of Azor, from Gabaon, spoke to me in the house of the Lord, in the sight of the priests and all the people, saying,
 
 ### Jeremiah 35:2
@@ -177185,7 +177185,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord: Behold, I send you away from face of earth. In this year you will die.
+- fresh: Therefore thus said the Lord: Behold, I send you away from the face of the earth. In this year you will die.
 - brenton: Therefore thus said the Lord: Behold, I will cast thee off from the face of the earth: this year thou shalt die.
 
 ### Jeremiah 35:17
@@ -177689,7 +177689,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I bring them from north and gather them from ends of earth in feast of Phasce, and they will beget great crowd and return here.
+- fresh: Behold, I bring them from north and gather them from the ends of the earth in feast of Phasce, and they will beget great crowd and return here.
 - brenton: Behold, I bring them from the north, and will gather them from the end of the earth to the feast of the passover: and the people shall beget a great multitude, and they shall return hither.
 
 ### Jeremiah 38:9
@@ -178985,7 +178985,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in fourth year of Jehoiakim son of Josiah king of Judah, the word of the Lord came to me, saying,
+- fresh: And in the fourth year of Jehoiakim son of Josiah king of Judah, the word of the Lord came to me, saying,
 - brenton: In the fourth Year of Joakim son of Josias king of Juda, the word of the Lord came to me, saying,
 
 ### Jeremiah 43:2
@@ -179057,7 +179057,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eighth year of reign of Jehoiakim, in ninth month, all people in Jerusalem and house of Judah proclaimed fast before the Lord.
+- fresh: And it happened in the eighth year of reign of Jehoiakim, in the ninth month, all people in Jerusalem and house of Judah proclaimed fast before the Lord.
 - brenton: And it came to pass in the eighth year of king Joakim, in the ninth month, all the people in Jerusalem, and the house of Juda, proclaimed a fast before the Lord.
 
 ### Jeremiah 43:10
@@ -179714,7 +179714,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in ninth year of Zedekiah king of Judah, in tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
+- fresh: And it happened in ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
 - brenton: And it came to pass in the ninth month of Sedekias king of Juda, that Nabuchodonosor king of Babylon came, and all his host, against Jerusalem, and they besieged it.
 
 ### Jeremiah 46:2
@@ -179723,7 +179723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in eleventh year of Zedekiah, in fourth month, ninth of month, city was breached.
+- fresh: And in eleventh year of Zedekiah, in the fourth month, ninth of the month, city was breached.
 - brenton: And in the eleventh year of Sedekias, in the fourth month, on the ninth day of the month, the city was broken up.
 
 ### Jeremiah 46:3
@@ -180677,7 +180677,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in fourth year of Jehoiakim son of Josiah king of Judah.
+- fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
 - brenton: The Word which Jeremias the Prophet spoke to Baruch son of Nerias, when he wrote these words in the book from the mouth of Jeremias, in the fourth year of Joakim the son of Josias king of Juda.
 
 ### Jeremiah 51:32
@@ -180731,7 +180731,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in ninth year of his reign, in tenth month, tenth of month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
+- fresh: And it happened in ninth year of his reign, in the tenth month, tenth of the month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
 - brenton: And it came to pass in the ninth year of his reign, in the ninth month, on the tenth day of the month, that Nabuchodonosor king of Babylon came, and all his host, against Jerusalem, and they made a rampart round it, and built a wall round about it with large stones.
 
 ### Jeremiah 52:5
@@ -180749,7 +180749,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In ninth of month famine was strengthened in city, and there were no breads for people of land.
+- fresh: In ninth of the month famine was strengthened in city, and there were no breads for people of land.
 - brenton: on the ninth day of the month, and then the famine was severe in the city, and there was no bread for the people of the land.
 
 ### Jeremiah 52:7
@@ -180803,7 +180803,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in fifth month, tenth of month, Nebuzaradan chief cook, who stood before face of king of Babylon, came into Jerusalem.
+- fresh: And in the fifth month, tenth of the month, Nebuzaradan chief cook, who stood before face of king of Babylon, came into Jerusalem.
 - brenton: And in the fifth month, on the tenth day of the month, Nabuzardan the captain of the guard, who waited on the king of Babylon, came to Jerusalem;
 
 ### Jeremiah 52:13
@@ -180938,7 +180938,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in twelfth month, on twenty-fourth of month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from house where he was kept.
+- fresh: And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on twenty-fourth of the month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from house where he was kept.
 - brenton: And it came to pass in the thirty-seventh year after that Joakim king of Juda had been carried away captive, in the twelfth month, on the four and twentieth day of the month, that Ulæmadachar king of Babylon, in the year in which he began to reign, raised the head of Joakim king of Juda, and shaved him, and brought him out of the house where he was kept,
 
 ### Jeremiah 52:32
@@ -181678,7 +181678,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From mouth of Most High will not evils and good come out?
+- fresh: From the mouth of Most High will not evils and good come out?
 - brenton: Out of the mouth of the Most High there shall not come forth evil and good.
 
 ### Lamentations 3:39
@@ -182337,7 +182337,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in thirtieth year, in fourth month, on fifth of month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
+- fresh: And it happened in thirtieth year, in the fourth month, on fifth of the month, and I was in midst of captivity by river Chebar, and heavens were opened and I saw visions of God.
 - brenton: Now it came to pass in the thirtieth year, in the fourth month, on the fifth day of the month, that I was in the midst of the captivity by the river of Chobar; and the heavens were opened, and I saw visions of God.
 
 ### Ezekiel 1:2
@@ -182346,7 +182346,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Fifth of month, this was fifth year of captivity of king Joakim,
+- fresh: Fifth of the month, this was fifth year of captivity of king Joakim,
 - brenton: On the fifth day of the month; this was the fifth year of the captivity of king Joakim.
 
 ### Ezekiel 1:3
@@ -183588,7 +183588,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in sixth year, in fifth month, on fifth of month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
+- fresh: And it happened in sixth year, in the fifth month, on fifth of the month, I sat in house and elders of Judah sat before me, and the hand of the Lord came upon me.
 - brenton: And it came to pass in the sixth year, in the fifth month, on the fifth day of the month, I was sitting in the house, and the elders of Juda were sitting before me: and the hand of the Lord came upon me.
 
 ### Ezekiel 8:2
@@ -186198,7 +186198,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in seventh year, in fifth month, on tenth of month, men from elders of house of Israel came to inquire of the Lord and sat before me.
+- fresh: And it happened in seventh year, in the fifth month, on tenth of the month, men from elders of house of Israel came to inquire of the Lord and sat before me.
 - brenton: And it came to pass in the seventh year, on the fifteenth day of the month, there came men of the elders of the house of Israel to enquire of the Lord, and they sat before me.
 
 ### Ezekiel 20:2
@@ -187647,7 +187647,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me in ninth year, in tenth month, on tenth of month, saying,
+- fresh: And the word of the Lord came to me in ninth year, in the tenth month, on tenth of the month, saying,
 - brenton: And the word of the Lord came to me, in the ninth year, in the tenth month, on the tenth day of the month, saying,
 
 ### Ezekiel 24:2
@@ -188043,7 +188043,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, on first of month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, on first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 26:2
@@ -188781,7 +188781,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In tenth year, in tenth month, on first of month, the word of the Lord came to me, saying,
+- fresh: In tenth year, in the tenth month, on first of the month, the word of the Lord came to me, saying,
 - brenton: In the twelfth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:2
@@ -188925,7 +188925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-seventh year, on first of first month, the word of the Lord came to me, saying,
+- fresh: And it happened in twenty-seventh year, on first of the first month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:18
@@ -189141,7 +189141,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in first month, on seventh of month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in the first month, on seventh of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 30:21
@@ -189204,7 +189204,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in third month, on first of month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in the third month, on first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 31:2
@@ -189366,7 +189366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in twelfth month, on first of month, the word of the Lord came to me, saying,
+- fresh: And it happened in eleventh year, in the twelfth month, on first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the tenth month, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 32:2
@@ -189510,7 +189510,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twelfth year of first month, on fifteenth of month, the word of the Lord came to me, saying,
+- fresh: And it happened in the twelfth year of the first month, on fifteenth of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the first month, on the fifteenth day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 32:18
@@ -189825,7 +189825,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twelfth year, in twelfth month, on fifth of month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
+- fresh: And it happened in the twelfth year, in the twelfth month, on fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
 - brenton: And it came to pass in the tenth year of our captivity, in the twelfth month, on the fifth day of the month, that one that had escaped from Jerusalem came to me, saying, The city is taken.
 
 ### Ezekiel 33:22
@@ -191112,7 +191112,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+- fresh: And from the face of the Lord fish of sea and birds of heaven and beasts of field and all creeping things creeping on earth and all men on face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
 - brenton: and the fish of the sea shall quake at the presence of the Lord, and the birds of the sky and the wild beasts of the field, and all the reptiles that creep upon the earth, and all the men that are on the face of the earth; and the mountains shall be rent, and the valleys shall fall, and every wall on the land shall fall.
 
 ### Ezekiel 38:21
@@ -191409,7 +191409,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-fifth year of our captivity, in first month, on tenth of month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
+- fresh: And it happened in twenty-fifth year of our captivity, in the first month, on tenth of the month, in fourteenth year after city was taken, on that day the hand of the Lord came upon me and led me.
 - brenton: And it came to pass in the twenty-fifth year of our captivity, in the first month, on the tenth day of the month, in the fourteenth year after the taking of the city, in that day the hand of the Lord was upon me, and brought me
 
 ### Ezekiel 40:2
@@ -192930,7 +192930,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: In first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
+- fresh: Thus says the Lord God: In the first month, on first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
 - brenton: Thus saith the Lord God; In the first month, on the first day of the month, ye shall take a calf without blemish out of the herd, to make atonement for the holy place.
 
 ### Ezekiel 45:19
@@ -192957,7 +192957,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+- fresh: And in the first month, on fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
 - brenton: And in the first month, on the fourteenth day of the month, ye shall have the feast of the passover; seven days shall ye eat unleavened bread.
 
 ### Ezekiel 45:22
@@ -193742,7 +193742,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+- fresh: In the third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 - brenton: [missing]
 
 ### Daniel 1:2
@@ -193931,7 +193931,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And in second year of reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
+- fresh: And in the second year of reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
 - brenton: [missing]
 
 ### Daniel 2:2
@@ -194759,7 +194759,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to ends of earth, and all lands serve you.
+- fresh: And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to the ends of the earth, and all lands serve you.
 - brenton: [missing]
 
 ### Daniel 4:22
@@ -195362,7 +195362,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of Belshazzar ruling over land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
+- fresh: In the first year of Belshazzar ruling over land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
 - brenton: [missing]
 
 ### Daniel 7:2
@@ -195614,7 +195614,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
+- fresh: In the third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
 - brenton: [missing]
 
 ### Daniel 8:2
@@ -195857,7 +195857,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
+- fresh: In the first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
 - brenton: [missing]
 
 ### Daniel 9:2
@@ -195866,7 +195866,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: in first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
+- fresh: in the first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
 - brenton: [missing]
 
 ### Daniel 9:3
@@ -196100,7 +196100,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In first year of Cyrus king of Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
+- fresh: In the first year of Cyrus king of Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
 - brenton: [missing]
 
 ### Daniel 10:2
@@ -196127,7 +196127,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened on twenty-fourth day of first month, and I was on bank of the great river, which is Tigris.
+- fresh: And it happened on twenty-fourth day of the first month, and I was on bank of the great river, which is Tigris.
 - brenton: [missing]
 
 ### Daniel 10:5
@@ -196199,7 +196199,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Do not fear, Daniel, because from first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
+- fresh: And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
 - brenton: [missing]
 
 ### Daniel 10:13
@@ -200471,7 +200471,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of earth, the Lord God Almighty is his name.
+- fresh: The one building his ascent into heaven and founding his promise on the earth, calling water of sea and pouring it on face of the earth, the Lord God Almighty is his name.
 - brenton: It is he that builds his ascent up to the sky, and establishes his promise on the earth; who calls the water of the sea, and pours it out on the face of the earth; the Lord Almighty is his name.
 
 ### Amos 9:7
@@ -200489,7 +200489,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, eyes of the Lord God are upon kingdom of sinners, and I will remove it from face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
+- fresh: Behold, eyes of the Lord God are upon kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
 - brenton: Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will cut it off from the face of the earth; only I will not utterly cut off the house of Jacob, saith the Lord.
 
 ### Amos 9:9
@@ -203075,7 +203075,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all things utterly fail from face of earth, says the Lord.
+- fresh: Let all things utterly fail from the face of the earth, says the Lord.
 - brenton: Let there be an utter cutting off from the face of the land, saith the Lord.
 
 ### Zephaniah 1:3
@@ -203084,7 +203084,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from face of earth, says the Lord.
+- fresh: Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from the face of the earth, says the Lord.
 - brenton: Let man and cattle be cut off; let the birds of the air and the fishes of the sea be cut off; and the ungodly shall fail, and I will take away the transgressors from the face of the land, saith the Lord.
 
 ### Zephaniah 1:4
@@ -203545,7 +203545,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In second year of Darius king, in sixth month, on first day of month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+- fresh: In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
 - brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ### Haggai 1:2
@@ -203671,7 +203671,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: on twenty-fourth day of sixth month, in second year of Darius king.
+- fresh: on twenty-fourth day of the sixth month, in the second year of Darius king.
 - brenton: on the four and twentieth day of the sixth month, in the second year of Darius the king.
 
 ### Haggai 2:1
@@ -203680,7 +203680,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In seventh month, on twenty-first day of month, the Lord spoke by hand of Haggai prophet, saying,
+- fresh: In seventh month, on twenty-first day of the month, the Lord spoke by hand of Haggai prophet, saying,
 - brenton: In the seventh month, on the twenty-first day of the month, the Lord spoke by Aggæus the prophet, saying,
 
 ### Haggai 2:2
@@ -203761,7 +203761,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On twenty-fourth day of ninth month, in second year of Darius, the word of the Lord came to Haggai prophet, saying,
+- fresh: On twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai prophet, saying,
 - brenton: On the four and twentieth day of the ninth month, in the second year of Darius, the word of the Lord came to Aggæus the prophet, saying,
 
 ### Haggai 2:11
@@ -203833,7 +203833,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Submit your hearts now from this day and onward, from twenty-fourth day of ninth month and from day when temple of the Lord was founded; set it in your hearts.
+- fresh: Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from day when temple of the Lord was founded; set it in your hearts.
 - brenton: Set your hearts now to think from this day and upward, from the four and twentieth day of the ninth month, even from the day when the foundation of the temple of the Lord was laid;
 
 ### Haggai 2:19
@@ -203851,7 +203851,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word of the Lord came second time to Haggai prophet on twenty-fourth day of month, saying,
+- fresh: Word of the Lord came second time to Haggai prophet on twenty-fourth day of the month, saying,
 - brenton: And the word of the Lord came the second time to Aggæus the prophet, on the four and twentieth day of the month, saying,
 
 ### Haggai 2:21
@@ -203889,7 +203889,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+- fresh: In the eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - brenton: In the eighth month, in the second year of the reign of Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 
 ### Zechariah 1:2
@@ -203943,7 +203943,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: On twenty-fourth day of eleventh month, this is month Sebat, in second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+- fresh: On twenty-fourth day of eleventh month, this is month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - brenton: On the twenty-fourth day in the eleventh month, this is the month Sabat, in the second year of the reign of Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 
 ### Zechariah 1:8
@@ -204645,7 +204645,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of ninth month, which is Chisleu.
+- fresh: And it happened in the fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of the ninth month, which is Chisleu.
 - brenton: And it came to pass in the fourth year of Darius the king, that the word of the Lord came to Zacharias on the fourth day of the ninth month, which is Chaseleu.
 
 ### Zechariah 7:2
@@ -204663,7 +204663,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: saying to priests in house of the Lord Almighty and to prophets, saying, Has sanctification entered here in fifth month, as I have done already many years?
+- fresh: saying to priests in house of the Lord Almighty and to prophets, saying, Has sanctification entered here in the fifth month, as I have done already many years?
 - brenton: speaking to the priests that were in the house of the Lord Almighty, and to the prophets, saying, The holy offering has come in hither in the fifth month, as it has done already many years.
 
 ### Zechariah 7:4
@@ -204681,7 +204681,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to all people of land and to priests, saying: If you fasted or mourned in fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+- fresh: Say to all people of land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
 - brenton: Speak to the whole people of the land, and to the priests, saying, Though ye fasted or lamented in the fifth or seventh months (yea, behold, these seventy years) have ye at all fasted to me?
 
 ### Zechariah 7:6
@@ -204843,7 +204843,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
+- fresh: Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from the mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
 - brenton: Thus saith the Lord Almighty; Let your hands be strong, ye that hear in these days these words out of the mouth of the prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built.
 
 ### Zechariah 8:10
@@ -205059,7 +205059,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to ends of earth.
+- fresh: And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to the ends of the earth.
 - brenton: And he shall destroy the chariots out of Ephraim, and the horse out of Jerusalem, and the bow of war shall be utterly destroyed; and there shall be abundance and peace out of the nations; and he shall rule over the waters as far as the sea, and the rivers to the ends of the earth.
 
 ### Zechariah 9:11
