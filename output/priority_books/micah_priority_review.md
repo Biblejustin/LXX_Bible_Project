@@ -11,7 +11,7 @@ Selected verses: 6
 ## Micah 4:2
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, law, lord; crossref_top_vote=13; reco=keep
-- fresh: And many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+- fresh: And many nations will go and say, Come, let us go up to mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
 
 ## Micah 5:3

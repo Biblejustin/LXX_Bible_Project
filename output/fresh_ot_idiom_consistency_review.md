@@ -143,7 +143,7 @@ Unresolved outliers: 0
 - Ezekiel 45:15 [salvation]
   - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says the Lord God.
 - Ezekiel 45:17 [salvation]
-  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for house of Israel.
+  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
 - Ezekiel 46:2 [salvation]
   - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
 - Ezekiel 46:12 [salvation]

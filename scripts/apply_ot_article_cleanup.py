@@ -363,6 +363,10 @@ LORD_OBJECT_REPLACEMENTS = (
         "People of the land",
     ),
     (
+        re.compile(r"\b([Tt]o|[Ii]nto|[Ff]rom|[Ii]n|[Bb]efore|[Aa]gainst|[Oo]ver|[Ff]or|[Cc]oncerning) house of\b"),
+        r"\1 the house of",
+    ),
+    (
         re.compile(r"\bthe Lord stirred spirit of Cyrus\b"),
         "the Lord stirred the spirit of Cyrus",
     ),

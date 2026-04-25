@@ -5,7 +5,7 @@ Selected verses: 6
 ## Joel 1:13
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, god, sacrifice; crossref_top_vote=7; reco=keep
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
 - brenton: Gird yourselves with sackcloth, and lament, ye priests: mourn, ye that serve at the altar: go in, sleep in sackcloths, ye that minister to God: for the meat-offering and drink-offering are withheld from the house of your God.
 
 ## Joel 2:13

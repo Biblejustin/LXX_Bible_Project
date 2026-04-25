@@ -2927,15 +2927,6 @@ Rows: 712
 - mt: Hepher the Mecherathite, Ahijah the Pelonite,
 - brenton: the Mechorathrite, Achia the Phellonite,
 
-## 2 Chronicles 29:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.915`
-- fresh_brenton_ratio: `0.730`
-- fresh: And Hezekiah the king rose early and gathered rulers of city and went up to house of the Lord.
-- mt: Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
-- brenton: And king Ezekias rose early in the morning, and gathered the chief men of the city, and went up to the house of the Lord.
-
 ## 2 Samuel 7:3
 - priority: `0`
 - importance: `none`
@@ -3007,6 +2998,15 @@ Rows: 712
 - fresh: And beside border of Zebulun, from east side to west side, Gad, one portion.
 - mt: And by the border of Zebulun, from the east side unto the west side, Gad a portion.
 - brenton: And from the borders of Zabulon, from the east to the western parts, Gad, one.
+
+## 2 Chronicles 29:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.936`
+- fresh_brenton_ratio: `0.753`
+- fresh: And Hezekiah the king rose early and gathered rulers of city and went up to the house of the Lord.
+- mt: Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
+- brenton: And king Ezekias rose early in the morning, and gathered the chief men of the city, and went up to the house of the Lord.
 
 ## Leviticus 13:15
 - priority: `0`

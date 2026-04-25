@@ -42548,7 +42548,7 @@ And until this day at the king's gate eastward, these were the gates of the enca
 
 **1 Chronicles 9:19**
 
-And Shallum son of Kore son of Abiasaph son of Kore, and his brothers to house of his father, the Korahites, were over works of the service, guarding the guards of the tent, and their fathers were over the encampment of the Lord, guarding the entrance.
+And Shallum son of Kore son of Abiasaph son of Kore, and his brothers to the house of his father, the Korahites, were over works of the service, guarding the guards of the tent, and their fathers were over the encampment of the Lord, guarding the entrance.
 
 **1 Chronicles 9:20**
 
@@ -42690,7 +42690,7 @@ And they stripped him and took his head and his weapons, and sent into land of P
 
 **1 Chronicles 10:10**
 
-And they put his weapons in house of their god, and they put his head in house of Dagon.
+And they put his weapons in the house of their god, and they put his head in the house of Dagon.
 
 **1 Chronicles 10:11**
 
@@ -43092,7 +43092,7 @@ And David brought it up, and all Israel went up to City of David, which belonged
 
 **1 Chronicles 13:7**
 
-And they placed ark of God on new wagon from house of Amminadab, and Uzza and his brothers were leading wagon.
+And they placed ark of God on new wagon from the house of Amminadab, and Uzza and his brothers were leading wagon.
 
 **1 Chronicles 13:8**
 
@@ -43116,11 +43116,11 @@ And David feared God on that day, saying, How shall I bring ark of God to myself
 
 **1 Chronicles 13:13**
 
-And David did not bring back ark to himself into City of David, but turned it aside into house of Obededom the Gittite.
+And David did not bring back ark to himself into City of David, but turned it aside into the house of Obededom the Gittite.
 
 **1 Chronicles 13:14**
 
-And ark of God stayed in house of Obededom three months, and God blessed Abeddaram and all his things.
+And ark of God stayed in the house of Obededom three months, and God blessed Abeddaram and all his things.
 
 ### Chapter 14
 
@@ -43292,7 +43292,7 @@ And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah
 
 **1 Chronicles 15:25**
 
-And David and elders of Israel and commanders of thousands were going to bring up ark of covenant of the Lord from house of Obededom with gladness.
+And David and elders of Israel and commanders of thousands were going to bring up ark of covenant of the Lord from the house of Obededom with gladness.
 
 **1 Chronicles 15:26**
 
@@ -43548,7 +43548,7 @@ And king David came and sat before the Lord and said, Who am I, the Lord God, an
 
 **1 Chronicles 17:17**
 
-And these things were made small before you, O God, and you spoke concerning house of your servant for long distance, and you looked upon me as vision of man, and you exalted me, Lord God.
+And these things were made small before you, O God, and you spoke concerning the house of your servant for long distance, and you looked upon me as vision of man, and you exalted me, Lord God.
 
 **1 Chronicles 17:18**
 
@@ -43950,7 +43950,7 @@ Then you shall prosper if you keep doing ordinances and judgments which the Lord
 
 **1 Chronicles 22:14**
 
-And behold, in my poverty I prepared for house of the Lord one hundred thousand talents of gold and one thousand thousand talents of silver, and bronze and iron without weight, because it is in abundance, and wood and stones I prepared, and to these add more.
+And behold, in my poverty I prepared for the house of the Lord one hundred thousand talents of gold and one thousand thousand talents of silver, and bronze and iron without weight, because it is in abundance, and wood and stones I prepared, and to these add more.
 
 **1 Chronicles 22:15**
 
@@ -44638,7 +44638,7 @@ But God said, You shall not build me a house to have my name called upon it, bec
 
 **1 Chronicles 28:4**
 
-And the Lord God of Israel chose me from all house of my father to be king over Israel forever, and in Judah he chose kingdom, and from house of Judah house of my father, and among sons of my father he desired in me to make me king over all Israel.
+And the Lord God of Israel chose me from all house of my father to be king over Israel forever, and in Judah he chose kingdom, and from the house of Judah house of my father, and among sons of my father he desired in me to make me king over all Israel.
 
 **1 Chronicles 28:5**
 
@@ -44716,11 +44716,11 @@ And king David said to all assembly, Solomon my son, in whom alone the Lord chos
 
 **1 Chronicles 29:2**
 
-With all my strength I prepared for house of my God gold, silver, bronze, iron, wood, shoham stones and filling stones and precious stones and varied stones and every precious stone and much Parian stone.
+With all my strength I prepared for the house of my God gold, silver, bronze, iron, wood, shoham stones and filling stones and precious stones and varied stones and every precious stone and much Parian stone.
 
 **1 Chronicles 29:3**
 
-And still, because I delighted in house of my God, I have gold and silver which I kept for myself, and behold, I gave it for house of my God in addition to what I prepared for house of holy things,
+And still, because I delighted in the house of my God, I have gold and silver which I kept for myself, and behold, I gave it for the house of my God in addition to what I prepared for the house of holy things,
 
 **1 Chronicles 29:4**
 
@@ -45016,7 +45016,7 @@ And weight of nails, weight of one, fifty shekels of gold, and upper rooms he gi
 
 **2 Chronicles 3:10**
 
-And he made in house of holy of holies two cheroubim, work from woods, and gilded them with gold.
+And he made in the house of holy of holies two cheroubim, work from woods, and gilded them with gold.
 
 **2 Chronicles 3:11**
 
@@ -45090,7 +45090,7 @@ And he set sea from corner of house on right, toward east, opposite.
 
 **2 Chronicles 4:11**
 
-And Hiram made flesh-hooks and firepans and grate of altar and all its vessels, and Hiram finished making all work which Solomon the king made in house of God:
+And Hiram made flesh-hooks and firepans and grate of altar and all its vessels, and Hiram finished making all work which Solomon the king made in the house of God:
 
 **2 Chronicles 4:12**
 
@@ -45110,11 +45110,11 @@ and one sea and twelve calves under it,
 
 **2 Chronicles 4:16**
 
-and footstools and forks and cauldrons and flesh-hooks and all their vessels, which Hiram made and brought to king Solomon for house of the Lord, of pure bronze.
+and footstools and forks and cauldrons and flesh-hooks and all their vessels, which Hiram made and brought to king Solomon for the house of the Lord, of pure bronze.
 
 **2 Chronicles 4:17**
 
-In region of Jordan king cast them in thickness of earth, in house of Succoth and between Sirdatha.
+In region of Jordan king cast them in thickness of earth, in the house of Succoth and between Sirdatha.
 
 **2 Chronicles 4:18**
 
@@ -45572,7 +45572,7 @@ And servants of Solomon and servants of Hiram were bringing gold to Solomon from
 
 **2 Chronicles 9:11**
 
-And king made from pine woods stairways for house of the Lord and for house of king and lyres and harps for singers, and such things were not seen before in the land of Judah.
+And king made from pine woods stairways for the house of the Lord and for the house of king and lyres and harps for singers, and such things were not seen before in the land of Judah.
 
 **2 Chronicles 9:12**
 
@@ -45592,7 +45592,7 @@ And king Solomon made two hundred beaten-gold shields; six hundred pure golds we
 
 **2 Chronicles 9:16**
 
-And three hundred beaten-gold bucklers; three hundred golds went up on each buckler, and king put them in house of forest of Lebanon.
+And three hundred beaten-gold bucklers; three hundred golds went up on each buckler, and king put them in the house of forest of Lebanon.
 
 **2 Chronicles 9:17**
 
@@ -45862,7 +45862,7 @@ For they shall be servants, and they shall know my service and service of kingdo
 
 **2 Chronicles 12:9**
 
-And Shishak king of Egypt came up and took treasures in the house of the Lord and treasures in house of king. He took all, and he took golden shields which Solomon made.
+And Shishak king of Egypt came up and took treasures in the house of the Lord and treasures in the house of king. He took all, and he took golden shields which Solomon made.
 
 **2 Chronicles 12:10**
 
@@ -46362,7 +46362,7 @@ And king of Israel said, Take Micaiah and return him to Amon ruler of city and t
 
 **2 Chronicles 18:26**
 
-and say, Thus says king: Put this one into house of prison, and let him eat bread of affliction and water of affliction until I return in peace.
+and say, Thus says king: Put this one into the house of prison, and let him eat bread of affliction and water of affliction until I return in peace.
 
 **2 Chronicles 18:27**
 
@@ -46440,7 +46440,7 @@ Every case that comes upon you from your brothers dwelling in their cities, betw
 
 **2 Chronicles 19:11**
 
-And behold, Amariah the priest is leader over you for every matter of the Lord, and Zebadiah son of Ishmael is leader for house of Judah for every matter of king, and scribes and Levites are before you. Be strong and do, and the Lord shall be with good man.
+And behold, Amariah the priest is leader over you for every matter of the Lord, and Zebadiah son of Ishmael is leader for the house of Judah for every matter of king, and scribes and Levites are before you. Be strong and do, and the Lord shall be with good man.
 
 ### Chapter 20
 
@@ -46554,7 +46554,7 @@ And every man of Judah returned to Jerusalem, and Jehoshaphat leading them, with
 
 **2 Chronicles 20:28**
 
-And they entered into Jerusalem with harps and lyres and trumpets to house of the Lord.
+And they entered into Jerusalem with harps and lyres and trumpets to the house of the Lord.
 
 **2 Chronicles 20:29**
 
@@ -46660,7 +46660,7 @@ And the Lord stirred up against Jehoram Philistines and Arabs and neighbors of E
 
 **2 Chronicles 21:17**
 
-And they went up against Judah and overpowered and carried away all baggage they found in house of king and his sons and his daughters, and no son was left to him except Ahaziah, youngest of his sons.
+And they went up against Judah and overpowered and carried away all baggage they found in the house of king and his sons and his daughters, and no son was left to him except Ahaziah, youngest of his sons.
 
 **2 Chronicles 21:18**
 
@@ -46702,7 +46702,7 @@ And Joram returned to be healed in Jezreel from wounds which Syrians gave him in
 
 **2 Chronicles 22:7**
 
-And from God came destruction of Ahaziah by coming to Joram. And when he came, Joram went out with him toward Jehu son of Nimshi, anointed of the Lord, against house of Ahab.
+And from God came destruction of Ahaziah by coming to Joram. And when he came, Joram went out with him toward Jehu son of Nimshi, anointed of the Lord, against the house of Ahab.
 
 **2 Chronicles 22:8**
 
@@ -46710,11 +46710,11 @@ And it came to pass when Jehu avenged house of Ahab and found rulers of Judah an
 
 **2 Chronicles 22:9**
 
-And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is son of Jehoshaphat who sought the Lord with whole heart. And there was none in house of Ahaziah strong enough for kingdom.
+And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is son of Jehoshaphat who sought the Lord with whole heart. And there was none in the house of Ahaziah strong enough for kingdom.
 
 **2 Chronicles 22:10**
 
-And Athaliah mother of Ahaziah saw that her son was dead, and she rose and destroyed all royal seed in house of Judah.
+And Athaliah mother of Ahaziah saw that her son was dead, and she rose and destroyed all royal seed in the house of Judah.
 
 **2 Chronicles 22:11**
 
@@ -46722,7 +46722,7 @@ And Jehoshabeath daughter of king took Joash son of Ahaziah and stole him from t
 
 **2 Chronicles 22:12**
 
-And he was with her in house of God, hidden six years, and Athaliah reigned over land.
+And he was with her in the house of God, hidden six years, and Athaliah reigned over land.
 
 ### Chapter 23
 
@@ -46736,7 +46736,7 @@ And they went around Judah and gathered Levites from all cities of Judah and chi
 
 **2 Chronicles 23:3**
 
-And all assembly of Judah made covenant in house of God with king, and he showed them son of king and said to them, Behold, son of king, let him reign, as the Lord spoke concerning house of David.
+And all assembly of Judah made covenant in the house of God with king, and he showed them son of king and said to them, Behold, son of king, let him reign, as the Lord spoke concerning the house of David.
 
 **2 Chronicles 23:4**
 
@@ -46744,7 +46744,7 @@ Now this is thing which you shall do: one-third of you entering on Sabbath, of p
 
 **2 Chronicles 23:5**
 
-and one-third in house of king, and one-third at middle gate, and all people in courts of house of the Lord.
+and one-third in the house of king, and one-third at middle gate, and all people in courts of house of the Lord.
 
 **2 Chronicles 23:6**
 
@@ -46760,7 +46760,7 @@ And Levites and all Judah did according to all things which Jehoiada the priest 
 
 **2 Chronicles 23:9**
 
-And he gave swords and shields and weapons which belonged to king David in house of God.
+And he gave swords and shields and weapons which belonged to king David in the house of God.
 
 **2 Chronicles 23:10**
 
@@ -46796,7 +46796,7 @@ And all people of the land entered house of Baal and pulled it down, and his alt
 
 **2 Chronicles 23:18**
 
-And Jehoiada the priest entrusted works of house of the Lord by the hand of priests and Levites and restored courses of priests and Levites which David appointed over house of the Lord, to offer whole burnt offerings to the Lord as written in law of Moses, with gladness and with songs by the hand of David.
+And Jehoiada the priest entrusted works of house of the Lord by the hand of priests and Levites and restored courses of priests and Levites which David appointed over the house of the Lord, to offer whole burnt offerings to the Lord as written in law of Moses, with gladness and with songs by the hand of David.
 
 **2 Chronicles 23:19**
 
@@ -46804,7 +46804,7 @@ And they stationed gatekeepers at gates of house of the Lord, and no unclean per
 
 **2 Chronicles 23:20**
 
-And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to house of the Lord, and entered by inner gate into house of king and seated king upon throne of kingdom.
+And he took patriarchs and mighty men and rulers of people and all people of the land, and brought up king to the house of the Lord, and entered by inner gate into the house of king and seated king upon throne of kingdom.
 
 **2 Chronicles 23:21**
 
@@ -46866,7 +46866,7 @@ And workers did work, and length of works went up in their hands, and they resto
 
 **2 Chronicles 24:14**
 
-And when they finished, they brought remaining silver to king and to Jehoiada, and they made vessels for house of the Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in the house of the Lord continually all days of Jehoiada.
+And when they finished, they brought remaining silver to king and to Jehoiada, and they made vessels for the house of the Lord, ministering vessels for whole burnt offerings and censers of gold and silver, and they offered whole burnt offerings in the house of the Lord continually all days of Jehoiada.
 
 **2 Chronicles 24:15**
 
@@ -47118,7 +47118,7 @@ And chief priest and priests turned to him, and behold, he was leprous in forehe
 
 **2 Chronicles 26:21**
 
-And Uzziah the king was leprous until the day of his death, and as leper he sat in a separate house, because he was cut off from house of the Lord, and Jotham his son was over kingdom, judging people of the land.
+And Uzziah the king was leprous until the day of his death, and as leper he sat in a separate house, because he was cut off from the house of the Lord, and Jotham his son was over kingdom, judging people of the land.
 
 **2 Chronicles 26:22**
 
@@ -47246,7 +47246,7 @@ And Tilgathpilneser king of Assyria came upon him and struck him.
 
 **2 Chronicles 28:21**
 
-And Ahaz took what was in the house of the Lord and in house of king and of rulers and gave to king of Asshur, and it was not for help to him.
+And Ahaz took what was in the house of the Lord and in the house of king and of rulers and gave to king of Asshur, and it was not for help to him.
 
 **2 Chronicles 28:22**
 
@@ -47352,7 +47352,7 @@ And all vessels which king Ahaz defiled in his kingdom in his rebellion we prepa
 
 **2 Chronicles 29:20**
 
-And Hezekiah the king rose early and gathered rulers of city and went up to house of the Lord.
+And Hezekiah the king rose early and gathered rulers of city and went up to the house of the Lord.
 
 **2 Chronicles 29:21**
 
@@ -47396,7 +47396,7 @@ And Hezekiah the king and rulers told Levites to hymn the Lord in words of David
 
 **2 Chronicles 29:31**
 
-And Hezekiah answered and said, Now you have filled your hands to the Lord; come near and bring sacrifices and praises into house of the Lord. And assembly brought sacrifices and praises into house of the Lord, and everyone willing in heart brought whole burnt offerings.
+And Hezekiah answered and said, Now you have filled your hands to the Lord; come near and bring sacrifices and praises into the house of the Lord. And assembly brought sacrifices and praises into the house of the Lord, and everyone willing in heart brought whole burnt offerings.
 
 **2 Chronicles 29:32**
 
@@ -47422,7 +47422,7 @@ And Hezekiah and all people rejoiced because God prepared for people, because wo
 
 **2 Chronicles 30:1**
 
-And Hezekiah sent over all Israel and Judah and wrote letters to Ephraim and Manasseh to come to house of the Lord in Jerusalem to do passover to the Lord God of Israel.
+And Hezekiah sent over all Israel and Judah and wrote letters to Ephraim and Manasseh to come to the house of the Lord in Jerusalem to do passover to the Lord God of Israel.
 
 **2 Chronicles 30:2**
 
@@ -47478,7 +47478,7 @@ And they rose and took down altars in Jerusalem, and all things in which they bu
 
 **2 Chronicles 30:15**
 
-And they sacrificed passover on fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into house of the Lord.
+And they sacrificed passover on fourteenth of the second month, and priests and Levites were put to shame and sanctified themselves and brought whole burnt offerings into the house of the Lord.
 
 **2 Chronicles 30:16**
 
@@ -47568,7 +47568,7 @@ And Hezekiah inquired of priests and Levites concerning heaps.
 
 **2 Chronicles 31:10**
 
-And Azariah the chief priest for house of Zadok said to him, From when firstfruits began to be brought into house of the Lord, we ate and drank and left over, because the Lord blessed his people, and we still left over this great abundance.
+And Azariah the chief priest for the house of Zadok said to him, From when firstfruits began to be brought into the house of the Lord, we ate and drank and left over, because the Lord blessed his people, and we still left over this great abundance.
 
 **2 Chronicles 31:11**
 
@@ -47698,7 +47698,7 @@ And Hezekiah king and Isaiah son of Amoz prophet prayed about these things and c
 
 **2 Chronicles 32:21**
 
-And the Lord sent angel and crushed every mighty warrior and ruler and commander in camp of king of Asshur, and he returned with shame of face to his land, and he came into house of his god, and those coming from his own belly struck him down there with sword.
+And the Lord sent angel and crushed every mighty warrior and ruler and commander in camp of king of Asshur, and he returned with shame of face to his land, and he came into the house of his god, and those coming from his own belly struck him down there with sword.
 
 **2 Chronicles 32:22**
 
@@ -47776,7 +47776,7 @@ And he himself brought his children through fire in Valley of Ben-Hinnom, and pr
 
 **2 Chronicles 33:7**
 
-And he set carved and molten image which he made in house of God, of which God said to David and to Solomon his son, In this house and Jerusalem, which I chose from all tribes of Israel, I will put my name forever.
+And he set carved and molten image which he made in the house of God, of which God said to David and to Solomon his son, In this house and Jerusalem, which I chose from all tribes of Israel, I will put my name forever.
 
 **2 Chronicles 33:8**
 
@@ -47808,7 +47808,7 @@ And after these things he built wall outside City of David from west toward Giho
 
 **2 Chronicles 33:15**
 
-And he removed foreign gods and carved thing from house of the Lord, and all altars which he built on mountain of house of the Lord and in Jerusalem, and he threw them outside city.
+And he removed foreign gods and carved thing from the house of the Lord, and all altars which he built on mountain of house of the Lord and in Jerusalem, and he threw them outside city.
 
 **2 Chronicles 33:16**
 
@@ -47886,7 +47886,7 @@ And in eighteenth year of his kingdom, after cleansing land and house, he sent S
 
 **2 Chronicles 34:9**
 
-And they came to Hilkiah the high priest and gave money brought into house of God, which Levites keeping gate gathered from hand of Manasseh and Ephraim and of rulers and from all remnant in Israel and sons of Judah and Benjamin and those dwelling in Jerusalem.
+And they came to Hilkiah the high priest and gave money brought into the house of God, which Levites keeping gate gathered from hand of Manasseh and Ephraim and of rulers and from all remnant in Israel and sons of Judah and Benjamin and those dwelling in Jerusalem.
 
 **2 Chronicles 34:10**
 
@@ -47906,7 +47906,7 @@ and over burden bearers and over all those doing works, work by work. And from L
 
 **2 Chronicles 34:14**
 
-And when they were bringing out money brought into house of the Lord, Hilkiah the priest found book of the law of the Lord by the hand of Moses.
+And when they were bringing out money brought into the house of the Lord, Hilkiah the priest found book of the law of the Lord by the hand of Moses.
 
 **2 Chronicles 34:15**
 
@@ -47970,7 +47970,7 @@ And king sent and gathered elders of Judah and Jerusalem.
 
 **2 Chronicles 34:30**
 
-And king went up to house of the Lord, and all Judah and those dwelling in Jerusalem and priests and Levites and all people, from great to small, and he read in their ears all words of book of covenant found in the house of the Lord.
+And king went up to the house of the Lord, and all Judah and those dwelling in Jerusalem and priests and Levites and all people, from great to small, and he read in their ears all words of book of covenant found in the house of the Lord.
 
 **2 Chronicles 34:31**
 
@@ -48162,7 +48162,7 @@ But they kept mocking his messengers and despising his words and playing with hi
 
 **2 Chronicles 36:17**
 
-And he brought upon them king of Chaldeans, and he killed their young men with sword in house of his holy place, and he did not spare young man or virgin or elder, but gave all into their hands.
+And he brought upon them king of Chaldeans, and he killed their young men with sword in the house of his holy place, and he did not spare young man or virgin or elder, but gave all into their hands.
 
 **2 Chronicles 36:18**
 
@@ -48206,7 +48206,7 @@ Who among you is from all his people? Let his God be with him, and let him go up
 
 **Ezra 1:4**
 
-And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for house of God in Jerusalem.
+And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for the house of God in Jerusalem.
 
 **Ezra 1:5**
 
@@ -48218,7 +48218,7 @@ And all around them strengthened their hands with silver vessels, with gold, wit
 
 **Ezra 1:7**
 
-And King Cyrus brought out vessels of house of the Lord, which Nebuchadnezzar took from Jerusalem and placed in house of his god.
+And King Cyrus brought out vessels of house of the Lord, which Nebuchadnezzar took from Jerusalem and placed in the house of his god.
 
 **Ezra 1:8**
 
@@ -48508,7 +48508,7 @@ their camels 435, their donkeys 6,720.
 
 **Ezra 2:68**
 
-And some from heads of father-houses, when they came to house of the Lord in Jerusalem, made freewill offerings for house of God, to set it on its foundation.
+And some from heads of father-houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
 
 **Ezra 2:69**
 
@@ -48550,11 +48550,11 @@ And they gave silver to stonecutters and craftsmen, and food and drink and oil t
 
 **Ezra 3:8**
 
-And in the second year of their coming to house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
+And in the second year of their coming to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
 
 **Ezra 3:9**
 
-And Jeshua stood, and his sons and his brothers, Kadmiel and his sons, sons of Judah, over those doing the works in house of God, the sons of Henadad, their sons and their brothers the Levites.
+And Jeshua stood, and his sons and his brothers, Kadmiel and his sons, sons of Judah, over those doing the works in the house of God, the sons of Henadad, their sons and their brothers the Levites.
 
 **Ezra 3:10**
 
@@ -48702,7 +48702,7 @@ They sent a report to him, and these things were written in it: To King Darius, 
 
 **Ezra 5:8**
 
-Let it be known to the king that we went into land of Judah, to house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
+Let it be known to the king that we went into land of Judah, to the house of the great God, and it is being built with choice stones, and timbers are laid in the walls, and that work is done skillfully and prospers in their hands.
 
 **Ezra 5:9**
 
@@ -48738,7 +48738,7 @@ Then that Sheshbazzar came and laid foundations of house of God in Jerusalem, an
 
 **Ezra 5:17**
 
-And now, if it seems good to the king, let search be made in house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this let the king send to us.
+And now, if it seems good to the king, let search be made in the house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this let the king send to us.
 
 ### Chapter 6
 
@@ -48752,15 +48752,15 @@ And in city of Bareis, city of the Medes, one scroll was found, and this memoran
 
 **Ezra 6:3**
 
-In the first year of King Cyrus, Cyrus the king set decree concerning house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
+In the first year of King Cyrus, Cyrus the king set decree concerning the house of God in Jerusalem: Let the house be built, and the place where they sacrifice the offerings. And he set its height at sixty cubits and its breadth at sixty cubits,
 
 **Ezra 6:4**
 
-with three courses of massive stone and one course of timber, and expense shall be given from house of the king.
+with three courses of massive stone and one course of timber, and expense shall be given from the house of the king.
 
 **Ezra 6:5**
 
-And silver and gold vessels of house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in house of God.
+And silver and gold vessels of house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in the house of God.
 
 **Ezra 6:6**
 
@@ -48894,7 +48894,7 @@ and to bring silver and gold which the king and his counselors freely gave to Go
 
 **Ezra 7:16**
 
-and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for house of God in Jerusalem,
+and all the silver and gold whatever you find in whole land of Babylon, together with freewill of the people and priests who freely give for the house of God in Jerusalem,
 
 **Ezra 7:17**
 
@@ -48910,7 +48910,7 @@ And vessels given to you for service of house of God, deliver before God in Jeru
 
 **Ezra 7:20**
 
-And whatever remains of need for house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+And whatever remains of need for the house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
 
 **Ezra 7:21**
 
@@ -48922,7 +48922,7 @@ up to one hundred talents of silver and up to one hundred kors of wheat and up t
 
 **Ezra 7:23**
 
-Everything in decree of God of heaven, let it be done carefully for house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
+Everything in decree of God of heaven, let it be done carefully for the house of God of heaven. Take care lest anyone attack it, lest wrath come upon kingdom of the king and his sons.
 
 **Ezra 7:24**
 
@@ -49012,7 +49012,7 @@ And I sent for Eleazar, Ariel, Shemaiah, Alonam, Jarib, Elnathan, Nathan, Zechar
 
 **Ezra 8:17**
 
-And I sent them out to the leader at Casiphia the place, and I put words in their mouth to speak to their brothers the nethinim at Casiphia the place, to bring us singers for house of our God.
+And I sent them out to the leader at Casiphia the place, and I put words in their mouth to speak to their brothers the nethinim at Casiphia the place, to bring us singers for the house of our God.
 
 **Ezra 8:18**
 
@@ -49064,7 +49064,7 @@ Stay awake and guard them until you stand before chiefs of the priests and the L
 
 **Ezra 8:30**
 
-And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Jerusalem into house of our God.
+And the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Jerusalem into the house of our God.
 
 **Ezra 8:31**
 
@@ -49076,7 +49076,7 @@ And we came to Jerusalem and sat there three days.
 
 **Ezra 8:33**
 
-And it happened on fourth day that we weighed the silver and the gold and the vessels in house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
+And it happened on fourth day that we weighed the silver and the gold and the vessels in the house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
 
 **Ezra 8:34**
 
@@ -49156,7 +49156,7 @@ Lord God of Israel, righteous are you, because we were left escaping as this day
 
 **Ezra 10:1**
 
-And as Ezra prayed and confessed, weeping and praying before house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
+And as Ezra prayed and confessed, weeping and praying before the house of God, a very great assembly from Israel was gathered to him, men and women and young people, because the people wept and lifted up weeping.
 
 **Ezra 10:2**
 
@@ -49176,7 +49176,7 @@ And Ezra rose and made the rulers, the priests, and the Levites and all Israel s
 
 **Ezra 10:6**
 
-And Ezra rose from before house of God and went into treasury-room of Johanan son of Eliashib, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
+And Ezra rose from before the house of God and went into treasury-room of Johanan son of Eliashib, and he went there. He ate no bread and drank no water, because he mourned over faithlessness of the exile.
 
 **Ezra 10:7**
 
@@ -49552,7 +49552,7 @@ And after him Benjamin and Shobek repaired opposite their house. After him Azari
 
 **Nehemiah 3:24**
 
-After him Bani son of Henadad repaired a second measure, from house of Azariah to the angle and to the turning.
+After him Bani son of Henadad repaired a second measure, from the house of Azariah to the angle and to the turning.
 
 **Nehemiah 3:25**
 
@@ -49794,7 +49794,7 @@ For all are frightening us, saying, Their hands will be loosened from this work,
 
 **Nehemiah 6:10**
 
-And I entered house of Shemaiah son of Delaiah son of Meehtabel, and he, being confined, said, Let us gather in house of God, in its midst, and let us shut its doors, because they are coming by night to kill you.
+And I entered house of Shemaiah son of Delaiah son of Meehtabel, and he, being confined, said, Let us gather in the house of God, in its midst, and let us shut its doors, because they are coming by night to kill you.
 
 **Nehemiah 6:11**
 
@@ -50490,15 +50490,15 @@ for bread of the presence and sacrifice of the continual offering and for contin
 
 **Nehemiah 10:35**
 
-And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into house of our God, to house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
+And we cast lots concerning lot of wood-bearing, the priests and the Levites and the people, to bring into the house of our God, to the house of our fathers, at appointed times from years, year by year, to burn on altar of the Lord our God as written in the law,
 
 **Nehemiah 10:36**
 
-and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into house of the Lord,
+and to bring firstfruits of our land and firstfruits of fruit of every tree, year by year, into the house of the Lord,
 
 **Nehemiah 10:37**
 
-and the firstborn of our sons and our cattle as written in the law, and firstborn of our cattle and our flocks, to bring into house of our God, to the priests ministering in house of our God,
+and the firstborn of our sons and our cattle as written in the law, and firstborn of our cattle and our flocks, to bring into the house of our God, to the priests ministering in the house of our God,
 
 **Nehemiah 10:38**
 
@@ -50506,7 +50506,7 @@ and the firstfruit of our grains and fruit of every tree, wine and oil, we will 
 
 **Nehemiah 10:39**
 
-And priest son of Aaron shall be with the Levite in tithe of the Levite, and the Levites shall bring up tithe of the tithe into house of our God, into the treasury-rooms, into house of God.
+And priest son of Aaron shall be with the Levite in tithe of the Levite, and the Levites shall bring up tithe of the tithe into the house of our God, into the treasury-rooms, into the house of God.
 
 **Nehemiah 10:40**
 
@@ -50770,7 +50770,7 @@ and above Gate of Ephraim and to the Old Gate and to Fish Gate and Tower of Hana
 
 **Nehemiah 12:40**
 
-And the two choirs stood in house of God, and I and half of the generals with me,
+And the two choirs stood in the house of God, and I and half of the generals with me,
 
 **Nehemiah 12:41**
 
@@ -51658,7 +51658,7 @@ Then the Lord said to the slanderer, Behold, all things that are his I give into
 
 **Job 1:13**
 
-And it happened on a day when Job's sons and daughters were drinking wine in house of their elder brother,
+And it happened on a day when Job's sons and daughters were drinking wine in the house of their elder brother,
 
 **Job 1:14**
 
@@ -59280,7 +59280,7 @@ For end. For understanding. Of David.
 
 **Psalms 51:2**
 
-When Doeg the Edomite came and told Saul and said to him, David came into house of Abimelech.
+When Doeg the Edomite came and told Saul and said to him, David came into the house of Abimelech.
 
 **Psalms 51:3**
 
@@ -59312,7 +59312,7 @@ Behold man who did not make God his helper, but hoped in multitude of his wealth
 
 **Psalms 51:10**
 
-But I like fruitful olive tree in house of God; I hoped in mercy of God forever and forever of forever.
+But I like fruitful olive tree in the house of God; I hoped in mercy of God forever and forever of forever.
 
 **Psalms 51:11**
 
@@ -59446,7 +59446,7 @@ But you, man equal-souled, my guide and my acquaintance,
 
 **Psalms 54:15**
 
-who together with me sweetened foods; in house of God we walked in concord.
+who together with me sweetened foods; in the house of God we walked in concord.
 
 **Psalms 54:16**
 
@@ -61684,7 +61684,7 @@ Our defender, see, O God, and look upon face of your anointed.
 
 **Psalms 83:11**
 
-Because one day in your courts better than thousands; I chose to be cast aside in house of God rather than dwell in tents of sinners.
+Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in tents of sinners.
 
 **Psalms 83:12**
 
@@ -62624,7 +62624,7 @@ The Lord made known his salvation; before nations he revealed his righteousness.
 
 **Psalms 97:3**
 
-He remembered his mercy to Jacob and his truth to house of Israel; all ends of the earth saw salvation of our God.
+He remembered his mercy to Jacob and his truth to the house of Israel; all ends of the earth saw salvation of our God.
 
 **Psalms 97:4**
 
@@ -64276,7 +64276,7 @@ O Lord, save indeed; O Lord, prosper indeed.
 
 **Psalms 117:26**
 
-Blessed is the one coming in the name of the Lord; we blessed you from house of the Lord.
+Blessed is the one coming in the name of the Lord; we blessed you from the house of the Lord.
 
 **Psalms 117:27**
 
@@ -65064,7 +65064,7 @@ The Lord will guard your going in and your going out, from now and until age.
 
 **Psalms 121:1**
 
-Song of ascents. I rejoiced over those saying to me, "To house of the Lord we will go."
+Song of ascents. I rejoiced over those saying to me, "To the house of the Lord we will go."
 
 **Psalms 121:2**
 
@@ -65080,7 +65080,7 @@ For there tribes went up, tribes of the Lord, testimony for Israel, to give than
 
 **Psalms 121:5**
 
-Because there thrones sat for judgment, thrones over house of David.
+Because there thrones sat for judgment, thrones over the house of David.
 
 **Psalms 121:6**
 
@@ -68922,7 +68922,7 @@ Do not stretch yourself out, being poor, toward becoming rich; hold back from yo
 
 **Proverbs 23:5**
 
-If you set your eye on it, nowhere will it appear, for wings are prepared for it like eagle, and it returns to house of one leading it.
+If you set your eye on it, nowhere will it appear, for wings are prepared for it like eagle, and it returns to the house of one leading it.
 
 **Proverbs 23:6**
 
@@ -70328,7 +70328,7 @@ Better poor and wise child than old and foolish king who no longer knew how to h
 
 **Ecclesiastes 4:14**
 
-Because from house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
+Because from the house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
 
 **Ecclesiastes 4:15**
 
@@ -70340,7 +70340,7 @@ There is no end to all the people, to all who were before them; yet those last w
 
 **Ecclesiastes 4:17**
 
-Guard your foot whenever you go into house of God, and draw near to hear rather than to give sacrifice of fools, for they are not knowing to do evil.
+Guard your foot whenever you go into the house of God, and draw near to hear rather than to give sacrifice of fools, for they are not knowing to do evil.
 
 ### Chapter 5
 
@@ -70478,7 +70478,7 @@ Good name above good oil, and day of death above day of his birth.
 
 **Ecclesiastes 7:2**
 
-Better to go to house of mourning than to go to house of drinking, because this end of every man, and living one will give it to his heart.
+Better to go to the house of mourning than to go to the house of drinking, because this end of every man, and living one will give it to his heart.
 
 **Ecclesiastes 7:3**
 
@@ -70486,7 +70486,7 @@ Better anger than laughter, because by gloom of face heart will be made good.
 
 **Ecclesiastes 7:4**
 
-Heart of wise in house of mourning, and heart of fools in house of gladness.
+Heart of wise in the house of mourning, and heart of fools in the house of gladness.
 
 **Ecclesiastes 7:5**
 
@@ -70876,7 +70876,7 @@ and doors in market will be shut in weakness of sound of grinder, and he will ri
 
 **Ecclesiastes 12:5**
 
-And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to house of his age, and mourners circled in market.
+And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to the house of his age, and mourners circled in market.
 
 **Ecclesiastes 12:6**
 
@@ -71002,7 +71002,7 @@ As an apple tree among trees of the grove, so my beloved in the midst of sons. I
 
 **Song of Solomon 2:4**
 
-Bring me into house of wine; arrange love upon me.
+Bring me into the house of wine; arrange love upon me.
 
 **Song of Solomon 2:5**
 
@@ -71072,7 +71072,7 @@ Watchmen found me, those circling in city: "Did you see one my soul loved?"
 
 **Song of Solomon 3:4**
 
-Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into house of my mother and into chamber of one who conceived me.
+Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into chamber of one who conceived me.
 
 **Song of Solomon 3:5**
 
@@ -71350,7 +71350,7 @@ Who will give you as my beloved, nursing breasts of my mother? Finding you outsi
 
 **Song of Solomon 8:2**
 
-I will take you, I will bring you into house of my mother and into chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
+I will take you, I will bring you into the house of my mother and into chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
 
 **Song of Solomon 8:3**
 
@@ -71540,7 +71540,7 @@ Because in last days mountain of the Lord and house of God will be manifest on p
 
 **Isaiah 2:3**
 
-Many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
+Many nations will go and say, Come, let us go up to mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
 
 **Isaiah 2:4**
 
@@ -71930,7 +71930,7 @@ And it happened in the days of Ahaz son of Jotham son of Uzziah king of Judah, R
 
 **Isaiah 7:2**
 
-And it was reported to house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in forest is shaken by wind.
+And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in forest is shaken by wind.
 
 **Isaiah 7:3**
 
@@ -72092,11 +72092,11 @@ Then clear will be those sealing law so as not to learn.
 
 **Isaiah 8:17**
 
-And he will say, I will wait for God who turned his face from house of Jacob, and I will trust in him.
+And he will say, I will wait for God who turned his face from the house of Jacob, and I will trust in him.
 
 **Isaiah 8:18**
 
-Behold, I and children whom God gave me, and they will be for signs and wonders in house of Israel from the Lord of hosts who dwells on Mount Zion.
+Behold, I and children whom God gave me, and they will be for signs and wonders in the house of Israel from the Lord of hosts who dwells on Mount Zion.
 
 **Isaiah 8:19**
 
@@ -72524,7 +72524,7 @@ And donkey-centaurs will dwell there, and hedgehogs will make nests in their hou
 
 **Isaiah 14:1**
 
-And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to house of Jacob.
+And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to the house of Jacob.
 
 **Isaiah 14:2**
 
@@ -73128,7 +73128,7 @@ And I will set him ruler in trustworthy place, and he will be for throne of glor
 
 **Isaiah 22:24**
 
-And whole glorious thing in house of his father will be trusting on him, from small to great, and they will be hanging from him.
+And whole glorious thing in the house of his father will be trusting on him, from small to great, and they will be hanging from him.
 
 **Isaiah 22:25**
 
@@ -74266,7 +74266,7 @@ And Eliakim son of Hilkiah the steward and Shebna scribe of force and Joah son o
 
 **Isaiah 37:1**
 
-And it happened when king Hezekiah heard, he tore garments and put on sackcloth and went up into house of the Lord.
+And it happened when king Hezekiah heard, he tore garments and put on sackcloth and went up into the house of the Lord.
 
 **Isaiah 37:2**
 
@@ -74414,7 +74414,7 @@ And king of Assyrians turned back and departed and dwelt in Nineveh.
 
 **Isaiah 37:38**
 
-And while he was bowing in house of Nisroch his ancestral god, Adrammelech and Sharezer his sons struck him with swords, but they escaped into Armenia, and Esarhaddon his son reigned in place of him.
+And while he was bowing in the house of Nisroch his ancestral god, Adrammelech and Sharezer his sons struck him with swords, but they escaped into Armenia, and Esarhaddon his son reigned in place of him.
 
 ### Chapter 38
 
@@ -74496,7 +74496,7 @@ Living ones will bless you, as also I; for from today I will make children who w
 
 **Isaiah 38:20**
 
-Lord of my salvation, and I will not stop blessing you with psaltery all days of my life before house of God.
+Lord of my salvation, and I will not stop blessing you with psaltery all days of my life before the house of God.
 
 **Isaiah 38:21**
 
@@ -74504,7 +74504,7 @@ And Isaiah said to Hezekiah, Take cake of figs and rub and apply as poultice, an
 
 **Isaiah 38:22**
 
-And Hezekiah said, This = sign that I will go up into house of the Lord God.
+And Hezekiah said, This = sign that I will go up into the house of the Lord God.
 
 ### Chapter 39
 
@@ -74534,7 +74534,7 @@ Behold, days come, says the Lord, and they will take all things in your house an
 
 **Isaiah 39:7**
 
-and from your children whom you begot they will take and make eunuchs in house of king of Babylonians.
+and from your children whom you begot they will take and make eunuchs in the house of king of Babylonians.
 
 **Isaiah 39:8**
 
@@ -75932,7 +75932,7 @@ And to foreigners joined to the Lord to serve him and love the name of the Lord,
 
 **Isaiah 56:7**
 
-I will bring them to my holy mountain and gladden them in house of my prayer. Their whole burnt offerings and sacrifices will be acceptable on my altar, for my house will be called house of prayer for all nations.
+I will bring them to my holy mountain and gladden them in the house of my prayer. Their whole burnt offerings and sacrifices will be acceptable on my altar, for my house will be called house of prayer for all nations.
 
 **Isaiah 56:8**
 
@@ -76040,7 +76040,7 @@ No rejoicing for ungodly, said the Lord God.
 
 **Isaiah 58:1**
 
-Cry out with strength and do not spare. Lift your voice like trumpet and announce to my people their sins and to house of Jacob their lawless deeds.
+Cry out with strength and do not spare. Lift your voice like trumpet and announce to my people their sins and to the house of Jacob their lawless deeds.
 
 **Isaiah 58:2**
 
@@ -76394,7 +76394,7 @@ And I trampled them in my anger and brought their blood down to earth.
 
 **Isaiah 63:7**
 
-I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to house of Israel. He brings upon us according to his mercy and according to abundance of his righteousness.
+I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to abundance of his righteousness.
 
 **Isaiah 63:8**
 
@@ -76426,7 +76426,7 @@ And as cattle through plain Spirit from the Lord came down and guided them. So y
 
 **Isaiah 63:15**
 
-Turn from heaven and look from house of your holiness and glory. Where is your zeal and strength? Where is multitude of your mercy and compassions, because you held back from us?
+Turn from heaven and look from the house of your holiness and glory. Where is your zeal and strength? Where is multitude of your mercy and compassions, because you held back from us?
 
 **Isaiah 63:16**
 
@@ -76672,7 +76672,7 @@ And I will leave signs on them and send from them saved ones to nations—to Tar
 
 **Isaiah 66:20**
 
-And they will bring your brothers from all nations as gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into holy city Jerusalem, says the Lord, as sons of Israel bring me their sacrifices with psalms into house of the Lord.
+And they will bring your brothers from all nations as gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into holy city Jerusalem, says the Lord, as sons of Israel bring me their sacrifices with psalms into the house of the Lord.
 
 **Isaiah 66:21**
 
@@ -77224,7 +77224,7 @@ And it will be when you say, For what reason did the Lord our God do all these t
 
 **Jeremiah 5:20**
 
-Declare these things to house of Jacob and let it be heard in Judah.
+Declare these things to the house of Jacob and let it be heard in Judah.
 
 **Jeremiah 5:21**
 
@@ -78278,7 +78278,7 @@ And bread will surely not be broken in their mourning for comfort over dead one,
 
 **Jeremiah 16:8**
 
-Into house of drinking you will not enter to sit with them to eat and drink.
+Into the house of drinking you will not enter to sit with them to eat and drink.
 
 **Jeremiah 16:9**
 
@@ -78420,7 +78420,7 @@ then kings and rulers seated on throne of David will enter through gates of this
 
 **Jeremiah 17:26**
 
-And they will come from cities of Judah and from around Jerusalem and from land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into house of the Lord.
+And they will come from cities of Judah and from around Jerusalem and from land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into the house of the Lord.
 
 **Jeremiah 17:27**
 
@@ -78434,11 +78434,11 @@ Word that came from the Lord to Jeremiah, saying,
 
 **Jeremiah 18:2**
 
-Rise and go down into house of potter, and there you will hear my words.
+Rise and go down into the house of potter, and there you will hear my words.
 
 **Jeremiah 18:3**
 
-And I went down into house of potter, and behold, he was doing work upon the stones.
+And I went down into the house of potter, and behold, he was doing work upon the stones.
 
 **Jeremiah 18:4**
 
@@ -78718,7 +78718,7 @@ And I will kindle fire in her forest, and it will devour all around her.
 
 **Jeremiah 22:1**
 
-Thus says the Lord: Go and go down into house of king of Judah, and there you will speak this word,
+Thus says the Lord: Go and go down into the house of king of Judah, and there you will speak this word,
 
 **Jeremiah 22:2**
 
@@ -78738,7 +78738,7 @@ But if you will not do these words, by myself I swore, says the Lord, that this 
 
 **Jeremiah 22:6**
 
-Because thus says the Lord against house of king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into wilderness, cities not to be inhabited.
+Because thus says the Lord against the house of king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into wilderness, cities not to be inhabited.
 
 **Jeremiah 22:7**
 
@@ -79602,7 +79602,7 @@ You saved ones from land, go and do not stand still. You far-off ones, remember 
 
 **Jeremiah 28:51**
 
-We were ashamed because we heard our reproach. Dishonor covered our face. Foreigners entered into our holy places, into house of the Lord.
+We were ashamed because we heard our reproach. Dishonor covered our face. Foreigners entered into our holy places, into the house of the Lord.
 
 **Jeremiah 28:52**
 
@@ -80136,7 +80136,7 @@ Because you prophesied in the name of the Lord, saying, Like Shiloh this house w
 
 **Jeremiah 33:10**
 
-And rulers of Judah heard this word and went up from house of king into house of the Lord and sat in entrance of new gate of the Lord.
+And rulers of Judah heard this word and went up from the house of king into the house of the Lord and sat in entrance of new gate of the Lord.
 
 **Jeremiah 33:11**
 
@@ -80696,7 +80696,7 @@ Word that came from the Lord to Jeremiah in tenth year of reign of Zedekiah, thi
 
 **Jeremiah 39:2**
 
-And force of king of Babylon fenced against Jerusalem, and Jeremiah was guarded in court of prison, which is in house of king.
+And force of king of Babylon fenced against Jerusalem, and Jeremiah was guarded in court of prison, which is in the house of king.
 
 **Jeremiah 39:3**
 
@@ -80910,7 +80910,7 @@ Thus said the Lord: Still in this place, which you say is desolate from men and 
 
 **Jeremiah 40:11**
 
-voice of gladness and voice of joy, voice of bridegroom and voice of bride, voice of those saying, Give thanks to the Lord Almighty, because the Lord is good, because his mercy is forever. And they will bring gifts into house of the Lord, because I will restore all exile of that land as before, said the Lord.
+voice of gladness and voice of joy, voice of bridegroom and voice of bride, voice of those saying, Give thanks to the Lord Almighty, because the Lord is good, because his mercy is forever. And they will bring gifts into the house of the Lord, because I will restore all exile of that land as before, said the Lord.
 
 **Jeremiah 40:12**
 
@@ -81070,7 +81070,7 @@ Word that came to Jeremiah from the Lord in the days of Jehoiakim king of Judah,
 
 **Jeremiah 42:2**
 
-Go into house of Rechab and bring them into house of the Lord, into one of courts, and make them drink wine.
+Go into the house of Rechab and bring them into the house of the Lord, into one of courts, and make them drink wine.
 
 **Jeremiah 42:3**
 
@@ -81078,7 +81078,7 @@ And I brought out Jaazaniah son of Jeremiah son of Habaziniah and his brothers a
 
 **Jeremiah 42:4**
 
-and I brought them into house of the Lord, into chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
+and I brought them into the house of the Lord, into chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
 
 **Jeremiah 42:5**
 
@@ -81180,7 +81180,7 @@ And it happened in the eighth year of reign of Jehoiakim, in the ninth month, al
 
 **Jeremiah 43:10**
 
-And Baruch read in scroll words of Jeremiah in the house of the Lord, in house of Gemariah son of Shaphan the scribe, in upper court, in entrance of new gate of house of the Lord, in ears of all people.
+And Baruch read in scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in upper court, in entrance of new gate of house of the Lord, in ears of all people.
 
 **Jeremiah 43:11**
 
@@ -81188,7 +81188,7 @@ And Micaiah son of Gemariah son of Shaphan heard all words of the Lord from scro
 
 **Jeremiah 43:12**
 
-and went down to house of king, to house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
+and went down to the house of king, to the house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
 
 **Jeremiah 43:13**
 
@@ -81220,11 +81220,11 @@ And they said to Baruch, Go hide, you and Jeremiah. Let no man know where you ar
 
 **Jeremiah 43:20**
 
-And they entered to king into court, and scroll they gave to keep in house of Elishama, and they announced to king all words.
+And they entered to king into court, and scroll they gave to keep in the house of Elishama, and they announced to king all words.
 
 **Jeremiah 43:21**
 
-And king sent Jehudi to take scroll, and he took it from house of Elishama and read it into ears of king and into ears of all rulers standing around king.
+And king sent Jehudi to take scroll, and he took it from the house of Elishama and read it into ears of king and into ears of all rulers standing around king.
 
 **Jeremiah 43:22**
 
@@ -81286,7 +81286,7 @@ And king Zedekiah sent Jucal son of Shelemiah and Zephaniah son of Maaseiah the 
 
 **Jeremiah 44:4**
 
-And Jeremiah came and passed through the midst of city, and they had not given him into house of prison.
+And Jeremiah came and passed through the midst of city, and they had not given him into the house of prison.
 
 **Jeremiah 44:5**
 
@@ -81330,11 +81330,11 @@ And he said, False. I do not flee to Chaldeans. And he did not hear him, and Ser
 
 **Jeremiah 44:15**
 
-And rulers were embittered against Jeremiah and struck him and sent him into house of Jonathan the scribe, because they made this into house of prison.
+And rulers were embittered against Jeremiah and struck him and sent him into the house of Jonathan the scribe, because they made this into the house of prison.
 
 **Jeremiah 44:16**
 
-And Jeremiah came into house of pit and into cells and sat there many days.
+And Jeremiah came into the house of pit and into cells and sat there many days.
 
 **Jeremiah 44:17**
 
@@ -81342,7 +81342,7 @@ And Zedekiah sent and called him, and king asked him secretly, to say whether th
 
 **Jeremiah 44:18**
 
-And Jeremiah said to king, What wrong did I do to you and your servants and this people, that you give me into house of prison?
+And Jeremiah said to king, What wrong did I do to you and your servants and this people, that you give me into the house of prison?
 
 **Jeremiah 44:19**
 
@@ -81350,11 +81350,11 @@ And where are your prophets who prophesied to you, saying that king of Babylon w
 
 **Jeremiah 44:20**
 
-And now, lord king, let my mercy fall before your face, and why do you turn me back into house of Jonathan the scribe, so that I not die there?
+And now, lord king, let my mercy fall before your face, and why do you turn me back into the house of Jonathan the scribe, so that I not die there?
 
 **Jeremiah 44:21**
 
-And king commanded, and they put him into house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from city. And Jeremiah sat in court of prison.
+And king commanded, and they put him into the house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from city. And Jeremiah sat in court of prison.
 
 ### Chapter 45
 
@@ -81384,7 +81384,7 @@ And they threw him into pit of Malchiah son of king, which was in court of priso
 
 **Jeremiah 45:7**
 
-And Ebed-melech the Ethiopian heard, and he was in house of king, that they put Jeremiah into pit, and king was in gate of Benjamin.
+And Ebed-melech the Ethiopian heard, and he was in the house of king, that they put Jeremiah into pit, and king was in gate of Benjamin.
 
 **Jeremiah 45:8**
 
@@ -81444,7 +81444,7 @@ And if you do not want to go out, this is word which the Lord showed me:
 
 **Jeremiah 45:22**
 
-Behold, all women left in house of king of Judah were being brought out to rulers of king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
+Behold, all women left in the house of king of Judah were being brought out to rulers of king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
 
 **Jeremiah 45:23**
 
@@ -81460,7 +81460,7 @@ And if rulers hear that I spoke to you and come to you and say, Announce to us w
 
 **Jeremiah 45:26**
 
-then you will say to them, I cast my mercy before the eyes of king, so as not to turn me back to house of Jonathan to die there.
+then you will say to them, I cast my mercy before the eyes of king, so as not to turn me back to the house of Jonathan to die there.
 
 **Jeremiah 45:27**
 
@@ -81590,7 +81590,7 @@ And it happened on second day after he struck Gedaliah, and no man knew,
 
 **Jeremiah 48:5**
 
-that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved and garments torn and cutting themselves, and manna and frankincense in their hands to bring into house of the Lord.
+that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved and garments torn and cutting themselves, and manna and frankincense in their hands to bring into the house of the Lord.
 
 **Jeremiah 48:6**
 
@@ -81966,7 +81966,7 @@ And king of Babylon slaughtered sons of Zedekiah before his eyes, and all rulers
 
 **Jeremiah 52:11**
 
-And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into house of mill until the day he died.
+And eyes of Zedekiah he blinded, and bound him in shackles, and king of Babylon led him to Babylon and put him into the house of mill until the day he died.
 
 **Jeremiah 52:12**
 
@@ -81998,7 +81998,7 @@ and censers and bowls and pouring-vessels and lampstands and fire-pans and cups,
 
 **Jeremiah 52:20**
 
-And two pillars and one sea and twelve bronze oxen under sea, which king Solomon made for house of the Lord. There was no weighing of their bronze.
+And two pillars and one sea and twelve bronze oxen under sea, which king Solomon made for the house of the Lord. There was no weighing of their bronze.
 
 **Jeremiah 52:21**
 
@@ -82784,7 +82784,7 @@ And spirit came upon me and took me up and lifted me and set me on my feet, and 
 
 **Ezekiel 2:3**
 
-And he said to me, Son of man, I send you to house of Israel, those provoking me, who provoked me, they and their fathers until this present day.
+And he said to me, Son of man, I send you to the house of Israel, those provoking me, who provoked me, they and their fathers until this present day.
 
 **Ezekiel 2:4**
 
@@ -82830,11 +82830,11 @@ And he said to me, Son of man, your mouth will eat and your belly will be filled
 
 **Ezekiel 3:4**
 
-And he said to me, Son of man, go, enter to house of Israel, and speak my words to them.
+And he said to me, Son of man, go, enter to the house of Israel, and speak my words to them.
 
 **Ezekiel 3:5**
 
-Because not to people deep-lipped and heavy-tongued are you sent, but to house of Israel,
+Because not to people deep-lipped and heavy-tongued are you sent, but to the house of Israel,
 
 **Ezekiel 3:6**
 
@@ -82882,7 +82882,7 @@ And it happened after seven days, the word of the Lord came to me, saying,
 
 **Ezekiel 3:17**
 
-Son of man, I gave you as watchman to house of Israel, and you will hear word from my mouth and warn them from me.
+Son of man, I gave you as watchman to the house of Israel, and you will hear word from my mouth and warn them from me.
 
 **Ezekiel 3:18**
 
@@ -83300,7 +83300,7 @@ And he brought me into inner court of house of the Lord, and behold, at forecour
 
 **Ezekiel 8:17**
 
-And he said to me, Have you seen, son of man? Is it small thing for house of Judah to do lawless deeds they have done here? For they filled land with lawlessness, and behold, they are like those mocking.
+And he said to me, Have you seen, son of man? Is it small thing for the house of Judah to do lawless deeds they have done here? For they filled land with lawlessness, and behold, they are like those mocking.
 
 **Ezekiel 8:18**
 
@@ -83564,7 +83564,7 @@ In their sight dig for yourself through wall, and you will go out through it.
 
 **Ezekiel 12:6**
 
-In their sight you will be lifted on shoulders and go out hidden. You will cover your face so that you do not see land, because I gave you for wonder to house of Israel.
+In their sight you will be lifted on shoulders and go out hidden. You will cover your face so that you do not see land, because I gave you for wonder to the house of Israel.
 
 **Ezekiel 12:7**
 
@@ -83674,7 +83674,7 @@ Your prophets, Israel, are like foxes in deserts.
 
 **Ezekiel 13:5**
 
-You did not stand in firm place and did not gather flocks over house of Israel; they did not rise, those speaking, in the day of the Lord.
+You did not stand in firm place and did not gather flocks over the house of Israel; they did not rise, those speaking, in the day of the Lord.
 
 **Ezekiel 13:6**
 
@@ -83764,7 +83764,7 @@ Son of man, these men set their thoughts on their hearts and placed punishment o
 
 **Ezekiel 14:4**
 
-Therefore speak to them and say to them, Thus says the Lord: Any man, any man from house of Israel, who sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet, I, the Lord, will answer him in things wherein his mind is entangled,
+Therefore speak to them and say to them, Thus says the Lord: Any man, any man from the house of Israel, who sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet, I, the Lord, will answer him in things wherein his mind is entangled,
 
 **Ezekiel 14:5**
 
@@ -83772,11 +83772,11 @@ so as to turn aside house of Israel according to their hearts, hearts alienated 
 
 **Ezekiel 14:6**
 
-Therefore say to house of Israel, Thus says the Lord God: Turn back and turn away from your practices and from all your impieties, and turn your faces back.
+Therefore say to the house of Israel, Thus says the Lord God: Turn back and turn away from your practices and from all your impieties, and turn your faces back.
 
 **Ezekiel 14:7**
 
-Because any man, any man from house of Israel and from proselytes proselyting in Israel, who becomes alienated from me and sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet to inquire of him in me, I, the Lord, will answer him in that wherein he is entangled within himself.
+Because any man, any man from the house of Israel and from proselytes proselyting in Israel, who becomes alienated from me and sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet to inquire of him in me, I, the Lord, will answer him in that wherein he is entangled within himself.
 
 **Ezekiel 14:8**
 
@@ -84138,7 +84138,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 17:2**
 
-Son of man, tell tale and speak parable to house of Israel,
+Son of man, tell tale and speak parable to the house of Israel,
 
 **Ezekiel 17:3**
 
@@ -84468,7 +84468,7 @@ And my Sabbaths I gave them, to be sign between me and them, so that they might 
 
 **Ezekiel 20:13**
 
-And I said to house of Israel in wilderness, In my ordinances walk, yet they did not walk, and my judgments they rejected, which if man does them, he will live in them, and my Sabbaths they greatly profaned, and I said I would pour out my wrath upon them in wilderness to consume them.
+And I said to the house of Israel in wilderness, In my ordinances walk, yet they did not walk, and my judgments they rejected, which if man does them, he will live in them, and my Sabbaths they greatly profaned, and I said I would pour out my wrath upon them in wilderness to consume them.
 
 **Ezekiel 20:14**
 
@@ -84524,7 +84524,7 @@ And I defiled them in their gifts, in my causing every opener of womb to pass th
 
 **Ezekiel 20:27**
 
-Therefore speak to house of Israel, son of man, and say to them, Thus says the Lord: Up to this point your fathers provoked me in their trespasses by which they trespassed against me.
+Therefore speak to the house of Israel, son of man, and say to them, Thus says the Lord: Up to this point your fathers provoked me in their trespasses by which they trespassed against me.
 
 **Ezekiel 20:28**
 
@@ -84536,7 +84536,7 @@ And I said to them, What is Bamah, that you enter there? And its name was called
 
 **Ezekiel 20:30**
 
-Therefore say to house of Israel, Thus says the Lord: Are you defiling yourselves in lawless deeds of your fathers, and after their abominations are you whoring?
+Therefore say to the house of Israel, Thus says the Lord: Are you defiling yourselves in lawless deeds of your fathers, and after their abominations are you whoring?
 
 **Ezekiel 20:31**
 
@@ -85152,7 +85152,7 @@ And I said to them, The word of the Lord came to me, saying,
 
 **Ezekiel 24:21**
 
-Say to house of Israel, Thus says the Lord: Behold, I profane my holy things, arrogance of your strength, desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
+Say to the house of Israel, Thus says the Lord: Behold, I profane my holy things, arrogance of your strength, desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
 
 **Ezekiel 24:22**
 
@@ -85190,7 +85190,7 @@ Son of man, set your face toward sons of Ammon and prophesy against them,
 
 **Ezekiel 25:3**
 
-and say to sons of Ammon, Hear the word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over house of Judah that they went into captivity,
+and say to sons of Ammon, Hear the word of the Lord. Thus says the Lord: Because you rejoiced over my holy things that they were profaned, and over land of Israel that it was destroyed, and over the house of Judah that they went into captivity,
 
 **Ezekiel 25:4**
 
@@ -85226,7 +85226,7 @@ And in Moab I will do vengeance, and they will know that I am the Lord.
 
 **Ezekiel 25:12**
 
-Thus says the Lord: Because Edom acted in avenging vengeance against house of Judah and bore grudges and avenged a claim,
+Thus says the Lord: Because Edom acted in avenging vengeance against the house of Judah and bore grudges and avenged a claim,
 
 **Ezekiel 25:13**
 
@@ -85390,7 +85390,7 @@ Greece and all the whole land and those stretching out beside it traded with you
 
 **Ezekiel 27:14**
 
-From house of Togarmah horses and horsemen they gave for your market.
+From the house of Togarmah horses and horsemen they gave for your market.
 
 **Ezekiel 27:15**
 
@@ -85572,7 +85572,7 @@ Blood and death in your streets, and wounded will fall by swords in you, around 
 
 **Ezekiel 28:24**
 
-And there will no longer be to house of Israel thorn of bitterness and pricking briar of pain from all around them, from those dishonoring them, and they will know that I am the Lord.
+And there will no longer be to the house of Israel thorn of bitterness and pricking briar of pain from all around them, from those dishonoring them, and they will know that I am the Lord.
 
 **Ezekiel 28:25**
 
@@ -85606,7 +85606,7 @@ and I will cast you down quickly, and all fish of your river, upon face of plain
 
 **Ezekiel 29:6**
 
-And all inhabiting Egypt will know that I am the Lord, because you became reed-staff to house of Israel.
+And all inhabiting Egypt will know that I am the Lord, because you became reed-staff to the house of Israel.
 
 **Ezekiel 29:7**
 
@@ -85646,7 +85646,7 @@ Beyond all dominions it will never again be exalted over nations, and I will mak
 
 **Ezekiel 29:16**
 
-And they will no longer be to house of Israel hope recalling lawlessness, when they followed after them, and they will know that I am the Lord.
+And they will no longer be to the house of Israel hope recalling lawlessness, when they followed after them, and they will know that I am the Lord.
 
 **Ezekiel 29:17**
 
@@ -86002,7 +86002,7 @@ And if watchman sees sword coming and does not signal with trumpet, and people d
 
 **Ezekiel 33:7**
 
-And you, son of man, I have given you as watchman to house of Israel, and you will hear word from my mouth.
+And you, son of man, I have given you as watchman to the house of Israel, and you will hear word from my mouth.
 
 **Ezekiel 33:8**
 
@@ -86014,7 +86014,7 @@ But if you warn lawless one about his way, to turn from it, and he does not turn
 
 **Ezekiel 33:10**
 
-And you, son of man, say to house of Israel, Thus you have spoken, saying, Our wanderings and our lawless deeds are upon us, and in them we melt away, and how shall we live?
+And you, son of man, say to the house of Israel, Thus you have spoken, saying, Our wanderings and our lawless deeds are upon us, and in them we melt away, and how shall we live?
 
 **Ezekiel 33:11**
 
@@ -86250,7 +86250,7 @@ And I will make your cities desolation, and you will be a waste and know that I 
 
 **Ezekiel 35:5**
 
-Because you became perpetual enemy and laid plots against house of Israel into hand of enemies, sword in time of injustice at the last,
+Because you became perpetual enemy and laid plots against the house of Israel into hand of enemies, sword in time of injustice at the last,
 
 **Ezekiel 35:6**
 
@@ -86380,7 +86380,7 @@ And I spared them because of my holy name, which house of Israel profaned among 
 
 **Ezekiel 36:22**
 
-Therefore say to house of Israel, Thus says the Lord: Not for your sake do I act, house of Israel, but for sake of my holy name, which you profaned among nations where you entered there.
+Therefore say to the house of Israel, Thus says the Lord: Not for your sake do I act, house of Israel, but for sake of my holy name, which you profaned among nations where you entered there.
 
 **Ezekiel 36:23**
 
@@ -87194,7 +87194,7 @@ But now let them put away their whoredom and murders of their leaders far from m
 
 **Ezekiel 43:10**
 
-And you, son of man, show the house to house of Israel, and they will cease from their sins, and they will examine its vision and its arrangement.
+And you, son of man, show the house to the house of Israel, and they will cease from their sins, and they will examine its vision and its arrangement.
 
 **Ezekiel 43:11**
 
@@ -87288,7 +87288,7 @@ And the Lord said to me, Son of man, set your heart and see with your eyes and h
 
 **Ezekiel 44:6**
 
-And you will say to the rebellious house, to house of Israel, Thus says the Lord God: Enough for you from all your lawless acts, house of Israel,
+And you will say to the rebellious house, to the house of Israel, Thus says the Lord God: Enough for you from all your lawless acts, house of Israel,
 
 **Ezekiel 44:7**
 
@@ -87312,7 +87312,7 @@ And they will be in my holy things, serving as doorkeepers at gates of the house
 
 **Ezekiel 44:12**
 
-Because they ministered to them before their idols and became to house of Israel a punishment of injustice, therefore I raised my hand against them, says the Lord God.
+Because they ministered to them before their idols and became to the house of Israel a punishment of injustice, therefore I raised my hand against them, says the Lord God.
 
 **Ezekiel 44:13**
 
@@ -87458,7 +87458,7 @@ All the people will give this first portion to ruler of Israel.
 
 **Ezekiel 45:17**
 
-And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for house of Israel.
+And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
 
 **Ezekiel 45:18**
 
@@ -87844,11 +87844,11 @@ And king said to Ashpenaz, his chief eunuch, to bring him some of sons of leadin
 
 **Daniel 1:4**
 
-young men without blemish and good in appearance and skilled in all wisdom and learned and intelligent and wise and strong enough to be in house of the king, and to teach them letters and Chaldean language.
+young men without blemish and good in appearance and skilled in all wisdom and learned and intelligent and wise and strong enough to be in the house of the king, and to teach them letters and Chaldean language.
 
 **Daniel 1:5**
 
-And to give them an assigned portion from house of the king each day, and from royal table, and from wine that the king drinks, and to train them three years, and after this to set them before the king.
+And to give them an assigned portion from the house of the king each day, and from royal table, and from wine that the king drinks, and to train them three years, and after this to set them before the king.
 
 **Daniel 1:6**
 
@@ -89242,7 +89242,7 @@ And it will be in that day: I will shatter bow of Israel in valley of Jezreel.
 
 **Hosea 1:6**
 
-And she conceived again and bore a daughter. And he said to him, Call her name Not-Shown-Mercy, because I will no longer continue to show mercy to house of Israel, but in opposing I will oppose them.
+And she conceived again and bore a daughter. And he said to him, Call her name Not-Shown-Mercy, because I will no longer continue to show mercy to the house of Israel, but in opposing I will oppose them.
 
 **Hosea 1:7**
 
@@ -89440,7 +89440,7 @@ And I will not visit your daughters when they prostitute themselves, nor your br
 
 **Hosea 4:15**
 
-But you, Israel, do not be ignorant, and Judah, do not enter into Gilgal, and do not go up to house of On, and do not swear, As the Lord lives.
+But you, Israel, do not be ignorant, and Judah, do not enter into Gilgal, and do not go up to the house of On, and do not swear, As the Lord lives.
 
 **Hosea 4:16**
 
@@ -89490,7 +89490,7 @@ Because they abandoned the Lord, because foreign children were born to them; now
 
 **Hosea 5:8**
 
-Blow trumpet on the hills, sound on the heights, proclaim in house of On. Benjamin is beside himself.
+Blow trumpet on the hills, sound on the heights, proclaim in the house of On. Benjamin is beside himself.
 
 **Hosea 5:9**
 
@@ -89506,7 +89506,7 @@ Ephraim oppressed his adversary and trampled judgment, because he began to go af
 
 **Hosea 5:12**
 
-And I am like turmoil to Ephraim and like a sting to house of Judah.
+And I am like turmoil to Ephraim and like a sting to the house of Judah.
 
 **Hosea 5:13**
 
@@ -89514,7 +89514,7 @@ And Ephraim saw his sickness and Judah his pain, and Ephraim went to Assyrians a
 
 **Hosea 5:14**
 
-Because I am like a panther to Ephraim and like a lion to house of Judah, and I will snatch and go away and take, and there will be no one delivering.
+Because I am like a panther to Ephraim and like a lion to the house of Judah, and I will snatch and go away and take, and there will be no one delivering.
 
 **Hosea 5:15**
 
@@ -89560,7 +89560,7 @@ And your strength is that of a pirate man; priests hid the way of the Lord; they
 
 **Hosea 6:10**
 
-In house of Israel I saw a horrible thing; there is whoredom of Ephraim; Israel and Judah were defiled.
+In the house of Israel I saw a horrible thing; there is whoredom of Ephraim; Israel and Judah were defiled.
 
 **Hosea 6:11**
 
@@ -89636,7 +89636,7 @@ They turned aside to nothing; they became like a bent bow. Their rulers will fal
 
 **Hosea 8:1**
 
-Into their bosom, like land, like eagle against house of the Lord, because they transgressed my covenant and acted impiously against my law.
+Into their bosom, like land, like eagle against the house of the Lord, because they transgressed my covenant and acted impiously against my law.
 
 **Hosea 8:2**
 
@@ -89706,7 +89706,7 @@ They did not dwell in the land of the Lord; Ephraim dwelt in Egypt, and in Assyr
 
 **Hosea 9:4**
 
-They did not pour out wine to the Lord, and their sacrifices could not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their own souls; they will not enter into house of the Lord.
+They did not pour out wine to the Lord, and their sacrifices could not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their own souls; they will not enter into the house of the Lord.
 
 **Hosea 9:5**
 
@@ -89816,7 +89816,7 @@ Why did you keep silence for impiety and reap its injustices? You ate fruit of l
 
 **Hosea 10:14**
 
-And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from house of Jerubbaal, in day of war, leveled mother upon children.
+And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from the house of Jerubbaal, in day of war, leveled mother upon children.
 
 **Hosea 10:15**
 
@@ -89888,7 +89888,7 @@ In womb he grabbed heel of his brother, and in his labors he grew strong toward 
 
 **Hosea 12:5**
 
-And he grew strong with an angel and prevailed; they wept and begged me. In house of On they found me, and there speech was made toward him.
+And he grew strong with an angel and prevailed; they wept and begged me. In the house of On they found me, and there speech was made toward him.
 
 **Hosea 12:6**
 
@@ -90072,7 +90072,7 @@ Lament to me like bride girded with sackcloth over her youthful husband.
 
 **Joel 1:9**
 
-Sacrifice and drink offering were removed from house of the Lord. Mourn, priests serving at altar.
+Sacrifice and drink offering were removed from the house of the Lord. Mourn, priests serving at altar.
 
 **Joel 1:10**
 
@@ -90088,11 +90088,11 @@ Vine dried up and figs diminished, pomegranate and palm and apple and all trees 
 
 **Joel 1:13**
 
-Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from house of your God.
+Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
 
 **Joel 1:14**
 
-Sanctify a fast, proclaim service, gather elders, all inhabiting the land, into house of your God, and cry out intensely to the Lord.
+Sanctify a fast, proclaim service, gather elders, all inhabiting the land, into the house of your God, and cry out intensely to the Lord.
 
 **Joel 1:15**
 
@@ -90100,7 +90100,7 @@ Alas, alas, alas, for the day, because the day of the Lord is near, and like mis
 
 **Joel 1:16**
 
-Before your eyes foods were destroyed, and from house of your God gladness and joy.
+Before your eyes foods were destroyed, and from the house of your God gladness and joy.
 
 **Joel 1:17**
 
@@ -90322,7 +90322,7 @@ And you will know that I am the Lord your God dwelling in Zion, on my holy mount
 
 **Joel 4:18**
 
-And it will be in that day: mountains will drip sweetness and hills will flow with milk and all streams of Judah will flow with waters, and a spring from house of the Lord will come out and water torrent of reeds.
+And it will be in that day: mountains will drip sweetness and hills will flow with milk and all streams of Judah will flow with waters, and a spring from the house of the Lord will come out and water torrent of reeds.
 
 **Joel 4:19**
 
@@ -90354,7 +90354,7 @@ And the Lord said, For three impieties of Damascus and for four I will not turn 
 
 **Amos 1:4**
 
-And I will send fire into house of Hazael, and it will devour foundations of Ben-hadad.
+And I will send fire into the house of Hazael, and it will devour foundations of Ben-hadad.
 
 **Amos 1:5**
 
@@ -90432,7 +90432,7 @@ Those trampling heads of the poor into the dust of the earth and turning aside w
 
 **Amos 2:8**
 
-And binding their garments with cords they were making curtains beside the altar, and they were drinking wine from extortions in house of their God.
+And binding their garments with cords they were making curtains beside the altar, and they were drinking wine from extortions in the house of their God.
 
 **Amos 2:9**
 
@@ -90518,7 +90518,7 @@ Thus says the Lord: Just as shepherd snatches from lion's mouth two legs or tip 
 
 **Amos 3:13**
 
-Hear and testify to house of Jacob, says the Lord God Almighty.
+Hear and testify to the house of Jacob, says the Lord God Almighty.
 
 **Amos 3:14**
 
@@ -90594,11 +90594,11 @@ Virgin of Israel has fallen; she will no longer continue to rise. She slipped up
 
 **Amos 5:3**
 
-Because thus says the Lord God: The city from which a thousand went out will have a hundred left, and from which a hundred went out will have ten left for house of Israel.
+Because thus says the Lord God: The city from which a thousand went out will have a hundred left, and from which a hundred went out will have ten left for the house of Israel.
 
 **Amos 5:4**
 
-Because thus says the Lord to house of Israel: Seek me and live.
+Because thus says the Lord to the house of Israel: Seek me and live.
 
 **Amos 5:5**
 
@@ -90606,7 +90606,7 @@ And do not seek Bethel, and do not enter Gilgal, and do not cross over to well o
 
 **Amos 5:6**
 
-Seek the Lord and live, lest house of Joseph blaze like fire and it devour him, and there will be no one to quench it for house of Israel.
+Seek the Lord and live, lest house of Joseph blaze like fire and it devour him, and there will be no one to quench it for the house of Israel.
 
 **Amos 5:7**
 
@@ -90786,7 +90786,7 @@ And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lor
 
 **Amos 7:9**
 
-And altars of laughter will be destroyed, and rites of Israel will be laid waste, and I will rise against house of Jeroboam with sword.
+And altars of laughter will be destroyed, and rites of Israel will be laid waste, and I will rise against the house of Jeroboam with sword.
 
 **Amos 7:10**
 
@@ -90814,7 +90814,7 @@ And the Lord took me from the sheep and said to me, Go, prophesy over my people 
 
 **Amos 7:16**
 
-And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against house of Jacob.
+And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against the house of Jacob.
 
 **Amos 7:17**
 
@@ -91014,7 +91014,7 @@ But on mount Zion there will be salvation, and it will be holy, and house of Jac
 
 **Obadiah 1:18**
 
-House of Jacob will be fire, house of Joseph flame, and house of Esau stubble; they will burn among them and devour them, and there will be no fire-bearer in house of Esau, because the Lord spoke.
+House of Jacob will be fire, house of Joseph flame, and house of Esau stubble; they will burn among them and devour them, and there will be no fire-bearer in the house of Esau, because the Lord spoke.
 
 **Obadiah 1:19**
 
@@ -91272,7 +91272,7 @@ Because her plague overpowered, because it came as far as Judah and touched gate
 
 **Micah 1:10**
 
-Those in Gath, do not magnify yourselves. Those in Akeim, do not rebuild. In house of laughter, sprinkle earth over your laughter.
+Those in Gath, do not magnify yourselves. Those in Akeim, do not rebuild. In the house of laughter, sprinkle earth over your laughter.
 
 **Micah 1:11**
 
@@ -91410,7 +91410,7 @@ And it will be in last days, mountain of the Lord will be manifest, prepared on 
 
 **Micah 4:2**
 
-And many nations will go and say, Come, let us go up to mountain of the Lord and to house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+And many nations will go and say, Come, let us go up to mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 
 **Micah 4:3**
 
@@ -91534,7 +91534,7 @@ My people, what did I do to you? Or how did I grieve you? Or how did I trouble y
 
 **Micah 6:4**
 
-Because I brought you up from land of Egypt and redeemed you from house of slavery and sent before your face Moses and Aaron and Miriam.
+Because I brought you up from land of Egypt and redeemed you from the house of slavery and sent before your face Moses and Aaron and Miriam.
 
 **Micah 6:5**
 
@@ -91724,7 +91724,7 @@ Now I will break his rod from upon you, and your bonds I will tear apart.
 
 **Nahum 1:14**
 
-And the Lord will command concerning you: your name will no longer be sown. From house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
+And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
 
 ### Chapter 2
 
@@ -92800,7 +92800,7 @@ And the word of the Lord came to me, saying,
 
 **Zechariah 6:10**
 
-Take from captivity, from its rulers and from its useful men and from those knowing it, and you shall enter on that day into house of Josiah son of Zephaniah, who came from Babylon.
+Take from captivity, from its rulers and from its useful men and from those knowing it, and you shall enter on that day into the house of Josiah son of Zephaniah, who came from Babylon.
 
 **Zechariah 6:11**
 
@@ -92956,7 +92956,7 @@ And the word of the Lord Almighty came to me, saying,
 
 **Zechariah 8:19**
 
-Thus says the Lord Almighty: Fast of fourth and fast of fifth and fast of seventh and fast of tenth will be to house of Judah for joy and gladness and good feasts; and love truth and peace.
+Thus says the Lord Almighty: Fast of fourth and fast of fifth and fast of seventh and fast of tenth will be to the house of Judah for joy and gladness and good feasts; and love truth and peace.
 
 **Zechariah 8:20**
 
@@ -93146,7 +93146,7 @@ And I will say to them, If it is good before you, give, setting out my wages; or
 
 **Zechariah 11:13**
 
-And the Lord said to me, Put them into smelting-place, and consider if it is approved, in manner that I was tested for them. And I took thirty silver pieces and threw them into house of the Lord, into smelting-place.
+And the Lord said to me, Put them into smelting-place, and consider if it is approved, in manner that I was tested for them. And I took thirty silver pieces and threw them into the house of the Lord, into smelting-place.
 
 **Zechariah 11:14**
 
@@ -93226,7 +93226,7 @@ all tribes left behind, tribe by itself and their women by themselves.
 
 **Zechariah 13:1**
 
-In that day every place will be opened in house of David.
+In that day every place will be opened in the house of David.
 
 **Zechariah 13:2**
 
@@ -93246,7 +93246,7 @@ And he will say, I am not prophet; I am man working land, because a man begot me
 
 **Zechariah 13:6**
 
-And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in house of my beloved.
+And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in the house of my beloved.
 
 **Zechariah 13:7**
 

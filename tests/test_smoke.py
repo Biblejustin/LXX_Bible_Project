@@ -259,6 +259,15 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "People of land",
         "inhabitants of land",
         "sons of land",
+        "to house of",
+        "into house of",
+        "from house of",
+        "in house of",
+        "before house of",
+        "against house of",
+        "over house of",
+        "for house of",
+        "concerning house of",
         "ends of earth",
         "end of earth",
         "face of earth",
@@ -392,6 +401,15 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the beginning" in by_ref["Psalms 73:2"]["draft_translation"]
     assert "people of the land" in by_ref["2 Chronicles 23:13"]["draft_translation"]
     assert "inhabitants of the land" in by_ref["1 Chronicles 22:18"]["draft_translation"]
+    assert "to the house of the Lord" in by_ref["2 Chronicles 20:28"]["draft_translation"]
+    assert "into the house of Obededom" in by_ref["1 Chronicles 13:13"]["draft_translation"]
+    assert "from the house of Obededom" in by_ref["1 Chronicles 15:25"]["draft_translation"]
+    assert "in the house of Dagon" in by_ref["1 Chronicles 10:10"]["draft_translation"]
+    assert "before the house of God" in by_ref["Ezra 10:1"]["draft_translation"]
+    assert "against the house of Ahab" in by_ref["2 Chronicles 22:7"]["draft_translation"]
+    assert "over the house of David" in by_ref["Psalms 121:5"]["draft_translation"]
+    assert "for the house of the Lord" in by_ref["1 Chronicles 22:14"]["draft_translation"]
+    assert "concerning the house of David" in by_ref["2 Chronicles 23:3"]["draft_translation"]
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")
