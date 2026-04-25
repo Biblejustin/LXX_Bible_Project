@@ -168,7 +168,7 @@ Rows: 233
 - OT crossrefs: 5
 - NT crossrefs: 3
 - shared-family hits: 0
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - OT clues: Eccl.12.7 (41) -> And dust returns upon earth as it was, and spirit returns to God who gave it. || Job.33.4 (41) -> Divine spirit made me, and breath of Almighty teaches me. || Isa.64.8 (34) -> Do not be very angry with us and do not remember our sins in season. And now look, because we all your people. || Job.27.3 (21) -> as long as my breath is still in me and divine spirit in my nostrils,
 - NT clues: 1Cor.15.45 (40) -> And so it is written, The first man Adam was made a living soul; the last Adam was made a life-giving spirit. (o. pneuma) || Acts.17.25 (27) -> Neither is worshipped with men's hands, as though he needed any thing, seeing he gives to all life, and breath, and all things; || 1Cor.15.47 (24) -> The first man is of the earth, earthy; the second man is the Lord from heaven.
 
@@ -180,7 +180,7 @@ Rows: 233
 - NT crossrefs: 1
 - shared-family hits: 0
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
-- OT clues: Exod.15.2 (54) -> "He became for me a helper and a shelter for salvation. This is my God, and I will glorify him, God of my father, and I will exalt him." || Ps.118.14 (45) -> In way of your testimonies I delighted as over all wealth. || Ps.27.1 (43) -> Of David. To you, Lord, I cried out. My God, do not be silent from me, lest if you be silent from me, I become like those going down into pit. || Isa.26.3-Isa.26.4 (28) -> upholding truth and keeping peace because upon you
+- OT clues: Exod.15.2 (54) -> "He became for me a helper and a shelter for salvation. This is my God, and I will glorify him, God of my father, and I will exalt him." || Ps.118.14 (45) -> In the way of your testimonies I delighted as over all wealth. || Ps.27.1 (43) -> Of David. To you, Lord, I cried out. My God, do not be silent from me, lest if you be silent from me, I become like those going down into pit. || Isa.26.3-Isa.26.4 (28) -> upholding truth and keeping peace because upon you
 - NT clues: Rev.7.10 (31) -> And cried with a loud voice, saying, Salvation to our God which sits upon the throne, and unto the Lamb.
 
 ## Leviticus 4:35
@@ -2483,7 +2483,7 @@ Rows: 233
 - OT crossrefs: 5
 - NT crossrefs: 1
 - shared-family hits: 0
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 - OT clues: Isa.29.14 (7) -> Because of this, behold, I will add to move this people and will move them, and wisdom of wise I will destroy, and understanding of understanding ones I will hide. || Job.5.12-Job.5.14 (4) -> turning aside counsels of the crafty, and their hands will never do what is true, || Ps.33.10 (3) -> Fear the Lord, his holy ones, because there is no lack to those fearing him. || Isa.19.13-Isa.19.14 (2) -> Princes of Zoan failed, and princes of Memphis were exalted, and they will lead Egypt astray by tribes.
 - NT clues: 1Cor.3.19-1Cor.3.20 (1) -> For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 

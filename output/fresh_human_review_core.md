@@ -242,7 +242,7 @@ Rows: 234
 - english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Isaiah 12:2
@@ -3467,7 +3467,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 - brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ## Song of Solomon 2:3

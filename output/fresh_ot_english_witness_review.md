@@ -164,7 +164,7 @@ Rows: 49
 - signals: unclear
 - recommendation: `none`
 - latest review status: `keep`
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Isaiah 12:2

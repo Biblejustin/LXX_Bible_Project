@@ -262,4 +262,4 @@ Unresolved outliers: 0
 - buckets: living-soul=1
 
 - Genesis 2:7 [living-soul]
-  - fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+  - fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.

@@ -111,7 +111,7 @@ Rows: 100
 - book: Genesis
 - score: 28
 - reasons: decisions=4; footnotes=3; reviewed_decisions=4; importance=high; keywords=god, soul; nt=1 Corinthians 15:45; crossref_top_vote=41; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; nt_eng=support:2/soften:0/mixed:1; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=living soul rendering; reco=keep
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Isaiah 12:2

@@ -17,7 +17,7 @@ Selected verses: 6
 ## Obadiah 1:8
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=7; reco=keep
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 - brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ## Obadiah 1:15

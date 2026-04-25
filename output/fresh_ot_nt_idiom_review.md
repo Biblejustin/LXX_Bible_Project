@@ -177,7 +177,7 @@ Rows: 39
 - current bucket: `living-soul`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - NT refs: 1 Corinthians 15:45
 - NT Greek: 1 Corinthians 15:45: ἐγένετο ὁ πρῶτος ἄνθρωπος Αδαμ εἰς ψυχὴν ζῶσαν
 - NT gloss: 1 Corinthians 15:45: became / the first / human / Adam / into / living / soul

@@ -84,7 +84,7 @@ Use:
 - crossref top vote: 41
 - english witnesses: checked 2, fresh 1, brenton 0, mt 0, differs all 0
 - english witness signals: unclear
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ### Genesis 24:7
@@ -1612,7 +1612,7 @@ Use:
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord; crossref_top_vote=7; reco=keep
 - crossref top vote: 7
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 - brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ### Obadiah 1:15

@@ -158,7 +158,7 @@ But a spring was rising from the earth and watering the whole face of the ground
 
 **Genesis 2:7**
 
-And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 
 **Genesis 2:8**
 
@@ -860,7 +860,7 @@ And every creeping thing that is living shall be for you as food. As green herbs
 
 **Genesis 9:4**
 
-Only flesh with blood of life in it you shall not eat.
+Only flesh with the blood of life in it you shall not eat.
 
 **Genesis 9:5**
 
@@ -6088,7 +6088,7 @@ But their bows were shattered with strength, and the sinews of their arms were l
 
 **Genesis 49:25**
 
-and my God helped you and blessed you with blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
+and my God helped you and blessed you with the blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
 
 **Genesis 49:26**
 
@@ -14234,7 +14234,7 @@ And I will bring upon you a sword avenging covenant justice, and you will flee i
 
 **Leviticus 26:26**
 
-When I afflict you with scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
+When I afflict you with the scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
 
 **Leviticus 26:27**
 
@@ -15834,7 +15834,7 @@ Take the Levites from the midst of the sons of Israel and purify them.
 
 **Numbers 8:7**
 
-And thus you shall do to them for their purification: sprinkle them with water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
+And thus you shall do to them for their purification: sprinkle them with the water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
 
 **Numbers 8:8**
 
@@ -23256,7 +23256,7 @@ The Lord alone led them, and there was no foreign god with them.
 
 **Deuteronomy 32:13**
 
-He brought them up on the strength of the land; he fed them with produce of fields. They sucked honey out of a rock and oil out of solid rock,
+He brought them up on the strength of the land; he fed them with the produce of fields. They sucked honey out of a rock and oil out of solid rock,
 
 **Deuteronomy 32:14**
 
@@ -23498,7 +23498,7 @@ And to Gad he said, Blessed is the one enlarging Gad. He rested like a lion, cru
 
 **Deuteronomy 33:21**
 
-And he saw his first portion, because there land of leaders was apportioned, gathered together with leaders of peoples. The Lord did righteousness and his judgment with Israel.
+And he saw his first portion, because there land of leaders was apportioned, gathered together with the leaders of peoples. The Lord did righteousness and his judgment with Israel.
 
 **Deuteronomy 33:22**
 
@@ -46756,7 +46756,7 @@ And Levites shall surround king all around, each man with weapon in his hand, an
 
 **2 Chronicles 23:8**
 
-And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
+And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to the end of Sabbath, because Jehoiada did not dismiss courses.
 
 **2 Chronicles 23:9**
 
@@ -49540,7 +49540,7 @@ After him Baruch son of Zabbai repaired a second measure, from the angle to the 
 
 **Nehemiah 3:21**
 
-After him Meremoth son of Urijah son of Koz repaired a second measure, from the door of the house of Eliashib to end of the house of Eliashib.
+After him Meremoth son of Urijah son of Koz repaired a second measure, from the door of the house of Eliashib to the end of the house of Eliashib.
 
 **Nehemiah 3:22**
 
@@ -56432,7 +56432,7 @@ When ungodly man acts proudly, poor man is set on fire; they are caught in schem
 
 **Psalms 9:24**
 
-Because sinner is praised in desires of his soul, and unjust man is blessed.
+Because sinner is praised in the desires of his soul, and unjust man is blessed.
 
 **Psalms 9:25**
 
@@ -57502,7 +57502,7 @@ Give me law, Lord, in your way, and lead me in straight path because of my enemi
 
 **Psalms 26:12**
 
-Do not hand me over to souls of those afflicting me, because unjust witnesses rose against me and injustice lied to itself.
+Do not hand me over to the souls of those afflicting me, because unjust witnesses rose against me and injustice lied to itself.
 
 **Psalms 26:13**
 
@@ -59654,7 +59654,7 @@ Rescue me from my enemies, O God, and redeem me from those rising against me.
 
 **Psalms 58:3**
 
-Deliver me from those working lawlessness, and save me from men of bloods.
+Deliver me from those working lawlessness, and save me from the men of bloods.
 
 **Psalms 58:4**
 
@@ -61440,7 +61440,7 @@ God of hosts, turn now; look from heaven and see and visit this vine,
 
 **Psalms 79:16**
 
-and restore what your right hand planted, and upon son of man whom you strengthened for yourself.
+and restore what your right hand planted, and upon the son of man whom you strengthened for yourself.
 
 **Psalms 79:17**
 
@@ -61448,7 +61448,7 @@ Burned with fire and dug up, they will perish from rebuke of your face.
 
 **Psalms 79:18**
 
-Let your hand be upon man of your right hand and upon son of man whom you strengthened for yourself.
+Let your hand be upon man of your right hand and upon the son of man whom you strengthened for yourself.
 
 **Psalms 79:19**
 
@@ -64346,7 +64346,7 @@ With my lips I declared all judgments of your mouth.
 
 **Psalms 118:14**
 
-In way of your testimonies I delighted as over all wealth.
+In the way of your testimonies I delighted as over all wealth.
 
 **Psalms 118:15**
 
@@ -66136,7 +66136,7 @@ I will praise the Lord in my life; I will sing psalms to my God while I exist.
 
 **Psalms 145:3**
 
-Do not trust in rulers and in sons of men, in whom no salvation.
+Do not trust in rulers and in the sons of men, in whom no salvation.
 
 **Psalms 145:4**
 
@@ -67316,7 +67316,7 @@ I was beside him, fitting together. I was one in whom he delighted, and day by d
 
 **Proverbs 8:31**
 
-when he rejoiced, having completed inhabited world, and rejoiced in sons of men.
+when he rejoiced, having completed inhabited world, and rejoiced in the sons of men.
 
 **Proverbs 8:32**
 
@@ -76862,7 +76862,7 @@ How will you say, I was not defiled and I did not go after Baal? See your ways i
 
 **Jeremiah 2:24**
 
-She spread out over waters of wilderness; in desires of her soul she was wind-borne, given over. Who will turn her back? All seeking her will not grow weary; in her humiliation they will find her.
+She spread out over waters of wilderness; in the desires of her soul she was wind-borne, given over. Who will turn her back? All seeking her will not grow weary; in her humiliation they will find her.
 
 **Jeremiah 2:25**
 
@@ -80218,7 +80218,7 @@ I gave land to Nebuchadnezzar king of Babylon, to serve him, and beasts of field
 
 **Jeremiah 34:8**
 
-And nation and kingdom, as many as do not put their neck under yoke of king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
+And nation and kingdom, as many as do not put their neck under the yoke of king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
 
 **Jeremiah 34:9**
 
@@ -80230,7 +80230,7 @@ Because they prophesy lies to you, to remove you far from your land.
 
 **Jeremiah 34:11**
 
-And nation which puts its neck under yoke of king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
+And nation which puts its neck under the yoke of king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
 
 **Jeremiah 34:12**
 
@@ -81172,7 +81172,7 @@ Perhaps their mercy will fall before the face of the Lord and they will turn bac
 
 **Jeremiah 43:8**
 
-And Baruch did according to all that Jeremiah commanded him, to read in scroll words of the Lord in the house of the Lord.
+And Baruch did according to all that Jeremiah commanded him, to read in the scroll words of the Lord in the house of the Lord.
 
 **Jeremiah 43:9**
 
@@ -81180,7 +81180,7 @@ And it happened in the eighth year of reign of Jehoiakim, in the ninth month, al
 
 **Jeremiah 43:10**
 
-And Baruch read in scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all people.
+And Baruch read in the scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all people.
 
 **Jeremiah 43:11**
 
@@ -82766,7 +82766,7 @@ Like appearance of sapphire stone, likeness of throne upon it, and upon likeness
 
 **Ezekiel 1:27**
 
-And I saw like sight of electrum from sight of loins and upward, and from sight of loins and downward I saw like appearance of fire and his brightness around.
+And I saw like sight of electrum from the sight of loins and upward, and from the sight of loins and downward I saw like appearance of fire and his brightness around.
 
 **Ezekiel 1:28**
 
@@ -83984,7 +83984,7 @@ And you whored with the sons of Egypt, your neighbors, great of flesh, and you w
 
 **Ezekiel 16:27**
 
-And if I stretch out my hand against you and remove your lawful dues and hand you over to souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
+And if I stretch out my hand against you and remove your lawful dues and hand you over to the souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
 
 **Ezekiel 16:28**
 
@@ -84994,7 +84994,7 @@ These things were done to you because you whored after nations and were defiled 
 
 **Ezekiel 23:31**
 
-In way of your sister you walked, and I will put her cup in your hands.
+In the way of your sister you walked, and I will put her cup in your hands.
 
 **Ezekiel 23:32**
 
@@ -88106,11 +88106,11 @@ And king cried out to Daniel and said, Truly your God is God of gods and the Lor
 
 **Daniel 2:48**
 
-Then king Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over affairs of Babylon and designated him chief and ruler of all sages of Babylon.
+Then king Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him chief and ruler of all sages of Babylon.
 
 **Daniel 2:49**
 
-And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over affairs of Babylon, and Daniel remained in royal court.
+And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in royal court.
 
 ### Chapter 3
 
@@ -88750,7 +88750,7 @@ And while he was speaking with me, I fell asleep with face to ground, and touchi
 
 **Daniel 8:19**
 
-And he said to me, Behold, I tell you what will be at the end of the wrath against sons of your people, for it still awaits hour of completion.
+And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits hour of completion.
 
 **Daniel 8:20**
 
@@ -89776,7 +89776,7 @@ Because now they will say, We have no king, because we did not fear the Lord. An
 
 **Hosea 10:4**
 
-Speaking words, false excuses, they will make covenant; judgment springs up like weed on furrows of a field.
+Speaking words, false excuses, they will make covenant; judgment springs up like weed on the furrows of a field.
 
 **Hosea 10:5**
 
@@ -89916,7 +89916,7 @@ And I will speak to prophets, and I multiplied visions, and by the hands of prop
 
 **Hosea 12:12**
 
-If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on furrows of field.
+If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on the furrows of field.
 
 **Hosea 12:13**
 
@@ -90326,7 +90326,7 @@ And it will be in that day: mountains will drip sweetness and hills will flow wi
 
 **Joel 4:19**
 
-Egypt will become ruin and Edom a plain of ruin because of injustices against sons of Judah, because they poured out righteous blood in their land.
+Egypt will become ruin and Edom a plain of ruin because of injustices against the sons of Judah, because they poured out righteous blood in their land.
 
 **Joel 4:20**
 
@@ -90358,7 +90358,7 @@ And I will send fire into the house of Hazael, and it will devour foundations of
 
 **Amos 1:5**
 
-And I will shatter bars of Damascus and destroy inhabitants from plain of On and cut off tribe from men of Haran, and people of Syria called by name will be led captive, says the Lord.
+And I will shatter bars of Damascus and destroy inhabitants from plain of On and cut off tribe from the men of Haran, and people of Syria called by name will be led captive, says the Lord.
 
 **Amos 1:6**
 
@@ -90974,11 +90974,11 @@ To your borders they sent you away, all men of your covenant. Your peaceful men 
 
 **Obadiah 1:8**
 
-In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 
 **Obadiah 1:9**
 
-Your warriors from Teman will be terrified, so that a man may be cut off from mount of Esau.
+Your warriors from Teman will be terrified, so that a man may be cut off from the mount of Esau.
 
 **Obadiah 1:10**
 
@@ -92668,7 +92668,7 @@ And he said to me, What do you see? And I said, I saw, and behold, a lampstand, 
 
 **Zechariah 4:3**
 
-And two olive trees above it, one at right of lamp-bowl and one at left.
+And two olive trees above it, one at the right of lamp-bowl and one at left.
 
 **Zechariah 4:4**
 
@@ -92700,7 +92700,7 @@ Because who despised days of small things? They will rejoice and see tin-stone i
 
 **Zechariah 4:11**
 
-And I answered and said to him, What are these two olive trees at right of lampstand and at left?
+And I answered and said to him, What are these two olive trees at the right of lampstand and at left?
 
 **Zechariah 4:12**
 

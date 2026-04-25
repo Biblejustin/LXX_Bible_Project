@@ -55,7 +55,7 @@ Rows: 16
 - confidence: `medium`
 - tools: AutoComplete.db WordSense; milestones/headwords; local index inspection
 - summary: Local Logos word-sense index exposes soul as a primary sense and separately marks person/inner-person extensions. That supports keeping living soul visible where the formula is textually central.
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ## Leviticus 4:35

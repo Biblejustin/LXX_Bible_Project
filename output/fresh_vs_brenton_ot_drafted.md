@@ -361,7 +361,7 @@ Note:
 - decisions: 4
 - footnotes: 3
 - same_normalized: no
-- fresh: And God formed the human from dust of the earth and breathed into his face the breath of life, and the human became a living soul.
+- fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
 - brenton: And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.
 
 ### Genesis 2:8
@@ -1909,7 +1909,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Only flesh with blood of life in it you shall not eat.
+- fresh: Only flesh with the blood of life in it you shall not eat.
 - brenton: But flesh with blood of life ye shall not eat.
 
 ### Genesis 9:5
@@ -13492,7 +13492,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and my God helped you and blessed you with blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
+- fresh: and my God helped you and blessed you with the blessing of heaven from above and blessing of earth possessing all things, because of blessing of breasts and womb,
 - brenton: and my God helped thee, and he blessed thee with the blessing of heaven from above, and the blessing of the earth possessing all things, because of the blessing of the breasts and of the womb,
 
 ### Genesis 49:26
@@ -31514,7 +31514,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: When I afflict you with scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
+- fresh: When I afflict you with the scarcity of breads, ten women will bake your breads in one oven and give back your breads by weight, and you will eat and not be filled.
 - brenton: When I afflict you with famine of bread, then ten women shall bake your loaves in one oven, and they shall render your loaves by weight; and ye shall eat, and not be satisfied.
 
 ### Leviticus 26:27
@@ -35071,7 +35071,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And thus you shall do to them for their purification: sprinkle them with water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
+- fresh: And thus you shall do to them for their purification: sprinkle them with the water of purification, and a razor shall go over all their body, and they shall wash their garments and be clean.
 - brenton: And thus shalt thou perform their purification: thou shalt sprinkle them with water of purification, and a razor shall come upon the whole of their body, and they shall wash their garments, and shall be clean.
 
 ### Numbers 8:8
@@ -51498,7 +51498,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He brought them up on the strength of the land; he fed them with produce of fields. They sucked honey out of a rock and oil out of solid rock,
+- fresh: He brought them up on the strength of the land; he fed them with the produce of fields. They sucked honey out of a rock and oil out of solid rock,
 - brenton: He brought them up on the strength of the land; he fed them with the fruits of the fields; they sucked honey out of the rock, and oil out of the solid rock.
 
 ### Deuteronomy 32:14
@@ -52038,7 +52038,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he saw his first portion, because there land of leaders was apportioned, gathered together with leaders of peoples. The Lord did righteousness and his judgment with Israel.
+- fresh: And he saw his first portion, because there land of leaders was apportioned, gathered together with the leaders of peoples. The Lord did righteousness and his judgment with Israel.
 - brenton: And he saw his first-fruits, that there the land of the princes gathered with the chiefs of the people was divided; the Lord wrought righteousness, and his judgment with Israel.
 
 ### Deuteronomy 33:22
@@ -103428,7 +103428,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to end of Sabbath, because Jehoiada did not dismiss courses.
+- fresh: And Levites and all Judah did according to all things which Jehoiada the priest commanded, and each took his men from the beginning of Sabbath to the end of Sabbath, because Jehoiada did not dismiss courses.
 - brenton: And the Levites and all Juda did according to all that the priest Jodae commanded them, and they took each his men from the beginning of the sabbath to the end of the sabbath, for Jodae the priest did not dismiss the courses.
 
 ### 2 Chronicles 23:9
@@ -109570,7 +109570,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: After him Meremoth son of Urijah son of Koz repaired a second measure, from the door of the house of Eliashib to end of the house of Eliashib.
+- fresh: After him Meremoth son of Urijah son of Koz repaired a second measure, from the door of the house of Eliashib to the end of the house of Eliashib.
 - brenton: After him repaired Meramoth the son of Uria the son of Accos, a second part from the door of the house of Eliasub, to the end of the house of Eliasub.
 
 ### Nehemiah 3:22
@@ -124750,7 +124750,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because sinner is praised in desires of his soul, and unjust man is blessed.
+- fresh: Because sinner is praised in the desires of his soul, and unjust man is blessed.
 - brenton: Because the sinner praises himself for the desires of his heart; and the unjust one blesses himself.
 
 ### Psalms 9:25
@@ -127081,7 +127081,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hand me over to souls of those afflicting me, because unjust witnesses rose against me and injustice lied to itself.
+- fresh: Do not hand me over to the souls of those afflicting me, because unjust witnesses rose against me and injustice lied to itself.
 - brenton: Deliver me not over to the desire of them that afflict me; for unjust witnesses have risen up against me, and injustice has lied within herself.
 
 ### Psalms 26:13
@@ -131779,7 +131779,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Deliver me from those working lawlessness, and save me from men of bloods.
+- fresh: Deliver me from those working lawlessness, and save me from the men of bloods.
 - brenton: Deliver me from the workers of iniquity, and save me from bloody men.
 
 ### Psalms 58:4
@@ -135703,7 +135703,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and restore what your right hand planted, and upon son of man whom you strengthened for yourself.
+- fresh: and restore what your right hand planted, and upon the son of man whom you strengthened for yourself.
 - brenton: and restore that which thy right hand has planted: and look on the son of man whom thou didst strengthen for thyself.
 
 ### Psalms 79:17
@@ -135721,7 +135721,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Let your hand be upon man of your right hand and upon son of man whom you strengthened for yourself.
+- fresh: Let your hand be upon man of your right hand and upon the son of man whom you strengthened for yourself.
 - brenton: Let thy hand be upon the man of thy right hand, and upon the son of man whom thou didst strengthen for thyself.
 
 ### Psalms 79:19
@@ -142066,7 +142066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In way of your testimonies I delighted as over all wealth.
+- fresh: In the way of your testimonies I delighted as over all wealth.
 - brenton: I have delighted in the way of thy testimonies, as much as in all riches.
 
 ### Psalms 118:15
@@ -145972,7 +145972,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not trust in rulers and in sons of men, in whom no salvation.
+- fresh: Do not trust in rulers and in the sons of men, in whom no salvation.
 - brenton: Trust not in princes, nor in the children of men, in whom there is no safety.
 
 ### Psalms 145:4
@@ -148566,7 +148566,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: when he rejoiced, having completed inhabited world, and rejoiced in sons of men.
+- fresh: when he rejoiced, having completed inhabited world, and rejoiced in the sons of men.
 - brenton: For he rejoiced when he had completed the world, and rejoiced among the children of men.
 
 ### Proverbs 8:32
@@ -169535,7 +169535,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: She spread out over waters of wilderness; in desires of her soul she was wind-borne, given over. Who will turn her back? All seeking her will not grow weary; in her humiliation they will find her.
+- fresh: She spread out over waters of wilderness; in the desires of her soul she was wind-borne, given over. Who will turn her back? All seeking her will not grow weary; in her humiliation they will find her.
 - brenton: she has extended her ways over the waters of the desert; she was hurried along by the lusts of her soul; she is given up to them, who will turn her back? none that seek her shall be weary; at the time of her humiliation they shall find her.
 
 ### Jeremiah 2:25
@@ -176942,7 +176942,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nation and kingdom, as many as do not put their neck under yoke of king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
+- fresh: And nation and kingdom, as many as do not put their neck under the yoke of king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
 - brenton: And the nation and kingdom, all that shall not put their neck under the yoke of the king of Babylon, with sword and famine will I visit them, saith the Lord, until they are consumed by his hand.
 
 ### Jeremiah 34:9
@@ -176969,7 +176969,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nation which puts its neck under yoke of king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
+- fresh: And nation which puts its neck under the yoke of king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
 - brenton: But the nation which shall put its neck under the yoke of the king of Babylon, and serve him, I will even leave it upon its land, and it shall serve him, and dwell in it.
 
 ### Jeremiah 34:12
@@ -179048,7 +179048,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch did according to all that Jeremiah commanded him, to read in scroll words of the Lord in the house of the Lord.
+- fresh: And Baruch did according to all that Jeremiah commanded him, to read in the scroll words of the Lord in the house of the Lord.
 - brenton: And Baruch did according to all that Jeremias commanded him—reading in the book the words of the Lord in the Lord's house.
 
 ### Jeremiah 43:9
@@ -179066,7 +179066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch read in scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all people.
+- fresh: And Baruch read in the scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all people.
 - brenton: And Baruch read in the book the words of Jeremias in the house of the Lord, in the house of Gamarias son of Saphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, and in the ears of all the people.
 
 ### Jeremiah 43:11
@@ -182562,7 +182562,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw like sight of electrum from sight of loins and upward, and from sight of loins and downward I saw like appearance of fire and his brightness around.
+- fresh: And I saw like sight of electrum from the sight of loins and upward, and from the sight of loins and downward I saw like appearance of fire and his brightness around.
 - brenton: And I saw as it were the resemblance of amber from the appearance of the loins and upwards, and from the appearance of the loins and under I saw an appearance of fire, and the brightness thereof round about.
 
 ### Ezekiel 1:28
@@ -185235,7 +185235,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if I stretch out my hand against you and remove your lawful dues and hand you over to souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
+- fresh: And if I stretch out my hand against you and remove your lawful dues and hand you over to the souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
 - brenton: And if I stretch out my hand against thee, then will I abolish thy statutes, and deliver thee up to the wills of them that hate thee, even to the daughters of the Philistines that turned thee aside from the way wherein thou sinnedst.
 
 ### Ezekiel 16:28
@@ -187476,7 +187476,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In way of your sister you walked, and I will put her cup in your hands.
+- fresh: In the way of your sister you walked, and I will put her cup in your hands.
 - brenton: Thou didst walk in the way of thy sister; and I will put her cup into thine hands.
 
 ### Ezekiel 23:32
@@ -194354,7 +194354,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then king Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over affairs of Babylon and designated him chief and ruler of all sages of Babylon.
+- fresh: Then king Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him chief and ruler of all sages of Babylon.
 - brenton: [missing]
 
 ### Daniel 2:49
@@ -194363,7 +194363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over affairs of Babylon, and Daniel remained in royal court.
+- fresh: And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in royal court.
 - brenton: [missing]
 
 ### Daniel 3:1
@@ -195776,7 +195776,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Behold, I tell you what will be at the end of the wrath against sons of your people, for it still awaits hour of completion.
+- fresh: And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits hour of completion.
 - brenton: [missing]
 
 ### Daniel 8:20
@@ -198019,7 +198019,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Speaking words, false excuses, they will make covenant; judgment springs up like weed on furrows of a field.
+- fresh: Speaking words, false excuses, they will make covenant; judgment springs up like weed on the furrows of a field.
 - brenton: and what should a king do for us, speaking false professions as his words? he will make a covenant: judgment shall spring up as a weed on the soil of the field.
 
 ### Hosea 10:5
@@ -198325,7 +198325,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on furrows of field.
+- fresh: If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on the furrows of field.
 - brenton: If Galaad exists not, then the chiefs in Galaad when they sacrificed were false, and their altars were as heaps on the ground of the field.
 
 ### Hosea 12:13
@@ -199218,7 +199218,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Egypt will become ruin and Edom a plain of ruin because of injustices against sons of Judah, because they poured out righteous blood in their land.
+- fresh: Egypt will become ruin and Edom a plain of ruin because of injustices against the sons of Judah, because they poured out righteous blood in their land.
 - brenton: Egypt shall be a desolation, and Idumea shall be a desolate plain, because of the wrongs of the children of Juda, because they have shed righteous blood in their land.
 
 ### Joel 4:20
@@ -199283,7 +199283,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will shatter bars of Damascus and destroy inhabitants from plain of On and cut off tribe from men of Haran, and people of Syria called by name will be led captive, says the Lord.
+- fresh: And I will shatter bars of Damascus and destroy inhabitants from plain of On and cut off tribe from the men of Haran, and people of Syria called by name will be led captive, says the Lord.
 - brenton: And I will break to pieces the bars of Damascus, and will destroy the inhabitants out of the plain of On, and will cut in pieces a tribe out of the men of Charrhan: and the famous people of Syria shall be led captive, saith the Lord.
 
 ### Amos 1:6
@@ -200626,7 +200626,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
 - brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ### Obadiah 1:9
@@ -200635,7 +200635,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your warriors from Teman will be terrified, so that a man may be cut off from mount of Esau.
+- fresh: Your warriors from Teman will be terrified, so that a man may be cut off from the mount of Esau.
 - brenton: And thy warriors from Thæman shall be dismayed, to the end that man may be cut off from the mount of Esau.
 
 ### Obadiah 1:10
@@ -204303,7 +204303,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And two olive trees above it, one at right of lamp-bowl and one at left.
+- fresh: And two olive trees above it, one at the right of lamp-bowl and one at left.
 - brenton: and two olive-trees above it, one on the right of the bowl, and one on the left.
 
 ### Zechariah 4:4
@@ -204375,7 +204375,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I answered and said to him, What are these two olive trees at right of lampstand and at left?
+- fresh: And I answered and said to him, What are these two olive trees at the right of lampstand and at left?
 - brenton: And I answered, and said to him, What are these two olive-trees, which are on the right and left hand of the candlestick?
 
 ### Zechariah 4:12

@@ -10,6 +10,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+for import_path in (ROOT, ROOT / "scripts"):
+    import_path_text = str(import_path)
+    if import_path_text not in sys.path:
+        sys.path.insert(0, import_path_text)
+
 
 SOURCE_COLUMNS = {
     "ref",
@@ -805,6 +810,28 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "against land of",
         "on fifteenth of",
         "at water of",
+        "from dust of",
+        "from mount of",
+        "from sight of",
+        "from men of",
+        "in desires of",
+        " in sons of",
+        "in scroll words of",
+        "to end of",
+        "with blood of",
+        "with blessing of",
+        "with produce of",
+        "with leaders of",
+        "with scarcity of",
+        "with water of",
+        "In way of",
+        "on furrows of",
+        "under yoke of",
+        "over affairs of",
+        "over to souls of",
+        "against sons of",
+        "at right of",
+        "upon son of",
         "Who measured water with hand",
         "heaven with span",
         "by handful",
@@ -1252,6 +1279,26 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "on the fifteenth of the month" in by_ref["Ezekiel 32:17"]["draft_translation"]
     assert "according to the measures of gate facing east" in by_ref["Ezekiel 40:21"]["draft_translation"]
     assert "on the bank of the river" in by_ref["Ezekiel 47:7"]["draft_translation"]
+    assert "from the dust of the earth" in by_ref["Genesis 2:7"]["draft_translation"]
+    assert "with the blood of life" in by_ref["Genesis 9:4"]["draft_translation"]
+    assert "with the blessing of heaven" in by_ref["Genesis 49:25"]["draft_translation"]
+    assert "with the scarcity of breads" in by_ref["Leviticus 26:26"]["draft_translation"]
+    assert "with the water of purification" in by_ref["Numbers 8:7"]["draft_translation"]
+    assert "with the produce of fields" in by_ref["Deuteronomy 32:13"]["draft_translation"]
+    assert "with the leaders of peoples" in by_ref["Deuteronomy 33:21"]["draft_translation"]
+    assert "to the end of Sabbath" in by_ref["2 Chronicles 23:8"]["draft_translation"]
+    assert "from the men of bloods" in by_ref["Psalms 58:3"]["draft_translation"]
+    assert "upon the son of man" in by_ref["Psalms 79:16"]["draft_translation"]
+    assert "In the way of your testimonies" in by_ref["Psalms 118:14"]["draft_translation"]
+    assert "in the sons of men" in by_ref["Psalms 145:3"]["draft_translation"]
+    assert "under the yoke of king of Babylon" in by_ref["Jeremiah 34:8"]["draft_translation"]
+    assert "in the scroll words of the Lord" in by_ref["Jeremiah 43:8"]["draft_translation"]
+    assert "from the sight of loins" in by_ref["Ezekiel 1:27"]["draft_translation"]
+    assert "over the affairs of Babylon" in by_ref["Daniel 2:48"]["draft_translation"]
+    assert "against the sons of your people" in by_ref["Daniel 8:19"]["draft_translation"]
+    assert "on the furrows of a field" in by_ref["Hosea 10:4"]["draft_translation"]
+    assert "from the mount of Esau" in by_ref["Obadiah 1:8"]["draft_translation"]
+    assert "at the right of lamp-bowl" in by_ref["Zechariah 4:3"]["draft_translation"]
 
 
 def test_lexham_textual_export_is_not_enabled_from_user_desktop_by_default() -> None:

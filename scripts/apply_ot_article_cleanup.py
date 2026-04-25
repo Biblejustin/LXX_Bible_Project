@@ -751,7 +751,7 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the \2 of",
     ),
     (
-        re.compile(r"\b([Ff]rom) (affliction|snare|produce|king|cities|islands|wrath) of\b"),
+        re.compile(r"\b([Ff]rom) (affliction|snare|produce|king|cities|islands|wrath|dust|mount|sight|men) of\b"),
         r"\1 the \2 of",
     ),
     (
@@ -787,7 +787,7 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the \2 of",
     ),
     (
-        re.compile(r"\b([Ii]n) (acts|abundance|gathering|council|ways|womb|dark place|glory|prophets|paradise) of\b"),
+        re.compile(r"\b([Ii]n) (acts|abundance|gathering|council|ways|womb|dark place|glory|prophets|paradise|desires|sons|scroll words) of\b"),
         r"\1 the \2 of",
     ),
     (
@@ -843,6 +843,10 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the \2 of",
     ),
     (
+        re.compile(r"\b([Tt]o) end of\b"),
+        r"\1 the end of",
+    ),
+    (
         re.compile(r"\b([Tt]o) destroy race of\b"),
         r"\1 destroy the race of",
     ),
@@ -887,6 +891,10 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the \2 of",
     ),
     (
+        re.compile(r"\b([Ww]ith) (blood|blessing|produce|leaders|scarcity|water) of\b"),
+        r"\1 the \2 of",
+    ),
+    (
         re.compile(r"\b([Aa]ccording to) (number|works|word|writing|counsel) of\b"),
         r"\1 the \2 of",
     ),
@@ -905,6 +913,10 @@ LORD_OBJECT_REPLACEMENTS = (
     (
         re.compile(r"\bin way of\b"),
         "in the way of",
+    ),
+    (
+        re.compile(r"\bIn way of\b"),
+        "In the way of",
     ),
     (
         re.compile(r"\bin ways of\b"),
@@ -931,7 +943,7 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the \2 of",
     ),
     (
-        re.compile(r"\b([Oo]n) (breadth|corner|bank) of\b"),
+        re.compile(r"\b([Oo]n) (breadth|corner|bank|furrows) of\b"),
         r"\1 the \2 of",
     ),
     (
@@ -963,8 +975,16 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the hand of",
     ),
     (
-        re.compile(r"\b([Oo]ver) (works|treasuries|crushing) of\b"),
+        re.compile(r"\b([Uu]nder) yoke of\b"),
+        r"\1 the yoke of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) (works|treasuries|crushing|affairs) of\b"),
         r"\1 the \2 of",
+    ),
+    (
+        re.compile(r"\b([Oo]ver) to souls of\b"),
+        r"\1 to the souls of",
     ),
     (
         re.compile(r"\b([Ii]nto) (depth|chamber) of\b"),
@@ -995,6 +1015,10 @@ LORD_OBJECT_REPLACEMENTS = (
         r"\1 the land of",
     ),
     (
+        re.compile(r"\b([Aa]gainst) sons of\b"),
+        r"\1 the sons of",
+    ),
+    (
         re.compile(r"\b([Aa]fter) (end|death|wife) of\b"),
         r"\1 the \2 of",
     ),
@@ -1013,6 +1037,14 @@ LORD_OBJECT_REPLACEMENTS = (
     (
         re.compile(r"\b([Tt]hrough) generations of\b"),
         r"\1 the generations of",
+    ),
+    (
+        re.compile(r"\b([Aa]t) right of\b"),
+        r"\1 the right of",
+    ),
+    (
+        re.compile(r"\b([Uu]pon) son of\b"),
+        r"\1 the son of",
     ),
     (
         re.compile(r"\b([Oo]n|[Uu]pon) (walls|wings|heads) of\b"),
