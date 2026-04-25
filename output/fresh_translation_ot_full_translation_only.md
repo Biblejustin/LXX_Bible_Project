@@ -64244,7 +64244,7 @@ I will not die, but live, and recount works of the Lord.
 
 **Psalms 117:18**
 
-Disciplining, Lord disciplined me, and to death he did not hand me over.
+The Lord disciplined me with discipline, and to death he did not hand me over.
 
 **Psalms 117:19**
 
@@ -68118,7 +68118,7 @@ Ways of life thoughts of understanding, so that turning aside from Hades he may 
 
 **Proverbs 15:25**
 
-Lord tears down houses of insolent, but he set firm boundary of widow.
+The Lord tears down houses of insolent, but he set firm boundary of widow.
 
 **Proverbs 15:26**
 
@@ -75056,7 +75056,7 @@ Carpenter with wood set it by measure and shaped it by line. He made it as form 
 
 **Isaiah 44:14**
 
-One cut wood from forest, which Lord planted, and rain made grow.
+One cut wood from forest, which the Lord planted, and rain made grow.
 
 **Isaiah 44:15**
 
@@ -88274,7 +88274,7 @@ And from dew of heaven its body will be altered, and for seven years it will pas
 
 **Daniel 4:17**
 
-Until he knows that Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
+Until he knows that the Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
 
 **Daniel 4:18**
 
@@ -91396,7 +91396,7 @@ building Zion in bloods and Jerusalem in injustices.
 
 **Micah 3:11**
 
-Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
+Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
 
 **Micah 3:12**
 

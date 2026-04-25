@@ -239,6 +239,26 @@ LORD_OBJECT_REPLACEMENTS = (
         "Is not the Lord among us?",
     ),
     (
+        re.compile(r"\bDisciplining, Lord disciplined me\b"),
+        "The Lord disciplined me with discipline",
+    ),
+    (
+        re.compile(r"\bLord tears down houses\b"),
+        "The Lord tears down houses",
+    ),
+    (
+        re.compile(r"\bwhich Lord planted\b"),
+        "which the Lord planted",
+    ),
+    (
+        re.compile(r"\bLord of heaven has authority\b"),
+        "the Lord of heaven has authority",
+    ),
+    (
+        re.compile(r"\brelied on Lord saying\b"),
+        "relied on the Lord saying",
+    ),
+    (
         re.compile(r"\bwithout Lord to war\b"),
         "without the Lord to war",
     ),

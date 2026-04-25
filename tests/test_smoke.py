@@ -275,6 +275,11 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "for the day of the Lord is near" in by_ref["Isaiah 13:6"]["draft_translation"]
     assert "Let the name of the Lord be blessed" in by_ref["Job 1:21"]["draft_translation"]
     assert "sought the face of the Lord" in by_ref["2 Chronicles 33:12"]["draft_translation"]
+    assert by_ref["Psalms 117:18"]["draft_translation"].startswith("The Lord disciplined me")
+    assert by_ref["Proverbs 15:25"]["draft_translation"].startswith("The Lord tears down")
+    assert "which the Lord planted" in by_ref["Isaiah 44:14"]["draft_translation"]
+    assert "the Lord of heaven has authority" in by_ref["Daniel 4:17"]["draft_translation"]
+    assert "relied on the Lord saying" in by_ref["Micah 3:11"]["draft_translation"]
 
 
 def test_lexham_textual_export_is_not_enabled_from_user_desktop_by_default() -> None:

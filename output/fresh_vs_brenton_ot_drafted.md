@@ -141841,7 +141841,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Disciplining, Lord disciplined me, and to death he did not hand me over.
+- fresh: The Lord disciplined me with discipline, and to death he did not hand me over.
 - brenton: The Lord has chastened me sore: but he has not given me up to death.
 
 ### Psalms 117:19
@@ -150339,7 +150339,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord tears down houses of insolent, but he set firm boundary of widow.
+- fresh: The Lord tears down houses of insolent, but he set firm boundary of widow.
 - brenton: The Lord pulls down the houses of scorners; but he establishes the border of the widow.
 
 ### Proverbs 15:26
@@ -165582,7 +165582,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One cut wood from forest, which Lord planted, and rain made grow.
+- fresh: One cut wood from forest, which the Lord planted, and rain made grow.
 - brenton: He cuts wood out of the forest, which the Lord planted, even a pine tree, and the rain made it grow,
 
 ### Isaiah 44:15
@@ -194723,7 +194723,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Until he knows that Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
+- fresh: Until he knows that the Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
 - brenton: [missing]
 
 ### Daniel 4:18
@@ -201539,7 +201539,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
+- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
 - brenton: The heads thereof have judged for gifts, and the priests thereof have answered for hire, and her prophets have divined for silver: and yet they have rested on the Lord, saying, Is not the Lord among us? no evil shall come upon us.
 
 ### Micah 3:12

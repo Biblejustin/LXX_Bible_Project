@@ -7976,6 +7976,15 @@ Rows: 20951
 - mt: And you shall not escape out of his hand, but shall surely be taken, and delivered into his hand; and yours eyes shall behold the eyes of the king of Babylon, and he shall speak with you mouth to mouth, and you shall go to Babylon.
 - brenton: and thou shalt send them to the king of Idumea, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Sidon, by the hands of their messengers that come to meet them at Jerusalem to Sedekias king of Juda.
 
+## Micah 3:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.055`
+- fresh_brenton_ratio: `0.266`
+- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
+- mt: The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us.
+- brenton: The heads thereof have judged for gifts, and the priests thereof have answered for hire, and her prophets have divined for silver: and yet they have rested on the Lord, saying, Is not the Lord among us? no evil shall come upon us.
+
 ## 2 Chronicles 25:4
 - priority: `0`
 - importance: `none`
@@ -8047,15 +8056,6 @@ Rows: 20951
 - fresh: And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in midst of road. In all these his anger did not turn away, but hand still high.
 - mt: Therefore is the anger of the LORD kindled against his people, and he has stretched forth his hand against them, and has smitten them: and the hills did tremble, and their carcasses were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.
 - brenton: Therefore the Lord of hosts was greatly angered against his people, and he reached forth his hand upon them, and smote them: and the mountains were troubled, and their carcases were as dung in the midst of the way: yet for all this his anger has not been turned away, but his hand is yet raised.
-
-## Micah 3:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.056`
-- fresh_brenton_ratio: `0.269`
-- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
-- mt: The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us.
-- brenton: The heads thereof have judged for gifts, and the priests thereof have answered for hire, and her prophets have divined for silver: and yet they have rested on the Lord, saying, Is not the Lord among us? no evil shall come upon us.
 
 ## Leviticus 17:15
 - priority: `0`
@@ -49259,15 +49259,6 @@ Rows: 20951
 - mt: Moreover concerning a stranger, that is not of your people Israel, but comes out of a far country for your name's sake;
 - brenton: And for the stranger who is not of thy people,
 
-## Isaiah 44:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.360`
-- fresh_brenton_ratio: `0.722`
-- fresh: One cut wood from forest, which Lord planted, and rain made grow.
-- mt: He hews him down cedars, and takes the cypress and the oak, which he strengthens for himself among the trees of the forest: he plants an ash, and the rain does nourish it.
-- brenton: He cuts wood out of the forest, which the Lord planted, even a pine tree, and the rain made it grow,
-
 ## Psalms 139:4
 - priority: `0`
 - importance: `none`
@@ -49708,6 +49699,15 @@ Rows: 20951
 - fresh: Exalt the Lord our God and worship at footstool of his feet, because holy he is.
 - mt: Sing unto the LORD with the harp; with the harp, and the voice of a psalm.
 - brenton: Exalt ye the Lord our God, and worship at his footstool; for he is holy.
+
+## Isaiah 44:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.362`
+- fresh_brenton_ratio: `0.753`
+- fresh: One cut wood from forest, which the Lord planted, and rain made grow.
+- mt: He hews him down cedars, and takes the cypress and the oak, which he strengthens for himself among the trees of the forest: he plants an ash, and the rain does nourish it.
+- brenton: He cuts wood out of the forest, which the Lord planted, even a pine tree, and the rain made it grow,
 
 ## 1 Samuel 24:19
 - priority: `0`
@@ -76502,15 +76502,6 @@ Rows: 20951
 - mt: Seeing his days are determined, the number of his months are with you, you have appointed his bounds that he cannot pass;
 - brenton: if even his life should be but one day upon the earth: and his months are numbered by him: thou hast appointed him for a time, and he shall by no means exceed it.
 
-## Proverbs 15:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.544`
-- fresh_brenton_ratio: `0.641`
-- fresh: Lord tears down houses of insolent, but he set firm boundary of widow.
-- mt: The LORD will destroy the house of the proud: but he will establish the border of the widow.
-- brenton: The Lord pulls down the houses of scorners; but he establishes the border of the widow.
-
 ## Exodus 32:28
 - priority: `0`
 - importance: `none`
@@ -84304,6 +84295,15 @@ Rows: 20951
 - fresh: and you will regret at end when flesh of your body is worn away.
 - mt: And you mourn at the last, when your flesh and your body are consumed,
 - brenton: and thou repent at last, when the flesh of thy body is consumed,
+
+## Proverbs 15:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.580`
+- fresh_brenton_ratio: `0.675`
+- fresh: The Lord tears down houses of insolent, but he set firm boundary of widow.
+- mt: The LORD will destroy the house of the proud: but he will establish the border of the widow.
+- brenton: The Lord pulls down the houses of scorners; but he establishes the border of the widow.
 
 ## Micah 6:3
 - priority: `0`
