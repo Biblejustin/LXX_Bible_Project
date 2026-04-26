@@ -63,6 +63,15 @@ make test
 make build-nt
 ```
 
+For fast NT iteration without touching committed release outputs:
+
+```bash
+make build-nt-fast
+```
+
+That target writes ignored artifacts under `output/working/`, lowers DOCX ZIP
+compression, and skips DOCX validation. Use `make build-nt` before publishing.
+
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 
 ## Project Map

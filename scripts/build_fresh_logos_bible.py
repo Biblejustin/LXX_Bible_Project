@@ -91,6 +91,7 @@ DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 
 DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
 DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
+DOCX_DEFAULT_COMPRESSLEVEL = 9
 
 T = TypeVar("T")
 
@@ -509,7 +510,7 @@ class MinimalDocx:
         self.footnotes.append(FootnoteEntry(text=text))
         return len(self.footnotes)
 
-    def save(self, path: Path) -> None:
+    def save(self, path: Path, *, compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL) -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
         document_xml = build_document_xml("\n".join(self.body))
         footnotes_xml = build_footnotes_xml(self.footnotes)
@@ -524,12 +525,12 @@ class MinimalDocx:
             "word/settings.xml": settings_xml(),
             "word/footnotes.xml": footnotes_xml,
         }
-        with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
+        with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=compresslevel) as zf:
             for name, payload in files.items():
                 info = zipfile.ZipInfo(name, date_time=DOCX_ZIP_TIMESTAMP)
                 info.compress_type = zipfile.ZIP_DEFLATED
                 info.external_attr = 0o600 << 16
-                zf.writestr(info, payload, compresslevel=9)
+                zf.writestr(info, payload, compresslevel=compresslevel)
 
 
 def attr(text: str) -> str:
@@ -2244,6 +2245,7 @@ def build_docx(
     place_links: dict[str, PlaceLink] | None = None,
     place_link_pattern: re.Pattern[str] | None = None,
     crossrefs_enabled: bool = False,
+    docx_compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL,
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
@@ -2326,7 +2328,7 @@ def build_docx(
     stats.place_link_count = sum(part.count("BibleKnowledgebase:") for part in doc.body)
     stats.footnote_count = len(doc.footnotes)
     stats.duplicate_milestone_refs = sum(count - 1 for count in milestone_ref_counts.values() if count > 1)
-    doc.save(path)
+    doc.save(path, compresslevel=docx_compresslevel)
     return stats
 
 
@@ -2745,23 +2747,32 @@ def validate_docx(path: Path) -> dict[str, object]:
         entries = zf.namelist()
         result["entries"] = entries
         xml_errors: list[str] = []
+        xml_payloads: dict[str, bytes] = {}
+        xml_roots: dict[str, ET.Element] = {}
         for name in entries:
             if name.endswith(".xml"):
+                payload = zf.read(name)
+                xml_payloads[name] = payload
                 try:
-                    ET.fromstring(zf.read(name))
+                    xml_roots[name] = ET.fromstring(payload)
                 except ET.ParseError as exc:
                     xml_errors.append(f"{name}: {exc}")
         result["xml_ok"] = not xml_errors
         result["xml_errors"] = xml_errors
-        result["footnote_reference_count"] = zf.read("word/document.xml").count(b"<w:footnoteReference")
-        footnotes_root = ET.fromstring(zf.read("word/footnotes.xml"))
+        result["footnote_reference_count"] = xml_payloads.get("word/document.xml", b"").count(b"<w:footnoteReference")
+        footnotes_root = xml_roots.get("word/footnotes.xml")
+        footnote_nodes = footnotes_root if footnotes_root is not None else []
         result["footnote_body_count"] = sum(
             1
-            for node in footnotes_root
+            for node in footnote_nodes
             if node.tag == f"{{{DOCX_W_NS}}}footnote"
             and node.attrib.get(f"{{{DOCX_W_NS}}}type") not in {"separator", "continuationSeparator"}
         )
     return result
+
+
+def skipped_docx_validation(path: Path) -> dict[str, object]:
+    return {"path": str(path), "skipped": True, "reason": "--skip-docx-validation"}
 
 
 def build_diagnostics(
@@ -2858,6 +2869,19 @@ def main() -> None:
         action="store_true",
         help="Omit the TSK/OpenBible cross-reference footnote layer.",
     )
+    parser.add_argument(
+        "--docx-compresslevel",
+        type=int,
+        choices=range(10),
+        default=DOCX_DEFAULT_COMPRESSLEVEL,
+        metavar="0-9",
+        help="ZIP compression level for generated DOCX files; use lower values for ignored working builds.",
+    )
+    parser.add_argument(
+        "--skip-docx-validation",
+        action="store_true",
+        help="Skip DOCX zip/XML validation for faster ignored working builds.",
+    )
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
 
@@ -2942,6 +2966,7 @@ def main() -> None:
         place_links=place_links,
         place_link_pattern=place_link_pattern,
         crossrefs_enabled=not args.no_crossrefs,
+        docx_compresslevel=args.docx_compresslevel,
     )
     mt_bridge_stats = build_docx(
         path=args.mt_bridge_docx,
@@ -2963,6 +2988,7 @@ def main() -> None:
         place_links=place_links,
         place_link_pattern=place_link_pattern,
         crossrefs_enabled=not args.no_crossrefs,
+        docx_compresslevel=args.docx_compresslevel,
     )
     proof_stats = build_docx(
         path=args.proof_docx,
@@ -2984,6 +3010,7 @@ def main() -> None:
         place_links={},
         place_link_pattern=None,
         crossrefs_enabled=not args.no_crossrefs,
+        docx_compresslevel=args.docx_compresslevel,
     )
     build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
@@ -3004,7 +3031,8 @@ def main() -> None:
         deuterocanonical_work=deuterocanonical_work,
         crossrefs_enabled=not args.no_crossrefs,
     )
-    validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
+    validation_func = skipped_docx_validation if args.skip_docx_validation else validate_docx
+    validations = [validation_func(args.logos_docx), validation_func(args.mt_bridge_docx), validation_func(args.proof_docx)]
     diagnostics = build_diagnostics(
         verses=verses,
         note_counts=note_counts,

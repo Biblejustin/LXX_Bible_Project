@@ -64,6 +64,11 @@ change. Cache state is intentionally omitted from generated diagnostics so
 tracked outputs stay deterministic. Set `FRESH_BIBLE_DISABLE_CACHE=1` to force
 uncached ingest.
 
+`make build-nt-fast` is the ignored working-output loop for NT development. It
+keeps the same source/review steps, writes generated files under
+`output/working/`, lowers DOCX compression, and skips DOCX validation. It is for
+iteration only; release artifacts still come from `make build-nt`.
+
 ## Private Research Boundary
 
 Private or copyrighted local material must stay in ignored paths:
