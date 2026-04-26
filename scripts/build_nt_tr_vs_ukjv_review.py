@@ -55,10 +55,12 @@ COMPARISON_REPLACEMENTS = [
     ("which is", "who is"),
     ("which are", "who are"),
 ]
-COMPARISON_REPLACEMENT_PATTERNS = [
-    (re.compile(rf"\b{re.escape(old)}\b"), new)
-    for old, new in COMPARISON_REPLACEMENTS
-]
+COMPARISON_REPLACEMENT_LOOKUP = dict(COMPARISON_REPLACEMENTS)
+COMPARISON_REPLACEMENT_RE = re.compile(
+    r"\b(?:"
+    + "|".join(re.escape(old) for old, _ in sorted(COMPARISON_REPLACEMENTS, key=lambda item: len(item[0]), reverse=True))
+    + r")\b"
+)
 
 REVIEW_FIELDNAMES = [
     "ref",
@@ -449,20 +451,23 @@ def normalize_for_compare(text: str) -> str:
     text = text.replace("'", "")
     text = NON_COMPARE_WORD_RE.sub(" ", text)
     text = SPACE_RE.sub(" ", text)
-    for pattern, new in COMPARISON_REPLACEMENT_PATTERNS:
-        text = pattern.sub(new, text)
+    text = COMPARISON_REPLACEMENT_RE.sub(lambda match: COMPARISON_REPLACEMENT_LOOKUP[match.group(0)], text)
     text = SPACE_RE.sub(" ", text)
     return text.strip()
 
 
-NORMALIZED_THEME_TERMS = {
-    theme: [
-        (normalize_for_compare(term), term)
-        for term in terms
-        if normalize_for_compare(term)
-    ]
-    for theme, terms in THEME_TERMS.items()
-}
+def normalized_theme_terms() -> dict[str, list[tuple[str, str]]]:
+    normalized: dict[str, list[tuple[str, str]]] = {}
+    for theme, terms in THEME_TERMS.items():
+        normalized[theme] = []
+        for term in terms:
+            normalized_term = normalize_for_compare(term)
+            if normalized_term:
+                normalized[theme].append((normalized_term, term))
+    return normalized
+
+
+NORMALIZED_THEME_TERMS = normalized_theme_terms()
 
 
 def phrase_present(padded_normalized_text: str, normalized_phrase: str) -> bool:
