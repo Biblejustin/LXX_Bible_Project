@@ -26,12 +26,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 20
 
-**Mark 1:2** As it is written in the prophets, Look, I send my messenger before your face, which shall prepare your way before you.
+**Mark 1:2** As it is written in the prophets, Look, I send my messenger before your face, who shall prepare your way before you.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**Mark 1:3** The voice of one crying in the wilderness, Prepare you the way of the Lord, make his paths straight.
+**Mark 1:3** The voice of one crying in the wilderness, Prepare the way of the Lord, make his paths straight.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 6
@@ -43,12 +43,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 6
 
-**Luke 1:2** Even as they delivered them to us, which from the beginning were eyewitnesses, and ministers of the word;
+**Luke 1:2** Even as they delivered them to us, who from the beginning were eyewitnesses, and servants of the word;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**Luke 1:3** It seemed good to me also, having had perfect understanding of all things from the very first, to write to you in order, most excellent Theophilus,
+**Luke 1:3** It seemed good to me also, having closely followed all things from the first, to write to you in order, most excellent Theophilus,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -72,7 +72,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Acts
 
-**Acts 1:1** The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
+**Acts 1:1** I made the former treatise, O Theophilus, of all that Jesus began both to do and teach,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
@@ -82,7 +82,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 48
 
-**Acts 1:3** To whom also he showed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
+**Acts 1:3** To whom also he showed himself alive after his suffering by many proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 20
@@ -128,12 +128,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**2 Corinthians 1:2** Grace be to you and peace from God our Father, and from the Lord Jesus Christ.
+**2 Corinthians 1:2** Grace to you and peace from God our Father, and the Lord Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**2 Corinthians 1:3** Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
+**2 Corinthians 1:3** Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies, and God of all comfort;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -310,7 +310,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Hebrews
 
-**Hebrews 1:1** God, who at several times and in various manners spoke in time past to the fathers by the prophets,
+**Hebrews 1:1** God, who in many portions and in many ways spoke in time past to the fathers by the prophets,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 22

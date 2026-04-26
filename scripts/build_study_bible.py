@@ -319,6 +319,8 @@ USFM_XREF_RE = re.compile(r"\\x\s+\+.*?\\x\*")
 USFM_FOOTNOTE_FIELD_RE = re.compile(r"\\fr\s+[^\\]+|\\(?:fqa|ft|fk|fq)\s+")
 USFM_MARKUP_RE = re.compile(r"\\[a-z0-9*]+ ?")
 USFM_MARKUP_BARE_RE = re.compile(r"\\[a-z0-9*]+")
+USFM_ID_RE = re.compile(r"\\id\s+([A-Z0-9]+)")
+USFM_VERSE_RE = re.compile(r"\\v\s+(\d+)\s+(.*)")
 TSK_REFERENCE_RE = re.compile(r"<reference\b[^>]*>(.*?)</reference>", re.S)
 TSK_REFERENCE_TAG_RE = re.compile(r"<reference\b[^>]*>.*?</reference>", re.S)
 TSK_INLINE_TAG_RE = re.compile(r"</?(hi|div|title|catchWord)\b[^>]*>")
@@ -330,6 +332,7 @@ DUPLICATE_COMMA_RE = re.compile(r"(?:,\s*){2,}")
 DUPLICATE_SEMICOLON_RE = re.compile(r"(?:;\s*){2,}")
 DUPLICATE_WORD_RE = re.compile(r"\b([A-Za-z]+)(?:\s+\1\b)+")
 ALPHA_WORD_RE = re.compile(r"[A-Za-z][A-Za-z'/-]*")
+OPENBIBLE_REF_RE = re.compile(r"([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)$")
 LATEX_REPLACEMENTS = {
     "\\": r"\textbackslash{}",
     "&": r"\&",
@@ -414,7 +417,7 @@ def parse_brenton_usfm() -> Tuple[List[VerseRecord], Dict[str, int]]:
             for line in raw:
                 line = line.rstrip()
                 if line.startswith("\\id "):
-                    m = re.match(r"\\id\s+([A-Z0-9]+)", line)
+                    m = USFM_ID_RE.match(line)
                     if m:
                         book_code = m.group(1)
                         book_name = STANDARD_BOOK_NAMES.get(book_code, book_code)
@@ -433,7 +436,7 @@ def parse_brenton_usfm() -> Tuple[List[VerseRecord], Dict[str, int]]:
                 elif line.startswith("\\v "):
                     if not (book_code and book_name and chapter):
                         continue
-                    m = re.match(r"\\v\s+(\d+)\s+(.*)", line)
+                    m = USFM_VERSE_RE.match(line)
                     if not m:
                         continue
                     verse = int(m.group(1))
@@ -730,15 +733,17 @@ def has_min_alpha_words(text: str, minimum: int) -> bool:
     return False
 
 
+@lru_cache(maxsize=None)
 def parse_openbible_ref(raw_ref: str) -> Optional[Tuple[str, int, int, str]]:
-    match = re.match(r"([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)$", raw_ref.strip())
+    cleaned_ref = raw_ref.strip()
+    match = OPENBIBLE_REF_RE.match(cleaned_ref)
     if not match:
         return None
     abbr, chapter, verse = match.groups()
     code = OPENBIBLE_BOOK_MAP.get(abbr)
     if not code:
         return None
-    return code, int(chapter), int(verse), raw_ref.strip()
+    return code, int(chapter), int(verse), cleaned_ref
 
 
 def parse_openbible_crossrefs(limit_per_verse: int = 8) -> Tuple[Dict[Tuple[str, int, int], List[str]], Dict[str, object]]:

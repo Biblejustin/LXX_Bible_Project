@@ -4,37 +4,37 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 2935,
-    "tr_literal_pass1": 3861,
-    "needs_focused_tr_review": 1161
+    "tr_literal_pass1": 3875,
+    "needs_focused_tr_review": 1147
   },
   "changed_by_book": {
     "MAT": 913,
     "MRK": 587,
-    "LUK": 998,
-    "JHN": 757,
+    "LUK": 999,
+    "JHN": 759,
     "ACT": 877,
     "ROM": 407,
     "1CO": 423,
-    "2CO": 205,
-    "GAL": 104,
+    "2CO": 208,
+    "GAL": 106,
     "EPH": 120,
-    "PHP": 74,
+    "PHP": 75,
     "COL": 74,
     "1TH": 70,
     "2TH": 36,
-    "1TI": 65,
+    "1TI": 66,
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
-    "HEB": 199,
+    "HEB": 200,
     "JAS": 81,
     "1PE": 83,
-    "2PE": 47,
-    "1JN": 83,
+    "2PE": 49,
+    "1JN": 84,
     "2JN": 10,
     "3JN": 10,
     "JUD": 19,
-    "REV": 299
+    "REV": 300
   },
   "rule_counts": {
     "manual TR literal override": 2935,
@@ -56,8 +56,9 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 166,
-    "UKJV seed retained; needs focused Greek review": 1161,
+    "UKJV seed retained; needs focused Greek review": 1147,
     "standardized Juda as Judah in tribe/land contexts": 8,
+    "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 722,
     "modernized lo": 17,
     "modernized were-come perfect": 23,
@@ -80,6 +81,7 @@
     "rendered halon as threshing floor": 2,
     "rendered ptuon as winnowing fork": 2,
     "modernized forbad": 4,
+    "modernized suffer-as-allow wording": 9,
     "modernized an-hungered idiom": 9,
     "modernized residual be wording": 31,
     "modernized get-you imperative": 4,
@@ -136,7 +138,7 @@
     "modernized be-not imperative": 12,
     "fixed does-corrupt agreement": 2,
     "modernized no-man idiom": 92,
-    "modernized take-no-thought idiom": 2,
+    "modernized take-no-thought idiom": 5,
     "modernized fowls": 11,
     "modernized taking-thought idiom": 1,
     "modernized take-you-thought idiom": 2,
@@ -144,6 +146,7 @@
     "modernized today spelling": 13,
     "modernized wherefore": 71,
     "modernized wherewithal": 1,
+    "modernized take-thought idiom": 1,
     "fixed negative subjunctive wording": 1,
     "fixed sentence casing": 3,
     "modernized be-not clause": 10,
@@ -159,10 +162,13 @@
     "modernized came-to-pass idiom": 35,
     "modernized was-come perfect": 35,
     "modernized beseeching": 3,
+    "modernized sick-of wording": 5,
     "rendered doulos-family wording as slave": 128,
     "modernized marvelled spelling": 21,
     "modernized bare as bore": 8,
     "rendered didaskalos as teacher": 27,
+    "modernized nowhere wording": 1,
+    "modernized suffer-as-permit wording": 5,
     "modernized insomuch-that idiom": 17,
     "modernized besought": 22,
     "modernized everything spelling": 6,
@@ -183,6 +189,7 @@
     "rendered kophos as mute": 6,
     "modernized labour spelling": 41,
     "modernized staves": 7,
+    "modernized enquire spelling": 3,
     "modernized whatsoever": 38,
     "modernized if-be wording": 1,
     "modernized him-which relative": 6,
@@ -205,12 +212,14 @@
     "modernized nay": 3,
     "rendered synteleia tou aionos as completion of the age": 4,
     "modernized honour spelling": 39,
+    "modernized save-in idiom": 2,
     "modernized charger as platter": 3,
     "modernized damsel": 10,
     "modernized victuals": 2,
     "modernized fishes plural": 18,
     "modernized brake as broke": 9,
     "modernized be-not-afraid imperative": 6,
+    "modernized good-cheer idiom": 4,
     "modernized if-it-be wording": 1,
     "modernized residual verb-not wording": 15,
     "modernized nigh": 26,
@@ -326,6 +335,7 @@
     "modernized slain": 13,
     "fixed hardly-departs word order": 1,
     "modernized which-now idiom": 1,
+    "modernized no-doubt wording": 2,
     "modernized touch-not idiom": 3,
     "modernized slay": 4,
     "modernized spin-not wording": 1,
@@ -333,7 +343,7 @@
     "modernized know-not-whence idiom": 2,
     "kept de-linked amen formula as but truly": 1,
     "modernized bade/bidden wording": 1,
-    "modernized recompence spelling": 7,
+    "modernized recompence spelling": 6,
     "fixed duplicate lest artifact": 2,
     "fixed look-it artifact": 1,
     "modernized not-able wording": 1,
@@ -345,6 +355,8 @@
     "fixed whence casing after tell": 2,
     "rendered me genoito directly": 12,
     "modernized gainsay": 1,
+    "modernized overcharged wording": 1,
+    "modernized worldly-excess wording": 1,
     "modernized at-food artifact": 1,
     "modernized enter-not wording": 1,
     "modernized be-you question": 1,
@@ -363,8 +375,11 @@
     "modernized we-be wording": 1,
     "fixed seen-him relative artifact": 1,
     "modernized herein": 4,
+    "modernized mine before noun": 6,
     "modernized thereby": 6,
     "modernized because-that wording": 9,
+    "modernized he-it-is wording": 1,
+    "modernized mansions wording": 1,
     "rendered apoleia as destruction": 6,
     "modernized kinsman": 2,
     "fixed take-you-him imperative": 2,
@@ -395,6 +410,8 @@
     "modernized more-part idiom": 1,
     "modernized immoveable spelling": 2,
     "modernized all-that-be wording": 1,
+    "modernized recompense/meet wording": 1,
+    "rendered aschemosyne as shameful": 1,
     "fixed non-person relative after righteousness": 1,
     "modernized things-which-be-not wording": 1,
     "rendered homoioma as likeness": 3,
@@ -408,6 +425,7 @@
     "modernized possessive pronoun spelling": 8,
     "fixed non-person relative after grace": 4,
     "fixed non-person relative after spirit of man": 1,
+    "rendered kauchaomai as boast": 10,
     "modernized hereby": 9,
     "modernized such-an-one idiom": 6,
     "fixed article before prostitute": 2,
@@ -420,7 +438,14 @@
     "modernized overmuch": 1,
     "modernized faint-not idiom": 4,
     "rendered eige as if indeed": 2,
+    "rendered arrabon as pledge": 2,
+    "rendered katergazomai as prepare": 1,
+    "modernized whilst": 3,
     "modernized pray-you wording": 1,
+    "fixed earn artifact": 2,
+    "rendered zelos as zeal": 1,
+    "modernized subtlety": 1,
+    "modernized suffer-as-bear-with wording": 3,
     "modernized forevermore spelling": 3,
     "modernized own-selves wording": 1,
     "modernized conversation as conduct": 16,
@@ -428,17 +453,26 @@
     "modernized says-not wording": 1,
     "modernized comes-not wording": 1,
     "fixed worldly typo": 1,
+    "modernized seditions/heresies wording": 1,
+    "modernized constrain wording": 1,
+    "modernized fair-show idiom": 1,
+    "fixed Spirit relative pronoun": 1,
     "removed supplied quickened not present in verse": 1,
     "rendered syzoopoieo as made alive together": 2,
     "modernized sin-not idiom": 4,
     "fixed be-release artifact": 1,
     "modernized clamour spelling": 1,
+    "modernized whoremonger": 1,
     "modernized wrestle-not wording": 1,
     "modernized thereunto": 4,
     "rendered diakonos as servant": 3,
     "rendered episkopos as overseer": 4,
     "fixed earnest expectation artifact": 1,
     "modernized in-a-strait idiom": 1,
+    "modernized vainglory": 1,
+    "modernized shall-change wording": 1,
+    "rendered soma tapeinoseos as body of humiliation": 1,
+    "rendered symmorphos as conformed": 1,
     "modernized therewith": 3,
     "rendered hagios as holy one": 1,
     "modernized irreproachable": 1,
@@ -449,32 +483,44 @@
     "modernized handle-not idiom": 1,
     "modernized taste-not idiom": 1,
     "modernized concupiscence": 2,
+    "rendered nekroo as put to death": 1,
+    "rendered pathos as passion": 1,
     "rendered Skythes as Scythian": 1,
     "modernized personal relative wording": 1,
     "fixed that-that-day artifact": 1,
     "modernized pornos wording": 4,
     "modernized behaviour spelling": 2,
+    "modernized novice wording": 1,
     "rendered diakoneo as serve": 2,
     "rendered homologia as confession": 4,
     "fixed be-ware artifact": 1,
     "modernized be-ware idiom": 1,
     "modernized gainsayers": 1,
     "modernized mine-account wording": 1,
+    "modernized several wording": 2,
     "fixed earnest-heed artifact": 1,
     "fixed sanctifies spelling": 2,
     "modernized hereof": 1,
+    "modernized suffered-as-hindered wording": 1,
     "fixed Hebrews 7:28 temporal wording": 1,
     "fixed waxs-old artifact": 1,
+    "modernized so-used wording": 1,
+    "rendered theatrizo as spectacle": 1,
     "modernized perished-not wording": 1,
     "modernized waxed-valiant idiom": 1,
+    "modernized fornicator": 1,
     "fixed than-that artifact": 1,
+    "rendered lampros as bright": 1,
+    "rendered rhyparos as filthy": 1,
     "modernized therewith word order": 1,
     "fixed sentence-initial whence casing": 1,
     "rendered enteuthen question as from here": 1,
     "translated sabaoth as hosts": 1,
     "modernized if-so-be wording": 1,
     "modernized hereunto": 1,
+    "modernized heresies wording": 1,
     "rendered tartaroo as Tartarus": 1,
+    "modernized wantonness": 1,
     "modernized write-I word order": 1,
     "modernized keeps-not wording": 1,
     "fixed do-righteousness wording": 1,
@@ -496,7 +542,7 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 1161,
+  "review_queue_rows": 1147,
   "examples": {
     "manual TR literal override": [
       {
@@ -747,12 +793,12 @@
       {
         "ref": "Matthew 2:7",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he had privately called the Magi, enquired of them diligently what time the star appeared."
+        "draft_translation": "Then Herod, when he had privately called the Magi, inquired of them diligently what time the star appeared."
       },
       {
         "ref": "Matthew 2:16",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi."
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
       }
     ],
     "standardized Judea spelling": [
@@ -838,6 +884,23 @@
         "ref": "Luke 3:26",
         "book_code": "LUK",
         "draft_translation": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Judah,"
+      }
+    ],
+    "modernized enquired spelling": [
+      {
+        "ref": "Matthew 2:7",
+        "book_code": "MAT",
+        "draft_translation": "Then Herod, when he had privately called the Magi, inquired of them diligently what time the star appeared."
+      },
+      {
+        "ref": "Matthew 2:16",
+        "book_code": "MAT",
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
+      },
+      {
+        "ref": "2 Corinthians 8:23",
+        "book_code": "2CO",
+        "draft_translation": "Whether any do inquire of Titus, he is my partner and fellow-helper concerning you: or our brothers be inquired of, they are the messengers of the assemblies, and the glory of Christ."
       }
     ],
     "removed UKJV plural-expansion artifact": [
@@ -929,7 +992,7 @@
       {
         "ref": "Matthew 2:16",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi."
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
       },
       {
         "ref": "Matthew 8:34",
@@ -946,7 +1009,7 @@
       {
         "ref": "Matthew 2:16",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi."
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
       },
       {
         "ref": "Matthew 4:8",
@@ -963,7 +1026,7 @@
       {
         "ref": "Matthew 2:16",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi."
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
       },
       {
         "ref": "Matthew 21:39",
@@ -980,12 +1043,12 @@
       {
         "ref": "Matthew 2:16",
         "book_code": "MAT",
-        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently enquired of the Magi."
+        "draft_translation": "Then Herod, when he saw that he was mocked of the Magi, was exceedingly angry, and sent forth, and killed all the children that were in Bethlehem, and in all the borders of it, from two years old and under, according to the time which he had diligently inquired of the Magi."
       },
       {
         "ref": "Matthew 6:34",
         "book_code": "MAT",
-        "draft_translation": "Take therefore no thought for the next day: for the next day shall take thought for the things of itself. Sufficient to the day is the evil of it."
+        "draft_translation": "Therefore do not be anxious for the next day: for the next day will be anxious for its own things. Sufficient to the day is the evil of it."
       },
       {
         "ref": "Matthew 12:36",
@@ -1174,6 +1237,23 @@
         "draft_translation": "And John answered and said, Master, we saw one casting out demons in your name; and we forbade him, because he follows not with us."
       }
     ],
+    "modernized suffer-as-allow wording": [
+      {
+        "ref": "Matthew 3:15",
+        "book_code": "MAT",
+        "draft_translation": "And Jesus answering said to him, Allow it now: for thus it becomes us to fulfill all righteousness. Then he allowed him."
+      },
+      {
+        "ref": "Matthew 24:43",
+        "book_code": "MAT",
+        "draft_translation": "But know this, that if the householder had known in what watch the thief would come, he would have watched, and would not have allowed his house to be broken up."
+      },
+      {
+        "ref": "Mark 1:34",
+        "book_code": "MRK",
+        "draft_translation": "And he healed many that were sick with various diseases, and cast out many demons; and did not allow the demons to speak, because they knew him."
+      }
+    ],
     "modernized an-hungered idiom": [
       {
         "ref": "Matthew 4:2",
@@ -1348,7 +1428,7 @@
       {
         "ref": "Mark 1:34",
         "book_code": "MRK",
-        "draft_translation": "And he healed many that were sick of various diseases, and cast out many demons; and suffered not the demons to speak, because they knew him."
+        "draft_translation": "And he healed many that were sick with various diseases, and cast out many demons; and did not allow the demons to speak, because they knew him."
       }
     ],
     "modernized palsy": [
@@ -1360,12 +1440,12 @@
       {
         "ref": "Matthew 8:6",
         "book_code": "MAT",
-        "draft_translation": "And saying, Lord, my servant lies at home sick of the paralysis, grievously tormented."
+        "draft_translation": "And saying, Lord, my servant lies at home sick with paralysis, grievously tormented."
       },
       {
         "ref": "Matthew 9:6",
         "book_code": "MAT",
-        "draft_translation": "But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick of the paralysis,) Arise, take up your bed, and go to your house."
+        "draft_translation": "But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick with paralysis,) Arise, take up your bed, and go to your house."
       }
     ],
     "rendered daimonizomai as demonized": [
@@ -1690,7 +1770,7 @@
       {
         "ref": "Matthew 10:11",
         "book_code": "MAT",
-        "draft_translation": "And into whatever city or town you shall enter, enquire who in it is worthy; and there abide till you go from there."
+        "draft_translation": "And into whatever city or town you shall enter, inquire who in it is worthy; and there abide till you go from there."
       }
     ],
     "rendered Greek coin term transliterally": [
@@ -2048,9 +2128,14 @@
         "draft_translation": "Therefore I say to you, Do not be anxious for your life, what you shall eat, or what you shall drink; nor yet for your body, what you shall put on. Is not the life more than food, and the body than clothing?"
       },
       {
-        "ref": "Luke 12:22",
-        "book_code": "LUK",
-        "draft_translation": "And he said to his disciples, Therefore I say to you, Do not be anxious for your life, what you shall eat; neither for the body, what you shall put on."
+        "ref": "Matthew 6:31",
+        "book_code": "MAT",
+        "draft_translation": "Therefore do not be anxious, saying, What shall we eat? or, What shall we drink? or, with what shall we be clothed?"
+      },
+      {
+        "ref": "Matthew 6:34",
+        "book_code": "MAT",
+        "draft_translation": "Therefore do not be anxious for the next day: for the next day will be anxious for its own things. Sufficient to the day is the evil of it."
       }
     ],
     "modernized fowls": [
@@ -2139,7 +2224,14 @@
       {
         "ref": "Matthew 6:31",
         "book_code": "MAT",
-        "draft_translation": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, with what shall we be clothed?"
+        "draft_translation": "Therefore do not be anxious, saying, What shall we eat? or, What shall we drink? or, with what shall we be clothed?"
+      }
+    ],
+    "modernized take-thought idiom": [
+      {
+        "ref": "Matthew 6:34",
+        "book_code": "MAT",
+        "draft_translation": "Therefore do not be anxious for the next day: for the next day will be anxious for its own things. Sufficient to the day is the evil of it."
       }
     ],
     "fixed negative subjunctive wording": [
@@ -2281,7 +2373,7 @@
       {
         "ref": "Matthew 8:31",
         "book_code": "MAT",
-        "draft_translation": "So the demons begged him, saying, If you cast us out, suffer us to go away into the herd of swine."
+        "draft_translation": "So the demons begged him, saying, If you cast us out, permit us to go away into the herd of swine."
       },
       {
         "ref": "Matthew 8:33",
@@ -2345,6 +2437,23 @@
         "ref": "Luke 7:3",
         "book_code": "LUK",
         "draft_translation": "And when he heard of Jesus, he sent to him the elders of the Jews, begging him who he would come and heal his slave."
+      }
+    ],
+    "modernized sick-of wording": [
+      {
+        "ref": "Matthew 8:6",
+        "book_code": "MAT",
+        "draft_translation": "And saying, Lord, my servant lies at home sick with paralysis, grievously tormented."
+      },
+      {
+        "ref": "Matthew 9:6",
+        "book_code": "MAT",
+        "draft_translation": "But that you may know that the Son of man has power on earth to forgive sins, (then says he to the sick with paralysis,) Arise, take up your bed, and go to your house."
+      },
+      {
+        "ref": "Mark 1:34",
+        "book_code": "MRK",
+        "draft_translation": "And he healed many that were sick with various diseases, and cast out many demons; and did not allow the demons to speak, because they knew him."
       }
     ],
     "rendered doulos-family wording as slave": [
@@ -2415,6 +2524,30 @@
         "draft_translation": "The disciple is not above his teacher, nor the slave above his Lord."
       }
     ],
+    "modernized nowhere wording": [
+      {
+        "ref": "Matthew 8:20",
+        "book_code": "MAT",
+        "draft_translation": "And Jesus says to him, The foxes have holes, and the birds of the air have nests; but the Son of man has nowhere to lay his head."
+      }
+    ],
+    "modernized suffer-as-permit wording": [
+      {
+        "ref": "Matthew 8:21",
+        "book_code": "MAT",
+        "draft_translation": "And another of his disciples said to him, Lord, permit me first to go and bury my father."
+      },
+      {
+        "ref": "Matthew 8:31",
+        "book_code": "MAT",
+        "draft_translation": "So the demons begged him, saying, If you cast us out, permit us to go away into the herd of swine."
+      },
+      {
+        "ref": "Matthew 19:8",
+        "book_code": "MAT",
+        "draft_translation": "He says to them, Moses because of the hardness of your hearts permitted you to release your wives: but from the beginning it was not so."
+      }
+    ],
     "modernized insomuch-that idiom": [
       {
         "ref": "Matthew 8:24",
@@ -2436,7 +2569,7 @@
       {
         "ref": "Matthew 8:31",
         "book_code": "MAT",
-        "draft_translation": "So the demons begged him, saying, If you cast us out, suffer us to go away into the herd of swine."
+        "draft_translation": "So the demons begged him, saying, If you cast us out, permit us to go away into the herd of swine."
       },
       {
         "ref": "Matthew 8:34",
@@ -2509,7 +2642,7 @@
       {
         "ref": "Mark 2:5",
         "book_code": "MRK",
-        "draft_translation": "When Jesus saw their faith, he said to the sick of the paralysis, Son, your sins are forgiven you."
+        "draft_translation": "When Jesus saw their faith, he said to the sick with paralysis, Son, your sins are forgiven you."
       }
     ],
     "modernized tax-booth idiom": [
@@ -2730,11 +2863,28 @@
         "draft_translation": "In that same hour said Jesus to the crowds, Are you come out as against a thief with swords and staffs in order to take me? I sat daily with you teaching in the temple, and you laid no hold on me."
       }
     ],
+    "modernized enquire spelling": [
+      {
+        "ref": "Matthew 10:11",
+        "book_code": "MAT",
+        "draft_translation": "And into whatever city or town you shall enter, inquire who in it is worthy; and there abide till you go from there."
+      },
+      {
+        "ref": "Acts 9:11",
+        "book_code": "ACT",
+        "draft_translation": "And the Lord said to him, Arise, and go into the street which is called Straight, and inquire in the house of Judas for one called Saul, of Tarsus: for, look, he prays,"
+      },
+      {
+        "ref": "2 Corinthians 8:23",
+        "book_code": "2CO",
+        "draft_translation": "Whether any do inquire of Titus, he is my partner and fellow-helper concerning you: or our brothers be inquired of, they are the messengers of the assemblies, and the glory of Christ."
+      }
+    ],
     "modernized whatsoever": [
       {
         "ref": "Matthew 10:11",
         "book_code": "MAT",
-        "draft_translation": "And into whatever city or town you shall enter, enquire who in it is worthy; and there abide till you go from there."
+        "draft_translation": "And into whatever city or town you shall enter, inquire who in it is worthy; and there abide till you go from there."
       },
       {
         "ref": "Matthew 14:7",
@@ -3046,7 +3196,7 @@
       {
         "ref": "Matthew 13:57",
         "book_code": "MAT",
-        "draft_translation": "And they were offended in him. But Jesus said to them, A prophet is not without honor, save in his own country, and in his own house."
+        "draft_translation": "And they were offended in him. But Jesus said to them, A prophet is not without honor, except in his own country, and in his own house."
       },
       {
         "ref": "Matthew 15:4",
@@ -3057,6 +3207,18 @@
         "ref": "Matthew 15:6",
         "book_code": "MAT",
         "draft_translation": "And honor not his father or his mother, he shall be free. Thus have you made the commandment of God of no effect by your tradition."
+      }
+    ],
+    "modernized save-in idiom": [
+      {
+        "ref": "Matthew 13:57",
+        "book_code": "MAT",
+        "draft_translation": "And they were offended in him. But Jesus said to them, A prophet is not without honor, except in his own country, and in his own house."
+      },
+      {
+        "ref": "Galatians 6:14",
+        "book_code": "GAL",
+        "draft_translation": "But may it not be that I should glory, except in the cross of our Lord Jesus Christ, by whom the world is crucified to me, and I to the world."
       }
     ],
     "modernized charger as platter": [
@@ -3143,7 +3305,7 @@
       {
         "ref": "Matthew 14:27",
         "book_code": "MAT",
-        "draft_translation": "But immediately Jesus spoke to them, saying, Be of good cheer; it is I; do not be afraid."
+        "draft_translation": "But immediately Jesus spoke to them, saying, take courage; it is I; do not be afraid."
       },
       {
         "ref": "Matthew 17:7",
@@ -3153,7 +3315,24 @@
       {
         "ref": "Mark 6:50",
         "book_code": "MRK",
-        "draft_translation": "For they all saw him, and were troubled. And immediately he talked with them, and says to them, Be of good cheer: it is I; do not be afraid."
+        "draft_translation": "For they all saw him, and were troubled. And immediately he talked with them, and says to them, take courage: it is I; do not be afraid."
+      }
+    ],
+    "modernized good-cheer idiom": [
+      {
+        "ref": "Matthew 14:27",
+        "book_code": "MAT",
+        "draft_translation": "But immediately Jesus spoke to them, saying, take courage; it is I; do not be afraid."
+      },
+      {
+        "ref": "Mark 6:50",
+        "book_code": "MRK",
+        "draft_translation": "For they all saw him, and were troubled. And immediately he talked with them, and says to them, take courage: it is I; do not be afraid."
+      },
+      {
+        "ref": "John 16:33",
+        "book_code": "JHN",
+        "draft_translation": "These things I have spoken to you, that in me you might have peace. In the world you shall have tribulation: but take courage; I have overcome the world."
       }
     ],
     "modernized if-it-be wording": [
@@ -3597,7 +3776,7 @@
       {
         "ref": "Matthew 24:43",
         "book_code": "MAT",
-        "draft_translation": "But know this, that if the householder had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+        "draft_translation": "But know this, that if the householder had known in what watch the thief would come, he would have watched, and would not have allowed his house to be broken up."
       },
       {
         "ref": "Mark 14:14",
@@ -3769,7 +3948,7 @@
       {
         "ref": "John 9:30",
         "book_code": "JHN",
-        "draft_translation": "The man answered and said to them, Why in this is a marvelous thing, that you do not know from where he is, and yet he has opened mine eyes."
+        "draft_translation": "The man answered and said to them, Why in this is a marvelous thing, that you do not know from where he is, and yet he has opened my eyes."
       }
     ],
     "rendered hybrizo as mistreat": [
@@ -4701,6 +4880,18 @@
         "draft_translation": "Which of these three, think you, was neighbor to him who fell among the thieves?"
       }
     ],
+    "modernized no-doubt wording": [
+      {
+        "ref": "Luke 11:20",
+        "book_code": "LUK",
+        "draft_translation": "But if I with the finger of God cast out demons, Then the kingdom of God has come upon you."
+      },
+      {
+        "ref": "1 John 2:19",
+        "book_code": "1JN",
+        "draft_translation": "They went out from us, but they were not of us; for if they had been of us, they would have remained with us: but they went out, that they might be made manifest that they were not all of us."
+      }
+    ],
     "modernized touch-not idiom": [
       {
         "ref": "Luke 11:46",
@@ -4782,14 +4973,14 @@
         "draft_translation": "Then said he also to him who invited him, When you make a dinner or a supper, call not your friends, nor your brothers, neither your kinsmen, nor your rich neighbors; lest they also bid you again, and a recompense be made you."
       },
       {
-        "ref": "Romans 1:27",
-        "book_code": "ROM",
-        "draft_translation": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompense of their error which was meet."
-      },
-      {
         "ref": "Romans 11:9",
         "book_code": "ROM",
         "draft_translation": "And David says, Let their table be made a snare, and a trap, and a stumbling block, and a recompense to them:"
+      },
+      {
+        "ref": "2 Corinthians 6:13",
+        "book_code": "2CO",
+        "draft_translation": "Now for a recompense in the same, (I speak as to my children,) be also enlarged."
       }
     ],
     "fixed duplicate lest artifact": [
@@ -4897,6 +5088,20 @@
         "ref": "Luke 21:15",
         "book_code": "LUK",
         "draft_translation": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to contradict nor resist."
+      }
+    ],
+    "modernized overcharged wording": [
+      {
+        "ref": "Luke 21:34",
+        "book_code": "LUK",
+        "draft_translation": "And take heed to yourselves, lest at any time your hearts be weighed down with dissipation, and drunkenness, and cares of this life, and so that day come upon you unexpectedly."
+      }
+    ],
+    "modernized worldly-excess wording": [
+      {
+        "ref": "Luke 21:34",
+        "book_code": "LUK",
+        "draft_translation": "And take heed to yourselves, lest at any time your hearts be weighed down with dissipation, and drunkenness, and cares of this life, and so that day come upon you unexpectedly."
       }
     ],
     "modernized at-food artifact": [
@@ -5082,7 +5287,7 @@
       {
         "ref": "John 9:30",
         "book_code": "JHN",
-        "draft_translation": "The man answered and said to them, Why in this is a marvelous thing, that you do not know from where he is, and yet he has opened mine eyes."
+        "draft_translation": "The man answered and said to them, Why in this is a marvelous thing, that you do not know from where he is, and yet he has opened my eyes."
       },
       {
         "ref": "2 Corinthians 8:10",
@@ -5093,6 +5298,23 @@
         "ref": "1 John 4:10",
         "book_code": "1JN",
         "draft_translation": "in this is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+      }
+    ],
+    "modernized mine before noun": [
+      {
+        "ref": "John 9:30",
+        "book_code": "JHN",
+        "draft_translation": "The man answered and said to them, Why in this is a marvelous thing, that you do not know from where he is, and yet he has opened my eyes."
+      },
+      {
+        "ref": "Acts 11:6",
+        "book_code": "ACT",
+        "draft_translation": "Upon the which when I had fastened my eyes, I considered, and saw four-footed beasts of the earth, and wild beasts, and creeping things, and birds of the air."
+      },
+      {
+        "ref": "Romans 16:23",
+        "book_code": "ROM",
+        "draft_translation": "Gaius my host, and of the whole assembly, salutes you. Erastus the chamberlain of the city salutes you, and Quartus a brother."
       }
     ],
     "modernized thereby": [
@@ -5127,6 +5349,20 @@
         "ref": "Philippians 2:26",
         "book_code": "PHP",
         "draft_translation": "For he longed after you all, and was full of heaviness, because you had heard that he had been sick."
+      }
+    ],
+    "modernized he-it-is wording": [
+      {
+        "ref": "John 13:26",
+        "book_code": "JHN",
+        "draft_translation": "Jesus answered, It is he to whom I shall give a morsel, when I have dipped it. And when he had dipped the morsel, he gave it to Judas Iscariot, the son of Simon."
+      }
+    ],
+    "modernized mansions wording": [
+      {
+        "ref": "John 14:2",
+        "book_code": "JHN",
+        "draft_translation": "In my Father's house are many dwelling places: if it were not so, I would have told you. I go to prepare a place for you."
       }
     ],
     "rendered apoleia as destruction": [
@@ -5414,6 +5650,20 @@
         "draft_translation": "To all who are in Rome, beloved of God, called to be holy ones: Grace to you and peace from God our Father, and the Lord Jesus Christ."
       }
     ],
+    "modernized recompense/meet wording": [
+      {
+        "ref": "Romans 1:27",
+        "book_code": "ROM",
+        "draft_translation": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is shameful, and receiving in themselves that repayment of their error which was due."
+      }
+    ],
+    "rendered aschemosyne as shameful": [
+      {
+        "ref": "Romans 1:27",
+        "book_code": "ROM",
+        "draft_translation": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is shameful, and receiving in themselves that repayment of their error which was due."
+      }
+    ],
     "fixed non-person relative after righteousness": [
       {
         "ref": "Romans 3:22",
@@ -5513,7 +5763,7 @@
       {
         "ref": "1 Corinthians 3:21",
         "book_code": "1CO",
-        "draft_translation": "Therefore let no one glory in men. For all things are yours;"
+        "draft_translation": "Therefore let no one boast in men. For all things are yours;"
       },
       {
         "ref": "1 Corinthians 8:9",
@@ -5543,6 +5793,23 @@
         "ref": "1 Corinthians 2:11",
         "book_code": "1CO",
         "draft_translation": "For what man knows the things of a man, save the spirit of man which is in him? even so the things of God knows no one, but the Spirit of God."
+      }
+    ],
+    "rendered kauchaomai as boast": [
+      {
+        "ref": "1 Corinthians 3:21",
+        "book_code": "1CO",
+        "draft_translation": "Therefore let no one boast in men. For all things are yours;"
+      },
+      {
+        "ref": "1 Corinthians 9:16",
+        "book_code": "1CO",
+        "draft_translation": "For though I preach the good news, I have nothing to boast of: for necessity is laid upon me; yes, woe is to me, if I preach not the good news!"
+      },
+      {
+        "ref": "2 Corinthians 5:12",
+        "book_code": "2CO",
+        "draft_translation": "For we commend not ourselves again to you, but give you occasion to boast on our behalf, that you may have somewhat to answer those who boast in appearance, and not in heart."
       }
     ],
     "modernized hereby": [
@@ -5689,11 +5956,90 @@
         "draft_translation": "If indeed you have heard him, and have been taught by him, as the truth is in Jesus:"
       }
     ],
+    "rendered arrabon as pledge": [
+      {
+        "ref": "2 Corinthians 5:5",
+        "book_code": "2CO",
+        "draft_translation": "Now the one who has prepared us for this very thing is God, who also has given to us the pledge of the Spirit."
+      },
+      {
+        "ref": "Ephesians 1:14",
+        "book_code": "EPH",
+        "draft_translation": "who is the pledge of our inheritance until the redemption of the purchased possession, to the praise of his glory."
+      }
+    ],
+    "rendered katergazomai as prepare": [
+      {
+        "ref": "2 Corinthians 5:5",
+        "book_code": "2CO",
+        "draft_translation": "Now the one who has prepared us for this very thing is God, who also has given to us the pledge of the Spirit."
+      }
+    ],
+    "modernized whilst": [
+      {
+        "ref": "2 Corinthians 5:6",
+        "book_code": "2CO",
+        "draft_translation": "Therefore we are always confident, knowing that, while we are at home in the body, we are absent from the Lord:"
+      },
+      {
+        "ref": "2 Corinthians 7:15",
+        "book_code": "2CO",
+        "draft_translation": "And his inward affection is more abundant toward you, while he remembers the obedience of you all, how with fear and trembling you received him."
+      },
+      {
+        "ref": "Hebrews 10:33",
+        "book_code": "HEB",
+        "draft_translation": "Partly, while you were made a spectacle both by reproaches and afflictions; and partly, while you became companions of those who were treated this way."
+      }
+    ],
     "modernized pray-you wording": [
       {
         "ref": "2 Corinthians 5:20",
         "book_code": "2CO",
         "draft_translation": "Now then we are ambassadors for Christ, as though God did plead to you by us: we plead with you in Christ's place, be reconciled to God."
+      }
+    ],
+    "fixed earn artifact": [
+      {
+        "ref": "2 Corinthians 7:7",
+        "book_code": "2CO",
+        "draft_translation": "And not by his coming only, but by the consolation with which he was comforted in you, when he told us your longing, your mourning, your zeal for me; so that I rejoiced the more."
+      },
+      {
+        "ref": "2 Corinthians 8:16",
+        "book_code": "2CO",
+        "draft_translation": "But thanks be to God, who put the same diligence into the heart of Titus for you."
+      }
+    ],
+    "rendered zelos as zeal": [
+      {
+        "ref": "2 Corinthians 7:7",
+        "book_code": "2CO",
+        "draft_translation": "And not by his coming only, but by the consolation with which he was comforted in you, when he told us your longing, your mourning, your zeal for me; so that I rejoiced the more."
+      }
+    ],
+    "modernized subtlety": [
+      {
+        "ref": "2 Corinthians 11:3",
+        "book_code": "2CO",
+        "draft_translation": "But I fear, lest by any means, as the serpent misled Eve through his craftiness, so your minds should be corrupted from the simplicity that is in Christ."
+      }
+    ],
+    "modernized suffer-as-bear-with wording": [
+      {
+        "ref": "2 Corinthians 11:19",
+        "book_code": "2CO",
+        "draft_translation": "For you bear with fools gladly, seeing you yourselves are wise."
+      },
+      {
+        "ref": "2 Corinthians 11:20",
+        "book_code": "2CO",
+        "draft_translation": "For you bear with it, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man strike you on the face."
+      },
+      {
+        "ref": "Hebrews 13:22",
+        "book_code": "HEB",
+        "draft_translation": "And I plead to you, brothers, bear with the word of exhortation: for I have written a letter to you in few words."
       }
     ],
     "modernized forevermore spelling": [
@@ -5772,7 +6118,35 @@
       {
         "ref": "Galatians 5:20",
         "book_code": "GAL",
-        "draft_translation": "Idolatry, witchcraft, hatred, variance, worldly jealousies, wrath, strife, seditions, heresies,"
+        "draft_translation": "Idolatry, witchcraft, hatred, variance, worldly jealousies, wrath, strife, divisions, factions,"
+      }
+    ],
+    "modernized seditions/heresies wording": [
+      {
+        "ref": "Galatians 5:20",
+        "book_code": "GAL",
+        "draft_translation": "Idolatry, witchcraft, hatred, variance, worldly jealousies, wrath, strife, divisions, factions,"
+      }
+    ],
+    "modernized constrain wording": [
+      {
+        "ref": "Galatians 6:12",
+        "book_code": "GAL",
+        "draft_translation": "As many as desire to make a good appearance in the flesh, they compel you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+      }
+    ],
+    "modernized fair-show idiom": [
+      {
+        "ref": "Galatians 6:12",
+        "book_code": "GAL",
+        "draft_translation": "As many as desire to make a good appearance in the flesh, they compel you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+      }
+    ],
+    "fixed Spirit relative pronoun": [
+      {
+        "ref": "Ephesians 1:14",
+        "book_code": "EPH",
+        "draft_translation": "who is the pledge of our inheritance until the redemption of the purchased possession, to the praise of his glory."
       }
     ],
     "removed supplied quickened not present in verse": [
@@ -5823,6 +6197,13 @@
         "ref": "Ephesians 4:31",
         "book_code": "EPH",
         "draft_translation": "Let all bitterness, and wrath, and anger, and clamor, and evil speaking, be removed from you, with all malice:"
+      }
+    ],
+    "modernized whoremonger": [
+      {
+        "ref": "Ephesians 5:5",
+        "book_code": "EPH",
+        "draft_translation": "For this you know, that no sexually immoral person, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God."
       }
     ],
     "modernized wrestle-not wording": [
@@ -5895,6 +6276,34 @@
         "ref": "Philippians 1:23",
         "book_code": "PHP",
         "draft_translation": "For I am pressed between two, having a desire to depart, and to be with Christ; which is far better:"
+      }
+    ],
+    "modernized vainglory": [
+      {
+        "ref": "Philippians 2:3",
+        "book_code": "PHP",
+        "draft_translation": "Let nothing be done through strife or conceit; but in lowliness of mind let each esteem other better than themselves."
+      }
+    ],
+    "modernized shall-change wording": [
+      {
+        "ref": "Philippians 3:21",
+        "book_code": "PHP",
+        "draft_translation": "who will transform our body of humiliation, that it may be conformed to his body of glory, according to the working by which he is able even to subdue all things to himself."
+      }
+    ],
+    "rendered soma tapeinoseos as body of humiliation": [
+      {
+        "ref": "Philippians 3:21",
+        "book_code": "PHP",
+        "draft_translation": "who will transform our body of humiliation, that it may be conformed to his body of glory, according to the working by which he is able even to subdue all things to himself."
+      }
+    ],
+    "rendered symmorphos as conformed": [
+      {
+        "ref": "Philippians 3:21",
+        "book_code": "PHP",
+        "draft_translation": "who will transform our body of humiliation, that it may be conformed to his body of glory, according to the working by which he is able even to subdue all things to himself."
       }
     ],
     "modernized therewith": [
@@ -5979,12 +6388,26 @@
       {
         "ref": "Colossians 3:5",
         "book_code": "COL",
-        "draft_translation": "Mortify therefore your members which are upon the earth; sexual immorality, uncleanness, inordinate affection, evil desire, and covetousness, which is idolatry:"
+        "draft_translation": "Put to death therefore your members which are upon the earth; sexual immorality, uncleanness, passion, evil desire, and covetousness, which is idolatry:"
       },
       {
         "ref": "1 Thessalonians 4:5",
         "book_code": "1TH",
         "draft_translation": "Not in the lust of desire, even as the nations who do not know God:"
+      }
+    ],
+    "rendered nekroo as put to death": [
+      {
+        "ref": "Colossians 3:5",
+        "book_code": "COL",
+        "draft_translation": "Put to death therefore your members which are upon the earth; sexual immorality, uncleanness, passion, evil desire, and covetousness, which is idolatry:"
+      }
+    ],
+    "rendered pathos as passion": [
+      {
+        "ref": "Colossians 3:5",
+        "book_code": "COL",
+        "draft_translation": "Put to death therefore your members which are upon the earth; sexual immorality, uncleanness, passion, evil desire, and covetousness, which is idolatry:"
       }
     ],
     "rendered Skythes as Scythian": [
@@ -6035,6 +6458,13 @@
         "ref": "Titus 2:3",
         "book_code": "TIT",
         "draft_translation": "The aged women likewise, that they be in behavior as becomes holiness, not false accusers, not given to much wine, teachers of good things;"
+      }
+    ],
+    "modernized novice wording": [
+      {
+        "ref": "1 Timothy 3:6",
+        "book_code": "1TI",
+        "draft_translation": "Not a new convert, lest being lifted up with pride he fall into the condemnation of the devil."
       }
     ],
     "rendered diakoneo as serve": [
@@ -6094,6 +6524,18 @@
         "draft_translation": "If he has wronged you, or owes you anything, put that on my account;"
       }
     ],
+    "modernized several wording": [
+      {
+        "ref": "Hebrews 1:1",
+        "book_code": "HEB",
+        "draft_translation": "God, who in many portions and in many ways spoke in time past to the fathers by the prophets,"
+      },
+      {
+        "ref": "Revelation 21:21",
+        "book_code": "REV",
+        "draft_translation": "And the twelve gates were twelve pearls: each gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
+      }
+    ],
     "fixed earnest-heed artifact": [
       {
         "ref": "Hebrews 2:1",
@@ -6120,6 +6562,13 @@
         "draft_translation": "And by reason of this he ought, as for the people, so also for himself, to offer for sins."
       }
     ],
+    "modernized suffered-as-hindered wording": [
+      {
+        "ref": "Hebrews 7:23",
+        "book_code": "HEB",
+        "draft_translation": "And they truly were many priests, because they were hindered from continuing by reason of death:"
+      }
+    ],
     "fixed Hebrews 7:28 temporal wording": [
       {
         "ref": "Hebrews 7:28",
@@ -6132,6 +6581,20 @@
         "ref": "Hebrews 8:13",
         "book_code": "HEB",
         "draft_translation": "In that he says, A new covenant, he has made the first old. Now that which decays and grows old is ready to vanish away."
+      }
+    ],
+    "modernized so-used wording": [
+      {
+        "ref": "Hebrews 10:33",
+        "book_code": "HEB",
+        "draft_translation": "Partly, while you were made a spectacle both by reproaches and afflictions; and partly, while you became companions of those who were treated this way."
+      }
+    ],
+    "rendered theatrizo as spectacle": [
+      {
+        "ref": "Hebrews 10:33",
+        "book_code": "HEB",
+        "draft_translation": "Partly, while you were made a spectacle both by reproaches and afflictions; and partly, while you became companions of those who were treated this way."
       }
     ],
     "modernized perished-not wording": [
@@ -6148,11 +6611,32 @@
         "draft_translation": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, became valiant in fight, turned to flight the armies of the aliens."
       }
     ],
+    "modernized fornicator": [
+      {
+        "ref": "Hebrews 12:16",
+        "book_code": "HEB",
+        "draft_translation": "lest anyone is sexually immoral, or profane person, as Esau, who for one morsel of food sold his birthright."
+      }
+    ],
     "fixed than-that artifact": [
       {
         "ref": "Hebrews 12:24",
         "book_code": "HEB",
         "draft_translation": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaks better things than that of Abel."
+      }
+    ],
+    "rendered lampros as bright": [
+      {
+        "ref": "James 2:2",
+        "book_code": "JAS",
+        "draft_translation": "For if there come to your assembly a man with a gold ring, in bright clothing, and there come in also a poor man in filthy clothing;"
+      }
+    ],
+    "rendered rhyparos as filthy": [
+      {
+        "ref": "James 2:2",
+        "book_code": "JAS",
+        "draft_translation": "For if there come to your assembly a man with a gold ring, in bright clothing, and there come in also a poor man in filthy clothing;"
       }
     ],
     "modernized therewith word order": [
@@ -6197,11 +6681,25 @@
         "draft_translation": "For even to this were you called: because Christ also suffered for us, leaving us an example, that you should follow his steps:"
       }
     ],
+    "modernized heresies wording": [
+      {
+        "ref": "2 Peter 2:1",
+        "book_code": "2PE",
+        "draft_translation": "But there were false prophets also among the people, even as there shall be false teachers among you, who privately shall bring in destructive heresies, even denying the Lord that bought them, and bring upon themselves swift destruction."
+      }
+    ],
     "rendered tartaroo as Tartarus": [
       {
         "ref": "2 Peter 2:4",
         "book_code": "2PE",
         "draft_translation": "For if God spared not the angels that sinned, but cast them down to Tartarus, and delivered them into chains of darkness, to be reserved to judgment;"
+      }
+    ],
+    "modernized wantonness": [
+      {
+        "ref": "2 Peter 2:18",
+        "book_code": "2PE",
+        "draft_translation": "For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much sensuality, those that were clean escaped from them who live in error."
       }
     ],
     "modernized write-I word order": [
