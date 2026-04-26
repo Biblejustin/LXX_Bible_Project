@@ -315,8 +315,20 @@ SPACE_RE = re.compile(r"\s+")
 PUNCT_FAST_RE = re.compile(r"[;,]\s*[;,]")
 PUNCT_NORM_RE = re.compile(r"(?:\s*[;,]\s*){2,}")
 USFM_FOOTNOTE_RE = re.compile(r"\\f\s+\+(.*?)\\f\*")
+USFM_XREF_RE = re.compile(r"\\x\s+\+.*?\\x\*")
 USFM_FOOTNOTE_FIELD_RE = re.compile(r"\\fr\s+[^\\]+|\\(?:fqa|ft|fk|fq)\s+")
 USFM_MARKUP_RE = re.compile(r"\\[a-z0-9*]+ ?")
+USFM_MARKUP_BARE_RE = re.compile(r"\\[a-z0-9*]+")
+TSK_REFERENCE_RE = re.compile(r"<reference\b[^>]*>(.*?)</reference>", re.S)
+TSK_REFERENCE_TAG_RE = re.compile(r"<reference\b[^>]*>.*?</reference>", re.S)
+TSK_INLINE_TAG_RE = re.compile(r"</?(hi|div|title|catchWord)\b[^>]*>")
+TSK_LINE_BREAK_RE = re.compile(r"<lb\b[^>]*>")
+XML_TAG_RE = re.compile(r"<[^>]+>")
+SEMICOLON_SPACE_RE = re.compile(r"\s*;\s*")
+COMMA_SPACE_RE = re.compile(r"\s*,\s*")
+DUPLICATE_COMMA_RE = re.compile(r"(?:,\s*){2,}")
+DUPLICATE_SEMICOLON_RE = re.compile(r"(?:;\s*){2,}")
+DUPLICATE_WORD_RE = re.compile(r"\b([A-Za-z]+)(?:\s+\1\b)+")
 ALPHA_WORD_RE = re.compile(r"[A-Za-z][A-Za-z'/-]*")
 LATEX_REPLACEMENTS = {
     "\\": r"\textbackslash{}",
@@ -333,7 +345,7 @@ LATEX_REPLACEMENTS = {
 LATEX_ESCAPE_RE = re.compile(r"[\\&%$#_{}~^]")
 
 
-@dataclass
+@dataclass(slots=True)
 class VerseRecord:
     book_code: str
     book_name: str
@@ -346,18 +358,19 @@ class VerseRecord:
     footnotes: List[str] = field(default_factory=list)
     cross_references: List[str] = field(default_factory=list)
     study_notes: List[str] = field(default_factory=list)
+    ref: str = field(init=False)
 
-    @property
-    def ref(self) -> str:
-        return f"{self.book_name} {self.chapter}:{self.verse}"
+    def __post_init__(self) -> None:
+        self.ref = f"{self.book_name} {self.chapter}:{self.verse}"
 
 
 def normalize_space(text: str) -> str:
-    text = unicodedata.normalize("NFKC", text)
-    text = text.replace("\ufffd", "")
-    text = text.replace("\u037e", ";")
-    text = text.replace("\u0387", ";")
-    text = text.replace("\u00b7", ";")
+    if not text.isascii():
+        text = unicodedata.normalize("NFKC", text)
+        text = text.replace("\ufffd", "")
+        text = text.replace("\u037e", ";")
+        text = text.replace("\u0387", ";")
+        text = text.replace("\u00b7", ";")
     text = SPACE_RE.sub(" ", text)
     if PUNCT_FAST_RE.search(text):
         text = PUNCT_NORM_RE.sub("; ", text)
@@ -365,9 +378,9 @@ def normalize_space(text: str) -> str:
 
 
 def strip_usfm_markup(text: str) -> str:
-    text = re.sub(r"\\f\s+\+.*?\\f\*", "", text)
-    text = re.sub(r"\\x\s+\+.*?\\x\*", "", text)
-    text = re.sub(r"\\[a-z0-9*]+", " ", text)
+    text = USFM_FOOTNOTE_RE.sub("", text)
+    text = USFM_XREF_RE.sub("", text)
+    text = USFM_MARKUP_BARE_RE.sub(" ", text)
     text = text.replace("~", " ")
     return normalize_space(text)
 
@@ -636,19 +649,19 @@ def decode_tsk_blob(bzv: bytes, bzs: bytes, bzz: bytes, index: int, cache: Dict[
 
 
 def extract_tsk_crossrefs(raw_text: str) -> Tuple[List[str], Optional[str]]:
-    refs = [normalize_space(html.unescape(item)) for item in re.findall(r"<reference\b[^>]*>(.*?)</reference>", raw_text, flags=re.S)]
+    refs = [normalize_space(html.unescape(item)) for item in TSK_REFERENCE_RE.findall(raw_text)]
     refs = [item for item in refs if item]
-    note_text = re.sub(r"<reference\b[^>]*>.*?</reference>", " ", raw_text, flags=re.S)
-    note_text = re.sub(r"</?(hi|div|title|catchWord)\b[^>]*>", " ", note_text)
-    note_text = re.sub(r"<lb\b[^>]*>", " ", note_text)
-    note_text = re.sub(r"<[^>]+>", " ", note_text)
+    note_text = TSK_REFERENCE_TAG_RE.sub(" ", raw_text)
+    note_text = TSK_INLINE_TAG_RE.sub(" ", note_text)
+    note_text = TSK_LINE_BREAK_RE.sub(" ", note_text)
+    note_text = XML_TAG_RE.sub(" ", note_text)
     note_text = normalize_space(html.unescape(note_text)).strip(" ;,")
     if note_text:
-        note_text = re.sub(r"\s*;\s*", "; ", note_text)
-        note_text = re.sub(r"\s*,\s*", ", ", note_text)
-        note_text = re.sub(r"(?:,\s*){2,}", ", ", note_text)
-        note_text = re.sub(r"(?:;\s*){2,}", "; ", note_text)
-        note_text = re.sub(r"\b([A-Za-z]+)(?:\s+\1\b)+", r"\1", note_text)
+        note_text = SEMICOLON_SPACE_RE.sub("; ", note_text)
+        note_text = COMMA_SPACE_RE.sub(", ", note_text)
+        note_text = DUPLICATE_COMMA_RE.sub(", ", note_text)
+        note_text = DUPLICATE_SEMICOLON_RE.sub("; ", note_text)
+        note_text = DUPLICATE_WORD_RE.sub(r"\1", note_text)
     return list(dict.fromkeys(refs)), note_text or None
 
 
@@ -1029,7 +1042,7 @@ def canonicalize_cross_references(refs: List[str]) -> List[str]:
     return compress_cross_reference_ranges(sorted(unique, key=sort_cross_reference_key))
 
 
-def select_display_cross_references(refs: List[str], normal_limit: Optional[int] = None) -> List[str]:
+def thin_display_cross_references(refs: List[str], normal_limit: Optional[int] = None) -> List[str]:
     # Records canonicalize once during merge; renderers only need optional thinning.
     canonical_refs = [ref for ref in refs if ref]
     if not normal_limit or len(canonical_refs) <= normal_limit:
@@ -1219,18 +1232,19 @@ def render_markdown(
             flush_paragraph()
             lines.append(f"*{record.section}*")
             lines.append("")
+        ref = record.ref
         paragraph_bits.append(f"{verse_number(record.verse)} {record.text}")
         if not crossrefs_only:
             for note in record.footnotes:
-                paragraph_notes.append(f"{record.ref} Brenton note: {note}")
+                paragraph_notes.append(f"{ref} Brenton note: {note}")
             for note in record.study_notes:
-                paragraph_notes.append(f"{record.ref} {note}")
-        display_crossrefs = select_display_cross_references(
+                paragraph_notes.append(f"{ref} {note}")
+        display_crossrefs = thin_display_cross_references(
             record.cross_references,
             NORMAL_CROSSREF_LIMIT if normal_crossrefs else None,
         )
         if display_crossrefs:
-            paragraph_notes.append(f"{record.ref} Cross-refs: {'; '.join(display_crossrefs)}")
+            paragraph_notes.append(f"{ref} Cross-refs: {'; '.join(display_crossrefs)}")
     flush_paragraph()
     if APPENDIX_MD.exists():
         lines.append("")
@@ -1303,10 +1317,11 @@ def render_pdf_excerpt(records: List[VerseRecord], markdown_path: Path) -> Optio
         if record.paragraph_start:
             flush()
         para_parts.append(f"<super>{record.verse}</super> {record.text}")
+        ref = record.ref
         for note in record.footnotes:
-            note_parts.append(f"{record.ref} Brenton note: {note}")
+            note_parts.append(f"{ref} Brenton note: {note}")
         for note in record.study_notes:
-            note_parts.append(f"{record.ref} {note}")
+            note_parts.append(f"{ref} {note}")
     flush()
     doc.build(story)
     return pdf_path
@@ -1411,17 +1426,11 @@ def render_latex_intro(row: Dict[str, str]) -> List[str]:
     return lines
 
 
-def verse_layout_tier(record: VerseRecord) -> str:
-    note_text = " ".join(record.footnotes + record.study_notes)
-    crossref_text = "; ".join(record.cross_references)
-    combined_load = len(record.text) + len(note_text) + len(crossref_text)
-    crossref_count = len(record.cross_references)
+def verse_layout_tier(combined_load: int, crossref_count: int) -> str:
     if crossref_count <= 4 and combined_load <= 450:
         return "normal"
     if crossref_count >= EXTREME_CROSSREF_THRESHOLD or combined_load >= EXTREME_COMBINED_LOAD_THRESHOLD:
         return "extreme"
-    if crossref_count >= HEAVY_CROSSREF_THRESHOLD:
-        return "heavy"
     return "heavy"
 
 
@@ -1437,15 +1446,8 @@ def format_textual_paragraph_item(record: VerseRecord) -> str:
     return marker + r"\," + " ".join(latex_escape(note) for note in notes)
 
 
-def format_latex_margin_refs(record: VerseRecord, tier: str) -> str:
-    refs = list(dict.fromkeys(ref.strip() for ref in record.cross_references if ref.strip()))
-    if not refs:
-        return ""
-    return ""
-
-
 def format_crossref_paragraph_item(record: VerseRecord, normal_crossrefs: bool = False) -> str:
-    refs = select_display_cross_references(
+    refs = thin_display_cross_references(
         record.cross_references,
         NORMAL_CROSSREF_LIMIT if normal_crossrefs else None,
     )
@@ -1670,22 +1672,29 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
     for record in records:
         note_text = " ".join(record.footnotes + record.study_notes)
         crossref_text = "; ".join(record.cross_references)
+        crossref_count = len(record.cross_references)
+        combined_load = len(record.text) + len(note_text) + len(crossref_text)
         rows.append(
             {
                 "ref": record.ref,
                 "source": record.source,
-                "tier": verse_layout_tier(record),
+                "tier": verse_layout_tier(combined_load, crossref_count),
                 "text_chars": len(record.text),
                 "footnote_count": len(record.footnotes) + len(record.study_notes),
                 "footnote_chars": len(note_text),
-                "crossref_count": len(record.cross_references),
+                "crossref_count": crossref_count,
                 "crossref_chars": len(crossref_text),
-                "combined_load": len(record.text) + len(note_text) + len(crossref_text),
+                "combined_load": combined_load,
             }
         )
 
     def top_by(key: str, limit: int = 25) -> List[Dict[str, object]]:
-        return nsmallest(limit, rows, key=lambda row: (-int(row[key]), str(row["ref"])))
+        return nsmallest(limit, rows, key=lambda row: (-row[key], row["ref"]))
+
+    margin_ref_exceeders = [
+        row for row in rows
+        if row["crossref_count"] > MAX_MARGIN_REFS_DISPLAY
+    ]
 
     return {
         "top_footnote_char_verses": top_by("footnote_chars"),
@@ -1704,10 +1713,11 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
             "heavy": sum(1 for row in rows if row["tier"] == "heavy"),
             "extreme": sum(1 for row in rows if row["tier"] == "extreme"),
         },
-        "verses_exceeding_margin_ref_cap": [
-            row for row in nsmallest(100, rows, key=lambda row: (-int(row["crossref_count"]), str(row["ref"])))
-            if int(row["crossref_count"]) > MAX_MARGIN_REFS_DISPLAY
-        ],
+        "verses_exceeding_margin_ref_cap": nsmallest(
+            100,
+            margin_ref_exceeders,
+            key=lambda row: (-row["crossref_count"], row["ref"]),
+        ),
     }
 
 
