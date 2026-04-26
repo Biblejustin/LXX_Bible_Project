@@ -19,7 +19,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever foreigner calls upon you for, so that all peoples of earth may know your name and fear you as your people Israel and know that your name is called upon this house which I built.
+- fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever a foreigner calls upon you for, so that all the peoples of the earth may know your name and fear you as your people Israel do, and know that your name is called upon this house which I built.
 
 ## 2 Samuel 20:1
 - family: `call-on-name-formula`
@@ -43,7 +43,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `revised`
 - needs followup: `no`
-- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 
 ## Psalms 98:6
 - family: `call-on-name-formula`
@@ -51,7 +51,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on Lord, and he heard them.
+- fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on the Lord, and he heard them.
 
 ## Jeremiah 7:11
 - family: `name-there-formula`
@@ -59,4 +59,4 @@ Unresolved: 0
 - dominant bucket: `called-there`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
+- fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.

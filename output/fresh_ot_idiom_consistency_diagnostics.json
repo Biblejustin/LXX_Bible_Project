@@ -14,8 +14,8 @@
       "description": "Name formula with 'upon' language for house/people/object.",
       "row_count": "9",
       "dominant_bucket": "called-upon",
-      "dominant_count": "4",
-      "bucket_summary": "other=5, called-upon=4"
+      "dominant_count": "3",
+      "bucket_summary": "other=6, called-upon=3"
     },
     {
       "family": "call-on-name-formula",

@@ -259,7 +259,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Nehemiah
 
-**Nehemiah 1:1** Words of Nehemiah son of Hachaliah. And it came to be in month Chisleu, twentieth year, and I was in Shushan the citadel.
+**Nehemiah 1:1** The words of Nehemiah son of Hachaliah. And it came to be in the month of Chisleu, in the twentieth year, and I was in Shushan the citadel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
@@ -320,14 +320,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 22
 
-**Psalms 1:3** And he will be like tree planted by outlets of waters, which will give its fruit in its season, and its leaf will not wither, and all things whatever he does will prosper.
+**Psalms 1:3** And he will be like a tree planted by outlets of waters, which will give its fruit in its season, and its leaf will not wither, and all things whatever he does will prosper.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
 
 ## Proverbs
 
-**Proverbs 1:1** Proverbs of Solomon son of David, who reigned in Israel.
+**Proverbs 1:1** The Proverbs of Solomon son of David, who reigned in Israel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
@@ -344,7 +344,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ecclesiastes
 
-**Ecclesiastes 1:1** Words of Ecclesiastes, son of David, king of Israel in Jerusalem.
+**Ecclesiastes 1:1** The words of Ecclesiastes, son of David, king of Israel in Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 12
@@ -361,7 +361,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Song of Solomon
 
-**Song of Solomon 1:1** Song of songs, which is Solomon's.
+**Song of Solomon 1:1** The Song of Songs, which is Solomon's.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
@@ -378,7 +378,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Isaiah
 
-**Isaiah 1:1** Vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in the reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
+**Isaiah 1:1** The vision which Isaiah son of Amoz saw, which he saw against Judah and against Jerusalem in the reign of Uzziah and Jotham and Ahaz and Hezekiah, who reigned over Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 20
@@ -395,7 +395,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jeremiah
 
-**Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from priests dwelling in Anathoth in the land of Benjamin,
+**Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from the priests dwelling in Anathoth in the land of Benjamin,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
@@ -429,7 +429,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Ezekiel
 
-**Ezekiel 1:1** And it happened in thirtieth year, in the fourth month, on the fifth of the month, and I was in the midst of captivity by the river Chebar, and heavens were opened and I saw visions of God.
+**Ezekiel 1:1** And it happened in the thirtieth year, in the fourth month, on the fifth of the month, and I was in the midst of captivity by the river Chebar, and the heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 31
@@ -468,7 +468,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**Hosea 1:2** Beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+**Hosea 1:2** The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19
@@ -497,7 +497,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Amos
 
-**Amos 1:1** Words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake.
+**Amos 1:1** The words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 22
@@ -514,7 +514,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Obadiah
 
-**Obadiah 1:1** Vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to nations: Rise, and let us rise against her for war.
+**Obadiah 1:1** The vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to the nations: Rise, and let us rise against her for war.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
@@ -524,7 +524,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 8
 
-**Obadiah 1:3** Arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
+**Obadiah 1:3** The arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -536,7 +536,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 5
 
-**Jonah 1:2** Rise, go to Nineveh, great city, and proclaim in it, because cry of its evil rose up to me.
+**Jonah 1:2** Rise, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
@@ -565,7 +565,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Nahum
 
-**Nahum 1:1** Oracle of Nineveh. Book of vision of Nahum the Elkoshite.
+**Nahum 1:1** Oracle of Nineveh. Book of the vision of Nahum the Elkoshite.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
@@ -582,7 +582,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Habakkuk
 
-**Habakkuk 1:1** Oracle that Habakkuk prophet saw.
+**Habakkuk 1:1** Oracle that Habakkuk the prophet saw.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
@@ -616,7 +616,7 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Haggai
 
-**Haggai 1:1** In the second year of Darius king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the great priest, saying,
+**Haggai 1:1** In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
@@ -626,14 +626,14 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Haggai 1:3** The word of the Lord came by the hand of Haggai prophet, saying,
+**Haggai 1:3** The word of the Lord came by the hand of Haggai the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
 
 ## Zechariah
 
-**Zechariah 1:1** In the eighth month of second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+**Zechariah 1:1** In the eighth month of the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14

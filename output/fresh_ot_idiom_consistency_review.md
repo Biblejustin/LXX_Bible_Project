@@ -16,7 +16,7 @@ Unresolved outliers: 0
 - buckets: called-there=15, other=1
 
 - 2 Chronicles 6:20 [called-there]
-  - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear prayer which your servant prays toward this place.
+  - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
 - 2 Chronicles 12:13 [called-there]
   - fresh: And Rehoboam was strengthened in Jerusalem and reigned. Rehoboam was forty-one years old when he began to reign, and he reigned seventeen years in Jerusalem, in the city which the Lord chose from all the tribes of the sons of Israel to have his name called there, and his mother's name was Naamah the Ammonite.
 - Deuteronomy 12:5 [called-there]
@@ -46,32 +46,32 @@ Unresolved outliers: 0
 - Exodus 20:24 [called-there]
   - fresh: "You shall make me an altar of earth, and upon it you shall sacrifice your whole burnt offerings and your offerings of salvation, your sheep and your calves. In every place where I cause my name to be called, I will come to you and bless you."
 - Jeremiah 7:11 [other]
-  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
+  - fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
 
 ### name-upon-formula
 - description: Name formula with 'upon' language for house/people/object.
 - rows: 9
-- dominant bucket: `called-upon` (4)
-- buckets: other=5, called-upon=4
+- dominant bucket: `called-upon` (3)
+- buckets: other=6, called-upon=3
 
 - 1 Chronicles 28:3 [called-upon]
   - fresh: But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
 - 2 Chronicles 7:14 [other]
   - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
-- Amos 9:12 [called-upon]
-  - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says the Lord God who does these things.
+- Amos 9:12 [other]
+  - fresh: so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
 - Jeremiah 7:10 [other]
   - fresh: and you came and stood before me in the house over which my name has been called and said, We have held back from doing all these abominations—
 - Jeremiah 7:11 [other]
-  - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
+  - fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
 - Jeremiah 7:14 [other]
   - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
 - Jeremiah 7:30 [other]
   - fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 - Jeremiah 14:9 [called-upon]
-  - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
+  - fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - Jeremiah 15:16 [called-upon]
-  - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, Lord Almighty.
+  - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, O Lord Almighty.
 
 ### call-on-name-formula
 - description: Active invocation formula, calling on the divine name.
@@ -86,7 +86,7 @@ Unresolved outliers: 0
 - 1 Kings 18:25 [call-on-name]
   - fresh: And Elijah said to the prophets of the Shame, Choose for yourselves the one calf and prepare it first, because you are many, and call on the name of your god, but put no fire.
 - 2 Chronicles 6:33 [other]
-  - fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever foreigner calls upon you for, so that all peoples of earth may know your name and fear you as your people Israel and know that your name is called upon this house which I built.
+  - fresh: then you shall hear from heaven, from your ready dwelling, and do according to all things whatever a foreigner calls upon you for, so that all the peoples of the earth may know your name and fear you as your people Israel do, and know that your name is called upon this house which I built.
 - 2 Kings 5:11 [call-on-name]
   - fresh: And Naaman grew angry and went away and said, Behold, I said to myself that he would surely come out to me and stand and call on the name of his God and put his hand on the place and remove the skin-diseased part.
 - 2 Samuel 20:1 [other]
@@ -94,17 +94,17 @@ Unresolved outliers: 0
 - Isaiah 64:6 [other]
   - fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
 - Joel 3:5 [other]
-  - fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+  - fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
 - Psalms 74:2 [call-on-name]
   - fresh: We will confess to you, O God, we will confess, and we will call on your name.
 - Psalms 79:19 [call-on-name]
   - fresh: And we will never depart from you; you will make us live, and we will call upon your name.
 - Psalms 98:6 [other]
-  - fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on Lord, and he heard them.
+  - fresh: Moses and Aaron among his priests and Samuel among those calling on his name; they called on the Lord, and he heard them.
 - Psalms 115:4 [call-on-name]
-  - fresh: Cup of salvation I will take, and the name of the Lord I will call upon.
+  - fresh: The cup of salvation I will take, and the name of the Lord I will call upon.
 - Zechariah 13:9 [call-on-name]
-  - fresh: And I will bring third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, the Lord is my God.
+  - fresh: And I will bring the third through fire and refine them as silver is refined and test them as gold is tested. He will call on my name, and I will hear him, and I will say, This is my people, and he will say, The Lord is my God.
 
 ### soteria-sacrifice-formula
 - description: Cultic σωτηρι- terms in sacrificial context.
@@ -253,7 +253,7 @@ Unresolved outliers: 0
 - Numbers 29:39 [salvation]
   - fresh: These things you shall do for the Lord at your feasts, besides your vows and your voluntary offerings and your whole burnt offerings and your sacrifices and your libations and your offerings of salvation.
 - Psalms 49:23 [salvation]
-  - fresh: Sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.
+  - fresh: A sacrifice of praise will glorify me, and there is way by which I will show him salvation of God.
 
 ### into-living-soul-formula
 - description: Predicate εἰς ψυχὴν ζῶσαν / into a living soul, especially Genesis 2:7 and its NT echo.

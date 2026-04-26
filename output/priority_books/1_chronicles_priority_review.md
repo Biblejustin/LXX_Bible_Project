@@ -17,7 +17,7 @@ Selected verses: 6
 ## 1 Chronicles 16:35
 - score: 21
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, holy, name, salvation; crossref_top_vote=8; eng_reco=keep; reco=keep
-- fresh: And say, Save us, God of our salvation, and deliver us from nations, to praise your holy name and to boast in your praises.
+- fresh: And say, Save us, O God of our salvation, and deliver us from the nations, to praise your holy name and to boast in your praises.
 - brenton: And say ye, Save us, O God of our salvation, and gather us, and rescue us from among the heathen, that we may praise thy holy name, and glory in thy praises.
 
 ## 1 Chronicles 16:40

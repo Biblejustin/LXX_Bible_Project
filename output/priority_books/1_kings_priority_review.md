@@ -35,5 +35,5 @@ Selected verses: 6
 ## 1 Kings 20:10
 - score: 20
 - reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, king; crossref_top_vote=5; reco=keep
-- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and king. And let them bring him out and stone him, and let him die.
+- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and the king. And let them bring him out and stone him, and let him die.
 - brenton: And set two men, sons of transgressors, before him, and let them testify against him, saying, He blessed God and the king: and let them lead him forth, and stone him, and let him die.

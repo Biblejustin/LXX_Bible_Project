@@ -17,7 +17,7 @@ Selected verses: 6
 ## Song of Solomon 2:9
 - score: 13
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved; crossref_top_vote=6; reco=keep
-- fresh: My beloved is like gazelle or fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
+- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
 - brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
 
 ## Song of Solomon 3:1
