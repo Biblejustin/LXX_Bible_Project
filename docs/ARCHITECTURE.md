@@ -54,6 +54,16 @@ belong under `output/working/`, which is ignored.
 Do not add a broad `output/` ignore rule unless the project stops using generated
 artifacts as auditable review evidence.
 
+## Build Cache
+
+`scripts/build_fresh_logos_bible.py` caches expensive ingest results under
+`output/working/cache/`, including TSK cross-reference groups, OpenBible
+cross-references, and Brenton USFM footnotes. Cache keys use source-file size and
+mtime plus `INGEST_CACHE_VERSION`; bump that version when parser semantics
+change. Cache state is intentionally omitted from generated diagnostics so
+tracked outputs stay deterministic. Set `FRESH_BIBLE_DISABLE_CACHE=1` to force
+uncached ingest.
+
 ## Private Research Boundary
 
 Private or copyrighted local material must stay in ignored paths:

@@ -6,8 +6,11 @@ from __future__ import annotations
 import argparse
 import csv
 import difflib
+import hashlib
 import html
 import json
+import os
+import pickle
 import re
 import sqlite3
 import sys
@@ -15,14 +18,17 @@ import zipfile
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Callable, Iterable, TypeVar
 from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 
 try:
     from build_study_bible import (
         OPENBIBLE_BOOK_MAP,
+        OPENBIBLE_CROSSREFS_ZIP,
         STANDARD_BOOK_NAMES,
+        BRENTON_ZIP,
+        KJV_V11N_JSON,
         TSK_NT_BOOKS,
         TSK_OT_BOOKS,
         TSK_ZIP,
@@ -38,7 +44,10 @@ try:
 except ImportError:  # pragma: no cover - supports module execution from repo root.
     from scripts.build_study_bible import (
         OPENBIBLE_BOOK_MAP,
+        OPENBIBLE_CROSSREFS_ZIP,
         STANDARD_BOOK_NAMES,
+        BRENTON_ZIP,
+        KJV_V11N_JSON,
         TSK_NT_BOOKS,
         TSK_OT_BOOKS,
         TSK_ZIP,
@@ -58,6 +67,8 @@ DATA = ROOT / "data"
 RAW = DATA / "raw"
 RESEARCH = DATA / "research"
 OUTPUT = ROOT / "output" / "logos"
+CACHE_DIR = ROOT / "output" / "working" / "cache"
+INGEST_CACHE_VERSION = "fresh-logos-ingest-v1"
 
 csv.field_size_limit(sys.maxsize)
 
@@ -80,6 +91,90 @@ DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 
 DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
 DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
+
+T = TypeVar("T")
+
+
+def ingest_cache_enabled() -> bool:
+    value = os.environ.get("FRESH_BIBLE_DISABLE_CACHE", "").strip().casefold()
+    return value not in {"1", "true", "yes", "on"}
+
+
+def cache_relative_path(path: Path) -> str:
+    try:
+        return path.resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
+def file_cache_fingerprint(path: Path) -> dict[str, object]:
+    if not path.exists():
+        return {
+            "path": cache_relative_path(path),
+            "exists": False,
+            "size": None,
+            "mtime_ns": None,
+        }
+    stat = path.stat()
+    return {
+        "path": cache_relative_path(path),
+        "exists": True,
+        "size": stat.st_size,
+        "mtime_ns": stat.st_mtime_ns,
+    }
+
+
+def ingest_cache_key(label: str, dependencies: Iterable[Path], params: dict[str, object]) -> str:
+    payload = {
+        "version": INGEST_CACHE_VERSION,
+        "label": label,
+        "params": params,
+        "dependencies": [file_cache_fingerprint(path) for path in dependencies],
+    }
+    return hashlib.sha256(json.dumps(payload, sort_keys=True).encode("utf-8")).hexdigest()
+
+
+def cached_ingest_result(
+    label: str,
+    dependencies: Iterable[Path],
+    params: dict[str, object],
+    producer: Callable[[], T],
+) -> tuple[T, dict[str, object]]:
+    enabled = ingest_cache_enabled()
+    diagnostics: dict[str, object] = {
+        "enabled": enabled,
+        "version": INGEST_CACHE_VERSION,
+    }
+    if not enabled:
+        return producer(), diagnostics
+
+    key = ingest_cache_key(label, dependencies, params)
+    cache_path = CACHE_DIR / f"{label}-{key}.pickle"
+    diagnostics.update(
+        {
+            "key": key[:16],
+            "path": cache_relative_path(cache_path),
+            "hit": False,
+        }
+    )
+    if cache_path.exists():
+        try:
+            with cache_path.open("rb") as handle:
+                return pickle.load(handle), {**diagnostics, "hit": True}
+        except Exception as exc:
+            diagnostics["read_error"] = f"{type(exc).__name__}: {exc}"
+
+    result = producer()
+    try:
+        CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        tmp_path = cache_path.with_suffix(cache_path.suffix + ".tmp")
+        with tmp_path.open("wb") as handle:
+            pickle.dump(result, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        os.replace(tmp_path, cache_path)
+        diagnostics["written"] = True
+    except Exception as exc:
+        diagnostics["write_error"] = f"{type(exc).__name__}: {exc}"
+    return result, diagnostics
 
 TESTAMENT_CONFIG = {
     "ot": {
@@ -1687,6 +1782,32 @@ def parse_tsk_crossref_groups(
     return dict(grouped), diagnostics
 
 
+def cached_tsk_crossref_groups(
+    testament: str,
+) -> tuple[dict[tuple[str, int, int], list[CrossReferenceNote]], dict[str, object]]:
+    result, _cache_diag = cached_ingest_result(
+        "tsk-crossref-groups",
+        [TSK_ZIP, KJV_V11N_JSON],
+        {"testament": testament},
+        lambda: parse_tsk_crossref_groups(testament),
+    )
+    grouped, diagnostics = result
+    return grouped, diagnostics
+
+
+def cached_openbible_crossrefs(
+    limit_per_verse: int,
+) -> tuple[dict[tuple[str, int, int], list[str]], dict[str, object]]:
+    result, _cache_diag = cached_ingest_result(
+        "openbible-crossrefs",
+        [OPENBIBLE_CROSSREFS_ZIP],
+        {"limit_per_verse": limit_per_verse},
+        lambda: parse_openbible_crossrefs(limit_per_verse=limit_per_verse),
+    )
+    grouped, diagnostics = result
+    return grouped, diagnostics
+
+
 def build_crossrefs_for_verses(
     verses: list[Verse],
     testament: str,
@@ -1702,8 +1823,8 @@ def build_crossrefs_for_verses(
             "crossref_note_groups": 0,
             "total_crossrefs_after_canonicalization": 0,
         }
-    tsk_refs, tsk_diag = parse_tsk_crossref_groups(testament)
-    open_refs, open_diag = parse_openbible_crossrefs(limit_per_verse=9999)
+    tsk_refs, tsk_diag = cached_tsk_crossref_groups(testament)
+    open_refs, open_diag = cached_openbible_crossrefs(limit_per_verse=9999)
     by_ref: dict[str, list[CrossReferenceNote]] = {}
     source_counts = Counter()
     total_refs = 0
@@ -1804,6 +1925,17 @@ def add_supplemental_note(
     counts[f"{source}_included"] += 1
 
 
+def cached_brenton_usfm() -> tuple[list[Any], dict[str, object]]:
+    result, _cache_diag = cached_ingest_result(
+        "brenton-usfm",
+        [BRENTON_ZIP],
+        {},
+        parse_brenton_usfm,
+    )
+    records, diagnostics = result
+    return records, diagnostics
+
+
 def load_brenton_supplemental_notes(
     verses: list[Verse],
 ) -> tuple[dict[str, list[SupplementalNote]], dict[str, object]]:
@@ -1812,7 +1944,7 @@ def load_brenton_supplemental_notes(
     counts: Counter[str] = Counter()
     seen: set[tuple[str, str]] = set()
 
-    brenton_records, brenton_diag = parse_brenton_usfm()
+    brenton_records, brenton_diag = cached_brenton_usfm()
     counts["brenton_verse_records"] = len(brenton_records)
     for record in brenton_records:
         for footnote in record.footnotes:

@@ -8,6 +8,7 @@ import csv
 import json
 import re
 from collections import Counter, defaultdict
+from functools import lru_cache
 from pathlib import Path
 
 
@@ -18,6 +19,14 @@ DEFAULT_REVIEW_QUEUE = ROOT / "output" / "nt_tr_literal_revision_review_queue.cs
 
 REVIEW_COLUMNS = ["ukjv_translation", "review_status", "review_notes"]
 STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
+SPACE_RE = re.compile(r"\s+")
+SPACE_BEFORE_PUNCT_RE = re.compile(r"\s+([,.;:?!])")
+SENTENCE_JOIN_RE = re.compile(r"([.!?])([A-Z])")
+
+
+@lru_cache(maxsize=None)
+def cached_regex(pattern: str, flags: int = 0) -> re.Pattern[str]:
+    return re.compile(pattern, flags)
 
 NT_PROPER_NAME_REPLACEMENTS = [
     ("Phares", "Perez"),
@@ -87,15 +96,15 @@ NT_CONTEXTUAL_PROPER_NAME_REPLACEMENTS = {
 
 
 def greek_has_stem(greek: str, *stems: str) -> bool:
-    return any(re.search(rf"(?<!\S){re.escape(stem)}\w*", greek) for stem in stems)
+    return any(cached_regex(rf"(?<!\S){re.escape(stem)}\w*").search(greek) for stem in stems)
 
 
 def greek_has_token_part(greek: str, *parts: str) -> bool:
-    return any(re.search(rf"(?<!\S)\w*{re.escape(part)}\w*", greek) for part in parts)
+    return any(cached_regex(rf"(?<!\S)\w*{re.escape(part)}\w*").search(greek) for part in parts)
 
 
 def greek_has_phrase(greek: str, phrase: str) -> bool:
-    return re.search(rf"(?<!\S){re.escape(phrase)}(?!\S)", greek) is not None
+    return cached_regex(rf"(?<!\S){re.escape(phrase)}(?!\S)").search(greek) is not None
 
 
 def load_rows(path: Path) -> tuple[list[dict[str, str]], list[str]]:
@@ -124,14 +133,14 @@ def replace_literal(
     *,
     flags: int = 0,
 ) -> str:
-    new_text, count = re.subn(pattern, replacement, text, flags=flags)
+    new_text, count = cached_regex(pattern, flags).subn(replacement, text)
     if count:
         notes.append(note)
     return new_text
 
 
 def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
-    pattern = rf"\b{re.escape(old)}\b"
+    pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
 
     def repl(match: re.Match[str]) -> str:
         value = match.group(0)
@@ -141,15 +150,15 @@ def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> 
             return new[:1].upper() + new[1:]
         return new
 
-    new_text, count = re.subn(pattern, repl, text, flags=re.I)
+    new_text, count = pattern.subn(repl, text)
     if count:
         notes.append(note)
     return new_text
 
 
 def replace_word_fixed(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
-    pattern = rf"\b{re.escape(old)}\b"
-    new_text, count = re.subn(pattern, new, text, flags=re.I)
+    pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
+    new_text, count = pattern.subn(new, text)
     if count:
         notes.append(note)
     return new_text
@@ -166,11 +175,11 @@ def apply_proper_name_revisions(row: dict[str, str], text: str, notes: list[str]
 
 
 def clean_spacing(text: str) -> str:
-    text = re.sub(r"\s+", " ", text).strip()
-    text = re.sub(r"\s+([,.;:?!])", r"\1", text)
-    text = re.sub(r"([.!?])([A-Z])", r"\1 \2", text)
-    text = re.sub(r"\bA overseer\b", "An overseer", text)
-    text = re.sub(r"\ba overseer\b", "an overseer", text)
+    text = SPACE_RE.sub(" ", text).strip()
+    text = SPACE_BEFORE_PUNCT_RE.sub(r"\1", text)
+    text = SENTENCE_JOIN_RE.sub(r"\1 \2", text)
+    text = cached_regex(r"\bA overseer\b").sub("An overseer", text)
+    text = cached_regex(r"\ba overseer\b").sub("an overseer", text)
     return text
 
 
