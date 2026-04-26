@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 723
+Rows: 724
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -245,6 +245,15 @@ Rows: 723
 - mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
 - brenton: and said,
 
+## Ecclesiastes 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.020`
+- fresh: Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
+- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
+
 ## 2 Samuel 15:24
 - priority: `0`
 - importance: `none`
@@ -371,6 +380,15 @@ Rows: 723
 - mt: And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment.
 - brenton: And the king of Syria said to Naiman, Go to, go, and I will send a letter to the king of Israel. And he went, and took in his hand ten talents of silver, and six thousand pieces of gold, and ten changes of raiment.
 
+## Jeremiah 3:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.774`
+- fresh_brenton_ratio: `0.073`
+- fresh: We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
+- mt: We lie down in our shame, and our confusion covers us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God.
+- brenton: We have lain down in our shame, and our disgrace has covered us: because we and our fathers have sinned before our God, from our youth until this day; and we have not hearkened to the voice of the Lord our God.
+
 ## Numbers 3:27
 - priority: `0`
 - importance: `none`
@@ -397,15 +415,6 @@ Rows: 723
 - fresh: And they waited until they were ashamed, and behold, there was no one opening the doors of the upper room. And they took the key and opened them, and behold, their lord had fallen dead upon the ground.
 - mt: And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.
 - brenton: And they waited till they were ashamed, and, behold, there was no one that opened the doors of the upper chamber; and they took the key, and opened them; and, behold, their lord was fallen down dead upon the earth.
-
-## Jeremiah 3:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.761`
-- fresh_brenton_ratio: `0.073`
-- fresh: We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey voice of the Lord our God.
-- mt: We lie down in our shame, and our confusion covers us: for we have sinned against the LORD our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the LORD our God.
-- brenton: We have lain down in our shame, and our disgrace has covered us: because we and our fathers have sinned before our God, from our youth until this day; and we have not hearkened to the voice of the Lord our God.
 
 ## 2 Chronicles 6:23
 - priority: `0`

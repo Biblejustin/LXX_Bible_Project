@@ -977,7 +977,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because Holy One of Israel is faithful, and he chose you.
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ## Jeremiah 14:9
@@ -2297,7 +2297,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame = glory and grace.
+- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
 - brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
 
 ## Proverbs 3:9

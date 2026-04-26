@@ -58,6 +58,7 @@ def test_fresh_source_csv_shapes() -> None:
     assert SOURCE_COLUMNS | {"ukjv_translation", "review_status", "review_notes"} <= set(nt_rows[0])
     assert ot_rows[0]["ref"] == "Genesis 1:1"
     assert nt_rows[0]["ref"] == "Matthew 1:1"
+    assert not [row["ref"] for row in ot_rows if " = " in row["draft_translation"]]
     assert [row["ref"] for row in ot_rows if row["greek_text"] == "MT-only insertion; no LXX Greek row"] == [
         f"Jeremiah 40:{verse}" for verse in range(14, 27)
     ]
@@ -2912,7 +2913,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "A wise servant calms the anger of a man"
     )
     assert by_ref["Proverbs 21:18"]["draft_translation"].startswith(
-        "A lawless man = purging-scrap for the righteous"
+        "A lawless man is purging-scrap for the righteous"
     )
     assert by_ref["Ecclesiastes 4:5"]["draft_translation"].startswith(
         "A fool folded his hands"
@@ -3212,6 +3213,16 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "In the fortieth year" in by_ref["1 Chronicles 26:31"]["draft_translation"]
     assert "and the Holy One" in by_ref["Habakkuk 3:3"]["draft_translation"]
     assert "covered the heavens" in by_ref["Habakkuk 3:3"]["draft_translation"]
+    assert "O Holy One of Israel" in by_ref["Psalms 70:22"]["draft_translation"]
+    assert "provoked the Holy One of Israel" in by_ref["Psalms 77:41"]["draft_translation"]
+    assert "to the Holy One of Israel" in by_ref["Psalms 88:19"]["draft_translation"]
+    assert "You abandoned the Lord and provoked the Holy One of Israel" in by_ref[
+        "Isaiah 1:4"
+    ]["draft_translation"]
+    assert "said the Holy One" in by_ref["Isaiah 40:25"]["draft_translation"]
+    assert "God, the Holy One of Israel" in by_ref["Isaiah 43:3"]["draft_translation"]
+    assert "your Holy One" in by_ref["Isaiah 43:15"]["draft_translation"]
+    assert "my Holy One" in by_ref["Habakkuk 1:12"]["draft_translation"]
     assert "those seeing the sun" in by_ref["Ecclesiastes 7:11"]["draft_translation"]
     assert by_ref["Jeremiah 12:1"]["draft_translation"].startswith("You are righteous")
     assert "way of the ungodly" in by_ref["Jeremiah 12:1"]["draft_translation"]
@@ -3220,6 +3231,152 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "dwellers on the earth" in by_ref["Isaiah 24:17"]["draft_translation"]
     assert by_ref["Proverbs 13:9"]["draft_translation"].startswith("There is light")
     assert by_ref["Proverbs 24:21"]["draft_translation"].startswith("My son, fear God")
+    assert "all kings of the earth were seeking the face of Solomon" in by_ref[
+        "2 Chronicles 9:23"
+    ]["draft_translation"]
+    assert by_ref["Job 9:24"]["draft_translation"].startswith("For the earth is given")
+    assert "the earth is a house for every mortal" in by_ref["Job 30:23"]["draft_translation"]
+    assert "the heavens were made firm" in by_ref["Psalms 32:6"]["draft_translation"]
+    assert "kings of the earth" in by_ref["Psalms 75:13"]["draft_translation"]
+    assert "foundations of the earth" in by_ref["Isaiah 24:18"]["draft_translation"]
+    assert "upon the host of heaven and upon kings of the earth" in by_ref[
+        "Isaiah 24:21"
+    ]["draft_translation"]
+    assert "if the foundation of the earth" in by_ref["Jeremiah 38:35"][
+        "draft_translation"
+    ]
+    assert "all nations of the earth" in by_ref["Zechariah 12:3"]["draft_translation"]
+    assert by_ref["Psalms 10:4"]["draft_translation"].startswith(
+        "The Lord is in his holy temple; the Lord's throne is in heaven."
+    )
+    assert "The Lord in his anger will trouble them" in by_ref["Psalms 20:10"][
+        "draft_translation"
+    ]
+    assert by_ref["Psalms 95:9"]["draft_translation"].startswith(
+        "Worship the Lord in his holy court"
+    )
+    assert by_ref["Psalms 144:13"]["draft_translation"].endswith(
+        "Faithful is the Lord in his words and holy in all his works."
+    )
+    assert "the earth shook" in by_ref["Judges 5:4"]["draft_translation"]
+    assert "upon the earth?" in by_ref["2 Chronicles 6:18"]["draft_translation"]
+    assert "dust of the earth" in by_ref["2 Chronicles 1:9"]["draft_translation"]
+    assert "dust of the earth" in by_ref["Job 14:19"]["draft_translation"]
+    assert "but the earth he gave" in by_ref["Psalms 113:24"]["draft_translation"]
+    assert "crushing of the daughter of my kin" in by_ref["Isaiah 22:4"][
+        "draft_translation"
+    ]
+    assert "from the heads of father-houses" in by_ref["Ezra 2:68"][
+        "draft_translation"
+    ]
+    assert "forecourt of the gate of the house" in by_ref["Ezekiel 8:14"][
+        "draft_translation"
+    ]
+    assert "porch of the gate" in by_ref["Ezekiel 40:9"]["draft_translation"]
+    assert "throne of the kingdom of the Lord" in by_ref["1 Chronicles 28:5"][
+        "draft_translation"
+    ]
+    assert "spirit of the courts of the house" in by_ref["1 Chronicles 28:12"][
+        "draft_translation"
+    ]
+    assert "made the house of the holy of holies" in by_ref["2 Chronicles 3:8"][
+        "draft_translation"
+    ]
+    assert "for the judgment of the Lord" in by_ref["2 Chronicles 19:8"][
+        "draft_translation"
+    ]
+    assert "not in the tombs of kings" in by_ref["2 Chronicles 21:20"][
+        "draft_translation"
+    ]
+    assert "according to the covenant of the law of the Lord" in by_ref[
+        "2 Chronicles 25:4"
+    ]["draft_translation"]
+    assert "according to the abominations of nations" in by_ref["2 Chronicles 28:3"][
+        "draft_translation"
+    ]
+    assert "gods of the nations of the earth" in by_ref["2 Chronicles 32:17"][
+        "draft_translation"
+    ]
+    assert "commanders of the force of the king" in by_ref["2 Chronicles 33:11"][
+        "draft_translation"
+    ]
+    assert "rulers of the earth" in by_ref["Job 12:24"]["draft_translation"]
+    assert "under the sun" in by_ref["Ecclesiastes 1:3"]["draft_translation"]
+    assert "the daughter of my people" in by_ref["Jeremiah 4:11"][
+        "draft_translation"
+    ]
+    assert by_ref["Ezra 1:5"]["draft_translation"].startswith(
+        "Then the heads of father-houses"
+    )
+    assert "chiefs of the houses of fathers" in by_ref["1 Chronicles 7:7"][
+        "draft_translation"
+    ]
+    assert "chiefs of the father-houses of priests" in by_ref[
+        "1 Chronicles 24:6"
+    ]["draft_translation"]
+    assert "house of the tombs of my fathers" in by_ref["Nehemiah 2:3"][
+        "draft_translation"
+    ]
+    assert "of the words of the king" in by_ref["Nehemiah 2:18"][
+        "draft_translation"
+    ]
+    assert "the hand of the peoples of the land" in by_ref["Nehemiah 9:30"][
+        "draft_translation"
+    ]
+    assert "the judgments of your righteousness" in by_ref["Psalms 118:7"][
+        "draft_translation"
+    ]
+    assert "from the day of your fall" in by_ref["Ezekiel 26:18"][
+        "draft_translation"
+    ]
+    assert "Lord's anger" in by_ref["Numbers 32:14"]["draft_translation"]
+    assert "from the strength of your hand" in by_ref["Psalms 38:11"][
+        "draft_translation"
+    ]
+    assert "by the multitude of his strength" in by_ref["Psalms 32:16"][
+        "draft_translation"
+    ]
+    assert "breath of the spirit of your wrath" in by_ref["Psalms 17:16"][
+        "draft_translation"
+    ]
+    assert "under the sun, the number of days" in by_ref["Ecclesiastes 2:3"][
+        "draft_translation"
+    ]
+    assert "for the number of days" in by_ref["Ezekiel 4:5"]["draft_translation"]
+    assert "with the sun and before the moon" in by_ref["Psalms 71:5"][
+        "draft_translation"
+    ]
+    assert "Seven times a day" in by_ref["Psalms 118:164"]["draft_translation"]
+    assert "on the day when the Lord rescued him" in by_ref["Psalms 17:1"][
+        "draft_translation"
+    ]
+    assert "by day and by night" in by_ref["Ecclesiastes 8:16"][
+        "draft_translation"
+    ]
+    assert "as on the day of Midian" in by_ref["Isaiah 9:3"]["draft_translation"]
+    assert "the race is not to the swift" in by_ref["Ecclesiastes 9:11"][
+        "draft_translation"
+    ]
+    assert "did not hear the voice of tax-collector" in by_ref["Job 3:18"]["draft_translation"]
+    assert by_ref["Job 4:10"]["draft_translation"].startswith("The strength of a lion")
+    assert "the Lord with the voice of a trumpet" in by_ref["Psalms 46:6"]["draft_translation"]
+    assert "will not hear the voice of charmers" in by_ref["Psalms 57:6"]["draft_translation"]
+    assert "the Lord will hear the voice of my supplication" in by_ref[
+        "Psalms 114:1"
+    ]["draft_translation"]
+    assert "the voice of a turtledove was heard" in by_ref[
+        "Song of Solomon 2:12"
+    ]["draft_translation"]
+    assert "by the voice of the Lord" in by_ref["Isaiah 30:31"]["draft_translation"]
+    assert by_ref["Isaiah 66:6"]["draft_translation"].startswith(
+        "The voice of a cry from the city"
+    )
+    assert "did not obey the voice of the Lord" in by_ref["Jeremiah 3:25"][
+        "draft_translation"
+    ]
+    assert by_ref["Jeremiah 49:6"]["draft_translation"].startswith(
+        "Whether good or evil, the voice of the Lord"
+    )
     assert by_ref["Ecclesiastes 7:19"]["draft_translation"].startswith(
         "Wisdom will help the wise"
     )
@@ -3330,7 +3487,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "provoked the words of God" in by_ref["Psalms 106:11"]["draft_translation"]
     assert "All the words of God refined" in by_ref["Proverbs 30:5"]["draft_translation"]
     assert "The words of the wise in quiet" in by_ref["Ecclesiastes 9:17"]["draft_translation"]
-    assert "The words of the wise = as goads" in by_ref["Ecclesiastes 12:11"]["draft_translation"]
+    assert "The words of the wise are as goads" in by_ref["Ecclesiastes 12:11"]["draft_translation"]
     assert "all the words of the Lord which he answered" in by_ref["Jeremiah 43:4"]["draft_translation"]
     assert "read in the scroll the words of the Lord" in by_ref["Jeremiah 43:8"]["draft_translation"]
     assert "did not hear the words of the Lord" in by_ref["Jeremiah 44:2"]["draft_translation"]
@@ -3741,7 +3898,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by the name of God" in by_ref["Proverbs 30:9"]["draft_translation"]
     assert "in the womb of a pregnant woman" in by_ref["Ecclesiastes 11:5"]["draft_translation"]
     assert "by the king of the Assyrians" in by_ref["Isaiah 7:20"]["draft_translation"]
-    assert "into the foundations of earth" in by_ref["Isaiah 14:15"]["draft_translation"]
+    assert "into the foundations of the earth" in by_ref["Isaiah 14:15"]["draft_translation"]
     assert "from the king of the Assyrians" in by_ref["Isaiah 20:6"]["draft_translation"]
     assert "in the glory of the Lord" in by_ref["Isaiah 24:14"]["draft_translation"]
     assert "from the produce of your land" in by_ref["Isaiah 30:23"]["draft_translation"]
@@ -3987,7 +4144,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "give the land of Canaan" in by_ref["1 Chronicles 16:18"]["draft_translation"]
     assert "may the name of God of Jacob" in by_ref["Psalms 19:2"]["draft_translation"]
     assert "gladden the city of God" in by_ref["Psalms 45:5"]["draft_translation"]
-    assert by_ref["Psalms 46:6"]["draft_translation"].endswith("Lord in voice of a trumpet.")
+    assert by_ref["Psalms 46:6"]["draft_translation"].endswith(
+        "the Lord with the voice of a trumpet."
+    )
     assert by_ref["Isaiah 24:14"]["draft_translation"].endswith("the water of the sea will be troubled.")
     assert "behind the whole house of Judah" in by_ref["Nehemiah 4:10"]["draft_translation"]
     assert "the house of Israel and the house of Judah" in by_ref["Jeremiah 38:31"]["draft_translation"]

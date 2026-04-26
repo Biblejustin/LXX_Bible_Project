@@ -354,7 +354,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 20
 
-**Ecclesiastes 1:3** What surplus for man in all his toil with which he toils under sun?
+**Ecclesiastes 1:3** What surplus for man in all his toil with which he toils under the sun?
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 21
@@ -371,7 +371,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 21
 
-**Song of Solomon 1:3** And scent of your perfumes above all spices; your name = poured-out perfume, therefore young women loved you.
+**Song of Solomon 1:3** And scent of your perfumes above all spices; your name is poured-out perfume, therefore young women loved you.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 26

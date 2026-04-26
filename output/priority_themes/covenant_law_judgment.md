@@ -303,7 +303,7 @@ Books: 34
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, grace, sin; crossref_top_vote=26; reco=keep
 - keywords: glory, grace, sin
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame = glory and grace.
+- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
 - brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
 
 ## Ecclesiastes 7:20

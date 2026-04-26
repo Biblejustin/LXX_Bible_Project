@@ -19026,7 +19026,7 @@ And the Lord was enraged in anger against Israel and drove them round in the wil
 
 **Numbers 32:14**
 
-Behold, you rose up in place of your fathers, a twisted growth of sinful men, to add yet more to the fury of the Lords anger against Israel.
+Behold, you rose up in place of your fathers, a twisted growth of sinful men, to add yet more to the fury of the Lord's anger against Israel.
 
 **Numbers 32:15**
 
@@ -26686,7 +26686,7 @@ Hear, kings; give ear, satraps. I will sing to the Lord; I will make melody to t
 
 **Judges 5:4**
 
-Lord, in your going out from Seir, in your marching from the field of Edom, earth shook, and heaven was shaken, and the clouds dripped water.
+Lord, in your going out from Seir, in your marching from the field of Edom, the earth shook, and heaven was shaken, and the clouds dripped water.
 
 **Judges 5:5**
 
@@ -42176,7 +42176,7 @@ Benjamin: Bela and Becher and Jediael, three.
 
 **1 Chronicles 7:7**
 
-And sons of Bela: Ezbon and Uzzi and Uzziel and Jerimoth and Huri, five, chiefs of houses of fathers, mighty men of power, and their number was twenty-two thousand thirty-four.
+And sons of Bela: Ezbon and Uzzi and Uzziel and Jerimoth and Huri, five, chiefs of the houses of fathers, mighty men of power, and their number was twenty-two thousand thirty-four.
 
 **1 Chronicles 7:8**
 
@@ -42524,7 +42524,7 @@ and Adaiah son of Jeroham son of Pashur son of Malchijah, and Amasai son of Adie
 
 **1 Chronicles 9:13**
 
-and their brothers, chiefs of houses of fathers, one thousand seven hundred sixty, mighty in strength for the work of service of the house of God.
+and their brothers, chiefs of the houses of fathers, one thousand seven hundred sixty, mighty in strength for the work of service of the house of God.
 
 **1 Chronicles 9:14**
 
@@ -44126,7 +44126,7 @@ And he divided them by lots, these with those, because they were chiefs of holy 
 
 **1 Chronicles 24:6**
 
-And Shemaiah son of Nathanael, scribe from Levi, wrote them before the king and rulers and Zadok priest and Ahimelech son of Abiathar and chiefs of father-houses of priests and Levites, one father-house taken for Eleazar and one taken for Ithamar.
+And Shemaiah son of Nathanael, scribe from Levi, wrote them before the king and rulers and Zadok priest and Ahimelech son of Abiathar and chiefs of the father-houses of priests and Levites, one father-house taken for Eleazar and one taken for Ithamar.
 
 **1 Chronicles 24:7**
 
@@ -44226,7 +44226,7 @@ And sons of Mushi: Mahali and Eder and Jeremoth. These were sons of Levites by t
 
 **1 Chronicles 24:31**
 
-And they too received lots, like their brothers sons of Aaron, before the king and Zadok and Ahimelech and chiefs of father-houses of priests and Levites, elder fathers like their younger brothers.
+And they too received lots, like their brothers sons of Aaron, before the king and Zadok and Ahimelech and chiefs of the father-houses of priests and Levites, elder fathers like their younger brothers.
 
 ### Chapter 25
 
@@ -44642,7 +44642,7 @@ And the Lord God of Israel chose me from all house of my father to be king over 
 
 **1 Chronicles 28:5**
 
-And from all my sons, because the Lord gave me many sons, he chose in Solomon my son to seat him upon the throne of kingdom of the Lord over Israel.
+And from all my sons, because the Lord gave me many sons, he chose in Solomon my son to seat him upon the throne of the kingdom of the Lord over Israel.
 
 **1 Chronicles 28:6**
 
@@ -44670,7 +44670,7 @@ And David gave to Solomon his son pattern of the temple and of its houses and it
 
 **1 Chronicles 28:12**
 
-and pattern which he had in his spirit of courts of the house of the Lord and all storerooms around, for treasuries of the house of the Lord and treasuries of holy things,
+and pattern which he had in his spirit of the courts of the house of the Lord and all storerooms around, for treasuries of the house of the Lord and treasuries of holy things,
 
 **1 Chronicles 28:13**
 
@@ -44868,7 +44868,7 @@ And Solomon said to God, You did great mercy with David my father and made me ki
 
 **2 Chronicles 1:9**
 
-And now, Lord God, let your name be made faithful upon David my father, because you made me king over numerous people like dust of earth.
+And now, Lord God, let your name be made faithful upon David my father, because you made me king over numerous people like dust of the earth.
 
 **2 Chronicles 1:10**
 
@@ -45008,7 +45008,7 @@ And he gilded house and walls and doorposts and ceilings and doors with gold, an
 
 **2 Chronicles 3:8**
 
-And he made house of holy of holies, its length according to breadth, twenty cubits, and its width twenty cubits, and he overlaid it with pure gold, for cheroubim, six hundred talents.
+And he made the house of the holy of holies, its length according to breadth, twenty cubits, and its width twenty cubits, and he overlaid it with pure gold, for cheroubim, six hundred talents.
 
 **2 Chronicles 3:9**
 
@@ -45266,7 +45266,7 @@ And now, Lord God of Israel, let your word be made faithful, which you spoke to 
 
 **2 Chronicles 6:18**
 
-For will God truly dwell with men upon earth? If heaven and heaven of heaven are not sufficient for you, then what is this house which I built?
+For will God truly dwell with men upon the earth? If heaven and heaven of heaven are not sufficient for you, then what is this house which I built?
 
 **2 Chronicles 6:19**
 
@@ -45620,7 +45620,7 @@ And Solomon was magnified above all kings in wealth and wisdom.
 
 **2 Chronicles 9:23**
 
-And all kings of earth were seeking face of Solomon to hear his wisdom which God gave in his heart.
+And all kings of the earth were seeking the face of Solomon to hear his wisdom which God gave in his heart.
 
 **2 Chronicles 9:24**
 
@@ -46428,7 +46428,7 @@ And now let the fear of the Lord be upon you, and keep and do, because with the 
 
 **2 Chronicles 19:8**
 
-And also in Jerusalem Jehoshaphat appointed from priests and Levites and patriarchs of Israel for judgment of the Lord and to judge those dwelling in Jerusalem.
+And also in Jerusalem Jehoshaphat appointed from priests and Levites and patriarchs of Israel for the judgment of the Lord and to judge those dwelling in Jerusalem.
 
 **2 Chronicles 19:9**
 
@@ -46672,7 +46672,7 @@ And it came to pass from days to days, and as time of days came, two days, his b
 
 **2 Chronicles 21:20**
 
-He was thirty-two years old when he reigned, and eight years he reigned in Jerusalem, and he went away without praise and was buried in the City of David, but not in tombs of kings.
+He was thirty-two years old when he reigned, and eight years he reigned in Jerusalem, and he went away without praise and was buried in the City of David, but not in the tombs of kings.
 
 ### Chapter 22
 
@@ -46936,7 +46936,7 @@ And it came to pass when kingdom was established in his hand, he killed his serv
 
 **2 Chronicles 25:4**
 
-But their sons he did not kill, according to covenant of the law of the Lord, as written, as the Lord commanded, saying, Fathers shall not die for children, and sons shall not die for fathers, but each shall die for his own sin.
+But their sons he did not kill, according to the covenant of the law of the Lord, as written, as the Lord commanded, saying, Fathers shall not die for children, and sons shall not die for fathers, but each shall die for his own sin.
 
 **2 Chronicles 25:5**
 
@@ -47174,7 +47174,7 @@ And he walked according to the ways of kings of Israel, and indeed he made carve
 
 **2 Chronicles 28:3**
 
-And he sacrificed in Gaibennom and brought his children through fire according to abominations of nations which the Lord destroyed from before the sons of Israel.
+And he sacrificed in Gaibennom and brought his children through fire according to the abominations of nations which the Lord destroyed from before the sons of Israel.
 
 **2 Chronicles 28:4**
 
@@ -47682,7 +47682,7 @@ And still his servants spoke against the Lord God and against Hezekiah his serva
 
 **2 Chronicles 32:17**
 
-And he wrote letter to reproach the Lord God of Israel and spoke concerning him, saying, As gods of nations of earth did not deliver their peoples from my hand, so God of Hezekiah will certainly not deliver his people from my hand.
+And he wrote letter to reproach the Lord God of Israel and spoke concerning him, saying, As gods of the nations of the earth did not deliver their peoples from my hand, so God of Hezekiah will certainly not deliver his people from my hand.
 
 **2 Chronicles 32:18**
 
@@ -47792,7 +47792,7 @@ And the Lord spoke against Manasseh and against his people, and they did not lis
 
 **2 Chronicles 33:11**
 
-And the Lord brought upon them commanders of force of the king of Asshur, and they seized Manasseh in bonds and bound him in fetters and brought him to Babylon.
+And the Lord brought upon them commanders of the force of the king of Asshur, and they seized Manasseh in bonds and bound him in fetters and brought him to Babylon.
 
 **2 Chronicles 33:12**
 
@@ -48210,7 +48210,7 @@ And everyone left behind from all the places where he sojourns there, let men of
 
 **Ezra 1:5**
 
-Then heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
+Then the heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
 
 **Ezra 1:6**
 
@@ -48508,7 +48508,7 @@ their camels 435, their donkeys 6,720.
 
 **Ezra 2:68**
 
-And some from heads of father-houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
+And some from the heads of father-houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
 
 **Ezra 2:69**
 
@@ -48580,11 +48580,11 @@ And those afflicting Judah and Benjamin heard that sons of the captivity are bui
 
 **Ezra 4:2**
 
-And they came near to Zerubbabel and to heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Asshur, who brought us up here.
+And they came near to Zerubbabel and to the heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Asshur, who brought us up here.
 
 **Ezra 4:3**
 
-And Zerubbabel and Jeshua and the rest of heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
+And Zerubbabel and Jeshua and the rest of the heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
 
 **Ezra 4:4**
 
@@ -49390,7 +49390,7 @@ And the king said to me, Why is your face troubled while you are not sick? This 
 
 **Nehemiah 2:3**
 
-and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of tombs of my fathers, was laid waste and its gates were devoured by fire?
+and I said to the king, Let the king live forever. Why should my face not be troubled, because the city, house of the tombs of my fathers, was laid waste and its gates were devoured by fire?
 
 **Nehemiah 2:4**
 
@@ -49398,7 +49398,7 @@ And the king said to me, For what do you seek this? And I prayed to the God of h
 
 **Nehemiah 2:5**
 
-and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Judah, to the city of tombs of my fathers, and I will rebuild it.
+and I said to the king, If it seems good to the king, and if your servant will be dealt well with before you, send him to Judah, to the city of the tombs of my fathers, and I will rebuild it.
 
 **Nehemiah 2:6**
 
@@ -49450,7 +49450,7 @@ And I said to them, You see the evil in which we are, how Jerusalem lies waste a
 
 **Nehemiah 2:18**
 
-And I told them of the hand of God, that it is good upon me, and of words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
+And I told them of the hand of God, that it is good upon me, and of the words of the king which he spoke to me. And they said, Let us rise and build. And their hands were strengthened for good.
 
 **Nehemiah 2:19**
 
@@ -50296,7 +50296,7 @@ And their sons you multiplied like stars of heaven, and you brought them into th
 
 **Nehemiah 9:24**
 
-And you subdued before them inhabitants of the land of the Canaanites and gave them into their hands, both their kings and peoples of the land, to do to them as was pleasing before them.
+And you subdued before them inhabitants of the land of the Canaanites and gave them into their hands, both their kings and the peoples of the land, to do to them as was pleasing before them.
 
 **Nehemiah 9:25**
 
@@ -50320,7 +50320,7 @@ And you testified to them to turn them back to your law, but they did not hear. 
 
 **Nehemiah 9:30**
 
-And you drew over them many years and testified to them by your Spirit in the hand of your prophets, and they gave no ear, and you gave them into the hand of peoples of the land.
+And you drew over them many years and testified to them by your Spirit in the hand of your prophets, and they gave no ear, and you gave them into the hand of the peoples of the land.
 
 **Nehemiah 9:31**
 
@@ -50474,7 +50474,7 @@ were strengthening themselves upon their brothers, and cursed themselves and ent
 
 **Nehemiah 10:31**
 
-and that we would not give our daughters to peoples of the land and would not take their daughters for our sons,
+and that we would not give our daughters to the peoples of the land and would not take their daughters for our sons,
 
 **Nehemiah 10:32**
 
@@ -51822,7 +51822,7 @@ There the ungodly burned out rage of wrath. There the weary in body rested.
 
 **Job 3:18**
 
-And there the eternal ones together did not hear voice of tax-collector.
+And there the eternal ones together did not hear the voice of tax-collector.
 
 **Job 3:19**
 
@@ -51896,7 +51896,7 @@ By the command of the Lord they will perish, and by breath of his wrath they wil
 
 **Job 4:10**
 
-Strength of lion, voice of lioness, and boast of dragons were quenched.
+The strength of a lion, the voice of a lioness, and boast of dragons were quenched.
 
 **Job 4:11**
 
@@ -52324,7 +52324,7 @@ If he lean on his house, it will not stand; if he take hold of it, it will not e
 
 **Job 8:16**
 
-For it is moist under sun, and from its decay its shoot will come out.
+For it is moist under the sun, and from its decay its shoot will come out.
 
 **Job 8:17**
 
@@ -52446,7 +52446,7 @@ For worthless men are remarkable in death, but righteous are laughed to scorn.
 
 **Job 9:24**
 
-For earth is given into the hands of the ungodly; he covers faces of its judges. But if not he, who is it?
+For the earth is given into the hands of the ungodly; he covers faces of its judges. But if not he, who is it?
 
 **Job 9:25**
 
@@ -52740,7 +52740,7 @@ Setting kings on thrones, he bound belt around their loins.
 
 **Job 12:19**
 
-Sending priests away captive, he overthrew rulers of earth.
+Sending priests away captive, he overthrew rulers of the earth.
 
 **Job 12:20**
 
@@ -52760,7 +52760,7 @@ Leading nations astray and destroying them, spreading out nations and guiding th
 
 **Job 12:24**
 
-Changing hearts of rulers of earth, he led them astray in path they did not know.
+Changing hearts of rulers of the earth, he led them astray in path they did not know.
 
 **Job 12:25**
 
@@ -52956,7 +52956,7 @@ Yet mountain falling will collapse, and rock will grow old out of its place.
 
 **Job 14:19**
 
-Waters wore stones smooth, and waters flooded dust of earth, and you destroyed hope of man.
+Waters wore stones smooth, and waters flooded dust of the earth, and you destroyed hope of man.
 
 **Job 14:20**
 
@@ -54504,7 +54504,7 @@ And you appointed me in pains and cast me away from salvation.
 
 **Job 30:23**
 
-For I know that death will wear me out, for earth is house for every mortal.
+For I know that death will wear me out, for the earth is a house for every mortal.
 
 **Job 30:24**
 
@@ -55428,7 +55428,7 @@ to seize wings of earth and shake ungodly men out of it?
 
 **Job 38:14**
 
-Or did you take earth, clay, and shape living thing, and set speaking one upon earth?
+Or did you take earth, clay, and shape living thing, and set speaking one upon the earth?
 
 **Job 38:15**
 
@@ -56510,7 +56510,7 @@ Because what you fitted together they tore down; but righteous man, what did he 
 
 **Psalms 10:4**
 
-Lord in his holy temple; Lord, his throne in heaven. His eyes look toward poor man; his eyelids examine sons of men.
+The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward poor man; his eyelids examine sons of men.
 
 **Psalms 10:5**
 
@@ -56752,7 +56752,7 @@ But I in righteousness will appear before your face; I will be satisfied when yo
 
 **Psalms 17:1**
 
-For end. To the servant of the Lord, David, what he spoke to the Lord, words of this song, in day when the Lord rescued him from the hand of all his enemies and from the hand of Saul.
+For end. To the servant of the Lord, David, what he spoke to the Lord, words of this song, on the day when the Lord rescued him from the hand of all his enemies and from the hand of Saul.
 
 **Psalms 17:2**
 
@@ -56812,7 +56812,7 @@ And he sent out arrows and scattered them; he multiplied lightnings and threw th
 
 **Psalms 17:16**
 
-And the fountains of waters were seen, and the foundations of the inhabited world were uncovered from your rebuke, Lord, from the breath of spirit of your wrath.
+And the fountains of waters were seen, and the foundations of the inhabited world were uncovered from your rebuke, Lord, from the breath of the spirit of your wrath.
 
 **Psalms 17:17**
 
@@ -57098,7 +57098,7 @@ May your hand be found by all your enemies; may your right hand find all hating 
 
 **Psalms 20:10**
 
-You will set them like a furnace of fire in the time of your face; Lord in his anger will trouble them, and fire will devour them.
+You will set them like a furnace of fire in the time of your face; The Lord in his anger will trouble them, and fire will devour them.
 
 **Psalms 20:11**
 
@@ -57822,7 +57822,7 @@ He loves mercy and judgment; earth full of mercy of the Lord.
 
 **Psalms 32:6**
 
-By the word of the Lord heavens were made firm, and by the spirit of his mouth all their power.
+By the word of the Lord the heavens were made firm, and by the spirit of his mouth all their power.
 
 **Psalms 32:7**
 
@@ -57862,7 +57862,7 @@ he who formed their hearts one by one, he who understands all their works.
 
 **Psalms 32:16**
 
-King is not saved by much power, and giant will not be saved by multitude of his strength.
+King is not saved by much power, and giant will not be saved by the multitude of his strength.
 
 **Psalms 32:17**
 
@@ -58450,7 +58450,7 @@ I became mute and did not open my mouth, because you are one who made me.
 
 **Psalms 38:11**
 
-Remove your scourges from me; from strength of your hand I failed away.
+Remove your scourges from me; from the strength of your hand I failed away.
 
 **Psalms 38:12**
 
@@ -58926,7 +58926,7 @@ He chose for us his inheritance, beauty of Jacob which he loved. Interlude.
 
 **Psalms 46:6**
 
-God went up in shout, Lord in voice of a trumpet.
+God went up with a shout, the Lord with the voice of a trumpet.
 
 **Psalms 46:7**
 
@@ -59616,7 +59616,7 @@ Their fury according to the likeness of serpent, like a deaf asp stopping its ea
 
 **Psalms 57:6**
 
-which will not hear voice of charmers, of drug mixed by wise enchanter.
+which will not hear the voice of charmers, of drug mixed by wise enchanter.
 
 **Psalms 57:7**
 
@@ -60546,7 +60546,7 @@ You multiplied your greatness, and turning back you comforted me, and from the d
 
 **Psalms 70:22**
 
-And indeed I will confess to you with instrument of psalm your truth, O God; I will sing to you with lyre, Holy One of Israel.
+And indeed I will confess to you with instrument of psalm your truth, O God; I will sing to you with lyre, O Holy One of Israel.
 
 **Psalms 70:23**
 
@@ -60576,7 +60576,7 @@ He will judge poor ones of the people and save sons of needy ones and humble sla
 
 **Psalms 71:5**
 
-And he will continue along with sun and before moon for generations of generations.
+And he will continue along with the sun and before the moon for generations of generations.
 
 **Psalms 71:6**
 
@@ -60738,7 +60738,7 @@ In your counsel you guided me, and with glory you received me.
 
 **Psalms 72:25**
 
-For what exists for me in heaven? And besides you what did I desire upon earth?
+For what exists for me in heaven? And besides you what did I desire upon the earth?
 
 **Psalms 72:26**
 
@@ -60944,7 +60944,7 @@ Vow and pay to the Lord your God; all around him will bring gifts
 
 **Psalms 75:13**
 
-to one fearful and removing spirits of rulers, fearful beyond kings of earth.
+to one fearful and removing spirits of rulers, fearful beyond kings of the earth.
 
 ### Chapter 76
 
@@ -61196,7 +61196,7 @@ How often they provoked him in the wilderness, angered him in waterless land.
 
 **Psalms 77:41**
 
-And they turned and tested God and provoked Holy One of Israel.
+And they turned and tested God and provoked the Holy One of Israel.
 
 **Psalms 77:42**
 
@@ -62006,7 +62006,7 @@ Because you boast of their power, and in your good pleasure our horn will be exa
 
 **Psalms 88:19**
 
-Because support belongs to the Lord, and to Holy One of Israel, our king.
+Because support belongs to the Lord, and to the Holy One of Israel, our king.
 
 **Psalms 88:20**
 
@@ -62042,7 +62042,7 @@ He will call upon me, You are my father, my God and supporter of my salvation.
 
 **Psalms 88:28**
 
-And I will set him firstborn, high above kings of earth.
+And I will set him firstborn, high above kings of the earth.
 
 **Psalms 88:29**
 
@@ -62544,7 +62544,7 @@ Bring to the Lord glory to his name; take sacrifices and enter into his courts.
 
 **Psalms 95:9**
 
-Worship Lord in his holy court; let all the earth be shaken from before him.
+Worship the Lord in his holy court; let all the earth be shaken from before him.
 
 **Psalms 95:10**
 
@@ -62808,7 +62808,7 @@ Because your servants took pleasure in her stones and will pity her dust.
 
 **Psalms 101:16**
 
-And nations will fear the name of the Lord, and all kings of earth your glory.
+And nations will fear the name of the Lord, and all kings of the earth your glory.
 
 **Psalms 101:17**
 
@@ -63376,7 +63376,7 @@ And they despised desirable land; they did not believe his word.
 
 **Psalms 105:25**
 
-And they grumbled in their tents; they did not hear voice of the Lord.
+And they grumbled in their tents; they did not hear the voice of the Lord.
 
 **Psalms 105:26**
 
@@ -64076,7 +64076,7 @@ Blessed are you by the Lord, who made heaven and earth.
 
 **Psalms 113:24**
 
-The heaven of heaven belongs to the Lord, but earth he gave to the sons of men.
+The heaven of heaven belongs to the Lord, but the earth he gave to the sons of men.
 
 **Psalms 113:25**
 
@@ -64090,7 +64090,7 @@ But we living ones will bless the Lord from now and until age.
 
 **Psalms 114:1**
 
-Alleluia. I loved because the Lord will hear voice of my supplication,
+Alleluia. I loved because the Lord will hear the voice of my supplication,
 
 **Psalms 114:2**
 
@@ -64318,7 +64318,7 @@ Then I will certainly not be ashamed when I look upon all your commandments.
 
 **Psalms 118:7**
 
-I will confess to you, Lord, in the uprightness of heart when I learn judgments of your righteousness.
+I will confess to you, Lord, in the uprightness of heart when I learn the judgments of your righteousness.
 
 **Psalms 118:8**
 
@@ -64538,7 +64538,7 @@ The ropes of sinners entangled me, and your law I did not forget.
 
 **Psalms 118:62**
 
-At midnight I rose to confess to you upon judgments of your righteousness.
+At midnight I rose to confess to you upon the judgments of your righteousness.
 
 **Psalms 118:63**
 
@@ -64714,7 +64714,7 @@ Nun. Your word lamp to my feet and light to my paths.
 
 **Psalms 118:106**
 
-I swore and established it, to keep judgments of your righteousness.
+I swore and established it, to keep the judgments of your righteousness.
 
 **Psalms 118:107**
 
@@ -64930,7 +64930,7 @@ See that I loved your commandments, Lord; in your mercy make me live.
 
 **Psalms 118:160**
 
-The beginning of your words is truth, and forever all judgments of your righteousness.
+The beginning of your words is truth, and forever all the judgments of your righteousness.
 
 **Psalms 118:161**
 
@@ -64946,7 +64946,7 @@ Injustice I hated and abhorred, but your law I loved.
 
 **Psalms 118:164**
 
-Seven times in day I praised you for judgments of your righteousness.
+Seven times a day I praised you for the judgments of your righteousness.
 
 **Psalms 118:165**
 
@@ -65676,7 +65676,7 @@ In whatever day I call on you, quickly hear me; with power in my soul you will g
 
 **Psalms 137:4**
 
-Let all kings of earth give thanks to you, Lord, because they heard all sayings of your mouth.
+Let all kings of the earth give thanks to you, Lord, because they heard all sayings of your mouth.
 
 **Psalms 137:5**
 
@@ -66090,7 +66090,7 @@ to make known to the sons of men your dominion and glory of magnificence of your
 
 **Psalms 144:13**
 
-Your kingdom is a kingdom of all ages, and your lordship in every generation and generation. Faithful Lord in his words and holy in all his works.
+Your kingdom is a kingdom of all ages, and your lordship in every generation and generation. Faithful is the Lord in his words and holy in all his works.
 
 **Psalms 144:14**
 
@@ -66898,7 +66898,7 @@ And you will say, "How I hated discipline, and my heart turned away from reproof
 
 **Proverbs 5:13**
 
-I was not hearing voice of one disciplining me and teaching me, nor inclining my ear.
+I was not hearing the voice of one disciplining me and teaching me, nor inclining my ear.
 
 **Proverbs 5:14**
 
@@ -67308,7 +67308,7 @@ when he made strong upper clouds and set secure springs under heaven,
 
 **Proverbs 8:29**
 
-and made strong foundations of earth,
+and made strong foundations of the earth,
 
 **Proverbs 8:30**
 
@@ -68160,7 +68160,7 @@ Every proud in heart unclean before God; joining hand to hand unjustly, he will 
 
 **Proverbs 16:7**
 
-The beginning of a good way = doing righteous things, and more acceptable before God than sacrificing sacrifices.
+The beginning of a good way is doing righteous things, and more acceptable before God than sacrificing sacrifices.
 
 **Proverbs 16:8**
 
@@ -68180,7 +68180,7 @@ Balance and scale of righteousness from the Lord, and all weights his righteous 
 
 **Proverbs 16:12**
 
-Abomination to the king = one doing evil, for the throne of rule prepared with righteousness.
+Abomination to the king is one doing evil, for the throne of rule prepared with righteousness.
 
 **Proverbs 16:13**
 
@@ -68228,7 +68228,7 @@ The heart of the wise will understand things from its own mouth, and upon lips i
 
 **Proverbs 16:24**
 
-Honeycombs = good words, sweetness of them = healing of soul.
+Honeycombs are good words, sweetness of them are healing of soul.
 
 **Proverbs 16:25**
 
@@ -68256,7 +68256,7 @@ One fixing his eyes plots twisted things and marks out all evils with his lips; 
 
 **Proverbs 16:31**
 
-Crown of boasting = old age, and in the ways of righteousness it is found.
+Crown of boasting is old age, and in the ways of righteousness it is found.
 
 **Proverbs 16:32**
 
@@ -68290,7 +68290,7 @@ One mocking poor provokes his Maker, and one rejoicing over one perishing will n
 
 **Proverbs 17:6**
 
-Crown of old men = children's children, and glory of children = their fathers. Of faithful man whole world wealth; of faithless not even small coin.
+Crown of old men is children's children, and glory of children is their fathers. Of faithful man whole world wealth; of faithless not even small coin.
 
 **Proverbs 17:7**
 
@@ -68298,7 +68298,7 @@ Faithful lips do not suit fool, nor lying lips righteous man.
 
 **Proverbs 17:8**
 
-Reward of graces = discipline; wherever it turns, it will prosper.
+Reward of graces is discipline; wherever it turns, it will prosper.
 
 **Proverbs 17:9**
 
@@ -68326,7 +68326,7 @@ Authority gives beginning to the words of righteousness, but before want comes f
 
 **Proverbs 17:15**
 
-One justifying unjust and condemning righteous = unclean and abominable before God.
+One justifying unjust and condemning righteous is unclean and abominable before God.
 
 **Proverbs 17:16**
 
@@ -68350,7 +68350,7 @@ Hard-hearted man will not meet good things; man of shifting tongue will fall int
 
 **Proverbs 17:21**
 
-The heart of a fool = pain to one possessing it; father does not rejoice over undisciplined son, but wise son gladdens mother.
+The heart of a fool is pain to one possessing it; father does not rejoice over undisciplined son, but wise son gladdens mother.
 
 **Proverbs 17:22**
 
@@ -68366,7 +68366,7 @@ The face of an understanding man belongs to a wise one, but the eyes of a fool t
 
 **Proverbs 17:25**
 
-Foolish son = anger to father and pain to one bearing him.
+Foolish son is anger to father and pain to one bearing him.
 
 **Proverbs 17:26**
 
@@ -68374,7 +68374,7 @@ To fine righteous man not good, nor holy to plot against righteous rulers.
 
 **Proverbs 17:27**
 
-One sparing to utter hard word = discerning; and longsuffering man = prudent.
+One sparing to utter hard word is discerning; and longsuffering man is prudent.
 
 **Proverbs 17:28**
 
@@ -68396,7 +68396,7 @@ When ungodly comes into the depth of evils, he despises; and dishonor and reproa
 
 **Proverbs 18:4**
 
-Deep water = word in the heart of man, and river springing up = fountain of life.
+Deep water is word in the heart of man, and river springing up is fountain of life.
 
 **Proverbs 18:5**
 
@@ -68408,7 +68408,7 @@ The lips of fool lead him into evils, and his bold mouth calls death upon him.
 
 **Proverbs 18:7**
 
-The mouth of fool = ruin to him, and his lips snare to his soul.
+The mouth of fool is ruin to him, and his lips snare to his soul.
 
 **Proverbs 18:8**
 
@@ -68416,7 +68416,7 @@ Fear casts down the sluggards, and souls of unmanned men will hunger.
 
 **Proverbs 18:9**
 
-One not healing himself in his works = brother of one ruining himself.
+One not healing himself in his works is brother of one ruining himself.
 
 **Proverbs 18:10**
 
@@ -68424,7 +68424,7 @@ The name of the Lord is great in strength; righteous people who run to it are ex
 
 **Proverbs 18:11**
 
-Wealth of rich man = strong city, and its glory overshadows greatly.
+Wealth of rich man is strong city, and its glory overshadows greatly.
 
 **Proverbs 18:12**
 
@@ -68456,7 +68456,7 @@ Lot stops contradictions and marks bounds among rulers.
 
 **Proverbs 18:19**
 
-Brother helped by brother = strong and high city, and it is strong like founded kingdom.
+Brother helped by brother is strong and high city, and it is strong like founded kingdom.
 
 **Proverbs 18:20**
 
@@ -68468,7 +68468,7 @@ Death and life are in the hand of the tongue, and those mastering it will eat it
 
 **Proverbs 18:22**
 
-One finding good wife found graces and received cheerfulness from God; one casting out good wife casts out good things, but one keeping adulteress = foolish and ungodly.
+One finding good wife found graces and received cheerfulness from God; one casting out good wife casts out good things, but one keeping adulteress is foolish and ungodly.
 
 ### Chapter 19
 
@@ -68550,7 +68550,7 @@ Many reasonings in the heart of man, but counsel of the Lord remains forever.
 
 **Proverbs 19:22**
 
-Fruit for man = mercy; and better poor righteous than rich liar.
+Fruit for man is mercy; and better poor righteous than rich liar.
 
 **Proverbs 19:23**
 
@@ -68600,11 +68600,11 @@ Being reproached, sluggard is not ashamed; likewise borrower of grain in harvest
 
 **Proverbs 20:5**
 
-Deep water = counsel in the heart of man, but prudent man will draw it out.
+Deep water is counsel in the heart of man, but prudent man will draw it out.
 
 **Proverbs 20:6**
 
-Great man and precious merciful man, but faithful man = hard work to find.
+Great man and precious merciful man, but faithful man is hard work to find.
 
 **Proverbs 20:7**
 
@@ -68652,7 +68652,7 @@ A wise king winnows the ungodly and will bring wheel upon them.
 
 **Proverbs 20:27**
 
-The light of the Lord = the breath of men, searching storerooms of belly.
+The light of the Lord is the breath of men, searching storerooms of belly.
 
 **Proverbs 20:28**
 
@@ -68660,7 +68660,7 @@ Mercy and truth guard king, and in righteousness they encircle his throne.
 
 **Proverbs 20:29**
 
-Adornment of young men = wisdom, and glory of elders = gray hairs.
+Adornment of young men is wisdom, and glory of elders is gray hairs.
 
 **Proverbs 20:30**
 
@@ -68682,7 +68682,7 @@ Doing righteous things and speaking truth more pleasing to God than blood sacrif
 
 **Proverbs 21:4**
 
-High-minded in insolence, bold in heart; lamp of ungodly = sin.
+High-minded in insolence, bold in heart; lamp of ungodly is sin.
 
 **Proverbs 21:6**
 
@@ -68722,7 +68722,7 @@ Secret gift overturns wraths, but one sparing gifts stirs strong anger.
 
 **Proverbs 21:15**
 
-The joy of the righteous = doing judgment, but holy man unclean among evildoers.
+The joy of the righteous is doing judgment, but holy man unclean among evildoers.
 
 **Proverbs 21:16**
 
@@ -68734,7 +68734,7 @@ Needy man loves gladness; loving wine and oil not for wealth.
 
 **Proverbs 21:18**
 
-A lawless man = purging-scrap for the righteous.
+A lawless man is purging-scrap for the righteous.
 
 **Proverbs 21:19**
 
@@ -68840,7 +68840,7 @@ Sluggard makes excuse and says, "Lion in roads; in streets I will be killed."
 
 **Proverbs 22:14**
 
-Deep pit = mouth of lawless man; one hated by the Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
+Deep pit is mouth of lawless man; one hated by the Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
 
 **Proverbs 22:15**
 
@@ -69006,7 +69006,7 @@ Give me, son, your heart, and let your eyes keep my ways.
 
 **Proverbs 23:27**
 
-For foreign house = pierced jar, and strange well = narrow pit.
+For foreign house is pierced jar, and strange well is narrow pit.
 
 **Proverbs 23:28**
 
@@ -69336,7 +69336,7 @@ All flesh of fools is storm-tossed much, for their ecstasy is shattered.
 
 **Proverbs 26:11**
 
-As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame = glory and grace.
+As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
 
 **Proverbs 26:12**
 
@@ -69576,11 +69576,11 @@ Blessed is the man who trembles always in reverence, but hardening heart will fa
 
 **Proverbs 28:15**
 
-Hungry lion and thirsty wolf = tyrant, being poor, over needy people.
+Hungry lion and thirsty wolf is tyrant, being poor, over needy people.
 
 **Proverbs 28:16**
 
-King lacking revenues = great slanderer, but one hating injustice will live long time.
+King lacking revenues is great slanderer, but one hating injustice will live long time.
 
 **Proverbs 28:17**
 
@@ -69612,7 +69612,7 @@ One reproving the ways of man will have more favor than one flattering with tong
 
 **Proverbs 28:24**
 
-One casting away father or mother and thinking he does not sin = partner of ungodly man.
+One casting away father or mother and thinking he does not sin is partner of ungodly man.
 
 **Proverbs 28:25**
 
@@ -70014,7 +70014,7 @@ Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
 
 **Ecclesiastes 1:3**
 
-What surplus for man in all his toil with which he toils under sun?
+What surplus for man in all his toil with which he toils under the sun?
 
 **Ecclesiastes 1:4**
 
@@ -70038,7 +70038,7 @@ All words are wearisome; man will not be able to speak, and eye will not be fill
 
 **Ecclesiastes 1:9**
 
-What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under sun.
+What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under the sun.
 
 **Ecclesiastes 1:10**
 
@@ -70058,7 +70058,7 @@ And I gave my heart to seek out and to inspect in wisdom concerning all things h
 
 **Ecclesiastes 1:14**
 
-I saw all works done under sun, and look, all vanity and choice of spirit.
+I saw all works done under the sun, and look, all vanity and choice of spirit.
 
 **Ecclesiastes 1:15**
 
@@ -70088,7 +70088,7 @@ To laughter I said, "Madness," and to gladness, "What does this do?"
 
 **Ecclesiastes 2:3**
 
-I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for the sons of men they will do under sun, number of days of their life.
+I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for the sons of men they will do under the sun, the number of days of their life.
 
 **Ecclesiastes 2:4**
 
@@ -70120,7 +70120,7 @@ And all my eyes asked, I did not withhold from them; I did not restrain my heart
 
 **Ecclesiastes 2:11**
 
-And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under sun.
+And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under the sun.
 
 **Ecclesiastes 2:12**
 
@@ -70144,19 +70144,19 @@ For there is no memory of wise with fool forever, since already days coming all 
 
 **Ecclesiastes 2:17**
 
-And I hated life, because evil to me was work done under sun, because all vanity and choice of spirit.
+And I hated life, because evil to me was work done under the sun, because all vanity and choice of spirit.
 
 **Ecclesiastes 2:18**
 
-And I hated all my toil with which I toil under sun, because I leave it to man coming after me.
+And I hated all my toil with which I toil under the sun, because I leave it to man coming after me.
 
 **Ecclesiastes 2:19**
 
-And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under sun; and this too vanity.
+And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too vanity.
 
 **Ecclesiastes 2:20**
 
-And I turned to bid my heart farewell concerning all toil in which I toiled under sun.
+And I turned to bid my heart farewell concerning all toil in which I toiled under the sun.
 
 **Ecclesiastes 2:21**
 
@@ -70164,7 +70164,7 @@ Because there is man whose toil is in wisdom and knowledge and courage, and to m
 
 **Ecclesiastes 2:22**
 
-For what comes to man in all his toil and in choice of his heart in which he toils under sun?
+For what comes to man in all his toil and in choice of his heart in which he toils under the sun?
 
 **Ecclesiastes 2:23**
 
@@ -70276,7 +70276,7 @@ And I saw there is no good except that man will rejoice in his works, because th
 
 **Ecclesiastes 4:1**
 
-And I turned and saw all slanders happening under sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them = strength, and there is no comforter for them.
+And I turned and saw all slanders happening under the sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
 
 **Ecclesiastes 4:2**
 
@@ -70284,7 +70284,7 @@ And I praised the dead, those already having died, above the living who are stil
 
 **Ecclesiastes 4:3**
 
-And better than both these, whoever not yet came to be, who did not see evil work done under sun.
+And better than both these, whoever not yet came to be, who did not see evil work done under the sun.
 
 **Ecclesiastes 4:4**
 
@@ -70300,7 +70300,7 @@ Better one handful of rest than filling of two hands of toil and choice of spiri
 
 **Ecclesiastes 4:7**
 
-And I turned and saw vanity under sun:
+And I turned and saw vanity under the sun:
 
 **Ecclesiastes 4:8**
 
@@ -70332,7 +70332,7 @@ Because from the house of prisoners he will come out to reign, because indeed in
 
 **Ecclesiastes 4:15**
 
-I saw all living who walk under sun with young second one who will stand in his place.
+I saw all living who walk under the sun with young second one who will stand in his place.
 
 **Ecclesiastes 4:16**
 
@@ -70374,7 +70374,7 @@ If you see slander of poor man and robbery of judgment and righteousness in prov
 
 **Ecclesiastes 5:8**
 
-And land's surplus in everything = king over cultivated field.
+And land's surplus in everything is king over cultivated field.
 
 **Ecclesiastes 5:9**
 
@@ -70390,7 +70390,7 @@ Sweet sleep of servant, whether little or much he eats; but fullness of rich man
 
 **Ecclesiastes 5:12**
 
-There is sickness I saw under sun: wealth kept by its owner for his harm.
+There is sickness I saw under the sun: wealth kept by its owner for his harm.
 
 **Ecclesiastes 5:13**
 
@@ -70410,7 +70410,7 @@ And indeed all his days in darkness and mourning and much wrath and sickness and
 
 **Ecclesiastes 5:17**
 
-Look, what I saw good, what is beautiful = to eat and to drink and to see goodness in all his toil with which he toils under sun, number of days of his life which God gave him, because this his portion.
+Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this his portion.
 
 **Ecclesiastes 5:18**
 
@@ -70424,7 +70424,7 @@ Because he will not remember many days of his life, because God distracts him in
 
 **Ecclesiastes 6:1**
 
-There is evil I saw under sun, and it is much upon man.
+There is evil I saw under the sun, and it is much upon man.
 
 **Ecclesiastes 6:2**
 
@@ -70468,7 +70468,7 @@ Because there are many words multiplying vanity; what surplus to man?
 
 **Ecclesiastes 6:12**
 
-Because who knows what good for man in life, number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under sun?
+Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
 
 ### Chapter 7
 
@@ -70518,7 +70518,7 @@ Wisdom is good with inheritance, and surplus to those seeing the sun.
 
 **Ecclesiastes 7:12**
 
-Because in its shadow wisdom = as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
+Because in its shadow wisdom is as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
 
 **Ecclesiastes 7:13**
 
@@ -70574,7 +70574,7 @@ I circled, I and my heart, to know and to inspect and to seek wisdom and reckoni
 
 **Ecclesiastes 7:26**
 
-And I find more bitter than death the woman whose heart = hunting nets and seines, her hands bonds; good one before the face of God will be rescued from her, and sinner will be caught in her.
+And I find more bitter than death the woman whose heart is hunting nets and seines, her hands bonds; good one before the face of God will be rescued from her, and sinner will be caught in her.
 
 **Ecclesiastes 7:27**
 
@@ -70586,7 +70586,7 @@ Which my soul still sought and I did not find: one man among thousand I found, b
 
 **Ecclesiastes 7:29**
 
-Except look, this I found: what God made with man = upright, but they sought many reckonings.
+Except look, this I found: what God made with man is upright, but they sought many reckonings.
 
 ### Chapter 8
 
@@ -70624,7 +70624,7 @@ There is no man exercising authority over spirit to restrain spirit, and there i
 
 **Ecclesiastes 8:9**
 
-And with all this I saw and gave my heart to every work done under sun, all in which man exercised authority over man to harm him.
+And with all this I saw and gave my heart to every work done under the sun, all in which man exercised authority over man to harm him.
 
 **Ecclesiastes 8:10**
 
@@ -70648,15 +70648,15 @@ There is vanity done upon earth: there are righteous ones to whom it reaches as 
 
 **Ecclesiastes 8:15**
 
-And I praised gladness, because there is no good for man under sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under sun.
+And I praised gladness, because there is no good for man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under the sun.
 
 **Ecclesiastes 8:16**
 
-In which I gave my heart to know wisdom and to see distraction done upon earth, because even in day and in night there is no sleep in his eyes, seeing.
+In which I gave my heart to know wisdom and to see distraction done upon earth, because even by day and by night there is no sleep in his eyes, seeing.
 
 **Ecclesiastes 8:17**
 
-And I saw all works of God, that man will not be able to find out work done under sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
+And I saw all works of God, that man will not be able to find out work done under the sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
 
 ### Chapter 9
 
@@ -70670,7 +70670,7 @@ Vanity in all things: one meeting for righteous and ungodly, for good and evil, 
 
 **Ecclesiastes 9:3**
 
-This evil in all done under sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them = to the dead.
+This evil in all done under the sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them is to the dead.
 
 **Ecclesiastes 9:4**
 
@@ -70682,7 +70682,7 @@ Because living will know that they will die, but dead know nothing, and there is
 
 **Ecclesiastes 9:6**
 
-And indeed their love and indeed their hatred and indeed their zeal already perished, and there is no portion for them anymore forever in anything done under sun.
+And indeed their love and indeed their hatred and indeed their zeal already perished, and there is no portion for them anymore forever in anything done under the sun.
 
 **Ecclesiastes 9:7**
 
@@ -70694,7 +70694,7 @@ At every time let your garments be white, and let oil on your head not fail.
 
 **Ecclesiastes 9:9**
 
-See life with woman whom you loved all days of your life of vanity, those given to you under sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under sun.
+See life with woman whom you loved all days of your life of vanity, those given to you under the sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under the sun.
 
 **Ecclesiastes 9:10**
 
@@ -70702,7 +70702,7 @@ All that your hand finds to do, do by your strength, because there is no work an
 
 **Ecclesiastes 9:11**
 
-I turned and saw under sun that race not to swift, nor war to strong, and indeed not bread to wise, and indeed not wealth to understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
+I turned and saw under the sun that the race is not to the swift, nor war to the strong, and indeed not bread to the wise, and indeed not wealth to those with understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
 
 **Ecclesiastes 9:12**
 
@@ -70710,7 +70710,7 @@ Because indeed man did not know his time: as fish caught in evil net and as bird
 
 **Ecclesiastes 9:13**
 
-And this too I saw as wisdom under sun, and it is great to me.
+And this too I saw as wisdom under the sun, and it is great to me.
 
 **Ecclesiastes 9:14**
 
@@ -70744,7 +70744,7 @@ The heart of the wise at his right, and heart of fool at his left.
 
 **Ecclesiastes 10:3**
 
-And indeed on road whenever fool walks, his heart will lack, and what he thinks = all folly.
+And indeed on road whenever fool walks, his heart will lack, and what he thinks is all folly.
 
 **Ecclesiastes 10:4**
 
@@ -70752,7 +70752,7 @@ If spirit of ruler rises upon you, do not leave your place, because healing will
 
 **Ecclesiastes 10:5**
 
-There is evil I saw under sun, like involuntary thing that went out from the face of ruler.
+There is evil I saw under the sun, like involuntary thing that went out from the face of ruler.
 
 **Ecclesiastes 10:6**
 
@@ -70772,7 +70772,7 @@ One removing stones will be hurt by them; one splitting woods will be endangered
 
 **Ecclesiastes 10:10**
 
-If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill = wisdom.
+If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill is wisdom.
 
 **Ecclesiastes 10:11**
 
@@ -70780,11 +70780,11 @@ If snake bites without whispering, there is no surplus for charmer.
 
 **Ecclesiastes 10:12**
 
-The words of the mouth of the wise = favor, and lips of fool will swallow him.
+The words of the mouth of the wise are favor, and lips of fool will swallow him.
 
 **Ecclesiastes 10:13**
 
-The beginning of the words of his mouth = folly, and last of his mouth = evil madness.
+The beginning of the words of his mouth is folly, and last of his mouth is evil madness.
 
 **Ecclesiastes 10:14**
 
@@ -70846,7 +70846,7 @@ And light sweet, and good for eyes to see with sun.
 
 **Ecclesiastes 11:8**
 
-Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming = vanity.
+Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming is vanity.
 
 **Ecclesiastes 11:9**
 
@@ -70900,15 +70900,15 @@ Ecclesiastes sought much to find words of delight, and written uprightness, the 
 
 **Ecclesiastes 12:11**
 
-The words of the wise = as goads, and as nails planted, those from gatherings were given from one shepherd.
+The words of the wise are as goads, and as nails planted, those from gatherings were given from one shepherd.
 
 **Ecclesiastes 12:12**
 
-My son, beware to make many books, there is no end, and much study = weariness of flesh.
+My son, beware to make many books, there is no end, and much study is weariness of flesh.
 
 **Ecclesiastes 12:13**
 
-End of matter, all is heard: fear God and keep his commandments, because this = whole man.
+End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
 
 **Ecclesiastes 12:14**
 
@@ -70928,7 +70928,7 @@ Let him kiss me with kisses of his mouth, because your breasts are better than w
 
 **Song of Solomon 1:3**
 
-And scent of your perfumes above all spices; your name = poured-out perfume, therefore young women loved you.
+And scent of your perfumes above all spices; your name is poured-out perfume, therefore young women loved you.
 
 **Song of Solomon 1:4**
 
@@ -70990,7 +70990,7 @@ Beams of our houses cedars, our rafters cypresses.
 
 **Song of Solomon 2:1**
 
-I = flower of field, lily of valleys.
+I am a flower of the field, a lily of the valleys.
 
 **Song of Solomon 2:2**
 
@@ -71034,7 +71034,7 @@ Because look, winter passed, rain departed, went away for itself.
 
 **Song of Solomon 2:12**
 
-Flowers appeared in the land, time of pruning arrived, voice of turtledove was heard in our land.
+Flowers appeared in the land, time of pruning arrived, the voice of a turtledove was heard in our land.
 
 **Song of Solomon 2:13**
 
@@ -71154,7 +71154,7 @@ Garden shut, my sister bride; garden shut, spring sealed.
 
 **Song of Solomon 4:13**
 
-Your shoots = orchard of pomegranates with fruit of choice things, cypresses with nards.
+Your shoots are orchard of pomegranates with fruit of choice things, cypresses with nards.
 
 **Song of Solomon 4:14**
 
@@ -71232,7 +71232,7 @@ His legs marble pillars founded on gold bases; his appearance like Lebanon, choi
 
 **Song of Solomon 5:16**
 
-His throat sweetness, and he whole = desire. This my beloved and this my dear one, daughters of Jerusalem.
+His throat sweetness, and he is wholly desirable. This is my beloved and this my dear one, daughters of Jerusalem.
 
 ### Chapter 6
 
@@ -71366,7 +71366,7 @@ Who is this coming up whitened, leaning on her beloved? Under apple tree I awake
 
 **Song of Solomon 8:6**
 
-Set me as a seal on your heart, as a seal on your arm, because love strong as death, jealousy hard as Hades; its wings = wings of fire, its flames.
+Set me as a seal on your heart, as a seal on your arm, because love strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
 
 **Song of Solomon 8:7**
 
@@ -71374,7 +71374,7 @@ Much water will not be able to quench love, and rivers will not flood it. If man
 
 **Song of Solomon 8:8**
 
-Small sister to us, and she has no breasts. What shall we do for our sister in day when they speak in her?
+Small sister to us, and she has no breasts. What shall we do for our sister on the day when they speak in her?
 
 **Song of Solomon 8:9**
 
@@ -71418,7 +71418,7 @@ Ox knew one acquiring it, and donkey manger of its master; but Israel did not kn
 
 **Isaiah 1:4**
 
-Woe, sinful nation, people full of sins, evil seed, lawless sons. You abandoned Lord and provoked Holy One of Israel.
+Woe, sinful nation, people full of sins, evil seed, lawless sons. You abandoned the Lord and provoked the Holy One of Israel.
 
 **Isaiah 1:5**
 
@@ -71454,7 +71454,7 @@ Not even when you come to appear to me. For who sought these from your hands, to
 
 **Isaiah 1:13**
 
-You will not continue. If you bring fine flour, it is vain; incense = abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
+You will not continue. If you bring fine flour, it is vain; incense is abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
 
 **Isaiah 1:14**
 
@@ -71710,7 +71710,7 @@ and fine linen and blue and scarlet and linen woven together with gold and blue,
 
 **Isaiah 3:24**
 
-It will be, instead of sweet smell = dust, and instead of belt you will bind with rope, and instead of golden ornament of head you will have baldness because of your works, and instead of tunic bordered in purple you will gird yourself with sackcloth.
+It will be, instead of sweet smell is dust, and instead of belt you will bind with rope, and instead of golden ornament of head you will have baldness because of your works, and instead of tunic bordered in purple you will gird yourself with sackcloth.
 
 **Isaiah 3:25**
 
@@ -71774,7 +71774,7 @@ And I will leave my vineyard, and it shall certainly not be pruned nor dug, and 
 
 **Isaiah 5:7**
 
-For vineyard of the Lord of hosts = house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
+For vineyard of the Lord of hosts is house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
 
 **Isaiah 5:8**
 
@@ -71822,7 +71822,7 @@ Woe those drawing sins with long rope and lawlessness as with strap of heifer's 
 
 **Isaiah 5:19**
 
-those saying, Let what he will do come quickly and draw near, that we may see; and let counsel of Holy One of Israel come, that we may know.
+those saying, Let what he will do come quickly and draw near, that we may see; and let counsel of the Holy One of Israel come, that we may know.
 
 **Isaiah 5:20**
 
@@ -71842,7 +71842,7 @@ those justifying ungodly for gifts and taking away right of righteous.
 
 **Isaiah 5:24**
 
-Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked oracle of Holy One of Israel.
+Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked oracle of the Holy One of Israel.
 
 **Isaiah 5:25**
 
@@ -71920,7 +71920,7 @@ And after these things God will send men far away, and those left behind will mu
 
 **Isaiah 6:13**
 
-And yet upon it still = the tenth, and again it will be for plundering, like terebinth and like an oak whenever it falls from its casing.
+And yet upon it still is the tenth, and again it will be for plundering, like terebinth and like an oak whenever it falls from its casing.
 
 ### Chapter 7
 
@@ -71954,11 +71954,11 @@ Thus says the Lord of hosts: This counsel will certainly not remain, nor shall i
 
 **Isaiah 7:8**
 
-But head of Aram = Damascus; and yet within sixty-five years kingdom of Ephraim will cease from people.
+But head of Aram is Damascus; and yet within sixty-five years kingdom of Ephraim will cease from people.
 
 **Isaiah 7:9**
 
-And head of Ephraim = Samaria, and head of Samaria = son of Remaliah. If you do not believe, neither will you understand.
+And head of Ephraim is Samaria, and head of Samaria is son of Remaliah. If you do not believe, neither will you understand.
 
 **Isaiah 7:10**
 
@@ -71990,7 +71990,7 @@ Because before child knows good or evil, he rejects evil to choose good, and lan
 
 **Isaiah 7:17**
 
-But God will bring upon you and upon your people and upon the house of your father days not yet come since day Ephraim was taken away from Judah = king of the Assyrians.
+But God will bring upon you and upon your people and upon the house of your father days not yet come since day Ephraim was taken away from Judah is king of the Assyrians.
 
 **Isaiah 7:18**
 
@@ -72130,7 +72130,7 @@ Most of the people whom you brought down, in your gladness they will rejoice bef
 
 **Isaiah 9:3**
 
-Because yoke lying on them and rod on their neck, for rod of those exacting scattered Lord as in day on Midian.
+Because yoke lying on them and rod on their neck, for rod of those exacting scattered Lord as on the day of Midian.
 
 **Isaiah 9:4**
 
@@ -72174,7 +72174,7 @@ And the Lord took away from Israel head and tail, great and small, in one day.
 
 **Isaiah 9:14**
 
-Elder and those admiring faces = head, and prophet teaching lawless things = tail.
+Elder and those admiring faces is head, and prophet teaching lawless things is tail.
 
 **Isaiah 9:15**
 
@@ -72280,7 +72280,7 @@ And those left from them will be a number, and child will write them.
 
 **Isaiah 10:20**
 
-And it will be in that day, the remnant of Israel will no longer continue, and those saved of Jacob will no longer keep trusting in those who wronged them, but they will be trusting in God, Holy One of Israel, in truth.
+And it will be in that day, the remnant of Israel will no longer continue, and those saved of Jacob will no longer keep trusting in those who wronged them, but they will be trusting in God, the Holy One of Israel, in truth.
 
 **Isaiah 10:21**
 
@@ -72428,7 +72428,7 @@ Sing hymn to the name of the Lord, because he did high things; announce these in
 
 **Isaiah 12:6**
 
-Exult and rejoice, dwellers of Zion, because Holy One of Israel was exalted in the midst of her.
+Exult and rejoice, dwellers of Zion, because the Holy One of Israel was exalted in the midst of her.
 
 ### Chapter 13
 
@@ -72482,7 +72482,7 @@ And those left behind will be more precious than untried gold, and man will be m
 
 **Isaiah 13:13**
 
-For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of the Lord of hosts in day when his anger comes.
+For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of the Lord of hosts on the day when his anger comes.
 
 **Isaiah 13:14**
 
@@ -72580,7 +72580,7 @@ I will go up above clouds; I will be like Most High.
 
 **Isaiah 14:15**
 
-But now you will go down into Hades and into the foundations of earth.
+But now you will go down into Hades and into the foundations of the earth.
 
 **Isaiah 14:16**
 
@@ -72774,7 +72774,7 @@ And stubble will be left in it, or as berries of olive tree, two or three on hig
 
 **Isaiah 17:7**
 
-In that day man will be trusting in one making him, and his eyes will look to Holy One of Israel.
+In that day man will be trusting in one making him, and his eyes will look to the Holy One of Israel.
 
 **Isaiah 17:8**
 
@@ -72790,7 +72790,7 @@ Because you abandoned God your savior and did not remember the Lord your helper.
 
 **Isaiah 17:11**
 
-And in day when you plant, you will go astray, and in morning if you sow, it will blossom for harvest; in day he gives lot, and as father of man gives lot to your sons.
+And on the day when you plant, you will go astray, and in morning if you sow, it will blossom for harvest; on the day he gives lot, and as father of man gives lot to your sons.
 
 **Isaiah 17:12**
 
@@ -73048,7 +73048,7 @@ All your rulers have fled, and those captured are harshly bound, and mighty ones
 
 **Isaiah 22:4**
 
-Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort me over the crushing of daughter of my kin.
+Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort me over the crushing of the daughter of my kin.
 
 **Isaiah 22:5**
 
@@ -73166,7 +73166,7 @@ Was this your insolence from the beginning before it was handed over?
 
 **Isaiah 23:8**
 
-Who planned these things against Tyre? Is she not lesser, or does she not prevail? Her merchants are glorious, rulers of earth.
+Who planned these things against Tyre? Is she not lesser, or does she not prevail? Her merchants are glorious, rulers of the earth.
 
 **Isaiah 23:9**
 
@@ -73280,7 +73280,7 @@ Fear and pit and snare are upon you, dwellers on the earth.
 
 **Isaiah 24:18**
 
-And it will be, one fleeing fear will fall into pit, and one coming up from pit will be caught by snare, because windows from heaven were opened and foundations of earth will be shaken.
+And it will be, one fleeing fear will fall into pit, and one coming up from pit will be caught by snare, because windows from heaven were opened and foundations of the earth will be shaken.
 
 **Isaiah 24:19**
 
@@ -73292,7 +73292,7 @@ Earth bent and will be shaken like fruit-watch hut, as drunken and hungover man,
 
 **Isaiah 24:21**
 
-And God will bring his hand upon host of heaven and upon kings of earth.
+And God will bring his hand upon the host of heaven and upon kings of the earth.
 
 **Isaiah 24:22**
 
@@ -73384,7 +73384,7 @@ The way of the godly became straight, and the way of the godly is prepared.
 
 **Isaiah 26:8**
 
-For the way of the Lord = judgment; we hoped in your name and in remembrance.
+For the way of the Lord is judgment; we hoped in your name and in remembrance.
 
 **Isaiah 26:9**
 
@@ -73500,7 +73500,7 @@ Woe to crown of insolence, hired drinkers of Ephraim, flower fallen from glory o
 
 **Isaiah 28:2**
 
-Behold, strong and hard = the wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
+Behold, strong and hard is the wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
 
 **Isaiah 28:3**
 
@@ -73520,7 +73520,7 @@ They will be left upon spirit of judgment for judgment and strength preventing s
 
 **Isaiah 28:7**
 
-For these are misled with wine, they wandered because of strong drink; priest and prophet were astonished because of wine, shaken from drunkenness of strong drink, wandered. This = vision.
+For these are misled with wine, they wandered because of strong drink; priest and prophet were astonished because of wine, shaken from drunkenness of strong drink, wandered. This is vision.
 
 **Isaiah 28:8**
 
@@ -73702,7 +73702,7 @@ Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abr
 
 **Isaiah 29:23**
 
-But when they see their children, my works because of me, they will sanctify my name and sanctify Holy One of Jacob and fear God of Israel.
+But when they see their children, my works because of me, they will sanctify my name and sanctify the Holy One of Jacob and fear God of Israel.
 
 **Isaiah 29:24**
 
@@ -73720,7 +73720,7 @@ those going down into Egypt, but they did not ask me, to be helped under Pharaoh
 
 **Isaiah 30:3**
 
-For shelter of Pharaoh will be to you into shame, and to those trusting in Egypt = reproach.
+For shelter of Pharaoh will be to you into shame, and to those trusting in Egypt is reproach.
 
 **Isaiah 30:4**
 
@@ -73736,7 +73736,7 @@ Vision of four-footed beasts in the wilderness, in affliction and tightness: lio
 
 **Isaiah 30:7**
 
-Egyptians will help you vainly and emptyly. Report to them that your comfort = vanity.
+Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
 
 **Isaiah 30:8**
 
@@ -73752,11 +73752,11 @@ who say to prophets, Do not announce to us, and to those seeing visions, Do not 
 
 **Isaiah 30:11**
 
-And turn us from this way, remove from us this path, and remove from us Holy One of Israel.
+And turn us from this way, remove from us this path, and remove from us the Holy One of Israel.
 
 **Isaiah 30:12**
 
-Because of this thus says the Lord, Holy One of Israel: Because you disobeyed these words and hoped on falsehood and because you grumbled and became trusting on this word,
+Because of this thus says the Lord, the Holy One of Israel: Because you disobeyed these words and hoped on falsehood and because you grumbled and became trusting on this word,
 
 **Isaiah 30:13**
 
@@ -73768,7 +73768,7 @@ And its fall will be as shattering of earthen vessel from pottery, crushed fine,
 
 **Isaiah 30:15**
 
-Thus says the Lord, Holy One of Israel: When you turn and groan, then you will be saved and know where you were whenever you trusted in vanities. Your strength became vanity, and you did not want to hear.
+Thus says the Lord, the Holy One of Israel: When you turn and groan, then you will be saved and know where you were whenever you trusted in vanities. Your strength became vanity, and you did not want to hear.
 
 **Isaiah 30:16**
 
@@ -73816,7 +73816,7 @@ And the light of moon will be as the light of sun, and the light of sun will be 
 
 **Isaiah 30:27**
 
-Behold, the name of the Lord comes after much time, burning = wrath with glory. Oracle of his lips full of wrath, and anger of wrath as fire will eat.
+Behold, the name of the Lord comes after much time, burning is wrath with glory. Oracle of his lips full of wrath, and anger of wrath as fire will eat.
 
 **Isaiah 30:28**
 
@@ -73832,7 +73832,7 @@ And God will make glory of his voice heard and show wrath of his arm with fury a
 
 **Isaiah 30:31**
 
-For by voice of the Lord Assyrians will be defeated by blow with which he strikes them.
+For by the voice of the Lord Assyrians will be defeated by blow with which he strikes them.
 
 **Isaiah 30:32**
 
@@ -73846,7 +73846,7 @@ For beforehand you will be demanded, lest perhaps deep ravine was prepared also 
 
 **Isaiah 31:1**
 
-Woe those going down to Egypt for help, those trusting in horses and chariots, for they are many, and in horses = very great multitude, and were not trusting in Holy One of Israel and did not seek God.
+Woe those going down to Egypt for help, those trusting in horses and chariots, for they are many, and in horses, a very great multitude, and were not trusting in the Holy One of Israel and did not seek God.
 
 **Isaiah 31:2**
 
@@ -73854,7 +73854,7 @@ And he himself, being wise, brought evils upon them, and his word certainly will
 
 **Isaiah 31:3**
 
-Egyptian = man and not God, flesh of horses and there is no help. But the Lord will bring his hand upon them, and helpers will tire and together all will perish.
+Egyptian is man and not God, flesh of horses and there is no help. But the Lord will bring his hand upon them, and helpers will tire and together all will perish.
 
 **Isaiah 31:4**
 
@@ -73982,11 +73982,11 @@ But now your spoils will be gathered, small and great; as if someone gathers loc
 
 **Isaiah 33:5**
 
-Holy = God dwelling in heights; Zion was filled with judgment and righteousness.
+The Holy One is God dwelling in heights; Zion was filled with judgment and righteousness.
 
 **Isaiah 33:6**
 
-By law they will be handed over; in treasures = our salvation. There wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
+By law they will be handed over; in treasures is our salvation. There wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
 
 **Isaiah 33:7**
 
@@ -74274,7 +74274,7 @@ And he sent Eliakim the steward and Shebna the scribe and elders of priests clot
 
 **Isaiah 37:3**
 
-And they said to him, Thus says Hezekiah: Day of affliction and reproach and rebuke and anger = today, because labor came to one giving birth, but she has no strength to bear.
+And they said to him, Thus says Hezekiah: Today is a day of affliction and reproach and rebuke and anger, because labor came to one giving birth, but she has no strength to bear.
 
 **Isaiah 37:4**
 
@@ -74354,7 +74354,7 @@ This word God spoke concerning him: Virgin daughter Zion despised you and mocked
 
 **Isaiah 37:23**
 
-Whom did you reproach and provoke? Against whom did you raise your voice and did not lift your eyes to height? Against Holy One of Israel.
+Whom did you reproach and provoke? Against whom did you raise your voice and did not lift your eyes to height? Against the Holy One of Israel.
 
 **Isaiah 37:24**
 
@@ -74382,7 +74382,7 @@ And your anger, with which you raged, and your bitterness came up to me, and I w
 
 **Isaiah 37:30**
 
-And this to you = sign: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
+And this is a sign to you: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
 
 **Isaiah 37:31**
 
@@ -74444,7 +74444,7 @@ and from the hand of the king of the Assyrians I will save you and shield over t
 
 **Isaiah 38:7**
 
-And this to you = sign from the Lord that God will do this word:
+And this is a sign to you from the Lord that God will do this word:
 
 **Isaiah 38:8**
 
@@ -74504,7 +74504,7 @@ And Isaiah said to Hezekiah, Take cake of figs and rub and apply as poultice, an
 
 **Isaiah 38:22**
 
-And Hezekiah said, This = sign that I will go up into the house of the Lord God.
+And Hezekiah said, This is a sign that I will go up into the house of the Lord God.
 
 ### Chapter 39
 
@@ -74564,7 +74564,7 @@ And the glory of the Lord will be seen, and all flesh will see salvation of God,
 
 **Isaiah 40:6**
 
-The voice of one saying, Cry out. And I said, What shall I cry? All flesh = grass, and all glory of man as flower of grass.
+The voice of one saying, Cry out. And I said, What shall I cry? All flesh is grass, and all glory of man as flower of grass.
 
 **Isaiah 40:7**
 
@@ -74624,7 +74624,7 @@ For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it 
 
 **Isaiah 40:21**
 
-Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of earth?
+Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of the earth?
 
 **Isaiah 40:22**
 
@@ -74640,7 +74640,7 @@ For they certainly will not sow, nor plant, nor their root certainly take root i
 
 **Isaiah 40:25**
 
-Now then to whom did you liken me, that I shall be exalted, said Holy One.
+Now then to whom did you liken me, that I shall be exalted, said the Holy One.
 
 **Isaiah 40:26**
 
@@ -74682,7 +74682,7 @@ And he will pursue them and pass through in peace, way of his feet.
 
 **Isaiah 41:4**
 
-Who worked and did these things? He called it from generations of beginning. I = God, first, and in things coming I am.
+Who worked and did these things? He called it from generations of beginning. I am God, first, and in things coming I am.
 
 **Isaiah 41:5**
 
@@ -74746,7 +74746,7 @@ I will put in dry land cedar and box tree and myrtle and cypress and white popla
 
 **Isaiah 41:20**
 
-so that they may see and know and understand and know together that hand of the Lord did all these things and Holy One of Israel displayed them.
+so that they may see and know and understand and know together that hand of the Lord did all these things and the Holy One of Israel displayed them.
 
 **Isaiah 41:21**
 
@@ -74898,7 +74898,7 @@ And if you pass through water, I am with you, and rivers will not flood you, and
 
 **Isaiah 43:3**
 
-Because I am the Lord your God, Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
+Because I am the Lord your God, the Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
 
 **Isaiah 43:4**
 
@@ -74934,7 +74934,7 @@ I am God, and apart from me there is no one saving.
 
 **Isaiah 43:12**
 
-I announced and saved; I reproached, and there was no foreigner among you. You = my witnesses, and I = witness, says the Lord God.
+I announced and saved; I reproached, and there was no foreigner among you. You are my witnesses, and I am a witness, says the Lord God.
 
 **Isaiah 43:13**
 
@@ -74942,7 +74942,7 @@ Still from the beginning, and there is none rescuing from my hands. I will do, a
 
 **Isaiah 43:14**
 
-Thus says the Lord God, one redeeming you, Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
+Thus says the Lord God, one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
 
 **Isaiah 43:15**
 
@@ -75080,7 +75080,7 @@ And he did not consider in his heart, nor reckon in his soul, nor know with unde
 
 **Isaiah 44:20**
 
-Know that their heart = ashes; they wander, and no one can rescue his soul. See, will you not say, Lie in my right hand?
+Know that their heart is ashes; they wander, and no one can rescue his soul. See, will you not say, Lie in my right hand?
 
 **Isaiah 44:21**
 
@@ -75092,7 +75092,7 @@ For see, I wiped away your lawless deeds like a cloud and your sins like gloom. 
 
 **Isaiah 44:23**
 
-Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of earth. Cry out, mountains, with gladness, hills and all trees in them, because God redeemed Jacob, and in Israel will be glorified.
+Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of the earth. Cry out, mountains, with gladness, hills and all trees in them, because God redeemed Jacob, and in Israel will be glorified.
 
 **Isaiah 44:24**
 
@@ -75158,7 +75158,7 @@ Woe to one saying to father, What will you father? and to mother, What are you l
 
 **Isaiah 45:11**
 
-Because thus says the Lord God, Holy One of Israel, one making things coming: Ask me concerning my sons and daughters, and command me concerning works of my hands.
+Because thus says the Lord God, the Holy One of Israel, one making things coming: Ask me concerning my sons and daughters, and command me concerning works of my hands.
 
 **Isaiah 45:12**
 
@@ -75408,7 +75408,7 @@ If you had heard my commandments, then your peace would have become like a river
 
 **Isaiah 48:19**
 
-And your seed would have become like sand, and offspring of your womb like dust of earth; nor now would you be destroyed, nor your name perish before me.
+And your seed would have become like sand, and offspring of your womb like dust of the earth; nor now would you be destroyed, nor your name perish before me.
 
 **Isaiah 48:20**
 
@@ -75450,7 +75450,7 @@ And he said to me, Great thing for you it is to be called my servant, to set up 
 
 **Isaiah 49:7**
 
-Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because Holy One of Israel is faithful, and he chose you.
+Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 
 **Isaiah 49:8**
 
@@ -75870,7 +75870,7 @@ See, I have given him as witness among nations, ruler and commander to nations.
 
 **Isaiah 55:5**
 
-Nations that did not know you will call you, and peoples that do not understand you will flee for refuge to you, because of your God, Holy One of Israel, because he glorified you.
+Nations that did not know you will call you, and peoples that do not understand you will flee for refuge to you, because of your God, the Holy One of Israel, because he glorified you.
 
 **Isaiah 55:6**
 
@@ -76118,7 +76118,7 @@ They hatch eggs of asps and weave spider's web, and one about to eat their eggs,
 
 **Isaiah 59:6**
 
-Their web will not become garment, nor will they clothe themselves from their works, for their works = works of lawlessness.
+Their web will not become garment, nor will they clothe themselves from their works, for their works is works of lawlessness.
 
 **Isaiah 59:7**
 
@@ -76216,7 +76216,7 @@ Who are these flying like clouds and like doves with young?
 
 **Isaiah 60:9**
 
-Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of holy name of the Lord and because Holy One of Israel is glorified.
+Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of holy name of the Lord and because the Holy One of Israel is glorified.
 
 **Isaiah 60:10**
 
@@ -76616,7 +76616,7 @@ Hear the word of the Lord, you trembling at his word: Your brothers hating you a
 
 **Isaiah 66:6**
 
-The voice of cry from the city, voice from the temple, voice of the Lord repaying repayment to opponents.
+The voice of a cry from the city, a voice from the temple, the voice of the Lord repaying repayment to opponents.
 
 **Isaiah 66:7**
 
@@ -76774,7 +76774,7 @@ And they will fight you and will not prevail against you, because I am with you 
 
 **Jeremiah 2:2**
 
-And he said, Thus says the Lord: I remembered mercy of your youth and love of your completion, your following Holy One of Israel, says the Lord.
+And he said, Thus says the Lord: I remembered mercy of your youth and love of your completion, your following the Holy One of Israel, says the Lord.
 
 **Jeremiah 2:3**
 
@@ -76980,7 +76980,7 @@ And I will give you shepherds according to my heart, and they will shepherd you 
 
 **Jeremiah 3:16**
 
-And it will be, if you multiply and increase on earth in those days, says the Lord, they will no longer say, Ark of covenant of Holy One of Israel. It will not come up on heart, nor be named nor visited, nor be made again.
+And it will be, if you multiply and increase on earth in those days, says the Lord, they will no longer say, Ark of covenant of the Holy One of Israel. It will not come up on heart, nor be named nor visited, nor be made again.
 
 **Jeremiah 3:17**
 
@@ -77016,7 +77016,7 @@ And shame consumed labors of our fathers from our youth, their sheep and their c
 
 **Jeremiah 3:25**
 
-We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey voice of the Lord our God.
+We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
 
 ### Chapter 4
 
@@ -77062,7 +77062,7 @@ And I said, Ah, Master Lord, surely by deception you deceived this people and Je
 
 **Jeremiah 4:11**
 
-At that time they will say to this people and to Jerusalem: Spirit of wandering in the wilderness, way of daughter of my people, not for cleansing nor for holy thing.
+At that time they will say to this people and to Jerusalem: Spirit of wandering in the wilderness, way of the daughter of my people, not for cleansing nor for holy thing.
 
 **Jeremiah 4:12**
 
@@ -77476,7 +77476,7 @@ Thus says the Lord: Gather your whole burnt offerings with your sacrifices and e
 
 **Jeremiah 7:22**
 
-Because I did not speak to your fathers and did not command them in day I brought them up from the land of Egypt concerning whole burnt offerings and sacrifice.
+Because I did not speak to your fathers and did not command them on the day I brought them up from the land of Egypt concerning whole burnt offerings and sacrifice.
 
 **Jeremiah 7:23**
 
@@ -77496,7 +77496,7 @@ And they did not hear me and did not incline their ear and hardened their neck m
 
 **Jeremiah 7:27**
 
-And you will say to them this word: This is nation that did not hear voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
+And you will say to them this word: This is nation that did not hear the voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
 
 **Jeremiah 7:28**
 
@@ -77594,7 +77594,7 @@ Incurable with pain, your heart in distress.
 
 **Jeremiah 8:19**
 
-Behold, voice of cry of daughter of my people from far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
+Behold, the voice of the cry of the daughter of my people from far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
 
 **Jeremiah 8:20**
 
@@ -77602,15 +77602,15 @@ Summer passed, harvest ended, and we were not saved.
 
 **Jeremiah 8:21**
 
-Over the crushing of daughter of my people I was darkened. Distress seized me, pangs as of a woman giving birth.
+Over the crushing of the daughter of my people I was darkened. Distress seized me, pangs as of a woman giving birth.
 
 **Jeremiah 8:22**
 
-Is there no resin in Gilead? Is there no physician there? Why did healing of daughter of my people not rise?
+Is there no resin in Gilead? Is there no physician there? Why did healing of the daughter of my people not rise?
 
 **Jeremiah 8:23**
 
-Who will give my head water and my eyes spring of tears? And I will weep for this people day and night, for wounded ones of daughter of my people.
+Who will give my head water and my eyes spring of tears? And I will weep for this people day and night, for wounded ones of the daughter of my people.
 
 ### Chapter 9
 
@@ -77636,11 +77636,11 @@ Usury upon usury, deceit upon deceit; they did not want to know me.
 
 **Jeremiah 9:6**
 
-Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do because of evil of daughter of my people?
+Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do because of evil of the daughter of my people?
 
 **Jeremiah 9:7**
 
-Their tongue = wounding arrow; words of their mouth deceitful. To his neighbor he speaks peaceful things, but in himself he holds enmity.
+Their tongue is wounding arrow; words of their mouth deceitful. To his neighbor he speaks peaceful things, but in himself he holds enmity.
 
 **Jeremiah 9:8**
 
@@ -77816,7 +77816,7 @@ and you will say to them, Thus says the Lord God of Israel: Cursed man who will 
 
 **Jeremiah 11:4**
 
-which I commanded your fathers in day I brought them up from the land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
+which I commanded your fathers on the day I brought them up from the land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
 
 **Jeremiah 11:5**
 
@@ -78138,7 +78138,7 @@ And the people to whom they prophesy will lie thrown in the streets of Jerusalem
 
 **Jeremiah 14:17**
 
-And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because daughter of my people was crushed with crushing, very grievous wound.
+And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because the daughter of my people was crushed with crushing, very grievous wound.
 
 **Jeremiah 14:18**
 
@@ -78502,7 +78502,7 @@ And they said, Come, let us think thought against Jeremiah, because law will not
 
 **Jeremiah 18:19**
 
-Hear me, Lord, and hear voice of my plea.
+Hear me, Lord, and hear the voice of my plea.
 
 **Jeremiah 18:20**
 
@@ -79434,7 +79434,7 @@ And slain ones will fall in the land of Chaldeans, and stabbed ones outside her.
 
 **Jeremiah 28:5**
 
-Because Israel and Judah were not widowed from their God, from the Lord Almighty, because their land was filled with injustice from Holy One of Israel.
+Because Israel and Judah were not widowed from their God, from the Lord Almighty, because their land was filled with injustice from the Holy One of Israel.
 
 **Jeremiah 28:6**
 
@@ -80148,7 +80148,7 @@ And Jeremiah said to rulers and to all the people, saying, the Lord sent me to p
 
 **Jeremiah 33:13**
 
-And now make your ways and your works better and hear voice of the Lord, and the Lord will stop from evils which he spoke against you.
+And now make your ways and your works better and hear the voice of the Lord, and the Lord will stop from evils which he spoke against you.
 
 **Jeremiah 33:14**
 
@@ -80654,7 +80654,7 @@ Behold, days come, says the Lord, and I will make with the house of Israel and t
 
 **Jeremiah 38:32**
 
-not according to covenant which I made with their fathers in day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
+not according to covenant which I made with their fathers on the day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
 
 **Jeremiah 38:33**
 
@@ -80666,7 +80666,7 @@ And they will certainly not teach each his fellow citizen and each his brother, 
 
 **Jeremiah 38:35**
 
-If heaven is lifted up high, says the Lord, and if foundation of earth is humbled below, I also will not reject seed of Israel, says the Lord, concerning all they did.
+If heaven is lifted up high, says the Lord, and if the foundation of the earth is humbled below, I also will not reject seed of Israel, says the Lord, concerning all they did.
 
 **Jeremiah 38:36**
 
@@ -81024,7 +81024,7 @@ And the word of the Lord came to Jeremiah, saying,
 
 **Jeremiah 41:13**
 
-Thus said the Lord God of Israel: I made covenant with your fathers in day when I brought them out from the land of Egypt, out of the house of slavery, saying,
+Thus said the Lord God of Israel: I made covenant with your fathers on the day when I brought them out from the land of Egypt, out of the house of slavery, saying,
 
 **Jeremiah 41:14**
 
@@ -81668,7 +81668,7 @@ And they said to Jeremiah, Let the Lord be in us as righteous and faithful witne
 
 **Jeremiah 49:6**
 
-Whether good or evil, voice of the Lord our God, whom we send you to him, we will hear, so that it may be better for us because we will hear voice of the Lord our God.
+Whether good or evil, the voice of the Lord our God, whom we send you to him, we will hear, so that it may be better for us because we will hear the voice of the Lord our God.
 
 **Jeremiah 49:7**
 
@@ -81728,7 +81728,7 @@ because you did evil in your souls, sending me, saying, Pray concerning us to th
 
 **Jeremiah 49:21**
 
-And you did not hear voice of the Lord, by which he sent me to you.
+And you did not hear the voice of the Lord, by which he sent me to you.
 
 **Jeremiah 49:22**
 
@@ -81750,7 +81750,7 @@ But Baruch son of Neriah conspires against us, so as to give us into the hands o
 
 **Jeremiah 50:4**
 
-And Johanan and all leaders of force and all the people did not hear voice of the Lord, to dwell in the land of Judah.
+And Johanan and all leaders of force and all the people did not hear the voice of the Lord, to dwell in the land of Judah.
 
 **Jeremiah 50:5**
 
@@ -81762,7 +81762,7 @@ mighty men and women and infants and daughters of the king and souls whom Nebuza
 
 **Jeremiah 50:7**
 
-and they entered Egypt because they did not hear voice of the Lord, and they entered Tahpanhes.
+and they entered Egypt because they did not hear the voice of the Lord, and they entered Tahpanhes.
 
 **Jeremiah 50:8**
 
@@ -81820,7 +81820,7 @@ And now thus said the Lord Almighty: Why do you do great evils against your soul
 
 **Jeremiah 51:8**
 
-provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of earth?
+provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of the earth?
 
 **Jeremiah 51:9**
 
@@ -81880,7 +81880,7 @@ And the Lord was no longer able to bear from the face of evil of your deeds, fro
 
 **Jeremiah 51:23**
 
-because you burned incense and sinned against the Lord and did not hear voice of the Lord and did not walk in his ordinances and in his law and in his testimonies, and these evils seized you.
+because you burned incense and sinned against the Lord and did not hear the voice of the Lord and did not walk in his ordinances and in his law and in his testimonies, and these evils seized you.
 
 **Jeremiah 51:24**
 
@@ -82184,7 +82184,7 @@ They sat on ground, kept silent, elders of daughter Zion. They raised dust on th
 
 **Lamentations 2:11**
 
-My eyes failed in tears. My heart was troubled. My glory poured out on earth over the crushing of daughter of my people, when infant and suckling failed in the streets of the city.
+My eyes failed in tears. My heart was troubled. My glory poured out on earth over the crushing of the daughter of my people, when infant and suckling failed in the streets of the city.
 
 **Lamentations 2:12**
 
@@ -82406,7 +82406,7 @@ Fear and anger came upon us, exaltation and crushing.
 
 **Lamentations 3:48**
 
-The streams of waters my eye will bring down over the crushing of daughter of my people.
+The streams of waters my eye will bring down over the crushing of the daughter of my people.
 
 **Lamentations 3:49**
 
@@ -82442,7 +82442,7 @@ You heard my voice. Do not hide your ears from my petition.
 
 **Lamentations 3:57**
 
-You came near to my help in day when I called you. You said to me, Do not fear.
+You came near to my help on the day when I called you. You said to me, Do not fear.
 
 **Lamentations 3:58**
 
@@ -82504,7 +82504,7 @@ Those eating delicacies were ruined in streets. Those nourished on scarlet embra
 
 **Lamentations 4:6**
 
-And lawlessness of daughter of my people grew beyond lawlessness of Sodom, the overthrown one, as if suddenly and no hands pained in her.
+And lawlessness of the daughter of my people grew beyond lawlessness of Sodom, the overthrown one, as if suddenly and no hands pained in her.
 
 **Lamentations 4:7**
 
@@ -82520,7 +82520,7 @@ Better were wounded of sword than wounded of famine. They went pierced from the 
 
 **Lamentations 4:10**
 
-The hands of compassionate women cooked their children. They became food to them in crushing of daughter of my people.
+The hands of compassionate women cooked their children. They became food to them in crushing of the daughter of my people.
 
 **Lamentations 4:11**
 
@@ -82944,7 +82944,7 @@ And you will lie on your left side and set injustices of the house of Israel upo
 
 **Ezekiel 4:5**
 
-And I gave you their two injustices for number of days, one hundred ninety days, and you will bear injustices of the house of Israel.
+And I gave you their two injustices for the number of days, one hundred ninety days, and you will bear injustices of the house of Israel.
 
 **Ezekiel 4:6**
 
@@ -83288,7 +83288,7 @@ And he said to me, You will yet see greater lawless deeds that they do.
 
 **Ezekiel 8:14**
 
-And he brought me to the forecourt of gate of the house of the Lord facing north, and behold, there women sat lamenting Tammuz.
+And he brought me to the forecourt of the gate of the house of the Lord facing north, and behold, there women sat lamenting Tammuz.
 
 **Ezekiel 8:15**
 
@@ -83424,7 +83424,7 @@ And the glory of the Lord went out from the house and settled on cherubim.
 
 **Ezekiel 10:19**
 
-And cherubim lifted their wings and were raised from earth before me when they went out, and wheels were beside them, and they stood at the forecourt of gate of the house of the Lord opposite, and the glory of God of Israel was above them.
+And cherubim lifted their wings and were raised from earth before me when they went out, and wheels were beside them, and they stood at the forecourt of the gate of the house of the Lord opposite, and the glory of God of Israel was above them.
 
 **Ezekiel 10:20**
 
@@ -85320,7 +85320,7 @@ And they will take up lament over you and say to you, How were you destroyed fro
 
 **Ezekiel 26:18**
 
-And islands will fear from day of your fall.
+And islands will fear from the day of your fall.
 
 **Ezekiel 26:19**
 
@@ -85462,7 +85462,7 @@ And their sons will take up lament over you and lamentation for you:
 
 **Ezekiel 27:33**
 
-What kind of wages did you find from sea? You filled nations from your abundance, and from your mixed trade you enriched all kings of earth.
+What kind of wages did you find from sea? You filled nations from your abundance, and from your mixed trade you enriched all kings of the earth.
 
 **Ezekiel 27:34**
 
@@ -85846,7 +85846,7 @@ For they also went down with him to Hades, among those wounded by sword, and his
 
 **Ezekiel 31:18**
 
-To whom were you likened? Go down and be brought down with trees of delight into the depth of earth. In the midst of uncircumcised you will lie with the wounded of sword. Thus is Pharaoh and all multitude of his strength, says the Lord.
+To whom were you likened? Go down and be brought down with trees of delight into the depth of earth. In the midst of uncircumcised you will lie with the wounded of sword. Thus is Pharaoh and all the multitude of his strength, says the Lord.
 
 ### Chapter 32
 
@@ -85888,7 +85888,7 @@ And I will provoke heart of many peoples when I bring your captivity among natio
 
 **Ezekiel 32:10**
 
-And many nations will shudder over you, and their kings will stand astonished when I swing my sword before their faces, waiting for their fall from day of your fall.
+And many nations will shudder over you, and their kings will stand astonished when I swing my sword before their faces, waiting for their fall from the day of your fall.
 
 **Ezekiel 32:11**
 
@@ -86726,7 +86726,7 @@ And you, son of man, say, Thus says the Lord: Say to every bird and to all the b
 
 **Ezekiel 39:18**
 
-Flesh of giants you will eat and blood of rulers of earth you will drink, rams and calves and goats, all fattened calves.
+Flesh of giants you will eat and blood of rulers of the earth you will drink, rams and calves and goats, all fattened calves.
 
 **Ezekiel 39:19**
 
@@ -86796,7 +86796,7 @@ And behold, wall outside house around it, and in man’s hand a measuring reed o
 
 **Ezekiel 40:6**
 
-And he entered into gate facing east, by seven steps, and measured porch of gate, one reed.
+And he entered into gate facing east, by seven steps, and measured porch of the gate, one reed.
 
 **Ezekiel 40:7**
 
@@ -86808,7 +86808,7 @@ And third chamber, one reed in width and one reed in length.
 
 **Ezekiel 40:9**
 
-And porch of gateway next to porch of gate, eight cubits, and jambs two cubits, and porch of gate inward.
+And porch of gateway next to porch of the gate, eight cubits, and jambs two cubits, and porch of the gate inward.
 
 **Ezekiel 40:10**
 
@@ -86828,11 +86828,11 @@ And he measured the gate from the wall of one chamber to the wall of the other c
 
 **Ezekiel 40:14**
 
-And court of porch of gate, sixty cubits, twenty chambers of gate around.
+And court of porch of the gate, sixty cubits, twenty chambers of gate around.
 
 **Ezekiel 40:15**
 
-And from the court of outer gate to the court of inner porch of gate, fifty cubits.
+And from the court of outer gate to the court of inner porch of the gate, fifty cubits.
 
 **Ezekiel 40:16**
 
@@ -86928,7 +86928,7 @@ Second pouring out, so that they may slaughter in it the offerings for sin and f
 
 **Ezekiel 40:40**
 
-And along back of the runnel of burnt offerings facing north, two tables to east, and along back of the second and of porch of gate, two tables to east.
+And along back of the runnel of burnt offerings facing north, two tables to east, and along back of the second and of porch of the gate, two tables to east.
 
 **Ezekiel 40:41**
 
@@ -88930,7 +88930,7 @@ And I was left alone and saw this great vision, and no strength remained in me, 
 
 **Daniel 10:9**
 
-And I did not hear voice of his speech; I was fallen on my face upon the earth.
+And I did not hear the voice of his speech; I was fallen on my face upon the earth.
 
 **Daniel 10:10**
 
@@ -90522,7 +90522,7 @@ Hear and testify to the house of Jacob, says the Lord God Almighty.
 
 **Amos 3:14**
 
-Because in day when I avenge impieties of Israel upon him, I will also avenge upon altars of Bethel, and horns of altar will be dug down and fall upon the earth.
+Because on the day when I avenge impieties of Israel upon him, I will also avenge upon altars of Bethel, and horns of altar will be dug down and fall upon the earth.
 
 **Amos 3:15**
 
@@ -91526,7 +91526,7 @@ Hear now the word of the Lord. The Lord said, Rise, plead with mountains, and le
 
 **Micah 6:2**
 
-Hear, mountains, judgment of the Lord, and ravines, foundations of earth, because the Lord has judgment with his people, and with Israel he will dispute.
+Hear, mountains, judgment of the Lord, and ravines, foundations of the earth, because the Lord has judgment with his people, and with Israel he will dispute.
 
 **Micah 6:3**
 
@@ -92214,7 +92214,7 @@ This to them in return for their arrogance, because they reproached and magnifie
 
 **Zephaniah 2:11**
 
-The Lord will appear against them and destroy all gods of nations of earth, and all islands of nations will worship him, each from his place.
+The Lord will appear against them and destroy all gods of the nations of the earth, and all islands of nations will worship him, each from his place.
 
 **Zephaniah 2:12**
 
@@ -92820,7 +92820,7 @@ And crown will belong to those waiting and to its useful ones and to those knowi
 
 **Zechariah 6:15**
 
-And those far from them will come and build in the house of the Lord, and you will know that the Lord Almighty sent me to you. And it will be, if hearing you hear voice of the Lord your God.
+And those far from them will come and build in the house of the Lord, and you will know that the Lord Almighty sent me to you. And it will be, if hearing you hear the voice of the Lord your God.
 
 ### Chapter 7
 
@@ -93176,7 +93176,7 @@ Behold, I make Jerusalem like shaken thresholds to all peoples round about, and 
 
 **Zechariah 12:3**
 
-And it will be in that day, I will make Jerusalem a trampled stone to all nations. Everyone trampling her will surely be mocked, and all nations of earth will be gathered against her.
+And it will be in that day, I will make Jerusalem a trampled stone to all nations. Everyone trampling her will surely be mocked, and all nations of the earth will be gathered against her.
 
 **Zechariah 12:4**
 
@@ -93544,7 +93544,7 @@ These things those fearing the Lord spoke, each to his neighbor, and the Lord pa
 
 **Malachi 3:17**
 
-And they will be mine, says the Lord Almighty, in day I make for possession, and I will choose them as man chooses his son serving him.
+And they will be mine, says the Lord Almighty, on the day I make for possession, and I will choose them as man chooses his son serving him.
 
 **Malachi 3:18**
 
@@ -93560,7 +93560,7 @@ And for you fearing my name, sun of righteousness will rise, and healing in its 
 
 **Malachi 3:21**
 
-And you will trample lawless ones, because they will be ashes under your feet in day that I make, says the Lord Almighty.
+And you will trample lawless ones, because they will be ashes under your feet on the day that I make, says the Lord Almighty.
 
 **Malachi 3:22**
 

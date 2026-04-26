@@ -6357,6 +6357,18 @@ LORD_OBJECT_REPLACEMENTS = (
         "God will come from Teman, and the Holy One from overshadowing wooded mountain. Pause. His excellence covered the heavens, and the earth was full of his praise",
     ),
     (
+        re.compile(r"\bwith lyre, Holy One of Israel\b"),
+        "with lyre, O Holy One of Israel",
+    ),
+    (
+        re.compile(r"\bYou abandoned Lord and provoked Holy One of Israel\b"),
+        "You abandoned the Lord and provoked the Holy One of Israel",
+    ),
+    (
+        re.compile(r"(?<!O )(?<!my )(?<!your )(?<![Tt]he )\bHoly One\b"),
+        "the Holy One",
+    ),
+    (
         re.compile(r"\bThey became grass of the field and green herb, grass of the rooftops and trampling before standing grain\b"),
         "They became like grass of the field and green herb, like grass of the rooftops and trampling before standing grain",
     ),
@@ -6407,6 +6419,280 @@ LORD_OBJECT_REPLACEMENTS = (
     (
         re.compile(r"\bFear God, son, and the king, and do not disobey either of them\b"),
         "My son, fear God and the king, and do not disobey either of them",
+    ),
+    (
+        re.compile(r"\ball kings of earth were seeking face of Solomon\b"),
+        "all kings of the earth were seeking the face of Solomon",
+    ),
+    (
+        re.compile(r"\bkings of earth\b"),
+        "kings of the earth",
+    ),
+    (
+        re.compile(r"\ball nations of earth\b"),
+        "all nations of the earth",
+    ),
+    (
+        re.compile(r"\bFor earth is given into the hands\b"),
+        "For the earth is given into the hands",
+    ),
+    (
+        re.compile(r"\bearth is house for every mortal\b"),
+        "the earth is a house for every mortal",
+    ),
+    (
+        re.compile(r"\bword of the Lord heavens were made firm\b"),
+        "word of the Lord the heavens were made firm",
+    ),
+    (
+        re.compile(r"\bfoundations? of earth\b"),
+        lambda match: f"{match.group(0).split()[0]} of the earth",
+    ),
+    (
+        re.compile(r"\bupon host of heaven and upon kings of the earth\b"),
+        "upon the host of heaven and upon kings of the earth",
+    ),
+    (
+        re.compile(r"\bif foundation of the earth\b"),
+        "if the foundation of the earth",
+    ),
+    (
+        re.compile(r"\bLord in his holy temple; Lord, his throne in heaven\b"),
+        "The Lord is in his holy temple; the Lord's throne is in heaven",
+    ),
+    (
+        re.compile(r"\bLord in his anger will trouble them\b"),
+        "The Lord in his anger will trouble them",
+    ),
+    (
+        re.compile(r"\bWorship Lord in his holy court\b"),
+        "Worship the Lord in his holy court",
+    ),
+    (
+        re.compile(r"\bFaithful Lord in his words and holy in all his works\b"),
+        "Faithful is the Lord in his words and holy in all his works",
+    ),
+    (
+        re.compile(r"\bearth shook, and heaven was shaken\b"),
+        "the earth shook, and heaven was shaken",
+    ),
+    (
+        re.compile(r"\bupon earth\?"),
+        "upon the earth?",
+    ),
+    (
+        re.compile(r"\bdust of earth\b"),
+        "dust of the earth",
+    ),
+    (
+        re.compile(r"\bbut earth he gave\b"),
+        "but the earth he gave",
+    ),
+    (
+        re.compile(r"\bcrushing of daughter of my kin\b"),
+        "crushing of the daughter of my kin",
+    ),
+    (
+        re.compile(r"\bfrom heads of father-houses\b"),
+        "from the heads of father-houses",
+    ),
+    (
+        re.compile(r"\bforecourt of gate of the house\b"),
+        "forecourt of the gate of the house",
+    ),
+    (
+        re.compile(r"\bporch of gate\b"),
+        "porch of the gate",
+    ),
+    (
+        re.compile(r"\bthrone of kingdom of the Lord\b"),
+        "throne of the kingdom of the Lord",
+    ),
+    (
+        re.compile(r"\bpattern which he had in his spirit of courts of the house\b"),
+        "pattern which he had in his spirit of the courts of the house",
+    ),
+    (
+        re.compile(r"\bmade house of holy of holies\b"),
+        "made the house of the holy of holies",
+    ),
+    (
+        re.compile(r"\bfor judgment of the Lord\b"),
+        "for the judgment of the Lord",
+    ),
+    (
+        re.compile(r"\bnot in tombs of kings\b"),
+        "not in the tombs of kings",
+    ),
+    (
+        re.compile(r"\baccording to covenant of the law of the Lord\b"),
+        "according to the covenant of the law of the Lord",
+    ),
+    (
+        re.compile(r"\baccording to abominations of nations\b"),
+        "according to the abominations of nations",
+    ),
+    (
+        re.compile(r"\bgods of nations of earth\b"),
+        "gods of the nations of the earth",
+    ),
+    (
+        re.compile(r"\bcommanders of force of the king\b"),
+        "commanders of the force of the king",
+    ),
+    (
+        re.compile(r"\brulers of earth\b"),
+        "rulers of the earth",
+    ),
+    (
+        re.compile(r"\bunder sun\b"),
+        "under the sun",
+    ),
+    (
+        re.compile(r"(?<![Tt]he )\bdaughter of my people\b"),
+        "the daughter of my people",
+    ),
+    (
+        re.compile(r"(?<![Tt]he )\bheads of father-houses\b"),
+        "the heads of father-houses",
+    ),
+    (
+        re.compile(r"\bchiefs of houses of fathers\b"),
+        "chiefs of the houses of fathers",
+    ),
+    (
+        re.compile(r"\bchiefs of father-houses of priests\b"),
+        "chiefs of the father-houses of priests",
+    ),
+    (
+        re.compile(r"\bhouse of tombs of my fathers\b"),
+        "house of the tombs of my fathers",
+    ),
+    (
+        re.compile(r"\bcity of tombs of my fathers\b"),
+        "city of the tombs of my fathers",
+    ),
+    (
+        re.compile(r"\bof words of the king\b"),
+        "of the words of the king",
+    ),
+    (
+        re.compile(r"(?<![Tt]he )\bpeoples of the land\b"),
+        "the peoples of the land",
+    ),
+    (
+        re.compile(r"\bjudgments of your righteousness\b"),
+        "the judgments of your righteousness",
+    ),
+    (
+        re.compile(r"\bfrom day of your fall\b"),
+        "from the day of your fall",
+    ),
+    (
+        re.compile(r"\bLords anger\b"),
+        "Lord's anger",
+    ),
+    (
+        re.compile(r"\bfrom strength of your hand\b"),
+        "from the strength of your hand",
+    ),
+    (
+        re.compile(r"\bby multitude of his strength\b"),
+        "by the multitude of his strength",
+    ),
+    (
+        re.compile(r"\ball multitude of his strength\b"),
+        "all the multitude of his strength",
+    ),
+    (
+        re.compile(r"\bbreath of spirit of your wrath\b"),
+        "breath of the spirit of your wrath",
+    ),
+    (
+        re.compile(r"\bunder the sun, number of days\b"),
+        "under the sun, the number of days",
+    ),
+    (
+        re.compile(r"\bin life, number of days\b"),
+        "in life, the number of days",
+    ),
+    (
+        re.compile(r"\bfor number of days\b"),
+        "for the number of days",
+    ),
+    (
+        re.compile(r"\bwith sun and before moon\b"),
+        "with the sun and before the moon",
+    ),
+    (
+        re.compile(r"\bSeven times in day\b"),
+        "Seven times a day",
+    ),
+    (
+        re.compile(r"\bin day when\b"),
+        "on the day when",
+    ),
+    (
+        re.compile(r"\bin day I\b"),
+        "on the day I",
+    ),
+    (
+        re.compile(r"\bin day that\b"),
+        "on the day that",
+    ),
+    (
+        re.compile(r"\bin day he gives lot\b"),
+        "on the day he gives lot",
+    ),
+    (
+        re.compile(r"\bin day and in night\b"),
+        "by day and by night",
+    ),
+    (
+        re.compile(r"\bas in day on Midian\b"),
+        "as on the day of Midian",
+    ),
+    (
+        re.compile(
+            r"\brace not to swift, nor war to strong, and indeed not bread to wise, and indeed not wealth to understanding\b"
+        ),
+        "the race is not to the swift, nor war to the strong, and indeed not bread to the wise, and indeed not wealth to those with understanding",
+    ),
+    (
+        re.compile(r"\bStrength of lion, voice of lioness\b"),
+        "The strength of a lion, the voice of a lioness",
+    ),
+    (
+        re.compile(r"\bGod went up in shout, Lord in voice of a trumpet\b"),
+        "God went up with a shout, the Lord with the voice of a trumpet",
+    ),
+    (
+        re.compile(r"\bvoice of turtledove was heard\b"),
+        "the voice of a turtledove was heard",
+    ),
+    (
+        re.compile(r"\bThe voice of cry from the city, voice from the temple, voice of the Lord\b"),
+        "The voice of a cry from the city, a voice from the temple, the voice of the Lord",
+    ),
+    (
+        re.compile(r"\bBehold, voice of cry of daughter of my people\b"),
+        "Behold, the voice of the cry of the daughter of my people",
+    ),
+    (
+        re.compile(r"\b(?:hear|heard|hears|hearing) voice of\b"),
+        lambda match: f"{match.group(0).rsplit(' ', 2)[0]} the voice of",
+    ),
+    (
+        re.compile(r"\bobey voice of\b"),
+        "obey the voice of",
+    ),
+    (
+        re.compile(r"\bby voice of\b"),
+        "by the voice of",
+    ),
+    (
+        re.compile(r"\bWhether good or evil, voice of the Lord\b"),
+        "Whether good or evil, the voice of the Lord",
     ),
     (
         re.compile(r"\bThis one is father of the Moabites\b"),
@@ -6788,6 +7074,34 @@ LORD_OBJECT_REPLACEMENTS = (
     (re.compile(r"\bA(?: a)+\b"), "A"),
 )
 DEDUPED_LORD_ARTICLE_RE = re.compile(r"\b([Tt])he [Tt]he Lord\b")
+COPULA_EXACT_REPLACEMENTS = (
+    ("And this to you = sign:", "And this is a sign to you:"),
+    ("And this to you = sign from", "And this is a sign to you from"),
+    ("This = sign that", "This is a sign that"),
+    ("because this = whole man", "because this is the whole man"),
+    ("I = flower of field, lily of valleys", "I am a flower of the field, a lily of the valleys"),
+    ("and he whole = desire", "and he is wholly desirable"),
+    ("This my beloved", "This is my beloved"),
+    ("This my dear one", "this is my dear one"),
+    ("I = God", "I am God"),
+    ("You = my witnesses", "You are my witnesses"),
+    ("I = witness", "I am a witness"),
+    ("All flesh = grass", "All flesh is grass"),
+    ("Holy = God dwelling in heights", "The Holy One is God dwelling in heights"),
+    ("Day of affliction and reproach and rebuke and anger = today", "Today is a day of affliction and reproach and rebuke and anger"),
+    ("in horses = very great multitude", "in horses, a very great multitude"),
+)
+COPULA_PLURAL_LEFTS = (
+    "children's children",
+    "egyptians",
+    "honeycombs",
+    "its wings",
+    "the words",
+    "their works",
+    "treasures",
+    "your shoots",
+)
+COPULA_MARKER_RE = re.compile(r" = ")
 
 
 def _previous_word(text: str, index: int) -> str:
@@ -6817,6 +7131,18 @@ def normalize_lord_articles(text: str) -> tuple[str, int]:
     for pattern, replacement in LORD_OBJECT_REPLACEMENTS:
         updated, count = pattern.subn(replacement, updated)
         changes += count
+
+    for source, replacement in COPULA_EXACT_REPLACEMENTS:
+        updated, count = updated.replace(source, replacement), updated.count(source)
+        changes += count
+
+    while " = " in updated:
+        index = updated.index(" = ")
+        prefix = updated[:index].rstrip()
+        left_segment = re.split(r"[.;:?!]", prefix)[-1].strip().lower()
+        copula = "are" if left_segment.startswith(COPULA_PLURAL_LEFTS) else "is"
+        updated = f"{updated[:index]} {copula} {updated[index + 3:]}"
+        changes += 1
 
     def bare_lord_repl(match: re.Match[str]) -> str:
         nonlocal changes
