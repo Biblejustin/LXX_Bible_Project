@@ -5,7 +5,7 @@ Selected verses: 6
 ## Amos 2:7
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, name, servant; crossref_top_vote=5; reco=keep
-- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane the name of their God.
 - brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
 
 ## Amos 3:7

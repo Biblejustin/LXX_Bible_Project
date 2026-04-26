@@ -61,13 +61,13 @@ Unresolved outliers: 0
 - Amos 9:12 [called-upon]
   - fresh: so that remnant of men and all nations upon whom my name was called upon them may seek, says the Lord God who does these things.
 - Jeremiah 7:10 [other]
-  - fresh: and you came and stood before me in house over which my name has been called and said, We have held back from doing all these abominations—
+  - fresh: and you came and stood before me in the house over which my name has been called and said, We have held back from doing all these abominations—
 - Jeremiah 7:11 [other]
   - fresh: has my house over which my name has been called become den of robbers there before you? And I, behold, have seen, says the Lord.
 - Jeremiah 7:14 [other]
   - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
 - Jeremiah 7:30 [other]
-  - fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in house over which my name has been called, to defile it.
+  - fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 - Jeremiah 14:9 [called-upon]
   - fresh: Do not be like sleeping man or like man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - Jeremiah 15:16 [called-upon]
@@ -113,7 +113,7 @@ Unresolved outliers: 0
 - buckets: salvation=71
 
 - 1 Chronicles 16:1 [salvation]
-  - fresh: And they brought in ark of God and set it in the middle of the tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
+  - fresh: And they brought in the ark of God and set it in the middle of the tent which David pitched for it, and they offered whole burnt offerings and offerings of salvation before God.
 - 1 Chronicles 16:2 [salvation]
   - fresh: And David finished offering whole burnt offerings and offerings of salvation and blessed people in the name of the Lord.
 - 1 Chronicles 21:26 [salvation]
@@ -221,31 +221,31 @@ Unresolved outliers: 0
 - Numbers 6:18 [salvation]
   - fresh: And the one who vowed shall shave the head of his vow at the doors of the tent of testimony and place the hair of his vow upon the fire that is under the sacrifice of salvation.
 - Numbers 7:17 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nahshon son of Amminadab.
 - Numbers 7:23 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Nethanel son of Zuar.
 - Numbers 7:29 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
 - Numbers 7:35 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elizur son of Shedeur.
 - Numbers 7:41 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Shelumiel son of Zurishaddai.
 - Numbers 7:47 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliasaph son of Reuel.
 - Numbers 7:53 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Elishama son of Ammihud.
 - Numbers 7:59 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Gamaliel son of Pedahzur.
 - Numbers 7:65 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Abidan son of Gideoni.
 - Numbers 7:71 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahiezer son of Ammishaddai.
 - Numbers 7:77 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Pagiel son of Ocran.
 - Numbers 7:83 [salvation]
-  - fresh: and for sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
+  - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Ahira son of Enan.
 - Numbers 7:88 [salvation]
-  - fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+  - fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - Numbers 10:10 [salvation]
   - fresh: And in the days of your gladness and in your feasts and in your new moons, you shall blow the trumpets over your whole burnt offerings and over your sacrifices of salvation, and it shall be a memorial for you before your God. I am the Lord your God.
 - Numbers 15:8 [salvation]

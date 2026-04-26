@@ -11,7 +11,7 @@ Selected verses: 6
 ## Lamentations 2:1
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord; crossref_top_vote=5; reco=keep
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in the day of his anger.
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
 ## Lamentations 2:6
@@ -35,5 +35,5 @@ Selected verses: 6
 ## Lamentations 3:26
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, salvation; crossref_top_vote=35; reco=keep
-- fresh: And he waits and is quiet for salvation of the Lord.
+- fresh: And he waits and is quiet for the salvation of the Lord.
 - brenton: is good, and shall wait for, and quietly expect salvation of the Lord.

@@ -17,7 +17,7 @@ Selected verses: 6
 ## Numbers 7:88
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, anointed, peace, sacrifice, salvation; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
-- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## Numbers 16:3

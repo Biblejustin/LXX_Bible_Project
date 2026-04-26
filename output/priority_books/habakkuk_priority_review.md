@@ -23,7 +23,7 @@ Selected verses: 6
 ## Habakkuk 2:14
 - score: 17
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord; crossref_top_vote=51; reco=keep
-- fresh: Because earth will be filled to know glory of the Lord as water will cover them.
+- fresh: Because earth will be filled to know the glory of the Lord as water will cover them.
 - brenton: For the earth shall be filled with the knowledge of the glory of the Lord; it shall cover them as water.
 
 ## Habakkuk 3:2

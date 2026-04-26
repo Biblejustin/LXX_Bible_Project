@@ -11,7 +11,7 @@ Selected verses: 6
 ## Haggai 1:12
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest; crossref_top_vote=7; reco=keep
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ## Haggai 1:13
@@ -29,7 +29,7 @@ Selected verses: 6
 ## Haggai 2:4
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ## Haggai 2:9

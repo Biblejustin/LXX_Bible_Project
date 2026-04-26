@@ -17,13 +17,13 @@ Selected verses: 6
 ## Ezra 7:12
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, lord; crossref_top_vote=5; reco=keep
-- fresh: Artaxerxes, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+- fresh: Artaxerxes, king of kings, to Ezra, scribe of the law of God of heaven: the matter is settled, and this the answer.
 - brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
 
 ## Ezra 7:21
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, priest; crossref_top_vote=4; reco=keep
-- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of the law of God of heaven asks from you, let it be promptly done,
 - brenton: and from me, whatever it shall seem good to thee to give.
 
 ## Ezra 7:26

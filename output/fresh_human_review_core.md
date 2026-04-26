@@ -122,7 +122,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
+- fresh: for the bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## 1 Chronicles 22:19
@@ -332,7 +332,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
+- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in the house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
 ## Deuteronomy 14:23
@@ -542,7 +542,7 @@ Rows: 234
 - english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Rehoboam his son reigned in place of him in Jerusalem, being sixteen years old when he began to reign, and he reigned twelve years in Jerusalem, and the name of his mother was Naanan daughter of Anan son of Nahash king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Jeroboam, and his mother's name was Zereda, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Joseph, and he built for Solomon Zereda in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Shishak king of Egypt and was with him until Solomon died. And Jeroboam heard in Egypt that Solomon died, and he spoke into the ears of Shishak king of Egypt, saying, Send me away, and I will depart to my land. And Shishak said to him, Ask what request and I will give it to you. And Shishak gave to Jeroboam the elder sister of Tahpenes, his own wife, for a wife. She was great among the daughters of the king and bore to Jeroboam Abijah his son. And Jeroboam said to Shishak, Truly send me away, and I will depart. And Jeroboam went out from Egypt and came to the land of Zereda in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Jeroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Shallum, and his name was Ahijah, and he was sixty years old, and the word of the Lord was with him. And Jeroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Ahijah, and the man was old and his eyes were dim from seeing. And she rose from Zereda and went. And it came to be when she entered the city to Ahijah the Shilonite, Ahijah said to his young servant, Go out now to meet Ano wife of Jeroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Ahijah said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Zereda and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Jeroboam one urinating against a wall, and those dying of Jeroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Zereda, the child died and the cry went out to meet her. And Jeroboam went to Shechem in the hill country of Ephraim and gathered there the tribes of Israel, and Rehoboam son of Solomon went up there. And the word of the Lord came to Shemaiah the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Jeroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Jeroboam took them, and Shemaiah said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Rehoboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Rehoboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Rehoboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Rehoboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Rehoboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Jesse. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Rehoboam prevailed and went and mounted his chariot and entered into Jerusalem, and all the scepter of Judah and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Rehoboam gathered all the men of Judah and Benjamin and went up to war against Jeroboam at Shechem. And the word of the Lord came to Shemaiah the man of God, saying, Speak to Rehoboam king of Judah and to all the house of Judah and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
+- fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Rehoboam his son reigned in his place in Jerusalem, being sixteen years old when he began to reign, and he reigned twelve years in Jerusalem, and the name of his mother was Naanan daughter of Anan son of Nahash king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Jeroboam, and his mother's name was Zereda, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Joseph, and he built for Solomon Zereda in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Shishak king of Egypt and was with him until Solomon died. And Jeroboam heard in Egypt that Solomon died, and he spoke into the ears of Shishak king of Egypt, saying, Send me away, and I will depart to my land. And Shishak said to him, Ask what request and I will give it to you. And Shishak gave to Jeroboam the elder sister of Tahpenes, his own wife, for a wife. She was great among the daughters of the king and bore to Jeroboam Abijah his son. And Jeroboam said to Shishak, Truly send me away, and I will depart. And Jeroboam went out from Egypt and came to the land of Zereda in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Jeroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Shallum, and his name was Ahijah, and he was sixty years old, and the word of the Lord was with him. And Jeroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Ahijah, and the man was old and his eyes were dim from seeing. And she rose from Zereda and went. And it came to be when she entered the city to Ahijah the Shilonite, Ahijah said to his young servant, Go out now to meet Ano wife of Jeroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Ahijah said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Zereda and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Jeroboam one urinating against a wall, and those dying of Jeroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Zereda, the child died and the cry went out to meet her. And Jeroboam went to Shechem in the hill country of Ephraim and gathered there the tribes of Israel, and Rehoboam son of Solomon went up there. And the word of the Lord came to Shemaiah the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Jeroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Jeroboam took them, and Shemaiah said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Rehoboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Rehoboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Rehoboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Rehoboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Rehoboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Jesse. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Rehoboam prevailed and went and mounted his chariot and entered into Jerusalem, and all the scepter of Judah and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Rehoboam gathered all the men of Judah and Benjamin and went up to war against Jeroboam at Shechem. And the word of the Lord came to Shemaiah the man of God, saying, Speak to Rehoboam king of Judah and to all the house of Judah and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
 ## 1 Samuel 2:10
@@ -1232,7 +1232,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
+- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem King Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
 - brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
 
 ## 2 Samuel 19:28
@@ -1427,7 +1427,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## 1 Chronicles 11:2
@@ -1487,7 +1487,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
+- fresh: And the angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
 - brenton: And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the god of Accaron? but it shall not be so.
 
 ## 2 Kings 23:25
@@ -1562,7 +1562,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: And king Nebuchadnezzar answered and said, Blessed is the Lord God of Shadrach, Meshach, and Abednego, who sent his angel and saved his servants who hoped in him. For they set aside command of the king and gave their bodies over to burning so that they would not serve or worship another god except their own God.
+- fresh: And King Nebuchadnezzar answered and said, Blessed is the Lord God of Shadrach, Meshach, and Abednego, who sent his angel and saved his servants who hoped in him. For they set aside command of the king and gave their bodies over to burning so that they would not serve or worship another god except their own God.
 - brenton: 
 
 ## Daniel 4:22
@@ -1697,7 +1697,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Artaxerxes, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+- fresh: Artaxerxes, king of kings, to Ezra, scribe of the law of God of heaven: the matter is settled, and this the answer.
 - brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
 
 ## Ezra 7:6
@@ -1892,7 +1892,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And the Levites, Jeshua and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
+- fresh: And the Levites, Jeshua and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless the name of your glory and will exalt it above every blessing and praise.
 - brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
 
 ## Proverbs 3:16
@@ -1907,7 +1907,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For the length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: For length of existence and years of life are in her right hand; and in her left hand are wealth and glory:
 
 ## Proverbs 9:10
@@ -1922,7 +1922,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Beginning of wisdom the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- fresh: The beginning of wisdom is the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ## Psalms 24:1
@@ -2042,7 +2042,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of the law of God of heaven asks from you, let it be promptly done,
 - brenton: and from me, whatever it shall seem good to thee to give.
 
 ## Ezra 7:26
@@ -2282,7 +2282,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let the heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
 ## Proverbs 26:11
@@ -2342,7 +2342,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane name of their God.
+- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane the name of their God.
 - brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
 
 ## Amos 3:7
@@ -2402,7 +2402,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Because earth will be filled to know glory of the Lord as water will cover them.
+- fresh: Because earth will be filled to know the glory of the Lord as water will cover them.
 - brenton: For the earth shall be filled with the knowledge of the glory of the Lord; it shall cover them as water.
 
 ## Habakkuk 3:2
@@ -2852,7 +2852,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ## Job 1:8
@@ -2882,7 +2882,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from Syriac book, dwelt in land Uz on the borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from the country of Temanite; after him Hadad son of Bedad, who cut down Midian in the plain of Moab, and name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
+- fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from Syriac book, dwelt in the land of Uz on the borders of Idumaia and Arabia, and his former name was Jobab. Taking Arabian wife, he fathered son whose name was Ennon. And he himself was son of Zerah, one of sons of Esau, from mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and the name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from the country of Temanite; after him Hadad son of Bedad, who cut down Midian in the plain of Moab, and the name of his city was Gittaim. And friends coming to him were Eliphaz king of sons of Esau from Temanites, Bildad tyrant of Sauchites, and Zophar king of Naamathites.
 - brenton: And Job died, an old man and full of days:
 
 ## Jonah 1:9
@@ -2987,7 +2987,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And he waits and is quiet for salvation of the Lord.
+- fresh: And he waits and is quiet for the salvation of the Lord.
 - brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
 
 ## Nahum 1:14
@@ -3212,7 +3212,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ## Jonah 1:14
@@ -3257,7 +3257,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in the day of his anger.
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
 ## Nahum 1:2
@@ -3302,7 +3302,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: But on mount Zion there will be salvation, and it will be holy, and house of Jacob will inherit those who inherited them.
+- fresh: But on mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
 - brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
 
 ## Song of Solomon 1:7

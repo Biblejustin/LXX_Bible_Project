@@ -128,7 +128,7 @@ Books: 34
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, law, lord, priest, spirit; crossref_top_vote=7; eng_reco=keep; reco=keep
 - keywords: king, law, lord, priest, spirit
-- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
+- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem King Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
 - brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
 
 ## 2 Kings 23:25
@@ -177,14 +177,14 @@ Books: 34
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, lord; crossref_top_vote=5; reco=keep
 - keywords: god, king, law, lord
-- fresh: Artaxerxes, king of kings, to Ezra, scribe of law of God of heaven: the matter is settled, and this the answer.
+- fresh: Artaxerxes, king of kings, to Ezra, scribe of the law of God of heaven: the matter is settled, and this the answer.
 - brenton: Arthasastha, king of kings, to Esdras, the scribe of the law of the Lord God of heaven, Let the order and the answer be accomplished.
 
 ## Ezra 7:21
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, priest; crossref_top_vote=4; reco=keep
 - keywords: god, king, law, priest
-- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of the law of God of heaven asks from you, let it be promptly done,
 - brenton: and from me, whatever it shall seem good to thee to give.
 
 ## Ezra 7:26
@@ -219,7 +219,7 @@ Books: 34
 - score: 30
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, holy, law, lord, sacrifice; crossref_top_vote=6; eng_reco=keep; reco=keep
 - keywords: altar, god, holy, law, lord, sacrifice, sin
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
+- fresh: for the bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Esther 1:13
@@ -275,14 +275,14 @@ Books: 34
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, law, mercy, righteousness; crossref_top_vote=14; reco=keep
 - keywords: glory, law, mercy, righteousness
-- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For the length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: For length of existence and years of life are in her right hand; and in her left hand are wealth and glory:
 
 ## Proverbs 9:10
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, lord; crossref_top_vote=72; reco=keep
 - keywords: holy, law, lord
-- fresh: Beginning of wisdom the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- fresh: The beginning of wisdom is the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ## Proverbs 10:3
@@ -296,7 +296,7 @@ Books: 34
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, righteous, righteousness; crossref_top_vote=27; reco=keep
 - keywords: god, righteous, righteousness
-- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let the heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
 ## Proverbs 26:11

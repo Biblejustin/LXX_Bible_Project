@@ -35,5 +35,5 @@ Selected verses: 6
 ## Obadiah 1:17
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, salvation; crossref_top_vote=15; reco=keep
-- fresh: But on mount Zion there will be salvation, and it will be holy, and house of Jacob will inherit those who inherited them.
+- fresh: But on mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
 - brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.

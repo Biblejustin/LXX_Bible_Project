@@ -296,7 +296,7 @@ Books: 22
 - score: 24
 - reasons: decisions=5; footnotes=5; reviewed_decisions=5; importance=high; keywords=god, holy, king, lord; crossref_top_vote=5; reco=keep
 - keywords: god, holy, king, lord
-- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
+- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in the house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
 ## Nehemiah 4:3
@@ -310,7 +310,7 @@ Books: 22
 - score: 30
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, holy, law, lord, sacrifice; crossref_top_vote=6; eng_reco=keep; reco=keep
 - keywords: altar, god, holy, law, lord, sacrifice, sin
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
+- fresh: for the bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Isaiah 9:6

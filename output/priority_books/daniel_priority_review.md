@@ -5,7 +5,7 @@ Selected verses: 6
 ## Daniel 3:28
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=14; eng_reco=keep; reco=keep
-- fresh: And king Nebuchadnezzar answered and said, Blessed is the Lord God of Shadrach, Meshach, and Abednego, who sent his angel and saved his servants who hoped in him. For they set aside command of the king and gave their bodies over to burning so that they would not serve or worship another god except their own God.
+- fresh: And King Nebuchadnezzar answered and said, Blessed is the Lord God of Shadrach, Meshach, and Abednego, who sent his angel and saved his servants who hoped in him. For they set aside command of the king and gave their bodies over to burning so that they would not serve or worship another god except their own God.
 - brenton: [missing]
 
 ## Daniel 4:22

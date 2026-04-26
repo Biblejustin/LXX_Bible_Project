@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 719
+Rows: 722
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -68,9 +68,9 @@ Rows: 719
 ## Lamentations 2:1
 - priority: `15`
 - importance: `high`
-- fresh_mt_ratio: `0.755`
-- fresh_brenton_ratio: `0.597`
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth glory of Israel and did not remember footstool of his feet in the day of his anger.
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.590`
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
 - mt: How has the LORD covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
@@ -173,6 +173,15 @@ Rows: 719
 - mt: And say, Hear the word of the LORD, O king of Judah, that sit upon the throne of David, you, and your servants, and your people that enter in by these gates:
 - brenton: and thou shalt say,
 
+## 1 Chronicles 15:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.071`
+- fresh: And it came to pass, the ark of the covenant of the Lord came as far as the City of David, and Michal daughter of Saul looked through window and saw King David dancing and playing, and she despised him in her soul.
+- mt: And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
+- brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
+
 ## Deuteronomy 24:3
 - priority: `0`
 - importance: `none`
@@ -218,6 +227,15 @@ Rows: 719
 - mt: If your people go out to war against their enemies by the way that you shall send them, and they pray unto you toward this city which you have chosen, and the house which I have built for your name;
 - brenton: And if thy people shall go forth to war against their enemies by the way by which thou shalt send them, and shall pray to thee toward this city which thou hast chosen, and toward the house which I have built to thy name;
 
+## 1 Chronicles 15:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.849`
+- fresh_brenton_ratio: `0.108`
+- fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before the ark of God, and Obededom and Iia were gatekeepers of the ark of God.
+- mt: And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark.
+- brenton: And Somnia, and Josaphat, and Nathanael, and Amasai, and Zacharia, and Banæa, and Eliezer, the priests, were sounding with trumpets before the ark of God: and Abdedom and Jeia were door-keepers of the ark of God.
+
 ## 2 Chronicles 6:14
 - priority: `0`
 - importance: `none`
@@ -245,15 +263,6 @@ Rows: 719
 - mt: And say, Thus says the Lord GOD unto Jerusalem; Your birth and your nativity is of the land of Canaan; your father was an Amorite, and your mother an Hittite.
 - brenton: and thou shalt say,
 
-## 1 Chronicles 15:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.837`
-- fresh_brenton_ratio: `0.109`
-- fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before the ark of God, and Obededom and Iia were gatekeepers of ark of God.
-- mt: And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark.
-- brenton: And Somnia, and Josaphat, and Nathanael, and Amasai, and Zacharia, and Banæa, and Eliezer, the priests, were sounding with trumpets before the ark of God: and Abdedom and Jeia were door-keepers of the ark of God.
-
 ## 2 Kings 4:8
 - priority: `0`
 - importance: `none`
@@ -271,15 +280,6 @@ Rows: 719
 - fresh: And if he gives a gift from his inheritance to one of his servants, it will be his until the year of release, and it will return to the ruler; only inheritance of his sons will remain theirs.
 - mt: But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons' for them.
 - brenton: But if he give a gift to one of his servants, then it shall belong to him until the year of release; and then he shall restore it to the prince: but of the inheritance of his sons the possession shall continue to them.
-
-## 1 Chronicles 15:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.799`
-- fresh_brenton_ratio: `0.073`
-- fresh: And it came to pass, ark of covenant of the Lord came as far as City of David, and Michal daughter of Saul looked through window and saw king David dancing and playing, and she despised him in her soul.
-- mt: And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
-- brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
 ## Exodus 26:12
 - priority: `0`
@@ -506,6 +506,15 @@ Rows: 719
 - mt: And he said, Peace be to you, fear not: your God, and the God of your father, has given you treasure in your sacks: I had your money. And he brought Simeon out unto them.
 - brenton: And he said to them, God deal mercifully with you; be not afraid; your God, and the God of your fathers, has given you treasures in your sacks, and I have enough of your good money. And he brought Symeon out to them.
 
+## Ezekiel 15:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.167`
+- fresh: Therefore thus says the Lord: As vine-wood among trees of the forest, which I gave to fire for consuming, so I have given inhabitants of Jerusalem.
+- mt: Therefore thus says the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
+- brenton: Therefore say,
+
 ## Ezekiel 2:1
 - priority: `0`
 - importance: `none`
@@ -572,9 +581,9 @@ Rows: 719
 ## Song of Solomon 5:2
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.792`
-- fresh_brenton_ratio: `0.152`
-- fresh: I sleep, and my heart wakes. Voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.170`
+- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
 - mt: I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
 - brenton: I sleep, but my heart is awake: the voice of my kinsman knocks at the door, saying, Open, open to me, my companion, my sister, my dove, my perfect one: for my head is filled with dew, and my locks with the drops of the night.
 
@@ -586,6 +595,15 @@ Rows: 719
 - fresh: that the Lord sent a man, a prophet, to the sons of Israel and said to them, Thus says the Lord God of Israel: I am the one who brought you up out of Egypt and brought you out of the house of slavery.
 - mt: That the LORD sent a prophet unto the children of Israel, which said unto them, Thus says the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
 - brenton: And the Lord sent a prophet to the children of Israel; and he said to them, Thus says the Lord God of Israel, I am he that brought you up out of the land of Egypt, and I brought you up out of the house of your bondage.
+
+## Ezra 10:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.767`
+- fresh_brenton_ratio: `0.134`
+- fresh: And all the men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
+- mt: Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
+- brenton: So all the men of Juda and Benjamin assembled at Jerusalem within the three days. This was the ninth month: on the twentieth day of the month all the people sat down in the street of the house of the Lord, because of their alarm concerning the word, and because of the storm.
 
 ## Numbers 1:2
 - priority: `0`
@@ -604,15 +622,6 @@ Rows: 719
 - fresh: And Joseph gathered all the money found in the land of Egypt and in the land of Canaan for the grain that they were buying, and he measured out grain to them. And Joseph brought all the money into Pharaoh's house.
 - mt: And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.
 - brenton: And Joseph gathered all the money that was found in the land of Egypt, and the land of Chanaan, in return for the corn which they bought, and he distributed corn to them; and Joseph brought all the money into the house of Pharao.
-
-## Ezekiel 15:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.801`
-- fresh_brenton_ratio: `0.171`
-- fresh: Therefore thus says the Lord: As vine-wood among trees of forest, which I gave to fire for consuming, so I have given inhabitants of Jerusalem.
-- mt: Therefore thus says the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
-- brenton: Therefore say,
 
 ## Numbers 5:14
 - priority: `0`
@@ -839,6 +848,15 @@ Rows: 719
 - mt: And you said, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude.
 - brenton: Deliver me from the hand of my brother, from the hand of Esau, for I am afraid of him, lest haply he should come and smite me, and the mother upon the children.
 
+## 1 Chronicles 29:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.813`
+- fresh_brenton_ratio: `0.243`
+- fresh: And David said to all the assembly, Bless the Lord your God. And all the assembly blessed the Lord God of their fathers, and bowing knees they worshiped the Lord and the king.
+- mt: And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.
+- brenton: And David said to the whole congregation, Bless ye the Lord our God. And all the congregation blessed the Lord God of their fathers, and they bowed the knee and worshipped the Lord, and did obeisance to the king.
+
 ## Genesis 32:3
 - priority: `0`
 - importance: `none`
@@ -893,6 +911,15 @@ Rows: 719
 - mt: And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: tomorrow I will stand on the top of the hill with the rod of God in mine hand.
 - brenton: And Moses said to Joshua, Choose out for thyself mighty men, and go forth and set the army in array against Amalec to-morrow; and, behold, I shall stand on the top of the hill, and the rod of God will be in my hand.
 
+## Jeremiah 6:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.766`
+- fresh_brenton_ratio: `0.201`
+- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, the word of the Lord became a reproach to them. They will not want to hear it.
+- mt: To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.
+- brenton: To whom shall I speak, and testify, that he may hearken? behold, thine ears are uncircumcised, and they shall not be able to hear: behold, the word of the Lord is become to them a reproach, they will not at all desire it.
+
 ## Leviticus 15:26
 - priority: `0`
 - importance: `none`
@@ -919,15 +946,6 @@ Rows: 719
 - fresh: And Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth of Gilead? And he said to him, As I am, so are you; as your people, so my people, with you in battle.
 - mt: And Ahab king of Israel said unto Jehoshaphat king of Judah, Will you go with me to Ramothgilead? And he answered him, I am as you are, and my people as your people; and we will be with you in the war.
 - brenton: And Achaab king of Israel said to Josaphat king of Juda, Wilt thou go with me to Ramoth of the country of Galaad? And he said to him, As I am, so also art thou, as thy people, so also is my people with thee for the war.
-
-## Jeremiah 6:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.760`
-- fresh_brenton_ratio: `0.202`
-- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, the word of the Lord became reproach to them. They will not want to hear it.
-- mt: To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.
-- brenton: To whom shall I speak, and testify, that he may hearken? behold, thine ears are uncircumcised, and they shall not be able to hear: behold, the word of the Lord is become to them a reproach, they will not at all desire it.
 
 ## 2 Kings 17:6
 - priority: `0`
@@ -973,15 +991,6 @@ Rows: 719
 - fresh: I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
 - mt: I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.
 - brenton: I will bear the indignation of the Lord, because I have sinned against him, until he make good my cause: he also shall maintain my right, and shall bring me out to the light, and I shall behold his righteousness.
-
-## 1 Chronicles 29:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.787`
-- fresh_brenton_ratio: `0.249`
-- fresh: And David said to all assembly, Bless the Lord your God. And all assembly blessed the Lord God of their fathers, and bowing knees they worshiped the Lord and the king.
-- mt: And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.
-- brenton: And David said to the whole congregation, Bless ye the Lord our God. And all the congregation blessed the Lord God of their fathers, and they bowed the knee and worshipped the Lord, and did obeisance to the king.
 
 ## Genesis 17:19
 - priority: `0`
@@ -1055,15 +1064,6 @@ Rows: 719
 - mt: Deliver me, I pray you, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and strike me, and the mother with the children.
 - brenton: Let there be to me a sufficiency of all the justice and all the truth which thou hast wrought with thy servant; for with this my staff I passed over this Jordan, and now I am become two camps.
 
-## Isaiah 6:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.769`
-- fresh_brenton_ratio: `0.255`
-- fresh: For heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with eyes and hear with ears and understand with heart and turn, and I heal them.
-- mt: Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
-- brenton: For the heart of this people has become gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and be converted, and I should heal them.
-
 ## Genesis 32:17
 - priority: `0`
 - importance: `none`
@@ -1072,6 +1072,15 @@ Rows: 719
 - fresh: And he charged the first, saying, If Esau my brother meets you and asks you, saying, Whose are you and where are you going and whose are these going before you,
 - mt: And he commanded the foremost, saying, When Esau my brother meet you, and asks you, saying, Whose are you? and where go you? and whose are these before you?
 - brenton: And he gave them to his servants each drove apart; and he said to his servants, Go on before me, and put a space between drove and drove.
+
+## Isaiah 6:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.781`
+- fresh_brenton_ratio: `0.271`
+- fresh: For the heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with eyes and hear with ears and understand with heart and turn, and I heal them.
+- mt: Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
+- brenton: For the heart of this people has become gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and be converted, and I should heal them.
 
 ## Ezekiel 40:3
 - priority: `0`
@@ -1267,7 +1276,7 @@ Rows: 719
 - importance: `none`
 - fresh_mt_ratio: `0.760`
 - fresh_brenton_ratio: `0.308`
-- fresh: And Hiram sent by the hands of his servants ships and servants knowing sea, and they went with the servants of Solomon to Ophir and took from there four hundred fifty talents of gold and came to king Solomon.
+- fresh: And Hiram sent by the hands of his servants ships and servants knowing sea, and they went with the servants of Solomon to Ophir and took from there four hundred fifty talents of gold and came to King Solomon.
 - mt: And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought them to king Solomon.
 - brenton: And Chiram sent by the hand of his servants ships, and servants skilled in naval affairs; and they went with the servants of Solomon to Sophira, and brought thence four hundred and fifty talents of gold, and they came to king Solomon.
 
@@ -1319,9 +1328,9 @@ Rows: 719
 ## 2 Chronicles 10:15
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.772`
-- fresh_brenton_ratio: `0.331`
-- fresh: And king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by the hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
+- fresh_mt_ratio: `0.785`
+- fresh_brenton_ratio: `0.347`
+- fresh: And the king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by the hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
 - mt: So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
 - brenton: And the king hearkened not to the people, for there was a change of their minds from God, saying, The Lord has confirmed his word, which he spoke by the hand of Achia the Selonite concerning Jeroboam the son of Nabat, and concerning all Israel;
 
@@ -1613,15 +1622,6 @@ Rows: 719
 - mt: And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
 - brenton: And the Spirit of the Lord came powerfully upon him, and he crushed him as he would have crushed a kid of the goats, and there was nothing in his hands: and he told not his father and his mother what he had done.
 
-## Ezra 1:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.855`
-- fresh_brenton_ratio: `0.512`
-- fresh: Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build house of God of Israel. He is the God in Jerusalem.
-- mt: Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
-- brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
-
 ## Ezra 8:34
 - priority: `0`
 - importance: `none`
@@ -1675,6 +1675,15 @@ Rows: 719
 - fresh: And the Lord spoke to Moses, saying,
 - mt: And the LORD spoke unto Moses, saying,
 - brenton: And the Lord spoke to Moses, saying, Speak to the children of Israel, saying,
+
+## 1 Chronicles 28:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.776`
+- fresh_brenton_ratio: `0.443`
+- fresh: and for altar of incense, weight from refined gold he showed him, and pattern of chariot of cheroubim spreading wings and overshadowing the ark of the covenant of the Lord.
+- mt: And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD.
+- brenton: And he shewed him the weight of the utensils of the altar of incense, which was of pure gold, and the plan of the chariot of the cherubs that spread out their wings, and overshadowed the ark of the covenant of the Lord.
 
 ## Exodus 18:8
 - priority: `0`
@@ -1874,6 +1883,15 @@ Rows: 719
 - mt: The nakedness of your father, or the nakedness of your mother, shall you not uncover: she is your mother; you shall not uncover her nakedness.
 - brenton: Thou shalt not uncover the nakedness of thy father, or the nakedness of thy mother, for she is thy mother; thou shalt not uncover her nakedness.
 
+## 1 Chronicles 16:36
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.533`
+- fresh: Blessed is the Lord God of Israel from age and unto age. And all the people shall say, Amen, and they praised the Lord.
+- mt: Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.
+- brenton: Blessed be the Lord God of Israel from everlasting and to everlasting:
+
 ## Exodus 40:14
 - priority: `0`
 - importance: `none`
@@ -1882,6 +1900,15 @@ Rows: 719
 - fresh: And you shall bring his sons and clothe them with tunics.
 - mt: And you shall bring his sons, and clothe them with coats:
 - brenton: And thou shalt bring up his sons, and shalt put garments on them.
+
+## Ezra 1:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.868`
+- fresh_brenton_ratio: `0.578`
+- fresh: Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of God of Israel. He is the God in Jerusalem.
+- mt: Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
+- brenton: Who is there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he is the God that is in Jerusalem.
 
 ## 1 Chronicles 1:51
 - priority: `0`
@@ -1918,15 +1945,6 @@ Rows: 719
 - fresh: Dan, Joseph, Benjamin, Naphtali, Gad, Asher.
 - mt: Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 - brenton: Ruben, Symeon, Levi, Juda, Issachar, Zabulon, Dan, Joseph, Benjamin, Nephthali, Gad, Aser.
-
-## Ezekiel 3:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.866`
-- fresh_brenton_ratio: `0.582`
-- fresh: And I rose and went out into plain, and behold, there glory of the Lord stood, just as vision and as glory which I saw by the river Chebar, and I fell on my face.
-- mt: Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
-- brenton: And I arose, and went forth to the plain: and, behold, the glory of the Lord stood there, according to the vision, and according to the glory of the Lord, which I saw by the river of Chobar: and I fell on my face.
 
 ## Genesis 7:11
 - priority: `0`
@@ -2027,14 +2045,14 @@ Rows: 719
 - mt: That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has appeared unto you.
 - brenton: and it became a rod in his hand,—that they may believe thee, that the God of thy fathers has appeared to thee, the God of Abraam, and God of Isaac, and God of Jacob.
 
-## 1 Chronicles 16:36
+## Ezekiel 3:23
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.811`
-- fresh_brenton_ratio: `0.544`
-- fresh: Blessed is the Lord God of Israel from age and unto age. And all people shall say, Amen, and they praised the Lord.
-- mt: Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.
-- brenton: Blessed be the Lord God of Israel from everlasting and to everlasting:
+- fresh_mt_ratio: `0.870`
+- fresh_brenton_ratio: `0.602`
+- fresh: And I rose and went out into the plain, and behold, there the glory of the Lord stood, just as vision and as glory which I saw by the river Chebar, and I fell on my face.
+- mt: Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
+- brenton: And I arose, and went forth to the plain: and, behold, the glory of the Lord stood there, according to the vision, and according to the glory of the Lord, which I saw by the river of Chobar: and I fell on my face.
 
 ## 2 Samuel 14:5
 - priority: `0`
@@ -2230,7 +2248,7 @@ Rows: 719
 - importance: `none`
 - fresh_mt_ratio: `0.873`
 - fresh_brenton_ratio: `0.630`
-- fresh: And all service of the Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon the altar of the Lord according to the command of king Josiah.
+- fresh: And all service of the Lord was set right and prepared on that day, to keep Passover and to offer whole burnt offerings upon the altar of the Lord according to the command of King Josiah.
 - mt: So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah.
 - brenton: So all the service of the Lord was duly ordered and prepared in that day, for keeping the passover, and offering the whole-burnt-sacrifices on the altar of the Lord, according to the command of king Josias.
 
@@ -2320,7 +2338,7 @@ Rows: 719
 - importance: `none`
 - fresh_mt_ratio: `0.824`
 - fresh_brenton_ratio: `0.594`
-- fresh: And she gave to king one hundred twenty talents of gold and spices in very great abundance and precious stone, and there were no spices like those which queen of Sheba gave to king Solomon.
+- fresh: And she gave to king one hundred twenty talents of gold and spices in very great abundance and precious stone, and there were no spices like those which queen of Sheba gave to King Solomon.
 - mt: And she gave the king an hundred and twenty talents of gold, and of spices great abundance, and precious stones: neither was there any such spice as the queen of Sheba gave king Solomon.
 - brenton: And she gave the king a hundred and twenty talents of gold, and spices in very great abundance, and precious stones: and there were not any where else such spices as those which the queen of Saba gave king Solomon.
 
@@ -2341,6 +2359,15 @@ Rows: 719
 - fresh: Solomon father of Bethlehem, Hareph father of Bethgader.
 - mt: Salma the father of Bethlehem, Hareph the father of Bethgader.
 - brenton: Salomon the father of Bætha, Lammon the father of Bæthalaem, and Arim the father of Bethgedor.
+
+## 2 Chronicles 35:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.941`
+- fresh_brenton_ratio: `0.713`
+- fresh: In the eighteenth year of the reign of Josiah this Passover was kept.
+- mt: In the eighteenth year of the reign of Josiah was this passover kept.
+- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ## 2 Kings 23:1
 - priority: `0`
@@ -2413,15 +2440,6 @@ Rows: 719
 - fresh: And behold, the servants of David and Joab were coming from the raid and bringing much spoil with them, and Abner was not with David in Hebron, because he had sent him away and he had gone in peace.
 - mt: And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
 - brenton: And, behold, the servants of David and Joab arrived from their expedition, and they brought much spoil with them: and Abenner was not with David in Chebron, because he had sent him away, and he had departed in peace.
-
-## 2 Chronicles 35:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.909`
-- fresh_brenton_ratio: `0.685`
-- fresh: In the eighteenth year of reign of Josiah this Passover was kept.
-- mt: In the eighteenth year of the reign of Josiah was this passover kept.
-- brenton: In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
 ## Exodus 9:15
 - priority: `0`
@@ -2566,6 +2584,15 @@ Rows: 719
 - fresh: He shall not inspect whether it is good or bad, and he shall not exchange it. But if in exchanging he does exchange it, both it and its exchange shall be holy; it shall not be redeemed.
 - mt: He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 - brenton: Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.
+
+## 1 Chronicles 9:35
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.594`
+- fresh: And in Gibeon dwelt father of Gibeon, Jehiel, and the name of his wife was Maachah.
+- mt: And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:
+- brenton: And Jeël the father of Gabaon dwelt in Gabaon; and his wife's name was Moöcha.
 
 ## 2 Chronicles 20:35
 - priority: `0`
@@ -2774,15 +2801,6 @@ Rows: 719
 - mt: And this is the fashion which you shall make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.
 - brenton: And thus shalt thou make the ark; three hundred cubits the length of the ark, and fifty cubits the breadth, and thirty cubits the height of it.
 
-## 1 Chronicles 9:35
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.803`
-- fresh_brenton_ratio: `0.609`
-- fresh: And in Gibeon dwelt father of Gibeon, Jehiel, and name of his wife was Maachah.
-- mt: And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:
-- brenton: And Jeël the father of Gabaon dwelt in Gabaon; and his wife's name was Moöcha.
-
 ## Exodus 28:29
 - priority: `0`
 - importance: `none`
@@ -2909,15 +2927,6 @@ Rows: 719
 - mt: And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:
 - brenton: And he shall dip with the finger of his right hand into some of the oil that is in his left hand, and he shall sprinkle with his finger seven times before the Lord.
 
-## 2 Chronicles 23:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.770`
-- fresh_brenton_ratio: `0.584`
-- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azariah son of Jeroham and Ishmael son of Jehohanan and Azariah son of Obed and Maaseiah son of Adaiah and Elzaphan son of Zechariah, with him into house.
-- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
-- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
-
 ## 2 Kings 10:28
 - priority: `0`
 - importance: `none`
@@ -3017,33 +3026,6 @@ Rows: 719
 - mt: And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.
 - brenton: And it was evening, and quails came up and covered the camp:
 
-## Ezekiel 48:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.855`
-- fresh_brenton_ratio: `0.671`
-- fresh: And beside border of Zebulun, from east side to west side, Gad, one portion.
-- mt: And by the border of Zebulun, from the east side unto the west side, Gad a portion.
-- brenton: And from the borders of Zabulon, from the east to the western parts, Gad, one.
-
-## 1 Chronicles 16:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.903`
-- fresh_brenton_ratio: `0.720`
-- fresh: and Benaiah and Uzziel the priests with trumpets continually before the ark of covenant of God.
-- mt: Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
-- brenton: and Banæas and Oziel the priests sounding continually with trumpets before the ark of the covenant of God in that day.
-
-## 2 Chronicles 29:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.936`
-- fresh_brenton_ratio: `0.753`
-- fresh: And Hezekiah the king rose early and gathered rulers of city and went up to the house of the Lord.
-- mt: Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
-- brenton: And king Ezekias rose early in the morning, and gathered the chief men of the city, and went up to the house of the Lord.
-
 ## Leviticus 13:15
 - priority: `0`
 - importance: `none`
@@ -3071,6 +3053,15 @@ Rows: 719
 - mt: You shall not plant you a grove of any trees near unto the altar of the LORD your God, which you shall make you.
 - brenton: Thou shalt not plant for thyself a grove; thou shalt not plant for thyself any tree near the altar of thy God.
 
+## 1 Chronicles 16:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.925`
+- fresh_brenton_ratio: `0.744`
+- fresh: and Benaiah and Uzziel the priests with trumpets continually before the ark of the covenant of God.
+- mt: Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
+- brenton: and Banæas and Oziel the priests sounding continually with trumpets before the ark of the covenant of God in that day.
+
 ## 1 Samuel 12:8
 - priority: `0`
 - importance: `none`
@@ -3079,6 +3070,15 @@ Rows: 719
 - fresh: When Jacob and his sons entered into Egypt, and Egypt humbled them, our fathers cried out to the Lord, and the Lord sent Moses and Aaron and brought our fathers out of Egypt and settled them in this place.
 - mt: When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
 - brenton: When Jacob and his sons went into Egypt, and Egypt humbled them, then our fathers cried to the Lord, and the Lord sent Moses and Aaron; and they brought our fathers out of Egypt, and he made them to dwell in this place.
+
+## 2 Chronicles 29:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.957`
+- fresh_brenton_ratio: `0.776`
+- fresh: And Hezekiah the king rose early and gathered rulers of the city and went up to the house of the Lord.
+- mt: Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
+- brenton: And king Ezekias rose early in the morning, and gathered the chief men of the city, and went up to the house of the Lord.
 
 ## Deuteronomy 32:9
 - priority: `0`
@@ -3106,6 +3106,15 @@ Rows: 719
 - fresh: And I scattered them among nations and winnowed them into lands; according to their way and according to their sin I judged them.
 - mt: And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.
 - brenton: and I dispersed them among the nations, and utterly scattered them through the countries: I judged them according to their way and according to their sin.
+
+## Ezekiel 48:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.872`
+- fresh_brenton_ratio: `0.693`
+- fresh: And beside the border of Zebulun, from east side to west side, Gad, one portion.
+- mt: And by the border of Zebulun, from the east side unto the west side, Gad a portion.
+- brenton: And from the borders of Zabulon, from the east to the western parts, Gad, one.
 
 ## 1 Kings 18:24
 - priority: `0`
@@ -3278,15 +3287,6 @@ Rows: 719
 - mt: And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they.
 - brenton: And the people bowed and worshipped. And the children of Israel departed and did as the Lord commanded Moses and Aaron, so did they.
 
-## Ezekiel 48:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.864`
-- fresh_brenton_ratio: `0.692`
-- fresh: And beside border of Issachar, from east side to west side, Zebulun, one portion.
-- mt: And by the border of Issachar, from the east side unto the west side, Zebulun a portion.
-- brenton: And from the borders of Issachar, from the eastern parts to the western, Zabulon, one.
-
 ## Nehemiah 13:28
 - priority: `0`
 - importance: `none`
@@ -3377,6 +3377,15 @@ Rows: 719
 - mt: The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
 - brenton: The sons of Sopha; Sue, and Arnaphar, and Suda, and Barin, and Imran,
 
+## 2 Chronicles 23:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.764`
+- fresh_brenton_ratio: `0.595`
+- fresh: And in seventh year Jehoiada strengthened himself and took the centurions, Azariah son of Jeroham and Ishmael son of Jehohanan and Azariah son of Obed and Maaseiah son of Adaiah and Elzaphan son of Zechariah, with him into the house.
+- mt: And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
+- brenton: And in the eighth year Jodae strengthened himself, and took the captains of hundreds, Azarias the son of Joram, and Ismael the son of Joanan, and Azarias the son of Obed, and Maasæas the son of Adia, and Elisaphan the son of Zacharias, with him into the house of the Lord.
+
 ## Proverbs 6:4
 - priority: `0`
 - importance: `none`
@@ -3385,15 +3394,6 @@ Rows: 719
 - fresh: Do not give sleep to your eyes, nor slumber to your eyelids,
 - mt: Give not sleep to yours eyes, nor slumber to yours eyelids.
 - brenton: Give not sleep to thine eyes, nor slumber with thine eyelids;
-
-## Deuteronomy 32:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.845`
-- fresh_brenton_ratio: `0.676`
-- fresh: Remember days of old; understand the years of generation after generation. Ask your father, and he will report to you, your elders, and they will tell you.
-- mt: Remember the days of old, consider the years of many generations: ask your father, and he will show you; your elders, and they will tell you.
-- brenton: Remember the days of old, consider the years for past ages: ask thy father, and he shall relate to thee, thine elders, and they shall tell thee.
 
 ## Genesis 31:14
 - priority: `0`
@@ -3421,6 +3421,24 @@ Rows: 719
 - fresh: And Hadad found favor before Pharaoh greatly, and he gave him as wife the sister of his own wife, sister of Tahpenes the elder.
 - mt: And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
 - brenton: And Ader found great favour in the sight of Pharao, and he gave him his wife's sister in marriage, the elder sister of Thekemina.
+
+## Ezekiel 48:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.880`
+- fresh_brenton_ratio: `0.712`
+- fresh: And beside the border of Issachar, from east side to west side, Zebulun, one portion.
+- mt: And by the border of Issachar, from the east side unto the west side, Zebulun a portion.
+- brenton: And from the borders of Issachar, from the eastern parts to the western, Zabulon, one.
+
+## Deuteronomy 32:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.861`
+- fresh_brenton_ratio: `0.694`
+- fresh: Remember the days of old; understand the years of generation after generation. Ask your father, and he will report to you, your elders, and they will tell you.
+- mt: Remember the days of old, consider the years of many generations: ask your father, and he will show you; your elders, and they will tell you.
+- brenton: Remember the days of old, consider the years for past ages: ask thy father, and he shall relate to thee, thine elders, and they shall tell thee.
 
 ## Genesis 25:3
 - priority: `0`
@@ -3457,6 +3475,15 @@ Rows: 719
 - fresh: And he went from there to Mount Carmel, and from there he returned to Samaria.
 - mt: And he went from thence to mount Carmel, and from thence he returned to Samaria.
 - brenton: And he went thence to mount Carmel, and returned thence to Samaria.
+
+## Ezra 2:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.907`
+- fresh_brenton_ratio: `0.741`
+- fresh: Those who came with Zerubbabel were Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, and Baana. Number of men of the people of Israel:
+- mt: Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
+- brenton: who came with Zorobabel: Jesus, Neemias, Saraias, Reelias, Mardochæus, Balasan, Masphar, Baguai, Reum, Baana. The number of the people of Israel:
 
 ## 1 Kings 22:39
 - priority: `0`
@@ -3539,15 +3566,6 @@ Rows: 719
 - mt: But unto the damsel you shall do nothing; there is in the damsel no sin worthy of death: for as when a man rises against his neighbour, and slays him, even so is this matter:
 - brenton: And the damsel has not committed a sin worthy of death; as if a man should rise up against his neighbour, and slay him, so is this thing;
 
-## Ezekiel 48:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.863`
-- fresh_brenton_ratio: `0.701`
-- fresh: And beside border of Simeon, from east side to west side, Issachar, one portion.
-- mt: And by the border of Simeon, from the east side unto the west side, Issachar a portion.
-- brenton: And from the borders of Symeon, from the eastern parts to the western, Issachar, one.
-
 ## 2 Chronicles 27:3
 - priority: `0`
 - importance: `none`
@@ -3620,15 +3638,6 @@ Rows: 719
 - mt: And Shobal the father of Kirjathjearim had sons; Haroeh, and half of the Manahethites.
 - brenton: And the sons of Sobal the father of Cariathiarim were Araa, and Æsi, and Ammanith,
 
-## Ezekiel 48:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.763`
-- fresh_brenton_ratio: `0.604`
-- fresh: And beside border of Dan, from east side to west side, Asher, one portion.
-- mt: And by the border of Dan, from the east side unto the west side, a portion for Asher.
-- brenton: And from the borders of Dan eastward as far as the west sea-coast, for Asser, one.
-
 ## 2 Kings 24:1
 - priority: `0`
 - importance: `none`
@@ -3646,6 +3655,15 @@ Rows: 719
 - fresh: And sons of Cush: Sheba and Havilah and Sabtah and Raamah and Sabtechah. And sons of Raamah: Sheba and Dedan.
 - mt: And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan.
 - brenton: And the sons of Chus, Saba, and Evila, and Sabatha, and Rhegma, and Sabathaca. And the sons of Rhegma, Saba, and Dadan.
+
+## Ezekiel 48:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.878`
+- fresh_brenton_ratio: `0.720`
+- fresh: And beside the border of Simeon, from east side to west side, Issachar, one portion.
+- mt: And by the border of Simeon, from the east side unto the west side, Issachar a portion.
+- brenton: And from the borders of Symeon, from the eastern parts to the western, Issachar, one.
 
 ## Job 15:6
 - priority: `0`
@@ -3683,21 +3701,30 @@ Rows: 719
 - mt: And Jacob took a stone, and set it up for a pillar.
 - brenton: And Jacob having taken a stone, set it up for a pillar.
 
-## Ezra 2:2
+## 1 Kings 9:26
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.893`
-- fresh_brenton_ratio: `0.738`
-- fresh: Those who came with Zerubbabel were Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, and Baana. Number of men of people of Israel:
-- mt: Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
-- brenton: who came with Zorobabel: Jesus, Neemias, Saraias, Reelias, Mardochæus, Balasan, Masphar, Baguai, Reum, Baana. The number of the people of Israel:
+- fresh_mt_ratio: `0.871`
+- fresh_brenton_ratio: `0.716`
+- fresh: And King Solomon made a ship at Eziongeber, which is near Elath on the shore of the last sea, in the land of Edom.
+- mt: And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
+- brenton: even that for which king Solomon built a ship in Gasion Gaber near Ælath on the shore of the extremity of the sea in the land of Edom.
+
+## Ezekiel 48:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.782`
+- fresh_brenton_ratio: `0.627`
+- fresh: And beside the border of Dan, from east side to west side, Asher, one portion.
+- mt: And by the border of Dan, from the east side unto the west side, a portion for Asher.
+- brenton: And from the borders of Dan eastward as far as the west sea-coast, for Asser, one.
 
 ## Isaiah 39:3
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.782`
 - fresh_brenton_ratio: `0.627`
-- fresh: And Isaiah the prophet came to king Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From far land they came to me, from Babylon.
+- fresh: And Isaiah the prophet came to King Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From far land they came to me, from Babylon.
 - mt: Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto you? And Hezekiah said, They are come from a far country unto me, even from Babylon.
 - brenton: And Esaias the prophet came to king Ezekias, and said to him, What say these men? and whence came they to thee? and Ezekias said, They are come to me from a land afar off, from Babylon.
 
@@ -3814,7 +3841,7 @@ Rows: 719
 - importance: `none`
 - fresh_mt_ratio: `0.874`
 - fresh_brenton_ratio: `0.723`
-- fresh: And the city came under siege until the eleventh year of king Zedekiah.
+- fresh: And the city came under siege until the eleventh year of King Zedekiah.
 - mt: And the city was besieged unto the eleventh year of king Zedekiah.
 - brenton: And the city was besieged until the eleventh year of king Sedekias on the ninth day of the month.
 
@@ -3836,15 +3863,6 @@ Rows: 719
 - mt: And in all the land of your possession all of you shall grant a redemption for the land.
 - brenton: And in every land of your possession, ye shall allow ransoms for the land.
 
-## 1 Chronicles 16:37
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.820`
-- fresh_brenton_ratio: `0.669`
-- fresh: And they left there before the ark of covenant of the Lord Asaph and his brothers to minister before ark continually, each day’s matter for its day,
-- mt: So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:
-- brenton: And they left there Asaph and his brethren before the ark of the covenant of the Lord, to minister before the ark continually, according to the service of each day: from day to day.
-
 ## Leviticus 22:8
 - priority: `0`
 - importance: `none`
@@ -3854,23 +3872,23 @@ Rows: 719
 - mt: That which dies of itself, or is torn with beasts, he shall not eat to defile himself therewith; I am the LORD.
 - brenton: He shall not eat that which dies of itself, or is taken of beasts, so that he should be polluted by them: I am the Lord.
 
+## 1 Chronicles 16:37
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.851`
+- fresh_brenton_ratio: `0.701`
+- fresh: And they left there before the ark of the covenant of the Lord Asaph and his brothers to minister before the ark continually, each day’s matter for its day,
+- mt: So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:
+- brenton: And they left there Asaph and his brethren before the ark of the covenant of the Lord, to minister before the ark continually, according to the service of each day: from day to day.
+
 ## 2 Chronicles 13:2
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.864`
-- fresh_brenton_ratio: `0.714`
-- fresh: He reigned three years in Jerusalem, and name of his mother was Maachah daughter of Uriel from Gibeon. And there was war between Abijah and Jeroboam.
+- fresh_mt_ratio: `0.852`
+- fresh_brenton_ratio: `0.702`
+- fresh: He reigned three years in Jerusalem, and the name of his mother was Maachah daughter of Uriel from Gibeon. And there was war between Abijah and Jeroboam.
 - mt: He reigned three years in Jerusalem. His mother's name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 - brenton: He reigned three years in Jerusalem. And his mother's name was Maacha, daughter of Uriel of Gabaon.
-
-## Ezekiel 48:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.772`
-- fresh_brenton_ratio: `0.622`
-- fresh: And beside border of Reuben, from east side to west side, Judah, one portion.
-- mt: And by the border of Reuben, from the east side unto the west side, a portion for Judah.
-- brenton: And from the borders of Ruben, from the eastern parts as far as the west coasts, for Juda, one.
 
 ## Numbers 7:7
 - priority: `0`
@@ -3962,6 +3980,15 @@ Rows: 719
 - mt: And Pharaoh's daughter said unto her, Take this child away, and nurse it for me, and I will give you your wages. And the women took the child, and nursed it.
 - brenton: And the daughter of Pharao said to her, Take care of this child, and suckle it for me, and I will give thee the wages; and the woman took the child, and suckled it.
 
+## Ezekiel 48:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.790`
+- fresh_brenton_ratio: `0.643`
+- fresh: And beside the border of Reuben, from east side to west side, Judah, one portion.
+- mt: And by the border of Reuben, from the east side unto the west side, a portion for Judah.
+- brenton: And from the borders of Ruben, from the eastern parts as far as the west coasts, for Juda, one.
+
 ## Deuteronomy 15:1
 - priority: `0`
 - importance: `none`
@@ -3970,6 +3997,15 @@ Rows: 719
 - fresh: At the end of seven years you shall make a release.
 - mt: At the end of every seven years you shall make a release.
 - brenton: Every seven years thou shalt make a release.
+
+## 1 Chronicles 8:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.615`
+- fresh: And in Gibeon dwelt father of Gibeon, and the name of his wife was Maachah.
+- mt: And at Gibeon dwelt the father of Gibeon; whose wife's name was Maachah:
+- brenton: And the father of Gabaon dwelt in Gabaon; and his wife's name was Moacha.
 
 ## 1 Kings 22:26
 - priority: `0`
@@ -4196,15 +4232,6 @@ Rows: 719
 - mt: For they are a nation void of counsel, neither is there any understanding in them.
 - brenton: It is a nation that has lost counsel, neither is there understanding in them.
 
-## Ezra 5:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.787`
-- fresh_brenton_ratio: `0.646`
-- fresh: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building house that was built many years before this, and a great king of Israel built it and completed it.
-- mt: And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was built these many years ago, which a great king of Israel built and set up.
-- brenton: And they answered us thus, saying, We are the servants of the God of heaven and earth, and we are building the house which had been built many years before this, and a great king of Israel built it, and established it for them.
-
 ## 1 Chronicles 11:33
 - priority: `0`
 - importance: `none`
@@ -4259,6 +4286,15 @@ Rows: 719
 - mt: And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 - brenton: And it came to pass that when God destroyed all the cities of the region round about, God remembered Abraam, and sent Lot out of the midst of the overthrow, when the Lord overthrew those cities in which Lot dwelt.
 
+## Habakkuk 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.760`
+- fresh_brenton_ratio: `0.621`
+- fresh: And you will make humans like fish of the sea and like creeping things that have no leader.
+- mt: And make men as the fishes of the sea, as the creeping things, that have no ruler over them?
+- brenton: And wilt thou make men as the fishes of the sea, and as the reptiles which have no guide?
+
 ## Judges 13:21
 - priority: `0`
 - importance: `none`
@@ -4294,6 +4330,15 @@ Rows: 719
 - fresh: And they shall be in you as signs and wonders and in your seed forever,
 - mt: And they shall be upon you for a sign and for a wonder, and upon your seed for ever.
 - brenton: And these things shall be signs in thee, and wonders among thy seed for ever;
+
+## Isaiah 60:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.893`
+- fresh_brenton_ratio: `0.755`
+- fresh: Shine, shine, Jerusalem, for your light has come and the glory of the Lord has risen on you.
+- mt: Arise, shine; for your light has come, and the glory of the LORD has risen upon you.
+- brenton: Be enlightened, be enlightened, O Jerusalem, for thy light is come, and the glory of the Lord is risen upon thee.
 
 ## Job 17:4
 - priority: `0`
@@ -4339,15 +4384,6 @@ Rows: 719
 - fresh: And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared.
 - mt: And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.
 - brenton: And in the tenth month, on the first day of the month, the heads of the mountains were seen.
-
-## Isaiah 60:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.866`
-- fresh_brenton_ratio: `0.729`
-- fresh: Shine, shine, Jerusalem, for your light has come and glory of the Lord has risen on you.
-- mt: Arise, shine; for your light has come, and the glory of the LORD has risen upon you.
-- brenton: Be enlightened, be enlightened, O Jerusalem, for thy light is come, and the glory of the Lord is risen upon thee.
 
 ## Leviticus 11:8
 - priority: `0`
@@ -4511,15 +4547,6 @@ Rows: 719
 - mt: Is not my word like a fire? says the LORD; and like a hammer that breaks the rock in pieces?
 - brenton: Behold, are not my words as fire? saith the Lord; and as an axe cutting the rock?
 
-## Judges 1:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.779`
-- fresh_brenton_ratio: `0.646`
-- fresh: And from there they went against those dwelling in Debir, and the name of Debir before was City of Letters.
-- mt: And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
-- brenton: And they went up thence to the inhabitants of Dabir; but the name of Dabir was before Cariathsepher, the city of Letters.
-
 ## Numbers 31:24
 - priority: `0`
 - importance: `none`
@@ -4574,6 +4601,15 @@ Rows: 719
 - mt: And they spoke unto him, saying, No; but we will bind you fast, and deliver you into their hand: but surely we will not kill you. And they bound him with two new cords, and brought him up from the rock.
 - brenton: And they spoke to him, saying, Nay, but we will only bind thee fast, and deliver thee into their hand, and will by no means slay thee: and they bound him with two new ropes, and brought him from that rock.
 
+## 1 Chronicles 4:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.886`
+- fresh_brenton_ratio: `0.755`
+- fresh: And these are sons of Etam: Jezreel and Ragma and Idbash, and the name of their sister was Hazelelponi.
+- mt: And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi:
+- brenton: And these are the sons of Ætam; Jezrael and Jesman, and Jebdas: and their sister's name was Eselebbon.
+
 ## Exodus 23:32
 - priority: `0`
 - importance: `none`
@@ -4582,15 +4618,6 @@ Rows: 719
 - fresh: You shall make no covenant with them or with their gods.
 - mt: You shall make no covenant with them, nor with their gods.
 - brenton: Thou shalt make no covenant with them and their gods.
-
-## Ezekiel 48:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.819`
-- fresh_brenton_ratio: `0.688`
-- fresh: And beside border of Benjamin, from east side to west side, Simeon, one portion.
-- mt: And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion.
-- brenton: And from the borders of Benjamin, from the eastern parts to the western, Symeon, one.
 
 ## 2 Chronicles 27:4
 - priority: `0`
@@ -4609,6 +4636,15 @@ Rows: 719
 - fresh: And David said to God, I sinned greatly because I did this thing, and now please take away evil of your servant, because I acted very foolishly.
 - mt: And David said unto God, I have sinned greatly, because I have done this thing: but now, I plead to you, do away the iniquity of your servant; for I have done very foolishly.
 - brenton: And David said to God, I have sinned exceedingly, in that I have done this thing: and now, I pray thee, remove the sin of thy servant; for I have been exceedingly foolish.
+
+## 1 Chronicles 27:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.797`
+- fresh_brenton_ratio: `0.667`
+- fresh: And over vineyards was Shimei from Ramah, and over treasuries in the vineyards of wine was Zabdi the Shiphmite.
+- mt: And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:
+- brenton: And over the fields was Semei of Rael; and over the treasures of wine in the fields was Zabdi the son of Sephni.
 
 ## 1 Chronicles 2:47
 - priority: `0`
@@ -4718,15 +4754,6 @@ Rows: 719
 - mt: Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy.
 - brenton: Every male of the priests shall eat them, in the holy place they shall eat them: they are most holy.
 
-## 1 Kings 9:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.856`
-- fresh_brenton_ratio: `0.729`
-- fresh: And the king Solomon made a ship at Eziongeber, which is near Elath on the shore of the last sea, in the land of Edom.
-- mt: And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
-- brenton: even that for which king Solomon built a ship in Gasion Gaber near Ælath on the shore of the extremity of the sea in the land of Edom.
-
 ## Deuteronomy 18:21
 - priority: `0`
 - importance: `none`
@@ -4781,6 +4808,15 @@ Rows: 719
 - mt: Now Benjamin brings forth Bela his firstborn, Ashbel the second, and Aharah the third,
 - brenton: Now Benjamin begot Bale his first-born, and Asbel his second son, Aara the third, Noa the fourth,
 
+## Ezekiel 48:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.834`
+- fresh_brenton_ratio: `0.708`
+- fresh: And beside the border of Benjamin, from east side to west side, Simeon, one portion.
+- mt: And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion.
+- brenton: And from the borders of Benjamin, from the eastern parts to the western, Symeon, one.
+
 ## 2 Samuel 7:12
 - priority: `0`
 - importance: `none`
@@ -4825,15 +4861,6 @@ Rows: 719
 - fresh: Therefore thus says the Lord: Because you forgot me and threw me behind your body, you also bear your impiety and your whoring.
 - mt: Therefore thus says the Lord GOD; Because you have forgotten me, and cast me behind your back, therefore bear you also your lewdness and your whoredoms.
 - brenton: Therefore thus saith the Lord; Because thou hast forgotten me, and cast me behind thy back, therefore receive thou the reward of thine ungodliness and thy fornication.
-
-## Ezra 7:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.888`
-- fresh_brenton_ratio: `0.764`
-- fresh: And after these words, in the reign of Artaxerxes king of Persians, Ezra son of Seraiah, son of Azariah, son of Hilkiah,
-- mt: Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
-- brenton: Now after these things, in the reign of Arthasastha king of the Persians, came up Esdras the son of Saraias, the son of Azarias, the son of Chelcias,
 
 ## Joshua 19:28
 - priority: `0`
@@ -4997,15 +5024,6 @@ Rows: 719
 - mt: And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;
 - brenton: and Elieli, and Adaia, and Baraia, and Samarath, sons of Samaith:
 
-## 1 Chronicles 8:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.754`
-- fresh_brenton_ratio: `0.633`
-- fresh: And in Gibeon dwelt father of Gibeon, and name of his wife was Maachah.
-- mt: And at Gibeon dwelt the father of Gibeon; whose wife's name was Maachah:
-- brenton: And the father of Gabaon dwelt in Gabaon; and his wife's name was Moacha.
-
 ## 2 Chronicles 11:10
 - priority: `0`
 - importance: `none`
@@ -5023,15 +5041,6 @@ Rows: 719
 - fresh: The one lamb you shall do in the morning, and the second lamb you shall do at evening.
 - mt: The one lamb shall you offer in the morning, and the other lamb shall you offer at even;
 - brenton: Thou shalt offer one lamb in the morning, and thou shalt offer the second lamb towards evening.
-
-## 1 Chronicles 27:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.811`
-- fresh_brenton_ratio: `0.691`
-- fresh: And Jonathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Hachmoni was with the sons of king.
-- mt: Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
-- brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
 
 ## Genesis 46:19
 - priority: `0`
@@ -5123,6 +5132,15 @@ Rows: 719
 - mt: The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
 - brenton: And the sons of Raguel, Naches, Zare, Some, and Moze.
 
+## 1 Chronicles 27:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.798`
+- fresh_brenton_ratio: `0.680`
+- fresh: And Jonathan, David’s uncle, was counselor, understanding man and scribe, and Jehiel son of Hachmoni was with the sons of the king.
+- mt: Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
+- brenton: And Jonathan, David's uncle by the father's side, was a counsellor, a wise man: and Jeel the son of Achami was with the king's sons.
+
 ## 2 Chronicles 33:23
 - priority: `0`
 - importance: `none`
@@ -5204,15 +5222,6 @@ Rows: 719
 - mt: And David said to Uriah, Tarry here to day also, and tomorrow I will let you depart. So Uriah abode in Jerusalem that day, and the next day.
 - brenton: And David said to Urias, Remain here to-day also, and to-morrow I will let thee go. So Urias remained in Jerusalem that day and the day following.
 
-## Ezekiel 17:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.839`
-- fresh_brenton_ratio: `0.722`
-- fresh: As I live, says the Lord, surely in place of king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
-- mt: As I live, says the Lord GOD, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die.
-- brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
-
 ## Genesis 34:26
 - priority: `0`
 - importance: `none`
@@ -5266,6 +5275,15 @@ Rows: 719
 - fresh: Remember what Amalek did to you on the road when you came out from Egypt,
 - mt: Remember what Amalek did unto you by the way, when all of you were come forth out of Egypt;
 - brenton: Remember what things Amalec did to thee by the way, when thou wentest forth out of the land of Egypt:
+
+## Ezekiel 17:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.852`
+- fresh_brenton_ratio: `0.736`
+- fresh: As I live, says the Lord, surely in place of the king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
+- mt: As I live, says the Lord GOD, surely in the place where the king dwells that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die.
+- brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
 
 ## Isaiah 65:9
 - priority: `0`
@@ -5384,6 +5402,15 @@ Rows: 719
 - mt: Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
 - brenton: Jettur, Naphes, Kedma: these are the sons of Ismael.
 
+## 2 Chronicles 12:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.862`
+- fresh_brenton_ratio: `0.748`
+- fresh: And Rehoboam died and was buried with his fathers and was buried in the City of David, and Abijah his son reigned in his place.
+- mt: And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his position.
+- brenton: And Roboam made war with Jeroboam all his days. And Roboam died with his fathers, and was buried in the city of David: and Abia his son reigned in his stead.
+
 ## 2 Kings 9:20
 - priority: `0`
 - importance: `none`
@@ -5455,15 +5482,6 @@ Rows: 719
 - fresh: And it came to be when David and his men entered into Ziklag on the third day, Amalek attacked the south and Ziklag and struck Ziklag and burned it with fire.
 - mt: And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
 - brenton: And it came to pass when David and his men had entered Sekelac on the third day, that Amalec had made an incursion upon the south, and upon Sekelac, and smitten Sekelac, and burnt it with fire.
-
-## 2 Chronicles 12:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.843`
-- fresh_brenton_ratio: `0.730`
-- fresh: And Rehoboam died and was buried with his fathers and was buried in City of David, and Abijah his son reigned in his place.
-- mt: And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his position.
-- brenton: And Roboam made war with Jeroboam all his days. And Roboam died with his fathers, and was buried in the city of David: and Abia his son reigned in his stead.
 
 ## Deuteronomy 15:16
 - priority: `0`
@@ -5564,14 +5582,14 @@ Rows: 719
 - mt: Now, you son of man, take up a lamentation for Tyrus;
 - brenton: And thou, son of man, take up a lamentation against Sor;
 
-## Ezekiel 48:5
+## Ezra 5:11
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.759`
-- fresh_brenton_ratio: `0.647`
-- fresh: And beside border of Manasseh, from east side to west side, Ephraim, one portion.
-- mt: And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim.
-- brenton: And from the borders of Manasse, from the eastern parts as far as the west coasts, for Ephraim, one.
+- fresh_mt_ratio: `0.799`
+- fresh_brenton_ratio: `0.687`
+- fresh: And this word they answered us, saying, We are servants of God of heaven and earth, and we are building the house that was built many years before this, and a great king of Israel built it and completed it.
+- mt: And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was built these many years ago, which a great king of Israel built and set up.
+- brenton: And they answered us thus, saying, We are the servants of the God of heaven and earth, and we are building the house which had been built many years before this, and a great king of Israel built it, and established it for them.
 
 ## Genesis 36:11
 - priority: `0`
@@ -5618,15 +5636,6 @@ Rows: 719
 - mt: Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:
 - brenton: for Zabulon, Samæas the son of Abdiu: for Nephthali, Jerimoth the son of Oziel:
 
-## 1 Chronicles 27:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.881`
-- fresh_brenton_ratio: `0.770`
-- fresh: for half tribe of Manasseh in Gilead, Iddo son of Zechariah; for sons of Benjamin, Jaasiel son of Abner;
-- mt: Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
-- brenton: for the half-tribe of Manasse in the land of Galaad, Jadai the son of Zadæas, for the sons of Benjamin, Jasiel the son of Abenner:
-
 ## Exodus 7:2
 - priority: `0`
 - importance: `none`
@@ -5644,6 +5653,15 @@ Rows: 719
 - fresh: but you shall go instead to my father's house and to my tribe and take a wife for my son from there.
 - mt: But you shall go unto my father's house, and to my kindred, and take a wife unto my son.
 - brenton: But thou shalt go to the house of my father, and to my tribe, and thou shalt take thence a wife for my son.
+
+## Nehemiah 12:39
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.641`
+- fresh: and above the Gate of Ephraim and to the Old Gate and to Fish Gate and Tower of Hananeel and as far as Sheep Gate, and they stood in Gate of the Guard.
+- mt: And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.
+- brenton: of Ephraim, and to the fish-gate, and by the tower of Anameel, and as far as the sheep-gate.
 
 ## Numbers 13:14
 - priority: `0`
@@ -5753,14 +5771,14 @@ Rows: 719
 - mt: The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.
 - brenton: The sons of Caath; Ambram, Isaar, Chebron, Oziel, four.
 
-## Ezra 7:14
+## Ezekiel 48:5
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.764`
-- fresh_brenton_ratio: `0.655`
-- fresh: Because you are sent from presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by law of your God in your hand,
-- mt: Forasmuch as you are sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of your God which is in yours hand;
-- brenton: One has been sent from the king and the seven councillors, to visit Judea and Jerusalem, according to the law of their God that is in thine hand.
+- fresh_mt_ratio: `0.776`
+- fresh_brenton_ratio: `0.667`
+- fresh: And beside the border of Manasseh, from east side to west side, Ephraim, one portion.
+- mt: And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim.
+- brenton: And from the borders of Manasse, from the eastern parts as far as the west coasts, for Ephraim, one.
 
 ## Judges 8:6
 - priority: `0`
@@ -5770,15 +5788,6 @@ Rows: 719
 - fresh: And the leaders of Succoth said, Is the hand of Zebah and Zalmunna now in your hand, that we should give bread to your army?
 - mt: And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in yours hand, that we should give bread unto yours army?
 - brenton: And the princes of Socchoth said, Are the hands of Zebee and Salmana now in thy hand, that we should give bread to thy host?
-
-## Nehemiah 13:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.827`
-- fresh_brenton_ratio: `0.718`
-- fresh: And I contended with the generals and said, Why was house of God forsaken? And I gathered them and set them in their standing.
-- mt: Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.
-- brenton: And I strove with the commanders, and said, Wherefore has the house of God been abandoned? and I assembled them, and set them in their place.
 
 ## Numbers 1:16
 - priority: `0`
@@ -5834,6 +5843,15 @@ Rows: 719
 - mt: And you shall put the turban upon his head, and put the holy crown upon the turban.
 - brenton: And thou shalt put the mitre on his head; and thou shalt put the plate, even the Holiness, on the mitre.
 
+## Ezra 7:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.754`
+- fresh_brenton_ratio: `0.646`
+- fresh: Because you are sent from the presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by law of your God in your hand,
+- mt: Forasmuch as you are sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of your God which is in yours hand;
+- brenton: One has been sent from the king and the seven councillors, to visit Judea and Jerusalem, according to the law of their God that is in thine hand.
+
 ## Genesis 37:12
 - priority: `0`
 - importance: `none`
@@ -5846,9 +5864,9 @@ Rows: 719
 ## 1 Chronicles 22:10
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.809`
-- fresh_brenton_ratio: `0.702`
-- fresh: He shall build house to my name, and he shall be to me for son, and I to him for father, and I will set upright throne of his kingdom in Israel forever.
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.710`
+- fresh: He shall build a house to my name, and he shall be to me for son, and I to him for father, and I will set upright throne of his kingdom in Israel forever.
 - mt: He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.
 - brenton: He shall build a house to my name; and he shall be a son to me, and I will be a father to him; and I will establish the throne of his kingdom in Israel for ever.
 
@@ -5915,6 +5933,15 @@ Rows: 719
 - mt: Gibeon, and Ramah, and Beeroth,
 - brenton: Gabaon, and Rama, and Beerotha;
 
+## Nehemiah 13:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.738`
+- fresh: And I contended with the generals and said, Why was the house of God forsaken? And I gathered them and set them in their standing.
+- mt: Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.
+- brenton: And I strove with the commanders, and said, Wherefore has the house of God been abandoned? and I assembled them, and set them in their place.
+
 ## Numbers 9:12
 - priority: `0`
 - importance: `none`
@@ -5923,6 +5950,15 @@ Rows: 719
 - fresh: They shall leave none of it until morning, and they shall not break a bone of it. According to the law of the Passover they shall keep it.
 - mt: They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
 - brenton: They shall not leave of it until the morrow, and they shall not break a bone of it; they shall sacrifice it according to the ordinance of the passover.
+
+## Jeremiah 5:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.795`
+- fresh_brenton_ratio: `0.689`
+- fresh: And it will be in those days, says the Lord your God, I will not make a full end of you.
+- mt: Nevertheless in those days, says the LORD, I will not make a full end with you.
+- brenton: And it shall come to pass in those days, saith the Lord thy God, that I will not utterly destroy you.
 
 ## Deuteronomy 28:34
 - priority: `0`
@@ -6239,24 +6275,6 @@ Rows: 719
 - mt: Helez the Paltite, Ira the son of Ikkesh the Tekoite,
 - brenton: Selles the Kelothite: Iras the son of Isca the Thecoite.
 
-## Ezekiel 48:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.826`
-- fresh_brenton_ratio: `0.724`
-- fresh: And for rest of the tribes, from east side to west side, Benjamin, one portion.
-- mt: As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion.
-- brenton: And as for the rest of the tribes, from the eastern parts as far as the western, Benjamin shall have one portion.
-
-## Ezekiel 6:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.975`
-- fresh_brenton_ratio: `0.873`
-- fresh: Son of man, set your face toward mountains of Israel and prophesy against them,
-- mt: Son of man, set your face toward the mountains of Israel, and prophesy against them,
-- brenton: Son of man, set thy face against the mountains of Israel, and prophesy against them;
-
 ## Ezra 10:34
 - priority: `0`
 - importance: `none`
@@ -6328,6 +6346,15 @@ Rows: 719
 - fresh: and Jaresiah and Eliah and Zichri, sons of Jeroham.
 - mt: And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 - brenton: and Jarasia, and Eria, and Zechri, son of Iroam.
+
+## Ezekiel 48:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.852`
+- fresh_brenton_ratio: `0.751`
+- fresh: And for the rest of the tribes, from east side to west side, Benjamin, one portion.
+- mt: As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion.
+- brenton: And as for the rest of the tribes, from the eastern parts as far as the western, Benjamin shall have one portion.
 
 ## Ezra 10:40
 - priority: `0`

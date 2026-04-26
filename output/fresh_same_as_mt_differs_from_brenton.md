@@ -1,6 +1,6 @@
 # Fresh Same as MT, Differs from Brenton
 
-Rows: 51
+Rows: 52
 
 ## 1 Chronicles 11:36
 - priority: `0`
@@ -208,6 +208,15 @@ Rows: 51
 - fresh: Dan and Naphtali, Gad and Asher.
 - mt: Dan, and Naphtali, Gad, and Asher.
 - brenton: Dan and Nephthalim, Gad and Aser.
+
+## Ezekiel 6:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `1.000`
+- fresh_brenton_ratio: `0.901`
+- fresh: Son of man, set your face toward the mountains of Israel and prophesy against them,
+- mt: Son of man, set your face toward the mountains of Israel, and prophesy against them,
+- brenton: Son of man, set thy face against the mountains of Israel, and prophesy against them;
 
 ## Ezra 10:35
 - priority: `0`

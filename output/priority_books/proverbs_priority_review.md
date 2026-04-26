@@ -11,13 +11,13 @@ Selected verses: 6
 ## Proverbs 3:16
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, law, mercy, righteousness; crossref_top_vote=14; reco=keep
-- fresh: For length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
+- fresh: For the length of life and years of life are in her right hand; in her left are riches and glory. From her mouth comes righteousness, and law and mercy she carries on her tongue.
 - brenton: For length of existence and years of life are in her right hand; and in her left hand are wealth and glory:
 
 ## Proverbs 9:10
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, lord; crossref_top_vote=72; reco=keep
-- fresh: Beginning of wisdom the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- fresh: The beginning of wisdom is the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ## Proverbs 10:3
@@ -29,7 +29,7 @@ Selected verses: 6
 ## Proverbs 15:29
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, righteous, righteousness; crossref_top_vote=27; reco=keep
-- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let heart of man reckon righteous things, so that his steps may be corrected by God.
+- fresh: God far from ungodly, but prayers of righteous he hears. Better little taking with righteousness than much produce with injustice. Let the heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
 ## Proverbs 26:11

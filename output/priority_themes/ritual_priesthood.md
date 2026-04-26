@@ -93,7 +93,7 @@ Books: 32
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, anointed, peace, sacrifice, salvation; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: altar, anointed, peace, sacrifice, salvation
-- fresh: All the cattle for sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
+- fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
 
 ## Numbers 16:3
@@ -198,7 +198,7 @@ Books: 32
 - score: 20
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, law, lord, priest, spirit; crossref_top_vote=7; eng_reco=keep; reco=keep
 - keywords: king, law, lord, priest, spirit
-- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem king Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
+- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem King Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
 - brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
 
 ## 1 Chronicles 6:34
@@ -240,7 +240,7 @@ Books: 32
 - score: 24
 - reasons: decisions=5; footnotes=5; reviewed_decisions=5; importance=high; keywords=god, holy, king, lord; crossref_top_vote=5; reco=keep
 - keywords: god, holy, king, lord
-- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
+- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in the house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
 ## Ezra 6:3
@@ -254,7 +254,7 @@ Books: 32
 - score: 18
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, law, priest; crossref_top_vote=4; reco=keep
 - keywords: god, king, law, priest
-- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of law of God of heaven asks from you, let it be promptly done,
+- fresh: And from me, I Artaxerxes the king, set decree to all treasuries beyond the River, that whatever Ezra the priest and scribe of the law of God of heaven asks from you, let it be promptly done,
 - brenton: and from me, whatever it shall seem good to thee to give.
 
 ## Nehemiah 4:3
@@ -275,7 +275,7 @@ Books: 32
 - score: 30
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, holy, law, lord, sacrifice; crossref_top_vote=6; eng_reco=keep; reco=keep
 - keywords: altar, god, holy, law, lord, sacrifice, sin
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
+- fresh: for the bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
 
 ## Esther 4:11
@@ -296,7 +296,7 @@ Books: 32
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, lord; crossref_top_vote=72; reco=keep
 - keywords: holy, law, lord
-- fresh: Beginning of wisdom the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
+- fresh: The beginning of wisdom is the fear of the Lord, and counsel of holy ones understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
 ## Proverbs 26:11
@@ -338,7 +338,7 @@ Books: 32
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, salvation; crossref_top_vote=35; reco=keep
 - keywords: lord, salvation
-- fresh: And he waits and is quiet for salvation of the Lord.
+- fresh: And he waits and is quiet for the salvation of the Lord.
 - brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
 
 ## Ezekiel 20:39
@@ -443,7 +443,7 @@ Books: 32
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, salvation; crossref_top_vote=15; reco=keep
 - keywords: holy, salvation
-- fresh: But on mount Zion there will be salvation, and it will be holy, and house of Jacob will inherit those who inherited them.
+- fresh: But on mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
 - brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
 
 ## Jonah 2:8
@@ -506,7 +506,7 @@ Books: 32
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest; crossref_top_vote=7; reco=keep
 - keywords: god, lord, priest
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the great priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ## Haggai 1:14
@@ -520,7 +520,7 @@ Books: 32
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
 - keywords: lord, priest
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the great priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ## Zechariah 14:5

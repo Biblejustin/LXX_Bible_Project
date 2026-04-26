@@ -35,5 +35,5 @@ Selected verses: 6
 ## 2 Chronicles 35:3
 - score: 24
 - reasons: decisions=5; footnotes=5; reviewed_decisions=5; importance=high; keywords=god, holy, king, lord; crossref_top_vote=5; reco=keep
-- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
+- fresh: And he said to Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed holy ark in the house which Solomon son of David king of Israel built, King said, It is not for you to carry anything on shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.

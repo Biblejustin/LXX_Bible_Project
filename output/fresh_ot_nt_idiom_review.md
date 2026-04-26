@@ -437,7 +437,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: and you came and stood before me in house over which my name has been called and said, We have held back from doing all these abominations—
+- fresh: and you came and stood before me in the house over which my name has been called and said, We have held back from doing all these abominations—
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you
@@ -476,7 +476,7 @@ Rows: 39
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in house over which my name has been called, to defile it.
+- fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 - NT refs: Acts 15:17; James 2:7
 - NT Greek: Acts 15:17: ἐφ' οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ' αὐτούς || James 2:7: τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ' ὑμᾶς
 - NT gloss: Acts 15:17: upon whom / has-been-called / name / of-me / upon / them || James 2:7: the good name / having-been-called / upon / you

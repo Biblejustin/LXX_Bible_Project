@@ -201,7 +201,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 21
 
-**2 Kings 1:3** And angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
+**2 Kings 1:3** And the angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 18
@@ -235,24 +235,24 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**2 Chronicles 1:3** And Solomon and all assembly with him went to high place in Gibeon, because there was tent of testimony of God which Moses servant of the Lord made in wilderness.
+**2 Chronicles 1:3** And Solomon and all the assembly with him went to high place in Gibeon, because there was the tent of testimony of God which Moses servant of the Lord made in the wilderness.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 8
 
 ## Ezra
 
-**Ezra 1:1** And in the first year of Cyrus king of Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+**Ezra 1:1** And in the first year of Cyrus king of the Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of the Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Ezra 1:2** Thus said Cyrus king of Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+**Ezra 1:2** Thus said Cyrus king of the Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15
 
-**Ezra 1:3** Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build house of God of Israel. He is the God in Jerusalem.
+**Ezra 1:3** Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of God of Israel. He is the God in Jerusalem.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 10
@@ -434,7 +434,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 31
 
-**Ezekiel 1:2** Fifth of the month, this was fifth year of captivity of king Joakim,
+**Ezekiel 1:2** Fifth of the month, this was fifth year of captivity of King Joakim,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
@@ -456,7 +456,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 23
 
-**Daniel 1:3** And king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
+**Daniel 1:3** And the king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3
@@ -609,7 +609,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 9
 
-**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of sea fail, and I will take humans away from the face of the earth, says the Lord.
+**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15

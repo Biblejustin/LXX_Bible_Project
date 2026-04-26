@@ -29,11 +29,11 @@ Selected verses: 6
 ## Nehemiah 9:5
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, lord, name; crossref_top_vote=5; reco=keep
-- fresh: And the Levites, Jeshua and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless name of your glory and will exalt it above every blessing and praise.
+- fresh: And the Levites, Jeshua and Kadmiel, said, Rise, bless the Lord your God from age to age, and they will bless the name of your glory and will exalt it above every blessing and praise.
 - brenton: And the Levites, Jesus and Cadmiel, said, Rise up, bless the Lord our God forever and ever: and let them bless thy glorious name, and exalt it with all blessing and praise.
 
 ## Nehemiah 10:34
 - score: 30
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=altar, god, holy, law, lord, sacrifice; crossref_top_vote=6; eng_reco=keep; reco=keep
-- fresh: for bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for works of the house of our God.
+- fresh: for the bread of the presence and sacrifice of the continual offering and for continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:

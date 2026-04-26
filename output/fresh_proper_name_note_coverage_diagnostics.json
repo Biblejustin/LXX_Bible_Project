@@ -11,8 +11,8 @@
     "nt_rows": 7957
   },
   "counts": {
-    "skipped_stopword": 434,
-    "skipped_not_classified": 2328,
+    "skipped_stopword": 433,
+    "skipped_not_classified": 2325,
     "equivalent_aligned": 811,
     "included_unclassified_resolved_source_form": 480,
     "included_transliterated_form": 487,
