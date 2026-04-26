@@ -22,11 +22,50 @@ STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
 SPACE_RE = re.compile(r"\s+")
 SPACE_BEFORE_PUNCT_RE = re.compile(r"\s+([,.;:?!])")
 SENTENCE_JOIN_RE = re.compile(r"([.!?])([A-Z])")
+LITERAL_TOKEN_RE = re.compile(r"[A-Za-z0-9][A-Za-z0-9']*")
+CHAR_CLASS_RE = re.compile(r"\[[^\]]*\]")
+REGEX_ESCAPE_RE = re.compile(r"\\(?:[bBAZdDsSwW]|[sS][*+]?)")
+IGNORECASE_FLAG = int(re.I)
 
 
 @lru_cache(maxsize=None)
 def cached_regex(pattern: str, flags: int = 0) -> re.Pattern[str]:
     return re.compile(pattern, flags)
+
+
+@lru_cache(maxsize=10000)
+def folded_text(text: str) -> str:
+    return text.casefold()
+
+
+@lru_cache(maxsize=None)
+def required_literal_token(pattern: str) -> str:
+    if "|" in pattern:
+        return ""
+    simplified = CHAR_CLASS_RE.sub(" ", pattern)
+    simplified = REGEX_ESCAPE_RE.sub(" ", simplified)
+    simplified = (
+        simplified.replace(r"\.", ".")
+        .replace(r"\,", ",")
+        .replace(r"\;", ";")
+        .replace(r"\:", ":")
+        .replace(r"\?", "?")
+        .replace(r"\!", "!")
+        .replace(r"\'", "'")
+        .replace(r"\"", '"')
+    )
+    tokens = [token for token in LITERAL_TOKEN_RE.findall(simplified) if len(token) > 1]
+    if not tokens:
+        return ""
+    return max(tokens, key=len)
+
+
+def maybe_contains(text: str, token: str, ignore_case: bool = False) -> bool:
+    if not token:
+        return True
+    if ignore_case:
+        return token.casefold() in folded_text(text)
+    return token in text
 
 NT_PROPER_NAME_REPLACEMENTS = [
     ("Phares", "Perez"),
@@ -133,6 +172,10 @@ def replace_literal(
     *,
     flags: int = 0,
 ) -> str:
+    token = required_literal_token(pattern)
+    ignore_case = bool(flags) and (int(flags) & IGNORECASE_FLAG) != 0
+    if not maybe_contains(text, token, ignore_case):
+        return text
     new_text, count = cached_regex(pattern, flags).subn(replacement, text)
     if count:
         notes.append(note)
@@ -140,6 +183,8 @@ def replace_literal(
 
 
 def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
+    if old.casefold() not in folded_text(text):
+        return text
     pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
 
     def repl(match: re.Match[str]) -> str:
@@ -157,6 +202,8 @@ def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> 
 
 
 def replace_word_fixed(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
+    if old.casefold() not in folded_text(text):
+        return text
     pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
     new_text, count = pattern.subn(new, text)
     if count:
