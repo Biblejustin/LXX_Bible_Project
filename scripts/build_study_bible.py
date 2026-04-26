@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 import csv
+from functools import lru_cache
+from heapq import nsmallest
 import html
 import json
 import re
@@ -79,6 +81,7 @@ TSK_OT_BOOKS = [
     "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL",
 ]
 TSK_NT_BOOKS = NT_BOOKS[:]
+NT_BOOKS_SET = frozenset(NT_BOOKS)
 
 UKJV_BOOK_MAP = {
     40: ("MAT", "Matthew"),
@@ -308,6 +311,27 @@ HEAVY_CROSSREF_THRESHOLD = 5
 EXTREME_CROSSREF_THRESHOLD = 10
 EXTREME_COMBINED_LOAD_THRESHOLD = 900
 
+SPACE_RE = re.compile(r"\s+")
+PUNCT_FAST_RE = re.compile(r"[;,]\s*[;,]")
+PUNCT_NORM_RE = re.compile(r"(?:\s*[;,]\s*){2,}")
+USFM_FOOTNOTE_RE = re.compile(r"\\f\s+\+(.*?)\\f\*")
+USFM_FOOTNOTE_FIELD_RE = re.compile(r"\\fr\s+[^\\]+|\\(?:fqa|ft|fk|fq)\s+")
+USFM_MARKUP_RE = re.compile(r"\\[a-z0-9*]+ ?")
+ALPHA_WORD_RE = re.compile(r"[A-Za-z][A-Za-z'/-]*")
+LATEX_REPLACEMENTS = {
+    "\\": r"\textbackslash{}",
+    "&": r"\&",
+    "%": r"\%",
+    "$": r"\$",
+    "#": r"\#",
+    "_": r"\_",
+    "{": r"\{",
+    "}": r"\}",
+    "~": r"\textasciitilde{}",
+    "^": r"\textasciicircum{}",
+}
+LATEX_ESCAPE_RE = re.compile(r"[\\&%$#_{}~^]")
+
 
 @dataclass
 class VerseRecord:
@@ -334,11 +358,9 @@ def normalize_space(text: str) -> str:
     text = text.replace("\u037e", ";")
     text = text.replace("\u0387", ";")
     text = text.replace("\u00b7", ";")
-    text = re.sub(r"\s+", " ", text)
-    text = re.sub(r"\s*;\s*,\s*", "; ", text)
-    text = re.sub(r"\s*,\s*;\s*", "; ", text)
-    text = re.sub(r"\s*;\s*;\s*", "; ", text)
-    text = re.sub(r"(?:\s*[;,]\s*){2,}", "; ", text)
+    text = SPACE_RE.sub(" ", text)
+    if PUNCT_FAST_RE.search(text):
+        text = PUNCT_NORM_RE.sub("; ", text)
     return text.strip()
 
 
@@ -352,13 +374,9 @@ def strip_usfm_markup(text: str) -> str:
 
 def extract_usfm_footnotes(text: str) -> List[str]:
     notes = []
-    for raw in re.findall(r"\\f\s+\+(.*?)\\f\*", text):
-        body = re.sub(r"\\fr\s+[^\\]+", "", raw)
-        body = re.sub(r"\\fqa\s+", "", body)
-        body = re.sub(r"\\ft\s+", "", body)
-        body = re.sub(r"\\fk\s+", "", body)
-        body = re.sub(r"\\fq\s+", "", body)
-        body = re.sub(r"\\[a-z0-9*]+ ?", "", body)
+    for raw in USFM_FOOTNOTE_RE.findall(text):
+        body = USFM_FOOTNOTE_FIELD_RE.sub("", raw)
+        body = USFM_MARKUP_RE.sub("", body)
         body = normalize_space(body)
         if body:
             notes.append(body)
@@ -676,8 +694,7 @@ def parse_tsk_module() -> Tuple[Dict[Tuple[str, int, int], List[str]], Dict[Tupl
                 refs, note_text = extract_tsk_crossrefs(raw_text)
                 if refs:
                     crossrefs[verse_key].extend(refs)
-                alpha_words = re.findall(r"[A-Za-z][A-Za-z'/-]*", note_text or "")
-                if note_text and len(alpha_words) >= 5:
+                if has_min_alpha_words(note_text, minimum=5):
                     notes[verse_key].append(note_text)
 
     cooked_crossrefs = {key: list(dict.fromkeys(values)) for key, values in crossrefs.items()}
@@ -687,6 +704,17 @@ def parse_tsk_module() -> Tuple[Dict[Tuple[str, int, int], List[str]], Dict[Tupl
     diagnostics["verses_with_notes"] = len(cooked_notes)
     diagnostics["total_crossrefs"] = sum(len(v) for v in cooked_crossrefs.values())
     return cooked_crossrefs, cooked_notes, diagnostics
+
+
+def has_min_alpha_words(text: str, minimum: int) -> bool:
+    if not text:
+        return False
+    count = 0
+    for _ in ALPHA_WORD_RE.finditer(text):
+        count += 1
+        if count >= minimum:
+            return True
+    return False
 
 
 def parse_openbible_ref(raw_ref: str) -> Optional[Tuple[str, int, int, str]]:
@@ -914,6 +942,7 @@ REF_BOOK_ORDER = {code: idx for idx, code in enumerate(FINAL_BOOK_ORDER)}
 CROSS_REFERENCE_RE = re.compile(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
 
 
+@lru_cache(maxsize=None)
 def parse_cross_reference(ref: str) -> Optional[Tuple[str, str, int, Optional[int], Optional[int], str]]:
     ref = ref.strip()
     match = CROSS_REFERENCE_RE.match(ref)
@@ -1001,7 +1030,8 @@ def canonicalize_cross_references(refs: List[str]) -> List[str]:
 
 
 def select_display_cross_references(refs: List[str], normal_limit: Optional[int] = None) -> List[str]:
-    canonical_refs = canonicalize_cross_references(refs)
+    # Records canonicalize once during merge; renderers only need optional thinning.
+    canonical_refs = [ref for ref in refs if ref]
     if not normal_limit or len(canonical_refs) <= normal_limit:
         return canonical_refs
     if normal_limit <= 1:
@@ -1034,24 +1064,25 @@ def merge_records() -> Tuple[List[VerseRecord], Dict[str, object]]:
     all_records = brenton + ukjv + enoch
     for record in all_records:
         key = (record.book_code, record.chapter, record.verse)
+        ref = record.ref
         if key in tsk_crossrefs:
             record.cross_references.extend(tsk_crossrefs[key])
         elif key in crossrefs:
             record.cross_references.extend(crossrefs[key])
         if key in tsk_notes:
             record.study_notes.extend(tsk_notes[key])
-        if record.book_code in NT_BOOKS:
-            notes = kal_html_notes.get(record.ref, []) or kal_notes.get(record.ref, [])
+        if record.book_code in NT_BOOKS_SET:
+            notes = kal_html_notes.get(ref, []) or kal_notes.get(ref, [])
             if notes:
                 record.study_notes.extend(notes)
-        if record.ref in names_of_god_notes:
-            record.footnotes.extend(names_of_god_notes[record.ref])
-        if record.ref in proper_name_notes:
-            record.footnotes.extend(proper_name_notes[record.ref])
-        if record.ref in hebrew_vocab_notes:
-            record.footnotes.extend(hebrew_vocab_notes[record.ref])
-        if record.ref in greek_vocab_notes:
-            record.footnotes.extend(greek_vocab_notes[record.ref])
+        if ref in names_of_god_notes:
+            record.footnotes.extend(names_of_god_notes[ref])
+        if ref in proper_name_notes:
+            record.footnotes.extend(proper_name_notes[ref])
+        if ref in hebrew_vocab_notes:
+            record.footnotes.extend(hebrew_vocab_notes[ref])
+        if ref in greek_vocab_notes:
+            record.footnotes.extend(greek_vocab_notes[ref])
         if record.cross_references:
             record.cross_references = canonicalize_cross_references(record.cross_references)
     name_notes_added = sum(len(v) for v in proper_name_notes.values())
@@ -1282,25 +1313,16 @@ def render_pdf_excerpt(records: List[VerseRecord], markdown_path: Path) -> Optio
 
 
 def latex_escape(text: str) -> str:
-    replacements = {
-        "\\": r"\textbackslash{}",
-        "&": r"\&",
-        "%": r"\%",
-        "$": r"\$",
-        "#": r"\#",
-        "_": r"\_",
-        "{": r"\{",
-        "}": r"\}",
-        "~": r"\textasciitilde{}",
-        "^": r"\textasciicircum{}",
-    }
-    return "".join(replacements.get(ch, ch) for ch in text)
+    if not LATEX_ESCAPE_RE.search(text):
+        return text
+    return LATEX_ESCAPE_RE.sub(lambda match: LATEX_REPLACEMENTS[match.group(0)], text)
 
 
 def chunk_list(items: List[str], size: int) -> List[List[str]]:
     return [items[i:i + size] for i in range(0, len(items), size)]
 
 
+@lru_cache(maxsize=1)
 def load_book_intros() -> Dict[str, Dict[str, str]]:
     if not BOOK_INTROS_CSV.exists():
         return {}
@@ -1588,7 +1610,6 @@ def render_latex(
             lines.append(r"\markright{" + latex_escape(chapter_label.upper()) + r"}")
         if record.paragraph_start:
             flush()
-        tier = verse_layout_tier(record)
         verse_text = r"{\color{tnaccent}\fontsize{6.9}{6.9}\selectfont\textsuperscript{" + str(record.verse) + r"}} " + latex_escape(record.text)
         paragraph_bits.append(verse_text)
         if not crossrefs_only:
@@ -1664,7 +1685,7 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
         )
 
     def top_by(key: str, limit: int = 25) -> List[Dict[str, object]]:
-        return sorted(rows, key=lambda row: (-int(row[key]), row["ref"]))[:limit]
+        return nsmallest(limit, rows, key=lambda row: (-int(row[key]), str(row["ref"])))
 
     return {
         "top_footnote_char_verses": top_by("footnote_chars"),
@@ -1684,9 +1705,9 @@ def build_overflow_report(records: List[VerseRecord]) -> Dict[str, object]:
             "extreme": sum(1 for row in rows if row["tier"] == "extreme"),
         },
         "verses_exceeding_margin_ref_cap": [
-            row for row in sorted(rows, key=lambda row: (-int(row["crossref_count"]), row["ref"]))
+            row for row in nsmallest(100, rows, key=lambda row: (-int(row["crossref_count"]), str(row["ref"])))
             if int(row["crossref_count"]) > MAX_MARGIN_REFS_DISPLAY
-        ][:100],
+        ],
     }
 
 
