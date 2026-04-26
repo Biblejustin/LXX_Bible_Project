@@ -22,6 +22,43 @@ DEFAULT_QUEUE_MD = OUTPUT / "fresh_nt_tr_vs_ukjv_review_queue.md"
 DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_nt_tr_vs_ukjv_review_diagnostics.json"
 REVIEW_DIR = ROOT / "data" / "research"
 RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
+STRONGS_MARKER_RE = re.compile(r"\([a-z]\.\s*[^)]+\)")
+NON_COMPARE_WORD_RE = re.compile(r"[^a-z0-9\s]")
+SPACE_RE = re.compile(r"\s+")
+REVIEW_PASS_RE = re.compile(r"nt_review_pass_(\d+)\.md$")
+BACKTICK_VALUE_RE = re.compile(r"`([^`]+)`")
+COMPARISON_REPLACEMENTS = [
+    ("all of you all", "you"),
+    ("all of you", "you"),
+    ("unto", "to"),
+    ("thereunto", "to this"),
+    ("hereunto", "to this"),
+    ("whosoever", "whoever"),
+    ("whatsoever", "whatever"),
+    ("wherefore", "therefore"),
+    ("henceforth", "from now on"),
+    ("thenceforth", "from then on"),
+    ("thence", "from there"),
+    ("thither", "there"),
+    ("offence", "offense"),
+    ("saviour", "savior"),
+    ("honour", "honor"),
+    ("judaea", "judea"),
+    ("enquire", "inquire"),
+    ("enquired", "inquired"),
+    ("enquiring", "inquiring"),
+    ("whilst", "while"),
+    ("he that", "the one who"),
+    ("he which", "the one who"),
+    ("which was", "who was"),
+    ("which were", "who were"),
+    ("which is", "who is"),
+    ("which are", "who are"),
+]
+COMPARISON_REPLACEMENT_PATTERNS = [
+    (re.compile(rf"\b{re.escape(old)}\b"), new)
+    for old, new in COMPARISON_REPLACEMENTS
+]
 
 REVIEW_FIELDNAMES = [
     "ref",
@@ -408,59 +445,41 @@ STATUS_WEIGHTS = {
 
 def normalize_for_compare(text: str) -> str:
     text = text.lower()
-    text = re.sub(r"\([a-z]\.\s*[^)]+\)", " ", text)
+    text = STRONGS_MARKER_RE.sub(" ", text)
     text = text.replace("'", "")
-    text = re.sub(r"[^a-z0-9\s]", " ", text)
-    text = re.sub(r"\s+", " ", text)
-    comparison_replacements = [
-        ("all of you all", "you"),
-        ("all of you", "you"),
-        ("unto", "to"),
-        ("thereunto", "to this"),
-        ("hereunto", "to this"),
-        ("whosoever", "whoever"),
-        ("whatsoever", "whatever"),
-        ("wherefore", "therefore"),
-        ("henceforth", "from now on"),
-        ("thenceforth", "from then on"),
-        ("thence", "from there"),
-        ("thither", "there"),
-        ("offence", "offense"),
-        ("saviour", "savior"),
-        ("honour", "honor"),
-        ("judaea", "judea"),
-        ("enquire", "inquire"),
-        ("enquired", "inquired"),
-        ("enquiring", "inquiring"),
-        ("whilst", "while"),
-        ("he that", "the one who"),
-        ("he which", "the one who"),
-        ("which was", "who was"),
-        ("which were", "who were"),
-        ("which is", "who is"),
-        ("which are", "who are"),
-    ]
-    for old, new in comparison_replacements:
-        text = re.sub(rf"\b{re.escape(old)}\b", new, text)
-    text = re.sub(r"\s+", " ", text)
+    text = NON_COMPARE_WORD_RE.sub(" ", text)
+    text = SPACE_RE.sub(" ", text)
+    for pattern, new in COMPARISON_REPLACEMENT_PATTERNS:
+        text = pattern.sub(new, text)
+    text = SPACE_RE.sub(" ", text)
     return text.strip()
 
 
-def phrase_present(normalized_text: str, phrase: str) -> bool:
-    normalized_phrase = normalize_for_compare(phrase)
+NORMALIZED_THEME_TERMS = {
+    theme: [
+        (normalize_for_compare(term), term)
+        for term in terms
+        if normalize_for_compare(term)
+    ]
+    for theme, terms in THEME_TERMS.items()
+}
+
+
+def phrase_present(padded_normalized_text: str, normalized_phrase: str) -> bool:
     if not normalized_phrase:
         return False
-    return re.search(rf"\b{re.escape(normalized_phrase)}\b", normalized_text) is not None
+    return f" {normalized_phrase} " in padded_normalized_text
 
 
 def find_theme_hits(text: str) -> tuple[list[str], list[str]]:
     normalized_text = normalize_for_compare(text)
+    padded_normalized_text = f" {normalized_text} "
     themes: list[str] = []
     hits: list[str] = []
-    for theme, terms in THEME_TERMS.items():
+    for theme, terms in NORMALIZED_THEME_TERMS.items():
         theme_hit = False
-        for term in terms:
-            if phrase_present(normalized_text, term):
+        for normalized_term, term in terms:
+            if phrase_present(padded_normalized_text, normalized_term):
                 theme_hit = True
                 hits.append(f"{theme}:{term}")
         if theme_hit:
@@ -477,7 +496,7 @@ def split_review_notes(notes: str) -> list[str]:
 
 
 def review_pass_sort_key(path: Path) -> tuple[int, str]:
-    match = re.search(r"nt_review_pass_(\d+)\.md$", path.name)
+    match = REVIEW_PASS_RE.search(path.name)
     return (int(match.group(1)), path.name) if match else (0, path.name)
 
 
@@ -490,7 +509,7 @@ def load_latest_review_statuses() -> dict[str, dict[str, str]]:
             if line.startswith("## "):
                 ref = line[3:].strip()
             elif ref and line.startswith("- status:"):
-                match = re.search(r"`([^`]+)`", line)
+                match = BACKTICK_VALUE_RE.search(line)
                 statuses[ref] = {
                     "status": match.group(1) if match else line.split(":", 1)[1].strip(),
                     "pass": path.name,

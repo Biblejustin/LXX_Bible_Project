@@ -308,6 +308,7 @@ TSK_PARAGRAPH_RE = re.compile(
     flags=re.S,
 )
 TSK_CATCHWORD_RE = re.compile(r'<hi type="italic">(.*?)</hi>', flags=re.S)
+TRIGGER_TOKEN_RE = re.compile(r"[A-Za-z0-9]+")
 ANCHOR_STOPWORDS = {
     "a",
     "an",
@@ -1419,6 +1420,23 @@ def is_chapter_scannable_name_note(note: NameMeaningNote) -> bool:
     return len(note.trigger_phrase.split()) > 1
 
 
+def trigger_index_key(trigger: str, *, case_sensitive: bool) -> tuple[bool, str] | None:
+    match = TRIGGER_TOKEN_RE.search(trigger)
+    if not match:
+        return None
+    token = match.group(0)
+    return case_sensitive, token if case_sensitive else token.casefold()
+
+
+def verse_trigger_index_keys(text: str) -> set[tuple[bool, str]]:
+    keys: set[tuple[bool, str]] = set()
+    for match in TRIGGER_TOKEN_RE.finditer(text):
+        token = match.group(0)
+        keys.add((True, token))
+        keys.add((False, token.casefold()))
+    return keys
+
+
 def place_name_meaning_notes_by_chapter(
     verses: list[Verse],
     source_notes: dict[str, list[NameMeaningNote]],
@@ -1442,9 +1460,28 @@ def place_name_meaning_notes_by_chapter(
 
     seen_in_chapter: set[tuple[str, int, str]] = set()
     display_text_cache = {note: note.display_text for note in scannable_notes}
+    note_order = {note: index for index, note in enumerate(scannable_notes)}
+    notes_by_trigger_token: dict[tuple[bool, str], list[NameMeaningNote]] = defaultdict(list)
+    unindexed_notes: list[NameMeaningNote] = []
+    for note in scannable_notes:
+        key = trigger_index_key(note.trigger_phrase, case_sensitive=note.case_sensitive)
+        if key is None:
+            unindexed_notes.append(note)
+        else:
+            notes_by_trigger_token[key].append(note)
+
     for verse in verses:
         chapter_key = (verse.book_name, verse.chapter)
-        for note in scannable_notes:
+        candidate_notes = list(unindexed_notes)
+        seen_candidates = set(candidate_notes)
+        for key in verse_trigger_index_keys(verse.text):
+            for note in notes_by_trigger_token.get(key, []):
+                if note in seen_candidates:
+                    continue
+                candidate_notes.append(note)
+                seen_candidates.add(note)
+        candidate_notes.sort(key=note_order.__getitem__)
+        for note in candidate_notes:
             seen_key = (*chapter_key, display_text_cache[note])
             if seen_key in seen_in_chapter:
                 continue
