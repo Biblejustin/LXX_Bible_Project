@@ -2771,8 +2771,8 @@ def validate_docx(path: Path) -> dict[str, object]:
     return result
 
 
-def skipped_docx_validation(path: Path) -> dict[str, object]:
-    return {"path": str(path), "skipped": True, "reason": "--skip-docx-validation"}
+def skipped_docx_validation(path: Path, reason: str) -> dict[str, object]:
+    return {"path": str(path), "skipped": True, "reason": reason}
 
 
 def build_diagnostics(
@@ -2882,6 +2882,12 @@ def main() -> None:
         action="store_true",
         help="Skip DOCX zip/XML validation for faster ignored working builds.",
     )
+    parser.add_argument(
+        "--docx-output-set",
+        choices=("all", "logos-only"),
+        default="all",
+        help="Choose which DOCX outputs to generate. Release builds should use all.",
+    )
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
 
@@ -2968,50 +2974,62 @@ def main() -> None:
         crossrefs_enabled=not args.no_crossrefs,
         docx_compresslevel=args.docx_compresslevel,
     )
-    mt_bridge_stats = build_docx(
-        path=args.mt_bridge_docx,
-        title=f"{config['title_prefix']} - {config['bridge_label']}",
-        description=config["description"],
-        testament=args.testament,
-        verses=verses,
-        translation_notes=notes,
-        name_notes=name_notes,
-        supplemental_notes=supplemental_notes,
-        crossrefs=crossrefs,
-        book_intros=book_intros,
-        logos=True,
-        datatype=args.datatype,
-        milestone_mode="mt",
-        versification_map=versification_map,
-        verse_counts=verse_counts,
-        footnote_number_restart=args.footnote_number_restart,
-        place_links=place_links,
-        place_link_pattern=place_link_pattern,
-        crossrefs_enabled=not args.no_crossrefs,
-        docx_compresslevel=args.docx_compresslevel,
-    )
-    proof_stats = build_docx(
-        path=args.proof_docx,
-        title=f"{config['title_prefix']} - Proofreading Copy",
-        description=config["description"],
-        testament=args.testament,
-        verses=verses,
-        translation_notes=notes,
-        name_notes=name_notes,
-        supplemental_notes=brenton_supplemental_notes,
-        crossrefs=crossrefs,
-        book_intros=book_intros,
-        logos=False,
-        datatype=args.datatype,
-        milestone_mode="lxx",
-        versification_map=versification_map,
-        verse_counts=verse_counts,
-        footnote_number_restart=args.footnote_number_restart,
-        place_links={},
-        place_link_pattern=None,
-        crossrefs_enabled=not args.no_crossrefs,
-        docx_compresslevel=args.docx_compresslevel,
-    )
+    if args.docx_output_set == "all":
+        mt_bridge_stats = build_docx(
+            path=args.mt_bridge_docx,
+            title=f"{config['title_prefix']} - {config['bridge_label']}",
+            description=config["description"],
+            testament=args.testament,
+            verses=verses,
+            translation_notes=notes,
+            name_notes=name_notes,
+            supplemental_notes=supplemental_notes,
+            crossrefs=crossrefs,
+            book_intros=book_intros,
+            logos=True,
+            datatype=args.datatype,
+            milestone_mode="mt",
+            versification_map=versification_map,
+            verse_counts=verse_counts,
+            footnote_number_restart=args.footnote_number_restart,
+            place_links=place_links,
+            place_link_pattern=place_link_pattern,
+            crossrefs_enabled=not args.no_crossrefs,
+            docx_compresslevel=args.docx_compresslevel,
+        )
+        proof_stats = build_docx(
+            path=args.proof_docx,
+            title=f"{config['title_prefix']} - Proofreading Copy",
+            description=config["description"],
+            testament=args.testament,
+            verses=verses,
+            translation_notes=notes,
+            name_notes=name_notes,
+            supplemental_notes=brenton_supplemental_notes,
+            crossrefs=crossrefs,
+            book_intros=book_intros,
+            logos=False,
+            datatype=args.datatype,
+            milestone_mode="lxx",
+            versification_map=versification_map,
+            verse_counts=verse_counts,
+            footnote_number_restart=args.footnote_number_restart,
+            place_links={},
+            place_link_pattern=None,
+            crossrefs_enabled=not args.no_crossrefs,
+            docx_compresslevel=args.docx_compresslevel,
+        )
+    else:
+        mt_bridge_stats = BuildStats(
+            output_kind="skipped",
+            milestone_mode="mt",
+            footnote_number_restart=args.footnote_number_restart,
+        )
+        proof_stats = BuildStats(
+            output_kind="skipped",
+            milestone_mode="lxx",
+            footnote_number_restart=args.footnote_number_restart,
+        )
     build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
         args.readme,
@@ -3031,8 +3049,20 @@ def main() -> None:
         deuterocanonical_work=deuterocanonical_work,
         crossrefs_enabled=not args.no_crossrefs,
     )
-    validation_func = skipped_docx_validation if args.skip_docx_validation else validate_docx
-    validations = [validation_func(args.logos_docx), validation_func(args.mt_bridge_docx), validation_func(args.proof_docx)]
+    if args.skip_docx_validation:
+        validations = [
+            skipped_docx_validation(args.logos_docx, "--skip-docx-validation"),
+            skipped_docx_validation(args.mt_bridge_docx, "--skip-docx-validation"),
+            skipped_docx_validation(args.proof_docx, "--skip-docx-validation"),
+        ]
+    elif args.docx_output_set == "logos-only":
+        validations = [
+            validate_docx(args.logos_docx),
+            skipped_docx_validation(args.mt_bridge_docx, "--docx-output-set=logos-only"),
+            skipped_docx_validation(args.proof_docx, "--docx-output-set=logos-only"),
+        ]
+    else:
+        validations = [validate_docx(args.logos_docx), validate_docx(args.mt_bridge_docx), validate_docx(args.proof_docx)]
     diagnostics = build_diagnostics(
         verses=verses,
         note_counts=note_counts,

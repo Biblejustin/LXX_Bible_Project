@@ -39,6 +39,11 @@ def folded_text(text: str) -> str:
 
 
 @lru_cache(maxsize=None)
+def folded_literal(text: str) -> str:
+    return text.casefold()
+
+
+@lru_cache(maxsize=None)
 def required_literal_token(pattern: str) -> str:
     if "|" in pattern:
         return ""
@@ -60,12 +65,13 @@ def required_literal_token(pattern: str) -> str:
     return max(tokens, key=len)
 
 
-def maybe_contains(text: str, token: str, ignore_case: bool = False) -> bool:
-    if not token:
-        return True
+@lru_cache(maxsize=None)
+def literal_precheck(pattern: str, flags: int = 0) -> tuple[str, bool]:
+    ignore_case = bool(flags) and (int(flags) & IGNORECASE_FLAG) != 0
+    token = required_literal_token(pattern)
     if ignore_case:
-        return token.casefold() in folded_text(text)
-    return token in text
+        token = folded_literal(token)
+    return token, ignore_case
 
 NT_PROPER_NAME_REPLACEMENTS = [
     ("Phares", "Perez"),
@@ -172,9 +178,8 @@ def replace_literal(
     *,
     flags: int = 0,
 ) -> str:
-    token = required_literal_token(pattern)
-    ignore_case = bool(flags) and (int(flags) & IGNORECASE_FLAG) != 0
-    if not maybe_contains(text, token, ignore_case):
+    token, ignore_case = literal_precheck(pattern, flags)
+    if token and token not in (folded_text(text) if ignore_case else text):
         return text
     new_text, count = cached_regex(pattern, flags).subn(replacement, text)
     if count:
@@ -183,7 +188,7 @@ def replace_literal(
 
 
 def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
-    if old.casefold() not in folded_text(text):
+    if folded_literal(old) not in folded_text(text):
         return text
     pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
 
@@ -202,7 +207,7 @@ def replace_word(text: str, old: str, new: str, note: str, notes: list[str]) -> 
 
 
 def replace_word_fixed(text: str, old: str, new: str, note: str, notes: list[str]) -> str:
-    if old.casefold() not in folded_text(text):
+    if folded_literal(old) not in folded_text(text):
         return text
     pattern = cached_regex(rf"\b{re.escape(old)}\b", re.I)
     new_text, count = pattern.subn(new, text)

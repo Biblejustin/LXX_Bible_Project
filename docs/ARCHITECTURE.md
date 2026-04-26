@@ -66,8 +66,9 @@ uncached ingest.
 
 `make build-nt-fast` is the ignored working-output loop for NT development. It
 keeps the same source/review steps, writes generated files under
-`output/working/`, lowers DOCX compression, and skips DOCX validation. It is for
-iteration only; release artifacts still come from `make build-nt`.
+`output/working/`, lowers DOCX compression, skips DOCX validation, and emits only
+the Logos Bible-source DOCX. It is for iteration only; release artifacts still
+come from `make build-nt`.
 
 ## Private Research Boundary
 
