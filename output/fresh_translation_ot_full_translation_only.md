@@ -72654,11 +72654,11 @@ And what will the kings of nations answer? That the Lord founded Zion, and throu
 
 **Isaiah 15:1**
 
-Word against Moabite land. By night Moabite land is destroyed; by night wall of Moabite land is destroyed.
+The word against the Moabite land. By night the Moabite land is destroyed; by night the wall of the Moabite land is destroyed.
 
 **Isaiah 15:2**
 
-Grieve over yourselves, for Dibon is destroyed, where your altar is. There you will go up to weep over Nebo of Moab. Howl; on every head baldness, all arms cut.
+Grieve over yourselves, for Dibon is destroyed, where your altar is. There you will go up to weep over Nebo of Moab. Howl; on every head is baldness, all arms are cut.
 
 **Isaiah 15:3**
 
@@ -72666,15 +72666,15 @@ In her streets gird yourselves with sackcloths and lament on her housetops, and 
 
 **Isaiah 15:4**
 
-Because Heshbon cried out and Elealeh, as far as Jahaz their voice was heard; therefore loins of Moab cry out; her soul will know.
+Because Heshbon cried out and Elealeh, as far as Jahaz their voice was heard; therefore the loins of Moab cry out; her soul will know.
 
 **Isaiah 15:5**
 
-The heart of Moab cries within her, as far as Zoar, for heifer is three years old. Upon the ascent of Luhith they will go up to you weeping; on the way of Horonaim they cry out, destruction and earthquake.
+The heart of Moab cries within her, as far as Zoar, for a heifer is three years old. Upon the ascent of Luhith they will go up to you weeping; on the way of Horonaim they cry out, destruction and earthquake.
 
 **Isaiah 15:6**
 
-Water of Nimrim will be desolate, and its grass will fail, for green grass will not exist.
+The water of Nimrim will be desolate, and its grass will fail, for green grass will not exist.
 
 **Isaiah 15:7**
 
@@ -72682,49 +72682,49 @@ Will it thus be saved? For I will bring upon the valley of Arabs, and they will 
 
 **Isaiah 15:8**
 
-For cry joined border of Moabite land, its howl as far as well of Elim.
+For a cry joined the border of Moabite land, its howl as far as the well of Elim.
 
 **Isaiah 15:9**
 
-Water of Rimmon will be filled with blood, for I will bring Arabs upon Rimmon, and I will take seed of Moab and Ariel and remnant of Admah.
+The water of Rimmon will be filled with blood, for I will bring Arabs upon Rimmon, and I will take the seed of Moab and Ariel and the remnant of Admah.
 
 ### Chapter 16
 
 **Isaiah 16:1**
 
-I will send as reptiles upon the land. Is not rock desert, mountain of Zion?
+I will send as reptiles upon the land. Is not the rock a desert, the mountain of Zion?
 
 **Isaiah 16:2**
 
-For you will be as a flying bird, chick taken away, daughters of Moab, and then lambs.
+For you will be as a flying bird, a chick taken away, daughters of Moab, and then lambs.
 
 **Isaiah 16:3**
 
-Counsel more; make shelter of mourning for her always in noonday darkness. Fugitives are driven out; do not be taken away.
+Counsel more; make a shelter of mourning for her always in noonday darkness. The fugitives are driven out; do not be taken away.
 
 **Isaiah 16:4**
 
-Fugitives of Moab will dwell with you; they will be shelter to you from the face of pursuer, because your alliance was removed and ruler perished, one trampling on earth.
+The fugitives of Moab will dwell with you; they will be a shelter to you from the face of a pursuer, because your alliance was removed and the ruler perished, the one trampling on the earth.
 
 **Isaiah 16:5**
 
-And throne will be set right with mercy, and one will sit upon it with truth in the tent of David, judging and seeking judgment and hastening righteousness.
+And a throne will be set right with mercy, and one will sit upon it with truth in the tent of David, judging and seeking judgment and hastening righteousness.
 
 **Isaiah 16:6**
 
-We heard insolence of Moab, very insolent, his pride was dried up; not thus your oracle.
+We heard the insolence of Moab, very insolent, his pride was dried up; not thus your oracle.
 
 **Isaiah 16:7**
 
-Not thus will Moab howl; for in Moabite land all will howl. For dwellers of Deseth you will meditate, and you will not be ashamed.
+Not thus will Moab howl; for in the Moabite land all will howl. For the dwellers of Deseth you will meditate, and you will not be ashamed.
 
 **Isaiah 16:8**
 
-Fields of Heshbon will mourn, vine of Shebam. Swallowing nations, you trampled its vines as far as Jaazer; do not join yourselves, wander in the wilderness. Those sent were abandoned, for they crossed wilderness.
+The fields of Heshbon will mourn, the vine of Shebam. Swallowing the nations, you trampled its vines as far as Jaazer; do not join yourselves, wander in the wilderness. Those sent were abandoned, for they crossed the wilderness.
 
 **Isaiah 16:9**
 
-Because of this I will weep as weeping of Jaazer for vine of Shebam. Your trees Heshbon and Elealeh cast down, because over your harvest and your vintage I will trample, and all things will fall.
+Because of this I will weep as the weeping of Jaazer for the vine of Shebam. Your trees Heshbon and Elealeh cast down, because over your harvest and your vintage I will trample, and all things will fall.
 
 **Isaiah 16:10**
 
@@ -72732,11 +72732,11 @@ And gladness and rejoicing will be lifted from your vineyards, and in your viney
 
 **Isaiah 16:11**
 
-Because of this my inward parts for Moab will sound like lyre, and my insides like wall which you renewed.
+Because of this my inward parts for Moab will sound like a lyre, and my insides like a wall which you renewed.
 
 **Isaiah 16:12**
 
-And it will be, when you are shamed, because Moab toiled upon altars and enters into her handmade things to pray, he certainly will not be able to rescue himself.
+And it will be, when you are shamed, because Moab toiled upon the altars and enters into her handmade things to pray, he certainly will not be able to rescue himself.
 
 **Isaiah 16:13**
 
@@ -72744,7 +72744,7 @@ This word which the Lord spoke against Moab whenever he spoke.
 
 **Isaiah 16:14**
 
-And now I say: in three years, years of hired worker, glory of Moab will be dishonored in all much wealth, and remnant will be few and not honored.
+And now I say: in three years, years of a hired worker, the glory of Moab will be dishonored in all the much wealth, and a remnant will be few and not honored.
 
 ### Chapter 17
 

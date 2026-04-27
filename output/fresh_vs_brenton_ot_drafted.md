@@ -160305,19 +160305,19 @@ Note:
 ### Isaiah 15:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word against Moabite land. By night Moabite land is destroyed; by night wall of Moabite land is destroyed.
+- fresh: The word against the Moabite land. By night the Moabite land is destroyed; by night the wall of the Moabite land is destroyed.
 - brenton: The Word against the Land of Moab.
 
 ### Isaiah 15:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Grieve over yourselves, for Dibon is destroyed, where your altar is. There you will go up to weep over Nebo of Moab. Howl; on every head baldness, all arms cut.
+- fresh: Grieve over yourselves, for Dibon is destroyed, where your altar is. There you will go up to weep over Nebo of Moab. Howl; on every head is baldness, all arms are cut.
 - brenton: Grieve for yourselves; for even Debon, where your altar is, shall be destroyed: thither shall ye go up to weep, over Nabau of the land of Moab: howl ye: baldness shall be on every head, and all arms shall be wounded.
 
 ### Isaiah 15:3
@@ -160335,25 +160335,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Heshbon cried out and Elealeh, as far as Jahaz their voice was heard; therefore loins of Moab cry out; her soul will know.
+- fresh: Because Heshbon cried out and Elealeh, as far as Jahaz their voice was heard; therefore the loins of Moab cry out; her soul will know.
 - brenton: For Esebon and Eleale have cried: their voice was heard to Jassa: therefore the loins of the region of Moab cry aloud; her soul shall know.
 
 ### Isaiah 15:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The heart of Moab cries within her, as far as Zoar, for heifer is three years old. Upon the ascent of Luhith they will go up to you weeping; on the way of Horonaim they cry out, destruction and earthquake.
+- fresh: The heart of Moab cries within her, as far as Zoar, for a heifer is three years old. Upon the ascent of Luhith they will go up to you weeping; on the way of Horonaim they cry out, destruction and earthquake.
 - brenton: The heart of the region of Moab cries within her to Segor; for it is as a heifer of three years old: and on the ascent of Luith they shall go up to thee weeping by the way of Aroniim: she cries, Destruction, and trembling.
 
 ### Isaiah 15:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Water of Nimrim will be desolate, and its grass will fail, for green grass will not exist.
+- fresh: The water of Nimrim will be desolate, and its grass will fail, for green grass will not exist.
 - brenton: The water of Nemerim shall be desolate, and the grass thereof shall fail: for there shall be no green grass.
 
 ### Isaiah 15:7
@@ -160368,28 +160368,28 @@ Note:
 ### Isaiah 15:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For cry joined border of Moabite land, its howl as far as well of Elim.
+- fresh: For a cry joined the border of Moabite land, its howl as far as the well of Elim.
 - brenton: For the cry has reached the border of the region of Moab, even of Agalim; and her howling has gone as far as the well of Ælim.
 
 ### Isaiah 15:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Water of Rimmon will be filled with blood, for I will bring Arabs upon Rimmon, and I will take seed of Moab and Ariel and remnant of Admah.
+- fresh: The water of Rimmon will be filled with blood, for I will bring Arabs upon Rimmon, and I will take the seed of Moab and Ariel and the remnant of Admah.
 - brenton: And the water of Dimon shall be filled with blood: for I will bring Arabians upon Dimon, and I will take away the seed of Moab, and Ariel, and the remnant of Adama.
 
 ### Isaiah 16:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will send as reptiles upon the land. Is not rock desert, mountain of Zion?
+- fresh: I will send as reptiles upon the land. Is not the rock a desert, the mountain of Zion?
 - brenton: I will send as it were reptiles on the land: is not the mount of the daughter of Sion a desolate rock?
 
 ### Isaiah 16:2
@@ -160398,70 +160398,70 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For you will be as a flying bird, chick taken away, daughters of Moab, and then lambs.
+- fresh: For you will be as a flying bird, a chick taken away, daughters of Moab, and then lambs.
 - brenton: For thou shalt be as a young bird taken away from a bird that has flown: even thou shalt be so, daughter of Moab: and then do thou, O Arnon,
 
 ### Isaiah 16:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Counsel more; make shelter of mourning for her always in noonday darkness. Fugitives are driven out; do not be taken away.
+- fresh: Counsel more; make a shelter of mourning for her always in noonday darkness. The fugitives are driven out; do not be taken away.
 - brenton: take farther counsel, and continually make thou a shelter from grief: they flee in darkness at mid-day; they are amazed; be not thou led captive.
 
 ### Isaiah 16:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Fugitives of Moab will dwell with you; they will be shelter to you from the face of pursuer, because your alliance was removed and ruler perished, one trampling on earth.
+- fresh: The fugitives of Moab will dwell with you; they will be a shelter to you from the face of a pursuer, because your alliance was removed and the ruler perished, the one trampling on the earth.
 - brenton: The fugitives of Moab shall sojourn with thee; they shall be to you a shelter from the face of the pursuer: for thine alliance has been taken away, and the oppressing ruler has perished from off the earth.
 
 ### Isaiah 16:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And throne will be set right with mercy, and one will sit upon it with truth in the tent of David, judging and seeking judgment and hastening righteousness.
+- fresh: And a throne will be set right with mercy, and one will sit upon it with truth in the tent of David, judging and seeking judgment and hastening righteousness.
 - brenton: And a throne shall be established with mercy; and one shall sit upon it with truth in the tabernacle of David, judging, and earnestly seeking judgments, and hasting righteousness.
 
 ### Isaiah 16:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We heard insolence of Moab, very insolent, his pride was dried up; not thus your oracle.
+- fresh: We heard the insolence of Moab, very insolent, his pride was dried up; not thus your oracle.
 - brenton: We have heard of the pride of Moab; he is very proud. I have cut off his pride: thy prophecy shall not be thus, no not thus.
 
 ### Isaiah 16:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Not thus will Moab howl; for in Moabite land all will howl. For dwellers of Deseth you will meditate, and you will not be ashamed.
+- fresh: Not thus will Moab howl; for in the Moabite land all will howl. For the dwellers of Deseth you will meditate, and you will not be ashamed.
 - brenton: Moab shall howl; for all shall howl in the land of Moab: but thou shalt care for them that dwell in Seth, and thou shalt not be ashamed.
 
 ### Isaiah 16:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Fields of Heshbon will mourn, vine of Shebam. Swallowing nations, you trampled its vines as far as Jaazer; do not join yourselves, wander in the wilderness. Those sent were abandoned, for they crossed wilderness.
+- fresh: The fields of Heshbon will mourn, the vine of Shebam. Swallowing the nations, you trampled its vines as far as Jaazer; do not join yourselves, wander in the wilderness. Those sent were abandoned, for they crossed the wilderness.
 - brenton: The plains of Esebon shall mourn, the vine of Sebama: swallowing up the nations, trample ye her vines, even to Jazer: ye shall not come together; wander ye in the desert: they that were sent are deserted, for they have gone over to the sea.
 
 ### Isaiah 16:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this I will weep as weeping of Jaazer for vine of Shebam. Your trees Heshbon and Elealeh cast down, because over your harvest and your vintage I will trample, and all things will fall.
+- fresh: Because of this I will weep as the weeping of Jaazer for the vine of Shebam. Your trees Heshbon and Elealeh cast down, because over your harvest and your vintage I will trample, and all things will fall.
 - brenton: Therefore will I weep as with the weeping of Jazer for the vine of Sebama; Esebon and Eleale have cast down thy trees; for I will trample on thy harvest and on thy vintages, and all thy plants shall fall.
 
 ### Isaiah 16:10
@@ -160476,19 +160476,19 @@ Note:
 ### Isaiah 16:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this my inward parts for Moab will sound like lyre, and my insides like wall which you renewed.
+- fresh: Because of this my inward parts for Moab will sound like a lyre, and my insides like a wall which you renewed.
 - brenton: Therefore my belly shall sound as a harp for Moab, and thou hast repaired my inward parts as a wall.
 
 ### Isaiah 16:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, when you are shamed, because Moab toiled upon altars and enters into her handmade things to pray, he certainly will not be able to rescue himself.
+- fresh: And it will be, when you are shamed, because Moab toiled upon the altars and enters into her handmade things to pray, he certainly will not be able to rescue himself.
 - brenton: And it shall be to thy shame, (for Moab is wearied at the altars,) that he shall go in to the idols thereof to pray, but they shall not be at all able to deliver him.
 
 ### Isaiah 16:13
@@ -160503,10 +160503,10 @@ Note:
 ### Isaiah 16:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now I say: in three years, years of hired worker, glory of Moab will be dishonored in all much wealth, and remnant will be few and not honored.
+- fresh: And now I say: in three years, years of a hired worker, the glory of Moab will be dishonored in all the much wealth, and a remnant will be few and not honored.
 - brenton: And now I say, In three years, of the years of an hireling, the glory of Moab shall be dishonoured with all his great wealth; and he shall be left few in number, and not honoured.
 
 ### Isaiah 17:1

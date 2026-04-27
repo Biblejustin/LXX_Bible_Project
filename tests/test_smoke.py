@@ -3419,6 +3419,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "as a city under siege" in by_ref["Isaiah 1:8"]["draft_translation"]
     assert "strong like an oak" in by_ref["Amos 2:9"]["draft_translation"]
     assert "as a flying bird" in by_ref["Isaiah 16:2"]["draft_translation"]
+    assert "a chick taken away" in by_ref["Isaiah 16:2"]["draft_translation"]
     assert "as an enemy" in by_ref["Isaiah 63:10"]["draft_translation"]
     assert "plowed like a field" in by_ref["Micah 3:12"]["draft_translation"]
     assert "as a shepherd snatches" in by_ref["Amos 3:12"]["draft_translation"]
@@ -4884,7 +4885,18 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the depths of earth" in by_ref["Psalms 70:20"]["draft_translation"]
     assert "in the innocence of his heart" in by_ref["Psalms 77:72"]["draft_translation"]
     assert "Upon the ascent of Luhith" in by_ref["Isaiah 15:5"]["draft_translation"]
+    assert "for a heifer is three years old" in by_ref["Isaiah 15:5"][
+        "draft_translation"
+    ]
     assert "on the way of Horonaim" in by_ref["Isaiah 15:5"]["draft_translation"]
+    assert by_ref["Isaiah 15:1"]["draft_translation"].startswith(
+        "The word against the Moabite land"
+    )
+    assert "The water of Rimmon" in by_ref["Isaiah 15:9"]["draft_translation"]
+    assert "The fugitives of Moab" in by_ref["Isaiah 16:4"]["draft_translation"]
+    assert "a throne will be set right" in by_ref["Isaiah 16:5"]["draft_translation"]
+    assert "The fields of Heshbon" in by_ref["Isaiah 16:8"]["draft_translation"]
+    assert "years of a hired worker" in by_ref["Isaiah 16:14"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
