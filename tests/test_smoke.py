@@ -4745,8 +4745,8 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "upon the land of the living" in by_ref["Ezekiel 26:20"]["draft_translation"]
     assert "from the face of the sword" in by_ref["Isaiah 31:8"]["draft_translation"]
     assert by_ref["Isaiah 40:12"]["draft_translation"] == (
-        "Who measured water with his hand and heaven with a span, and who set all the earth "
-        "with a handful? Who set mountains with a scale and glens with a balance?"
+        "Who measured the water with his hand and heaven with a span, and who set all the earth "
+        "with a handful? Who set the mountains with a scale and the glens with a balance?"
     )
     assert "with a balance and with a bag of deceitful weights" in by_ref["Micah 6:11"]["draft_translation"]
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
@@ -5936,6 +5936,66 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert by_ref["Isaiah 39:8"]["draft_translation"].startswith(
         "And Hezekiah said to Isaiah, The word of the Lord"
+    )
+    assert "make straight the paths of our God" in by_ref["Isaiah 40:3"][
+        "draft_translation"
+    ]
+    assert "all the crooked things will become straight" in by_ref[
+        "Isaiah 40:4"
+    ]["draft_translation"]
+    assert "the rough things into plains" in by_ref["Isaiah 40:4"][
+        "draft_translation"
+    ]
+    assert "the salvation of God" in by_ref["Isaiah 40:5"][
+        "draft_translation"
+    ]
+    assert "all the glory of man is as a flower of grass" in by_ref[
+        "Isaiah 40:6"
+    ]["draft_translation"]
+    assert "The grass dried up and the flower fell" in by_ref[
+        "Isaiah 40:7"
+    ]["draft_translation"]
+    assert by_ref["Isaiah 40:9"]["draft_translation"].startswith(
+        "Go up on a high mountain"
+    )
+    assert "the one bringing good news to Zion" in by_ref["Isaiah 40:9"][
+        "draft_translation"
+    ]
+    assert "his wage is with him and his work before him" in by_ref[
+        "Isaiah 40:10"
+    ]["draft_translation"]
+    assert by_ref["Isaiah 40:11"]["draft_translation"].startswith(
+        "As a shepherd"
+    )
+    assert "those carrying in the womb" in by_ref["Isaiah 40:11"][
+        "draft_translation"
+    ]
+    assert "Who measured the water" in by_ref["Isaiah 40:12"][
+        "draft_translation"
+    ]
+    assert "Who set the mountains" in by_ref["Isaiah 40:12"][
+        "draft_translation"
+    ]
+    assert "the mind of the Lord" in by_ref["Isaiah 40:13"][
+        "draft_translation"
+    ]
+    assert "the way of understanding" in by_ref["Isaiah 40:14"][
+        "draft_translation"
+    ]
+    assert "all the nations were reckoned as a drop from a bucket" in by_ref[
+        "Isaiah 40:15"
+    ]["draft_translation"]
+    assert "Lebanon is not enough for burning" in by_ref["Isaiah 40:16"][
+        "draft_translation"
+    ]
+    assert "all the four-footed animals" in by_ref["Isaiah 40:16"][
+        "draft_translation"
+    ]
+    assert "a whole burnt offering" in by_ref["Isaiah 40:16"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 40:17"]["draft_translation"].startswith(
+        "And all the nations"
     )
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]

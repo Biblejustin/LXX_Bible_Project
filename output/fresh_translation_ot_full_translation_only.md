@@ -74552,23 +74552,23 @@ Priests, speak to the heart of Jerusalem; comfort her, because her humiliation i
 
 **Isaiah 40:3**
 
-The voice of one crying in the wilderness, Prepare the way of the Lord, make straight paths of our God.
+The voice of one crying in the wilderness, Prepare the way of the Lord, make straight the paths of our God.
 
 **Isaiah 40:4**
 
-Every ravine will be filled, and every mountain and hill humbled, and all crooked things will be into straightness, and rough things into plains.
+Every ravine will be filled, and every mountain and hill will be humbled, and all the crooked things will become straight, and the rough things into plains.
 
 **Isaiah 40:5**
 
-And the glory of the Lord will be seen, and all flesh will see salvation of God, because the Lord spoke.
+And the glory of the Lord will be seen, and all flesh will see the salvation of God, because the Lord spoke.
 
 **Isaiah 40:6**
 
-The voice of one saying, Cry out. And I said, What shall I cry? All flesh is grass, and all glory of man as flower of grass.
+The voice of one saying, Cry out. And I said, What shall I cry? All flesh is grass, and all the glory of man is as a flower of grass.
 
 **Isaiah 40:7**
 
-Grass dried up and flower fell,
+The grass dried up and the flower fell,
 
 **Isaiah 40:8**
 
@@ -74576,39 +74576,39 @@ but the word of our God remains forever.
 
 **Isaiah 40:9**
 
-On high mountain go up, one bringing good news to Zion. Lift your voice with strength, one bringing good news to Jerusalem. Lift up, do not fear; say to the cities of Judah, Behold your God.
+Go up on a high mountain, the one bringing good news to Zion. Lift your voice with strength, the one bringing good news to Jerusalem. Lift up, do not fear; say to the cities of Judah, Behold your God.
 
 **Isaiah 40:10**
 
-Behold, the Lord comes with strength, and arm with lordship; behold, his wage with him and work before him.
+Behold, the Lord comes with strength, and his arm with lordship; behold, his wage is with him and his work before him.
 
 **Isaiah 40:11**
 
-As shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in womb.
+As a shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in the womb.
 
 **Isaiah 40:12**
 
-Who measured water with his hand and heaven with a span, and who set all the earth with a handful? Who set mountains with a scale and glens with a balance?
+Who measured the water with his hand and heaven with a span, and who set all the earth with a handful? Who set the mountains with a scale and the glens with a balance?
 
 **Isaiah 40:13**
 
-Who knew mind of the Lord, and who became his counselor, who instructs him?
+Who knew the mind of the Lord, and who became his counselor, who instructs him?
 
 **Isaiah 40:14**
 
-Or with whom did he take counsel and who instructed him? Or who showed him judgment? Or who showed him way of understanding?
+Or with whom did he take counsel and who instructed him? Or who showed him judgment? Or who showed him the way of understanding?
 
 **Isaiah 40:15**
 
-If all nations as drop from bucket and as tilt of scales were reckoned, and as spit they will be reckoned.
+If all the nations were reckoned as a drop from a bucket and as the tilt of scales, then as spit they will be reckoned.
 
 **Isaiah 40:16**
 
-Lebanon not enough for burning, and all four-footed animals not enough for whole burnt offering.
+Lebanon is not enough for burning, and all the four-footed animals are not enough for a whole burnt offering.
 
 **Isaiah 40:17**
 
-And all nations are as nothing and were reckoned into nothing.
+And all the nations are as nothing and were reckoned into nothing.
 
 **Isaiah 40:18**
 

@@ -164463,46 +164463,46 @@ Note:
 ### Isaiah 40:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of one crying in the wilderness, Prepare the way of the Lord, make straight paths of our God.
+- fresh: The voice of one crying in the wilderness, Prepare the way of the Lord, make straight the paths of our God.
 - brenton: The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God.
 
 ### Isaiah 40:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Every ravine will be filled, and every mountain and hill humbled, and all crooked things will be into straightness, and rough things into plains.
+- fresh: Every ravine will be filled, and every mountain and hill will be humbled, and all the crooked things will become straight, and the rough things into plains.
 - brenton: Every valley shall be filled, and every mountain and hill shall be brought low: and all the crooked ways shall become straight, and the rough places plains.
 
 ### Isaiah 40:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the glory of the Lord will be seen, and all flesh will see salvation of God, because the Lord spoke.
+- fresh: And the glory of the Lord will be seen, and all flesh will see the salvation of God, because the Lord spoke.
 - brenton: And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it.
 
 ### Isaiah 40:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of one saying, Cry out. And I said, What shall I cry? All flesh is grass, and all glory of man as flower of grass.
+- fresh: The voice of one saying, Cry out. And I said, What shall I cry? All flesh is grass, and all the glory of man is as a flower of grass.
 - brenton: The voice of one saying, Cry; and I said, What shall I cry? All flesh is grass, and all the glory of man as the flower of grass.
 
 ### Isaiah 40:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Grass dried up and flower fell,
+- fresh: The grass dried up and the flower fell,
 - brenton: The grass withers, and the flower fades:
 
 ### Isaiah 40:8
@@ -164517,82 +164517,82 @@ Note:
 ### Isaiah 40:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On high mountain go up, one bringing good news to Zion. Lift your voice with strength, one bringing good news to Jerusalem. Lift up, do not fear; say to the cities of Judah, Behold your God.
+- fresh: Go up on a high mountain, the one bringing good news to Zion. Lift your voice with strength, the one bringing good news to Jerusalem. Lift up, do not fear; say to the cities of Judah, Behold your God.
 - brenton: O thou that bringest glad tidings to Zion, go up on the high mountain; lift up thy voice with strength, thou that bringest glad tidings to Jerusalem; lift it up, fear not; say unto the cities of Juda, Behold your God!
 
 ### Isaiah 40:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, the Lord comes with strength, and arm with lordship; behold, his wage with him and work before him.
+- fresh: Behold, the Lord comes with strength, and his arm with lordship; behold, his wage is with him and his work before him.
 - brenton: Behold the Lord! The Lord is coming with strength, and his arm is with power: behold, his reward is with him, and his work before him.
 
 ### Isaiah 40:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in womb.
+- fresh: As a shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in the womb.
 - brenton: He shall tend his flock as a shepherd, and he shall gather the lambs with his arm, and shall soothe them that are with young.
 
 ### Isaiah 40:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who measured water with his hand and heaven with a span, and who set all the earth with a handful? Who set mountains with a scale and glens with a balance?
+- fresh: Who measured the water with his hand and heaven with a span, and who set all the earth with a handful? Who set the mountains with a scale and the glens with a balance?
 - brenton: Who has measured the water in his hand, and the heaven with a span, and all the earth in a handful? Who has weighed the mountains in scales, and the forests in a balance?
 
 ### Isaiah 40:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who knew mind of the Lord, and who became his counselor, who instructs him?
+- fresh: Who knew the mind of the Lord, and who became his counselor, who instructs him?
 - brenton: Who has known the mind of the Lord? and who has been his counsellor, to instruct him?
 
 ### Isaiah 40:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Or with whom did he take counsel and who instructed him? Or who showed him judgment? Or who showed him way of understanding?
+- fresh: Or with whom did he take counsel and who instructed him? Or who showed him judgment? Or who showed him the way of understanding?
 - brenton: Or with whom has he taken counsel, and he has instructed him? or who has taught him judgment, or who has taught him the way of understanding;
 
 ### Isaiah 40:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If all nations as drop from bucket and as tilt of scales were reckoned, and as spit they will be reckoned.
+- fresh: If all the nations were reckoned as a drop from a bucket and as the tilt of scales, then as spit they will be reckoned.
 - brenton: since all the nations are counted as a drop from a bucket, and as the turning of a balance, and shall be counted as spittle?
 
 ### Isaiah 40:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lebanon not enough for burning, and all four-footed animals not enough for whole burnt offering.
+- fresh: Lebanon is not enough for burning, and all the four-footed animals are not enough for a whole burnt offering.
 - brenton: And Libanus is not enough to burn, nor all beasts enough for a whole-burnt offering:
 
 ### Isaiah 40:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all nations are as nothing and were reckoned into nothing.
+- fresh: And all the nations are as nothing and were reckoned into nothing.
 - brenton: and all the nations are as nothing, and counted as nothing.
 
 ### Isaiah 40:18
