@@ -75008,15 +75008,15 @@ Now hear, my servant Jacob, and Israel whom I chose.
 
 **Isaiah 44:2**
 
-Thus says the Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
+Thus says the Lord God, the one making you and the one forming you from the womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
 
 **Isaiah 44:3**
 
-Because I will give water in thirst to those going in dry land; I will put my Spirit on your seed and my blessings on your children.
+Because I will give water in thirst to the ones going in dry land; I will put my Spirit on your seed and my blessings on your children.
 
 **Isaiah 44:4**
 
-And they will spring up like grass among waters, and like willows by flowing water.
+And they will spring up like grass among waters, and like a willow by flowing water.
 
 **Isaiah 44:5**
 
@@ -75024,23 +75024,23 @@ This one will say, I belong to God; and this one will cry out in the name of Jac
 
 **Isaiah 44:6**
 
-Thus says God, king of Israel, one rescuing him, God of hosts: I first, and I after these things; besides me no god exists.
+Thus says God, the king of Israel, the one rescuing him, God of hosts: I am first, and I am after these things; besides me no god exists.
 
 **Isaiah 44:7**
 
-Who like me? Let him stand, call out, and prepare it before me, from time I made humankind for age; and things coming before they come, let them declare to you.
+Who is like me? Let him stand, call out, and prepare it before me, from the time I made humankind for the age; and the things coming before they come, let them declare to you.
 
 **Isaiah 44:8**
 
-Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
+Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is a god besides me; there were none then.
 
 **Isaiah 44:9**
 
-Those shaping and carving all vain, making their cherished things, which will not profit them; instead they will be put to shame.
+The ones shaping and carving are all vain, making their cherished things, which will not profit them; instead they will be put to shame.
 
 **Isaiah 44:10**
 
-All who shape god and carve useless things.
+All the ones who shape a god and carve useless things.
 
 **Isaiah 44:11**
 
@@ -75048,7 +75048,7 @@ And all from whom they came were dried up, and mute from among men. Let them all
 
 **Isaiah 44:12**
 
-For craftsman sharpened iron, worked it with axe, pierced it with drill, worked it with the strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
+For a craftsman sharpened iron, worked it with an axe, pierced it with a drill, worked it with the strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
 
 **Isaiah 44:13**
 

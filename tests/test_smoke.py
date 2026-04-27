@@ -6376,6 +6376,42 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Isaiah 43:28"]["draft_translation"].startswith(
         "And the rulers"
     )
+    assert "the one making you" in by_ref["Isaiah 44:2"][
+        "draft_translation"
+    ]
+    assert "the one forming you from the womb" in by_ref["Isaiah 44:2"][
+        "draft_translation"
+    ]
+    assert "to the ones going in dry land" in by_ref["Isaiah 44:3"][
+        "draft_translation"
+    ]
+    assert "like a willow" in by_ref["Isaiah 44:4"]["draft_translation"]
+    assert "the king of Israel" in by_ref["Isaiah 44:6"][
+        "draft_translation"
+    ]
+    assert "the one rescuing him" in by_ref["Isaiah 44:6"][
+        "draft_translation"
+    ]
+    assert "I am first" in by_ref["Isaiah 44:6"]["draft_translation"]
+    assert by_ref["Isaiah 44:7"]["draft_translation"].startswith(
+        "Who is like me"
+    )
+    assert "from the time" in by_ref["Isaiah 44:7"]["draft_translation"]
+    assert "the things coming" in by_ref["Isaiah 44:7"][
+        "draft_translation"
+    ]
+    assert "a god besides me" in by_ref["Isaiah 44:8"]["draft_translation"]
+    assert by_ref["Isaiah 44:9"]["draft_translation"].startswith(
+        "The ones shaping and carving"
+    )
+    assert by_ref["Isaiah 44:10"]["draft_translation"].startswith(
+        "All the ones who shape a god"
+    )
+    assert by_ref["Isaiah 44:12"]["draft_translation"].startswith(
+        "For a craftsman"
+    )
+    assert "with an axe" in by_ref["Isaiah 44:12"]["draft_translation"]
+    assert "with a drill" in by_ref["Isaiah 44:12"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

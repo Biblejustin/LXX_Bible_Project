@@ -165471,28 +165471,28 @@ Note:
 ### Isaiah 44:2
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
+- fresh: Thus says the Lord God, the one making you and the one forming you from the womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
 - brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
 
 ### Isaiah 44:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I will give water in thirst to those going in dry land; I will put my Spirit on your seed and my blessings on your children.
+- fresh: Because I will give water in thirst to the ones going in dry land; I will put my Spirit on your seed and my blessings on your children.
 - brenton: For I will give water to the thirsty that walk in a dry land: I will put my Spirit upon thy seed, and my blessings upon thy children:
 
 ### Isaiah 44:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will spring up like grass among waters, and like willows by flowing water.
+- fresh: And they will spring up like grass among waters, and like a willow by flowing water.
 - brenton: and they shall spring up as grass between brooks, and as willows on the banks of running water.
 
 ### Isaiah 44:5
@@ -165507,46 +165507,46 @@ Note:
 ### Isaiah 44:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says God, king of Israel, one rescuing him, God of hosts: I first, and I after these things; besides me no god exists.
+- fresh: Thus says God, the king of Israel, the one rescuing him, God of hosts: I am first, and I am after these things; besides me no god exists.
 - brenton: Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.
 
 ### Isaiah 44:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who like me? Let him stand, call out, and prepare it before me, from time I made humankind for age; and things coming before they come, let them declare to you.
+- fresh: Who is like me? Let him stand, call out, and prepare it before me, from the time I made humankind for the age; and the things coming before they come, let them declare to you.
 - brenton: Who is like me? let him stand, and call, and declare, and prepare for me from the time that I made man for ever; and let them tell you the things that are coming before they arrive.
 
 ### Isaiah 44:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is god besides me; there were none then.
+- fresh: Do not hide yourselves. Have you not heard from the beginning? I told you. You are my witnesses whether there is a god besides me; there were none then.
 - brenton: Hide not yourselves, nor go astray: have ye not heard from the beginning, and have not I told you? ye are witnesses if there is a God beside me.
 
 ### Isaiah 44:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those shaping and carving all vain, making their cherished things, which will not profit them; instead they will be put to shame.
+- fresh: The ones shaping and carving are all vain, making their cherished things, which will not profit them; instead they will be put to shame.
 - brenton: But they that framed false gods did not then hearken; and they that graved images are all vain, performing their own desires, which shall not profit them, but they shall be ashamed
 
 ### Isaiah 44:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All who shape god and carve useless things.
+- fresh: All the ones who shape a god and carve useless things.
 - brenton: that form a god, and all that grave worthless things:
 
 ### Isaiah 44:11
@@ -165561,10 +165561,10 @@ Note:
 ### Isaiah 44:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For craftsman sharpened iron, worked it with axe, pierced it with drill, worked it with the strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
+- fresh: For a craftsman sharpened iron, worked it with an axe, pierced it with a drill, worked it with the strength of his arm; then he will hunger and grow weak, and by not drinking water, become faint.
 - brenton: For the artificer sharpens the iron; he fashions the idol with an axe, and fixes it with an awl, and fashions it with the strength of his arm: and he will be hungry and weak, and will drink no water.
 
 ### Isaiah 44:13
