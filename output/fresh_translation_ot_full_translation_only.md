@@ -52348,7 +52348,7 @@ Yet he will fill mouth of true ones with laughter, and their lips with confessio
 
 **Job 8:22**
 
-But their enemies will clothe themselves with shame, and dwelling of the ungodly will not be.
+But their enemies will clothe themselves with shame, and the dwelling of the ungodly will not be.
 
 ### Chapter 9
 
@@ -52442,7 +52442,7 @@ Therefore I said, wrath destroys both great man and ruler.
 
 **Job 9:23**
 
-For worthless men are remarkable in death, but righteous are laughed to scorn.
+For worthless men are remarkable in death, but the righteous are laughed to scorn.
 
 **Job 9:24**
 
@@ -52626,7 +52626,7 @@ If he overturn all things, who will say to him, What did you do?
 
 **Job 11:11**
 
-For he knows works of lawless men, and seeing wrongs he will not overlook.
+For he knows the works of lawless men, and seeing wrongs he will not overlook.
 
 **Job 11:12**
 
@@ -52662,7 +52662,7 @@ For you will be at rest, and none will make war on you; and many changing course
 
 **Job 11:20**
 
-But salvation will fail them, for their hope is destruction, and eyes of the ungodly will melt.
+But salvation will fail them, for their hope is destruction, and the eyes of the ungodly will melt.
 
 ### Chapter 12
 
@@ -52684,7 +52684,7 @@ For a righteous and blameless man became an object of mockery.
 
 **Job 12:5**
 
-For appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
+For an appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
 
 **Job 12:6**
 
@@ -53050,7 +53050,7 @@ To them alone earth was given, and foreigner did not come upon them.
 
 **Job 15:20**
 
-All life of the ungodly is in care, and numbered years are given to tyrant.
+All the life of the ungodly is in care, and numbered years are given to a tyrant.
 
 **Job 15:21**
 
@@ -53106,7 +53106,7 @@ Let him be harvested like unripe grape before its time, and fall off like a flow
 
 **Job 15:34**
 
-For witness of the ungodly is death, and fire will burn houses of gift-takers.
+For the witness of the ungodly is death, and fire will burn houses of gift-takers.
 
 **Job 15:35**
 
@@ -53156,7 +53156,7 @@ With sharpness of eyes he leaped on me; he struck me sharply on cheek, and with 
 
 **Job 16:11**
 
-For the Lord handed me over into the hands of unjust one, and threw me upon ungodly men.
+For the Lord handed me over into the hands of an unjust one, and threw me upon ungodly men.
 
 **Job 16:12**
 
@@ -53288,7 +53288,7 @@ Wrath has used you. For what, if you die, will what is under heaven be uninhabit
 
 **Job 18:5**
 
-But the light of the ungodly will be quenched, and flame of theirs will not blaze forth.
+But the light of the ungodly will be quenched, and their flame will not blaze forth.
 
 **Job 18:6**
 
@@ -53492,7 +53492,7 @@ Do you not know these things from long ago, from when man was placed upon earth,
 
 **Job 20:5**
 
-that gladness of the ungodly is sudden fall, and joy of lawless men destruction?
+that the gladness of the ungodly is a sudden fall, and the joy of lawless men is destruction?
 
 **Job 20:6**
 
@@ -53654,11 +53654,11 @@ What is Sufficient One, that we should serve him, and what profit if we meet him
 
 **Job 21:16**
 
-For their good things were in their hands, but he does not regard works of ungodly men.
+For their good things were in their hands, but he does not regard the works of ungodly men.
 
 **Job 21:17**
 
-Yet lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
+Yet the lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
 
 **Job 21:18**
 
@@ -53702,7 +53702,7 @@ So I know that you boldly press upon me.
 
 **Job 21:28**
 
-For you will say, Where is the house of a ruler, and where is the shelter of tents of ungodly men?
+For you will say, Where is the house of a ruler, and where is the shelter of the tents of ungodly men?
 
 **Job 21:29**
 

@@ -2801,6 +2801,43 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the way of the ungodly will mislead them" in by_ref["Proverbs 12:26"][
         "draft_translation"
     ]
+    assert "the dwelling of the ungodly will not be" in by_ref["Job 8:22"][
+        "draft_translation"
+    ]
+    assert "the righteous are laughed to scorn" in by_ref["Job 9:23"][
+        "draft_translation"
+    ]
+    assert "knows the works of lawless men" in by_ref["Job 11:11"][
+        "draft_translation"
+    ]
+    assert "the eyes of the ungodly will melt" in by_ref["Job 11:20"][
+        "draft_translation"
+    ]
+    assert "For an appointed time was prepared" in by_ref["Job 12:5"][
+        "draft_translation"
+    ]
+    assert "All the life of the ungodly" in by_ref["Job 15:20"]["draft_translation"]
+    assert "given to a tyrant" in by_ref["Job 15:20"]["draft_translation"]
+    assert "the witness of the ungodly is death" in by_ref["Job 15:34"][
+        "draft_translation"
+    ]
+    assert "hands of an unjust one" in by_ref["Job 16:11"]["draft_translation"]
+    assert "their flame will not blaze forth" in by_ref["Job 18:5"][
+        "draft_translation"
+    ]
+    assert "the gladness of the ungodly is a sudden fall" in by_ref["Job 20:5"][
+        "draft_translation"
+    ]
+    assert "the joy of lawless men is destruction" in by_ref["Job 20:5"][
+        "draft_translation"
+    ]
+    assert "the works of ungodly men" in by_ref["Job 21:16"]["draft_translation"]
+    assert "the lamp of ungodly men will be quenched" in by_ref["Job 21:17"][
+        "draft_translation"
+    ]
+    assert "the shelter of the tents of ungodly men" in by_ref["Job 21:28"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

@@ -37194,15 +37194,6 @@ Method:
 - mt: Then said he unto me, Son of man, have you seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, the LORD sees us not; the LORD has forsaken the earth.
 - brenton: And he said to me, Thou hast seen, son of man, what the elders of the house of Israel do, each one of them in their secret chamber: because they have said, The Lord sees not; The Lord has forsaken the earth.
 
-### Job 9:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.259`
-- fresh_brenton_ratio: `0.735`
-- fresh: For worthless men are remarkable in death, but righteous are laughed to scorn.
-- mt: If the scourge slay suddenly, he will laugh at the trial of the innocent.
-- brenton: For the worthless die, but the righteous are laughed to scorn.
-
 ### Psalms 58:2
 - priority: `0`
 - importance: `none`
@@ -37256,15 +37247,6 @@ Method:
 - fresh: but for a month of days you shall eat, until it comes out of your nostrils and becomes loathsome to you, because you disobeyed the Lord who is among you and wept before him, saying, Why did we come out from Egypt?
 - mt: But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that all of you have despised the LORD which is among you, and have wept before him, saying, Why came we forth out of Egypt?
 - brenton: ye shall eat for a full month, until the flesh come out at your nostrils; and it shall be nausea to you, because ye disobeyed the Lord, who is among you, and wept before him, saying, What had we to do to come out of Egypt?
-
-### Job 12:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.260`
-- fresh_brenton_ratio: `0.139`
-- fresh: For appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
-- mt: He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.
-- brenton: For it had been ordained that he should fall under others at the appointed time, and that his houses should be spoiled by transgressors: let not however any one trust that, being evil, he shall be held guiltless,
 
 ### Zechariah 3:7
 - priority: `0`
@@ -37760,6 +37742,15 @@ Method:
 - fresh: All these were of costly stones, dressed according to interval, inside and from the foundation to the coping and outside to the great court,
 - mt: In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
 - brenton: All these were of costly stones, sculptured at intervals within even from the foundation even to the top, and outward to the great court,
+
+### Job 11:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.262`
+- fresh_brenton_ratio: `0.832`
+- fresh: But salvation will fail them, for their hope is destruction, and the eyes of the ungodly will melt.
+- mt: But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the spirit.
+- brenton: But safety shall fail them; for their hope is destruction, and the eyes of the ungodly shall waste away.
 
 ### Psalms 98:9
 - priority: `0`
@@ -38669,15 +38660,6 @@ Method:
 - fresh: And I will destroy cities of your land and remove all your strongholds.
 - mt: And it shall come to pass in that day, says the LORD, that I will cut off your horses out of the midst of you, and I will destroy your chariots:
 - brenton: and I will utterly destroy the cities of thy land, and demolish all thy strong-holds:
-
-### Job 11:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.267`
-- fresh_brenton_ratio: `0.808`
-- fresh: But salvation will fail them, for their hope is destruction, and eyes of the ungodly will melt.
-- mt: But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the spirit.
-- brenton: But safety shall fail them; for their hope is destruction, and the eyes of the ungodly shall waste away.
 
 ### Psalms 106:5
 - priority: `0`
@@ -39912,6 +39894,15 @@ Method:
 - mt: Every man is brutish by his knowledge; every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.
 - brenton: For we will surely perform every word that shall proceed out of our mouth, to burn incense to the queen of heaven, and to pour drink-offerings to her, as we and our fathers have done, and our kings and princes, in the cities of Juda, and in the streets of Jerusalem: and so we were filled with bread, and were well, and saw no evils.
 
+### Job 12:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.275`
+- fresh_brenton_ratio: `0.144`
+- fresh: For an appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
+- mt: He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.
+- brenton: For it had been ordained that he should fall under others at the appointed time, and that his houses should be spoiled by transgressors: let not however any one trust that, being evil, he shall be held guiltless,
+
 ### Genesis 34:21
 - priority: `0`
 - importance: `none`
@@ -40541,6 +40532,15 @@ Method:
 - fresh: And they served their carved images, and it became to them stumbling-block.
 - mt: He stroke also all the firstborn in their land, the chief of all their strength.
 - brenton: And they served their graven images; and it became an offence to them.
+
+### Job 9:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.278`
+- fresh_brenton_ratio: `0.771`
+- fresh: For worthless men are remarkable in death, but the righteous are laughed to scorn.
+- mt: If the scourge slay suddenly, he will laugh at the trial of the innocent.
+- brenton: For the worthless die, but the righteous are laughed to scorn.
 
 ### Psalms 144:4
 - priority: `0`
@@ -59019,15 +59019,6 @@ Method:
 - mt: A continual dropping in a very rainy day and a contentious woman are alike.
 - brenton: On a stormy day drops of rain drive a man out of his house; so also does a railing woman drive a man out of his own house.
 
-### Job 21:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.380`
-- fresh_brenton_ratio: `0.640`
-- fresh: Yet lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
-- mt: How often is the candle of the wicked put out! and how often comes their destruction upon them! God distributes sorrows in his anger.
-- brenton: Nevertheless, the lamp of the ungodly also shall be put out, and destruction shall come upon them, and pangs of vengeance shall seize them.
-
 ### Job 7:15
 - priority: `0`
 - importance: `none`
@@ -61665,6 +61656,15 @@ Method:
 - mt: Hear this, O all of you that swallow up the needy, even to make the poor of the land to fail,
 - brenton: Hear now this, ye that oppress the poor in the morning, and drive the needy ones by tyranny from the earth,
 
+### Job 21:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.398`
+- fresh_brenton_ratio: `0.661`
+- fresh: Yet the lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
+- mt: How often is the candle of the wicked put out! and how often comes their destruction upon them! God distributes sorrows in his anger.
+- brenton: Nevertheless, the lamp of the ungodly also shall be put out, and destruction shall come upon them, and pangs of vengeance shall seize them.
+
 ### Psalms 72:4
 - priority: `0`
 - importance: `none`
@@ -62096,6 +62096,15 @@ Method:
 - fresh: Rescue those being led to death, and buy back those being killed; do not spare.
 - mt: If you forbear to deliver them that are drawn unto death, and those that are ready to be slain;
 - brenton: Deliver them that are led away to death, and redeem them that are appointed to be slain; spare not thy help.
+
+### Job 15:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.402`
+- fresh_brenton_ratio: `0.583`
+- fresh: All the life of the ungodly is in care, and numbered years are given to a tyrant.
+- mt: The wicked man labors with pain all his days, and the number of years is hidden to the oppressor.
+- brenton: All the life of the ungodly is spent in care, and the years granted to the oppressor are numbered.
 
 ### Job 24:6
 - priority: `0`
@@ -62573,15 +62582,6 @@ Method:
 - fresh: For better for you to be told, "Come up to me," than for you to be humbled before ruler. What your eyes saw, speak.
 - mt: For better it is that it be said unto you, Come up here; than that you should be put lower in the presence of the prince whom yours eyes have seen.
 - brenton: for it is better for thee that it should be said, Come up to me, than that one should humble thee in the presence of the prince; speak of that which thine eyes have seen.
-
-### Job 15:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.405`
-- fresh_brenton_ratio: `0.556`
-- fresh: All life of the ungodly is in care, and numbered years are given to tyrant.
-- mt: The wicked man labors with pain all his days, and the number of years is hidden to the oppressor.
-- brenton: All the life of the ungodly is spent in care, and the years granted to the oppressor are numbered.
 
 ### Joshua 6:3
 - priority: `0`
@@ -69252,15 +69252,6 @@ Method:
 - mt: You shall even drink it and suck it out, and you shall break the earthen ware thereof, and pluck off yours own breasts: for I have spoken it, says the Lord GOD.
 - brenton: drink thou it, and I will take away her feasts and her new moons: for I have spoken it, saith the Lord.
 
-### Job 20:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.458`
-- fresh_brenton_ratio: `0.678`
-- fresh: that gladness of the ungodly is sudden fall, and joy of lawless men destruction?
-- mt: That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
-- brenton: But the mirth of the ungodly is a signal downfall, and the joy of transgressors is destruction:
-
 ### 1 Samuel 2:32
 - priority: `0`
 - importance: `none`
@@ -72464,15 +72455,6 @@ Method:
 - fresh: And he shall bring to the Lord the sacrifice that he makes from these, and he shall bring it to the priest and bring it near to the altar.
 - mt: And you shall bring the food offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar.
 - brenton: And he shall offer the sacrifice which he shall make of these to the Lord, and shall bring it to the priest.
-
-### Job 15:34
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.483`
-- fresh_brenton_ratio: `0.659`
-- fresh: For witness of the ungodly is death, and fire will burn houses of gift-takers.
-- mt: For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.
-- brenton: For death is the witness of an ungodly man, and fire shall burn the houses of them that receive gifts.
 
 ### Nehemiah 9:31
 - priority: `0`
@@ -77244,6 +77226,15 @@ Method:
 - mt: Speak all of you comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she has received of the LORD's hand double for all her sins.
 - brenton: Speak, ye priests, to the heart of Jerusalem; comfort her, for her humiliation is accomplished, her sin is put away: for she has received of the Lord's hand double the amount of her sins.
 
+### Job 20:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.514`
+- fresh_brenton_ratio: `0.750`
+- fresh: that the gladness of the ungodly is a sudden fall, and the joy of lawless men is destruction?
+- mt: That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
+- brenton: But the mirth of the ungodly is a signal downfall, and the joy of transgressors is destruction:
+
 ### 1 Chronicles 12:36
 - priority: `0`
 - importance: `none`
@@ -77558,6 +77549,15 @@ Method:
 - fresh: And all glorious men of Judah and priests and people of the land multiplied to break faith with faithless acts of abominations of nations, and they defiled house of the Lord in Jerusalem.
 - mt: Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.
 - brenton: And all the great men of Juda, and the priests, and the people of the land transgressed abundantly in the abominations of the heathen, and polluted the house of the Lord which was in Jerusalem.
+
+### Job 15:34
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.516`
+- fresh_brenton_ratio: `0.689`
+- fresh: For the witness of the ungodly is death, and fire will burn houses of gift-takers.
+- mt: For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.
+- brenton: For death is the witness of an ungodly man, and fire shall burn the houses of them that receive gifts.
 
 ### Isaiah 1:13
 - priority: `0`
@@ -78845,6 +78845,15 @@ Method:
 - fresh: Seek God, and when you find him call on him when he draws near you.
 - mt: Seek all of you the LORD while he may be found, call all of you upon him while he is near:
 - brenton: Seek ye the Lord, and when ye find him, call upon him; and when he shall draw nigh to you,
+
+### Job 16:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.523`
+- fresh_brenton_ratio: `0.776`
+- fresh: For the Lord handed me over into the hands of an unjust one, and threw me upon ungodly men.
+- mt: God has delivered me to the ungodly, and turned me over into the hands of the wicked.
+- brenton: For the Lord has delivered me into the hands of unrighteous men, and thrown me upon the ungodly.
 
 ### Proverbs 5:6
 - priority: `0`
@@ -80573,15 +80582,6 @@ Method:
 - fresh: And in your hands were found bloods of innocent souls. I did not find them in tunnels, but under every oak.
 - mt: Also in your skirts is found the blood of the souls of the poor innocent persons: I have not found it by secret search, but upon all these.
 - brenton: and in thine hands has been found the blood of innocent souls; I have not found them in holes, but on every oak.
-
-### Job 16:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.533`
-- fresh_brenton_ratio: `0.789`
-- fresh: For the Lord handed me over into the hands of unjust one, and threw me upon ungodly men.
-- mt: God has delivered me to the ungodly, and turned me over into the hands of the wicked.
-- brenton: For the Lord has delivered me into the hands of unrighteous men, and thrown me upon the ungodly.
 
 ### Deuteronomy 9:24
 - priority: `0`
@@ -83264,6 +83264,15 @@ Method:
 - fresh: Because of this glory of the Lord will be in islands of sea; The name of the Lord will be glorious, the Lord God of Israel.
 - mt: Wherefore glorify all of you the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea.
 - brenton: Therefore shall the glory of the Lord be in the isles of the sea; the name of the Lord shall be glorious.
+
+### Job 11:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.547`
+- fresh_brenton_ratio: `0.754`
+- fresh: For he knows the works of lawless men, and seeing wrongs he will not overlook.
+- mt: For he knows vain men: he sees wickedness also; will he not then consider it?
+- brenton: For he knows the works of transgressors; and when he sees wickedness, he will not overlook it.
 
 ### Exodus 15:8
 - priority: `0`
@@ -85983,6 +85992,15 @@ Method:
 - mt: By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood touches blood.
 - brenton: Cursing, and lying, and murder, and theft, and adultery abound in the land, and they mingle blood with blood.
 
+### Job 18:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.560`
+- fresh_brenton_ratio: `0.850`
+- fresh: But the light of the ungodly will be quenched, and their flame will not blaze forth.
+- mt: Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.
+- brenton: But the light of the ungodly shall be quenched, and their flame shall not go up.
+
 ### Isaiah 26:8
 - priority: `0`
 - importance: `none`
@@ -86487,15 +86505,6 @@ Method:
 - mt: I have made the earth, and created man upon it: I, even my hands, have stretched out the heavens, and all their host have I commanded.
 - brenton: I have made the earth, and man upon it: I with my hand have established the heaven; I have given commandment to all the stars.
 
-### Job 11:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.562`
-- fresh_brenton_ratio: `0.724`
-- fresh: For he knows works of lawless men, and seeing wrongs he will not overlook.
-- mt: For he knows vain men: he sees wickedness also; will he not then consider it?
-- brenton: For he knows the works of transgressors; and when he sees wickedness, he will not overlook it.
-
 ### Isaiah 57:6
 - priority: `0`
 - importance: `none`
@@ -86567,15 +86576,6 @@ Method:
 - fresh: For eyes of the Lord high, but man low, and the height of men will be humbled, and the Lord alone will be exalted in that day.
 - mt: The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
 - brenton: For the eyes of the Lord are high, but man is low; and the haughtiness of men shall be brought low, and the Lord alone shall be exalted in that day.
-
-### Job 21:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.562`
-- fresh_brenton_ratio: `0.871`
-- fresh: For their good things were in their hands, but he does not regard works of ungodly men.
-- mt: Lo, their good is not in their hand: the counsel of the wicked is far from me.
-- brenton: For their good things were in their hands, but he regards not the works of the ungodly.
 
 ### Isaiah 59:14
 - priority: `0`
@@ -88278,15 +88278,6 @@ Method:
 - mt: And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul.
 - brenton: And Jonathan swore yet again to David, because he loved the soul of him that loved him.
 
-### Job 18:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.570`
-- fresh_brenton_ratio: `0.768`
-- fresh: But the light of the ungodly will be quenched, and flame of theirs will not blaze forth.
-- mt: Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.
-- brenton: But the light of the ungodly shall be quenched, and their flame shall not go up.
-
 ### 1 Samuel 15:25
 - priority: `0`
 - importance: `none`
@@ -88574,15 +88565,6 @@ Method:
 - fresh: Is your life human, or your years those of man,
 - mt: Are your days as the days of man? are your years as man's days,
 - brenton: Or is thy life human, or thy years the years of a man,
-
-### Job 8:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.571`
-- fresh_brenton_ratio: `0.763`
-- fresh: But their enemies will clothe themselves with shame, and dwelling of the ungodly will not be.
-- mt: They that hate you shall be clothed with shame; and the dwelling place of the wicked shall come to nothing.
-- brenton: But their adversaries shall clothe themselves with shame; and the habitation of the ungodly shall perish.
 
 ### Exodus 34:9
 - priority: `0`
@@ -95225,6 +95207,15 @@ Method:
 - fresh: Because thus the Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in the day of harvest.
 - mt: For so the LORD said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.
 - brenton: For thus said the Lord to me, There shall be security in my city, as the light of noonday heat, and it shall be as a cloud of dew in the day of harvest.
+
+### Job 8:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.600`
+- fresh_brenton_ratio: `0.778`
+- fresh: But their enemies will clothe themselves with shame, and the dwelling of the ungodly will not be.
+- mt: They that hate you shall be clothed with shame; and the dwelling place of the wicked shall come to nothing.
+- brenton: But their adversaries shall clothe themselves with shame; and the habitation of the ungodly shall perish.
 
 ### Amos 5:24
 - priority: `0`
@@ -105279,6 +105270,15 @@ Method:
 - mt: You shall part it in pieces, and pour oil thereon: it is a food offering.
 - brenton: And thou shalt break them into fragments and pour oil upon them: it is a sacrifice to the Lord.
 
+### Job 21:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.634`
+- fresh_brenton_ratio: `0.874`
+- fresh: For their good things were in their hands, but he does not regard the works of ungodly men.
+- mt: Lo, their good is not in their hand: the counsel of the wicked is far from me.
+- brenton: For their good things were in their hands, but he regards not the works of the ungodly.
+
 ### Job 21:25
 - priority: `0`
 - importance: `none`
@@ -113550,15 +113550,6 @@ Method:
 - mt: Take all of you therefore good heed unto yourselves; for all of you saw no manner of embodiment on the day that the LORD spoke unto you in Horeb out of the midst of the fire:
 - brenton: And take good heed to your hearts, for ye saw no similitude in the day in which the Lord spoke to you in Choreb in the mountain out of the midst of the fire:
 
-### Job 21:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.660`
-- fresh_brenton_ratio: `0.744`
-- fresh: For you will say, Where is the house of a ruler, and where is the shelter of tents of ungodly men?
-- mt: For all of you say, Where is the house of the prince? and where are the dwelling places of the wicked?
-- brenton: so that ye will say, Where is the house of the prince? and where is the covering of the tabernacles of the ungodly?
-
 ### Isaiah 65:21
 - priority: `0`
 - importance: `none`
@@ -115988,6 +115979,15 @@ Method:
 - fresh: So as to save me from enemies, or rescue me from the hand of rulers?
 - mt: Or, Deliver me from the enemy's hand? or, Redeem me from the hand of the mighty?
 - brenton: to deliver me from enemies, or to rescue me from the hand of the mighty ones?
+
+### Job 21:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.768`
+- fresh: For you will say, Where is the house of a ruler, and where is the shelter of the tents of ungodly men?
+- mt: For all of you say, Where is the house of the prince? and where are the dwelling places of the wicked?
+- brenton: so that ye will say, Where is the house of the prince? and where is the covering of the tabernacles of the ungodly?
 
 ### Proverbs 23:9
 - priority: `0`

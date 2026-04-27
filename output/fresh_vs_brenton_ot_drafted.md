@@ -115754,10 +115754,10 @@ Note:
 ### Job 8:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But their enemies will clothe themselves with shame, and dwelling of the ungodly will not be.
+- fresh: But their enemies will clothe themselves with shame, and the dwelling of the ungodly will not be.
 - brenton: But their adversaries shall clothe themselves with shame; and the habitation of the ungodly shall perish.
 
 ### Job 9:1
@@ -115961,10 +115961,10 @@ Note:
 ### Job 9:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For worthless men are remarkable in death, but righteous are laughed to scorn.
+- fresh: For worthless men are remarkable in death, but the righteous are laughed to scorn.
 - brenton: For the worthless die, but the righteous are laughed to scorn.
 
 ### Job 9:24
@@ -116366,10 +116366,10 @@ Note:
 ### Job 11:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For he knows works of lawless men, and seeing wrongs he will not overlook.
+- fresh: For he knows the works of lawless men, and seeing wrongs he will not overlook.
 - brenton: For he knows the works of transgressors; and when he sees wickedness, he will not overlook it.
 
 ### Job 11:12
@@ -116447,10 +116447,10 @@ Note:
 ### Job 11:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But salvation will fail them, for their hope is destruction, and eyes of the ungodly will melt.
+- fresh: But salvation will fail them, for their hope is destruction, and the eyes of the ungodly will melt.
 - brenton: But safety shall fail them; for their hope is destruction, and the eyes of the ungodly shall waste away.
 
 ### Job 12:1
@@ -116492,10 +116492,10 @@ Note:
 ### Job 12:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
+- fresh: For an appointed time was prepared for him to fall under others and for his houses to be plundered by lawless men.
 - brenton: For it had been ordained that he should fall under others at the appointed time, and that his houses should be spoiled by transgressors: let not however any one trust that, being evil, he shall be held guiltless,
 
 ### Job 12:6
@@ -117302,10 +117302,10 @@ Note:
 ### Job 15:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All life of the ungodly is in care, and numbered years are given to tyrant.
+- fresh: All the life of the ungodly is in care, and numbered years are given to a tyrant.
 - brenton: All the life of the ungodly is spent in care, and the years granted to the oppressor are numbered.
 
 ### Job 15:21
@@ -117428,10 +117428,10 @@ Note:
 ### Job 15:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For witness of the ungodly is death, and fire will burn houses of gift-takers.
+- fresh: For the witness of the ungodly is death, and fire will burn houses of gift-takers.
 - brenton: For death is the witness of an ungodly man, and fire shall burn the houses of them that receive gifts.
 
 ### Job 15:35
@@ -117536,10 +117536,10 @@ Note:
 ### Job 16:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the Lord handed me over into the hands of unjust one, and threw me upon ungodly men.
+- fresh: For the Lord handed me over into the hands of an unjust one, and threw me upon ungodly men.
 - brenton: For the Lord has delivered me into the hands of unrighteous men, and thrown me upon the ungodly.
 
 ### Job 16:12
@@ -117824,10 +117824,10 @@ Note:
 ### Job 18:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But the light of the ungodly will be quenched, and flame of theirs will not blaze forth.
+- fresh: But the light of the ungodly will be quenched, and their flame will not blaze forth.
 - brenton: But the light of the ungodly shall be quenched, and their flame shall not go up.
 
 ### Job 18:6
@@ -118274,10 +118274,10 @@ Note:
 ### Job 20:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: that gladness of the ungodly is sudden fall, and joy of lawless men destruction?
+- fresh: that the gladness of the ungodly is a sudden fall, and the joy of lawless men is destruction?
 - brenton: But the mirth of the ungodly is a signal downfall, and the joy of transgressors is destruction:
 
 ### Job 20:6
@@ -118634,19 +118634,19 @@ Note:
 ### Job 21:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For their good things were in their hands, but he does not regard works of ungodly men.
+- fresh: For their good things were in their hands, but he does not regard the works of ungodly men.
 - brenton: For their good things were in their hands, but he regards not the works of the ungodly.
 
 ### Job 21:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
+- fresh: Yet the lamp of ungodly men will be quenched, and destruction will come upon them, and pains will hold them from wrath.
 - brenton: Nevertheless, the lamp of the ungodly also shall be put out, and destruction shall come upon them, and pangs of vengeance shall seize them.
 
 ### Job 21:18
@@ -118742,10 +118742,10 @@ Note:
 ### Job 21:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For you will say, Where is the house of a ruler, and where is the shelter of tents of ungodly men?
+- fresh: For you will say, Where is the house of a ruler, and where is the shelter of the tents of ungodly men?
 - brenton: so that ye will say, Where is the house of the prince? and where is the covering of the tabernacles of the ungodly?
 
 ### Job 21:29
