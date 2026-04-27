@@ -64574,7 +64574,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
+- fresh: And she said, Please, lord, as your soul lives: I am the woman who stood before you in praying to the Lord.
 - brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
 
 ### 1 Samuel 1:27
@@ -94579,7 +94579,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he built city all around and fought and took city.
+- fresh: And he built the city all around and fought and took the city.
 - brenton: And he fortified the city round about.
 
 ### 1 Chronicles 11:9
@@ -96892,7 +96892,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But the word of the king prevailed over Joab. And Joab went out and passed through all border of Israel and came to Jerusalem.
+- fresh: But the word of the king prevailed over Joab. And Joab went out and passed through every border of Israel and came to Jerusalem.
 - brenton: Nevertheless the king's word prevailed against Joab; and Joab went out and passed through all Israel, and came to Jerusalem.
 
 ### 1 Chronicles 21:5
@@ -99756,7 +99756,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set sea from the corner of the house on right, toward east, opposite.
+- fresh: And he set the sea from the corner of the house on the right, toward east, opposite.
 - brenton: And he set the sea at the corner of the house on the right, as it were fronting the east.
 
 ### 2 Chronicles 4:11
@@ -99936,7 +99936,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And cheroubim were spreading out their wings over place of ark, and cheroubim were covering ark and its carrying-poles above.
+- fresh: And cheroubim were spreading out their wings over the place of the ark, and cheroubim were covering the ark and its carrying-poles above.
 - brenton: And the cherubs stretched out their wings over the place of the ark, and the cherubs covered the ark, and its staves above.
 
 ### 2 Chronicles 5:9
@@ -100710,7 +100710,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all work was prepared from day house was founded until Solomon finished house of the Lord.
+- fresh: And all work was prepared from the day the house was founded until Solomon finished the house of the Lord.
 - brenton: Now all the work had been prepared from the day when the foundation was laid, until Solomon finished the house of the Lord.
 
 ### 2 Chronicles 8:17
@@ -103446,7 +103446,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he set all the people, each with his weapons, from shoulder of the house on right to shoulder on left, by altar and by house, around king.
+- fresh: And he set all the people, each with his weapons, from the right shoulder of the house to the left shoulder of the altar and the house, around the king.
 - brenton: And he set the whole people, every man with his arms, from the right side of the house to the left side of the altar and the house, over against the king round about.
 
 ### 2 Chronicles 23:11
@@ -103473,7 +103473,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+- fresh: And she saw, and behold, the king stood at his station and at the entrance, rulers and trumpets around the king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
 - brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
 
 ### 2 Chronicles 23:14
@@ -103491,7 +103491,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gave her free passage, and she went through horse gate of the house of the king, and they killed her there.
+- fresh: And they gave her free passage, and she went through the horse gate of the house of the king, and they killed her there.
 - brenton: So they let her go out; and she went through the horsemen's gate of the house of the king, and they slew her there.
 
 ### 2 Chronicles 23:16
@@ -179165,7 +179165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king sent Jehudi to take scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around king.
+- fresh: And the king sent Jehudi to take the scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around the king.
 - brenton: And the king sent Judin to fetch the roll: and he took it out of the house of Elisama: and Judin read in the ears of the king, and in the ears of all the princes who stood round the king.
 
 ### Jeremiah 43:22

@@ -2523,6 +2523,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "no high-sounding speech" in by_ref["1 Samuel 2:3"]["draft_translation"]
     assert "God of knowledge" in by_ref["1 Samuel 2:3"]["draft_translation"]
     assert "Those full of bread were brought low" in by_ref["1 Samuel 2:5"]["draft_translation"]
+    assert "Please, lord, as your soul lives" in by_ref["1 Samuel 1:26"]["draft_translation"]
     assert "the men were cut to the heart" in by_ref["Genesis 34:7"]["draft_translation"]
     assert by_ref["Genesis 27:38"]["draft_translation"].startswith("But Esau said to his father")
     assert "when Isaac was cut to the heart" in by_ref["Genesis 27:38"]["draft_translation"]
@@ -2532,6 +2533,11 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Ahab was cut to the heart before the Lord" in by_ref["1 Kings 20:27"]["draft_translation"]
     assert "Ahab was cut to the heart before me" in by_ref["1 Kings 20:29"]["draft_translation"]
     assert "a day's portion on its day" in by_ref["2 Kings 25:30"]["draft_translation"]
+    assert "built the city all around" in by_ref["1 Chronicles 11:8"]["draft_translation"]
+    assert "passed through every border of Israel" in by_ref["1 Chronicles 21:4"]["draft_translation"]
+    assert "set the sea from the corner" in by_ref["2 Chronicles 4:10"]["draft_translation"]
+    assert "over the place of the ark" in by_ref["2 Chronicles 5:8"]["draft_translation"]
+    assert "from the day the house was founded" in by_ref["2 Chronicles 8:16"]["draft_translation"]
     assert "each day's matter on its day" in by_ref["2 Chronicles 8:14"]["draft_translation"]
     assert "the one who is about to free me" in by_ref["Job 19:25"]["draft_translation"]
     assert by_ref["Proverbs 23:27"]["draft_translation"].startswith("For a foreign house is a pierced jar")
@@ -2546,6 +2552,10 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "clap their hands over you" in by_ref["Nahum 3:19"]["draft_translation"]
     assert "Habakkuk the prophet saw" in by_ref["Habakkuk 1:1"]["draft_translation"]
     assert "one building a city in bloodshed and preparing a city" in by_ref["Habakkuk 2:12"]["draft_translation"]
+    assert "around the king" in by_ref["2 Chronicles 23:10"]["draft_translation"]
+    assert "the king stood at his station" in by_ref["2 Chronicles 23:13"]["draft_translation"]
+    assert "through the horse gate" in by_ref["2 Chronicles 23:15"]["draft_translation"]
+    assert "take the scroll" in by_ref["Jeremiah 43:21"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

@@ -29176,7 +29176,7 @@ And they brought him before the Lord, and his father slaughtered the sacrifice t
 
 **1 Samuel 1:26**
 
-And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
+And she said, Please, lord, as your soul lives: I am the woman who stood before you in praying to the Lord.
 
 **1 Samuel 1:27**
 
@@ -42740,7 +42740,7 @@ And David settled in stronghold; therefore he called it the City of David.
 
 **1 Chronicles 11:8**
 
-And he built city all around and fought and took city.
+And he built the city all around and fought and took the city.
 
 **1 Chronicles 11:9**
 
@@ -43788,7 +43788,7 @@ And Joab said, May the Lord add to his people a hundredfold as they are, and are
 
 **1 Chronicles 21:4**
 
-But the word of the king prevailed over Joab. And Joab went out and passed through all border of Israel and came to Jerusalem.
+But the word of the king prevailed over Joab. And Joab went out and passed through every border of Israel and came to Jerusalem.
 
 **1 Chronicles 21:5**
 
@@ -45086,7 +45086,7 @@ And he made court of priests and great court and doors for court, and their door
 
 **2 Chronicles 4:10**
 
-And he set sea from the corner of the house on right, toward east, opposite.
+And he set the sea from the corner of the house on the right, toward east, opposite.
 
 **2 Chronicles 4:11**
 
@@ -45168,7 +45168,7 @@ And priests brought in the ark of the covenant of the Lord to its place, into de
 
 **2 Chronicles 5:8**
 
-And cheroubim were spreading out their wings over place of ark, and cheroubim were covering ark and its carrying-poles above.
+And cheroubim were spreading out their wings over the place of the ark, and cheroubim were covering the ark and its carrying-poles above.
 
 **2 Chronicles 5:9**
 
@@ -45518,7 +45518,7 @@ They did not pass by commands of the king concerning priests and Levites in ever
 
 **2 Chronicles 8:16**
 
-And all work was prepared from day house was founded until Solomon finished house of the Lord.
+And all work was prepared from the day the house was founded until Solomon finished the house of the Lord.
 
 **2 Chronicles 8:17**
 
@@ -46764,7 +46764,7 @@ And he gave swords and shields and weapons which belonged to King David in the h
 
 **2 Chronicles 23:10**
 
-And he set all the people, each with his weapons, from shoulder of the house on right to shoulder on left, by altar and by house, around king.
+And he set all the people, each with his weapons, from the right shoulder of the house to the left shoulder of the altar and the house, around the king.
 
 **2 Chronicles 23:11**
 
@@ -46776,7 +46776,7 @@ And Athaliah heard the sound of the people running and giving thanks and praisin
 
 **2 Chronicles 23:13**
 
-And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+And she saw, and behold, the king stood at his station and at the entrance, rulers and trumpets around the king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
 
 **2 Chronicles 23:14**
 
@@ -46784,7 +46784,7 @@ And Jehoiada the priest went out and commanded centurions and leaders of force a
 
 **2 Chronicles 23:15**
 
-And they gave her free passage, and she went through horse gate of the house of the king, and they killed her there.
+And they gave her free passage, and she went through the horse gate of the house of the king, and they killed her there.
 
 **2 Chronicles 23:16**
 
@@ -81224,7 +81224,7 @@ And they entered to the king into court, and scroll they gave to keep in the hou
 
 **Jeremiah 43:21**
 
-And the king sent Jehudi to take scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around king.
+And the king sent Jehudi to take the scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around the king.
 
 **Jeremiah 43:22**
 

@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 724
+Rows: 723
 
 ## 2 Chronicles 6:20
 - priority: `21`
@@ -6067,15 +6067,6 @@ Rows: 724
 - fresh: And from the priests: Jedaiah and Jehoiarib and Jachin,
 - mt: And of the priests; Jedaiah, and Jehoiarib, and Jachin,
 - brenton: And of the priests; Jodaë, and Joarim, and Jachin,
-
-## 1 Samuel 1:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.827`
-- fresh_brenton_ratio: `0.722`
-- fresh: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
-- mt: And she said, Oh my lord, as your soul lives, my lord, I am the woman that stood by you here, praying unto the LORD.
-- brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
 
 ## 2 Chronicles 25:21
 - priority: `0`

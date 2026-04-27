@@ -5,7 +5,7 @@ Drafted rows checked: 22909
 Rows with MT witness: 21754
 Rows with Brenton witness: 22321
 Rows same as MT, different from Brenton: 52
-Rows MT-leaning vs Brenton: 724
+Rows MT-leaning vs Brenton: 723
 Rows different from both: 20939
 
 Method:
@@ -6447,15 +6447,6 @@ Method:
 - fresh: And from the priests: Jedaiah and Jehoiarib and Jachin,
 - mt: And of the priests; Jedaiah, and Jehoiarib, and Jachin,
 - brenton: And of the priests; Jodaë, and Joarim, and Jachin,
-
-### 1 Samuel 1:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.827`
-- fresh_brenton_ratio: `0.722`
-- fresh: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
-- mt: And she said, Oh my lord, as your soul lives, my lord, I am the woman that stood by you here, praying unto the LORD.
-- brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
 
 ### 2 Chronicles 25:21
 - priority: `0`
@@ -17736,6 +17727,15 @@ Method:
 - mt: So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto you in your land? or will you flee three months before yours enemies, while they pursue you? or that there be three days' pestilence in your land? now advise, and see what answer I shall return to him that sent me.
 - brenton: And Gad went in to David, and told him, and said to him, Choose one of these things to befal thee, whether there shall come upon thee for three years famine in thy land; or that thou shouldest flee three months before thine enemies, and they should pursue thee; or that there should be for three days mortality in thy land. Now then decide, and see what answer I shall return to him that sent me.
 
+### 2 Chronicles 23:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.081`
+- fresh_brenton_ratio: `0.040`
+- fresh: And she saw, and behold, the king stood at his station and at the entrance, rulers and trumpets around the king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
+- mt: And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of music, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
+- brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
+
 ### Zechariah 3:9
 - priority: `0`
 - importance: `none`
@@ -18041,15 +18041,6 @@ Method:
 - fresh: then you shall take from the firstfruits of the fruits of your land that the Lord your God gives you and put them into a basket and go to the place that the Lord your God chooses for his name to be called there.
 - mt: That you shall take of the first of all the fruit of the earth, which you shall bring of your land that the LORD your God gives you, and shall put it in a basket, and shall go unto the place which the LORD your God shall choose to place his name there.
 - brenton: that thou shalt take of the first of the fruits of thy land, which the Lord thy God gives thee, and thou shalt put them into a basket, and thou shalt go to the place which the Lord thy God shall choose to have his name called there.
-
-### 2 Chronicles 23:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.083`
-- fresh_brenton_ratio: `0.041`
-- fresh: And she saw, and behold, king stood at his station and at entrance, rulers and trumpets around king, and all the people of the land rejoiced, and they sounded with trumpets, and singers with the instruments of songs and hymning praise. And Athaliah tore her robe and cried, Conspiracy, conspire!
-- mt: And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of music, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
-- brenton: And she looked, and, behold, the king stood in his place, and the princes and trumpets were at the entrance, and the princes were round the king: and all the people of the land rejoiced, and sounded the trumpets, and there were the singers singing with instruments, and singing hymns of praise. And Gotholia rent her robe, and cried, Ye surely are plotting against me.
 
 ### 2 Kings 5:22
 - priority: `0`
@@ -75741,15 +75732,6 @@ Method:
 - mt: And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.
 - brenton: this is the mischief which Ader did, and he was a bitter enemy of Israel, and he reigned in the land of Edom.
 
-### 2 Chronicles 8:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.504`
-- fresh_brenton_ratio: `0.766`
-- fresh: And all work was prepared from day house was founded until Solomon finished house of the Lord.
-- mt: Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was perfected.
-- brenton: Now all the work had been prepared from the day when the foundation was laid, until Solomon finished the house of the Lord.
-
 ### Isaiah 7:6
 - priority: `0`
 - importance: `none`
@@ -80789,6 +80771,15 @@ Method:
 - fresh: And I will kindle fire in her forest, and it will devour all around her.
 - mt: But I will punish you according to the fruit of your doings, says the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.
 - brenton: And I will kindle a fire in the forest thereof, and it shall devour all things round about it.
+
+### 2 Chronicles 8:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.534`
+- fresh_brenton_ratio: `0.796`
+- fresh: And all work was prepared from the day the house was founded until Solomon finished the house of the Lord.
+- mt: Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was perfected.
+- brenton: Now all the work had been prepared from the day when the foundation was laid, until Solomon finished the house of the Lord.
 
 ### Leviticus 9:18
 - priority: `0`
@@ -86424,15 +86415,6 @@ Method:
 - mt: You are become cruel to me: with your strong hand you oppose yourself against me.
 - brenton: They attacked me also without mercy: thou hast scourged me with a strong hand.
 
-### 1 Chronicles 11:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.562`
-- fresh_brenton_ratio: `0.556`
-- fresh: And he built city all around and fought and took city.
-- mt: And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
-- brenton: And he fortified the city round about.
-
 ### 1 Chronicles 21:14
 - priority: `0`
 - importance: `none`
@@ -89232,15 +89214,6 @@ Method:
 - mt: Come, let us take our fill of love until the morning: let us solace ourselves with loves.
 - brenton: Come, and let us enjoy love until the morning; come, and let us embrace in love.
 
-### 2 Chronicles 5:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.575`
-- fresh_brenton_ratio: `0.724`
-- fresh: And cheroubim were spreading out their wings over place of ark, and cheroubim were covering ark and its carrying-poles above.
-- mt: For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
-- brenton: And the cherubs stretched out their wings over the place of the ark, and the cherubs covered the ark, and its staves above.
-
 ### 1 Kings 14:22
 - priority: `0`
 - importance: `none`
@@ -89276,15 +89249,6 @@ Method:
 - fresh: And Job lived after the blow one hundred seventy years; altogether he lived two hundred forty-eight years, and Job saw his sons and sons of his sons, fourth generation.
 - mt: After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.
 - brenton: And Job lived after his affliction a hundred and seventy years: and all the years he lived were two hundred and forty: and Job saw his sons and his sons' sons, the fourth generation.
-
-### 2 Chronicles 23:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.575`
-- fresh_brenton_ratio: `0.821`
-- fresh: And they gave her free passage, and she went through horse gate of the house of the king, and they killed her there.
-- mt: So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there.
-- brenton: So they let her go out; and she went through the horsemen's gate of the house of the king, and they slew her there.
 
 ### Numbers 7:86
 - priority: `0`
@@ -93183,6 +93147,15 @@ Method:
 - mt: But I will send a fire upon Teman, which shall devour the palaces of Bozrah.
 - brenton: And I will send forth a fire upon Thaman, and it shall devour the foundations of her walls.
 
+### 2 Chronicles 23:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.591`
+- fresh_brenton_ratio: `0.842`
+- fresh: And they gave her free passage, and she went through the horse gate of the house of the king, and they killed her there.
+- mt: So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there.
+- brenton: So they let her go out; and she went through the horsemen's gate of the house of the king, and they slew her there.
+
 ### Ezekiel 34:15
 - priority: `0`
 - importance: `none`
@@ -94461,15 +94434,6 @@ Method:
 - mt: And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 - brenton: And their wings were spread out under the firmament, reaching one to the other; two wings to each, covering their bodies.
 
-### 2 Chronicles 23:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.597`
-- fresh_brenton_ratio: `0.635`
-- fresh: And he set all the people, each with his weapons, from shoulder of the house on right to shoulder on left, by altar and by house, around king.
-- mt: And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
-- brenton: And he set the whole people, every man with his arms, from the right side of the house to the left side of the altar and the house, over against the king round about.
-
 ### Genesis 8:7
 - priority: `0`
 - importance: `none`
@@ -95000,15 +94964,6 @@ Method:
 - fresh: And the Lord God, seeing that the evils of humans were multiplied on the earth, and that each one was carefully thinking in his heart upon evil things all the days,
 - mt: And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 - brenton: And the Lord God having seen that the wicked actions of men were multiplied upon the earth, and that every one in his heart was intently brooding over evil continually,
-
-### 2 Chronicles 4:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.599`
-- fresh_brenton_ratio: `0.700`
-- fresh: And he set sea from the corner of the house on right, toward east, opposite.
-- mt: And he set the sea on the right side of the east end, opposite to the south.
-- brenton: And he set the sea at the corner of the house on the right, as it were fronting the east.
 
 ### Job 37:14
 - priority: `0`
@@ -97097,6 +97052,15 @@ Method:
 - fresh: And all the gold, the removed offering that they removed for the Lord, was sixteen thousand seven hundred fifty shekels from the chiliarchs and from the centurions.
 - mt: And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
 - brenton: And all the wrought gold, even the offering that they offered to the Lord, was sixteen thousand and seven hundred and fifty shekels from the captains of thousands and the captains of hundreds.
+
+### 2 Chronicles 4:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.606`
+- fresh_brenton_ratio: `0.762`
+- fresh: And he set the sea from the corner of the house on the right, toward east, opposite.
+- mt: And he set the sea on the right side of the east end, opposite to the south.
+- brenton: And he set the sea at the corner of the house on the right, as it were fronting the east.
 
 ### Ezekiel 10:8
 - priority: `0`
@@ -102291,6 +102255,15 @@ Method:
 - mt: These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
 - brenton: And these are the heads of their families, the leaders that went up with me in the reign of Arthasastha the king of Babylon.
 
+### 1 Chronicles 21:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.625`
+- fresh_brenton_ratio: `0.772`
+- fresh: But the word of the king prevailed over Joab. And Joab went out and passed through every border of Israel and came to Jerusalem.
+- mt: Nevertheless the king's word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.
+- brenton: Nevertheless the king's word prevailed against Joab; and Joab went out and passed through all Israel, and came to Jerusalem.
+
 ### Numbers 2:19
 - priority: `0`
 - importance: `none`
@@ -105098,6 +105071,15 @@ Method:
 - fresh: Sons of foreigners will fall away and stagger out of their enclosures.
 - mt: Strangers shall fade away, and they shall be afraid out of their close places.
 - brenton: The strange children shall be cast away, and shall be overthrown out of their hiding-places.
+
+### 1 Chronicles 11:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.634`
+- fresh_brenton_ratio: `0.571`
+- fresh: And he built the city all around and fought and took the city.
+- mt: And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
+- brenton: And he fortified the city round about.
 
 ### Song of Solomon 6:6
 - priority: `0`
@@ -111596,15 +111578,6 @@ Method:
 - fresh: And your little children, whom you said would be for plunder, I will bring into the land, and they shall inherit the land from which you turned away.
 - mt: But your little ones, which all of you said should be a prey, them will I bring in, and they shall know the land which all of you have despised.
 - brenton: And your little ones, who ye said should be a prey, them will I bring into the land; and they shall inherit the land, which ye rejected.
-
-### 1 Chronicles 21:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.653`
-- fresh_brenton_ratio: `0.803`
-- fresh: But the word of the king prevailed over Joab. And Joab went out and passed through all border of Israel and came to Jerusalem.
-- mt: Nevertheless the king's word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.
-- brenton: Nevertheless the king's word prevailed against Joab; and Joab went out and passed through all Israel, and came to Jerusalem.
 
 ### 2 Samuel 7:15
 - priority: `0`
@@ -131865,6 +131838,15 @@ Method:
 - mt: For we will destroy this place, because the cry of them is becoming great before the face of the LORD; and the LORD has sent us to destroy it.
 - brenton: For we are going to destroy this place; for their cry has been raised up before the Lord, and the Lord has sent us to destroy it.
 
+### 2 Chronicles 23:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.708`
+- fresh_brenton_ratio: `0.794`
+- fresh: And he set all the people, each with his weapons, from the right shoulder of the house to the left shoulder of the altar and the house, around the king.
+- mt: And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
+- brenton: And he set the whole people, every man with his arms, from the right side of the house to the left side of the altar and the house, over against the king round about.
+
 ### Nehemiah 6:9
 - priority: `0`
 - importance: `none`
@@ -149540,6 +149522,15 @@ Method:
 - fresh: And his servants attacked him and struck him in his house.
 - mt: And his servants conspired against him, and slew him in his own house.
 - brenton: And his servants conspired against him, and slew him in his house.
+
+### 2 Chronicles 5:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.784`
+- fresh: And cheroubim were spreading out their wings over the place of the ark, and cheroubim were covering the ark and its carrying-poles above.
+- mt: For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
+- brenton: And the cherubs stretched out their wings over the place of the ark, and the cherubs covered the ark, and its staves above.
 
 ### Zechariah 6:4
 - priority: `0`
@@ -173796,6 +173787,15 @@ Method:
 - mt: For thus says the Lord GOD; The sword of the king of Babylon shall come upon you.
 - brenton: For thus saith the Lord God; The sword of the king of Babylon shall come upon thee,
 
+### 1 Samuel 1:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.821`
+- fresh_brenton_ratio: `0.736`
+- fresh: And she said, Please, lord, as your soul lives: I am the woman who stood before you in praying to the Lord.
+- mt: And she said, Oh my lord, as your soul lives, my lord, I am the woman that stood by you here, praying unto the LORD.
+- brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
+
 ### Genesis 26:9
 - priority: `0`
 - importance: `none`
@@ -175712,15 +175712,6 @@ Method:
 - fresh: And the water kept diminishing until the tenth month, and in the tenth month, on the first day of the month, the tops of the mountains appeared.
 - mt: And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.
 - brenton: And in the tenth month, on the first day of the month, the heads of the mountains were seen.
-
-### 1 Samuel 1:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.827`
-- fresh_brenton_ratio: `0.722`
-- fresh: And she said, In me, lord, your soul lives: I am the woman who stood before you in praying to the Lord.
-- mt: And she said, Oh my lord, as your soul lives, my lord, I am the woman that stood by you here, praying unto the LORD.
-- brenton: And she said, I pray thee, my lord, as thy soul liveth, I am the woman that stood in thy presence with thee while praying to the Lord.
 
 ### Judges 21:10
 - priority: `0`
