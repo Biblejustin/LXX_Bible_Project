@@ -2630,6 +2630,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "for the ungodly man" in by_ref["Ecclesiastes 8:13"]["draft_translation"]
     assert "this too is vanity" in by_ref["Ecclesiastes 8:14"]["draft_translation"]
     assert "all the works of God" in by_ref["Ecclesiastes 8:17"]["draft_translation"]
+    assert "the righteous and the wise" in by_ref["Ecclesiastes 9:1"][
+        "draft_translation"
+    ]
+    assert "for the righteous and the ungodly" in by_ref["Ecclesiastes 9:2"][
+        "draft_translation"
+    ]
+    assert "the heart of the sons of man" in by_ref["Ecclesiastes 9:3"][
+        "draft_translation"
+    ]
+    assert "a living dog is better than a dead lion" in by_ref["Ecclesiastes 9:4"][
+        "draft_translation"
+    ]
+    assert "See life with a woman" in by_ref["Ecclesiastes 9:9"][
+        "draft_translation"
+    ]
     assert "Let the ungodly man leave his ways and the lawless man" in by_ref["Isaiah 55:7"][
         "draft_translation"
     ]

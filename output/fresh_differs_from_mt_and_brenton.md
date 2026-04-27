@@ -3584,6 +3584,15 @@ Rows: 20937
 - mt: My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city.
 - brenton: They went forth with weeping, and I will bring them back with consolation, causing them to lodge by the channels of waters in a straight way, and they shall not err in it: for I am become a father to Israel, and Ephraim is my first-born.
 
+## Ecclesiastes 9:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.023`
+- fresh_brenton_ratio: `0.090`
+- fresh: Vanity is in all things: one meeting is for the righteous and the ungodly, for the good and the evil, for the clean and the unclean, for the one sacrificing and the one not sacrificing; as the good one, so the sinner; as the one swearing, so the one fearing an oath.
+- mt: All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrifices, and to him that sacrifices not: as is the good, so is the sinner; and he that swears, as he that fears an oath.
+- brenton: Vanity is in all: there is one event to the righteous, and to the wicked; to the good, and to the bad; both to the pure, and to the impure; both to him that sacrifices, and to him that sacrifices not: as is the good, so is the sinner: as is the swearer, even so is he that fears an oath.
+
 ## 1 Chronicles 10:4
 - priority: `0`
 - importance: `none`
@@ -4042,15 +4051,6 @@ Rows: 20937
 - fresh: Because just as belt clings to waist of man, so I made the whole house of Israel and the whole house of Judah cling to me, to become to me notable people and praise and glory, and they did not hear me.
 - mt: For as the girdle cleaves to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, says the LORD; that they might be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear.
 - brenton: For as a girdle cleaves about the loins of a man, so have I caused to cleave to myself the house of Israel, and the whole house of Juda; that they might be to me a famous people, and a praise, and a glory: but they did not hearken to me.
-
-## Ecclesiastes 9:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.026`
-- fresh_brenton_ratio: `0.089`
-- fresh: Vanity in all things: one meeting for righteous and ungodly, for good and evil, for clean and unclean, for one sacrificing and one not sacrificing; as good one, so sinner; as one swearing, so one fearing oath.
-- mt: All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrifices, and to him that sacrifices not: as is the good, so is the sinner; and he that swears, as he that fears an oath.
-- brenton: Vanity is in all: there is one event to the righteous, and to the wicked; to the good, and to the bad; both to the pure, and to the impure; both to him that sacrifices, and to him that sacrifices not: as is the good, so is the sinner: as is the swearer, even so is he that fears an oath.
 
 ## 2 Chronicles 32:5
 - priority: `0`
@@ -7112,6 +7112,15 @@ Rows: 20937
 - mt: And that we should bring the first-fruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.
 - brenton: And the first-fruits of our corn, and the fruit of every tree, of wine, and of oil, will we bring to the priests to the treasury of the house of God; and a tithe of our land to the Levites: for the Levites themselves shall receive tithes in all the cities of the land we cultivate.
 
+## Ecclesiastes 9:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.048`
+- fresh_brenton_ratio: `0.124`
+- fresh: See life with a woman whom you loved all the days of your life of vanity, those given to you under the sun, all the days of your vanity, because this is your portion in your life and in your toil with which you toil under the sun.
+- mt: Live joyfully with the wife whom you love all the days of the life of your vanity, which he has given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you take under the sun.
+- brenton: And see life with the wife whom thou lovest all the days of the life of thy vanity, which are given thee under the sun: for that is thy portion in thy life, and in thy labour wherein thou labourest under the sun.
+
 ## Leviticus 26:16
 - priority: `0`
 - importance: `none`
@@ -7255,15 +7264,6 @@ Rows: 20937
 - fresh: And from the half of the sons of Israel you shall take one out of fifty, from the humans and from the oxen and from the sheep and from the donkeys and from all the cattle, and you shall give them to the Levites who keep the charges in the tent of the Lord.
 - mt: And of the children of Israel's half, you shall take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD.
 - brenton: And from the half belonging to the children of Israel thou shalt take one in fifty from the men, and from the oxen, and from the sheep, and from the asses, and from all the cattle; and thou shalt give them to the Levites that keep the charges in the tabernacle of the Lord.
-
-## Ecclesiastes 9:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.049`
-- fresh_brenton_ratio: `0.128`
-- fresh: See life with woman whom you loved all days of your life of vanity, those given to you under the sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under the sun.
-- mt: Live joyfully with the wife whom you love all the days of the life of your vanity, which he has given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you take under the sun.
-- brenton: And see life with the wife whom thou lovest all the days of the life of thy vanity, which are given thee under the sun: for that is thy portion in thy life, and in thy labour wherein thou labourest under the sun.
 
 ## Zechariah 8:10
 - priority: `0`
@@ -13574,15 +13574,6 @@ Rows: 20937
 - mt: Speak unto the children of Israel, saying, If a woman have conceived seed, and born a male child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
 - brenton: Speak to the children of Israel, and thou shalt say to them, Whatsoever woman shall have conceived and born a male child shall be unclean seven days, she shall be unclean according to the days of separation for her monthly courses.
 
-## Ecclesiastes 9:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.108`
-- fresh_brenton_ratio: `0.222`
-- fresh: This evil in all done under the sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them is to the dead.
-- mt: This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
-- brenton: There is this evil in all that is done under the sun, that there is one event to all: yea, the heart of the sons of men is filled with evil, and madness is in their heart during their life, and after that they go to the dead.
-
 ## Numbers 1:42
 - priority: `0`
 - importance: `none`
@@ -16904,15 +16895,6 @@ Rows: 20937
 - mt: You shall also make a vessel that holds water of brass, and his foot also of brass, to wash likewise: and you shall put it between the tabernacle of the congregation and the altar, and you shall put water therein.
 - brenton: Make a brazen laver, and a brazen base for it, for washing; and thou shalt put it between the tabernacle of witness and the altar, and thou shalt pour forth water into it.
 
-## Ecclesiastes 9:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.149`
-- fresh_brenton_ratio: `0.041`
-- fresh: Because indeed man did not know his time: as fish caught in evil net and as birds caught in snare, as they are trapped, so sons of man are trapped for evil time when it falls upon them suddenly.
-- mt: For man also knows not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falls suddenly upon them.
-- brenton: For surely man also knows not his time: as fishes that are taken in an evil net, and as birds that are caught in a snare; even thus the sons of men are snared at an evil time, when it falls suddenly upon them.
-
 ## Deuteronomy 22:2
 - priority: `0`
 - importance: `none`
@@ -17812,6 +17794,15 @@ Rows: 20937
 - fresh: Is it not the Lord who teaches understanding and knowledge?
 - mt: Can a man be profitable unto God, as he that is wise may be profitable unto himself?
 - brenton: Is it not the Lord that teaches understanding and knowledge?
+
+## Ecclesiastes 9:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.158`
+- fresh_brenton_ratio: `0.039`
+- fresh: Because indeed a man did not know his time: as fish caught in an evil net and as birds caught in a snare, as they are trapped, so the sons of man are trapped for an evil time when it falls upon them suddenly.
+- mt: For man also knows not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falls suddenly upon them.
+- brenton: For surely man also knows not his time: as fishes that are taken in an evil net, and as birds that are caught in a snare; even thus the sons of men are snared at an evil time, when it falls suddenly upon them.
 
 ## Ezekiel 33:11
 - priority: `0`
@@ -21664,6 +21655,15 @@ Rows: 20937
 - fresh: Thus says the Lord: Behold, I bring on this city and on all her cities and on her villages all evils which I spoke against her, because they hardened their neck so as not to hear my words.
 - mt: Thus says the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.
 - brenton: Behold, I bring upon this city, and upon all the cities belonging to it, and upon the villages of it, all the evils which I have spoken against it, because they have hardened their neck, that they might not hearken to my commands.
+
+## Ecclesiastes 9:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.197`
+- fresh_brenton_ratio: `0.211`
+- fresh: This is evil in all done under the sun: one meeting is in all, and indeed the heart of the sons of man was filled with evil, and madness is in their heart during their life, and after them is to the dead.
+- mt: This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
+- brenton: There is this evil in all that is done under the sun, that there is one event to all: yea, the heart of the sons of men is filled with evil, and madness is in their heart during their life, and after that they go to the dead.
 
 ## Proverbs 9:18
 - priority: `0`
@@ -37082,6 +37082,15 @@ Rows: 20937
 - mt: You will show me the path of life: in your presence is fullness of joy; at your right hand there are pleasures for evermore.
 - brenton: They have now cast me out and compassed me round about: they have set their eyes so as to bow them down to the ground.
 
+## Ecclesiastes 9:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.297`
+- fresh_brenton_ratio: `0.512`
+- fresh: I turned and saw under the sun that the race is not to the swift, nor is war to the strong, and indeed neither is bread to the wise, and indeed neither is wealth to those with understanding, and indeed neither is favor to those knowing, because time and encounter will meet them all.
+- mt: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happens to them all.
+- brenton: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, nor yet bread to the wise, nor yet wealth to men of understanding, nor yet favour to men of knowledge; for time and chance will happen to them all.
+
 ## Exodus 37:9
 - priority: `0`
 - importance: `none`
@@ -39016,15 +39025,6 @@ Rows: 20937
 - fresh: And the rest of the matters of Ahaziah, what he did, behold, are these not written in the Book of the Matters of the Days of the kings of Israel? And Joram son of Ahab reigned over Israel in Samaria twelve years, in the eighteenth year of Jehoshaphat king of Judah. And he did evil before the Lord, yet not like his brothers nor like his mother. And he removed the pillars of Baal that his father made and shattered them. Yet in the sins of the house of Jeroboam, who made Israel sin, he clung and did not depart from them. And the anger of the Lord was enraged against the house of Ahab.
 - mt: Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
-
-## Ecclesiastes 9:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.307`
-- fresh_brenton_ratio: `0.545`
-- fresh: I turned and saw under the sun that the race is not to the swift, nor war to the strong, and indeed not bread to the wise, and indeed not wealth to those with understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
-- mt: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happens to them all.
-- brenton: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, nor yet bread to the wise, nor yet wealth to men of understanding, nor yet favour to men of knowledge; for time and chance will happen to them all.
 
 ## Psalms 34:3
 - priority: `0`
@@ -97661,15 +97661,6 @@ Rows: 20937
 - mt: All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 - brenton: All the Nathanim, and the sons of Abdeselma were three hundred and ninety-two.
 
-## Ecclesiastes 9:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.633`
-- fresh_brenton_ratio: `0.542`
-- fresh: Come, eat your bread in gladness and drink your wine in good heart, because God already took pleasure in your works.
-- mt: Go your way, eat your bread with joy, and drink your wine with a merry heart; for God now accepts your works.
-- brenton: Go, eat thy bread with mirth, and drink thy wine with a joyful heart; for now God has favourably accepted thy works.
-
 ## Job 5:9
 - priority: `0`
 - importance: `none`
@@ -101692,6 +101683,15 @@ Rows: 20937
 - fresh: And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
 - mt: Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.
 - brenton: And there shall be a portion taken from the Levites, from the possession of the city in the midst of the princes between the borders of Juda and the borders of Benjamin, and it shall be the portion of the princes.
+
+## Ecclesiastes 9:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.645`
+- fresh_brenton_ratio: `0.555`
+- fresh: Come, eat your bread in gladness and drink your wine in a good heart, because God already took pleasure in your works.
+- mt: Go your way, eat your bread with joy, and drink your wine with a merry heart; for God now accepts your works.
+- brenton: Go, eat thy bread with mirth, and drink thy wine with a joyful heart; for now God has favourably accepted thy works.
 
 ## 2 Kings 5:2
 - priority: `0`
@@ -112430,15 +112430,6 @@ Rows: 20937
 - mt: And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 - brenton: And Og king of Basan, who dwelt in Astaroth and in Edrain, was left of the giants
 
-## Ecclesiastes 9:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.677`
-- fresh_brenton_ratio: `0.667`
-- fresh: Small city, and few men in it, and great king came against it and surrounded it and built against it great siegeworks.
-- mt: There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:
-- brenton: suppose there were a little city, and few men in it; and there should come against it a great king, and surround it, and build great mounds against it;
-
 ## Song of Solomon 3:8
 - priority: `0`
 - importance: `none`
@@ -117722,15 +117713,6 @@ Rows: 20937
 - mt: You shall also consider in yours heart, that, as a man chastens his son, so the LORD your God chastens you.
 - brenton: And thou shalt know in thine heart, that as if any man should chasten his son, so the Lord thy God will chasten thee.
 
-## Ecclesiastes 9:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.691`
-- fresh_brenton_ratio: `0.667`
-- fresh: The words of the wise in quiet are heard above cry of rulers among follies.
-- mt: The words of wise men are heard in quiet more than the cry of him that rules among fools.
-- brenton: The words of the wise are heard in quiet more than the cry of them that rule in folly.
-
 ## 1 Chronicles 29:16
 - priority: `0`
 - importance: `none`
@@ -120305,15 +120287,6 @@ Rows: 20937
 - mt: You shall not uncover the nakedness of your mother's sister: for she is your mother's near kinswoman.
 - brenton: Thou shalt not uncover the nakedness of thy mother's sister, for she is near akin to thy mother.
 
-## Ecclesiastes 9:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.698`
-- fresh_brenton_ratio: `0.574`
-- fresh: Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in the hand of God; yet love and hatred man does not know; all things before them.
-- mt: For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knows either love or hatred by all that is before them.
-- brenton: I saw that the righteous, and the wise, and their works, are in the hand of God: yea, there is no man that knows either love or hatred, though all are before their face.
-
 ## Ezekiel 43:1
 - priority: `0`
 - importance: `none`
@@ -121285,15 +121258,6 @@ Rows: 20937
 - fresh: And it came to be when Israel grew strong, it made the Canaanite subject to tribute, but in removing, it did not remove him.
 - mt: And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out.
 - brenton: And it came to pass when Israel was strong, that he made the Chananite tributary, but did not utterly drive them out.
-
-## Ecclesiastes 9:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.700`
-- fresh_brenton_ratio: `0.708`
-- fresh: Because living will know that they will die, but dead know nothing, and there is no wage for them anymore, because memory of them was forgotten.
-- mt: For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
-- brenton: For the living will know that they shall die: but the dead know nothing, and there is no longer any reward to them; for their memory is lost.
 
 ## Ezekiel 44:6
 - priority: `0`
@@ -125848,6 +125812,15 @@ Rows: 20937
 - fresh: Now Sarai Abram's wife was not bearing to him. She had an Egyptian servant-girl whose name was Hagar.
 - mt: Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 - brenton: And Sara the wife of Abram bore him no children; and she had an Egyptian maid, whose name was Agar.
+
+## Ecclesiastes 9:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.711`
+- fresh_brenton_ratio: `0.687`
+- fresh: The words of the wise in quiet are heard above the cry of rulers among follies.
+- mt: The words of wise men are heard in quiet more than the cry of him that rules among fools.
+- brenton: The words of the wise are heard in quiet more than the cry of them that rule in folly.
 
 ## 2 Chronicles 1:5
 - priority: `0`
@@ -131465,6 +131438,15 @@ Rows: 20937
 - mt: And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 - brenton: And there shall be a great cry through all the land of Egypt, such as has not been, and such shall not be repeated any more.
 
+## Ecclesiastes 9:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.727`
+- fresh: Because the living will know that they will die, but the dead know nothing, and there is no wage for them anymore, because the memory of them was forgotten.
+- mt: For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
+- brenton: For the living will know that they shall die: but the dead know nothing, and there is no longer any reward to them; for their memory is lost.
+
 ## Proverbs 1:15
 - priority: `0`
 - importance: `none`
@@ -132310,6 +132292,15 @@ Rows: 20937
 - fresh: Who knows a wise man, and who knows the explanation of a word? The wisdom of a man gives light to his face, and the hardness of his face will be hated.
 - mt: Who is as the wise man? and who knows the interpretation of a thing? a man's wisdom makes his face to shine, and the boldness of his face shall be changed.
 - brenton: A man's wisdom will lighten his countenance; but a man of shameless countenance will be hated.
+
+## Ecclesiastes 9:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.727`
+- fresh_brenton_ratio: `0.617`
+- fresh: Because with all this I gave into my heart, and my heart saw all this: the righteous and the wise and their works are in the hand of God; yet love and hatred a man does not know; all things are before them.
+- mt: For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knows either love or hatred by all that is before them.
+- brenton: I saw that the righteous, and the wise, and their works, are in the hand of God: yea, there is no man that knows either love or hatred, though all are before their face.
 
 ## Judges 19:29
 - priority: `0`
@@ -136603,15 +136594,6 @@ Rows: 20937
 - fresh: And I adorned you with jewelry and put bracelets on your hands and a necklace around your neck.
 - mt: I decked you also with ornaments, and I put bracelets upon your hands, and a chain on your neck.
 - brenton: and decked thee also with ornaments, and put bracelets on thine hands, and a necklace on thy neck.
-
-## Ecclesiastes 9:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.738`
-- fresh_brenton_ratio: `0.734`
-- fresh: Because for whoever joins with all the living there is hope, because living dog better than dead lion.
-- mt: In order to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
-- brenton: For who is he that has fellowship with all the living? there is hope of him: for a living dog is better than a dead lion.
 
 ## Ezekiel 22:14
 - priority: `0`
@@ -149276,6 +149258,15 @@ Rows: 20937
 - mt: And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
 - brenton: And they tore down the pillars of Baal, and made his house a draught-house until this day.
 
+## Ecclesiastes 9:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.717`
+- fresh: A small city, and few men in it, and a great king came against it and surrounded it and built great siegeworks against it.
+- mt: There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:
+- brenton: suppose there were a little city, and few men in it; and there should come against it a great king, and surround it, and build great mounds against it;
+
 ## Jeremiah 18:2
 - priority: `0`
 - importance: `none`
@@ -149734,6 +149725,15 @@ Rows: 20937
 - fresh: And the Lord was with him. In all that he did, he prospered. And he rebelled against the king of the Assyrians and did not serve him.
 - mt: And the LORD was with him; and he prospered anywhere he went forth: and he rebelled against the king of Assyria, and served him not.
 - brenton: And the Lord was with him; and he was wise in all that he undertook: and he revolted from the king of the Assyrians, and served him not.
+
+## Ecclesiastes 9:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.770`
+- fresh_brenton_ratio: `0.764`
+- fresh: Because for whoever joins with all the living there is hope, because a living dog is better than a dead lion.
+- mt: In order to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
+- brenton: For who is he that has fellowship with all the living? there is hope of him: for a living dog is better than a dead lion.
 
 ## Deuteronomy 26:16
 - priority: `0`

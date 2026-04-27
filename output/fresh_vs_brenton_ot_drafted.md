@@ -155945,46 +155945,46 @@ Note:
 ### Ecclesiastes 9:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in the hand of God; yet love and hatred man does not know; all things before them.
+- fresh: Because with all this I gave into my heart, and my heart saw all this: the righteous and the wise and their works are in the hand of God; yet love and hatred a man does not know; all things are before them.
 - brenton: I saw that the righteous, and the wise, and their works, are in the hand of God: yea, there is no man that knows either love or hatred, though all are before their face.
 
 ### Ecclesiastes 9:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vanity in all things: one meeting for righteous and ungodly, for good and evil, for clean and unclean, for one sacrificing and one not sacrificing; as good one, so sinner; as one swearing, so one fearing oath.
+- fresh: Vanity is in all things: one meeting is for the righteous and the ungodly, for the good and the evil, for the clean and the unclean, for the one sacrificing and the one not sacrificing; as the good one, so the sinner; as the one swearing, so the one fearing an oath.
 - brenton: Vanity is in all: there is one event to the righteous, and to the wicked; to the good, and to the bad; both to the pure, and to the impure; both to him that sacrifices, and to him that sacrifices not: as is the good, so is the sinner: as is the swearer, even so is he that fears an oath.
 
 ### Ecclesiastes 9:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This evil in all done under the sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them is to the dead.
+- fresh: This is evil in all done under the sun: one meeting is in all, and indeed the heart of the sons of man was filled with evil, and madness is in their heart during their life, and after them is to the dead.
 - brenton: There is this evil in all that is done under the sun, that there is one event to all: yea, the heart of the sons of men is filled with evil, and madness is in their heart during their life, and after that they go to the dead.
 
 ### Ecclesiastes 9:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because for whoever joins with all the living there is hope, because living dog better than dead lion.
+- fresh: Because for whoever joins with all the living there is hope, because a living dog is better than a dead lion.
 - brenton: For who is he that has fellowship with all the living? there is hope of him: for a living dog is better than a dead lion.
 
 ### Ecclesiastes 9:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because living will know that they will die, but dead know nothing, and there is no wage for them anymore, because memory of them was forgotten.
+- fresh: Because the living will know that they will die, but the dead know nothing, and there is no wage for them anymore, because the memory of them was forgotten.
 - brenton: For the living will know that they shall die: but the dead know nothing, and there is no longer any reward to them; for their memory is lost.
 
 ### Ecclesiastes 9:6
@@ -155999,10 +155999,10 @@ Note:
 ### Ecclesiastes 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come, eat your bread in gladness and drink your wine in good heart, because God already took pleasure in your works.
+- fresh: Come, eat your bread in gladness and drink your wine in a good heart, because God already took pleasure in your works.
 - brenton: Go, eat thy bread with mirth, and drink thy wine with a joyful heart; for now God has favourably accepted thy works.
 
 ### Ecclesiastes 9:8
@@ -156017,10 +156017,10 @@ Note:
 ### Ecclesiastes 9:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See life with woman whom you loved all days of your life of vanity, those given to you under the sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under the sun.
+- fresh: See life with a woman whom you loved all the days of your life of vanity, those given to you under the sun, all the days of your vanity, because this is your portion in your life and in your toil with which you toil under the sun.
 - brenton: And see life with the wife whom thou lovest all the days of the life of thy vanity, which are given thee under the sun: for that is thy portion in thy life, and in thy labour wherein thou labourest under the sun.
 
 ### Ecclesiastes 9:10
@@ -156035,19 +156035,19 @@ Note:
 ### Ecclesiastes 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I turned and saw under the sun that the race is not to the swift, nor war to the strong, and indeed not bread to the wise, and indeed not wealth to those with understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
+- fresh: I turned and saw under the sun that the race is not to the swift, nor is war to the strong, and indeed neither is bread to the wise, and indeed neither is wealth to those with understanding, and indeed neither is favor to those knowing, because time and encounter will meet them all.
 - brenton: I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, nor yet bread to the wise, nor yet wealth to men of understanding, nor yet favour to men of knowledge; for time and chance will happen to them all.
 
 ### Ecclesiastes 9:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because indeed man did not know his time: as fish caught in evil net and as birds caught in snare, as they are trapped, so sons of man are trapped for evil time when it falls upon them suddenly.
+- fresh: Because indeed a man did not know his time: as fish caught in an evil net and as birds caught in a snare, as they are trapped, so the sons of man are trapped for an evil time when it falls upon them suddenly.
 - brenton: For surely man also knows not his time: as fishes that are taken in an evil net, and as birds that are caught in a snare; even thus the sons of men are snared at an evil time, when it falls suddenly upon them.
 
 ### Ecclesiastes 9:13
@@ -156062,10 +156062,10 @@ Note:
 ### Ecclesiastes 9:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Small city, and few men in it, and great king came against it and surrounded it and built against it great siegeworks.
+- fresh: A small city, and few men in it, and a great king came against it and surrounded it and built great siegeworks against it.
 - brenton: suppose there were a little city, and few men in it; and there should come against it a great king, and surround it, and build great mounds against it;
 
 ### Ecclesiastes 9:15
@@ -156089,10 +156089,10 @@ Note:
 ### Ecclesiastes 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The words of the wise in quiet are heard above cry of rulers among follies.
+- fresh: The words of the wise in quiet are heard above the cry of rulers among follies.
 - brenton: The words of the wise are heard in quiet more than the cry of them that rule in folly.
 
 ### Ecclesiastes 9:18

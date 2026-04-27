@@ -70662,23 +70662,23 @@ And I saw all the works of God, that man will not be able to find out the work d
 
 **Ecclesiastes 9:1**
 
-Because with all this I gave into my heart, and my heart saw all this: righteous and wise and their works in the hand of God; yet love and hatred man does not know; all things before them.
+Because with all this I gave into my heart, and my heart saw all this: the righteous and the wise and their works are in the hand of God; yet love and hatred a man does not know; all things are before them.
 
 **Ecclesiastes 9:2**
 
-Vanity in all things: one meeting for righteous and ungodly, for good and evil, for clean and unclean, for one sacrificing and one not sacrificing; as good one, so sinner; as one swearing, so one fearing oath.
+Vanity is in all things: one meeting is for the righteous and the ungodly, for the good and the evil, for the clean and the unclean, for the one sacrificing and the one not sacrificing; as the good one, so the sinner; as the one swearing, so the one fearing an oath.
 
 **Ecclesiastes 9:3**
 
-This evil in all done under the sun: one meeting in all, and indeed heart of sons of man filled with evil and madness in their heart during their life, and after them is to the dead.
+This is evil in all done under the sun: one meeting is in all, and indeed the heart of the sons of man was filled with evil, and madness is in their heart during their life, and after them is to the dead.
 
 **Ecclesiastes 9:4**
 
-Because for whoever joins with all the living there is hope, because living dog better than dead lion.
+Because for whoever joins with all the living there is hope, because a living dog is better than a dead lion.
 
 **Ecclesiastes 9:5**
 
-Because living will know that they will die, but dead know nothing, and there is no wage for them anymore, because memory of them was forgotten.
+Because the living will know that they will die, but the dead know nothing, and there is no wage for them anymore, because the memory of them was forgotten.
 
 **Ecclesiastes 9:6**
 
@@ -70686,7 +70686,7 @@ And indeed their love and indeed their hatred and indeed their zeal already peri
 
 **Ecclesiastes 9:7**
 
-Come, eat your bread in gladness and drink your wine in good heart, because God already took pleasure in your works.
+Come, eat your bread in gladness and drink your wine in a good heart, because God already took pleasure in your works.
 
 **Ecclesiastes 9:8**
 
@@ -70694,7 +70694,7 @@ At every time let your garments be white, and let oil on your head not fail.
 
 **Ecclesiastes 9:9**
 
-See life with woman whom you loved all days of your life of vanity, those given to you under the sun, all days of your vanity, because this your portion in your life and in your toil with which you toil under the sun.
+See life with a woman whom you loved all the days of your life of vanity, those given to you under the sun, all the days of your vanity, because this is your portion in your life and in your toil with which you toil under the sun.
 
 **Ecclesiastes 9:10**
 
@@ -70702,11 +70702,11 @@ All that your hand finds to do, do by your strength, because there is no work an
 
 **Ecclesiastes 9:11**
 
-I turned and saw under the sun that the race is not to the swift, nor war to the strong, and indeed not bread to the wise, and indeed not wealth to those with understanding, and indeed not favor to those knowing, because time and encounter will meet them all.
+I turned and saw under the sun that the race is not to the swift, nor is war to the strong, and indeed neither is bread to the wise, and indeed neither is wealth to those with understanding, and indeed neither is favor to those knowing, because time and encounter will meet them all.
 
 **Ecclesiastes 9:12**
 
-Because indeed man did not know his time: as fish caught in evil net and as birds caught in snare, as they are trapped, so sons of man are trapped for evil time when it falls upon them suddenly.
+Because indeed a man did not know his time: as fish caught in an evil net and as birds caught in a snare, as they are trapped, so the sons of man are trapped for an evil time when it falls upon them suddenly.
 
 **Ecclesiastes 9:13**
 
@@ -70714,7 +70714,7 @@ And this too I saw as wisdom under the sun, and it is great to me.
 
 **Ecclesiastes 9:14**
 
-Small city, and few men in it, and great king came against it and surrounded it and built against it great siegeworks.
+A small city, and few men in it, and a great king came against it and surrounded it and built great siegeworks against it.
 
 **Ecclesiastes 9:15**
 
@@ -70726,7 +70726,7 @@ And I said wisdom is good above strength, yet the wisdom of the poor man is desp
 
 **Ecclesiastes 9:17**
 
-The words of the wise in quiet are heard above cry of rulers among follies.
+The words of the wise in quiet are heard above the cry of rulers among follies.
 
 **Ecclesiastes 9:18**
 
