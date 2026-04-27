@@ -1532,15 +1532,6 @@ Rows: 723
 - mt: And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.
 - brenton: And Samuel said, Does the Lord take pleasure in whole-burnt-offerings and sacrifices, as in hearing the words of the Lord? behold, obedience is better than a good sacrifice, and hearkening than the fat of rams.
 
-## Zechariah 1:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.795`
-- fresh_brenton_ratio: `0.422`
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
-- mt: So the angel that communed with me said unto me, Cry you, saying, Thus says the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
-- brenton: And the angel that spoke with me said to me, Cry out and say,
-
 ## Exodus 16:4
 - priority: `0`
 - importance: `none`
@@ -1639,6 +1630,15 @@ Rows: 723
 - fresh: And the Spirit of the Lord rushed upon him, and he tore it apart as one tears apart a kid of the goats, and there was nothing in his hand. And he did not report to his father or his mother what he had done.
 - mt: And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
 - brenton: And the Spirit of the Lord came powerfully upon him, and he crushed him as he would have crushed a kid of the goats, and there was nothing in his hands: and he told not his father and his mother what he had done.
+
+## Zechariah 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.832`
+- fresh_brenton_ratio: `0.486`
+- fresh: And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
+- mt: So the angel that communed with me said unto me, Cry you, saying, Thus says the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
+- brenton: And the angel that spoke with me said to me, Cry out and say,
 
 ## Ezra 8:34
 - priority: `0`

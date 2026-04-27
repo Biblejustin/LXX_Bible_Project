@@ -96277,10 +96277,10 @@ Note:
 ### 1 Chronicles 17:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from fold, from behind sheep, to be ruler over my people Israel.
+- fresh: And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from the fold, from behind the sheep, to be ruler over my people Israel.
 - brenton: And now thus shalt thou say to my servant David, Thus saith the Lord Almighty, I took thee from the sheepfold, from following the flocks, to be a ruler over my people Israel:
 
 ### 1 Chronicles 17:8
@@ -130165,10 +130165,10 @@ Note:
 ### Psalms 46:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord Most High fearful, great king over all the earth.
+- fresh: Because the Lord Most High is fearsome, a great king over all the earth.
 - brenton: For the Lord most high is terrible; he is a great king over all the earth.
 
 ### Psalms 46:4
@@ -201581,10 +201581,10 @@ Note:
 ### Micah 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because mouth of the Lord Almighty spoke these things.
+- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because the mouth of the Lord Almighty spoke these things.
 - brenton: And every one shall rest under his vine, and every one under his fig-tree; and there shall be none to alarm them: for the mouth of the Lord Almighty has spoken these words.
 
 ### Micah 4:5
@@ -203662,7 +203662,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
+- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 - brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ### Haggai 1:15
@@ -203958,10 +203958,10 @@ Note:
 ### Zechariah 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, What are these, lord? And angel speaking in me said to me, I will show you what these are.
+- fresh: And I said, What are these, lord? And the angel speaking with me said to me, I will show you what these are.
 - brenton: And I said, What are these, my lord? And the angel that spoke with me said to me, I will shew thee what these things are.
 
 ### Zechariah 1:10
@@ -203994,19 +203994,19 @@ Note:
 ### Zechariah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord Almighty answered angel speaking in me with good words and consoling sayings.
+- fresh: And the Lord Almighty answered the angel speaking with me with good words and consoling sayings.
 - brenton: And the Lord Almighty answered the angel that spoke with me good words and consolatory sayings.
 
 ### Zechariah 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
+- fresh: And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
 - brenton: And the angel that spoke with me said to me, Cry out and say,
 
 ### Zechariah 1:15
@@ -204048,10 +204048,10 @@ Note:
 ### Zechariah 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to angel speaking in me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
+- fresh: And I said to the angel speaking with me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
 - brenton: And I said to the angel that spoke with me, What are these things, my lord? And he said to me, These are the horns that have scattered Juda, and Israel, and Jerusalem.
 
 ### Zechariah 2:3
@@ -204093,10 +204093,10 @@ Note:
 ### Zechariah 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, angel speaking in me stood, and another angel went out to meet him,
+- fresh: And behold, the angel speaking with me stood, and another angel went out to meet him,
 - brenton: And, behold, the angel that spoke with me stood by, and another angel went forth to meet him,
 
 ### Zechariah 2:8
@@ -204138,10 +204138,10 @@ Note:
 ### Zechariah 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching pupil of his eye.
+- fresh: Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching the pupil of his eye.
 - brenton: For thus saith the Lord Almighty; After the glory has he sent me to the nations that spoiled you: for he that touches you is as one that touches the apple of his eye.
 
 ### Zechariah 2:13
@@ -204282,10 +204282,10 @@ Note:
 ### Zechariah 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me returned and woke me, like when a man is wakened from sleep.
+- fresh: And the angel speaking with me returned and woke me, like when a man is wakened from sleep.
 - brenton: And the angel that talked with me returned, and awakened me, as when a man is awakened out of his sleep.
 
 ### Zechariah 4:2
@@ -204309,19 +204309,19 @@ Note:
 ### Zechariah 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I asked and said to angel speaking in me, What are these, lord?
+- fresh: And I asked and said to the angel speaking with me, What are these, lord?
 - brenton: And I inquired, and spoke to the angel that talked with me, saying, What are these things, my lord?
 
 ### Zechariah 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me answered and said to me, Do you not know what these are? And I said, No, lord.
+- fresh: And the angel speaking with me answered and said to me, Do you not know what these are? And I said, No, lord.
 - brenton: And the angel that talked with me answered, and spoke to me, saying, Knowest thou not what these things are? And I said, No, my lord.
 
 ### Zechariah 4:6
@@ -204444,10 +204444,10 @@ Note:
 ### Zechariah 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me went out and said to me, Lift up your eyes and see what this thing is that goes out.
+- fresh: And the angel speaking with me went out and said to me, Lift up your eyes and see what this thing is that goes out.
 - brenton: And the angel that talked with me went forth, and said to me, Lift up thine eyes, and see this that goes forth.
 
 ### Zechariah 5:6
@@ -204489,10 +204489,10 @@ Note:
 ### Zechariah 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to angel speaking in me, Where are they carrying measure?
+- fresh: And I said to the angel speaking with me, Where are they carrying the measure?
 - brenton: And I said to the angel that spoke with me, Whither do these carry away the measure?
 
 ### Zechariah 5:11
@@ -204534,19 +204534,19 @@ Note:
 ### Zechariah 6:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I answered and said to angel speaking in me, What are these, lord?
+- fresh: And I answered and said to the angel speaking with me, What are these, lord?
 - brenton: And I answered and said to the angel that talked with me, What are these, my lord?
 
 ### Zechariah 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking in me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
+- fresh: And the angel speaking with me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
 - brenton: And the angel that talked with me answered and said, These are the four winds of heaven, and they are going forth to stand before the Lord of all the earth.
 
 ### Zechariah 6:6

@@ -2556,6 +2556,15 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the king stood at his station" in by_ref["2 Chronicles 23:13"]["draft_translation"]
     assert "through the horse gate" in by_ref["2 Chronicles 23:15"]["draft_translation"]
     assert "take the scroll" in by_ref["Jeremiah 43:21"]["draft_translation"]
+    assert "from the fold, from behind the sheep" in by_ref["1 Chronicles 17:7"]["draft_translation"]
+    assert by_ref["Psalms 46:3"]["draft_translation"].startswith("Because the Lord Most High is fearsome")
+    assert "because the mouth of the Lord Almighty spoke these things" in by_ref["Micah 4:4"]["draft_translation"]
+    assert "the spirit of the remnant of all the people" in by_ref["Haggai 1:14"]["draft_translation"]
+    assert "the angel speaking with me" in by_ref["Zechariah 1:9"]["draft_translation"]
+    assert "the angel speaking with me" in by_ref["Zechariah 1:13"]["draft_translation"]
+    assert "the angel speaking with me" in by_ref["Zechariah 6:5"]["draft_translation"]
+    assert "touching the pupil of his eye" in by_ref["Zechariah 2:12"]["draft_translation"]
+    assert "carrying the measure" in by_ref["Zechariah 5:10"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

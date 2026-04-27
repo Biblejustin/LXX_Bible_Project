@@ -509,9 +509,9 @@ Rows: 20939
 ## Haggai 1:14
 - priority: `21`
 - importance: `high`
-- fresh_mt_ratio: `0.109`
-- fresh_brenton_ratio: `0.090`
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
+- fresh_mt_ratio: `0.108`
+- fresh_brenton_ratio: `0.089`
+- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 - mt: And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,
 - brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
@@ -31934,6 +31934,15 @@ Rows: 20939
 - mt: I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
 - brenton: But I the Lord thy God brought thee up out of the land of Egypt: I will yet cause thee to dwell in tabernacles, according to the days of the feast.
 
+## Zechariah 2:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.268`
+- fresh_brenton_ratio: `0.737`
+- fresh: Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching the pupil of his eye.
+- mt: And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.
+- brenton: For thus saith the Lord Almighty; After the glory has he sent me to the nations that spoiled you: for he that touches you is as one that touches the apple of his eye.
+
 ## Psalms 80:16
 - priority: `0`
 - importance: `none`
@@ -32545,15 +32554,6 @@ Rows: 20939
 - fresh: And the enchanters did likewise with their sorceries, trying to bring out the gnat, and they were not able, and the gnats were on the human beings and on the four-footed animals.
 - mt: And they gathered them together upon heaps: and the land stank.
 - brenton: And the charmers also did so with their sorceries, to bring forth the louse, and they could not. And the lice were both on the men and on the quadrupeds.
-
-## Zechariah 2:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.272`
-- fresh_brenton_ratio: `0.721`
-- fresh: Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching pupil of his eye.
-- mt: And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.
-- brenton: For thus saith the Lord Almighty; After the glory has he sent me to the nations that spoiled you: for he that touches you is as one that touches the apple of his eye.
 
 ## Proverbs 25:26
 - priority: `0`
@@ -33463,6 +33463,15 @@ Rows: 20939
 - fresh: When he burned Mesopotamia of Syria and Syria of Zobah, and Joab returned and struck valley of salt, twelve thousand.
 - mt: Deliver me from the workers of iniquity, and save me from bloody men.
 - brenton: when he had burned Mesopotamia of Syria, and Syria Sobal, and Joab had returned and smitten in the valley of salt twelve thousand.
+
+## Zechariah 2:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.276`
+- fresh_brenton_ratio: `0.889`
+- fresh: And behold, the angel speaking with me stood, and another angel went out to meet him,
+- mt: Deliver yourself, O Zion, that dwell with the daughter of Babylon.
+- brenton: And, behold, the angel that spoke with me stood by, and another angel went forth to meet him,
 
 ## Leviticus 20:24
 - priority: `0`
@@ -35138,6 +35147,15 @@ Rows: 20939
 - mt: And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place.
 - brenton: And the king said, Let Chamaam go over with me, and I will do to him what is good in my sight; and whatsoever thou shalt choose at my hand, I will do for thee.
 
+## Psalms 46:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.286`
+- fresh_brenton_ratio: `0.817`
+- fresh: Because the Lord Most High is fearsome, a great king over all the earth.
+- mt: Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.
+- brenton: For the Lord most high is terrible; he is a great king over all the earth.
+
 ## 1 Chronicles 12:10
 - priority: `0`
 - importance: `none`
@@ -35461,15 +35479,6 @@ Rows: 20939
 - fresh: But by mouths of ungodly it was torn down.
 - mt: By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
 - brenton: but by the mouths of ungodly men it is overthrown.
-
-## Zechariah 2:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.288`
-- fresh_brenton_ratio: `0.824`
-- fresh: And behold, angel speaking in me stood, and another angel went out to meet him,
-- mt: Deliver yourself, O Zion, that dwell with the daughter of Babylon.
-- brenton: And, behold, the angel that spoke with me stood by, and another angel went forth to meet him,
 
 ## Psalms 80:14
 - priority: `0`
@@ -39277,15 +39286,6 @@ Rows: 20939
 - fresh: Lord, you brought up my soul from Hades; you saved me from those going down into pit.
 - mt: The voice of the LORD is powerful; the voice of the LORD is full of majesty.
 - brenton: O Lord, thou hast brought up my soul from Hades, thou hast delivered me from among them that go down to the pit.
-
-## Psalms 46:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.308`
-- fresh_brenton_ratio: `0.765`
-- fresh: Because the Lord Most High fearful, great king over all the earth.
-- mt: Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.
-- brenton: For the Lord most high is terrible; he is a great king over all the earth.
 
 ## Psalms 108:2
 - priority: `0`
@@ -65477,6 +65477,15 @@ Rows: 20939
 - mt: But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, All of you have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia has commanded us.
 - brenton: Then Zorobabel, and Jesus and the rest of the heads of the families of Israel said to them, It is not for us and you to build a house to our God, for we ourselves will build together to the Lord our God, as Cyrus the king of the Persians commanded us.
 
+## Zechariah 2:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.482`
+- fresh_brenton_ratio: `0.839`
+- fresh: And I said to the angel speaking with me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
+- mt: Then said I, Where go you? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.
+- brenton: And I said to the angel that spoke with me, What are these things, my lord? And he said to me, These are the horns that have scattered Juda, and Israel, and Jerusalem.
+
 ## Isaiah 24:14
 - priority: `0`
 - importance: `none`
@@ -67348,15 +67357,6 @@ Rows: 20939
 - fresh: And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
 - mt: Now because we have maintenance from the king's palace, and it was not meet for us to see the king's dishonour, therefore have we sent and certified the king;
 - brenton: And it is not lawful for us to see the dishonour of the king: therefore have we sent and made known the matter to the king;
-
-## Zechariah 2:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.494`
-- fresh_brenton_ratio: `0.800`
-- fresh: And I said to angel speaking in me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
-- mt: Then said I, Where go you? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.
-- brenton: And I said to the angel that spoke with me, What are these things, my lord? And he said to me, These are the horns that have scattered Juda, and Israel, and Jerusalem.
 
 ## Joshua 15:45
 - priority: `0`
@@ -75584,15 +75584,6 @@ Rows: 20939
 - mt: Seven days shall they purge the altar and purify it; and they shall consecrate themselves.
 - brenton: and they shall make atonement for the altar, and shall purge it; and they shall consecrate themselves.
 
-## Zechariah 5:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.543`
-- fresh_brenton_ratio: `0.689`
-- fresh: And I said to angel speaking in me, Where are they carrying measure?
-- mt: Then said I to the angel that talked with me, Where do these bear the ephah?
-- brenton: And I said to the angel that spoke with me, Whither do these carry away the measure?
-
 ## 2 Chronicles 4:2
 - priority: `0`
 - importance: `none`
@@ -82343,15 +82334,6 @@ Rows: 20939
 - mt: And the vessel that he made of clay was ruined in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it.
 - brenton: And the vessel which he was making with his hands fell: so he made it again another vessel, as it seemed good to him to make it.
 
-## Micah 4:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.575`
-- fresh_brenton_ratio: `0.750`
-- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because mouth of the Lord Almighty spoke these things.
-- mt: But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts has spoken it.
-- brenton: And every one shall rest under his vine, and every one under his fig-tree; and there shall be none to alarm them: for the mouth of the Lord Almighty has spoken these words.
-
 ## Job 42:16
 - priority: `0`
 - importance: `none`
@@ -85240,6 +85222,15 @@ Rows: 20939
 - fresh: Who will spare you, Jerusalem? And who will be timid over you? Or who will turn back for your peace?
 - mt: For who shall have pity upon you, O Jerusalem? or who shall lament for you? or who shall go aside to ask how you do?
 - brenton: Who will spare thee, O Jerusalem? and who will fear for thee? or who will turn back to ask for thy welfare?
+
+## Micah 4:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.587`
+- fresh_brenton_ratio: `0.753`
+- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because the mouth of the Lord Almighty spoke these things.
+- mt: But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts has spoken it.
+- brenton: And every one shall rest under his vine, and every one under his fig-tree; and there shall be none to alarm them: for the mouth of the Lord Almighty has spoken these words.
 
 ## 1 Chronicles 15:13
 - priority: `0`
@@ -89533,15 +89524,6 @@ Rows: 20939
 - fresh: And you will eat them as barley cake. With fuel of human dung you will bake them before their eyes.
 - mt: And you shall eat it as barley cakes, and you shall bake it with dung that comes out of man, in their sight.
 - brenton: And thou shalt eat them as a barley cake: thou shalt bake them before their eyes in man's dung.
-
-## Zechariah 4:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.604`
-- fresh_brenton_ratio: `0.717`
-- fresh: And angel speaking in me returned and woke me, like when a man is wakened from sleep.
-- mt: And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.
-- brenton: And the angel that talked with me returned, and awakened me, as when a man is awakened out of his sleep.
 
 ## Ecclesiastes 4:10
 - priority: `0`
@@ -100208,15 +100190,6 @@ Rows: 20939
 - mt: You have consulted shame to your house by cutting off many people, and have sinned against your soul.
 - brenton: Thou hast devised shame to thy house, thou hast utterly destroyed many nations, and thy soul has sinned.
 
-## Zechariah 4:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.640`
-- fresh_brenton_ratio: `0.620`
-- fresh: And I asked and said to angel speaking in me, What are these, lord?
-- mt: So I answered and spoke to the angel that talked with me, saying, What are these, my lord?
-- brenton: And I inquired, and spoke to the angel that talked with me, saying, What are these things, my lord?
-
 ## Proverbs 31:16
 - priority: `0`
 - importance: `none`
@@ -100432,15 +100405,6 @@ Rows: 20939
 - fresh: And the Lord God said, 'It is not good for the human to be alone. Let us make for him a helper corresponding to him.'
 - mt: And the LORD God said, It is not good that the man should be alone; I will make him an associated helper for him.
 - brenton: And the Lord God said, It is not good that the man should be alone, let us make for him a help suitable to him.
-
-## Zechariah 1:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.640`
-- fresh_brenton_ratio: `0.831`
-- fresh: And the Lord Almighty answered angel speaking in me with good words and consoling sayings.
-- mt: And the LORD answered the angel that talked with me with good words and comfortable words.
-- brenton: And the Lord Almighty answered the angel that spoke with me good words and consolatory sayings.
 
 ## Numbers 2:5
 - priority: `0`
@@ -109289,6 +109253,15 @@ Rows: 20939
 - mt: The floor and the winepress shall not feed them, and the new wine shall fail in her.
 - brenton: The threshing-floor and wine-press knew them not, and the wine disappointed them.
 
+## Zechariah 5:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.797`
+- fresh: And I said to the angel speaking with me, Where are they carrying the measure?
+- mt: Then said I to the angel that talked with me, Where do these bear the ephah?
+- brenton: And I said to the angel that spoke with me, Whither do these carry away the measure?
+
 ## 1 Samuel 25:12
 - priority: `0`
 - importance: `none`
@@ -110134,6 +110107,15 @@ Rows: 20939
 - fresh: Now then take your gear, both quiver and bow, and go out into the plain and hunt game for me,
 - mt: Now therefore take, I pray you, your weapons, your quiver and your bow, and go out to the field, and take me some venison;
 - brenton: Now then take thy weapons, both thy quiver and thy bow, and go into the plain, and get me venison,
+
+## Zechariah 4:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.670`
+- fresh_brenton_ratio: `0.779`
+- fresh: And the angel speaking with me returned and woke me, like when a man is wakened from sleep.
+- mt: And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.
+- brenton: And the angel that talked with me returned, and awakened me, as when a man is awakened out of his sleep.
 
 ## Genesis 39:21
 - priority: `0`
@@ -124616,6 +124598,15 @@ Rows: 20939
 - mt: One generation passes away, and another generation comes: but the earth abides for ever.
 - brenton: A generation goes, and a generation comes: but the earth stands for ever.
 
+## Zechariah 1:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.868`
+- fresh: And the Lord Almighty answered the angel speaking with me with good words and consoling sayings.
+- mt: And the LORD answered the angel that talked with me with good words and comfortable words.
+- brenton: And the Lord Almighty answered the angel that spoke with me good words and consolatory sayings.
+
 ## 2 Kings 17:23
 - priority: `0`
 - importance: `none`
@@ -128782,6 +128773,15 @@ Rows: 20939
 - fresh: and places pretextual words against her and brings an evil name upon her and says, I took this woman, and after going in to her I did not find her virginity,
 - mt: And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:
 - brenton: and attach to her reproachful words, and bring against her an evil name, and say, I took this woman, and when I came to her I found not her tokens of virginity:
+
+## Zechariah 4:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.718`
+- fresh_brenton_ratio: `0.695`
+- fresh: And I asked and said to the angel speaking with me, What are these, lord?
+- mt: So I answered and spoke to the angel that talked with me, saying, What are these, my lord?
+- brenton: And I inquired, and spoke to the angel that talked with me, saying, What are these things, my lord?
 
 ## Deuteronomy 18:1
 - priority: `0`
@@ -134920,15 +134920,6 @@ Rows: 20939
 - fresh: And I said to you, I am the Lord your God. You shall not fear the gods of the Amorite among whom you dwell in their land, and you did not listen to my voice.
 - mt: And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land all of you dwell: but all of you have not obeyed my voice.
 - brenton: And I said to you, I am the Lord your God: ye shall not fear the gods of the Amorites, in whose land ye dwell; but ye hearkened not to my voice.
-
-## Zechariah 1:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.733`
-- fresh_brenton_ratio: `0.808`
-- fresh: And I said, What are these, lord? And angel speaking in me said to me, I will show you what these are.
-- mt: Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will show you what these be.
-- brenton: And I said, What are these, my lord? And the angel that spoke with me said to me, I will shew thee what these things are.
 
 ## Exodus 7:24
 - priority: `0`
@@ -141950,15 +141941,6 @@ Rows: 20939
 - mt: And it came to pass, when Baasha heard thereof, that he left off building of Ramah, and dwelt in Tirzah.
 - brenton: And it came to pass when Baasa heard it, that he left off building Rama, and returned to Thersa.
 
-## 1 Chronicles 17:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.750`
-- fresh_brenton_ratio: `0.823`
-- fresh: And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from fold, from behind sheep, to be ruler over my people Israel.
-- mt: Now therefore thus shall you say unto my servant David, Thus says the LORD of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
-- brenton: And now thus shalt thou say to my servant David, Thus saith the Lord Almighty, I took thee from the sheepfold, from following the flocks, to be a ruler over my people Israel:
-
 ## 2 Kings 4:7
 - priority: `0`
 - importance: `none`
@@ -142642,15 +142624,6 @@ Rows: 20939
 - fresh: And cheroubim were spreading out their wings over the place of the ark, and cheroubim were covering the ark and its carrying-poles above.
 - mt: For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 - brenton: And the cherubs stretched out their wings over the place of the ark, and the cherubs covered the ark, and its staves above.
-
-## Zechariah 6:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.795`
-- fresh: And I answered and said to angel speaking in me, What are these, lord?
-- mt: Then I answered and said unto the angel that talked with me, What are these, my lord?
-- brenton: And I answered and said to the angel that talked with me, What are these, my lord?
 
 ## Leviticus 1:11
 - priority: `0`
@@ -146468,15 +146441,6 @@ Rows: 20939
 - mt: And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.
 - brenton: So David arose, and the six hundred men that were with him, and he went to Anchus, son of Ammach, king of Geth.
 
-## Zechariah 6:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.761`
-- fresh_brenton_ratio: `0.827`
-- fresh: And angel speaking in me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
-- mt: And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth.
-- brenton: And the angel that talked with me answered and said, These are the four winds of heaven, and they are going forth to stand before the Lord of all the earth.
-
 ## Genesis 26:27
 - priority: `0`
 - importance: `none`
@@ -147070,15 +147034,6 @@ Rows: 20939
 - fresh: And the sons of Ammon went out and arrayed for war by the entrance of the gate, and Syria of Zobah and Rehob and Ishtob and Maachah were alone in the field.
 - mt: And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, were by themselves in the field.
 - brenton: And the children of Ammon went forth, and set the battle in array by the door of the gate: those of Syria, Suba, and Roob, and Istob, and Amalec, being by themselves in the field.
-
-## Zechariah 4:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.763`
-- fresh_brenton_ratio: `0.705`
-- fresh: And angel speaking in me answered and said to me, Do you not know what these are? And I said, No, lord.
-- mt: Then the angel that talked with me answered and said unto me, Know you not what these be? And I said, No, my lord.
-- brenton: And the angel that talked with me answered, and spoke to me, saying, Knowest thou not what these things are? And I said, No, my lord.
 
 ## Numbers 10:17
 - priority: `0`
@@ -149429,15 +149384,6 @@ Rows: 20939
 - mt: If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;
 - brenton: And if any one should find a young virgin who has not been betrothed, and should force her and lie with her, and be found,
 
-## Zechariah 5:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.769`
-- fresh_brenton_ratio: `0.729`
-- fresh: And angel speaking in me went out and said to me, Lift up your eyes and see what this thing is that goes out.
-- mt: Then the angel that talked with me went forth, and said unto me, Lift up now yours eyes, and see what is this that goes forth.
-- brenton: And the angel that talked with me went forth, and said to me, Lift up thine eyes, and see this that goes forth.
-
 ## Jeremiah 23:21
 - priority: `0`
 - importance: `none`
@@ -151544,6 +151490,15 @@ Rows: 20939
 - mt: And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
 - brenton: And they said to him, We have seen a dream, and there is no interpreter of it. And Joseph said to them, Is not the interpretation of them through God? tell them then to me.
 
+## Zechariah 6:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.774`
+- fresh_brenton_ratio: `0.866`
+- fresh: And the angel speaking with me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
+- mt: And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the LORD of all the earth.
+- brenton: And the angel that talked with me answered and said, These are the four winds of heaven, and they are going forth to stand before the Lord of all the earth.
+
 ## Ezra 8:13
 - priority: `0`
 - importance: `none`
@@ -153136,6 +153091,15 @@ Rows: 20939
 - fresh: And Judah sent the kid of the goats by the hand of his Adullamite shepherd to receive the pledge from the woman, and he did not find her.
 - mt: And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman's hand: but he found her not.
 - brenton: And Judas sent the kid of the goats by the hand of his shepherd the Odollamite, to receive the pledge from the woman; and he found her not.
+
+## 1 Chronicles 17:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.779`
+- fresh_brenton_ratio: `0.846`
+- fresh: And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from the fold, from behind the sheep, to be ruler over my people Israel.
+- mt: Now therefore thus shall you say unto my servant David, Thus says the LORD of hosts, I took you from the sheepcote, even from following the sheep, that you should be ruler over my people Israel:
+- brenton: And now thus shalt thou say to my servant David, Thus saith the Lord Almighty, I took thee from the sheepfold, from following the flocks, to be a ruler over my people Israel:
 
 ## 1 Samuel 10:23
 - priority: `0`
@@ -156026,6 +155990,15 @@ Rows: 20939
 - mt: And it shall come to pass at that day, that I will break the bow of Israel, in the valley of Jezreel.
 - brenton: And it shall be, in that day, that I will break the bow of Israel in the valley of Jezrael.
 
+## Zechariah 1:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.787`
+- fresh_brenton_ratio: `0.858`
+- fresh: And I said, What are these, lord? And the angel speaking with me said to me, I will show you what these are.
+- mt: Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will show you what these be.
+- brenton: And I said, What are these, my lord? And the angel that spoke with me said to me, I will shew thee what these things are.
+
 ## 1 Chronicles 9:44
 - priority: `0`
 - importance: `none`
@@ -158716,15 +158689,6 @@ Rows: 20939
 - fresh: And Seth lived after begetting Enos seven hundred and seven years, and he begot sons and daughters.
 - mt: And Seth lived after he brings forth Enos eight hundred and seven years, and brings forth sons and daughters:
 - brenton: And Seth lived after his begetting Enos, seven hundred and seven years, and he begot sons and daughters.
-
-## Zechariah 1:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.795`
-- fresh_brenton_ratio: `0.422`
-- fresh: And angel speaking in me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
-- mt: So the angel that communed with me said unto me, Cry you, saying, Thus says the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
-- brenton: And the angel that spoke with me said to me, Cry out and say,
 
 ## 2 Kings 10:28
 - priority: `0`
@@ -166025,6 +165989,15 @@ Rows: 20939
 - mt: Am I a God at hand, says the LORD, and not a God far off?
 - brenton: I am a God nigh at hand, saith the Lord, and not a God afar off.
 
+## Zechariah 4:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.757`
+- fresh: And the angel speaking with me answered and said to me, Do you not know what these are? And I said, No, lord.
+- mt: Then the angel that talked with me answered and said unto me, Know you not what these be? And I said, No, my lord.
+- brenton: And the angel that talked with me answered, and spoke to me, saying, Knowest thou not what these things are? And I said, No, my lord.
+
 ## Leviticus 13:29
 - priority: `0`
 - importance: `none`
@@ -166033,6 +166006,15 @@ Rows: 20939
 - fresh: And if a man or a woman has a mark on the head or on the beard,
 - mt: If a man or woman have a plague upon the head or the beard;
 - brenton: And if a man or a woman have in them a plague of leprosy in the head or the beard;
+
+## Zechariah 5:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.782`
+- fresh: And the angel speaking with me went out and said to me, Lift up your eyes and see what this thing is that goes out.
+- mt: Then the angel that talked with me went forth, and said unto me, Lift up now yours eyes, and see what is this that goes forth.
+- brenton: And the angel that talked with me went forth, and said to me, Lift up thine eyes, and see this that goes forth.
 
 ## Leviticus 23:2
 - priority: `0`
@@ -168653,6 +168635,15 @@ Rows: 20939
 - mt: As he has done this day, so the LORD has commanded to do, to make an atonement for you.
 - brenton: as he did in this day on which the Lord commanded me to do so, to make an atonement for you.
 
+## Zechariah 6:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.826`
+- fresh_brenton_ratio: `0.868`
+- fresh: And I answered and said to the angel speaking with me, What are these, lord?
+- mt: Then I answered and said unto the angel that talked with me, What are these, my lord?
+- brenton: And I answered and said to the angel that talked with me, What are these, my lord?
+
 ## Exodus 15:22
 - priority: `0`
 - importance: `none`
@@ -170110,6 +170101,15 @@ Rows: 20939
 - fresh: Therefore thus says the Lord: As vine-wood among trees of the forest, which I gave to fire for consuming, so I have given the inhabitants of Jerusalem.
 - mt: Therefore thus says the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
 - brenton: Therefore say,
+
+## Zechariah 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.832`
+- fresh_brenton_ratio: `0.486`
+- fresh: And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
+- mt: So the angel that communed with me said unto me, Cry you, saying, Thus says the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
+- brenton: And the angel that spoke with me said to me, Cry out and say,
 
 ## 2 Chronicles 29:33
 - priority: `0`

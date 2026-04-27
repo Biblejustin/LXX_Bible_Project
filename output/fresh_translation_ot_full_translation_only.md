@@ -43508,7 +43508,7 @@ In all places where I went through among all Israel, did I ever speak to one tri
 
 **1 Chronicles 17:7**
 
-And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from fold, from behind sheep, to be ruler over my people Israel.
+And now thus you shall say to my servant David, Thus says the Lord Almighty, I took you from the fold, from behind the sheep, to be ruler over my people Israel.
 
 **1 Chronicles 17:8**
 
@@ -58914,7 +58914,7 @@ All nations, clap hands; shout to God with the voice of exultation.
 
 **Psalms 46:3**
 
-Because the Lord Most High fearful, great king over all the earth.
+Because the Lord Most High is fearsome, a great king over all the earth.
 
 **Psalms 46:4**
 
@@ -91418,7 +91418,7 @@ And he will judge among many peoples and reprove strong nations as far as far la
 
 **Micah 4:4**
 
-And each will rest under his vine and each under his fig tree, and there will be no one frightening, because mouth of the Lord Almighty spoke these things.
+And each will rest under his vine and each under his fig tree, and there will be no one frightening, because the mouth of the Lord Almighty spoke these things.
 
 **Micah 4:5**
 
@@ -92372,7 +92372,7 @@ Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 
 **Haggai 1:14**
 
-The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of remnant of all the people, and they entered and were doing works in the house of the Lord Almighty their God,
+The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 
 **Haggai 1:15**
 
@@ -92510,7 +92510,7 @@ I saw by night, and behold, a man mounted on red horse, and he stood between two
 
 **Zechariah 1:9**
 
-And I said, What are these, lord? And angel speaking in me said to me, I will show you what these are.
+And I said, What are these, lord? And the angel speaking with me said to me, I will show you what these are.
 
 **Zechariah 1:10**
 
@@ -92526,11 +92526,11 @@ And the angel of the Lord answered and said, O Lord Almighty, how long will you 
 
 **Zechariah 1:13**
 
-And the Lord Almighty answered angel speaking in me with good words and consoling sayings.
+And the Lord Almighty answered the angel speaking with me with good words and consoling sayings.
 
 **Zechariah 1:14**
 
-And angel speaking in me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
+And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy,
 
 **Zechariah 1:15**
 
@@ -92552,7 +92552,7 @@ And I lifted my eyes and saw, and behold, four horns.
 
 **Zechariah 2:2**
 
-And I said to angel speaking in me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
+And I said to the angel speaking with me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
 
 **Zechariah 2:3**
 
@@ -92572,7 +92572,7 @@ And I said to him, Where are you going? And he said to me, To measure Jerusalem,
 
 **Zechariah 2:7**
 
-And behold, angel speaking in me stood, and another angel went out to meet him,
+And behold, the angel speaking with me stood, and another angel went out to meet him,
 
 **Zechariah 2:8**
 
@@ -92592,7 +92592,7 @@ To Zion, be rescued, you dwelling with daughter Babylon.
 
 **Zechariah 2:12**
 
-Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching pupil of his eye.
+Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching the pupil of his eye.
 
 **Zechariah 2:13**
 
@@ -92660,7 +92660,7 @@ In that day, says the Lord Almighty, each will call his neighbor under vine and 
 
 **Zechariah 4:1**
 
-And angel speaking in me returned and woke me, like when a man is wakened from sleep.
+And the angel speaking with me returned and woke me, like when a man is wakened from sleep.
 
 **Zechariah 4:2**
 
@@ -92672,11 +92672,11 @@ And two olive trees above it, one at the right of lamp-bowl and one at left.
 
 **Zechariah 4:4**
 
-And I asked and said to angel speaking in me, What are these, lord?
+And I asked and said to the angel speaking with me, What are these, lord?
 
 **Zechariah 4:5**
 
-And angel speaking in me answered and said to me, Do you not know what these are? And I said, No, lord.
+And the angel speaking with me answered and said to me, Do you not know what these are? And I said, No, lord.
 
 **Zechariah 4:6**
 
@@ -92734,7 +92734,7 @@ And I will bring it out, says the Lord Almighty, and it will enter the house of 
 
 **Zechariah 5:5**
 
-And angel speaking in me went out and said to me, Lift up your eyes and see what this thing is that goes out.
+And the angel speaking with me went out and said to me, Lift up your eyes and see what this thing is that goes out.
 
 **Zechariah 5:6**
 
@@ -92754,7 +92754,7 @@ And I lifted my eyes and saw, and behold, two women coming out, and wind in thei
 
 **Zechariah 5:10**
 
-And I said to angel speaking in me, Where are they carrying measure?
+And I said to the angel speaking with me, Where are they carrying the measure?
 
 **Zechariah 5:11**
 
@@ -92776,11 +92776,11 @@ and in third chariot white horses, and in fourth chariot varied dappled horses.
 
 **Zechariah 6:4**
 
-And I answered and said to angel speaking in me, What are these, lord?
+And I answered and said to the angel speaking with me, What are these, lord?
 
 **Zechariah 6:5**
 
-And angel speaking in me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
+And the angel speaking with me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
 
 **Zechariah 6:6**
 
