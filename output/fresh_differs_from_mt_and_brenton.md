@@ -74720,15 +74720,6 @@ Rows: 20937
 - mt: In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.
 - brenton: The son of a king is in the light of life; and they that are in favour with him are as a cloud of latter rain.
 
-## Song of Solomon 4:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.540`
-- fresh_brenton_ratio: `0.523`
-- fresh: All beautiful you, my dear one, and blemish not in you.
-- mt: You are all fair, my love; there is no spot in you.
-- brenton: Thou art all fair, my companion, and there is no spot in thee.
-
 ## Joshua 10:41
 - priority: `0`
 - importance: `none`
@@ -76393,15 +76384,6 @@ Rows: 20937
 - fresh: The ways of the idle are paved with thorns, but those of brave made smooth.
 - mt: The way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain.
 - brenton: The ways of sluggards are strewn with thorns; but those of the diligent are made smooth.
-
-## Song of Solomon 4:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.548`
-- fresh_brenton_ratio: `0.782`
-- fresh: As tower of David your neck, built for ranks; thousand shields hang upon it, all darts of mighty men.
-- mt: Your neck is like the tower of David built for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
-- brenton: Thy neck is as the tower of David, that was built for an armoury: a thousand shields hang upon it, and all darts of mighty men.
 
 ## Joshua 15:1
 - priority: `0`
@@ -79283,15 +79265,6 @@ Rows: 20937
 - mt: And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces;
 - brenton: were carved cherubs and palm-trees between the cherubs, and each cherub had two faces.
 
-## Song of Solomon 4:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.562`
-- fresh_brenton_ratio: `0.481`
-- fresh: Garden shut, my sister bride; garden shut, spring sealed.
-- mt: A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed.
-- brenton: My sister, my spouse is a garden enclosed; a garden enclosed, a fountain sealed.
-
 ## 1 Chronicles 22:15
 - priority: `0`
 - importance: `none`
@@ -79804,15 +79777,6 @@ Rows: 20937
 - fresh: Do not become very righteous, and do not make yourself excessively wise, lest perhaps you be stunned.
 - mt: Be not righteous over much; neither make yourself over wise: why should you destroy yourself ?
 - brenton: Be not very just; neither be very wise: lest thou be confounded.
-
-## Song of Solomon 4:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.564`
-- fresh_brenton_ratio: `0.558`
-- fresh: As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
-- mt: Your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.
-- brenton: Thy lips are as a thread of scarlet, and thy speech is comely: like the rind of a pomegranate is thy cheek without thy veil.
 
 ## Proverbs 6:30
 - priority: `0`
@@ -84890,6 +84854,15 @@ Rows: 20937
 - mt: And you shall not uncover the nakedness of your mother's sister, nor of your father's sister: for he uncovers his near kin: they shall bear their iniquity.
 - brenton: And thou shalt not uncover the nakedness of thy father's sister, or of the sister of thy mother; for that man has uncovered the nakedness of one near akin: they shall bear their iniquity.
 
+## Song of Solomon 4:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.587`
+- fresh_brenton_ratio: `0.517`
+- fresh: You are wholly beautiful, my dear one, and no blemish is in you.
+- mt: You are all fair, my love; there is no spot in you.
+- brenton: Thou art all fair, my companion, and there is no spot in thee.
+
 ## Ezra 2:47
 - priority: `0`
 - importance: `none`
@@ -87292,6 +87265,15 @@ Rows: 20937
 - fresh: And his servants said to him, What is this word that you have done? For the little boy, while he was still alive, you were fasting and weeping and keeping watch, and when the little boy died, you rose and ate bread and have drunk.
 - mt: Then said his servants unto him, What thing is this that you have done? you did fast and weep for the child, while it was alive; but when the child was dead, you did rise and eat bread.
 - brenton: And his servants said to him, What is this thing that thou hast done concerning the child? while it was yet living thou didst fast, and weep, and watch: and when the child was dead thou didst rise up, and didst eat bread, and drink.
+
+## Song of Solomon 4:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.597`
+- fresh_brenton_ratio: `0.519`
+- fresh: A garden shut, my sister bride; a garden shut, a spring sealed.
+- mt: A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed.
+- brenton: My sister, my spouse is a garden enclosed; a garden enclosed, a fountain sealed.
 
 ## Proverbs 13:24
 - priority: `0`
@@ -95024,15 +95006,6 @@ Rows: 20937
 - mt: The children of Barkos, the children of Sisera, the children of Thamah,
 - brenton: the children of Barcos, the children of Sisara, the children of Thema,
 
-## Song of Solomon 4:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.625`
-- fresh_brenton_ratio: `0.568`
-- fresh: Look, you beautiful, my dear one, look, you beautiful; your eyes doves behind your veil. Your hair like herds of goats that were revealed from Gilead.
-- mt: Behold, you are fair, my love; behold, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
-- brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves, beside thy veil: thy hair is as flocks of goats, that have appeared from Galaad.
-
 ## Isaiah 55:12
 - priority: `0`
 - importance: `none`
@@ -102170,15 +102143,6 @@ Rows: 20937
 - mt: And Balaam said unto Balak, Stand by your burnt offering, and I will go: possibly the LORD will come to meet me: and whatsoever he shows me I will tell you. And he went to an high place.
 - brenton: And Balaam said to Balac, Stand by thy sacrifice, and I will go and see if God will appear to me and meet me, and the word which he shall shew me, I will report to thee. And Balac stood by his sacrifice.
 
-## Song of Solomon 4:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.646`
-- fresh_brenton_ratio: `0.741`
-- fresh: How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices.
-- mt: How fair is your love, my sister, my spouse! how much better is your love than wine! and the smell of yours ointments than all spices!
-- brenton: How beautiful are thy breasts, my sister, my spouse! how much more beautiful are thy breasts than wine, and the smell of thy garments than all spices!
-
 ## Leviticus 16:22
 - priority: `0`
 - importance: `none`
@@ -102574,6 +102538,15 @@ Rows: 20937
 - fresh: And their line fell from Manasseh and the plain of Labek from Gilead, which is beyond the Jordan,
 - mt: And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Jordan;
 - brenton: And their lot fell to them from Anassa, and to the plain of Labec of the land of Galaad, which is beyond Jordan.
+
+## Song of Solomon 4:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.647`
+- fresh_brenton_ratio: `0.786`
+- fresh: How beautiful are your breasts, my sister bride; how beautiful are your breasts beyond wine, and the scent of your garments is above all spices.
+- mt: How fair is your love, my sister, my spouse! how much better is your love than wine! and the smell of yours ointments than all spices!
+- brenton: How beautiful are thy breasts, my sister, my spouse! how much more beautiful are thy breasts than wine, and the smell of thy garments than all spices!
 
 ## Exodus 19:18
 - priority: `0`
@@ -105311,15 +105284,6 @@ Rows: 20937
 - mt: Hereby all of you shall be proved: By the life of Pharaoh all of you shall not go forth behind, except your youngest brother come here.
 - brenton: herein shall ye be manifested; by the health of Pharao, ye shall not depart hence, unless your younger brother come hither.
 
-## Song of Solomon 4:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.656`
-- fresh_brenton_ratio: `0.661`
-- fresh: Honeycomb drips from your lips, bride; honey and milk under your tongue, and scent of your garments as scent of Lebanon.
-- mt: Your lips, O my spouse, drop as the honeycomb: honey and milk are under your tongue; and the smell of your garments is like the smell of Lebanon.
-- brenton: Thy lips drop honeycomb, my spouse: honey and milk are under thy tongue; and the smell of thy garments is as the smell of Libanus.
-
 ## Ecclesiastes 7:23
 - priority: `0`
 - importance: `none`
@@ -105823,15 +105787,6 @@ Rows: 20937
 - fresh: From the half of the sons of Israel, which Moses divided off from the fighting men,
 - mt: And of the children of Israel's half, which Moses divided from the men that warred,
 - brenton: from the half belonging to the children of Israel, whom Moses separated from the men of war.
-
-## Song of Solomon 4:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.658`
-- fresh_brenton_ratio: `0.662`
-- fresh: Your two breasts like two fawns, twins of gazelle, grazing among lilies.
-- mt: Your two breasts are like two young roes that are twins, which feed among the lilies.
-- brenton: Thy two breasts are as two twin fawns, that feed among the lilies.
 
 ## Leviticus 14:37
 - priority: `0`
@@ -106417,6 +106372,15 @@ Rows: 20937
 - fresh: Until morning, as a lion, thus he crushed my bones. For from day until night I was handed over.
 - mt: I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night will you make an end of me.
 - brenton: In that day I was given up as to a lion until the morning: so has he broken all my bones: for I was so given up from day even to night.
+
+## Song of Solomon 4:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.660`
+- fresh_brenton_ratio: `0.611`
+- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves behind your veil. Your hair is like herds of goats that were revealed from Gilead.
+- mt: Behold, you are fair, my love; behold, you are fair; you have doves' eyes within your locks: your hair is as a flock of goats, that appear from mount Gilead.
+- brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves, beside thy veil: thy hair is as flocks of goats, that have appeared from Galaad.
 
 ## Ezekiel 1:6
 - priority: `0`
@@ -112403,15 +112367,6 @@ Rows: 20937
 - mt: And he said unto me, What see you? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits.
 - brenton: And he said to me, What seest thou? And I said, I see a flying sickle, of the length of twenty cubits, and of the breadth of ten cubits.
 
-## Song of Solomon 4:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.677`
-- fresh_brenton_ratio: `0.757`
-- fresh: Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
-- mt: Your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
-- brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing; all of them bearing twins, and there is not a barren one among them.
-
 ## 1 Chronicles 29:30
 - priority: `0`
 - importance: `none`
@@ -114724,6 +114679,15 @@ Rows: 20937
 - fresh: But you remember, and let us judge together; speak you your lawlessnesses first, so that you may be justified.
 - mt: Put me in remembrance: let us plead together: declare you, that you may be justified.
 - brenton: But do thou remember, and let us plead together: do thou first confess thy transgressions, that thou mayest be justified.
+
+## Song of Solomon 4:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.684`
+- fresh_brenton_ratio: `0.676`
+- fresh: Your two breasts are like two fawns, twins of a gazelle, grazing among lilies.
+- mt: Your two breasts are like two young roes that are twins, which feed among the lilies.
+- brenton: Thy two breasts are as two twin fawns, that feed among the lilies.
 
 ## 1 Chronicles 16:14
 - priority: `0`
@@ -121781,6 +121745,15 @@ Rows: 20937
 - mt: Then Sihon came out against us, he and all his people, to fight at Jahaz.
 - brenton: And Seon the king of Esebon came forth to meet us, he and all his people to war at Jassa.
 
+## Song of Solomon 4:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.701`
+- fresh_brenton_ratio: `0.834`
+- fresh: Your neck is like the tower of David, built for ranks; a thousand shields hang upon it, all darts of the mighty men.
+- mt: Your neck is like the tower of David built for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
+- brenton: Thy neck is as the tower of David, that was built for an armoury: a thousand shields hang upon it, and all darts of mighty men.
+
 ## Joshua 18:1
 - priority: `0`
 - importance: `none`
@@ -125083,15 +125056,6 @@ Rows: 20937
 - fresh: Look, is not all the land before you? Separate yourself from me. If you go left, I will go right. If you go right, I will go left.
 - mt: Is not the whole land before you? separate yourself, I pray you, from me: if you will take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
 - brenton: Lo! is not the whole land before thee? Separate thyself from me; if thou goest to the left, I will go to the right, and if thou goest to the right, I will go to the left.
-
-## Song of Solomon 4:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.709`
-- fresh_brenton_ratio: `0.765`
-- fresh: Your shoots are orchard of pomegranates with fruit of choice things, cypresses with nards.
-- mt: Your plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,
-- brenton: Thy shoots are a garden of pomegranates, with the fruit of choice berries; camphor, with spikenard:
 
 ## Nehemiah 12:46
 - priority: `0`
@@ -135065,6 +135029,15 @@ Rows: 20937
 - mt: And it shall be for a token upon yours hand, and for frontlets between yours eyes: for by strength of hand the LORD brought us forth out of Egypt.
 - brenton: And it shall be for a sign upon thy hand, and immovable before thine eyes, for with a strong hand the Lord brought thee out of Egypt.
 
+## Song of Solomon 4:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.734`
+- fresh_brenton_ratio: `0.797`
+- fresh: Your teeth are like a herd of shorn sheep that came up from the washing, all bearing twins, and no barren one is among them.
+- mt: Your teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
+- brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing; all of them bearing twins, and there is not a barren one among them.
+
 ## Joel 2:4
 - priority: `0`
 - importance: `none`
@@ -135910,6 +135883,15 @@ Rows: 20937
 - fresh: And Zedekiah son of Chenaanah came near and struck Micaiah on the jaw and said, What spirit of the Lord was this that spoke in you?
 - mt: But Zedekiah the son of Chenaanah went near, and stroke Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto you?
 - brenton: And Sedekias the son of Chanaan came near and smote Michaias on the cheek, and said, What sort of a spirit of the Lord has spoken in thee?
+
+## Song of Solomon 4:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.736`
+- fresh_brenton_ratio: `0.800`
+- fresh: Your shoots are an orchard of pomegranates with the fruit of choice things, cypresses with nards.
+- mt: Your plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,
+- brenton: Thy shoots are a garden of pomegranates, with the fruit of choice berries; camphor, with spikenard:
 
 ## Genesis 29:3
 - priority: `0`
@@ -138143,6 +138125,15 @@ Rows: 20937
 - mt: He is your praise, and he is your God, that has done for you these great and terrible things, which yours eyes have seen.
 - brenton: He is thy boast, and he is thy God, who has wrought in the midst of thee these great and glorious things, which thine eyes have seen.
 
+## Song of Solomon 4:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.742`
+- fresh_brenton_ratio: `0.720`
+- fresh: A honeycomb drips from your lips, bride; honey and milk are under your tongue, and the scent of your garments is like the scent of Lebanon.
+- mt: Your lips, O my spouse, drop as the honeycomb: honey and milk are under your tongue; and the smell of your garments is like the smell of Lebanon.
+- brenton: Thy lips drop honeycomb, my spouse: honey and milk are under thy tongue; and the smell of thy garments is as the smell of Libanus.
+
 ## Isaiah 54:8
 - priority: `0`
 - importance: `none`
@@ -140311,15 +140302,6 @@ Rows: 20937
 - fresh: He will build a house for my name, and I will set upright his throne forever.
 - mt: He shall build an house for my name, and I will establish the throne of his kingdom for ever.
 - brenton: He shall build for me a house to my name, and I will set up his throne even for ever.
-
-## Song of Solomon 4:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.747`
-- fresh_brenton_ratio: `0.841`
-- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from the top of Senir and Hermon, from dens of lions, from the mountains of leopards.
-- mt: Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.
-- brenton: Come from Libanus, my bride, come from Libanus: thou shalt come and pass from the top of Faith, from the top of Sanir and Hermon, from the lions' dens, from the mountains of the leopards.
 
 ## Deuteronomy 27:21
 - priority: `0`
@@ -147376,6 +147358,15 @@ Rows: 20937
 - fresh: And God said to him, I am your God. Increase and multiply. Nations and gatherings of nations will come from you, and kings will come out from your loins.
 - mt: And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of you, and kings shall come out of your loins;
 - brenton: And God said to him, I am thy God; increase and multiply; for nations and gatherings of nations shall be of thee, and kings shall come out of thy loins.
+
+## Song of Solomon 4:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.764`
+- fresh_brenton_ratio: `0.856`
+- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from the summit of Faith, from the top of Senir and Hermon, from the dens of lions, from the mountains of leopards.
+- mt: Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.
+- brenton: Come from Libanus, my bride, come from Libanus: thou shalt come and pass from the top of Faith, from the top of Sanir and Hermon, from the lions' dens, from the mountains of the leopards.
 
 ## 2 Samuel 21:19
 - priority: `0`
@@ -154684,6 +154675,15 @@ Rows: 20937
 - fresh: But if I say thus to the young man, Here is the arrow from you and beyond, go, because the Lord has sent you away.
 - mt: But if I say thus unto the young man, Behold, the arrows are beyond you; go your way: for the LORD has sent you away.
 - brenton: If I should expressly say to the lad, The arrow is here, and on this side of thee, take it; then come, for it is well with thee, and there is no reason for fear, as the Lord lives: but if I should say thus to the young man, The arrow is on that side of thee, and beyond; go, for the Lord hath sent thee away.
+
+## Song of Solomon 4:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.784`
+- fresh_brenton_ratio: `0.612`
+- fresh: Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
+- mt: Your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.
+- brenton: Thy lips are as a thread of scarlet, and thy speech is comely: like the rind of a pomegranate is thy cheek without thy veil.
 
 ## Judges 11:5
 - priority: `0`
@@ -164063,15 +164063,6 @@ Rows: 20937
 - mt: And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, was twenty thousand and two hundred.
 - brenton: And their number according to their generations, (they were chiefs of their fathers' houses, men of might), was twenty thousand and two hundred.
 
-## Song of Solomon 4:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.811`
-- fresh_brenton_ratio: `0.778`
-- fresh: Until day breathes and shadows move, I will go for myself to the mountain of myrrh and hill of frankincense.
-- mt: Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.
-- brenton: Until the day dawn, and the shadows depart, I will betake me to the mountain of myrrh, and to the hill of frankincense.
-
 ## Genesis 44:19
 - priority: `0`
 - importance: `none`
@@ -164278,15 +164269,6 @@ Rows: 20937
 - fresh: And he said, O Lord, my rock and my fortress and my rescuer for me,
 - mt: And he said, The LORD is my rock, and my fortress, and my deliverer;
 - brenton: And the song was thus:
-
-## Song of Solomon 4:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.812`
-- fresh_brenton_ratio: `0.638`
-- fresh: Spring of gardens, well of living water and rushing from Lebanon.
-- mt: A fountain of gardens, a well of living waters, and streams from Lebanon.
-- brenton: a fountain of a garden, and a well of water springing and gurgling from Libanus.
 
 ## Ezekiel 36:13
 - priority: `0`
@@ -173630,6 +173612,15 @@ Rows: 20937
 - mt: And Ruth said, Implore me not to leave you, or to return from following after you: for where you go, I will go; and where you lodge, I will lodge: your people shall be my people, and your God my God:
 - brenton: And Ruth said, Intreat me not to leave thee, or to return from following thee; for whithersoever thou goest, I will go, and wheresoever thou lodgest, I will lodge; thy people shall be my people, and thy God my God.
 
+## Song of Solomon 4:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.847`
+- fresh_brenton_ratio: `0.676`
+- fresh: A spring of gardens, a well of living water and rushing from Lebanon.
+- mt: A fountain of gardens, a well of living waters, and streams from Lebanon.
+- brenton: a fountain of a garden, and a well of water springing and gurgling from Libanus.
+
 ## 1 Chronicles 1:36
 - priority: `0`
 - importance: `none`
@@ -181531,6 +181522,15 @@ Rows: 20937
 - fresh: And sons of Becher: Zamarias and Joash and Eliezer and Elioenai and Amariah and Jerimoth and Abijam and Anathoth and Gemeeth. All these were sons of Becher.
 - mt: And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these are the sons of Becher.
 - brenton: And the sons of Bachir; Zemira, and Joas, and Eliezer, and Elithenan, and Amaria, and Jerimuth, and Abiud, and Anathoth, and Eleemeth: all these were the sons of Bachir.
+
+## Song of Solomon 4:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.886`
+- fresh_brenton_ratio: `0.856`
+- fresh: Until the day breathes and the shadows move, I will go for myself to the mountain of myrrh and to the hill of frankincense.
+- mt: Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.
+- brenton: Until the day dawn, and the shadows depart, I will betake me to the mountain of myrrh, and to the hill of frankincense.
 
 ## 1 Kings 15:33
 - priority: `0`

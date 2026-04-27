@@ -156910,73 +156910,73 @@ Note:
 ### Song of Solomon 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, you beautiful, my dear one, look, you beautiful; your eyes doves behind your veil. Your hair like herds of goats that were revealed from Gilead.
+- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves behind your veil. Your hair is like herds of goats that were revealed from Gilead.
 - brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves, beside thy veil: thy hair is as flocks of goats, that have appeared from Galaad.
 
 ### Song of Solomon 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
+- fresh: Your teeth are like a herd of shorn sheep that came up from the washing, all bearing twins, and no barren one is among them.
 - brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing; all of them bearing twins, and there is not a barren one among them.
 
 ### Song of Solomon 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
+- fresh: Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
 - brenton: Thy lips are as a thread of scarlet, and thy speech is comely: like the rind of a pomegranate is thy cheek without thy veil.
 
 ### Song of Solomon 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As tower of David your neck, built for ranks; thousand shields hang upon it, all darts of mighty men.
+- fresh: Your neck is like the tower of David, built for ranks; a thousand shields hang upon it, all darts of the mighty men.
 - brenton: Thy neck is as the tower of David, that was built for an armoury: a thousand shields hang upon it, and all darts of mighty men.
 
 ### Song of Solomon 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your two breasts like two fawns, twins of gazelle, grazing among lilies.
+- fresh: Your two breasts are like two fawns, twins of a gazelle, grazing among lilies.
 - brenton: Thy two breasts are as two twin fawns, that feed among the lilies.
 
 ### Song of Solomon 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until day breathes and shadows move, I will go for myself to the mountain of myrrh and hill of frankincense.
+- fresh: Until the day breathes and the shadows move, I will go for myself to the mountain of myrrh and to the hill of frankincense.
 - brenton: Until the day dawn, and the shadows depart, I will betake me to the mountain of myrrh, and to the hill of frankincense.
 
 ### Song of Solomon 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All beautiful you, my dear one, and blemish not in you.
+- fresh: You are wholly beautiful, my dear one, and no blemish is in you.
 - brenton: Thou art all fair, my companion, and there is no spot in thee.
 
 ### Song of Solomon 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from the top of Senir and Hermon, from dens of lions, from the mountains of leopards.
+- fresh: Come from Lebanon, bride, come from Lebanon; you will come and pass from the summit of Faith, from the top of Senir and Hermon, from the dens of lions, from the mountains of leopards.
 - brenton: Come from Libanus, my bride, come from Libanus: thou shalt come and pass from the top of Faith, from the top of Sanir and Hermon, from the lions' dens, from the mountains of the leopards.
 
 ### Song of Solomon 4:9
@@ -156991,37 +156991,37 @@ Note:
 ### Song of Solomon 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices.
+- fresh: How beautiful are your breasts, my sister bride; how beautiful are your breasts beyond wine, and the scent of your garments is above all spices.
 - brenton: How beautiful are thy breasts, my sister, my spouse! how much more beautiful are thy breasts than wine, and the smell of thy garments than all spices!
 
 ### Song of Solomon 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Honeycomb drips from your lips, bride; honey and milk under your tongue, and scent of your garments as scent of Lebanon.
+- fresh: A honeycomb drips from your lips, bride; honey and milk are under your tongue, and the scent of your garments is like the scent of Lebanon.
 - brenton: Thy lips drop honeycomb, my spouse: honey and milk are under thy tongue; and the smell of thy garments is as the smell of Libanus.
 
 ### Song of Solomon 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Garden shut, my sister bride; garden shut, spring sealed.
+- fresh: A garden shut, my sister bride; a garden shut, a spring sealed.
 - brenton: My sister, my spouse is a garden enclosed; a garden enclosed, a fountain sealed.
 
 ### Song of Solomon 4:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your shoots are orchard of pomegranates with fruit of choice things, cypresses with nards.
+- fresh: Your shoots are an orchard of pomegranates with the fruit of choice things, cypresses with nards.
 - brenton: Thy shoots are a garden of pomegranates, with the fruit of choice berries; camphor, with spikenard:
 
 ### Song of Solomon 4:14
@@ -157036,10 +157036,10 @@ Note:
 ### Song of Solomon 4:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Spring of gardens, well of living water and rushing from Lebanon.
+- fresh: A spring of gardens, a well of living water and rushing from Lebanon.
 - brenton: a fountain of a garden, and a well of water springing and gurgling from Libanus.
 
 ### Song of Solomon 4:16

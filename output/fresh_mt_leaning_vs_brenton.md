@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 725
+Rows: 726
 
 ## 2 Chronicles 6:14
 - priority: `24`
@@ -3296,15 +3296,6 @@ Rows: 725
 - mt: Therefore thus says the Lord GOD; Behold, I, even I, am against you, and will execute judgments in the midst of you in the sight of the nations.
 - brenton: Behold, I am against thee, and I will execute judgment in the midst of thee in the sight of the nations.
 
-## Song of Solomon 4:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.812`
-- fresh_brenton_ratio: `0.638`
-- fresh: Spring of gardens, well of living water and rushing from Lebanon.
-- mt: A fountain of gardens, a well of living waters, and streams from Lebanon.
-- brenton: a fountain of a garden, and a well of water springing and gurgling from Libanus.
-
 ## Exodus 15:12
 - priority: `0`
 - importance: `none`
@@ -3359,6 +3350,15 @@ Rows: 725
 - mt: And, lo, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.
 - brenton: And I observed, and, behold, God had not sent him, for the prophecy was a fable devised against me:
 
+## Song of Solomon 4:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.784`
+- fresh_brenton_ratio: `0.612`
+- fresh: Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
+- mt: Your lips are like a thread of scarlet, and your speech is comely: your temples are like a piece of a pomegranate within your locks.
+- brenton: Thy lips are as a thread of scarlet, and thy speech is comely: like the rind of a pomegranate is thy cheek without thy veil.
+
 ## Numbers 35:19
 - priority: `0`
 - importance: `none`
@@ -3385,6 +3385,15 @@ Rows: 725
 - fresh: And she bore to him Zimran and Jokshan and Medan and Midian and Ishbak and Shuah.
 - mt: And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
 - brenton: And she bore to him Zombran, and Jezan, and Madal, and Madiam, and Jesboc, and Soie.
+
+## Song of Solomon 4:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.847`
+- fresh_brenton_ratio: `0.676`
+- fresh: A spring of gardens, a well of living water and rushing from Lebanon.
+- mt: A fountain of gardens, a well of living waters, and streams from Lebanon.
+- brenton: a fountain of a garden, and a well of water springing and gurgling from Libanus.
 
 ## Haggai 2:15
 - priority: `0`

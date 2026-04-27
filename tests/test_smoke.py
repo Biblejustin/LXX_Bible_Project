@@ -3408,7 +3408,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "like a palm tree" in by_ref["Psalms 91:13"]["draft_translation"]
     assert "like a cedar in Lebanon" in by_ref["Psalms 91:13"]["draft_translation"]
     assert "like a herd of shorn sheep" in by_ref["Song of Solomon 4:2"]["draft_translation"]
-    assert "as a piece of pomegranate" in by_ref["Song of Solomon 4:3"]["draft_translation"]
+    assert "is like a piece of pomegranate" in by_ref["Song of Solomon 4:3"]["draft_translation"]
     assert "Set me as a seal" in by_ref["Song of Solomon 8:6"]["draft_translation"]
     assert "as a tent in vineyard" in by_ref["Isaiah 1:8"]["draft_translation"]
     assert "as a city under siege" in by_ref["Isaiah 1:8"]["draft_translation"]
@@ -4323,6 +4323,22 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "made for himself a litter" in by_ref["Song of Solomon 3:9"][
         "draft_translation"
     ]
+    assert "your eyes are doves behind your veil" in by_ref["Song of Solomon 4:1"][
+        "draft_translation"
+    ]
+    assert "Your neck is like the tower of David" in by_ref[
+        "Song of Solomon 4:4"
+    ]["draft_translation"]
+    assert "Until the day breathes and the shadows move" in by_ref[
+        "Song of Solomon 4:6"
+    ]["draft_translation"]
+    assert "You are wholly beautiful" in by_ref["Song of Solomon 4:7"][
+        "draft_translation"
+    ]
+    assert "the scent of your garments is above all spices" in by_ref[
+        "Song of Solomon 4:10"
+    ]["draft_translation"]
+    assert "A garden shut" in by_ref["Song of Solomon 4:12"]["draft_translation"]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

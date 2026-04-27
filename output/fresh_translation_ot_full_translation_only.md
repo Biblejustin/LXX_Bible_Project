@@ -71106,35 +71106,35 @@ Come out and see King Solomon, with the crown with which his mother crowned him 
 
 **Song of Solomon 4:1**
 
-Look, you beautiful, my dear one, look, you beautiful; your eyes doves behind your veil. Your hair like herds of goats that were revealed from Gilead.
+Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves behind your veil. Your hair is like herds of goats that were revealed from Gilead.
 
 **Song of Solomon 4:2**
 
-Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
+Your teeth are like a herd of shorn sheep that came up from the washing, all bearing twins, and no barren one is among them.
 
 **Song of Solomon 4:3**
 
-As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
+Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
 
 **Song of Solomon 4:4**
 
-As tower of David your neck, built for ranks; thousand shields hang upon it, all darts of mighty men.
+Your neck is like the tower of David, built for ranks; a thousand shields hang upon it, all darts of the mighty men.
 
 **Song of Solomon 4:5**
 
-Your two breasts like two fawns, twins of gazelle, grazing among lilies.
+Your two breasts are like two fawns, twins of a gazelle, grazing among lilies.
 
 **Song of Solomon 4:6**
 
-Until day breathes and shadows move, I will go for myself to the mountain of myrrh and hill of frankincense.
+Until the day breathes and the shadows move, I will go for myself to the mountain of myrrh and to the hill of frankincense.
 
 **Song of Solomon 4:7**
 
-All beautiful you, my dear one, and blemish not in you.
+You are wholly beautiful, my dear one, and no blemish is in you.
 
 **Song of Solomon 4:8**
 
-Come from Lebanon, bride, come from Lebanon; you will come and pass from summit of Faith, from the top of Senir and Hermon, from dens of lions, from the mountains of leopards.
+Come from Lebanon, bride, come from Lebanon; you will come and pass from the summit of Faith, from the top of Senir and Hermon, from the dens of lions, from the mountains of leopards.
 
 **Song of Solomon 4:9**
 
@@ -71142,19 +71142,19 @@ You heartened us, my sister bride, you heartened us with one of your eyes, with 
 
 **Song of Solomon 4:10**
 
-How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices.
+How beautiful are your breasts, my sister bride; how beautiful are your breasts beyond wine, and the scent of your garments is above all spices.
 
 **Song of Solomon 4:11**
 
-Honeycomb drips from your lips, bride; honey and milk under your tongue, and scent of your garments as scent of Lebanon.
+A honeycomb drips from your lips, bride; honey and milk are under your tongue, and the scent of your garments is like the scent of Lebanon.
 
 **Song of Solomon 4:12**
 
-Garden shut, my sister bride; garden shut, spring sealed.
+A garden shut, my sister bride; a garden shut, a spring sealed.
 
 **Song of Solomon 4:13**
 
-Your shoots are orchard of pomegranates with fruit of choice things, cypresses with nards.
+Your shoots are an orchard of pomegranates with the fruit of choice things, cypresses with nards.
 
 **Song of Solomon 4:14**
 
@@ -71162,7 +71162,7 @@ Nard and saffron, cane and cinnamon with all the woods of Lebanon, myrrh and alo
 
 **Song of Solomon 4:15**
 
-Spring of gardens, well of living water and rushing from Lebanon.
+A spring of gardens, a well of living water and rushing from Lebanon.
 
 **Song of Solomon 4:16**
 
