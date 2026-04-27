@@ -86253,15 +86253,6 @@ Method:
 - mt: Speak unto the children of Israel, that they bring me an offering: of every man that gives it willingly with his heart all of you shall take my offering.
 - brenton: Speak to the children of Israel, and take first-fruits of all, who may be disposed in their heart to give; and ye shall take my first-fruits.
 
-### Ecclesiastes 2:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.562`
-- fresh_brenton_ratio: `0.533`
-- fresh: And I turned to bid my heart farewell concerning all toil in which I toiled under the sun.
-- mt: Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
-- brenton: So I went about to dismiss from my heart all my labour wherein I had laboured under the sun.
-
 ### Job 21:13
 - priority: `0`
 - importance: `none`
@@ -90546,6 +90537,15 @@ Method:
 - mt: Your borders are in the midst of the seas, your builders have perfected your beauty.
 - brenton: In the heart of the sea thy sons have put beauty upon thee for Beelim.
 
+### Ecclesiastes 2:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.582`
+- fresh_brenton_ratio: `0.522`
+- fresh: And I turned to bid my heart farewell concerning all the toil in which I toiled under the sun.
+- mt: Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
+- brenton: So I went about to dismiss from my heart all my labour wherein I had laboured under the sun.
+
 ### Nehemiah 6:8
 - priority: `0`
 - importance: `none`
@@ -90563,6 +90563,15 @@ Method:
 - fresh: Do not rejoice, Israel, nor be glad like the peoples, because you prostituted yourself away from your God. You loved gifts on every threshing floor of grain.
 - mt: Rejoice not, O Israel, for joy, as other people: for you have gone a whoring from your God, you have loved a reward upon floors of corn.
 - brenton: Rejoice not, O Israel, neither make merry, as other nations: for thou hast gone a-whoring from thy God; thou hast loved gifts upon every threshing-floor.
+
+### Ecclesiastes 2:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.582`
+- fresh_brenton_ratio: `0.643`
+- fresh: Because all his days are pains, and his distraction is wrath; even in the night his heart does not sleep, and this too is vanity.
+- mt: For all his days are sorrows, and his travail grief; yea, his heart takes not rest in the night. This is also vanity.
+- brenton: For all his days are days of sorrows, and vexation of spirit is his; in the night also his heart rests not. This is also vanity.
 
 ### Jeremiah 22:13
 - priority: `0`
@@ -94955,15 +94964,6 @@ Method:
 - fresh: Wine and strong drink you shall not drink, you and your sons with you, whenever you enter into the tent of testimony or when you approach the altar, and you shall certainly not die. It is an everlasting statute throughout your generations,
 - mt: Do not drink wine nor strong drink, you, nor your sons with you, when all of you go into the tabernacle of the congregation, lest all of you die: it shall be a statute for ever throughout your generations:
 - brenton: Ye shall not drink wine nor strong drink, thou and thy sons with thee, whensoever ye enter into the tabernacle of witness, or when ye approach the altar, so shall ye not die; it is a perpetual statute for your generations,
-
-### Ecclesiastes 2:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.600`
-- fresh_brenton_ratio: `0.215`
-- fresh: And I said in my heart, "As meeting of fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too vanity, because fool speaks from surplus.
-- mt: Then said I in my heart, As it happens to the fool, so it happens even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.
-- brenton: And I said in my heart, As the event of the fool is, so shall it be to me, even to me; and to what purpose have I gained wisdom? I said moreover in my heart, This is also vanity, because the fool speaks of his abundance.
 
 ### Judges 1:35
 - priority: `0`
@@ -102264,15 +102264,6 @@ Method:
 - mt: I will teach you by the hand of God: that which is with the Almighty will I not conceal.
 - brenton: Yet now I will tell you what is in the hand of the Lord: I will not lie concerning the things which are with the Almighty.
 
-### Ecclesiastes 2:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.626`
-- fresh_brenton_ratio: `0.619`
-- fresh: Because all his days are pains, and his distraction wrath; even in night his heart does not sleep, and this too vanity.
-- mt: For all his days are sorrows, and his travail grief; yea, his heart takes not rest in the night. This is also vanity.
-- brenton: For all his days are days of sorrows, and vexation of spirit is his; in the night also his heart rests not. This is also vanity.
-
 ### 1 Chronicles 21:30
 - priority: `0`
 - importance: `none`
@@ -107223,6 +107214,15 @@ Method:
 - mt: Tell them therefore, Thus says the Lord GOD; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision.
 - brenton: Therefore say to them,
 
+### Ecclesiastes 2:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.641`
+- fresh_brenton_ratio: `0.228`
+- fresh: And I said in my heart, "As the meeting of the fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too is vanity, because a fool speaks from surplus.
+- mt: Then said I in my heart, As it happens to the fool, so it happens even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.
+- brenton: And I said in my heart, As the event of the fool is, so shall it be to me, even to me; and to what purpose have I gained wisdom? I said moreover in my heart, This is also vanity, because the fool speaks of his abundance.
+
 ### Genesis 32:28
 - priority: `0`
 - importance: `none`
@@ -110841,15 +110841,6 @@ Method:
 - mt: You shall also suck the milk of the Gentiles, and shall suck the breast of kings: and you shall know that I the LORD am your Saviour and your Redeemer, the mighty One of Jacob.
 - brenton: And thou shalt suck the milk of the Gentiles, and shalt eat the wealth of kings: and shalt know that I am the Lord that saves thee and delivers thee, the Holy One of Israel.
 
-### Ecclesiastes 2:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.652`
-- fresh_brenton_ratio: `0.672`
-- fresh: And I hated life, because evil to me was work done under the sun, because all vanity and choice of spirit.
-- mt: Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.
-- brenton: So I hated life; because the work that was wrought under the sun was evil before me: for all is vanity and waywardness of spirit.
-
 ### Leviticus 19:32
 - priority: `0`
 - importance: `none`
@@ -112874,15 +112865,6 @@ Method:
 - fresh: Therefore thus says the Lord: I too will magnify the pile.
 - mt: Therefore thus says the Lord GOD; Woe to the bloody city! I will even make the pile for fire great.
 - brenton: Therefore thus saith the Lord, I will also make the firebrand great,
-
-### Ecclesiastes 2:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.658`
-- fresh_brenton_ratio: `0.707`
-- fresh: For there is no memory of wise with fool forever, since already days coming all were forgotten; and how will wise die with fool?
-- mt: For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dies the wise man? as the fool.
-- brenton: For there is no remembrance of the wise man with the fool for ever; forasmuch as now in the coming days all things are forgotten: and how shall the wise man die with the fool?
 
 ### Lamentations 4:18
 - priority: `0`
@@ -115773,15 +115755,6 @@ Method:
 - mt: They feared the LORD, and served their own gods, after the manner of the nations whom they carried away from thence.
 - brenton: And they feared the Lord, and served their gods according to the manner of the nations, whence their lords brought them.
 
-### Ecclesiastes 2:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.667`
-- fresh_brenton_ratio: `0.743`
-- fresh: For what comes to man in all his toil and in choice of his heart in which he toils under the sun?
-- mt: For what has man of all his labour, and of the vexation of his heart, wherein he has laboured under the sun?
-- brenton: For it happens to a man in all his labour, and in the purpose of his heart wherein he labours under the sun.
-
 ### Obadiah 1:6
 - priority: `0`
 - importance: `none`
@@ -116492,6 +116465,15 @@ Method:
 - fresh: And the Lord sent you on a road and said to you, Go, and utterly destroy Amalek, the ones sinning against me, and you will fight them until you finish them.
 - mt: And the LORD sent you on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.
 - brenton: And the Lord sent thee on a journey, and said to thee, Go, and utterly destroy: thou shalt slay the sinners against me, even the Amalekites; and thou shalt war against them until thou have consumed them.
+
+### Ecclesiastes 2:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.669`
+- fresh_brenton_ratio: `0.690`
+- fresh: And I hated life, because evil to me was work done under the sun, because all is vanity and choice of spirit.
+- mt: Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.
+- brenton: So I hated life; because the work that was wrought under the sun was evil before me: for all is vanity and waywardness of spirit.
 
 ### Ezekiel 45:22
 - priority: `0`
@@ -118274,15 +118256,6 @@ Method:
 - fresh: and give bread from your soul to hungry one and fill humbled soul, then your light will rise in darkness and your darkness as midday.
 - mt: And if you draw out your soul to the hungry, and satisfy the afflicted soul; then shall your light rise in obscurity, and your darkness be as the noon day:
 - brenton: and if thou give bread to the hungry from thy heart, and satisfy the afflicted soul; then shall thy light spring up in darkness, and thy darkness shall be as noon-day:
-
-### Ecclesiastes 2:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.674`
-- fresh_brenton_ratio: `0.627`
-- fresh: Because there is man whose toil is in wisdom and knowledge and courage, and to man who did not toil in it he will give his portion; and this too vanity and great evil.
-- mt: For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that has not laboured therein shall he leave it for his portion. This also is vanity and a great evil.
-- brenton: For there is such a man that his labour is in wisdom, and in knowledge, and in fortitude; yet this man shall give his portion to one who has not laboured therein. This is also vanity and great evil.
 
 ### Deuteronomy 22:7
 - priority: `0`
@@ -122729,6 +122702,15 @@ Method:
 - fresh: And Jacob's sons entered upon the wounded and plundered the city in which they had defiled Dinah their sister,
 - mt: The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
 - brenton: But the sons of Jacob came upon the wounded, and ravaged the city wherein they had defiled Dina their sister.
+
+### Ecclesiastes 2:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.686`
+- fresh_brenton_ratio: `0.769`
+- fresh: For what comes to a man in all his toil and in the choice of his heart in which he toils under the sun?
+- mt: For what has man of all his labour, and of the vexation of his heart, wherein he has laboured under the sun?
+- brenton: For it happens to a man in all his labour, and in the purpose of his heart wherein he labours under the sun.
 
 ### 2 Samuel 10:15
 - priority: `0`
@@ -131172,6 +131154,15 @@ Method:
 - mt: But of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
 - brenton: but were of the children of them whom the children of Israel destroyed not, that were left after them in the land, even them did Solomon make tributaries to this day.
 
+### Ecclesiastes 2:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.628`
+- fresh: Because there is a man whose toil is in wisdom and knowledge and courage, and to a man who did not toil in it he will give his portion; and this too is vanity and a great evil.
+- mt: For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that has not laboured therein shall he leave it for his portion. This also is vanity and a great evil.
+- brenton: For there is such a man that his labour is in wisdom, and in knowledge, and in fortitude; yet this man shall give his portion to one who has not laboured therein. This is also vanity and great evil.
+
 ### Proverbs 1:9
 - priority: `0`
 - importance: `none`
@@ -134916,15 +134907,6 @@ Method:
 - mt: Make haste, my beloved, and be you like to a roe or to a young hart upon the mountains of spices.
 - brenton: Away, my kinsman, and be like a doe or a fawn on the mountains of spices.
 
-### Ecclesiastes 2:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.716`
-- fresh_brenton_ratio: `0.753`
-- fresh: And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too vanity.
-- mt: And who knows whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have showed myself wise under the sun. This is also vanity.
-- brenton: And who knows whether he will be a wise man or a fool? and whether he will have power over all my labour in which I laboured, and wherein I grew wise under the sun? this is also vanity.
-
 ### 2 Kings 4:3
 - priority: `0`
 - importance: `none`
@@ -137310,15 +137292,6 @@ Method:
 - mt: And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.
 - brenton: And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.
 
-### Ecclesiastes 2:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.722`
-- fresh_brenton_ratio: `0.759`
-- fresh: And I hated all my toil with which I toil under the sun, because I leave it to man coming after me.
-- mt: Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
-- brenton: And I hated the whole of my labour which I took under the sun; because I must leave it to the man who will come after me.
-
 ### 1 Chronicles 19:9
 - priority: `0`
 - importance: `none`
@@ -138065,6 +138038,15 @@ Method:
 - fresh: And the men with him, each and his household, and they lived in the cities of Hebron.
 - mt: And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
 - brenton: and the men that were with him, every one and his family; and they dwelt in the cities of Chebron.
+
+### Ecclesiastes 2:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.724`
+- fresh_brenton_ratio: `0.760`
+- fresh: And who knows whether he will be wise or a fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too is vanity.
+- mt: And who knows whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have showed myself wise under the sun. This is also vanity.
+- brenton: And who knows whether he will be a wise man or a fool? and whether he will have power over all my labour in which I laboured, and wherein I grew wise under the sun? this is also vanity.
 
 ### 1 Samuel 3:2
 - priority: `0`
@@ -139713,6 +139695,15 @@ Method:
 - mt: And he said, Behold now, I have taken upon me to speak unto the LORD: Possibly there shall be twenty found there. And he said, I will not destroy it for twenty's sake.
 - brenton: And he said, Since I am able to speak to the Lord, what if there should be found there twenty? And he said, I will not destroy it, if I should find there twenty.
 
+### Ecclesiastes 2:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.728`
+- fresh_brenton_ratio: `0.778`
+- fresh: For there is no memory of the wise man with the fool forever, since already the days that are coming were all forgotten; and how will the wise man die with the fool?
+- mt: For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dies the wise man? as the fool.
+- brenton: For there is no remembrance of the wise man with the fool for ever; forasmuch as now in the coming days all things are forgotten: and how shall the wise man die with the fool?
+
 ### Lamentations 1:18
 - priority: `0`
 - importance: `none`
@@ -140783,15 +140774,6 @@ Method:
 - fresh: And the elders of Gilead said to Jephthah, Not so now; we have come to you, and you shall go with us, and we shall fight against the sons of Ammon, and you shall be for us as head over all dwelling in Gilead.
 - mt: And the elders of Gilead said unto Jephthah, Therefore we return to you now, that you may go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.
 - brenton: And the elders of Galaad said to Jephthae, Therefore have we now turned to thee, that thou shouldest go with us, and fight against the sons of Ammon, and be our head over all the inhabitants of Galaad.
-
-### Ecclesiastes 2:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.731`
-- fresh_brenton_ratio: `0.723`
-- fresh: The eyes of a wise man in his head, but fool walks in darkness; and I knew, yes I, that one meeting meets them all.
-- mt: The wise man's eyes are in his head; but the fool walks in darkness: and I myself perceived also that one event happens to them all.
-- brenton: The wise man's eyes are in his head; but the fool walks in darkness: and I perceived, even I, that one event shall happen to them all.
 
 ### Ecclesiastes 2:9
 - priority: `0`
@@ -146525,6 +146507,15 @@ Method:
 - fresh: And your servant is in the midst of your people whom you chose, a numerous people who will not be numbered.
 - mt: And your servant is in the midst of your people which you have chosen, a great people, that cannot be numbered nor counted for multitude.
 - brenton: But thy servant is in the midst of thy people, whom thou hast chosen, a great people, which cannot be numbered.
+
+### Ecclesiastes 2:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.745`
+- fresh_brenton_ratio: `0.782`
+- fresh: And I hated all my toil with which I toil under the sun, because I leave it to the man coming after me.
+- mt: Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.
+- brenton: And I hated the whole of my labour which I took under the sun; because I must leave it to the man who will come after me.
 
 ### Deuteronomy 14:28
 - priority: `0`
@@ -157370,6 +157361,15 @@ Method:
 - fresh: But he said to him, My lord knows that the children are more delicate, and the sheep and the cattle with young are on me. So if I drive them hard one day, all the livestock will die.
 - mt: And he said unto him, My lord knows that the children are tender, and the flocks and herds with young are with me: and if men should beat them one day, all the flock will die.
 - brenton: And he said to him, My lord knows, that the children are very tender, and the flocks and the herds with me are with young; if then I shall drive them hard one day, all the cattle will die.
+
+### Ecclesiastes 2:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.772`
+- fresh_brenton_ratio: `0.764`
+- fresh: The eyes of a wise man are in his head, but the fool walks in darkness; and I knew, yes I, that one meeting meets them all.
+- mt: The wise man's eyes are in his head; but the fool walks in darkness: and I myself perceived also that one event happens to them all.
+- brenton: The wise man's eyes are in his head; but the fool walks in darkness: and I perceived, even I, that one event shall happen to them all.
 
 ### Genesis 26:4
 - priority: `0`

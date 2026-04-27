@@ -154784,91 +154784,91 @@ Note:
 ### Ecclesiastes 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The eyes of a wise man in his head, but fool walks in darkness; and I knew, yes I, that one meeting meets them all.
+- fresh: The eyes of a wise man are in his head, but the fool walks in darkness; and I knew, yes I, that one meeting meets them all.
 - brenton: The wise man's eyes are in his head; but the fool walks in darkness: and I perceived, even I, that one event shall happen to them all.
 
 ### Ecclesiastes 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said in my heart, "As meeting of fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too vanity, because fool speaks from surplus.
+- fresh: And I said in my heart, "As the meeting of the fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too is vanity, because a fool speaks from surplus.
 - brenton: And I said in my heart, As the event of the fool is, so shall it be to me, even to me; and to what purpose have I gained wisdom? I said moreover in my heart, This is also vanity, because the fool speaks of his abundance.
 
 ### Ecclesiastes 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For there is no memory of wise with fool forever, since already days coming all were forgotten; and how will wise die with fool?
+- fresh: For there is no memory of the wise man with the fool forever, since already the days that are coming were all forgotten; and how will the wise man die with the fool?
 - brenton: For there is no remembrance of the wise man with the fool for ever; forasmuch as now in the coming days all things are forgotten: and how shall the wise man die with the fool?
 
 ### Ecclesiastes 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I hated life, because evil to me was work done under the sun, because all vanity and choice of spirit.
+- fresh: And I hated life, because evil to me was work done under the sun, because all is vanity and choice of spirit.
 - brenton: So I hated life; because the work that was wrought under the sun was evil before me: for all is vanity and waywardness of spirit.
 
 ### Ecclesiastes 2:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I hated all my toil with which I toil under the sun, because I leave it to man coming after me.
+- fresh: And I hated all my toil with which I toil under the sun, because I leave it to the man coming after me.
 - brenton: And I hated the whole of my labour which I took under the sun; because I must leave it to the man who will come after me.
 
 ### Ecclesiastes 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too vanity.
+- fresh: And who knows whether he will be wise or a fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too is vanity.
 - brenton: And who knows whether he will be a wise man or a fool? and whether he will have power over all my labour in which I laboured, and wherein I grew wise under the sun? this is also vanity.
 
 ### Ecclesiastes 2:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I turned to bid my heart farewell concerning all toil in which I toiled under the sun.
+- fresh: And I turned to bid my heart farewell concerning all the toil in which I toiled under the sun.
 - brenton: So I went about to dismiss from my heart all my labour wherein I had laboured under the sun.
 
 ### Ecclesiastes 2:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because there is man whose toil is in wisdom and knowledge and courage, and to man who did not toil in it he will give his portion; and this too vanity and great evil.
+- fresh: Because there is a man whose toil is in wisdom and knowledge and courage, and to a man who did not toil in it he will give his portion; and this too is vanity and a great evil.
 - brenton: For there is such a man that his labour is in wisdom, and in knowledge, and in fortitude; yet this man shall give his portion to one who has not laboured therein. This is also vanity and great evil.
 
 ### Ecclesiastes 2:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For what comes to man in all his toil and in choice of his heart in which he toils under the sun?
+- fresh: For what comes to a man in all his toil and in the choice of his heart in which he toils under the sun?
 - brenton: For it happens to a man in all his labour, and in the purpose of his heart wherein he labours under the sun.
 
 ### Ecclesiastes 2:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because all his days are pains, and his distraction wrath; even in night his heart does not sleep, and this too vanity.
+- fresh: Because all his days are pains, and his distraction is wrath; even in the night his heart does not sleep, and this too is vanity.
 - brenton: For all his days are days of sorrows, and vexation of spirit is his; in the night also his heart rests not. This is also vanity.
 
 ### Ecclesiastes 2:24

@@ -70132,43 +70132,43 @@ And I saw that wisdom has surplus over folly as the surplus of light over darkne
 
 **Ecclesiastes 2:14**
 
-The eyes of a wise man in his head, but fool walks in darkness; and I knew, yes I, that one meeting meets them all.
+The eyes of a wise man are in his head, but the fool walks in darkness; and I knew, yes I, that one meeting meets them all.
 
 **Ecclesiastes 2:15**
 
-And I said in my heart, "As meeting of fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too vanity, because fool speaks from surplus.
+And I said in my heart, "As the meeting of the fool, so also to me it will meet; and why then did I become wise more?" I spoke in my heart that this too is vanity, because a fool speaks from surplus.
 
 **Ecclesiastes 2:16**
 
-For there is no memory of wise with fool forever, since already days coming all were forgotten; and how will wise die with fool?
+For there is no memory of the wise man with the fool forever, since already the days that are coming were all forgotten; and how will the wise man die with the fool?
 
 **Ecclesiastes 2:17**
 
-And I hated life, because evil to me was work done under the sun, because all vanity and choice of spirit.
+And I hated life, because evil to me was work done under the sun, because all is vanity and choice of spirit.
 
 **Ecclesiastes 2:18**
 
-And I hated all my toil with which I toil under the sun, because I leave it to man coming after me.
+And I hated all my toil with which I toil under the sun, because I leave it to the man coming after me.
 
 **Ecclesiastes 2:19**
 
-And who knows whether he will be wise or fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too vanity.
+And who knows whether he will be wise or a fool? Yet he rules over all my toil in which I toiled and became wise under the sun; and this too is vanity.
 
 **Ecclesiastes 2:20**
 
-And I turned to bid my heart farewell concerning all toil in which I toiled under the sun.
+And I turned to bid my heart farewell concerning all the toil in which I toiled under the sun.
 
 **Ecclesiastes 2:21**
 
-Because there is man whose toil is in wisdom and knowledge and courage, and to man who did not toil in it he will give his portion; and this too vanity and great evil.
+Because there is a man whose toil is in wisdom and knowledge and courage, and to a man who did not toil in it he will give his portion; and this too is vanity and a great evil.
 
 **Ecclesiastes 2:22**
 
-For what comes to man in all his toil and in choice of his heart in which he toils under the sun?
+For what comes to a man in all his toil and in the choice of his heart in which he toils under the sun?
 
 **Ecclesiastes 2:23**
 
-Because all his days are pains, and his distraction wrath; even in night his heart does not sleep, and this too vanity.
+Because all his days are pains, and his distraction is wrath; even in the night his heart does not sleep, and this too is vanity.
 
 **Ecclesiastes 2:24**
 
