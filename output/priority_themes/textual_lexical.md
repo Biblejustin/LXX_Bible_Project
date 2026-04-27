@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 62
-Books: 23
+Rows: 63
+Books: 24
 
 ## Genesis 1:2
 - score: 21
@@ -340,6 +340,13 @@ Books: 23
 - keywords: god, judgment
 - fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 - brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
+
+## Song of Solomon 2:3
+- score: 16
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=beloved; crossref_top_vote=7; reco=keep
+- keywords: beloved
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ## Isaiah 9:6
 - score: 24

@@ -70994,11 +70994,11 @@ I am a flower of the field, a lily of the valleys.
 
 **Song of Solomon 2:2**
 
-As lily in the midst of thorns, so my dear one in the midst of daughters.
+As a lily in the midst of thorns, so my dear one in the midst of the daughters.
 
 **Song of Solomon 2:3**
 
-As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 
 **Song of Solomon 2:4**
 
@@ -71010,19 +71010,19 @@ Strengthen me with perfumes, heap me with apples, because I am wounded by love.
 
 **Song of Solomon 2:6**
 
-His left under my head, and his right will embrace me.
+His left is under my head, and his right will embrace me.
 
 **Song of Solomon 2:7**
 
-I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
+I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
 
 **Song of Solomon 2:8**
 
-The voice of my beloved. Look, he comes, leaping on mountains, springing on hills.
+The voice of my beloved. Look, he comes, leaping on the mountains, springing on the hills.
 
 **Song of Solomon 2:9**
 
-My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
+My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through the windows, looking through the lattices.
 
 **Song of Solomon 2:10**
 
@@ -71030,19 +71030,19 @@ My beloved answers and says to me, "Rise, come, my dear one, my beautiful one, m
 
 **Song of Solomon 2:11**
 
-Because look, winter passed, rain departed, went away for itself.
+Because look, the winter passed, the rain departed, went away for itself.
 
 **Song of Solomon 2:12**
 
-Flowers appeared in the land, time of pruning arrived, the voice of a turtledove was heard in our land.
+The flowers appeared in the land, the time of pruning arrived, the voice of a turtledove was heard in our land.
 
 **Song of Solomon 2:13**
 
-Fig tree brought forth its early figs; vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
+The fig tree brought forth its early figs; the vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
 
 **Song of Solomon 2:14**
 
-And come, my dove, in the shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
+And come, my dove, in the shelter of the rock, close to the forewall; show me your face and let me hear your voice, because your voice is sweet and your face is beautiful.
 
 **Song of Solomon 2:15**
 
@@ -71050,11 +71050,11 @@ Catch for us foxes, little foxes destroying vineyards, and our vineyards are blo
 
 **Song of Solomon 2:16**
 
-My beloved to me, and I to him, the one shepherding among lilies.
+My beloved is to me, and I am to him, the one shepherding among the lilies.
 
 **Song of Solomon 2:17**
 
-Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains.
+Until the day breathes and the shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on the mountains of clefts.
 
 ### Chapter 3
 

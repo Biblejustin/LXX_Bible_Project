@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 724
+Rows: 725
 
 ## 2 Chronicles 6:14
 - priority: `24`
@@ -2764,6 +2764,15 @@ Rows: 724
 - fresh: And the Lord called Moses and spoke to him from the tent of testimony, saying,
 - mt: And the LORD called unto Moses, and spoke unto him out of the tabernacle of the congregation, saying,
 - brenton: And the Lord called Moses again and spoke to him out of the tabernacle of witness, saying, Speak to the children of Israel, and thou shalt say to them,
+
+## Song of Solomon 2:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.791`
+- fresh_brenton_ratio: `0.590`
+- fresh: My beloved is to me, and I am to him, the one shepherding among the lilies.
+- mt: My beloved is mine, and I am his: he feeds among the lilies.
+- brenton: My kinsman is mine, and I am his: he feeds his flock among the lilies.
 
 ## Joshua 15:43
 - priority: `0`

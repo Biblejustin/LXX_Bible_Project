@@ -156667,19 +156667,19 @@ Note:
 ### Song of Solomon 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As lily in the midst of thorns, so my dear one in the midst of daughters.
+- fresh: As a lily in the midst of thorns, so my dear one in the midst of the daughters.
 - brenton: As a lily among thorns, so is my companion among the daughters.
 
 ### Song of Solomon 2:3
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ### Song of Solomon 2:4
@@ -156703,28 +156703,28 @@ Note:
 ### Song of Solomon 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His left under my head, and his right will embrace me.
+- fresh: His left is under my head, and his right will embrace me.
 - brenton: His left hand shall be under my head, and his right hand shall embrace me.
 
 ### Song of Solomon 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
 - brenton: I have charged you, ye daughters of Jerusalem, by the powers and by the virtues of the field, that ye do not rouse or wake my love, until he please.
 
 ### Song of Solomon 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of my beloved. Look, he comes, leaping on mountains, springing on hills.
+- fresh: The voice of my beloved. Look, he comes, leaping on the mountains, springing on the hills.
 - brenton: The voice of my kinsman! behold, he comes leaping over the mountains, bounding over the hills.
 
 ### Song of Solomon 2:9
@@ -156733,7 +156733,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
+- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through the windows, looking through the lattices.
 - brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
 
 ### Song of Solomon 2:10
@@ -156748,37 +156748,37 @@ Note:
 ### Song of Solomon 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because look, winter passed, rain departed, went away for itself.
+- fresh: Because look, the winter passed, the rain departed, went away for itself.
 - brenton: For, behold, the winter is past, the rain is gone, it has departed.
 
 ### Song of Solomon 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Flowers appeared in the land, time of pruning arrived, the voice of a turtledove was heard in our land.
+- fresh: The flowers appeared in the land, the time of pruning arrived, the voice of a turtledove was heard in our land.
 - brenton: The flowers are seen in the land; the time of pruning has arrived; the voice of the turtle-dove has been heard in our land.
 
 ### Song of Solomon 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Fig tree brought forth its early figs; vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
+- fresh: The fig tree brought forth its early figs; the vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
 - brenton: The fig-tree has put forth its young figs, the vines put forth the tender grape, they yield a smell: arise, come, my companion, my fair one, my dove; yea, come.
 
 ### Song of Solomon 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And come, my dove, in the shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
+- fresh: And come, my dove, in the shelter of the rock, close to the forewall; show me your face and let me hear your voice, because your voice is sweet and your face is beautiful.
 - brenton: Thou art my dove, in the shelter of the rock, near the wall: shew me thy face, and cause me to hear thy voice; for thy voice is sweet, and thy countenance is beautiful.
 
 ### Song of Solomon 2:15
@@ -156793,19 +156793,19 @@ Note:
 ### Song of Solomon 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My beloved to me, and I to him, the one shepherding among lilies.
+- fresh: My beloved is to me, and I am to him, the one shepherding among the lilies.
 - brenton: My kinsman is mine, and I am his: he feeds his flock among the lilies.
 
 ### Song of Solomon 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains.
+- fresh: Until the day breathes and the shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on the mountains of clefts.
 - brenton: Until the day dawn, and the shadows depart, turn, my kinsman, be thou like to a roe or young hart on the mountains of the ravines.
 
 ### Song of Solomon 3:1

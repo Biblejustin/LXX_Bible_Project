@@ -2172,6 +2172,17 @@ Rows: 233
 - OT clues: Ps.36.7 (29) -> Be subjected to the Lord and entreat him. Do not be jealous in one prospering in his way, in man doing lawless things. || Ps.91.4 (21) -> on ten-stringed psaltery, with song on lyre. || Ps.63.7 (17) -> They searched out lawlessnesses; they failed, searching out searchings. Man will come near, and heart deep. || Ps.17.8 (15) -> And earth was shaken and became trembling; foundations of mountains were troubled and shaken, because God was angered with them.
 - NT clues: Heb.6.10 (13) -> For God is not unrighteous to forget your work and labour of love, (o. agape) which all of you have showed toward his name, in that all of you have ministered to the saints, and do minister.
 
+## Song of Solomon 2:3
+- score: 16
+- latest review status: revised
+- top vote: 7
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- OT clues: Song.8.5 (7) -> Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you. || Isa.25.4 (6) -> For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged. || Isa.32.2 (6) -> And man will be hiding his words and will be hidden as from carried water, and will appear in Zion as glorious flowing river in thirsty land. || Ezek.47.12 (3) -> And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
+- NT clues: Heb.1.1-Heb.1.6 (6) -> God, who at several times and in divers manners spoke in time past unto the fathers by the prophets, || Heb.12.2 (5) -> Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. || John.1.14-John.1.18 (4) -> And the Word (o. logos) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+
 ## Zephaniah 1:7
 - score: 16
 - latest review status: revised
@@ -2509,14 +2520,3 @@ Rows: 233
 - fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
 - OT clues: Eccl.7.1 (9) -> A good name is above good oil, and the day of death above the day of his birth. || Exod.30.23-Exod.30.28 (8) -> And you, take sweet spices: five hundred shekels of choice-flowing myrrh, and half that amount, two hundred fifty of sweet cinnamon, and two hundred fifty of sweet calamus, || Song.4.10 (8) -> How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices. || Ps.45.7-Ps.45.8 (7) -> Nations were troubled, kingdoms bowed; he gave his voice, earth was shaken.
 - NT clues: John.12.3 (8) -> Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment. || Phil.2.9-Phil.2.10 (7) -> Wherefore God also has highly exalted him, and given him a name which is above every name: || Rev.14.4 (6) -> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits unto God and to the Lamb.
-
-## Song of Solomon 1:8
-- score: 13
-- latest review status: keep
-- top vote: 6
-- OT crossrefs: 2
-- NT crossrefs: 6
-- shared-family hits: 0
-- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
-- OT clues: Song.6.1 (6) -> Where did your beloved go, beautiful among women? Where did your beloved look away, and we will seek him with you? || Song.5.9 (5) -> What is your beloved beyond beloved, beautiful among women? What is your beloved beyond beloved, that thus you bound us by oath?
-- NT clues: Heb.11.4-Heb.11.40 (3) -> By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaks. || Jas.2.21 (3) -> Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? || Jas.5.10 (3) -> Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.

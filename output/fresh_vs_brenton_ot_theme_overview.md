@@ -16,7 +16,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Zechariah 12:10 → score 22
 
 ## Textual / Lexical Crux
-- rows: 62
+- rows: 63
 - Exodus 20:24 → score 35
 - Leviticus 4:31 → score 34
 - 1 Kings 2:35 → score 32

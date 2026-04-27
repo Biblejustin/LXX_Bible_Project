@@ -20,11 +20,11 @@ Selected verses: 6
 - fresh: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
 - brenton: Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one that is veiled by the flocks of thy companions.
 
-## Song of Solomon 1:8
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd; crossref_top_vote=6; reco=keep
-- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
-- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
+## Song of Solomon 2:3
+- score: 16
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=beloved; crossref_top_vote=7; reco=keep
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ## Song of Solomon 5:6
 - score: 15

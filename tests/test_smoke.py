@@ -2434,7 +2434,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "said the Lord, the one rescuing you" in by_ref["Isaiah 54:8"]["draft_translation"]
     assert "The Lord stirred the spirit of the king of Medes" in by_ref["Jeremiah 28:11"]["draft_translation"]
     assert "beside the gates of rulers" in by_ref["Proverbs 1:21"]["draft_translation"]
-    assert "by powers and by strengths of the field" in by_ref["Song of Solomon 2:7"]["draft_translation"]
+    assert "by the powers and by the strengths of the field" in by_ref["Song of Solomon 2:7"]["draft_translation"]
     assert "in the vineyards of wine" in by_ref["1 Chronicles 27:27"]["draft_translation"]
     assert by_ref["2 Chronicles 4:17"]["draft_translation"].startswith("In the region of Jordan the king cast them in the thickness of the earth")
     assert "with a force of mighty warriors" in by_ref["2 Chronicles 13:3"]["draft_translation"]
@@ -4291,6 +4291,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "your eyes are doves" in by_ref["Song of Solomon 1:15"][
+        "draft_translation"
+    ]
+    assert "As a lily in the midst of thorns" in by_ref["Song of Solomon 2:2"][
+        "draft_translation"
+    ]
+    assert "among the trees of the grove" in by_ref["Song of Solomon 2:3"][
+        "draft_translation"
+    ]
+    assert "the winter passed, the rain departed" in by_ref[
+        "Song of Solomon 2:11"
+    ]["draft_translation"]
+    assert "your voice is sweet and your face is beautiful" in by_ref[
+        "Song of Solomon 2:14"
+    ]["draft_translation"]
+    assert "among the lilies" in by_ref["Song of Solomon 2:16"][
         "draft_translation"
     ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")

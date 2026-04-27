@@ -5,7 +5,7 @@ Drafted rows checked: 22909
 Rows with MT witness: 21754
 Rows with Brenton witness: 22321
 Rows same as MT, different from Brenton: 53
-Rows MT-leaning vs Brenton: 724
+Rows MT-leaning vs Brenton: 725
 Rows different from both: 20937
 
 Method:
@@ -3151,6 +3151,15 @@ Method:
 - fresh: And the Lord called Moses and spoke to him from the tent of testimony, saying,
 - mt: And the LORD called unto Moses, and spoke unto him out of the tabernacle of the congregation, saying,
 - brenton: And the Lord called Moses again and spoke to him out of the tabernacle of witness, saying, Speak to the children of Israel, and thou shalt say to them,
+
+### Song of Solomon 2:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.791`
+- fresh_brenton_ratio: `0.590`
+- fresh: My beloved is to me, and I am to him, the one shepherding among the lilies.
+- mt: My beloved is mine, and I am his: he feeds among the lilies.
+- brenton: My kinsman is mine, and I am his: he feeds his flock among the lilies.
 
 ### Joshua 15:43
 - priority: `0`
@@ -8671,6 +8680,15 @@ Method:
 - mt: And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which has made the sea and the dry land.
 - brenton: And he said to them, I am a servant of the Lord; and I worship the Lord God of heaven, who made the sea, and the dry land.
 
+### Song of Solomon 2:3
+- priority: `16`
+- importance: `high`
+- fresh_mt_ratio: `0.760`
+- fresh_brenton_ratio: `0.723`
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- mt: As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.
+- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
+
 ### Ruth 2:12
 - priority: `16`
 - importance: `high`
@@ -8877,15 +8895,6 @@ Method:
 - fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
 - mt: The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 - brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
-
-### Song of Solomon 1:8
-- priority: `13`
-- importance: `high`
-- fresh_mt_ratio: `0.676`
-- fresh_brenton_ratio: `0.631`
-- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
-- mt: If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
-- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
 
 ### Obadiah 1:15
 - priority: `13`
@@ -66217,15 +66226,6 @@ Method:
 - mt: And though the Lord give you the bread of adversity, and the water of affliction, yet shall not your teachers be removed into a corner any more, but yours eyes shall see your teachers:
 - brenton: And though the Lord shall give you the bread of affliction and scant water, yet they that cause thee to err shall no more at all draw nigh to thee; for thine eyes shall see those that cause thee to err,
 
-### Song of Solomon 2:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.435`
-- fresh_brenton_ratio: `0.586`
-- fresh: Fig tree brought forth its early figs; vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
-- mt: The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.
-- brenton: The fig-tree has put forth its young figs, the vines put forth the tender grape, they yield a smell: arise, come, my companion, my fair one, my dove; yea, come.
-
 ### Genesis 27:44
 - priority: `0`
 - importance: `none`
@@ -69817,15 +69817,6 @@ Method:
 - mt: The way of life is above to the wise, that he may depart from hell beneath.
 - brenton: The thoughts of the wise are ways of life, that he may turn aside and escape from hell.
 
-### Song of Solomon 2:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.464`
-- fresh_brenton_ratio: `0.472`
-- fresh: Because look, winter passed, rain departed, went away for itself.
-- mt: For, lo, the winter is past, the rain is over and gone;
-- brenton: For, behold, the winter is past, the rain is gone, it has departed.
-
 ### Genesis 41:8
 - priority: `0`
 - importance: `none`
@@ -72570,6 +72561,15 @@ Method:
 - fresh: On your walls, Jerusalem, I appointed watchmen all day and all night; through all end they will not be silent, remembering Lord.
 - mt: I have set watchmen upon your walls, O Jerusalem, which shall never hold their peace day nor night: all of you that make mention of the LORD, keep not silence,
 - brenton: And on thy walls, O Jerusalem, have I set watchmen all day and all night, who shall never cease making mention of the Lord.
+
+### Song of Solomon 2:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.484`
+- fresh_brenton_ratio: `0.628`
+- fresh: The fig tree brought forth its early figs; the vineyards in blossom gave scent. Rise, come, my dear one, my beautiful one, my dove.
+- mt: The fig tree puts forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.
+- brenton: The fig-tree has put forth its young figs, the vines put forth the tender grape, they yield a smell: arise, come, my companion, my fair one, my dove; yea, come.
 
 ### Ezekiel 27:35
 - priority: `0`
@@ -83623,6 +83623,15 @@ Method:
 - mt: Yet have you not walked after their ways, nor done after their abominations: but, as if that were a very little thing, you were corrupted more than they in all your ways.
 - brenton: Yet notwithstanding thou hast not walked in their ways, neither hast thou done according to their iniquities within a little, but thou hast exceeded them in all thy ways.
 
+### Song of Solomon 2:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.550`
+- fresh_brenton_ratio: `0.550`
+- fresh: Because look, the winter passed, the rain departed, went away for itself.
+- mt: For, lo, the winter is past, the rain is over and gone;
+- brenton: For, behold, the winter is past, the rain is gone, it has departed.
+
 ### Micah 1:9
 - priority: `0`
 - importance: `none`
@@ -86997,15 +87006,6 @@ Method:
 - fresh: And as offering he will prepare a cake with the bull and a cake with the ram, and a hin of oil with the cake.
 - mt: And he shall prepare a food offering of an ephah for a bullock, and an ephah for a ram, and an hin of oil for an ephah.
 - brenton: And thou shalt prepare a cake for the calf, and cakes for the ram, and a hin of oil for the cake.
-
-### Song of Solomon 2:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.565`
-- fresh_brenton_ratio: `0.728`
-- fresh: And come, my dove, in the shelter of rock, close to the forewall; show me your face and let me hear your voice, because your voice sweet and your face beautiful.
-- mt: O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely.
-- brenton: Thou art my dove, in the shelter of the rock, near the wall: shew me thy face, and cause me to hear thy voice; for thy voice is sweet, and thy countenance is beautiful.
 
 ### 1 Samuel 2:33
 - priority: `0`
@@ -94648,15 +94648,6 @@ Method:
 - mt: They fought from heaven; the stars in their courses fought against Sisera.
 - brenton: The stars from heaven set themselves in array, they set themselves to fight with Sisara out of their paths.
 
-### Song of Solomon 2:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.599`
-- fresh_brenton_ratio: `0.573`
-- fresh: Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains.
-- mt: Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart upon the mountains of Bether.
-- brenton: Until the day dawn, and the shadows depart, turn, my kinsman, be thou like to a roe or young hart on the mountains of the ravines.
-
 ### Isaiah 58:7
 - priority: `0`
 - importance: `none`
@@ -95880,15 +95871,6 @@ Method:
 - fresh: Your silver you shall not give to him at interest, and your food you shall not give to him for increase.
 - mt: You shall not give him your money upon interest, nor lend him your victuals for increase.
 - brenton: Thou shalt not lend thy money to him at interest, and thou shalt not lend thy meat to him to be returned with increase.
-
-### Song of Solomon 2:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.603`
-- fresh_brenton_ratio: `0.634`
-- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
-- mt: My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.
-- brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
 
 ### Ezra 2:36
 - priority: `0`
@@ -101173,6 +101155,15 @@ Method:
 - mt: And they will salute you, and give you two loaves of bread; which you shall receive of their hands.
 - brenton: And they shall ask thee how thou doest, and shall give thee two presents of bread, and thou shalt receive them of their hand.
 
+### Song of Solomon 2:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.622`
+- fresh_brenton_ratio: `0.638`
+- fresh: As a lily in the midst of thorns, so my dear one in the midst of the daughters.
+- mt: As the lily among thorns, so is my love among the daughters.
+- brenton: As a lily among thorns, so is my companion among the daughters.
+
 ### Job 39:14
 - priority: `0`
 - importance: `none`
@@ -101577,6 +101568,15 @@ Method:
 - fresh: And I will destroy judge from her, and all her rulers I will kill with him, says the Lord.
 - mt: And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, says the LORD.
 - brenton: And I will destroy the judge out of her, and slay all her princes with him, saith the Lord.
+
+### Song of Solomon 2:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.623`
+- fresh_brenton_ratio: `0.767`
+- fresh: And come, my dove, in the shelter of the rock, close to the forewall; show me your face and let me hear your voice, because your voice is sweet and your face is beautiful.
+- mt: O my dove, that are in the clefts of the rock, in the secret places of the stairs, let me see your countenance, let me hear your voice; for sweet is your voice, and your countenance is comely.
+- brenton: Thou art my dove, in the shelter of the rock, near the wall: shew me thy face, and cause me to hear thy voice; for thy voice is sweet, and thy countenance is beautiful.
 
 ### Psalms 111:3
 - priority: `0`
@@ -105663,15 +105663,6 @@ Method:
 - fresh: And shall we listen to you to do all this evil, to act faithlessly toward our God, seating foreign women?
 - mt: Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?
 - brenton: So we will not hearken to you to do all this evil, to break covenant with our God, —to marry strange wives.
-
-### Song of Solomon 2:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.636`
-- fresh_brenton_ratio: `0.636`
-- fresh: As lily in the midst of thorns, so my dear one in the midst of daughters.
-- mt: As the lily among thorns, so is my love among the daughters.
-- brenton: As a lily among thorns, so is my companion among the daughters.
 
 ### Isaiah 60:2
 - priority: `0`
@@ -118867,6 +118858,15 @@ Method:
 - mt: Let your garments be always white; and let your head lack no ointment.
 - brenton: Let thy garments be always white; and let not oil be wanting on thine head.
 
+### Song of Solomon 1:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.676`
+- fresh_brenton_ratio: `0.631`
+- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
+- mt: If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
+- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
+
 ### 2 Kings 11:10
 - priority: `0`
 - importance: `none`
@@ -121369,15 +121369,6 @@ Method:
 - mt: I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please.
 - brenton: I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.
 
-### Song of Solomon 2:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.683`
-- fresh_brenton_ratio: `0.761`
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
-- mt: I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please.
-- brenton: I have charged you, ye daughters of Jerusalem, by the powers and by the virtues of the field, that ye do not rouse or wake my love, until he please.
-
 ### Genesis 40:2
 - priority: `0`
 - importance: `none`
@@ -123150,6 +123141,15 @@ Method:
 - fresh: And I will give you dark treasures, hidden unseen ones I will open for you, so you may know that I, the Lord God, one calling your name, am God of Israel.
 - mt: And I will give you the treasures of darkness, and hidden riches of secret places, that you may know that I, the LORD, which call you by your name, am the God of Israel.
 - brenton: And I will give thee the treasures of darkness, I will open to thee hidden, unseen treasures, that thou mayest know that I, the Lord thy God, that call thee by name, am the God of Israel.
+
+### Song of Solomon 2:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.688`
+- fresh_brenton_ratio: `0.664`
+- fresh: Until the day breathes and the shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on the mountains of clefts.
+- mt: Until the day break, and the shadows flee away, turn, my beloved, and be you like a roe or a young hart upon the mountains of Bether.
+- brenton: Until the day dawn, and the shadows depart, turn, my kinsman, be thou like to a roe or young hart on the mountains of the ravines.
 
 ### Proverbs 3:1
 - priority: `0`
@@ -128236,6 +128236,15 @@ Method:
 - mt: And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spoke by Elijah.
 - brenton: And the pitcher of meal failed not, and the cruse of oil was not diminished, according to the word of the Lord which he spoke by the hand of Eliu.
 
+### Song of Solomon 2:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.700`
+- fresh_brenton_ratio: `0.771`
+- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through the windows, looking through the lattices.
+- mt: My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.
+- brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
+
 ### Isaiah 10:5
 - priority: `0`
 - importance: `none`
@@ -133231,6 +133240,15 @@ Method:
 - mt: Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.
 - brenton: And we will give our daughters to you, and we will take of your daughters for wives to us, and we will dwell with you, and we will be as one race.
 
+### Song of Solomon 2:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.712`
+- fresh_brenton_ratio: `0.796`
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
+- mt: I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please.
+- brenton: I have charged you, ye daughters of Jerusalem, by the powers and by the virtues of the field, that ye do not rouse or wake my love, until he please.
+
 ### Isaiah 19:4
 - priority: `0`
 - importance: `none`
@@ -136903,15 +136921,6 @@ Method:
 - mt: And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
 - brenton: And Abraam said, God will provide himself a sheep for a whole-burnt-offering, my son. And both having gone together,
 
-### Song of Solomon 2:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.721`
-- fresh_brenton_ratio: `0.845`
-- fresh: Flowers appeared in the land, time of pruning arrived, the voice of a turtledove was heard in our land.
-- mt: The flowers appear on the earth; the time of the singing of birds has come, and the voice of the turtle is heard in our land;
-- brenton: The flowers are seen in the land; the time of pruning has arrived; the voice of the turtle-dove has been heard in our land.
-
 ### Judges 10:13
 - priority: `0`
 - importance: `none`
@@ -137451,15 +137460,6 @@ Method:
 - fresh: And the king said to Ziba, Behold, yours are all the things that belong to Mephibosheth. And Ziba said, Bowing down, May I find favor in your eyes, my lord king.
 - mt: Then said the king to Ziba, Behold, yours are all that pertained unto Mephibosheth. And Ziba said, I humbly plead to you that I may find grace in your sight, my lord, O king.
 - brenton: And the king said to Siba, Behold, all Memphibosthe's property is thine. And Siba did obeisance and said, My lord, O king, let me find grace in thine eyes.
-
-### Song of Solomon 2:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.723`
-- fresh_brenton_ratio: `0.543`
-- fresh: My beloved to me, and I to him, the one shepherding among lilies.
-- mt: My beloved is mine, and I am his: he feeds among the lilies.
-- brenton: My kinsman is mine, and I am his: he feeds his flock among the lilies.
 
 ### 2 Kings 19:3
 - priority: `0`
@@ -149980,15 +149980,6 @@ Method:
 - mt: All of you shall do no unrighteousness in judgment: you shall not respect the person of the poor, nor honor the person of the mighty: but in righteousness shall you judge your neighbour.
 - brenton: Thou shalt not act unjustly in judgment: thou shalt not accept the person of the poor, nor admire the person of the mighty; with justice shalt thou judge thy neighbour.
 
-### Song of Solomon 2:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.754`
-- fresh_brenton_ratio: `0.694`
-- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
-- mt: As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.
-- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
-
 ### Genesis 41:40
 - priority: `0`
 - importance: `none`
@@ -154713,6 +154704,15 @@ Method:
 - fresh: And Israel dwelt in the land of Egypt, on the land of Goshen, and they gained an inheritance on it and increased and multiplied greatly.
 - mt: And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
 - brenton: And Israel dwelt in Egypt, in the land of Gesem, and they gained an inheritance upon it; and they increased and multiplied very greatly.
+
+### Song of Solomon 2:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.765`
+- fresh_brenton_ratio: `0.886`
+- fresh: The flowers appeared in the land, the time of pruning arrived, the voice of a turtledove was heard in our land.
+- mt: The flowers appear on the earth; the time of the singing of birds has come, and the voice of the turtle is heard in our land;
+- brenton: The flowers are seen in the land; the time of pruning has arrived; the voice of the turtle-dove has been heard in our land.
 
 ### Ezekiel 13:4
 - priority: `0`
@@ -163911,6 +163911,15 @@ Method:
 - fresh: Come near, you, and hear whatever the Lord our God may say, and you will speak to us all that the Lord our God speaks to you, and we shall hear and do.
 - mt: Go you near, and hear all that the LORD our God shall say: and speak you unto us all that the LORD our God shall speak unto you; and we will hear it, and do it.
 - brenton: Do thou draw near, and hear all that the Lord our God shall say, and thou shalt speak to us all things whatsoever the Lord our God shall speak to thee, and we will hear, and do.
+
+### Song of Solomon 2:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.791`
+- fresh_brenton_ratio: `0.590`
+- fresh: My beloved is to me, and I am to him, the one shepherding among the lilies.
+- mt: My beloved is mine, and I am his: he feeds among the lilies.
+- brenton: My kinsman is mine, and I am his: he feeds his flock among the lilies.
 
 ### Ezekiel 36:19
 - priority: `0`
@@ -173758,15 +173767,6 @@ Method:
 - mt: And, behold, the LORD stood above it, and said, I am the LORD God of Abraham your father, and the God of Isaac: the land whereon you lie, to you will I give it, and to your seed;
 - brenton: And the Lord stood upon it, and said, I am the God of thy father Abraam, and the God of Isaac; fear not, the land on which thou liest, to thee will I give it, and to thy seed.
 
-### Song of Solomon 2:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.821`
-- fresh_brenton_ratio: `0.806`
-- fresh: His left under my head, and his right will embrace me.
-- mt: His left hand is under my head, and his right hand does embrace me.
-- brenton: His left hand shall be under my head, and his right hand shall embrace me.
-
 ### Genesis 27:7
 - priority: `0`
 - importance: `none`
@@ -178492,15 +178492,6 @@ Method:
 - mt: But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 - brenton: But now our soul is dried up; our eyes turn to nothing but to the manna.
 
-### Song of Solomon 2:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.838`
-- fresh_brenton_ratio: `0.743`
-- fresh: The voice of my beloved. Look, he comes, leaping on mountains, springing on hills.
-- mt: The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills.
-- brenton: The voice of my kinsman! behold, he comes leaping over the mountains, bounding over the hills.
-
 ### Genesis 8:16
 - priority: `0`
 - importance: `none`
@@ -181317,6 +181308,15 @@ Method:
 - fresh: And he turned aside to her on the road and said to her, Let me come in to you, for he did not know that she was his daughter-in-law. And she said, What will you give me if you come in to me?
 - mt: And he turned unto her by the way, and said, Go to, I pray you, let me come in unto you; (for he knew not that she was his daughter in law.) And she said, What will you give me, that you may come in unto me?
 - brenton: And he went out of his way to her, and said to her, Let me come in to thee; for he knew not that she was his daughter-in-law; and she said, What wilt thou give me if thou shouldest come in to me?
+
+### Song of Solomon 2:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.850`
+- fresh_brenton_ratio: `0.819`
+- fresh: His left is under my head, and his right will embrace me.
+- mt: His left hand is under my head, and his right hand does embrace me.
+- brenton: His left hand shall be under my head, and his right hand shall embrace me.
 
 ### Genesis 25:12
 - priority: `0`
@@ -189165,6 +189165,15 @@ Method:
 - fresh: And the fat and the kidneys and the lobe of the liver of the sin-offering he offered on the altar, just as the Lord commanded Moses.
 - mt: But the fat, and the kidneys, and the lobe above the liver of the sin offering, he burnt upon the altar; as the LORD commanded Moses.
 - brenton: And he offered up on the altar the fat and the kidneys and the lobe of the liver of the sin-offering, according as the Lord commanded Moses.
+
+### Song of Solomon 2:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.891`
+- fresh_brenton_ratio: `0.800`
+- fresh: The voice of my beloved. Look, he comes, leaping on the mountains, springing on the hills.
+- mt: The voice of my beloved! behold, he comes leaping upon the mountains, skipping upon the hills.
+- brenton: The voice of my kinsman! behold, he comes leaping over the mountains, bounding over the hills.
 
 ### 1 Chronicles 7:31
 - priority: `0`

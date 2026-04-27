@@ -3035,6 +3035,21 @@ Rows: 234
 - fresh: May the Lord repay your work, and may your wage be full from the Lord God of Israel, under whose wings you came to trust.
 - brenton: The Lord recompense thy work: may a full reward be given thee of the Lord God of Israel, to whom thou hast come to trust under his wings.
 
+## Song of Solomon 2:3
+- priority: `16`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
+
 ## Zephaniah 1:7
 - priority: `16`
 - importance: `high`
@@ -3499,18 +3514,3 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
 - brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
-
-## Song of Solomon 1:8
-- priority: `13`
-- importance: `high`
-- reason: high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
-- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
