@@ -56076,7 +56076,7 @@ I will not fear from myriads of the people those surrounding and attacking me.
 
 **Psalms 3:8**
 
-Rise up, Lord; save me, my God, because you struck all who hate me for nothing; teeth of sinners you shattered.
+Rise up, Lord; save me, my God, because you struck all who hate me for nothing; the teeth of sinners you shattered.
 
 **Psalms 3:9**
 
@@ -56260,7 +56260,7 @@ The Lord judges peoples. Judge me, Lord, according to my righteousness and accor
 
 **Psalms 7:10**
 
-Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
+Let the evil of sinners come to an end, and you will set a righteous man straight, examining hearts and kidneys, O God.
 
 **Psalms 7:11**
 
@@ -56518,7 +56518,7 @@ The Lord examines the righteous man and the ungodly man, but one loving injustic
 
 **Psalms 10:6**
 
-He will rain snares upon sinners, fire and sulfur and blast of storm, portion of their cup.
+He will rain snares upon sinners, fire and sulfur and blast of storm, the portion of their cup.
 
 **Psalms 10:7**
 
@@ -58144,7 +58144,7 @@ Stretch out your mercy to those knowing you and your righteousness to upright in
 
 **Psalms 35:12**
 
-Let foot of pride not come to me, and hand of sinners not shake me.
+Let the foot of pride not come to me, and the hand of sinners not shake me.
 
 **Psalms 35:13**
 
@@ -58218,7 +58218,7 @@ Better a little thing to the righteous man than much wealth of sinners,
 
 **Psalms 36:17**
 
-because arms of sinners will be broken, but the Lord supports righteous ones.
+because the arms of sinners will be broken, but the Lord supports righteous ones.
 
 **Psalms 36:18**
 
@@ -58262,7 +58262,7 @@ Turn away from evil and do good, and dwell into age of age,
 
 **Psalms 36:28**
 
-because the Lord loves judgment and will not forsake his holy ones. Into age they will be guarded, but lawless men will be driven out, and seed of ungodly men will be utterly destroyed.
+because the Lord loves judgment and will not forsake his holy ones. Into age they will be guarded, but lawless men will be driven out, and the seed of ungodly men will be utterly destroyed.
 
 **Psalms 36:29**
 
@@ -58302,7 +58302,7 @@ Guard innocence and see uprightness, because there is remnant for peaceful man.
 
 **Psalms 36:38**
 
-But lawless men will be utterly destroyed together; remnants of ungodly men will be utterly destroyed.
+But lawless men will be utterly destroyed together; the remnants of ungodly men will be utterly destroyed.
 
 **Psalms 36:39**
 

@@ -2866,6 +2866,28 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "shattered the arm of proud men" in by_ref["Job 38:15"][
         "draft_translation"
     ]
+    assert "the teeth of sinners you shattered" in by_ref["Psalms 3:8"][
+        "draft_translation"
+    ]
+    assert "Let the evil of sinners come to an end" in by_ref["Psalms 7:10"][
+        "draft_translation"
+    ]
+    assert "the portion of their cup" in by_ref["Psalms 10:6"]["draft_translation"]
+    assert "Let the foot of pride not come to me" in by_ref["Psalms 35:12"][
+        "draft_translation"
+    ]
+    assert "the hand of sinners not shake me" in by_ref["Psalms 35:12"][
+        "draft_translation"
+    ]
+    assert "the arms of sinners will be broken" in by_ref["Psalms 36:17"][
+        "draft_translation"
+    ]
+    assert "the seed of ungodly men will be utterly destroyed" in by_ref[
+        "Psalms 36:28"
+    ]["draft_translation"]
+    assert "the remnants of ungodly men will be utterly destroyed" in by_ref[
+        "Psalms 36:38"
+    ]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

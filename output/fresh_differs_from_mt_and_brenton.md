@@ -23141,6 +23141,15 @@ Rows: 20939
 - mt: The hangings of the one side of the gate were fifteen cubits; their pillars three, and their sockets three.
 - brenton: the stem solid, and the branches from both its sides;
 
+## Psalms 10:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.211`
+- fresh_brenton_ratio: `0.721`
+- fresh: He will rain snares upon sinners, fire and sulfur and blast of storm, the portion of their cup.
+- mt: He has said in his heart, I shall not be moved: for I shall never be in adversity.
+- brenton: He shall rain upon sinners snares, fire, and brimstone, and a stormy blast shall be the portion of their cup.
+
 ## Jeremiah 28:5
 - priority: `0`
 - importance: `none`
@@ -23851,15 +23860,6 @@ Rows: 20939
 - fresh: Until age I will prepare your seed and build your throne to generation and generation. Interlude.
 - mt: Free among the dead, like the slain that lie in the grave, whom you remember no more: and they are cut off from your hand.
 - brenton: I will establish thy seed for ever, and build up thy throne to all generations. Pause.
-
-## Psalms 10:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.216`
-- fresh_brenton_ratio: `0.705`
-- fresh: He will rain snares upon sinners, fire and sulfur and blast of storm, portion of their cup.
-- mt: He has said in his heart, I shall not be moved: for I shall never be in adversity.
-- brenton: He shall rain upon sinners snares, fire, and brimstone, and a stormy blast shall be the portion of their cup.
 
 ## Psalms 76:10
 - priority: `0`
@@ -25669,15 +25669,6 @@ Rows: 20939
 - fresh: The Lord scatters counsels of nations, sets aside reasonings of peoples, and sets aside counsels of rulers.
 - mt: Many sorrows shall be to the wicked: but he that trusts in the LORD, mercy shall compass him about.
 - brenton: The Lord frustrates the counsels of the nations; he brings to nought also the reasonings of the peoples, and brings to nought the counsels of princes.
-
-## Psalms 35:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.230`
-- fresh_brenton_ratio: `0.726`
-- fresh: Let foot of pride not come to me, and hand of sinners not shake me.
-- mt: They rewarded me evil for good to the spoiling of my soul.
-- brenton: Let not the foot of pride come against me, and let not the hand of sinners move me.
 
 ## Psalms 60:2
 - priority: `0`
@@ -28280,6 +28271,15 @@ Rows: 20939
 - mt: I will praise you: for you have heard me, and are become my salvation.
 - brenton: Thou hast rebuked the proud: cursed are they that turn aside from thy commandments.
 
+## Psalms 35:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.246`
+- fresh_brenton_ratio: `0.792`
+- fresh: Let the foot of pride not come to me, and the hand of sinners not shake me.
+- mt: They rewarded me evil for good to the spoiling of my soul.
+- brenton: Let not the foot of pride come against me, and let not the hand of sinners move me.
+
 ## Psalms 69:5
 - priority: `0`
 - importance: `none`
@@ -28900,6 +28900,15 @@ Rows: 20939
 - fresh: until his word came; saying of the Lord refined him.
 - mt: He appointed the moon for seasons: the sun knows his going down.
 - brenton: until the time that his cause came on; the word of the Lord tried him as fire.
+
+## Psalms 7:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.250`
+- fresh_brenton_ratio: `0.653`
+- fresh: Let the evil of sinners come to an end, and you will set a righteous man straight, examining hearts and kidneys, O God.
+- mt: My defence is of God, which saves the upright in heart.
+- brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
 
 ## Psalms 101:4
 - priority: `0`
@@ -31700,6 +31709,15 @@ Rows: 20939
 - mt: I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not return to folly.
 - brenton: There is none like to thee, O Lord, among the gods; and there are no works like to thy works.
 
+## Psalms 3:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.267`
+- fresh_brenton_ratio: `0.591`
+- fresh: Rise up, Lord; save me, my God, because you struck all who hate me for nothing; the teeth of sinners you shattered.
+- mt: Salvation belongs unto the LORD: your blessing is upon your people. Selah.
+- brenton: Arise, Lord; deliver me, my God: for thou hast smitten all who were without cause mine enemies; thou hast broken the teeth of sinners.
+
 ## Psalms 68:18
 - priority: `0`
 - importance: `none`
@@ -32635,15 +32653,6 @@ Rows: 20939
 - fresh: And Ephraim did not destroy the Canaanite dwelling in Gezer, and the Canaanite dwelt in Ephraim until this day, until Pharaoh king of Egypt went up and took it and burned it with fire, and he pierced through the Canaanites and the Perizzites and those dwelling in Gezer, and Pharaoh gave it as a gift to his daughter.
 - mt: And they drove not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.
 - brenton: And Ephraim did not destroy the Chananite who dwelt in Gazer; and the Chananite dwelt in Ephraim until this day, until Pharao the king of Egypt went up and took it, and burnt it with fire; and the Chananites, and Pherezites, and the dwellers in Gaza they destroyed, and Pharao gave them for a dowry to his daughter.
-
-## Psalms 3:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.273`
-- fresh_brenton_ratio: `0.567`
-- fresh: Rise up, Lord; save me, my God, because you struck all who hate me for nothing; teeth of sinners you shattered.
-- mt: Salvation belongs unto the LORD: your blessing is upon your people. Selah.
-- brenton: Arise, Lord; deliver me, my God: for thou hast smitten all who were without cause mine enemies; thou hast broken the teeth of sinners.
 
 ## Psalms 38:1
 - priority: `0`
@@ -46621,15 +46630,6 @@ Rows: 20939
 - fresh: And set around it siege and build against it defenses and cast around it trench and set camps against it and place missile-stations around.
 - mt: And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.
 - brenton: And thou shalt besiege it, and build works against it, and throw up a mound round about it, and pitch camps against it, and set up engines round about.
-
-## Psalms 7:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.348`
-- fresh_brenton_ratio: `0.622`
-- fresh: Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
-- mt: My defence is of God, which saves the upright in heart.
-- brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
 
 ## Nehemiah 11:12
 - priority: `0`

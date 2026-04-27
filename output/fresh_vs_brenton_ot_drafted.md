@@ -123973,10 +123973,10 @@ Note:
 ### Psalms 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise up, Lord; save me, my God, because you struck all who hate me for nothing; teeth of sinners you shattered.
+- fresh: Rise up, Lord; save me, my God, because you struck all who hate me for nothing; the teeth of sinners you shattered.
 - brenton: Arise, Lord; deliver me, my God: for thou hast smitten all who were without cause mine enemies; thou hast broken the teeth of sinners.
 
 ### Psalms 3:9
@@ -124369,10 +124369,10 @@ Note:
 ### Psalms 7:10
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
+- fresh: Let the evil of sinners come to an end, and you will set a righteous man straight, examining hearts and kidneys, O God.
 - brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
 
 ### Psalms 7:11
@@ -124936,10 +124936,10 @@ Note:
 ### Psalms 10:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will rain snares upon sinners, fire and sulfur and blast of storm, portion of their cup.
+- fresh: He will rain snares upon sinners, fire and sulfur and blast of storm, the portion of their cup.
 - brenton: He shall rain upon sinners snares, fire, and brimstone, and a stormy blast shall be the portion of their cup.
 
 ### Psalms 10:7
@@ -128482,10 +128482,10 @@ Note:
 ### Psalms 35:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let foot of pride not come to me, and hand of sinners not shake me.
+- fresh: Let the foot of pride not come to me, and the hand of sinners not shake me.
 - brenton: Let not the foot of pride come against me, and let not the hand of sinners move me.
 
 ### Psalms 35:13
@@ -128644,10 +128644,10 @@ Note:
 ### Psalms 36:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because arms of sinners will be broken, but the Lord supports righteous ones.
+- fresh: because the arms of sinners will be broken, but the Lord supports righteous ones.
 - brenton: For the arms of sinners shall be broken; but the Lord supports the righteous.
 
 ### Psalms 36:18
@@ -128743,10 +128743,10 @@ Note:
 ### Psalms 36:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because the Lord loves judgment and will not forsake his holy ones. Into age they will be guarded, but lawless men will be driven out, and seed of ungodly men will be utterly destroyed.
+- fresh: because the Lord loves judgment and will not forsake his holy ones. Into age they will be guarded, but lawless men will be driven out, and the seed of ungodly men will be utterly destroyed.
 - brenton: For the Lord loves judgment, and will not forsake his saints; they shall be preserved for ever: the blameless shall be avenged, but the seed of the ungodly shall be utterly destroyed.
 
 ### Psalms 36:29
@@ -128833,10 +128833,10 @@ Note:
 ### Psalms 36:38
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But lawless men will be utterly destroyed together; remnants of ungodly men will be utterly destroyed.
+- fresh: But lawless men will be utterly destroyed together; the remnants of ungodly men will be utterly destroyed.
 - brenton: But the transgressors shall be utterly destroyed together: the remnants of the ungodly shall be utterly destroyed.
 
 ### Psalms 36:39
