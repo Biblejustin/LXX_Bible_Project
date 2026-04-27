@@ -33927,6 +33927,15 @@ Method:
 - mt: The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.
 - brenton: Pour out thy wrath upon them, and let the fury of thine anger take hold on them.
 
+### Psalms 74:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.238`
+- fresh_brenton_ratio: `0.802`
+- fresh: And all the horns of sinners I will shatter, and the horns of the righteous one will be exalted.
+- mt: Why withdraw you your hand, even your right hand? pluck it out of your bosom.
+- brenton: And I will break all the horns of sinners; but the horns of the righteous one shall be exalted.
+
 ### Song of Solomon 7:12
 - priority: `0`
 - importance: `none`
@@ -35807,15 +35816,6 @@ Method:
 - fresh: Many say, Who will show us good things? Light of your face, Lord, was marked upon us.
 - mt: You have put gladness in my heart, more than in the time that their corn and their wine increased.
 - brenton: Many say, Who will shew us good things? the light of thy countenance, O Lord, has been manifested towards us.
-
-### Psalms 74:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.250`
-- fresh_brenton_ratio: `0.771`
-- fresh: And all horns of sinners I will shatter, and horns of the righteous one will be exalted.
-- mt: Why withdraw you your hand, even your right hand? pluck it out of your bosom.
-- brenton: And I will break all the horns of sinners; but the horns of the righteous one shall be exalted.
 
 ### Psalms 80:2
 - priority: `0`
@@ -39137,15 +39137,6 @@ Method:
 - fresh: But if it is stolen from him, he shall repay its owner.
 - mt: Then shall an oath of the LORD be between them both, that he has not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good.
 - brenton: And if it be stolen from him, he shall make compensation to the owner.
-
-### Proverbs 11:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.270`
-- fresh_brenton_ratio: `0.740`
-- fresh: In the mouth of ungodly snare to citizens, but perception of righteous good way.
-- mt: An hypocrite with his mouth destroys his neighbour: but through knowledge shall the just be delivered.
-- brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Psalms 88:14
 - priority: `0`
@@ -49245,15 +49236,6 @@ Method:
 - mt: And it was an hand breadth thick, and the brim thereof was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.
 - brenton: And Chiram made the caldrons, and the pans, and the bowls; and Chiram finished making all the works that he wrought for king Solomon in the house of the Lord:
 
-### Proverbs 28:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.324`
-- fresh_brenton_ratio: `0.847`
-- fresh: In the places of ungodly righteous groan, but in their destruction righteous will multiply.
-- mt: When the wicked rise, men hide themselves: but when they perish, the righteous increase.
-- brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
-
 ### Psalms 79:3
 - priority: `0`
 - importance: `none`
@@ -49424,6 +49406,15 @@ Method:
 - fresh: For all the house of my father were nothing but men of death to my lord the king, yet you set your servant among those eating at your table. And what right have I still, even to cry out further to the king?
 - mt: And the king said unto him, Why speak you any more of your matters? I have said, You and Ziba divide the land.
 - brenton: For all the house of my father were but as dead men before my lord the king; yet thou hast set thy servant among them that eat at thy table: and what right have I any longer even to cry to the king?
+
+### Psalms 124:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.325`
+- fresh_brenton_ratio: `0.793`
+- fresh: Because the Lord will not leave rod of sinners upon the lot of the righteous, lest the righteous stretch out their hands in lawlessness.
+- mt: Then they had swallowed us up quick, when their wrath was kindled against us:
+- brenton: For the Lord will not allow the rod of sinners to be upon the lot of the righteous; lest the righteous should stretch forth their hands to iniquity.
 
 ### Jeremiah 48:10
 - priority: `0`
@@ -50946,6 +50937,15 @@ Method:
 - mt: The sea saw it, and fled: Jordan was driven back.
 - brenton: The pangs of death compassed me; the dangers of hell found me: I found affliction and sorrow.
 
+### Psalms 33:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.333`
+- fresh_brenton_ratio: `0.754`
+- fresh: Many are the afflictions of the righteous ones, and from all of them he will rescue them.
+- mt: Our soul waits for the LORD: he is our help and our shield.
+- brenton: Many are the afflictions of the righteous: but out of them all the Lord will deliver them.
+
 ### Psalms 52:7
 - priority: `0`
 - importance: `none`
@@ -51737,15 +51737,6 @@ Method:
 - fresh: And the woman said, Why have you reckoned such a thing against the people of God? Even from the mouth of the king this word is like an offense, in that the king does not bring back his banished one.
 - mt: And the woman said, Wherefore then have you thought such a thing against the people of God? for the king does speak this thing as one which is faulty, in that the king does not fetch home again his banished.
 - brenton: And the woman said, Why hast thou devised this thing against the people of God? or is this word out of the king's mouth as a transgression, so that the king should not bring back his banished?
-
-### Psalms 124:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.338`
-- fresh_brenton_ratio: `0.757`
-- fresh: Because the Lord will not leave rod of sinners upon lot of the righteous, lest righteous stretch out their hands in lawlessness.
-- mt: Then they had swallowed us up quick, when their wrath was kindled against us:
-- brenton: For the Lord will not allow the rod of sinners to be upon the lot of the righteous; lest the righteous should stretch forth their hands to iniquity.
 
 ### Proverbs 14:25
 - priority: `0`
@@ -52646,15 +52637,6 @@ Method:
 - fresh: But he repays man according to what each does, and in the path of man he will find him.
 - mt: For the work of a man shall he render unto him, and cause every man to find according to his ways.
 - brenton: Yea, he renders to a man accordingly as each of them does, and in a man's path he will find him.
-
-### Psalms 139:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.343`
-- fresh_brenton_ratio: `0.737`
-- fresh: Yet righteous will give thanks to your name, and upright will dwell with your face.
-- mt: I will praise you; for I am fearfully and wonderfully made: marvellous are your works; and that my soul knows right well.
-- brenton: Surely the righteous shall give thanks to thy name: the upright shall dwell in thy presence.
 
 ### 1 Kings 20:20
 - priority: `0`
@@ -54654,6 +54636,15 @@ Method:
 - mt: And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
 - brenton: And the children of Israel were numbered, and came to meet them: and Israel encamped before them as two little flocks of goats, but Syria filled the land.
 
+### Proverbs 28:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.354`
+- fresh_brenton_ratio: `0.892`
+- fresh: In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
+- mt: When the wicked rise, men hide themselves: but when they perish, the righteous increase.
+- brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
+
 ### Psalms 95:7
 - priority: `0`
 - importance: `none`
@@ -55544,6 +55535,15 @@ Method:
 - fresh: It escaped every man and was hidden from the birds of heaven.
 - mt: Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.
 - brenton: It has escaped the notice of every man, and has been hidden from the birds of the sky.
+
+### Psalms 139:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.359`
+- fresh_brenton_ratio: `0.771`
+- fresh: Yet the righteous will give thanks to your name, and the upright will dwell with your face.
+- mt: I will praise you; for I am fearfully and wonderfully made: marvellous are your works; and that my soul knows right well.
+- brenton: Surely the righteous shall give thanks to thy name: the upright shall dwell in thy presence.
 
 ### Jeremiah 51:2
 - priority: `0`
@@ -57048,15 +57048,6 @@ Method:
 - mt: He will not always chide: neither will he keep his anger for ever.
 - brenton: Thou hast set a bound which they shall not pass, neither shall they turn again to cover the earth.
 
-### Psalms 33:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.368`
-- fresh_brenton_ratio: `0.695`
-- fresh: Many afflictions of the righteous ones, and from all of them he will rescue them.
-- mt: Our soul waits for the LORD: he is our help and our shield.
-- brenton: Many are the afflictions of the righteous: but out of them all the Lord will deliver them.
-
 ### Psalms 79:1
 - priority: `0`
 - importance: `none`
@@ -58424,6 +58415,15 @@ Method:
 - fresh: But if you say, "I do not know this man," know that the Lord of all hearts knows, and one forming breath for all himself knows all, who repays each according to his works.
 - mt: If you says, Behold, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and shall not he render to every man according to his works?
 - brenton: But if thou shouldest say, I know not this man; know that the Lord knows the hearts of all; and he that formed breath for all, he knows all things, who renders to every man according to his works.
+
+### Proverbs 11:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.375`
+- fresh_brenton_ratio: `0.769`
+- fresh: In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
+- mt: An hypocrite with his mouth destroys his neighbour: but through knowledge shall the just be delivered.
+- brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Jeremiah 48:3
 - priority: `0`
@@ -61854,6 +61854,15 @@ Method:
 - mt: I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.
 - brenton: I said, I shall no more at all see the salvation of God in the land of the living: I shall no more at all see the salvation of Israel on the earth: I shall no more at all see man.
 
+### Proverbs 24:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.400`
+- fresh_brenton_ratio: `0.505`
+- fresh: For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
+- mt: For a just man falls seven times, and rises up again: but the wicked shall fall into mischief.
+- brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
+
 ### Hosea 13:14
 - priority: `0`
 - importance: `none`
@@ -65076,15 +65085,6 @@ Method:
 - mt: Yours heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?
 - brenton: Your soul shall meditate terror. Where are the scribes? where are the counsellors, where is he that numbers them that are growing up,
 
-### Proverbs 11:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.426`
-- fresh_brenton_ratio: `0.696`
-- fresh: In good things of righteous city prospered.
-- mt: When it goes well with the righteous, the city rejoices: and when the wicked perish, there is shouting.
-- brenton: In the prosperity of righteous men a city prospers:
-
 ### Psalms 3:5
 - priority: `0`
 - importance: `none`
@@ -66029,15 +66029,6 @@ Method:
 - fresh: In much strength he took hold of my garment; like collar of my tunic it encircled me.
 - mt: By the great force of my disease is my garment changed: it binds me about as the collar of my coat.
 - brenton: With great force my disease has taken hold of my garment: it has compassed me as the collar of my coat.
-
-### Proverbs 24:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.433`
-- fresh_brenton_ratio: `0.516`
-- fresh: For seven times righteous will fall and rise, but ungodly will grow weak in evils.
-- mt: For a just man falls seven times, and rises up again: but the wicked shall fall into mischief.
-- brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
 
 ### Job 21:34
 - priority: `0`
@@ -71502,6 +71493,15 @@ Method:
 - mt: But if he thrust him of hatred, or hurl at him by laying of wait, that he die;
 - brenton: And if he should thrust him through enmity, or cast any thing upon him from an ambuscade, and the man should die,
 
+### Proverbs 11:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.476`
+- fresh_brenton_ratio: `0.633`
+- fresh: In good things of the righteous, a city prospered.
+- mt: When it goes well with the righteous, the city rejoices: and when the wicked perish, there is shouting.
+- brenton: In the prosperity of righteous men a city prospers:
+
 ### Numbers 24:4
 - priority: `0`
 - importance: `none`
@@ -71889,6 +71889,15 @@ Method:
 - mt: The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
 - brenton: That sorely oppress the people of the land with injustice, and commit robbery; oppressing the poor and needy, and not dealing justly with the stranger.
 
+### Proverbs 12:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.479`
+- fresh_brenton_ratio: `0.642`
+- fresh: A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
+- mt: The righteous is more excellent than his neighbour: but the way of the wicked seduces them.
+- brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
+
 ### Leviticus 21:13
 - priority: `0`
 - importance: `none`
@@ -72014,15 +72023,6 @@ Method:
 - fresh: I will throw abomination on you according to your uncleanness and make you an example.
 - mt: And I will cast abominable filth upon you, and make you vile, and will set you as a gazing-stock.
 - brenton: And I will cast abominable filth upon thee according to thine unclean ways, and will make thee a public example.
-
-### Proverbs 12:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.480`
-- fresh_brenton_ratio: `0.659`
-- fresh: Knowing righteous will be his own friend, but counsels of ungodly harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
-- mt: The righteous is more excellent than his neighbour: but the way of the wicked seduces them.
-- brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
 
 ### Ezekiel 7:12
 - priority: `0`
@@ -83859,15 +83859,6 @@ Method:
 - mt: Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,
 - brenton: And to the sons of Aaron he gave the city of refuge for the slayer, Chebron, and the suburbs belonging to it; and Lemna and the suburbs belonging to it;
 
-### Proverbs 29:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.550`
-- fresh_brenton_ratio: `0.702`
-- fresh: For sinful man great snare, but righteous will be in joy and gladness.
-- mt: In the transgression of an evil man there is a snare: but the righteous does sing and rejoice.
-- brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
-
 ### Isaiah 46:3
 - priority: `0`
 - importance: `none`
@@ -85722,6 +85713,15 @@ Method:
 - mt: Put not forth yourself in the presence of the king, and stand not in the place of great men:
 - brenton: Be not boastful in the presence of the king, and remain not in the places of princes;
 
+### Proverbs 11:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.559`
+- fresh_brenton_ratio: `0.671`
+- fresh: One trusting in wealth will fall, but one helping the righteous will spring up.
+- mt: He that trusts in his riches shall fall; but the righteous shall flourish as a branch.
+- brenton: He that trusts in wealth shall fall; but he that helps righteous men shall rise.
+
 ### 2 Kings 2:13
 - priority: `0`
 - importance: `none`
@@ -86144,15 +86144,6 @@ Method:
 - fresh: and from the clean birds of heaven seven by seven, male and female, and from all the birds not clean, two by two, male and female, to keep seed alive over all the earth.
 - mt: Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.
 - brenton: And of clean flying creatures of the sky sevens, male and female, and of all unclean flying creatures pairs, male and female, to maintain seed on all the earth.
-
-### Proverbs 11:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.561`
-- fresh_brenton_ratio: `0.689`
-- fresh: One trusting in wealth will fall, but one helping righteous will spring up.
-- mt: He that trusts in his riches shall fall; but the righteous shall flourish as a branch.
-- brenton: He that trusts in wealth shall fall; but he that helps righteous men shall rise.
 
 ### Genesis 21:26
 - priority: `0`
@@ -90176,6 +90167,15 @@ Method:
 - fresh: All sayings of my mouth with righteousness; nothing in them crooked or twisted.
 - mt: All the words of my mouth are in righteousness; there is nothing perverse or perverse in them.
 - brenton: All the words of my mouth are in righteousness; there is nothing in them wrong or perverse.
+
+### Proverbs 29:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.580`
+- fresh_brenton_ratio: `0.713`
+- fresh: For sinful man is a great snare, but the righteous will be in joy and gladness.
+- mt: In the transgression of an evil man there is a snare: but the righteous does sing and rejoice.
+- brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
 
 ### Ezekiel 47:17
 - priority: `0`
@@ -98052,15 +98052,6 @@ Method:
 - mt: And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem.
 - brenton: And he had many works in Judea: and the mighty men of war, the men of strength, were in Jerusalem.
 
-### Proverbs 12:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.610`
-- fresh_brenton_ratio: `0.713`
-- fresh: Man will not prosper from lawless thing, but roots of righteous will not be pulled up.
-- mt: A man shall not be established by wickedness: but the root of the righteous shall not be moved.
-- brenton: A man shall not prosper by wickedness; but the roots of the righteous shall not be taken up.
-
 ### Leviticus 20:6
 - priority: `0`
 - importance: `none`
@@ -102245,15 +102236,6 @@ Method:
 - fresh: And Shiphrah, taking a stone, circumcised the foreskin of her son and fell at his feet and said, 'The blood of my child's circumcision stands.'
 - mt: Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband are you to me.
 - brenton: And Sepphora having taken a stone cut off the foreskin of her son, and fell at his feet and said, The blood of the circumcision of my son is staunched:
-
-### Proverbs 10:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.625`
-- fresh_brenton_ratio: `0.812`
-- fresh: The lips of righteous know high things, but fools die in want.
-- mt: The lips of the righteous feed many: but fools die for lack of wisdom.
-- brenton: The lips of the righteous know sublime truths: but the foolish die in want.
 
 ### Proverbs 3:35
 - priority: `0`
@@ -107519,6 +107501,15 @@ Method:
 - fresh: And their boundaries came from the south as far as the part of the Salt Sea, from the ridge bearing toward the south,
 - mt: And their south border was from the shore of the salt sea, from the bay that looks southward:
 - brenton: And their borders were from the south as far as a part of the salt sea from the high country that extends southward.
+
+### Proverbs 12:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.641`
+- fresh_brenton_ratio: `0.742`
+- fresh: Man will not prosper from lawless thing, but roots of the righteous will not be pulled up.
+- mt: A man shall not be established by wickedness: but the root of the righteous shall not be moved.
+- brenton: A man shall not prosper by wickedness; but the roots of the righteous shall not be taken up.
 
 ### Numbers 33:17
 - priority: `0`
@@ -116267,6 +116258,15 @@ Method:
 - fresh: I overthrew you as God overthrew Sodom and Gomorrah, and you became like a brand snatched from fire, and not even thus did you return to me, says the Lord.
 - mt: I have overthrown some of you, as God overthrew Sodom and Gomorrah, and all of you were as a firebrand plucked out of the burning: yet have all of you not returned unto me, says the LORD.
 - brenton: I overthrew you, as God overthrew Sodoma and Gomorrha, and ye became as a brand plucked out of the fire: yet not even thus did ye return to me, saith the Lord.
+
+### Proverbs 10:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.847`
+- fresh: The lips of the righteous know high things, but fools die in want.
+- mt: The lips of the righteous feed many: but fools die for lack of wisdom.
+- brenton: The lips of the righteous know sublime truths: but the foolish die in want.
 
 ### 1 Samuel 15:30
 - priority: `0`

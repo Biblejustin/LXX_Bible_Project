@@ -128095,10 +128095,10 @@ Note:
 ### Psalms 33:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Many afflictions of the righteous ones, and from all of them he will rescue them.
+- fresh: Many are the afflictions of the righteous ones, and from all of them he will rescue them.
 - brenton: Many are the afflictions of the righteous: but out of them all the Lord will deliver them.
 
 ### Psalms 33:21
@@ -128842,10 +128842,10 @@ Note:
 ### Psalms 36:39
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But salvation of the righteous ones from the Lord, and he is their defender in the time of affliction.
+- fresh: But salvation of the righteous ones is from the Lord, and he is their defender in the time of affliction.
 - brenton: But the salvation of the righteous is of the Lord; and he is their defender in the time of affliction.
 
 ### Psalms 36:40
@@ -134485,10 +134485,10 @@ Note:
 ### Psalms 74:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all horns of sinners I will shatter, and horns of the righteous one will be exalted.
+- fresh: And all the horns of sinners I will shatter, and the horns of the righteous one will be exalted.
 - brenton: And I will break all the horns of sinners; but the horns of the righteous one shall be exalted.
 
 ### Psalms 75:1
@@ -143872,10 +143872,10 @@ Note:
 ### Psalms 124:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord will not leave rod of sinners upon lot of the righteous, lest righteous stretch out their hands in lawlessness.
+- fresh: Because the Lord will not leave rod of sinners upon the lot of the righteous, lest the righteous stretch out their hands in lawlessness.
 - brenton: For the Lord will not allow the rod of sinners to be upon the lot of the righteous; lest the righteous should stretch forth their hands to iniquity.
 
 ### Psalms 124:4
@@ -145348,10 +145348,10 @@ Note:
 ### Psalms 139:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet righteous will give thanks to your name, and upright will dwell with your face.
+- fresh: Yet the righteous will give thanks to your name, and the upright will dwell with your face.
 - brenton: Surely the righteous shall give thanks to thy name: the upright shall dwell in thy presence.
 
 ### Psalms 140:1
@@ -148950,10 +148950,10 @@ Note:
 ### Proverbs 10:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The lips of righteous know high things, but fools die in want.
+- fresh: The lips of the righteous know high things, but fools die in want.
 - brenton: The lips of the righteous know sublime truths: but the foolish die in want.
 
 ### Proverbs 10:22
@@ -149121,19 +149121,19 @@ Note:
 ### Proverbs 11:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the mouth of ungodly snare to citizens, but perception of righteous good way.
+- fresh: In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
 - brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Proverbs 11:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In good things of righteous city prospered.
+- fresh: In good things of the righteous, a city prospered.
 - brenton: In the prosperity of righteous men a city prospers:
 
 ### Proverbs 11:11
@@ -149292,10 +149292,10 @@ Note:
 ### Proverbs 11:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One trusting in wealth will fall, but one helping righteous will spring up.
+- fresh: One trusting in wealth will fall, but one helping the righteous will spring up.
 - brenton: He that trusts in wealth shall fall; but he that helps righteous men shall rise.
 
 ### Proverbs 11:29
@@ -149346,10 +149346,10 @@ Note:
 ### Proverbs 12:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Man will not prosper from lawless thing, but roots of righteous will not be pulled up.
+- fresh: Man will not prosper from lawless thing, but roots of the righteous will not be pulled up.
 - brenton: A man shall not prosper by wickedness; but the roots of the righteous shall not be taken up.
 
 ### Proverbs 12:4
@@ -149553,10 +149553,10 @@ Note:
 ### Proverbs 12:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Knowing righteous will be his own friend, but counsels of ungodly harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
+- fresh: A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
 - brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
 
 ### Proverbs 12:27
@@ -152514,10 +152514,10 @@ Note:
 ### Proverbs 24:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For seven times righteous will fall and rise, but ungodly will grow weak in evils.
+- fresh: For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
 - brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
 
 ### Proverbs 24:17
@@ -153675,10 +153675,10 @@ Note:
 ### Proverbs 28:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the places of ungodly righteous groan, but in their destruction righteous will multiply.
+- fresh: In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
 - brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
 
 ### Proverbs 29:1
@@ -153729,10 +153729,10 @@ Note:
 ### Proverbs 29:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For sinful man great snare, but righteous will be in joy and gladness.
+- fresh: For sinful man is a great snare, but the righteous will be in joy and gladness.
 - brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
 
 ### Proverbs 29:7

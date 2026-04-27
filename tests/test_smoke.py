@@ -2700,6 +2700,47 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "there is not a righteous man on earth" in by_ref["Ecclesiastes 7:20"][
         "draft_translation"
     ]
+    assert "Many are the afflictions of the righteous ones" in by_ref["Psalms 33:20"][
+        "draft_translation"
+    ]
+    assert "salvation of the righteous ones is from the Lord" in by_ref["Psalms 36:39"][
+        "draft_translation"
+    ]
+    assert "the horns of the righteous one will be exalted" in by_ref["Psalms 74:11"][
+        "draft_translation"
+    ]
+    assert "upon the lot of the righteous" in by_ref["Psalms 124:3"]["draft_translation"]
+    assert "lest the righteous stretch out their hands" in by_ref["Psalms 124:3"][
+        "draft_translation"
+    ]
+    assert "Yet the righteous will give thanks" in by_ref["Psalms 139:14"][
+        "draft_translation"
+    ]
+    assert "The lips of the righteous know high things" in by_ref["Proverbs 10:21"][
+        "draft_translation"
+    ]
+    assert "perception of the righteous is a good way" in by_ref["Proverbs 11:9"][
+        "draft_translation"
+    ]
+    assert "In good things of the righteous, a city prospered" in by_ref["Proverbs 11:10"][
+        "draft_translation"
+    ]
+    assert "one helping the righteous will spring up" in by_ref["Proverbs 11:28"][
+        "draft_translation"
+    ]
+    assert "roots of the righteous will not be pulled up" in by_ref["Proverbs 12:3"][
+        "draft_translation"
+    ]
+    assert "A discerning righteous one will be his own friend" in by_ref["Proverbs 12:26"][
+        "draft_translation"
+    ]
+    assert "seven times the righteous will fall and rise" in by_ref["Proverbs 24:16"][
+        "draft_translation"
+    ]
+    assert "the righteous groan" in by_ref["Proverbs 28:28"]["draft_translation"]
+    assert "the righteous will multiply" in by_ref["Proverbs 28:28"]["draft_translation"]
+    assert "sinful man is a great snare" in by_ref["Proverbs 29:6"]["draft_translation"]
+    assert "the righteous will be in joy" in by_ref["Proverbs 29:6"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -3078,7 +3119,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "hope of the ungodly will perish" in by_ref["Job 8:13"]["draft_translation"]
     assert "hands of the ungodly" in by_ref["Job 9:24"]["draft_translation"]
     assert "gladness of the ungodly" in by_ref["Job 20:5"]["draft_translation"]
-    assert "Many afflictions of the righteous ones" in by_ref["Psalms 33:20"]["draft_translation"]
+    assert "Many are the afflictions of the righteous ones" in by_ref["Psalms 33:20"][
+        "draft_translation"
+    ]
     assert "horns of the righteous one will be exalted" in by_ref["Psalms 74:11"]["draft_translation"]
     assert "lot of the righteous" in by_ref["Psalms 124:3"]["draft_translation"]
     assert "cry of the poor upon him" in by_ref["Job 34:28"]["draft_translation"]
@@ -4213,7 +4256,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Psalms 28:4"]["draft_translation"].startswith("The voice of the Lord is in strength")
     assert by_ref["Psalms 28:5"]["draft_translation"].startswith("The voice of the Lord shattering")
     assert by_ref["Proverbs 8:13"]["draft_translation"].startswith("The fear of the Lord hates")
-    assert by_ref["Proverbs 10:21"]["draft_translation"].startswith("The lips of righteous know")
+    assert by_ref["Proverbs 10:21"]["draft_translation"].startswith("The lips of the righteous know")
     assert by_ref["Proverbs 14:10"]["draft_translation"].startswith("The heart of perceptive man knows")
     assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise")
     assert by_ref["1 Chronicles 2:29"]["draft_translation"].startswith(

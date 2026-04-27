@@ -57968,7 +57968,7 @@ The Lord near to those crushed in heart, and he will save humble in spirit.
 
 **Psalms 33:20**
 
-Many afflictions of the righteous ones, and from all of them he will rescue them.
+Many are the afflictions of the righteous ones, and from all of them he will rescue them.
 
 **Psalms 33:21**
 
@@ -58306,7 +58306,7 @@ But lawless men will be utterly destroyed together; remnants of ungodly men will
 
 **Psalms 36:39**
 
-But salvation of the righteous ones from the Lord, and he is their defender in the time of affliction.
+But salvation of the righteous ones is from the Lord, and he is their defender in the time of affliction.
 
 **Psalms 36:40**
 
@@ -60890,7 +60890,7 @@ But I will exult forever; I will sing to God of Jacob.
 
 **Psalms 74:11**
 
-And all horns of sinners I will shatter, and horns of the righteous one will be exalted.
+And all the horns of sinners I will shatter, and the horns of the righteous one will be exalted.
 
 ### Chapter 75
 
@@ -65162,7 +65162,7 @@ Mountains around her, and the Lord around his people, from now and until age.
 
 **Psalms 124:3**
 
-Because the Lord will not leave rod of sinners upon lot of the righteous, lest righteous stretch out their hands in lawlessness.
+Because the Lord will not leave rod of sinners upon the lot of the righteous, lest the righteous stretch out their hands in lawlessness.
 
 **Psalms 124:4**
 
@@ -65848,7 +65848,7 @@ I knew the Lord will do judgment of a poor one and justice of the needy.
 
 **Psalms 139:14**
 
-Yet righteous will give thanks to your name, and upright will dwell with your face.
+Yet the righteous will give thanks to your name, and the upright will dwell with your face.
 
 ### Chapter 140
 
@@ -67492,7 +67492,7 @@ Refined silver tongue of righteous, but heart of ungodly will fail.
 
 **Proverbs 10:21**
 
-The lips of righteous know high things, but fools die in want.
+The lips of the righteous know high things, but fools die in want.
 
 **Proverbs 10:22**
 
@@ -67570,11 +67570,11 @@ A righteous one escapes from a trap, and ungodly is handed over in his place.
 
 **Proverbs 11:9**
 
-In the mouth of ungodly snare to citizens, but perception of righteous good way.
+In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
 
 **Proverbs 11:10**
 
-In good things of righteous city prospered.
+In good things of the righteous, a city prospered.
 
 **Proverbs 11:11**
 
@@ -67646,7 +67646,7 @@ One devising good seeks good favor, but one seeking evils will be overtaken by t
 
 **Proverbs 11:28**
 
-One trusting in wealth will fall, but one helping righteous will spring up.
+One trusting in wealth will fall, but one helping the righteous will spring up.
 
 **Proverbs 11:29**
 
@@ -67672,7 +67672,7 @@ Better man finding favor from the Lord, but lawless man will be silenced.
 
 **Proverbs 12:3**
 
-Man will not prosper from lawless thing, but roots of righteous will not be pulled up.
+Man will not prosper from lawless thing, but roots of the righteous will not be pulled up.
 
 **Proverbs 12:4**
 
@@ -67764,7 +67764,7 @@ A fearful word troubles the heart of a righteous man, but a good message gladden
 
 **Proverbs 12:26**
 
-Knowing righteous will be his own friend, but counsels of ungodly harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
+A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
 
 **Proverbs 12:27**
 
@@ -69104,7 +69104,7 @@ Do not bring ungodly to pasture of righteous, nor be deceived by filling of bell
 
 **Proverbs 24:16**
 
-For seven times righteous will fall and rise, but ungodly will grow weak in evils.
+For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
 
 **Proverbs 24:17**
 
@@ -69628,7 +69628,7 @@ One giving to poor will not be in need, but one turning away his eye will be in 
 
 **Proverbs 28:28**
 
-In the places of ungodly righteous groan, but in their destruction righteous will multiply.
+In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
 
 ### Chapter 29
 
@@ -69654,7 +69654,7 @@ One preparing net on the face of his own friend wraps it around his own feet.
 
 **Proverbs 29:6**
 
-For sinful man great snare, but righteous will be in joy and gladness.
+For sinful man is a great snare, but the righteous will be in joy and gladness.
 
 **Proverbs 29:7**
 
