@@ -70474,39 +70474,39 @@ Because who knows what is good for man in life, the number of days of his vain l
 
 **Ecclesiastes 7:1**
 
-Good name above good oil, and day of death above day of his birth.
+A good name is above good oil, and the day of death above the day of his birth.
 
 **Ecclesiastes 7:2**
 
-Better to go to the house of mourning than to go to the house of drinking, because this end of every man, and living one will give it to his heart.
+Better to go to the house of mourning than to go to the house of drinking, because this is the end of every man, and the living one will give it to his heart.
 
 **Ecclesiastes 7:3**
 
-Better anger than laughter, because by gloom of face heart will be made good.
+Better anger than laughter, because by the gloom of a face the heart will be made good.
 
 **Ecclesiastes 7:4**
 
-The heart of the wise in the house of mourning, and the heart of fools in the house of gladness.
+The heart of the wise is in the house of mourning, and the heart of fools is in the house of gladness.
 
 **Ecclesiastes 7:5**
 
-Better to hear rebuke of wise than man hearing song of fools.
+Better to hear a rebuke of a wise man than a man hearing a song of fools.
 
 **Ecclesiastes 7:6**
 
-Because as the sound of thorns under cauldron, so laughter of fools, and this too vanity.
+Because as the sound of thorns under the cauldron, so is the laughter of fools, and this too is vanity.
 
 **Ecclesiastes 7:7**
 
-Because slander drives wise man mad and destroys heart of his strength.
+Because slander drives a wise man mad and destroys the heart of his strength.
 
 **Ecclesiastes 7:8**
 
-Better end of matter than its beginning; better patient one than high in spirit.
+Better the end of a matter than its beginning; better a patient one than one high in spirit.
 
 **Ecclesiastes 7:9**
 
-Do not hurry in your spirit to be angry, because anger will rest in bosom of fools.
+Do not hurry in your spirit to be angry, because anger will rest in the bosom of fools.
 
 **Ecclesiastes 7:10**
 
@@ -70514,19 +70514,19 @@ Do not say, "What happened that former days were better than these?" because you
 
 **Ecclesiastes 7:11**
 
-Wisdom is good with inheritance, and surplus to those seeing the sun.
+Wisdom is good with inheritance, and a surplus to those seeing the sun.
 
 **Ecclesiastes 7:12**
 
-Because in its shadow wisdom is as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
+Because in its shadow wisdom is as the shadow of silver, and the surplus of the knowledge of wisdom will give life to its possessor.
 
 **Ecclesiastes 7:13**
 
-See works of God, because who can set in order what God twists?
+See the works of God, because who can set in order what God twists?
 
 **Ecclesiastes 7:14**
 
-In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
+In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that the man should find nothing after him.
 
 **Ecclesiastes 7:15**
 

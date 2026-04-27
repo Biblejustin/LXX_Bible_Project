@@ -3389,7 +3389,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "plowed like a field" in by_ref["Micah 3:12"]["draft_translation"]
     assert "as a shepherd snatches" in by_ref["Amos 3:12"]["draft_translation"]
     assert "like a flame of fire" in by_ref["Daniel 7:9"]["draft_translation"]
-    assert "as the sound of thorns" in by_ref["Ecclesiastes 7:6"]["draft_translation"]
+    assert "as the sound of thorns under the cauldron" in by_ref["Ecclesiastes 7:6"]["draft_translation"]
     assert "as a watchman" in by_ref["Ezekiel 3:17"]["draft_translation"]
     assert "as an iron wall" in by_ref["Ezekiel 4:3"]["draft_translation"]
     assert "like the dead of long ago" in by_ref["Lamentations 3:6"]["draft_translation"]
@@ -3918,6 +3918,8 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 9:1"]["draft_translation"].startswith(
         "Wisdom built a house for herself"
     )
+    assert by_ref["Ecclesiastes 7:1"]["draft_translation"].startswith("A good name is")
+    assert "this is the end of every man" in by_ref["Ecclesiastes 7:2"]["draft_translation"]
     assert by_ref["Ecclesiastes 7:11"]["draft_translation"].startswith("Wisdom is good")
     assert by_ref["Ecclesiastes 9:18"]["draft_translation"].startswith("Wisdom is good")
     assert by_ref["Proverbs 18:21"]["draft_translation"].startswith(
@@ -4750,7 +4752,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 8:13"]["draft_translation"].startswith("The fear of the Lord hates")
     assert by_ref["Proverbs 10:21"]["draft_translation"].startswith("The lips of the righteous know")
     assert by_ref["Proverbs 14:10"]["draft_translation"].startswith("The heart of perceptive man knows")
-    assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise")
+    assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise is")
     assert by_ref["1 Chronicles 2:29"]["draft_translation"].startswith(
         "And the name of the wife of Abishur"
     )
@@ -5032,8 +5034,8 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]["draft_translation"]
     assert by_ref["Proverbs 17:21"]["draft_translation"].startswith("The heart of a fool")
     assert "but the heart of fools" in by_ref["Proverbs 12:23"]["draft_translation"]
-    assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise")
-    assert "and the heart of fools" in by_ref["Ecclesiastes 7:4"]["draft_translation"]
+    assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise is")
+    assert "and the heart of fools is" in by_ref["Ecclesiastes 7:4"]["draft_translation"]
     assert "the heart of the king will perish and the heart of the rulers" in by_ref[
         "Jeremiah 4:9"
     ]["draft_translation"]

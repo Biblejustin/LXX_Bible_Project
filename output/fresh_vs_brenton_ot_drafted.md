@@ -155531,82 +155531,82 @@ Note:
 ### Ecclesiastes 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Good name above good oil, and day of death above day of his birth.
+- fresh: A good name is above good oil, and the day of death above the day of his birth.
 - brenton: A good name is better than good oil; and the day of death than the day of birth.
 
 ### Ecclesiastes 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better to go to the house of mourning than to go to the house of drinking, because this end of every man, and living one will give it to his heart.
+- fresh: Better to go to the house of mourning than to go to the house of drinking, because this is the end of every man, and the living one will give it to his heart.
 - brenton: It is better to go to the house of mourning, than to go to the banquet house: since this is the end of every man; and the living man will apply good warning to his heart.
 
 ### Ecclesiastes 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better anger than laughter, because by gloom of face heart will be made good.
+- fresh: Better anger than laughter, because by the gloom of a face the heart will be made good.
 - brenton: Sorrow is better than laughter: for by the sadness of the countenance the heart will be made better.
 
 ### Ecclesiastes 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The heart of the wise in the house of mourning, and the heart of fools in the house of gladness.
+- fresh: The heart of the wise is in the house of mourning, and the heart of fools is in the house of gladness.
 - brenton: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 
 ### Ecclesiastes 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better to hear rebuke of wise than man hearing song of fools.
+- fresh: Better to hear a rebuke of a wise man than a man hearing a song of fools.
 - brenton: It is better to hear a reproof of a wise man, than for a man to hear the song of fools.
 
 ### Ecclesiastes 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because as the sound of thorns under cauldron, so laughter of fools, and this too vanity.
+- fresh: Because as the sound of thorns under the cauldron, so is the laughter of fools, and this too is vanity.
 - brenton: As the sound of thorns under a caldron, so is the laughter of fools: this is also vanity.
 
 ### Ecclesiastes 7:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because slander drives wise man mad and destroys heart of his strength.
+- fresh: Because slander drives a wise man mad and destroys the heart of his strength.
 - brenton: For oppression makes a wise man mad, and destroys his noble heart.
 
 ### Ecclesiastes 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better end of matter than its beginning; better patient one than high in spirit.
+- fresh: Better the end of a matter than its beginning; better a patient one than one high in spirit.
 - brenton: The end of a matter is better than the beginning thereof: the patient is better than the high-minded.
 
 ### Ecclesiastes 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hurry in your spirit to be angry, because anger will rest in bosom of fools.
+- fresh: Do not hurry in your spirit to be angry, because anger will rest in the bosom of fools.
 - brenton: Be not hasty in thy spirit to be angry: for anger will rest in the bosom of fools.
 
 ### Ecclesiastes 7:10
@@ -155621,37 +155621,37 @@ Note:
 ### Ecclesiastes 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Wisdom is good with inheritance, and surplus to those seeing the sun.
+- fresh: Wisdom is good with inheritance, and a surplus to those seeing the sun.
 - brenton: Wisdom is good with an inheritance: and there is an advantage by it to them that see the sun.
 
 ### Ecclesiastes 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in its shadow wisdom is as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
+- fresh: Because in its shadow wisdom is as the shadow of silver, and the surplus of the knowledge of wisdom will give life to its possessor.
 - brenton: For wisdom in its shadow is as the shadow of silver: and the excellence of the knowledge of wisdom will give life to him that has it.
 
 ### Ecclesiastes 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See works of God, because who can set in order what God twists?
+- fresh: See the works of God, because who can set in order what God twists?
 - brenton: Behold the works of God: for who shall be able to straighten him whom God has made crooked?
 
 ### Ecclesiastes 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
+- fresh: In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that the man should find nothing after him.
 - brenton: In the day of prosperity live joyfully, and consider in the day of adversity: consider, I say, God also has caused the one to agree with the other for this reason, that man should find nothing after him.
 
 ### Ecclesiastes 7:15

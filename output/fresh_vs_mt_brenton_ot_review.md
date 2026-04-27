@@ -66712,6 +66712,15 @@ Method:
 - mt: In all this Job sinned not, nor charged God foolishly.
 - brenton: In all these events that befel him Job sinned not at all before the Lord, and did not impute folly to God.
 
+### Ecclesiastes 7:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.439`
+- fresh_brenton_ratio: `0.766`
+- fresh: Because in its shadow wisdom is as the shadow of silver, and the surplus of the knowledge of wisdom will give life to its possessor.
+- mt: For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom gives life to them that have it.
+- brenton: For wisdom in its shadow is as the shadow of silver: and the excellence of the knowledge of wisdom will give life to him that has it.
+
 ### Joshua 17:6
 - priority: `0`
 - importance: `none`
@@ -71752,15 +71761,6 @@ Method:
 - mt: Joah his son, Iddo his son, Zerah his son, Jeaterai his son.
 - brenton: the son of Helcana, the son of Joel, the son of Azarias, the son of Japhanias,
 
-### Ecclesiastes 7:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.479`
-- fresh_brenton_ratio: `0.453`
-- fresh: See works of God, because who can set in order what God twists?
-- mt: Consider the work of God: for who can make that straight, which he has made crooked?
-- brenton: Behold the works of God: for who shall be able to straighten him whom God has made crooked?
-
 ### Ecclesiastes 3:9
 - priority: `0`
 - importance: `none`
@@ -75865,6 +75865,15 @@ Method:
 - mt: All you inhabitants of the world, and dwellers on the earth, see all of you, when he lifts up an explicit sign on the mountains; and when he blows a trumpet, hear all of you.
 - brenton: Now all the rivers of the land shall be inhabited as an inhabited country; their land shall be as when a signal is raised from a mountain; it shall be audible as the sound of a trumpet.
 
+### Ecclesiastes 7:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.507`
+- fresh_brenton_ratio: `0.481`
+- fresh: See the works of God, because who can set in order what God twists?
+- mt: Consider the work of God: for who can make that straight, which he has made crooked?
+- brenton: Behold the works of God: for who shall be able to straighten him whom God has made crooked?
+
 ### Ezra 6:2
 - priority: `0`
 - importance: `none`
@@ -76188,15 +76197,6 @@ Method:
 - fresh: Why do you all speak against me? You all acted ungodly and lawlessly against me, says the Lord.
 - mt: Wherefore will all of you plead with me? all of you all have transgressed against me, says the LORD.
 - brenton: Wherefore do ye speak unto me? ye all have been ungodly, and ye all have transgressed against me, saith the Lord.
-
-### Ecclesiastes 7:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.508`
-- fresh_brenton_ratio: `0.691`
-- fresh: Because in its shadow wisdom is as shadow of silver, and surplus of knowledge: wisdom will give life to its possessor.
-- mt: For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom gives life to them that have it.
-- brenton: For wisdom in its shadow is as the shadow of silver: and the excellence of the knowledge of wisdom will give life to him that has it.
 
 ### Job 40:18
 - priority: `0`
@@ -80851,15 +80851,6 @@ Method:
 - mt: Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 - brenton: And Pharao shall make war upon him not with a large force or great multitude, in throwing up a mound, and in building of forts, to cut off souls.
 
-### Ecclesiastes 7:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.536`
-- fresh_brenton_ratio: `0.552`
-- fresh: Because slander drives wise man mad and destroys heart of his strength.
-- mt: Surely oppression makes a wise man mad; and a gift destroys the heart.
-- brenton: For oppression makes a wise man mad, and destroys his noble heart.
-
 ### Proverbs 26:22
 - priority: `0`
 - importance: `none`
@@ -83253,15 +83244,6 @@ Method:
 - fresh: And now divide this land as an inheritance to the nine tribes and to the half-tribe of Manasseh. From the Jordan as far as the great sea toward the setting of the sun you shall give it; the great sea shall define it.
 - mt: Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 - brenton: And now divide this land by lot to the nine tribes, and to the half tribe of Manasse.
-
-### Ecclesiastes 7:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.548`
-- fresh_brenton_ratio: `0.601`
-- fresh: Better anger than laughter, because by gloom of face heart will be made good.
-- mt: Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
-- brenton: Sorrow is better than laughter: for by the sadness of the countenance the heart will be made better.
 
 ### Job 39:29
 - priority: `0`
@@ -87466,15 +87448,6 @@ Method:
 - mt: My face is foul with weeping, and on my eyelids is the shadow of death;
 - brenton: My belly has been parched with wailing, and darkness is on my eyelids.
 
-### Ecclesiastes 7:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.567`
-- fresh_brenton_ratio: `0.667`
-- fresh: Better end of matter than its beginning; better patient one than high in spirit.
-- mt: Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.
-- brenton: The end of a matter is better than the beginning thereof: the patient is better than the high-minded.
-
 ### Job 40:15
 - priority: `0`
 - importance: `none`
@@ -90840,6 +90813,15 @@ Method:
 - fresh: Every man in whom there is a blemish shall not approach: a lame or blind man, or one disfigured in face or cut in ear,
 - mt: For whatsoever man he be that has a blemish, he shall not approach: a blind man, or a lame, or he that has a flat nose, or any thing superfluous,
 - brenton: No man who has a blemish on him shall draw nigh; a man lame, blind, with his nose disfigured, or his ears cut,
+
+### Ecclesiastes 7:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.583`
+- fresh_brenton_ratio: `0.614`
+- fresh: Because slander drives a wise man mad and destroys the heart of his strength.
+- mt: Surely oppression makes a wise man mad; and a gift destroys the heart.
+- brenton: For oppression makes a wise man mad, and destroys his noble heart.
 
 ### Job 16:21
 - priority: `0`
@@ -95665,6 +95647,15 @@ Method:
 - mt: Behold, every one that uses proverbs shall use this proverb against you, saying, As is the mother, so is her daughter.
 - brenton: These are all the things they have spoken against thee in a proverb, saying,
 
+### Ecclesiastes 7:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.602`
+- fresh_brenton_ratio: `0.698`
+- fresh: Better the end of a matter than its beginning; better a patient one than one high in spirit.
+- mt: Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.
+- brenton: The end of a matter is better than the beginning thereof: the patient is better than the high-minded.
+
 ### Psalms 149:9
 - priority: `0`
 - importance: `none`
@@ -97104,6 +97095,15 @@ Method:
 - fresh: Throw your lot in among us; let us all get common purse, and let one pouch be among us."
 - mt: Cast in your lot among us; let us all have one purse:
 - brenton: but do thou cast in thy lot with us, and let us all provide a common purse, and let us have one pouch:
+
+### Ecclesiastes 7:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.607`
+- fresh_brenton_ratio: `0.656`
+- fresh: Better anger than laughter, because by the gloom of a face the heart will be made good.
+- mt: Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.
+- brenton: Sorrow is better than laughter: for by the sadness of the countenance the heart will be made better.
 
 ### Micah 1:8
 - priority: `0`
@@ -107446,15 +107446,6 @@ Method:
 - mt: And they departed from Kibrothhattaavah, and encamped at Hazeroth.
 - brenton: And they departed from the Graves of Lust, and encamped in Aseroth.
 
-### Ecclesiastes 7:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.641`
-- fresh_brenton_ratio: `0.746`
-- fresh: Good name above good oil, and day of death above day of his birth.
-- mt: A good name is better than precious ointment; and the day of death than the day of one's birth.
-- brenton: A good name is better than good oil; and the day of death than the day of birth.
-
 ### 1 Kings 11:15
 - priority: `0`
 - importance: `none`
@@ -115114,6 +115105,15 @@ Method:
 - mt: And he said, Blessed be the LORD God of my master Abraham, who has not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master's brethren.
 - brenton: and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.
 
+### Ecclesiastes 7:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.665`
+- fresh_brenton_ratio: `0.598`
+- fresh: In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that the man should find nothing after him.
+- mt: In the day of prosperity be joyful, but in the day of adversity consider: God also has set the one opposite to the other, to the end that man should find nothing after him.
+- brenton: In the day of prosperity live joyfully, and consider in the day of adversity: consider, I say, God also has caused the one to agree with the other for this reason, that man should find nothing after him.
+
 ### Isaiah 66:17
 - priority: `0`
 - importance: `none`
@@ -117903,15 +117903,6 @@ Method:
 - fresh: And if a priest's daughter belongs to a foreign man, she shall not eat of the firstfruits of the holy things.
 - mt: If the priest's daughter also be married unto a stranger, she may not eat of an offering of the holy things.
 - brenton: And if the daughter of a priest should marry a stranger, she shall not eat of the offerings of the sanctuary.
-
-### Ecclesiastes 7:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.673`
-- fresh_brenton_ratio: `0.605`
-- fresh: In the day of goodness, live in good, and in the day of evil, see: indeed God made this corresponding to that, so that man should find nothing after him.
-- mt: In the day of prosperity be joyful, but in the day of adversity consider: God also has set the one opposite to the other, to the end that man should find nothing after him.
-- brenton: In the day of prosperity live joyfully, and consider in the day of adversity: consider, I say, God also has caused the one to agree with the other for this reason, that man should find nothing after him.
 
 ### Ezekiel 13:23
 - priority: `0`
@@ -125553,15 +125544,6 @@ Method:
 - fresh: Threat of the king not different from the wrath of lion; one provoking him sins against his own soul.
 - mt: The fear of a king is as the roaring of a lion: whoso provokes him to anger sins against his own soul.
 - brenton: The threat of a king differs not from the rage of a lion; and he that provokes him sins against his own soul.
-
-### Ecclesiastes 7:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.693`
-- fresh_brenton_ratio: `0.826`
-- fresh: Because as the sound of thorns under cauldron, so laughter of fools, and this too vanity.
-- mt: For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
-- brenton: As the sound of thorns under a caldron, so is the laughter of fools: this is also vanity.
 
 ### Numbers 19:3
 - priority: `0`
@@ -142087,6 +142069,15 @@ Method:
 - mt: The appearance of them is as the appearance of horses; and as horsemen, so shall they run.
 - brenton: Their appearance is as the appearance of horses; and as horsemen, so shall they pursue.
 
+### Ecclesiastes 7:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.734`
+- fresh_brenton_ratio: `0.839`
+- fresh: A good name is above good oil, and the day of death above the day of his birth.
+- mt: A good name is better than precious ointment; and the day of death than the day of one's birth.
+- brenton: A good name is better than good oil; and the day of death than the day of birth.
+
 ### 1 Chronicles 13:5
 - priority: `0`
 - importance: `none`
@@ -142995,6 +142986,15 @@ Method:
 - fresh: A whole burnt offering of Sabbaths on the Sabbaths, besides the continual whole burnt offering and its libation.
 - mt: This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
 - brenton: It is a whole-burnt-offering of the sabbaths on the sabbath days, besides the continued whole-burnt-offering, and its drink offering.
+
+### Ecclesiastes 7:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.736`
+- fresh_brenton_ratio: `0.860`
+- fresh: Because as the sound of thorns under the cauldron, so is the laughter of fools, and this too is vanity.
+- mt: For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.
+- brenton: As the sound of thorns under a caldron, so is the laughter of fools: this is also vanity.
 
 ### 2 Chronicles 11:15
 - priority: `0`
@@ -148387,15 +148387,6 @@ Method:
 - mt: Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which all of you give unto the LORD.
 - brenton: besides the sabbaths of the Lord, and besides your gifts, and besides all your vows, and besides your free-will-offerings, which ye shall give to the Lord.
 
-### Ecclesiastes 7:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.750`
-- fresh_brenton_ratio: `0.709`
-- fresh: Wisdom is good with inheritance, and surplus to those seeing the sun.
-- mt: Wisdom is good with an inheritance: and by it there is profit to them that see the sun.
-- brenton: Wisdom is good with an inheritance: and there is an advantage by it to them that see the sun.
-
 ### 1 Chronicles 25:3
 - priority: `0`
 - importance: `none`
@@ -149682,6 +149673,15 @@ Method:
 - fresh: I saw the distraction which God gave to the sons of man to be distracted in it.
 - mt: I have seen the travail, which God has given to the sons of men to be exercised in it.
 - brenton: I have seen all the trouble, which God has given to the sons of men to be troubled with.
+
+### Ecclesiastes 7:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.753`
+- fresh_brenton_ratio: `0.713`
+- fresh: Wisdom is good with inheritance, and a surplus to those seeing the sun.
+- mt: Wisdom is good with an inheritance: and by it there is profit to them that see the sun.
+- brenton: Wisdom is good with an inheritance: and there is an advantage by it to them that see the sun.
 
 ### Hosea 10:6
 - priority: `0`
@@ -164416,15 +164416,6 @@ Method:
 - mt: And your life shall hang in doubt before you; and you shall fear day and night, and shall have none assurance of your life:
 - brenton: And thy life shall be in suspense before thine eyes; and thou shalt be afraid by day and by night, and thou shalt have no assurance of thy life.
 
-### Ecclesiastes 7:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.792`
-- fresh_brenton_ratio: `0.731`
-- fresh: Better to hear rebuke of wise than man hearing song of fools.
-- mt: It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
-- brenton: It is better to hear a reproof of a wise man, than for a man to hear the song of fools.
-
 ### 2 Samuel 15:11
 - priority: `0`
 - importance: `none`
@@ -165657,6 +165648,15 @@ Method:
 - fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives who brought up sons of Israel from the land of Egypt,
 - mt: Therefore, behold, the days come, says the LORD, that it shall no more be said, The LORD lives, that brought up the children of Israel out of the land of Egypt;
 - brenton: Therefore, behold, the days come, saith the Lord, when they shall no more say, The Lord lives, that brought up the children of Israel out of the land of Egypt;
+
+### Ecclesiastes 7:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.795`
+- fresh_brenton_ratio: `0.815`
+- fresh: Better to hear a rebuke of a wise man than a man hearing a song of fools.
+- mt: It is better to hear the rebuke of the wise, than for a man to hear the song of fools.
+- brenton: It is better to hear a reproof of a wise man, than for a man to hear the song of fools.
 
 ### 1 Samuel 14:3
 - priority: `0`
@@ -168439,15 +168439,6 @@ Method:
 - mt: And that which remains of the flesh and of the bread shall all of you burn with fire.
 - brenton: And that which is left of the flesh and of the loaves burn ye with fire.
 
-### Ecclesiastes 7:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.803`
-- fresh_brenton_ratio: `0.787`
-- fresh: Better to go to the house of mourning than to go to the house of drinking, because this end of every man, and living one will give it to his heart.
-- mt: It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
-- brenton: It is better to go to the house of mourning, than to go to the banquet house: since this is the end of every man; and the living man will apply good warning to his heart.
-
 ### Lamentations 3:62
 - priority: `0`
 - importance: `none`
@@ -170796,15 +170787,6 @@ Method:
 - fresh: He rose and struck among the foreigners until his hand grew weary and his hand clung to the sword. And the Lord worked a great deliverance on that day, and the people returned after him only to strip the slain.
 - mt: He arose, and stroke the Philistines until his hand was weary, and his hand clave unto the sword: and the LORD wrought a great victory that day; and the people returned after him only to spoil.
 - brenton: He arose and smote the Philistines, until his hand was weary, and his hand clave to the sword: and the Lord wrought a great salvation in that day, and the people rested behind him only to strip the slain.
-
-### Ecclesiastes 7:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.810`
-- fresh_brenton_ratio: `0.820`
-- fresh: Do not hurry in your spirit to be angry, because anger will rest in bosom of fools.
-- mt: Be not hasty in your spirit to be angry: for anger rests in the bosom of fools.
-- brenton: Be not hasty in thy spirit to be angry: for anger will rest in the bosom of fools.
 
 ### Nehemiah 1:2
 - priority: `0`
@@ -177430,6 +177412,15 @@ Method:
 - mt: And the daughter of any priest, if she profane herself by playing the whore, she profanes her father: she shall be burnt with fire.
 - brenton: And if the daughter of a priest should be profaned to go a whoring, she profanes the name of her father: she shall be burnt with fire.
 
+### Ecclesiastes 7:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.833`
+- fresh_brenton_ratio: `0.829`
+- fresh: Better to go to the house of mourning than to go to the house of drinking, because this is the end of every man, and the living one will give it to his heart.
+- mt: It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.
+- brenton: It is better to go to the house of mourning, than to go to the banquet house: since this is the end of every man; and the living man will apply good warning to his heart.
+
 ### Leviticus 10:7
 - priority: `0`
 - importance: `none`
@@ -179175,6 +179166,15 @@ Method:
 - fresh: Lord, there is none like you, and there is none besides you, according to all things we heard with our ears.
 - mt: O LORD, there is none like you, neither is there any God beside you, according to all that we have heard with our ears.
 - brenton: O Lord, there is none like thee, and there is no God beside thee, according to all things which we have heard with our ears.
+
+### Ecclesiastes 7:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.840`
+- fresh_brenton_ratio: `0.848`
+- fresh: Do not hurry in your spirit to be angry, because anger will rest in the bosom of fools.
+- mt: Be not hasty in your spirit to be angry: for anger rests in the bosom of fools.
+- brenton: Be not hasty in thy spirit to be angry: for anger will rest in the bosom of fools.
 
 ### Numbers 16:33
 - priority: `0`
@@ -185728,15 +185728,6 @@ Method:
 - mt: And one goat for a sin offering, to make an atonement for you.
 - brenton: And thou shalt offer one kid of the goats for a sin-offering, to make atonement for you.
 
-### Ecclesiastes 7:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.870`
-- fresh_brenton_ratio: `0.869`
-- fresh: The heart of the wise in the house of mourning, and the heart of fools in the house of gladness.
-- mt: The heart of the wise is in the house of mourning; but the heart of fools is in the house of delight.
-- brenton: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
-
 ### Numbers 33:15
 - priority: `0`
 - importance: `none`
@@ -190956,6 +190947,15 @@ Method:
 - fresh: the king of Tappuah, the king of Hepher,
 - mt: The king of Tappuah, one; the king of Hepher, one;
 - brenton: the king of Taphut, the king of Opher,
+
+### Ecclesiastes 7:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.905`
+- fresh_brenton_ratio: `0.904`
+- fresh: The heart of the wise is in the house of mourning, and the heart of fools is in the house of gladness.
+- mt: The heart of the wise is in the house of mourning; but the heart of fools is in the house of delight.
+- brenton: The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.
 
 ### Joshua 12:15
 - priority: `0`
