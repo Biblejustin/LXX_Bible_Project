@@ -3076,6 +3076,30 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the righteous are put in fear" in by_ref["Proverbs 29:16"]["draft_translation"]
     assert "faces of the leaders" in by_ref["Proverbs 29:26"]["draft_translation"]
     assert "abomination to the righteous" in by_ref["Proverbs 29:27"]["draft_translation"]
+    assert "These things says the man" in by_ref["Proverbs 30:1"]["draft_translation"]
+    assert "knowledge of the holy ones" in by_ref["Proverbs 30:3"]["draft_translation"]
+    assert "winds in a bosom" in by_ref["Proverbs 30:4"]["draft_translation"]
+    assert "water in a garment" in by_ref["Proverbs 30:4"]["draft_translation"]
+    assert "all the ends of the earth" in by_ref["Proverbs 30:4"]["draft_translation"]
+    assert "What is his name" in by_ref["Proverbs 30:4"]["draft_translation"]
+    assert "what is the name of his children" in by_ref["Proverbs 30:4"]["draft_translation"]
+    assert "words of God are refined" in by_ref["Proverbs 30:5"]["draft_translation"]
+    assert "become a liar" in by_ref["Proverbs 30:6"]["draft_translation"]
+    assert "Make a vain word and a lie" in by_ref["Proverbs 30:8"]["draft_translation"]
+    assert "the necessary and self-sufficient things" in by_ref["Proverbs 30:8"]["draft_translation"]
+    assert "being filled I become a liar" in by_ref["Proverbs 30:9"]["draft_translation"]
+    assert "hand a servant over into the hands of his master" in by_ref["Proverbs 30:10"]["draft_translation"]
+    assert by_ref["Proverbs 30:11"]["draft_translation"].startswith("An evil offspring")
+    assert "its father" in by_ref["Proverbs 30:11"]["draft_translation"]
+    assert "its mother" in by_ref["Proverbs 30:11"]["draft_translation"]
+    assert by_ref["Proverbs 30:12"]["draft_translation"].startswith("An evil offspring")
+    assert by_ref["Proverbs 30:13"]["draft_translation"].startswith("An evil offspring")
+    assert by_ref["Proverbs 30:14"]["draft_translation"].startswith("An evil offspring")
+    assert "consume the humble from the earth" in by_ref["Proverbs 30:14"]["draft_translation"]
+    assert "the poor among men" in by_ref["Proverbs 30:14"]["draft_translation"]
+    assert by_ref["Proverbs 30:15"]["draft_translation"].startswith("The leech")
+    assert "the fourth was not satisfied" in by_ref["Proverbs 30:15"]["draft_translation"]
+    assert "the desire of a woman" in by_ref["Proverbs 30:16"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -4048,7 +4072,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "heard the words of the law" in by_ref["Nehemiah 8:9"]["draft_translation"]
     assert "the words of the Lord refined" in by_ref["Psalms 17:31"]["draft_translation"]
     assert "provoked the words of God" in by_ref["Psalms 106:11"]["draft_translation"]
-    assert "All the words of God refined" in by_ref["Proverbs 30:5"]["draft_translation"]
+    assert "All the words of God are refined" in by_ref["Proverbs 30:5"]["draft_translation"]
     assert "The words of the wise in quiet" in by_ref["Ecclesiastes 9:17"]["draft_translation"]
     assert "The words of the wise are as goads" in by_ref["Ecclesiastes 12:11"]["draft_translation"]
     assert "all the words of the Lord which he answered" in by_ref["Jeremiah 43:4"]["draft_translation"]

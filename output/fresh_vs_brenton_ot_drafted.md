@@ -153927,10 +153927,10 @@ Note:
 ### Proverbs 30:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My words, son, fear and receive them, and repent. These says the man to those trusting in God, and I stop.
+- fresh: My words, son, fear and receive them, and repent. These things says the man to those trusting in God, and I stop.
 - brenton: [missing]
 
 ### Proverbs 30:2
@@ -153945,37 +153945,37 @@ Note:
 ### Proverbs 30:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But God taught me wisdom, and I knew knowledge of holy ones.
+- fresh: But God taught me wisdom, and I knew knowledge of the holy ones.
 - brenton: [missing]
 
 ### Proverbs 30:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of the earth? What name to him, or what name to his children, so that you may know?
+- fresh: Who ascended into heaven and came down? Who gathered winds in a bosom? Who wrapped water in a garment? Who held all the ends of the earth? What is his name, or what is the name of his children, so that you may know?
 - brenton: [missing]
 
 ### Proverbs 30:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All the words of God refined; and he defends those revering him.
+- fresh: All the words of God are refined; and he defends those revering him.
 - brenton: [missing]
 
 ### Proverbs 30:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not add to his words, lest he reprove you and you become liar.
+- fresh: Do not add to his words, lest he reprove you and you become a liar.
 - brenton: [missing]
 
 ### Proverbs 30:7
@@ -153990,82 +153990,82 @@ Note:
 ### Proverbs 30:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Make vain word and lie far from me; riches and poverty do not give me, but appoint for me necessary and self-sufficient things,
+- fresh: Make a vain word and a lie far from me; do not give me riches and poverty, but appoint for me the necessary and self-sufficient things,
 - brenton: [missing]
 
 ### Proverbs 30:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: lest being filled I become liar and say, "Who sees me?" Or becoming poor I steal and swear by the name of God.
+- fresh: lest being filled I become a liar and say, "Who sees me?" Or becoming poor I steal and swear by the name of God.
 - brenton: [missing]
 
 ### Proverbs 30:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hand servant over into the hands of master, lest he curse you and you vanish.
+- fresh: Do not hand a servant over into the hands of his master, lest he curse you and you vanish.
 - brenton: [missing]
 
 ### Proverbs 30:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Evil offspring curses father and does not bless mother.
+- fresh: An evil offspring curses its father and does not bless its mother.
 - brenton: [missing]
 
 ### Proverbs 30:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Evil offspring judges itself righteous, but has not washed its own filth away.
+- fresh: An evil offspring judges itself righteous, but has not washed its own filth away.
 - brenton: [missing]
 
 ### Proverbs 30:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Evil offspring has lofty eyes, and its eyelids lift themselves up.
+- fresh: An evil offspring has lofty eyes, and its eyelids lift themselves up.
 - brenton: [missing]
 
 ### Proverbs 30:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Evil offspring has swords for teeth and grinders like knives, so as to consume humble from earth and poor among men.
+- fresh: An evil offspring has swords for teeth and grinders like knives, so as to consume the humble from the earth and the poor among men.
 - brenton: [missing]
 
 ### Proverbs 30:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Leech had three daughters dearly loved, and these three did not fill her, and fourth was not satisfied to say, "Enough."
+- fresh: The leech had three daughters dearly loved, and these three did not fill her, and the fourth was not satisfied to say, "Enough."
 - brenton: [missing]
 
 ### Proverbs 30:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hades and desire of woman and Tartarus and land not filled with water, and water and fire will never say, "Enough."
+- fresh: Hades and the desire of a woman and Tartarus and land not filled with water, and water and fire will never say, "Enough."
 - brenton: [missing]
 
 ### Proverbs 30:17

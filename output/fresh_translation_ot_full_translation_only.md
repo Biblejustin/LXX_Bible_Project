@@ -69744,7 +69744,7 @@ An unjust man is an abomination to the righteous, and a straight way is an abomi
 
 **Proverbs 30:1**
 
-My words, son, fear and receive them, and repent. These says the man to those trusting in God, and I stop.
+My words, son, fear and receive them, and repent. These things says the man to those trusting in God, and I stop.
 
 **Proverbs 30:2**
 
@@ -69752,19 +69752,19 @@ For I am most foolish of all men, and understanding of men is not in me.
 
 **Proverbs 30:3**
 
-But God taught me wisdom, and I knew knowledge of holy ones.
+But God taught me wisdom, and I knew knowledge of the holy ones.
 
 **Proverbs 30:4**
 
-Who ascended into heaven and came down? Who gathered winds in bosom? Who wrapped water in garment? Who held all ends of the earth? What name to him, or what name to his children, so that you may know?
+Who ascended into heaven and came down? Who gathered winds in a bosom? Who wrapped water in a garment? Who held all the ends of the earth? What is his name, or what is the name of his children, so that you may know?
 
 **Proverbs 30:5**
 
-All the words of God refined; and he defends those revering him.
+All the words of God are refined; and he defends those revering him.
 
 **Proverbs 30:6**
 
-Do not add to his words, lest he reprove you and you become liar.
+Do not add to his words, lest he reprove you and you become a liar.
 
 **Proverbs 30:7**
 
@@ -69772,39 +69772,39 @@ Two things I ask from you; do not take grace from me before my dying:
 
 **Proverbs 30:8**
 
-Make vain word and lie far from me; riches and poverty do not give me, but appoint for me necessary and self-sufficient things,
+Make a vain word and a lie far from me; do not give me riches and poverty, but appoint for me the necessary and self-sufficient things,
 
 **Proverbs 30:9**
 
-lest being filled I become liar and say, "Who sees me?" Or becoming poor I steal and swear by the name of God.
+lest being filled I become a liar and say, "Who sees me?" Or becoming poor I steal and swear by the name of God.
 
 **Proverbs 30:10**
 
-Do not hand servant over into the hands of master, lest he curse you and you vanish.
+Do not hand a servant over into the hands of his master, lest he curse you and you vanish.
 
 **Proverbs 30:11**
 
-Evil offspring curses father and does not bless mother.
+An evil offspring curses its father and does not bless its mother.
 
 **Proverbs 30:12**
 
-Evil offspring judges itself righteous, but has not washed its own filth away.
+An evil offspring judges itself righteous, but has not washed its own filth away.
 
 **Proverbs 30:13**
 
-Evil offspring has lofty eyes, and its eyelids lift themselves up.
+An evil offspring has lofty eyes, and its eyelids lift themselves up.
 
 **Proverbs 30:14**
 
-Evil offspring has swords for teeth and grinders like knives, so as to consume humble from earth and poor among men.
+An evil offspring has swords for teeth and grinders like knives, so as to consume the humble from the earth and the poor among men.
 
 **Proverbs 30:15**
 
-Leech had three daughters dearly loved, and these three did not fill her, and fourth was not satisfied to say, "Enough."
+The leech had three daughters dearly loved, and these three did not fill her, and the fourth was not satisfied to say, "Enough."
 
 **Proverbs 30:16**
 
-Hades and desire of woman and Tartarus and land not filled with water, and water and fire will never say, "Enough."
+Hades and the desire of a woman and Tartarus and land not filled with water, and water and fire will never say, "Enough."
 
 **Proverbs 30:17**
 

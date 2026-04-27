@@ -28,9 +28,9 @@ Purpose: final automated release-readiness checks for the fresh OT translation o
 - repeated-word candidates: `0`
 
 ## Review Coverage
-- latest reviewed refs: `622`
+- latest reviewed refs: `636`
 - `keep`: `308`
-- `revised`: `314`
+- `revised`: `328`
 - priority rows still open: `0`
 
 ## Sample Audit
