@@ -2626,6 +2626,39 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Let the ungodly man leave his ways and the lawless man" in by_ref["Isaiah 55:7"][
         "draft_translation"
     ]
+    assert "rescued a poor man from the hand of a mighty man" in by_ref["Job 29:12"][
+        "draft_translation"
+    ]
+    assert "look toward the poor man" in by_ref["Psalms 10:4"]["draft_translation"]
+    assert "rescuing a poor man" in by_ref["Psalms 34:10"]["draft_translation"]
+    assert "for the poor one" in by_ref["Psalms 67:11"]["draft_translation"]
+    assert "rescued a poor man from the hand of a ruler" in by_ref["Psalms 71:12"][
+        "draft_translation"
+    ]
+    assert "Judge an orphan and a poor one" in by_ref["Psalms 81:3"]["draft_translation"]
+    assert "Rescue a needy one and a poor one" in by_ref["Psalms 81:4"]["draft_translation"]
+    assert "Prayer for the poor man" in by_ref["Psalms 101:1"]["draft_translation"]
+    assert "helped a poor man out of poverty" in by_ref["Psalms 106:41"]["draft_translation"]
+    assert "the poor man is deserted even by the friend he has" in by_ref["Proverbs 19:4"][
+        "draft_translation"
+    ]
+    assert "Better a poor man walking in truth than a rich liar" in by_ref["Proverbs 28:6"][
+        "draft_translation"
+    ]
+    assert "for a poor man there is no discerning mind" in by_ref["Proverbs 29:7"][
+        "draft_translation"
+    ]
+    assert "slander of a poor man" in by_ref["Ecclesiastes 5:7"]["draft_translation"]
+    assert "Because the poor man knows" in by_ref["Ecclesiastes 6:8"]["draft_translation"]
+    assert "a poor wise man" in by_ref["Ecclesiastes 9:15"]["draft_translation"]
+    assert "the wisdom of the poor man is despised" in by_ref["Ecclesiastes 9:16"][
+        "draft_translation"
+    ]
+    assert "soul of a poor man" in by_ref["Jeremiah 20:13"]["draft_translation"]
+    assert "sold a righteous one for silver and a poor one" in by_ref["Amos 2:6"][
+        "draft_translation"
+    ]
+    assert "eating a poor one secretly" in by_ref["Habakkuk 3:14"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

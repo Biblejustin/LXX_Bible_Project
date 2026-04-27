@@ -1352,6 +1352,15 @@ Rows: 20939
 - mt: Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts has sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts.
 - brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
 
+## Ecclesiastes 5:7
+- priority: `17`
+- importance: `high`
+- fresh_mt_ratio: `0.060`
+- fresh_brenton_ratio: `0.136`
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- mt: For in the multitude of dreams and many words there are also divers vanities: but fear you God.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
+
 ## Judges 2:14
 - priority: `17`
 - importance: `high`
@@ -1873,15 +1882,6 @@ Rows: 20939
 - fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
 - mt: How has the LORD covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
-
-## Ecclesiastes 2:24
-- priority: `15`
-- importance: `high`
-- fresh_mt_ratio: `0.771`
-- fresh_brenton_ratio: `0.734`
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
-- mt: There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
-- brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ## Haggai 1:13
 - priority: `15`
@@ -8524,15 +8524,6 @@ Rows: 20939
 - fresh: know that the Lord will certainly not continue to destroy these nations from before you, and they shall become snares for you and scandals and nails in your heels and darts in your eyes until you perish from this good land that the Lord your God gave you.
 - mt: Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until all of you perish from off this good land which the LORD your God has given you.
 - brenton: know that the Lord will no more destroy these nations from before you; and they will be to you snares and stumbling-blocks, and nails in your heels, and darts in your eyes, until ye be destroyed from off this good land, which the Lord your God has given you.
-
-## Ecclesiastes 5:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.060`
-- fresh_brenton_ratio: `0.136`
-- fresh: If you see slander of poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
-- mt: For in the multitude of dreams and many words there are also divers vanities: but fear you God.
-- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ## Deuteronomy 33:29
 - priority: `0`
@@ -21089,6 +21080,15 @@ Rows: 20939
 - mt: Such as sit in darkness and in the shadow of death, being bound in affliction and iron;
 - brenton: Moab is the caldron of my hope; over Idumea will I cast my sandal; the Philistines are made subject to me.
 
+## Psalms 81:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.189`
+- fresh_brenton_ratio: `0.710`
+- fresh: Judge an orphan and a poor one; justify a humble one and a needy one.
+- mt: Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.
+- brenton: Judge the orphan and poor: do justice to the low and needy.
+
 ## Numbers 18:2
 - priority: `0`
 - importance: `none`
@@ -21412,6 +21412,15 @@ Rows: 20939
 - fresh: And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in the midst of it.
 - mt: And the five thousand, that are left in the breadth opposite to the five and twenty thousand, shall be a profane place for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.
 - brenton: But concerning the five thousand that remain in the breadth in the five and twenty thousand, they shall be a suburb to the city for dwelling, and for a space before it: and the city shall be in the midst thereof.
+
+## Psalms 34:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.193`
+- fresh_brenton_ratio: `0.735`
+- fresh: All my bones will say, Lord, who like you, rescuing a poor man from the hand of those stronger than he, and a poor and needy one from those plundering him?
+- mt: The young lions do lack, and suffer hunger: but they that seek the LORD shall not lack any good thing.
+- brenton: All my bones shall say, O Lord, who is like to thee? delivering the poor out of the hand of them that are stronger than he, yea, the poor and needy one from them that spoil him.
 
 ## Psalms 135:10
 - priority: `0`
@@ -21934,15 +21943,6 @@ Rows: 20939
 - fresh: And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
 - mt: Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the LORD's vengeance; he will render unto her a recompence.
 - brenton: So mine anger and my wrath dropped upon them, and was kindled in the gates of Juda, and in the streets of Jerusalem; and they became a desolation and a waste, as at this day.
-
-## Psalms 34:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.199`
-- fresh_brenton_ratio: `0.716`
-- fresh: All my bones will say, Lord, who like you, rescuing poor man from the hand of those stronger than he, and poor and needy from those plundering him?
-- mt: The young lions do lack, and suffer hunger: but they that seek the LORD shall not lack any good thing.
-- brenton: All my bones shall say, O Lord, who is like to thee? delivering the poor out of the hand of them that are stronger than he, yea, the poor and needy one from them that spoil him.
 
 ## Psalms 104:6
 - priority: `0`
@@ -22582,15 +22582,6 @@ Rows: 20939
 - fresh: And command the people, saying, You are passing through the borders of your brothers, the sons of Esau, who dwell in Seir, and they shall fear you and be very wary of you.
 - mt: And command you the people, saying, All of you are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take all of you good heed unto yourselves therefore:
 - brenton: And charge the people, saying, Ye are going through the borders of your brethren the children of Esau, who dwell in Seir; and they shall fear you, and dread you greatly.
-
-## Psalms 10:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.205`
-- fresh_brenton_ratio: `0.849`
-- fresh: The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward poor man; his eyelids examine sons of men.
-- mt: The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
-- brenton: The Lord is in his holy temple, as for the Lord, his throne is in heaven: his eyes look upon the poor, his eyelids try the sons of men.
 
 ## Isaiah 66:24
 - priority: `0`
@@ -23320,6 +23311,15 @@ Rows: 20939
 - fresh: And he brought water out from rock and brought waters down like rivers.
 - mt: The waters saw you, O God, the waters saw you; they were afraid: the depths also were troubled.
 - brenton: And he brought water out of the rock, and caused waters to flow down as rivers.
+
+## Psalms 101:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.212`
+- fresh_brenton_ratio: `0.860`
+- fresh: Prayer for the poor man, when he grows faint and pours out his supplication before the Lord.
+- mt: I will sing of mercy and judgment: unto you, O LORD, will I sing.
+- brenton: A Prayer for the Poor; when he is deeply afflicted, and pours out his supplication before the Lord.
 
 ## Numbers 17:10
 - priority: `0`
@@ -24193,15 +24193,6 @@ Rows: 20939
 - fresh: Did not Solomon king of Israel sin thus? And among many nations there was no king like him, and he was loved by God, and God gave him as king over all Israel, yet foreign women turned even him aside.
 - mt: Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did foreign women cause to sin.
 - brenton: Did not Solomon king of Israel sin thus? though there was no king like him among many nations, and he was beloved of God, and God made him king over all Israel; yet strange women turned him aside.
-
-## Psalms 101:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.218`
-- fresh_brenton_ratio: `0.835`
-- fresh: Prayer for poor man, when he grows faint and pours out his supplication before the Lord.
-- mt: I will sing of mercy and judgment: unto you, O LORD, will I sing.
-- brenton: A Prayer for the Poor; when he is deeply afflicted, and pours out his supplication before the Lord.
 
 ## Jeremiah 38:19
 - priority: `0`
@@ -30304,15 +30295,6 @@ Rows: 20939
 - fresh: For worthless men are remarkable in death, but righteous are laughed to scorn.
 - mt: If the scourge slay suddenly, he will laugh at the trial of the innocent.
 - brenton: For the worthless die, but the righteous are laughed to scorn.
-
-## Psalms 81:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.259`
-- fresh_brenton_ratio: `0.748`
-- fresh: Judge orphan and poor one; justify humble one and needy one.
-- mt: Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.
-- brenton: Judge the orphan and poor: do justice to the low and needy.
 
 ## Psalms 58:2
 - priority: `0`
@@ -39116,6 +39098,15 @@ Rows: 20939
 - mt: When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
 - brenton: And I will go in to the altar of God, to God who gladdens my youth: I will give thanks to thee on the harp, O God, my God.
 
+## Psalms 10:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.307`
+- fresh_brenton_ratio: `0.867`
+- fresh: The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward the poor man; his eyelids examine sons of men.
+- mt: The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.
+- brenton: The Lord is in his holy temple, as for the Lord, his throne is in heaven: his eyes look upon the poor, his eyelids try the sons of men.
+
 ## Psalms 55:11
 - priority: `0`
 - importance: `none`
@@ -40636,6 +40627,15 @@ Rows: 20939
 - fresh: Why do you rejoice in plains, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
 - mt: Their children also shall be as in old times, and their congregation shall be established before me, and I will punish all that oppress them.
 - brenton: Why do ye exult in the plains of the Enakim, thou haughty daughter, that trustest in thy treasures, that sayest, Who shall come in to me?
+
+## Psalms 71:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.316`
+- fresh_brenton_ratio: `0.591`
+- fresh: Because he rescued a poor man from the hand of a ruler and a needy one to whom no helper existed.
+- mt: O God, be not far from me: O my God, make haste for my help.
+- brenton: For he has delivered the poor from the oppressor; and the needy who had no helper.
 
 ## Psalms 72:14
 - priority: `0`
@@ -43093,15 +43093,6 @@ Rows: 20939
 - fresh: Let not those waiting for you be shamed because of me, Lord, Lord of hosts; let not those seeking you be disgraced because of me, God of Israel.
 - mt: O God, when you went forth before your people, when you did march through the wilderness; Selah:
 - brenton: Let not them that wait on thee, O Lord of hosts, be ashamed on my account: let not them that seek thee, be ashamed on my account, O God of Israel.
-
-## Psalms 71:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.329`
-- fresh_brenton_ratio: `0.588`
-- fresh: Because he rescued poor man from the hand of ruler and needy one to whom no helper existed.
-- mt: O God, be not far from me: O my God, make haste for my help.
-- brenton: For he has delivered the poor from the oppressor; and the needy who had no helper.
 
 ## Job 22:26
 - priority: `0`
@@ -47216,6 +47207,15 @@ Rows: 20939
 - mt: Both low and high, rich and poor, together.
 - brenton: Out of Sion comes the excellence of his beauty.
 
+## Psalms 106:41
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.351`
+- fresh_brenton_ratio: `0.710`
+- fresh: And he helped a poor man out of poverty and made families like sheep.
+- mt: And he gave them into the hand of the heathen; and they that hated them ruled over them.
+- brenton: But he helps the poor out of poverty, and makes him families as a flock.
+
 ## Jeremiah 1:18
 - priority: `0`
 - importance: `none`
@@ -47863,15 +47863,6 @@ Rows: 20939
 - fresh: Myrrh and stacte and cassia from your garments, from ivory palaces from which they gladdened you.
 - mt: But you have cast off, and put us to shame; and go not forth with our armies.
 - brenton: Myrrh, and stacte, and cassia are exhaled from thy garments, and out of the ivory palaces,
-
-## Psalms 106:41
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.355`
-- fresh_brenton_ratio: `0.721`
-- fresh: And he helped poor man out of poverty and made families like sheep.
-- mt: And he gave them into the hand of the heathen; and they that hated them ruled over them.
-- brenton: But he helps the poor out of poverty, and makes him families as a flock.
 
 ## Psalms 115:3
 - priority: `0`
@@ -53327,15 +53318,6 @@ Rows: 20939
 - mt: And Ashan with her suburbs, and Bethshemesh with her suburbs:
 - brenton: And of the tribe of Aser; Maasal and her suburbs, and Abdon and her suburbs,
 
-## Psalms 81:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.387`
-- fresh_brenton_ratio: `0.703`
-- fresh: Rescue needy one and poor one; deliver from the hand of sinner.
-- mt: For this was a statute for Israel, and a law of the God of Jacob.
-- brenton: Rescue the needy, and deliver the poor out of the hand of the sinner.
-
 ## Habakkuk 1:3
 - priority: `0`
 - importance: `none`
@@ -57377,6 +57359,15 @@ Rows: 20939
 - mt: All you beasts of the field, come to devour, yea, all you beasts in the forest.
 - brenton: All ye beasts of the field, come, devour, all ye beasts of the forest.
 
+## Proverbs 29:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.419`
+- fresh_brenton_ratio: `0.769`
+- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
+- mt: The righteous considers the cause of the poor: but the wicked regards not to know it.
+- brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
+
 ## Psalms 95:6
 - priority: `0`
 - importance: `none`
@@ -57880,15 +57871,6 @@ Rows: 20939
 - fresh: You shall not profane your daughter by prostituting her, and the land shall not prostitute itself, and the land shall not be filled with lawlessness.
 - mt: Do not prostitute your daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.
 - brenton: Thou shalt not profane thy daughter to prostitute her; so the land shall not go a whoring, and the land be filled with iniquity.
-
-## Proverbs 29:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.423`
-- fresh_brenton_ratio: `0.774`
-- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for poor man there is no discerning mind.
-- mt: The righteous considers the cause of the poor: but the wicked regards not to know it.
-- brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
 
 ## Isaiah 61:7
 - priority: `0`
@@ -58906,6 +58888,15 @@ Rows: 20939
 - fresh: And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from the beginning, and one who built it you did not see.
 - mt: All of you made also a ditch between the two walls for the water of the old pool: but all of you have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.
 - brenton: And ye procured to yourselves water between the two walls within the ancient pool: but ye looked not to him that made it from the beginning, and regarded not him that created it.
+
+## Psalms 81:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.431`
+- fresh_brenton_ratio: `0.701`
+- fresh: Rescue a needy one and a poor one; deliver from the hand of a sinner.
+- mt: For this was a statute for Israel, and a law of the God of Jacob.
+- brenton: Rescue the needy, and deliver the poor out of the hand of the sinner.
 
 ## Exodus 21:10
 - priority: `0`
@@ -60049,15 +60040,6 @@ Rows: 20939
 - fresh: Have mercy on me, Lord, because I am afflicted; my eye was troubled in anger, my soul and my belly.
 - mt: Hear, O LORD, and have mercy upon me: LORD, be you my helper.
 - brenton: Pity me, O Lord, for I am afflicted: my eye is troubled with indignation, my soul and my belly.
-
-## Proverbs 28:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.440`
-- fresh_brenton_ratio: `0.812`
-- fresh: Better poor man walking in truth than rich liar.
-- mt: Better is the poor that walks in his uprightness, than he that is perverse in his ways, though he be rich.
-- brenton: A poor man walking in truth is better than a rich liar.
 
 ## 1 Samuel 22:13
 - priority: `0`
@@ -63667,6 +63649,15 @@ Rows: 20939
 - fresh: And you shall not defile the land on which you dwell, upon which I tabernacle among you, for I am the Lord tabernacling in the midst of the sons of Israel.
 - mt: Defile not therefore the land which all of you shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.
 - brenton: And ye shall not defile the land whereon ye dwell, on which I dwell in the midst of you; for I am the Lord dwelling in the midst of the children of Israel.
+
+## Proverbs 28:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.468`
+- fresh_brenton_ratio: `0.838`
+- fresh: Better a poor man walking in truth than a rich liar.
+- mt: Better is the poor that walks in his uprightness, than he that is perverse in his ways, though he be rich.
+- brenton: A poor man walking in truth is better than a rich liar.
 
 ## Isaiah 49:20
 - priority: `0`
@@ -70265,6 +70256,15 @@ Rows: 20939
 - mt: In that day sing all of you unto her, A vineyard of red wine.
 - brenton: In that day there shall be a fair vineyard, and a desire to commence a song concerning it.
 
+## Job 29:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.513`
+- fresh_brenton_ratio: `0.622`
+- fresh: because I rescued a poor man from the hand of a mighty man, and I helped an orphan who had no helper.
+- mt: Because I delivered the poor that cried, and the fatherless, and him that had none to help him.
+- brenton: For I saved the poor out of the hand of the oppressor, and helped the fatherless who had no helper.
+
 ## Leviticus 22:23
 - priority: `0`
 - importance: `none`
@@ -71767,15 +71767,6 @@ Rows: 20939
 - fresh: And at the door of the tent of testimony you shall sit seven days, day and night, and you shall keep the Lord's charges, so that you may not die. For thus the Lord God commanded me.
 - mt: Therefore shall all of you abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that all of you die not: for so I am commanded.
 - brenton: And ye shall remain seven days at the door of the tabernacle of witness, day and night; ye shall observe the ordinances of the Lord, that ye die not; for so has the Lord God commanded me.
-
-## Job 29:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.522`
-- fresh_brenton_ratio: `0.635`
-- fresh: because I rescued poor man from the hand of mighty man, and I helped orphan who had no helper.
-- mt: Because I delivered the poor that cried, and the fatherless, and him that had none to help him.
-- brenton: For I saved the poor out of the hand of the oppressor, and helped the fatherless who had no helper.
 
 ## Job 16:13
 - priority: `0`
@@ -75755,6 +75746,15 @@ Rows: 20939
 - mt: All of you shall not eat any thing with the blood: neither shall all of you use enchantment, nor observe times.
 - brenton: Eat not on the mountains, nor shall ye employ auguries, nor divine by inspection of birds.
 
+## Habakkuk 3:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.544`
+- fresh_brenton_ratio: `0.554`
+- fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
+- mt: You did strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
+- brenton: Thou didst cut asunder the heads of princes with amazement, they shall tremble in it; they shall burst their bridles, they shall be as a poor man devouring in secret.
+
 ## Leviticus 5:17
 - priority: `0`
 - importance: `none`
@@ -76357,15 +76357,6 @@ Rows: 20939
 - fresh: They will not take widow or divorced woman for wife, except a virgin from the seed of the house of Israel; but a widow, if she is widow of a priest, they may take.
 - mt: Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before.
 - brenton: Neither shall they take to themselves to wife a widow, or one that is put away, but a virgin of the seed of Israel: but if there should happen to be a priest's widow, they shall take her.
-
-## Habakkuk 3:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.547`
-- fresh_brenton_ratio: `0.558`
-- fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating poor one secretly.
-- mt: You did strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.
-- brenton: Thou didst cut asunder the heads of princes with amazement, they shall tremble in it; they shall burst their bridles, they shall be as a poor man devouring in secret.
 
 ## Numbers 11:35
 - priority: `0`
@@ -99551,15 +99542,6 @@ Rows: 20939
 - mt: All the cities were ten with their suburbs for the families of the children of Kohath that remained.
 - brenton: In all were given ten cities, and the suburbs of each belonging to them, to the families of the sons of Caath that remained.
 
-## Ecclesiastes 6:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.638`
-- fresh_brenton_ratio: `0.614`
-- fresh: Because what surplus for wise man over fool? Because poor man knows how to walk before life.
-- mt: For what has the wise more than the fool? what has the poor, that knows to walk before the living?
-- brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
-
 ## Exodus 10:14
 - priority: `0`
 - importance: `none`
@@ -105481,6 +105463,15 @@ Rows: 20939
 - fresh: And whenever king entered the house of the Lord, guards and runners entered and then returned to chamber of runners.
 - mt: And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.
 - brenton: And it came to pass, when the king went into the house of the Lord, the guards and the footmen went in, and they that returned to meet the footmen.
+
+## Ecclesiastes 6:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.656`
+- fresh_brenton_ratio: `0.641`
+- fresh: Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
+- mt: For what has the wise more than the fool? what has the poor, that knows to walk before the living?
+- brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
 
 ## Isaiah 30:16
 - priority: `0`
@@ -114059,15 +114050,6 @@ Rows: 20939
 - mt: Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we are many; the land is given us for inheritance.
 - brenton: Son of man, they that inhabit the desolate places on the land of Israel say, Abraam was one, and he possessed the land: and we are more numerous; to us the land is given for a possession.
 
-## Proverbs 19:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.840`
-- fresh: Wealth adds many friends, but poor man is deserted even by friend he has.
-- mt: Wealth makes many friends; but the poor is separated from his neighbour.
-- brenton: Wealth acquires many friends; but the poor is deserted even of the friend he has.
-
 ## Isaiah 7:10
 - priority: `0`
 - importance: `none`
@@ -116317,15 +116299,6 @@ Rows: 20939
 - fresh: And this too I saw as wisdom under the sun, and it is great to me.
 - mt: This wisdom have I seen also under the sun, and it seemed great unto me:
 - brenton: This I also saw to be wisdom under the sun, and it is great before me:
-
-## Ecclesiastes 9:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.687`
-- fresh_brenton_ratio: `0.809`
-- fresh: And he found in it poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
-- mt: Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.
-- brenton: and should find in it a poor wise man, and he should save the city through his wisdom: yet no man would remember that poor man.
 
 ## Joshua 15:39
 - priority: `0`
@@ -120737,6 +120710,15 @@ Rows: 20939
 - mt: I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:
 - brenton: I said, I will scatter them, and I will cause their memorial to cease from among men.
 
+## Ecclesiastes 9:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.698`
+- fresh_brenton_ratio: `0.819`
+- fresh: And he found in it a poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
+- mt: Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.
+- brenton: and should find in it a poor wise man, and he should save the city through his wisdom: yet no man would remember that poor man.
+
 ## Numbers 4:45
 - priority: `0`
 - importance: `none`
@@ -120808,6 +120790,15 @@ Rows: 20939
 - fresh: And for thirty-three days she shall sit in the blood of her uncleanness. She shall touch nothing holy, and she shall not enter into the sanctuary until the days of her purification are fulfilled.
 - mt: And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 - brenton: And for thirty-three days she shall continue in her unclean blood; she shall touch nothing holy, and shall not enter the sanctuary, until the days of her purification be fulfilled.
+
+## Proverbs 19:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.698`
+- fresh_brenton_ratio: `0.899`
+- fresh: Wealth adds many friends, but the poor man is deserted even by the friend he has.
+- mt: Wealth makes many friends; but the poor is separated from his neighbour.
+- brenton: Wealth acquires many friends; but the poor is deserted even of the friend he has.
 
 ## Joshua 9:6
 - priority: `0`
@@ -123085,15 +123076,6 @@ Rows: 20939
 - fresh: He will not cry out nor raise up, nor will his voice be heard outside.
 - mt: He shall not cry, nor lift up, nor cause his voice to be heard in the street.
 - brenton: He shall not cry, nor lift up his voice, nor shall his voice be heard without.
-
-## Ecclesiastes 9:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.704`
-- fresh_brenton_ratio: `0.676`
-- fresh: And I said wisdom good above strength, yet wisdom of poor man despised and his words are not heard.
-- mt: Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard.
-- brenton: And I said, Wisdom is better than power: yet the wisdom of the poor man is set at nought, and his words not listened to.
 
 ## Isaiah 7:21
 - priority: `0`
@@ -128198,15 +128180,6 @@ Rows: 20939
 - mt: And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.
 - brenton: And I will greatly afflict the men, and they shall walk as blind men, because they have sinned against the Lord; therefore he shall pour out their blood as dust, and their flesh as dung.
 
-## Jeremiah 20:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.716`
-- fresh_brenton_ratio: `0.806`
-- fresh: Sing to the Lord. Praise him, because he rescued soul of poor man from the hand of evildoers.
-- mt: Sing unto the LORD, praise all of you the LORD: for he has delivered the soul of the poor from the hand of evildoers.
-- brenton: Sing ye to the Lord, sing praise to him: for he has rescued the soul of the poor from the hand of evil-doers.
-
 ## Genesis 41:57
 - priority: `0`
 - importance: `none`
@@ -128953,6 +128926,15 @@ Rows: 20939
 - fresh: And after these things the Levites shall go in to work the works of the tent of testimony, and you shall cleanse them and present them before the Lord.
 - mt: And after that shall the Levites go in to do the service of the tabernacle of the congregation: and you shall cleanse them, and offer them for an offering.
 - brenton: And afterwards the Levites shall go in to perform the works of the tabernacle of witness; and thou shalt purify them, and present them before the Lord.
+
+## Jeremiah 20:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.718`
+- fresh_brenton_ratio: `0.808`
+- fresh: Sing to the Lord. Praise him, because he rescued soul of a poor man from the hand of evildoers.
+- mt: Sing unto the LORD, praise all of you the LORD: for he has delivered the soul of the poor from the hand of evildoers.
+- brenton: Sing ye to the Lord, sing praise to him: for he has rescued the soul of the poor from the hand of evil-doers.
 
 ## Leviticus 14:40
 - priority: `0`
@@ -148484,6 +148466,15 @@ Rows: 20939
 - mt: And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:
 - brenton: And the children of Israel remembered not the Lord their God who had delivered them out of the hand of all that afflicted them round about.
 
+## Ecclesiastes 9:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.767`
+- fresh_brenton_ratio: `0.722`
+- fresh: And I said wisdom is good above strength, yet the wisdom of the poor man is despised and his words are not heard.
+- mt: Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard.
+- brenton: And I said, Wisdom is better than power: yet the wisdom of the poor man is set at nought, and his words not listened to.
+
 ## Deuteronomy 3:14
 - priority: `0`
 - importance: `none`
@@ -148672,15 +148663,6 @@ Rows: 20939
 - fresh: Receive declaration from his mouth, and take his words into your heart.
 - mt: Receive, I pray you, the law from his mouth, and lay up his words in yours heart.
 - brenton: And receive a declaration from his mouth, and lay up his words in thine heart.
-
-## Amos 2:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.767`
-- fresh_brenton_ratio: `0.829`
-- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold righteous one for silver and poor one because of sandals.
-- mt: Thus says the LORD; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;
-- brenton: Thus saith the Lord; For three sins of Israel, and for four, I will not turn away from him; because they sold the righteous for silver, and the poor for sandals,
 
 ## Genesis 27:26
 - priority: `0`
@@ -149591,6 +149573,15 @@ Rows: 20939
 - mt: And Samuel called the people together unto the LORD to Mizpeh;
 - brenton: And Samuel summoned all the people before the Lord to Massephath.
 
+## Amos 2:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.769`
+- fresh_brenton_ratio: `0.831`
+- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one because of sandals.
+- mt: Thus says the LORD; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;
+- brenton: Thus saith the Lord; For three sins of Israel, and for four, I will not turn away from him; because they sold the righteous for silver, and the poor for sandals,
+
 ## Jonah 3:4
 - priority: `0`
 - importance: `none`
@@ -150049,6 +150040,15 @@ Rows: 20939
 - fresh: And this house, exalted as it is, everyone passing through it will be astonished and will hiss, and they will say, For what cause did the Lord do thus to this land and to this house?
 - mt: And at this house, which is high, every one that passes by it shall be astonished, and shall hiss; and they shall say, Why has the LORD done thus unto this land, and to this house?
 - brenton: And this house, which is high, shall be so that every one that passes by it shall be amazed, and shall hiss; and they shall say, Wherefore has the Lord done thus to this land, and to this house?
+
+## Ecclesiastes 2:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.771`
+- fresh_brenton_ratio: `0.734`
+- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
+- mt: There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
+- brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ## Numbers 23:4
 - priority: `0`

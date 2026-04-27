@@ -1104,19 +1104,19 @@ Use:
 
 ## Ecclesiastes
 
-### Ecclesiastes 2:24
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, soul; crossref_top_vote=17; reco=keep
-- crossref top vote: 17
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
-- brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
-
 ### Ecclesiastes 2:26
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit; crossref_top_vote=43; reco=keep
 - crossref top vote: 43
 - fresh: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
 - brenton: For God has given to the man who is good in his sight, wisdom, and knowledge, and joy: but he has given to the sinner trouble, to add and to heap up, that he may give to him that is good before God; for this is also vanity and waywardness of spirit.
+
+### Ecclesiastes 5:7
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
+- crossref top vote: 13
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ### Ecclesiastes 6:2
 - score: 17

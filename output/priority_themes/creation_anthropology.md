@@ -2,7 +2,7 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 61
+Rows: 60
 Books: 31
 
 ## Genesis 1:2
@@ -193,13 +193,6 @@ Books: 31
 - keywords: lord, righteous, soul
 - fresh: The Lord will not starve righteous soul, but life of the ungodly he will overthrow.
 - brenton: The Lord will not famish a righteous soul: but he will overthrow the life of the ungodly.
-
-## Ecclesiastes 2:24
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, soul; crossref_top_vote=17; reco=keep
-- keywords: god, soul
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
-- brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ## Ecclesiastes 2:26
 - score: 16

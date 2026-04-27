@@ -54358,7 +54358,7 @@ For ear heard and blessed me, and eye seeing me turned aside toward me,
 
 **Job 29:12**
 
-because I rescued poor man from the hand of mighty man, and I helped orphan who had no helper.
+because I rescued a poor man from the hand of a mighty man, and I helped an orphan who had no helper.
 
 **Job 29:13**
 
@@ -56510,7 +56510,7 @@ Because what you fitted together they tore down; but righteous man, what did he 
 
 **Psalms 10:4**
 
-The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward poor man; his eyelids examine sons of men.
+The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward the poor man; his eyelids examine sons of men.
 
 **Psalms 10:5**
 
@@ -58022,7 +58022,7 @@ But my soul will rejoice in the Lord, delighting in his salvation.
 
 **Psalms 34:10**
 
-All my bones will say, Lord, who like you, rescuing poor man from the hand of those stronger than he, and poor and needy from those plundering him?
+All my bones will say, Lord, who like you, rescuing a poor man from the hand of those stronger than he, and a poor and needy one from those plundering him?
 
 **Psalms 34:11**
 
@@ -60180,7 +60180,7 @@ You will set apart willing rain, O God, for your inheritance; and it grew weak, 
 
 **Psalms 67:11**
 
-Your living creatures dwell in it; in your goodness you prepared for poor one, O God.
+Your living creatures dwell in it; in your goodness you prepared for the poor one, O God.
 
 **Psalms 67:12**
 
@@ -60604,7 +60604,7 @@ And all kings will worship him; all nations will serve him.
 
 **Psalms 71:12**
 
-Because he rescued poor man from the hand of ruler and needy one to whom no helper existed.
+Because he rescued a poor man from the hand of a ruler and a needy one to whom no helper existed.
 
 **Psalms 71:13**
 
@@ -61540,11 +61540,11 @@ How long will you judge injustice and take faces of sinners? Interlude.
 
 **Psalms 81:3**
 
-Judge orphan and poor one; justify humble one and needy one.
+Judge an orphan and a poor one; justify a humble one and a needy one.
 
 **Psalms 81:4**
 
-Rescue needy one and poor one; deliver from the hand of sinner.
+Rescue a needy one and a poor one; deliver from the hand of a sinner.
 
 **Psalms 81:5**
 
@@ -62748,7 +62748,7 @@ In mornings I killed all sinners of earth, to destroy from the city of the Lord 
 
 **Psalms 101:1**
 
-Prayer for poor man, when he grows faint and pours out his supplication before the Lord.
+Prayer for the poor man, when he grows faint and pours out his supplication before the Lord.
 
 **Psalms 101:2**
 
@@ -63634,7 +63634,7 @@ Contempt was poured out upon rulers, and he made them wander in trackless place 
 
 **Psalms 106:41**
 
-And he helped poor man out of poverty and made families like sheep.
+And he helped a poor man out of poverty and made families like sheep.
 
 **Psalms 106:42**
 
@@ -68478,7 +68478,7 @@ The folly of a man ruins his ways, yet in his heart he blames God.
 
 **Proverbs 19:4**
 
-Wealth adds many friends, but poor man is deserted even by friend he has.
+Wealth adds many friends, but the poor man is deserted even by the friend he has.
 
 **Proverbs 19:5**
 
@@ -69540,7 +69540,7 @@ Evil men will not understand judgment, but those seeking the Lord will understan
 
 **Proverbs 28:6**
 
-Better poor man walking in truth than rich liar.
+Better a poor man walking in truth than a rich liar.
 
 **Proverbs 28:7**
 
@@ -69658,7 +69658,7 @@ For sinful man great snare, but righteous will be in joy and gladness.
 
 **Proverbs 29:7**
 
-A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for poor man there is no discerning mind.
+A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
 
 **Proverbs 29:8**
 
@@ -70370,7 +70370,7 @@ Because in the multitude of dreams and vanities and many words, instead fear God
 
 **Ecclesiastes 5:7**
 
-If you see slander of poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
 
 **Ecclesiastes 5:8**
 
@@ -70452,7 +70452,7 @@ All toil of man for his mouth, yet soul will not be filled.
 
 **Ecclesiastes 6:8**
 
-Because what surplus for wise man over fool? Because poor man knows how to walk before life.
+Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
 
 **Ecclesiastes 6:9**
 
@@ -70718,11 +70718,11 @@ Small city, and few men in it, and great king came against it and surrounded it 
 
 **Ecclesiastes 9:15**
 
-And he found in it poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
+And he found in it a poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
 
 **Ecclesiastes 9:16**
 
-And I said wisdom good above strength, yet wisdom of poor man despised and his words are not heard.
+And I said wisdom is good above strength, yet the wisdom of the poor man is despised and his words are not heard.
 
 **Ecclesiastes 9:17**
 
@@ -78634,7 +78634,7 @@ Lord, testing righteous and understanding kidneys and heart, let me see from you
 
 **Jeremiah 20:13**
 
-Sing to the Lord. Praise him, because he rescued soul of poor man from the hand of evildoers.
+Sing to the Lord. Praise him, because he rescued soul of a poor man from the hand of evildoers.
 
 **Jeremiah 20:14**
 
@@ -90424,7 +90424,7 @@ And I will send fire upon Judah, and it will devour foundations of Jerusalem.
 
 **Amos 2:6**
 
-Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold righteous one for silver and poor one because of sandals.
+Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one because of sandals.
 
 **Amos 2:7**
 
@@ -92072,7 +92072,7 @@ You went out for the salvation of your people, to save your anointed ones. You c
 
 **Habakkuk 3:14**
 
-You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating poor one secretly.
+You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
 
 **Habakkuk 3:15**
 

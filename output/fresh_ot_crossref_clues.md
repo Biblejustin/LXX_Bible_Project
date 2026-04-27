@@ -1686,6 +1686,17 @@ Rows: 233
 - OT clues: Gen.18.17 (56) -> And the Lord said, Shall I hide from Abraham my servant what I am doing? || Dan.9.22-Dan.9.27 (35) -> And he came and spoke with me and said, Daniel, now I came out to show you understanding. || Gen.6.13 (32) -> And the Lord God said to Noah, 'The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth.' || Dan.10.21 (27) -> But I will plainly show you first things in the writing of truth, and no one was helping with me concerning these things except Michael the angel.
 - NT clues: John.15.15 (66) -> Henceforth I call you not servants; for the servant knows not what his lord does: but I have called you friends; for all things that I have heard of my Father I have made known unto you. || Ps.25.14 (52) -> The secret of the LORD is with them that fear him; and he will show them his covenant. || Rev.1.1 (44) -> The Revelation of Jesus Christ, which God gave unto him, to show unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 
+## Ecclesiastes 5:7
+- score: 17
+- latest review status: keep
+- top vote: 13
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- OT clues: Eccl.12.13 (13) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
+- NT clues: Matt.12.36 (13) -> But I say unto you, That every idle word (o. rhema) that men shall speak, they shall give account (o. logos) thereof in the day of judgment.
+
 ## Ecclesiastes 6:2
 - score: 17
 - latest review status: revised
@@ -2202,17 +2213,6 @@ Rows: 233
 - fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 - OT clues: Deut.32.4 (11) -> God, his works are true, and all his ways are judgments, faithful God, and there is no injustice, righteous and holy is the Lord. || Zeph.3.15 (6) -> The Lord removed your injustices and redeemed you from the hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils. || Deut.23.14 (5) -> and a peg shall be for you on your belt, and it shall be, when you sit outside, then you shall dig with it and, turning back, you shall cover your indecency with it. || Isa.12.6 (5) -> Exult and rejoice, dwellers of Zion, because the Holy One of Israel was exalted in the midst of her.
 - NT clues: Lam.3.23 (8) -> They are new every morning: great is your faithfulness. || Ps.145.17 (8) -> The LORD is righteous in all his ways, and holy in all his works.
-
-## Ecclesiastes 2:24
-- score: 15
-- latest review status: keep
-- top vote: 17
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
-- OT clues: Eccl.3.22 (17) -> And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him? || Eccl.8.15 (13) -> And I praised gladness, because there is no good for man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under the sun. || Eccl.3.12-Eccl.3.13 (9) -> I knew there is no good in them except to rejoice and to do good in his life. || Eccl.5.18-Eccl.5.19 (9) -> And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
-- NT clues: 1Tim.6.17 (12) -> Charge them that are rich in this world, that they be not high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy; || 1Cor.15.32 (6) -> If after the manner of men I have fought with beasts at Ephesus, what advantages it me, if the dead rise not? let us eat and drink; in order to morrow we die.
 
 ## Esther 1:13
 - score: 15

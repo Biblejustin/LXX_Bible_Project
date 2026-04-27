@@ -6,8 +6,8 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 61
-- covenant/law: 78
+- anthropology: 60
+- covenant/law: 79
 - death/afterlife: 1
 - kingship: 104
 - ritual: 76

@@ -120182,10 +120182,10 @@ Note:
 ### Job 29:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because I rescued poor man from the hand of mighty man, and I helped orphan who had no helper.
+- fresh: because I rescued a poor man from the hand of a mighty man, and I helped an orphan who had no helper.
 - brenton: For I saved the poor out of the hand of the oppressor, and helped the fatherless who had no helper.
 
 ### Job 29:13
@@ -124918,10 +124918,10 @@ Note:
 ### Psalms 10:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward poor man; his eyelids examine sons of men.
+- fresh: The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look toward the poor man; his eyelids examine sons of men.
 - brenton: The Lord is in his holy temple, as for the Lord, his throne is in heaven: his eyes look upon the poor, his eyelids try the sons of men.
 
 ### Psalms 10:5
@@ -128212,10 +128212,10 @@ Note:
 ### Psalms 34:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All my bones will say, Lord, who like you, rescuing poor man from the hand of those stronger than he, and poor and needy from those plundering him?
+- fresh: All my bones will say, Lord, who like you, rescuing a poor man from the hand of those stronger than he, and a poor and needy one from those plundering him?
 - brenton: All my bones shall say, O Lord, who is like to thee? delivering the poor out of the hand of them that are stronger than he, yea, the poor and needy one from them that spoil him.
 
 ### Psalms 34:11
@@ -132919,10 +132919,10 @@ Note:
 ### Psalms 67:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your living creatures dwell in it; in your goodness you prepared for poor one, O God.
+- fresh: Your living creatures dwell in it; in your goodness you prepared for the poor one, O God.
 - brenton: Thy creatures dwell in it: thou hast in thy goodness prepared for the poor.
 
 ### Psalms 67:12
@@ -133855,10 +133855,10 @@ Note:
 ### Psalms 71:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he rescued poor man from the hand of ruler and needy one to whom no helper existed.
+- fresh: Because he rescued a poor man from the hand of a ruler and a needy one to whom no helper existed.
 - brenton: For he has delivered the poor from the oppressor; and the needy who had no helper.
 
 ### Psalms 71:13
@@ -135916,19 +135916,19 @@ Note:
 ### Psalms 81:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Judge orphan and poor one; justify humble one and needy one.
+- fresh: Judge an orphan and a poor one; justify a humble one and a needy one.
 - brenton: Judge the orphan and poor: do justice to the low and needy.
 
 ### Psalms 81:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rescue needy one and poor one; deliver from the hand of sinner.
+- fresh: Rescue a needy one and a poor one; deliver from the hand of a sinner.
 - brenton: Rescue the needy, and deliver the poor out of the hand of the sinner.
 
 ### Psalms 81:5
@@ -138544,10 +138544,10 @@ Note:
 ### Psalms 101:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Prayer for poor man, when he grows faint and pours out his supplication before the Lord.
+- fresh: Prayer for the poor man, when he grows faint and pours out his supplication before the Lord.
 - brenton: A Prayer for the Poor; when he is deeply afflicted, and pours out his supplication before the Lord.
 
 ### Psalms 101:2
@@ -140515,10 +140515,10 @@ Note:
 ### Psalms 106:41
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he helped poor man out of poverty and made families like sheep.
+- fresh: And he helped a poor man out of poverty and made families like sheep.
 - brenton: But he helps the poor out of poverty, and makes him families as a flock.
 
 ### Psalms 106:42
@@ -151128,10 +151128,10 @@ Note:
 ### Proverbs 19:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Wealth adds many friends, but poor man is deserted even by friend he has.
+- fresh: Wealth adds many friends, but the poor man is deserted even by the friend he has.
 - brenton: Wealth acquires many friends; but the poor is deserted even of the friend he has.
 
 ### Proverbs 19:5
@@ -153477,10 +153477,10 @@ Note:
 ### Proverbs 28:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better poor man walking in truth than rich liar.
+- fresh: Better a poor man walking in truth than a rich liar.
 - brenton: A poor man walking in truth is better than a rich liar.
 
 ### Proverbs 28:7
@@ -153738,10 +153738,10 @@ Note:
 ### Proverbs 29:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for poor man there is no discerning mind.
+- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
 - brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
 
 ### Proverbs 29:8
@@ -155306,10 +155306,10 @@ Note:
 ### Ecclesiastes 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you see slander of poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
 - brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ### Ecclesiastes 5:8
@@ -155486,10 +155486,10 @@ Note:
 ### Ecclesiastes 6:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because what surplus for wise man over fool? Because poor man knows how to walk before life.
+- fresh: Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
 - brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
 
 ### Ecclesiastes 6:9
@@ -156071,19 +156071,19 @@ Note:
 ### Ecclesiastes 9:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he found in it poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
+- fresh: And he found in it a poor wise man, and he will save the city by his wisdom, and man did not remember that poor man.
 - brenton: and should find in it a poor wise man, and he should save the city through his wisdom: yet no man would remember that poor man.
 
 ### Ecclesiastes 9:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said wisdom good above strength, yet wisdom of poor man despised and his words are not heard.
+- fresh: And I said wisdom is good above strength, yet the wisdom of the poor man is despised and his words are not heard.
 - brenton: And I said, Wisdom is better than power: yet the wisdom of the poor man is set at nought, and his words not listened to.
 
 ### Ecclesiastes 9:17
@@ -173438,10 +173438,10 @@ Note:
 ### Jeremiah 20:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to the Lord. Praise him, because he rescued soul of poor man from the hand of evildoers.
+- fresh: Sing to the Lord. Praise him, because he rescued soul of a poor man from the hand of evildoers.
 - brenton: Sing ye to the Lord, sing praise to him: for he has rescued the soul of the poor from the hand of evil-doers.
 
 ### Jeremiah 20:14
@@ -199424,10 +199424,10 @@ Note:
 ### Amos 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold righteous one for silver and poor one because of sandals.
+- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one because of sandals.
 - brenton: Thus saith the Lord; For three sins of Israel, and for four, I will not turn away from him; because they sold the righteous for silver, and the poor for sandals,
 
 ### Amos 2:7
@@ -203007,10 +203007,10 @@ Note:
 ### Habakkuk 3:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating poor one secretly.
+- fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
 - brenton: Thou didst cut asunder the heads of princes with amazement, they shall tremble in it; they shall burst their bridles, they shall be as a poor man devouring in secret.
 
 ### Habakkuk 3:15

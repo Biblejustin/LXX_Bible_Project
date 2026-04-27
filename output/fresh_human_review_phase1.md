@@ -2360,6 +2360,21 @@ Rows: 234
 - fresh: Because the Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
 - brenton: For the Lord God will do nothing, without revealing instruction to his servants the prophets.
 
+## Ecclesiastes 5:7
+- priority: `17`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
+
 ## Ecclesiastes 6:2
 - priority: `17`
 - importance: `high`
@@ -3079,21 +3094,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
 - brenton: But the just Lord is in the midst of her, and he will never do an unjust thing: morning by morning he will bring out his judgment to the light, and it is not hidden, and he knows not injustice by extortion, nor injustice in strife.
-
-## Ecclesiastes 2:24
-- priority: `15`
-- importance: `high`
-- reason: high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: There is no good in man except that he should eat and drink and show his soul good in his toil; and this too I saw, that it is from the hand of God.
-- brenton: A man has nothing really good to eat, and to drink, and to shew his soul as good in his trouble. This also I saw, that it is from the hand of God.
 
 ## Esther 1:13
 - priority: `15`

@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 78
+Rows: 79
 Books: 34
 
 ## Exodus 28:30
@@ -312,6 +312,13 @@ Books: 34
 - keywords: glory, grace, sin
 - fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
 - brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
+
+## Ecclesiastes 5:7
+- score: 17
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
+- keywords: judgment, justice, righteousness
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ## Ecclesiastes 7:20
 - score: 16
