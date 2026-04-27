@@ -159135,10 +159135,10 @@ Note:
 ### Isaiah 9:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The people walking in darkness, see great light; you dwelling in the land and the shadow of death, light will shine on you.
+- fresh: The people walking in darkness, see a great light; you dwelling in the land and the shadow of death, a light will shine on you.
 - brenton: O people walking in darkness, behold a great light: ye that dwell in the region and shadow of death, a light shall shine upon you.
 
 ### Isaiah 9:2
@@ -159153,10 +159153,10 @@ Note:
 ### Isaiah 9:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because yoke lying on them and rod on their neck, for rod of those exacting scattered Lord as on the day of Midian.
+- fresh: Because the yoke lying on them and the rod on their neck, for the rod of those exacting the Lord scattered as on the day of Midian.
 - brenton: Because the yoke that was laid upon them has been taken away, and the rod that was on their neck: for he has broken the rod of the exactors, as in the day of Madiam.
 
 ### Isaiah 9:4
@@ -159165,16 +159165,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because every garment gathered by deceit and garment from confiscation they will repay, and they will wish it had become burned with fire.
+- fresh: Because every garment gathered by deceit and a garment from confiscation they will repay, and they will wish it had become burned with fire.
 - brenton: For they shall compensate for every garment that has been acquired by deceit, and all raiment with restitution; and they shall be willing, even if they were burnt with fire.
 
 ### Isaiah 9:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because child was born to us, son was given to us, whose rule became upon his shoulder, and his name is called Angel of Great Counsel, for I will bring peace upon rulers, peace and health to him.
+- fresh: Because a child was born to us, a son was given to us, whose rule became upon his shoulder, and his name is called Angel of Great Counsel, for I will bring peace upon rulers, peace and health to him.
 - brenton: For a child is born to us, and a son is given to us, whose government is upon his shoulder: and his name is called the Messenger of great counsel: for I will bring peace upon the princes, and health to him.
 
 ### Isaiah 9:6
@@ -159201,7 +159201,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the people of Ephraim and dwellers in Samaria will know, in insolence and lofty heart saying,
+- fresh: And all the people of Ephraim and the dwellers in Samaria will know, in insolence and a lofty heart saying,
 - brenton: And all the people of Ephraim, and they that dwelt in Samaria shall know, who say in their pride and lofty heart,
 
 ### Isaiah 9:9
@@ -159210,7 +159210,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Bricks have fallen, but come, let us hew stones, and cut down sycamores and cedars, and build tower for ourselves.
+- fresh: Bricks have fallen, but come, let us hew stones, and cut down sycamores and cedars, and build a tower for ourselves.
 - brenton: The bricks are fallen down, but come, let us hew stones, and cut down sycamores and cedars, and let us build for ourselves a tower.
 
 ### Isaiah 9:10
@@ -159225,10 +159225,10 @@ Note:
 ### Isaiah 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Syria from the east of sun and Greeks from west of sun, devouring Israel with whole mouth. In all these his anger did not turn away, but hand still high.
+- fresh: Syria from the east of the sun and Greeks from the west of the sun, devouring Israel with a whole mouth. In all these his anger did not turn away, but his hand is still high.
 - brenton: even Syria from the rising of the sun, and the Greeks from the setting of the sun, who devour Israel with open mouth. For all this his anger is not turned away, but still his hand is exalted.
 
 ### Isaiah 9:12
@@ -159246,16 +159246,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord took away from Israel head and tail, great and small, in one day.
+- fresh: And the Lord took away from Israel the head and tail, great and small, in one day.
 - brenton: So the Lord took away from Israel the head and tail, great and small, in one day:
 
 ### Isaiah 9:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Elder and those admiring faces is head, and prophet teaching lawless things is tail.
+- fresh: An elder and those admiring faces are the head, and a prophet teaching lawless things is the tail.
 - brenton: the old man, and them that respect persons, this is the head; and the prophet teaching unlawful things, he is the tail.
 
 ### Isaiah 9:15
@@ -159273,34 +159273,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this God will not rejoice over their young men, and their orphans and widows he will not pity, because all lawless and evil, and every mouth speaks unjust things. In all these his anger did not turn away, but hand still high.
+- fresh: Because of this God will not rejoice over their young men, and their orphans and widows he will not pity, because all are lawless and evil, and every mouth speaks unjust things. In all these his anger did not turn away, but his hand is still high.
 - brenton: Therefore the Lord shall not take pleasure in their young men, neither shall he have pity on their orphans or on their widows: for they are all transgressors and wicked, and every mouth speaks unjustly. For all this his anger is not turned away, but his hand is yet exalted.
 
 ### Isaiah 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And lawlessness will burn as fire, and dry grass will be eaten by fire, and it will burn in thickets of the forest and consume everything around hills.
+- fresh: And lawlessness will burn as a fire, and dry grass will be eaten by fire, and it will burn in the thickets of the forest and consume everything around the hills.
 - brenton: And iniquity shall burn as fire, and shall be devoured by fire as dry grass: and it shall burn in the thickets of the wood, and shall devour all that is round about the hills.
 
 ### Isaiah 9:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: By wrath of anger of the Lord the whole land has been burned together, and people will be as ones burned by fire; man will not pity his brother.
+- fresh: By the wrath of the anger of the Lord the whole land has been burned together, and the people will be as ones burned by fire; a man will not pity his brother.
 - brenton: The whole earth is set on fire because of the fierce anger of the Lord, and the people shall be as men burnt by fire: no man shall pity his brother.
 
 ### Isaiah 9:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will turn aside to right because he will hunger, and he will eat from left and certainly not be filled; each man eating flesh of his own arm.
+- fresh: He will turn aside to the right because he will hunger, and he will eat from the left and certainly not be filled; each man eating the flesh of his own arm.
 - brenton: But one shall turn aside to the right hand, for he shall be hungry; and shall eat on the left, and a man shall by no means be satisfied with eating the flesh of his own arm.
 
 ### Isaiah 9:20
@@ -159309,7 +159309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For Manasseh will eat Ephraim, and Ephraim Manasseh, because together they will besiege Judah. In all these his anger did not turn away, but hand still high.
+- fresh: For Manasseh will eat Ephraim, and Ephraim Manasseh, because together they will besiege Judah. In all these his anger did not turn away, but his hand is still high.
 - brenton: For Manasses shall eat the flesh of Ephraim, and Ephraim the flesh of Manasses; for they shall besiege Juda together. For all this his anger is not turned away, but his hand is yet exalted.
 
 ### Isaiah 10:1
@@ -159318,16 +159318,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those writing evil things, for writing they write evil,
+- fresh: Woe to those writing evil things, for writing they write evil,
 - brenton: Woe to them that write wickedness; for when they write they do write wickedness,
 
 ### Isaiah 10:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: turning aside judgment of poor, stealing right of needy of my people, so that widow becomes for them plunder and orphan spoil.
+- fresh: turning aside the judgment of the poor, stealing the right of the needy of my people, so that a widow becomes for them plunder and an orphan spoil.
 - brenton: perverting the cause of the poor, violently wresting the judgment of the needy ones of my people, that the widow may be a prey to them, and the orphan a spoil.
 
 ### Isaiah 10:3
@@ -159345,25 +159345,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: So as not to fall into captivity? In all these his anger did not turn away, but hand still high.
+- fresh: So as not to fall into captivity? In all these his anger did not turn away, but his hand is still high.
 - brenton: that ye may not fall into captivity?
 
 ### Isaiah 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to Assyrians; rod of my anger, and wrath is in their hands.
+- fresh: Woe to the Assyrians; the rod of my anger, and wrath is in their hands.
 - brenton: Woe to the Assyrians; the rod of my wrath, and anger are in their hands.
 
 ### Isaiah 10:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will send my wrath against lawless nation, and I will command against my people to make spoil and plunder and trample cities and make them dust.
+- fresh: I will send my wrath against a lawless nation, and I will command against my people to make spoil and plunder and trample the cities and make them dust.
 - brenton: I will send my wrath against a sinful nation, and I will charge my people to take plunder and spoil, and to trample the cities, and to make them dust.
 
 ### Isaiah 10:7
@@ -159372,7 +159372,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But he did not think thus, and in soul he did not reckon thus; but his mind will cast off, to destroy nations not a few.
+- fresh: But he did not think thus, and in his soul he did not reckon thus; but his mind will cast off, to destroy nations not a few.
 - brenton: But he meant not thus, neither did he devise thus in his soul: but his mind shall change, and that to destroy nations not a few.
 
 ### Isaiah 10:8
@@ -159381,7 +159381,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if they say to him, You alone are ruler?
+- fresh: And if they say to him, You alone are the ruler?
 - brenton: And if they should say to him, Thou alone art ruler;
 
 ### Isaiah 10:9
@@ -159390,7 +159390,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will say, Did I not take region above Babylon and Calno where tower was built, and take Arabia and Damascus and Samaria?
+- fresh: And he will say, Did I not take the region above Babylon and Calno where the tower was built, and take Arabia and Damascus and Samaria?
 - brenton: then shall he say, Have I not taken the country above Babylon and Chalanes, where the tower was built? and have I not taken Arabia, and Damascus, and Samaria?
 
 ### Isaiah 10:10
@@ -159414,10 +159414,10 @@ Note:
 ### Isaiah 10:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, when the Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon great mind of ruler of Assyrians and upon loftiness of glory of his eyes.
+- fresh: And it will be, when the Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon the great mind of the ruler of the Assyrians and upon the loftiness of the glory of his eyes.
 - brenton: And it shall come to pass, when the Lord shall have finished doing all things on mount Sion and Jerusalem, that I will visit upon the proud heart, even upon the ruler of the Assyrians, and upon the boastful haughtiness of his eyes.
 
 ### Isaiah 10:13
@@ -159426,25 +159426,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For he said, By strength I will do it, and by wisdom of understanding. I will remove boundaries of nations and plunder their strength, and shake inhabited cities.
+- fresh: For he said, By strength I will do it, and by the wisdom of understanding. I will remove boundaries of nations and plunder their strength, and shake inhabited cities.
 - brenton: For he said, I will act in strength, and in the wisdom of my understanding I will remove the boundaries of nations, and will spoil their strength.
 
 ### Isaiah 10:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whole world I will seize with hand as nest, and as eggs left behind I will take, and there is none who will escape me or speak against me.
+- fresh: And the whole world I will seize with the hand as a nest, and as eggs left behind I will take, and there is none who will escape me or speak against me.
 - brenton: And I will shake the inhabited cities: and I will take with my hand all the world as a nest: and I will even take them as eggs that have been left; and there is none that shall escape me, or contradict me.
 
 ### Isaiah 10:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will axe be glorified without one chopping with it, or saw be lifted up without one pulling it? Likewise if someone lifts rod or wood.
+- fresh: Will an axe be glorified without the one chopping with it, or a saw be lifted up without the one pulling it? Likewise if someone lifts a rod or wood.
 - brenton: Shall the axe glorify itself without him that hews with it? or shall the saw lift up itself without him that uses it, as if one should lift a rod or staff? but it shall not be so;
 
 ### Isaiah 10:16
@@ -159453,16 +159453,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And not thus, but the Lord of hosts will send dishonor into your honor, and under your glory burning fire will be burned.
+- fresh: And not thus, but the Lord of hosts will send dishonor into your honor, and under your glory a burning fire will be burned.
 - brenton: but the Lord of hosts shall send dishonour upon thine honour, and burning fire shall be kindled upon thy glory.
 
 ### Isaiah 10:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And light of Israel will be for fire, and it will sanctify him in burning fire, and it will devour forest as grass in that day.
+- fresh: And the light of Israel will be for a fire, and it will sanctify him in a burning fire, and it will devour the forest as grass in that day.
 - brenton: And the light of Israel shall be for a fire, and he shall sanctify him with burning fire, and it shall devour the wood as grass.
 
 ### Isaiah 10:18
@@ -159471,7 +159471,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Mountains and hills and forests will be extinguished, and it will be devoured from soul to flesh, and fugitive will be as one fleeing from burning flame.
+- fresh: Mountains and hills and forests will be extinguished, and it will be devoured from soul to flesh, and the fugitive will be as one fleeing from a burning flame.
 - brenton: In that day the mountains shall be consumed, and the hills, and the forests, and fire shall devour both soul and body: and he that flees shall be as one fleeing from burning flame.
 
 ### Isaiah 10:19
@@ -159480,7 +159480,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And those left from them will be a number, and child will write them.
+- fresh: And those left from them will be a number, and a child will write them.
 - brenton: And they that are left of them shall be a small number, and a child shall write them.
 
 ### Isaiah 10:20
@@ -159504,28 +159504,28 @@ Note:
 ### Isaiah 10:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And even if the people Israel become as the sand of the sea, the remnant of them will be saved, for word finishing and cutting short in righteousness.
+- fresh: And even if the people Israel become as the sand of the sea, the remnant of them will be saved, for a word finishing and cutting short in righteousness.
 - brenton: And though the people of Israel be as the sand of the sea, a remnant of them shall be saved.
 
 ### Isaiah 10:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because God will make cut-short word in whole inhabited world.
+- fresh: Because God will make a cut-short word in the whole inhabited world.
 - brenton: He will finish the work, and cut it short in righteousness: because the Lord will make a short work in all the world.
 
 ### Isaiah 10:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord of hosts, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see the way of Egypt.
+- fresh: Therefore thus says the Lord of hosts, Do not fear, my people dwelling in Zion, from the Assyrians, because with a rod he will strike you, for I bring a stripe upon you to see the way of Egypt.
 - brenton: Therefore thus saith the Lord of hosts, Be not afraid, my people who dwell in Sion, of the Assyrians, because he shall smite thee with a rod: for I am bringing a stroke upon thee, that thou mayest see the way of Egypt.
 
 ### Isaiah 10:25
@@ -159534,52 +159534,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For still a little, and wrath will cease, but my anger upon their counsel.
+- fresh: For still a little, and the wrath will cease, but my anger will be upon their counsel.
 - brenton: For yet a little while, and the indignation shall cease: but my wrath shall be against their council.
 
 ### Isaiah 10:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God will stir against them according to the blow of Midian in place of affliction, and his anger in the way by sea, in the way toward Egypt.
+- fresh: And God will stir against them according to the blow of Midian in the place of affliction, and his anger in the way by sea, in the way toward Egypt.
 - brenton: And God will stir up enemies against them, according to the stroke of Madiam in the place of affliction: and his wrath shall be by the way of the sea, even to the way that leads to Egypt.
 
 ### Isaiah 10:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day his fear will be removed from you and his yoke from your shoulder, and yoke will be destroyed from your shoulders.
+- fresh: And it will be in that day his fear will be removed from you and his yoke from your shoulder, and the yoke will be destroyed from your shoulders.
 - brenton: And it shall come to pass in that day, that his yoke shall be taken away from thy shoulder, and his fear from thee, and the yoke shall be destroyed from off your shoulders.
 
 ### Isaiah 10:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For he will come to the city Aiath and pass to Megiddo and at Michmash place his gear.
+- fresh: For he will come to the city Aiath and pass to Megiddo and at Michmash he will place his gear.
 - brenton: For he shall arrive at the city of Angai, and shall pass on to Maggedo, and shall lay up his stores in Machmas.
 
 ### Isaiah 10:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will pass ravine and come to Aiath; fear will seize Ramah; city of Saul will flee.
+- fresh: He will pass a ravine and come to Aiath; fear will seize Ramah; the city of Saul will flee.
 - brenton: And he shall pass by the valley, and shall arrive at Angai: fear shall seize upon Rama, the city of Saul.
 
 ### Isaiah 10:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Daughter Gallim will hear; Laish will hear; Anathoth.
+- fresh: The daughter of Gallim will hear; Laish will hear; Anathoth.
 - brenton: The daughter of Gallim shall flee; Laisa shall hear; one shall hear in Anathoth.
 
 ### Isaiah 10:31
@@ -159588,25 +159588,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Madmena staggered, and dwellers of Gebim, comfort yourselves.
+- fresh: Madmena staggered, and the dwellers of Gebim, comfort yourselves.
 - brenton: Madebena also is amazed, and the inhabitants of Gibbir.
 
 ### Isaiah 10:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Today on road to remain, with hand he calls to mountain, daughter of Zion, and hills in Jerusalem.
+- fresh: Today on the road to remain, with the hand he calls to the mountain, the daughter of Zion, and the hills in Jerusalem.
 - brenton: Exhort ye them to-day to remain in the way: exhort ye beckoning with the hand the mountain, the daughter of Sion, even ye hills that are in Jerusalem.
 
 ### Isaiah 10:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For look, Master, the Lord of hosts, shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
+- fresh: For look, the Master, the Lord of hosts, shakes the glorious ones with might, and the lofty in insolence will be crushed, and the high ones will be humbled.
 - brenton: Behold, the Lord, the Lord of hosts, will mightily confound the glorious ones; and the haughty in pride shall be crushed, and the lofty shall be brought low:
 
 ### Isaiah 10:34
@@ -159615,7 +159615,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And high ones will fall by sword, and Lebanon with high ones will fall.
+- fresh: And the high ones will fall by a sword, and Lebanon with the high ones will fall.
 - brenton: and the lofty ones shall fall by the sword, and Libanus shall fall with his lofty ones.
 
 ### Isaiah 11:1

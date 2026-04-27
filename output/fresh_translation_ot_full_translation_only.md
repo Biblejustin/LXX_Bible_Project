@@ -72122,7 +72122,7 @@ And one being in distress will not be without escape until time. This first he d
 
 **Isaiah 9:1**
 
-The people walking in darkness, see great light; you dwelling in the land and the shadow of death, light will shine on you.
+The people walking in darkness, see a great light; you dwelling in the land and the shadow of death, a light will shine on you.
 
 **Isaiah 9:2**
 
@@ -72130,15 +72130,15 @@ Most of the people whom you brought down, in your gladness they will rejoice bef
 
 **Isaiah 9:3**
 
-Because yoke lying on them and rod on their neck, for rod of those exacting scattered Lord as on the day of Midian.
+Because the yoke lying on them and the rod on their neck, for the rod of those exacting the Lord scattered as on the day of Midian.
 
 **Isaiah 9:4**
 
-Because every garment gathered by deceit and garment from confiscation they will repay, and they will wish it had become burned with fire.
+Because every garment gathered by deceit and a garment from confiscation they will repay, and they will wish it had become burned with fire.
 
 **Isaiah 9:5**
 
-Because child was born to us, son was given to us, whose rule became upon his shoulder, and his name is called Angel of Great Counsel, for I will bring peace upon rulers, peace and health to him.
+Because a child was born to us, a son was given to us, whose rule became upon his shoulder, and his name is called Angel of Great Counsel, for I will bring peace upon rulers, peace and health to him.
 
 **Isaiah 9:6**
 
@@ -72150,11 +72150,11 @@ The Lord sent death upon Jacob, and it came upon Israel.
 
 **Isaiah 9:8**
 
-And all the people of Ephraim and dwellers in Samaria will know, in insolence and lofty heart saying,
+And all the people of Ephraim and the dwellers in Samaria will know, in insolence and a lofty heart saying,
 
 **Isaiah 9:9**
 
-Bricks have fallen, but come, let us hew stones, and cut down sycamores and cedars, and build tower for ourselves.
+Bricks have fallen, but come, let us hew stones, and cut down sycamores and cedars, and build a tower for ourselves.
 
 **Isaiah 9:10**
 
@@ -72162,7 +72162,7 @@ And God will dash down those rising on Mount Zion against them, and their enemie
 
 **Isaiah 9:11**
 
-Syria from the east of sun and Greeks from west of sun, devouring Israel with whole mouth. In all these his anger did not turn away, but hand still high.
+Syria from the east of the sun and Greeks from the west of the sun, devouring Israel with a whole mouth. In all these his anger did not turn away, but his hand is still high.
 
 **Isaiah 9:12**
 
@@ -72170,11 +72170,11 @@ And the people did not turn until it was struck, and the Lord they did not seek.
 
 **Isaiah 9:13**
 
-And the Lord took away from Israel head and tail, great and small, in one day.
+And the Lord took away from Israel the head and tail, great and small, in one day.
 
 **Isaiah 9:14**
 
-Elder and those admiring faces is head, and prophet teaching lawless things is tail.
+An elder and those admiring faces are the head, and a prophet teaching lawless things is the tail.
 
 **Isaiah 9:15**
 
@@ -72182,33 +72182,33 @@ And those blessing this people will mislead, and they mislead so as to swallow t
 
 **Isaiah 9:16**
 
-Because of this God will not rejoice over their young men, and their orphans and widows he will not pity, because all lawless and evil, and every mouth speaks unjust things. In all these his anger did not turn away, but hand still high.
+Because of this God will not rejoice over their young men, and their orphans and widows he will not pity, because all are lawless and evil, and every mouth speaks unjust things. In all these his anger did not turn away, but his hand is still high.
 
 **Isaiah 9:17**
 
-And lawlessness will burn as fire, and dry grass will be eaten by fire, and it will burn in thickets of the forest and consume everything around hills.
+And lawlessness will burn as a fire, and dry grass will be eaten by fire, and it will burn in the thickets of the forest and consume everything around the hills.
 
 **Isaiah 9:18**
 
-By wrath of anger of the Lord the whole land has been burned together, and people will be as ones burned by fire; man will not pity his brother.
+By the wrath of the anger of the Lord the whole land has been burned together, and the people will be as ones burned by fire; a man will not pity his brother.
 
 **Isaiah 9:19**
 
-He will turn aside to right because he will hunger, and he will eat from left and certainly not be filled; each man eating flesh of his own arm.
+He will turn aside to the right because he will hunger, and he will eat from the left and certainly not be filled; each man eating the flesh of his own arm.
 
 **Isaiah 9:20**
 
-For Manasseh will eat Ephraim, and Ephraim Manasseh, because together they will besiege Judah. In all these his anger did not turn away, but hand still high.
+For Manasseh will eat Ephraim, and Ephraim Manasseh, because together they will besiege Judah. In all these his anger did not turn away, but his hand is still high.
 
 ### Chapter 10
 
 **Isaiah 10:1**
 
-Woe those writing evil things, for writing they write evil,
+Woe to those writing evil things, for writing they write evil,
 
 **Isaiah 10:2**
 
-turning aside judgment of poor, stealing right of needy of my people, so that widow becomes for them plunder and orphan spoil.
+turning aside the judgment of the poor, stealing the right of the needy of my people, so that a widow becomes for them plunder and an orphan spoil.
 
 **Isaiah 10:3**
 
@@ -72216,27 +72216,27 @@ And what will they do in the day of visitation? For affliction will come to you 
 
 **Isaiah 10:4**
 
-So as not to fall into captivity? In all these his anger did not turn away, but hand still high.
+So as not to fall into captivity? In all these his anger did not turn away, but his hand is still high.
 
 **Isaiah 10:5**
 
-Woe to Assyrians; rod of my anger, and wrath is in their hands.
+Woe to the Assyrians; the rod of my anger, and wrath is in their hands.
 
 **Isaiah 10:6**
 
-I will send my wrath against lawless nation, and I will command against my people to make spoil and plunder and trample cities and make them dust.
+I will send my wrath against a lawless nation, and I will command against my people to make spoil and plunder and trample the cities and make them dust.
 
 **Isaiah 10:7**
 
-But he did not think thus, and in soul he did not reckon thus; but his mind will cast off, to destroy nations not a few.
+But he did not think thus, and in his soul he did not reckon thus; but his mind will cast off, to destroy nations not a few.
 
 **Isaiah 10:8**
 
-And if they say to him, You alone are ruler?
+And if they say to him, You alone are the ruler?
 
 **Isaiah 10:9**
 
-And he will say, Did I not take region above Babylon and Calno where tower was built, and take Arabia and Damascus and Samaria?
+And he will say, Did I not take the region above Babylon and Calno where the tower was built, and take Arabia and Damascus and Samaria?
 
 **Isaiah 10:10**
 
@@ -72248,35 +72248,35 @@ For as I did to Samaria and to her handmade things, so I will do to Jerusalem an
 
 **Isaiah 10:12**
 
-And it will be, when the Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon great mind of ruler of Assyrians and upon loftiness of glory of his eyes.
+And it will be, when the Lord finishes doing all things on Mount Zion and in Jerusalem, he will bring upon the great mind of the ruler of the Assyrians and upon the loftiness of the glory of his eyes.
 
 **Isaiah 10:13**
 
-For he said, By strength I will do it, and by wisdom of understanding. I will remove boundaries of nations and plunder their strength, and shake inhabited cities.
+For he said, By strength I will do it, and by the wisdom of understanding. I will remove boundaries of nations and plunder their strength, and shake inhabited cities.
 
 **Isaiah 10:14**
 
-And whole world I will seize with hand as nest, and as eggs left behind I will take, and there is none who will escape me or speak against me.
+And the whole world I will seize with the hand as a nest, and as eggs left behind I will take, and there is none who will escape me or speak against me.
 
 **Isaiah 10:15**
 
-Will axe be glorified without one chopping with it, or saw be lifted up without one pulling it? Likewise if someone lifts rod or wood.
+Will an axe be glorified without the one chopping with it, or a saw be lifted up without the one pulling it? Likewise if someone lifts a rod or wood.
 
 **Isaiah 10:16**
 
-And not thus, but the Lord of hosts will send dishonor into your honor, and under your glory burning fire will be burned.
+And not thus, but the Lord of hosts will send dishonor into your honor, and under your glory a burning fire will be burned.
 
 **Isaiah 10:17**
 
-And light of Israel will be for fire, and it will sanctify him in burning fire, and it will devour forest as grass in that day.
+And the light of Israel will be for a fire, and it will sanctify him in a burning fire, and it will devour the forest as grass in that day.
 
 **Isaiah 10:18**
 
-Mountains and hills and forests will be extinguished, and it will be devoured from soul to flesh, and fugitive will be as one fleeing from burning flame.
+Mountains and hills and forests will be extinguished, and it will be devoured from soul to flesh, and the fugitive will be as one fleeing from a burning flame.
 
 **Isaiah 10:19**
 
-And those left from them will be a number, and child will write them.
+And those left from them will be a number, and a child will write them.
 
 **Isaiah 10:20**
 
@@ -72288,55 +72288,55 @@ And the remnant of Jacob will be upon mighty God.
 
 **Isaiah 10:22**
 
-And even if the people Israel become as the sand of the sea, the remnant of them will be saved, for word finishing and cutting short in righteousness.
+And even if the people Israel become as the sand of the sea, the remnant of them will be saved, for a word finishing and cutting short in righteousness.
 
 **Isaiah 10:23**
 
-Because God will make cut-short word in whole inhabited world.
+Because God will make a cut-short word in the whole inhabited world.
 
 **Isaiah 10:24**
 
-Therefore thus says the Lord of hosts, Do not fear, my people dwelling in Zion, from Assyrians, because with rod he will strike you, for I bring stripe upon you to see the way of Egypt.
+Therefore thus says the Lord of hosts, Do not fear, my people dwelling in Zion, from the Assyrians, because with a rod he will strike you, for I bring a stripe upon you to see the way of Egypt.
 
 **Isaiah 10:25**
 
-For still a little, and wrath will cease, but my anger upon their counsel.
+For still a little, and the wrath will cease, but my anger will be upon their counsel.
 
 **Isaiah 10:26**
 
-And God will stir against them according to the blow of Midian in place of affliction, and his anger in the way by sea, in the way toward Egypt.
+And God will stir against them according to the blow of Midian in the place of affliction, and his anger in the way by sea, in the way toward Egypt.
 
 **Isaiah 10:27**
 
-And it will be in that day his fear will be removed from you and his yoke from your shoulder, and yoke will be destroyed from your shoulders.
+And it will be in that day his fear will be removed from you and his yoke from your shoulder, and the yoke will be destroyed from your shoulders.
 
 **Isaiah 10:28**
 
-For he will come to the city Aiath and pass to Megiddo and at Michmash place his gear.
+For he will come to the city Aiath and pass to Megiddo and at Michmash he will place his gear.
 
 **Isaiah 10:29**
 
-He will pass ravine and come to Aiath; fear will seize Ramah; city of Saul will flee.
+He will pass a ravine and come to Aiath; fear will seize Ramah; the city of Saul will flee.
 
 **Isaiah 10:30**
 
-Daughter Gallim will hear; Laish will hear; Anathoth.
+The daughter of Gallim will hear; Laish will hear; Anathoth.
 
 **Isaiah 10:31**
 
-Madmena staggered, and dwellers of Gebim, comfort yourselves.
+Madmena staggered, and the dwellers of Gebim, comfort yourselves.
 
 **Isaiah 10:32**
 
-Today on road to remain, with hand he calls to mountain, daughter of Zion, and hills in Jerusalem.
+Today on the road to remain, with the hand he calls to the mountain, the daughter of Zion, and the hills in Jerusalem.
 
 **Isaiah 10:33**
 
-For look, Master, the Lord of hosts, shakes glorious ones with might, and lofty in insolence will be crushed, and high ones will be humbled.
+For look, the Master, the Lord of hosts, shakes the glorious ones with might, and the lofty in insolence will be crushed, and the high ones will be humbled.
 
 **Isaiah 10:34**
 
-And high ones will fall by sword, and Lebanon with high ones will fall.
+And the high ones will fall by a sword, and Lebanon with the high ones will fall.
 
 ### Chapter 11
 

@@ -3542,6 +3542,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Isaiah 9:1"]["draft_translation"].startswith(
         "The people walking in darkness"
     )
+    assert "see a great light" in by_ref["Isaiah 9:1"]["draft_translation"]
     assert by_ref["Jonah 3:8"]["draft_translation"].startswith(
         "The people and cattle clothed themselves"
     )
@@ -4119,6 +4120,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "as on the day of Midian" in by_ref["Isaiah 9:3"]["draft_translation"]
+    assert "the yoke lying on them and the rod on their neck" in by_ref["Isaiah 9:3"][
+        "draft_translation"
+    ]
     assert "the race is not to the swift" in by_ref["Ecclesiastes 9:11"][
         "draft_translation"
     ]
@@ -5176,6 +5180,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Ecclesiastes 9:17"]["draft_translation"].startswith("The words of the wise")
     assert "the height of men will be humbled" in by_ref["Isaiah 2:11"]["draft_translation"]
     assert "see the way of Egypt" in by_ref["Isaiah 10:24"]["draft_translation"]
+    assert "from the Assyrians, because with a rod" in by_ref["Isaiah 10:24"][
+        "draft_translation"
+    ]
     assert "reported to him the words of Rabshakeh" in by_ref["Isaiah 36:22"]["draft_translation"]
     assert "tear apart the strength of kings" in by_ref["Isaiah 45:1"]["draft_translation"]
     assert "for the army of heaven" in by_ref["Jeremiah 7:18"]["draft_translation"]
@@ -5221,6 +5228,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the undertaking of his heart" in by_ref["Jeremiah 23:20"]["draft_translation"]
     assert "establishes the undertaking of his heart" in by_ref["Jeremiah 37:24"]["draft_translation"]
     assert "according to the blow of Midian" in by_ref["Isaiah 10:26"]["draft_translation"]
+    assert "in the place of affliction" in by_ref["Isaiah 10:26"]["draft_translation"]
     assert "in the way by sea, in the way toward Egypt" in by_ref["Isaiah 10:26"]["draft_translation"]
     assert "midst of the shadow of death" in by_ref["Psalms 22:4"]["draft_translation"]
     assert "beasts of the earth" in by_ref["Jeremiah 7:33"]["draft_translation"]
@@ -5340,6 +5348,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "The zeal of the Lord of hosts will do these things" in by_ref["Isaiah 9:6"][
         "draft_translation"
     ]
+    assert "but his hand is still high" in by_ref["Isaiah 9:20"]["draft_translation"]
     assert by_ref["Amos 9:12"]["draft_translation"].startswith("so that the remnant of men")
     assert "upon whom my name has been called may seek" in by_ref["Amos 9:12"]["draft_translation"]
     assert "bring the third through fire" in by_ref["Zechariah 13:9"]["draft_translation"]
