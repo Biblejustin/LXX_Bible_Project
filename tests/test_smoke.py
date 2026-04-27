@@ -5251,6 +5251,33 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the stammering tongues" in by_ref["Isaiah 29:24"][
         "draft_translation"
     ]
+    assert "sheltered under the Egyptians" in by_ref["Isaiah 30:2"][
+        "draft_translation"
+    ]
+    assert "the shelter of Pharaoh" in by_ref["Isaiah 30:3"][
+        "draft_translation"
+    ]
+    assert "leaders in Zoan" in by_ref["Isaiah 30:4"]["draft_translation"]
+    assert "Toward a people" in by_ref["Isaiah 30:5"]["draft_translation"]
+    assert by_ref["Isaiah 30:6"]["draft_translation"].startswith(
+        "The vision of four-footed beasts"
+    )
+    assert "a lion and a lion's cub" in by_ref["Isaiah 30:6"][
+        "draft_translation"
+    ]
+    assert "to a nation that will not benefit them" in by_ref["Isaiah 30:6"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 30:7"]["draft_translation"].startswith(
+        "The Egyptians"
+    )
+    assert "in a book" in by_ref["Isaiah 30:8"]["draft_translation"]
+    assert "this people is disobedient" in by_ref["Isaiah 30:9"][
+        "draft_translation"
+    ]
+    assert "who say to the prophets" in by_ref["Isaiah 30:10"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

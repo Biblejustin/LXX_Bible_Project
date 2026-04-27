@@ -73716,11 +73716,11 @@ Woe, apostate children, thus says the Lord. You made counsel not through me and 
 
 **Isaiah 30:2**
 
-those going down into Egypt, but they did not ask me, to be helped under Pharaoh and sheltered under Egyptians.
+those going down into Egypt, but they did not ask me, to be helped under Pharaoh and sheltered under the Egyptians.
 
 **Isaiah 30:3**
 
-For shelter of Pharaoh will be to you into shame, and to those trusting in Egypt is reproach.
+For the shelter of Pharaoh will be to you into shame, and to those trusting in Egypt will be reproach.
 
 **Isaiah 30:4**
 
@@ -73728,27 +73728,27 @@ Because there are leaders in Zoan, evil messengers; in vain they will toil.
 
 **Isaiah 30:5**
 
-Toward people who will not benefit them, neither for help nor profit, but for shame and reproach.
+Toward a people who will not benefit them, neither for help nor profit, but for shame and reproach.
 
 **Isaiah 30:6**
 
-Vision of four-footed beasts in the wilderness, in affliction and tightness: lion and lion's cub from there, and asps and offspring of flying asps, who carried on donkeys and camels their wealth to nation that will not benefit them for help but for shame and reproach.
+The vision of four-footed beasts in the wilderness, in affliction and tightness: a lion and a lion's cub from there, and asps and offspring of flying asps, who carried on donkeys and camels their wealth to a nation that will not benefit them for help but for shame and reproach.
 
 **Isaiah 30:7**
 
-Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
+The Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
 
 **Isaiah 30:8**
 
-Now then sit down and write these things on boxwood and in book, because these will be for the days of times and forever.
+Now then sit down and write these things on boxwood and in a book, because these will be for the days of times and forever.
 
 **Isaiah 30:9**
 
-Because this people disobedient, lying sons, who did not want to hear the law of God,
+Because this people is disobedient, lying sons, who did not want to hear the law of God,
 
 **Isaiah 30:10**
 
-who say to prophets, Do not announce to us, and to those seeing visions, Do not speak to us, but speak to us and announce to us another wandering.
+who say to the prophets, Do not announce to us, and to those seeing visions, Do not speak to us, but speak to us and announce to us another wandering.
 
 **Isaiah 30:11**
 

@@ -162627,25 +162627,25 @@ Note:
 ### Isaiah 30:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: those going down into Egypt, but they did not ask me, to be helped under Pharaoh and sheltered under Egyptians.
+- fresh: those going down into Egypt, but they did not ask me, to be helped under Pharaoh and sheltered under the Egyptians.
 - brenton: even they that proceed to go down into Egypt, but they have not enquired of me, that they might be helped by Pharao, and protected by the Egyptians.
 
 ### Isaiah 30:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For shelter of Pharaoh will be to you into shame, and to those trusting in Egypt is reproach.
+- fresh: For the shelter of Pharaoh will be to you into shame, and to those trusting in Egypt will be reproach.
 - brenton: For the protection of Pharao shall be to you a disgrace, and there shall be a reproach to them that trust in Egypt.
 
 ### Isaiah 30:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Because there are leaders in Zoan, evil messengers; in vain they will toil.
@@ -162654,55 +162654,55 @@ Note:
 ### Isaiah 30:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Toward people who will not benefit them, neither for help nor profit, but for shame and reproach.
+- fresh: Toward a people who will not benefit them, neither for help nor profit, but for shame and reproach.
 - brenton: In vain shall they labour in seeking to a people, which shall not profit them for help, but shall be for a shame and reproach.
 
 ### Isaiah 30:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of four-footed beasts in the wilderness, in affliction and tightness: lion and lion's cub from there, and asps and offspring of flying asps, who carried on donkeys and camels their wealth to nation that will not benefit them for help but for shame and reproach.
+- fresh: The vision of four-footed beasts in the wilderness, in affliction and tightness: a lion and a lion's cub from there, and asps and offspring of flying asps, who carried on donkeys and camels their wealth to a nation that will not benefit them for help but for shame and reproach.
 - brenton: The Vision of the Quadrupeds in the Desert.
 
 ### Isaiah 30:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
+- fresh: The Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
 - brenton: The Egyptians shall help you utterly in vain: tell them, This your consolation is vain.
 
 ### Isaiah 30:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now then sit down and write these things on boxwood and in book, because these will be for the days of times and forever.
+- fresh: Now then sit down and write these things on boxwood and in a book, because these will be for the days of times and forever.
 - brenton: Now then sit down and write these words on a tablet, and in a book; for these things shall be for many long days, and even for ever.
 
 ### Isaiah 30:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because this people disobedient, lying sons, who did not want to hear the law of God,
+- fresh: Because this people is disobedient, lying sons, who did not want to hear the law of God,
 - brenton: For the people is disobedient, false children, who would not hear the law of God:
 
 ### Isaiah 30:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: who say to prophets, Do not announce to us, and to those seeing visions, Do not speak to us, but speak to us and announce to us another wandering.
+- fresh: who say to the prophets, Do not announce to us, and to those seeing visions, Do not speak to us, but speak to us and announce to us another wandering.
 - brenton: who say to the prophets, Report not to us; and to them that see visions, Speak them not to us, but speak and report to us another error;
 
 ### Isaiah 30:11
