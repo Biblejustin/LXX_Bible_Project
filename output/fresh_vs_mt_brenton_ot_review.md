@@ -67218,6 +67218,15 @@ Method:
 - mt: Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully.
 - brenton: for they were to give it to the workmen, and they repaired therewith the house of the Lord.
 
+### Proverbs 31:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.443`
+- fresh_brenton_ratio: `0.733`
+- fresh: Who will find a brave wife? Such a woman is more precious than precious stones.
+- mt: Who can find a virtuous woman? for her price is far above rubies.
+- brenton: Who shall find a virtuous woman? for such a one is more valuable than precious stones.
+
 ### Ruth 4:3
 - priority: `0`
 - importance: `none`
@@ -69855,15 +69864,6 @@ Method:
 - mt: That you have slain my children, and delivered them to cause them to pass through the fire for them?
 - brenton: and didst slay thy children, and gavest them up in offering them to them for an expiation.
 
-### Proverbs 31:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.464`
-- fresh_brenton_ratio: `0.543`
-- fresh: She became like merchant ship from far away, and gathers livelihood for herself.
-- mt: She is like the merchants' ships; she brings her food from far.
-- brenton: She is like a ship trading from a distance: so she procures her livelihood.
-
 ### Proverbs 8:28
 - priority: `0`
 - importance: `none`
@@ -70745,6 +70745,15 @@ Method:
 - fresh: And plan good things before the Lord and men.
 - mt: So shall you find favour and good understanding in the sight of God and man.
 - brenton: so shalt thou find favour: and do thou provide things honest in the sight of the Lord, and of men.
+
+### Proverbs 31:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.471`
+- fresh_brenton_ratio: `0.536`
+- fresh: She became like a merchant ship from far away, and gathers livelihood for herself.
+- mt: She is like the merchants' ships; she brings her food from far.
+- brenton: She is like a ship trading from a distance: so she procures her livelihood.
 
 ### Isaiah 8:10
 - priority: `0`
@@ -72077,15 +72086,6 @@ Method:
 - fresh: Sluggard seems wiser to himself than one bringing message back in fullness.
 - mt: The sluggard is wiser in his own conceit than seven men that can render a reason.
 - brenton: A sluggard seems to himself wiser than one who most satisfactorily brings back a message.
-
-### Proverbs 31:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.481`
-- fresh_brenton_ratio: `0.647`
-- fresh: For she works good things for her husband all life.
-- mt: She will do him good and not evil all the days of her life.
-- brenton: For she employs all her living for her husband's good.
 
 ### Zechariah 9:8
 - priority: `0`
@@ -74804,6 +74804,15 @@ Method:
 - fresh: to guard ways of ordinances, and he will preserve way of those revering him.
 - mt: He keeps the paths of judgment, and perserves the way of his saints.
 - brenton: that he may guard the righteous ways: and he will preserve the way of them that fear him.
+
+### Proverbs 31:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.500`
+- fresh_brenton_ratio: `0.623`
+- fresh: For she works good things for her husband all her life.
+- mt: She will do him good and not evil all the days of her life.
+- brenton: For she employs all her living for her husband's good.
 
 ### Leviticus 23:10
 - priority: `0`
@@ -79151,15 +79160,6 @@ Method:
 - fresh: And Uriah comes and entered to him, and David asked concerning the peace of Joab and concerning the peace of the people and concerning the peace of the war.
 - mt: And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered.
 - brenton: And Urias arrived and went in to him, and David asked him how Joab was, and how the people were, and how the war went on.
-
-### Proverbs 31:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.526`
-- fresh_brenton_ratio: `0.623`
-- fresh: Who will find brave wife? Such woman more precious than precious stones.
-- mt: Who can find a virtuous woman? for her price is far above rubies.
-- brenton: Who shall find a virtuous woman? for such a one is more valuable than precious stones.
 
 ### Job 36:20
 - priority: `0`
@@ -106989,15 +106989,6 @@ Method:
 - mt: You have consulted shame to your house by cutting off many people, and have sinned against your soul.
 - brenton: Thou hast devised shame to thy house, thou hast utterly destroyed many nations, and thy soul has sinned.
 
-### Proverbs 31:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.640`
-- fresh_brenton_ratio: `0.624`
-- fresh: Having considered field, she bought it, and from the fruits of her hands planted possession.
-- mt: She considers a field, and buys it: with the fruit of her hands she plants a vineyard.
-- brenton: She views a farm, and buys it: and with the fruit of her hands she plants a possession.
-
 ### 1 Kings 4:11
 - priority: `0`
 - importance: `none`
@@ -109760,15 +109751,6 @@ Method:
 - fresh: From the tribe of Naphtali, the leader Pedahel son of Ammihud.
 - mt: And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.
 - brenton: Of the tribe of Nephthali, the prince was Phadael the son of Jamiud.
-
-### Proverbs 31:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.648`
-- fresh_brenton_ratio: `0.762`
-- fresh: And she rises from nights and gave foods to the house and tasks to maidservants.
-- mt: She rises also while it is yet night, and gives food to her household, and a portion to her maidens.
-- brenton: And she rises by night, and gives food to her household, and appointed tasks to her maidens.
 
 ### Jonah 4:9
 - priority: `0`
@@ -113307,6 +113289,15 @@ Method:
 - mt: And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,
 - brenton: And he arose and went to Samaria, and he was in the house of sheep-shearing in the way.
 
+### Proverbs 31:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.659`
+- fresh_brenton_ratio: `0.747`
+- fresh: The heart of her husband trusts upon her; such a woman will not lack good spoils.
+- mt: The heart of her husband does safely trust in her, so that he shall have no need of spoil.
+- brenton: The heart of her husband trusts in her: such a one shall stand in no need of fine spoils.
+
 ### 2 Kings 21:15
 - priority: `0`
 - importance: `none`
@@ -113666,15 +113657,6 @@ Method:
 - fresh: And you shall weave into it a setting of four rows of stones. The first row: sardius, topaz, emerald.
 - mt: And you shall set in it settings of stones, even four rows of stones: the first row shall be a ruby, a topaz, and a carbuncle: this shall be the first row.
 - brenton: And thou shalt interweave with it a texture of four rows of stone; there shall be a row of stones, a sardius, a topaz, an emerald, the first row.
-
-### Proverbs 31:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.661`
-- fresh_brenton_ratio: `0.567`
-- fresh: She chews wool and flax and made them useful to her hands.
-- mt: She seeks wool, and flax, and works willingly with her hands.
-- brenton: Gathering wool and flax, she makes it serviceable with her hands.
 
 ### Deuteronomy 31:8
 - priority: `0`
@@ -115773,15 +115755,6 @@ Method:
 - mt: Onyx stones, and stones to be set in the ephod, and in the breastplate.
 - brenton: and sardius stones, and stones for the carved work of the breast-plate, and the full-length robe.
 
-### Proverbs 31:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.667`
-- fresh_brenton_ratio: `0.732`
-- fresh: The heart of her husband trusts upon her; such woman will not lack good spoils.
-- mt: The heart of her husband does safely trust in her, so that he shall have no need of spoil.
-- brenton: The heart of her husband trusts in her: such a one shall stand in no need of fine spoils.
-
 ### Lamentations 3:8
 - priority: `0`
 - importance: `none`
@@ -116852,6 +116825,15 @@ Method:
 - fresh: It shall be a sabbath of sabbaths, a rest for you, and you shall humble your lives. It is an everlasting statute.
 - mt: It shall be a sabbath of rest unto you, and all of you shall afflict your souls, by a statute for ever.
 - brenton: This shall be to you a most holy sabbath, a rest, and ye shall humble your souls; it is a perpetual ordinance.
+
+### Proverbs 31:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.670`
+- fresh_brenton_ratio: `0.689`
+- fresh: Having considered a field, she bought it, and from the fruits of her hands planted a possession.
+- mt: She considers a field, and buys it: with the fruit of her hands she plants a vineyard.
+- brenton: She views a farm, and buys it: and with the fruit of her hands she plants a possession.
 
 ### 2 Chronicles 32:20
 - priority: `0`
@@ -119876,6 +119858,15 @@ Method:
 - fresh: Clouds are his hiding place, and he will not be seen; and he walks about circuit of heaven.
 - mt: Thick clouds are a covering to him, that he sees not; and he walks in the circuit of heaven.
 - brenton: A cloud is his hiding-place, and he shall not be seen; and he passes through the circle of heaven.
+
+### Proverbs 31:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.678`
+- fresh_brenton_ratio: `0.817`
+- fresh: And she rises by night and gave foods to the house and tasks to the maidservants.
+- mt: She rises also while it is yet night, and gives food to her household, and a portion to her maidens.
+- brenton: And she rises by night, and gives food to her household, and appointed tasks to her maidens.
 
 ### Genesis 45:5
 - priority: `0`
@@ -135617,6 +135608,15 @@ Method:
 - fresh: There shall not be for the priests, the Levites, the whole tribe of Levi, a portion or inheritance with Israel. They shall eat the Lord's offerings, which are their inheritance.
 - mt: The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.
 - brenton: The priests, the Levites, even the whole tribe of Levi, shall have no part nor inheritance with Israel; the burnt-offerings of the Lord are their inheritance, they shall eat them.
+
+### Proverbs 31:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.718`
+- fresh_brenton_ratio: `0.705`
+- fresh: She works wool and flax and made them useful with her hands.
+- mt: She seeks wool, and flax, and works willingly with her hands.
+- brenton: Gathering wool and flax, she makes it serviceable with her hands.
 
 ### Numbers 25:14
 - priority: `0`

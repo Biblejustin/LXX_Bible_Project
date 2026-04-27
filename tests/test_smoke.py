@@ -3130,6 +3130,23 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "a goat leading a flock" in by_ref["Proverbs 30:31"]["draft_translation"]
     assert "among a nation" in by_ref["Proverbs 30:31"]["draft_translation"]
     assert by_ref["Proverbs 30:33"]["draft_translation"].startswith("When milk is pressed")
+    assert "an oracle of a king" in by_ref["Proverbs 31:1"]["draft_translation"]
+    assert "the rulers drink wine" in by_ref["Proverbs 31:4"]["draft_translation"]
+    assert "judge the weak rightly" in by_ref["Proverbs 31:5"]["draft_translation"]
+    assert "forget their poverty" in by_ref["Proverbs 31:7"]["draft_translation"]
+    assert "remember their troubles" in by_ref["Proverbs 31:7"]["draft_translation"]
+    assert "for the word of God" in by_ref["Proverbs 31:8"]["draft_translation"]
+    assert "for the poor and weak" in by_ref["Proverbs 31:9"]["draft_translation"]
+    assert by_ref["Proverbs 31:10"]["draft_translation"].startswith("Who will find a brave wife")
+    assert "Such a woman is more precious" in by_ref["Proverbs 31:10"]["draft_translation"]
+    assert "such a woman will not lack" in by_ref["Proverbs 31:11"]["draft_translation"]
+    assert "all her life" in by_ref["Proverbs 31:12"]["draft_translation"]
+    assert by_ref["Proverbs 31:13"]["draft_translation"].startswith("She works wool and flax")
+    assert "like a merchant ship" in by_ref["Proverbs 31:14"]["draft_translation"]
+    assert "rises by night" in by_ref["Proverbs 31:15"]["draft_translation"]
+    assert "tasks to the maidservants" in by_ref["Proverbs 31:15"]["draft_translation"]
+    assert by_ref["Proverbs 31:16"]["draft_translation"].startswith("Having considered a field")
+    assert "planted a possession" in by_ref["Proverbs 31:16"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

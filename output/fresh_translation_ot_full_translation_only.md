@@ -69878,7 +69878,7 @@ When milk is pressed there will be butter; if you squeeze nostrils, blood will c
 
 **Proverbs 31:1**
 
-My words were spoken by God, oracle of the king whom his mother taught.
+My words were spoken by God, an oracle of a king whom his mother taught.
 
 **Proverbs 31:2**
 
@@ -69890,11 +69890,11 @@ Do not give your wealth to women, and your mind and life to afterthought.
 
 **Proverbs 31:4**
 
-Do everything with counsel; rulers drink wine with counsel, for they are hot-tempered; but let them not drink wine,
+Do everything with counsel; the rulers drink wine with counsel, for they are hot-tempered; but let them not drink wine,
 
 **Proverbs 31:5**
 
-lest drinking they forget wisdom and be unable to judge weak men rightly.
+lest drinking they forget wisdom and be unable to judge the weak rightly.
 
 **Proverbs 31:6**
 
@@ -69902,43 +69902,43 @@ Give strong drink to those in grief and wine to drink for those in pains,
 
 **Proverbs 31:7**
 
-so that they may forget poverty and remember troubles no more.
+so that they may forget their poverty and remember their troubles no more.
 
 **Proverbs 31:8**
 
-Open your mouth for word of God and judge all soundly.
+Open your mouth for the word of God and judge all soundly.
 
 **Proverbs 31:9**
 
-Open your mouth and judge justly; discriminate for poor and weak.
+Open your mouth and judge justly; discriminate for the poor and weak.
 
 **Proverbs 31:10**
 
-Who will find brave wife? Such woman more precious than precious stones.
+Who will find a brave wife? Such a woman is more precious than precious stones.
 
 **Proverbs 31:11**
 
-The heart of her husband trusts upon her; such woman will not lack good spoils.
+The heart of her husband trusts upon her; such a woman will not lack good spoils.
 
 **Proverbs 31:12**
 
-For she works good things for her husband all life.
+For she works good things for her husband all her life.
 
 **Proverbs 31:13**
 
-She chews wool and flax and made them useful to her hands.
+She works wool and flax and made them useful with her hands.
 
 **Proverbs 31:14**
 
-She became like merchant ship from far away, and gathers livelihood for herself.
+She became like a merchant ship from far away, and gathers livelihood for herself.
 
 **Proverbs 31:15**
 
-And she rises from nights and gave foods to the house and tasks to maidservants.
+And she rises by night and gave foods to the house and tasks to the maidservants.
 
 **Proverbs 31:16**
 
-Having considered field, she bought it, and from the fruits of her hands planted possession.
+Having considered a field, she bought it, and from the fruits of her hands planted a possession.
 
 **Proverbs 31:17**
 

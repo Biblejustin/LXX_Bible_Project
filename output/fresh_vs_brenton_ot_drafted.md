@@ -154224,10 +154224,10 @@ Note:
 ### Proverbs 31:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My words were spoken by God, oracle of the king whom his mother taught.
+- fresh: My words were spoken by God, an oracle of a king whom his mother taught.
 - brenton: [missing]
 
 ### Proverbs 31:2
@@ -154251,19 +154251,19 @@ Note:
 ### Proverbs 31:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do everything with counsel; rulers drink wine with counsel, for they are hot-tempered; but let them not drink wine,
+- fresh: Do everything with counsel; the rulers drink wine with counsel, for they are hot-tempered; but let them not drink wine,
 - brenton: [missing]
 
 ### Proverbs 31:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: lest drinking they forget wisdom and be unable to judge weak men rightly.
+- fresh: lest drinking they forget wisdom and be unable to judge the weak rightly.
 - brenton: [missing]
 
 ### Proverbs 31:6
@@ -154278,91 +154278,91 @@ Note:
 ### Proverbs 31:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: so that they may forget poverty and remember troubles no more.
+- fresh: so that they may forget their poverty and remember their troubles no more.
 - brenton: [missing]
 
 ### Proverbs 31:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Open your mouth for word of God and judge all soundly.
+- fresh: Open your mouth for the word of God and judge all soundly.
 - brenton: [missing]
 
 ### Proverbs 31:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Open your mouth and judge justly; discriminate for poor and weak.
+- fresh: Open your mouth and judge justly; discriminate for the poor and weak.
 - brenton: [missing]
 
 ### Proverbs 31:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will find brave wife? Such woman more precious than precious stones.
+- fresh: Who will find a brave wife? Such a woman is more precious than precious stones.
 - brenton: Who shall find a virtuous woman? for such a one is more valuable than precious stones.
 
 ### Proverbs 31:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The heart of her husband trusts upon her; such woman will not lack good spoils.
+- fresh: The heart of her husband trusts upon her; such a woman will not lack good spoils.
 - brenton: The heart of her husband trusts in her: such a one shall stand in no need of fine spoils.
 
 ### Proverbs 31:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For she works good things for her husband all life.
+- fresh: For she works good things for her husband all her life.
 - brenton: For she employs all her living for her husband's good.
 
 ### Proverbs 31:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She chews wool and flax and made them useful to her hands.
+- fresh: She works wool and flax and made them useful with her hands.
 - brenton: Gathering wool and flax, she makes it serviceable with her hands.
 
 ### Proverbs 31:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She became like merchant ship from far away, and gathers livelihood for herself.
+- fresh: She became like a merchant ship from far away, and gathers livelihood for herself.
 - brenton: She is like a ship trading from a distance: so she procures her livelihood.
 
 ### Proverbs 31:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she rises from nights and gave foods to the house and tasks to maidservants.
+- fresh: And she rises by night and gave foods to the house and tasks to the maidservants.
 - brenton: And she rises by night, and gives food to her household, and appointed tasks to her maidens.
 
 ### Proverbs 31:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Having considered field, she bought it, and from the fruits of her hands planted possession.
+- fresh: Having considered a field, she bought it, and from the fruits of her hands planted a possession.
 - brenton: She views a farm, and buys it: and with the fruit of her hands she plants a possession.
 
 ### Proverbs 31:17
