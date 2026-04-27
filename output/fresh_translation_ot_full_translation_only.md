@@ -75052,23 +75052,23 @@ For a craftsman sharpened iron, worked it with an axe, pierced it with a drill, 
 
 **Isaiah 44:13**
 
-Carpenter with wood set it by measure and shaped it by line. He made it as form of man and as beauty of human, to set it in a house.
+A carpenter set wood by measure and shaped it by a line. He made it as the form of a man and as the beauty of a human, to set it in a house.
 
 **Isaiah 44:14**
 
-One cut wood from the forest, which the Lord planted, and rain made grow.
+One cut wood from the forest, which the Lord planted, and rain made it grow.
 
 **Isaiah 44:15**
 
-So it might be for humans as fuel; taking from it he warmed himself, and burning it they baked breads; with what remained they worked gods and worship them.
+So it might be for humans as fuel; taking from it he warmed himself, and burning it they baked breads; with what remained they worked gods and worshiped them.
 
 **Isaiah 44:16**
 
-Half of it they burned in fire, and baking breads on it, and roasting meat on it, he ate and was filled; and being warmed he said, Pleasant to me, because I am warmed and saw fire.
+Half of it they burned in a fire, and baking breads on it, and roasting meat on it, he ate and was filled; and being warmed he said, Pleasant to me, because I am warmed and saw a fire.
 
 **Isaiah 44:17**
 
-But remainder he made into carved god and worships it and prays, saying, Deliver me, because you are my god.
+But the remainder he made into a carved god and worships it and prays, saying, Deliver me, because you are my god.
 
 **Isaiah 44:18**
 
@@ -75076,11 +75076,11 @@ They did not know how to understand, because they were darkened from seeing with
 
 **Isaiah 44:19**
 
-And he did not consider in his heart, nor reckon in his soul, nor know with understanding that he burned half of it in fire and baked breads on its coals and roasted meat and ate, and its remainder he made into abomination and they worship it.
+And he did not consider in his heart, nor reckon in his soul, nor know with understanding that he burned half of it in fire and baked breads on its coals and roasted meat and ate, and its remainder he made into an abomination and they worship it.
 
 **Isaiah 44:20**
 
-Know that their heart is ashes; they wander, and no one can rescue his soul. See, will you not say, Lie in my right hand?
+Know that their heart is ash; they wander, and no one can rescue his soul. See, will you not say, A lie is in my right hand?
 
 **Isaiah 44:21**
 
@@ -75092,7 +75092,7 @@ For see, I wiped away your lawless deeds like a cloud and your sins like gloom. 
 
 **Isaiah 44:23**
 
-Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of the earth. Cry out, mountains, with gladness, hills and all trees in them, because God redeemed Jacob, and in Israel will be glorified.
+Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of the earth. Cry out, mountains, with gladness, the hills and all the trees in them, because God redeemed Jacob, and Israel will be glorified.
 
 **Isaiah 44:24**
 

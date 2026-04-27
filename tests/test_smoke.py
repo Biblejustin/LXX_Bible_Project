@@ -170,6 +170,38 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert "Ancient of Days" in notes_by_ref[("Daniel 7:13", "textual")]["footnote_text"]
 
 
+def test_reviewed_phrase_guards_match_source() -> None:
+    rows_by_testament = {
+        "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
+        "nt": {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")},
+    }
+
+    guards = [
+        row
+        for row in csv_rows("data/research/reviewed_phrase_guards.csv")
+        if row["status"] == "reviewed"
+    ]
+
+    for guard in guards:
+        testament = guard["testament"].strip().lower()
+        assert testament in rows_by_testament, guard
+        source_row = rows_by_testament[testament][guard["ref"]]
+        text = source_row["draft_translation"]
+        phrase = guard["phrase"]
+        mode = guard["mode"]
+
+        if mode == "contains":
+            assert phrase in text, guard
+        elif mode == "startswith":
+            assert text.startswith(phrase), guard
+        elif mode == "equals":
+            assert text == phrase, guard
+        elif mode == "not_contains":
+            assert phrase not in text, guard
+        else:
+            raise AssertionError(f"Unsupported reviewed phrase guard mode: {mode}")
+
+
 def test_common_lord_article_formulas_are_normalized() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     formulas = (

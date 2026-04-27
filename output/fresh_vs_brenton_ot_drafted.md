@@ -165570,46 +165570,46 @@ Note:
 ### Isaiah 44:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Carpenter with wood set it by measure and shaped it by line. He made it as form of man and as beauty of human, to set it in a house.
+- fresh: A carpenter set wood by measure and shaped it by a line. He made it as the form of a man and as the beauty of a human, to set it in a house.
 - brenton: The artificer having chosen a piece of wood, marks it out with a rule, and fits it with glue, and makes it as the form of a man, and as the beauty of a man, to set it up in the house.
 
 ### Isaiah 44:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One cut wood from the forest, which the Lord planted, and rain made grow.
+- fresh: One cut wood from the forest, which the Lord planted, and rain made it grow.
 - brenton: He cuts wood out of the forest, which the Lord planted, even a pine tree, and the rain made it grow,
 
 ### Isaiah 44:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So it might be for humans as fuel; taking from it he warmed himself, and burning it they baked breads; with what remained they worked gods and worship them.
+- fresh: So it might be for humans as fuel; taking from it he warmed himself, and burning it they baked breads; with what remained they worked gods and worshiped them.
 - brenton: that it might be for men to burn: and having taken part of it he warms himself; yea, they burn part of it, and bake loaves thereon; and of the rest they make for themselves gods, and they worship them.
 
 ### Isaiah 44:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Half of it they burned in fire, and baking breads on it, and roasting meat on it, he ate and was filled; and being warmed he said, Pleasant to me, because I am warmed and saw fire.
+- fresh: Half of it they burned in a fire, and baking breads on it, and roasting meat on it, he ate and was filled; and being warmed he said, Pleasant to me, because I am warmed and saw a fire.
 - brenton: Half thereof he burns in the fire, and with half of it he bakes loaves on the coals; and having roasted flesh on it he eats, and is satisfied, and having warmed himself he says, I am comfortable, for I have warmed myself, and have seen the fire.
 
 ### Isaiah 44:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But remainder he made into carved god and worships it and prays, saying, Deliver me, because you are my god.
+- fresh: But the remainder he made into a carved god and worships it and prays, saying, Deliver me, because you are my god.
 - brenton: And the rest he makes a graven god, and worships, and prays, saying, Deliver me; for thou art my God.
 
 ### Isaiah 44:18
@@ -165624,19 +165624,19 @@ Note:
 ### Isaiah 44:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he did not consider in his heart, nor reckon in his soul, nor know with understanding that he burned half of it in fire and baked breads on its coals and roasted meat and ate, and its remainder he made into abomination and they worship it.
+- fresh: And he did not consider in his heart, nor reckon in his soul, nor know with understanding that he burned half of it in fire and baked breads on its coals and roasted meat and ate, and its remainder he made into an abomination and they worship it.
 - brenton: And one has not considered in his mind, nor known in his understanding, that he has burnt up half of it in the fire, and baked loaves on the coals thereof and has roasted and eaten flesh, and of the rest of it he has made an abomination, and they worship it.
 
 ### Isaiah 44:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Know that their heart is ashes; they wander, and no one can rescue his soul. See, will you not say, Lie in my right hand?
+- fresh: Know that their heart is ash; they wander, and no one can rescue his soul. See, will you not say, A lie is in my right hand?
 - brenton: Know thou that their heart is ashes, and they err, and no one is able to deliver his soul: see, ye will not say, There is a lie in my right hand.
 
 ### Isaiah 44:21
@@ -165660,10 +165660,10 @@ Note:
 ### Isaiah 44:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of the earth. Cry out, mountains, with gladness, hills and all trees in them, because God redeemed Jacob, and in Israel will be glorified.
+- fresh: Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of the earth. Cry out, mountains, with gladness, the hills and all the trees in them, because God redeemed Jacob, and Israel will be glorified.
 - brenton: Rejoice, ye heavens; for God has had mercy upon Israel: sound the trumpet, ye foundations of the earth: ye mountains, shout with joy, ye hills, and all the trees therein: for God has redeemed Jacob, and Israel shall be glorified.
 
 ### Isaiah 44:24
