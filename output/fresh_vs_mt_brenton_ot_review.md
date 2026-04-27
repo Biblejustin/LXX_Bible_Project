@@ -33576,6 +33576,15 @@ Method:
 - mt: Sing unto God, sing praises to his name: extol him that rides upon the heavens by his name JAH, and rejoice before him.
 - brenton: I am weary of crying, my throat has become hoarse; mine eyes have failed by my waiting on my God.
 
+### Job 36:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.236`
+- fresh_brenton_ratio: `0.764`
+- fresh: But wrath will be upon the ungodly because of the ungodliness of gifts which they received upon injustices.
+- mt: Because there is wrath, beware lest he take you away with his stroke: then a great ransom cannot deliver you.
+- brenton: but there shall be wrath upon the ungodly, by reason of the ungodliness of the bribes which they received for iniquities.
+
 ### Jeremiah 51:29
 - priority: `0`
 - importance: `none`
@@ -37301,15 +37310,6 @@ Method:
 - fresh: And the name of the Lord I called upon: O Lord, rescue my soul.
 - mt: The mountains skipped like rams, and the little hills like lambs.
 - brenton: Then I called on the name of the Lord: O Lord, deliver my soul.
-
-### Job 36:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.260`
-- fresh_brenton_ratio: `0.688`
-- fresh: But wrath will be upon ungodly men because of ungodliness of gifts which they received upon injustices.
-- mt: Because there is wrath, beware lest he take you away with his stroke: then a great ransom cannot deliver you.
-- brenton: but there shall be wrath upon the ungodly, by reason of the ungodliness of the bribes which they received for iniquities.
 
 ### Psalms 106:37
 - priority: `0`
@@ -45095,15 +45095,6 @@ Method:
 - fresh: And I and men of the watch behind me, not one of us was taking off his clothes.
 - mt: They which built on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
 - brenton: even of them that were building the wall:—and those who carried the burdens were under arms: each with one hand wrought his work, and with the other held his dart.
-
-### Job 36:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.303`
-- fresh_brenton_ratio: `0.433`
-- fresh: Yet judgment will not fail from righteous men.
-- mt: But you have fulfilled the judgment of the wicked: judgment and justice take hold on you.
-- brenton: there is a deep gulf and a rushing stream beneath it, and thy table came down full of fatness. Judgment shall not fail from the righteous;
 
 ### Job 41:23
 - priority: `0`
@@ -58848,6 +58839,15 @@ Method:
 - mt: Which said unto God, Depart from us: and what can the Almighty do for them?
 - brenton: Who say, What will the Lord do to us? or what will the Almighty bring upon us?
 
+### Job 36:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.379`
+- fresh_brenton_ratio: `0.478`
+- fresh: Yet judgment will not fail from the righteous.
+- mt: But you have fulfilled the judgment of the wicked: judgment and justice take hold on you.
+- brenton: there is a deep gulf and a rushing stream beneath it, and thy table came down full of fatness. Judgment shall not fail from the righteous;
+
 ### Proverbs 12:11
 - priority: `0`
 - importance: `none`
@@ -62106,15 +62106,6 @@ Method:
 - mt: The wicked man labors with pain all his days, and the number of years is hidden to the oppressor.
 - brenton: All the life of the ungodly is spent in care, and the years granted to the oppressor are numbered.
 
-### Job 24:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.402`
-- fresh_brenton_ratio: `0.601`
-- fresh: Before right time they reaped field not their own, and weak men worked vineyards of ungodly men without pay and unfed.
-- mt: They reap every one his corn in the field: and they gather the vintage of the wicked.
-- brenton: They have reaped a field that was not their own before the time: the poor have laboured in the vineyards of the ungodly without pay and without food.
-
 ### Isaiah 27:3
 - priority: `0`
 - importance: `none`
@@ -63311,6 +63302,15 @@ Method:
 - fresh: You saw many times and did not keep watch; ears were opened and you did not hear.
 - mt: Seeing many things, but you observe not; opening the ears, but he hears not.
 - brenton: Ye have often seen, and have not taken heed; your ears have been opened, and ye have not heard.
+
+### Job 24:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.411`
+- fresh_brenton_ratio: `0.608`
+- fresh: Before the right time they reaped a field not their own, and weak men worked the vineyards of ungodly men without pay and unfed.
+- mt: They reap every one his corn in the field: and they gather the vintage of the wicked.
+- brenton: They have reaped a field that was not their own before the time: the poor have laboured in the vineyards of the ungodly without pay and without food.
 
 ### Isaiah 30:7
 - priority: `0`
@@ -71871,15 +71871,6 @@ Method:
 - mt: And he shall take a wife in her virginity.
 - brenton: He shall take for a wife a virgin of his own tribe.
 
-### Job 38:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.479`
-- fresh_brenton_ratio: `0.685`
-- fresh: And you took light from ungodly men, and shattered arm of proud men.
-- mt: And from the wicked their light is withheld, and the high arm shall be broken.
-- brenton: And hast thou removed light from the ungodly, and crushed the arm of the proud?
-
 ### Proverbs 10:11
 - priority: `0`
 - importance: `none`
@@ -72014,6 +72005,15 @@ Method:
 - fresh: In good field by much water it fattens, to make shoots and bear fruit, to become great vine.
 - mt: It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.
 - brenton: She thrives in a fair field by much water, to produce shoots and bear fruit, that she might become a great vine.
+
+### Job 38:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.480`
+- fresh_brenton_ratio: `0.715`
+- fresh: And you took the light from ungodly men, and shattered the arm of proud men.
+- mt: And from the wicked their light is withheld, and the high arm shall be broken.
+- brenton: And hast thou removed light from the ungodly, and crushed the arm of the proud?
 
 ### Ecclesiastes 1:10
 - priority: `0`
@@ -78098,15 +78098,6 @@ Method:
 - fresh: And Elamites took quivers, riders, men on horses, and gathering of battle-line.
 - mt: And Elam bare the quiver with chariots of men and horsemen, and Kir uncovered the shield.
 - brenton: And the Elamites took their quivers, and there were men mounted on horses, and there was a gathering for battle.
-
-### Job 27:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.519`
-- fresh_brenton_ratio: `0.744`
-- fresh: Yet let my enemies be as overthrow of ungodly men, and those rising against me as destruction of lawless men.
-- mt: Let mine enemy be as the wicked, and he that rises up against me as the unrighteous.
-- brenton: Nay rather, but let mine enemies be as the overthrow of the ungodly, and they that rise up against me, as the destruction of transgressors.
 
 ### Nehemiah 5:3
 - priority: `0`
@@ -85505,6 +85496,15 @@ Method:
 - fresh: And Hiram made flesh-hooks and firepans and grate of altar and all its vessels, and Hiram finished making all work which Solomon the king made in the house of God:
 - mt: And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;
 - brenton: And Chiram made the fleshhooks, and the fire-pans, and the grate of the altar, and all its instruments: and Chiram finished doing all the work which he wrought for king Solomon in the house of God:
+
+### Job 27:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.558`
+- fresh_brenton_ratio: `0.784`
+- fresh: Yet let my enemies be as the overthrow of ungodly men, and those rising against me as the destruction of lawless men.
+- mt: Let mine enemy be as the wicked, and he that rises up against me as the unrighteous.
+- brenton: Nay rather, but let mine enemies be as the overthrow of the ungodly, and they that rise up against me, as the destruction of transgressors.
 
 ### Joshua 21:18
 - priority: `0`
@@ -181653,15 +181653,6 @@ Method:
 - mt: And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 - brenton: And the sons of Josia; the first-born Joanan, the second Joakim, the third Sedekias, the fourth Salum.
 
-### Job 22:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.851`
-- fresh_brenton_ratio: `0.869`
-- fresh: Yet he filled their houses with good things, but counsel of ungodly men is far from him.
-- mt: Yet he filled their houses with good things: but the counsel of the wicked is far from me.
-- brenton: Yet he filled their houses with good things: but the counsel of the wicked is far from him.
-
 ### 1 Chronicles 18:7
 - priority: `0`
 - importance: `none`
@@ -186800,6 +186791,15 @@ Method:
 - fresh: And Joseph, falling on his father's face, wept over him and kissed him.
 - mt: And Joseph fell upon his father's face, and wept upon him, and kissed him.
 - brenton: And Joseph fell upon his father's face, and wept on him, and kissed him.
+
+### Job 22:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.876`
+- fresh_brenton_ratio: `0.894`
+- fresh: Yet he filled their houses with good things, but the counsel of ungodly men is far from him.
+- mt: Yet he filled their houses with good things: but the counsel of the wicked is far from me.
+- brenton: Yet he filled their houses with good things: but the counsel of the wicked is far from him.
 
 ### Genesis 46:18
 - priority: `0`

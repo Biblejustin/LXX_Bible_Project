@@ -118958,10 +118958,10 @@ Note:
 ### Job 22:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet he filled their houses with good things, but counsel of ungodly men is far from him.
+- fresh: Yet he filled their houses with good things, but the counsel of ungodly men is far from him.
 - brenton: Yet he filled their houses with good things: but the counsel of the wicked is far from him.
 
 ### Job 22:19
@@ -119264,10 +119264,10 @@ Note:
 ### Job 24:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before right time they reaped field not their own, and weak men worked vineyards of ungodly men without pay and unfed.
+- fresh: Before the right time they reaped a field not their own, and weak men worked the vineyards of ungodly men without pay and unfed.
 - brenton: They have reaped a field that was not their own before the time: the poor have laboured in the vineyards of the ungodly without pay and without food.
 
 ### Job 24:7
@@ -119678,10 +119678,10 @@ Note:
 ### Job 27:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet let my enemies be as overthrow of ungodly men, and those rising against me as destruction of lawless men.
+- fresh: Yet let my enemies be as the overthrow of ungodly men, and those rising against me as the destruction of lawless men.
 - brenton: Nay rather, but let mine enemies be as the overthrow of the ungodly, and they that rise up against me, as the destruction of transgressors.
 
 ### Job 27:8
@@ -122063,19 +122063,19 @@ Note:
 ### Job 36:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet judgment will not fail from righteous men.
+- fresh: Yet judgment will not fail from the righteous.
 - brenton: there is a deep gulf and a rushing stream beneath it, and thy table came down full of fatness. Judgment shall not fail from the righteous;
 
 ### Job 36:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But wrath will be upon ungodly men because of ungodliness of gifts which they received upon injustices.
+- fresh: But wrath will be upon the ungodly because of the ungodliness of gifts which they received upon injustices.
 - brenton: but there shall be wrath upon the ungodly, by reason of the ungodliness of the bribes which they received for iniquities.
 
 ### Job 36:19
@@ -122558,10 +122558,10 @@ Note:
 ### Job 38:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you took light from ungodly men, and shattered arm of proud men.
+- fresh: And you took the light from ungodly men, and shattered the arm of proud men.
 - brenton: And hast thou removed light from the ungodly, and crushed the arm of the proud?
 
 ### Job 38:16

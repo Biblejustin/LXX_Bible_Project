@@ -53800,7 +53800,7 @@ Who say, What will the Lord do to us, or what will Almighty bring upon us?
 
 **Job 22:18**
 
-Yet he filled their houses with good things, but counsel of ungodly men is far from him.
+Yet he filled their houses with good things, but the counsel of ungodly men is far from him.
 
 **Job 22:19**
 
@@ -53940,7 +53940,7 @@ They went out like donkeys in the field against me, going forth to their own lab
 
 **Job 24:6**
 
-Before right time they reaped field not their own, and weak men worked vineyards of ungodly men without pay and unfed.
+Before the right time they reaped a field not their own, and weak men worked the vineyards of ungodly men without pay and unfed.
 
 **Job 24:7**
 
@@ -54130,7 +54130,7 @@ And clinging to righteousness, I will by no means let go, for I am not conscious
 
 **Job 27:7**
 
-Yet let my enemies be as overthrow of ungodly men, and those rising against me as destruction of lawless men.
+Yet let my enemies be as the overthrow of ungodly men, and those rising against me as the destruction of lawless men.
 
 **Job 27:8**
 
@@ -55208,11 +55208,11 @@ And further he deceived you from the mouth of enemy: abyss, pouring out beneath 
 
 **Job 36:17**
 
-Yet judgment will not fail from righteous men.
+Yet judgment will not fail from the righteous.
 
 **Job 36:18**
 
-But wrath will be upon ungodly men because of ungodliness of gifts which they received upon injustices.
+But wrath will be upon the ungodly because of the ungodliness of gifts which they received upon injustices.
 
 **Job 36:19**
 
@@ -55432,7 +55432,7 @@ Or did you take earth, clay, and shape living thing, and set speaking one upon t
 
 **Job 38:15**
 
-And you took light from ungodly men, and shattered arm of proud men.
+And you took the light from ungodly men, and shattered the arm of proud men.
 
 **Job 38:16**
 

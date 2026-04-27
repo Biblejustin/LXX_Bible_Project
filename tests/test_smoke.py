@@ -2838,6 +2838,34 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the shelter of the tents of ungodly men" in by_ref["Job 21:28"][
         "draft_translation"
     ]
+    assert "the counsel of ungodly men is far from him" in by_ref["Job 22:18"][
+        "draft_translation"
+    ]
+    assert "Before the right time they reaped a field" in by_ref["Job 24:6"][
+        "draft_translation"
+    ]
+    assert "worked the vineyards of ungodly men" in by_ref["Job 24:6"][
+        "draft_translation"
+    ]
+    assert "as the overthrow of ungodly men" in by_ref["Job 27:7"][
+        "draft_translation"
+    ]
+    assert "as the destruction of lawless men" in by_ref["Job 27:7"][
+        "draft_translation"
+    ]
+    assert "from the righteous" in by_ref["Job 36:17"]["draft_translation"]
+    assert "wrath will be upon the ungodly" in by_ref["Job 36:18"][
+        "draft_translation"
+    ]
+    assert "because of the ungodliness of gifts" in by_ref["Job 36:18"][
+        "draft_translation"
+    ]
+    assert "took the light from ungodly men" in by_ref["Job 38:15"][
+        "draft_translation"
+    ]
+    assert "shattered the arm of proud men" in by_ref["Job 38:15"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
