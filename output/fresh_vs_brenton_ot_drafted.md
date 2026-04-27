@@ -159828,10 +159828,10 @@ Note:
 ### Isaiah 13:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lift signal on plain mountain, raise voice to them, do not fear, encourage with hand, open, rulers.
+- fresh: Lift a signal on a plain mountain, raise the voice to them, do not fear, encourage with the hand, open, rulers.
 - brenton: Lift up a standard on the mountain of the plain, exalt the voice to them, beckon with the hand, open the gates, ye rulers.
 
 ### Isaiah 13:3
@@ -159846,19 +159846,19 @@ Note:
 ### Isaiah 13:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of many nations on mountains, like many nations; voice of kings and nations gathered together. The Lord of hosts has commanded a warlike nation
+- fresh: The voice of many nations on the mountains, like many nations; the voice of kings and nations gathered together. The Lord of hosts has commanded a warlike nation
 - brenton: A voice of many nations on the mountains, even like to that of many nations; a voice of kings and nations gathered together: the Lord of hosts has given command to a war-like nation,
 
 ### Isaiah 13:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to come from far land, from the edge of foundation of heaven, Lord and his warriors, to destroy whole inhabited world.
+- fresh: to come from a far land, from the edge of the foundation of heaven, the Lord and his warriors, to destroy the whole inhabited world.
 - brenton: to come from a land afar off, from the utmost foundation of heaven; the Lord and his warriors are coming to destroy all the world.
 
 ### Isaiah 13:6
@@ -159894,52 +159894,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For look, the day of the Lord comes, incurable, of fury and anger, to make whole inhabited world desolate and destroy sinners out of it.
+- fresh: For look, the day of the Lord comes, incurable, of fury and anger, to make the whole inhabited world desolate and destroy the sinners out of it.
 - brenton: For behold! the day of the Lord is coming which cannot be escaped, a day of wrath and anger, to make the world desolate, and to destroy sinners out of it.
 
 ### Isaiah 13:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For stars of heaven and Orion and all ornament of heaven will not give light, and sun rising will be darkened, and moon will not give its light.
+- fresh: For the stars of heaven and Orion and all the ornament of heaven will not give the light, and the sun rising will be darkened, and the moon will not give its light.
 - brenton: For the stars of heaven, and Orion, and all the host of heaven, shall not give their light; and it shall be dark at sunrise, and the moon shall not give her light.
 
 ### Isaiah 13:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will command evils upon whole inhabited world and their sins upon ungodly, and I will destroy insolence of lawless and humble insolence of proud.
+- fresh: And I will command evils upon the whole inhabited world and their sins upon the ungodly, and I will destroy the insolence of the lawless and humble the insolence of the proud.
 - brenton: And I will command evils for the whole world, and will visit their sins on the ungodly: and I will destroy the pride of transgressors, and will bring low the pride of the haughty.
 
 ### Isaiah 13:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those left behind will be more precious than untried gold, and man will be more precious than stone from Ophir.
+- fresh: And those left behind will be more precious than untried gold, and a man will be more precious than a stone from Ophir.
 - brenton: And they that are left shall be more precious than gold tried in the fire; and a man shall be more precious than the stone that is in Suphir.
 
 ### Isaiah 13:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of the Lord of hosts on the day when his anger comes.
+- fresh: For the heaven will be enraged, and the earth will be shaken from its foundations, because of the wrath of the anger of the Lord of hosts on the day when his anger comes.
 - brenton: For the heaven shall be enraged, and the earth shall be shaken from her foundation, because of the fierce anger of the Lord of hosts, in the day in which his wrath shall come on.
 
 ### Isaiah 13:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those left will be as a fleeing gazelle and as wandering sheep, and there will be no one gathering, so that man turn back to his people and man pursue to his land.
+- fresh: And those left will be as a fleeing gazelle and as a wandering sheep, and there will be no one gathering, so that a man turns back to his people and a man pursues to his land.
 - brenton: And they that are left shall be as a fleeing fawn, and as a stray sheep, and there shall be none to gather them: so that a man shall turn back to his people, and a man shall flee to his own land.
 
 ### Isaiah 13:15
@@ -159948,7 +159948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For whoever is caught will be defeated, and those gathered together will fall by sword.
+- fresh: For whoever is caught will be defeated, and those gathered together will fall by a sword.
 - brenton: For whosoever shall be taken shall be overcome; and they that are gathered together shall fall by the sword.
 
 ### Isaiah 13:16
@@ -159963,10 +159963,10 @@ Note:
 ### Isaiah 13:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, I stir up Medes against you, who do not value silver nor have need of gold.
+- fresh: Look, I stir up the Medes against you, who do not value silver nor have need of gold.
 - brenton: Behold, I will stir up against you the Medes, who do not regard silver, neither have they need of gold.
 
 ### Isaiah 13:18
@@ -159975,7 +159975,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their bows will crush young men, and your children they will certainly not pity, nor will their eyes spare children.
+- fresh: Their bows will crush the young men, and your children they will certainly not pity, nor will their eyes spare the children.
 - brenton: They shall break the bows of the young men; and they shall have no mercy on your children; nor shall their eyes spare thy children.
 
 ### Isaiah 13:19
@@ -159993,16 +159993,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: It will not be inhabited forever, nor shall they enter into it for many generations, nor shall Arabs pass through it, nor shepherds rest in it.
+- fresh: It will not be inhabited forever, nor shall they enter into it for many generations, nor shall the Arabs pass through it, nor the shepherds rest in it.
 - brenton: It shall never be inhabited, neither shall any enter into it for many generations: neither shall the Arabians pass through it; nor shall shepherds at all rest in it.
 
 ### Isaiah 13:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And beasts will rest there, and houses will be filled with sound, and sirens will rest there and demons will dance there.
+- fresh: And the beasts will rest there, and the houses will be filled with sound, and the sirens will rest there and demons will dance there.
 - brenton: But wild beasts shall rest there; and the houses shall be filled with howling; and monsters shall rest there, and devils shall dance there,
 
 ### Isaiah 13:22
@@ -160017,10 +160017,10 @@ Note:
 ### Isaiah 14:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to the house of Jacob.
+- fresh: And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and a resident alien will be added to them and added to the house of Jacob.
 - brenton: And the Lord will have mercy on Jacob, and will yet choose Israel, and they shall rest on their land: and the stranger shall be added to them, yea, shall be added to the house of Jacob.
 
 ### Isaiah 14:2
@@ -160044,28 +160044,28 @@ Note:
 ### Isaiah 14:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will take up this lament over king of Babylon and say in that day: How exactor has rested, and how zealot has rested.
+- fresh: And you will take up this lament over the king of Babylon and say in that day: How the exactor has rested, and how the zealot has rested.
 - brenton: And thou shalt take up this lamentation against the king of Babylon,
 
 ### Isaiah 14:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God shattered yoke of sinners, yoke of rulers,
+- fresh: God shattered the yoke of sinners, the yoke of rulers,
 - brenton: The Lord has broken the yoke of sinners, the yoke of princes.
 
 ### Isaiah 14:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: striking nation in wrath with incurable blow, striking nation with stroke of anger from which he did not spare.
+- fresh: striking a nation in wrath with an incurable blow, striking a nation with a stroke of anger from which he did not spare.
 - brenton: Having smitten a nation in wrath, with an incurable plague, smiting a nation with a wrathful plague, which spared them not, he rested in quiet.
 
 ### Isaiah 14:7
@@ -160080,19 +160080,19 @@ Note:
 ### Isaiah 14:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And trees of Lebanon rejoiced over you, and cedar of Lebanon: Since you have fallen asleep, one cutting us down did not come up.
+- fresh: And the trees of Lebanon rejoiced over you, and the cedar of Lebanon: Since you have fallen asleep, the one cutting us down did not come up.
 - brenton: the trees also of Libanus rejoice against thee, and the cedar of Libanus, saying, From the time that thou hast been laid low, no one has come up to cut us down.
 
 ### Isaiah 14:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hades below was embittered to meet you; all giants who ruled earth were raised up for you, who roused from their thrones all kings of nations.
+- fresh: Hades below was embittered to meet you; all the giants who ruled the earth were raised up for you, who roused from their thrones all the kings of nations.
 - brenton: Hell from beneath is provoked to meet thee: all the great ones that have ruled over the earth have risen up together against thee, they that have raised up from their thrones all the kings of the nations.
 
 ### Isaiah 14:10
@@ -160107,37 +160107,37 @@ Note:
 ### Isaiah 14:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your glory came down into Hades, your much gladness; decay they will spread under you, and worm your covering.
+- fresh: And your glory came down into Hades, your much gladness; decay they will spread under you, and a worm is your covering.
 - brenton: Thy glory has come down to Hades, and thy great mirth: under thee they shall spread corruption, and the worm shall be thy covering.
 
 ### Isaiah 14:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How morning-star fell from heaven, one rising in morning; one sent out toward all nations was crushed to earth.
+- fresh: How the morning-star fell from heaven, the one rising in the morning; the one sent out toward all nations was crushed to the earth.
 - brenton: How has Lucifer, that rose in the morning, fallen from heaven! He that sent orders to all the nations is crushed to the earth.
 
 ### Isaiah 14:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you said in your mind, I will go up into heaven, above stars of heaven I will place my throne; I will sit on high mountain, on high mountains toward north.
+- fresh: And you said in your mind, I will go up into heaven, above the stars of heaven I will place my throne; I will sit on a high mountain, on the high mountains toward the north.
 - brenton: But thou saidst in thine heart, I will go up to heaven, I will set my throne above the stars of heaven: I will sit on a lofty mount, on the lofty mountains toward the north:
 
 ### Isaiah 14:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
-- same_normalized: no
-- fresh: I will go up above clouds; I will be like Most High.
+- same_normalized: yes
+- fresh: I will go up above the clouds; I will be like the Most High.
 - brenton: I will go up above the clouds; I will be like the Most High.
 
 ### Isaiah 14:15
@@ -160155,16 +160155,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Those seeing you will marvel over you and say, This man provoking earth, shaking kings,
+- fresh: Those seeing you will marvel over you and say, This man provoking the earth, shaking kings,
 - brenton: They that see thee shall wonder at thee, and say, This is the man that troubled the earth, that made kings to shake;
 
 ### Isaiah 14:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: placing whole inhabited world desolate and pulling down cities, did not release those in captivity.
+- fresh: placing the whole inhabited world desolate and pulling down the cities, did not release those in captivity.
 - brenton: that made the whole world desolate, and destroyed its cities; he loosed not those who were in captivity.
 
 ### Isaiah 14:18
@@ -160173,16 +160173,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All kings of nations slept in honor, each man in his own house.
+- fresh: All the kings of nations slept in honor, each man in his own house.
 - brenton: All the kings of the nations lie in honour, every man in his house.
 
 ### Isaiah 14:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you will be cast on mountains as loathed corpse with many dead pierced by swords, going down into Hades, as garment soaked in blood will not be clean.
+- fresh: But you will be cast on the mountains as a loathed corpse with many dead pierced by swords, going down into Hades, as a garment soaked in blood will not be clean.
 - brenton: But thou shalt be cast forth on the mountains, as a loathed carcase, with many dead who have been pierced with swords, going down to the grave.
 
 ### Isaiah 14:20
@@ -160191,16 +160191,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: So neither will you be clean, because you destroyed my land and killed my people; evil seed will certainly not remain forever.
+- fresh: So neither will you be clean, because you destroyed my land and killed my people; an evil seed will certainly not remain forever.
 - brenton: As a garment defiled with blood shall not be pure, so neither shalt thou be pure; because thou hast destroyed my land, and hast slain my people: thou shalt not endure for ever,—thou an evil seed.
 
 ### Isaiah 14:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Prepare your children to be slaughtered for sins of your father, so that they do not rise up and inherit land and fill land with cities.
+- fresh: Prepare your children to be slaughtered for the sins of your father, so that they do not rise up and inherit the land and fill the land with cities.
 - brenton: Prepare thy children to be slain for the sins of their father; that they arise not, and inherit the earth, nor fill the earth with wars.
 
 ### Isaiah 14:22
@@ -160209,7 +160209,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will rise against them, says the Lord of hosts, and I will destroy from them name and remnant and seed, thus says the Lord.
+- fresh: And I will rise against them, says the Lord of hosts, and I will destroy from them their name and remnant and seed, thus says the Lord.
 - brenton: And I will rise up against them, saith the Lord of hosts, and I will destroy their name, and remnant, and seed: thus saith the Lord.
 
 ### Isaiah 14:23
@@ -160218,7 +160218,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make Babylon desolate for hedgehogs to dwell and it will be for nothing, and I will make it muddy pit for destruction.
+- fresh: And I will make Babylon desolate for hedgehogs to dwell and it will be for nothing, and I will make it a muddy pit for destruction.
 - brenton: And I will make the region of Babylon desert, so that hedgehogs shall dwell there, and it shall come to nothing: and I will make it a pit of clay for destruction.
 
 ### Isaiah 14:24
@@ -160233,46 +160233,46 @@ Note:
 ### Isaiah 14:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to destroy Assyrians from my land, and from my mountains, and they will be for trampling, and their yoke will be removed from them and their glory removed from shoulders.
+- fresh: to destroy the Assyrians from my land, and from my mountains, and they will be for trampling, and their yoke will be removed from them and their glory removed from the shoulders.
 - brenton: even to destroy the Assyrians upon my land, and upon my mountains: and they shall be for trampling; and their yoke shall be taken away from them, and their glory shall be taken away from their shoulders.
 
 ### Isaiah 14:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This counsel which the Lord has counseled over whole inhabited world, and this uplifted hand over all nations of inhabited world.
+- fresh: This counsel which the Lord has counseled over the whole inhabited world, and this uplifted hand over all nations of the inhabited world.
 - brenton: This is the purpose which the Lord has purposed upon the whole earth: and this the hand that is uplifted against all the nations.
 
 ### Isaiah 14:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For what Holy God has counseled, who will scatter? And uplifted hand, who will turn back?
+- fresh: For what the Holy God has counseled, who will scatter? And the uplifted hand, who will turn back?
 - brenton: For what the Holy God has purposed, who shall frustrate? and who shall turn back his uplifted hand?
 
 ### Isaiah 14:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In year King Ahaz died this word came.
+- fresh: In the year King Ahaz died this word came.
 - brenton: In the year in which king Achaz died this word came.
 
 ### Isaiah 14:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not rejoice, all you foreigners; for yoke of one striking you was broken, for from the seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
+- fresh: Do not rejoice, all you foreigners; for the yoke of the one striking you was broken, for from the seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
 - brenton: Rejoice not, all ye Philistines, because the yoke of him that smote you is broken: for out of the seed of the serpent shall come forth the young of asps, and their young shall come forth flying serpents.
 
 ### Isaiah 14:30
@@ -160281,25 +160281,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
+- fresh: And the poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
 - brenton: And the poor shall be fed by him, and poor men shall rest in peace: but he shall destroy thy seed with hunger, and shall destroy thy remnant.
 
 ### Isaiah 14:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Howl, gates of cities; let cities cry out, all foreigners disturbed, because smoke from north comes, and there is no one to be.
+- fresh: Howl, the gates of cities; let the cities cry out, all foreigners disturbed, because smoke from the north comes, and there is no one to be.
 - brenton: Howl, ye gates of cities; let the cities be troubled and cry, even all the Philistines: for smoke is coming from the north, and there is no possibility of living.
 
 ### Isaiah 14:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And what will kings of nations answer? That the Lord founded Zion, and through him humble of the people will be saved.
+- fresh: And what will the kings of nations answer? That the Lord founded Zion, and through him the humble of the people will be saved.
 - brenton: And what shall the kings of the nations answer? That the Lord has founded Sion, and by him the poor of the people shall be saved.
 
 ### Isaiah 15:1

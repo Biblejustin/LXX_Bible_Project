@@ -2320,6 +2320,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "forsook the Lord God of their fathers" in by_ref["2 Chronicles 7:22"]["draft_translation"]
     assert "The Lord God of heaven gave me" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert "The Lord of hosts has commanded" in by_ref["Isaiah 13:4"]["draft_translation"]
+    assert "the voice of kings and nations" in by_ref["Isaiah 13:4"]["draft_translation"]
     assert "As the Lord lives" in by_ref["Jeremiah 23:7"]["draft_translation"]
     assert "Exalt the Lord our God" in by_ref["Psalms 98:5"]["draft_translation"]
     assert by_ref["Zephaniah 3:17"]["draft_translation"].startswith("The Lord your God is in you")
@@ -2328,6 +2329,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Hear the word of the Lord" in by_ref["2 Kings 20:16"]["draft_translation"]
     assert "praise the name of the Lord" in by_ref["Psalms 112:1"]["draft_translation"]
     assert "for the day of the Lord is near" in by_ref["Isaiah 13:6"]["draft_translation"]
+    assert "to destroy the whole inhabited world" in by_ref["Isaiah 13:5"][
+        "draft_translation"
+    ]
     assert "Let the name of the Lord be blessed" in by_ref["Job 1:21"]["draft_translation"]
     assert "sought the face of the Lord" in by_ref["2 Chronicles 33:12"]["draft_translation"]
     assert by_ref["Psalms 117:18"]["draft_translation"].startswith("The Lord disciplined me")
@@ -3366,6 +3370,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "pangs as of a woman giving birth" in by_ref["Psalms 47:7"]["draft_translation"]
     assert "as of a woman in labor" in by_ref["Jeremiah 4:31"]["draft_translation"]
     assert "as a fleeing gazelle" in by_ref["Isaiah 13:14"]["draft_translation"]
+    assert "as a wandering sheep" in by_ref["Isaiah 13:14"]["draft_translation"]
     assert "as with a weapon of favor" in by_ref["Psalms 5:13"]["draft_translation"]
     assert "as a flame burns mountains" in by_ref["Psalms 82:15"]["draft_translation"]
     assert "their faces will change as a flame" in by_ref["Isaiah 13:8"]["draft_translation"]
@@ -4518,6 +4523,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "the way of the sea" in by_ref["Isaiah 8:23"]["draft_translation"]
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
+    assert "the stars of heaven" in by_ref["Isaiah 13:10"]["draft_translation"]
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]
     assert "stand amazed at the Lord" in by_ref["Hosea 3:5"]["draft_translation"]
     assert "in the last days" in by_ref["Hosea 3:5"]["draft_translation"]
@@ -4790,6 +4796,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "upon the sons of men" in by_ref["Psalms 13:2"]["draft_translation"]
     assert "gave to the queen of Sheba" in by_ref["2 Chronicles 9:12"]["draft_translation"]
     assert "on the land of God" in by_ref["Isaiah 14:2"]["draft_translation"]
+    assert "over the king of Babylon" in by_ref["Isaiah 14:4"]["draft_translation"]
     assert "according to the houses of their fathers" in by_ref["1 Chronicles 5:13"]["draft_translation"]
     assert "at the threshing floor of Araunah" in by_ref["1 Chronicles 21:15"]["draft_translation"]
     assert "from all the tribes of Israel" in by_ref["2 Chronicles 6:5"]["draft_translation"]
@@ -4908,6 +4915,17 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "in the womb of a pregnant woman" in by_ref["Ecclesiastes 11:5"]["draft_translation"]
     assert "by the king of the Assyrians" in by_ref["Isaiah 7:20"]["draft_translation"]
     assert "into the foundations of the earth" in by_ref["Isaiah 14:15"]["draft_translation"]
+    assert "How the morning-star fell from heaven" in by_ref["Isaiah 14:12"][
+        "draft_translation"
+    ]
+    assert "I will be like the Most High" in by_ref["Isaiah 14:14"]["draft_translation"]
+    assert "to destroy the Assyrians from my land" in by_ref["Isaiah 14:25"][
+        "draft_translation"
+    ]
+    assert "the yoke of the one striking you" in by_ref["Isaiah 14:29"][
+        "draft_translation"
+    ]
+    assert "the kings of nations answer" in by_ref["Isaiah 14:32"]["draft_translation"]
     assert "from the king of the Assyrians" in by_ref["Isaiah 20:6"]["draft_translation"]
     assert "in the glory of the Lord" in by_ref["Isaiah 24:14"]["draft_translation"]
     assert "from the produce of your land" in by_ref["Isaiah 30:23"]["draft_translation"]

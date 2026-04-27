@@ -72438,7 +72438,7 @@ The vision which Isaiah son of Amoz saw against Babylon.
 
 **Isaiah 13:2**
 
-Lift signal on plain mountain, raise voice to them, do not fear, encourage with hand, open, rulers.
+Lift a signal on a plain mountain, raise the voice to them, do not fear, encourage with the hand, open, rulers.
 
 **Isaiah 13:3**
 
@@ -72446,11 +72446,11 @@ I command, and I bring them; they are sanctified, and I bring them. Giants come 
 
 **Isaiah 13:4**
 
-The voice of many nations on mountains, like many nations; voice of kings and nations gathered together. The Lord of hosts has commanded a warlike nation
+The voice of many nations on the mountains, like many nations; the voice of kings and nations gathered together. The Lord of hosts has commanded a warlike nation
 
 **Isaiah 13:5**
 
-to come from far land, from the edge of foundation of heaven, Lord and his warriors, to destroy whole inhabited world.
+to come from a far land, from the edge of the foundation of heaven, the Lord and his warriors, to destroy the whole inhabited world.
 
 **Isaiah 13:6**
 
@@ -72466,31 +72466,31 @@ And envoys will be troubled, and pains will seize them as a woman giving birth, 
 
 **Isaiah 13:9**
 
-For look, the day of the Lord comes, incurable, of fury and anger, to make whole inhabited world desolate and destroy sinners out of it.
+For look, the day of the Lord comes, incurable, of fury and anger, to make the whole inhabited world desolate and destroy the sinners out of it.
 
 **Isaiah 13:10**
 
-For stars of heaven and Orion and all ornament of heaven will not give light, and sun rising will be darkened, and moon will not give its light.
+For the stars of heaven and Orion and all the ornament of heaven will not give the light, and the sun rising will be darkened, and the moon will not give its light.
 
 **Isaiah 13:11**
 
-And I will command evils upon whole inhabited world and their sins upon ungodly, and I will destroy insolence of lawless and humble insolence of proud.
+And I will command evils upon the whole inhabited world and their sins upon the ungodly, and I will destroy the insolence of the lawless and humble the insolence of the proud.
 
 **Isaiah 13:12**
 
-And those left behind will be more precious than untried gold, and man will be more precious than stone from Ophir.
+And those left behind will be more precious than untried gold, and a man will be more precious than a stone from Ophir.
 
 **Isaiah 13:13**
 
-For heaven will be enraged, and earth will be shaken from its foundations, because of wrath of anger of the Lord of hosts on the day when his anger comes.
+For the heaven will be enraged, and the earth will be shaken from its foundations, because of the wrath of the anger of the Lord of hosts on the day when his anger comes.
 
 **Isaiah 13:14**
 
-And those left will be as a fleeing gazelle and as wandering sheep, and there will be no one gathering, so that man turn back to his people and man pursue to his land.
+And those left will be as a fleeing gazelle and as a wandering sheep, and there will be no one gathering, so that a man turns back to his people and a man pursues to his land.
 
 **Isaiah 13:15**
 
-For whoever is caught will be defeated, and those gathered together will fall by sword.
+For whoever is caught will be defeated, and those gathered together will fall by a sword.
 
 **Isaiah 13:16**
 
@@ -72498,11 +72498,11 @@ And their children before them they will dash down, and their houses they will p
 
 **Isaiah 13:17**
 
-Look, I stir up Medes against you, who do not value silver nor have need of gold.
+Look, I stir up the Medes against you, who do not value silver nor have need of gold.
 
 **Isaiah 13:18**
 
-Their bows will crush young men, and your children they will certainly not pity, nor will their eyes spare children.
+Their bows will crush the young men, and your children they will certainly not pity, nor will their eyes spare the children.
 
 **Isaiah 13:19**
 
@@ -72510,11 +72510,11 @@ And Babylon, called glorious by the king of Chaldeans, will be as when God overt
 
 **Isaiah 13:20**
 
-It will not be inhabited forever, nor shall they enter into it for many generations, nor shall Arabs pass through it, nor shepherds rest in it.
+It will not be inhabited forever, nor shall they enter into it for many generations, nor shall the Arabs pass through it, nor the shepherds rest in it.
 
 **Isaiah 13:21**
 
-And beasts will rest there, and houses will be filled with sound, and sirens will rest there and demons will dance there.
+And the beasts will rest there, and the houses will be filled with sound, and the sirens will rest there and demons will dance there.
 
 **Isaiah 13:22**
 
@@ -72524,7 +72524,7 @@ And donkey-centaurs will dwell there, and hedgehogs will make nests in their hou
 
 **Isaiah 14:1**
 
-And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to the house of Jacob.
+And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and a resident alien will be added to them and added to the house of Jacob.
 
 **Isaiah 14:2**
 
@@ -72536,15 +72536,15 @@ And it will be in that day God will give you rest from your pain and your anger 
 
 **Isaiah 14:4**
 
-And you will take up this lament over king of Babylon and say in that day: How exactor has rested, and how zealot has rested.
+And you will take up this lament over the king of Babylon and say in that day: How the exactor has rested, and how the zealot has rested.
 
 **Isaiah 14:5**
 
-God shattered yoke of sinners, yoke of rulers,
+God shattered the yoke of sinners, the yoke of rulers,
 
 **Isaiah 14:6**
 
-striking nation in wrath with incurable blow, striking nation with stroke of anger from which he did not spare.
+striking a nation in wrath with an incurable blow, striking a nation with a stroke of anger from which he did not spare.
 
 **Isaiah 14:7**
 
@@ -72552,11 +72552,11 @@ All the earth rested confidently; it cries out with gladness.
 
 **Isaiah 14:8**
 
-And trees of Lebanon rejoiced over you, and cedar of Lebanon: Since you have fallen asleep, one cutting us down did not come up.
+And the trees of Lebanon rejoiced over you, and the cedar of Lebanon: Since you have fallen asleep, the one cutting us down did not come up.
 
 **Isaiah 14:9**
 
-Hades below was embittered to meet you; all giants who ruled earth were raised up for you, who roused from their thrones all kings of nations.
+Hades below was embittered to meet you; all the giants who ruled the earth were raised up for you, who roused from their thrones all the kings of nations.
 
 **Isaiah 14:10**
 
@@ -72564,19 +72564,19 @@ All will answer and say to you, You too were taken as we were; among us you were
 
 **Isaiah 14:11**
 
-And your glory came down into Hades, your much gladness; decay they will spread under you, and worm your covering.
+And your glory came down into Hades, your much gladness; decay they will spread under you, and a worm is your covering.
 
 **Isaiah 14:12**
 
-How morning-star fell from heaven, one rising in morning; one sent out toward all nations was crushed to earth.
+How the morning-star fell from heaven, the one rising in the morning; the one sent out toward all nations was crushed to the earth.
 
 **Isaiah 14:13**
 
-And you said in your mind, I will go up into heaven, above stars of heaven I will place my throne; I will sit on high mountain, on high mountains toward north.
+And you said in your mind, I will go up into heaven, above the stars of heaven I will place my throne; I will sit on a high mountain, on the high mountains toward the north.
 
 **Isaiah 14:14**
 
-I will go up above clouds; I will be like Most High.
+I will go up above the clouds; I will be like the Most High.
 
 **Isaiah 14:15**
 
@@ -72584,35 +72584,35 @@ But now you will go down into Hades and into the foundations of the earth.
 
 **Isaiah 14:16**
 
-Those seeing you will marvel over you and say, This man provoking earth, shaking kings,
+Those seeing you will marvel over you and say, This man provoking the earth, shaking kings,
 
 **Isaiah 14:17**
 
-placing whole inhabited world desolate and pulling down cities, did not release those in captivity.
+placing the whole inhabited world desolate and pulling down the cities, did not release those in captivity.
 
 **Isaiah 14:18**
 
-All kings of nations slept in honor, each man in his own house.
+All the kings of nations slept in honor, each man in his own house.
 
 **Isaiah 14:19**
 
-But you will be cast on mountains as loathed corpse with many dead pierced by swords, going down into Hades, as garment soaked in blood will not be clean.
+But you will be cast on the mountains as a loathed corpse with many dead pierced by swords, going down into Hades, as a garment soaked in blood will not be clean.
 
 **Isaiah 14:20**
 
-So neither will you be clean, because you destroyed my land and killed my people; evil seed will certainly not remain forever.
+So neither will you be clean, because you destroyed my land and killed my people; an evil seed will certainly not remain forever.
 
 **Isaiah 14:21**
 
-Prepare your children to be slaughtered for sins of your father, so that they do not rise up and inherit land and fill land with cities.
+Prepare your children to be slaughtered for the sins of your father, so that they do not rise up and inherit the land and fill the land with cities.
 
 **Isaiah 14:22**
 
-And I will rise against them, says the Lord of hosts, and I will destroy from them name and remnant and seed, thus says the Lord.
+And I will rise against them, says the Lord of hosts, and I will destroy from them their name and remnant and seed, thus says the Lord.
 
 **Isaiah 14:23**
 
-And I will make Babylon desolate for hedgehogs to dwell and it will be for nothing, and I will make it muddy pit for destruction.
+And I will make Babylon desolate for hedgehogs to dwell and it will be for nothing, and I will make it a muddy pit for destruction.
 
 **Isaiah 14:24**
 
@@ -72620,35 +72620,35 @@ Thus says the Lord of hosts: As I have spoken, so it will be, and as I have coun
 
 **Isaiah 14:25**
 
-to destroy Assyrians from my land, and from my mountains, and they will be for trampling, and their yoke will be removed from them and their glory removed from shoulders.
+to destroy the Assyrians from my land, and from my mountains, and they will be for trampling, and their yoke will be removed from them and their glory removed from the shoulders.
 
 **Isaiah 14:26**
 
-This counsel which the Lord has counseled over whole inhabited world, and this uplifted hand over all nations of inhabited world.
+This counsel which the Lord has counseled over the whole inhabited world, and this uplifted hand over all nations of the inhabited world.
 
 **Isaiah 14:27**
 
-For what Holy God has counseled, who will scatter? And uplifted hand, who will turn back?
+For what the Holy God has counseled, who will scatter? And the uplifted hand, who will turn back?
 
 **Isaiah 14:28**
 
-In year King Ahaz died this word came.
+In the year King Ahaz died this word came.
 
 **Isaiah 14:29**
 
-Do not rejoice, all you foreigners; for yoke of one striking you was broken, for from the seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
+Do not rejoice, all you foreigners; for the yoke of the one striking you was broken, for from the seed of snakes offspring of asps will come out, and their offspring will come out as flying serpents.
 
 **Isaiah 14:30**
 
-And poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
+And the poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
 
 **Isaiah 14:31**
 
-Howl, gates of cities; let cities cry out, all foreigners disturbed, because smoke from north comes, and there is no one to be.
+Howl, the gates of cities; let the cities cry out, all foreigners disturbed, because smoke from the north comes, and there is no one to be.
 
 **Isaiah 14:32**
 
-And what will kings of nations answer? That the Lord founded Zion, and through him humble of the people will be saved.
+And what will the kings of nations answer? That the Lord founded Zion, and through him the humble of the people will be saved.
 
 ### Chapter 15
 
