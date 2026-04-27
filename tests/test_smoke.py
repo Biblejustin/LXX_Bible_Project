@@ -5149,6 +5149,43 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by a lie we will be covered" in by_ref["Isaiah 28:15"][
         "draft_translation"
     ]
+    assert "a costly, chosen, precious cornerstone" in by_ref["Isaiah 28:16"][
+        "draft_translation"
+    ]
+    assert "the one believing on him" in by_ref["Isaiah 28:16"][
+        "draft_translation"
+    ]
+    assert "a storm certainly will not pass you by" in by_ref["Isaiah 28:17"][
+        "draft_translation"
+    ]
+    assert "the covenant of death" in by_ref["Isaiah 28:18"][
+        "draft_translation"
+    ]
+    assert "The hope will be evil" in by_ref["Isaiah 28:19"][
+        "draft_translation"
+    ]
+    assert "a mountain of the ungodly" in by_ref["Isaiah 28:21"][
+        "draft_translation"
+    ]
+    assert "a work of bitterness" in by_ref["Isaiah 28:21"][
+        "draft_translation"
+    ]
+    assert "the completed and cut-short things" in by_ref["Isaiah 28:22"][
+        "draft_translation"
+    ]
+    assert "Will the plowman plow the whole day" in by_ref["Isaiah 28:24"][
+        "draft_translation"
+    ]
+    assert "with the judgment of your God" in by_ref["Isaiah 28:26"][
+        "draft_translation"
+    ]
+    assert "For the black cumin" in by_ref["Isaiah 28:27"]["draft_translation"]
+    assert "the voice of my bitterness" in by_ref["Isaiah 28:28"][
+        "draft_translation"
+    ]
+    assert "from the Lord of hosts: the wonders" in by_ref["Isaiah 28:29"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

@@ -73556,19 +73556,19 @@ because you said, We made a covenant with Hades and agreements with death. A sto
 
 **Isaiah 28:16**
 
-Therefore thus says the Lord: Behold, I cast into the foundations of Zion costly stone, chosen, precious cornerstone into her foundations, and one believing on him certainly will not be put to shame.
+Therefore thus says the Lord: Behold, I cast into the foundations of Zion a costly, chosen, precious cornerstone into her foundations, and the one believing on him certainly will not be put to shame.
 
 **Isaiah 28:17**
 
-And I will set judgment into hope, and my mercy into scales, and those trusting vainly in falsehood, storm certainly will not pass you by.
+And I will set judgment into hope, and my mercy into scales, and those trusting vainly in falsehood, a storm certainly will not pass you by.
 
 **Isaiah 28:18**
 
-Will it not remove from you covenant of death, and your hope toward Hades certainly will not remain? If storm carried along comes upon, you will be for trampling to it.
+Will it not remove from you the covenant of death, and your hope toward Hades certainly will not remain? If a storm carried along comes upon, you will be for trampling to it.
 
 **Isaiah 28:19**
 
-Whenever it passes, it will take you; morning by morning it will pass, by day and by night. Hope will be evil; learn to hear.
+Whenever it passes, it will take you; morning by morning it will pass, by day and by night. The hope will be evil; learn to hear.
 
 **Isaiah 28:20**
 
@@ -73576,11 +73576,11 @@ Being cramped, we cannot fight; and they are weak for us to gather ourselves.
 
 **Isaiah 28:21**
 
-As mountain of ungodly he will rise, and he will be in the valley of Gibeon with wrath. He will do his works, works of bitterness; but his wrath will use strange way, and his bitterness alien.
+As a mountain of the ungodly he will rise, and he will be in the valley of Gibeon with wrath. He will do his works, a work of bitterness; but his wrath will use a strange way, and his bitterness will be alien.
 
 **Isaiah 28:22**
 
-And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from the Lord of hosts, what he will do upon the whole earth.
+And you, do not rejoice, nor let your bonds grow strong, because the completed and cut-short things I heard from the Lord of hosts are what he will do upon the whole earth.
 
 **Isaiah 28:23**
 
@@ -73588,7 +73588,7 @@ Give ear and hear my voice; pay attention and hear my words.
 
 **Isaiah 28:24**
 
-Will plowman plow whole day, or prepare seed before working ground?
+Will the plowman plow the whole day, or prepare seed before working the ground?
 
 **Isaiah 28:25**
 
@@ -73596,19 +73596,19 @@ Is it not whenever he levels its surface, then he sows little black cumin and cu
 
 **Isaiah 28:26**
 
-And you will be disciplined with judgment of your God and rejoice.
+And you will be disciplined with the judgment of your God and rejoice.
 
 **Isaiah 28:27**
 
-For black cumin is not threshed with harshness, nor wheel of wagon brought around on cumin, but with rod black cumin is shaken out, and the cumin.
+For the black cumin is not threshed with harshness, nor a wheel of a wagon brought around on the cumin, but with a rod the black cumin is shaken out, and the cumin.
 
 **Isaiah 28:28**
 
-With bread it will be eaten; for not forever will I be angry with you, nor voice of my bitterness trample you.
+With bread it will be eaten; for not forever will I be angry with you, nor the voice of my bitterness trample you.
 
 **Isaiah 28:29**
 
-And these things came out from the Lord of hosts: counsel wonders; lift vain comfort high.
+And these things came out from the Lord of hosts: the wonders; counsel, lift vain comfort high.
 
 ### Chapter 29
 

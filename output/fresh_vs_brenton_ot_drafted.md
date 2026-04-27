@@ -162276,37 +162276,37 @@ Note:
 ### Isaiah 28:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I cast into the foundations of Zion costly stone, chosen, precious cornerstone into her foundations, and one believing on him certainly will not be put to shame.
+- fresh: Therefore thus says the Lord: Behold, I cast into the foundations of Zion a costly, chosen, precious cornerstone into her foundations, and the one believing on him certainly will not be put to shame.
 - brenton: therefore thus saith the Lord, even the Lord,
 
 ### Isaiah 28:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set judgment into hope, and my mercy into scales, and those trusting vainly in falsehood, storm certainly will not pass you by.
+- fresh: And I will set judgment into hope, and my mercy into scales, and those trusting vainly in falsehood, a storm certainly will not pass you by.
 - brenton: And I will cause judgment to be for hope, and my compassion shall be for just measures, and ye that trust vainly in falsehood shall fall: for the storm shall by no means pass by you,
 
 ### Isaiah 28:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will it not remove from you covenant of death, and your hope toward Hades certainly will not remain? If storm carried along comes upon, you will be for trampling to it.
+- fresh: Will it not remove from you the covenant of death, and your hope toward Hades certainly will not remain? If a storm carried along comes upon, you will be for trampling to it.
 - brenton: except it also take away your covenant of death, and your trust in Hades shall by no means stand: if the rushing storm should come upon you, ye shall be beaten down by it.
 
 ### Isaiah 28:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whenever it passes, it will take you; morning by morning it will pass, by day and by night. Hope will be evil; learn to hear.
+- fresh: Whenever it passes, it will take you; morning by morning it will pass, by day and by night. The hope will be evil; learn to hear.
 - brenton: Whenever it shall pass by, it shall take you; morning by morning it shall pass by in the day, and in the night there shall be an evil hope.
 
 ### Isaiah 28:20
@@ -162321,19 +162321,19 @@ Note:
 ### Isaiah 28:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As mountain of ungodly he will rise, and he will be in the valley of Gibeon with wrath. He will do his works, works of bitterness; but his wrath will use strange way, and his bitterness alien.
+- fresh: As a mountain of the ungodly he will rise, and he will be in the valley of Gibeon with wrath. He will do his works, a work of bitterness; but his wrath will use a strange way, and his bitterness will be alien.
 - brenton: The Lord shall rise up as a mountain of ungodly men, and shall be in the valley of Gabaon; he shall perform his works with wrath, even a work of bitterness, and his wrath shall deal strangely, and his destruction shall be strange.
 
 ### Isaiah 28:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, do not rejoice, nor let your bonds grow strong, because completed and cut-short things I heard from the Lord of hosts, what he will do upon the whole earth.
+- fresh: And you, do not rejoice, nor let your bonds grow strong, because the completed and cut-short things I heard from the Lord of hosts are what he will do upon the whole earth.
 - brenton: Therefore do not ye rejoice, neither let your bands be made strong; for I have heard of works finished and cut short by the Lord of hosts, which he will execute upon all the earth.
 
 ### Isaiah 28:23
@@ -162348,10 +162348,10 @@ Note:
 ### Isaiah 28:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will plowman plow whole day, or prepare seed before working ground?
+- fresh: Will the plowman plow the whole day, or prepare seed before working the ground?
 - brenton: Will the ploughman plough all the day? or will he prepare the seed beforehand, before he tills the ground?
 
 ### Isaiah 28:25
@@ -162366,37 +162366,37 @@ Note:
 ### Isaiah 28:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will be disciplined with judgment of your God and rejoice.
+- fresh: And you will be disciplined with the judgment of your God and rejoice.
 - brenton: So thou shalt be chastened by the judgment of thy God, and shalt rejoice.
 
 ### Isaiah 28:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For black cumin is not threshed with harshness, nor wheel of wagon brought around on cumin, but with rod black cumin is shaken out, and the cumin.
+- fresh: For the black cumin is not threshed with harshness, nor a wheel of a wagon brought around on the cumin, but with a rod the black cumin is shaken out, and the cumin.
 - brenton: For the black poppy is not cleansed with harsh treatment, nor will a waggon-wheel pass over the cumin; but the black poppy is threshed with a rod, and the cumin shall be eaten with bread;
 
 ### Isaiah 28:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With bread it will be eaten; for not forever will I be angry with you, nor voice of my bitterness trample you.
+- fresh: With bread it will be eaten; for not forever will I be angry with you, nor the voice of my bitterness trample you.
 - brenton: for I will not be wroth with you for ever, neither shall the voice of my anger crush you.
 
 ### Isaiah 28:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these things came out from the Lord of hosts: counsel wonders; lift vain comfort high.
+- fresh: And these things came out from the Lord of hosts: the wonders; counsel, lift vain comfort high.
 - brenton: And these signs came forth from the Lord of hosts. Take counsel, exalt vain comfort.
 
 ### Isaiah 29:1
