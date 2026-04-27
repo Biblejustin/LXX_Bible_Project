@@ -163176,10 +163176,10 @@ Note:
 ### Isaiah 33:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to those making you miserable, but no one makes you miserable; and one rejecting you does not reject. Those rejecting will be captured and handed over, and as moth on garment, thus they will be defeated.
+- fresh: Woe to those making you miserable, but no one makes you miserable; and one rejecting you does not reject. Those rejecting will be captured and handed over, and as a moth on a garment, thus they will be defeated.
 - brenton: Woe to them that afflict you; but no one makes you miserable: and he that deals perfidiously with you does not deal perfidiously: they that deal perfidiously shall be taken and given up, and as a moth on a garment, so shall they be spoiled.
 
 ### Isaiah 33:2
@@ -163194,10 +163194,10 @@ Note:
 ### Isaiah 33:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At the voice of your fear peoples were astonished; from your fear nations were scattered.
+- fresh: At the voice of your fear peoples were astonished; from your fear the nations were scattered.
 - brenton: By reason of the terrible sound the nations were dismayed for fear of thee, and the heathen were scattered.
 
 ### Isaiah 33:4
@@ -163212,19 +163212,19 @@ Note:
 ### Isaiah 33:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Holy One is God dwelling in heights; Zion was filled with judgment and righteousness.
+- fresh: The Holy One is God dwelling in the heights; Zion was filled with judgment and righteousness.
 - brenton: The God who dwells on high is holy: Sion is filled with judgment and righteousness.
 
 ### Isaiah 33:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: By law they will be handed over; in treasures is our salvation. There wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
+- fresh: By law they will be handed over; in treasures is our salvation. There are wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
 - brenton: They shall be delivered up to the law: our salvation is our treasure: there are wisdom and knowledge and piety toward the Lord; these are the treasures of righteousness.
 
 ### Isaiah 33:7
@@ -163239,19 +163239,19 @@ Note:
 ### Isaiah 33:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For their roads will be made desolate, fear of nations ceased, and covenant with these is removed, and you shall certainly not reckon them as men.
+- fresh: For their roads will be made desolate, the fear of nations ceased, and the covenant with these is removed, and you shall certainly not reckon them as men.
 - brenton: For the ways of these shall be made desolate: the terror of the nations has been made to cease, and the covenant with these is taken away, and ye shall by no means deem them men.
 
 ### Isaiah 33:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The land mourned, Lebanon was shamed, Sharon became marsh; Galilee and Carmel will become visible.
+- fresh: The land mourned, Lebanon was shamed, Sharon became a marsh; Galilee and Carmel will become visible.
 - brenton: The land mourns; Libanus is ashamed: Saron is become marshes; Galilee shall be laid bare, and Chermel.
 
 ### Isaiah 33:10
@@ -163266,100 +163266,100 @@ Note:
 ### Isaiah 33:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now you will see, now you will perceive. Strength of your spirit will be vanity; fire will devour you.
+- fresh: Now you will see, now you will perceive. The strength of your spirit will be vanity; a fire will devour you.
 - brenton: Now shall ye see, now shall ye perceive; the strength of your breath shall be vain; fire shall devour you.
 
 ### Isaiah 33:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations will be burned as thorn in the field thrown aside and burned.
+- fresh: And the nations will be burned as a thorn in the field thrown aside and burned.
 - brenton: And the nations shall be burnt up; as a thorn in the field cast out and burnt up.
 
 ### Isaiah 33:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those far away will hear what I did; those near will know my strength.
+- fresh: The ones far away will hear what I did; the ones near will know my strength.
 - brenton: They that are afar off shall hear what I have done; they that draw nigh shall know my strength.
 
 ### Isaiah 33:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The lawless in Zion departed; trembling will seize ungodly. Who will report to you that fire burns? Who will report to you the eternal place?
+- fresh: The lawless in Zion departed; trembling will seize the ungodly. Who will report to you that a fire burns? Who will report to you the eternal place?
 - brenton: The sinners in Sion have departed; trembling shall seize the ungodly. Who will tell you that a fire is kindled? Who will tell you of the eternal place?
 
 ### Isaiah 33:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One walking in righteousness, speaking straight way, hating lawlessness and injustice, shaking hands from gifts, stopping ears not to hear judgment of blood, shutting eyes not to see injustice.
+- fresh: One walking in righteousness, speaking a straight way, hating lawlessness and injustice, shaking his hands from gifts, stopping his ears not to hear a judgment of blood, shutting his eyes not to see injustice.
 - brenton: He that walks in righteousness, speaking rightly, hating transgression and iniquity, and shaking his hands from gifts, stopping his ears that he should not hear the judgment of blood, shutting his eyes that he should not see injustice;
 
 ### Isaiah 33:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This one will dwell on high in cave of strong rock; bread will be given to him and his water faithful.
+- fresh: This one will dwell on high in a cave of a strong rock; bread will be given to him and his water will be faithful.
 - brenton: he shall dwell in a high cave of a strong rock: bread shall be given him, and his water shall be sure.
 
 ### Isaiah 33:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will see king with glory, and your eyes will see land from far away.
+- fresh: You will see a king with glory, and your eyes will see a land from far away.
 - brenton: Ye shall see a king with glory: your eyes shall behold a land from afar.
 
 ### Isaiah 33:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your soul will meditate fear: Where are scribes? Where are counselors? Where is one counting those being fed?
+- fresh: Your soul will meditate on fear: Where are the scribes? Where are the counselors? Where is the one counting those being fed?
 - brenton: Your soul shall meditate terror. Where are the scribes? where are the counsellors, where is he that numbers them that are growing up,
 
 ### Isaiah 33:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Small and great people to whom they did not counsel, nor knew deep-voiced speech so as not to hear; people despised, and there is no understanding to listener.
+- fresh: Small and great people to whom they did not counsel, nor knew deep-voiced speech so as not to hear; a people despised, and there is no understanding to the listener.
 - brenton: even the small and great people? with whom he took not counsel, neither did he understand a people of deep speech, so that a despised people should not hear, and there is no understanding to him that hears.
 
 ### Isaiah 33:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold Zion, city of our salvation. Your eyes will see Jerusalem, rich city; tents that certainly will not be shaken, nor will pegs of her tent move forever, nor will her ropes be torn.
+- fresh: Behold Zion, the city of our salvation. Your eyes will see Jerusalem, a rich city; tents that certainly will not be shaken, nor will the pegs of her tent move forever, nor will her ropes be torn.
 - brenton: Behold the city Sion, our refuge: thine eyes shall behold Jerusalem, a rich city, tabernacles which shall not be shaken, neither shall the pins of her tabernacle be moved for ever, neither shall her cords be at all broken:
 
 ### Isaiah 33:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will a vessel go through.
+- fresh: Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. A ship under oars will not travel this way, nor will a vessel go through.
 - brenton: for the name of the Lord is great to you: ye shall have a place, even rivers and wide and spacious channels: thou shalt not go this way, neither a vessel with oars go thereby.
 
 ### Isaiah 33:22
@@ -163374,10 +163374,10 @@ Note:
 ### Isaiah 33:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your ropes were torn, because your mast was not strengthened; it bent, will not loosen sails, will not lift signal until it is handed over for plunder. Therefore many lame will make plunder.
+- fresh: Your ropes were torn, because your mast was not strengthened; it bent, will not loosen the sails, will not lift a signal until it is handed over for plunder. Therefore many lame ones will make plunder.
 - brenton: Thy cords are broken, for they had no strength: thy mast has given way, it shall not spread the sails, it shall not bear a signal, until it be given up for plunder; therefore shall many lame men take spoil.
 
 ### Isaiah 33:24

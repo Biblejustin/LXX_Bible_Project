@@ -5471,6 +5471,95 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "where an ox and a donkey do not tread" in by_ref["Isaiah 32:20"][
         "draft_translation"
     ]
+    assert "as a moth on a garment" in by_ref["Isaiah 33:1"][
+        "draft_translation"
+    ]
+    assert "from your fear the nations were scattered" in by_ref["Isaiah 33:3"][
+        "draft_translation"
+    ]
+    assert "dwelling in the heights" in by_ref["Isaiah 33:5"][
+        "draft_translation"
+    ]
+    assert "There are wisdom and knowledge and piety" in by_ref["Isaiah 33:6"][
+        "draft_translation"
+    ]
+    assert "the fear of nations ceased" in by_ref["Isaiah 33:8"][
+        "draft_translation"
+    ]
+    assert "the covenant with these is removed" in by_ref["Isaiah 33:8"][
+        "draft_translation"
+    ]
+    assert "Sharon became a marsh" in by_ref["Isaiah 33:9"][
+        "draft_translation"
+    ]
+    assert "The strength of your spirit" in by_ref["Isaiah 33:11"][
+        "draft_translation"
+    ]
+    assert "a fire will devour you" in by_ref["Isaiah 33:11"][
+        "draft_translation"
+    ]
+    assert "the nations will be burned as a thorn" in by_ref["Isaiah 33:12"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 33:13"]["draft_translation"].startswith(
+        "The ones far away"
+    )
+    assert "the ones near will know my strength" in by_ref["Isaiah 33:13"][
+        "draft_translation"
+    ]
+    assert "will seize the ungodly" in by_ref["Isaiah 33:14"][
+        "draft_translation"
+    ]
+    assert "that a fire burns" in by_ref["Isaiah 33:14"]["draft_translation"]
+    assert "speaking a straight way" in by_ref["Isaiah 33:15"][
+        "draft_translation"
+    ]
+    assert "shaking his hands from gifts" in by_ref["Isaiah 33:15"][
+        "draft_translation"
+    ]
+    assert "stopping his ears" in by_ref["Isaiah 33:15"][
+        "draft_translation"
+    ]
+    assert "a cave of a strong rock" in by_ref["Isaiah 33:16"][
+        "draft_translation"
+    ]
+    assert "his water will be faithful" in by_ref["Isaiah 33:16"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 33:17"]["draft_translation"].startswith(
+        "You will see a king"
+    )
+    assert "see a land from far away" in by_ref["Isaiah 33:17"][
+        "draft_translation"
+    ]
+    assert "meditate on fear" in by_ref["Isaiah 33:18"][
+        "draft_translation"
+    ]
+    assert "Where are the scribes" in by_ref["Isaiah 33:18"][
+        "draft_translation"
+    ]
+    assert "Where is the one counting" in by_ref["Isaiah 33:18"][
+        "draft_translation"
+    ]
+    assert "a people despised" in by_ref["Isaiah 33:19"][
+        "draft_translation"
+    ]
+    assert "to the listener" in by_ref["Isaiah 33:19"]["draft_translation"]
+    assert "Zion, the city of our salvation" in by_ref["Isaiah 33:20"][
+        "draft_translation"
+    ]
+    assert "Jerusalem, a rich city" in by_ref["Isaiah 33:20"][
+        "draft_translation"
+    ]
+    assert "the pegs of her tent" in by_ref["Isaiah 33:20"][
+        "draft_translation"
+    ]
+    assert "A ship under oars will not travel this way" in by_ref[
+        "Isaiah 33:21"
+    ]["draft_translation"]
+    assert "loosen the sails" in by_ref["Isaiah 33:23"]["draft_translation"]
+    assert "lift a signal" in by_ref["Isaiah 33:23"]["draft_translation"]
+    assert "many lame ones" in by_ref["Isaiah 33:23"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

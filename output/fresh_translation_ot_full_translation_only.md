@@ -73966,7 +73966,7 @@ Blessed are those sowing over every water, where an ox and a donkey do not tread
 
 **Isaiah 33:1**
 
-Woe to those making you miserable, but no one makes you miserable; and one rejecting you does not reject. Those rejecting will be captured and handed over, and as moth on garment, thus they will be defeated.
+Woe to those making you miserable, but no one makes you miserable; and one rejecting you does not reject. Those rejecting will be captured and handed over, and as a moth on a garment, thus they will be defeated.
 
 **Isaiah 33:2**
 
@@ -73974,7 +73974,7 @@ Lord, have mercy on us, for on you we have trusted. The seed of the disobedient 
 
 **Isaiah 33:3**
 
-At the voice of your fear peoples were astonished; from your fear nations were scattered.
+At the voice of your fear peoples were astonished; from your fear the nations were scattered.
 
 **Isaiah 33:4**
 
@@ -73982,11 +73982,11 @@ But now your spoils will be gathered, small and great; as if someone gathers loc
 
 **Isaiah 33:5**
 
-The Holy One is God dwelling in heights; Zion was filled with judgment and righteousness.
+The Holy One is God dwelling in the heights; Zion was filled with judgment and righteousness.
 
 **Isaiah 33:6**
 
-By law they will be handed over; in treasures is our salvation. There wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
+By law they will be handed over; in treasures is our salvation. There are wisdom and knowledge and piety toward the Lord; these are treasures of righteousness.
 
 **Isaiah 33:7**
 
@@ -73994,11 +73994,11 @@ Look now, in your fear they themselves will fear; those you feared will fear fro
 
 **Isaiah 33:8**
 
-For their roads will be made desolate, fear of nations ceased, and covenant with these is removed, and you shall certainly not reckon them as men.
+For their roads will be made desolate, the fear of nations ceased, and the covenant with these is removed, and you shall certainly not reckon them as men.
 
 **Isaiah 33:9**
 
-The land mourned, Lebanon was shamed, Sharon became marsh; Galilee and Carmel will become visible.
+The land mourned, Lebanon was shamed, Sharon became a marsh; Galilee and Carmel will become visible.
 
 **Isaiah 33:10**
 
@@ -74006,47 +74006,47 @@ Now I will rise, says the Lord; now I will be glorified; now I will be exalted.
 
 **Isaiah 33:11**
 
-Now you will see, now you will perceive. Strength of your spirit will be vanity; fire will devour you.
+Now you will see, now you will perceive. The strength of your spirit will be vanity; a fire will devour you.
 
 **Isaiah 33:12**
 
-And nations will be burned as thorn in the field thrown aside and burned.
+And the nations will be burned as a thorn in the field thrown aside and burned.
 
 **Isaiah 33:13**
 
-Those far away will hear what I did; those near will know my strength.
+The ones far away will hear what I did; the ones near will know my strength.
 
 **Isaiah 33:14**
 
-The lawless in Zion departed; trembling will seize ungodly. Who will report to you that fire burns? Who will report to you the eternal place?
+The lawless in Zion departed; trembling will seize the ungodly. Who will report to you that a fire burns? Who will report to you the eternal place?
 
 **Isaiah 33:15**
 
-One walking in righteousness, speaking straight way, hating lawlessness and injustice, shaking hands from gifts, stopping ears not to hear judgment of blood, shutting eyes not to see injustice.
+One walking in righteousness, speaking a straight way, hating lawlessness and injustice, shaking his hands from gifts, stopping his ears not to hear a judgment of blood, shutting his eyes not to see injustice.
 
 **Isaiah 33:16**
 
-This one will dwell on high in cave of strong rock; bread will be given to him and his water faithful.
+This one will dwell on high in a cave of a strong rock; bread will be given to him and his water will be faithful.
 
 **Isaiah 33:17**
 
-You will see king with glory, and your eyes will see land from far away.
+You will see a king with glory, and your eyes will see a land from far away.
 
 **Isaiah 33:18**
 
-Your soul will meditate fear: Where are scribes? Where are counselors? Where is one counting those being fed?
+Your soul will meditate on fear: Where are the scribes? Where are the counselors? Where is the one counting those being fed?
 
 **Isaiah 33:19**
 
-Small and great people to whom they did not counsel, nor knew deep-voiced speech so as not to hear; people despised, and there is no understanding to listener.
+Small and great people to whom they did not counsel, nor knew deep-voiced speech so as not to hear; a people despised, and there is no understanding to the listener.
 
 **Isaiah 33:20**
 
-Behold Zion, city of our salvation. Your eyes will see Jerusalem, rich city; tents that certainly will not be shaken, nor will pegs of her tent move forever, nor will her ropes be torn.
+Behold Zion, the city of our salvation. Your eyes will see Jerusalem, a rich city; tents that certainly will not be shaken, nor will the pegs of her tent move forever, nor will her ropes be torn.
 
 **Isaiah 33:21**
 
-Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. This way a ship under oars will not travel, nor will a vessel go through.
+Because the name of the Lord is great to you; a place for you will be rivers and broad and spacious channels. A ship under oars will not travel this way, nor will a vessel go through.
 
 **Isaiah 33:22**
 
@@ -74054,7 +74054,7 @@ For my God is great; he will not pass me by. The Lord our judge, the Lord our ru
 
 **Isaiah 33:23**
 
-Your ropes were torn, because your mast was not strengthened; it bent, will not loosen sails, will not lift signal until it is handed over for plunder. Therefore many lame will make plunder.
+Your ropes were torn, because your mast was not strengthened; it bent, will not loosen the sails, will not lift a signal until it is handed over for plunder. Therefore many lame ones will make plunder.
 
 **Isaiah 33:24**
 
