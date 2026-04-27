@@ -29198,7 +29198,7 @@ Because there is no holy one like the Lord, and there is none righteous like our
 
 **1 Samuel 2:3**
 
-Do not boast and do not speak lofty things; let no big speaking go out from your mouth, because the Lord is a God of knowings and a God preparing his practices.
+Do not boast and do not speak lofty things; let no high-sounding speech go out from your mouth, because the Lord is a God of knowledge and a God preparing his purposes.
 
 **1 Samuel 2:4**
 
@@ -29206,7 +29206,7 @@ The bow of the mighty weakened, and the weak girded themselves with strength.
 
 **1 Samuel 2:5**
 
-Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
+Those full of bread were brought low, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
 
 **1 Samuel 2:6**
 
@@ -69006,7 +69006,7 @@ Give me, son, your heart, and let your eyes keep my ways.
 
 **Proverbs 23:27**
 
-For foreign house is pierced jar, and strange well is narrow pit.
+For a foreign house is a pierced jar, and a strange well is a narrow pit.
 
 **Proverbs 23:28**
 
@@ -76118,7 +76118,7 @@ They hatch eggs of asps and weave spider's web, and the one who is about to eat 
 
 **Isaiah 59:6**
 
-Their web will not become garment, nor will they clothe themselves from their works, for their works is works of lawlessness.
+Their web will not become a garment, nor will they clothe themselves from their works, for their works are works of lawlessness.
 
 **Isaiah 59:7**
 
@@ -76126,7 +76126,7 @@ Their feet run to evil, quick to pour out blood, and their thoughts are thoughts
 
 **Isaiah 59:8**
 
-They do not know way of peace, and no judgment in their ways, for their paths twisted, which they travel, and they do not know peace.
+They do not know a way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
 
 **Isaiah 59:9**
 
@@ -91982,7 +91982,7 @@ Because stone from wall will cry out, and beam from timber will speak these thin
 
 **Habakkuk 2:12**
 
-Woe to one building a city in bloods and preparing a city in injustices.
+Woe to one building a city in bloodshed and preparing a city in injustices.
 
 **Habakkuk 2:13**
 

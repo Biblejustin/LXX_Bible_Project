@@ -64619,7 +64619,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not boast and do not speak lofty things; let no big speaking go out from your mouth, because the Lord is a God of knowings and a God preparing his practices.
+- fresh: Do not boast and do not speak lofty things; let no high-sounding speech go out from your mouth, because the Lord is a God of knowledge and a God preparing his purposes.
 - brenton: Boast not, and utter not high things; let not high-sounding words come out of your mouth, for the Lord is a God of knowledge, and God prepares his own designs.
 
 ### 1 Samuel 2:4
@@ -64637,7 +64637,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
+- fresh: Those full of bread were brought low, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
 - brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
 
 ### 1 Samuel 2:6
@@ -152301,7 +152301,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For foreign house is pierced jar, and strange well is narrow pit.
+- fresh: For a foreign house is a pierced jar, and a strange well is a narrow pit.
 - brenton: For a strange house is a vessel full of holes; and a strange well is narrow.
 
 ### Proverbs 23:28
@@ -167904,7 +167904,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their web will not become garment, nor will they clothe themselves from their works, for their works is works of lawlessness.
+- fresh: Their web will not become a garment, nor will they clothe themselves from their works, for their works are works of lawlessness.
 - brenton: Their web shall not become a garment, nor shall they at all clothe themselves with their works; for their works are works of iniquity.
 
 ### Isaiah 59:7
@@ -167922,7 +167922,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They do not know way of peace, and no judgment in their ways, for their paths twisted, which they travel, and they do not know peace.
+- fresh: They do not know a way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
 - brenton: and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.
 
 ### Isaiah 59:9
@@ -202812,7 +202812,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one building a city in bloods and preparing a city in injustices.
+- fresh: Woe to one building a city in bloodshed and preparing a city in injustices.
 - brenton: Woe to him that builds a city with blood, and establishes a city by unrighteousness.
 
 ### Habakkuk 2:13

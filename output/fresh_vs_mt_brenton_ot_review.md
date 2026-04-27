@@ -63915,6 +63915,15 @@ Method:
 - mt: One dies in his full strength, being wholly at ease and quiet.
 - brenton: One shall die in his perfect strength, and wholly at ease and prosperous;
 
+### Habakkuk 2:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.416`
+- fresh_brenton_ratio: `0.628`
+- fresh: Woe to one building a city in bloodshed and preparing a city in injustices.
+- mt: Woe to him that builds a town with blood, and establishes a city by iniquity!
+- brenton: Woe to him that builds a city with blood, and establishes a city by unrighteousness.
+
 ### Ezekiel 32:29
 - priority: `0`
 - importance: `none`
@@ -65003,15 +65012,6 @@ Method:
 - fresh: Let not beauty conquer you in desire, nor be caught by your eyes, nor be seized by her eyelids.
 - mt: Lust not after her beauty in yours heart; neither let her take you with her eyelids.
 - brenton: Let not the desire of beauty overcome thee, neither be thou caught by thine eyes, neither be captivated with her eyelids.
-
-### Habakkuk 2:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.425`
-- fresh_brenton_ratio: `0.641`
-- fresh: Woe to one building a city in bloods and preparing a city in injustices.
-- mt: Woe to him that builds a town with blood, and establishes a city by iniquity!
-- brenton: Woe to him that builds a city with blood, and establishes a city by unrighteousness.
 
 ### Psalms 105:43
 - priority: `0`
@@ -84300,15 +84300,6 @@ Method:
 - mt: For I will send into her pestilence, and blood into her streets; and the wounded shall be judged in the midst of her by the sword upon her on every side; and they shall know that I am the LORD.
 - brenton: Blood and death shall be in thy streets; and men wounded with swords shall fall in thee and on every side of thee; and they shall know that I am the Lord.
 
-### 1 Samuel 2:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.552`
-- fresh_brenton_ratio: `0.682`
-- fresh: Do not boast and do not speak lofty things; let no big speaking go out from your mouth, because the Lord is a God of knowings and a God preparing his practices.
-- mt: Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed.
-- brenton: Boast not, and utter not high things; let not high-sounding words come out of your mouth, for the Lord is a God of knowledge, and God prepares his own designs.
-
 ### Isaiah 1:29
 - priority: `0`
 - importance: `none`
@@ -85424,6 +85415,15 @@ Method:
 - fresh: to turn man from injustice, and rescued his body from fall.
 - mt: That he may withdraw man from his purpose, and hide pride from man.
 - brenton: to turn a man from unrighteousness, and he delivers his body from a fall.
+
+### 1 Samuel 2:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.557`
+- fresh_brenton_ratio: `0.740`
+- fresh: Do not boast and do not speak lofty things; let no high-sounding speech go out from your mouth, because the Lord is a God of knowledge and a God preparing his purposes.
+- mt: Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed.
+- brenton: Boast not, and utter not high things; let not high-sounding words come out of your mouth, for the Lord is a God of knowledge, and God prepares his own designs.
 
 ### 1 Kings 19:2
 - priority: `0`
@@ -87441,6 +87441,15 @@ Method:
 - mt: Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:
 - brenton: Bana son of Achiluth had Ithaanach, and Mageddo, and his was the whole house of San which was by Sesathan below Esrae, and from Bethsan as far as Sabelmaula, as far as Maëber Lucam, one.
 
+### 1 Samuel 2:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.566`
+- fresh_brenton_ratio: `0.715`
+- fresh: Those full of bread were brought low, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
+- mt: They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren has born seven; and she that has many children is waxed feeble.
+- brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
+
 ### Exodus 9:28
 - priority: `0`
 - importance: `none`
@@ -87801,15 +87810,6 @@ Method:
 - mt: Bring forth the blind people that have eyes, and the deaf that have ears.
 - brenton: and I have brought forth the blind people; for their eyes are alike blind, and they that have ears are deaf.
 
-### 1 Samuel 2:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.568`
-- fresh_brenton_ratio: `0.658`
-- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
-- mt: They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren has born seven; and she that has many children is waxed feeble.
-- brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
-
 ### Leviticus 18:6
 - priority: `0`
 - importance: `none`
@@ -88106,15 +88106,6 @@ Method:
 - fresh: And he went away, and a lion found him on the road and killed him, and his body was thrown on the road, and the donkey stood beside it, and the lion stood beside the body.
 - mt: And when he was gone, a lion met him by the way, and slew him: and his carcass was cast in the way, and the ass stood by it, the lion also stood by the carcass.
 - brenton: And a lion found him in the way, and slew him; and his body was cast out in the way, and the ass was standing by it, and the lion also was standing by the body.
-
-### Isaiah 59:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.569`
-- fresh_brenton_ratio: `0.708`
-- fresh: They do not know way of peace, and no judgment in their ways, for their paths twisted, which they travel, and they do not know peace.
-- mt: The way of peace they know not; and there is no judgment in their activities: they have made them crooked paths: whosoever goes therein shall not know peace.
-- brenton: and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.
 
 ### 1 Samuel 13:20
 - priority: `0`
@@ -95486,6 +95477,15 @@ Method:
 - fresh: Awake, awake, Jerusalem, and put on strength of your arm. Awake as in beginning of days, as generation of age. Are you not
 - mt: Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Are you not it that has cut Rahab, and wounded the dragon?
 - brenton: Awake, awake, O Jerusalem, and put on the strength of thine arm; awake as in the early time, as the ancient generation.
+
+### Isaiah 59:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.601`
+- fresh_brenton_ratio: `0.692`
+- fresh: They do not know a way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
+- mt: The way of peace they know not; and there is no judgment in their activities: they have made them crooked paths: whosoever goes therein shall not know peace.
+- brenton: and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.
 
 ### Numbers 10:5
 - priority: `0`
@@ -115674,15 +115674,6 @@ Method:
 - mt: To whom have you uttered words? and whose spirit came from you?
 - brenton: To whom hast thou uttered words? and whose breath is it that has come forth from thee?
 
-### Proverbs 23:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.667`
-- fresh_brenton_ratio: `0.672`
-- fresh: For foreign house is pierced jar, and strange well is narrow pit.
-- mt: For a whore is a deep ditch; and a strange woman is a narrow pit.
-- brenton: For a strange house is a vessel full of holes; and a strange well is narrow.
-
 ### Genesis 10:17
 - priority: `0`
 - importance: `none`
@@ -121713,15 +121704,6 @@ Method:
 - mt: And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
 - brenton: And Joseph said to them, Bring your cattle, and I will give you bread for your cattle, if your money is spent.
 
-### Isaiah 59:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.683`
-- fresh_brenton_ratio: `0.806`
-- fresh: Their web will not become garment, nor will they clothe themselves from their works, for their works is works of lawlessness.
-- mt: Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
-- brenton: Their web shall not become a garment, nor shall they at all clothe themselves with their works; for their works are works of iniquity.
-
 ### Genesis 6:22
 - priority: `0`
 - importance: `none`
@@ -127220,6 +127202,15 @@ Method:
 - fresh: And the king said, Let a chest be made and placed at the gate of the house of the Lord outside.
 - mt: And at the king's commandment they made a chest, and set it without at the gate of the house of the LORD.
 - brenton: And the king said, Let a box be made, and let it be put at the gate of the house of the Lord without.
+
+### Isaiah 59:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.697`
+- fresh_brenton_ratio: `0.836`
+- fresh: Their web will not become a garment, nor will they clothe themselves from their works, for their works are works of lawlessness.
+- mt: Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
+- brenton: Their web shall not become a garment, nor shall they at all clothe themselves with their works; for their works are works of iniquity.
 
 ### Genesis 34:23
 - priority: `0`
@@ -146885,6 +146876,15 @@ Method:
 - fresh: He winks with eye, signals with foot, and teaches with nods of fingers.
 - mt: He winks with his eyes, he speaks with his feet, he teaches with his fingers;
 - brenton: And the same winks with the eye, and makes a sign with his foot, and teaches with the beckonings of his fingers.
+
+### Proverbs 23:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.746`
+- fresh_brenton_ratio: `0.717`
+- fresh: For a foreign house is a pierced jar, and a strange well is a narrow pit.
+- mt: For a whore is a deep ditch; and a strange woman is a narrow pit.
+- brenton: For a strange house is a vessel full of holes; and a strange well is narrow.
 
 ### Numbers 36:11
 - priority: `0`

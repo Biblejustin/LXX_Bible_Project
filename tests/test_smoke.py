@@ -2520,6 +2520,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "mouth of the lions' den" in by_ref["Daniel 6:20"]["draft_translation"]
     assert by_ref["Hosea 14:10"]["draft_translation"].startswith("Who is wise")
     assert "Because the ways of the Lord are straight" in by_ref["Hosea 14:10"]["draft_translation"]
+    assert "no high-sounding speech" in by_ref["1 Samuel 2:3"]["draft_translation"]
+    assert "God of knowledge" in by_ref["1 Samuel 2:3"]["draft_translation"]
+    assert "Those full of bread were brought low" in by_ref["1 Samuel 2:5"]["draft_translation"]
     assert "the men were cut to the heart" in by_ref["Genesis 34:7"]["draft_translation"]
     assert by_ref["Genesis 27:38"]["draft_translation"].startswith("But Esau said to his father")
     assert "when Isaac was cut to the heart" in by_ref["Genesis 27:38"]["draft_translation"]
@@ -2531,7 +2534,10 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "a day's portion on its day" in by_ref["2 Kings 25:30"]["draft_translation"]
     assert "each day's matter on its day" in by_ref["2 Chronicles 8:14"]["draft_translation"]
     assert "the one who is about to free me" in by_ref["Job 19:25"]["draft_translation"]
+    assert by_ref["Proverbs 23:27"]["draft_translation"].startswith("For a foreign house is a pierced jar")
+    assert "works are works of lawlessness" in by_ref["Isaiah 59:6"]["draft_translation"]
     assert "the one who is about to eat their eggs" in by_ref["Isaiah 59:5"]["draft_translation"]
+    assert "there is no judgment in their ways" in by_ref["Isaiah 59:8"]["draft_translation"]
     assert by_ref["Joel 2:17"]["draft_translation"].startswith("At the base of the altar")
     assert "Spare, O Lord, your people" in by_ref["Joel 2:17"]["draft_translation"]
     assert "say among the nations" in by_ref["Joel 2:17"]["draft_translation"]
@@ -2539,7 +2545,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "like sheaves of the threshing floor" in by_ref["Micah 4:12"]["draft_translation"]
     assert "clap their hands over you" in by_ref["Nahum 3:19"]["draft_translation"]
     assert "Habakkuk the prophet saw" in by_ref["Habakkuk 1:1"]["draft_translation"]
-    assert "one building a city in bloods and preparing a city" in by_ref["Habakkuk 2:12"]["draft_translation"]
+    assert "one building a city in bloodshed and preparing a city" in by_ref["Habakkuk 2:12"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
