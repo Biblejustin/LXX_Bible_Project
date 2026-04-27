@@ -2659,6 +2659,47 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "eating a poor one secretly" in by_ref["Habakkuk 3:14"]["draft_translation"]
+    assert "a righteous man would rise up against a lawless one" in by_ref["Job 17:8"][
+        "draft_translation"
+    ]
+    assert "from a righteous man, and with kings on a throne" in by_ref["Job 36:7"][
+        "draft_translation"
+    ]
+    assert "hear the righteous man" in by_ref["Job 36:10"]["draft_translation"]
+    assert "bless a righteous man" in by_ref["Psalms 5:13"]["draft_translation"]
+    assert "set a righteous man straight" in by_ref["Psalms 7:10"]["draft_translation"]
+    assert "but the righteous man, what did he do" in by_ref["Psalms 10:3"][
+        "draft_translation"
+    ]
+    assert "against the righteous man in pride" in by_ref["Psalms 30:19"][
+        "draft_translation"
+    ]
+    assert "hating the righteous man" in by_ref["Psalms 33:22"]["draft_translation"]
+    assert "Better a little thing to the righteous man" in by_ref["Psalms 36:16"][
+        "draft_translation"
+    ]
+    assert "did not see a righteous man forsaken" in by_ref["Psalms 36:25"][
+        "draft_translation"
+    ]
+    assert "The mouth of a righteous man" in by_ref["Psalms 36:30"]["draft_translation"]
+    assert "hide in earth a righteous man unjustly" in by_ref["Proverbs 1:11"][
+        "draft_translation"
+    ]
+    assert "make a righteous man know" in by_ref["Proverbs 9:9"]["draft_translation"]
+    assert "When a righteous man dies" in by_ref["Proverbs 11:7"]["draft_translation"]
+    assert "the heart of a righteous man" in by_ref["Proverbs 12:25"][
+        "draft_translation"
+    ]
+    assert "a righteous man does not heed lying lips" in by_ref["Proverbs 17:4"][
+        "draft_translation"
+    ]
+    assert "lying lips a righteous man" in by_ref["Proverbs 17:7"]["draft_translation"]
+    assert "To fine a righteous man is not good" in by_ref["Proverbs 17:26"][
+        "draft_translation"
+    ]
+    assert "there is not a righteous man on earth" in by_ref["Ecclesiastes 7:20"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -4181,7 +4222,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["1 Chronicles 13:14"]["draft_translation"].startswith("And the ark of God stayed")
     assert by_ref["1 Chronicles 21:4"]["draft_translation"].startswith("But the word of the king prevailed")
     assert by_ref["2 Chronicles 9:1"]["draft_translation"].startswith("And the queen of Sheba heard")
-    assert by_ref["Psalms 36:30"]["draft_translation"].startswith("The mouth of righteous man")
+    assert by_ref["Psalms 36:30"]["draft_translation"].startswith("The mouth of a righteous man")
     assert "The river of God was filled" in by_ref["Psalms 64:10"]["draft_translation"]
     assert by_ref["Psalms 67:16"]["draft_translation"].startswith("The mountain of God")
     assert by_ref["Psalms 113:17"]["draft_translation"].startswith("The house of Israel hoped")

@@ -23,7 +23,7 @@ Selected verses: 6
 ## Ecclesiastes 7:20
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteous, sin; crossref_top_vote=28; reco=keep
-- fresh: Because there is not righteous man on earth who will do good and not sin.
+- fresh: Because there is not a righteous man on earth who will do good and not sin.
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
 
 ## Ecclesiastes 11:5

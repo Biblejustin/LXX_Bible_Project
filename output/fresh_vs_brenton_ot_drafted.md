@@ -117707,10 +117707,10 @@ Note:
 ### Job 17:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: True men were amazed at this, and righteous man would rise up against lawless one.
+- fresh: True men were amazed at this, and a righteous man would rise up against a lawless one.
 - brenton: Wonder has seized true men upon this; and let the just rise up against the transgressor.
 
 ### Job 17:9
@@ -121973,10 +121973,10 @@ Note:
 ### Job 36:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will not take away his eyes from righteous man, and with kings on throne he will set them, and they will be exalted in strife.
+- fresh: He will not take away his eyes from a righteous man, and with kings on a throne he will set them, and they will be exalted in strife.
 - brenton: He will not turn away his eyes from the righteous, but they shall be with kings on the throne: and he will establish them in triumph, and they shall be exalted.
 
 ### Job 36:8
@@ -122000,10 +122000,10 @@ Note:
 ### Job 36:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But he will hear righteous man and said that they will turn from injustice.
+- fresh: But he will hear the righteous man and said that they will turn from injustice.
 - brenton: But he will hearken to the righteous: and he has said that they shall turn from unrighteousness.
 
 ### Job 36:11
@@ -124180,10 +124180,10 @@ Note:
 ### Psalms 5:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you will bless righteous man, Lord; as with a weapon of favor you crowned us.
+- fresh: Because you will bless a righteous man, Lord; as with a weapon of favor you crowned us.
 - brenton: For thou, Lord, shalt bless the righteous: thou hast compassed us as with a shield of favour.
 
 ### Psalms 6:1
@@ -124369,10 +124369,10 @@ Note:
 ### Psalms 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let evil of sinners come to end, and you will set righteous man straight, examining hearts and kidneys, O God.
+- fresh: Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
 - brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
 
 ### Psalms 7:11
@@ -124909,10 +124909,10 @@ Note:
 ### Psalms 10:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because what you fitted together they tore down; but righteous man, what did he do?
+- fresh: Because what you fitted together they tore down; but the righteous man, what did he do?
 - brenton: For they have pulled down what thou didst frame, but what has the righteous done?
 
 ### Psalms 10:4
@@ -127564,10 +127564,10 @@ Note:
 ### Psalms 30:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let deceitful lips become dumb, those speaking lawlessness against righteous man in pride and contempt.
+- fresh: Let deceitful lips become dumb, those speaking lawlessness against the righteous man in pride and contempt.
 - brenton: Let the deceitful lips become dumb, which speak iniquity against the righteous with pride and scorn.
 
 ### Psalms 30:20
@@ -128113,10 +128113,10 @@ Note:
 ### Psalms 33:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The death of sinners is evil, and those hating righteous man will go astray.
+- fresh: The death of sinners is evil, and those hating the righteous man will go astray.
 - brenton: The death of sinners is evil: and they that hate righteousness will go wrong.
 
 ### Psalms 33:23
@@ -128635,10 +128635,10 @@ Note:
 ### Psalms 36:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better little thing to righteous man than much wealth of sinners,
+- fresh: Better a little thing to the righteous man than much wealth of sinners,
 - brenton: A little is better to the righteous than abundant wealth of sinners.
 
 ### Psalms 36:17
@@ -128716,10 +128716,10 @@ Note:
 ### Psalms 36:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I became younger and indeed I grew old, and I did not see righteous man forsaken, nor his seed seeking breads.
+- fresh: I became younger and indeed I grew old, and I did not see a righteous man forsaken, nor his seed seeking breads.
 - brenton: I was once young, indeed I am now old; yet I have not seen the righteous forsaken, nor his seed seeking bread.
 
 ### Psalms 36:26
@@ -128761,10 +128761,10 @@ Note:
 ### Psalms 36:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The mouth of righteous man will meditate wisdom, and his tongue will speak judgment.
+- fresh: The mouth of a righteous man will meditate wisdom, and his tongue will speak judgment.
 - brenton: The mouth of the righteous will meditate wisdom, and his tongue will speak of judgment.
 
 ### Psalms 36:31
@@ -146574,10 +146574,10 @@ Note:
 ### Proverbs 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: "Come with us, share blood; let us hide in earth righteous man unjustly.
+- fresh: "Come with us, share blood; let us hide in earth a righteous man unjustly.
 - brenton: If they should exhort thee, saying, Come with us, partake in blood, and let us unjustly hide the just man in the earth:
 
 ### Proverbs 1:12
@@ -148680,10 +148680,10 @@ Note:
 ### Proverbs 9:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Give wise one opportunity, and he will become wiser; make righteous man know, and he will add to receiving.
+- fresh: Give wise one opportunity, and he will become wiser; make a righteous man know, and he will add to receiving.
 - brenton: Give an opportunity to a wise man, and he will be wiser: instruct a just man, and he will receive more instruction.
 
 ### Proverbs 9:10
@@ -149103,10 +149103,10 @@ Note:
 ### Proverbs 11:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When righteous man dies, hope does not perish, but boast of ungodly perishes.
+- fresh: When a righteous man dies, hope does not perish, but boast of ungodly perishes.
 - brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ### Proverbs 11:8
@@ -149544,10 +149544,10 @@ Note:
 ### Proverbs 12:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Fearful word troubles heart of righteous man, but good message gladdens him.
+- fresh: A fearful word troubles the heart of a righteous man, but a good message gladdens him.
 - brenton: A terrible word troubles the heart of a righteous man; but a good message rejoices him.
 
 ### Proverbs 12:26
@@ -150696,10 +150696,10 @@ Note:
 ### Proverbs 17:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Evil man listens to lawless tongue, but righteous man does not heed lying lips.
+- fresh: Evil man listens to lawless tongue, but a righteous man does not heed lying lips.
 - brenton: A bad man hearkens to the tongue of transgressors: but a righteous man attends not to false lips.
 
 ### Proverbs 17:5
@@ -150723,10 +150723,10 @@ Note:
 ### Proverbs 17:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Faithful lips do not suit fool, nor lying lips righteous man.
+- fresh: Faithful lips do not suit fool, nor lying lips a righteous man.
 - brenton: Faithful lips will not suit a fool; nor lying lips a just man.
 
 ### Proverbs 17:8
@@ -150894,10 +150894,10 @@ Note:
 ### Proverbs 17:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To fine righteous man not good, nor holy to plot against righteous rulers.
+- fresh: To fine a righteous man is not good, nor holy to plot against righteous rulers.
 - brenton: It is not right to punish a righteous man, nor is it holy to plot against righteous princes.
 
 ### Proverbs 17:27
@@ -155705,7 +155705,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because there is not righteous man on earth who will do good and not sin.
+- fresh: Because there is not a righteous man on earth who will do good and not sin.
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
 
 ### Ecclesiastes 7:21

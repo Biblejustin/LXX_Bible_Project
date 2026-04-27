@@ -779,7 +779,7 @@ Esther 8:8,οὐκ ἔστιν αὐτοῖς ἀντειπεῖν,ἀντιλέ
 Ecclesiastes 2:24,δείξει τῇ ψυχῇ αὐτοῦ ἀγαθὸν ἐν μόχθῳ αὐτοῦ,ψυχή | μόχθος,future-like clause,show his soul good in his toil,show his soul good amid his toil,Current wording keeps the soul-language line explicit. The draft stays close to the source-row Greek.,reviewed,codex
 Ecclesiastes 2:26,τῷ ἀγαθῷ πρὸ προσώπου τοῦ θεοῦ,ἀγαθός | πρόσωπον | θεός,prepositional phrase,one good before the face of God,one good before the face of God,Current wording keeps the before-God phrase explicit. The draft stays close to the source-row Greek.,reviewed,codex
 Ecclesiastes 6:2,οὐκ ἐξουσιάσει αὐτῷ ὁ θεὸς τοῦ φαγεῖν ἀπʼ αὐτοῦ,ἐξουσιάζω | θεός,infinitive clause,God does not empower him to eat from it,God does not give him power to eat from it,Current wording keeps the empowered-to-enjoy line explicit. The draft stays close to the source-row Greek.,reviewed,codex
-Ecclesiastes 7:20,ἄνθρωπος οὐκ ἔστιν δίκαιος ἐν τῇ γῇ,ἄνθρωπος | δίκαιος,predicate clause,there is not righteous man on earth who will do good and not sin,there is no righteous man on earth who does good and does not sin,Current wording keeps the universal line explicit. The draft stays close to the source-row Greek.,reviewed,codex
+Ecclesiastes 7:20,ἄνθρωπος οὐκ ἔστιν δίκαιος ἐν τῇ γῇ,ἄνθρωπος | δίκαιος,predicate clause,there is not a righteous man on earth who will do good and not sin,there is not righteous man on earth who will do good and not sin,English supplies a for readable singular predicate idiom while keeping the universal claim explicit.,reviewed,codex
 Ecclesiastes 11:5,ἡ ὁδὸς τοῦ πνεύματος,ὁδός | πνεῦμα,noun phrase,what the way of spirit is,what is way of the spirit,Current wording keeps the difficult spirit-line explicit. The draft stays close to the source-row Greek.,reviewed,codex
 Ecclesiastes 11:9,ἐπὶ πᾶσι τούτοις ἄξει σε ὁ θεὸς ἐν κρίσει,ἄγω | θεός | κρίσις,future clause,God will bring you in judgment,God will bring you into judgment,Current wording keeps the judgment warning explicit. The draft stays close to the source-row Greek.,reviewed,codex
 Daniel 4:34,δουλευσον τω θεω του ουρανου τω αγιω,δουλευω | θεος | ουρανος,imperative clause,serve the God of heaven the Holy One,serve the God of heaven the Holy One,Current wording keeps the heavenly-holy confession explicit. The draft stays close to the source-row Greek.,reviewed,codex
@@ -5376,3 +5376,21 @@ Ecclesiastes 9:16,σοφία τοῦ πένητος,σοφία | πένης,arti
 Jeremiah 20:13,ψυχὴν πένητος,ψυχή | πένης,genitive singular class noun,soul of a poor man,soul of poor man,English supplies a for readable singular idiom.,reviewed,codex
 Amos 2:6,δίκαιον καὶ πένητα,δίκαιος | πένης,singular object phrase,a righteous one ... a poor one,righteous one ... poor one,English supplies articles for readable singular idiom.,reviewed,codex
 Habakkuk 3:14,πτωχὸς,πτωχός,singular object phrase,a poor one,poor one,English supplies a for readable singular idiom.,reviewed,codex
+Job 17:8,δίκαιος δὲ ἐπὶ παρανόμῳ,δίκαιος | παράνομος,singular contrast phrase,a righteous man ... a lawless one,righteous man ... lawless one,English supplies articles for readable singular class-noun idiom.,reviewed,codex
+Job 36:7,ἀπὸ δικαίου ... εἰς θρόνον,δίκαιος | θρόνος,prepositional phrases,a righteous man ... a throne,righteous man ... throne,English supplies articles for readable singular idiom.,reviewed,codex
+Job 36:10,τοῦ δικαίου,δίκαιος,articular genitive phrase,the righteous man,righteous man,English supplies the for the articular righteous-man phrase.,reviewed,codex
+Psalms 5:13,εὐλογήσεις δίκαιον,δίκαιος,accusative singular class noun,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Psalms 7:10,κατευθυνεῖς δίκαιον,δίκαιος,accusative singular class noun,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Psalms 10:3,ὁ δὲ δίκαιος,δίκαιος,articular contrastive subject,the righteous man,righteous man,English supplies the for the articular contrastive subject.,reviewed,codex
+Psalms 30:19,κατὰ τοῦ δικαίου,δίκαιος,articular object of preposition,the righteous man,righteous man,English supplies the for the articular object.,reviewed,codex
+Psalms 33:22,τὸν δίκαιον,δίκαιος,articular object,the righteous man,righteous man,English supplies the for the articular object.,reviewed,codex
+Psalms 36:16,ὀλίγον τῷ δικαίῳ,ὀλίγος | δίκαιος,articular dative phrase,a little thing to the righteous man,little thing to righteous man,English supplies articles for readable comparative idiom.,reviewed,codex
+Psalms 36:25,δίκαιον ἐγκαταλελειμμένον,δίκαιος | ἐγκαταλείπω,accusative singular class noun,a righteous man forsaken,righteous man forsaken,English supplies a for readable singular idiom.,reviewed,codex
+Psalms 36:30,στόμα δικαίου,στόμα | δίκαιος,genitive singular phrase,the mouth of a righteous man,the mouth of righteous man,English supplies a in the genitive phrase for readable singular idiom.,reviewed,codex
+Proverbs 1:11,ἄνδρα δίκαιον,ἀνήρ | δίκαιος,accusative singular object,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Proverbs 9:9,γνώριζε δικαίῳ,δίκαιος,dative singular class noun,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Proverbs 11:7,ἀνδρὸς δικαίου,ἀνήρ | δίκαιος,genitive singular phrase,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Proverbs 12:25,καρδίαν ... ἀνδρὸς δικαίου,καρδία | ἀνήρ | δίκαιος,genitive singular phrase,the heart of a righteous man,heart of righteous man,English supplies articles for readable genitive idiom.,reviewed,codex
+Proverbs 17:4,δίκαιος δὲ,δίκαιος,contrastive singular subject,a righteous man,righteous man,English supplies a for readable singular class-noun idiom.,reviewed,codex
+Proverbs 17:7,δικαίῳ,δίκαιος,dative singular class noun,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex
+Proverbs 17:26,ἄνδρα δίκαιον,ἀνήρ | δίκαιος,accusative singular object,a righteous man,righteous man,English supplies a for readable singular idiom.,reviewed,codex

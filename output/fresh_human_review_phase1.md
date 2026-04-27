@@ -2837,7 +2837,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Because there is not righteous man on earth who will do good and not sin.
+- fresh: Because there is not a righteous man on earth who will do good and not sin.
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
 
 ## Haggai 1:1

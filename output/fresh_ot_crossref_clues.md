@@ -2031,7 +2031,7 @@ Rows: 233
 - OT crossrefs: 5
 - NT crossrefs: 3
 - shared-family hits: 0
-- fresh: Because there is not righteous man on earth who will do good and not sin.
+- fresh: Because there is not a righteous man on earth who will do good and not sin.
 - OT clues: Isa.53.6 (26) -> All we as sheep wandered. Man wandered in his own way, and the Lord gave him over for our sins. || 1Kgs.8.46 (17) -> Because they will sin against you, for there is no human who will not sin, and you will bring against them and deliver them before enemies, and those who capture them will carry them captive to a far land or near, || Prov.20.9 (17) -> Who will boast, "I have pure heart"? Or who will speak boldly, "I am clean from sins"? Lamp of one speaking evil of father or mother will be quenched, and pupils of his eyes will see darkness. Possession hurried at first will not be blessed at last. Do not say, "I will repay enemy," but wait for the Lord so he may help you. || Job.15.14-Job.15.16 (15) -> For what is mortal, that he will be blameless? Or how will one born of woman be righteous?
 - NT clues: Rom.3.23 (28) -> For all have sinned, and come short of the glory of God; || 1John.1.8-1John.1.10 (19) -> If we say that we have no sin, we deceive ourselves, and the truth is not in us. || Jas.3.2 (18) -> For in many things we offend all. If any man offend not in word, (o. logos) the same is a perfect man, and able also to bridle the whole body.
 

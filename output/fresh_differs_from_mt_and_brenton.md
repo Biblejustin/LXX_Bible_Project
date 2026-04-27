@@ -1751,9 +1751,9 @@ Rows: 20939
 ## Ecclesiastes 7:20
 - priority: `16`
 - importance: `high`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.877`
-- fresh: Because there is not righteous man on earth who will do good and not sin.
+- fresh_mt_ratio: `0.700`
+- fresh_brenton_ratio: `0.892`
+- fresh: Because there is not a righteous man on earth who will do good and not sin.
 - mt: For there is not a just man upon earth, that does good, and sins not.
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
 
@@ -24869,15 +24869,6 @@ Rows: 20939
 - mt: And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.
 - brenton: And the men rose up and went; and Joshua charged the men who went to explore the land, saying, Go and explore the land, and come to me, and I will bring you forth a lot here before the Lord in Selo.
 
-## Psalms 33:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.224`
-- fresh_brenton_ratio: `0.819`
-- fresh: The death of sinners is evil, and those hating righteous man will go astray.
-- mt: Let your mercy, O LORD, be upon us, according as we hope in you.
-- brenton: The death of sinners is evil: and they that hate righteousness will go wrong.
-
 ## Leviticus 16:11
 - priority: `0`
 - importance: `none`
@@ -28262,6 +28253,15 @@ Rows: 20939
 - mt: O God, you know my foolishness; and my sins are not hid from you.
 - brenton: Let all that seek thee exult and be glad in thee: and let those that love thy salvation say continually, Let God be magnified.
 
+## Psalms 33:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.246`
+- fresh_brenton_ratio: `0.810`
+- fresh: The death of sinners is evil, and those hating the righteous man will go astray.
+- mt: Let your mercy, O LORD, be upon us, according as we hope in you.
+- brenton: The death of sinners is evil: and they that hate righteousness will go wrong.
+
 ## Psalms 25:11
 - priority: `0`
 - importance: `none`
@@ -29333,6 +29333,15 @@ Rows: 20939
 - mt: I am troubled; I am bowed down greatly; I go mourning all the day long.
 - brenton: Behold, thou hast made my days old; and my existence is as nothing before thee: nay, every man living is altogether vanity. Pause.
 
+## Proverbs 17:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.253`
+- fresh_brenton_ratio: `0.621`
+- fresh: Evil man listens to lawless tongue, but a righteous man does not heed lying lips.
+- mt: A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue.
+- brenton: A bad man hearkens to the tongue of transgressors: but a righteous man attends not to false lips.
+
 ## Ezekiel 40:14
 - priority: `0`
 - importance: `none`
@@ -29809,15 +29818,6 @@ Rows: 20939
 - fresh: Into all the earth their sound went out, and to the ends of inhabited world their words. In sun he set his tent.
 - mt: The sorrows of hell compassed me about: the snares of death prevented me.
 - brenton: Their voice is gone out into all the earth, and their words to the ends of the world.
-
-## Proverbs 17:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.256`
-- fresh_brenton_ratio: `0.605`
-- fresh: Evil man listens to lawless tongue, but righteous man does not heed lying lips.
-- mt: A wicked doer gives heed to false lips; and a liar gives ear to a naughty tongue.
-- brenton: A bad man hearkens to the tongue of transgressors: but a righteous man attends not to false lips.
 
 ## Ezekiel 21:30
 - priority: `0`
@@ -45650,15 +45650,6 @@ Rows: 20939
 - mt: At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, says the LORD.
 - brenton: And their enemies shall be ashamed at that time, when I shall deal well with you, and at the time when I shall receive you: for I will make you honoured and a praise among all the nations of the earth, when I turn back your captivity before you, saith the Lord.
 
-## Psalms 10:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.343`
-- fresh_brenton_ratio: `0.390`
-- fresh: Because what you fitted together they tore down; but righteous man, what did he do?
-- mt: For the wicked boasts of his heart's desire, and blesses the covetous, whom the LORD detests.
-- brenton: For they have pulled down what thou didst frame, but what has the righteous done?
-
 ## Leviticus 23:40
 - priority: `0`
 - importance: `none`
@@ -46658,6 +46649,15 @@ Rows: 20939
 - mt: And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.
 - brenton: And thou shalt besiege it, and build works against it, and throw up a mound round about it, and pitch camps against it, and set up engines round about.
 
+## Psalms 7:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.348`
+- fresh_brenton_ratio: `0.622`
+- fresh: Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
+- mt: My defence is of God, which saves the upright in heart.
+- brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
+
 ## Nehemiah 11:12
 - priority: `0`
 - importance: `none`
@@ -47359,15 +47359,6 @@ Rows: 20939
 - fresh: man from the sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
 - mt: The LORD has said concerning you, O all of you remnant of Judah; Go all of you not into Egypt: know certainly that I have admonished you this day.
 - brenton: there shall never be wanting a man of the sons of Jonadab the son of Rechab to stand before my face while the earth remains.
-
-## Psalms 7:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.352`
-- fresh_brenton_ratio: `0.627`
-- fresh: Let evil of sinners come to end, and you will set righteous man straight, examining hearts and kidneys, O God.
-- mt: My defence is of God, which saves the upright in heart.
-- brenton: Oh let the wickedness of sinners come to an end; and then thou shalt direct the righteous, O God that searchest the hearts and reins.
 
 ## Psalms 138:5
 - priority: `0`
@@ -50563,6 +50554,15 @@ Rows: 20939
 - fresh: One despising matter will be despised by it, but one fearing command will be made sound. Deceitful son will have nothing good, but to wise servant actions will prosper and his way will be made straight.
 - mt: Whoso despises the word shall be destroyed: but he that fears the commandment shall be rewarded.
 - brenton: He that slights a matter shall be slighted of it: but he that fears the commandment has health of soul.
+
+## Psalms 10:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.370`
+- fresh_brenton_ratio: `0.429`
+- fresh: Because what you fitted together they tore down; but the righteous man, what did he do?
+- mt: For the wicked boasts of his heart's desire, and blesses the covetous, whom the LORD detests.
+- brenton: For they have pulled down what thou didst frame, but what has the righteous done?
 
 ## 1 Chronicles 6:58
 - priority: `0`
@@ -60707,6 +60707,15 @@ Rows: 20939
 - mt: Take counsel, execute judgment; make your shadow as the night in the midst of the noonday; hide the outcasts; betray not him that wanders.
 - brenton: take farther counsel, and continually make thou a shelter from grief: they flee in darkness at mid-day; they are amazed; be not thou led captive.
 
+## Job 17:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.446`
+- fresh_brenton_ratio: `0.541`
+- fresh: True men were amazed at this, and a righteous man would rise up against a lawless one.
+- mt: Upright men shall be astonished at this, and the innocent shall stir up himself against the hypocrite.
+- brenton: Wonder has seized true men upon this; and let the just rise up against the transgressor.
+
 ## Leviticus 8:7
 - priority: `0`
 - importance: `none`
@@ -62101,15 +62110,6 @@ Rows: 20939
 - fresh: Discipline guards the ways of righteous life, but discipline without correction leads astray.
 - mt: He is in the way of life that keeps instruction: but he that refuses reproof errs.
 - brenton: Instruction keeps the right ways of life; but instruction unchastened goes astray.
-
-## Job 17:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.456`
-- fresh_brenton_ratio: `0.542`
-- fresh: True men were amazed at this, and righteous man would rise up against lawless one.
-- mt: Upright men shall be astonished at this, and the innocent shall stir up himself against the hypocrite.
-- brenton: Wonder has seized true men upon this; and let the just rise up against the transgressor.
 
 ## Ecclesiastes 8:7
 - priority: `0`
@@ -66170,15 +66170,6 @@ Rows: 20939
 - mt: By much slothfulness the building decays; and through idleness of the hands the house drops through.
 - brenton: By slothful neglect a building will be brought low: and by idleness of the hands the house will fall to pieces.
 
-## Proverbs 17:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.486`
-- fresh_brenton_ratio: `0.704`
-- fresh: To fine righteous man not good, nor holy to plot against righteous rulers.
-- mt: Also to punish the just is not good, nor to strike princes for equity.
-- brenton: It is not right to punish a righteous man, nor is it holy to plot against righteous princes.
-
 ## 1 Kings 6:23
 - priority: `0`
 - importance: `none`
@@ -66448,15 +66439,6 @@ Rows: 20939
 - fresh: And those from the west will fear the name of the Lord, and those from the sunrise his glorious name. For wrath from the Lord will come like violent river, coming with fury.
 - mt: So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.
 - brenton: So shall they of the west fear the name of the Lord, and they that come from the rising of the sun his glorious name: for the wrath of the Lord shall come as a mighty river, it shall come with fury.
-
-## Proverbs 17:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.488`
-- fresh_brenton_ratio: `0.840`
-- fresh: Faithful lips do not suit fool, nor lying lips righteous man.
-- mt: Excellent speech becomes not a fool: much less do lying lips a prince.
-- brenton: Faithful lips will not suit a fool; nor lying lips a just man.
 
 ## Proverbs 27:25
 - priority: `0`
@@ -67673,6 +67655,15 @@ Rows: 20939
 - mt: So shall your poverty come as one that travels; and your lack as an armed man.
 - brenton: But if thou do this, thy poverty will come speedily; and thy want like a swift courier.
 
+## Proverbs 17:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.497`
+- fresh_brenton_ratio: `0.719`
+- fresh: To fine a righteous man is not good, nor holy to plot against righteous rulers.
+- mt: Also to punish the just is not good, nor to strike princes for equity.
+- brenton: It is not right to punish a righteous man, nor is it holy to plot against righteous princes.
+
 ## Isaiah 8:8
 - priority: `0`
 - importance: `none`
@@ -68230,15 +68221,6 @@ Rows: 20939
 - fresh: And the man, being well pleased, bowed to the Lord and said,
 - mt: And the man bowed down his head, and worshipped the LORD.
 - brenton: And the man being well pleased, worshipped the Lord,
-
-## Proverbs 12:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.500`
-- fresh_brenton_ratio: `0.805`
-- fresh: Fearful word troubles heart of righteous man, but good message gladdens him.
-- mt: Heaviness in the heart of man makes it stoop: but a good word makes it glad.
-- brenton: A terrible word troubles the heart of a righteous man; but a good message rejoices him.
 
 ## Job 27:18
 - priority: `0`
@@ -69545,6 +69527,15 @@ Rows: 20939
 - mt: And of Benjamin he said, The beloved of the LORD shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders.
 - brenton: And to Benjamin he said, The beloved of the Lord shall dwell in confidence, and God overshadows him always, and he rested between his shoulders.
 
+## Proverbs 1:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.509`
+- fresh_brenton_ratio: `0.413`
+- fresh: "Come with us, share blood; let us hide in earth a righteous man unjustly.
+- mt: If they say, Come with us, let us lay wait for blood, let us lurk privately for the innocent without cause:
+- brenton: If they should exhort thee, saying, Come with us, partake in blood, and let us unjustly hide the just man in the earth:
+
 ## Proverbs 7:6
 - priority: `0`
 - importance: `none`
@@ -70220,6 +70211,15 @@ Rows: 20939
 - mt: The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,
 - brenton: And the sons of Merari their brethren on the left hand: Ætham the son of Kisa, the son of Abai, the son of Maloch,
 
+## Proverbs 17:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.512`
+- fresh_brenton_ratio: `0.860`
+- fresh: Faithful lips do not suit fool, nor lying lips a righteous man.
+- mt: Excellent speech becomes not a fool: much less do lying lips a prince.
+- brenton: Faithful lips will not suit a fool; nor lying lips a just man.
+
 ## Exodus 3:13
 - priority: `0`
 - importance: `none`
@@ -70471,15 +70471,6 @@ Rows: 20939
 - fresh: Behold, son is born to you. He shall be man of rest, and I will give him rest from all enemies around, because Solomon shall be his name, and peace and quietness I will give upon Israel in his days.
 - mt: Behold, a son shall be born to you, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.
 - brenton: Behold, a son shall be born to thee, he shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness to Israel in his days.
-
-## Proverbs 1:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.515`
-- fresh_brenton_ratio: `0.418`
-- fresh: "Come with us, share blood; let us hide in earth righteous man unjustly.
-- mt: If they say, Come with us, let us lay wait for blood, let us lurk privately for the innocent without cause:
-- brenton: If they should exhort thee, saying, Come with us, partake in blood, and let us unjustly hide the just man in the earth:
 
 ## Isaiah 57:11
 - priority: `0`
@@ -72866,6 +72857,15 @@ Rows: 20939
 - mt: And he that sits on any thing whereon he sat that has the issue shall wash his clothes, and bathe himself in water, and be unclean until the even.
 - brenton: And whosoever sits on the seat on which he that has the issue may have sat, shall wash his garments, and bathe himself in water, and shall be unclean until evening.
 
+## Job 36:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.528`
+- fresh_brenton_ratio: `0.779`
+- fresh: But he will hear the righteous man and said that they will turn from injustice.
+- mt: He opens also their ear to discipline, and commands that they return from iniquity.
+- brenton: But he will hearken to the righteous: and he has said that they shall turn from unrighteousness.
+
 ## Joshua 19:29
 - priority: `0`
 - importance: `none`
@@ -73432,6 +73432,15 @@ Rows: 20939
 - fresh: And I lifted my eyes and saw, and behold, four horns.
 - mt: I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
 - brenton: And I lifted up mine eyes and looked, and behold four horns.
+
+## Proverbs 12:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.532`
+- fresh_brenton_ratio: `0.876`
+- fresh: A fearful word troubles the heart of a righteous man, but a good message gladdens him.
+- mt: Heaviness in the heart of man makes it stoop: but a good word makes it glad.
+- brenton: A terrible word troubles the heart of a righteous man; but a good message rejoices him.
 
 ## Ezekiel 1:24
 - priority: `0`
@@ -75376,15 +75385,6 @@ Rows: 20939
 - fresh: For they will not sleep unless they do evil; sleep is taken from them, and they do not lie down.
 - mt: For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.
 - brenton: For they cannot sleep, unless they have done evil: their sleep is taken away, and they rest not.
-
-## Job 36:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.542`
-- fresh_brenton_ratio: `0.750`
-- fresh: But he will hear righteous man and said that they will turn from injustice.
-- mt: He opens also their ear to discipline, and commands that they return from iniquity.
-- brenton: But he will hearken to the righteous: and he has said that they shall turn from unrighteousness.
 
 ## Isaiah 45:24
 - priority: `0`
@@ -87329,15 +87329,6 @@ Rows: 20939
 - mt: You have built your high place at every head of the way, and have made your beauty to be abhorred, and have opened your feet to every one that passed by, and multiplied your whoredoms.
 - brenton: and on the head of every way thou didst set up thy fornications, and didst defile thy beauty, and didst open thy feet to every passer by, and didst multiply thy fornication.
 
-## Proverbs 9:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.596`
-- fresh_brenton_ratio: `0.645`
-- fresh: Give wise one opportunity, and he will become wiser; make righteous man know, and he will add to receiving.
-- mt: Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.
-- brenton: Give an opportunity to a wise man, and he will be wiser: instruct a just man, and he will receive more instruction.
-
 ## Judges 1:30
 - priority: `0`
 - importance: `none`
@@ -87436,15 +87427,6 @@ Rows: 20939
 - fresh: Out of the lot you shall divide their inheritance between many and few.
 - mt: According to the lot shall the possession thereof be divided between many and few.
 - brenton: Thou shalt divide their inheritance by lot between the many and the few.
-
-## Proverbs 11:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.596`
-- fresh_brenton_ratio: `0.798`
-- fresh: When righteous man dies, hope does not perish, but boast of ungodly perishes.
-- mt: When a wicked man dies, his expectation shall perish: and the hope of unjust men perishes.
-- brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ## 1 Kings 17:15
 - priority: `0`
@@ -91100,6 +91082,15 @@ Rows: 20939
 - mt: The eleventh to Eliashib, the twelfth to Jakim,
 - brenton: the eleventh to Eliabi, the twelfth to Jacim,
 
+## Proverbs 9:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.610`
+- fresh_brenton_ratio: `0.648`
+- fresh: Give wise one opportunity, and he will become wiser; make a righteous man know, and he will add to receiving.
+- mt: Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.
+- brenton: Give an opportunity to a wise man, and he will be wiser: instruct a just man, and he will receive more instruction.
+
 ## Leviticus 25:35
 - priority: `0`
 - importance: `none`
@@ -92044,6 +92035,15 @@ Rows: 20939
 - fresh: And he spared his soul from death and him from falling in war.
 - mt: He keeps back his soul from the pit, and his life from perishing by the sword.
 - brenton: He spares also his soul from death, and suffers him not to fall in war.
+
+## Proverbs 11:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.613`
+- fresh_brenton_ratio: `0.788`
+- fresh: When a righteous man dies, hope does not perish, but boast of ungodly perishes.
+- mt: When a wicked man dies, his expectation shall perish: and the hope of unjust men perishes.
+- brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ## Genesis 46:33
 - priority: `0`
@@ -100964,15 +100964,6 @@ Rows: 20939
 - mt: Behold, with a great plague will the LORD strike your people, and your children, and your wives, and all your goods:
 - brenton: behold, the Lord shall smite thee with a great plague among thy people, and thy sons, and thy wives, and all thy store:
 
-## Job 36:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.642`
-- fresh_brenton_ratio: `0.745`
-- fresh: He will not take away his eyes from righteous man, and with kings on throne he will set them, and they will be exalted in strife.
-- mt: He withdraws not his eyes from the righteous: but with kings are they on the throne; yea, he does establish them for ever, and they are exalted.
-- brenton: He will not turn away his eyes from the righteous, but they shall be with kings on the throne: and he will establish them in triumph, and they shall be exalted.
-
 ## Exodus 21:8
 - priority: `0`
 - importance: `none`
@@ -102655,6 +102646,15 @@ Rows: 20939
 - fresh: In the house of Israel I saw a horrible thing; there is whoredom of Ephraim; Israel and Judah were defiled.
 - mt: I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.
 - brenton: I have seen horrible things there, even the fornication of Ephraim: Israel and Juda are defiled;
+
+## Job 36:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.647`
+- fresh_brenton_ratio: `0.748`
+- fresh: He will not take away his eyes from a righteous man, and with kings on a throne he will set them, and they will be exalted in strife.
+- mt: He withdraws not his eyes from the righteous: but with kings are they on the throne; yea, he does establish them for ever, and they are exalted.
+- brenton: He will not turn away his eyes from the righteous, but they shall be with kings on the throne: and he will establish them in triumph, and they shall be exalted.
 
 ## Leviticus 13:57
 - priority: `0`

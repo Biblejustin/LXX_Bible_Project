@@ -53234,7 +53234,7 @@ For my eyes are dimmed from wrath; I have been greatly besieged by all.
 
 **Job 17:8**
 
-True men were amazed at this, and righteous man would rise up against lawless one.
+True men were amazed at this, and a righteous man would rise up against a lawless one.
 
 **Job 17:9**
 
@@ -55168,7 +55168,7 @@ He will by no means keep an ungodly man alive, but will give judgment to poor me
 
 **Job 36:7**
 
-He will not take away his eyes from righteous man, and with kings on throne he will set them, and they will be exalted in strife.
+He will not take away his eyes from a righteous man, and with kings on a throne he will set them, and they will be exalted in strife.
 
 **Job 36:8**
 
@@ -55180,7 +55180,7 @@ then he will declare to them their works and their transgressions, because they 
 
 **Job 36:10**
 
-But he will hear righteous man and said that they will turn from injustice.
+But he will hear the righteous man and said that they will turn from injustice.
 
 **Job 36:11**
 
@@ -56172,7 +56172,7 @@ And let all hoping in you be glad; into age they will rejoice, and you will dwel
 
 **Psalms 5:13**
 
-Because you will bless righteous man, Lord; as with a weapon of favor you crowned us.
+Because you will bless a righteous man, Lord; as with a weapon of favor you crowned us.
 
 ### Chapter 6
 
@@ -56260,7 +56260,7 @@ The Lord judges peoples. Judge me, Lord, according to my righteousness and accor
 
 **Psalms 7:10**
 
-Let evil of sinners come to end, and you will set righteous man straight, examining hearts and kidneys, O God.
+Let evil of sinners come to end, and you will set a righteous man straight, examining hearts and kidneys, O God.
 
 **Psalms 7:11**
 
@@ -56506,7 +56506,7 @@ Because behold, sinners stretched bow, prepared arrows in quiver, to shoot in da
 
 **Psalms 10:3**
 
-Because what you fitted together they tore down; but righteous man, what did he do?
+Because what you fitted together they tore down; but the righteous man, what did he do?
 
 **Psalms 10:4**
 
@@ -57726,7 +57726,7 @@ Lord, may I not be ashamed, because I called upon you. Let ungodly men be ashame
 
 **Psalms 30:19**
 
-Let deceitful lips become dumb, those speaking lawlessness against righteous man in pride and contempt.
+Let deceitful lips become dumb, those speaking lawlessness against the righteous man in pride and contempt.
 
 **Psalms 30:20**
 
@@ -57976,7 +57976,7 @@ The Lord guards all their bones; not one of them will be broken.
 
 **Psalms 33:22**
 
-The death of sinners is evil, and those hating righteous man will go astray.
+The death of sinners is evil, and those hating the righteous man will go astray.
 
 **Psalms 33:23**
 
@@ -58214,7 +58214,7 @@ Their sword may enter into their heart, and their bows may be broken.
 
 **Psalms 36:16**
 
-Better little thing to righteous man than much wealth of sinners,
+Better a little thing to the righteous man than much wealth of sinners,
 
 **Psalms 36:17**
 
@@ -58250,7 +58250,7 @@ When he falls, he will not be dashed down, because the Lord supports his hand.
 
 **Psalms 36:25**
 
-I became younger and indeed I grew old, and I did not see righteous man forsaken, nor his seed seeking breads.
+I became younger and indeed I grew old, and I did not see a righteous man forsaken, nor his seed seeking breads.
 
 **Psalms 36:26**
 
@@ -58270,7 +58270,7 @@ But righteous ones will inherit earth and dwell upon it into age of age.
 
 **Psalms 36:30**
 
-The mouth of righteous man will meditate wisdom, and his tongue will speak judgment.
+The mouth of a righteous man will meditate wisdom, and his tongue will speak judgment.
 
 **Psalms 36:31**
 
@@ -66418,7 +66418,7 @@ Son, let ungodly men not lead you astray, nor be willing if they urge you, sayin
 
 **Proverbs 1:11**
 
-"Come with us, share blood; let us hide in earth righteous man unjustly.
+"Come with us, share blood; let us hide in earth a righteous man unjustly.
 
 **Proverbs 1:12**
 
@@ -67370,7 +67370,7 @@ Do not rebuke evil men, lest they hate you; rebuke wise, and he will love you.
 
 **Proverbs 9:9**
 
-Give wise one opportunity, and he will become wiser; make righteous man know, and he will add to receiving.
+Give wise one opportunity, and he will become wiser; make a righteous man know, and he will add to receiving.
 
 **Proverbs 9:10**
 
@@ -67562,7 +67562,7 @@ The righteousness of the upright rescues them, but lawless are caught by their o
 
 **Proverbs 11:7**
 
-When righteous man dies, hope does not perish, but boast of ungodly perishes.
+When a righteous man dies, hope does not perish, but boast of ungodly perishes.
 
 **Proverbs 11:8**
 
@@ -67760,7 +67760,7 @@ The hand of choice ones will rule easily, but deceitful will be for plunder.
 
 **Proverbs 12:25**
 
-Fearful word troubles heart of righteous man, but good message gladdens him.
+A fearful word troubles the heart of a righteous man, but a good message gladdens him.
 
 **Proverbs 12:26**
 
@@ -68282,7 +68282,7 @@ As silver and gold tested in furnace, so hearts chosen by the Lord.
 
 **Proverbs 17:4**
 
-Evil man listens to lawless tongue, but righteous man does not heed lying lips.
+Evil man listens to lawless tongue, but a righteous man does not heed lying lips.
 
 **Proverbs 17:5**
 
@@ -68294,7 +68294,7 @@ Crown of old men is children's children, and glory of children is their fathers.
 
 **Proverbs 17:7**
 
-Faithful lips do not suit fool, nor lying lips righteous man.
+Faithful lips do not suit fool, nor lying lips a righteous man.
 
 **Proverbs 17:8**
 
@@ -68370,7 +68370,7 @@ Foolish son is anger to father and pain to one bearing him.
 
 **Proverbs 17:26**
 
-To fine righteous man not good, nor holy to plot against righteous rulers.
+To fine a righteous man is not good, nor holy to plot against righteous rulers.
 
 **Proverbs 17:27**
 
@@ -70550,7 +70550,7 @@ Wisdom will help the wise above ten rulers who are in the city.
 
 **Ecclesiastes 7:20**
 
-Because there is not righteous man on earth who will do good and not sin.
+Because there is not a righteous man on earth who will do good and not sin.
 
 **Ecclesiastes 7:21**
 
