@@ -154071,136 +154071,136 @@ Note:
 ### Proverbs 30:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Eye mocking father and dishonoring old age of mother, ravens from ravines may pluck it out and eaglets may devour it.
+- fresh: An eye mocking a father and dishonoring the old age of a mother, ravens from ravines may pluck it out and eaglets may devour it.
 - brenton: [missing]
 
 ### Proverbs 30:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Three things are impossible for me to understand, and fourth I do not know:
+- fresh: Three things are impossible for me to understand, and a fourth I do not know:
 - brenton: [missing]
 
 ### Proverbs 30:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: tracks of eagle flying, and ways of serpent on rock, and paths of ship voyaging sea, and the ways of man in youth.
+- fresh: the tracks of an eagle flying, and the ways of a serpent on a rock, and the paths of a ship voyaging at sea, and the ways of a man in youth.
 - brenton: [missing]
 
 ### Proverbs 30:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Such way of adulterous woman: when she acts, having washed herself, she says she did nothing improper.
+- fresh: Such is the way of an adulterous woman: when she acts, having washed herself, she says she did nothing improper.
 - brenton: [missing]
 
 ### Proverbs 30:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: By three things earth is shaken, and fourth it cannot bear:
+- fresh: By three things the earth is shaken, and a fourth it cannot bear:
 - brenton: [missing]
 
 ### Proverbs 30:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: if servant reigns and fool is filled with foods,
+- fresh: if a servant reigns and a fool is filled with foods,
 - brenton: [missing]
 
 ### Proverbs 30:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and maidservant throws out her mistress, and hated woman happens upon good husband.
+- fresh: and a maidservant throws out her mistress, and a hated woman happens upon a good husband.
 - brenton: [missing]
 
 ### Proverbs 30:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Four things on earth very little, yet wiser than wise men:
+- fresh: Four things on the earth are very little, yet wiser than the wise:
 - brenton: [missing]
 
 ### Proverbs 30:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: ants, though they have no strength, prepare food in summer;
+- fresh: The ants, though they have no strength, prepare food in summer;
 - brenton: [missing]
 
 ### Proverbs 30:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and rock-badgers, nation not strong, who made houses in rocks;
+- fresh: and the rock-badgers, a nation not strong, who made houses in the rocks;
 - brenton: [missing]
 
 ### Proverbs 30:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: locust has no king, yet marches orderly at one command;
+- fresh: The locust has no king, yet marches orderly at one command;
 - brenton: [missing]
 
 ### Proverbs 30:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and lizard bracing itself with hands, though vulnerable, dwells in fortresses of the king.
+- fresh: and a lizard bracing itself with its hands, though vulnerable, dwells in the fortresses of the king.
 - brenton: [missing]
 
 ### Proverbs 30:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Three things travel well, and fourth walks well:
+- fresh: Three things travel well, and a fourth walks well:
 - brenton: [missing]
 
 ### Proverbs 30:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: lion's cub strongest of beasts, who does not turn back nor shrink from beast;
+- fresh: A lion's cub is strongest among beasts, and it does not turn back nor shrink from a beast;
 - brenton: [missing]
 
 ### Proverbs 30:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and rooster strutting among females, high-spirited, and goat leading flock, and a king speaking publicly among nation.
+- fresh: and a rooster strutting among females, high-spirited, and a goat leading a flock, and a king speaking publicly among a nation.
 - brenton: [missing]
 
 ### Proverbs 30:32
@@ -154215,10 +154215,10 @@ Note:
 ### Proverbs 30:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Milk pressed and there will be butter; if you squeeze nostrils, blood will come out; if you drag out words, judgments and fights will come out.
+- fresh: When milk is pressed there will be butter; if you squeeze nostrils, blood will come out; if you drag out words, judgments and fights will come out.
 - brenton: [missing]
 
 ### Proverbs 31:1

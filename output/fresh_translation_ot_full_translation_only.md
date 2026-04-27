@@ -69808,63 +69808,63 @@ Hades and the desire of a woman and Tartarus and land not filled with water, and
 
 **Proverbs 30:17**
 
-Eye mocking father and dishonoring old age of mother, ravens from ravines may pluck it out and eaglets may devour it.
+An eye mocking a father and dishonoring the old age of a mother, ravens from ravines may pluck it out and eaglets may devour it.
 
 **Proverbs 30:18**
 
-Three things are impossible for me to understand, and fourth I do not know:
+Three things are impossible for me to understand, and a fourth I do not know:
 
 **Proverbs 30:19**
 
-tracks of eagle flying, and ways of serpent on rock, and paths of ship voyaging sea, and the ways of man in youth.
+the tracks of an eagle flying, and the ways of a serpent on a rock, and the paths of a ship voyaging at sea, and the ways of a man in youth.
 
 **Proverbs 30:20**
 
-Such way of adulterous woman: when she acts, having washed herself, she says she did nothing improper.
+Such is the way of an adulterous woman: when she acts, having washed herself, she says she did nothing improper.
 
 **Proverbs 30:21**
 
-By three things earth is shaken, and fourth it cannot bear:
+By three things the earth is shaken, and a fourth it cannot bear:
 
 **Proverbs 30:22**
 
-if servant reigns and fool is filled with foods,
+if a servant reigns and a fool is filled with foods,
 
 **Proverbs 30:23**
 
-and maidservant throws out her mistress, and hated woman happens upon good husband.
+and a maidservant throws out her mistress, and a hated woman happens upon a good husband.
 
 **Proverbs 30:24**
 
-Four things on earth very little, yet wiser than wise men:
+Four things on the earth are very little, yet wiser than the wise:
 
 **Proverbs 30:25**
 
-ants, though they have no strength, prepare food in summer;
+The ants, though they have no strength, prepare food in summer;
 
 **Proverbs 30:26**
 
-and rock-badgers, nation not strong, who made houses in rocks;
+and the rock-badgers, a nation not strong, who made houses in the rocks;
 
 **Proverbs 30:27**
 
-locust has no king, yet marches orderly at one command;
+The locust has no king, yet marches orderly at one command;
 
 **Proverbs 30:28**
 
-and lizard bracing itself with hands, though vulnerable, dwells in fortresses of the king.
+and a lizard bracing itself with its hands, though vulnerable, dwells in the fortresses of the king.
 
 **Proverbs 30:29**
 
-Three things travel well, and fourth walks well:
+Three things travel well, and a fourth walks well:
 
 **Proverbs 30:30**
 
-lion's cub strongest of beasts, who does not turn back nor shrink from beast;
+A lion's cub is strongest among beasts, and it does not turn back nor shrink from a beast;
 
 **Proverbs 30:31**
 
-and rooster strutting among females, high-spirited, and goat leading flock, and a king speaking publicly among nation.
+and a rooster strutting among females, high-spirited, and a goat leading a flock, and a king speaking publicly among a nation.
 
 **Proverbs 30:32**
 
@@ -69872,7 +69872,7 @@ If you push yourself forward into gladness and stretch out your hand with battle
 
 **Proverbs 30:33**
 
-Milk pressed and there will be butter; if you squeeze nostrils, blood will come out; if you drag out words, judgments and fights will come out.
+When milk is pressed there will be butter; if you squeeze nostrils, blood will come out; if you drag out words, judgments and fights will come out.
 
 ### Chapter 31
 

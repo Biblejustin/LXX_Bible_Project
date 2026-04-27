@@ -3100,6 +3100,36 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 30:15"]["draft_translation"].startswith("The leech")
     assert "the fourth was not satisfied" in by_ref["Proverbs 30:15"]["draft_translation"]
     assert "the desire of a woman" in by_ref["Proverbs 30:16"]["draft_translation"]
+    assert by_ref["Proverbs 30:17"]["draft_translation"].startswith("An eye mocking a father")
+    assert "the old age of a mother" in by_ref["Proverbs 30:17"]["draft_translation"]
+    assert "and a fourth I do not know" in by_ref["Proverbs 30:18"]["draft_translation"]
+    assert "the tracks of an eagle flying" in by_ref["Proverbs 30:19"]["draft_translation"]
+    assert "the ways of a serpent on a rock" in by_ref["Proverbs 30:19"]["draft_translation"]
+    assert "the paths of a ship voyaging at sea" in by_ref["Proverbs 30:19"]["draft_translation"]
+    assert by_ref["Proverbs 30:20"]["draft_translation"].startswith("Such is the way of an adulterous woman")
+    assert "the earth is shaken" in by_ref["Proverbs 30:21"]["draft_translation"]
+    assert "a fourth it cannot bear" in by_ref["Proverbs 30:21"]["draft_translation"]
+    assert "if a servant reigns" in by_ref["Proverbs 30:22"]["draft_translation"]
+    assert "a fool is filled" in by_ref["Proverbs 30:22"]["draft_translation"]
+    assert "a maidservant throws out her mistress" in by_ref["Proverbs 30:23"]["draft_translation"]
+    assert "a hated woman happens upon a good husband" in by_ref["Proverbs 30:23"]["draft_translation"]
+    assert by_ref["Proverbs 30:24"]["draft_translation"].startswith("Four things on the earth are very little")
+    assert "wiser than the wise" in by_ref["Proverbs 30:24"]["draft_translation"]
+    assert by_ref["Proverbs 30:25"]["draft_translation"].startswith("The ants")
+    assert by_ref["Proverbs 30:26"]["draft_translation"].startswith("and the rock-badgers")
+    assert "a nation not strong" in by_ref["Proverbs 30:26"]["draft_translation"]
+    assert "in the rocks" in by_ref["Proverbs 30:26"]["draft_translation"]
+    assert by_ref["Proverbs 30:27"]["draft_translation"].startswith("The locust")
+    assert by_ref["Proverbs 30:28"]["draft_translation"].startswith("and a lizard")
+    assert "with its hands" in by_ref["Proverbs 30:28"]["draft_translation"]
+    assert "in the fortresses of the king" in by_ref["Proverbs 30:28"]["draft_translation"]
+    assert "and a fourth walks well" in by_ref["Proverbs 30:29"]["draft_translation"]
+    assert by_ref["Proverbs 30:30"]["draft_translation"].startswith("A lion's cub is strongest")
+    assert "shrink from a beast" in by_ref["Proverbs 30:30"]["draft_translation"]
+    assert by_ref["Proverbs 30:31"]["draft_translation"].startswith("and a rooster")
+    assert "a goat leading a flock" in by_ref["Proverbs 30:31"]["draft_translation"]
+    assert "among a nation" in by_ref["Proverbs 30:31"]["draft_translation"]
+    assert by_ref["Proverbs 30:33"]["draft_translation"].startswith("When milk is pressed")
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -3352,7 +3382,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "because the king desired your beauty" in by_ref["Psalms 44:12"]["draft_translation"]
     assert "My son, fear God and the king" in by_ref["Proverbs 24:21"]["draft_translation"]
-    assert "and a king speaking publicly among nation" in by_ref["Proverbs 30:31"][
+    assert "and a king speaking publicly among a nation" in by_ref["Proverbs 30:31"][
         "draft_translation"
     ]
     assert "and the king asked him secretly" in by_ref["Jeremiah 44:17"]["draft_translation"]
