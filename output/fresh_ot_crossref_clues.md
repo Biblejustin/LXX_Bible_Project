@@ -334,6 +334,17 @@ Rows: 233
 - OT clues: Ps.33.4-Ps.33.5 (10) -> Magnify the Lord with me, and let us lift up his name together. || 1Sam.2.3 (6) -> Do not boast and do not speak lofty things; let no high-sounding speech go out from your mouth, because the Lord is a God of knowledge and a God preparing his purposes. || Deut.32.4 (5) -> God, his works are true, and all his ways are judgments, faithful God, and there is no injustice, righteous and holy is the Lord. || Exod.18.11 (4) -> "Now I know that the Lord is great above all the gods, because in this matter they acted arrogantly against them."
 - NT clues: Jas.4.6-Jas.4.7 (16) -> But he gives more grace. Wherefore he says, God resists the proud, but gives grace unto the humble. || 1Pet.5.5-1Pet.5.6 (7) -> Likewise, all of you younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resists the proud, and gives grace to the humble. || 1Pet.2.9-1Pet.2.10 (4) -> But all of you are a chosen generation, a royal priesthood, an holy nation, an exclusive people; that all of you should show forth the praises of him who has called you out of darkness into his marvellous light;
 
+## Ecclesiastes 11:5
+- score: 23
+- latest review status: keep
+- top vote: 22
+- OT crossrefs: 6
+- NT crossrefs: 2
+- shared-family hits: 0
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
+- OT clues: Ps.92.5 (17) -> Your testimonies were made very faithful; holiness fits your house, Lord, for the length of days. || Eccl.8.17 (16) -> And I saw all the works of God, that man will not be able to find out the work done under the sun. However much a man toils to seek, he will not find; and however much a wise man says to know, he will not be able to find. || Isa.40.28 (13) -> And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom. || Ps.104.24 (11) -> And he increased his people exceedingly and strengthened it beyond its enemies.
+- NT clues: John.3.8 (22) -> The wind (o. pneuma) blows where it decides, and you hear the sound thereof, but can not tell whence it comes, and where it goes: so is every one that is born of the Spirit. (o. pneuma) || Rom.11.33 (15) -> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!
+
 ## Jeremiah 15:16
 - score: 23
 - latest review status: keep
@@ -603,6 +614,17 @@ Rows: 233
 - fresh: And Abner said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abner away, and he went in peace.
 - OT clues: 1Kgs.11.37 (5) -> And I will take you, and you will reign over whatever your soul desires, and you will be king over Israel. || 2Sam.3.12 (5) -> And Abner sent messengers to David in Thailaim, where he was at once, saying, Make your covenant with me, and behold, my hand is with you, to turn all the house of Israel to you. || 2Sam.3.10 (4) -> to take away the kingdom from the house of Saul and to raise up the throne of David over Israel and over Judah from Dan to Beersheba. || 2Sam.2.9 (2) -> And he made him king over Gileadites and over Ashurites and over Jezreel and over Ephraim and over Benjamin and over all Israel.
 - NT clues: Phil.2.21 (2) -> For all seek their own, not the things which are Jesus Christ's.
+
+## Ecclesiastes 11:9
+- score: 21
+- latest review status: keep
+- top vote: 45
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- OT clues: Eccl.12.14 (45) -> Because with every work God will bring into judgment, with every overlooked thing, whether good or whether evil. || Eccl.12.1 (28) -> And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them." || Eccl.3.17 (23) -> I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work." || Lam.3.27 (23) -> Good for man when he bears yoke in his youth.
+- NT clues: 1John.2.15-1John.2.16 (35) -> Love not the world, neither the things that are in the world. If any man love the world, the love (o. agape) of the Father is not in him. || 2Cor.5.10 (20) -> For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad. || Heb.9.27 (9) -> And as it is appointed unto men once to die, but after this the judgment:
 
 ## Exodus 14:13
 - score: 21
@@ -1436,17 +1458,6 @@ Rows: 233
 - OT clues: 2Sam.14.3 (5) -> And you will come to the king and speak to him according to this word. And Joab put the words in her mouth. || 1Sam.1.26 (3) -> And she said, Please, lord, as your soul lives: I am the woman who stood before you in praying to the Lord. || 1Kgs.2.5-1Kgs.2.6 (2) -> And indeed, you know what Joab son of Zeruiah did to me, what he did to the two commanders of the forces of Israel, to Abner son of Ner and to Amasa son of Jether, and he killed them and assigned blood of war in peace and put innocent blood on the belt on his waist and on the sandal on his foot. || 1Sam.20.3 (2) -> And David answered Jonathan and said, Knowing, your father knows that I have found favor in your eyes, and he said, Let not Jonathan know this, lest he not be willing. But as the Lord lives and as your life lives, as I said, there is only the fullness between me and death.
 - NT clues: 1Sam.17.55 (2) -> And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son is this youth? And Abner said, As your soul lives, O king, I cannot tell.
 
-## Ecclesiastes 11:5
-- score: 18
-- latest review status: keep
-- top vote: 22
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
-- OT clues: Ps.92.5 (17) -> Your testimonies were made very faithful; holiness fits your house, Lord, for the length of days. || Eccl.8.17 (16) -> And I saw all the works of God, that man will not be able to find out the work done under the sun. However much a man toils to seek, he will not find; and however much a wise man says to know, he will not be able to find. || Isa.40.28 (13) -> And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom. || Ps.104.24 (11) -> And he increased his people exceedingly and strengthened it beyond its enemies.
-- NT clues: John.3.8 (22) -> The wind (o. pneuma) blows where it decides, and you hear the sound thereof, but can not tell whence it comes, and where it goes: so is every one that is born of the Spirit. (o. pneuma) || Rom.11.33 (15) -> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out!
-
 ## Ezekiel 18:20
 - score: 18
 - latest review status: keep
@@ -2001,17 +2012,6 @@ Rows: 233
 - fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
 - OT clues: Ps.149.4 (93) -> Because the Lord delights in his people and will exalt meek ones in salvation. || Isa.62.4-Isa.62.5 (63) -> No longer will you be called Forsaken, and your land will no longer be called Desert, for you will be called My Will, and your land Inhabited. || Isa.12.2 (52) -> Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me. || Zeph.3.15 (47) -> The Lord removed your injustices and redeemed you from the hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
 - NT clues: Ps.147.11 (83) -> The LORD takes pleasure in them that fear him, in those that hope in his mercy. || Heb.7.25 (62) -> Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever lives to make intercession for them. || Jer.32.41 (62) -> Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.
-
-## Ecclesiastes 11:9
-- score: 16
-- latest review status: keep
-- top vote: 45
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
-- OT clues: Eccl.12.14 (45) -> Because with every work God will bring into judgment, with every overlooked thing, whether good or whether evil. || Eccl.12.1 (28) -> And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them." || Eccl.3.17 (23) -> I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work." || Lam.3.27 (23) -> Good for man when he bears yoke in his youth.
-- NT clues: 1John.2.15-1John.2.16 (35) -> Love not the world, neither the things that are in the world. If any man love the world, the love (o. agape) of the Father is not in him. || 2Cor.5.10 (20) -> For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad. || Heb.9.27 (9) -> And as it is appointed unto men once to die, but after this the judgment:
 
 ## Ecclesiastes 2:26
 - score: 16

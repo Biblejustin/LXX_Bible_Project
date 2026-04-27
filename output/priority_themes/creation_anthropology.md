@@ -209,10 +209,10 @@ Books: 31
 - brenton: a man to whom God shall give wealth, and substance, and honour, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.
 
 ## Ecclesiastes 11:5
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
 - keywords: god, spirit, wind
-- fresh: As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
 
 ## Song of Solomon 1:7

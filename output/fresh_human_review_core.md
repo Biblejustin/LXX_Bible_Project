@@ -470,6 +470,21 @@ Rows: 234
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: 
 
+## Ecclesiastes 11:5
+- priority: `23`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
+- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
+
 ## Jeremiah 15:16
 - priority: `23`
 - importance: `high`
@@ -844,6 +859,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And Abner said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abner away, and he went in peace.
 - brenton: And Abenner said to David, I will arise now, and go, and gather to my lord the king all Israel; and I will make with him a covenant, and thou shalt reign over all whom thy soul desires. And David sent away Abenner, and he departed in peace.
+
+## Ecclesiastes 11:9
+- priority: `21`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ## Exodus 14:13
 - priority: `21`
@@ -2015,21 +2045,6 @@ Rows: 234
 - fresh: And the king said, Is the hand of Joab with you in all this? And the woman said to the king, As your life lives, my lord king, there is not to the right or to the left from all that my lord the king spoke, because your servant Joab, he himself commanded me, and he himself put in the mouth of your servant all these words.
 - brenton: And the king said, Is not the hand of Joab in all this matter with thee? and the woman said to the king, As thy soul lives, my lord, O king, there is no turning to the right hand or to the left from all that my lord the king has spoken; for thy servant Joab himself charged me, and he put all these words in the mouth of thine handmaid.
 
-## Ecclesiastes 11:5
-- priority: `18`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
-- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
-
 ## Ezekiel 18:20
 - priority: `18`
 - importance: `high`
@@ -2794,21 +2809,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
 - brenton: The Lord thy God is in thee; the Mighty One shall save thee: he shall bring joy upon thee, and shall refresh thee with his love; and he shall rejoice over thee with delight as in a day of feasting.
-
-## Ecclesiastes 11:9
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
-- brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ## Ecclesiastes 2:26
 - priority: `16`

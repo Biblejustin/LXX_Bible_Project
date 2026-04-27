@@ -156287,91 +156287,91 @@ Note:
 ### Ecclesiastes 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Send your bread upon the face of water, because in the multitude of days you will find it.
+- fresh: Send your bread upon the face of the water, because in the multitude of days you will find it.
 - brenton: Send forth thy bread upon the face of the water: for thou shalt find it after many days.
 
 ### Ecclesiastes 11:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Give portion to seven and indeed to eight, because you do not know what evil will be upon earth.
+- fresh: Give a portion to seven and indeed to eight, because you do not know what evil will be upon the earth.
 - brenton: Give a portion to seven, and also to eight; for thou knowest not what evil there shall be upon the earth.
 
 ### Ecclesiastes 11:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If clouds are filled, they pour rain upon earth; and if tree falls in south, and if in north, the place where tree falls, there it will be.
+- fresh: If the clouds are filled with rain, they pour upon the earth; and if a tree falls in the south, and if in the north, in the place where the tree falls, there it will be.
 - brenton: If the clouds be filled with rain, they pour it out upon the earth: and if a tree fall southward, or if it fall northward, in the place where the tree shall fall, there it shall be.
 
 ### Ecclesiastes 11:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One watching wind will not sow, and one looking in clouds will not reap.
+- fresh: The one watching the wind will not sow, and the one looking in the clouds will not reap.
 - brenton: He that observes the wind sows not; and he that looks at the clouds will not reap.
 
 ### Ecclesiastes 11:5
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
 
 ### Ecclesiastes 11:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
+- fresh: In the morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together are good.
 - brenton: In the morning sow thy seed, and in the evening let not thine hand be slack: for thou knowest not what sort shall prosper, whether this or that, or whether both shall be good alike.
 
 ### Ecclesiastes 11:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And light sweet, and good for eyes to see with sun.
+- fresh: And the light is sweet, and it is good for the eyes to see with the sun.
 - brenton: Moreover the light is sweet, and it is good for the eyes to see the sun.
 
 ### Ecclesiastes 11:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming is vanity.
+- fresh: Because even if a man lives many years, in all of them he will rejoice, and he will remember the days of darkness, because they will be many; all that is coming is vanity.
 - brenton: For even if a man should live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.
 
 ### Ecclesiastes 11:9
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 - brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ### Ecclesiastes 11:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And remove anger from your heart and put evil from your flesh, because youth and folly vanity.
+- fresh: And remove anger from your heart and put evil from your flesh, because youth and folly are vanity.
 - brenton: Therefore remove sorrow from thy heart, and put away evil from thy flesh: for youth and folly are vanity.
 
 ### Ecclesiastes 12:1

@@ -70818,43 +70818,43 @@ Even in your conscience do not curse a king, and in the chambers of your bedcham
 
 **Ecclesiastes 11:1**
 
-Send your bread upon the face of water, because in the multitude of days you will find it.
+Send your bread upon the face of the water, because in the multitude of days you will find it.
 
 **Ecclesiastes 11:2**
 
-Give portion to seven and indeed to eight, because you do not know what evil will be upon earth.
+Give a portion to seven and indeed to eight, because you do not know what evil will be upon the earth.
 
 **Ecclesiastes 11:3**
 
-If clouds are filled, they pour rain upon earth; and if tree falls in south, and if in north, the place where tree falls, there it will be.
+If the clouds are filled with rain, they pour upon the earth; and if a tree falls in the south, and if in the north, in the place where the tree falls, there it will be.
 
 **Ecclesiastes 11:4**
 
-One watching wind will not sow, and one looking in clouds will not reap.
+The one watching the wind will not sow, and the one looking in the clouds will not reap.
 
 **Ecclesiastes 11:5**
 
-As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
+As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
 
 **Ecclesiastes 11:6**
 
-In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
+In the morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together are good.
 
 **Ecclesiastes 11:7**
 
-And light sweet, and good for eyes to see with sun.
+And the light is sweet, and it is good for the eyes to see with the sun.
 
 **Ecclesiastes 11:8**
 
-Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming is vanity.
+Because even if a man lives many years, in all of them he will rejoice, and he will remember the days of darkness, because they will be many; all that is coming is vanity.
 
 **Ecclesiastes 11:9**
 
-Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 
 **Ecclesiastes 11:10**
 
-And remove anger from your heart and put evil from your flesh, because youth and folly vanity.
+And remove anger from your heart and put evil from your flesh, because youth and folly are vanity.
 
 ### Chapter 12
 

@@ -7186,6 +7186,15 @@ Method:
 - mt: And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.
 - brenton: And I will bring the third part through the fire, and I will try them as silver is tried, and I will prove them as gold is proved: they shall call upon my name, and I will hear them, and say, This is my people: and they shall say, The Lord is my God.
 
+### Ecclesiastes 11:5
+- priority: `23`
+- importance: `high`
+- fresh_mt_ratio: `0.696`
+- fresh_brenton_ratio: `0.727`
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
+- mt: As you know not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so you know not the works of God who makes all.
+- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
+
 ### Jeremiah 4:2
 - priority: `23`
 - importance: `high`
@@ -7491,6 +7500,15 @@ Method:
 - fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
 - mt: Why should you be as a man astonished, as a mighty man that cannot save? yet you, O LORD, are in the midst of us, and we are called by your name; leave us not.
 - brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
+
+### Ecclesiastes 11:9
+- priority: `21`
+- importance: `high`
+- fresh_mt_ratio: `0.651`
+- fresh_brenton_ratio: `0.453`
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- mt: Rejoice, O young man, in your youth; and let your heart cheer you in the days of your youth, and walk in the ways of yours heart, and in the sight of yours eyes: but know you, that for all these things God will bring you into judgment.
+- brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ### Genesis 1:2
 - priority: `21`
@@ -8185,15 +8203,6 @@ Method:
 - mt: But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
-### Ecclesiastes 11:5
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.682`
-- fresh_brenton_ratio: `0.695`
-- fresh: As you do not know what the way of spirit is, as bones in the womb of a pregnant woman, so you will not know works of God, who will make all things.
-- mt: As you know not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so you know not the works of God who makes all.
-- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
-
 ### Habakkuk 3:18
 - priority: `18`
 - importance: `high`
@@ -8589,15 +8598,6 @@ Method:
 - fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
 - mt: Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
 - brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
-
-### Ecclesiastes 11:9
-- priority: `16`
-- importance: `high`
-- fresh_mt_ratio: `0.567`
-- fresh_brenton_ratio: `0.458`
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
-- mt: Rejoice, O young man, in your youth; and let your heart cheer you in the days of your youth, and walk in the ways of yours heart, and in the sight of yours eyes: but know you, that for all these things God will bring you into judgment.
-- brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ### Zephaniah 1:8
 - priority: `16`
@@ -83092,6 +83092,15 @@ Method:
 - mt: Before even I was aware, my soul made me like the chariots of Amminadib.
 - brenton: There I will give thee my breasts: my soul knew it not: it made me as the chariots of Aminadab.
 
+### Ecclesiastes 11:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.547`
+- fresh_brenton_ratio: `0.618`
+- fresh: Send your bread upon the face of the water, because in the multitude of days you will find it.
+- mt: Cast your bread upon the waters: for you shall find it after many days.
+- brenton: Send forth thy bread upon the face of the water: for thou shalt find it after many days.
+
 ### Ecclesiastes 8:13
 - priority: `0`
 - importance: `none`
@@ -85944,15 +85953,6 @@ Method:
 - fresh: And you will be confident because there is hope for you; and out of care and anxiety peace will appear for you.
 - mt: And you shall be secure, because there is hope; yea, you shall dig about you, and you shall take your rest in safety.
 - brenton: And thou shalt be confident, because thou hast hope; and peace shall dawn to thee from out of anxiety and care.
-
-### Ecclesiastes 11:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.561`
-- fresh_brenton_ratio: `0.586`
-- fresh: Send your bread upon the face of water, because in the multitude of days you will find it.
-- mt: Cast your bread upon the waters: for you shall find it after many days.
-- brenton: Send forth thy bread upon the face of the water: for thou shalt find it after many days.
 
 ### Leviticus 5:3
 - priority: `0`
@@ -93810,15 +93810,6 @@ Method:
 - fresh: And David said to him, Whose are you, and from where are you? And the Egyptian young man said, I am slave of an Amalekite man, and my lord left me because I became sick, today the third day.
 - mt: And David said unto him, To whom belong you? and whence are you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days ago I fell sick.
 - brenton: And David said to him, Whose art thou? and whence art thou? and the young man the Egyptian said, I am the servant of an Amalekite; and my master left me, because I was taken ill three days ago.
-
-### Ecclesiastes 11:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.595`
-- fresh_brenton_ratio: `0.739`
-- fresh: And light sweet, and good for eyes to see with sun.
-- mt: Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:
-- brenton: Moreover the light is sweet, and it is good for the eyes to see the sun.
 
 ### Joshua 21:34
 - priority: `0`
@@ -104250,15 +104241,6 @@ Method:
 - fresh: And Solomon was magnified above all kings in wealth and wisdom.
 - mt: And king Solomon passed all the kings of the earth in riches and wisdom.
 - brenton: And Solomon exceeded all other kings both in riches and wisdom.
-
-### Ecclesiastes 11:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.632`
-- fresh_brenton_ratio: `0.653`
-- fresh: One watching wind will not sow, and one looking in clouds will not reap.
-- mt: He that observes the wind shall not sow; and he that regards the clouds shall not reap.
-- brenton: He that observes the wind sows not; and he that looks at the clouds will not reap.
 
 ### Ezekiel 14:16
 - priority: `0`
@@ -118597,15 +118579,6 @@ Method:
 - mt: A bundle of myrrh is my well-beloved unto me; he shall lie all night between my breasts.
 - brenton: My kinsman is to me a bundle of myrrh; he shall lie between my breasts.
 
-### Ecclesiastes 11:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.675`
-- fresh_brenton_ratio: `0.597`
-- fresh: In morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together good.
-- mt: In the morning sow your seed, and in the evening withhold not yours hand: for you know not whether shall prosper, either this or that, or whether they both shall be alike good.
-- brenton: In the morning sow thy seed, and in the evening let not thine hand be slack: for thou knowest not what sort shall prosper, whether this or that, or whether both shall be good alike.
-
 ### Ezekiel 48:28
 - priority: `0`
 - importance: `none`
@@ -119649,6 +119622,15 @@ Method:
 - fresh: And he said, Let it not be so, Lord, if I speak still once more. But if ten are found there? And he said, I will certainly not destroy it because of the ten.
 - mt: And he said, Oh let not the LORD be angry, and I will speak yet but this once: Possibly ten shall be found there. And he said, I will not destroy it for ten's sake.
 - brenton: And he said, Will there be anything against me, Lord, if I speak yet once? but if there should be found there ten? And he said, I will not destroy it for the ten's sake.
+
+### Ecclesiastes 11:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.678`
+- fresh_brenton_ratio: `0.711`
+- fresh: The one watching the wind will not sow, and the one looking in the clouds will not reap.
+- mt: He that observes the wind shall not sow; and he that regards the clouds shall not reap.
+- brenton: He that observes the wind sows not; and he that looks at the clouds will not reap.
 
 ### Song of Solomon 5:7
 - priority: `0`
@@ -122899,15 +122881,6 @@ Method:
 - mt: And all the people shall hear, and fear, and do no more presumptuously.
 - brenton: And all the people shall hear and fear, and shall no more commit impiety.
 
-### Ecclesiastes 11:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.687`
-- fresh_brenton_ratio: `0.680`
-- fresh: Because even if man lives many years, in all of them he will rejoice, and he will remember days of darkness, because they will be many; all coming is vanity.
-- mt: But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.
-- brenton: For even if a man should live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.
-
 ### Proverbs 14:3
 - priority: `0`
 - importance: `none`
@@ -125931,6 +125904,15 @@ Method:
 - fresh: then it shall be, when you eat from the breads of the land, you shall remove a contribution set apart for the Lord.
 - mt: Then it shall be, that, when all of you eat of the bread of the land, all of you shall offer up an heave offering unto the LORD.
 - brenton: then it shall come to pass, when ye shall eat of the bread of the land, ye shall separate a wave-offering, a special offering to the Lord, the first-fruits of your dough.
+
+### Ecclesiastes 11:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.695`
+- fresh_brenton_ratio: `0.619`
+- fresh: In the morning sow your seed, and till evening do not let your hand rest, because you do not know which will prosper, this or that, and if both together are good.
+- mt: In the morning sow your seed, and in the evening withhold not yours hand: for you know not whether shall prosper, either this or that, or whether they both shall be alike good.
+- brenton: In the morning sow thy seed, and in the evening let not thine hand be slack: for thou knowest not what sort shall prosper, whether this or that, or whether both shall be good alike.
 
 ### Ruth 2:23
 - priority: `0`
@@ -133213,15 +133195,6 @@ Method:
 - mt: Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah.
 - brenton: And if the Lord of Sabaoth had not left us a seed, we should have been as Sodoma, and we should have been made like to Gomorrha.
 
-### Ecclesiastes 11:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.712`
-- fresh_brenton_ratio: `0.760`
-- fresh: If clouds are filled, they pour rain upon earth; and if tree falls in south, and if in north, the place where tree falls, there it will be.
-- mt: If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falls, there it shall be.
-- brenton: If the clouds be filled with rain, they pour it out upon the earth: and if a tree fall southward, or if it fall northward, in the place where the tree shall fall, there it shall be.
-
 ### Lamentations 2:18
 - priority: `0`
 - importance: `none`
@@ -136363,15 +136336,6 @@ Method:
 - mt: And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?
 - brenton: so that it is evil with you; yet have ye come, and stood before me in the house, whereon my name is called, and ye have said, We have refrained from doing all these abominations.
 
-### Ecclesiastes 11:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.720`
-- fresh_brenton_ratio: `0.742`
-- fresh: And remove anger from your heart and put evil from your flesh, because youth and folly vanity.
-- mt: Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are vanity.
-- brenton: Therefore remove sorrow from thy heart, and put away evil from thy flesh: for youth and folly are vanity.
-
 ### 2 Kings 7:5
 - priority: `0`
 - importance: `none`
@@ -138424,6 +138388,15 @@ Method:
 - mt: And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.
 - brenton: And the king and his men went to Jerusalem, this is Jebus; and there the Jebusites the inhabitants of the land said to David,
 
+### Ecclesiastes 11:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.768`
+- fresh: And remove anger from your heart and put evil from your flesh, because youth and folly are vanity.
+- mt: Therefore remove sorrow from your heart, and put away evil from your flesh: for childhood and youth are vanity.
+- brenton: Therefore remove sorrow from thy heart, and put away evil from thy flesh: for youth and folly are vanity.
+
 ### Genesis 42:17
 - priority: `0`
 - importance: `none`
@@ -139224,6 +139197,15 @@ Method:
 - fresh: And the one carrying his equipment saw that Saul had died, and he too fell upon his own sword and died with him.
 - mt: And when his armour bearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
 - brenton: And his armour-bearer saw that Saul was dead, and he fell also himself upon his sword, and died with him.
+
+### Ecclesiastes 11:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.727`
+- fresh_brenton_ratio: `0.719`
+- fresh: Because even if a man lives many years, in all of them he will rejoice, and he will remember the days of darkness, because they will be many; all that is coming is vanity.
+- mt: But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.
+- brenton: For even if a man should live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.
 
 ### Ezekiel 3:7
 - priority: `0`
@@ -143301,6 +143283,15 @@ Method:
 - fresh: And he measured wall of the house, six cubits, and breadth of the side room, four cubits around.
 - mt: After he measured the wall of the house, six cubits; and the breadth of every side chamber, four cubits, round about the house on every side.
 - brenton: And he measured the wall of the house, six cubits: and the breadth of each side, four cubits round about.
+
+### Ecclesiastes 11:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.737`
+- fresh_brenton_ratio: `0.886`
+- fresh: And the light is sweet, and it is good for the eyes to see with the sun.
+- mt: Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:
+- brenton: Moreover the light is sweet, and it is good for the eyes to see the sun.
 
 ### Zechariah 1:11
 - priority: `0`
@@ -162049,15 +162040,6 @@ Method:
 - mt: And they put him in ward, because it was not declared what should be done to him.
 - brenton: And they placed him in custody, for they did not determine what they should do to him.
 
-### Ecclesiastes 11:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.785`
-- fresh_brenton_ratio: `0.724`
-- fresh: Give portion to seven and indeed to eight, because you do not know what evil will be upon earth.
-- mt: Give a portion to seven, and also to eight; for you know not what evil shall be upon the earth.
-- brenton: Give a portion to seven, and also to eight; for thou knowest not what evil there shall be upon the earth.
-
 ### Job 31:13
 - priority: `0`
 - importance: `none`
@@ -172030,6 +172012,15 @@ Method:
 - mt: And he said, They were my brethren, even the sons of my mother: as the LORD lives, if all of you had saved them alive, I would not slay you.
 - brenton: And Gedeon said, They were my brethren and the sons of my mother: as the Lord lives, if ye had preserved them alive, I would not have slain you.
 
+### Ecclesiastes 11:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.814`
+- fresh_brenton_ratio: `0.846`
+- fresh: If the clouds are filled with rain, they pour upon the earth; and if a tree falls in the south, and if in the north, in the place where the tree falls, there it will be.
+- mt: If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falls, there it shall be.
+- brenton: If the clouds be filled with rain, they pour it out upon the earth: and if a tree fall southward, or if it fall northward, in the place where the tree shall fall, there it shall be.
+
 ### 2 Samuel 16:15
 - priority: `0`
 - importance: `none`
@@ -174450,6 +174441,15 @@ Method:
 - fresh: The gatekeepers: Shallum and Akkub and Talman and Heman and their brothers. Shallum the chief.
 - mt: And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief;
 - brenton: The door-keepers; Salom, Acum, Telmon, and Diman, and their brethren; Salom was the chief;
+
+### Ecclesiastes 11:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.823`
+- fresh_brenton_ratio: `0.762`
+- fresh: Give a portion to seven and indeed to eight, because you do not know what evil will be upon the earth.
+- mt: Give a portion to seven, and also to eight; for you know not what evil shall be upon the earth.
+- brenton: Give a portion to seven, and also to eight; for thou knowest not what evil there shall be upon the earth.
 
 ### 1 Kings 15:34
 - priority: `0`

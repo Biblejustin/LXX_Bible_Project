@@ -321,10 +321,10 @@ Books: 34
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
 
 ## Ecclesiastes 11:9
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment; crossref_top_vote=45; reco=keep
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, judgment; crossref_top_vote=45; reco=keep
 - keywords: god, judgment
-- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
 - brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ## Isaiah 9:6

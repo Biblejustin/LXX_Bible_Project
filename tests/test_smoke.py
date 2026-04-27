@@ -2476,8 +2476,15 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Because the lips of a priest will guard knowledge, and the law they will seek" in by_ref["Malachi 2:7"]["draft_translation"]
     assert by_ref["Zechariah 14:5"]["draft_translation"].startswith("And the ravine of my mountains")
     assert "and the ravine of mountains" in by_ref["Zechariah 14:5"]["draft_translation"]
+    assert "the face of the water" in by_ref["Ecclesiastes 11:1"]["draft_translation"]
+    assert "upon the earth" in by_ref["Ecclesiastes 11:2"]["draft_translation"]
     assert "what the way of spirit is" in by_ref["Ecclesiastes 11:5"]["draft_translation"]
     assert "womb of a pregnant woman" in by_ref["Ecclesiastes 11:5"]["draft_translation"]
+    assert "the works of God" in by_ref["Ecclesiastes 11:5"]["draft_translation"]
+    assert "the light is sweet" in by_ref["Ecclesiastes 11:7"]["draft_translation"]
+    assert "youth and folly are vanity" in by_ref["Ecclesiastes 11:10"][
+        "draft_translation"
+    ]
     assert by_ref["Ezekiel 18:20"]["draft_translation"].startswith("And the soul sinning will die")
     assert "a son will not bear the injustice of his father" in by_ref["Ezekiel 18:20"]["draft_translation"]
     assert "The righteousness of a righteous one" in by_ref["Ezekiel 18:20"]["draft_translation"]

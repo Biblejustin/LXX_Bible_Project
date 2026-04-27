@@ -11,12 +11,12 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Genesis 2:7 → score 28
 - Leviticus 5:15 → score 25
 - Isaiah 54:10 → score 25
+- Ecclesiastes 11:5 → score 23
 - Daniel 4:37 → score 23
 - Zechariah 12:10 → score 22
-- 1 Samuel 26:19 → score 21
 
 ## Textual / Lexical Crux
-- rows: 60
+- rows: 62
 - Exodus 20:24 → score 35
 - Leviticus 4:31 → score 34
 - 1 Kings 2:35 → score 32

@@ -219,6 +219,13 @@ Rows: 100
 - fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: [missing]
 
+## Ecclesiastes 11:5
+- book: Ecclesiastes
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
+- fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
+- brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
+
 ## Jeremiah 15:16
 - book: Jeremiah
 - score: 23
@@ -393,6 +400,13 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, king, lord, peace, soul; crossref_top_vote=5; reco=keep
 - fresh: And Abner said to David, I will rise now and go and gather to my lord the king all Israel, and I will make a covenant with you, and you will reign over all that your soul desires. And David sent Abner away, and he went in peace.
 - brenton: And Abenner said to David, I will arise now, and go, and gather to my lord the king all Israel; and I will make with him a covenant, and thou shalt reign over all whom thy soul desires. And David sent away Abenner, and he departed in peace.
+
+## Ecclesiastes 11:9
+- book: Ecclesiastes
+- score: 21
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, judgment; crossref_top_vote=45; reco=keep
+- fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
+- brenton: Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.
 
 ## Exodus 14:13
 - book: Exodus
@@ -687,17 +701,3 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, name; crossref_top_vote=5; reco=keep
 - fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
 - brenton: And the servants of the king have gone in to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne; and the king worshipped upon his bed.
-
-## 2 Kings 18:12
-- book: 2 Kings
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, servant; crossref_top_vote=2; eng_reco=keep; reco=keep
-- fresh: because they did not listen to the voice of the Lord their God and transgressed his covenant, all that Moses the servant of the Lord commanded, and they did not listen and did not do it.
-- brenton: because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.
-
-## 2 Kings 1:3
-- book: 2 Kings
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord; crossref_top_vote=7; reco=keep
-- fresh: And the angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
-- brenton: And an angel of the Lord called Eliu the Thesbite, saying, Arise, and go to meet the messengers of Ochozias king of Samaria, and thou shalt say to them, Is it because there is no God in Israel, that ye go to enquire of Baal fly, the god of Accaron? but it shall not be so.

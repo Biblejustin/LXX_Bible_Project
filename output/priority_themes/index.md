@@ -9,7 +9,7 @@ Themes: 7
 - top refs: 1 Kings 2:35, Deuteronomy 12:21, Joshua 22:5, 1 Chronicles 22:19, Genesis 2:7
 
 ## Textual / Lexical Crux
-- rows: 60
+- rows: 62
 - books: 23
 - file: textual_lexical.md
 - top refs: Exodus 20:24, Leviticus 4:31, 1 Kings 2:35, Deuteronomy 16:2, 2 Chronicles 12:13

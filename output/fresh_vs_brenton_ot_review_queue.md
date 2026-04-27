@@ -11,7 +11,7 @@ Use MD for reading order.
 - death/afterlife: 1
 - kingship: 105
 - ritual: 75
-- textual/lexical: 60
+- textual/lexical: 62
 - theology: 107
 
 ## Top 50
@@ -46,22 +46,22 @@ Use MD for reading order.
 - 29. 2 Kings 17:34 | score 23 | theology, covenant/law, textual/lexical | revised
 - 30. Amos 9:12 | score 23 | theology | keep
 - 31. Daniel 4:37 | score 23 | theology, anthropology, ritual, kingship | keep
-- 32. Jeremiah 15:16 | score 23 | theology | keep
-- 33. Jeremiah 4:2 | score 23 | theology, covenant/law | revised
-- 34. Leviticus 3:1 | score 23 | ritual, kingship | keep
-- 35. Zechariah 13:9 | score 23 | theology | keep
-- 36. 1 Chronicles 16:40 | score 22 | covenant/law, ritual, kingship | revised
-- 37. 1 Kings 12:24 | score 22 | theology, anthropology, kingship | keep
-- 38. 1 Samuel 2:10 | score 22 | theology, covenant/law, ritual, kingship | keep
-- 39. 2 Kings 9:18 | score 22 | theology, kingship, textual/lexical | keep
-- 40. Exodus 14:31 | score 22 | kingship, textual/lexical | keep
-- 41. Exodus 15:26 | score 22 | textual/lexical | keep
-- 42. Genesis 24:7 | score 22 | theology, anthropology, kingship, textual/lexical | keep
-- 43. Isaiah 44:2 | score 22 | kingship | keep
-- 44. Jeremiah 23:5 | score 22 | covenant/law, kingship | revised
-- 45. Joshua 22:23 | score 22 | ritual, kingship | keep
-- 46. Joshua 24:19 | score 22 | theology, anthropology, covenant/law, ritual | revised
-- 47. Nehemiah 1:11 | score 22 | theology, kingship | revised
-- 48. Numbers 35:25 | score 22 | theology, ritual, kingship, textual/lexical | keep
-- 49. Numbers 6:14 | score 22 | covenant/law, ritual, kingship | revised
-- 50. Numbers 6:18 | score 22 | ritual, kingship, textual/lexical | revised
+- 32. Ecclesiastes 11:5 | score 23 | anthropology, textual/lexical | keep
+- 33. Jeremiah 15:16 | score 23 | theology | keep
+- 34. Jeremiah 4:2 | score 23 | theology, covenant/law | revised
+- 35. Leviticus 3:1 | score 23 | ritual, kingship | keep
+- 36. Zechariah 13:9 | score 23 | theology | keep
+- 37. 1 Chronicles 16:40 | score 22 | covenant/law, ritual, kingship | revised
+- 38. 1 Kings 12:24 | score 22 | theology, anthropology, kingship | keep
+- 39. 1 Samuel 2:10 | score 22 | theology, covenant/law, ritual, kingship | keep
+- 40. 2 Kings 9:18 | score 22 | theology, kingship, textual/lexical | keep
+- 41. Exodus 14:31 | score 22 | kingship, textual/lexical | keep
+- 42. Exodus 15:26 | score 22 | textual/lexical | keep
+- 43. Genesis 24:7 | score 22 | theology, anthropology, kingship, textual/lexical | keep
+- 44. Isaiah 44:2 | score 22 | kingship | keep
+- 45. Jeremiah 23:5 | score 22 | covenant/law, kingship | revised
+- 46. Joshua 22:23 | score 22 | ritual, kingship | keep
+- 47. Joshua 24:19 | score 22 | theology, anthropology, covenant/law, ritual | revised
+- 48. Nehemiah 1:11 | score 22 | theology, kingship | revised
+- 49. Numbers 35:25 | score 22 | theology, ritual, kingship, textual/lexical | keep
+- 50. Numbers 6:14 | score 22 | covenant/law, ritual, kingship | revised
