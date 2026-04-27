@@ -170,6 +170,33 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert "Ancient of Days" in notes_by_ref[("Daniel 7:13", "textual")]["footnote_text"]
 
 
+def test_known_release_blocker_fixes_stay_fixed() -> None:
+    ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
+    by_ref = {row["ref"]: row for row in ot_rows}
+
+    gen5_refs = ("Genesis 5:21", "Genesis 5:22", "Genesis 5:25", "Genesis 5:26", "Genesis 5:27")
+    for ref in gen5_refs:
+        assert "Methuselah" in by_ref[ref]["draft_translation"]
+        assert "Methusael" not in by_ref[ref]["draft_translation"]
+
+    assert "God's" in by_ref["Deuteronomy 1:17"]["draft_translation"]
+    assert "Gods" not in by_ref["Deuteronomy 1:17"]["draft_translation"]
+    assert "father’s house" in by_ref["1 Samuel 9:20"]["draft_translation"]
+    assert "father&#x2019;s" not in by_ref["1 Samuel 9:20"]["draft_translation"]
+
+    searched_paths = (
+        ROOT / "README.md",
+        ROOT / "docs" / "ARCHITECTURE.md",
+        ROOT / "docs" / "CANON_POLICY.md",
+        ROOT / "data" / "book_intros_template.csv",
+        ROOT / "data" / "research" / "translation_footnotes.csv",
+    )
+    for path in searched_paths:
+        text = path.read_text(encoding="utf-8")
+        assert "James 9:11" not in text
+        assert "James 9:12" not in text
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},

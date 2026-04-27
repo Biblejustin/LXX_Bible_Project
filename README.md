@@ -47,6 +47,7 @@ standard system fonts such as Baskerville and Times New Roman.
 ## Documentation
 
 - Editorial method: `METHODOLOGY.md`
+- Canon and numbering policy: `docs/CANON_POLICY.md`
 - Architecture/data flow: `docs/ARCHITECTURE.md`
 - CSV/data dictionary: `docs/DATA_DICTIONARY.md`
 - Contributor guide: `CONTRIBUTING.md`
@@ -74,6 +75,16 @@ That target writes ignored artifacts under `output/working/`, lowers DOCX ZIP
 compression, skips DOCX validation, and emits only the Logos Bible-source DOCX.
 Use `make build-nt-book` for one-book review loops. Use `make build-nt` before
 publishing.
+
+For fast text-review validation without rebuilding aggregate Markdown or DOCX:
+
+```bash
+make review-ot-fast REFS="Isaiah 44:24-28" PASS=262 CHANGES="Reviewed final Isaiah 44 wording."
+make review-nt-fast REFS="Matthew 1:1-5" PASS=120 CHANGES="Reviewed genealogy opening wording."
+```
+
+Use the fast review targets while editing. Use `make checkpoint-ot` at
+chapter/book boundaries or before release output refreshes.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 

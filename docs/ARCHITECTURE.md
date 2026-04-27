@@ -75,6 +75,29 @@ ignored outputs under `output/working/nt_book/` and
 `output/working/logos_nt_book/`. It still refreshes the generated NT source CSV
 first so script-level wording changes are reflected before the scoped build.
 
+## Fast Review Checkpoint
+
+Daily translation review should use the scoped fast checkpoint, not the full OT
+checkpoint:
+
+```bash
+make review-ot-fast REFS="Isaiah 44:24-28" PASS=262 CHANGES="Reviewed final Isaiah 44 wording."
+make review-nt-fast REFS="Matthew 1:1-5" PASS=120 CHANGES="Reviewed genealogy opening wording."
+```
+
+This path:
+
+- syncs translation-comparison footnote triggers for the reviewed refs;
+- adds full-verse reviewed phrase guards;
+- checks CSV shape for source, footnotes, decisions, and guards;
+- verifies footnote/source trigger sync for the reviewed refs;
+- runs focused smoke tests;
+- updates the review-pass validation block automatically.
+
+It deliberately skips aggregate Markdown, Logos DOCX, and full diagnostics.
+Run `make checkpoint-ot` only at chapter/book boundaries, before commits that
+need generated output refreshes, or before release tags.
+
 ## Private Research Boundary
 
 Private or copyrighted local material must stay in ignored paths:

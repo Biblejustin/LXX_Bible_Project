@@ -115,14 +115,20 @@ def upsert_full_verse_guards(testament: str, refs: set[str], source_by_ref: dict
     return changed
 
 
-def create_pass_file(pass_id: int, scope: str, changes: str) -> Path:
-    path = RESEARCH / f"ot_review_pass_{pass_id:03d}.md"
+def pass_file_path(testament: str, pass_id: int) -> Path:
+    prefix = "ot" if testament == "ot" else "nt"
+    return RESEARCH / f"{prefix}_review_pass_{pass_id:03d}.md"
+
+
+def create_pass_file(testament: str, pass_id: int, scope: str, changes: str) -> Path:
+    path = pass_file_path(testament, pass_id)
     if path.exists():
         return path
+    title = "OT" if testament == "ot" else "NT"
     path.write_text(
         "\n".join(
             [
-                f"# OT Review Pass {pass_id}",
+                f"# {title} Review Pass {pass_id}",
                 "",
                 f"Scope: {scope}.",
                 "",
@@ -137,6 +143,20 @@ def create_pass_file(pass_id: int, scope: str, changes: str) -> Path:
         ),
         encoding="utf-8",
     )
+    return path
+
+
+def mark_pass_validated(testament: str, pass_id: int, validation_lines: list[str]) -> Path:
+    path = pass_file_path(testament, pass_id)
+    if not path.exists():
+        raise SystemExit(f"Pass file does not exist: {path}")
+    text = path.read_text(encoding="utf-8")
+    marker = "Validation:\n"
+    if marker not in text:
+        text = text.rstrip() + "\n\n" + marker
+    before, _sep, _after = text.partition(marker)
+    validation = "\n".join(f"- {line}" for line in validation_lines)
+    path.write_text(before + marker + validation + "\n", encoding="utf-8")
     return path
 
 
@@ -171,6 +191,7 @@ def main() -> None:
     parser.add_argument("--scope")
     parser.add_argument("--changes", default="Reviewed article and readability cleanup.")
     parser.add_argument("--check-sync", action="store_true")
+    parser.add_argument("--mark-validated", action="append", default=[], help="Replace pass-file validation with this line; may be repeated.")
     args = parser.parse_args()
 
     refs = set(expand_refs(args.refs))
@@ -185,10 +206,12 @@ def main() -> None:
         print({"guards_upserted": upsert_full_verse_guards(args.testament, refs, source_by_ref, args.guard_note)})
     if args.pass_id is not None:
         scope = args.scope or args.refs
-        print({"pass_file": str(create_pass_file(args.pass_id, scope, args.changes))})
+        print({"pass_file": str(create_pass_file(args.testament, args.pass_id, scope, args.changes))})
     if args.check_sync:
         check_sync(refs, source_by_ref)
         print({"sync_ok": len(refs)})
+    if args.pass_id is not None and args.mark_validated:
+        print({"validated_pass_file": str(mark_pass_validated(args.testament, args.pass_id, args.mark_validated))})
 
 
 if __name__ == "__main__":
