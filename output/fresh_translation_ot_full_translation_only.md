@@ -73442,19 +73442,19 @@ For behold, the Lord from the holy place brings wrath upon the dwellers on the e
 
 **Isaiah 27:1**
 
-In that day God will bring holy and great and strong sword upon dragon, fleeing serpent, upon dragon, twisted serpent, and he will kill dragon.
+In that day God will bring the holy and great and strong sword upon the dragon, the fleeing serpent, upon the dragon, the twisted serpent, and he will kill the dragon.
 
 **Isaiah 27:2**
 
-In that day, beautiful vineyard, desire to begin against her.
+In that day, a beautiful vineyard, a desire to begin against her.
 
 **Isaiah 27:3**
 
-I, strong city, city under siege, water her in vain; for by night she will be captured, and by day wall will fall.
+I, a strong city, a city under siege, water her in vain; for by night she will be captured, and by day the wall will fall.
 
 **Isaiah 27:4**
 
-There is none who did not seize it. Who will set me to guard stubble in the field? For this war I rejected it; therefore the Lord God did all things he ordered. I have been burned up.
+There is none who did not seize it. Who will set me to guard stubble in the field? For this war I rejected it; therefore the Lord God did all the things he ordered. I have been burned up.
 
 **Isaiah 27:5**
 
@@ -73462,7 +73462,7 @@ Those dwelling in it will cry, Let us make peace to him, let us make peace.
 
 **Isaiah 27:6**
 
-Those coming, sons of Jacob; Israel will sprout and blossom, and inhabited world will be filled with his fruit.
+Those coming, sons of Jacob; Israel will sprout and blossom, and the inhabited world will be filled with his fruit.
 
 **Isaiah 27:7**
 
@@ -73470,27 +73470,27 @@ Was he struck as he struck? And thus will he be struck? And as he killed, thus w
 
 **Isaiah 27:8**
 
-Warring and reproaching he will send them out. Were not you one plotting with harsh spirit to kill them with spirit of anger?
+Warring and reproaching he will send them out. Were not you the one plotting with the harsh spirit to kill them with a spirit of anger?
 
 **Isaiah 27:9**
 
-Because of this lawlessness of Jacob will be removed, and this is his blessing whenever I take away his sin, whenever they set all stones of altars crushed like fine dust, and their trees and idols certainly will not remain, cut down like distant forest.
+Because of this the lawlessness of Jacob will be removed, and this is his blessing whenever I take away his sin, whenever they set all the stones of the altars crushed like fine dust, and their trees and idols certainly will not remain, cut down like a distant forest.
 
 **Isaiah 27:10**
 
-The inhabited flock will be left loose as abandoned flock, and for much time it will be for pasture, and there they will rest.
+The inhabited flock will be left loose as an abandoned flock, and for much time it will be for a pasture, and there they will rest.
 
 **Isaiah 27:11**
 
-And after time there will be no green thing in it because it dried up. Women coming from spectacle, come. For it is not people having understanding; because of this one making them certainly will not pity, nor one forming them show mercy.
+And after a time there will be no green thing in it because it dried up. Women coming from spectacle, come. For it is not a people having understanding; because of this the one making them certainly will not pity, nor the one forming them show mercy.
 
 **Isaiah 27:12**
 
-And it will be in that day, the Lord will fence off from channel of the river as far as Rhinocolura, and you gather sons of Israel one by one.
+And it will be in that day, the Lord will fence off from the channel of the river as far as Rhinocolura, and you gather the sons of Israel one by one.
 
 **Isaiah 27:13**
 
-And it will be in that day, they will trumpet with great trumpet, and those lost in the land of Assyrians and those lost in Egypt will come and bow to the Lord on holy mountain in Jerusalem.
+And it will be in that day, they will trumpet with the great trumpet, and those lost in the land of the Assyrians and those lost in Egypt will come and bow to the Lord on the holy mountain in Jerusalem.
 
 ### Chapter 28
 

@@ -162024,37 +162024,37 @@ Note:
 ### Isaiah 27:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day God will bring holy and great and strong sword upon dragon, fleeing serpent, upon dragon, twisted serpent, and he will kill dragon.
+- fresh: In that day God will bring the holy and great and strong sword upon the dragon, the fleeing serpent, upon the dragon, the twisted serpent, and he will kill the dragon.
 - brenton: In that day God shall bring his holy and great and strong sword upon the dragon, even the serpent that flees, upon the dragon, the crooked serpent: he shall destroy the dragon.
 
 ### Isaiah 27:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, beautiful vineyard, desire to begin against her.
+- fresh: In that day, a beautiful vineyard, a desire to begin against her.
 - brenton: In that day there shall be a fair vineyard, and a desire to commence a song concerning it.
 
 ### Isaiah 27:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I, strong city, city under siege, water her in vain; for by night she will be captured, and by day wall will fall.
+- fresh: I, a strong city, a city under siege, water her in vain; for by night she will be captured, and by day the wall will fall.
 - brenton: I am a strong city, a city in a siege: in vain shall I water it; for it shall be taken by night, and by day the wall shall fall.
 
 ### Isaiah 27:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is none who did not seize it. Who will set me to guard stubble in the field? For this war I rejected it; therefore the Lord God did all things he ordered. I have been burned up.
+- fresh: There is none who did not seize it. Who will set me to guard stubble in the field? For this war I rejected it; therefore the Lord God did all the things he ordered. I have been burned up.
 - brenton: There is no woman that has not taken hold of it; who will set me to watch stubble in the field? because of this enemy I have set her aside; therefore on this account the Lord has done all that he appointed.
 
 ### Isaiah 27:5
@@ -162069,10 +162069,10 @@ Note:
 ### Isaiah 27:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those coming, sons of Jacob; Israel will sprout and blossom, and inhabited world will be filled with his fruit.
+- fresh: Those coming, sons of Jacob; Israel will sprout and blossom, and the inhabited world will be filled with his fruit.
 - brenton: they that are coming are the children of Jacob. Israel shall bud and blossom, and the world shall be filled with his fruit.
 
 ### Isaiah 27:7
@@ -162087,55 +162087,55 @@ Note:
 ### Isaiah 27:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Warring and reproaching he will send them out. Were not you one plotting with harsh spirit to kill them with spirit of anger?
+- fresh: Warring and reproaching he will send them out. Were not you the one plotting with the harsh spirit to kill them with a spirit of anger?
 - brenton: Fighting and reproaching he will dismiss them; didst thou not meditate with a harsh spirit, to slay them with a wrathful spirit?
 
 ### Isaiah 27:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this lawlessness of Jacob will be removed, and this is his blessing whenever I take away his sin, whenever they set all stones of altars crushed like fine dust, and their trees and idols certainly will not remain, cut down like distant forest.
+- fresh: Because of this the lawlessness of Jacob will be removed, and this is his blessing whenever I take away his sin, whenever they set all the stones of the altars crushed like fine dust, and their trees and idols certainly will not remain, cut down like a distant forest.
 - brenton: Therefore shall the iniquity of Jacob be taken away; and this is his blessing, when I shall have taken away his sin; when they shall have broken to pieces all the stones of the altars as fine dust, and their trees shall not remain, and their idols shall be cut off, as a thicket afar off.
 
 ### Isaiah 27:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The inhabited flock will be left loose as abandoned flock, and for much time it will be for pasture, and there they will rest.
+- fresh: The inhabited flock will be left loose as an abandoned flock, and for much time it will be for a pasture, and there they will rest.
 - brenton: The flock that dwelt there shall be left, as a deserted flock; and the ground shall be for a long time for pasture, and there shall flocks lie down to rest.
 
 ### Isaiah 27:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after time there will be no green thing in it because it dried up. Women coming from spectacle, come. For it is not people having understanding; because of this one making them certainly will not pity, nor one forming them show mercy.
+- fresh: And after a time there will be no green thing in it because it dried up. Women coming from spectacle, come. For it is not a people having understanding; because of this the one making them certainly will not pity, nor the one forming them show mercy.
 - brenton: And after a time there shall be in it no green thing because of the grass being parched. Come hither, ye women that come from a sight; for it is a people of no understanding; therefore he that made them shall have no pity upon them, and he that formed them shall have no mercy upon them.
 
 ### Isaiah 27:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, the Lord will fence off from channel of the river as far as Rhinocolura, and you gather sons of Israel one by one.
+- fresh: And it will be in that day, the Lord will fence off from the channel of the river as far as Rhinocolura, and you gather the sons of Israel one by one.
 - brenton: And it shall come to pass in that day that God shall fence men off from the channel of the river as far as Rhinocorura; but do ye gather one by one the children of Israel.
 
 ### Isaiah 27:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, they will trumpet with great trumpet, and those lost in the land of Assyrians and those lost in Egypt will come and bow to the Lord on holy mountain in Jerusalem.
+- fresh: And it will be in that day, they will trumpet with the great trumpet, and those lost in the land of the Assyrians and those lost in Egypt will come and bow to the Lord on the holy mountain in Jerusalem.
 - brenton: And it shall come to pass in that day, that they shall blow the great trumpet, and the lost ones in the land of the Assyrians shall come, and the lost ones in Egypt, and shall worship the Lord on the holy mountain in Jerusalem.
 
 ### Isaiah 28:1

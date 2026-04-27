@@ -5078,6 +5078,41 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "until the anger of the Lord passes" in by_ref["Isaiah 26:20"][
         "draft_translation"
     ]
+    assert "the holy and great and strong sword" in by_ref["Isaiah 27:1"][
+        "draft_translation"
+    ]
+    assert "the dragon, the fleeing serpent" in by_ref["Isaiah 27:1"][
+        "draft_translation"
+    ]
+    assert "a beautiful vineyard" in by_ref["Isaiah 27:2"]["draft_translation"]
+    assert "I, a strong city" in by_ref["Isaiah 27:3"]["draft_translation"]
+    assert "the inhabited world will be filled" in by_ref["Isaiah 27:6"][
+        "draft_translation"
+    ]
+    assert "the one plotting with the harsh spirit" in by_ref["Isaiah 27:8"][
+        "draft_translation"
+    ]
+    assert "the lawlessness of Jacob" in by_ref["Isaiah 27:9"][
+        "draft_translation"
+    ]
+    assert "all the stones of the altars" in by_ref["Isaiah 27:9"][
+        "draft_translation"
+    ]
+    assert "as an abandoned flock" in by_ref["Isaiah 27:10"][
+        "draft_translation"
+    ]
+    assert "not a people having understanding" in by_ref["Isaiah 27:11"][
+        "draft_translation"
+    ]
+    assert "from the channel of the river" in by_ref["Isaiah 27:12"][
+        "draft_translation"
+    ]
+    assert "with the great trumpet" in by_ref["Isaiah 27:13"][
+        "draft_translation"
+    ]
+    assert "on the holy mountain in Jerusalem" in by_ref["Isaiah 27:13"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
