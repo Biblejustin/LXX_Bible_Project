@@ -4,9 +4,9 @@
   "rows_with_mt": 21754,
   "rows_with_brenton": 22321,
   "category_counts": {
-    "same_as_mt_differs_from_brenton": 52,
-    "different_from_both": 20939,
-    "same_as_both": 8,
+    "same_as_mt_differs_from_brenton": 53,
+    "different_from_both": 20937,
+    "same_as_both": 9,
     "same_as_brenton_differs_from_mt": 187,
     "missing_mt": 1135,
     "missing_brenton": 568,

@@ -3822,7 +3822,14 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "This is the portion of an ungodly man"
     )
     assert "what is the place of darkness" in by_ref["Job 38:19"]["draft_translation"]
+    assert by_ref["Ecclesiastes 3:2"]["draft_translation"].startswith(
+        "A time to bear and a time to die"
+    )
+    assert "What surplus is there to the doer" in by_ref["Ecclesiastes 3:9"]["draft_translation"]
+    assert "the work that God made" in by_ref["Ecclesiastes 3:11"]["draft_translation"]
     assert "it is a gift of God" in by_ref["Ecclesiastes 3:13"]["draft_translation"]
+    assert "there is a season for every matter" in by_ref["Ecclesiastes 3:17"]["draft_translation"]
+    assert "this is his portion" in by_ref["Ecclesiastes 3:22"]["draft_translation"]
     assert by_ref["Jeremiah 31:16"]["draft_translation"].startswith("Near is the day of Moab")
     assert by_ref["Zephaniah 1:15"]["draft_translation"].startswith("That day is a day of wrath")
     assert "he is a messenger of the Lord Almighty" in by_ref["Malachi 2:7"]["draft_translation"]

@@ -1,6 +1,6 @@
 # Fresh Same as MT, Differs from Brenton
 
-Rows: 52
+Rows: 53
 
 ## 1 Chronicles 11:36
 - priority: `0`
@@ -190,6 +190,15 @@ Rows: 52
 - fresh: Shammah the Harodite, Elika the Harodite,
 - mt: Shammah the Harodite, Elika the Harodite,
 - brenton: Sæma the Rudæan.
+
+## Ecclesiastes 3:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `1.000`
+- fresh_brenton_ratio: `0.950`
+- fresh: A time to weep and a time to laugh; a time to mourn and a time to dance.
+- mt: A time to weep, and a time to laugh; a time to mourn, and a time to dance;
+- brenton: a time to weep, and a time to laugh; a time to lament, and a time to dance;
 
 ## Exodus 1:3
 - priority: `0`

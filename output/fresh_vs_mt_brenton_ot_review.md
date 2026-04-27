@@ -4,9 +4,9 @@ Scope: Genesis-Malachi (39 books)
 Drafted rows checked: 22909
 Rows with MT witness: 21754
 Rows with Brenton witness: 22321
-Rows same as MT, different from Brenton: 52
+Rows same as MT, different from Brenton: 53
 Rows MT-leaning vs Brenton: 723
-Rows different from both: 20939
+Rows different from both: 20937
 
 Method:
 - `same as MT` = normalized fresh English equals normalized UKJV verse.
@@ -162,6 +162,13 @@ Method:
 - fresh: Shammah the Harodite, Elika the Harodite,
 - mt: Shammah the Harodite, Elika the Harodite,
 - brenton: Sæma the Rudæan.
+
+### Ecclesiastes 3:4
+- priority: `0`
+- importance: `none`
+- fresh: A time to weep and a time to laugh; a time to mourn and a time to dance.
+- mt: A time to weep, and a time to laugh; a time to mourn, and a time to dance;
+- brenton: a time to weep, and a time to laugh; a time to lament, and a time to dance;
 
 ### Exodus 1:3
 - priority: `0`
@@ -18042,15 +18049,6 @@ Method:
 - mt: And he said, All is well. My master has sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray you, a talent of silver, and two changes of garments.
 - brenton: And Giezi said, All is well: my master has sent me, saying, Behold, now are there come to me two young men of the sons of the prophets from mount Ephraim; give them, I pray thee, a talent of silver, and two changes of raiment.
 
-### Ecclesiastes 3:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.083`
-- fresh_brenton_ratio: `0.053`
-- fresh: Because meeting of sons of man and meeting of beast, one meeting for them; as death of this one, so death of that one, and one spirit in all, and what did man have more than beast? Nothing, because all vanity.
-- mt: For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is vanity.
-- brenton: Also to them is the event of the sons of man, and the event of the brute; one event befalls them: as is the death of the one, so also the death of the other; and there is one breath to all: and what has the man more than the brute? nothing; for all is vanity.
-
 ### 2 Chronicles 30:21
 - priority: `0`
 - importance: `none`
@@ -20444,6 +20442,15 @@ Method:
 - fresh: Go, seek the Lord concerning me and concerning all the people and concerning all Judah, concerning the words of this book that was found, because great is the anger of the Lord, which burns in us, because our fathers did not listen to all the words of this book to do according to all written for us.
 - mt: Go all of you, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
 - brenton: Go, enquire of the Lord for me, and for all the people, and for all Juda, and concerning the words of this book that has been found: for the wrath of the Lord that has been kindled against us is great, because our fathers hearkened not to the words of this book, to do according to all the things written concerning us.
+
+### Ecclesiastes 3:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.108`
+- fresh_brenton_ratio: `0.078`
+- fresh: Because the meeting of the sons of man and the meeting of the beast are one meeting for them; as the death of this one, so the death of that one, and one spirit is in all, and what did man have more than beast? Nothing, because all is vanity.
+- mt: For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is vanity.
+- brenton: Also to them is the event of the sons of man, and the event of the brute; one event befalls them: as is the death of the one, so also the death of the other; and there is one breath to all: and what has the man more than the brute? nothing; for all is vanity.
 
 ### Ecclesiastes 4:8
 - priority: `0`
@@ -71772,6 +71779,15 @@ Method:
 - mt: Consider the work of God: for who can make that straight, which he has made crooked?
 - brenton: Behold the works of God: for who shall be able to straighten him whom God has made crooked?
 
+### Ecclesiastes 3:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.479`
+- fresh_brenton_ratio: `0.515`
+- fresh: What surplus is there to the doer in the things in which he toils?
+- mt: What profit has he that works in that wherein he labours?
+- brenton: What advantage has he that works in those things wherein he labours?
+
 ### 1 Kings 4:4
 - priority: `0`
 - importance: `none`
@@ -77864,15 +77880,6 @@ Method:
 - fresh: And the centurions did all that Jehoiada the priest commanded, and each man took his men, those entering on the Sabbath along with those going out on the Sabbath, and came to Jehoiada the priest.
 - mt: And the captains over the hundreds did according to all things that Jehoiada the priest commanded: and they took every man his men that were to come in on the sabbath, with them that should go out on the sabbath, and came to Jehoiada the priest.
 - brenton: And the captains of hundreds did all things that the wise Jodae commanded; and they took each his men, both those that went in on the sabbath-day, and those that went out on the sabbath-day, and went in to Jodae the priest.
-
-### Ecclesiastes 3:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.519`
-- fresh_brenton_ratio: `0.504`
-- fresh: What surplus to doer in things in which he toils?
-- mt: What profit has he that works in that wherein he labours?
-- brenton: What advantage has he that works in those things wherein he labours?
 
 ### Proverbs 20:24
 - priority: `0`
@@ -107970,15 +107977,6 @@ Method:
 - mt: And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon of wine.
 - brenton: And he divided to every man of Israel (both men and women), to every man one baker's loaf, and a cake.
 
-### Ecclesiastes 3:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.643`
-- fresh_brenton_ratio: `0.702`
-- fresh: There I said in my heart about speech of sons of man, that God will sort them out and show that they are beasts, even they themselves.
-- mt: I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
-- brenton: I said in my heart, concerning the speech of the sons of man, God will judge them, and that to shew that they are beasts.
-
 ### Jeremiah 21:13
 - priority: `0`
 - importance: `none`
@@ -110219,15 +110217,6 @@ Method:
 - fresh: And I have announced to him that I am avenging his house forever for the injustices of his sons, because his sons were blaspheming God and he was not warning them, not even so.
 - mt: For I have told him that I will judge his house for ever for the iniquity which he knows; because his sons made themselves vile, and he restrained them not.
 - brenton: And I have told him that I will be avenged on his house perpetually for the iniquities of his sons, because his sons spoke evil against God, and he did not admonish them.
-
-### Ecclesiastes 3:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.650`
-- fresh_brenton_ratio: `0.721`
-- fresh: I said in my heart, "The righteous and the ungodly God will judge, because season for every matter and over every work."
-- mt: I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.
-- brenton: And I said in my heart, God will judge the righteous and the ungodly: for there is a time there for every action and for every work.
 
 ### Jeremiah 6:3
 - priority: `0`
@@ -116555,6 +116544,15 @@ Method:
 - fresh: Therefore say to the house of Israel, Thus says the Lord: Are you defiling yourselves in lawless deeds of your fathers, and after their abominations are you whoring?
 - mt: Wherefore say unto the house of Israel, Thus says the Lord GOD; Are all of you polluted after the manner of your fathers? and commit all of you whoredom after their abominations?
 - brenton: Therefore say to the house of Israel, Thus saith the Lord, Do ye pollute yourselves with the iniquities of your fathers, and do ye go a-whoring after their abominations,
+
+### Ecclesiastes 3:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.669`
+- fresh_brenton_ratio: `0.737`
+- fresh: I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work."
+- mt: I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.
+- brenton: And I said in my heart, God will judge the righteous and the ungodly: for there is a time there for every action and for every work.
 
 ### Genesis 12:19
 - priority: `0`
@@ -123368,6 +123366,15 @@ Method:
 - fresh: And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to the daughter of Jerusalem.
 - mt: And you, O tower of the flock, the strong hold of the daughter of Zion, unto you shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
 - brenton: And thou, dark tower of the flock, daughter of Sion, on thee the dominion shall come and enter in, even the first kingdom from Babylon to the daughter of Jerusalem.
+
+### Ecclesiastes 3:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.688`
+- fresh_brenton_ratio: `0.734`
+- fresh: There I said in my heart about the speech of the sons of man, that God will sort them out and show that they are beasts, even they themselves.
+- mt: I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+- brenton: I said in my heart, concerning the speech of the sons of man, God will judge them, and that to shew that they are beasts.
 
 ### Job 31:5
 - priority: `0`
@@ -135294,6 +135301,15 @@ Method:
 - mt: Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days.
 - brenton: Nevertheless the people burnt incense on the high places, because a house had not yet been built to the Lord.
 
+### Ecclesiastes 3:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.717`
+- fresh_brenton_ratio: `0.767`
+- fresh: And I saw there is no good except that man will rejoice in his works, because this is his portion; for who will bring him to see what will happen after him?
+- mt: Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
+- brenton: And I saw that there was no good, but that wherein a man shall rejoice in his works, for it is his portion, for who shall bring him to see any thing of that which shall be after him?
+
 ### Proverbs 21:30
 - priority: `0`
 - importance: `none`
@@ -135680,15 +135696,6 @@ Method:
 - fresh: And the Lord God said to Cain, 'Why did you become deeply grieved, and why did your face fall?'
 - mt: And the LORD said unto Cain, Why are you angry? and why is your countenance fallen?
 - brenton: And the Lord God said to Cain, Why art thou become very sorrowful and why is thy countenance fallen?
-
-### Ecclesiastes 3:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.718`
-- fresh_brenton_ratio: `0.768`
-- fresh: And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him?
-- mt: Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
-- brenton: And I saw that there was no good, but that wherein a man shall rejoice in his works, for it is his portion, for who shall bring him to see any thing of that which shall be after him?
 
 ### Jeremiah 52:8
 - priority: `0`
@@ -137148,15 +137155,6 @@ Method:
 - mt: Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
 - brenton: And I gave charge to twelve of the chiefs of the priests, to Saraia, to Asabia, and ten of their brethren with them.
 
-### Ecclesiastes 3:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.722`
-- fresh_brenton_ratio: `0.675`
-- fresh: I saw distraction which God gave to the sons of man to be distracted in it.
-- mt: I have seen the travail, which God has given to the sons of men to be exercised in it.
-- brenton: I have seen all the trouble, which God has given to the sons of men to be troubled with.
-
 ### 1 Chronicles 17:25
 - priority: `0`
 - importance: `none`
@@ -138407,15 +138405,6 @@ Method:
 - fresh: "And there will be a great cry through all the land of Egypt, such as has never happened and will never be added again."
 - mt: And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 - brenton: And there shall be a great cry through all the land of Egypt, such as has not been, and such shall not be repeated any more.
-
-### Ecclesiastes 3:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.725`
-- fresh_brenton_ratio: `0.718`
-- fresh: Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from the beginning even to end.
-- mt: He has made every thing beautiful in his time: also he has set the world in their heart, so that no man can find out the work that God makes from the beginning to the end.
-- brenton: All the things which he has made are beautiful in his time: he has also set the whole world in their heart, that man might not find out the work which God has wrought from the beginning even to the end.
 
 ### Proverbs 1:15
 - priority: `0`
@@ -149739,6 +149728,15 @@ Method:
 - mt: And the evening and the morning were the fifth day.
 - brenton: And there was evening and there was morning, the fifth day.
 
+### Ecclesiastes 3:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.753`
+- fresh_brenton_ratio: `0.707`
+- fresh: I saw the distraction which God gave to the sons of man to be distracted in it.
+- mt: I have seen the travail, which God has given to the sons of men to be exercised in it.
+- brenton: I have seen all the trouble, which God has given to the sons of men to be troubled with.
+
 ### Hosea 10:6
 - priority: `0`
 - importance: `none`
@@ -159810,15 +159808,6 @@ Method:
 - mt: And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto you, that you shall speak. So Balaam went with the princes of Balak.
 - brenton: And the angel of the Lord said to Balaam, Go with the men: nevertheless the word which I shall speak to thee, that thou shalt take heed to speak. And Balaam went with the princes of Balac.
 
-### Ecclesiastes 3:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.779`
-- fresh_brenton_ratio: `0.765`
-- fresh: Time to bear and time to die; time to plant and time to pull up planted thing.
-- mt: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
-- brenton: A time of birth, and a time to die; a time to plant, and a time to pluck up what has been planted;
-
 ### 1 Chronicles 14:4
 - priority: `0`
 - importance: `none`
@@ -162996,15 +162985,6 @@ Method:
 - mt: And they removed from Tarah, and pitched in Mithcah.
 - brenton: And they departed from Tarath, and encamped in Mathecca.
 
-### Ecclesiastes 3:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.788`
-- fresh_brenton_ratio: `0.760`
-- fresh: And who knows whether spirit of sons of man goes upward, and spirit of beast goes down to earth?
-- mt: Who knows the spirit of man that goes upward, and the spirit of the beast that goes downward to the earth?
-- brenton: And who has seen the spirit of the sons of man, whether it goes upward? and the spirit of the beast, whether it goes downward to the earth?
-
 ### Joshua 9:7
 - priority: `0`
 - importance: `none`
@@ -164453,6 +164433,15 @@ Method:
 - fresh: And with Absalom went two hundred men from Jerusalem, invited and going in their simplicity, and they knew no word.
 - mt: And with Absalom went two hundred men out of Jerusalem, that were called; and they went in their simplicity, and they knew not any thing.
 - brenton: And there went with Abessalom two hundred chosen men from Jerusalem; and they went in their simplicity, and knew not anything.
+
+### Ecclesiastes 3:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.792`
+- fresh_brenton_ratio: `0.738`
+- fresh: Together he made all things beautiful in its time, and also together he gave the age in their heart, so that man might not find the work that God made from the beginning even to the end.
+- mt: He has made every thing beautiful in his time: also he has set the world in their heart, so that no man can find out the work that God makes from the beginning to the end.
+- brenton: All the things which he has made are beautiful in his time: he has also set the whole world in their heart, that man might not find out the work which God has wrought from the beginning even to the end.
 
 ### Judges 17:9
 - priority: `0`
@@ -169007,6 +168996,15 @@ Method:
 - fresh: And they set out from Haradah and camped at Makheloth.
 - mt: And they removed from Haradah, and pitched in Makheloth.
 - brenton: And they departed from Charadath, and encamped in Makeloth.
+
+### Ecclesiastes 3:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.824`
+- fresh: And who knows whether the spirit of the sons of man goes upward, and the spirit of the beast goes down to earth?
+- mt: Who knows the spirit of man that goes upward, and the spirit of the beast that goes downward to the earth?
+- brenton: And who has seen the spirit of the sons of man, whether it goes upward? and the spirit of the beast, whether it goes downward to the earth?
 
 ### Leviticus 14:30
 - priority: `0`
@@ -177459,15 +177457,6 @@ Method:
 - mt: And Zebadiah, and Arad, and Ader,
 - brenton: and Zabadia, and Ored, and Eder,
 
-### Ecclesiastes 3:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.833`
-- fresh_brenton_ratio: `0.858`
-- fresh: Time to throw stones and time to gather stones; time to embrace and time to keep far from embracing.
-- mt: A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
-- brenton: a time to throw stones, and a time to gather stones together; a time to embrace, and a time to abstain from embracing;
-
 ### Genesis 33:3
 - priority: `0`
 - importance: `none`
@@ -181257,15 +181246,6 @@ Method:
 - mt: Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
 - brenton: And Jephthae fled from the face of his brethren, and dwelt in the land of Tob; and vain men gathered to Jephthae, and went out with him.
 
-### Ecclesiastes 3:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.849`
-- fresh_brenton_ratio: `0.897`
-- fresh: Time to tear and time to sew; time to be silent and time to speak.
-- mt: A time to rend, and a time to sew; a time to keep silence, and a time to speak;
-- brenton: a time to rend, and a time to sew; a time to be silent, and a time to speak;
-
 ### Joshua 3:11
 - priority: `0`
 - importance: `none`
@@ -181661,15 +181641,6 @@ Method:
 - fresh: And David took golden armlets which were on the servants of Hadarezer and brought them to Jerusalem.
 - mt: And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
 - brenton: And David took the golden collars that were on the servants of Adraazar, and brought them to Jerusalem.
-
-### Ecclesiastes 3:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.851`
-- fresh_brenton_ratio: `0.889`
-- fresh: Time to seek and time to lose; time to keep and time to cast out.
-- mt: A time to get, and a time to lose; a time to keep, and a time to cast away;
-- brenton: a time to seek, and a time to lose; a time to keep, and a time to cast away;
 
 ### Genesis 36:34
 - priority: `0`
@@ -186666,6 +186637,15 @@ Method:
 - mt: Azareel, and Shelemiah, Shemariah,
 - brenton: Ezriel, and Selemia, and Samaria,
 
+### Ecclesiastes 3:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.875`
+- fresh_brenton_ratio: `0.900`
+- fresh: A time to throw stones and a time to gather stones; a time to embrace and a time to keep far from embracing.
+- mt: A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
+- brenton: a time to throw stones, and a time to gather stones together; a time to embrace, and a time to abstain from embracing;
+
 ### 1 Chronicles 2:13
 - priority: `0`
 - importance: `none`
@@ -188619,15 +188599,6 @@ Method:
 - mt: And the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
 - brenton: And the rest of the acts of Phakesias, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.
 
-### Ecclesiastes 3:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.887`
-- fresh_brenton_ratio: `0.865`
-- fresh: Time to kill and time to heal; time to tear down and time to build.
-- mt: A time to kill, and a time to heal; a time to break down, and a time to build up;
-- brenton: a time to kill, and a time to heal; a time to pull down, and a time to build up;
-
 ### Numbers 33:10
 - priority: `0`
 - importance: `none`
@@ -190455,6 +190426,15 @@ Method:
 - mt: Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, says the LORD.
 - brenton: Go up to the mountain, and cut timber; build the house, and I will take pleasure in it, and be glorified, saith the Lord.
 
+### Ecclesiastes 3:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.901`
+- fresh_brenton_ratio: `0.889`
+- fresh: A time to bear and a time to die; a time to plant and a time to pull up what is planted.
+- mt: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
+- brenton: A time of birth, and a time to die; a time to plant, and a time to pluck up what has been planted;
+
 ### 1 Chronicles 29:28
 - priority: `0`
 - importance: `none`
@@ -191706,6 +191686,15 @@ Method:
 - mt: And the flesh and the hide he burnt with fire without the camp.
 - brenton: And the flesh and the hide he burnt with fire outside of the camp.
 
+### Ecclesiastes 3:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.912`
+- fresh_brenton_ratio: `0.958`
+- fresh: A time to tear and a time to sew; a time to be silent and a time to speak.
+- mt: A time to rend, and a time to sew; a time to keep silence, and a time to speak;
+- brenton: a time to rend, and a time to sew; a time to be silent, and a time to speak;
+
 ### 2 Kings 19:36
 - priority: `0`
 - importance: `none`
@@ -192092,6 +192081,15 @@ Method:
 - fresh: And Isaac his father said to him, Who are you? And he said, I am your firstborn son Esau.
 - mt: And Isaac his father said unto him, Who are you? And he said, I am your son, your firstborn Esau.
 - brenton: And Isaac his father said to him, Who art thou? And he said, I am thy first-born son Esau.
+
+### Ecclesiastes 3:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.915`
+- fresh_brenton_ratio: `0.951`
+- fresh: A time to seek and a time to lose; a time to keep and a time to cast out.
+- mt: A time to get, and a time to lose; a time to keep, and a time to cast away;
+- brenton: a time to seek, and a time to lose; a time to keep, and a time to cast away;
 
 ### Numbers 16:12
 - priority: `0`
@@ -193605,15 +193603,6 @@ Method:
 - mt: And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
 - brenton: And the sons of Joakim; Jechonias his son, Sedekias his son.
 
-### Ecclesiastes 3:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.937`
-- fresh_brenton_ratio: `0.937`
-- fresh: Time to love and time to hate; time of war and time of peace.
-- mt: A time to love, and a time to hate; a time of war, and a time of peace.
-- brenton: a time to love, and a time to hate; a time of war, and a time of peace.
-
 ### Nehemiah 12:15
 - priority: `0`
 - importance: `none`
@@ -193730,15 +193719,6 @@ Method:
 - fresh: in all the signs and wonders for which the Lord sent him to do them in the land of Egypt, to Pharaoh and to his servants and to all his land,
 - mt: In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 - brenton: in all the signs and wonders, which the Lord sent him to work in Egypt on Pharao, and his servants, and all his land;
-
-### Ecclesiastes 3:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.939`
-- fresh_brenton_ratio: `0.887`
-- fresh: Time to weep and time to laugh; time to mourn and time to dance.
-- mt: A time to weep, and a time to laugh; a time to mourn, and a time to dance;
-- brenton: a time to weep, and a time to laugh; a time to lament, and a time to dance;
 
 ### Genesis 17:25
 - priority: `0`
@@ -194099,6 +194079,15 @@ Method:
 - fresh: to Ezra, Meshullam; to Amariah, Jehohanan;
 - mt: Of Ezra, Meshullam; of Amariah, Jehohanan;
 - brenton: to Esdra, Mesulam; to Amaria, Joanan;
+
+### Ecclesiastes 3:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.947`
+- fresh_brenton_ratio: `0.926`
+- fresh: A time to kill and a time to heal; a time to tear down and a time to build.
+- mt: A time to kill, and a time to heal; a time to break down, and a time to build up;
+- brenton: a time to kill, and a time to heal; a time to pull down, and a time to build up;
 
 ### Genesis 30:22
 - priority: `0`

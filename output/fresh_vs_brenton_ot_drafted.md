@@ -154910,91 +154910,91 @@ Note:
 ### Ecclesiastes 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to bear and time to die; time to plant and time to pull up planted thing.
+- fresh: A time to bear and a time to die; a time to plant and a time to pull up what is planted.
 - brenton: A time of birth, and a time to die; a time to plant, and a time to pluck up what has been planted;
 
 ### Ecclesiastes 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to kill and time to heal; time to tear down and time to build.
+- fresh: A time to kill and a time to heal; a time to tear down and a time to build.
 - brenton: a time to kill, and a time to heal; a time to pull down, and a time to build up;
 
 ### Ecclesiastes 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to weep and time to laugh; time to mourn and time to dance.
+- fresh: A time to weep and a time to laugh; a time to mourn and a time to dance.
 - brenton: a time to weep, and a time to laugh; a time to lament, and a time to dance;
 
 ### Ecclesiastes 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to throw stones and time to gather stones; time to embrace and time to keep far from embracing.
+- fresh: A time to throw stones and a time to gather stones; a time to embrace and a time to keep far from embracing.
 - brenton: a time to throw stones, and a time to gather stones together; a time to embrace, and a time to abstain from embracing;
 
 ### Ecclesiastes 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to seek and time to lose; time to keep and time to cast out.
+- fresh: A time to seek and a time to lose; a time to keep and a time to cast out.
 - brenton: a time to seek, and a time to lose; a time to keep, and a time to cast away;
 
 ### Ecclesiastes 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Time to tear and time to sew; time to be silent and time to speak.
+- fresh: A time to tear and a time to sew; a time to be silent and a time to speak.
 - brenton: a time to rend, and a time to sew; a time to be silent, and a time to speak;
 
 ### Ecclesiastes 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
-- same_normalized: no
-- fresh: Time to love and time to hate; time of war and time of peace.
+- same_normalized: yes
+- fresh: A time to love and a time to hate; a time of war and a time of peace.
 - brenton: a time to love, and a time to hate; a time of war, and a time of peace.
 
 ### Ecclesiastes 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What surplus to doer in things in which he toils?
+- fresh: What surplus is there to the doer in the things in which he toils?
 - brenton: What advantage has he that works in those things wherein he labours?
 
 ### Ecclesiastes 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw distraction which God gave to the sons of man to be distracted in it.
+- fresh: I saw the distraction which God gave to the sons of man to be distracted in it.
 - brenton: I have seen all the trouble, which God has given to the sons of men to be troubled with.
 
 ### Ecclesiastes 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from the beginning even to end.
+- fresh: Together he made all things beautiful in its time, and also together he gave the age in their heart, so that man might not find the work that God made from the beginning even to the end.
 - brenton: All the things which he has made are beautiful in his time: he has also set the whole world in their heart, that man might not find out the work which God has wrought from the beginning even to the end.
 
 ### Ecclesiastes 3:12
@@ -155045,28 +155045,28 @@ Note:
 ### Ecclesiastes 3:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said in my heart, "The righteous and the ungodly God will judge, because season for every matter and over every work."
+- fresh: I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work."
 - brenton: And I said in my heart, God will judge the righteous and the ungodly: for there is a time there for every action and for every work.
 
 ### Ecclesiastes 3:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There I said in my heart about speech of sons of man, that God will sort them out and show that they are beasts, even they themselves.
+- fresh: There I said in my heart about the speech of the sons of man, that God will sort them out and show that they are beasts, even they themselves.
 - brenton: I said in my heart, concerning the speech of the sons of man, God will judge them, and that to shew that they are beasts.
 
 ### Ecclesiastes 3:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because meeting of sons of man and meeting of beast, one meeting for them; as death of this one, so death of that one, and one spirit in all, and what did man have more than beast? Nothing, because all vanity.
+- fresh: Because the meeting of the sons of man and the meeting of the beast are one meeting for them; as the death of this one, so the death of that one, and one spirit is in all, and what did man have more than beast? Nothing, because all is vanity.
 - brenton: Also to them is the event of the sons of man, and the event of the brute; one event befalls them: as is the death of the one, so also the death of the other; and there is one breath to all: and what has the man more than the brute? nothing; for all is vanity.
 
 ### Ecclesiastes 3:20
@@ -155081,19 +155081,19 @@ Note:
 ### Ecclesiastes 3:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And who knows whether spirit of sons of man goes upward, and spirit of beast goes down to earth?
+- fresh: And who knows whether the spirit of the sons of man goes upward, and the spirit of the beast goes down to earth?
 - brenton: And who has seen the spirit of the sons of man, whether it goes upward? and the spirit of the beast, whether it goes downward to the earth?
 
 ### Ecclesiastes 3:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him?
+- fresh: And I saw there is no good except that man will rejoice in his works, because this is his portion; for who will bring him to see what will happen after him?
 - brenton: And I saw that there was no good, but that wherein a man shall rejoice in his works, for it is his portion, for who shall bring him to see any thing of that which shall be after him?
 
 ### Ecclesiastes 4:1

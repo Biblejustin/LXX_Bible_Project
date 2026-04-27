@@ -70190,43 +70190,43 @@ For all things there is a time, and a season for every matter under heaven.
 
 **Ecclesiastes 3:2**
 
-Time to bear and time to die; time to plant and time to pull up planted thing.
+A time to bear and a time to die; a time to plant and a time to pull up what is planted.
 
 **Ecclesiastes 3:3**
 
-Time to kill and time to heal; time to tear down and time to build.
+A time to kill and a time to heal; a time to tear down and a time to build.
 
 **Ecclesiastes 3:4**
 
-Time to weep and time to laugh; time to mourn and time to dance.
+A time to weep and a time to laugh; a time to mourn and a time to dance.
 
 **Ecclesiastes 3:5**
 
-Time to throw stones and time to gather stones; time to embrace and time to keep far from embracing.
+A time to throw stones and a time to gather stones; a time to embrace and a time to keep far from embracing.
 
 **Ecclesiastes 3:6**
 
-Time to seek and time to lose; time to keep and time to cast out.
+A time to seek and a time to lose; a time to keep and a time to cast out.
 
 **Ecclesiastes 3:7**
 
-Time to tear and time to sew; time to be silent and time to speak.
+A time to tear and a time to sew; a time to be silent and a time to speak.
 
 **Ecclesiastes 3:8**
 
-Time to love and time to hate; time of war and time of peace.
+A time to love and a time to hate; a time of war and a time of peace.
 
 **Ecclesiastes 3:9**
 
-What surplus to doer in things in which he toils?
+What surplus is there to the doer in the things in which he toils?
 
 **Ecclesiastes 3:10**
 
-I saw distraction which God gave to the sons of man to be distracted in it.
+I saw the distraction which God gave to the sons of man to be distracted in it.
 
 **Ecclesiastes 3:11**
 
-Together he made all things beautiful in its time, and also together he gave age in their heart, so that man might not find work God made from the beginning even to end.
+Together he made all things beautiful in its time, and also together he gave the age in their heart, so that man might not find the work that God made from the beginning even to the end.
 
 **Ecclesiastes 3:12**
 
@@ -70250,15 +70250,15 @@ And further, I saw under the sun: in the place of judgment, there was the impiou
 
 **Ecclesiastes 3:17**
 
-I said in my heart, "The righteous and the ungodly God will judge, because season for every matter and over every work."
+I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work."
 
 **Ecclesiastes 3:18**
 
-There I said in my heart about speech of sons of man, that God will sort them out and show that they are beasts, even they themselves.
+There I said in my heart about the speech of the sons of man, that God will sort them out and show that they are beasts, even they themselves.
 
 **Ecclesiastes 3:19**
 
-Because meeting of sons of man and meeting of beast, one meeting for them; as death of this one, so death of that one, and one spirit in all, and what did man have more than beast? Nothing, because all vanity.
+Because the meeting of the sons of man and the meeting of the beast are one meeting for them; as the death of this one, so the death of that one, and one spirit is in all, and what did man have more than beast? Nothing, because all is vanity.
 
 **Ecclesiastes 3:20**
 
@@ -70266,11 +70266,11 @@ All go to one place; all became from dust, and all return to dust.
 
 **Ecclesiastes 3:21**
 
-And who knows whether spirit of sons of man goes upward, and spirit of beast goes down to earth?
+And who knows whether the spirit of the sons of man goes upward, and the spirit of the beast goes down to earth?
 
 **Ecclesiastes 3:22**
 
-And I saw there is no good except that man will rejoice in his works, because this his portion; for who will bring him to see what will happen after him?
+And I saw there is no good except that man will rejoice in his works, because this is his portion; for who will bring him to see what will happen after him?
 
 ### Chapter 4
 
