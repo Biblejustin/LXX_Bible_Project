@@ -2916,6 +2916,33 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "The righteous will wait for me" in by_ref["Psalms 141:8"][
         "draft_translation"
     ]
+    assert "but the ungodly will be shamed" in by_ref["Proverbs 13:5"][
+        "draft_translation"
+    ]
+    assert "Desires of the godly sweeten the soul" in by_ref["Proverbs 13:19"][
+        "draft_translation"
+    ]
+    assert "works of the ungodly are far from knowledge" in by_ref[
+        "Proverbs 13:19"
+    ]["draft_translation"]
+    assert "the houses of the righteous are acceptable" in by_ref[
+        "Proverbs 14:9"
+    ]["draft_translation"]
+    assert "the tents of those setting straight will stand" in by_ref[
+        "Proverbs 14:11"
+    ]["draft_translation"]
+    assert "the ungodly will serve at the doors of the righteous" in by_ref[
+        "Proverbs 14:19"
+    ]["draft_translation"]
+    assert "In his evil the ungodly will be driven away" in by_ref[
+        "Proverbs 14:32"
+    ]["draft_translation"]
+    assert "one trusting in his own holiness is righteous" in by_ref[
+        "Proverbs 14:32"
+    ]["draft_translation"]
+    assert "but he loves those pursuing righteousness" in by_ref["Proverbs 15:9"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

@@ -50172,15 +50172,6 @@ Method:
 - mt: And though after my skin worms destroy this body, yet in my flesh shall I see God:
 - brenton: and to raise up upon the earth my skin that endures these sufferings: for these things have been accomplished to me of the Lord;
 
-### Proverbs 14:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.330`
-- fresh_brenton_ratio: `0.612`
-- fresh: The houses of the ungodly will vanish, but tents of those setting straight will stand.
-- mt: The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.
-- brenton: The houses of ungodly men shall be utterly destroyed; but the tabernacles of them that walk uprightly shall stand.
-
 ### 1 Kings 21:10
 - priority: `0`
 - importance: `none`
@@ -65103,6 +65094,15 @@ Method:
 - mt: Why is light given to a man whose way is hid, and whom God has hedged in?
 - brenton: Death is rest to such a man, for God has hedged him in.
 
+### Proverbs 14:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.426`
+- fresh_brenton_ratio: `0.732`
+- fresh: The houses of the lawless will owe cleansing, but the houses of the righteous are acceptable.
+- mt: Fools make a mock at sin: but among the righteous there is favour.
+- brenton: The houses of transgressors will need purification; but the houses of the just are acceptable.
+
 ### Isaiah 1:30
 - priority: `0`
 - importance: `none`
@@ -66479,15 +66479,6 @@ Method:
 - fresh: And now go, and you will strike Amalek and devote all that is his, and you will not preserve anything from him, and you will utterly destroy him and devote him and all his things, and you will not spare from him, and you will kill from man to woman and from infant to one nursing and from calf to sheep and from camel to donkey.
 - mt: Now go and strike Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and nursing infant, ox and sheep, camel and ass.
 - brenton: And now go, and thou shalt smite Amalec and Hierim and all that belongs to him, and thou shalt not save anything of him alive, but thou shalt utterly destroy him: and thou shalt devote him and all his to destruction, and thou shalt spare nothing belonging to him; and thou shalt slay both man and woman, and infant and suckling, and calf and sheep, and camel and ass.
-
-### Proverbs 14:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.437`
-- fresh_brenton_ratio: `0.402`
-- fresh: The houses of the lawless will owe cleansing, but houses of the righteous are acceptable.
-- mt: Fools make a mock at sin: but among the righteous there is favour.
-- brenton: The houses of transgressors will need purification; but the houses of the just are acceptable.
 
 ### Proverbs 17:14
 - priority: `0`
@@ -69828,6 +69819,15 @@ Method:
 - mt: As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.
 - brenton: A hearth for coals, and wood for fire; and a railing man for the tumult of strife.
 
+### Proverbs 13:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.463`
+- fresh_brenton_ratio: `0.802`
+- fresh: A righteous one hates an unjust word, but the ungodly will be shamed and have no boldness.
+- mt: A righteous man hates lying: but a wicked man is loathsome, and comes to shame.
+- brenton: A righteous man hates an unjust word: but an ungodly man is ashamed, and will have no confidence.
+
 ### Jeremiah 6:18
 - priority: `0`
 - importance: `none`
@@ -71384,15 +71384,6 @@ Method:
 - fresh: Because one says to Mighty One, I have received; I will not take pledges.
 - mt: Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:
 - brenton: For there is one that says to the Mighty One, I have received blessings; I will not take a pledge:
-
-### Proverbs 13:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.475`
-- fresh_brenton_ratio: `0.809`
-- fresh: A righteous one hates an unjust word, but ungodly will be shamed and have no boldness.
-- mt: A righteous man hates lying: but a wicked man is loathsome, and comes to shame.
-- brenton: A righteous man hates an unjust word: but an ungodly man is ashamed, and will have no confidence.
 
 ### Job 27:6
 - priority: `0`
@@ -74904,6 +74895,15 @@ Method:
 - mt: If you return to the Almighty, you shall be built up, you shall put away iniquity far from your tabernacles.
 - brenton: And if thou shalt turn and humble thyself before the Lord, thou hast thus removed unrighteousness far from thy habitation.
 
+### Proverbs 14:32
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.500`
+- fresh_brenton_ratio: `0.656`
+- fresh: In his evil the ungodly will be driven away, but one trusting in his own holiness is righteous.
+- mt: The wicked is driven away in his wickedness: but the righteous has hope in his death.
+- brenton: The ungodly shall be driven away in his wickedness: but he who is secure in his own holiness is just.
+
 ### Habakkuk 3:15
 - priority: `0`
 - importance: `none`
@@ -75039,15 +75039,6 @@ Method:
 - mt: Can you bind the sweet influences of Pleiades, or loose the bands of Orion?
 - brenton: And dost thou understand the band of Pleias, and hast thou opened the barrier of Orion?
 
-### Proverbs 13:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.500`
-- fresh_brenton_ratio: `0.790`
-- fresh: Desires of godly sweeten soul, but works of ungodly far from knowledge.
-- mt: The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.
-- brenton: The desires of the godly gladden the soul, but the works of the ungodly are far from knowledge.
-
 ### Amos 2:8
 - priority: `0`
 - importance: `none`
@@ -75128,6 +75119,15 @@ Method:
 - fresh: When ungodly comes into the depth of evils, he despises; and dishonor and reproach come upon him.
 - mt: When the wicked comes, then comes also contempt, and with dishonour reproach.
 - brenton: When an ungodly man comes into a depth of evils, he despises them; but dishonour and reproach come upon him.
+
+### Proverbs 13:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.500`
+- fresh_brenton_ratio: `0.899`
+- fresh: Desires of the godly sweeten the soul, but works of the ungodly are far from knowledge.
+- mt: The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.
+- brenton: The desires of the godly gladden the soul, but the works of the ungodly are far from knowledge.
 
 ### Isaiah 24:21
 - priority: `0`
@@ -78377,15 +78377,6 @@ Method:
 - fresh: Needy man loves gladness; loving wine and oil not for wealth.
 - mt: He that loves pleasure shall be a poor man: he that loves wine and oil shall not be rich.
 - brenton: A poor man loves mirth, loving wine and oil in abundance;
-
-### Proverbs 14:32
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.521`
-- fresh_brenton_ratio: `0.630`
-- fresh: In his evil ungodly will be driven away, but righteous trusting in his own holiness.
-- mt: The wicked is driven away in his wickedness: but the righteous has hope in his death.
-- brenton: The ungodly shall be driven away in his wickedness: but he who is secure in his own holiness is just.
 
 ### Song of Solomon 3:7
 - priority: `0`
@@ -88791,15 +88782,6 @@ Method:
 - mt: The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
 - brenton: Also the rim, and the bowls, and the flesh-hooks, and all the brazen vessels, wherewith they ministered;
 
-### Proverbs 14:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.573`
-- fresh_brenton_ratio: `0.678`
-- fresh: Evil men will slip before good ones, and ungodly will serve doors of righteous.
-- mt: The evil bow before the good; and the wicked at the gates of the righteous.
-- brenton: Evil men shall fall before the good; and the ungodly shall attend at the gates of the righteous.
-
 ### Ezra 7:13
 - priority: `0`
 - importance: `none`
@@ -95090,6 +95072,15 @@ Method:
 - fresh: to Pethahiah nineteenth, to Jehezekel twentieth,
 - mt: The nineteenth to Pethahiah, the twentieth to Jehezekel,
 - brenton: the nineteenth to Phetæa, the twentieth to Ezekel,
+
+### Proverbs 14:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.600`
+- fresh_brenton_ratio: `0.640`
+- fresh: The houses of the ungodly will vanish, but the tents of those setting straight will stand.
+- mt: The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.
+- brenton: The houses of ungodly men shall be utterly destroyed; but the tabernacles of them that walk uprightly shall stand.
 
 ### Exodus 36:7
 - priority: `0`
@@ -116916,15 +116907,6 @@ Method:
 - mt: That the kingdom might be base, that it might not lift itself up, but that by keeping of his covenant it might stand.
 - brenton: that it may become a weak kingdom, so as never to lift itself up, that he may keep his covenant, and establish it.
 
-### Proverbs 15:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.670`
-- fresh_brenton_ratio: `0.723`
-- fresh: The ways of the ungodly are an abomination to the Lord, but one pursuing righteousness he loves.
-- mt: The way of the wicked is an abomination unto the LORD: but he loves him that follows after righteousness.
-- brenton: The ways of an ungodly man are an abomination to the Lord; but he loves those that follow after righteousness.
-
 ### Leviticus 13:41
 - priority: `0`
 - importance: `none`
@@ -120209,6 +120191,15 @@ Method:
 - fresh: And it happened when Abram drew near to enter Egypt, Abram said to Sarai his wife, I know that you are a woman beautiful in face.
 - mt: And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that you are a fair woman to look upon:
 - brenton: And it came to pass when Abram drew nigh to enter into Egypt, Abram said to Sara his wife, I know that thou art a fair woman.
+
+### Proverbs 14:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.679`
+- fresh_brenton_ratio: `0.774`
+- fresh: Evil men will slip before good ones, and the ungodly will serve at the doors of the righteous.
+- mt: The evil bow before the good; and the wicked at the gates of the righteous.
+- brenton: Evil men shall fall before the good; and the ungodly shall attend at the gates of the righteous.
 
 ### Jeremiah 25:6
 - priority: `0`
@@ -161879,6 +161870,15 @@ Method:
 - fresh: And Jehu went out to the servants of his lord, and they said to him, Is all well? Why did this madman come to you? And he said to them, You know the man and his rambling.
 - mt: Then Jehu came forth to the servants of his lord: and one said unto him, Is all well? wherefore came this mad fellow to you? And he said unto them, All of you know the man, and his communication.
 - brenton: And Ju went forth to the servants of his lord, and they said to him, Is all well? Why came this mad fellow in to thee? And he said to them, Ye know the man, and his communication.
+
+### Proverbs 15:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.784`
+- fresh_brenton_ratio: `0.843`
+- fresh: The ways of the ungodly are an abomination to the Lord, but he loves those pursuing righteousness.
+- mt: The way of the wicked is an abomination unto the LORD: but he loves him that follows after righteousness.
+- brenton: The ways of an ungodly man are an abomination to the Lord; but he loves those that follow after righteousness.
 
 ### Numbers 20:6
 - priority: `0`

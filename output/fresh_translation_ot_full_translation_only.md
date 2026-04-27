@@ -67794,7 +67794,7 @@ Every idle man lives in desires, but hands of brave in diligence.
 
 **Proverbs 13:5**
 
-A righteous one hates an unjust word, but ungodly will be shamed and have no boldness.
+A righteous one hates an unjust word, but the ungodly will be shamed and have no boldness.
 
 **Proverbs 13:6**
 
@@ -67850,7 +67850,7 @@ Discipline removes poverty and dishonor, but one keeping reproofs will be glorif
 
 **Proverbs 13:19**
 
-Desires of godly sweeten soul, but works of ungodly far from knowledge.
+Desires of the godly sweeten the soul, but works of the ungodly are far from knowledge.
 
 **Proverbs 13:20**
 
@@ -67912,7 +67912,7 @@ The wisdom of the shrewd will know their ways, but the folly of fools is in wand
 
 **Proverbs 14:9**
 
-The houses of the lawless will owe cleansing, but houses of the righteous are acceptable.
+The houses of the lawless will owe cleansing, but the houses of the righteous are acceptable.
 
 **Proverbs 14:10**
 
@@ -67920,7 +67920,7 @@ The heart of perceptive man knows grief of its own soul, and when it rejoices it
 
 **Proverbs 14:11**
 
-The houses of the ungodly will vanish, but tents of those setting straight will stand.
+The houses of the ungodly will vanish, but the tents of those setting straight will stand.
 
 **Proverbs 14:12**
 
@@ -67952,7 +67952,7 @@ Fools inherit evil, but shrewd will hold fast perception.
 
 **Proverbs 14:19**
 
-Evil men will slip before good ones, and ungodly will serve doors of righteous.
+Evil men will slip before good ones, and the ungodly will serve at the doors of the righteous.
 
 **Proverbs 14:20**
 
@@ -68004,7 +68004,7 @@ One slandering poor provokes his Maker, but one honoring him has mercy on poor.
 
 **Proverbs 14:32**
 
-In his evil ungodly will be driven away, but righteous trusting in his own holiness.
+In his evil the ungodly will be driven away, but one trusting in his own holiness is righteous.
 
 **Proverbs 14:33**
 
@@ -68054,7 +68054,7 @@ Sacrifices of ungodly abomination to the Lord, but prayers of those setting stra
 
 **Proverbs 15:9**
 
-The ways of the ungodly are an abomination to the Lord, but one pursuing righteousness he loves.
+The ways of the ungodly are an abomination to the Lord, but he loves those pursuing righteousness.
 
 **Proverbs 15:10**
 
