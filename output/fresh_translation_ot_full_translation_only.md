@@ -72750,31 +72750,31 @@ And now I say: in three years, years of a hired worker, the glory of Moab will b
 
 **Isaiah 17:1**
 
-Word against Damascus: Behold, Damascus will be removed from cities and will be for falling.
+The word against Damascus: Behold, Damascus will be removed from cities and will be for falling.
 
 **Isaiah 17:2**
 
-Left forever for bed of flocks and rest, and there will not be one pursuing.
+It is left forever as a bed of flocks and a resting place, and there will not be one pursuing.
 
 **Isaiah 17:3**
 
-And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says the Lord of hosts.
+And there will no longer be a fortress for Ephraim to flee into, and no longer a kingdom in Damascus, and the remnant of the Syrians will perish. For you are no better than the sons of Israel and their glory, thus says the Lord of hosts.
 
 **Isaiah 17:4**
 
-It will be in that day, eclipse of the glory of Jacob, and fat things of his glory will be shaken.
+It will be in that day, a fading of the glory of Jacob, and the fat things of his glory will be shaken.
 
 **Isaiah 17:5**
 
-And it will be as if someone gathers standing harvest and reaps ears of grain with his arm, and it will be as if someone gathers ear in solid ravine.
+And it will be as if someone gathers a standing harvest and reaps seed of ears of grain with his arm, and it will be as if someone gathers an ear in a firm ravine.
 
 **Isaiah 17:6**
 
-And stubble will be left in it, or as berries of olive tree, two or three on high tip, or four or five on their branches, thus says the Lord God of Israel.
+And stubble will be left in it, or as berries of an olive tree, two or three on a high tip, or four or five on their branches will be left, thus says the Lord God of Israel.
 
 **Isaiah 17:7**
 
-In that day man will be trusting in one making him, and his eyes will look to the Holy One of Israel.
+In that day the man will be trusting in the one who made him, and his eyes will look to the Holy One of Israel.
 
 **Isaiah 17:8**
 
@@ -72782,57 +72782,57 @@ And they certainly will not be trusting in altars, nor in the works of their han
 
 **Isaiah 17:9**
 
-In that day your cities will be abandoned as Amorites and Hivites abandoned from the face of sons of Israel, and they will be desolate.
+In that day your cities will be abandoned as the Amorites and the Hivites abandoned from the face of the sons of Israel, and they will be desolate.
 
 **Isaiah 17:10**
 
-Because you abandoned God your savior and did not remember the Lord your helper. Therefore you will plant faithless planting and faithless seed.
+Because you abandoned God your savior and did not remember the Lord your helper. Therefore you will plant a faithless planting and faithless seed.
 
 **Isaiah 17:11**
 
-And on the day when you plant, you will go astray, and in morning if you sow, it will blossom for harvest; on the day he gives lot, and as father of man gives lot to your sons.
+And on the day when you plant, you will go astray, and in the morning if you sow, it will blossom for a harvest; on the day he gives lot, and as a father of man gives lot to your sons.
 
 **Isaiah 17:12**
 
-Woe multitude of many nations; as sea surging, so you will be troubled, and rush of many nations will sound as water.
+Woe, a multitude of many nations; as the sea surges, so you will be troubled, and a rush of many nations will sound as water.
 
 **Isaiah 17:13**
 
-As much water, many nations, as force of much water rushing down, and he will scare him away and chase him far, as dust of chaff of threshers before wind and as dust of wheel storm carrying.
+As much water, so are many nations; as the force of much water rushing down, he will scare him away and chase him far, as dust of chaff of threshers before wind and as wheel-dust carried by a storm.
 
 **Isaiah 17:14**
 
-Toward evening there will be grief; before morning and it will not be. This portion of those plundering you and inheritance of those inheriting you.
+Toward evening there will be grief; before morning and it will not be. This is the portion of those plundering you and the inheritance of those inheriting you.
 
 ### Chapter 18
 
 **Isaiah 18:1**
 
-Woe, land of winged ships beyond rivers of Ethiopia,
+Woe, land of winged ships beyond the rivers of Ethiopia,
 
 **Isaiah 18:2**
 
-sending hostages by sea and papyrus letters on water. For light messengers will go to nation lofty and strange, people difficult. What is theirs beyond? Nation without hope and trampled, whose land rivers now divide.
+sending hostages by sea and papyrus letters on the water. For light messengers will go to a lofty and strange nation, a difficult people. What is theirs beyond? A nation without hope and trampled, whose land the rivers now divide.
 
 **Isaiah 18:3**
 
-All as inhabited land will inhabit; their land will be inhabited as signal lifted from mountain, and as trumpet voice it will be heard.
+All as an inhabited land will inhabit; their land will be inhabited as a signal lifted from a mountain, and as a trumpet's voice it will be heard.
 
 **Isaiah 18:4**
 
-Because thus the Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in the day of harvest.
+Because thus the Lord said to me: Safety will be in my city as the light of noonday heat and as a cloud of dew in the day of harvest.
 
 **Isaiah 18:5**
 
-Before harvest, when blossom is finished and sour grape blossoms into budding flower, he will remove little clusters with sickles, and he will remove and cut down branches.
+Before the harvest, when a blossom is finished and a sour grape blossoms into a budding flower, he will remove the little clusters with sickles, and he will remove and cut down the branches.
 
 **Isaiah 18:6**
 
-And he will leave them together to the birds of heaven and beasts of the earth, and birds of heaven will gather on them and all beasts of the earth will come upon him.
+And he will leave them together to the birds of heaven and the beasts of the earth, and the birds of heaven will gather on them and all the beasts of the earth will come upon him.
 
 **Isaiah 18:7**
 
-At that time gifts will be brought to the Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of the river of its land, to place where the name of the Lord of hosts was invoked, Mount Zion.
+At that time gifts will be brought to the Lord of hosts from a people afflicted and plucked, and from a great people from now and forever, a nation hoping and trampled, which is in the region of the river of its land, to the place where the name of the Lord of hosts was invoked, Mount Zion.
 
 ### Chapter 19
 

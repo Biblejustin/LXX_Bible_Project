@@ -4586,7 +4586,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "and the glory of the Lord upon the house" in by_ref["2 Chronicles 7:3"]["draft_translation"]
     assert "Let the glory of the Lord be forever" in by_ref["Psalms 103:31"]["draft_translation"]
     assert "great is the glory of the Lord" in by_ref["Psalms 137:5"]["draft_translation"]
-    assert "eclipse of the glory of Jacob" in by_ref["Isaiah 17:4"]["draft_translation"]
+    assert "a fading of the glory of Jacob" in by_ref["Isaiah 17:4"]["draft_translation"]
     assert "see the glory of the Lord" in by_ref["Isaiah 26:10"]["draft_translation"]
     assert "the glory of the Lord has risen" in by_ref["Isaiah 60:1"]["draft_translation"]
     assert "to earth the glory of Israel" in by_ref["Lamentations 2:1"]["draft_translation"]
@@ -4897,6 +4897,26 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "a throne will be set right" in by_ref["Isaiah 16:5"]["draft_translation"]
     assert "The fields of Heshbon" in by_ref["Isaiah 16:8"]["draft_translation"]
     assert "years of a hired worker" in by_ref["Isaiah 16:14"]["draft_translation"]
+    assert by_ref["Isaiah 17:1"]["draft_translation"].startswith(
+        "The word against Damascus"
+    )
+    assert "a fortress for Ephraim" in by_ref["Isaiah 17:3"]["draft_translation"]
+    assert "a standing harvest" in by_ref["Isaiah 17:5"]["draft_translation"]
+    assert "berries of an olive tree" in by_ref["Isaiah 17:6"]["draft_translation"]
+    assert "the Amorites and the Hivites" in by_ref["Isaiah 17:9"][
+        "draft_translation"
+    ]
+    assert "This is the portion" in by_ref["Isaiah 17:14"]["draft_translation"]
+    assert "beyond the rivers of Ethiopia" in by_ref["Isaiah 18:1"][
+        "draft_translation"
+    ]
+    assert "on the water" in by_ref["Isaiah 18:2"]["draft_translation"]
+    assert "the light of noonday heat" in by_ref["Isaiah 18:4"][
+        "draft_translation"
+    ]
+    assert "the birds of heaven and the beasts of the earth" in by_ref[
+        "Isaiah 18:6"
+    ]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

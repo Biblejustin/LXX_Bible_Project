@@ -160512,64 +160512,64 @@ Note:
 ### Isaiah 17:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word against Damascus: Behold, Damascus will be removed from cities and will be for falling.
+- fresh: The word against Damascus: Behold, Damascus will be removed from cities and will be for falling.
 - brenton: The Word against Damascus.
 
 ### Isaiah 17:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Left forever for bed of flocks and rest, and there will not be one pursuing.
+- fresh: It is left forever as a bed of flocks and a resting place, and there will not be one pursuing.
 - brenton: abandoned for ever, to be a fold and resting-place for flocks, and there shall be none to go after them.
 
 ### Isaiah 17:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will no longer be fortress for Ephraim to flee into, and no longer kingdom in Damascus, and remnant of Syrians will perish. For you are no better than sons of Israel and their glory, thus says the Lord of hosts.
+- fresh: And there will no longer be a fortress for Ephraim to flee into, and no longer a kingdom in Damascus, and the remnant of the Syrians will perish. For you are no better than the sons of Israel and their glory, thus says the Lord of hosts.
 - brenton: And she shall no longer be a strong place for Ephraim to flee to, and there shall no longer be a kingdom in Damascus, or a remnant of Syrians; for thou art no better than the children of Israel, even than their glory; thus saith the Lord of hosts.
 
 ### Isaiah 17:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It will be in that day, eclipse of the glory of Jacob, and fat things of his glory will be shaken.
+- fresh: It will be in that day, a fading of the glory of Jacob, and the fat things of his glory will be shaken.
 - brenton: There shall be in that day a failure of the glory of Jacob, and the riches of his glory shall be shaken.
 
 ### Isaiah 17:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be as if someone gathers standing harvest and reaps ears of grain with his arm, and it will be as if someone gathers ear in solid ravine.
+- fresh: And it will be as if someone gathers a standing harvest and reaps seed of ears of grain with his arm, and it will be as if someone gathers an ear in a firm ravine.
 - brenton: And it shall be as if one should gather standing corn, and reap the grain of the ears; and it shall be as if one should gather ears in a rich valley;
 
 ### Isaiah 17:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And stubble will be left in it, or as berries of olive tree, two or three on high tip, or four or five on their branches, thus says the Lord God of Israel.
+- fresh: And stubble will be left in it, or as berries of an olive tree, two or three on a high tip, or four or five on their branches will be left, thus says the Lord God of Israel.
 - brenton: and as if there should be left stubble therein, or as it were the berries of an olive tree, two or three on the topmost bough, or as if four or five should be left on their branches; thus saith the Lord, the God of Israel.
 
 ### Isaiah 17:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day man will be trusting in one making him, and his eyes will look to the Holy One of Israel.
+- fresh: In that day the man will be trusting in the one who made him, and his eyes will look to the Holy One of Israel.
 - brenton: In that day a man shall trust in him that made him, and his eyes shall have respect to the Holy One of Israel.
 
 ### Isaiah 17:8
@@ -160584,118 +160584,118 @@ Note:
 ### Isaiah 17:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day your cities will be abandoned as Amorites and Hivites abandoned from the face of sons of Israel, and they will be desolate.
+- fresh: In that day your cities will be abandoned as the Amorites and the Hivites abandoned from the face of the sons of Israel, and they will be desolate.
 - brenton: In that day thy cities shall be deserted, as the Amorites and the Evæans deserted theirs, because of the children of Israel; and they shall be desolate.
 
 ### Isaiah 17:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you abandoned God your savior and did not remember the Lord your helper. Therefore you will plant faithless planting and faithless seed.
+- fresh: Because you abandoned God your savior and did not remember the Lord your helper. Therefore you will plant a faithless planting and faithless seed.
 - brenton: Because thou hast forsaken God thy Saviour, and hast not been mindful of the Lord thy helper; therefore shalt thou plant a false plant, and a false seed.
 
 ### Isaiah 17:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And on the day when you plant, you will go astray, and in morning if you sow, it will blossom for harvest; on the day he gives lot, and as father of man gives lot to your sons.
+- fresh: And on the day when you plant, you will go astray, and in the morning if you sow, it will blossom for a harvest; on the day he gives lot, and as a father of man gives lot to your sons.
 - brenton: In the day wherein thou shalt plant thou shalt be deceived; but if thou sow in the morning, the seed shall spring up for a crop in the day wherein thou shalt obtain an inheritance, and as a man's father, thou shalt obtain an inheritance for thy sons.
 
 ### Isaiah 17:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe multitude of many nations; as sea surging, so you will be troubled, and rush of many nations will sound as water.
+- fresh: Woe, a multitude of many nations; as the sea surges, so you will be troubled, and a rush of many nations will sound as water.
 - brenton: Woe to the multitude of many nations, as the swelling sea, so shall ye be confounded; and the force of many nations shall sound like water;
 
 ### Isaiah 17:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As much water, many nations, as force of much water rushing down, and he will scare him away and chase him far, as dust of chaff of threshers before wind and as dust of wheel storm carrying.
+- fresh: As much water, so are many nations; as the force of much water rushing down, he will scare him away and chase him far, as dust of chaff of threshers before wind and as wheel-dust carried by a storm.
 - brenton: many nations like much water, as when much water rushes violently: and they shall drive him away, and pursue him afar, as the dust of chaff when men winnow before the wind, and as a storm whirling the dust of the wheel.
 
 ### Isaiah 17:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Toward evening there will be grief; before morning and it will not be. This portion of those plundering you and inheritance of those inheriting you.
+- fresh: Toward evening there will be grief; before morning and it will not be. This is the portion of those plundering you and the inheritance of those inheriting you.
 - brenton: Toward evening, and there shall be grief; before the morning, and he shall not be. This is the portion of them that spoiled you, and the inheritance to them that robbed you of your inheritance.
 
 ### Isaiah 18:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe, land of winged ships beyond rivers of Ethiopia,
+- fresh: Woe, land of winged ships beyond the rivers of Ethiopia,
 - brenton: Woe to you, ye wings of the land of ships, beyond the rivers of Ethiopia.
 
 ### Isaiah 18:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: sending hostages by sea and papyrus letters on water. For light messengers will go to nation lofty and strange, people difficult. What is theirs beyond? Nation without hope and trampled, whose land rivers now divide.
+- fresh: sending hostages by sea and papyrus letters on the water. For light messengers will go to a lofty and strange nation, a difficult people. What is theirs beyond? A nation without hope and trampled, whose land the rivers now divide.
 - brenton: He sends messengers by the sea, and paper letters on the water: for swift messengers shall go to a lofty nation, and to a strange and harsh people. Who is beyond it? a nation not looked for, and trodden down.
 
 ### Isaiah 18:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All as inhabited land will inhabit; their land will be inhabited as signal lifted from mountain, and as trumpet voice it will be heard.
+- fresh: All as an inhabited land will inhabit; their land will be inhabited as a signal lifted from a mountain, and as a trumpet's voice it will be heard.
 - brenton: Now all the rivers of the land shall be inhabited as an inhabited country; their land shall be as when a signal is raised from a mountain; it shall be audible as the sound of a trumpet.
 
 ### Isaiah 18:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus the Lord said to me: Safety will be in my city as light of noonday heat and as cloud of dew in the day of harvest.
+- fresh: Because thus the Lord said to me: Safety will be in my city as the light of noonday heat and as a cloud of dew in the day of harvest.
 - brenton: For thus said the Lord to me, There shall be security in my city, as the light of noonday heat, and it shall be as a cloud of dew in the day of harvest.
 
 ### Isaiah 18:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before harvest, when blossom is finished and sour grape blossoms into budding flower, he will remove little clusters with sickles, and he will remove and cut down branches.
+- fresh: Before the harvest, when a blossom is finished and a sour grape blossoms into a budding flower, he will remove the little clusters with sickles, and he will remove and cut down the branches.
 - brenton: Before the reaping time, when the flower has been completely formed, and the unripe grape has put forth its flower and blossomed, then shall he take away the little clusters with pruning-hooks, and shall take away the small branches, and cut them off;
 
 ### Isaiah 18:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will leave them together to the birds of heaven and beasts of the earth, and birds of heaven will gather on them and all beasts of the earth will come upon him.
+- fresh: And he will leave them together to the birds of heaven and the beasts of the earth, and the birds of heaven will gather on them and all the beasts of the earth will come upon him.
 - brenton: and he shall leave them together to the birds of the sky, and to the wild beasts of the earth: and the fowls of the sky shall be gathered upon them, and all the beasts of the land shall come upon him.
 
 ### Isaiah 18:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time gifts will be brought to the Lord of hosts from people afflicted and plucked, and from great people from now and forever, nation hoping and trampled, which is in region of the river of its land, to place where the name of the Lord of hosts was invoked, Mount Zion.
+- fresh: At that time gifts will be brought to the Lord of hosts from a people afflicted and plucked, and from a great people from now and forever, a nation hoping and trampled, which is in the region of the river of its land, to the place where the name of the Lord of hosts was invoked, Mount Zion.
 - brenton: In that time shall presents be brought to the Lord of hosts from a people afflicted and peeled, and from a people great from henceforth and for ever; a nation hoping and yet trodden down, which is in a part of a river of his land, to the place where is the name of the Lord of hosts, the mount Sion.
 
 ### Isaiah 19:1
