@@ -20506,6 +20506,15 @@ Method:
 - mt: And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
 - brenton: And they baked the dough which they brought out of Egypt, unleavened cakes, for it had not been leavened; for the Egyptians cast them out, and they could not remain, neither did they prepare provision for themselves for the journey.
 
+### Ecclesiastes 8:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.108`
+- fresh_brenton_ratio: `0.729`
+- fresh: There is no man exercising authority over the spirit to restrain the spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
+- mt: There is no man that has power over the spirit to retain the spirit; neither has he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.
+- brenton: There is no man that has power over the spirit to retain the spirit; and there is no power in the day of death: and there is no discharge in the day of battle; neither shall ungodliness save her votary.
+
 ### Psalms 61:8
 - priority: `0`
 - importance: `none`
@@ -20749,15 +20758,6 @@ Method:
 - mt: Tell all of you, and bring them near; yea, let them take counsel together: who has declared this from ancient time? who has told it from that time? have not I the LORD? and there is no God else beside me; a just God and a Saviour; there is none beside me.
 - brenton: If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.
 
-### Ecclesiastes 8:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.111`
-- fresh_brenton_ratio: `0.703`
-- fresh: There is no man exercising authority over spirit to restrain spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
-- mt: There is no man that has power over the spirit to retain the spirit; neither has he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.
-- brenton: There is no man that has power over the spirit to retain the spirit; and there is no power in the day of death: and there is no discharge in the day of battle; neither shall ungodliness save her votary.
-
 ### Hosea 2:13
 - priority: `0`
 - importance: `none`
@@ -20838,6 +20838,15 @@ Method:
 - fresh: And all will come against you from north, chariots and wheels with crowd of peoples; shield and buckler and they will set guard against you around, and I will set judgment before them and they will avenge you by their judgments.
 - mt: And they shall come against you with chariots, wagons, and wheels, and with an assembly of people, which shall set against you buckler and shield and helmet round about: and I will set judgment before them, and they shall judge you according to their judgments.
 - brenton: And they all shall come upon thee from the north, chariots and wheels, with a multitude of nations, shields and targets; and the enemy shall set a watch against thee round about: and I will set judgment before them, and they shall take vengeance on thee with their judgments.
+
+### Ecclesiastes 8:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.113`
+- fresh_brenton_ratio: `0.125`
+- fresh: And I saw all the works of God, that man will not be able to find out the work done under the sun. However much a man toils to seek, he will not find; and however much a wise man says to know, he will not be able to find.
+- mt: Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.
+- brenton: And I beheld all the works of God, that a man shall not be able to discover the work which is wrought under the sun; whatsoever things a man shall endeavour to seek, however a man may labour to seek it, yet he shall not find it; yea, how much soever a wise man may speak of knowing it, he shall not be able to find it: for I applied all this to my heart, and my heart has seen all this.
 
 ### 1 Kings 18:44
 - priority: `0`
@@ -21054,15 +21063,6 @@ Method:
 - fresh: And the word of the Lord came to Jeremiah second time, and he was still bound in the court of the prison, saying,
 - mt: The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.
 - brenton: And the word of the Lord came to Jeremias the second time, when he was yet bound in the court of the prison, saying,
-
-### Ecclesiastes 8:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.116`
-- fresh_brenton_ratio: `0.100`
-- fresh: And I saw all works of God, that man will not be able to find out work done under the sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
-- mt: Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.
-- brenton: And I beheld all the works of God, that a man shall not be able to discover the work which is wrought under the sun; whatsoever things a man shall endeavour to seek, however a man may labour to seek it, yet he shall not find it; yea, how much soever a wise man may speak of knowing it, he shall not be able to find it: for I applied all this to my heart, and my heart has seen all this.
 
 ### 2 Samuel 9:7
 - priority: `0`
@@ -21630,15 +21630,6 @@ Method:
 - fresh: And Joab sent to Tekoa and took from there a wise woman and said to her, Mourn now and put on mourning garments and do not anoint with oil, and you will be as a woman mourning over one dead for many days.
 - mt: And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray you, feign yourself to be a mourner, and put on now mourning apparel, and anoint not yourself with oil, but be as a woman that had a long time mourned for the dead:
 - brenton: And Joab sent to Thecoe, and took thence a cunning woman, and said to her, Mourn, I pray thee, and put on mourning apparel, and anoint thee not with oil, and thou shalt be as a woman mourning for one that is dead thus for many days.
-
-### Ecclesiastes 8:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.122`
-- fresh_brenton_ratio: `0.176`
-- fresh: There is vanity done upon earth: there are righteous ones to whom it reaches as work of ungodly ones, and there are ungodly ones to whom it reaches as work of righteous ones; I said that this too vanity.
-- mt: There is a vanity which is done upon the earth; that there be just men, unto whom it happens according to the work of the wicked; again, there be wicked men, to whom it happens according to the work of the righteous: I said that this also is vanity.
-- brenton: There is a vanity which is done upon the earth; that there are righteous persons to whom it happens according to the doing of the ungodly; and there are ungodly men, to whom it happens according to the doing of the just: I said, This is also vanity.
 
 ### Leviticus 10:6
 - priority: `0`
@@ -22683,6 +22674,15 @@ Method:
 - fresh: And Elisha said to Gehazi, Gird your waist and take my staff in your hand and go, because if you meet a man you shall not bless him, and if a man blesses you, you shall not answer him, and you shall put my staff on the face of the boy.
 - mt: Then he said to Gehazi, Gird up your loins, and take my staff in yours hand, and go your way: if you meet any man, salute him not; and if any salute you, answer him not again: and lay my staff upon the face of the child.
 - brenton: And Elisaie said to Giezi, Gird up thy loins, and take my staff in thy hand, and go: if thou meet any man, thou shalt not salute him, and if a man salute thee thou shalt not answer him: and thou shalt lay my staff on the child's face.
+
+### Ecclesiastes 8:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.136`
+- fresh_brenton_ratio: `0.166`
+- fresh: There is vanity done upon the earth: there are righteous ones to whom it reaches as the work of ungodly ones, and there are ungodly ones to whom it reaches as the work of righteous ones; I said that this too is vanity.
+- mt: There is a vanity which is done upon the earth; that there be just men, unto whom it happens according to the work of the wicked; again, there be wicked men, to whom it happens according to the work of the righteous: I said that this also is vanity.
+- brenton: There is a vanity which is done upon the earth; that there are righteous persons to whom it happens according to the doing of the ungodly; and there are ungodly men, to whom it happens according to the doing of the just: I said, This is also vanity.
 
 ### Ezekiel 40:4
 - priority: `0`
@@ -24853,6 +24853,15 @@ Method:
 - mt: But you must eat them before the LORD your God in the place which the LORD your God shall choose, you, and your son, and your daughter, and your manservant, and your maidservant, and the Levite that is within your gates: and you shall rejoice before the LORD your God in all that you put yours hands unto.
 - brenton: But before the Lord thy God thou shalt eat it, in the place which the Lord thy God shall choose for himself, thou, and thy son, and thy daughter, thy man-servant, and thy maid-servant, and the stranger that is within thy gates; and thou shalt rejoice before the Lord thy God, on whatsoever thou shalt lay thine hand.
 
+### Ecclesiastes 8:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.159`
+- fresh_brenton_ratio: `0.100`
+- fresh: And I praised the gladness, because there is no good for a man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all the days of his life which God gave him under the sun.
+- mt: Then I commended delight, because a man has no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God gives him under the sun.
+- brenton: Then I praised mirth, because there is no good for a man under the sun, but to eat, and drink, and be merry: and this shall attend him in his labour all the days of his life, which God has given him under the sun.
+
 ### Deuteronomy 28:67
 - priority: `0`
 - importance: `none`
@@ -25338,15 +25347,6 @@ Method:
 - fresh: And Hezekiah rejoiced greatly over them and showed them house of perfumes and myrrh and incenses and ointment and silver and gold and all houses of vessels of treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
 - mt: And Hezekiah was glad of them, and showed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
 - brenton: And Ezekias was glad of their coming, and he shewed them the house of his spices, and of silver, and gold, and myrrh, and incense, and ointment, and all the houses of his treasures, and all that he had in his stores: and there was nothing in his house, nor in all his dominion, which Ezekias did not shew.
-
-### Ecclesiastes 8:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.163`
-- fresh_brenton_ratio: `0.097`
-- fresh: And I praised gladness, because there is no good for man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under the sun.
-- mt: Then I commended delight, because a man has no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God gives him under the sun.
-- brenton: Then I praised mirth, because there is no good for a man under the sun, but to eat, and drink, and be merry: and this shall attend him in his labour all the days of his life, which God has given him under the sun.
 
 ### Judges 13:16
 - priority: `0`
@@ -67810,15 +67810,6 @@ Method:
 - mt: The men of the other Nebo, fifty and two.
 - brenton: The men of Nabia, a hundred an fifty-two.
 
-### Ecclesiastes 8:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.448`
-- fresh_brenton_ratio: `0.524`
-- fresh: Keep king's mouth, and because of word of God's oath do not hurry.
-- mt: I counsel you to keep the king's commandment, and that in regard of the oath of God.
-- brenton: Observe the commandment of the king, and that because of the word of the oath of God.
-
 ### Isaiah 46:5
 - priority: `0`
 - importance: `none`
@@ -70546,6 +70537,15 @@ Method:
 - mt: Neither carry forth a burden out of your houses on the sabbath day, neither do all of you any work, but hallow all of you the sabbath day, as I commanded your fathers.
 - brenton: and carry forth no burdens out of your houses on the sabbath-day, and ye shall do no work: sanctify the sabbath-day, as I commanded your fathers.
 
+### Ecclesiastes 8:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.469`
+- fresh_brenton_ratio: `0.743`
+- fresh: And then I saw ungodly men brought into tombs, and they went from the holy place and were praised in the city because thus they did; this too is vanity.
+- mt: And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.
+- brenton: And then I saw the ungodly carried into the tombs, and that out of the holy place: and they departed, and were praised in the city, because they had done thus: this also is vanity.
+
 ### Job 34:21
 - priority: `0`
 - importance: `none`
@@ -71094,15 +71094,6 @@ Method:
 - fresh: then you will hear from heaven from your ready dwelling place
 - mt: Then hear you their prayer and their supplication in heaven your dwelling place, and maintain their cause,
 - brenton: then shalt thou hear from heaven thine established dwelling-place,
-
-### Ecclesiastes 8:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.473`
-- fresh_brenton_ratio: `0.715`
-- fresh: And then I saw ungodly men brought into tombs, and they went from holy place and were praised in the city because thus they did; this too vanity.
-- mt: And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.
-- brenton: And then I saw the ungodly carried into the tombs, and that out of the holy place: and they departed, and were praised in the city, because they had done thus: this also is vanity.
 
 ### Proverbs 28:18
 - priority: `0`
@@ -78916,15 +78907,6 @@ Method:
 - mt: And the idols he shall utterly abolish.
 - brenton: And they shall hide all idols made with hands,
 
-### Ecclesiastes 8:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.525`
-- fresh_brenton_ratio: `0.461`
-- fresh: Go from his face; do not stand in evil matter, because whatever he wishes he will do.
-- mt: Be not hasty to go out of his sight: stand not in an evil thing; for he does whatsoever pleases him.
-- brenton: Be not hasty; thou shalt go forth out of his presence: stand not in an evil matter; for he will do whatsoever he shall please,
-
 ### Ezekiel 25:10
 - priority: `0`
 - importance: `none`
@@ -79815,6 +79797,15 @@ Method:
 - fresh: I am, I am one comforting you. Know whom you feared, dreading mortal man and son of man who dried up like grass.
 - mt: I, even I, am he that comforts you: who are you, that you should be afraid of a man that shall die, and of the son of man which shall be made as grass;
 - brenton: I, even I, am he that comforts thee: consider who thou art, that thou wast afraid of mortal man, and of the son of man, who are withered as grass.
+
+### Ecclesiastes 8:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.530`
+- fresh_brenton_ratio: `0.601`
+- fresh: Keep the king's mouth, and because of the word of God's oath do not hurry.
+- mt: I counsel you to keep the king's commandment, and that in regard of the oath of God.
+- brenton: Observe the commandment of the king, and that because of the word of the oath of God.
 
 ### Exodus 30:37
 - priority: `0`
@@ -81076,15 +81067,6 @@ Method:
 - mt: Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
 - brenton: Sit down now, and let there not be unrighteousness; and unite again with the just.
 
-### Ecclesiastes 8:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.537`
-- fresh_brenton_ratio: `0.574`
-- fresh: One keeping command will know no evil thing, and time of judgment heart of wise knows.
-- mt: Whoso keeps the commandment shall feel no evil thing: and a wise man's heart discerns both time and judgment.
-- brenton: He that keeps the commandment shall not know an evil thing: and the heart of the wise knows the time of judgment.
-
 ### Proverbs 7:22
 - priority: `0`
 - importance: `none`
@@ -81363,6 +81345,15 @@ Method:
 - fresh: And you will say in that day, sing hymn to the Lord, cry his name, announce among nations his glorious things, remember that his name was exalted.
 - mt: And in that day shall all of you say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.
 - brenton: And in that day thou shalt say, Sing to the Lord, call aloud upon his name, proclaim his glorious deeds among the Gentiles; make mention that his name is exalted.
+
+### Ecclesiastes 8:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.538`
+- fresh_brenton_ratio: `0.630`
+- fresh: The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
+- mt: Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
+- brenton: He that has sinned has done evil from that time, and long from beforehand: nevertheless I know, that it is well with them that fear God, that they may fear before him:
 
 ### Exodus 12:32
 - priority: `0`
@@ -83011,15 +83002,6 @@ Method:
 - mt: Behold, O LORD, and consider to whom you have done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
 - brenton: Rhechs. Behold, O Lord, and see for whom thou hast gathered thus. Shall the women eat the fruit of their womb? the cook has made a gathering: shall the infants sucking at the breasts be slain? wilt thou slay the priest and prophet in the sanctuary of the Lord?
 
-### Ecclesiastes 8:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.546`
-- fresh_brenton_ratio: `0.620`
-- fresh: Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
-- mt: Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
-- brenton: He that has sinned has done evil from that time, and long from beforehand: nevertheless I know, that it is well with them that fear God, that they may fear before him:
-
 ### Habakkuk 2:19
 - priority: `0`
 - importance: `none`
@@ -83415,6 +83397,15 @@ Method:
 - fresh: Seraia, Azariah, and Jeremiah,
 - mt: Pashur, Amariah, Malchijah,
 - brenton: Phasur, Amaria, Melchia,
+
+### Ecclesiastes 8:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.549`
+- fresh_brenton_ratio: `0.483`
+- fresh: Go from his face; do not stand in an evil matter, because whatever he wishes he will do.
+- mt: Be not hasty to go out of his sight: stand not in an evil thing; for he does whatsoever pleases him.
+- brenton: Be not hasty; thou shalt go forth out of his presence: stand not in an evil matter; for he will do whatsoever he shall please,
 
 ### Proverbs 8:10
 - priority: `0`
@@ -91660,15 +91651,6 @@ Method:
 - mt: And there were made on them, on the doors of the temple, cherubims and palm trees, like were made upon the walls; and there were thick planks upon the face of the porch without.
 - brenton: And there was carved work upon them, and cherubs on the doors of the temple, and palm-trees according to the carving of the sanctuary; and there were stout planks in front of the porch without.
 
-### Ecclesiastes 8:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.586`
-- fresh_brenton_ratio: `0.676`
-- fresh: As king speaks exercising authority, and who will say to him, "What are you doing?"
-- mt: Where the word of a king is, there is power: and who may say unto him, What do you?
-- brenton: even as a king having power: and who will say to him, What doest thou?
-
 ### 1 Chronicles 27:4
 - priority: `0`
 - importance: `none`
@@ -92902,6 +92884,15 @@ Method:
 - mt: And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver.
 - brenton: And their pillars twenty, and twenty brazen sockets for them, and their rings and their clasps of silver.
 
+### Ecclesiastes 8:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.591`
+- fresh_brenton_ratio: `0.694`
+- fresh: As a king speaks exercising authority, and who will say to him, "What are you doing?"
+- mt: Where the word of a king is, there is power: and who may say unto him, What do you?
+- brenton: even as a king having power: and who will say to him, What doest thou?
+
 ### Zephaniah 1:3
 - priority: `0`
 - importance: `none`
@@ -93477,15 +93468,6 @@ Method:
 - fresh: And you shall speak to all the wise in mind, whom I have filled with a spirit of perception, and they shall make Aaron's holy apparel for the sanctuary, in which he shall serve as priest to me.
 - mt: And you shall speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister unto me in the priest's office.
 - brenton: And speak thou to all those who are wise in understanding, whom I have filled with the spirit of wisdom and perception; and they shall make the holy apparel of Aaron for the sanctuary, in which apparel he shall minister to me as priest.
-
-### Ecclesiastes 8:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.594`
-- fresh_brenton_ratio: `0.552`
-- fresh: In which I gave my heart to know wisdom and to see distraction done upon earth, because even by day and by night there is no sleep in his eyes, seeing.
-- mt: When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night sees sleep with his eyes:)
-- brenton: Whereupon I set my heart to know wisdom, and to perceive the trouble that was wrought upon the earth: for there is that neither by day nor night sees sleep with his eyes.
 
 ### Proverbs 17:22
 - priority: `0`
@@ -103189,6 +103171,15 @@ Method:
 - mt: The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,
 - brenton: The children of the servants of Solomon: the children of Sotai, the children of Sephera, the children of Phadura,
 
+### Ecclesiastes 8:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.629`
+- fresh_brenton_ratio: `0.588`
+- fresh: In which I gave my heart to know wisdom and to see the distraction done upon the earth, because even by day and by night there is no sleep in his eyes, seeing.
+- mt: When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night sees sleep with his eyes:)
+- brenton: Whereupon I set my heart to know wisdom, and to perceive the trouble that was wrought upon the earth: for there is that neither by day nor night sees sleep with his eyes.
+
 ### 1 Chronicles 24:8
 - priority: `0`
 - importance: `none`
@@ -108435,6 +108426,15 @@ Method:
 - fresh: Hear, son, and become wise, and direct thoughts of your heart.
 - mt: Hear you, my son, and be wise, and guide yours heart in the way.
 - brenton: Hear, my son, and be wise, and rightly direct the thoughts of thine heart.
+
+### Ecclesiastes 8:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.644`
+- fresh_brenton_ratio: `0.798`
+- fresh: The one keeping a command will know no evil thing, and the heart of a wise man knows a time of judgment.
+- mt: Whoso keeps the commandment shall feel no evil thing: and a wise man's heart discerns both time and judgment.
+- brenton: He that keeps the commandment shall not know an evil thing: and the heart of the wise knows the time of judgment.
 
 ### Deuteronomy 34:8
 - priority: `0`
@@ -120595,15 +120595,6 @@ Method:
 - mt: And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.
 - brenton: and girded him with a girdle according to the make of the ephod, and clasped him closely with it: and put upon it the oracle, and put upon the oracle the Manifestation and the Truth.
 
-### Ecclesiastes 8:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.509`
-- fresh: Who knows wise man, and who knows explanation of word? Wisdom of man gives light to his face, and hardness of his face will be hated.
-- mt: Who is as the wise man? and who knows the interpretation of a thing? a man's wisdom makes his face to shine, and the boldness of his face shall be changed.
-- brenton: A man's wisdom will lighten his countenance; but a man of shameless countenance will be hated.
-
 ### Joel 2:25
 - priority: `0`
 - importance: `none`
@@ -126067,15 +126058,6 @@ Method:
 - mt: Then Horam king of Gezer came up to help Lachish; and Joshua stroke him and his people, until he had left him none remaining.
 - brenton: Then Elam the king of Gazer went up to help Lachis; and Joshua smote him and his people with the edge of the sword, until there was not left to him one that was preserved and escaped.
 
-### Ecclesiastes 8:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.695`
-- fresh_brenton_ratio: `0.719`
-- fresh: Because for every matter there is time and judgment, because knowledge of man much upon him.
-- mt: Because to every purpose there is time and judgment, therefore the misery of man is great upon him.
-- brenton: For to every thing there is time and judgment; for the knowledge of a man is great to him.
-
 ### Deuteronomy 33:9
 - priority: `0`
 - importance: `none`
@@ -127695,15 +127677,6 @@ Method:
 - fresh: Above Horse Gate the priests repaired, each opposite his own house.
 - mt: From above the horse gate repaired the priests, every one opposite to his house.
 - brenton: The priests repaired above the horse-gate, every man over against his own house.
-
-### Ecclesiastes 8:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.699`
-- fresh_brenton_ratio: `0.620`
-- fresh: Because rebuttal against those doing evil does not happen quickly; because of this heart of sons of man was fully assured in them to do evil.
-- mt: Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
-- brenton: Because there is no contradiction made on the part of those who do evil quickly, therefore the heart of the children of men is fully determined in them to do evil.
 
 ### Exodus 4:4
 - priority: `0`
@@ -131142,6 +131115,15 @@ Method:
 - fresh: Because there is a man whose toil is in wisdom and knowledge and courage, and to a man who did not toil in it he will give his portion; and this too is vanity and a great evil.
 - mt: For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that has not laboured therein shall he leave it for his portion. This also is vanity and a great evil.
 - brenton: For there is such a man that his labour is in wisdom, and in knowledge, and in fortitude; yet this man shall give his portion to one who has not laboured therein. This is also vanity and great evil.
+
+### Ecclesiastes 8:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.630`
+- fresh: Because rebuttal against those doing evil does not happen quickly; because of this the heart of the sons of man was fully assured in them to do evil.
+- mt: Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+- brenton: Because there is no contradiction made on the part of those who do evil quickly, therefore the heart of the children of men is fully determined in them to do evil.
 
 ### Proverbs 1:9
 - priority: `0`
@@ -139216,6 +139198,15 @@ Method:
 - mt: It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations.
 - brenton: It is a watch kept to the Lord, so that he should bring them out of the land of Egypt; that very night is a watch kept to the Lord, so that it should be to all the children of Israel to their generations.
 
+### Ecclesiastes 8:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.727`
+- fresh_brenton_ratio: `0.395`
+- fresh: Who knows a wise man, and who knows the explanation of a word? The wisdom of a man gives light to his face, and the hardness of his face will be hated.
+- mt: Who is as the wise man? and who knows the interpretation of a thing? a man's wisdom makes his face to shine, and the boldness of his face shall be changed.
+- brenton: A man's wisdom will lighten his countenance; but a man of shameless countenance will be hated.
+
 ### Judges 19:29
 - priority: `0`
 - importance: `none`
@@ -146379,6 +146370,15 @@ Method:
 - fresh: and Solomon had twelve appointed officers over all Israel to provide for the king and his house. One month in the year it fell on each to provide.
 - mt: And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
 - brenton: And Solomon had twelve officers over all Israel, to provide for the king and his household; each one's turn came to supply for a month in the year.
+
+### Ecclesiastes 8:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.745`
+- fresh_brenton_ratio: `0.749`
+- fresh: Because for every matter there is a time and judgment, because the knowledge of man is much upon him.
+- mt: Because to every purpose there is time and judgment, therefore the misery of man is great upon him.
+- brenton: For to every thing there is time and judgment; for the knowledge of a man is great to him.
 
 ### 1 Chronicles 5:23
 - priority: `0`

@@ -155792,55 +155792,55 @@ Note:
 ### Ecclesiastes 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who knows wise man, and who knows explanation of word? Wisdom of man gives light to his face, and hardness of his face will be hated.
+- fresh: Who knows a wise man, and who knows the explanation of a word? The wisdom of a man gives light to his face, and the hardness of his face will be hated.
 - brenton: A man's wisdom will lighten his countenance; but a man of shameless countenance will be hated.
 
 ### Ecclesiastes 8:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Keep king's mouth, and because of word of God's oath do not hurry.
+- fresh: Keep the king's mouth, and because of the word of God's oath do not hurry.
 - brenton: Observe the commandment of the king, and that because of the word of the oath of God.
 
 ### Ecclesiastes 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go from his face; do not stand in evil matter, because whatever he wishes he will do.
+- fresh: Go from his face; do not stand in an evil matter, because whatever he wishes he will do.
 - brenton: Be not hasty; thou shalt go forth out of his presence: stand not in an evil matter; for he will do whatsoever he shall please,
 
 ### Ecclesiastes 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As king speaks exercising authority, and who will say to him, "What are you doing?"
+- fresh: As a king speaks exercising authority, and who will say to him, "What are you doing?"
 - brenton: even as a king having power: and who will say to him, What doest thou?
 
 ### Ecclesiastes 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One keeping command will know no evil thing, and time of judgment heart of wise knows.
+- fresh: The one keeping a command will know no evil thing, and the heart of a wise man knows a time of judgment.
 - brenton: He that keeps the commandment shall not know an evil thing: and the heart of the wise knows the time of judgment.
 
 ### Ecclesiastes 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because for every matter there is time and judgment, because knowledge of man much upon him.
+- fresh: Because for every matter there is a time and judgment, because the knowledge of man is much upon him.
 - brenton: For to every thing there is time and judgment; for the knowledge of a man is great to him.
 
 ### Ecclesiastes 8:7
@@ -155855,10 +155855,10 @@ Note:
 ### Ecclesiastes 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no man exercising authority over spirit to restrain spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
+- fresh: There is no man exercising authority over the spirit to restrain the spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
 - brenton: There is no man that has power over the spirit to retain the spirit; and there is no power in the day of death: and there is no discharge in the day of battle; neither shall ungodliness save her votary.
 
 ### Ecclesiastes 8:9
@@ -155873,28 +155873,28 @@ Note:
 ### Ecclesiastes 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And then I saw ungodly men brought into tombs, and they went from holy place and were praised in the city because thus they did; this too vanity.
+- fresh: And then I saw ungodly men brought into tombs, and they went from the holy place and were praised in the city because thus they did; this too is vanity.
 - brenton: And then I saw the ungodly carried into the tombs, and that out of the holy place: and they departed, and were praised in the city, because they had done thus: this also is vanity.
 
 ### Ecclesiastes 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because rebuttal against those doing evil does not happen quickly; because of this heart of sons of man was fully assured in them to do evil.
+- fresh: Because rebuttal against those doing evil does not happen quickly; because of this the heart of the sons of man was fully assured in them to do evil.
 - brenton: Because there is no contradiction made on the part of those who do evil quickly, therefore the heart of the children of men is fully determined in them to do evil.
 
 ### Ecclesiastes 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
+- fresh: The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
 - brenton: He that has sinned has done evil from that time, and long from beforehand: nevertheless I know, that it is well with them that fear God, that they may fear before him:
 
 ### Ecclesiastes 8:13
@@ -155909,37 +155909,37 @@ Note:
 ### Ecclesiastes 8:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is vanity done upon earth: there are righteous ones to whom it reaches as work of ungodly ones, and there are ungodly ones to whom it reaches as work of righteous ones; I said that this too vanity.
+- fresh: There is vanity done upon the earth: there are righteous ones to whom it reaches as the work of ungodly ones, and there are ungodly ones to whom it reaches as the work of righteous ones; I said that this too is vanity.
 - brenton: There is a vanity which is done upon the earth; that there are righteous persons to whom it happens according to the doing of the ungodly; and there are ungodly men, to whom it happens according to the doing of the just: I said, This is also vanity.
 
 ### Ecclesiastes 8:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I praised gladness, because there is no good for man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under the sun.
+- fresh: And I praised the gladness, because there is no good for a man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all the days of his life which God gave him under the sun.
 - brenton: Then I praised mirth, because there is no good for a man under the sun, but to eat, and drink, and be merry: and this shall attend him in his labour all the days of his life, which God has given him under the sun.
 
 ### Ecclesiastes 8:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In which I gave my heart to know wisdom and to see distraction done upon earth, because even by day and by night there is no sleep in his eyes, seeing.
+- fresh: In which I gave my heart to know wisdom and to see the distraction done upon the earth, because even by day and by night there is no sleep in his eyes, seeing.
 - brenton: Whereupon I set my heart to know wisdom, and to perceive the trouble that was wrought upon the earth: for there is that neither by day nor night sees sleep with his eyes.
 
 ### Ecclesiastes 8:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw all works of God, that man will not be able to find out work done under the sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
+- fresh: And I saw all the works of God, that man will not be able to find out the work done under the sun. However much a man toils to seek, he will not find; and however much a wise man says to know, he will not be able to find.
 - brenton: And I beheld all the works of God, that a man shall not be able to discover the work which is wrought under the sun; whatsoever things a man shall endeavour to seek, however a man may labour to seek it, yet he shall not find it; yea, how much soever a wise man may speak of knowing it, he shall not be able to find it: for I applied all this to my heart, and my heart has seen all this.
 
 ### Ecclesiastes 9:1

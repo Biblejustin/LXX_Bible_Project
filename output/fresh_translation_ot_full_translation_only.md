@@ -70592,27 +70592,27 @@ Except look, this I found: what God made with man is upright, but they sought ma
 
 **Ecclesiastes 8:1**
 
-Who knows wise man, and who knows explanation of word? Wisdom of man gives light to his face, and hardness of his face will be hated.
+Who knows a wise man, and who knows the explanation of a word? The wisdom of a man gives light to his face, and the hardness of his face will be hated.
 
 **Ecclesiastes 8:2**
 
-Keep king's mouth, and because of word of God's oath do not hurry.
+Keep the king's mouth, and because of the word of God's oath do not hurry.
 
 **Ecclesiastes 8:3**
 
-Go from his face; do not stand in evil matter, because whatever he wishes he will do.
+Go from his face; do not stand in an evil matter, because whatever he wishes he will do.
 
 **Ecclesiastes 8:4**
 
-As king speaks exercising authority, and who will say to him, "What are you doing?"
+As a king speaks exercising authority, and who will say to him, "What are you doing?"
 
 **Ecclesiastes 8:5**
 
-One keeping command will know no evil thing, and time of judgment heart of wise knows.
+The one keeping a command will know no evil thing, and the heart of a wise man knows a time of judgment.
 
 **Ecclesiastes 8:6**
 
-Because for every matter there is time and judgment, because knowledge of man much upon him.
+Because for every matter there is a time and judgment, because the knowledge of man is much upon him.
 
 **Ecclesiastes 8:7**
 
@@ -70620,7 +70620,7 @@ Because there is no one knowing what will be, because as it will be, who will te
 
 **Ecclesiastes 8:8**
 
-There is no man exercising authority over spirit to restrain spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
+There is no man exercising authority over the spirit to restrain the spirit, and there is no authority in the day of death, and there is no discharge in war, and ungodliness will not rescue its possessor.
 
 **Ecclesiastes 8:9**
 
@@ -70628,15 +70628,15 @@ And with all this I saw and gave my heart to every work done under the sun, all 
 
 **Ecclesiastes 8:10**
 
-And then I saw ungodly men brought into tombs, and they went from holy place and were praised in the city because thus they did; this too vanity.
+And then I saw ungodly men brought into tombs, and they went from the holy place and were praised in the city because thus they did; this too is vanity.
 
 **Ecclesiastes 8:11**
 
-Because rebuttal against those doing evil does not happen quickly; because of this heart of sons of man was fully assured in them to do evil.
+Because rebuttal against those doing evil does not happen quickly; because of this the heart of the sons of man was fully assured in them to do evil.
 
 **Ecclesiastes 8:12**
 
-Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
+The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face.
 
 **Ecclesiastes 8:13**
 
@@ -70644,19 +70644,19 @@ And good will not be for the ungodly man, and he will not lengthen days in shado
 
 **Ecclesiastes 8:14**
 
-There is vanity done upon earth: there are righteous ones to whom it reaches as work of ungodly ones, and there are ungodly ones to whom it reaches as work of righteous ones; I said that this too vanity.
+There is vanity done upon the earth: there are righteous ones to whom it reaches as the work of ungodly ones, and there are ungodly ones to whom it reaches as the work of righteous ones; I said that this too is vanity.
 
 **Ecclesiastes 8:15**
 
-And I praised gladness, because there is no good for man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all days of his life which God gave him under the sun.
+And I praised the gladness, because there is no good for a man under the sun except to eat and to drink and to rejoice, and this will stay with him in his toil all the days of his life which God gave him under the sun.
 
 **Ecclesiastes 8:16**
 
-In which I gave my heart to know wisdom and to see distraction done upon earth, because even by day and by night there is no sleep in his eyes, seeing.
+In which I gave my heart to know wisdom and to see the distraction done upon the earth, because even by day and by night there is no sleep in his eyes, seeing.
 
 **Ecclesiastes 8:17**
 
-And I saw all works of God, that man will not be able to find out work done under the sun. However much man toils to seek, he will not find; and however much wise man says to know, he will not be able to find.
+And I saw all the works of God, that man will not be able to find out the work done under the sun. However much a man toils to seek, he will not find; and however much a wise man says to know, he will not be able to find.
 
 ### Chapter 9
 

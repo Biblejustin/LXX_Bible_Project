@@ -2622,7 +2622,14 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the upright man himself understands" in by_ref["Proverbs 21:29"]["draft_translation"]
     assert "against the ungodly man" in by_ref["Proverbs 21:30"]["draft_translation"]
     assert "partner of an ungodly man" in by_ref["Proverbs 28:24"]["draft_translation"]
+    assert "Who knows a wise man" in by_ref["Ecclesiastes 8:1"]["draft_translation"]
+    assert "Keep the king's mouth" in by_ref["Ecclesiastes 8:2"]["draft_translation"]
+    assert "The one keeping a command" in by_ref["Ecclesiastes 8:5"][
+        "draft_translation"
+    ]
     assert "for the ungodly man" in by_ref["Ecclesiastes 8:13"]["draft_translation"]
+    assert "this too is vanity" in by_ref["Ecclesiastes 8:14"]["draft_translation"]
+    assert "all the works of God" in by_ref["Ecclesiastes 8:17"]["draft_translation"]
     assert "Let the ungodly man leave his ways and the lawless man" in by_ref["Isaiah 55:7"][
         "draft_translation"
     ]
