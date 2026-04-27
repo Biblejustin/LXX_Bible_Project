@@ -74734,55 +74734,55 @@ And you will winnow them, and a wind will take them and a storm scatter them. Bu
 
 **Isaiah 41:17**
 
-For poor and needy will seek water and there will not be; their tongue dried up from thirst. I, the Lord God, will hear; God of Israel, I will not abandon them.
+For the poor and the needy will seek water, and there will be none; their tongue dried up from thirst. I, the Lord God, will hear; the God of Israel, I will not abandon them.
 
 **Isaiah 41:18**
 
-But I will open rivers on mountains and make springs in the midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
+But I will open rivers on the mountains and make springs in the midst of plains. I will make the wilderness into marshes and the thirsty land into aqueducts.
 
 **Isaiah 41:19**
 
-I will put in dry land cedar and box tree and myrtle and cypress and white poplar,
+I will put a cedar and a box tree and a myrtle and a cypress and a white poplar in the dry land,
 
 **Isaiah 41:20**
 
-so that they may see and know and understand and know together that hand of the Lord did all these things and the Holy One of Israel displayed them.
+so that they may see and know and understand and know together that the hand of the Lord did all these things and the Holy One of Israel displayed them.
 
 **Isaiah 41:21**
 
-Your judgment draws near, says the Lord God; your counsels drew near, says king of Jacob.
+Your judgment draws near, says the Lord God; your counsels drew near, says the king of Jacob.
 
 **Isaiah 41:22**
 
-Let them come near and announce to you what will happen, or what former things were; speak, and we will set our mind and know what last things are, and tell us things coming.
+Let them come near and announce to you what will happen, or what the former things were; speak, and we will set our mind and know what the last things are, and tell us the things coming.
 
 **Isaiah 41:23**
 
-Tell us things coming at end, and we will know that you are gods; do good and do evil, and we will marvel and see together.
+Tell us the things coming at the end, and we will know that you are gods; do good and do evil, and we will marvel and see together.
 
 **Isaiah 41:24**
 
-Because from where are you, and from where your work? They chose you from the land, abomination.
+Because from where are you, and from where is your work? They chose you from the land as an abomination.
 
 **Isaiah 41:25**
 
-But I raised one from north and one from the east of sun; they will be called by my name. Let rulers come, and as potter's clay and as potter treading clay, thus you will be trampled.
+But I raised one from the north and one from the east of the sun; they will be called by my name. Let the rulers come, and as potter's clay and as a potter treading the clay, thus you will be trampled.
 
 **Isaiah 41:26**
 
-For who will announce from the beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
+For who will announce the things from the beginning so that we may know, and the things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
 
 **Isaiah 41:27**
 
-I will give beginning to Zion and comfort Jerusalem for way.
+I will give a beginning to Zion and comfort Jerusalem for the way.
 
 **Isaiah 41:28**
 
-For from nations, behold, no one, and from their idols there was not one announcing; and if I ask them from where are you, they certainly will not answer me.
+For from the nations, behold, no one, and from their idols there was not one announcing; and if I ask them from where they are, they certainly will not answer me.
 
 **Isaiah 41:29**
 
-For those making you and leading you astray are vain.
+For the ones making you and the ones leading you astray are vain.
 
 ### Chapter 42
 

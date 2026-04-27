@@ -6112,6 +6112,77 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "a wind will take them and a storm" in by_ref["Isaiah 41:16"][
         "draft_translation"
     ]
+    assert by_ref["Isaiah 41:17"]["draft_translation"].startswith(
+        "For the poor and the needy"
+    )
+    assert "the God of Israel" in by_ref["Isaiah 41:17"]["draft_translation"]
+    assert "on the mountains" in by_ref["Isaiah 41:18"]["draft_translation"]
+    assert "the wilderness into marshes" in by_ref["Isaiah 41:18"][
+        "draft_translation"
+    ]
+    assert "the thirsty land into aqueducts" in by_ref["Isaiah 41:18"][
+        "draft_translation"
+    ]
+    assert "a cedar and a box tree" in by_ref["Isaiah 41:19"][
+        "draft_translation"
+    ]
+    assert "in the dry land" in by_ref["Isaiah 41:19"]["draft_translation"]
+    assert "the hand of the Lord" in by_ref["Isaiah 41:20"][
+        "draft_translation"
+    ]
+    assert "the king of Jacob" in by_ref["Isaiah 41:21"][
+        "draft_translation"
+    ]
+    assert "what the former things were" in by_ref["Isaiah 41:22"][
+        "draft_translation"
+    ]
+    assert "what the last things are" in by_ref["Isaiah 41:22"][
+        "draft_translation"
+    ]
+    assert "the things coming" in by_ref["Isaiah 41:22"][
+        "draft_translation"
+    ]
+    assert "the things coming at the end" in by_ref["Isaiah 41:23"][
+        "draft_translation"
+    ]
+    assert "from where is your work" in by_ref["Isaiah 41:24"][
+        "draft_translation"
+    ]
+    assert "as an abomination" in by_ref["Isaiah 41:24"][
+        "draft_translation"
+    ]
+    assert "from the north" in by_ref["Isaiah 41:25"]["draft_translation"]
+    assert "from the east of the sun" in by_ref["Isaiah 41:25"][
+        "draft_translation"
+    ]
+    assert "Let the rulers come" in by_ref["Isaiah 41:25"][
+        "draft_translation"
+    ]
+    assert "a potter treading the clay" in by_ref["Isaiah 41:25"][
+        "draft_translation"
+    ]
+    assert "the things from the beginning" in by_ref["Isaiah 41:26"][
+        "draft_translation"
+    ]
+    assert "the things before" in by_ref["Isaiah 41:26"][
+        "draft_translation"
+    ]
+    assert "a beginning to Zion" in by_ref["Isaiah 41:27"][
+        "draft_translation"
+    ]
+    assert "for the way" in by_ref["Isaiah 41:27"]["draft_translation"]
+    assert by_ref["Isaiah 41:28"]["draft_translation"].startswith(
+        "For from the nations"
+    )
+    assert "from where they are" in by_ref["Isaiah 41:28"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 41:29"]["draft_translation"].startswith(
+        "For the ones making you"
+    )
+    assert "the ones leading you astray" in by_ref["Isaiah 41:29"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

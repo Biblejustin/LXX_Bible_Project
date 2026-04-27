@@ -164868,118 +164868,118 @@ Note:
 ### Isaiah 41:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For poor and needy will seek water and there will not be; their tongue dried up from thirst. I, the Lord God, will hear; God of Israel, I will not abandon them.
+- fresh: For the poor and the needy will seek water, and there will be none; their tongue dried up from thirst. I, the Lord God, will hear; the God of Israel, I will not abandon them.
 - brenton: And the poor and the needy shall exult; for when they shall seek water, and there shall be none, and their tongue is parched with thirst, I the Lord God, I the God of Israel will hear, and will not forsake them:
 
 ### Isaiah 41:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I will open rivers on mountains and make springs in the midst of plains. I will make wilderness into marshes and thirsty land into aqueducts.
+- fresh: But I will open rivers on the mountains and make springs in the midst of plains. I will make the wilderness into marshes and the thirsty land into aqueducts.
 - brenton: but I will open rivers on the mountains, and fountains in the midst of plains: I will make the desert pools of water, and a thirsty land watercourses.
 
 ### Isaiah 41:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will put in dry land cedar and box tree and myrtle and cypress and white poplar,
+- fresh: I will put a cedar and a box tree and a myrtle and a cypress and a white poplar in the dry land,
 - brenton: I will plant in the dry land the cedar and box, the myrtle and cypress, and white poplar:
 
 ### Isaiah 41:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: so that they may see and know and understand and know together that hand of the Lord did all these things and the Holy One of Israel displayed them.
+- fresh: so that they may see and know and understand and know together that the hand of the Lord did all these things and the Holy One of Israel displayed them.
 - brenton: that they may see, and know, and perceive, and understand together, that the hand of the Lord has wrought these works, and the Holy One of Israel has displayed them.
 
 ### Isaiah 41:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your judgment draws near, says the Lord God; your counsels drew near, says king of Jacob.
+- fresh: Your judgment draws near, says the Lord God; your counsels drew near, says the king of Jacob.
 - brenton: Your judgment draws nigh, saith the Lord God; your counsels have drawn nigh, saith the King of Jacob.
 
 ### Isaiah 41:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them come near and announce to you what will happen, or what former things were; speak, and we will set our mind and know what last things are, and tell us things coming.
+- fresh: Let them come near and announce to you what will happen, or what the former things were; speak, and we will set our mind and know what the last things are, and tell us the things coming.
 - brenton: Let them draw nigh, and declare to you what things shall come to pass; or tell us what things were of old, and we will apply our understanding, and we shall know what are the last and the future things:
 
 ### Isaiah 41:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Tell us things coming at end, and we will know that you are gods; do good and do evil, and we will marvel and see together.
+- fresh: Tell us the things coming at the end, and we will know that you are gods; do good and do evil, and we will marvel and see together.
 - brenton: tell us, declare ye to us the things that are coming on at the last time, and we shall know that ye are gods: do good, and do evil, and we shall wonder, and see at the same time
 
 ### Isaiah 41:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from where are you, and from where your work? They chose you from the land, abomination.
+- fresh: Because from where are you, and from where is your work? They chose you from the land as an abomination.
 - brenton: whence ye are, and whence is your work: they have chosen you an abomination out of the earth.
 
 ### Isaiah 41:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I raised one from north and one from the east of sun; they will be called by my name. Let rulers come, and as potter's clay and as potter treading clay, thus you will be trampled.
+- fresh: But I raised one from the north and one from the east of the sun; they will be called by my name. Let the rulers come, and as potter's clay and as a potter treading the clay, thus you will be trampled.
 - brenton: But I have raised up him that comes from the north, and him that comes from the rising of the sun: they shall be called by my name: let the princes come, and as potter's clay, and as a potter treading clay, so shall ye be trodden down.
 
 ### Isaiah 41:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For who will announce from the beginning so that we may know, and things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
+- fresh: For who will announce the things from the beginning so that we may know, and the things before, and we will say they are true? There is no one foretelling, nor one hearing your words.
 - brenton: For who will declare the things from the beginning, that we may know also the former things, and we will say that they are true? there is no one that speaks beforehand, nor any one that hears your words.
 
 ### Isaiah 41:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will give beginning to Zion and comfort Jerusalem for way.
+- fresh: I will give a beginning to Zion and comfort Jerusalem for the way.
 - brenton: I will give dominion to Sion, and will comfort Jerusalem by the way.
 
 ### Isaiah 41:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For from nations, behold, no one, and from their idols there was not one announcing; and if I ask them from where are you, they certainly will not answer me.
+- fresh: For from the nations, behold, no one, and from their idols there was not one announcing; and if I ask them from where they are, they certainly will not answer me.
 - brenton: For from among the nations, behold, there was no one; and of their idols there was none to declare anything: and if I should ask them, Whence are ye? they could not answer me.
 
 ### Isaiah 41:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For those making you and leading you astray are vain.
+- fresh: For the ones making you and the ones leading you astray are vain.
 - brenton: For these are your makers, as ye think, and they that cause you to err in vain.
 
 ### Isaiah 42:1
