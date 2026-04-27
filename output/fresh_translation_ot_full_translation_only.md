@@ -73736,7 +73736,7 @@ The vision of four-footed beasts in the wilderness, in affliction and tightness:
 
 **Isaiah 30:7**
 
-The Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
+The Egyptians will help you vainly and emptily. Report to them that your comfort is vanity.
 
 **Isaiah 30:8**
 
@@ -73760,11 +73760,11 @@ Because of this thus says the Lord, the Holy One of Israel: Because you disobeye
 
 **Isaiah 30:13**
 
-because of this, this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
+because of this, this sin will be to you as a wall falling suddenly of a strong city captured, whose collapse is instantly near.
 
 **Isaiah 30:14**
 
-And its fall will be as shattering of earthen vessel from pottery, crushed fine, so that not find shard in them in which you may lift fire and in which draw a little water.
+And its fall will be as the shattering of an earthen vessel from pottery, crushed fine, so that one does not find a shard in them in which you may lift fire and in which draw a little water.
 
 **Isaiah 30:15**
 
@@ -73772,27 +73772,27 @@ Thus says the Lord, the Holy One of Israel: When you turn and groan, then you wi
 
 **Isaiah 30:16**
 
-But you said, We will flee on horses. Because of this you will flee. And you said, We will be riders on swift ones. Because of this those pursuing you will be swift.
+But you said, We will flee on horses. Because of this you will flee. And you said, We will be riders on the swift ones. Because of this those pursuing you will be swift.
 
 **Isaiah 30:17**
 
-At the voice of one, thousand will flee, and at the voice of five, many will flee until you are left as mast on mountain and as standard-bearer on hill.
+At the voice of one, a thousand will flee, and at the voice of five, many will flee until you are left as a mast on a mountain and as a standard-bearer on a hill.
 
 **Isaiah 30:18**
 
-And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are those staying in him.
+And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are the ones staying in him.
 
 **Isaiah 30:19**
 
-Because holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at the voice of your cry, whenever he saw, he heard you.
+Because a holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at the voice of your cry, whenever he saw, he heard you.
 
 **Isaiah 30:20**
 
-And the Lord will give you bread of affliction and narrow water, and those leading you astray will certainly no longer come near you, because your eyes will see those leading you astray.
+And the Lord will give you bread of affliction and narrow water, and those leading you astray will certainly no longer come near you, because your eyes will see the ones leading you astray.
 
 **Isaiah 30:21**
 
-And your ears will hear words of those behind you who led you astray, saying, This way, let us walk in it, whether right or left.
+And your ears will hear the words of those behind you who led you astray, saying, This way, let us walk in it, whether right or left.
 
 **Isaiah 30:22**
 
@@ -73800,7 +73800,7 @@ And you will cast away silver-covered idols and gold-plated idols. You will make
 
 **Isaiah 30:23**
 
-Then there will be rain for the seed of your land, and bread from the produce of your land will be abundant and rich, and your cattle will be grazed in that day in rich and spacious place.
+Then there will be rain for the seed of your land, and bread from the produce of your land will be abundant and rich, and your cattle will be grazed in that day in a rich and spacious place.
 
 **Isaiah 30:24**
 

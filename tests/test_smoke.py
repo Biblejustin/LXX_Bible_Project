@@ -5278,6 +5278,43 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "who say to the prophets" in by_ref["Isaiah 30:10"][
         "draft_translation"
     ]
+    assert "vainly and emptily" in by_ref["Isaiah 30:7"]["draft_translation"]
+    assert "as a wall falling suddenly" in by_ref["Isaiah 30:13"][
+        "draft_translation"
+    ]
+    assert "of a strong city captured" in by_ref["Isaiah 30:13"][
+        "draft_translation"
+    ]
+    assert "as the shattering of an earthen vessel" in by_ref["Isaiah 30:14"][
+        "draft_translation"
+    ]
+    assert "one does not find a shard" in by_ref["Isaiah 30:14"][
+        "draft_translation"
+    ]
+    assert "riders on the swift ones" in by_ref["Isaiah 30:16"][
+        "draft_translation"
+    ]
+    assert "a thousand will flee" in by_ref["Isaiah 30:17"][
+        "draft_translation"
+    ]
+    assert "as a mast on a mountain" in by_ref["Isaiah 30:17"][
+        "draft_translation"
+    ]
+    assert "Blessed are the ones staying" in by_ref["Isaiah 30:18"][
+        "draft_translation"
+    ]
+    assert "Because a holy people" in by_ref["Isaiah 30:19"][
+        "draft_translation"
+    ]
+    assert "the ones leading you astray" in by_ref["Isaiah 30:20"][
+        "draft_translation"
+    ]
+    assert "your ears will hear the words" in by_ref["Isaiah 30:21"][
+        "draft_translation"
+    ]
+    assert "in a rich and spacious place" in by_ref["Isaiah 30:23"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

@@ -162672,10 +162672,10 @@ Note:
 ### Isaiah 30:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Egyptians will help you vainly and emptyly. Report to them that your comfort is vanity.
+- fresh: The Egyptians will help you vainly and emptily. Report to them that your comfort is vanity.
 - brenton: The Egyptians shall help you utterly in vain: tell them, This your consolation is vain.
 
 ### Isaiah 30:8
@@ -162726,19 +162726,19 @@ Note:
 ### Isaiah 30:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because of this, this sin will be to you as wall falling suddenly of strong city captured, whose collapse is instantly near.
+- fresh: because of this, this sin will be to you as a wall falling suddenly of a strong city captured, whose collapse is instantly near.
 - brenton: therefore shall this sin be to you as a wall suddenly falling when a strong city has been taken, of which the fall is very near at hand.
 
 ### Isaiah 30:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And its fall will be as shattering of earthen vessel from pottery, crushed fine, so that not find shard in them in which you may lift fire and in which draw a little water.
+- fresh: And its fall will be as the shattering of an earthen vessel from pottery, crushed fine, so that one does not find a shard in them in which you may lift fire and in which draw a little water.
 - brenton: And the fall thereof shall be as the breaking of an earthen vessel, as small fragments of a pitcher, so that thou shouldest not find among them a sherd, with which thou mightest take up fire, and with which thou shouldest draw a little water.
 
 ### Isaiah 30:15
@@ -162753,55 +162753,55 @@ Note:
 ### Isaiah 30:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you said, We will flee on horses. Because of this you will flee. And you said, We will be riders on swift ones. Because of this those pursuing you will be swift.
+- fresh: But you said, We will flee on horses. Because of this you will flee. And you said, We will be riders on the swift ones. Because of this those pursuing you will be swift.
 - brenton: but ye said, We will flee upon horses; therefore shall ye flee: and, We will be aided by swift riders; therefore shall they that pursue you be swift.
 
 ### Isaiah 30:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At the voice of one, thousand will flee, and at the voice of five, many will flee until you are left as mast on mountain and as standard-bearer on hill.
+- fresh: At the voice of one, a thousand will flee, and at the voice of five, many will flee until you are left as a mast on a mountain and as a standard-bearer on a hill.
 - brenton: A thousand shall flee because of the voice of one, and many shall flee on account of the voice of five; until ye be left as a signal-post upon a mountain, and as one bearing an ensign upon a hill.
 
 ### Isaiah 30:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are those staying in him.
+- fresh: And again God waits to pity you, and because of this he will be exalted to have mercy on you, because the Lord our God is judge. And where will you leave your glory? Blessed are the ones staying in him.
 - brenton: And the Lord will again wait, that he may pity you, and will therefore be exalted that he may have mercy upon you: because the Lord your God is a judge: blessed are they that stay themselves upon him.
 
 ### Isaiah 30:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at the voice of your cry, whenever he saw, he heard you.
+- fresh: Because a holy people will dwell in Zion and Jerusalem. With weeping he wept, Have mercy on me. He will pity you; at the voice of your cry, whenever he saw, he heard you.
 - brenton: For the holy people shall dwell in Sion: and whereas Jerusalem has wept bitterly, saying, Pity me; he shall pity thee: when he perceived the voice of thy cry, he hearkened to thee.
 
 ### Isaiah 30:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will give you bread of affliction and narrow water, and those leading you astray will certainly no longer come near you, because your eyes will see those leading you astray.
+- fresh: And the Lord will give you bread of affliction and narrow water, and those leading you astray will certainly no longer come near you, because your eyes will see the ones leading you astray.
 - brenton: And though the Lord shall give you the bread of affliction and scant water, yet they that cause thee to err shall no more at all draw nigh to thee; for thine eyes shall see those that cause thee to err,
 
 ### Isaiah 30:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your ears will hear words of those behind you who led you astray, saying, This way, let us walk in it, whether right or left.
+- fresh: And your ears will hear the words of those behind you who led you astray, saying, This way, let us walk in it, whether right or left.
 - brenton: and thine ears shall hear the words of them that went after thee to lead thee astray, who say, This is the way, let us walk in it, whether to the right or to the left.
 
 ### Isaiah 30:22
@@ -162816,10 +162816,10 @@ Note:
 ### Isaiah 30:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then there will be rain for the seed of your land, and bread from the produce of your land will be abundant and rich, and your cattle will be grazed in that day in rich and spacious place.
+- fresh: Then there will be rain for the seed of your land, and bread from the produce of your land will be abundant and rich, and your cattle will be grazed in that day in a rich and spacious place.
 - brenton: Then shall there be rain to the seed of thy land; and the bread of the fruit of thy land shall be plenteous and rich: and thy cattle shall feed in that day in a fertile and spacious place.
 
 ### Isaiah 30:24
