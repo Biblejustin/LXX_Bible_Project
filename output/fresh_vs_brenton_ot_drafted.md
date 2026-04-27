@@ -162510,64 +162510,64 @@ Note:
 ### Isaiah 29:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said, This people draws near to me with lips; with their lips they honor me, but their heart holds far from me. In vain they revere me, teaching commandments and teachings of men.
+- fresh: And the Lord said, This people draws near to me with their lips; with their lips they honor me, but their heart holds far from me. In vain they revere me, teaching commandments and teachings of men.
 - brenton: And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.
 
 ### Isaiah 29:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this, behold, I will add to move this people and will move them, and wisdom of wise I will destroy, and understanding of understanding ones I will hide.
+- fresh: Because of this, behold, I will add to move this people and will move them, and the wisdom of the wise I will destroy, and the understanding of the understanding ones I will hide.
 - brenton: Therefore behold I will proceed to remove this people, and I will remove them: and I will destroy the wisdom of the wise, and will hide the understanding of the prudent.
 
 ### Isaiah 29:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those making counsel deep, and not through the Lord. Woe those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
+- fresh: Woe to those making counsel deep, and not through the Lord. Woe to those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
 - brenton: Woe to them that deepen their counsel, and not by the Lord. Woe to them that take secret counsel, and whose works are in darkness, and they say, Who has seen us? and who shall know us, or what we do?
 
 ### Isaiah 29:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will you not be reckoned as clay of potter? Will thing formed say to one forming, You did not form me? Or work to one making, You did not make me intelligently?
+- fresh: Will you not be reckoned as the clay of the potter? Will the thing formed say to the one forming, You did not form me? Or the work to the one making, You did not make me intelligently?
 - brenton: Shall ye not be counted as clay of the potter? Shall the thing formed say to him that formed it, Thou didst not form me? or the work to the maker, Thou hast not made me wisely?
 
 ### Isaiah 29:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet a little, and Lebanon will be changed as mountain of Carmel, and mountain of Carmel will be reckoned as forest.
+- fresh: Yet a little, and Lebanon will be changed as the mountain of Carmel, and the mountain of Carmel will be reckoned as a forest.
 - brenton: Is it not yet a little while, and Libanus shall be changed as the mountain of Chermel, and Chermel shall be reckoned as a forest?
 
 ### Isaiah 29:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in that day deaf will hear words of book, and eyes of blind in darkness and gloom will see.
+- fresh: And in that day the deaf will hear words of a book, and the eyes of the blind in the darkness and the gloom will see.
 - brenton: And in that day the deaf shall hear the words of the book, and they that are in darkness, and they that are in mist: the eyes of the blind shall see,
 
 ### Isaiah 29:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And poor will exult through the Lord with gladness, and hopeless among men will be filled with gladness.
+- fresh: And the poor will exult through the Lord with gladness, and the hopeless among men will be filled with gladness.
 - brenton: and the poor shall rejoice with joy because of the Lord, and they that had no hope among men shall be filled with joy.
 
 ### Isaiah 29:20
@@ -162582,37 +162582,37 @@ Note:
 ### Isaiah 29:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and those making men sin in word and setting stumbling block for all reproving in gates and turning righteous aside among unjust ones.
+- fresh: and those making men sin by a word and setting a stumbling block for all reproving in the gates and turning a righteous one aside among unjust ones.
 - brenton: and they that cause men to sin by a word: and men shall make all that reprove in the gates an offence, because they have unjustly turned aside the righteous.
 
 ### Isaiah 29:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change face.
+- fresh: Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change the face.
 - brenton: Therefore thus saith the Lord concerning the house of Jacob, whom he set apart from Abraam, Jacob shall not now be ashamed, neither shall he now change countenance.
 
 ### Isaiah 29:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But when they see their children, my works because of me, they will sanctify my name and sanctify the Holy One of Jacob and fear God of Israel.
+- fresh: But when they see their children, my works because of me, they will sanctify my name and sanctify the Holy One of Jacob and fear the God of Israel.
 - brenton: But when their children shall have seen my works, they shall sanctify my name for my sake, and they shall sanctify the Holy One of Jacob, and shall fear the God of Israel.
 
 ### Isaiah 29:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those led astray in spirit will know understanding, and grumblers will learn to obey, and stammering tongues will learn to speak peace.
+- fresh: And those led astray in spirit will know understanding, and the grumblers will learn to obey, and the stammering tongues will learn to speak peace.
 - brenton: And they that erred in spirit shall know understanding, and the murmurers shall learn obedience, and the stammering tongues shall learn to speak peace.
 
 ### Isaiah 30:1

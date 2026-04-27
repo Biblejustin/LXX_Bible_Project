@@ -5218,6 +5218,39 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the hands of a man not knowing letters" in by_ref["Isaiah 29:12"][
         "draft_translation"
     ]
+    assert "draws near to me with their lips" in by_ref["Isaiah 29:13"][
+        "draft_translation"
+    ]
+    assert "the wisdom of the wise" in by_ref["Isaiah 29:14"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 29:15"]["draft_translation"].startswith(
+        "Woe to those making counsel deep"
+    )
+    assert "the clay of the potter" in by_ref["Isaiah 29:16"][
+        "draft_translation"
+    ]
+    assert "the thing formed say to the one forming" in by_ref["Isaiah 29:16"][
+        "draft_translation"
+    ]
+    assert "as the mountain of Carmel" in by_ref["Isaiah 29:17"][
+        "draft_translation"
+    ]
+    assert "the deaf will hear words of a book" in by_ref["Isaiah 29:18"][
+        "draft_translation"
+    ]
+    assert "the poor will exult" in by_ref["Isaiah 29:19"][
+        "draft_translation"
+    ]
+    assert "setting a stumbling block" in by_ref["Isaiah 29:21"][
+        "draft_translation"
+    ]
+    assert "in the gates" in by_ref["Isaiah 29:21"]["draft_translation"]
+    assert "change the face" in by_ref["Isaiah 29:22"]["draft_translation"]
+    assert "the God of Israel" in by_ref["Isaiah 29:23"]["draft_translation"]
+    assert "the stammering tongues" in by_ref["Isaiah 29:24"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

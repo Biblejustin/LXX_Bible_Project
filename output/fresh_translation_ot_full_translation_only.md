@@ -73662,31 +73662,31 @@ And this book will be given into the hands of a man not knowing letters, and the
 
 **Isaiah 29:13**
 
-And the Lord said, This people draws near to me with lips; with their lips they honor me, but their heart holds far from me. In vain they revere me, teaching commandments and teachings of men.
+And the Lord said, This people draws near to me with their lips; with their lips they honor me, but their heart holds far from me. In vain they revere me, teaching commandments and teachings of men.
 
 **Isaiah 29:14**
 
-Because of this, behold, I will add to move this people and will move them, and wisdom of wise I will destroy, and understanding of understanding ones I will hide.
+Because of this, behold, I will add to move this people and will move them, and the wisdom of the wise I will destroy, and the understanding of the understanding ones I will hide.
 
 **Isaiah 29:15**
 
-Woe those making counsel deep, and not through the Lord. Woe those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
+Woe to those making counsel deep, and not through the Lord. Woe to those making counsel in secret, and their works will be in darkness, and they will say, Who has seen us, and who will know us or what we do?
 
 **Isaiah 29:16**
 
-Will you not be reckoned as clay of potter? Will thing formed say to one forming, You did not form me? Or work to one making, You did not make me intelligently?
+Will you not be reckoned as the clay of the potter? Will the thing formed say to the one forming, You did not form me? Or the work to the one making, You did not make me intelligently?
 
 **Isaiah 29:17**
 
-Yet a little, and Lebanon will be changed as mountain of Carmel, and mountain of Carmel will be reckoned as forest.
+Yet a little, and Lebanon will be changed as the mountain of Carmel, and the mountain of Carmel will be reckoned as a forest.
 
 **Isaiah 29:18**
 
-And in that day deaf will hear words of book, and eyes of blind in darkness and gloom will see.
+And in that day the deaf will hear words of a book, and the eyes of the blind in the darkness and the gloom will see.
 
 **Isaiah 29:19**
 
-And poor will exult through the Lord with gladness, and hopeless among men will be filled with gladness.
+And the poor will exult through the Lord with gladness, and the hopeless among men will be filled with gladness.
 
 **Isaiah 29:20**
 
@@ -73694,19 +73694,19 @@ The lawless one failed and the proud one perished and those lawless unto evil we
 
 **Isaiah 29:21**
 
-and those making men sin in word and setting stumbling block for all reproving in gates and turning righteous aside among unjust ones.
+and those making men sin by a word and setting a stumbling block for all reproving in the gates and turning a righteous one aside among unjust ones.
 
 **Isaiah 29:22**
 
-Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change face.
+Therefore thus says the Lord upon the house of Jacob, whom he set apart from Abraham: Now Jacob will not be ashamed, nor now will Israel change the face.
 
 **Isaiah 29:23**
 
-But when they see their children, my works because of me, they will sanctify my name and sanctify the Holy One of Jacob and fear God of Israel.
+But when they see their children, my works because of me, they will sanctify my name and sanctify the Holy One of Jacob and fear the God of Israel.
 
 **Isaiah 29:24**
 
-And those led astray in spirit will know understanding, and grumblers will learn to obey, and stammering tongues will learn to speak peace.
+And those led astray in spirit will know understanding, and the grumblers will learn to obey, and the stammering tongues will learn to speak peace.
 
 ### Chapter 30
 
