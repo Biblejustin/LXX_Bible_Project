@@ -53979,15 +53979,6 @@ Method:
 - mt: And the young men that were brought up with him spoke unto him, saying, Thus shall you answer the people that spoke unto you, saying, Your father made our yoke heavy, but make you it somewhat lighter for us; thus shall you say unto them, My little finger shall be thicker than my father's loins.
 - brenton: And the young men that had been brought up with him spoke to him, saying, Thus shalt thou speak to the people that spoke to thee, saying, Thy father made our yoke heavy, and do thou lighten somewhat of it from us; thus shalt thou say, My little finger shall be thicker than my father's loins.
 
-### Proverbs 31:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.351`
-- fresh_brenton_ratio: `0.385`
-- fresh: She put on strength and dignity and rejoiced in latter days.
-- mt: She opens her mouth with wisdom; and in her tongue is the law of kindness.
-- brenton: The ways of her household are careful, and she eats not the bread of idleness.
-
 ### Proverbs 21:18
 - priority: `0`
 - importance: `none`
@@ -59928,15 +59919,6 @@ Method:
 - mt: Behold, in this you are not just: I will answer you, that God is greater than man.
 - brenton: For how sayest thou, I am righteous, yet he has not hearkened to me? for he that is above mortals is eternal.
 
-### Proverbs 31:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.386`
-- fresh_brenton_ratio: `0.687`
-- fresh: False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise the fear of the Lord.
-- mt: Favour is deceitful, and beauty is vain: but a woman that fears the LORD, she shall be praised.
-- brenton: Charms are false, and woman's beauty is vain: for it is a wise woman that is blessed, and let her praise the fear of the Lord.
-
 ### Proverbs 24:15
 - priority: `0`
 - importance: `none`
@@ -60872,6 +60854,15 @@ Method:
 - fresh: For what strength have I, that I keep enduring? Or what time remains for me, that my soul keeps bearing?
 - mt: What is my strength, that I should hope? and what is mine end, that I should prolong my life?
 - brenton: For what is my strength, that I continue? what is my time, that my soul endures?
+
+### Proverbs 31:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.392`
+- fresh_brenton_ratio: `0.692`
+- fresh: False are charms and vain is beauty of a woman; for a prudent woman is blessed. Let her praise the fear of the Lord.
+- mt: Favour is deceitful, and beauty is vain: but a woman that fears the LORD, she shall be praised.
+- brenton: Charms are false, and woman's beauty is vain: for it is a wise woman that is blessed, and let her praise the fear of the Lord.
 
 ### Jeremiah 45:3
 - priority: `0`
@@ -61862,6 +61853,15 @@ Method:
 - fresh: And it will be in that day, says the Lord, I will destroy your horses from your midst and destroy your chariots.
 - mt: Yours hand shall be lifted up upon yours adversaries, and all yours enemies shall be cut off.
 - brenton: And it shall come to pass in that day, saith the Lord, that I will utterly destroy the horses out of the midst of thee, and destroy thy chariots:
+
+### Proverbs 31:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.400`
+- fresh_brenton_ratio: `0.727`
+- fresh: She opened her hands to the poor, and stretched out her wrist to the needy.
+- mt: She stretches out her hand to the poor; yea, she reachs forth her hands to the needy.
+- brenton: And she opens her hands to the needy, and reaches out fruit to the poor.
 
 ### Isaiah 32:3
 - priority: `0`
@@ -65553,6 +65553,15 @@ Method:
 - mt: He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall wail over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.
 - brenton: Grieve for yourselves; for even Debon, where your altar is, shall be destroyed: thither shall ye go up to weep, over Nabau of the land of Moab: howl ye: baldness shall be on every head, and all arms shall be wounded.
 
+### Proverbs 31:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.430`
+- fresh_brenton_ratio: `0.345`
+- fresh: She put on strength and dignity and rejoiced in the latter days.
+- mt: She opens her mouth with wisdom; and in her tongue is the law of kindness.
+- brenton: The ways of her household are careful, and she eats not the bread of idleness.
+
 ### Job 10:6
 - priority: `0`
 - importance: `none`
@@ -66137,15 +66146,6 @@ Method:
 - fresh: For if he should wish to hold fast and keep spirit with himself,
 - mt: If he set his heart upon man, if he gather unto himself his spirit and his breath;
 - brenton: For if he would confine, and restrain his spirit with himself;
-
-### Proverbs 31:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.434`
-- fresh_brenton_ratio: `0.718`
-- fresh: She opened her hands to poor, and stretched out fruit to needy.
-- mt: She stretches out her hand to the poor; yea, she reachs forth her hands to the needy.
-- brenton: And she opens her hands to the needy, and reaches out fruit to the poor.
 
 ### Proverbs 6:18
 - priority: `0`
@@ -67361,6 +67361,15 @@ Method:
 - fresh: An understanding son keeps the law, but one shepherding prodigality dishonors his father.
 - mt: Whoso keeps the law is a wise son: but he that is a companion of riotous men shames his father.
 - brenton: A wise son keeps the law: but he that keeps up debauchery dishonours his father.
+
+### Proverbs 31:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.444`
+- fresh_brenton_ratio: `0.693`
+- fresh: Her husband does not worry about those in the house when he delays somewhere, for all who are from her are clothed.
+- mt: She is not afraid of the snow for her household: for all her household are clothed with scarlet.
+- brenton: Her husband is not anxious about those at home when he tarries anywhere abroad: for all her household are clothed.
 
 ### Ezekiel 27:21
 - priority: `0`
@@ -69630,15 +69639,6 @@ Method:
 - mt: And shall say, Cast all of you up, cast all of you up, prepare the way, take up the stumbling block out of the way of my people.
 - brenton: And they shall say, Clear the ways before him, and take up the stumbling-blocks out of the way of my people.
 
-### Proverbs 31:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.462`
-- fresh_brenton_ratio: `0.719`
-- fresh: Her husband does not worry about those in the house when he delays somewhere, for all from her are clothed.
-- mt: She is not afraid of the snow for her household: for all her household are clothed with scarlet.
-- brenton: Her husband is not anxious about those at home when he tarries anywhere abroad: for all her household are clothed.
-
 ### Job 39:25
 - priority: `0`
 - importance: `none`
@@ -71042,15 +71042,6 @@ Method:
 - fresh: On the ninth day, the chief of the sons of Benjamin was Abidan son of Gideoni.
 - mt: On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:
 - brenton: On the ninth day the prince of the sons of Benjamin, Abidan the son of Gadeoni.
-
-### Proverbs 31:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.473`
-- fresh_brenton_ratio: `0.381`
-- fresh: She made linen cloths and sold them, and belts to Canaanites.
-- mt: She makes fine linen, and sells it; and delivers girdles unto the merchant.
-- brenton: She makes fine linens, and sells girdles to the Chananites: she opens her mouth heedfully and with propriety, and controls her tongue.
 
 ### Proverbs 3:3
 - priority: `0`
@@ -83256,6 +83247,15 @@ Method:
 - mt: And the fourth part of an hin of wine for a drink offering shall you prepare with the burnt offering or sacrifice, for one lamb.
 - brenton: And for a drink-offering ye shall offer the fourth part of a hin on the whole-burnt-offering, or on the meat-offering: for every lamb thou shalt offer so much, as a sacrifice, a smell of sweet savour to the Lord.
 
+### Proverbs 31:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.548`
+- fresh_brenton_ratio: `0.415`
+- fresh: She made linen cloths and sold them, and belts to the Canaanites.
+- mt: She makes fine linen, and sells it; and delivers girdles unto the merchant.
+- brenton: She makes fine linens, and sells girdles to the Chananites: she opens her mouth heedfully and with propriety, and controls her tongue.
+
 ### Joshua 13:7
 - priority: `0`
 - importance: `none`
@@ -83939,15 +83939,6 @@ Method:
 - fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from the face of anger of his wrath they vanished.
 - mt: I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the LORD, and by his fierce anger.
 - brenton: I saw, and, behold, Carmel was desert, and all the cities were burnt with fire at the presence of the Lord, and at the presence of his fierce anger they were utterly destroyed.
-
-### Proverbs 31:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.551`
-- fresh_brenton_ratio: `0.701`
-- fresh: She stretches her forearms to useful things, and her hands brace to spindle.
-- mt: She lays her hands to the spindle, and her hands hold the distaff.
-- brenton: She reaches forth her arms to needful works, and applies her hands to the spindle.
 
 ### Job 7:9
 - priority: `0`
@@ -97710,6 +97701,15 @@ Method:
 - mt: And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 - brenton: And the days were fulfilled, and Sava the wife of Judas died; and Judas, being comforted, went to them that sheared his sheep, himself and Iras his shepherd the Odollamite, to Thamna.
 
+### Proverbs 31:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.609`
+- fresh_brenton_ratio: `0.704`
+- fresh: She tasted that working is good, and her lamp does not go out the whole night.
+- mt: She perceives that her merchandise is good: her candle goes not out by night.
+- brenton: And she finds by experience that working is good; and her candle goes not out all night.
+
 ### Exodus 21:12
 - priority: `0`
 - importance: `none`
@@ -99590,6 +99590,15 @@ Method:
 - fresh: To the more you shall increase the inheritance, and to the fewer you shall lessen the inheritance. To each one according to those who were enrolled shall their inheritance be given.
 - mt: To many you shall give the more inheritance, and to few you shall give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.
 - brenton: To the greater number thou shalt give the greater inheritance, and to the less number thou shalt give the less inheritance: to each one, as they have been numbered, shall their inheritance be given.
+
+### Proverbs 31:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.616`
+- fresh_brenton_ratio: `0.728`
+- fresh: She stretches her forearms to the useful things, and her hands brace to the spindle.
+- mt: She lays her hands to the spindle, and her hands hold the distaff.
+- brenton: She reaches forth her arms to needful works, and applies her hands to the spindle.
 
 ### 1 Chronicles 11:17
 - priority: `0`
@@ -102389,15 +102398,6 @@ Method:
 - fresh: And he took from the seed of land and put it in open field, a plant by much water, under watch he set it.
 - mt: He took also of the seed of the land, and planted it in a fruitful field; he placed it by great waters, and set it as a willow tree.
 - brenton: And he took of the seed of the land, and sowed it in a field planted by much water; he set it in a conspicuous place.
-
-### Proverbs 31:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.626`
-- fresh_brenton_ratio: `0.722`
-- fresh: She tasted that working is good, and her lamp does not go out whole night.
-- mt: She perceives that her merchandise is good: her candle goes not out by night.
-- brenton: And she finds by experience that working is good; and her candle goes not out all night.
 
 ### Genesis 49:4
 - priority: `0`
@@ -143214,15 +143214,6 @@ Method:
 - mt: Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
 - brenton: And to Sem himself also were children born, the father of all the sons of Heber, the brother of Japheth the elder.
 
-### Proverbs 31:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.737`
-- fresh_brenton_ratio: `0.741`
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with the elders of the land.
-- mt: Her husband is known in the gates, when he sits among the elders of the land.
-- brenton: And her husband becomes a distinguished person in the gates, when he sits in council with the old inhabitants of the land.
-
 ### 2 Chronicles 32:27
 - priority: `0`
 - importance: `none`
@@ -154949,6 +154940,15 @@ Method:
 - fresh: and the Horites in the mountains of Seir, as far as the terebinth of Paran, which is in the wilderness.
 - mt: And the Horites in their mount Seir, unto Elparan, which is by the wilderness.
 - brenton: And the Chorrhæans in the mountains of Seir, to the turpentine tree of Pharan, which is in the desert.
+
+### Proverbs 31:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.766`
+- fresh_brenton_ratio: `0.764`
+- fresh: Her husband becomes conspicuous in the gates whenever he sits in council with the elders of the land.
+- mt: Her husband is known in the gates, when he sits among the elders of the land.
+- brenton: And her husband becomes a distinguished person in the gates, when he sits in council with the old inhabitants of the land.
 
 ### Joshua 15:29
 - priority: `0`

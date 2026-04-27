@@ -154377,37 +154377,37 @@ Note:
 ### Proverbs 31:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She tasted that working is good, and her lamp does not go out whole night.
+- fresh: She tasted that working is good, and her lamp does not go out the whole night.
 - brenton: And she finds by experience that working is good; and her candle goes not out all night.
 
 ### Proverbs 31:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She stretches her forearms to useful things, and her hands brace to spindle.
+- fresh: She stretches her forearms to the useful things, and her hands brace to the spindle.
 - brenton: She reaches forth her arms to needful works, and applies her hands to the spindle.
 
 ### Proverbs 31:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She opened her hands to poor, and stretched out fruit to needy.
+- fresh: She opened her hands to the poor, and stretched out her wrist to the needy.
 - brenton: And she opens her hands to the needy, and reaches out fruit to the poor.
 
 ### Proverbs 31:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Her husband does not worry about those in the house when he delays somewhere, for all from her are clothed.
+- fresh: Her husband does not worry about those in the house when he delays somewhere, for all who are from her are clothed.
 - brenton: Her husband is not anxious about those at home when he tarries anywhere abroad: for all her household are clothed.
 
 ### Proverbs 31:22
@@ -154422,19 +154422,19 @@ Note:
 ### Proverbs 31:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Her husband becomes conspicuous in gates whenever he sits in council with the elders of the land.
+- fresh: Her husband becomes conspicuous in the gates whenever he sits in council with the elders of the land.
 - brenton: And her husband becomes a distinguished person in the gates, when he sits in council with the old inhabitants of the land.
 
 ### Proverbs 31:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She made linen cloths and sold them, and belts to Canaanites.
+- fresh: She made linen cloths and sold them, and belts to the Canaanites.
 - brenton: She makes fine linens, and sells girdles to the Chananites: she opens her mouth heedfully and with propriety, and controls her tongue.
 
 ### Proverbs 31:25
@@ -154449,10 +154449,10 @@ Note:
 ### Proverbs 31:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She put on strength and dignity and rejoiced in latter days.
+- fresh: She put on strength and dignity and rejoiced in the latter days.
 - brenton: The ways of her household are careful, and she eats not the bread of idleness.
 
 ### Proverbs 31:27
@@ -154485,10 +154485,10 @@ Note:
 ### Proverbs 31:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise the fear of the Lord.
+- fresh: False are charms and vain is beauty of a woman; for a prudent woman is blessed. Let her praise the fear of the Lord.
 - brenton: Charms are false, and woman's beauty is vain: for it is a wise woman that is blessed, and let her praise the fear of the Lord.
 
 ### Proverbs 31:31

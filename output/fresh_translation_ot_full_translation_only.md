@@ -69946,19 +69946,19 @@ Having girded her waist strongly, she braced her arms for work.
 
 **Proverbs 31:18**
 
-She tasted that working is good, and her lamp does not go out whole night.
+She tasted that working is good, and her lamp does not go out the whole night.
 
 **Proverbs 31:19**
 
-She stretches her forearms to useful things, and her hands brace to spindle.
+She stretches her forearms to the useful things, and her hands brace to the spindle.
 
 **Proverbs 31:20**
 
-She opened her hands to poor, and stretched out fruit to needy.
+She opened her hands to the poor, and stretched out her wrist to the needy.
 
 **Proverbs 31:21**
 
-Her husband does not worry about those in the house when he delays somewhere, for all from her are clothed.
+Her husband does not worry about those in the house when he delays somewhere, for all who are from her are clothed.
 
 **Proverbs 31:22**
 
@@ -69966,11 +69966,11 @@ She made double cloaks for her husband, and clothing for herself from fine linen
 
 **Proverbs 31:23**
 
-Her husband becomes conspicuous in gates whenever he sits in council with the elders of the land.
+Her husband becomes conspicuous in the gates whenever he sits in council with the elders of the land.
 
 **Proverbs 31:24**
 
-She made linen cloths and sold them, and belts to Canaanites.
+She made linen cloths and sold them, and belts to the Canaanites.
 
 **Proverbs 31:25**
 
@@ -69978,7 +69978,7 @@ Her mouth opened attentively and lawfully, and she sent order to her tongue.
 
 **Proverbs 31:26**
 
-She put on strength and dignity and rejoiced in latter days.
+She put on strength and dignity and rejoiced in the latter days.
 
 **Proverbs 31:27**
 
@@ -69994,7 +69994,7 @@ Many daughters acquired wealth, many made mighty things; but you excel and surpa
 
 **Proverbs 31:30**
 
-False are charms and vain beauty of woman; for prudent woman is blessed. Let her praise the fear of the Lord.
+False are charms and vain is beauty of a woman; for a prudent woman is blessed. Let her praise the fear of the Lord.
 
 **Proverbs 31:31**
 

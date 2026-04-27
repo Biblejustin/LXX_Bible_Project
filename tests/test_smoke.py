@@ -3147,6 +3147,17 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "tasks to the maidservants" in by_ref["Proverbs 31:15"]["draft_translation"]
     assert by_ref["Proverbs 31:16"]["draft_translation"].startswith("Having considered a field")
     assert "planted a possession" in by_ref["Proverbs 31:16"]["draft_translation"]
+    assert "the whole night" in by_ref["Proverbs 31:18"]["draft_translation"]
+    assert "to the useful things" in by_ref["Proverbs 31:19"]["draft_translation"]
+    assert "to the spindle" in by_ref["Proverbs 31:19"]["draft_translation"]
+    assert "hands to the poor" in by_ref["Proverbs 31:20"]["draft_translation"]
+    assert "her wrist to the needy" in by_ref["Proverbs 31:20"]["draft_translation"]
+    assert "all who are from her are clothed" in by_ref["Proverbs 31:21"]["draft_translation"]
+    assert "conspicuous in the gates" in by_ref["Proverbs 31:23"]["draft_translation"]
+    assert "belts to the Canaanites" in by_ref["Proverbs 31:24"]["draft_translation"]
+    assert "in the latter days" in by_ref["Proverbs 31:26"]["draft_translation"]
+    assert "vain is beauty of a woman" in by_ref["Proverbs 31:30"]["draft_translation"]
+    assert "for a prudent woman is blessed" in by_ref["Proverbs 31:30"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
