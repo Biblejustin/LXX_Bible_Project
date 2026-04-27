@@ -71750,11 +71750,11 @@ And it will be for shade from the heat and for shelter and hiding from harshness
 
 **Isaiah 5:1**
 
-Now I will sing to my beloved song of my beloved concerning my vineyard. Vineyard came to my beloved on hilltop in fertile place.
+Now I will sing to my beloved a song of my beloved concerning my vineyard. A vineyard came to my beloved on a hilltop in a fertile place.
 
 **Isaiah 5:2**
 
-I put fence around and staked it and planted chosen vine and built tower in the midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
+I put a fence around it and staked it and planted a chosen vine and built a tower in the midst of it and dug a wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
 
 **Isaiah 5:3**
 
@@ -71770,35 +71770,35 @@ And now I will announce to you what I will do to my vineyard: I will remove its 
 
 **Isaiah 5:6**
 
-And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to send rain on it.
+And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command the clouds not to send rain on it.
 
 **Isaiah 5:7**
 
-For vineyard of the Lord of hosts is house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
+For the vineyard of the Lord of hosts is the house of Israel, and the man of Judah is a beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but a cry.
 
 **Isaiah 5:8**
 
-Woe those joining house to house and bringing field near to field, to take something from neighbor away; will you not dwell alone on the land?
+Woe to those joining house to house and bringing field near to field, to take something away from the neighbor; will you not dwell alone on the land?
 
 **Isaiah 5:9**
 
-For these things were heard in the ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
+For these things were heard in the ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be the ones dwelling in them.
 
 **Isaiah 5:10**
 
-For ten yoke of oxen working will produce one jar, and one sowing six artabas will produce three measures.
+For ten yokes of oxen working will produce one jar, and one sowing six artabas will produce three measures.
 
 **Isaiah 5:11**
 
-Woe those rising early and pursuing strong drink, those remaining till late, for wine will burn them together.
+Woe to those rising early and pursuing strong drink, those remaining till late, for the wine will burn them together.
 
 **Isaiah 5:12**
 
-For with lyre and psaltery and drums and flutes they drink wine, but works of the Lord they do not look on, and works of his hands they do not understand.
+For with lyre and psaltery and drums and flutes they drink wine, but the works of the Lord they do not look on, and the works of his hands they do not understand.
 
 **Isaiah 5:13**
 
-Therefore my people became captive because they did not know Lord, and multitude became dead from famine and thirst of water.
+Therefore my people became captive because they did not know the Lord, and a multitude became dead from famine and thirst of water.
 
 **Isaiah 5:14**
 
@@ -71806,7 +71806,7 @@ And Hades widened its soul and opened its mouth without ceasing, and her gloriou
 
 **Isaiah 5:15**
 
-And man will be humbled and male will be dishonored, and lofty eyes will be humbled.
+And a man will be humbled and a male will be dishonored, and the lofty eyes will be humbled.
 
 **Isaiah 5:16**
 
@@ -71814,69 +71814,69 @@ And the Lord of hosts will be exalted in judgment, and the Holy God will be glor
 
 **Isaiah 5:17**
 
-And plundered ones will be grazed as bulls, and lambs will eat deserted places of those taken away.
+And the plundered ones will be grazed as bulls, and lambs will eat the deserted places of those taken away.
 
 **Isaiah 5:18**
 
-Woe those drawing sins with long rope and lawlessness as with strap of heifer's yoke,
+Woe to those drawing sins with a long rope and lawlessness as with the strap of a heifer's yoke,
 
 **Isaiah 5:19**
 
-those saying, Let what he will do come quickly and draw near, that we may see; and let counsel of the Holy One of Israel come, that we may know.
+those saying, Let what he will do come quickly and draw near, that we may see; and let the counsel of the Holy One of Israel come, that we may know.
 
 **Isaiah 5:20**
 
-Woe those saying evil good and good evil, those putting darkness light and light darkness, those putting bitter sweet and sweet bitter.
+Woe to those saying evil is good and good is evil, those putting darkness as light and light as darkness, those putting bitter as sweet and sweet as bitter.
 
 **Isaiah 5:21**
 
-Woe those understanding in themselves and knowledgeable before themselves.
+Woe to those understanding in themselves and knowledgeable before themselves.
 
 **Isaiah 5:22**
 
-Woe your mighty men, drinkers of wine, and rulers mixing strong drink,
+Woe to your mighty men, drinkers of wine, and rulers mixing strong drink,
 
 **Isaiah 5:23**
 
-those justifying ungodly for gifts and taking away right of righteous.
+those justifying the ungodly for gifts and taking away the right of the righteous.
 
 **Isaiah 5:24**
 
-Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked oracle of the Holy One of Israel.
+Therefore as stubble will be burned under a coal of fire and be consumed under a loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked the oracle of the Holy One of Israel.
 
 **Isaiah 5:25**
 
-And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in the midst of road. In all these his anger did not turn away, but hand still high.
+And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and the mountains were provoked, and their corpses became as dung in the midst of the road. In all these his anger did not turn away, but his hand is still high.
 
 **Isaiah 5:26**
 
-Therefore he will raise signal among nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
+Therefore he will raise a signal among the nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
 
 **Isaiah 5:27**
 
-They will neither hunger nor grow weary nor grow drowsy nor sleep, nor loosen their belts from their waist, nor will straps of their sandals break.
+They will neither hunger nor grow weary nor grow drowsy nor sleep, nor loosen their belts from their waist, nor will the straps of their sandals break.
 
 **Isaiah 5:28**
 
-Whose arrows are sharp and their bows bent; feet of their horses were reckoned as solid rock, wheels of their chariots as storm.
+Whose arrows are sharp and their bows bent; the feet of their horses were reckoned as solid rock, the wheels of their chariots as a storm.
 
 **Isaiah 5:29**
 
-They will rush as lions and stand by as a lion's whelp, and will seize and roar as a beast and cast out, and there will not be one rescuing.
+They will rush as lions and stand by as a lion's whelp, and will seize and roar as a beast and cast out, and there will not be one rescuing them.
 
 **Isaiah 5:30**
 
-And it will roar because of them in that day as the sound of surging sea, and they will look to the land, and look, hard darkness in their distress.
+And it will roar because of them in that day as the sound of a surging sea, and they will look to the land, and look, hard darkness is in their distress.
 
 ### Chapter 6
 
 **Isaiah 6:1**
 
-And it happened in year King Uzziah died, I saw the Lord sitting on high and lifted throne, and house full of his glory.
+And it happened in the year King Uzziah died, I saw the Lord sitting on a high and lifted throne, and the house was full of his glory.
 
 **Isaiah 6:2**
 
-And seraphim stood around him; six wings to one and six wings to one; with two they covered face, and with two they covered feet, and with two they flew.
+And seraphim stood around him; six wings to one and six wings to one; with two they covered the face, and with two they covered the feet, and with two they flew.
 
 **Isaiah 6:3**
 
@@ -71884,15 +71884,15 @@ And one cried to another and said, Holy, holy, holy, the Lord of hosts; the whol
 
 **Isaiah 6:4**
 
-And lintel was raised from voice with which they cried, and house was filled with smoke.
+And the lintel was raised from the voice with which they cried, and the house was filled with smoke.
 
 **Isaiah 6:5**
 
-And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in the midst of the people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
+And I said, O wretched me, because I am pierced to heart, because being a man and having unclean lips and dwelling in the midst of the people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
 
 **Isaiah 6:6**
 
-And one of the seraphim was sent to me, and in hand he had coal which he took with tongs from the altar.
+And one of the seraphim was sent to me, and in his hand he had a coal which he took with the tongs from the altar.
 
 **Isaiah 6:7**
 
@@ -71908,19 +71908,19 @@ And he said, Go and say to this people: hearing you will hear and certainly not 
 
 **Isaiah 6:10**
 
-For the heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with eyes and hear with ears and understand with heart and turn, and I heal them.
+For the heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with the eyes and hear with the ears and understand with the heart and turn, and I heal them.
 
 **Isaiah 6:11**
 
-And I said, Until when, Lord? And he said, Until cities are made desolate from not being inhabited, and houses from not having men, and land will be left desolate.
+And I said, Until when, Lord? And he said, Until the cities are made desolate from not being inhabited, and the houses from not having men, and the land will be left desolate.
 
 **Isaiah 6:12**
 
-And after these things God will send men far away, and those left behind will multiply on earth.
+And after these things God will send men far away, and those left behind will multiply on the earth.
 
 **Isaiah 6:13**
 
-And yet upon it still is the tenth, and again it will be for plundering, like terebinth and like an oak whenever it falls from its casing.
+And yet upon it still is the tenth, and again it will be for plundering, like a terebinth and like an oak whenever it falls from its casing.
 
 ### Chapter 7
 
@@ -71930,23 +71930,23 @@ And it happened in the days of Ahaz son of Jotham son of Uzziah king of Judah, R
 
 **Isaiah 7:2**
 
-And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in the forest is shaken by wind.
+And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and the soul of his people were stirred as when a tree in the forest is shaken by wind.
 
 **Isaiah 7:3**
 
-And the Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, to pool of upper road of fuller's field.
+And the Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, to the pool of the upper road of the fuller's field.
 
 **Isaiah 7:4**
 
-And you will say to him, Take care to be quiet and do not fear, nor let your soul weaken from these two pieces of smoking firebrands, for whenever anger of my wrath comes, again I will heal.
+And you will say to him, Take care to be quiet and do not fear, nor let your soul weaken from these two pieces of smoking firebrands, for whenever the anger of my wrath comes, again I will heal.
 
 **Isaiah 7:5**
 
-And son of Aram and son of Remaliah, because they counseled evil counsel about you, saying,
+And the son of Aram and the son of Remaliah, because they counseled evil counsel about you, saying,
 
 **Isaiah 7:6**
 
-We will go up into Judah and by speaking with them turn them toward us, and we will make son of Tabeel king of it.
+We will go up into Judah and by speaking with them turn them toward us, and we will make the son of Tabeel king of it.
 
 **Isaiah 7:7**
 
@@ -71954,11 +71954,11 @@ Thus says the Lord of hosts: This counsel will certainly not remain, nor shall i
 
 **Isaiah 7:8**
 
-But head of Aram is Damascus; and yet within sixty-five years kingdom of Ephraim will cease from people.
+But the head of Aram is Damascus; and yet within sixty-five years the kingdom of Ephraim will cease from being a people.
 
 **Isaiah 7:9**
 
-And head of Ephraim is Samaria, and head of Samaria is son of Remaliah. If you do not believe, neither will you understand.
+And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you do not believe, neither will you understand.
 
 **Isaiah 7:10**
 
@@ -71966,47 +71966,47 @@ And the Lord added again to speak to Ahaz, saying,
 
 **Isaiah 7:11**
 
-Ask for yourself sign from the Lord your God, in depth or in height.
+Ask for yourself a sign from the Lord your God, in depth or in height.
 
 **Isaiah 7:12**
 
-And Ahaz said, I will certainly not ask, nor certainly will I test Lord.
+And Ahaz said, I will certainly not ask, nor certainly will I test the Lord.
 
 **Isaiah 7:13**
 
-And he said, Hear now, house of David. Is it small thing for you to furnish struggle to men, and how do you furnish struggle to the Lord?
+And he said, Hear now, house of David. Is it a small thing for you to furnish struggle to men, and how do you furnish struggle to the Lord?
 
 **Isaiah 7:14**
 
-Therefore the Lord himself will give you a sign: Behold, the virgin will have in the womb and bear a son, and you will call his name Immanuel.
+Therefore the Lord himself will give you a sign: Behold, the virgin will have a child in the womb and bear a son, and you will call his name Immanuel.
 
 **Isaiah 7:15**
 
-Butter and honey he will eat; before he knows or chooses evil, he will choose good.
+Butter and honey he will eat; before he knows or chooses evil, he will choose the good.
 
 **Isaiah 7:16**
 
-Because before child knows good or evil, he rejects evil to choose good, and land which you fear from the face of two kings will be forsaken.
+Because before the child knows good or evil, he rejects evil to choose the good, and the land which you fear from the face of the two kings will be forsaken.
 
 **Isaiah 7:17**
 
-But God will bring upon you and upon your people and upon the house of your father days not yet come since day Ephraim was taken away from Judah is king of the Assyrians.
+But God will bring upon you and upon your people and upon the house of your father days not yet come since the day Ephraim was taken away from Judah: the king of the Assyrians.
 
 **Isaiah 7:18**
 
-And it will be in that day, the Lord will whistle for flies that rule part of the river of Egypt and for bee that is in the land of Assyrians.
+And it will be in that day, the Lord will whistle for the flies that rule part of the river of Egypt and for the bee that is in the land of the Assyrians.
 
 **Isaiah 7:19**
 
-And they will all come and rest in ravines of land and holes of rocks and caves and every cleft and every tree.
+And they will all come and rest in the ravines of the land and the holes of the rocks and the caves and every cleft and every tree.
 
 **Isaiah 7:20**
 
-In that day the Lord will shave with razor, great and drunken, which is beyond river, by the king of the Assyrians, the head and hairs of feet, and beard he will remove.
+In that day the Lord will shave with a razor, the great and drunken one, which is beyond the river, by the king of the Assyrians, the head and the hairs of the feet, and the beard he will remove.
 
 **Isaiah 7:21**
 
-And it will be in that day, man will nourish heifer of cattle and two sheep.
+And it will be in that day, a man will nourish a heifer of cattle and two sheep.
 
 **Isaiah 7:22**
 
@@ -72014,7 +72014,7 @@ And it will be, from the abundance of milk, everyone left on the land will eat b
 
 **Isaiah 7:23**
 
-And it will be in that day every place where there are thousand vines for thousand shekels will become wasteland and thorn.
+And it will be in that day every place where there are a thousand vines for a thousand shekels will become a wasteland and a thorn.
 
 **Isaiah 7:24**
 
@@ -72022,13 +72022,13 @@ With an arrow and bow they will enter there, because the whole land will be a wa
 
 **Isaiah 7:25**
 
-And every mountain being plowed will be plowed, and fear will certainly not come there, for from wasteland and thorn it will be for grazing of sheep and trampling of ox.
+And every mountain being plowed will be plowed, and fear will certainly not come there, for from the wasteland and thorn it will be for the grazing of sheep and the trampling of ox.
 
 ### Chapter 8
 
 **Isaiah 8:1**
 
-And the Lord said to me, Take for yourself new large scroll and write on it with human stylus: Swiftly spoil, quickly plunder, for it is near.
+And the Lord said to me, Take for yourself a new large scroll and write on it with a human stylus: Swiftly spoil, quickly plunder, for it is near.
 
 **Isaiah 8:2**
 
@@ -72036,11 +72036,11 @@ And make for me faithful human witnesses, Uriah and Zechariah son of Berechiah.
 
 **Isaiah 8:3**
 
-And I approached prophetess, and she conceived and bore son, and the Lord said to me, Call his name, Swiftly Spoil, Quickly Plunder.
+And I approached the prophetess, and she conceived and bore a son, and the Lord said to me, Call his name, Swiftly Spoil, Quickly Plunder.
 
 **Isaiah 8:4**
 
-Because before child knows to call father or mother, he will take power of Damascus and spoils of Samaria before the king of the Assyrians.
+Because before the child knows to call father or mother, he will take the power of Damascus and the spoils of Samaria before the king of the Assyrians.
 
 **Isaiah 8:5**
 
@@ -72048,15 +72048,15 @@ And the Lord added to speak to me still,
 
 **Isaiah 8:6**
 
-Because this people did not want water of Siloam going quietly, but wanted to have Rezin and son of Remaliah as king over you,
+Because this people did not want the water of Siloam going quietly, but wanted to have Rezin and the son of Remaliah as king over you,
 
 **Isaiah 8:7**
 
-because of this behold the Lord brings up upon you water of the river, strong and much, king of the Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
+because of this behold the Lord brings up upon you the water of the river, strong and abundant, the king of the Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
 
 **Isaiah 8:8**
 
-And it will take away from Judah man who can lift head or be able to accomplish anything, and his camp will be so as to fill width of your land, God-with-us.
+And it will take away from Judah a man who can lift his head or be able to accomplish anything, and his camp will be so as to fill the width of your land, God-with-us.
 
 **Isaiah 8:9**
 
@@ -72064,15 +72064,15 @@ Know, nations, and be defeated; hear, to the end of the earth. Having grown stro
 
 **Isaiah 8:10**
 
-And whatever counsel you counsel, the Lord will scatter; and word whatever you speak will certainly not remain for you, because with us is the Lord God.
+And whatever counsel you counsel, the Lord will scatter; and whatever word you speak will certainly not remain for you, because with us is the Lord God.
 
 **Isaiah 8:11**
 
-Thus says the Lord with strong hand; they disobey in walking way of this people, saying,
+Thus says the Lord with a strong hand; they disobey in the walking of the way of this people, saying,
 
 **Isaiah 8:12**
 
-Never say hard whatever this people says is hard. Their fear you certainly shall not fear, nor certainly be troubled.
+Never say hard whatever this people says is hard. The fear of it you certainly shall not fear, nor certainly be troubled.
 
 **Isaiah 8:13**
 
@@ -72080,15 +72080,15 @@ Sanctify the Lord himself, and he himself will be your fear.
 
 **Isaiah 8:14**
 
-And if you are trusting in him, he will be for you into holiness, and not as stumbling stone will you meet him, nor as rock of falling; but the house of Jacob is in a snare and in hollow, sitting in Jerusalem.
+And if you are trusting in him, he will be for you into holiness, and not as a stumbling stone will you meet him, nor as a rock of falling; but the house of Jacob is in a snare and in a hollow, sitting in Jerusalem.
 
 **Isaiah 8:15**
 
-Because of this many among them will be weak and fall and be crushed, and they will draw near and be captured, men being in safety.
+Because of this many among them will be weak and fall and be crushed, and they will draw near and be captured while men are in safety.
 
 **Isaiah 8:16**
 
-Then clear will be those sealing law so as not to learn.
+Then those sealing the law so as not to learn will be clear.
 
 **Isaiah 8:17**
 
@@ -72096,27 +72096,27 @@ And he will say, I will wait for God who turned his face from the house of Jacob
 
 **Isaiah 8:18**
 
-Behold, I and children whom God gave me, and they will be for signs and wonders in the house of Israel from the Lord of hosts who dwells on Mount Zion.
+Behold, I and the children whom God gave me, and they will be for signs and wonders in the house of Israel from the Lord of hosts who dwells on Mount Zion.
 
 **Isaiah 8:19**
 
-And if they say to you, Seek those from earth who call and ventriloquists who speak emptiness, who speak from belly, does not nation seek to its God? Why do they seek dead ones concerning living ones?
+And if they say to you, Seek those from the earth who call and ventriloquists who speak emptiness, who speak from the belly, does not a nation seek to its God? Why do they seek the dead ones concerning the living ones?
 
 **Isaiah 8:20**
 
-For he gave law for help, so that they may say, not according to this word, concerning which there is no gift to give.
+For he gave the law for help, so that they may say, not according to this word, concerning which there is no gift to give.
 
 **Isaiah 8:21**
 
-And hard famine will come upon you, and it will be, whenever you hunger, you will be distressed, and you will speak evil of ruler and ancestral things and will look upward to heaven.
+And hard famine will come upon you, and it will be, whenever you hunger, you will be distressed, and you will speak evil of the ruler and ancestral things and will look upward to heaven.
 
 **Isaiah 8:22**
 
-And down to earth they will look, and look, affliction and tightness and darkness, distress narrow and darkness so as not to see.
+And down to the earth they will look, and look, affliction and tightness and darkness, narrow distress and darkness so as not to see.
 
 **Isaiah 8:23**
 
-And one being in distress will not be without escape until time. This first he does quickly: land of Zebulun, land of Naphtali, way of sea, and the rest who dwell by coast and beyond Jordan, Galilee of nations, regions of Judah.
+And one being in distress will not be without escape until time. This first he does quickly: the land of Zebulun, the land of Naphtali, the way of the sea, and the rest who dwell by the coast and beyond Jordan, Galilee of nations, the regions of Judah.
 
 ### Chapter 9
 

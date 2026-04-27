@@ -4449,6 +4449,64 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "wash the filth of the sons and daughters of Zion" in by_ref[
         "Isaiah 4:4"
     ]["draft_translation"]
+    assert "A vineyard came to my beloved on a hilltop" in by_ref["Isaiah 5:1"][
+        "draft_translation"
+    ]
+    assert "the vineyard of the Lord of hosts is the house of Israel" in by_ref[
+        "Isaiah 5:7"
+    ]["draft_translation"]
+    assert "Woe to those saying evil is good and good is evil" in by_ref[
+        "Isaiah 5:20"
+    ]["draft_translation"]
+    assert "the right of the righteous" in by_ref["Isaiah 5:23"][
+        "draft_translation"
+    ]
+    assert "his hand is still high" in by_ref["Isaiah 5:25"]["draft_translation"]
+    assert "there will not be one rescuing them" in by_ref["Isaiah 5:29"][
+        "draft_translation"
+    ]
+    assert "the house was full of his glory" in by_ref["Isaiah 6:1"][
+        "draft_translation"
+    ]
+    assert "with two they covered the face" in by_ref["Isaiah 6:2"][
+        "draft_translation"
+    ]
+    assert "in his hand he had a coal" in by_ref["Isaiah 6:6"][
+        "draft_translation"
+    ]
+    assert "understand with the heart" in by_ref["Isaiah 6:10"][
+        "draft_translation"
+    ]
+    assert "to the pool of the upper road of the fuller's field" in by_ref[
+        "Isaiah 7:3"
+    ]["draft_translation"]
+    assert "the kingdom of Ephraim will cease from being a people" in by_ref[
+        "Isaiah 7:8"
+    ]["draft_translation"]
+    assert "the virgin will have a child in the womb" in by_ref["Isaiah 7:14"][
+        "draft_translation"
+    ]
+    assert "since the day Ephraim was taken away from Judah" in by_ref[
+        "Isaiah 7:17"
+    ]["draft_translation"]
+    assert "with a razor, the great and drunken one" in by_ref["Isaiah 7:20"][
+        "draft_translation"
+    ]
+    assert "for the grazing of sheep and the trampling of ox" in by_ref[
+        "Isaiah 7:25"
+    ]["draft_translation"]
+    assert "the water of Siloam going quietly" in by_ref["Isaiah 8:6"][
+        "draft_translation"
+    ]
+    assert "the water of the river, strong and abundant" in by_ref[
+        "Isaiah 8:7"
+    ]["draft_translation"]
+    assert "whatever word you speak" in by_ref["Isaiah 8:10"]["draft_translation"]
+    assert "as a stumbling stone" in by_ref["Isaiah 8:14"]["draft_translation"]
+    assert "Then those sealing the law" in by_ref["Isaiah 8:16"][
+        "draft_translation"
+    ]
+    assert "the way of the sea" in by_ref["Isaiah 8:23"]["draft_translation"]
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]
     assert "stand amazed at the Lord" in by_ref["Hosea 3:5"]["draft_translation"]

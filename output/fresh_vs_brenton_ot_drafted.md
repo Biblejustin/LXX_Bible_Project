@@ -158316,19 +158316,19 @@ Note:
 ### Isaiah 5:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now I will sing to my beloved song of my beloved concerning my vineyard. Vineyard came to my beloved on hilltop in fertile place.
+- fresh: Now I will sing to my beloved a song of my beloved concerning my vineyard. A vineyard came to my beloved on a hilltop in a fertile place.
 - brenton: Now I will sing to my beloved a song of my beloved concerning my vineyard.
 
 ### Isaiah 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I put fence around and staked it and planted chosen vine and built tower in the midst of it and dug wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
+- fresh: I put a fence around it and staked it and planted a chosen vine and built a tower in the midst of it and dug a wine-vat in it, and I waited for it to produce grapes, but it produced thorns.
 - brenton: And I made a hedge round it, and dug a trench, and planted a choice vine, and built a tower in the midst of it, and dug a place for the wine-vat in it: and I waited for it to bring forth grapes, and it brought forth thorns.
 
 ### Isaiah 5:3
@@ -158361,73 +158361,73 @@ Note:
 ### Isaiah 5:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command clouds not to send rain on it.
+- fresh: And I will leave my vineyard, and it shall certainly not be pruned nor dug, and thorns will come up upon it as upon wasteland, and I will command the clouds not to send rain on it.
 - brenton: And I will forsake my vineyard; and it shall not be pruned, nor dug, and thorns shall come up upon it as on barren land; and I will command the clouds to rain no rain upon it.
 
 ### Isaiah 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For vineyard of the Lord of hosts is house of Israel, and man of Judah beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but cry.
+- fresh: For the vineyard of the Lord of hosts is the house of Israel, and the man of Judah is a beloved new planting. I waited for judgment, but it produced lawlessness, and not righteousness but a cry.
 - brenton: For the vineyard of the Lord of hosts is the house of Israel, and the men of Juda his beloved plant: I expected it to bring forth judgment, and it brought forth iniquity; and not righteousness, but a cry.
 
 ### Isaiah 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those joining house to house and bringing field near to field, to take something from neighbor away; will you not dwell alone on the land?
+- fresh: Woe to those joining house to house and bringing field near to field, to take something away from the neighbor; will you not dwell alone on the land?
 - brenton: Woe to them that join house to house, and add field to field, that they may take away something of their neighbour's: will ye dwell alone upon the land?
 
 ### Isaiah 5:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For these things were heard in the ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be ones dwelling in them.
+- fresh: For these things were heard in the ears of the Lord of hosts: if many houses shall become, they will be desolate, great and beautiful, and there will not be the ones dwelling in them.
 - brenton: For these things have reached the ears of the Lord of hosts: for though many houses should be built, many and fair houses shall be desolate, and there shall be no inhabitants in them.
 
 ### Isaiah 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For ten yoke of oxen working will produce one jar, and one sowing six artabas will produce three measures.
+- fresh: For ten yokes of oxen working will produce one jar, and one sowing six artabas will produce three measures.
 - brenton: For where ten yoke of oxen plough the land shall yield one jar-full, and he that sows six homers shall produce three measures.
 
 ### Isaiah 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those rising early and pursuing strong drink, those remaining till late, for wine will burn them together.
+- fresh: Woe to those rising early and pursuing strong drink, those remaining till late, for the wine will burn them together.
 - brenton: Woe to them that rise up in the morning, and follow strong drink; who wait at it till the evening: for the wine shall inflame them.
 
 ### Isaiah 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For with lyre and psaltery and drums and flutes they drink wine, but works of the Lord they do not look on, and works of his hands they do not understand.
+- fresh: For with lyre and psaltery and drums and flutes they drink wine, but the works of the Lord they do not look on, and the works of his hands they do not understand.
 - brenton: For they drink wine with harp, and psaltery, and drums, and pipes: but they regard not the works of the Lord, and consider not the works of his hands.
 
 ### Isaiah 5:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore my people became captive because they did not know Lord, and multitude became dead from famine and thirst of water.
+- fresh: Therefore my people became captive because they did not know the Lord, and a multitude became dead from famine and thirst of water.
 - brenton: Therefore my people have been taken captive, because they know not the Lord: and there has been a multitude of dead bodies, because of hunger and of thirst for water.
 
 ### Isaiah 5:14
@@ -158442,10 +158442,10 @@ Note:
 ### Isaiah 5:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And man will be humbled and male will be dishonored, and lofty eyes will be humbled.
+- fresh: And a man will be humbled and a male will be dishonored, and the lofty eyes will be humbled.
 - brenton: And the mean man shall be brought low, and the great man shall be disgraced, and the lofty eyes shall be brought low.
 
 ### Isaiah 5:16
@@ -158460,145 +158460,145 @@ Note:
 ### Isaiah 5:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And plundered ones will be grazed as bulls, and lambs will eat deserted places of those taken away.
+- fresh: And the plundered ones will be grazed as bulls, and lambs will eat the deserted places of those taken away.
 - brenton: And they that were spoiled shall be fed as bulls, and lambs shall feed on the waste places of them that are taken away.
 
 ### Isaiah 5:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those drawing sins with long rope and lawlessness as with strap of heifer's yoke,
+- fresh: Woe to those drawing sins with a long rope and lawlessness as with the strap of a heifer's yoke,
 - brenton: Woe to them that draw sins to them as with a long rope, and iniquities as with a thong of the heifer's yoke:
 
 ### Isaiah 5:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: those saying, Let what he will do come quickly and draw near, that we may see; and let counsel of the Holy One of Israel come, that we may know.
+- fresh: those saying, Let what he will do come quickly and draw near, that we may see; and let the counsel of the Holy One of Israel come, that we may know.
 - brenton: who say, Let him speedily hasten what he will do, that we may see it: and let the counsel of the Holy One of Israel come, that we may know it.
 
 ### Isaiah 5:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those saying evil good and good evil, those putting darkness light and light darkness, those putting bitter sweet and sweet bitter.
+- fresh: Woe to those saying evil is good and good is evil, those putting darkness as light and light as darkness, those putting bitter as sweet and sweet as bitter.
 - brenton: Woe to them that call evil good, and good evil; who make darkness light, and light darkness; who make bitter sweet, and sweet bitter.
 
 ### Isaiah 5:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those understanding in themselves and knowledgeable before themselves.
+- fresh: Woe to those understanding in themselves and knowledgeable before themselves.
 - brenton: Woe to them that are wise in their own conceit, and knowing in their own sight.
 
 ### Isaiah 5:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe your mighty men, drinkers of wine, and rulers mixing strong drink,
+- fresh: Woe to your mighty men, drinkers of wine, and rulers mixing strong drink,
 - brenton: Woe to the strong ones of you that drink wine, and the mighty ones that mingle strong drink:
 
 ### Isaiah 5:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: those justifying ungodly for gifts and taking away right of righteous.
+- fresh: those justifying the ungodly for gifts and taking away the right of the righteous.
 - brenton: who justify the ungodly for rewards, and take away the righteousness of the righteous.
 
 ### Isaiah 5:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore as stubble will be burned under coal of fire and be consumed under loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked oracle of the Holy One of Israel.
+- fresh: Therefore as stubble will be burned under a coal of fire and be consumed under a loose flame, their root will be as down and their blossom will go up as dust, because they did not want the law of the Lord of hosts but provoked the oracle of the Holy One of Israel.
 - brenton: Therefore as stubble shall be burnt by a coal of fire, and shall be consumed by a violent flame, their root shall be as chaff, and their flower shall go up as dust: for they rejected the law of the Lord of hosts, and insulted the word of the Holy One of Israel.
 
 ### Isaiah 5:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and mountains were provoked, and their corpses became as dung in the midst of road. In all these his anger did not turn away, but hand still high.
+- fresh: And the Lord of hosts was enraged in anger against his people, and he laid his hand on them and struck them and the mountains were provoked, and their corpses became as dung in the midst of the road. In all these his anger did not turn away, but his hand is still high.
 - brenton: Therefore the Lord of hosts was greatly angered against his people, and he reached forth his hand upon them, and smote them: and the mountains were troubled, and their carcases were as dung in the midst of the way: yet for all this his anger has not been turned away, but his hand is yet raised.
 
 ### Isaiah 5:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore he will raise signal among nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
+- fresh: Therefore he will raise a signal among the nations far off and whistle to them from the end of the earth, and look, swiftly lightly they come.
 - brenton: Therefore shall he lift up a signal to the nations that are afar, and shall hiss for them from the end of the earth; and, behold, they are coming very quickly.
 
 ### Isaiah 5:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will neither hunger nor grow weary nor grow drowsy nor sleep, nor loosen their belts from their waist, nor will straps of their sandals break.
+- fresh: They will neither hunger nor grow weary nor grow drowsy nor sleep, nor loosen their belts from their waist, nor will the straps of their sandals break.
 - brenton: They shall not hunger nor be weary, neither shall they slumber nor sleep; neither shall they loose their girdles from their loins, neither shall their shoe-latchets be broken.
 
 ### Isaiah 5:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whose arrows are sharp and their bows bent; feet of their horses were reckoned as solid rock, wheels of their chariots as storm.
+- fresh: Whose arrows are sharp and their bows bent; the feet of their horses were reckoned as solid rock, the wheels of their chariots as a storm.
 - brenton: Whose arrows are sharp, and their bows bent; their horses' hoofs are counted as solid rock: their chariot-wheels are as a storm.
 
 ### Isaiah 5:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will rush as lions and stand by as a lion's whelp, and will seize and roar as a beast and cast out, and there will not be one rescuing.
+- fresh: They will rush as lions and stand by as a lion's whelp, and will seize and roar as a beast and cast out, and there will not be one rescuing them.
 - brenton: They rage as lions, and draw nigh as a lion's whelps: and he shall seize, and roar as a wild beast, and he shall cast them forth, and there shall be none to deliver them.
 
 ### Isaiah 5:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will roar because of them in that day as the sound of surging sea, and they will look to the land, and look, hard darkness in their distress.
+- fresh: And it will roar because of them in that day as the sound of a surging sea, and they will look to the land, and look, hard darkness is in their distress.
 - brenton: And he shall roar on account of them in that day, as the sound of the swelling sea; and they shall look to the land, and, behold, there shall be thick darkness in their perplexity.
 
 ### Isaiah 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in year King Uzziah died, I saw the Lord sitting on high and lifted throne, and house full of his glory.
+- fresh: And it happened in the year King Uzziah died, I saw the Lord sitting on a high and lifted throne, and the house was full of his glory.
 - brenton: And it came to pass in the year in which king Ozias died, that I saw the Lord sitting on a high and exalted throne, and the house was full of his glory.
 
 ### Isaiah 6:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And seraphim stood around him; six wings to one and six wings to one; with two they covered face, and with two they covered feet, and with two they flew.
+- fresh: And seraphim stood around him; six wings to one and six wings to one; with two they covered the face, and with two they covered the feet, and with two they flew.
 - brenton: And seraphs stood round about him: each one had six wings: and with two they covered their face, and with two they covered their feet, and with two they flew.
 
 ### Isaiah 6:3
@@ -158613,28 +158613,28 @@ Note:
 ### Isaiah 6:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And lintel was raised from voice with which they cried, and house was filled with smoke.
+- fresh: And the lintel was raised from the voice with which they cried, and the house was filled with smoke.
 - brenton: And the lintel shook at the voice they uttered, and the house was filled with smoke.
 
 ### Isaiah 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, O wretched me, because I am pierced to heart, because being man and having unclean lips and dwelling in the midst of the people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
+- fresh: And I said, O wretched me, because I am pierced to heart, because being a man and having unclean lips and dwelling in the midst of the people having unclean lips, I saw the King, the Lord of hosts, with my eyes.
 - brenton: And I said, Woe is me, for I am pricked to the heart; for being a man, and having unclean lips, I dwell in the midst of a people having unclean lips; and I have seen with mine eyes the King, the Lord of hosts.
 
 ### Isaiah 6:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And one of the seraphim was sent to me, and in hand he had coal which he took with tongs from the altar.
+- fresh: And one of the seraphim was sent to me, and in his hand he had a coal which he took with the tongs from the altar.
 - brenton: And there was sent to me one of the seraphs, and he had in his hand a coal, which he had taken off the altar with the tongs:
 
 ### Isaiah 6:7
@@ -158667,37 +158667,37 @@ Note:
 ### Isaiah 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with eyes and hear with ears and understand with heart and turn, and I heal them.
+- fresh: For the heart of this people grew fat, and with their ears they heard heavily, and their eyes they closed, lest they see with the eyes and hear with the ears and understand with the heart and turn, and I heal them.
 - brenton: For the heart of this people has become gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and be converted, and I should heal them.
 
 ### Isaiah 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Until when, Lord? And he said, Until cities are made desolate from not being inhabited, and houses from not having men, and land will be left desolate.
+- fresh: And I said, Until when, Lord? And he said, Until the cities are made desolate from not being inhabited, and the houses from not having men, and the land will be left desolate.
 - brenton: And I said, How long, O Lord? And he said, Until the cities be deserted by reason of their not being inhabited, and the houses by reason of there being no men, and the land shall be left desolate.
 
 ### Isaiah 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things God will send men far away, and those left behind will multiply on earth.
+- fresh: And after these things God will send men far away, and those left behind will multiply on the earth.
 - brenton: And after this God shall remove the men far off, and they that are left upon the land shall be multiplied.
 
 ### Isaiah 6:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And yet upon it still is the tenth, and again it will be for plundering, like terebinth and like an oak whenever it falls from its casing.
+- fresh: And yet upon it still is the tenth, and again it will be for plundering, like a terebinth and like an oak whenever it falls from its casing.
 - brenton: And yet there shall be a tenth upon it, and again it shall be for a spoil, as a turpentine tree, and as an acorn when it falls out of its husk.
 
 ### Isaiah 7:1
@@ -158712,46 +158712,46 @@ Note:
 ### Isaiah 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in the forest is shaken by wind.
+- fresh: And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and the soul of his people were stirred as when a tree in the forest is shaken by wind.
 - brenton: And a message was brought to the house of David, saying, Aram has conspired with Ephraim. And his soul was amazed, and the soul of his people, as in a wood a tree is moved by the wind.
 
 ### Isaiah 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, to pool of upper road of fuller's field.
+- fresh: And the Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, to the pool of the upper road of the fuller's field.
 - brenton: And the Lord said to Esaias, Go forth to meet Achaz, thou, and thy son Jasub who is left, to the pool of the upper way of the fuller's field.
 
 ### Isaiah 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to him, Take care to be quiet and do not fear, nor let your soul weaken from these two pieces of smoking firebrands, for whenever anger of my wrath comes, again I will heal.
+- fresh: And you will say to him, Take care to be quiet and do not fear, nor let your soul weaken from these two pieces of smoking firebrands, for whenever the anger of my wrath comes, again I will heal.
 - brenton: And thou shalt say to him, Take care to be quiet, and fear not, neither let thy soul be disheartened because of these two smoking firebrands: for when my fierce anger is over, I will heal again.
 
 ### Isaiah 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And son of Aram and son of Remaliah, because they counseled evil counsel about you, saying,
+- fresh: And the son of Aram and the son of Remaliah, because they counseled evil counsel about you, saying,
 - brenton: And as for the son of Aram, and the son of Romelias, forasmuch as they have devised an evil counsel, saying,
 
 ### Isaiah 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We will go up into Judah and by speaking with them turn them toward us, and we will make son of Tabeel king of it.
+- fresh: We will go up into Judah and by speaking with them turn them toward us, and we will make the son of Tabeel king of it.
 - brenton: We will go up against Judea, and having conferred with them we will turn them away to our side, and we will make the son of Tabeel king of it;
 
 ### Isaiah 7:7
@@ -158766,19 +158766,19 @@ Note:
 ### Isaiah 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But head of Aram is Damascus; and yet within sixty-five years kingdom of Ephraim will cease from people.
+- fresh: But the head of Aram is Damascus; and yet within sixty-five years the kingdom of Ephraim will cease from being a people.
 - brenton: But the head of Aram is Damascus, and the head of Damascus, Rasim; and yet within sixty and five years the kingdom of Ephraim shall cease from being a people.
 
 ### Isaiah 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And head of Ephraim is Samaria, and head of Samaria is son of Remaliah. If you do not believe, neither will you understand.
+- fresh: And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you do not believe, neither will you understand.
 - brenton: And the head of Ephraim is Somoron, and the head of Somoron the son of Romelias: but if ye believe not, neither will ye at all understand.
 
 ### Isaiah 7:10
@@ -158793,100 +158793,100 @@ Note:
 ### Isaiah 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ask for yourself sign from the Lord your God, in depth or in height.
+- fresh: Ask for yourself a sign from the Lord your God, in depth or in height.
 - brenton: Ask for thyself a sign of the Lord thy God, in the depth or in the height.
 
 ### Isaiah 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ahaz said, I will certainly not ask, nor certainly will I test Lord.
+- fresh: And Ahaz said, I will certainly not ask, nor certainly will I test the Lord.
 - brenton: And Achaz said, I will not ask, neither will I tempt the Lord.
 
 ### Isaiah 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, Hear now, house of David. Is it small thing for you to furnish struggle to men, and how do you furnish struggle to the Lord?
+- fresh: And he said, Hear now, house of David. Is it a small thing for you to furnish struggle to men, and how do you furnish struggle to the Lord?
 - brenton: And he said, Hear ye now, O house of David; is it a little thing for you to contend with men? and how do ye contend against the Lord?
 
 ### Isaiah 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore the Lord himself will give you a sign: Behold, the virgin will have in the womb and bear a son, and you will call his name Immanuel.
+- fresh: Therefore the Lord himself will give you a sign: Behold, the virgin will have a child in the womb and bear a son, and you will call his name Immanuel.
 - brenton: Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.
 
 ### Isaiah 7:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Butter and honey he will eat; before he knows or chooses evil, he will choose good.
+- fresh: Butter and honey he will eat; before he knows or chooses evil, he will choose the good.
 - brenton: Butter and honey shall he eat, before he knows either to prefer evil, or choose the good.
 
 ### Isaiah 7:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because before child knows good or evil, he rejects evil to choose good, and land which you fear from the face of two kings will be forsaken.
+- fresh: Because before the child knows good or evil, he rejects evil to choose the good, and the land which you fear from the face of the two kings will be forsaken.
 - brenton: For before the child shall know good or evil, he refuses evil, to choose the good; and the land shall be forsaken which thou art afraid of because of the two kings.
 
 ### Isaiah 7:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But God will bring upon you and upon your people and upon the house of your father days not yet come since day Ephraim was taken away from Judah is king of the Assyrians.
+- fresh: But God will bring upon you and upon your people and upon the house of your father days not yet come since the day Ephraim was taken away from Judah: the king of the Assyrians.
 - brenton: But God shall bring upon thee, and upon thy people, and upon the house of thy father, days which have never come, from the day that Ephraim took away from Juda the king of the Assyrians.
 
 ### Isaiah 7:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, the Lord will whistle for flies that rule part of the river of Egypt and for bee that is in the land of Assyrians.
+- fresh: And it will be in that day, the Lord will whistle for the flies that rule part of the river of Egypt and for the bee that is in the land of the Assyrians.
 - brenton: And it shall come to pass in that day that the Lord shall hiss for the flies, which insect shall rule over a part of the river of Egypt, and for the bee which is in the land of the Assyrians.
 
 ### Isaiah 7:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will all come and rest in ravines of land and holes of rocks and caves and every cleft and every tree.
+- fresh: And they will all come and rest in the ravines of the land and the holes of the rocks and the caves and every cleft and every tree.
 - brenton: And they all shall enter into the clefts of the land, and into the holes of the rocks, and into the caves, and into every ravine.
 
 ### Isaiah 7:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day the Lord will shave with razor, great and drunken, which is beyond river, by the king of the Assyrians, the head and hairs of feet, and beard he will remove.
+- fresh: In that day the Lord will shave with a razor, the great and drunken one, which is beyond the river, by the king of the Assyrians, the head and the hairs of the feet, and the beard he will remove.
 - brenton: In that day the Lord shall shave with the hired razor of the king of Assyria beyond the river the head, and the hairs of the feet, and will remove the beard.
 
 ### Isaiah 7:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, man will nourish heifer of cattle and two sheep.
+- fresh: And it will be in that day, a man will nourish a heifer of cattle and two sheep.
 - brenton: And it shall come to pass in that day, that a man shall rear a heifer, and two sheep.
 
 ### Isaiah 7:22
@@ -158901,10 +158901,10 @@ Note:
 ### Isaiah 7:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day every place where there are thousand vines for thousand shekels will become wasteland and thorn.
+- fresh: And it will be in that day every place where there are a thousand vines for a thousand shekels will become a wasteland and a thorn.
 - brenton: And it shall come to pass in that day, for every place where there shall be a thousand vines at a thousand shekels, they shall become barren land and thorns.
 
 ### Isaiah 7:24
@@ -158919,19 +158919,19 @@ Note:
 ### Isaiah 7:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And every mountain being plowed will be plowed, and fear will certainly not come there, for from wasteland and thorn it will be for grazing of sheep and trampling of ox.
+- fresh: And every mountain being plowed will be plowed, and fear will certainly not come there, for from the wasteland and thorn it will be for the grazing of sheep and the trampling of ox.
 - brenton: And every mountain shall be certainly ploughed: there shall no fear come thither: for there shall be from among the barren ground and thorns that whereon cattle shall feed and oxen shall tread.
 
 ### Isaiah 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Take for yourself new large scroll and write on it with human stylus: Swiftly spoil, quickly plunder, for it is near.
+- fresh: And the Lord said to me, Take for yourself a new large scroll and write on it with a human stylus: Swiftly spoil, quickly plunder, for it is near.
 - brenton: And the Lord said to me, Take to thyself a volume of a great new book, and write in it with a man's pen concerning the making a rapid plunder of spoils; for it is near at hand.
 
 ### Isaiah 8:2
@@ -158946,19 +158946,19 @@ Note:
 ### Isaiah 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I approached prophetess, and she conceived and bore son, and the Lord said to me, Call his name, Swiftly Spoil, Quickly Plunder.
+- fresh: And I approached the prophetess, and she conceived and bore a son, and the Lord said to me, Call his name, Swiftly Spoil, Quickly Plunder.
 - brenton: And I went in to the prophetess; and she conceived, and bore a son. And the Lord said to me, Call his name, Spoil quickly, plunder speedily.
 
 ### Isaiah 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because before child knows to call father or mother, he will take power of Damascus and spoils of Samaria before the king of the Assyrians.
+- fresh: Because before the child knows to call father or mother, he will take the power of Damascus and the spoils of Samaria before the king of the Assyrians.
 - brenton: For before the child shall know how to call his father or his mother, one shall take the power of Damascus and the spoils of Samaria before the king of the Assyrians.
 
 ### Isaiah 8:5
@@ -158973,28 +158973,28 @@ Note:
 ### Isaiah 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because this people did not want water of Siloam going quietly, but wanted to have Rezin and son of Remaliah as king over you,
+- fresh: Because this people did not want the water of Siloam going quietly, but wanted to have Rezin and the son of Remaliah as king over you,
 - brenton: Because this people chooses not the water of Siloam that goes softly, but wills to have Rassin, and the son of Romelias to be king over you;
 
 ### Isaiah 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because of this behold the Lord brings up upon you water of the river, strong and much, king of the Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
+- fresh: because of this behold the Lord brings up upon you the water of the river, strong and abundant, the king of the Assyrians and his glory, and it will go up over all your valleys and walk over all your walls.
 - brenton: therefore, behold, the Lord brings up upon you the water of the river, strong and abundant, even the king of the Assyrians, and his glory: and he shall come up over every valley of yours, and shall walk over every wall of yours:
 
 ### Isaiah 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will take away from Judah man who can lift head or be able to accomplish anything, and his camp will be so as to fill width of your land, God-with-us.
+- fresh: And it will take away from Judah a man who can lift his head or be able to accomplish anything, and his camp will be so as to fill the width of your land, God-with-us.
 - brenton: and he shall take away from Juda every man who shall be able to lift up his head, and every one able to accomplish anything; and his camp shall fill the breadth of thy land, O God with us.
 
 ### Isaiah 8:9
@@ -159009,28 +159009,28 @@ Note:
 ### Isaiah 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whatever counsel you counsel, the Lord will scatter; and word whatever you speak will certainly not remain for you, because with us is the Lord God.
+- fresh: And whatever counsel you counsel, the Lord will scatter; and whatever word you speak will certainly not remain for you, because with us is the Lord God.
 - brenton: And whatsoever counsel ye shall take, the Lord shall bring it to nought; and whatsoever word ye shall speak, it shall not stand among you: for God is with us.
 
 ### Isaiah 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord with strong hand; they disobey in walking way of this people, saying,
+- fresh: Thus says the Lord with a strong hand; they disobey in the walking of the way of this people, saying,
 - brenton: Thus saith the Lord, With a strong hand they revolt from the course of the way of this people, saying,
 
 ### Isaiah 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Never say hard whatever this people says is hard. Their fear you certainly shall not fear, nor certainly be troubled.
+- fresh: Never say hard whatever this people says is hard. The fear of it you certainly shall not fear, nor certainly be troubled.
 - brenton: Let them not say, It is hard, for whatsoever this people says, is hard: but fear not ye their fear, neither be dismayed.
 
 ### Isaiah 8:13
@@ -159045,28 +159045,28 @@ Note:
 ### Isaiah 8:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you are trusting in him, he will be for you into holiness, and not as stumbling stone will you meet him, nor as rock of falling; but the house of Jacob is in a snare and in hollow, sitting in Jerusalem.
+- fresh: And if you are trusting in him, he will be for you into holiness, and not as a stumbling stone will you meet him, nor as a rock of falling; but the house of Jacob is in a snare and in a hollow, sitting in Jerusalem.
 - brenton: And if thou shalt trust in him, he shall be to thee for a sanctuary; and ye shall not come against him as against a stumbling-stone, neither as against the falling of a rock: but the houses of Jacob are in a snare, and the dwellers in Jerusalem in a pit.
 
 ### Isaiah 8:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this many among them will be weak and fall and be crushed, and they will draw near and be captured, men being in safety.
+- fresh: Because of this many among them will be weak and fall and be crushed, and they will draw near and be captured while men are in safety.
 - brenton: Therefore many among them shall be weak, and fall, and be crushed; and they shall draw nigh, and men shall be taken securely.
 
 ### Isaiah 8:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then clear will be those sealing law so as not to learn.
+- fresh: Then those sealing the law so as not to learn will be clear.
 - brenton: Then shall those who seal themselves that they may not learn the law be made manifest.
 
 ### Isaiah 8:17
@@ -159081,55 +159081,55 @@ Note:
 ### Isaiah 8:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I and children whom God gave me, and they will be for signs and wonders in the house of Israel from the Lord of hosts who dwells on Mount Zion.
+- fresh: Behold, I and the children whom God gave me, and they will be for signs and wonders in the house of Israel from the Lord of hosts who dwells on Mount Zion.
 - brenton: Behold I and the children which God has given me: and they shall be for signs and wonders in the house of Israel from the Lord of hosts, who dwells in mount Sion.
 
 ### Isaiah 8:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if they say to you, Seek those from earth who call and ventriloquists who speak emptiness, who speak from belly, does not nation seek to its God? Why do they seek dead ones concerning living ones?
+- fresh: And if they say to you, Seek those from the earth who call and ventriloquists who speak emptiness, who speak from the belly, does not a nation seek to its God? Why do they seek the dead ones concerning the living ones?
 - brenton: And if they should say to you, Seek those who have in them a divining spirit, and them that speak out of the earth, them that speak vain words, who speak out of their belly: shall not a nation diligently seek to their God? why do they seek to the dead concerning the living?
 
 ### Isaiah 8:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For he gave law for help, so that they may say, not according to this word, concerning which there is no gift to give.
+- fresh: For he gave the law for help, so that they may say, not according to this word, concerning which there is no gift to give.
 - brenton: For he has given the law for a help, that they should not speak according to this word, concerning which there are no gifts to give for it.
 
 ### Isaiah 8:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And hard famine will come upon you, and it will be, whenever you hunger, you will be distressed, and you will speak evil of ruler and ancestral things and will look upward to heaven.
+- fresh: And hard famine will come upon you, and it will be, whenever you hunger, you will be distressed, and you will speak evil of the ruler and ancestral things and will look upward to heaven.
 - brenton: And famine shall come sorely upon you, and it shall come to pass, that when ye shall be hungry, ye shall be grieved, and ye shall speak ill of the prince and your fathers' ordinances: and they shall look up to heaven above,
 
 ### Isaiah 8:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And down to earth they will look, and look, affliction and tightness and darkness, distress narrow and darkness so as not to see.
+- fresh: And down to the earth they will look, and look, affliction and tightness and darkness, narrow distress and darkness so as not to see.
 - brenton: and they shall look on the earth below, and behold severe distress, and darkness, affliction, and anguish, and darkness so that one cannot see; and he that is in anguish shall not be distressed only for a time.
 
 ### Isaiah 8:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And one being in distress will not be without escape until time. This first he does quickly: land of Zebulun, land of Naphtali, way of sea, and the rest who dwell by coast and beyond Jordan, Galilee of nations, regions of Judah.
+- fresh: And one being in distress will not be without escape until time. This first he does quickly: the land of Zebulun, the land of Naphtali, the way of the sea, and the rest who dwell by the coast and beyond Jordan, Galilee of nations, the regions of Judah.
 - brenton: Drink this first. Act quickly, O land of Zabulon, land of Nephthalim, and the rest inhabiting the sea-coast, and the land beyond Jordan, Galilee of the Gentiles.
 
 ### Isaiah 9:1
