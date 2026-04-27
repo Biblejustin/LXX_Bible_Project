@@ -2888,6 +2888,34 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the remnants of ungodly men will be utterly destroyed" in by_ref[
         "Psalms 36:38"
     ]["draft_translation"]
+    assert "to a righteous one forever" in by_ref["Psalms 54:23"][
+        "draft_translation"
+    ]
+    assert "from the book of the living" in by_ref["Psalms 68:29"][
+        "draft_translation"
+    ]
+    assert "with the righteous let them not be written" in by_ref["Psalms 68:29"][
+        "draft_translation"
+    ]
+    assert "seeing the peace of sinners" in by_ref["Psalms 72:3"][
+        "draft_translation"
+    ]
+    assert "one day in your courts is better" in by_ref["Psalms 83:11"][
+        "draft_translation"
+    ]
+    assert "see the repayment of sinners" in by_ref["Psalms 90:8"][
+        "draft_translation"
+    ]
+    assert "You who love the Lord" in by_ref["Psalms 96:10"]["draft_translation"]
+    assert "guards the souls of his holy ones" in by_ref["Psalms 96:10"][
+        "draft_translation"
+    ]
+    assert "the desire of sinners will perish" in by_ref["Psalms 111:10"][
+        "draft_translation"
+    ]
+    assert "The righteous will wait for me" in by_ref["Psalms 141:8"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

@@ -131398,10 +131398,10 @@ Note:
 ### Psalms 54:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Cast your care upon the Lord, and he will sustain you; he will not give shaking to righteous one forever.
+- fresh: Cast your care upon the Lord, and he will sustain you; he will not give shaking to a righteous one forever.
 - brenton: Cast thy care upon the Lord, and he shall sustain thee; he shall never suffer the righteous to be moved.
 
 ### Psalms 54:24
@@ -133405,10 +133405,10 @@ Note:
 ### Psalms 68:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let them be blotted out from book of living, and with righteous let them not be written.
+- fresh: Let them be blotted out from the book of the living, and with the righteous let them not be written.
 - brenton: Let them be blotted out of the book of the living, and let them not be written with the righteous.
 
 ### Psalms 68:30
@@ -133954,10 +133954,10 @@ Note:
 ### Psalms 72:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I was jealous over lawless ones, seeing peace of sinners.
+- fresh: Because I was jealous over lawless ones, seeing the peace of sinners.
 - brenton: For I was jealous of the transgressors, beholding the tranquillity of sinners.
 
 ### Psalms 72:4
@@ -136231,10 +136231,10 @@ Note:
 ### Psalms 83:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
+- fresh: Because one day in your courts is better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
 - brenton: For one day in thy courts is better than thousands. I would rather be an abject in the house of God, than dwell in the tents of sinners.
 
 ### Psalms 83:12
@@ -137464,10 +137464,10 @@ Note:
 ### Psalms 90:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Only with your eyes you will observe and see repayment of sinners.
+- fresh: Only with your eyes you will observe and see the repayment of sinners.
 - brenton: Only with thine eyes shalt thou observe and see the reward of sinners.
 
 ### Psalms 90:9
@@ -138238,10 +138238,10 @@ Note:
 ### Psalms 96:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You loving Lord, hate evil; The Lord guards souls of his holy ones; from the hand of sinners he will rescue them.
+- fresh: You who love the Lord, hate evil; The Lord guards the souls of his holy ones; from the hand of sinners he will rescue them.
 - brenton: Ye that love the Lord, hate evil; the Lord preserves the souls of his saints; he shall deliver them from the hand of sinners.
 
 ### Psalms 96:11
@@ -141181,10 +141181,10 @@ Note:
 ### Psalms 111:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish.
+- fresh: The sinner will see and be angry; he will gnash his teeth and melt away; the desire of sinners will perish.
 - brenton: The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish.
 
 ### Psalms 112:1
@@ -145510,10 +145510,10 @@ Note:
 ### Psalms 141:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bring my soul out from prison to give thanks to your name, Lord. Righteous will wait for me until you repay me.
+- fresh: Bring my soul out from prison to give thanks to your name, Lord. The righteous will wait for me until you repay me.
 - brenton: Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.
 
 ### Psalms 142:1

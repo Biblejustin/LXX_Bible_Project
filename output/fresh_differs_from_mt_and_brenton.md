@@ -18119,6 +18119,15 @@ Rows: 20939
 - mt: And I gave you your master's house, and your master's wives into your bosom, and gave you the house of Israel and of Judah; and if that had been too little, I would moreover have given unto you such and such things.
 - brenton: and I gave thee the house of thy lord, and the wives of thy lord into thy bosom, and I gave to thee the house of Israel and Juda; and if that had been little, I would have given thee yet more.
 
+## Psalms 141:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.160`
+- fresh_brenton_ratio: `0.840`
+- fresh: Bring my soul out from prison to give thanks to your name, Lord. The righteous will wait for me until you repay me.
+- mt: But mine eyes are unto you, O GOD the Lord: in you is my trust; leave not my soul destitute.
+- brenton: Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.
+
 ## Exodus 19:12
 - priority: `0`
 - importance: `none`
@@ -18478,15 +18487,6 @@ Rows: 20939
 - fresh: One causing grass to spring up for cattle and green plant for the service of men, to bring bread out of earth,
 - mt: For he knows our frame; he remembers that we are dust.
 - brenton: He makes grass to grow for the cattle, and green herb for the service of men, to bring bread out of the earth;
-
-## Psalms 141:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.163`
-- fresh_brenton_ratio: `0.821`
-- fresh: Bring my soul out from prison to give thanks to your name, Lord. Righteous will wait for me until you repay me.
-- mt: But mine eyes are unto you, O GOD the Lord: in you is my trust; leave not my soul destitute.
-- brenton: Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.
 
 ## Judges 7:25
 - priority: `0`
@@ -24185,6 +24185,15 @@ Rows: 20939
 - mt: To him that rides upon the heavens of heavens, which were of old; lo, he does send out his voice, and that a mighty voice.
 - brenton: Let the poor see and rejoice; seek the Lord diligently, and ye shall live.
 
+## Psalms 90:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.218`
+- fresh_brenton_ratio: `0.768`
+- fresh: Only with your eyes you will observe and see the repayment of sinners.
+- mt: You have set our iniquities before you, our secret sins in the light of your countenance.
+- brenton: Only with thine eyes shalt thou observe and see the reward of sinners.
+
 ## Nehemiah 13:26
 - priority: `0`
 - importance: `none`
@@ -24850,15 +24859,6 @@ Rows: 20939
 - fresh: In the day of my affliction I cried to you, because you heard me.
 - mt: Show us your mercy, O LORD, and grant us your salvation.
 - brenton: In the day of my trouble I cried to thee: for thou didst hear me.
-
-## Psalms 90:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.224`
-- fresh_brenton_ratio: `0.731`
-- fresh: Only with your eyes you will observe and see repayment of sinners.
-- mt: You have set our iniquities before you, our secret sins in the light of your countenance.
-- brenton: Only with thine eyes shalt thou observe and see the reward of sinners.
 
 ## Joshua 18:8
 - priority: `0`
@@ -27586,15 +27586,6 @@ Rows: 20939
 - fresh: My enemies will turn back in whatever day I call on you; behold, I knew that you are my God.
 - mt: Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.
 - brenton: Mine enemies shall be turned back, in the day wherein I shall call upon thee; behold, I know that thou art my God.
-
-## Psalms 68:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.242`
-- fresh_brenton_ratio: `0.747`
-- fresh: Let them be blotted out from book of living, and with righteous let them not be written.
-- mt: Because of your temple at Jerusalem shall kings bring presents unto you.
-- brenton: Let them be blotted out of the book of the living, and let them not be written with the righteous.
 
 ## Psalms 104:32
 - priority: `0`
@@ -30431,6 +30422,15 @@ Rows: 20939
 - mt: The mountains skipped like rams, and the little hills like lambs.
 - brenton: Then I called on the name of the Lord: O Lord, deliver my soul.
 
+## Psalms 68:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.260`
+- fresh_brenton_ratio: `0.784`
+- fresh: Let them be blotted out from the book of the living, and with the righteous let them not be written.
+- mt: Because of your temple at Jerusalem shall kings bring presents unto you.
+- brenton: Let them be blotted out of the book of the living, and let them not be written with the righteous.
+
 ## Psalms 106:37
 - priority: `0`
 - importance: `none`
@@ -32294,6 +32294,15 @@ Rows: 20939
 - mt: But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
 - brenton: To the sons of Gedson from the families of the half-tribe of Manasse they gave Golan of Basan and her suburbs, and Aseroth and her suburbs.
 
+## Psalms 83:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.270`
+- fresh_brenton_ratio: `0.822`
+- fresh: Because one day in your courts is better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
+- mt: Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:
+- brenton: For one day in thy courts is better than thousands. I would rather be an abject in the house of God, than dwell in the tents of sinners.
+
 ## Psalms 13:5
 - priority: `0`
 - importance: `none`
@@ -32743,15 +32752,6 @@ Rows: 20939
 - fresh: But they in vain sought my soul; they will enter into lowest parts of earth.
 - mt: Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.
 - brenton: But they vainly sought after my soul; they shall go into the lowest parts of the earth.
-
-## Psalms 83:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.273`
-- fresh_brenton_ratio: `0.809`
-- fresh: Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
-- mt: Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:
-- brenton: For one day in thy courts is better than thousands. I would rather be an abject in the house of God, than dwell in the tents of sinners.
 
 ## Psalms 76:11
 - priority: `0`
@@ -45227,15 +45227,6 @@ Rows: 20939
 - mt: And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 - brenton: The sons of Manasse. To Machir the family of the Machirites; and Machir begot Galaad: to Galaad, the family of the Galaadites.
 
-## Psalms 111:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.340`
-- fresh_brenton_ratio: `0.854`
-- fresh: The sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish.
-- mt: The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endures for ever.
-- brenton: The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish.
-
 ## Micah 2:12
 - priority: `0`
 - importance: `none`
@@ -45784,6 +45775,15 @@ Rows: 20939
 - fresh: Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is wage for your works, and they will return from the land of enemies.
 - mt: So Zedekiah the king swore secretly unto Jeremiah, saying, As the LORD lives, that made us this soul, I will not put you to death, neither will I give you into the hand of these men that seek your life.
 - brenton: Thus saith the Lord; Let thy voice cease from weeping, and thine eyes from thy tears: for there is a reward for thy works; and they shall return from the land of thine enemies.
+
+## Psalms 111:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.343`
+- fresh_brenton_ratio: `0.876`
+- fresh: The sinner will see and be angry; he will gnash his teeth and melt away; the desire of sinners will perish.
+- mt: The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endures for ever.
+- brenton: The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish.
 
 ## 2 Kings 3:25
 - priority: `0`
@@ -46496,6 +46496,15 @@ Rows: 20939
 - mt: Behold, they shall surely gather together, but not by me: whosoever shall gather together against you shall fall for your sake.
 - brenton: Behold, strangers shall come to thee by me, and shall sojourn with thee, and shall run to thee for refuge.
 
+## Psalms 72:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.347`
+- fresh_brenton_ratio: `0.643`
+- fresh: Because I was jealous over lawless ones, seeing the peace of sinners.
+- mt: The mountains shall bring peace to the people, and the little hills, by righteousness.
+- brenton: For I was jealous of the transgressors, beholding the tranquillity of sinners.
+
 ## Judges 7:3
 - priority: `0`
 - importance: `none`
@@ -47188,6 +47197,15 @@ Rows: 20939
 - fresh: And he helped a poor man out of poverty and made families like sheep.
 - mt: And he gave them into the hand of the heathen; and they that hated them ruled over them.
 - brenton: But he helps the poor out of poverty, and makes him families as a flock.
+
+## Psalms 96:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.351`
+- fresh_brenton_ratio: `0.717`
+- fresh: You who love the Lord, hate evil; The Lord guards the souls of his holy ones; from the hand of sinners he will rescue them.
+- mt: Say among the heathen that the LORD reigns: the world also shall be established that it shall not be moved: he shall judge the people righteously.
+- brenton: Ye that love the Lord, hate evil; the Lord preserves the souls of his saints; he shall deliver them from the hand of sinners.
 
 ## Jeremiah 1:18
 - priority: `0`
@@ -47962,15 +47980,6 @@ Rows: 20939
 - fresh: Evil man with insolence works evils, but those knowing themselves wise.
 - mt: Only by pride comes contention: but with the well advised is wisdom.
 - brenton: A bad man does evil with insolence: but they that are judges of themselves are wise.
-
-## Psalms 72:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.356`
-- fresh_brenton_ratio: `0.619`
-- fresh: Because I was jealous over lawless ones, seeing peace of sinners.
-- mt: The mountains shall bring peace to the people, and the little hills, by righteousness.
-- brenton: For I was jealous of the transgressors, beholding the tranquillity of sinners.
 
 ## Psalms 89:7
 - priority: `0`
@@ -51085,15 +51094,6 @@ Rows: 20939
 - fresh: because your arrows were fixed in me and you set your hand firmly upon me.
 - mt: Trust in the LORD, and do good; so shall you dwell in the land, and verily you shall be fed.
 - brenton: For thy weapons are fixed in me, and thou hast pressed thy hand heavily upon me.
-
-## Psalms 96:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.373`
-- fresh_brenton_ratio: `0.652`
-- fresh: You loving Lord, hate evil; The Lord guards souls of his holy ones; from the hand of sinners he will rescue them.
-- mt: Say among the heathen that the LORD reigns: the world also shall be established that it shall not be moved: he shall judge the people righteously.
-- brenton: Ye that love the Lord, hate evil; the Lord preserves the souls of his saints; he shall deliver them from the hand of sinners.
 
 ## Job 34:13
 - priority: `0`

@@ -59478,7 +59478,7 @@ They were divided by wrath of his face, and his heart drew near. His words were 
 
 **Psalms 54:23**
 
-Cast your care upon the Lord, and he will sustain you; he will not give shaking to righteous one forever.
+Cast your care upon the Lord, and he will sustain you; he will not give shaking to a righteous one forever.
 
 **Psalms 54:24**
 
@@ -60398,7 +60398,7 @@ Add lawlessness upon their lawlessness, and let them not enter into your righteo
 
 **Psalms 68:29**
 
-Let them be blotted out from book of living, and with righteous let them not be written.
+Let them be blotted out from the book of the living, and with the righteous let them not be written.
 
 **Psalms 68:30**
 
@@ -60650,7 +60650,7 @@ But as for me, my feet were almost shaken; my steps all but poured out.
 
 **Psalms 72:3**
 
-Because I was jealous over lawless ones, seeing peace of sinners.
+Because I was jealous over lawless ones, seeing the peace of sinners.
 
 **Psalms 72:4**
 
@@ -61684,7 +61684,7 @@ Our defender, see, O God, and look upon the face of your anointed.
 
 **Psalms 83:11**
 
-Because one day in your courts better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
+Because one day in your courts is better than thousands; I chose to be cast aside in the house of God rather than dwell in the tents of sinners.
 
 **Psalms 83:12**
 
@@ -62246,7 +62246,7 @@ A thousand will fall from your side and ten thousand from your right, but it wil
 
 **Psalms 90:8**
 
-Only with your eyes you will observe and see repayment of sinners.
+Only with your eyes you will observe and see the repayment of sinners.
 
 **Psalms 90:9**
 
@@ -62602,7 +62602,7 @@ Because you are Lord, Most High over all the earth; you were greatly exalted abo
 
 **Psalms 96:10**
 
-You loving Lord, hate evil; The Lord guards souls of his holy ones; from the hand of sinners he will rescue them.
+You who love the Lord, hate evil; The Lord guards the souls of his holy ones; from the hand of sinners he will rescue them.
 
 **Psalms 96:11**
 
@@ -63940,7 +63940,7 @@ He scattered, he gave to poor ones; his righteousness remains forever and ever; 
 
 **Psalms 111:10**
 
-The sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish.
+The sinner will see and be angry; he will gnash his teeth and melt away; the desire of sinners will perish.
 
 ### Chapter 112
 
@@ -65924,7 +65924,7 @@ Attend to my supplication, because I was greatly humbled; rescue me from those p
 
 **Psalms 141:8**
 
-Bring my soul out from prison to give thanks to your name, Lord. Righteous will wait for me until you repay me.
+Bring my soul out from prison to give thanks to your name, Lord. The righteous will wait for me until you repay me.
 
 ### Chapter 142
 
