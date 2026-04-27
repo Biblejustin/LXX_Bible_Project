@@ -162996,73 +162996,73 @@ Note:
 ### Isaiah 32:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For behold, righteous king will reign, and rulers will rule with judgment.
+- fresh: For behold, a righteous king will reign, and rulers will rule with judgment.
 - brenton: For, behold, a righteous king shall reign, and princes shall govern with judgment.
 
 ### Isaiah 32:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And man will be hiding his words and will be hidden as from carried water, and will appear in Zion as glorious flowing river in thirsty land.
+- fresh: And the man will be hiding his words and will be hidden as from carried water, and will appear in Zion as a glorious flowing river in a thirsty land.
 - brenton: And a man shall hide his words, and be hidden, as from rushing water, and shall appear in Sion as a rushing river, glorious in a thirsty land.
 
 ### Isaiah 32:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will no longer be trusting in men, but will give ears to hear.
+- fresh: And they will no longer be trusting in men, but will give their ears to hear.
 - brenton: And they shall no more trust in men, but they shall incline their ears to hear.
 
 ### Isaiah 32:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the heart of weak ones will attend to hear, and stammering tongues will quickly learn to speak peace.
+- fresh: And the heart of the weak ones will attend to hear, and the stammering tongues will quickly learn to speak peace.
 - brenton: And the heart of the weak ones shall attend to hear, and the stammering tongues shall soon learn to speak peace.
 
 ### Isaiah 32:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will certainly no longer say to fool, Rule; and they will certainly no longer say, Your servants, be silent.
+- fresh: And they will certainly no longer say to the fool, Rule; and they will certainly no longer say, Your servants, be silent.
 - brenton: And they shall no more at all tell a fool to rule, and thy servants shall no more at all say, Be silent.
 
 ### Isaiah 32:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For fool will speak foolish things, and his heart will think vain things, to finish lawless things and speak wandering against the Lord, to scatter hungry souls and make thirsty souls empty.
+- fresh: For the fool will speak foolish things, and his heart will think vain things, to finish lawless things and speak wandering against the Lord, to scatter hungry souls and make the thirsty souls empty.
 - brenton: For the fool shall speak foolish words, and his heart shall meditate vanities, and to perform lawless deeds and to speak error against the Lord, to scatter hungry souls, and he will cause the thirsty souls to be empty.
 
 ### Isaiah 32:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For counsel of evil men will counsel lawless things, to destroy humble with unjust words and scatter words of humble in judgment.
+- fresh: For the counsel of evil men will counsel lawless things, to destroy the humble with unjust words and scatter words of the humble in judgment.
 - brenton: For the counsel of the wicked will devise iniquity, to destroy the poor with unjust words, and ruin the cause of the poor in judgment.
 
 ### Isaiah 32:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But godly men counseled understanding things, and this counsel remains.
+- fresh: But the godly men counseled understanding things, and this counsel remains.
 - brenton: But the godly have devised wise measures, and this counsel shall stand.
 
 ### Isaiah 32:9
@@ -163077,55 +163077,55 @@ Note:
 ### Isaiah 32:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Make remembrance days of year in pain with hope; vintage is spent, seed ceased and will certainly no longer come.
+- fresh: Make remembrance days of a year in pain with hope; the vintage is spent, the seed ceased and will certainly no longer come.
 - brenton: Remember for a full year in pain, yet with hope: the vintage has been cut off, it has ceased, it shall by no means come again.
 
 ### Isaiah 32:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be stunned, grieve, you trusting ones; strip, become naked, gird loins with sackcloths.
+- fresh: Be stunned, grieve, you trusting ones; strip, become naked, gird your loins with sackcloths.
 - brenton: Be amazed, be pained, ye confident ones: strip you, bare yourselves, gird your loins;
 
 ### Isaiah 32:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And beat yourselves on breasts for desired field and fruit-bearing vine.
+- fresh: And beat yourselves on your breasts for a desired field and a fruit-bearing vine.
 - brenton: and beat on your breasts, because of the pleasant field, and the fruit of the vine.
 
 ### Isaiah 32:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thorn and grass will come up on the land of my people, and from every house gladness will be taken away, rich city.
+- fresh: Thorn and grass will come up on the land of my people, and from every house gladness will be taken away, the rich city.
 - brenton: As for the land of my people, the thorn and grass shall come upon it, and joy shall be removed from every house.
 
 ### Isaiah 32:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Abandoned houses will leave wealth of the city and desirable houses, and villages will be caves forever, joy of wild donkeys, pastures of shepherds,
+- fresh: The abandoned houses will leave the wealth of the city and desirable houses, and the villages will be caves forever, the joy of wild donkeys, pastures of shepherds,
 - brenton: As for the rich city, the houses are deserted; they shall abandon the wealth of the city, and the pleasant houses: and the villages shall be caves for ever, the joy of wild asses, shepherds' pastures;
 
 ### Isaiah 32:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: until spirit from on high comes upon you, and Carmel will be wilderness and Carmel reckoned as forest.
+- fresh: until a spirit from on high comes upon you, and Carmel will be wilderness and Carmel will be reckoned as a forest.
 - brenton: until the Spirit shall come upon you from on high, and Chermel shall be desert, and Chermel shall be counted for a forest.
 
 ### Isaiah 32:16
@@ -163158,19 +163158,19 @@ Note:
 ### Isaiah 32:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if hail comes down, it will not come upon you, and those dwelling in forests will be trusting as those in the plain.
+- fresh: And if the hail comes down, it will not come upon you, and those dwelling in the forests will be trusting as those in the plain.
 - brenton: And if the hail should come down, it shall not come upon you; and they that dwell in the forests shall be in confidence, as those in the plain country.
 
 ### Isaiah 32:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed are those sowing over every water, where ox and donkey do not tread.
+- fresh: Blessed are those sowing over every water, where an ox and a donkey do not tread.
 - brenton: Blessed are they that sow by every water, where the ox and ass tread.
 
 ### Isaiah 33:1

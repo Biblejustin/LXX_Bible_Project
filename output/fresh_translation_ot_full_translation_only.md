@@ -73884,35 +73884,35 @@ For they will be seized as by a trench around a rock and be defeated; but the on
 
 **Isaiah 32:1**
 
-For behold, righteous king will reign, and rulers will rule with judgment.
+For behold, a righteous king will reign, and rulers will rule with judgment.
 
 **Isaiah 32:2**
 
-And man will be hiding his words and will be hidden as from carried water, and will appear in Zion as glorious flowing river in thirsty land.
+And the man will be hiding his words and will be hidden as from carried water, and will appear in Zion as a glorious flowing river in a thirsty land.
 
 **Isaiah 32:3**
 
-And they will no longer be trusting in men, but will give ears to hear.
+And they will no longer be trusting in men, but will give their ears to hear.
 
 **Isaiah 32:4**
 
-And the heart of weak ones will attend to hear, and stammering tongues will quickly learn to speak peace.
+And the heart of the weak ones will attend to hear, and the stammering tongues will quickly learn to speak peace.
 
 **Isaiah 32:5**
 
-And they will certainly no longer say to fool, Rule; and they will certainly no longer say, Your servants, be silent.
+And they will certainly no longer say to the fool, Rule; and they will certainly no longer say, Your servants, be silent.
 
 **Isaiah 32:6**
 
-For fool will speak foolish things, and his heart will think vain things, to finish lawless things and speak wandering against the Lord, to scatter hungry souls and make thirsty souls empty.
+For the fool will speak foolish things, and his heart will think vain things, to finish lawless things and speak wandering against the Lord, to scatter hungry souls and make the thirsty souls empty.
 
 **Isaiah 32:7**
 
-For counsel of evil men will counsel lawless things, to destroy humble with unjust words and scatter words of humble in judgment.
+For the counsel of evil men will counsel lawless things, to destroy the humble with unjust words and scatter words of the humble in judgment.
 
 **Isaiah 32:8**
 
-But godly men counseled understanding things, and this counsel remains.
+But the godly men counseled understanding things, and this counsel remains.
 
 **Isaiah 32:9**
 
@@ -73920,27 +73920,27 @@ Rich women, rise and hear my voice; daughters in hope, hear my words.
 
 **Isaiah 32:10**
 
-Make remembrance days of year in pain with hope; vintage is spent, seed ceased and will certainly no longer come.
+Make remembrance days of a year in pain with hope; the vintage is spent, the seed ceased and will certainly no longer come.
 
 **Isaiah 32:11**
 
-Be stunned, grieve, you trusting ones; strip, become naked, gird loins with sackcloths.
+Be stunned, grieve, you trusting ones; strip, become naked, gird your loins with sackcloths.
 
 **Isaiah 32:12**
 
-And beat yourselves on breasts for desired field and fruit-bearing vine.
+And beat yourselves on your breasts for a desired field and a fruit-bearing vine.
 
 **Isaiah 32:13**
 
-Thorn and grass will come up on the land of my people, and from every house gladness will be taken away, rich city.
+Thorn and grass will come up on the land of my people, and from every house gladness will be taken away, the rich city.
 
 **Isaiah 32:14**
 
-Abandoned houses will leave wealth of the city and desirable houses, and villages will be caves forever, joy of wild donkeys, pastures of shepherds,
+The abandoned houses will leave the wealth of the city and desirable houses, and the villages will be caves forever, the joy of wild donkeys, pastures of shepherds,
 
 **Isaiah 32:15**
 
-until spirit from on high comes upon you, and Carmel will be wilderness and Carmel reckoned as forest.
+until a spirit from on high comes upon you, and Carmel will be wilderness and Carmel will be reckoned as a forest.
 
 **Isaiah 32:16**
 
@@ -73956,11 +73956,11 @@ And his people will dwell in the city of peace and settle trusting and rest with
 
 **Isaiah 32:19**
 
-And if hail comes down, it will not come upon you, and those dwelling in forests will be trusting as those in the plain.
+And if the hail comes down, it will not come upon you, and those dwelling in the forests will be trusting as those in the plain.
 
 **Isaiah 32:20**
 
-Blessed are those sowing over every water, where ox and donkey do not tread.
+Blessed are those sowing over every water, where an ox and a donkey do not tread.
 
 ### Chapter 33
 

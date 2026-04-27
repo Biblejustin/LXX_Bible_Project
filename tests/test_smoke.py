@@ -5407,6 +5407,70 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "but the one fleeing will be caught" in by_ref["Isaiah 31:9"][
         "draft_translation"
     ]
+    assert by_ref["Isaiah 32:1"]["draft_translation"].startswith(
+        "For behold, a righteous king"
+    )
+    assert "as a glorious flowing river in a thirsty land" in by_ref[
+        "Isaiah 32:2"
+    ]["draft_translation"]
+    assert "give their ears to hear" in by_ref["Isaiah 32:3"][
+        "draft_translation"
+    ]
+    assert "the stammering tongues" in by_ref["Isaiah 32:4"][
+        "draft_translation"
+    ]
+    assert "say to the fool" in by_ref["Isaiah 32:5"]["draft_translation"]
+    assert by_ref["Isaiah 32:6"]["draft_translation"].startswith(
+        "For the fool"
+    )
+    assert "make the thirsty souls empty" in by_ref["Isaiah 32:6"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 32:7"]["draft_translation"].startswith(
+        "For the counsel of evil men"
+    )
+    assert "destroy the humble" in by_ref["Isaiah 32:7"]["draft_translation"]
+    assert "words of the humble" in by_ref["Isaiah 32:7"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 32:8"]["draft_translation"].startswith(
+        "But the godly men"
+    )
+    assert "days of a year" in by_ref["Isaiah 32:10"]["draft_translation"]
+    assert "the vintage is spent, the seed ceased" in by_ref["Isaiah 32:10"][
+        "draft_translation"
+    ]
+    assert "gird your loins with sackcloths" in by_ref["Isaiah 32:11"][
+        "draft_translation"
+    ]
+    assert "on your breasts for a desired field" in by_ref["Isaiah 32:12"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 32:13"]["draft_translation"].endswith(
+        "the rich city."
+    )
+    assert by_ref["Isaiah 32:14"]["draft_translation"].startswith(
+        "The abandoned houses"
+    )
+    assert "the villages will be caves forever" in by_ref["Isaiah 32:14"][
+        "draft_translation"
+    ]
+    assert "the joy of wild donkeys" in by_ref["Isaiah 32:14"][
+        "draft_translation"
+    ]
+    assert "until a spirit from on high" in by_ref["Isaiah 32:15"][
+        "draft_translation"
+    ]
+    assert "as a forest" in by_ref["Isaiah 32:15"]["draft_translation"]
+    assert "if the hail comes down" in by_ref["Isaiah 32:19"][
+        "draft_translation"
+    ]
+    assert "dwelling in the forests" in by_ref["Isaiah 32:19"][
+        "draft_translation"
+    ]
+    assert "where an ox and a donkey do not tread" in by_ref["Isaiah 32:20"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
@@ -5744,7 +5808,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "make the land of Babylon" in by_ref["Jeremiah 28:29"]["draft_translation"]
     assert "give them the land of Israel" in by_ref["Ezekiel 11:17"]["draft_translation"]
     assert "because of the blood of humans" in by_ref["Habakkuk 2:8"]["draft_translation"]
-    assert by_ref["Isaiah 32:4"]["draft_translation"].startswith("And the heart of weak ones")
+    assert by_ref["Isaiah 32:4"]["draft_translation"].startswith(
+        "And the heart of the weak ones"
+    )
     assert by_ref["Ezekiel 1:8"]["draft_translation"].startswith("And the hand of man")
     assert by_ref["Ezekiel 40:23"]["draft_translation"].startswith(
         "And the gate of the inner court faced the gate of the north"
