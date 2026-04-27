@@ -152694,19 +152694,19 @@ Note:
 ### Proverbs 25:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The glory of God hides a word, but glory of the king honors matters.
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
 - brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ### Proverbs 25:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Heaven high, earth deep, but heart of the king unsearchable.
+- fresh: Heaven is high, earth is deep, but the heart of the king is unsearchable.
 - brenton: Heaven is high, and earth is deep, and a king's heart is unsearchable.
 
 ### Proverbs 25:4
@@ -152775,28 +152775,28 @@ Note:
 ### Proverbs 25:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Golden apple in necklace of sardius, so to speak a word.
+- fresh: A golden apple in a necklace of sardius, so to speak a word.
 - brenton: As a golden apple in a necklace of sardius, so is it to speak a wise word.
 
 ### Proverbs 25:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bound in golden earring and precious sardius, wise word to listening ear.
+- fresh: Bound in a golden earring and precious sardius, a wise word to a listening ear.
 - brenton: In an ear-ring of gold a precious sardius is also set; so is a wise word to an obedient ear.
 
 ### Proverbs 25:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As snowfall coming in harvest helps against heat, so faithful messenger benefits those sending him, for he benefits souls of those using him.
+- fresh: As snowfall coming in harvest helps against heat, so a faithful messenger benefits those sending him, for he benefits the souls of those using him.
 - brenton: As a fall of snow in the time of harvest is good against heat, so a faithful messenger refreshes those that send him; for he helps the souls of his employers.
 
 ### Proverbs 25:14
@@ -152838,28 +152838,28 @@ Note:
 ### Proverbs 25:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Club and sword and sharp-pointed missile, so also man testifying false witness against his friend.
+- fresh: Club and sword and sharp-pointed missile, so also a man testifying false witness against his friend.
 - brenton: As a club, and a dagger, and a pointed arrow, so also is a man who bears false witness against his friend.
 
 ### Proverbs 25:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The way of evil and the foot of a lawless man perish in evil day.
+- fresh: The way of evil and the foot of a lawless man perish in an evil day.
 - brenton: The way of the wicked and the foot of the transgressor shall perish in an evil day.
 
 ### Proverbs 25:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As vinegar draws what is unfitting, so suffering falling upon body grieves heart. As moth in garment and worm in wood, so grief of man harms heart.
+- fresh: As vinegar draws what is unfitting, so suffering falling upon the body grieves the heart. As a moth in a garment and a worm in wood, so grief of a man harms the heart.
 - brenton: As vinegar is bad for a sore, so trouble befalling the body afflicts the heart.
 
 ### Proverbs 25:21
@@ -152892,28 +152892,28 @@ Note:
 ### Proverbs 25:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better dwell on the corner of roof than with scolding woman in common house.
+- fresh: Better dwell on the corner of a roof than with a scolding woman in a common house.
 - brenton: It is better to dwell on a corner of the roof, than with a railing woman in an open house.
 
 ### Proverbs 25:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As cool water pleasant to thirsty soul, so good message from far land.
+- fresh: As cool water is pleasant to a thirsty soul, so a good message from a far land.
 - brenton: As cold water is agreeable to a thirsting soul, so is a good message from a land far off.
 
 ### Proverbs 25:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As if someone should stop up spring and spoil water outlet, so it is indecent for righteous to fall before ungodly.
+- fresh: As if someone should stop up a spring and spoil a water outlet, so it is indecent for a righteous man to fall before an ungodly man.
 - brenton: As if one should stop a well, and corrupt a spring of water, so is it unseemly for a righteous man to fall before an ungodly man.
 
 ### Proverbs 25:27
@@ -152928,19 +152928,19 @@ Note:
 ### Proverbs 25:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Like city whose walls thrown down and unwalled, so man who does anything without counsel.
+- fresh: Like a city whose walls are thrown down and unwalled, so a man who does anything without counsel.
 - brenton: As a city whose walls are broken down, and which is unfortified, so is a man who does anything without counsel.
 
 ### Proverbs 26:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As dew in harvest and rain in summer, so honor not for fool.
+- fresh: As dew in harvest and rain in summer, so honor is not for a fool.
 - brenton: As dew in harvest, and as rain in summer, so honour is not seemly for a fool.
 
 ### Proverbs 26:2
@@ -153030,16 +153030,16 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
+- fresh: As a dog when it returns to its own vomit and becomes hateful, so a fool, turning in his own evil, returns to his own sin. There is shame that brings sin, and there is shame that is glory and grace.
 - brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
 
 ### Proverbs 26:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw man seeming wise to himself; yet fool had more hope than he.
+- fresh: I saw a man seeming wise to himself; yet a fool had more hope than he.
 - brenton: I have seen a man who seemed to himself to be wise; but a fool had more hope than he.
 
 ### Proverbs 26:13
@@ -153126,10 +153126,10 @@ Note:
 ### Proverbs 26:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The words of whisperers soft, yet these strike into the storerooms of inward parts.
+- fresh: The words of whisperers are soft, yet these strike into the storerooms of inward parts.
 - brenton: The words of cunning knaves are soft; but they smite even to the inmost parts of the bowels.
 
 ### Proverbs 26:23
@@ -153180,10 +153180,10 @@ Note:
 ### Proverbs 26:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lying tongue hates truth, and unchecked mouth makes disorders.
+- fresh: A lying tongue hates truth, and an unchecked mouth makes disorders.
 - brenton: A lying tongue hates the truth; and an unguarded mouth causes tumults.
 
 ### Proverbs 27:1

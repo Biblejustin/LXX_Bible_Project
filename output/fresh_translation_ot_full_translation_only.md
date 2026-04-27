@@ -69186,11 +69186,11 @@ These undiscriminating disciplines of Solomon, which friends of Hezekiah king of
 
 **Proverbs 25:2**
 
-The glory of God hides a word, but glory of the king honors matters.
+The glory of God hides a word, but the glory of the king honors matters.
 
 **Proverbs 25:3**
 
-Heaven high, earth deep, but heart of the king unsearchable.
+Heaven is high, earth is deep, but the heart of the king is unsearchable.
 
 **Proverbs 25:4**
 
@@ -69222,15 +69222,15 @@ lest your friend reproach you and your fight and enmity not depart, but be equal
 
 **Proverbs 25:11**
 
-Golden apple in necklace of sardius, so to speak a word.
+A golden apple in a necklace of sardius, so to speak a word.
 
 **Proverbs 25:12**
 
-Bound in golden earring and precious sardius, wise word to listening ear.
+Bound in a golden earring and precious sardius, a wise word to a listening ear.
 
 **Proverbs 25:13**
 
-As snowfall coming in harvest helps against heat, so faithful messenger benefits those sending him, for he benefits souls of those using him.
+As snowfall coming in harvest helps against heat, so a faithful messenger benefits those sending him, for he benefits the souls of those using him.
 
 **Proverbs 25:14**
 
@@ -69250,15 +69250,15 @@ Bring your foot rarely into your friend's house, lest filled with you he hate yo
 
 **Proverbs 25:18**
 
-Club and sword and sharp-pointed missile, so also man testifying false witness against his friend.
+Club and sword and sharp-pointed missile, so also a man testifying false witness against his friend.
 
 **Proverbs 25:19**
 
-The way of evil and the foot of a lawless man perish in evil day.
+The way of evil and the foot of a lawless man perish in an evil day.
 
 **Proverbs 25:20**
 
-As vinegar draws what is unfitting, so suffering falling upon body grieves heart. As moth in garment and worm in wood, so grief of man harms heart.
+As vinegar draws what is unfitting, so suffering falling upon the body grieves the heart. As a moth in a garment and a worm in wood, so grief of a man harms the heart.
 
 **Proverbs 25:21**
 
@@ -69274,15 +69274,15 @@ North wind stirs clouds, but shameless face stirs tongue.
 
 **Proverbs 25:24**
 
-Better dwell on the corner of roof than with scolding woman in common house.
+Better dwell on the corner of a roof than with a scolding woman in a common house.
 
 **Proverbs 25:25**
 
-As cool water pleasant to thirsty soul, so good message from far land.
+As cool water is pleasant to a thirsty soul, so a good message from a far land.
 
 **Proverbs 25:26**
 
-As if someone should stop up spring and spoil water outlet, so it is indecent for righteous to fall before ungodly.
+As if someone should stop up a spring and spoil a water outlet, so it is indecent for a righteous man to fall before an ungodly man.
 
 **Proverbs 25:27**
 
@@ -69290,13 +69290,13 @@ To eat much honey not good, but one ought to honor glorious words.
 
 **Proverbs 25:28**
 
-Like city whose walls thrown down and unwalled, so man who does anything without counsel.
+Like a city whose walls are thrown down and unwalled, so a man who does anything without counsel.
 
 ### Chapter 26
 
 **Proverbs 26:1**
 
-As dew in harvest and rain in summer, so honor not for fool.
+As dew in harvest and rain in summer, so honor is not for a fool.
 
 **Proverbs 26:2**
 
@@ -69336,11 +69336,11 @@ All flesh of fools is storm-tossed much, for their ecstasy is shattered.
 
 **Proverbs 26:11**
 
-As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
+As a dog when it returns to its own vomit and becomes hateful, so a fool, turning in his own evil, returns to his own sin. There is shame that brings sin, and there is shame that is glory and grace.
 
 **Proverbs 26:12**
 
-I saw man seeming wise to himself; yet fool had more hope than he.
+I saw a man seeming wise to himself; yet a fool had more hope than he.
 
 **Proverbs 26:13**
 
@@ -69380,7 +69380,7 @@ Brazier for coals and wood for fire, and scolding man for turmoil of fight.
 
 **Proverbs 26:22**
 
-The words of whisperers soft, yet these strike into the storerooms of inward parts.
+The words of whisperers are soft, yet these strike into the storerooms of inward parts.
 
 **Proverbs 26:23**
 
@@ -69404,7 +69404,7 @@ One digging pit for neighbor will fall into it, and one rolling stone rolls it o
 
 **Proverbs 26:28**
 
-Lying tongue hates truth, and unchecked mouth makes disorders.
+A lying tongue hates truth, and an unchecked mouth makes disorders.
 
 ### Chapter 27
 

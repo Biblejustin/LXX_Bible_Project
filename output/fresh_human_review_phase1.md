@@ -2285,7 +2285,7 @@ Rows: 234
 - fresh: God is far from the ungodly, but prayers of the righteous he hears. Better little taking with righteousness than much produce with injustice. Let the heart of man reckon righteous things, so that his steps may be corrected by God.
 - brenton: God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
-## Proverbs 26:11
+## Proverbs 25:2
 - priority: `18`
 - importance: `high`
 - reason: score>=16; high+tracked
@@ -2297,8 +2297,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
-- brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
+- brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ## Proverbs 3:9
 - priority: `18`

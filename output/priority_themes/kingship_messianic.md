@@ -2,8 +2,8 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 104
-Books: 35
+Rows: 105
+Books: 36
 
 ## Genesis 24:7
 - score: 22
@@ -459,6 +459,13 @@ Books: 35
 - keywords: mercy, peace, righteousness, truth
 - fresh: Mercy and truth met together; righteousness and peace kissed.
 - brenton: Mercy and truth are met together: righteousness and peace have kissed each other.
+
+## Proverbs 25:2
+- score: 18
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, king; crossref_top_vote=33; reco=keep
+- keywords: glory, god, king
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
+- brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ## Song of Solomon 1:7
 - score: 15

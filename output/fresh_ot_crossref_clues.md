@@ -824,7 +824,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
-- OT clues: 1Sam.8.7 (6) -> And the Lord said to Samuel, Hear the voice of the people according to whatever they say to you, because they have not despised you, but me they have despised, from reigning over them. || 1Sam.7.9-1Sam.7.10 (5) -> And Samuel took one suckling lamb and offered it up whole with all the people to the Lord, and Samuel cried out to the Lord concerning Israel, and the Lord listened to him. || Prov.26.1 (5) -> As dew in harvest and rain in summer, so honor not for fool. || Jer.15.1 (2) -> And the Lord said to me, If Moses and Samuel stand before my face, my soul is not toward them. Send out this people and let them go out.
+- OT clues: 1Sam.8.7 (6) -> And the Lord said to Samuel, Hear the voice of the people according to whatever they say to you, because they have not despised you, but me they have despised, from reigning over them. || 1Sam.7.9-1Sam.7.10 (5) -> And Samuel took one suckling lamb and offered it up whole with all the people to the Lord, and Samuel cried out to the Lord concerning Israel, and the Lord listened to him. || Prov.26.1 (5) -> As dew in harvest and rain in summer, so honor is not for a fool. || Jer.15.1 (2) -> And the Lord said to me, If Moses and Samuel stand before my face, my soul is not toward them. Send out this people and let them go out.
 - NT clues: Jas.5.16-Jas.5.18 (4) -> Confess your faults one to another, and pray one for another, that all of you may be healed. The effectual fervent prayer of a righteous man avails much. || Ps.99.6 (2) -> Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 
 ## 1 Samuel 25:29
@@ -1631,16 +1631,16 @@ Rows: 233
 - OT clues: Prov.15.8 (19) -> Sacrifices of ungodly abomination to the Lord, but prayers of those setting straight acceptable to him. || Ps.34.15-Ps.34.17 (14) -> And against me they rejoiced and gathered together; scourges gathered upon me and I did not know; they were torn apart and were not pierced through.
 - NT clues: John.9.31 (27) -> Now we know that God hears not sinners: but if any man be a worshipper of God, and does his will, him he hears. || Ps.145.18-Ps.145.19 (21) -> The LORD is nigh unto all them that call upon him, to all that call upon him in truth. || 1Pet.3.12 (19) -> For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
 
-## Proverbs 26:11
+## Proverbs 25:2
 - score: 18
-- latest review status: keep
-- top vote: 26
-- OT crossrefs: 1
-- NT crossrefs: 2
+- latest review status: revised
+- top vote: 33
+- OT crossrefs: 5
+- NT crossrefs: 3
 - shared-family hits: 0
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
-- OT clues: Exod.8.15 (9) -> Then the enchanters said to Pharaoh, This is the finger of God. And Pharaoh's heart was hardened, and he did not listen to them, just as the Lord had spoken.
-- NT clues: 2Pet.2.22 (26) -> But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire. || Matt.12.45 (18) -> Then goes he, and takes with himself seven other spirits (o. pneuma) more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
+- OT clues: Job.11.7-Job.11.8 (13) -> Will you find track of the Lord, or reach to the ends of what Almighty made? || Job.38.4-Job.39.30 (11) -> Where were you when I founded earth? Declare to me, if you know understanding. || Job.42.3 (10) -> For who is one hiding counsel from you, sparing words, and thinking to hide you? And who will tell me things I did not know, great and wonderful things which I did not understand? || Job.29.16 (8) -> I was a father to weak men, and case that I did not know I searched out.
+- NT clues: Deut.29.29 (33) -> The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law. || Rom.11.33-Rom.11.34 (24) -> O the depth of the riches both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past finding out! || 1Kgs.4.29-1Kgs.4.34 (9) -> And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
 
 ## Proverbs 3:9
 - score: 18

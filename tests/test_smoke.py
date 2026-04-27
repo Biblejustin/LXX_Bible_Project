@@ -2954,6 +2954,34 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from a crooked and evil way" in by_ref["Proverbs 22:14"]["draft_translation"]
     assert "the ungodly will grow weak in evils" in by_ref["Proverbs 24:16"]["draft_translation"]
     assert "the lamp of the ungodly will be quenched" in by_ref["Proverbs 24:20"]["draft_translation"]
+    assert "but the glory of the king honors matters" in by_ref["Proverbs 25:2"]["draft_translation"]
+    assert by_ref["Proverbs 25:3"]["draft_translation"].startswith("Heaven is high")
+    assert "the heart of the king is unsearchable" in by_ref["Proverbs 25:3"]["draft_translation"]
+    assert by_ref["Proverbs 25:11"]["draft_translation"].startswith("A golden apple")
+    assert "a wise word to a listening ear" in by_ref["Proverbs 25:12"]["draft_translation"]
+    assert "a faithful messenger benefits" in by_ref["Proverbs 25:13"]["draft_translation"]
+    assert "benefits the souls" in by_ref["Proverbs 25:13"]["draft_translation"]
+    assert "so also a man testifying" in by_ref["Proverbs 25:18"]["draft_translation"]
+    assert "perish in an evil day" in by_ref["Proverbs 25:19"]["draft_translation"]
+    assert "falling upon the body grieves the heart" in by_ref["Proverbs 25:20"]["draft_translation"]
+    assert "As a moth in a garment" in by_ref["Proverbs 25:20"]["draft_translation"]
+    assert "corner of a roof" in by_ref["Proverbs 25:24"]["draft_translation"]
+    assert "with a scolding woman in a common house" in by_ref["Proverbs 25:24"]["draft_translation"]
+    assert "cool water is pleasant to a thirsty soul" in by_ref["Proverbs 25:25"]["draft_translation"]
+    assert "a good message from a far land" in by_ref["Proverbs 25:25"]["draft_translation"]
+    assert "stop up a spring and spoil a water outlet" in by_ref["Proverbs 25:26"]["draft_translation"]
+    assert "for a righteous man to fall before an ungodly man" in by_ref["Proverbs 25:26"]["draft_translation"]
+    assert by_ref["Proverbs 25:28"]["draft_translation"].startswith("Like a city")
+    assert "so a man who does anything without counsel" in by_ref["Proverbs 25:28"]["draft_translation"]
+    assert "honor is not for a fool" in by_ref["Proverbs 26:1"]["draft_translation"]
+    assert by_ref["Proverbs 26:11"]["draft_translation"].startswith("As a dog")
+    assert "so a fool" in by_ref["Proverbs 26:11"]["draft_translation"]
+    assert "There is shame that brings sin" in by_ref["Proverbs 26:11"]["draft_translation"]
+    assert "I saw a man seeming wise to himself" in by_ref["Proverbs 26:12"]["draft_translation"]
+    assert "yet a fool had more hope" in by_ref["Proverbs 26:12"]["draft_translation"]
+    assert "The words of whisperers are soft" in by_ref["Proverbs 26:22"]["draft_translation"]
+    assert by_ref["Proverbs 26:28"]["draft_translation"].startswith("A lying tongue")
+    assert "an unchecked mouth makes disorders" in by_ref["Proverbs 26:28"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -4835,6 +4863,7 @@ def test_proper_name_notes_have_meanings_and_expected_1_samuel_entries() -> None
         "Hannah": ("Hannah", "gracious; merciful; he that gives"),
         "Peninnah": ("Peninnah", "pearl; precious stone; the face"),
         "Zuph": ("Zuph", "watcher; honeycomb"),
+        "Kue": ("Kue", "Cilician region"),
         "Jozadak": ("Jozadak", "Yahweh is righteous; justice of the Lord"),
         "Josedech": ("Josedech", "Yahweh is righteous; justice of the Lord"),
         "Ieddouran": ("Joram", "to cast; elevated"),

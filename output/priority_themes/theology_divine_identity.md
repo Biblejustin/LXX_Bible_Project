@@ -404,12 +404,12 @@ Books: 38
 - fresh: The beginning of wisdom is the fear of the Lord, and the counsel of holy ones is understanding. For knowing law belongs to good mind.
 - brenton: The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
-## Proverbs 26:11
+## Proverbs 25:2
 - score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, grace, sin; crossref_top_vote=26; reco=keep
-- keywords: glory, grace, sin
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
-- brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, god, king; crossref_top_vote=33; reco=keep
+- keywords: glory, god, king
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
+- brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ## Ecclesiastes 6:2
 - score: 17

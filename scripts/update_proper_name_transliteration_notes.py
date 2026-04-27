@@ -1077,6 +1077,12 @@ EQUIVALENT_OVERRIDES = {
     "Zorobabel": "Zerubbabel",
 }
 
+LOGOS_ALIAS_EQUIVALENT_OVERRIDES = {
+    # Logos autocomplete can group Kue with Koa, but 1 Kings 10:28 points to
+    # the Cilician region Kue rather than Ezekiel's Koa.
+    "Kue": "Kue",
+}
+
 EQUIVALENT_MEANING_OVERRIDES = {
     "Abel-beth-maachah": "mourning to the house of Maachah",
     "Adah": "an assembly",
@@ -2365,6 +2371,17 @@ def resolve_equivalent(
                 witness="UKJV same-reference witness",
                 confidence=f"{score:.2f}",
             )
+
+    alias_override = LOGOS_ALIAS_EQUIVALENT_OVERRIDES.get(token)
+    if alias_override:
+        return EquivalentInfo(
+            equivalent=alias_override,
+            meaning=best_meaning_for_name(alias_override, source_form, curated_meanings, hitchcock_meanings),
+            greek_form=greek_form,
+            source_form=source_form,
+            witness="Logos Bible Knowledgebase alias",
+            confidence="alias",
+        )
 
     primary_options = alias_primary.get(token, set())
     if primary_options:

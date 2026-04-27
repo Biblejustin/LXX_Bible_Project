@@ -7,10 +7,10 @@ Use MD for reading order.
 
 ## Theme Counts
 - anthropology: 60
-- covenant/law: 79
+- covenant/law: 78
 - death/afterlife: 1
-- kingship: 104
-- ritual: 76
+- kingship: 105
+- ritual: 75
 - textual/lexical: 59
 - theology: 107
 

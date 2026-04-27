@@ -1217,15 +1217,6 @@ Rows: 20939
 - mt: And the king said, Is not the hand of Joab with you in all this? And the woman answered and said, As your soul lives, my lord the king, none can turn to the right hand or to the left from ought that my lord the king has spoken: for your servant Joab, he bade me, and he put all these words in the mouth of yours handmaid:
 - brenton: And the king said, Is not the hand of Joab in all this matter with thee? and the woman said to the king, As thy soul lives, my lord, O king, there is no turning to the right hand or to the left from all that my lord the king has spoken; for thy servant Joab himself charged me, and he put all these words in the mouth of thine handmaid.
 
-## Proverbs 26:11
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.442`
-- fresh_brenton_ratio: `0.554`
-- fresh: As dog when it returns to its own vomit and becomes hateful, so fool, turning in his own evil, returns to his own sin. There is shame bringing sin, and there is shame is glory and grace.
-- mt: As a dog returns to his vomit, so a fool returns to his folly.
-- brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
-
 ## Proverbs 10:3
 - priority: `18`
 - importance: `high`
@@ -1252,6 +1243,15 @@ Rows: 20939
 - fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
 - mt: Have we not all one father? has not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
 - brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
+
+## Proverbs 25:2
+- priority: `18`
+- importance: `high`
+- fresh_mt_ratio: `0.621`
+- fresh_brenton_ratio: `0.772`
+- fresh: The glory of God hides a word, but the glory of the king honors matters.
+- mt: It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.
+- brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ## Joel 2:13
 - priority: `18`
@@ -20477,15 +20477,6 @@ Rows: 20939
 - mt: I said, I will answer also my part, I also will show mine opinion.
 - brenton: And Elius continued, and said, I will again speak,
 
-## Proverbs 25:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.184`
-- fresh_brenton_ratio: `0.400`
-- fresh: As vinegar draws what is unfitting, so suffering falling upon body grieves heart. As moth in garment and worm in wood, so grief of man harms heart.
-- mt: As he that takes away a garment in cold weather, and as vinegar upon alkali, so is he that sings songs to an heavy heart.
-- brenton: As vinegar is bad for a sore, so trouble befalling the body afflicts the heart.
-
 ## Genesis 9:23
 - priority: `0`
 - importance: `none`
@@ -25282,6 +25273,15 @@ Rows: 20939
 - fresh: And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Jerusalem are broken down and its gates have been burned with fire.
 - mt: And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
 - brenton: And they said to me, The remnant, even those that are left of the captivity, are there in the land, in great distress and reproach: and the walls of Jerusalem are thrown down, and its gates are burnt with fire.
+
+## Proverbs 25:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.228`
+- fresh_brenton_ratio: `0.425`
+- fresh: As vinegar draws what is unfitting, so suffering falling upon the body grieves the heart. As a moth in a garment and a worm in wood, so grief of a man harms the heart.
+- mt: As he that takes away a garment in cold weather, and as vinegar upon alkali, so is he that sings songs to an heavy heart.
+- brenton: As vinegar is bad for a sore, so trouble befalling the body afflicts the heart.
 
 ## Joshua 5:5
 - priority: `0`
@@ -32555,15 +32555,6 @@ Rows: 20939
 - mt: And they gathered them together upon heaps: and the land stank.
 - brenton: And the charmers also did so with their sorceries, to bring forth the louse, and they could not. And the lice were both on the men and on the quadrupeds.
 
-## Proverbs 25:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.272`
-- fresh_brenton_ratio: `0.728`
-- fresh: As if someone should stop up spring and spoil water outlet, so it is indecent for righteous to fall before ungodly.
-- mt: A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
-- brenton: As if one should stop a well, and corrupt a spring of water, so is it unseemly for a righteous man to fall before an ungodly man.
-
 ## Psalms 91:3
 - priority: `0`
 - importance: `none`
@@ -38783,6 +38774,15 @@ Rows: 20939
 - mt: Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spoke to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel.
 - brenton: And the rest of the acts of Manasses, and his prayer to God, and the words of the seers that spoke to him in the name of the God of Israel,
 
+## Proverbs 25:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.305`
+- fresh_brenton_ratio: `0.797`
+- fresh: As if someone should stop up a spring and spoil a water outlet, so it is indecent for a righteous man to fall before an ungodly man.
+- mt: A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
+- brenton: As if one should stop a well, and corrupt a spring of water, so is it unseemly for a righteous man to fall before an ungodly man.
+
 ## 1 Kings 5:3
 - priority: `0`
 - importance: `none`
@@ -40898,6 +40898,15 @@ Rows: 20939
 - mt: And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.
 - brenton: Every male of the priests shall eat it: it is a perpetual ordinance throughout your generations of the burnt-offerings of the Lord; whosoever shall touch them shall be hallowed.
 
+## Proverbs 25:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.317`
+- fresh_brenton_ratio: `0.779`
+- fresh: The way of evil and the foot of a lawless man perish in an evil day.
+- mt: Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.
+- brenton: The way of the wicked and the foot of the transgressor shall perish in an evil day.
+
 ## Psalms 105:9
 - priority: `0`
 - importance: `none`
@@ -42031,15 +42040,6 @@ Rows: 20939
 - fresh: Behold, I bring up healing and remedy to her and reveal to them hearing, and I will heal her and make for them peace and faithfulness.
 - mt: Then went Jeremiah unto Gedaliah the son of Ahikam to Mizpah; and dwelt with him among the people that were left in the land.
 - brenton: Behold, I bring upon her healing and cure, and I will show myself to them, and will heal her, and make both peace and security.
-
-## Proverbs 25:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.323`
-- fresh_brenton_ratio: `0.753`
-- fresh: The way of evil and the foot of a lawless man perish in evil day.
-- mt: Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.
-- brenton: The way of the wicked and the foot of the transgressor shall perish in an evil day.
 
 ## Jeremiah 49:5
 - priority: `0`
@@ -48080,15 +48080,6 @@ Rows: 20939
 - mt: And he made the candlestick of pure gold: of beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:
 - brenton: and their pillars four, and their sockets four of brass, and their hooks of silver, and their chapiters overlaid with silver.
 
-## Proverbs 25:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.356`
-- fresh_brenton_ratio: `0.857`
-- fresh: Golden apple in necklace of sardius, so to speak a word.
-- mt: A word fitly spoken is like apples of gold in pictures of silver.
-- brenton: As a golden apple in a necklace of sardius, so is it to speak a wise word.
-
 ## 2 Samuel 19:40
 - priority: `0`
 - importance: `none`
@@ -51770,6 +51761,15 @@ Rows: 20939
 - mt: The LORD is great in Zion; and he is high above all the people.
 - brenton: Serve the Lord with gladness; come before his presence with exultation.
 
+## Proverbs 25:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.377`
+- fresh_brenton_ratio: `0.892`
+- fresh: A golden apple in a necklace of sardius, so to speak a word.
+- mt: A word fitly spoken is like apples of gold in pictures of silver.
+- brenton: As a golden apple in a necklace of sardius, so is it to speak a wise word.
+
 ## Psalms 23:3
 - priority: `0`
 - importance: `none`
@@ -55235,15 +55235,6 @@ Rows: 20939
 - mt: Burning lips and a wicked heart are like a potsherd covered with silver dross.
 - brenton: Silver dishonestly given is to be considered as a potsherd: smooth lips cover a grievous heart.
 
-## Proverbs 25:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.402`
-- fresh_brenton_ratio: `0.779`
-- fresh: Like city whose walls thrown down and unwalled, so man who does anything without counsel.
-- mt: He that has no rule over his own spirit is like a city that is broken down, and without walls.
-- brenton: As a city whose walls are broken down, and which is unfortified, so is a man who does anything without counsel.
-
 ## Psalms 65:4
 - priority: `0`
 - importance: `none`
@@ -55819,6 +55810,15 @@ Rows: 20939
 - fresh: And they made two gold settings and two gold rings and placed the two gold rings on both ends of the breastpiece.
 - mt: And he made boards for the tabernacle; twenty boards for the south side southward:
 - brenton: and they made two golden circlets and two golden rings. And they put the two golden rings on both the upper corners of the oracle;
+
+## Proverbs 25:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.406`
+- fresh_brenton_ratio: `0.828`
+- fresh: Like a city whose walls are thrown down and unwalled, so a man who does anything without counsel.
+- mt: He that has no rule over his own spirit is like a city that is broken down, and without walls.
+- brenton: As a city whose walls are broken down, and which is unfortified, so is a man who does anything without counsel.
 
 ## 2 Samuel 19:34
 - priority: `0`
@@ -57539,6 +57539,15 @@ Rows: 20939
 - mt: The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
 - brenton: the earth shall be utterly confounded, and the earth shall be completely perplexed.
 
+## Proverbs 25:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.421`
+- fresh_brenton_ratio: `0.750`
+- fresh: Club and sword and sharp-pointed missile, so also a man testifying false witness against his friend.
+- mt: A man that bears false witness against his neighbour is a maul, and a sword, and a sharp arrow.
+- brenton: As a club, and a dagger, and a pointed arrow, so also is a man who bears false witness against his friend.
+
 ## Psalms 7:17
 - priority: `0`
 - importance: `none`
@@ -58213,15 +58222,6 @@ Rows: 20939
 - fresh: For they will be as terebinth that has cast off leaves, and as orchard having no water.
 - mt: For all of you shall be as an oak whose leaf fades, and as a garden that has no water.
 - brenton: For they shall be as a turpentine tree that has cast its leaves, and as a garden that has no water.
-
-## Proverbs 25:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.426`
-- fresh_brenton_ratio: `0.737`
-- fresh: Club and sword and sharp-pointed missile, so also man testifying false witness against his friend.
-- mt: A man that bears false witness against his neighbour is a maul, and a sword, and a sharp arrow.
-- brenton: As a club, and a dagger, and a pointed arrow, so also is a man who bears false witness against his friend.
 
 ## Jeremiah 17:12
 - priority: `0`
@@ -61526,6 +61526,15 @@ Rows: 20939
 - mt: Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, which belonged to Judah, for Israel, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: And the rest of the acts of Jeroboam, and all that he did, and his mighty deeds, which he achieved in war, and how he recovered Damascus and Æmath to Juda in Israel, are not these things written in the book of the chronicles of the kings of Israel?
 
+## Proverbs 26:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.452`
+- fresh_brenton_ratio: `0.545`
+- fresh: As a dog when it returns to its own vomit and becomes hateful, so a fool, turning in his own evil, returns to his own sin. There is shame that brings sin, and there is shame that is glory and grace.
+- mt: As a dog returns to his vomit, so a fool returns to his folly.
+- brenton: As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
+
 ## Job 30:3
 - priority: `0`
 - importance: `none`
@@ -62866,15 +62875,6 @@ Rows: 20939
 - fresh: For he will no longer appoint anything over man, for the Lord watches all.
 - mt: For he will not lay upon man more than right; that he should enter into judgment with God.
 - brenton: For he will not lay upon a man more than right.
-
-## Proverbs 25:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.463`
-- fresh_brenton_ratio: `0.584`
-- fresh: Bound in golden earring and precious sardius, wise word to listening ear.
-- mt: As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
-- brenton: In an ear-ring of gold a precious sardius is also set; so is a wise word to an obedient ear.
 
 ## Isaiah 15:8
 - priority: `0`
@@ -68456,15 +68456,6 @@ Rows: 20939
 - mt: The steps of his strength shall be straitened, and his own counsel shall cast him down.
 - brenton: Let the meanest of men spoil his goods, and let his counsel deceive him.
 
-## Proverbs 26:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.503`
-- fresh_brenton_ratio: `0.561`
-- fresh: The words of whisperers soft, yet these strike into the storerooms of inward parts.
-- mt: The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
-- brenton: The words of cunning knaves are soft; but they smite even to the inmost parts of the bowels.
-
 ## Job 18:15
 - priority: `0`
 - importance: `none`
@@ -71543,15 +71534,6 @@ Rows: 20939
 - mt: And take you unto you of all food that is eaten, and you shall gather it to you; and it shall be for food for you, and for them.
 - brenton: And thou shalt take to thyself of all kinds of food which ye eat, and thou shalt gather them to thyself, and it shall be for thee and them to eat.
 
-## Proverbs 26:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.521`
-- fresh_brenton_ratio: `0.748`
-- fresh: I saw man seeming wise to himself; yet fool had more hope than he.
-- mt: See you a man wise in his own conceit? there is more hope of a fool than of him.
-- brenton: I have seen a man who seemed to himself to be wise; but a fool had more hope than he.
-
 ## Proverbs 3:29
 - priority: `0`
 - importance: `none`
@@ -71560,6 +71542,15 @@ Rows: 20939
 - fresh: Do not contrive evils against your friend living nearby and trusting in you.
 - mt: Devise not evil against your neighbour, seeing he dwells securely by you.
 - brenton: Devise not evil against thy friend, living near thee and trusting in thee.
+
+## Proverbs 26:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.521`
+- fresh_brenton_ratio: `0.768`
+- fresh: I saw a man seeming wise to himself; yet a fool had more hope than he.
+- mt: See you a man wise in his own conceit? there is more hope of a fool than of him.
+- brenton: I have seen a man who seemed to himself to be wise; but a fool had more hope than he.
 
 ## Proverbs 18:6
 - priority: `0`
@@ -74072,6 +74063,15 @@ Rows: 20939
 - mt: Surely oppression makes a wise man mad; and a gift destroys the heart.
 - brenton: For oppression makes a wise man mad, and destroys his noble heart.
 
+## Proverbs 26:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.536`
+- fresh_brenton_ratio: `0.583`
+- fresh: The words of whisperers are soft, yet these strike into the storerooms of inward parts.
+- mt: The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
+- brenton: The words of cunning knaves are soft; but they smite even to the inmost parts of the bowels.
+
 ## Proverbs 16:22
 - priority: `0`
 - importance: `none`
@@ -74630,15 +74630,6 @@ Rows: 20939
 - mt: You shall not suppress the ox when he treads out the corn.
 - brenton: Thou shalt not muzzle the ox that treads out the corn.
 
-## Proverbs 26:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.538`
-- fresh_brenton_ratio: `0.703`
-- fresh: Lying tongue hates truth, and unchecked mouth makes disorders.
-- mt: A lying tongue hates those that are afflicted by it; and a flattering mouth works ruin.
-- brenton: A lying tongue hates the truth; and an unguarded mouth causes tumults.
-
 ## Jeremiah 15:18
 - priority: `0`
 - importance: `none`
@@ -75061,6 +75052,15 @@ Rows: 20939
 - fresh: Not seeing your brother's calf or his sheep wandering on the road shall you overlook them. Returning, you shall return them to your brother, and you shall give them back to him.
 - mt: You shall not see your brother's ox or his sheep go astray, and hide yourself from them: you shall in any case bring them again unto your brother.
 - brenton: When thou seest the calf of thy brother or his sheep wandering in the way, thou shalt not overlook them; thou shalt by all means turn them back to thy brother, and thou shalt restore them to him.
+
+## Proverbs 25:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.541`
+- fresh_brenton_ratio: `0.635`
+- fresh: Bound in a golden earring and precious sardius, a wise word to a listening ear.
+- mt: As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
+- brenton: In an ear-ring of gold a precious sardius is also set; so is a wise word to an obedient ear.
 
 ## Isaiah 10:16
 - priority: `0`
@@ -76582,15 +76582,6 @@ Rows: 20939
 - fresh: And Baal-hanan son of Achbor died, and Hadad son of Bedad reigned in his place, and the name of his city was Peor.
 - mt: And when Baalhanan was dead, Hadad reigned in his position: and the name of his city was Pai; and his wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
 - brenton: And Balaennor died, and Adad son of Barad reigned in his stead; and the name of his city was Phogor.
-
-## Proverbs 26:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.548`
-- fresh_brenton_ratio: `0.879`
-- fresh: As dew in harvest and rain in summer, so honor not for fool.
-- mt: As snow in summer, and as rain in harvest, so honour is not suitable for a fool.
-- brenton: As dew in harvest, and as rain in summer, so honour is not seemly for a fool.
 
 ## Deuteronomy 14:16
 - priority: `0`
@@ -79057,6 +79048,15 @@ Rows: 20939
 - fresh: His inward parts are full of fat, and his marrow pours out.
 - mt: His breasts are full of milk, and his bones are moistened with marrow.
 - brenton: and his inwards are full of fat, and his marrow is diffused throughout him.
+
+## Proverbs 26:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.560`
+- fresh_brenton_ratio: `0.752`
+- fresh: A lying tongue hates truth, and an unchecked mouth makes disorders.
+- mt: A lying tongue hates those that are afflicted by it; and a flattering mouth works ruin.
+- brenton: A lying tongue hates the truth; and an unguarded mouth causes tumults.
 
 ## Job 37:2
 - priority: `0`
@@ -84530,15 +84530,6 @@ Rows: 20939
 - mt: Now therefore be all of you not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth.
 - brenton: Therefore do not ye rejoice, neither let your bands be made strong; for I have heard of works finished and cut short by the Lord of hosts, which he will execute upon all the earth.
 
-## Proverbs 25:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.585`
-- fresh_brenton_ratio: `0.662`
-- fresh: As snowfall coming in harvest helps against heat, so faithful messenger benefits those sending him, for he benefits souls of those using him.
-- mt: As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refreshes the soul of his masters.
-- brenton: As a fall of snow in the time of harvest is good against heat, so a faithful messenger refreshes those that send him; for he helps the souls of his employers.
-
 ## 1 Kings 10:19
 - priority: `0`
 - importance: `none`
@@ -84916,15 +84907,6 @@ Rows: 20939
 - fresh: If you are pure and true, he will hear your petition and restore to you dwelling of righteousness.
 - mt: If you were pure and upright; surely now he would awake for you, and make the habitation of your righteousness prosperous.
 - brenton: If thou art pure and true, he will hearken to thy supplication, and will restore to thee the habitation of righteousness.
-
-## Proverbs 25:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.586`
-- fresh_brenton_ratio: `0.738`
-- fresh: The glory of God hides a word, but glory of the king honors matters.
-- mt: It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.
-- brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
 ## Hosea 13:3
 - priority: `0`
@@ -88373,6 +88355,15 @@ Rows: 20939
 - mt: The blessing of the LORD, it makes rich, and he adds no sorrow with it.
 - brenton: The blessing of the Lord is upon the head of the righteous; it enriches him, and grief of heart shall not be added to it.
 
+## Proverbs 26:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.600`
+- fresh_brenton_ratio: `0.920`
+- fresh: As dew in harvest and rain in summer, so honor is not for a fool.
+- mt: As snow in summer, and as rain in harvest, so honour is not suitable for a fool.
+- brenton: As dew in harvest, and as rain in summer, so honour is not seemly for a fool.
+
 ## Joshua 13:8
 - priority: `0`
 - importance: `none`
@@ -90811,6 +90802,15 @@ Rows: 20939
 - fresh: And what will David add still to speak to you? And now you know your servant, my Lord, O Lord.
 - mt: And what can David say more unto you? for you, Lord GOD, know your servant.
 - brenton: And what shall David yet say to thee? and now thou knowest thy servant, O Lord, my Lord.
+
+## Proverbs 25:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.609`
+- fresh_brenton_ratio: `0.689`
+- fresh: As snowfall coming in harvest helps against heat, so a faithful messenger benefits those sending him, for he benefits the souls of those using him.
+- mt: As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refreshes the soul of his masters.
+- brenton: As a fall of snow in the time of harvest is good against heat, so a faithful messenger refreshes those that send him; for he helps the souls of his employers.
 
 ## Exodus 19:13
 - priority: `0`
@@ -113879,15 +113879,6 @@ Rows: 20939
 - mt: Again he said unto her, Stand in the door of the tent, and it shall be, when any man does come and enquire of you, and say, Is there any man here? that you shall say, No.
 - brenton: And Sisara said to her, Stand now by the door of the tent, and it shall come to pass if any man come to thee, and ask of thee, and say, Is there any man here? then thou shalt say, There is not.
 
-## Proverbs 25:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.715`
-- fresh: Heaven high, earth deep, but heart of the king unsearchable.
-- mt: The heaven for height, and the earth for depth, and the heart of kings is unsearchable.
-- brenton: Heaven is high, and earth is deep, and a king's heart is unsearchable.
-
 ## Ecclesiastes 2:4
 - priority: `0`
 - importance: `none`
@@ -128486,15 +128477,6 @@ Rows: 20939
 - mt: Take the sum of the people, from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 - brenton: This is the numbering from twenty years old and upward as the Lord commanded Moses. And the sons of Israel that came out of Egypt are as follows:
 
-## Proverbs 25:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.717`
-- fresh_brenton_ratio: `0.785`
-- fresh: Better dwell on the corner of roof than with scolding woman in common house.
-- mt: It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.
-- brenton: It is better to dwell on a corner of the roof, than with a railing woman in an open house.
-
 ## 2 Samuel 17:10
 - priority: `0`
 - importance: `none`
@@ -141410,6 +141392,15 @@ Rows: 20939
 - mt: All your strong holds shall be like fig trees with the first-fruits figs: if they be shaken, they shall even fall into the mouth of the eater.
 - brenton: All thy strong-holds are as fig-trees having watchers: if they be shaken, they shall fall into the mouth of the eater.
 
+## Proverbs 25:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.749`
+- fresh_brenton_ratio: `0.817`
+- fresh: Better dwell on the corner of a roof than with a scolding woman in a common house.
+- mt: It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.
+- brenton: It is better to dwell on a corner of the roof, than with a railing woman in an open house.
+
 ## Leviticus 13:8
 - priority: `0`
 - importance: `none`
@@ -142958,6 +142949,15 @@ Rows: 20939
 - mt: There shall not any man be able to stand before you all the days of your life: as I was with Moses, so I will be with you: I will not fail you, nor forsake you.
 - brenton: Not a man shall stand against you all the days of thy life; and as I was with Moses, so will I also be with thee, and I will not fail thee, or neglect thee.
 
+## Proverbs 25:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.753`
+- fresh_brenton_ratio: `0.765`
+- fresh: Heaven is high, earth is deep, but the heart of the king is unsearchable.
+- mt: The heaven for height, and the earth for depth, and the heart of kings is unsearchable.
+- brenton: Heaven is high, and earth is deep, and a king's heart is unsearchable.
+
 ## 2 Samuel 16:14
 - priority: `0`
 - importance: `none`
@@ -144253,15 +144253,6 @@ Rows: 20939
 - fresh: And they came and reported to Jehoshaphat, saying, Great multitude has come against you from beyond sea, from Syria, and behold, they are in Asasanthamar, this is Engedi.
 - mt: Then there came some that told Jehoshaphat, saying, There comes a great multitude against you from beyond the sea on this side Syria; and, behold, they be in Hazazontamar, which is Engedi.
 - brenton: And they came and told Josaphat, saying, There is come against thee a great multitude from Syria, from beyond the sea; and, behold, they are in Asasan Thamar, this is Engadi.
-
-## Proverbs 25:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.756`
-- fresh_brenton_ratio: `0.748`
-- fresh: As cool water pleasant to thirsty soul, so good message from far land.
-- mt: As cold waters to a thirsty soul, so is good news from a far country.
-- brenton: As cold water is agreeable to a thirsting soul, so is a good message from a land far off.
 
 ## Deuteronomy 11:7
 - priority: `0`
@@ -152650,6 +152641,15 @@ Rows: 20939
 - fresh: His left under my head, and his right will embrace me.
 - mt: His left hand should be under my head, and his right hand should embrace me.
 - brenton: His left hand should be under my head, and his right hand should embrace me.
+
+## Proverbs 25:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.778`
+- fresh_brenton_ratio: `0.793`
+- fresh: As cool water is pleasant to a thirsty soul, so a good message from a far land.
+- mt: As cold waters to a thirsty soul, so is good news from a far country.
+- brenton: As cold water is agreeable to a thirsting soul, so is a good message from a land far off.
 
 ## 1 Chronicles 1:47
 - priority: `0`
