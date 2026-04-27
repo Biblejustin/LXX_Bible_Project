@@ -4019,7 +4019,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the heavens were made firm" in by_ref["Psalms 32:6"]["draft_translation"]
     assert "kings of the earth" in by_ref["Psalms 75:13"]["draft_translation"]
     assert "foundations of the earth" in by_ref["Isaiah 24:18"]["draft_translation"]
-    assert "upon the host of heaven and upon kings of the earth" in by_ref[
+    assert "upon the host of heaven and upon the kings of the earth" in by_ref[
         "Isaiah 24:21"
     ]["draft_translation"]
     assert "if the foundation of the earth" in by_ref["Jeremiah 38:35"][
@@ -4985,6 +4985,49 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "the glory of David" in by_ref["Isaiah 22:22"]["draft_translation"]
+    assert by_ref["Isaiah 23:1"]["draft_translation"].startswith(
+        "The vision of Tyre"
+    )
+    assert "the dwellers on the island" in by_ref["Isaiah 23:2"][
+        "draft_translation"
+    ]
+    assert "the seed of traders as a harvest" in by_ref["Isaiah 23:3"][
+        "draft_translation"
+    ]
+    assert "the land of the Chaldeans" in by_ref["Isaiah 23:13"][
+        "draft_translation"
+    ]
+    assert "as the song of a prostitute" in by_ref["Isaiah 23:15"][
+        "draft_translation"
+    ]
+    assert "all the kingdoms of the inhabited world" in by_ref["Isaiah 23:17"][
+        "draft_translation"
+    ]
+    assert "destroys the inhabited world" in by_ref["Isaiah 24:1"][
+        "draft_translation"
+    ]
+    assert "the buyer will be as the seller" in by_ref["Isaiah 24:2"][
+        "draft_translation"
+    ]
+    assert "the everlasting covenant" in by_ref["Isaiah 24:5"][
+        "draft_translation"
+    ]
+    assert "a curse will eat the land" in by_ref["Isaiah 24:6"][
+        "draft_translation"
+    ]
+    assert "the glory of the Lord will be in the islands of the sea" in by_ref[
+        "Isaiah 24:15"
+    ]["draft_translation"]
+    assert "O Lord, the God of Israel" in by_ref["Isaiah 24:15"][
+        "draft_translation"
+    ]
+    assert "the one fleeing the fear" in by_ref["Isaiah 24:18"][
+        "draft_translation"
+    ]
+    assert "like a fruit-watch hut" in by_ref["Isaiah 24:20"]["draft_translation"]
+    assert "into a stronghold and into a prison" in by_ref["Isaiah 24:22"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

@@ -73138,27 +73138,27 @@ In that day, thus says the Lord of hosts, the man supported in a trustworthy pla
 
 **Isaiah 23:1**
 
-Vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from the land of Kittim; it was led captive.
+The vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from the land of Kittim; it was led captive.
 
 **Isaiah 23:2**
 
-To what have dwellers on island become like, traders of Phoenicia crossing sea?
+To what have the dwellers on the island become like, traders of Phoenicia crossing the sea?
 
 **Isaiah 23:3**
 
-In much water, seed of traders as harvest brought in, traders of nations.
+In much water, the seed of traders as a harvest brought in, the traders of nations.
 
 **Isaiah 23:4**
 
-Be ashamed, Sidon, said sea. And strength of sea said, I did not travail nor bear, nor nourish young men, nor raise virgins.
+Be ashamed, Sidon, said the sea. And the strength of the sea said, I did not travail nor bear, nor nourish young men, nor raise virgins.
 
 **Isaiah 23:5**
 
-And whenever it becomes heard in Egypt, pain will seize them concerning Tyre.
+And whenever it becomes heard in Egypt, a pain will seize them concerning Tyre.
 
 **Isaiah 23:6**
 
-Go away to Carthage; howl, dwellers on this island.
+Go away to Carthage; howl, you dwellers on this island.
 
 **Isaiah 23:7**
 
@@ -73170,11 +73170,11 @@ Who planned these things against Tyre? Is she not lesser, or does she not prevai
 
 **Isaiah 23:9**
 
-The Lord of hosts counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
+The Lord of hosts counseled to paralyze all the insolence of glorious ones and dishonor every glorious thing on the earth.
 
 **Isaiah 23:10**
 
-Work your land, for ship no longer comes from Carthage.
+Work your land, for a ship no longer comes from Carthage.
 
 **Isaiah 23:11**
 
@@ -73182,11 +73182,11 @@ And your hand, the one provoking kings, no longer has strength over the sea. The
 
 **Isaiah 23:12**
 
-And they will say, You will no longer continue to act insolently and do wrong, daughter of Sidon; and if you go to Kittim, even there rest will not be to you.
+And they will say, You will no longer continue to act insolently and do wrong, daughter of Sidon; and if you go to Kittim, even there a rest will not be to you.
 
 **Isaiah 23:13**
 
-And into the land of Chaldeans, and this has been desolated by Assyrians; even there rest will not be to you, because its wall has fallen.
+And into the land of the Chaldeans, and this has been desolated by the Assyrians; even there a rest will not be to you, because its wall has fallen.
 
 **Isaiah 23:14**
 
@@ -73194,29 +73194,29 @@ Howl, ships of Carthage, because your stronghold was destroyed.
 
 **Isaiah 23:15**
 
-And it will be in that day, Tyre will be left seventy years, as time of the king, as time of man. And after seventy years Tyre will be as song of prostitute.
+And it will be in that day, Tyre will be left seventy years, as the time of the king, as the time of a man. And after seventy years Tyre will be as the song of a prostitute.
 
 **Isaiah 23:16**
 
-Take lyre, wander cities, forgotten prostitute; play lyre well, sing much, so that memory of you may happen.
+Take a lyre, wander the cities, forgotten prostitute; play the lyre well, sing much, so that the memory of you may happen.
 
 **Isaiah 23:17**
 
-And it will be after seventy years, God will make visitation on Tyre, and again she will be restored to the ancient state and will be marketplace for all kingdoms of inhabited world.
+And it will be after seventy years, God will make a visitation on Tyre, and again she will be restored to the ancient state and will be a marketplace for all the kingdoms of the inhabited world.
 
 **Isaiah 23:18**
 
-And her trade and wage will be holy to the Lord; it will not be gathered for them, but all her trade for those dwelling before the Lord, to eat and drink and be filled, into token, memorial before the Lord.
+And her trade and wage will be holy to the Lord; it will not be gathered for them, but all her trade for those dwelling before the Lord, to eat and drink and be filled, into a token, a memorial before the Lord.
 
 ### Chapter 24
 
 **Isaiah 24:1**
 
-Behold, the Lord destroys inhabited world and will make it desolate and uncover its face and scatter those dwelling in it.
+Behold, the Lord destroys the inhabited world and will make it desolate and uncover its face and scatter those dwelling in it.
 
 **Isaiah 24:2**
 
-And the people will be as priest, and servant as master, and maid as mistress; buyer will be as seller, lender as borrower, and debtor as one to whom debt is owed.
+And the people will be as the priest, and the servant as the master, and the maid as the mistress; the buyer will be as the seller, the lender as the borrower, and the debtor as the one to whom debt is owed.
 
 **Isaiah 24:3**
 
@@ -73224,19 +73224,19 @@ The land will be ruined with ruin and plundered with plunder, for the mouth of t
 
 **Isaiah 24:4**
 
-The land mourned and inhabited world was destroyed; high ones of earth mourned.
+The land mourned and the inhabited world was destroyed; the high ones of the earth mourned.
 
 **Isaiah 24:5**
 
-And the land acted lawlessly because of those dwelling in it, because they transgressed law and changed ordinances, everlasting covenant.
+And the land acted lawlessly because of those dwelling in it, because they transgressed the law and changed the ordinances, the everlasting covenant.
 
 **Isaiah 24:6**
 
-Because of this curse will eat the land, because those dwelling in it sinned; because of this dwellers in the land will be poor and few men will be left.
+Because of this a curse will eat the land, because those dwelling in it sinned; because of this the dwellers in the land will be poor and a few men will be left.
 
 **Isaiah 24:7**
 
-Wine will mourn, vine will mourn, all rejoicing in soul will groan.
+The wine will mourn, the vine will mourn, all rejoicing in soul will groan.
 
 **Isaiah 24:8**
 
@@ -73244,7 +73244,7 @@ The gladness of drums ceased, insolence and the wealth of the ungodly ceased, th
 
 **Isaiah 24:9**
 
-They were put to shame; they did not drink wine; strong drink became bitter to drinkers.
+They were put to shame; they did not drink wine; strong drink became bitter to the drinkers.
 
 **Isaiah 24:10**
 
@@ -73252,7 +73252,7 @@ Every city was made desolate; they will shut a house so as not to enter.
 
 **Isaiah 24:11**
 
-Howl concerning wine everywhere; all gladness of land ceased.
+Howl concerning the wine everywhere; all gladness of the land ceased.
 
 **Isaiah 24:12**
 
@@ -73260,19 +73260,19 @@ And cities will be left desolate, and abandoned houses will perish.
 
 **Isaiah 24:13**
 
-All these will be in the land in the midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
+All these will be in the land in the midst of the nations, as whenever one gleans an olive tree, thus they will glean them, and when the vintage ceases.
 
 **Isaiah 24:14**
 
-These will cry out with voice, and those left on the land will rejoice together in the glory of the Lord; the water of the sea will be troubled.
+These will cry out with a voice, and those left on the land will rejoice together in the glory of the Lord; the water of the sea will be troubled.
 
 **Isaiah 24:15**
 
-Because of this glory of the Lord will be in islands of sea; The name of the Lord will be glorious, the Lord God of Israel.
+Because of this the glory of the Lord will be in the islands of the sea; the name of the Lord will be glorious, O Lord, the God of Israel.
 
 **Isaiah 24:16**
 
-From wings of earth we heard wonders, hope to godly one. And they will say, Woe to those rejecting, those rejecting law.
+From the wings of the earth we heard wonders, hope to the godly one. And they will say, Woe to those rejecting, those rejecting the law.
 
 **Isaiah 24:17**
 
@@ -73280,27 +73280,27 @@ Fear and pit and snare are upon you, dwellers on the earth.
 
 **Isaiah 24:18**
 
-And it will be, one fleeing fear will fall into pit, and one coming up from pit will be caught by snare, because windows from heaven were opened and foundations of the earth will be shaken.
+And it will be, the one fleeing the fear will fall into the pit, and the one coming up from the pit will be caught by the snare, because windows from heaven were opened and the foundations of the earth will be shaken.
 
 **Isaiah 24:19**
 
-With turmoil earth will be troubled and with perplexity earth will be perplexed.
+With turmoil the earth will be troubled and with perplexity the earth will be perplexed.
 
 **Isaiah 24:20**
 
-Earth bent and will be shaken like fruit-watch hut, as drunken and hungover man, and it will fall and certainly not be able to rise, for lawlessness prevailed upon it.
+The earth bent and will be shaken like a fruit-watch hut, like a drunken and hungover man, and it will fall and certainly not be able to rise, for lawlessness prevailed upon it.
 
 **Isaiah 24:21**
 
-And God will bring his hand upon the host of heaven and upon kings of the earth.
+And God will bring his hand upon the host of heaven and upon the kings of the earth.
 
 **Isaiah 24:22**
 
-And they will gather and shut them into stronghold and prison, and after many generations there will be visitation on them.
+And they will gather and shut them into a stronghold and into a prison, and after many generations there will be a visitation on them.
 
 **Isaiah 24:23**
 
-And brick will melt and wall will fall, because the Lord will reign in Zion and in Jerusalem and before elders be glorified.
+And the brick will melt and the wall will fall, because the Lord will reign in Zion and in Jerusalem and before the elders be glorified.
 
 ### Chapter 25
 

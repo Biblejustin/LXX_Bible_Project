@@ -161358,55 +161358,55 @@ Note:
 ### Isaiah 23:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from the land of Kittim; it was led captive.
+- fresh: The vision of Tyre: Howl, ships of Carthage, because it was destroyed and they no longer come from the land of Kittim; it was led captive.
 - brenton: The Word concerning Tyre.
 
 ### Isaiah 23:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To what have dwellers on island become like, traders of Phoenicia crossing sea?
+- fresh: To what have the dwellers on the island become like, traders of Phoenicia crossing the sea?
 - brenton: To whom are the dwellers in the island become like, the merchants of Phœnice, passing over the sea
 
 ### Isaiah 23:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In much water, seed of traders as harvest brought in, traders of nations.
+- fresh: In much water, the seed of traders as a harvest brought in, the traders of nations.
 - brenton: in great waters, a generation of merchants? as when the harvest is gathered in, so are these traders with the nations.
 
 ### Isaiah 23:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be ashamed, Sidon, said sea. And strength of sea said, I did not travail nor bear, nor nourish young men, nor raise virgins.
+- fresh: Be ashamed, Sidon, said the sea. And the strength of the sea said, I did not travail nor bear, nor nourish young men, nor raise virgins.
 - brenton: Be ashamed, O Sidon: the sea has said, yea, the strength of the sea has said, I have not travailed, nor brought forth, nor have I brought up young men, nor reared virgins.
 
 ### Isaiah 23:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whenever it becomes heard in Egypt, pain will seize them concerning Tyre.
+- fresh: And whenever it becomes heard in Egypt, a pain will seize them concerning Tyre.
 - brenton: Moreover when it shall be heard in Egypt, sorrow shall seize them for Tyre.
 
 ### Isaiah 23:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go away to Carthage; howl, dwellers on this island.
+- fresh: Go away to Carthage; howl, you dwellers on this island.
 - brenton: Depart ye to Carthage; howl, ye that dwell in this island.
 
 ### Isaiah 23:7
@@ -161430,19 +161430,19 @@ Note:
 ### Isaiah 23:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord of hosts counseled to paralyze all insolence of glorious ones and dishonor every glorious thing on earth.
+- fresh: The Lord of hosts counseled to paralyze all the insolence of glorious ones and dishonor every glorious thing on the earth.
 - brenton: The Lord of hosts has purposed to bring down all the pride of the glorious ones, and to disgrace every glorious thing on the earth.
 
 ### Isaiah 23:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Work your land, for ship no longer comes from Carthage.
+- fresh: Work your land, for a ship no longer comes from Carthage.
 - brenton: Till thy land; for ships no more come out of Carthage.
 
 ### Isaiah 23:11
@@ -161457,19 +161457,19 @@ Note:
 ### Isaiah 23:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will say, You will no longer continue to act insolently and do wrong, daughter of Sidon; and if you go to Kittim, even there rest will not be to you.
+- fresh: And they will say, You will no longer continue to act insolently and do wrong, daughter of Sidon; and if you go to Kittim, even there a rest will not be to you.
 - brenton: And men shall say, Ye shall no longer at all continue to insult and injure the daughter of Sidon: and if thou depart to the Citians, neither there shalt thou have rest.
 
 ### Isaiah 23:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And into the land of Chaldeans, and this has been desolated by Assyrians; even there rest will not be to you, because its wall has fallen.
+- fresh: And into the land of the Chaldeans, and this has been desolated by the Assyrians; even there a rest will not be to you, because its wall has fallen.
 - brenton: And if thou depart to the land of the Chaldeans, this also is laid waste by the Assyrians, for her wall is fallen.
 
 ### Isaiah 23:14
@@ -161484,55 +161484,55 @@ Note:
 ### Isaiah 23:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, Tyre will be left seventy years, as time of the king, as time of man. And after seventy years Tyre will be as song of prostitute.
+- fresh: And it will be in that day, Tyre will be left seventy years, as the time of the king, as the time of a man. And after seventy years Tyre will be as the song of a prostitute.
 - brenton: And it shall come to pass in that day, that Tyre shall be left seventy years, as the time of a king, as the time of a man: and it shall come to pass after seventy years, that Tyre shall be as the song of a harlot.
 
 ### Isaiah 23:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Take lyre, wander cities, forgotten prostitute; play lyre well, sing much, so that memory of you may happen.
+- fresh: Take a lyre, wander the cities, forgotten prostitute; play the lyre well, sing much, so that the memory of you may happen.
 - brenton: Take a harp, go about, O city, thou harlot that hast been forgotten; play well on the harp, sing many songs, that thou mayest be remembered.
 
 ### Isaiah 23:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be after seventy years, God will make visitation on Tyre, and again she will be restored to the ancient state and will be marketplace for all kingdoms of inhabited world.
+- fresh: And it will be after seventy years, God will make a visitation on Tyre, and again she will be restored to the ancient state and will be a marketplace for all the kingdoms of the inhabited world.
 - brenton: And it shall come to pass after the seventy years, that God will visit Tyre, and she shall be again restored to her primitive state, and she shall be a mart for all the kingdoms of the world on the face of the earth.
 
 ### Isaiah 23:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her trade and wage will be holy to the Lord; it will not be gathered for them, but all her trade for those dwelling before the Lord, to eat and drink and be filled, into token, memorial before the Lord.
+- fresh: And her trade and wage will be holy to the Lord; it will not be gathered for them, but all her trade for those dwelling before the Lord, to eat and drink and be filled, into a token, a memorial before the Lord.
 - brenton: And her trade and her gain shall be holiness to the Lord: it shall not be gathered for them, but for those that dwell before the Lord, even all her trade, to eat and drink and be filled, and for a covenant and a memorial before the Lord.
 
 ### Isaiah 24:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, the Lord destroys inhabited world and will make it desolate and uncover its face and scatter those dwelling in it.
+- fresh: Behold, the Lord destroys the inhabited world and will make it desolate and uncover its face and scatter those dwelling in it.
 - brenton: Behold, the Lord is about to lay waste the world, and will make it desolate, and will lay bare the surface of it, and scatter them that dwell therein.
 
 ### Isaiah 24:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people will be as priest, and servant as master, and maid as mistress; buyer will be as seller, lender as borrower, and debtor as one to whom debt is owed.
+- fresh: And the people will be as the priest, and the servant as the master, and the maid as the mistress; the buyer will be as the seller, the lender as the borrower, and the debtor as the one to whom debt is owed.
 - brenton: And the people shall be as the priest, and the servant as the lord, and the maid as the mistress; the buyer shall be as the seller, the lender as the borrower, and the debtor as his creditor.
 
 ### Isaiah 24:3
@@ -161547,37 +161547,37 @@ Note:
 ### Isaiah 24:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The land mourned and inhabited world was destroyed; high ones of earth mourned.
+- fresh: The land mourned and the inhabited world was destroyed; the high ones of the earth mourned.
 - brenton: The earth mourns, and the world is ruined, the lofty ones of the earth are mourning.
 
 ### Isaiah 24:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the land acted lawlessly because of those dwelling in it, because they transgressed law and changed ordinances, everlasting covenant.
+- fresh: And the land acted lawlessly because of those dwelling in it, because they transgressed the law and changed the ordinances, the everlasting covenant.
 - brenton: And she has sinned by reason of her inhabitants; because they have transgressed the law, and changed the ordinances, even the everlasting covenant.
 
 ### Isaiah 24:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this curse will eat the land, because those dwelling in it sinned; because of this dwellers in the land will be poor and few men will be left.
+- fresh: Because of this a curse will eat the land, because those dwelling in it sinned; because of this the dwellers in the land will be poor and a few men will be left.
 - brenton: Therefore a curse shall consume the earth, because the inhabitants thereof have sinned: therefore the dwellers in the earth shall be poor, and few men shall be left.
 
 ### Isaiah 24:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Wine will mourn, vine will mourn, all rejoicing in soul will groan.
+- fresh: The wine will mourn, the vine will mourn, all rejoicing in soul will groan.
 - brenton: The wine shall mourn, the vine shall mourn, all the merry-hearted shall sigh.
 
 ### Isaiah 24:8
@@ -161592,10 +161592,10 @@ Note:
 ### Isaiah 24:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They were put to shame; they did not drink wine; strong drink became bitter to drinkers.
+- fresh: They were put to shame; they did not drink wine; strong drink became bitter to the drinkers.
 - brenton: They are ashamed, they have not drunk wine; strong drink has become bitter to them that drink it.
 
 ### Isaiah 24:10
@@ -161610,10 +161610,10 @@ Note:
 ### Isaiah 24:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Howl concerning wine everywhere; all gladness of land ceased.
+- fresh: Howl concerning the wine everywhere; all gladness of the land ceased.
 - brenton: There is a howling for the wine everywhere; all the mirth of the land has ceased, all the mirth of the land has departed.
 
 ### Isaiah 24:12
@@ -161628,37 +161628,37 @@ Note:
 ### Isaiah 24:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All these will be in the land in the midst of nations, as whenever one gleans olive tree, thus they will glean them, and when vintage ceases.
+- fresh: All these will be in the land in the midst of the nations, as whenever one gleans an olive tree, thus they will glean them, and when the vintage ceases.
 - brenton: All this shall be in the land in the midst of the nations, as if one should strip an olive tree, so shall they strip them; but when the vintage is done,
 
 ### Isaiah 24:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These will cry out with voice, and those left on the land will rejoice together in the glory of the Lord; the water of the sea will be troubled.
+- fresh: These will cry out with a voice, and those left on the land will rejoice together in the glory of the Lord; the water of the sea will be troubled.
 - brenton: these shall cry aloud; and they that are left on the land shall rejoice together in the glory of the Lord: the water of the sea shall be troubled.
 
 ### Isaiah 24:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this glory of the Lord will be in islands of sea; The name of the Lord will be glorious, the Lord God of Israel.
+- fresh: Because of this the glory of the Lord will be in the islands of the sea; the name of the Lord will be glorious, O Lord, the God of Israel.
 - brenton: Therefore shall the glory of the Lord be in the isles of the sea; the name of the Lord shall be glorious.
 
 ### Isaiah 24:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From wings of earth we heard wonders, hope to godly one. And they will say, Woe to those rejecting, those rejecting law.
+- fresh: From the wings of the earth we heard wonders, hope to the godly one. And they will say, Woe to those rejecting, those rejecting the law.
 - brenton: O Lord God of Israel, from the ends of the earth we have heard wonderful things, and there is hope to the godly: but they shall say, Woe to the despisers, that despise the law.
 
 ### Isaiah 24:17
@@ -161673,55 +161673,55 @@ Note:
 ### Isaiah 24:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, one fleeing fear will fall into pit, and one coming up from pit will be caught by snare, because windows from heaven were opened and foundations of the earth will be shaken.
+- fresh: And it will be, the one fleeing the fear will fall into the pit, and the one coming up from the pit will be caught by the snare, because windows from heaven were opened and the foundations of the earth will be shaken.
 - brenton: And it shall come to pass, that he that flees from the fear shall fall into the pit; and he that comes up out of the pit shall be caught by the snare: for windows have been opened in heaven, and the foundations of the earth shall be shaken,
 
 ### Isaiah 24:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With turmoil earth will be troubled and with perplexity earth will be perplexed.
+- fresh: With turmoil the earth will be troubled and with perplexity the earth will be perplexed.
 - brenton: the earth shall be utterly confounded, and the earth shall be completely perplexed.
 
 ### Isaiah 24:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Earth bent and will be shaken like fruit-watch hut, as drunken and hungover man, and it will fall and certainly not be able to rise, for lawlessness prevailed upon it.
+- fresh: The earth bent and will be shaken like a fruit-watch hut, like a drunken and hungover man, and it will fall and certainly not be able to rise, for lawlessness prevailed upon it.
 - brenton: It reels as a drunkard and one oppressed with wine, and the earth shall be shaken as a storehouse of fruits; for iniquity has prevailed upon it, and it shall fall, and shall not be able to rise.
 
 ### Isaiah 24:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God will bring his hand upon the host of heaven and upon kings of the earth.
+- fresh: And God will bring his hand upon the host of heaven and upon the kings of the earth.
 - brenton: And God shall bring his hand upon the host of heaven, and upon the kings of the earth.
 
 ### Isaiah 24:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will gather and shut them into stronghold and prison, and after many generations there will be visitation on them.
+- fresh: And they will gather and shut them into a stronghold and into a prison, and after many generations there will be a visitation on them.
 - brenton: And they shall gather the multitude thereof into prisons, and they shall shut them into a strong hold: after many generations they shall be visited.
 
 ### Isaiah 24:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And brick will melt and wall will fall, because the Lord will reign in Zion and in Jerusalem and before elders be glorified.
+- fresh: And the brick will melt and the wall will fall, because the Lord will reign in Zion and in Jerusalem and before the elders be glorified.
 - brenton: And the brick shall decay, and the wall shall fall; for the Lord shall reign from out of Sion, and out of Jerusalem, and shall be glorified before his elders.
 
 ### Isaiah 25:1
