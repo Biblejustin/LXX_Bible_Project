@@ -156820,37 +156820,37 @@ Note:
 ### Song of Solomon 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will rise now and circle in the city, in markets and squares, and seek one my soul loved; I sought him and did not find him.
+- fresh: I will rise now and circle in the city, in the markets and in the squares, and seek the one my soul loved; I sought him and did not find him.
 - brenton: I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.
 
 ### Song of Solomon 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Watchmen found me, those circling in the city: "Did you see one my soul loved?"
+- fresh: Watchmen found me, those circling in the city: "Did you see the one my soul loved?"
 - brenton: The watchmen who go their rounds in the city found me. I said, Have ye seen him whom my soul loves?
 
 ### Song of Solomon 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of one who conceived me.
+- fresh: Scarcely when I passed from them, until I found the one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of the one who conceived me.
 - brenton: It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.
 
 ### Song of Solomon 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
 - brenton: I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.
 
 ### Song of Solomon 3:6
@@ -156865,28 +156865,28 @@ Note:
 ### Song of Solomon 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, Solomon's couch: sixty mighty men around it, from mighty men of Israel.
+- fresh: Look, Solomon's couch: sixty mighty men around it, from the mighty men of Israel.
 - brenton: Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.
 
 ### Song of Solomon 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All holding sword, trained in war, each man his sword on his thigh from terrors in nights.
+- fresh: All holding a sword, trained in war, each man with his sword on his thigh because of terrors in the nights.
 - brenton: They all hold a sword, being expert in war: every man has his sword upon his thigh because of fear by night.
 
 ### Song of Solomon 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: King Solomon made for himself litter from woods of Lebanon.
+- fresh: The king, Solomon, made for himself a litter from woods of Lebanon.
 - brenton: King Solomon made himself a litter of woods of Lebanon.
 
 ### Song of Solomon 3:10
@@ -156901,10 +156901,10 @@ Note:
 ### Song of Solomon 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come out and see in King Solomon, with crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
+- fresh: Come out and see King Solomon, with the crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
 - brenton: Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.
 
 ### Song of Solomon 4:1

@@ -4308,6 +4308,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "among the lilies" in by_ref["Song of Solomon 2:16"][
         "draft_translation"
     ]
+    assert "in the markets and in the squares" in by_ref["Song of Solomon 3:2"][
+        "draft_translation"
+    ]
+    assert "Did you see the one my soul loved" in by_ref["Song of Solomon 3:3"][
+        "draft_translation"
+    ]
+    assert "by the powers and by the strengths of the field" in by_ref[
+        "Song of Solomon 3:5"
+    ]["draft_translation"]
+    assert "All holding a sword" in by_ref["Song of Solomon 3:8"][
+        "draft_translation"
+    ]
+    assert "made for himself a litter" in by_ref["Song of Solomon 3:9"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

@@ -11470,6 +11470,15 @@ Method:
 - mt: Your riches, and your fairs, your merchandise, your seamen, and your pilots, your repairer of breaches, and the occupiers of your merchandise, and all your men of war, that are in you, and in all your company which is in the midst of you, shall fall into the midst of the seas in the day of your ruin.
 - brenton: Thy forces, and thy gain, and that of thy traders, and thy rowers, and thy pilots, and thy counsellors, and they that traffic with thee, and all thy warriors that are in thee: and all thy company in the midst of thee shall perish in the heart of the sea, in the day of thy fall.
 
+### Song of Solomon 3:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.029`
+- fresh_brenton_ratio: `0.029`
+- fresh: Scarcely when I passed from them, until I found the one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of the one who conceived me.
+- mt: It was but a little that I passed from them, but I found him whom my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
+- brenton: It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.
+
 ### Leviticus 11:42
 - priority: `0`
 - importance: `none`
@@ -11640,15 +11649,6 @@ Method:
 - fresh: And he came to the sheepfolds by the road, and there was a cave there, and Saul entered to prepare himself, and David and his men were sitting in the innermost part of the cave.
 - mt: And the men of David said unto him, Behold the day of which the LORD said unto you, Behold, I will deliver yours enemy into yours hand, that you may do to him as it shall seem good unto you. Then David arose, and cut off the skirt of Saul's robe privately.
 - brenton: And he came to the flocks of sheep that were by the way, and there was a cave there; and Saul went in to make preparation, and David and his men were sitting in the inner part of the cave.
-
-### Song of Solomon 3:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.030`
-- fresh_brenton_ratio: `0.030`
-- fresh: Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of one who conceived me.
-- mt: It was but a little that I passed from them, but I found him whom my soul loves: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.
-- brenton: It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.
 
 ### Nehemiah 10:31
 - priority: `0`
@@ -78286,15 +78286,6 @@ Method:
 - mt: He that loves pleasure shall be a poor man: he that loves wine and oil shall not be rich.
 - brenton: A poor man loves mirth, loving wine and oil in abundance;
 
-### Song of Solomon 3:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.521`
-- fresh_brenton_ratio: `0.654`
-- fresh: Look, Solomon's couch: sixty mighty men around it, from mighty men of Israel.
-- mt: Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
-- brenton: Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.
-
 ### Isaiah 29:3
 - priority: `0`
 - importance: `none`
@@ -81058,6 +81049,15 @@ Method:
 - mt: The fear of the LORD is the instruction of wisdom; and before honour is humility.
 - brenton: The fear of the Lord is instruction and wisdom; and the highest honour will correspond therewith.
 
+### Song of Solomon 3:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.537`
+- fresh_brenton_ratio: `0.609`
+- fresh: Watchmen found me, those circling in the city: "Did you see the one my soul loved?"
+- mt: The watchmen that go about the city found me: to whom I said, Saw all of you him whom my soul loves?
+- brenton: The watchmen who go their rounds in the city found me. I said, Have ye seen him whom my soul loves?
+
 ### Job 18:19
 - priority: `0`
 - importance: `none`
@@ -81291,15 +81291,6 @@ Method:
 - fresh: And Rabshakeh turned back and found king besieging Libnah, and the king of the Assyrians heard that
 - mt: So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 - brenton: So Rabsaces returned, and found the king of the Assyrians besieging Lobna: for he had heard that he had departed from Lachis.
-
-### Song of Solomon 3:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.538`
-- fresh_brenton_ratio: `0.600`
-- fresh: Watchmen found me, those circling in the city: "Did you see one my soul loved?"
-- mt: The watchmen that go about the city found me: to whom I said, Saw all of you him whom my soul loves?
-- brenton: The watchmen who go their rounds in the city found me. I said, Have ye seen him whom my soul loves?
 
 ### Isaiah 12:4
 - priority: `0`
@@ -84972,6 +84963,15 @@ Method:
 - fresh: And poor will be grazed through him, and poor men will rest in peace, but he will kill your seed with famine, and your remnant he will kill.
 - mt: And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill your root with famine, and he shall slay your remnant.
 - brenton: And the poor shall be fed by him, and poor men shall rest in peace: but he shall destroy thy seed with hunger, and shall destroy thy remnant.
+
+### Song of Solomon 3:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.556`
+- fresh_brenton_ratio: `0.675`
+- fresh: Look, Solomon's couch: sixty mighty men around it, from the mighty men of Israel.
+- mt: Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
+- brenton: Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.
 
 ### Lamentations 3:59
 - priority: `0`
@@ -118237,15 +118237,6 @@ Method:
 - mt: And the children of Joseph spoke unto Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD has blessed me until now?
 - brenton: And the sons of Joseph answered Joshua, saying, Wherefore hast thou caused us to inherit one inheritance, and one line? whereas I am a great people, and God has blessed me.
 
-### Song of Solomon 3:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.674`
-- fresh_brenton_ratio: `0.672`
-- fresh: I will rise now and circle in the city, in markets and squares, and seek one my soul loved; I sought him and did not find him.
-- mt: I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loves: I sought him, but I found him not.
-- brenton: I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.
-
 ### Ezekiel 26:5
 - priority: `0`
 - importance: `none`
@@ -119244,15 +119235,6 @@ Method:
 - fresh: and Og king of Bashan, left over from the giants, dwelling in Ashtaroth and in Edrei,
 - mt: And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 - brenton: And Og king of Basan, who dwelt in Astaroth and in Edrain, was left of the giants
-
-### Song of Solomon 3:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.677`
-- fresh_brenton_ratio: `0.667`
-- fresh: All holding sword, trained in war, each man his sword on his thigh from terrors in nights.
-- mt: They all hold swords, being expert in war: every man has his sword upon his thigh because of fear in the night.
-- brenton: They all hold a sword, being expert in war: every man has his sword upon his thigh because of fear by night.
 
 ### Ezekiel 37:7
 - priority: `0`
@@ -121359,15 +121341,6 @@ Method:
 - fresh: And it happened after three days after making covenant with them that they heard that they are near them and dwell among them.
 - mt: And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them.
 - brenton: And it came to pass three days after they had made a covenant with them, they heard that they were near neighbours, and that they dwelt among them.
-
-### Song of Solomon 3:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.683`
-- fresh_brenton_ratio: `0.745`
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
-- mt: I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please.
-- brenton: I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.
 
 ### Genesis 40:2
 - priority: `0`
@@ -133222,6 +133195,15 @@ Method:
 - mt: Thus all of you shall be filled at my table with horses and chariots, with mighty men, and with all men of war, says the Lord GOD.
 - brenton: And ye shall be filled at my table, eating horse, and rider, and mighty man, and every warrior, saith the Lord.
 
+### Song of Solomon 3:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.712`
+- fresh_brenton_ratio: `0.780`
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
+- mt: I charge you, O all of you daughters of Jerusalem, by the roes, and by the hinds of the field, that all of you stir not up, nor awake my love, till he please.
+- brenton: I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.
+
 ### Genesis 18:2
 - priority: `0`
 - importance: `none`
@@ -140736,6 +140718,15 @@ Method:
 - fresh: You will give truth to Jacob and mercy to Abraham, just as you swore to our fathers in former days.
 - mt: You will perform the truth to Jacob, and the mercy to Abraham, which you have sworn unto our fathers from the days of old.
 - brenton: He shall give blessings truly to Jacob, and mercy to Abraam, as thou swarest to our fathers, according to the former days.
+
+### Song of Solomon 3:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.731`
+- fresh_brenton_ratio: `0.775`
+- fresh: I will rise now and circle in the city, in the markets and in the squares, and seek the one my soul loved; I sought him and did not find him.
+- mt: I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loves: I sought him, but I found him not.
+- brenton: I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.
 
 ### 1 Chronicles 5:10
 - priority: `0`
@@ -150610,15 +150601,6 @@ Method:
 - mt: For we are strangers before you, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
 - brenton: for we are strangers before thee, and sojourners, as all our fathers were: our days upon the earth are as a shadow, and there is no remaining.
 
-### Song of Solomon 3:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.755`
-- fresh_brenton_ratio: `0.772`
-- fresh: Come out and see in King Solomon, with crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
-- mt: Go forth, O all of you daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
-- brenton: Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.
-
 ### Deuteronomy 2:29
 - priority: `0`
 - importance: `none`
@@ -159214,6 +159196,15 @@ Method:
 - mt: But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his position.
 - brenton: And the people of the land slew the men who had conspired against king Amon; and the people of the land made Josias his son king in his stead.
 
+### Song of Solomon 3:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.777`
+- fresh_brenton_ratio: `0.795`
+- fresh: Come out and see King Solomon, with the crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
+- mt: Go forth, O all of you daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
+- brenton: Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.
+
 ### Isaiah 48:18
 - priority: `0`
 - importance: `none`
@@ -161248,6 +161239,15 @@ Method:
 - mt: Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 - brenton: Amasias began to reign when he was twenty and five years old, and he reigned twenty-nine years in Jerusalem; and his mother's name was Joadaen of Jerusalem.
 
+### Song of Solomon 3:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.783`
+- fresh_brenton_ratio: `0.756`
+- fresh: All holding a sword, trained in war, each man with his sword on his thigh because of terrors in the nights.
+- mt: They all hold swords, being expert in war: every man has his sword upon his thigh because of fear in the night.
+- brenton: They all hold a sword, being expert in war: every man has his sword upon his thigh because of fear by night.
+
 ### Jeremiah 52:10
 - priority: `0`
 - importance: `none`
@@ -162849,6 +162849,15 @@ Method:
 - fresh: And Saul said, Hear now, son of Ahitub. And he said, Behold, I am here, speak, lord.
 - mt: And Saul said, Hear now, you son of Ahitub. And he answered, Here I am, my lord.
 - brenton: And Saul said, Hear now, thou son of Achitob. And he said, Lo! I am here, speak, my lord.
+
+### Song of Solomon 3:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.787`
+- fresh_brenton_ratio: `0.898`
+- fresh: The king, Solomon, made for himself a litter from woods of Lebanon.
+- mt: King Solomon made himself a chariot of the wood of Lebanon.
+- brenton: King Solomon made himself a litter of woods of Lebanon.
 
 ### Amos 7:15
 - priority: `0`
@@ -165108,15 +165117,6 @@ Method:
 - fresh: And he said to me, Son of man, will these bones live? And I said, Lord, you know these things.
 - mt: And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, you know.
 - brenton: And he said to me, Son of man, will these bones live? and I said, O Lord God, thou knowest this.
-
-### Song of Solomon 3:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.793`
-- fresh_brenton_ratio: `0.911`
-- fresh: King Solomon made for himself litter from woods of Lebanon.
-- mt: King Solomon made himself a chariot of the wood of Lebanon.
-- brenton: King Solomon made himself a litter of woods of Lebanon.
 
 ### Leviticus 23:7
 - priority: `0`

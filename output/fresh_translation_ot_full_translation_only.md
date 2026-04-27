@@ -71064,19 +71064,19 @@ On my bed by nights I sought the one my soul loved; I sought him and did not fin
 
 **Song of Solomon 3:2**
 
-I will rise now and circle in the city, in markets and squares, and seek one my soul loved; I sought him and did not find him.
+I will rise now and circle in the city, in the markets and in the squares, and seek the one my soul loved; I sought him and did not find him.
 
 **Song of Solomon 3:3**
 
-Watchmen found me, those circling in the city: "Did you see one my soul loved?"
+Watchmen found me, those circling in the city: "Did you see the one my soul loved?"
 
 **Song of Solomon 3:4**
 
-Scarcely when I passed from them, until I found one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of one who conceived me.
+Scarcely when I passed from them, until I found the one my soul loved. I seized him and will not let him go until I brought him into the house of my mother and into the chamber of the one who conceived me.
 
 **Song of Solomon 3:5**
 
-I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field, that you not rouse and awaken love until it wishes.
+I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, that you not rouse and awaken love until it wishes.
 
 **Song of Solomon 3:6**
 
@@ -71084,15 +71084,15 @@ Who is this coming up from the wilderness like columns of smoke, perfumed with m
 
 **Song of Solomon 3:7**
 
-Look, Solomon's couch: sixty mighty men around it, from mighty men of Israel.
+Look, Solomon's couch: sixty mighty men around it, from the mighty men of Israel.
 
 **Song of Solomon 3:8**
 
-All holding sword, trained in war, each man his sword on his thigh from terrors in nights.
+All holding a sword, trained in war, each man with his sword on his thigh because of terrors in the nights.
 
 **Song of Solomon 3:9**
 
-King Solomon made for himself litter from woods of Lebanon.
+The king, Solomon, made for himself a litter from woods of Lebanon.
 
 **Song of Solomon 3:10**
 
@@ -71100,7 +71100,7 @@ He made its pillars silver and its recliner gold, its seat purple, its inside pa
 
 **Song of Solomon 3:11**
 
-Come out and see in King Solomon, with crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
+Come out and see King Solomon, with the crown with which his mother crowned him in the day of his wedding and in the day of gladness of his heart.
 
 ### Chapter 4
 
