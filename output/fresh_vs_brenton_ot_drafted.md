@@ -157306,55 +157306,55 @@ Note:
 ### Song of Solomon 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes as dances of camps.
+- fresh: Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes like dances of the camps.
 - brenton: Return, return, O Sunamite; return, return, and we will look at thee.
 
 ### Song of Solomon 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How beautiful your steps in sandals, daughter of Nadab. Curves of your thighs like necklaces, work of hands of craftsman.
+- fresh: How beautiful are your steps in sandals, daughter of Nadab. The curves of your thighs are like necklaces, the work of hands of a craftsman.
 - brenton: Thy steps are beautiful in shoes, O daughter of the prince: the joints of thy thighs are like chains, the work of the craftsman.
 
 ### Song of Solomon 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your navel a carved bowl, not lacking mixed wine; your belly heap of wheat fenced round with lilies.
+- fresh: Your navel is a carved bowl, not lacking mixed wine; your belly is a heap of wheat fenced round with lilies.
 - brenton: Thy navel is as a turned bowl, not wanting liquor; thy belly is as a heap of wheat set about with lilies.
 
 ### Song of Solomon 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your two breasts like two twin fawns of gazelle.
+- fresh: Your two breasts are like two twin fawns of a gazelle.
 - brenton: Thy two breasts are as two twin fawns.
 
 ### Song of Solomon 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your neck as ivory tower. Your eyes as pools in Heshbon at the gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
+- fresh: Your neck is like an ivory tower. Your eyes are like pools in Heshbon at the gates of the daughter of multitudes. Your nose is like the tower of Lebanon watching the face of Damascus.
 - brenton: Thy neck is as an ivory tower; thine eyes are as pools in Esebon, by the gates of the daughter of many: thy nose is as the tower of Libanus, looking toward Damascus.
 
 ### Song of Solomon 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your head upon you as Carmel, and braid of your head as purple; king bound in flowing locks.
+- fresh: Your head upon you is like Carmel, and the braid of your head is like purple; a king is bound in the flowing locks.
 - brenton: Thy head upon thee is as Carmel, and the curls of thy hair like scarlet; the king is bound in the galleries.
 
 ### Song of Solomon 7:7
@@ -157369,181 +157369,181 @@ Note:
 ### Song of Solomon 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This your stature was likened to palm tree, and your breasts to clusters.
+- fresh: This stature of yours was likened to a palm tree, and your breasts to clusters.
 - brenton: This is thy greatness in thy delights: thou wast made like a palm tree, and thy breasts to clusters.
 
 ### Song of Solomon 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of vine, and scent of your nose as apples.
+- fresh: I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of the vine, and the scent of your nose as apples.
 - brenton: I said, I will go up to the palm tree, I will take hold of its high boughs: and now shall thy breasts be as clusters of the vine, and the smell of thy nose as apples;
 
 ### Song of Solomon 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your throat as good wine, going to my beloved in straightness, fitted to my lips and teeth.
+- fresh: And your throat is like the good wine, going to my beloved in straightness, fitted to my lips and teeth.
 - brenton: and thy throat as good wine, going well with my kinsman, suiting my lips and teeth.
 
 ### Song of Solomon 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I to my beloved, and upon me his turning.
+- fresh: I am to my beloved, and his turning is upon me.
 - brenton: I am my kinsman's, and his desire is toward me.
 
 ### Song of Solomon 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come, my beloved, let us go out into field, let us lodge in villages.
+- fresh: Come, my beloved, let us go out into the field, let us lodge in villages.
 - brenton: Come, my kinsman, let us go forth into the field; let us lodge in the villages.
 
 ### Song of Solomon 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let us rise early to vineyards; let us see whether vine blossomed, cypress blossomed, pomegranates bloomed. There I will give my breasts to you.
+- fresh: Let us rise early to the vineyards; let us see whether the vine blossomed, whether the cypress blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
 - brenton: Let us go early into the vineyards; let us see if the vine has flowered, if the blossoms have appeared, if the pomegranates have blossomed; there will I give thee my breasts.
 
 ### Song of Solomon 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Mandrakes gave scent, and at our doors every choice fruit, new with old, my beloved, I kept for you.
+- fresh: The mandrakes gave scent, and at our doors are every choice fruit, new with old, my beloved, I kept for you.
 - brenton: The mandrakes have given a smell, and at our doors are all kinds of choice fruits, new and old. O my kinsman, I have kept them for thee.
 
 ### Song of Solomon 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will give you as my beloved, nursing breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
+- fresh: Who will give you as my beloved, nursing the breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
 - brenton: I would that thou, O my kinsman, wert he that sucked the breasts of my mother; when I found thee without, I would kiss thee; yea, they should not despise me.
 
 ### Song of Solomon 8:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will take you, I will bring you into the house of my mother and into the chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
+- fresh: I will take you, I will bring you into the house of my mother and into the chamber of the one who conceived me. I will give you drink from the perfumed wine, from the juice of my pomegranates.
 - brenton: I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.
 
 ### Song of Solomon 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His left under my head, and his right will embrace me.
+- fresh: His left is under my head, and his right will embrace me.
 - brenton: His left hand should be under my head, and his right hand should embrace me.
 
 ### Song of Solomon 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field: why do you rouse and why do you awaken love until it wishes?
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field: why do you rouse and why do you awaken love until it wishes?
 - brenton: I have charged you, ye daughters of Jerusalem, by the virtues of the field, that ye stir not up, nor awake my love, until he please.
 
 ### Song of Solomon 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
+- fresh: Who is this coming up whitened, leaning on her beloved? Under an apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
 - brenton: Who is this that comes up all white, leaning on her kinsman? I raised thee up under an apple-tree; there thy mother brought thee forth; there she that bore thee brought thee forth.
 
 ### Song of Solomon 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Set me as a seal on your heart, as a seal on your arm, because love strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
+- fresh: Set me as a seal on your heart, as a seal on your arm, because love is strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
 - brenton: Set me as a seal upon thy heart, as a seal upon thine arm; for love is strong as death; jealousy is cruel as the grave, her shafts are shafts of fire, even the flames thereof.
 
 ### Song of Solomon 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Much water will not be able to quench love, and rivers will not flood it. If man gives all his livelihood in love, despising they will despise him.
+- fresh: Much water will not be able to quench love, and rivers will not flood it. If a man gives all his livelihood in love, despising they will despise him.
 - brenton: Much water will not be able to quench love, and rivers shall not drown it; if a man would give all his substance for love, men would utterly despise it.
 
 ### Song of Solomon 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Small sister to us, and she has no breasts. What shall we do for our sister on the day when they speak in her?
+- fresh: Our sister is small, and she has no breasts. What shall we do for our sister on the day when they speak in her?
 - brenton: Our sister is little, and has no breasts; what shall we do for our sister, in the day wherein she shall be spoken for?
 
 ### Song of Solomon 8:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If she is wall, we will build upon her battlements of silver; and if she is door, we will engrave upon her cedar board.
+- fresh: If she is a wall, we will build upon her battlements of silver; and if she is a door, we will engrave upon her a cedar board.
 - brenton: If she is a wall, let us build upon her silver bulwarks; and if she is a door, let us carve for her cedar panels.
 
 ### Song of Solomon 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I wall, and my breasts as towers. I became in his eyes as one finding peace.
+- fresh: I am a wall, and my breasts are like towers. I became in his eyes as one finding peace.
 - brenton: I am a wall, and my breasts are as towers; I was in their eyes as one that found peace.
 
 ### Song of Solomon 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
+- fresh: A vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
 - brenton: Solomon had a vineyard in Beelamon; he let his vineyard to keepers; every one was to bring for its fruit a thousand pieces of silver.
 
 ### Song of Solomon 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My vineyard mine before me. Thousand to you, Solomon, and two hundred to those keeping its fruit.
+- fresh: My vineyard is mine before me. The thousand are to you, Solomon, and the two hundred to those keeping its fruit.
 - brenton: My vineyard, even mine, is before me; Solomon shall have a thousand, and they that keep its fruit two hundred.
 
 ### Song of Solomon 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You sitting in gardens, companions attending to your voice, let me hear.
+- fresh: You who sit in gardens, companions attending to your voice, let me hear.
 - brenton: Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear it.
 
 ### Song of Solomon 8:14

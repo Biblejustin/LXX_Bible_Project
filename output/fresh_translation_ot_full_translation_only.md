@@ -71288,27 +71288,27 @@ My soul did not know; it set me among the chariots of Amminadab.
 
 **Song of Solomon 7:1**
 
-Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes as dances of camps.
+Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes like dances of the camps.
 
 **Song of Solomon 7:2**
 
-How beautiful your steps in sandals, daughter of Nadab. Curves of your thighs like necklaces, work of hands of craftsman.
+How beautiful are your steps in sandals, daughter of Nadab. The curves of your thighs are like necklaces, the work of hands of a craftsman.
 
 **Song of Solomon 7:3**
 
-Your navel a carved bowl, not lacking mixed wine; your belly heap of wheat fenced round with lilies.
+Your navel is a carved bowl, not lacking mixed wine; your belly is a heap of wheat fenced round with lilies.
 
 **Song of Solomon 7:4**
 
-Your two breasts like two twin fawns of gazelle.
+Your two breasts are like two twin fawns of a gazelle.
 
 **Song of Solomon 7:5**
 
-Your neck as ivory tower. Your eyes as pools in Heshbon at the gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
+Your neck is like an ivory tower. Your eyes are like pools in Heshbon at the gates of the daughter of multitudes. Your nose is like the tower of Lebanon watching the face of Damascus.
 
 **Song of Solomon 7:6**
 
-Your head upon you as Carmel, and braid of your head as purple; king bound in flowing locks.
+Your head upon you is like Carmel, and the braid of your head is like purple; a king is bound in the flowing locks.
 
 **Song of Solomon 7:7**
 
@@ -71316,85 +71316,85 @@ How beautiful you became, and how sweet, love, in your delights.
 
 **Song of Solomon 7:8**
 
-This your stature was likened to palm tree, and your breasts to clusters.
+This stature of yours was likened to a palm tree, and your breasts to clusters.
 
 **Song of Solomon 7:9**
 
-I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of vine, and scent of your nose as apples.
+I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of the vine, and the scent of your nose as apples.
 
 **Song of Solomon 7:10**
 
-And your throat as good wine, going to my beloved in straightness, fitted to my lips and teeth.
+And your throat is like the good wine, going to my beloved in straightness, fitted to my lips and teeth.
 
 **Song of Solomon 7:11**
 
-I to my beloved, and upon me his turning.
+I am to my beloved, and his turning is upon me.
 
 **Song of Solomon 7:12**
 
-Come, my beloved, let us go out into field, let us lodge in villages.
+Come, my beloved, let us go out into the field, let us lodge in villages.
 
 **Song of Solomon 7:13**
 
-Let us rise early to vineyards; let us see whether vine blossomed, cypress blossomed, pomegranates bloomed. There I will give my breasts to you.
+Let us rise early to the vineyards; let us see whether the vine blossomed, whether the cypress blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
 
 **Song of Solomon 7:14**
 
-Mandrakes gave scent, and at our doors every choice fruit, new with old, my beloved, I kept for you.
+The mandrakes gave scent, and at our doors are every choice fruit, new with old, my beloved, I kept for you.
 
 ### Chapter 8
 
 **Song of Solomon 8:1**
 
-Who will give you as my beloved, nursing breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
+Who will give you as my beloved, nursing the breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
 
 **Song of Solomon 8:2**
 
-I will take you, I will bring you into the house of my mother and into the chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
+I will take you, I will bring you into the house of my mother and into the chamber of the one who conceived me. I will give you drink from the perfumed wine, from the juice of my pomegranates.
 
 **Song of Solomon 8:3**
 
-His left under my head, and his right will embrace me.
+His left is under my head, and his right will embrace me.
 
 **Song of Solomon 8:4**
 
-I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field: why do you rouse and why do you awaken love until it wishes?
+I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field: why do you rouse and why do you awaken love until it wishes?
 
 **Song of Solomon 8:5**
 
-Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
+Who is this coming up whitened, leaning on her beloved? Under an apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
 
 **Song of Solomon 8:6**
 
-Set me as a seal on your heart, as a seal on your arm, because love strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
+Set me as a seal on your heart, as a seal on your arm, because love is strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
 
 **Song of Solomon 8:7**
 
-Much water will not be able to quench love, and rivers will not flood it. If man gives all his livelihood in love, despising they will despise him.
+Much water will not be able to quench love, and rivers will not flood it. If a man gives all his livelihood in love, despising they will despise him.
 
 **Song of Solomon 8:8**
 
-Small sister to us, and she has no breasts. What shall we do for our sister on the day when they speak in her?
+Our sister is small, and she has no breasts. What shall we do for our sister on the day when they speak in her?
 
 **Song of Solomon 8:9**
 
-If she is wall, we will build upon her battlements of silver; and if she is door, we will engrave upon her cedar board.
+If she is a wall, we will build upon her battlements of silver; and if she is a door, we will engrave upon her a cedar board.
 
 **Song of Solomon 8:10**
 
-I wall, and my breasts as towers. I became in his eyes as one finding peace.
+I am a wall, and my breasts are like towers. I became in his eyes as one finding peace.
 
 **Song of Solomon 8:11**
 
-Vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
+A vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
 
 **Song of Solomon 8:12**
 
-My vineyard mine before me. Thousand to you, Solomon, and two hundred to those keeping its fruit.
+My vineyard is mine before me. The thousand are to you, Solomon, and the two hundred to those keeping its fruit.
 
 **Song of Solomon 8:13**
 
-You sitting in gardens, companions attending to your voice, let me hear.
+You who sit in gardens, companions attending to your voice, let me hear.
 
 **Song of Solomon 8:14**
 

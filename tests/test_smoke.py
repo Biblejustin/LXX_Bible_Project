@@ -4372,6 +4372,36 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Into a garden of walnut trees" in by_ref["Song of Solomon 6:11"][
         "draft_translation"
     ]
+    assert "The curves of your thighs are like necklaces" in by_ref[
+        "Song of Solomon 7:2"
+    ]["draft_translation"]
+    assert "Your neck is like an ivory tower" in by_ref[
+        "Song of Solomon 7:5"
+    ]["draft_translation"]
+    assert "This stature of yours was likened to a palm tree" in by_ref[
+        "Song of Solomon 7:8"
+    ]["draft_translation"]
+    assert "I am to my beloved, and his turning is upon me" in by_ref[
+        "Song of Solomon 7:11"
+    ]["draft_translation"]
+    assert "The mandrakes gave scent" in by_ref["Song of Solomon 7:14"][
+        "draft_translation"
+    ]
+    assert "His left is under my head" in by_ref["Song of Solomon 8:3"][
+        "draft_translation"
+    ]
+    assert "by the powers and by the strengths of the field" in by_ref[
+        "Song of Solomon 8:4"
+    ]["draft_translation"]
+    assert "love is strong as death" in by_ref["Song of Solomon 8:6"][
+        "draft_translation"
+    ]
+    assert "I am a wall, and my breasts are like towers" in by_ref[
+        "Song of Solomon 8:10"
+    ]["draft_translation"]
+    assert "My vineyard is mine before me" in by_ref["Song of Solomon 8:12"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

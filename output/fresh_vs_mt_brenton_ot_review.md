@@ -22441,6 +22441,15 @@ Method:
 - mt: And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.
 - brenton: And the people murmured sinfully before the Lord; and the Lord heard them and was very angry; and fire was kindled among them from the Lord, and devoured a part of the camp.
 
+### Song of Solomon 7:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.132`
+- fresh_brenton_ratio: `0.729`
+- fresh: Let us rise early to the vineyards; let us see whether the vine blossomed, whether the cypress blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
+- mt: The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for you, O my beloved.
+- brenton: Let us go early into the vineyards; let us see if the vine has flowered, if the blossoms have appeared, if the pomegranates have blossomed; there will I give thee my breasts.
+
 ### Jeremiah 49:13
 - priority: `0`
 - importance: `none`
@@ -22521,15 +22530,6 @@ Method:
 - fresh: In place of your fathers sons were born to you; you will appoint them rulers over all the earth.
 - mt: All this has come upon us; yet have we not forgotten you, neither have we dealt falsely in your covenant.
 - brenton: Instead of thy fathers children are born to thee: thou shalt make them princes over all the earth.
-
-### Song of Solomon 7:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.133`
-- fresh_brenton_ratio: `0.688`
-- fresh: Let us rise early to vineyards; let us see whether vine blossomed, cypress blossomed, pomegranates bloomed. There I will give my breasts to you.
-- mt: The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for you, O my beloved.
-- brenton: Let us go early into the vineyards; let us see if the vine has flowered, if the blossoms have appeared, if the pomegranates have blossomed; there will I give thee my breasts.
 
 ### Isaiah 10:13
 - priority: `0`
@@ -28273,6 +28273,15 @@ Method:
 - mt: But unto you have I cried, O LORD; and in the morning shall my prayer prevent you.
 - brenton: Thou hast created the north and the west: Thabor and Hermon shall rejoice in thy name.
 
+### Song of Solomon 7:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.192`
+- fresh_brenton_ratio: `0.812`
+- fresh: I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of the vine, and the scent of your nose as apples.
+- mt: And the roof of your mouth like the best wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak.
+- brenton: I said, I will go up to the palm tree, I will take hold of its high boughs: and now shall thy breasts be as clusters of the vine, and the smell of thy nose as apples;
+
 ### 1 Kings 7:6
 - priority: `0`
 - importance: `none`
@@ -31180,15 +31189,6 @@ Method:
 - mt: And the children of Israel gave to the Levites these cities with their suburbs.
 - brenton: and Kadmoth and her suburbs, and Maephla and her suburbs.
 
-### Song of Solomon 7:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.219`
-- fresh_brenton_ratio: `0.624`
-- fresh: Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes as dances of camps.
-- mt: How beautiful are your feet with shoes, O prince's daughter! the joints of your thighs are like jewels, the work of the hands of a cunning workman.
-- brenton: Return, return, O Sunamite; return, return, and we will look at thee.
-
 ### 2 Kings 25:13
 - priority: `0`
 - importance: `none`
@@ -31314,15 +31314,6 @@ Method:
 - fresh: and weight of their weighing, both of gold and silver things,
 - mt: He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service:
 - brenton: And he gave him the account of their weight, both of gold and silver vessels.
-
-### Song of Solomon 7:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.220`
-- fresh_brenton_ratio: `0.780`
-- fresh: I said, I will climb the palm tree, I will seize its heights; and now let your breasts be as clusters of vine, and scent of your nose as apples.
-- mt: And the roof of your mouth like the best wine for my beloved, that goes down sweetly, causing the lips of those that are asleep to speak.
-- brenton: I said, I will go up to the palm tree, I will take hold of its high boughs: and now shall thy breasts be as clusters of the vine, and the smell of thy nose as apples;
 
 ### 1 Samuel 6:15
 - priority: `0`
@@ -33961,15 +33952,6 @@ Method:
 - mt: Why withdraw you your hand, even your right hand? pluck it out of your bosom.
 - brenton: And I will break all the horns of sinners; but the horns of the righteous one shall be exalted.
 
-### Song of Solomon 7:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.238`
-- fresh_brenton_ratio: `0.814`
-- fresh: Come, my beloved, let us go out into field, let us lodge in villages.
-- mt: Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give you my loves.
-- brenton: Come, my kinsman, let us go forth into the field; let us lodge in the villages.
-
 ### Nehemiah 13:19
 - priority: `0`
 - importance: `none`
@@ -34050,15 +34032,6 @@ Method:
 - fresh: Do not turn your face from me, nor turn away in anger from your servant. Become my helper; do not cast me off and do not forsake me, God my savior.
 - mt: Gather not my soul with sinners, nor my life with bloody men:
 - brenton: Turn not thy face away from me, turn not thou away from thy servant in anger: be thou my helper, forsake me not; and, O God my Saviour, overlook me not.
-
-### Song of Solomon 7:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.239`
-- fresh_brenton_ratio: `0.567`
-- fresh: Your head upon you as Carmel, and braid of your head as purple; king bound in flowing locks.
-- mt: How fair and how pleasant are you, O love, for delights!
-- brenton: Thy head upon thee is as Carmel, and the curls of thy hair like scarlet; the king is bound in the galleries.
 
 ### Psalms 91:5
 - priority: `0`
@@ -38434,6 +38407,15 @@ Method:
 - mt: The LORD shall laugh at him: for he sees that his day is coming.
 - brenton: While they pressed hard upon me that sought my soul: and they that sought my hurt spoke vanities, and devised deceits all the day.
 
+### Song of Solomon 7:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.266`
+- fresh_brenton_ratio: `0.615`
+- fresh: Return, return, Shulammite; return, return, and we will look on you. What will you see in Shulammite? She comes like dances of the camps.
+- mt: How beautiful are your feet with shoes, O prince's daughter! the joints of your thighs are like jewels, the work of the hands of a cunning workman.
+- brenton: Return, return, O Sunamite; return, return, and we will look at thee.
+
 ### Psalms 73:21
 - priority: `0`
 - importance: `none`
@@ -38667,6 +38649,15 @@ Method:
 - fresh: Let my soul be filled as with fat and richness, and with lips of exultation my mouth will praise you.
 - mt: He only is my rock and my salvation: he is my defence; I shall not be moved.
 - brenton: Let my soul be filled as with marrow and fatness; and my joyful lips shall praise thy name.
+
+### Song of Solomon 7:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.267`
+- fresh_brenton_ratio: `0.710`
+- fresh: Your head upon you is like Carmel, and the braid of your head is like purple; a king is bound in the flowing locks.
+- mt: How fair and how pleasant are you, O love, for delights!
+- brenton: Thy head upon thee is as Carmel, and the curls of thy hair like scarlet; the king is bound in the galleries.
 
 ### Psalms 103:20
 - priority: `0`
@@ -40288,6 +40279,15 @@ Method:
 - mt: We have sinned with our fathers, we have committed iniquity, we have done wickedly.
 - brenton: Then they cried to the Lord in their affliction, and he delivered them out of their distresses.
 
+### Song of Solomon 7:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.276`
+- fresh_brenton_ratio: `0.663`
+- fresh: And your throat is like the good wine, going to my beloved in straightness, fitted to my lips and teeth.
+- mt: I am my beloved's, and his desire is toward me.
+- brenton: and thy throat as good wine, going well with my kinsman, suiting my lips and teeth.
+
 ### Jeremiah 28:4
 - priority: `0`
 - importance: `none`
@@ -41061,15 +41061,6 @@ Method:
 - fresh: You loved righteousness and hated lawlessness; therefore God, your God, anointed you with the oil of exultation beyond your companions.
 - mt: In God we boast all the day long, and praise your name for ever. Selah.
 - brenton: Thou hast loved righteousness, and hated iniquity: therefore God, thy God, has anointed thee with the oil of gladness beyond thy fellows.
-
-### Song of Solomon 7:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.281`
-- fresh_brenton_ratio: `0.725`
-- fresh: Your neck as ivory tower. Your eyes as pools in Heshbon at the gates of daughter of multitudes. Your nose as tower of Lebanon watching face of Damascus.
-- mt: Yours head upon you is like Carmel, and the hair of yours head like purple; the king is held in the galleries.
-- brenton: Thy neck is as an ivory tower; thine eyes are as pools in Esebon, by the gates of the daughter of many: thy nose is as the tower of Libanus, looking toward Damascus.
 
 ### Psalms 97:7
 - priority: `0`
@@ -44761,15 +44752,6 @@ Method:
 - mt: For your loving kindness is before mine eyes: and I have walked in your truth.
 - brenton: Though an army should set itself in array against me, my heart shall not be afraid: though war should rise up against me, in this am I confident.
 
-### Song of Solomon 7:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.301`
-- fresh_brenton_ratio: `0.714`
-- fresh: Your two breasts like two twin fawns of gazelle.
-- mt: Your neck is as a tower of ivory; yours eyes like the pool in Heshbon, by the gate of Bathrabbim: your nose is as the tower of Lebanon which looks toward Damascus.
-- brenton: Thy two breasts are as two twin fawns.
-
 ### Ezekiel 5:13
 - priority: `0`
 - importance: `none`
@@ -45273,6 +45255,15 @@ Method:
 - fresh: But I like a fruitful olive tree in the house of God; I hoped in the mercy of God forever and forever of forever.
 - mt: Create in me a clean heart, O God; and renew a right spirit within me.
 - brenton: But I am as a fruitful olive in the house of God: I have trusted in the mercy of God for ever, even for evermore.
+
+### Song of Solomon 7:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.303`
+- fresh_brenton_ratio: `0.847`
+- fresh: Come, my beloved, let us go out into the field, let us lodge in villages.
+- mt: Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give you my loves.
+- brenton: Come, my kinsman, let us go forth into the field; let us lodge in the villages.
 
 ### Ezekiel 44:12
 - priority: `0`
@@ -46327,15 +46318,6 @@ Method:
 - mt: By reason of the voice of my groaning my bones cleave to my skin.
 - brenton: who satisfies thy desire with good things: so that thy youth shall be renewed like that of the eagle.
 
-### Song of Solomon 7:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.309`
-- fresh_brenton_ratio: `0.709`
-- fresh: And your throat as good wine, going to my beloved in straightness, fitted to my lips and teeth.
-- mt: I am my beloved's, and his desire is toward me.
-- brenton: and thy throat as good wine, going well with my kinsman, suiting my lips and teeth.
-
 ### Psalms 61:7
 - priority: `0`
 - importance: `none`
@@ -46875,15 +46857,6 @@ Method:
 - fresh: as at entrance above.
 - mt: They are not in trouble as other men; neither are they plagued like other men.
 - brenton: ignorantly as it were in the entrance above;
-
-### Song of Solomon 7:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.312`
-- fresh_brenton_ratio: `0.614`
-- fresh: How beautiful your steps in sandals, daughter of Nadab. Curves of your thighs like necklaces, work of hands of craftsman.
-- mt: Your navel is like a round goblet, which wants not liquor: your belly is like an heap of wheat set about with lilies.
-- brenton: Thy steps are beautiful in shoes, O daughter of the prince: the joints of thy thighs are like chains, the work of the craftsman.
 
 ### Hosea 2:19
 - priority: `0`
@@ -48451,6 +48424,15 @@ Method:
 - mt: He sent darkness, and made it dark; and they rebelled not against his word.
 - brenton: They were joined also to Beelphegor, and ate the sacrifices of the dead. And they provoked him with their devices;
 
+### Song of Solomon 7:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.321`
+- fresh_brenton_ratio: `0.656`
+- fresh: How beautiful are your steps in sandals, daughter of Nadab. The curves of your thighs are like necklaces, the work of hands of a craftsman.
+- mt: Your navel is like a round goblet, which wants not liquor: your belly is like an heap of wheat set about with lilies.
+- brenton: Thy steps are beautiful in shoes, O daughter of the prince: the joints of thy thighs are like chains, the work of the craftsman.
+
 ### Exodus 39:22
 - priority: `0`
 - importance: `none`
@@ -48504,6 +48486,15 @@ Method:
 - fresh: For my soul cannot cease, for I see my foods as stench, like smell of lion.
 - mt: The things that my soul refused to touch are as my sorrowful food.
 - brenton: For my wrath cannot cease; for I perceive my food as the smell of a lion to be loathsome.
+
+### Song of Solomon 7:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.321`
+- fresh_brenton_ratio: `0.733`
+- fresh: Your two breasts are like two twin fawns of a gazelle.
+- mt: Your neck is as a tower of ivory; yours eyes like the pool in Heshbon, by the gate of Bathrabbim: your nose is as the tower of Lebanon which looks toward Damascus.
+- brenton: Thy two breasts are as two twin fawns.
 
 ### 1 Chronicles 12:34
 - priority: `0`
@@ -52212,6 +52203,15 @@ Method:
 - fresh: All nations, as many as you made, will come and worship before you, Lord, and will glorify your name.
 - mt: Surely his salvation is nigh them that fear him; that glory may dwell in our land.
 - brenton: All nations whom thou hast made shall come, and shall worship before thee, O Lord; and shall glorify thy name.
+
+### Song of Solomon 7:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.341`
+- fresh_brenton_ratio: `0.753`
+- fresh: Your neck is like an ivory tower. Your eyes are like pools in Heshbon at the gates of the daughter of multitudes. Your nose is like the tower of Lebanon watching the face of Damascus.
+- mt: Yours head upon you is like Carmel, and the hair of yours head like purple; the king is held in the galleries.
+- brenton: Thy neck is as an ivory tower; thine eyes are as pools in Esebon, by the gates of the daughter of many: thy nose is as the tower of Libanus, looking toward Damascus.
 
 ### Numbers 17:4
 - priority: `0`
@@ -56848,6 +56848,15 @@ Method:
 - mt: Out of the south comes the whirlwind: and cold out of the north.
 - brenton: Troubles come on out of the secret chambers, and cold from the mountain-tops.
 
+### Song of Solomon 7:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.367`
+- fresh_brenton_ratio: `0.584`
+- fresh: I am to my beloved, and his turning is upon me.
+- mt: Come, my beloved, let us go forth into the field; let us lodge in the villages.
+- brenton: I am my kinsman's, and his desire is toward me.
+
 ### Psalms 135:8
 - priority: `0`
 - importance: `none`
@@ -59440,15 +59449,6 @@ Method:
 - mt: But ask now the beasts, and they shall teach you; and the fowls of the air, and they shall tell you:
 - brenton: But ask now the beasts, if they may speak to thee; and the birds of the air, if they may declare to thee.
 
-### Song of Solomon 7:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.383`
-- fresh_brenton_ratio: `0.643`
-- fresh: This your stature was likened to palm tree, and your breasts to clusters.
-- mt: I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also your breasts shall be as clusters of the vine, and the smell of your nose like apples;
-- brenton: This is thy greatness in thy delights: thou wast made like a palm tree, and thy breasts to clusters.
-
 ### Proverbs 12:8
 - priority: `0`
 - importance: `none`
@@ -60610,6 +60610,15 @@ Method:
 - mt: How lovely are your tabernacles, O LORD of hosts!
 - brenton: For the end, a Psalm for the sons of Core.
 
+### Song of Solomon 7:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.390`
+- fresh_brenton_ratio: `0.713`
+- fresh: This stature of yours was likened to a palm tree, and your breasts to clusters.
+- mt: I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also your breasts shall be as clusters of the vine, and the smell of your nose like apples;
+- brenton: This is thy greatness in thy delights: thou wast made like a palm tree, and thy breasts to clusters.
+
 ### Isaiah 29:12
 - priority: `0`
 - importance: `none`
@@ -61329,15 +61338,6 @@ Method:
 - fresh: And he will pulverize them like a calf, Lebanon, and the beloved one like son of unicorns.
 - mt: Blessed be the LORD, because he has heard the voice of my supplications.
 - brenton: And he will beat them small, even Libanus itself, like a calf; and the beloved one is as a young unicorn.
-
-### Song of Solomon 7:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.395`
-- fresh_brenton_ratio: `0.683`
-- fresh: Your navel a carved bowl, not lacking mixed wine; your belly heap of wheat fenced round with lilies.
-- mt: Your two breasts are like two young roes that are twins.
-- brenton: Thy navel is as a turned bowl, not wanting liquor; thy belly is as a heap of wheat set about with lilies.
 
 ### Psalms 4:2
 - priority: `0`
@@ -63463,6 +63463,15 @@ Method:
 - mt: Turn us, O God of our salvation, and cause yours anger toward us to cease.
 - brenton: Rejoice the soul of thy servant: for to thee, O Lord, have I lifted up my soul.
 
+### Song of Solomon 7:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.412`
+- fresh_brenton_ratio: `0.744`
+- fresh: Your navel is a carved bowl, not lacking mixed wine; your belly is a heap of wheat fenced round with lilies.
+- mt: Your two breasts are like two young roes that are twins.
+- brenton: Thy navel is as a turned bowl, not wanting liquor; thy belly is as a heap of wheat set about with lilies.
+
 ### Proverbs 2:7
 - priority: `0`
 - importance: `none`
@@ -64380,15 +64389,6 @@ Method:
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise the Lord, because psalm to our God good; let praise be sweet.
 - mt: Praise all of you the LORD. Praise the LORD, O my soul.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
-
-### Song of Solomon 7:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.421`
-- fresh_brenton_ratio: `0.410`
-- fresh: I to my beloved, and upon me his turning.
-- mt: Come, my beloved, let us go forth into the field; let us lodge in the villages.
-- brenton: I am my kinsman's, and his desire is toward me.
 
 ### Ezekiel 1:9
 - priority: `0`
@@ -70906,15 +70906,6 @@ Method:
 - mt: Yet let no man strive, nor reprove another: for your people are as they that strive with the priest.
 - brenton: that neither any one may plead, nor any one reprove another: but my people are as a priest spoken against.
 
-### Song of Solomon 8:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.472`
-- fresh_brenton_ratio: `0.515`
-- fresh: My vineyard mine before me. Thousand to you, Solomon, and two hundred to those keeping its fruit.
-- mt: My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
-- brenton: My vineyard, even mine, is before me; Solomon shall have a thousand, and they that keep its fruit two hundred.
-
 ### Proverbs 27:20
 - priority: `0`
 - importance: `none`
@@ -72426,15 +72417,6 @@ Method:
 - fresh: and Gella and its set-apart lands, and Debir and its set-apart lands,
 - mt: And Holon with her suburbs, and Debir with her suburbs,
 - brenton: and Gella and its suburbs; and Dabir and its suburbs;
-
-### Song of Solomon 8:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.483`
-- fresh_brenton_ratio: `0.717`
-- fresh: Vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
-- mt: Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.
-- brenton: Solomon had a vineyard in Beelamon; he let his vineyard to keepers; every one was to bring for its fruit a thousand pieces of silver.
 
 ### 1 Chronicles 2:24
 - priority: `0`
@@ -75217,15 +75199,6 @@ Method:
 - mt: For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many.
 - brenton: For with the fire of the Lord all the earth shall be judged, and all flesh with his sword: many shall be slain by the Lord.
 
-### Song of Solomon 8:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.502`
-- fresh_brenton_ratio: `0.756`
-- fresh: Much water will not be able to quench love, and rivers will not flood it. If man gives all his livelihood in love, despising they will despise him.
-- mt: Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
-- brenton: Much water will not be able to quench love, and rivers shall not drown it; if a man would give all his substance for love, men would utterly despise it.
-
 ### Jeremiah 26:24
 - priority: `0`
 - importance: `none`
@@ -76926,6 +76899,15 @@ Method:
 - fresh: And he led me out by way of the north gate and brought me around outside by way of the gate of the court facing east, and behold, the water was flowing down from the right side.
 - mt: Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looks eastward; and, behold, there ran out waters on the right side.
 - brenton: And he brought me out by the way of the northern gate, and he led me round by the way outside to the gate of the court that looks eastward; and, behold, water came down from the right side,
+
+### Song of Solomon 8:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.512`
+- fresh_brenton_ratio: `0.765`
+- fresh: Much water will not be able to quench love, and rivers will not flood it. If a man gives all his livelihood in love, despising they will despise him.
+- mt: Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
+- brenton: Much water will not be able to quench love, and rivers shall not drown it; if a man would give all his substance for love, men would utterly despise it.
 
 ### Genesis 23:4
 - priority: `0`
@@ -81030,6 +81012,15 @@ Method:
 - fresh: Sit down then, and let there not be injustice; and again come together with righteous judgment.
 - mt: Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
 - brenton: Sit down now, and let there not be unrighteousness; and unite again with the just.
+
+### Song of Solomon 8:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.537`
+- fresh_brenton_ratio: `0.554`
+- fresh: My vineyard is mine before me. The thousand are to you, Solomon, and the two hundred to those keeping its fruit.
+- mt: My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
+- brenton: My vineyard, even mine, is before me; Solomon shall have a thousand, and they that keep its fruit two hundred.
 
 ### Proverbs 7:22
 - priority: `0`
@@ -88051,6 +88042,15 @@ Method:
 - mt: Yea, behold, being planted, shall it prosper? shall it not utterly wither, when the east wind touches it? it shall wither in the furrows where it grew.
 - brenton: And, behold, it thrives: shall it prosper? shall it not wither as soon as the east wind touches it? it shall be withered together with the growth of its shoots.
 
+### Song of Solomon 8:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.570`
+- fresh_brenton_ratio: `0.623`
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field: why do you rouse and why do you awaken love until it wishes?
+- mt: I charge you, O daughters of Jerusalem, that all of you stir not up, nor awake my love, until he please.
+- brenton: I have charged you, ye daughters of Jerusalem, by the virtues of the field, that ye stir not up, nor awake my love, until he please.
+
 ### Isaiah 32:14
 - priority: `0`
 - importance: `none`
@@ -88599,15 +88599,6 @@ Method:
 - fresh: He stood and earth was shaken; he looked and nations melted. Mountains were shattered by force; everlasting hills melted.
 - mt: He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 - brenton: the earth stood at his feet and trembled: he beheld, and the nations melted away: the mountains were violently burst through, the everlasting hills melted at his everlasting going forth.
-
-### Song of Solomon 8:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.573`
-- fresh_brenton_ratio: `0.619`
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and by strengths of the field: why do you rouse and why do you awaken love until it wishes?
-- mt: I charge you, O daughters of Jerusalem, that all of you stir not up, nor awake my love, until he please.
-- brenton: I have charged you, ye daughters of Jerusalem, by the virtues of the field, that ye stir not up, nor awake my love, until he please.
 
 ### Proverbs 2:2
 - priority: `0`
@@ -96133,15 +96124,6 @@ Method:
 - mt: Those that be near, and those that be far from you, shall mock you, which are ill repute and much vexed.
 - brenton: to those near thee, and to those far distant from thee; and they shall mock thee, thou that art notoriously unclean, and abundant in iniquities.
 
-### Song of Solomon 8:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.604`
-- fresh_brenton_ratio: `0.567`
-- fresh: Who will give you as my beloved, nursing breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
-- mt: O that you were as my brother, that sucked the breasts of my mother! when I should find you without, I would kiss you; yea, I should not be despised.
-- brenton: I would that thou, O my kinsman, wert he that sucked the breasts of my mother; when I found thee without, I would kiss thee; yea, they should not despise me.
-
 ### 1 Chronicles 16:7
 - priority: `0`
 - importance: `none`
@@ -98734,6 +98716,15 @@ Method:
 - mt: Behold, I will make you a new sharp threshing instrument having teeth: you shall thresh the mountains, and beat them small, and shall make the hills as chaff.
 - brenton: Behold, I have made thee as new saw-shaped threshing wheels of a waggon; and thou shalt thresh the mountains, and beat the hills to powder, and make them as chaff:
 
+### Song of Solomon 8:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.613`
+- fresh_brenton_ratio: `0.727`
+- fresh: A vineyard came to Solomon in Baal-hamon. He gave his vineyard to keepers; each man will bring in its fruit a thousand of silver.
+- mt: Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.
+- brenton: Solomon had a vineyard in Beelamon; he let his vineyard to keepers; every one was to bring for its fruit a thousand pieces of silver.
+
 ### Job 31:10
 - priority: `0`
 - importance: `none`
@@ -99354,6 +99345,15 @@ Method:
 - fresh: sons of Shephatiah, sons of Hattil, sons of Pochereth, sons of Sabaim, sons of Emim.
 - mt: The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.
 - brenton: the children of Saphatia, the children of Ettel, the children of Phacarath, the children of Sabaim, the children of Emim.
+
+### Song of Solomon 8:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.616`
+- fresh_brenton_ratio: `0.580`
+- fresh: Who will give you as my beloved, nursing the breasts of my mother? Finding you outside I will kiss you, and indeed they will not despise me.
+- mt: O that you were as my brother, that sucked the breasts of my mother! when I should find you without, I would kiss you; yea, I should not be despised.
+- brenton: I would that thou, O my kinsman, wert he that sucked the breasts of my mother; when I found thee without, I would kiss thee; yea, they should not despise me.
 
 ### Job 36:29
 - priority: `0`
@@ -104305,15 +104305,6 @@ Method:
 - mt: In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.
 - brenton: In the days of Samegar son of Anath, in the days of Jael, they deserted the ways, and went in by-ways; they went in crooked paths.
 
-### Song of Solomon 8:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.632`
-- fresh_brenton_ratio: `0.740`
-- fresh: I will take you, I will bring you into the house of my mother and into the chamber of one who conceived me. I will give you drink from perfumed wine, from juice of my pomegranates.
-- mt: I would lead you, and bring you into my mother's house, who would instruct me: I would cause you to drink of spiced wine of the juice of my pomegranate.
-- brenton: I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.
-
 ### Proverbs 21:28
 - priority: `0`
 - importance: `none`
@@ -104646,6 +104637,15 @@ Method:
 - fresh: He shall eat an equal portion, besides the sale according to patrimony.
 - mt: They shall have like portions to eat, beside that which comes of the sale of his patrimony.
 - brenton: He shall eat an allotted portion, besides the sale of his hereditary property.
+
+### Song of Solomon 8:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.633`
+- fresh_brenton_ratio: `0.732`
+- fresh: I will take you, I will bring you into the house of my mother and into the chamber of the one who conceived me. I will give you drink from the perfumed wine, from the juice of my pomegranates.
+- mt: I would lead you, and bring you into my mother's house, who would instruct me: I would cause you to drink of spiced wine of the juice of my pomegranate.
+- brenton: I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.
 
 ### Isaiah 7:13
 - priority: `0`
@@ -108107,8 +108107,8 @@ Method:
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.644`
-- fresh_brenton_ratio: `0.609`
-- fresh: Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
+- fresh_brenton_ratio: `0.622`
+- fresh: Who is this coming up whitened, leaning on her beloved? Under an apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you.
 - mt: Who is this that comes up from the wilderness, leaning upon her beloved? I raised you up under the apple tree: there your mother brought you forth: there she brought you forth that bare you.
 - brenton: Who is this that comes up all white, leaning on her kinsman? I raised thee up under an apple-tree; there thy mother brought thee forth; there she that bore thee brought thee forth.
 
@@ -129874,15 +129874,6 @@ Method:
 - mt: I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them.
 - brenton: I will pursue my enemies, and will utterly destroy them; and I will not turn again till I have consumed them.
 
-### Song of Solomon 8:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.704`
-- fresh_brenton_ratio: `0.803`
-- fresh: I wall, and my breasts as towers. I became in his eyes as one finding peace.
-- mt: I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.
-- brenton: I am a wall, and my breasts are as towers; I was in their eyes as one that found peace.
-
 ### Numbers 23:23
 - priority: `0`
 - importance: `none`
@@ -132231,6 +132222,15 @@ Method:
 - fresh: And these were those who came to David in Ziklag, while he was still shut in away from before Saul son of Kish, and these were among mighty men helping in war,
 - mt: Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.
 - brenton: And these are they that came to Sikelag, when he yet kept himself close because of Saul the son of Kis; and these were among the mighty, aiding him in war,
+
+### Song of Solomon 8:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.710`
+- fresh_brenton_ratio: `0.688`
+- fresh: You who sit in gardens, companions attending to your voice, let me hear.
+- mt: You that dwell in the gardens, the companions hearken to your voice: cause me to hear it.
+- brenton: Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear it.
 
 ### Nehemiah 3:30
 - priority: `0`
@@ -136165,15 +136165,6 @@ Method:
 - mt: Your wickedness may hurt a man as you are; and your righteousness may profit the son of man.
 - brenton: Thy ungodliness may affect a man who is like to thee; or thy righteousness a son of man.
 
-### Song of Solomon 8:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.720`
-- fresh_brenton_ratio: `0.699`
-- fresh: Set me as a seal on your heart, as a seal on your arm, because love strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
-- mt: Set me as a seal upon yours heart, as a seal upon yours arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which has a most vehement flame.
-- brenton: Set me as a seal upon thy heart, as a seal upon thine arm; for love is strong as death; jealousy is cruel as the grave, her shafts are shafts of fire, even the flames thereof.
-
 ### 2 Samuel 15:37
 - priority: `0`
 - importance: `none`
@@ -137424,15 +137415,6 @@ Method:
 - fresh: Judah, your brothers will praise you. Your hands will be on the back of your enemies. Your father's sons will bow to you.
 - mt: Judah, you are he whom your brethren shall praise: your hand shall be in the neck of yours enemies; your father's children shall bow down before you.
 - brenton: Juda, thy brethren have praised thee, and thy hands shall be on the back of thine enemies; thy father's sons shall do thee reverence.
-
-### Song of Solomon 8:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.723`
-- fresh_brenton_ratio: `0.675`
-- fresh: You sitting in gardens, companions attending to your voice, let me hear.
-- mt: You that dwell in the gardens, the companions hearken to your voice: cause me to hear it.
-- brenton: Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear it.
 
 ### Numbers 1:3
 - priority: `0`
@@ -140583,6 +140565,15 @@ Method:
 - fresh: And on the twenty-fourth day of this month sons of Israel were gathered in fasting and in sackcloth.
 - mt: Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sack clothes, and earth upon them.
 - brenton: Now on the twenty-fourth day of this month the children of Israel assembled with fasting, and in sackcloths, and with ashes on their head.
+
+### Song of Solomon 8:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.731`
+- fresh_brenton_ratio: `0.711`
+- fresh: Set me as a seal on your heart, as a seal on your arm, because love is strong as death, jealousy hard as Hades; its wings are wings of fire, its flames.
+- mt: Set me as a seal upon yours heart, as a seal upon yours arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which has a most vehement flame.
+- brenton: Set me as a seal upon thy heart, as a seal upon thine arm; for love is strong as death; jealousy is cruel as the grave, her shafts are shafts of fire, even the flames thereof.
 
 ### Deuteronomy 16:7
 - priority: `0`
@@ -147829,15 +147820,6 @@ Method:
 - mt: All of you shall dwell in booths seven days; all that are Israelites born shall dwell in booths:
 - brenton: Seven days ye shall dwell in tabernacles: every native in Israel shall dwell in tents,
 
-### Song of Solomon 8:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.749`
-- fresh_brenton_ratio: `0.705`
-- fresh: If she is wall, we will build upon her battlements of silver; and if she is door, we will engrave upon her cedar board.
-- mt: If she be a wall, we will build upon her a palace of silver: and if she be a door, we will enclose her with boards of cedar.
-- brenton: If she is a wall, let us build upon her silver bulwarks; and if she is a door, let us carve for her cedar panels.
-
 ### Judges 11:27
 - priority: `0`
 - importance: `none`
@@ -154624,6 +154606,15 @@ Method:
 - mt: Now the rest of the acts of Omri which he did, and his might that he showed, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: And the rest of the acts of Ambri, and all that he did, and all his might, behold, are not these things written in the book of the chronicles of the kings of Israel?
 
+### Song of Solomon 8:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.765`
+- fresh_brenton_ratio: `0.833`
+- fresh: I am a wall, and my breasts are like towers. I became in his eyes as one finding peace.
+- mt: I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.
+- brenton: I am a wall, and my breasts are as towers; I was in their eyes as one that found peace.
+
 ### Ezekiel 37:6
 - priority: `0`
 - importance: `none`
@@ -156684,6 +156675,15 @@ Method:
 - fresh: And he shall bring his trespass to the Lord at the door of the tent of testimony, a ram of trespass.
 - mt: And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.
 - brenton: And he shall bring for his trespass to the Lord to the door of the tabernacle of witness, a ram for a trespass-offering.
+
+### Song of Solomon 8:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.770`
+- fresh_brenton_ratio: `0.829`
+- fresh: Our sister is small, and she has no breasts. What shall we do for our sister on the day when they speak in her?
+- mt: We have a little sister, and she has no breasts: what shall we do for our sister in the day when she shall be spoken for?
+- brenton: Our sister is little, and has no breasts; what shall we do for our sister, in the day wherein she shall be spoken for?
 
 ### Joshua 8:3
 - priority: `0`
@@ -159457,15 +159457,6 @@ Method:
 - mt: It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.
 - brenton: It is a perpetual covenant with me and the children of Israel, it is a perpetual sign with me; for in six days the Lord made the heaven and the earth, and on the seventh day he ceased, and rested.
 
-### Song of Solomon 8:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.778`
-- fresh_brenton_ratio: `0.778`
-- fresh: His left under my head, and his right will embrace me.
-- mt: His left hand should be under my head, and his right hand should embrace me.
-- brenton: His left hand should be under my head, and his right hand should embrace me.
-
 ### Proverbs 25:25
 - priority: `0`
 - importance: `none`
@@ -160113,6 +160104,15 @@ Method:
 - fresh: And he struck them hip upon thigh, a great blow, and he went down and dwelt by the torrent in the cave of Etam.
 - mt: And he stroke them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
 - brenton: And he smote them leg on thigh with a great overthrow; and went down and dwelt in a cave of the rock Etam.
+
+### Song of Solomon 8:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.780`
+- fresh_brenton_ratio: `0.722`
+- fresh: If she is a wall, we will build upon her battlements of silver; and if she is a door, we will engrave upon her a cedar board.
+- mt: If she be a wall, we will build upon her a palace of silver: and if she be a door, we will enclose her with boards of cedar.
+- brenton: If she is a wall, let us build upon her silver bulwarks; and if she is a door, let us carve for her cedar panels.
 
 ### Joshua 12:23
 - priority: `0`
@@ -164074,6 +164074,15 @@ Method:
 - mt: Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
 - brenton: Remember them, O God, for their false connection with the priesthood, and the breaking the covenant of the priesthood, and for defiling the Levites.
 
+### Song of Solomon 8:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.791`
+- fresh_brenton_ratio: `0.791`
+- fresh: His left is under my head, and his right will embrace me.
+- mt: His left hand should be under my head, and his right hand should embrace me.
+- brenton: His left hand should be under my head, and his right hand should embrace me.
+
 ### Habakkuk 2:2
 - priority: `0`
 - importance: `none`
@@ -167160,15 +167169,6 @@ Method:
 - fresh: And all inhabiting Egypt will know that I am the Lord, because you became reed-staff to the house of Israel.
 - mt: And all the inhabitants of Egypt shall know that I am the LORD, because they have been a staff of reed to the house of Israel.
 - brenton: And all the dwellers in Egypt shall know that I am the Lord, because thou hast been a staff of reed to the house of Israel.
-
-### Song of Solomon 8:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.800`
-- fresh_brenton_ratio: `0.769`
-- fresh: Small sister to us, and she has no breasts. What shall we do for our sister on the day when they speak in her?
-- mt: We have a little sister, and she has no breasts: what shall we do for our sister in the day when she shall be spoken for?
-- brenton: Our sister is little, and has no breasts; what shall we do for our sister, in the day wherein she shall be spoken for?
 
 ### Leviticus 10:4
 - priority: `0`
