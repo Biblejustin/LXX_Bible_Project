@@ -43895,15 +43895,6 @@ Rows: 20939
 - mt: Your throne is established of old: you are from everlasting.
 - brenton: Be thou exalted, thou that judgest the earth: render a reward to the proud.
 
-## Proverbs 21:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.333`
-- fresh_brenton_ratio: `0.631`
-- fresh: Bold and self-willed and braggart is called pest; lawless is one remembering wrongs.
-- mt: Proud and haughty scorner is his name, who deals in proud wrath.
-- brenton: A bold and self-willed and insolent man is called a pest: and he that remembers injuries is a transgressor.
-
 ## Exodus 38:4
 - priority: `0`
 - importance: `none`
@@ -46487,6 +46478,15 @@ Rows: 20939
 - mt: Behold, they shall surely gather together, but not by me: whosoever shall gather together against you shall fall for your sake.
 - brenton: Behold, strangers shall come to thee by me, and shall sojourn with thee, and shall run to thee for refuge.
 
+## Proverbs 21:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.347`
+- fresh_brenton_ratio: `0.622`
+- fresh: Bold and self-willed and braggart is called pest; a lawless one is one remembering wrongs.
+- mt: Proud and haughty scorner is his name, who deals in proud wrath.
+- brenton: A bold and self-willed and insolent man is called a pest: and he that remembers injuries is a transgressor.
+
 ## Psalms 72:3
 - priority: `0`
 - importance: `none`
@@ -47458,6 +47458,15 @@ Rows: 20939
 - fresh: and the hangings of the court and the posts and the curtain of the door of the tent and of the gate of the court and all the utensils of the tent and all its instruments,
 - mt: And they made two rings of gold, and put them on the two ends of the breastplate, upon the border of it, which was on the side of the ephod inward.
 - brenton: and the garments of the sanctuary which belong to Aaron, and the garments of his sons, for the priestly ministry;
+
+## Proverbs 22:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.353`
+- fresh_brenton_ratio: `0.385`
+- fresh: A deep pit is the mouth of a lawless man; one hated by the Lord will fall into it. There are evil ways before a man, and he does not love to turn from them; but one must turn from a crooked and evil way.
+- mt: The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.
+- brenton: The mouth of a transgressor is a deep pit; and he that is hated of the Lord shall fall into it.
 
 ## 2 Chronicles 6:5
 - priority: `0`
@@ -50068,15 +50077,6 @@ Rows: 20939
 - fresh: And I contended with them and cursed them and struck men among them and made them bald, and made them swear by God that you will not give your daughters to their sons and will not take from their daughters for your sons.
 - mt: And I contended with them, and cursed them, and stroke certain of them, and plucked off their hair, and made them swear by God, saying, All of you shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.
 - brenton: And I strove with them and cursed them; and I smote some of them, and plucked off their hair, and made them swear by God, saying,Ye shall not give your daughters to their sons, and ye shall not take of their daughters to your sons.
-
-## Proverbs 22:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.368`
-- fresh_brenton_ratio: `0.373`
-- fresh: Deep pit is mouth of lawless man; one hated by the Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
-- mt: The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.
-- brenton: The mouth of a transgressor is a deep pit; and he that is hated of the Lord shall fall into it.
 
 ## Job 24:4
 - priority: `0`
@@ -54947,15 +54947,6 @@ Rows: 20939
 - mt: I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.
 - brenton: I said, I shall no more at all see the salvation of God in the land of the living: I shall no more at all see the salvation of Israel on the earth: I shall no more at all see man.
 
-## Proverbs 24:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.400`
-- fresh_brenton_ratio: `0.505`
-- fresh: For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
-- mt: For a just man falls seven times, and rises up again: but the wicked shall fall into mischief.
-- brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
-
 ## Hosea 13:14
 - priority: `0`
 - importance: `none`
@@ -59717,15 +59708,6 @@ Rows: 20939
 - mt: The whole earth is at rest, and is quiet: they break forth into singing.
 - brenton: All the earth cries aloud with joy:
 
-## Proverbs 21:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.438`
-- fresh_brenton_ratio: `0.634`
-- fresh: High-minded in insolence, bold in heart; lamp of ungodly is sin.
-- mt: An high look, and a proud heart, and the plowing of the wicked, is sin.
-- brenton: A high-minded man is stout-hearted in his pride; and the lamp of the wicked is sin.
-
 ## Ezekiel 7:20
 - priority: `0`
 - importance: `none`
@@ -61787,6 +61769,15 @@ Rows: 20939
 - mt: The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan.
 - brenton: And the sons of Issachar according to their families: to Thola, the family of the Tholaites; to Phua, the family of the Phuaites.
 
+## Proverbs 21:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.453`
+- fresh_brenton_ratio: `0.805`
+- fresh: The joy of the righteous is doing judgment, but a holy man is unclean among evildoers.
+- mt: It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.
+- brenton: It is the joy of the righteous to do judgment: but a holy man is abominable with evil-doers.
+
 ## Isaiah 13:20
 - priority: `0`
 - importance: `none`
@@ -62056,15 +62047,6 @@ Rows: 20939
 - fresh: Wealth of rich man is strong city, and its glory overshadows greatly.
 - mt: The rich man's wealth is his strong city, and as an high wall in his own conceit.
 - brenton: The wealth of a rich man is a strong city; and its glory casts a broad shadow.
-
-## Proverbs 21:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.455`
-- fresh_brenton_ratio: `0.769`
-- fresh: The joy of the righteous is doing judgment, but holy man unclean among evildoers.
-- mt: It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.
-- brenton: It is the joy of the righteous to do judgment: but a holy man is abominable with evil-doers.
 
 ## Jeremiah 25:3
 - priority: `0`
@@ -65666,15 +65648,6 @@ Rows: 20939
 - mt: At the noise of the tumult the people fled; at the lifting up of yourself the nations were scattered.
 - brenton: By reason of the terrible sound the nations were dismayed for fear of thee, and the heathen were scattered.
 
-## Proverbs 24:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.484`
-- fresh_brenton_ratio: `0.425`
-- fresh: For no offspring will come to evil men, and lamp of ungodly will be quenched.
-- mt: For there shall be no reward to the evil man; the candle of the wicked shall be put out.
-- brenton: For the evil man shall have no posterity: and the light of the wicked shall be put out.
-
 ## Numbers 7:30
 - priority: `0`
 - importance: `none`
@@ -66836,6 +66809,15 @@ Rows: 20939
 - mt: Eastward were six Levites, northward four a day, southward four a day, and toward Asuppim two and two.
 - brenton: Eastward were six watchmen in the day; northward four by the day; southward four by the day; and two at the Esephim,
 
+## Proverbs 24:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.492`
+- fresh_brenton_ratio: `0.535`
+- fresh: For seven times the righteous will fall and rise, but the ungodly will grow weak in evils.
+- mt: For a just man falls seven times, and rises up again: but the wicked shall fall into mischief.
+- brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
+
 ## Job 13:12
 - priority: `0`
 - importance: `none`
@@ -67942,15 +67924,6 @@ Rows: 20939
 - fresh: Son, do not drift away; keep my counsel and thought,
 - mt: My son, let not them depart from yours eyes: keep sound wisdom and discretion:
 - brenton: My son, let them not pass from thee, but keep my counsel and understanding:
-
-## Proverbs 17:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.500`
-- fresh_brenton_ratio: `0.616`
-- fresh: One justifying unjust and condemning righteous is unclean and abominable before God.
-- mt: He that justifies the wicked, and he that condemns the just, even they both are abomination to the LORD.
-- brenton: He that pronounces the unjust just, and the just unjust, is unclean and abominable with God.
 
 ## Proverbs 2:8
 - priority: `0`
@@ -71435,6 +71408,15 @@ Rows: 20939
 - mt: Though your beginning was small, yet your latter end should greatly increase.
 - brenton: Though then thy beginning should be small, yet thy end should be unspeakably great.
 
+## Proverbs 24:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.521`
+- fresh_brenton_ratio: `0.488`
+- fresh: For no offspring will come to evil men, and the lamp of the ungodly will be quenched.
+- mt: For there shall be no reward to the evil man; the candle of the wicked shall be put out.
+- brenton: For the evil man shall have no posterity: and the light of the wicked shall be put out.
+
 ## Isaiah 25:9
 - priority: `0`
 - importance: `none`
@@ -72920,6 +72902,15 @@ Rows: 20939
 - mt: For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.
 - brenton: for every drunkard and whoremonger shall be poor; and every sluggard shall clothe himself with tatters and ragged garments.
 
+## Proverbs 21:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.529`
+- fresh_brenton_ratio: `0.693`
+- fresh: High-minded in insolence, bold in heart; the lamp of the ungodly is sin.
+- mt: An high look, and a proud heart, and the plowing of the wicked, is sin.
+- brenton: A high-minded man is stout-hearted in his pride; and the lamp of the wicked is sin.
+
 ## Nehemiah 12:3
 - priority: `0`
 - importance: `none`
@@ -73171,6 +73162,15 @@ Rows: 20939
 - fresh: There is no memory for first things, and even for last things that come there will be no memory for them with things yet to be at end.
 - mt: There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
 - brenton: There is no memorial to the first things; neither to the things that have been last shall their memorial be with them that shall be at the last time.
+
+## Proverbs 17:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.531`
+- fresh_brenton_ratio: `0.633`
+- fresh: One justifying the unjust and condemning the righteous is unclean and abominable before God.
+- mt: He that justifies the wicked, and he that condemns the just, even they both are abomination to the LORD.
+- brenton: He that pronounces the unjust just, and the just unjust, is unclean and abominable with God.
 
 ## Deuteronomy 10:18
 - priority: `0`

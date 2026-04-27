@@ -68326,7 +68326,7 @@ Authority gives beginning to the words of righteousness, but before want comes f
 
 **Proverbs 17:15**
 
-One justifying unjust and condemning righteous is unclean and abominable before God.
+One justifying the unjust and condemning the righteous is unclean and abominable before God.
 
 **Proverbs 17:16**
 
@@ -68682,7 +68682,7 @@ Doing righteous things and speaking truth more pleasing to God than blood sacrif
 
 **Proverbs 21:4**
 
-High-minded in insolence, bold in heart; lamp of ungodly is sin.
+High-minded in insolence, bold in heart; the lamp of the ungodly is sin.
 
 **Proverbs 21:6**
 
@@ -68722,7 +68722,7 @@ Secret gift overturns wraths, but one sparing gifts stirs strong anger.
 
 **Proverbs 21:15**
 
-The joy of the righteous is doing judgment, but holy man unclean among evildoers.
+The joy of the righteous is doing judgment, but a holy man is unclean among evildoers.
 
 **Proverbs 21:16**
 
@@ -68758,7 +68758,7 @@ One guarding his mouth and tongue keeps his soul from affliction.
 
 **Proverbs 21:24**
 
-Bold and self-willed and braggart is called pest; lawless is one remembering wrongs.
+Bold and self-willed and braggart is called pest; a lawless one is one remembering wrongs.
 
 **Proverbs 21:25**
 
@@ -68840,7 +68840,7 @@ Sluggard makes excuse and says, "Lion in roads; in streets I will be killed."
 
 **Proverbs 22:14**
 
-Deep pit is mouth of lawless man; one hated by the Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
+A deep pit is the mouth of a lawless man; one hated by the Lord will fall into it. There are evil ways before a man, and he does not love to turn from them; but one must turn from a crooked and evil way.
 
 **Proverbs 22:15**
 
@@ -69104,7 +69104,7 @@ Do not bring ungodly to pasture of righteous, nor be deceived by filling of bell
 
 **Proverbs 24:16**
 
-For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
+For seven times the righteous will fall and rise, but the ungodly will grow weak in evils.
 
 **Proverbs 24:17**
 
@@ -69120,7 +69120,7 @@ Do not rejoice over evildoers, nor envy sinners.
 
 **Proverbs 24:20**
 
-For no offspring will come to evil men, and lamp of ungodly will be quenched.
+For no offspring will come to evil men, and the lamp of the ungodly will be quenched.
 
 **Proverbs 24:21**
 

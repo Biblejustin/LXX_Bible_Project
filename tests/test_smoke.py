@@ -2943,6 +2943,17 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "but he loves those pursuing righteousness" in by_ref["Proverbs 15:9"][
         "draft_translation"
     ]
+    assert "justifying the unjust and condemning the righteous" in by_ref["Proverbs 17:15"][
+        "draft_translation"
+    ]
+    assert "the lamp of the ungodly is sin" in by_ref["Proverbs 21:4"]["draft_translation"]
+    assert "a holy man is unclean among evildoers" in by_ref["Proverbs 21:15"]["draft_translation"]
+    assert "a lawless one is one remembering wrongs" in by_ref["Proverbs 21:24"]["draft_translation"]
+    assert "A deep pit is the mouth of a lawless man" in by_ref["Proverbs 22:14"]["draft_translation"]
+    assert "before a man" in by_ref["Proverbs 22:14"]["draft_translation"]
+    assert "from a crooked and evil way" in by_ref["Proverbs 22:14"]["draft_translation"]
+    assert "the ungodly will grow weak in evils" in by_ref["Proverbs 24:16"]["draft_translation"]
+    assert "the lamp of the ungodly will be quenched" in by_ref["Proverbs 24:20"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

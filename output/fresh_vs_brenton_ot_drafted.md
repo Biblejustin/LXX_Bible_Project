@@ -150795,10 +150795,10 @@ Note:
 ### Proverbs 17:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One justifying unjust and condemning righteous is unclean and abominable before God.
+- fresh: One justifying the unjust and condemning the righteous is unclean and abominable before God.
 - brenton: He that pronounces the unjust just, and the just unjust, is unclean and abominable with God.
 
 ### Proverbs 17:16
@@ -151578,10 +151578,10 @@ Note:
 ### Proverbs 21:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: High-minded in insolence, bold in heart; lamp of ungodly is sin.
+- fresh: High-minded in insolence, bold in heart; the lamp of the ungodly is sin.
 - brenton: A high-minded man is stout-hearted in his pride; and the lamp of the wicked is sin.
 
 ### Proverbs 21:6
@@ -151668,10 +151668,10 @@ Note:
 ### Proverbs 21:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The joy of the righteous is doing judgment, but holy man unclean among evildoers.
+- fresh: The joy of the righteous is doing judgment, but a holy man is unclean among evildoers.
 - brenton: It is the joy of the righteous to do judgment: but a holy man is abominable with evil-doers.
 
 ### Proverbs 21:16
@@ -151749,10 +151749,10 @@ Note:
 ### Proverbs 21:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bold and self-willed and braggart is called pest; lawless is one remembering wrongs.
+- fresh: Bold and self-willed and braggart is called pest; a lawless one is one remembering wrongs.
 - brenton: A bold and self-willed and insolent man is called a pest: and he that remembers injuries is a transgressor.
 
 ### Proverbs 21:25
@@ -151929,10 +151929,10 @@ Note:
 ### Proverbs 22:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Deep pit is mouth of lawless man; one hated by the Lord will fall into it. There are evil ways before man, and he does not love to turn from them; but one must turn from crooked and evil way.
+- fresh: A deep pit is the mouth of a lawless man; one hated by the Lord will fall into it. There are evil ways before a man, and he does not love to turn from them; but one must turn from a crooked and evil way.
 - brenton: The mouth of a transgressor is a deep pit; and he that is hated of the Lord shall fall into it.
 
 ### Proverbs 22:15
@@ -152514,10 +152514,10 @@ Note:
 ### Proverbs 24:16
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: For seven times the righteous will fall and rise, but ungodly will grow weak in evils.
+- fresh: For seven times the righteous will fall and rise, but the ungodly will grow weak in evils.
 - brenton: For a righteous man will fall seven times, and rise again: but the ungodly shall be without strength in troubles.
 
 ### Proverbs 24:17
@@ -152550,10 +152550,10 @@ Note:
 ### Proverbs 24:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For no offspring will come to evil men, and lamp of ungodly will be quenched.
+- fresh: For no offspring will come to evil men, and the lamp of the ungodly will be quenched.
 - brenton: For the evil man shall have no posterity: and the light of the wicked shall be put out.
 
 ### Proverbs 24:21
