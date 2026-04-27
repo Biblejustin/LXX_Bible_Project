@@ -4339,6 +4339,24 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "Song of Solomon 4:10"
     ]["draft_translation"]
     assert "A garden shut" in by_ref["Song of Solomon 4:12"]["draft_translation"]
+    assert "knocks at the door" in by_ref["Song of Solomon 5:2"][
+        "draft_translation"
+    ]
+    assert "my fingers were full of myrrh" in by_ref["Song of Solomon 5:5"][
+        "draft_translation"
+    ]
+    assert "by the powers and by the strengths of the field" in by_ref[
+        "Song of Solomon 5:8"
+    ]["draft_translation"]
+    assert "My beloved is white and ruddy" in by_ref["Song of Solomon 5:10"][
+        "draft_translation"
+    ]
+    assert "His cheeks are like bowls of spice" in by_ref[
+        "Song of Solomon 5:13"
+    ]["draft_translation"]
+    assert "His throat is sweetness" in by_ref["Song of Solomon 5:16"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

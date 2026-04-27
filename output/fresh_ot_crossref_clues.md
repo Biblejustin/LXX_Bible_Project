@@ -2409,7 +2409,7 @@ Rows: 233
 - NT crossrefs: 1
 - shared-family hits: 0
 - fresh: I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me.
-- OT clues: Song.5.2 (5) -> I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night." || Hos.5.15 (3) -> I will go and return to my place until they are destroyed and seek my face; in their affliction they will rise early toward me, saying, || 1Sam.28.6 (2) -> And Saul inquired through the Lord, and the Lord did not answer him in dreams and in manifestations and in prophets. || 2Sam.16.10 (2) -> And the king said, What is to me and to you, sons of Zeruiah? Leave him and thus let him curse, because the Lord told him to curse David, and who will say, Why did you do thus?
+- OT clues: Song.5.2 (5) -> I sleep, and my heart wakes. The voice of my beloved knocks at the door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head is filled with dew and my locks with drops of night." || Hos.5.15 (3) -> I will go and return to my place until they are destroyed and seek my face; in their affliction they will rise early toward me, saying, || 1Sam.28.6 (2) -> And Saul inquired through the Lord, and the Lord did not answer him in dreams and in manifestations and in prophets. || 2Sam.16.10 (2) -> And the king said, What is to me and to you, sons of Zeruiah? Leave him and thus let him curse, because the Lord told him to curse David, and who will say, Why did you do thus?
 - NT clues: Rev.3.19 (3) -> As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 
 ## Song of Solomon 6:2
@@ -2420,7 +2420,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: My beloved went down into his garden, into bowls of spice, to shepherd in gardens and gather lilies.
-- OT clues: Song.5.13 (7) -> His cheeks like bowls of spice, growing perfumes; his lips lilies dripping full myrrh. || Ezek.34.23 (2) -> And I will raise up over them one shepherd, and he will shepherd them, my servant David, and he will be their shepherd. || Isa.40.11 (2) -> As shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in womb. || Isa.57.1 (2) -> See how a righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from the face of injustice a righteous man is taken away.
+- OT clues: Song.5.13 (7) -> His cheeks are like bowls of spice, growing perfumes; his lips are lilies dripping full myrrh. || Ezek.34.23 (2) -> And I will raise up over them one shepherd, and he will shepherd them, my servant David, and he will be their shepherd. || Isa.40.11 (2) -> As shepherd he will shepherd his flock, and with his arm gather lambs and comfort those carrying in womb. || Isa.57.1 (2) -> See how a righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from the face of injustice a righteous man is taken away.
 - NT clues: 1Thess.4.13-1Thess.4.14 (2) -> But I would not have you to be ignorant, brethren, concerning them which are asleep, that all of you sorrow not, even as others which have no hope. || John.14.3 (2) -> And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there all of you may be also.
 
 ## Nahum 1:9

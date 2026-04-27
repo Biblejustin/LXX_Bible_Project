@@ -590,9 +590,9 @@ Rows: 726
 ## Song of Solomon 5:2
 - priority: `0`
 - importance: `none`
-- fresh_mt_ratio: `0.804`
-- fresh_brenton_ratio: `0.170`
-- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.167`
+- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at the door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head is filled with dew and my locks with drops of night."
 - mt: I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
 - brenton: I sleep, but my heart is awake: the voice of my kinsman knocks at the door, saying, Open, open to me, my companion, my sister, my dove, my perfect one: for my head is filled with dew, and my locks with the drops of the night.
 

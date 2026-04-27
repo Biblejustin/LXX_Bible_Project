@@ -71176,7 +71176,7 @@ I entered my garden, my sister bride; I gathered my myrrh with my spices; I ate 
 
 **Song of Solomon 5:2**
 
-I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
+I sleep, and my heart wakes. The voice of my beloved knocks at the door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head is filled with dew and my locks with drops of night."
 
 **Song of Solomon 5:3**
 
@@ -71184,11 +71184,11 @@ I stripped my tunic; how shall I put it on? I washed my feet; how shall I soil t
 
 **Song of Solomon 5:4**
 
-My beloved sent his hand through opening, and my inward parts trembled for him.
+My beloved sent his hand through the opening, and my inward parts trembled for him.
 
 **Song of Solomon 5:5**
 
-I rose, I, to open to my beloved; my hands dripped myrrh, my fingers full myrrh upon handles of lock.
+I rose, I, to open to my beloved; my hands dripped myrrh, my fingers were full of myrrh upon the handles of the lock.
 
 **Song of Solomon 5:6**
 
@@ -71196,11 +71196,11 @@ I opened, I, to my beloved; my beloved passed by. My soul went out at his word. 
 
 **Song of Solomon 5:7**
 
-Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of walls took my veil from me.
+Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of the walls took my veil from me.
 
 **Song of Solomon 5:8**
 
-I bound you by oath, daughters of Jerusalem, by powers and strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
+I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
 
 **Song of Solomon 5:9**
 
@@ -71208,31 +71208,31 @@ What is your beloved beyond beloved, beautiful among women? What is your beloved
 
 **Song of Solomon 5:10**
 
-My beloved white and ruddy, singled out from myriads.
+My beloved is white and ruddy, singled out from myriads.
 
 **Song of Solomon 5:11**
 
-His head gold and fine gold; his curls like palm branches, black as raven.
+His head is gold and fine gold; his curls are like palm branches, black as a raven.
 
 **Song of Solomon 5:12**
 
-His eyes like doves by fillings of waters, washed in milk, sitting by fullness of waters.
+His eyes are like doves by fillings of waters, washed in milk, sitting by fullness of waters.
 
 **Song of Solomon 5:13**
 
-His cheeks like bowls of spice, growing perfumes; his lips lilies dripping full myrrh.
+His cheeks are like bowls of spice, growing perfumes; his lips are lilies dripping full myrrh.
 
 **Song of Solomon 5:14**
 
-His hands gold-carved, filled with Tarshish; his belly ivory box on sapphire stone.
+His hands are gold-carved, filled with Tarshish; his belly is an ivory box on a sapphire stone.
 
 **Song of Solomon 5:15**
 
-His legs marble pillars founded on gold bases; his appearance like Lebanon, choice as cedars.
+His legs are marble pillars founded on gold bases; his appearance is like Lebanon, choice as cedars.
 
 **Song of Solomon 5:16**
 
-His throat sweetness, and he is wholly desirable. This is my beloved and this my dear one, daughters of Jerusalem.
+His throat is sweetness, and he is wholly desirable. This is my beloved and this is my dear one, daughters of Jerusalem.
 
 ### Chapter 6
 

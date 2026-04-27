@@ -157063,10 +157063,10 @@ Note:
 ### Song of Solomon 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
+- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at the door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head is filled with dew and my locks with drops of night."
 - brenton: I sleep, but my heart is awake: the voice of my kinsman knocks at the door, saying, Open, open to me, my companion, my sister, my dove, my perfect one: for my head is filled with dew, and my locks with the drops of the night.
 
 ### Song of Solomon 5:3
@@ -157081,19 +157081,19 @@ Note:
 ### Song of Solomon 5:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My beloved sent his hand through opening, and my inward parts trembled for him.
+- fresh: My beloved sent his hand through the opening, and my inward parts trembled for him.
 - brenton: My kinsman put forth his hand by the hole of the door, and my belly was moved for him.
 
 ### Song of Solomon 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I rose, I, to open to my beloved; my hands dripped myrrh, my fingers full myrrh upon handles of lock.
+- fresh: I rose, I, to open to my beloved; my hands dripped myrrh, my fingers were full of myrrh upon the handles of the lock.
 - brenton: I rose up to open to my kinsman; my hands dropped myrrh, my fingers choice myrrh, on the handles of the lock.
 
 ### Song of Solomon 5:6
@@ -157108,19 +157108,19 @@ Note:
 ### Song of Solomon 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of walls took my veil from me.
+- fresh: Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of the walls took my veil from me.
 - brenton: The watchmen that go their rounds in the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
 
 ### Song of Solomon 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
 - brenton: I have charged you, O daughters of Jerusalem, by the powers and the virtues of the field: if ye should find my kinsman, what are ye to say to him? That I am wounded with love.
 
 ### Song of Solomon 5:9
@@ -157135,64 +157135,64 @@ Note:
 ### Song of Solomon 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My beloved white and ruddy, singled out from myriads.
+- fresh: My beloved is white and ruddy, singled out from myriads.
 - brenton: My kinsman is white and ruddy, chosen out from myriads.
 
 ### Song of Solomon 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His head gold and fine gold; his curls like palm branches, black as raven.
+- fresh: His head is gold and fine gold; his curls are like palm branches, black as a raven.
 - brenton: His head is as very fine gold, his locks are flowing, black as a raven.
 
 ### Song of Solomon 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His eyes like doves by fillings of waters, washed in milk, sitting by fullness of waters.
+- fresh: His eyes are like doves by fillings of waters, washed in milk, sitting by fullness of waters.
 - brenton: His eyes are as doves, by the pools of waters, washed with milk, sitting by the pools.
 
 ### Song of Solomon 5:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His cheeks like bowls of spice, growing perfumes; his lips lilies dripping full myrrh.
+- fresh: His cheeks are like bowls of spice, growing perfumes; his lips are lilies dripping full myrrh.
 - brenton: His cheeks are as bowls of spices pouring forth perfumes: his lips are lilies, dropping choice myrrh.
 
 ### Song of Solomon 5:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His hands gold-carved, filled with Tarshish; his belly ivory box on sapphire stone.
+- fresh: His hands are gold-carved, filled with Tarshish; his belly is an ivory box on a sapphire stone.
 - brenton: His hands are as turned gold set with beryl: his belly is an ivory tablet on a sapphire stone.
 
 ### Song of Solomon 5:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His legs marble pillars founded on gold bases; his appearance like Lebanon, choice as cedars.
+- fresh: His legs are marble pillars founded on gold bases; his appearance is like Lebanon, choice as cedars.
 - brenton: His legs are marble pillars set on golden sockets: his form is as Libanus, choice as the cedars.
 
 ### Song of Solomon 5:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His throat sweetness, and he is wholly desirable. This is my beloved and this my dear one, daughters of Jerusalem.
+- fresh: His throat is sweetness, and he is wholly desirable. This is my beloved and this is my dear one, daughters of Jerusalem.
 - brenton: His throat is most sweet, and altogether desirable. This is my kinsman, and this is my companion, O daughters of Jerusalem.
 
 ### Song of Solomon 6:1

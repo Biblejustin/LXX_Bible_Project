@@ -86879,15 +86879,6 @@ Rows: 20937
 - mt: And he said, Leave us not, I pray you; forasmuch as you know how we are to camp in the wilderness, and you may be to us instead of eyes.
 - brenton: And he said, Leave us not, because thou hast been with us in the wilderness, and thou shalt be an elder among us.
 
-## Song of Solomon 5:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.595`
-- fresh_brenton_ratio: `0.750`
-- fresh: My beloved white and ruddy, singled out from myriads.
-- mt: My beloved is white and rosy, the chiefest among ten thousand.
-- brenton: My kinsman is white and ruddy, chosen out from myriads.
-
 ## Job 38:41
 - priority: `0`
 - importance: `none`
@@ -89003,15 +88994,6 @@ Rows: 20937
 - mt: They hate him that rebukes in the gate, and they detest him that speaks uprightly.
 - brenton: They hated him that reproved in the gates, and abhorred holy speech.
 
-## Song of Solomon 5:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.603`
-- fresh_brenton_ratio: `0.686`
-- fresh: His hands gold-carved, filled with Tarshish; his belly ivory box on sapphire stone.
-- mt: His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.
-- brenton: His hands are as turned gold set with beryl: his belly is an ivory tablet on a sapphire stone.
-
 ## Numbers 18:21
 - priority: `0`
 - importance: `none`
@@ -90694,15 +90676,6 @@ Rows: 20937
 - fresh: If someone strikes a person and he dies, let him certainly be put to death.
 - mt: He that strikes a man, so that he die, shall be surely put to death.
 - brenton: And if any man smite another and he die, let him be certainly put to death.
-
-## Song of Solomon 5:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.609`
-- fresh_brenton_ratio: `0.714`
-- fresh: His eyes like doves by fillings of waters, washed in milk, sitting by fullness of waters.
-- mt: His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.
-- brenton: His eyes are as doves, by the pools of waters, washed with milk, sitting by the pools.
 
 ## Joshua 16:6
 - priority: `0`
@@ -97481,6 +97454,15 @@ Rows: 20937
 - mt: And while he yet spoke with them, Rachel came with her father's sheep; for she kept them.
 - brenton: While he was yet speaking to them, behold, Rachel the daughter of Laban came with her father's sheep, for she fed the sheep of her father.
 
+## Song of Solomon 5:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.632`
+- fresh_brenton_ratio: `0.785`
+- fresh: My beloved is white and ruddy, singled out from myriads.
+- mt: My beloved is white and rosy, the chiefest among ten thousand.
+- brenton: My kinsman is white and ruddy, chosen out from myriads.
+
 ## Ezekiel 23:3
 - priority: `0`
 - importance: `none`
@@ -99452,15 +99434,6 @@ Rows: 20937
 - mt: For thus says the Lord GOD; I will even deal with you as you have done, which have despised the oath in breaking the covenant.
 - brenton: Thus saith the Lord; I will even do to thee as thou hast done, as thou hast dealt shamefully in these things to transgress my covenant.
 
-## Song of Solomon 5:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.638`
-- fresh_brenton_ratio: `0.721`
-- fresh: His legs marble pillars founded on gold bases; his appearance like Lebanon, choice as cedars.
-- mt: His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.
-- brenton: His legs are marble pillars set on golden sockets: his form is as Libanus, choice as the cedars.
-
 ## 1 Samuel 10:7
 - priority: `0`
 - importance: `none`
@@ -100081,6 +100054,15 @@ Rows: 20937
 - fresh: And we have brought the gift to the Lord, each man what he found, a gold article, chain and bracelet and ring and armlet and clasped ornament, to make atonement for us before the Lord.
 - mt: We have therefore brought an oblation for the LORD, what every man has got, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD.
 - brenton: And we have brought our gift to the Lord, every man who has found an article of gold, whether an armlet, or a chain, or a ring, or a bracelet, or a clasp for hair, to make atonement for us before the Lord.
+
+## Song of Solomon 5:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.640`
+- fresh_brenton_ratio: `0.733`
+- fresh: His eyes are like doves by fillings of waters, washed in milk, sitting by fullness of waters.
+- mt: His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.
+- brenton: His eyes are as doves, by the pools of waters, washed with milk, sitting by the pools.
 
 ## Isaiah 60:8
 - priority: `0`
@@ -101783,6 +101765,15 @@ Rows: 20937
 - mt: Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.
 - brenton: and Tobias and Sanaballat had hired against me a multitude, that I might be frightened, and do this, and sin, and become to them an ill name, that they might reproach me.
 
+## Song of Solomon 5:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.645`
+- fresh_brenton_ratio: `0.762`
+- fresh: I bound you by oath, daughters of Jerusalem, by the powers and by the strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
+- mt: I charge you, O daughters of Jerusalem, if all of you find my beloved, that all of you tell him, that I am sick of love.
+- brenton: I have charged you, O daughters of Jerusalem, by the powers and the virtues of the field: if ye should find my kinsman, what are ye to say to him? That I am wounded with love.
+
 ## 2 Chronicles 36:19
 - priority: `0`
 - importance: `none`
@@ -101953,6 +101944,15 @@ Rows: 20937
 - fresh: And Joseph adjured the sons of Israel, saying, In the visitation with which God will visit you, then you will carry up my bones from here with you.
 - mt: And Joseph took an oath of the children of Israel, saying, God will surely visit you, and all of you shall carry up my bones from behind.
 - brenton: And Joseph adjured the sons of Israel, saying, At the visitation with which God shall visit you, then ye shall carry up my bones hence with you.
+
+## Song of Solomon 5:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.646`
+- fresh_brenton_ratio: `0.545`
+- fresh: My beloved sent his hand through the opening, and my inward parts trembled for him.
+- mt: My beloved put in his hand by the hole of the door, and my bowels were moved for him.
+- brenton: My kinsman put forth his hand by the hole of the door, and my belly was moved for him.
 
 ## Job 10:7
 - priority: `0`
@@ -103060,15 +103060,6 @@ Rows: 20937
 - fresh: sons of Besai, sons of Meunim, sons of Nephishesim,
 - mt: The children of Besai, the children of Meunim, the children of Nephishesim,
 - brenton: the children of Besi, the children of Meinon, the children of Nephosasi,
-
-## Song of Solomon 5:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.650`
-- fresh_brenton_ratio: `0.547`
-- fresh: My beloved sent his hand through opening, and my inward parts trembled for him.
-- mt: My beloved put in his hand by the hole of the door, and my bowels were moved for him.
-- brenton: My kinsman put forth his hand by the hole of the door, and my belly was moved for him.
 
 ## Ezekiel 28:4
 - priority: `0`
@@ -104734,6 +104725,15 @@ Rows: 20937
 - fresh: And you will say to them, Thus says the Lord Almighty: Return to me, and I will return to you, says the Lord.
 - mt: Therefore say you unto them, Thus says the LORD of hosts; Turn all of you unto me, says the LORD of hosts, and I will turn unto you, says the LORD of hosts.
 - brenton: And thou shalt say to them, Thus saith the Lord Almighty; Turn to me, saith the Lord of hosts, and I will turn to you, saith the Lord of hosts.
+
+## Song of Solomon 5:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.654`
+- fresh_brenton_ratio: `0.768`
+- fresh: His legs are marble pillars founded on gold bases; his appearance is like Lebanon, choice as cedars.
+- mt: His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.
+- brenton: His legs are marble pillars set on golden sockets: his form is as Libanus, choice as the cedars.
 
 ## 1 Kings 10:24
 - priority: `0`
@@ -106480,6 +106480,15 @@ Rows: 20937
 - fresh: And it will be after I cast them out, I will return and have mercy on them and settle each in his inheritance and each in his land.
 - mt: And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.
 - brenton: And it shall come to pass, after I have cast them out, that I will return, and have mercy upon them, and will cause them to dwell every one in his inheritance, and every one in his land.
+
+## Song of Solomon 5:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.660`
+- fresh_brenton_ratio: `0.772`
+- fresh: His hands are gold-carved, filled with Tarshish; his belly is an ivory box on a sapphire stone.
+- mt: His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.
+- brenton: His hands are as turned gold set with beryl: his belly is an ivory tablet on a sapphire stone.
 
 ## 2 Samuel 23:20
 - priority: `0`
@@ -110576,15 +110585,6 @@ Rows: 20937
 - mt: And the priest shall pour of the oil into the palm of his own left hand:
 - brenton: And the priest shall pour of the oil on his own left hand.
 
-## Song of Solomon 5:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.672`
-- fresh_brenton_ratio: `0.738`
-- fresh: I bound you by oath, daughters of Jerusalem, by powers and strengths of the field, if you find my beloved, what will you report to him? That I am wounded by love.
-- mt: I charge you, O daughters of Jerusalem, if all of you find my beloved, that all of you tell him, that I am sick of love.
-- brenton: I have charged you, O daughters of Jerusalem, by the powers and the virtues of the field: if ye should find my kinsman, what are ye to say to him? That I am wounded with love.
-
 ## Lamentations 3:56
 - priority: `0`
 - importance: `none`
@@ -111422,15 +111422,6 @@ Rows: 20937
 - mt: For the cherubims spread forth their two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 - brenton: For the cherubs spread out their wings over the place of the ark, and the cherubs covered the ark and its holy things above.
 
-## Song of Solomon 5:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.674`
-- fresh_brenton_ratio: `0.796`
-- fresh: His cheeks like bowls of spice, growing perfumes; his lips lilies dripping full myrrh.
-- mt: His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.
-- brenton: His cheeks are as bowls of spices pouring forth perfumes: his lips are lilies, dropping choice myrrh.
-
 ## Ezekiel 37:27
 - priority: `0`
 - importance: `none`
@@ -111952,15 +111943,6 @@ Rows: 20937
 - fresh: And the field and the cave in it were confirmed to Abraham as a burial holding from the sons of Heth.
 - mt: And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.
 - brenton: So the field and the cave which was in it were made sure to Abraam for possession of a burying place, by the sons of Chet.
-
-## Song of Solomon 5:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.676`
-- fresh_brenton_ratio: `0.691`
-- fresh: His head gold and fine gold; his curls like palm branches, black as raven.
-- mt: His head is as the most fine gold, his locks are bushy, and black as a raven.
-- brenton: His head is as very fine gold, his locks are flowing, black as a raven.
 
 ## Isaiah 7:2
 - priority: `0`
@@ -112636,15 +112618,6 @@ Rows: 20937
 - fresh: The one watching the wind will not sow, and the one looking in the clouds will not reap.
 - mt: He that observes the wind shall not sow; and he that regards the clouds shall not reap.
 - brenton: He that observes the wind sows not; and he that looks at the clouds will not reap.
-
-## Song of Solomon 5:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.678`
-- fresh_brenton_ratio: `0.715`
-- fresh: Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of walls took my veil from me.
-- mt: The watchmen that went about the city found me, they stroke me, they wounded me; the keepers of the walls took away my veil from me.
-- brenton: The watchmen that go their rounds in the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
 
 ## Exodus 21:20
 - priority: `0`
@@ -120494,6 +120467,15 @@ Rows: 20937
 - mt: But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
 - brenton: But they hearkened not; and Manasses led them astray to do evil in the sight of the Lord, beyond the nations whom the Lord utterly destroyed from before the children of Israel.
 
+## Song of Solomon 5:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.698`
+- fresh_brenton_ratio: `0.836`
+- fresh: His cheeks are like bowls of spice, growing perfumes; his lips are lilies dripping full myrrh.
+- mt: His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.
+- brenton: His cheeks are as bowls of spices pouring forth perfumes: his lips are lilies, dropping choice myrrh.
+
 ## Proverbs 21:31
 - priority: `0`
 - importance: `none`
@@ -120709,6 +120691,15 @@ Rows: 20937
 - fresh: And Manoah said, Now then, when your word comes, what shall be the ordinance for the child and his deeds?
 - mt: And Manoah said, Now let your words come to pass. How shall we order the child, and how shall we do unto him?
 - brenton: And Manoë said, Now shall thy word come to pass: what shall be the ordering of the child, and our dealings with him?
+
+## Song of Solomon 5:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.699`
+- fresh_brenton_ratio: `0.735`
+- fresh: Watchmen found me, those circling in the city. They struck me, they wounded me; watchers of the walls took my veil from me.
+- mt: The watchmen that went about the city found me, they stroke me, they wounded me; the keepers of the walls took away my veil from me.
+- brenton: The watchmen that go their rounds in the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
 
 ## Joshua 11:5
 - priority: `0`
@@ -127027,6 +127018,15 @@ Rows: 20937
 - fresh: And this shall be the border for you to the north. From the Great Sea you shall measure for yourselves by Mount Hor.
 - mt: And this shall be your north border: from the great sea all of you shall point out for you mount Hor:
 - brenton: And this shall be your northern border; from the great sea ye shall measure to yourselves, by the side of the mountain.
+
+## Song of Solomon 5:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.714`
+- fresh_brenton_ratio: `0.743`
+- fresh: His head is gold and fine gold; his curls are like palm branches, black as a raven.
+- mt: His head is as the most fine gold, his locks are bushy, and black as a raven.
+- brenton: His head is as very fine gold, his locks are flowing, black as a raven.
 
 ## 2 Chronicles 36:13
 - priority: `0`
@@ -140978,15 +140978,6 @@ Rows: 20937
 - mt: As for you also, by the blood of your covenant I have sent forth your prisoners out of the pit wherein is no water.
 - brenton: And thou by the blood of thy covenant hast sent forth thy prisoners out of the pit that has no water.
 
-## Song of Solomon 5:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.749`
-- fresh_brenton_ratio: `0.737`
-- fresh: His throat sweetness, and he is wholly desirable. This is my beloved and this my dear one, daughters of Jerusalem.
-- mt: His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.
-- brenton: His throat is most sweet, and altogether desirable. This is my kinsman, and this is my companion, O daughters of Jerusalem.
-
 ## Job 8:15
 - priority: `0`
 - importance: `none`
@@ -147241,6 +147232,15 @@ Rows: 20937
 - fresh: You shall be complete before the Lord your God.
 - mt: You shall be perfect with the LORD your God.
 - brenton: Thou shalt be perfect before the Lord thy God.
+
+## Song of Solomon 5:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.764`
+- fresh_brenton_ratio: `0.769`
+- fresh: His throat is sweetness, and he is wholly desirable. This is my beloved and this is my dear one, daughters of Jerusalem.
+- mt: His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.
+- brenton: His throat is most sweet, and altogether desirable. This is my kinsman, and this is my companion, O daughters of Jerusalem.
 
 ## Judges 11:7
 - priority: `0`
@@ -161516,15 +161516,6 @@ Rows: 20937
 - mt: And he made ten candlesticks of gold according to their form, and set them in the temple, five on the right hand, and five on the left.
 - brenton: And he made the ten golden candlesticks according to their pattern, and he put them in the temple, five on the right hand, and five on the left.
 
-## Song of Solomon 5:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.803`
-- fresh_brenton_ratio: `0.806`
-- fresh: I rose, I, to open to my beloved; my hands dripped myrrh, my fingers full myrrh upon handles of lock.
-- mt: I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.
-- brenton: I rose up to open to my kinsman; my hands dropped myrrh, my fingers choice myrrh, on the handles of the lock.
-
 ## Genesis 29:11
 - priority: `0`
 - importance: `none`
@@ -161830,15 +161821,6 @@ Rows: 20937
 - fresh: Take Aaron and Eleazar his son, and bring them up to Mount Hor before all the congregation.
 - mt: Take Aaron and Eleazar his son, and bring them up unto mount Hor:
 - brenton: Take Aaron, and Eleazar his son, and bring them up to the mount Or before all the congregation;
-
-## Song of Solomon 5:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.804`
-- fresh_brenton_ratio: `0.170`
-- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head filled with dew and my locks with drops of night."
-- mt: I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
-- brenton: I sleep, but my heart is awake: the voice of my kinsman knocks at the door, saying, Open, open to me, my companion, my sister, my dove, my perfect one: for my head is filled with dew, and my locks with the drops of the night.
 
 ## Leviticus 8:25
 - priority: `0`
@@ -162181,6 +162163,15 @@ Rows: 20937
 - fresh: And the days of Adam, which he lived after begetting Seth, were seven hundred years, and he begot sons and daughters.
 - mt: And the days of Adam after he had begotten Seth were eight hundred years: and he brings forth sons and daughters:
 - brenton: And the days of Adam, which he lived after his begetting Seth, were seven hundred years; and he begot sons and daughters.
+
+## Song of Solomon 5:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.167`
+- fresh: I sleep, and my heart wakes. The voice of my beloved knocks at the door: "Open to me, my sister, my dear one, my dove, my perfect one, because my head is filled with dew and my locks with drops of night."
+- mt: I sleep, but my heart wakes: it is the voice of my beloved that knocks, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.
+- brenton: I sleep, but my heart is awake: the voice of my kinsman knocks at the door, saying, Open, open to me, my companion, my sister, my dove, my perfect one: for my head is filled with dew, and my locks with the drops of the night.
 
 ## 1 Samuel 6:14
 - priority: `0`
@@ -174214,6 +174205,15 @@ Rows: 20937
 - fresh: And Aaron took Elizabeth daughter of Amminadab, sister of Nahshon, as wife to himself, and she bore to him Nadab and Abiud and Eleazar and Ithamar.
 - mt: And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.
 - brenton: And Aaron took to himself to wife Elisabeth daughter of Aminadab sister of Naasson, and she bore to him both Nadab and Abiud, and Eleazar and Ithamar.
+
+## Song of Solomon 5:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.849`
+- fresh_brenton_ratio: `0.829`
+- fresh: I rose, I, to open to my beloved; my hands dripped myrrh, my fingers were full of myrrh upon the handles of the lock.
+- mt: I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.
+- brenton: I rose up to open to my kinsman; my hands dropped myrrh, my fingers choice myrrh, on the handles of the lock.
 
 ## Exodus 14:22
 - priority: `0`
