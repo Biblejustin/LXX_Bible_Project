@@ -5354,7 +5354,7 @@ Psalms 10:5,τὸν δίκαιον καὶ τὸν ἀσεβῆ,δίκαιος |
 Psalms 36:35,ἀσεβῆ,ἀσεβής,accusative singular class noun,an ungodly man,ungodly man,English supplies an for readable singular class-noun idiom.,reviewed,codex
 Proverbs 21:29,ὁ δὲ εὐθής,εὐθύς,articular contrastive substantive,the upright man,upright man,English supplies the for the articular second-clause contrast.,reviewed,codex
 Proverbs 21:30,πρὸς τὸν ἀσεβῆ,ἀσεβής,articular object of preposition,the ungodly man,ungodly man,English supplies the for the articular object.,reviewed,codex
-Proverbs 28:24,ἀνδρὸς ἀσεβοῦς,ἀνήρ | ἀσεβής,genitive singular class noun,an ungodly man,ungodly man,English supplies an for readable singular class-noun idiom.,reviewed,codex
+Proverbs 28:24,κοινωνός ἐστιν ἀνδρὸς ἀσεβοῦς,κοινωνός | ἀνήρ | ἀσεβής,predicate and genitive singular class noun,a partner of an ungodly man,partner of ungodly man,English supplies a for the partner phrase and retains an for readable singular ungodly-man idiom.,reviewed,codex
 Ecclesiastes 8:13,τῷ ἀσεβεῖ,ἀσεβής,articular dative substantive,the ungodly man,ungodly man,English supplies the for the articular dative phrase.,reviewed,codex
 Isaiah 55:7,ὁ ἀσεβὴς ... ἀνὴρ ἄνομος,ἀσεβής | ἄνομος,paired class nouns,the ungodly man ... the lawless man,ungodly man ... lawless man,English supplies articles for readable paired class nouns.,reviewed,codex
 Job 29:12,πτωχὸν ... δυνάστου ... ὀρφανῷ,πτωχός | δυνάστης | ὀρφανός,singular object phrases,a poor man ... a mighty man ... an orphan,poor man ... mighty man ... orphan,English supplies articles for readable singular idiom.,reviewed,codex
@@ -5406,7 +5406,7 @@ Proverbs 11:28,ἀντιλαμβανόμενος δικαίων,ἀντιλαμ�
 Proverbs 12:3,ῥίζαι τῶν δικαίων,ῥίζα | δίκαιος,genitive plural phrase,roots of the righteous,roots of righteous,English supplies the for the genitive class-group phrase.,reviewed,codex
 Proverbs 12:26,ἐπιγνώμων δίκαιος,ἐπιγνώμων | δίκαιος,singular subject phrase,a discerning righteous one,knowing righteous,English renders the compact singular subject as a readable righteous-one phrase.,reviewed,codex
 Proverbs 24:16,ὁ δίκαιος,δίκαιος,articular singular subject,the righteous,righteous,English supplies the for the articular subject.,reviewed,codex
-Proverbs 28:28,δίκαιοι ... δίκαιοι,δίκαιος,plural class subjects,the righteous ... the righteous,righteous ... righteous,English supplies the for readable class-group idiom.,reviewed,codex
+Proverbs 28:28,τόποις ἀσεβῶν ... δίκαιοι ... δίκαιοι,ἀσεβής | δίκαιος,plural class groups,the ungodly ... the righteous ... the righteous,ungodly ... righteous ... righteous,English supplies the for readable class-group idiom.,reviewed,codex
 Proverbs 29:6,δίκαιος δὲ,δίκαιος,contrastive singular subject,the righteous,righteous,English supplies the for the contrastive righteous subject.,reviewed,codex
 Proverbs 1:7,σοφίαν δὲ καὶ παιδείαν ἀσεβεῖς ἐξουθενήσουσιν,σοφία | παιδεία | ἀσεβής,plural subject clause,the ungodly will despise wisdom and discipline,wisdom and discipline ungodly will despise,English supplies the and reorders the clause for readable syntax.,reviewed,codex
 Proverbs 3:25,ὁρμὰς ἀσεβῶν,ὁρμή | ἀσεβής,genitive plural phrase,assaults of the ungodly,assaults of ungodly,English supplies the for readable class-group idiom.,reviewed,codex
@@ -5512,3 +5512,23 @@ Proverbs 27:22,ἄφρονα,ἄφρων,singular object,a fool,fool,English sup
 Proverbs 27:23,ψυχὰς ποιμνίου σου,ψυχή | ποίμνιον,object phrase,the souls of your flock,souls of your flock,English supplies the for the souls-of-flock phrase.,reviewed,codex
 Proverbs 27:24,ἀνδρὶ κράτος καὶ ἰσχύς,ἀνήρ | κράτος | ἰσχύς,predicate phrase,strength and power are not forever for a man,strength and power not forever for man,English supplies are and a for readable predicate syntax.,reviewed,codex
 Proverbs 27:26,πεδίον,πεδίον,object phrase,the field,field,English supplies the for the field phrase.,reviewed,codex
+Proverbs 28:1,δίκαιος,δίκαιος,singular class subject,a righteous one,righteous,English supplies a for the righteous-one phrase.,reviewed,codex
+Proverbs 28:2,ἀσεβῶν ... ἀνὴρ δὲ πανοῦργος,ἀσεβής | ἀνήρ | πανοῦργος,plural class group and singular subject,the ungodly ... a shrewd man,ungodly ... shrewd man,English supplies articles for ungodly and shrewd-man phrases.,reviewed,codex
+Proverbs 28:3,ἀνδρεῖος ... πτωχούς ... ὥσπερ,ἀνδρεῖος | πτωχός,subject and comparison phrase,A strong man ... the poor ... he is like,Strong man ... poor ... like,English supplies articles and he is for readable comparison syntax.,reviewed,codex
+Proverbs 28:4,τὸν νόμον ... τεῖχος,νόμος | τεῖχος,law and wall phrases,the law ... a wall,law ... wall,English supplies articles for law and wall phrases.,reviewed,codex
+Proverbs 28:8,πτωχούς,πτωχός,plural class object,the poor,poor,English supplies the for the poor.,reviewed,codex
+Proverbs 28:9,νόμου,νόμος,genitive object,the law,law,English supplies the for the law.,reviewed,codex
+Proverbs 28:10,εὐθεῖς ἐν ὁδῷ κακῇ ... οἱ δὲ ἄνομοι,εὐθύς | ὁδός | ἄνομος,class group and way phrase,the upright ... an evil way ... the lawless,upright ... evil way ... lawless,English supplies articles for upright/evil-way/lawless phrases.,reviewed,codex
+Proverbs 28:11,ἀνὴρ πλούσιος ... πένης δὲ νοήμων,ἀνήρ | πλούσιος | πένης | νοήμων,rich/poor contrast,A rich man is wise ... a poor understanding man,Rich man wise ... poor understanding man,English supplies articles and is for rich/poor-man contrast.,reviewed,codex
+Proverbs 28:12,δικαίων ... ἀσεβῶν,δίκαιος | ἀσεβής,plural class groups,the righteous ... the ungodly,righteous ... ungodly,English supplies the for righteous and ungodly class groups.,reviewed,codex
+Proverbs 28:14,ὁ δὲ σκληρὸς τὴν καρδίαν,σκληρός | καρδία,participle and object phrase,one hardening the heart,hardening heart,English supplies one and the for the hardening-heart phrase.,reviewed,codex
+Proverbs 28:15,λέων πεινῶν καὶ λύκος διψῶν ... ἔθνους πενιχροῦ,λέων | λύκος | ἔθνος | πενιχρός,image phrase,A hungry lion and a thirsty wolf ... a needy people,Hungry lion and thirsty wolf ... needy people,English supplies articles for lion/wolf/tyrant/people phrases.,reviewed,codex
+Proverbs 28:16,βασιλεὺς ... συκοφάντης ... μακρὸν χρόνον,βασιλεύς | συκοφάντης | χρόνος,predicate and time phrase,A king ... a great slanderer ... a long time,King ... great slanderer ... long time,English supplies articles for king/slanderer/time phrases.,reviewed,codex
+Proverbs 28:17,ἄνδρα ... φυγὰς ... ἔθνει παρανόμῳ,ἀνήρ | φυγάς | ἔθνος | παράνομος,object/predicate/class phrase,a man ... a fugitive ... a lawless nation,man ... fugitive ... lawless nation,English supplies articles for guilty-man/fugitive/lawless-nation phrases.,reviewed,codex
+Proverbs 28:20,ἀνὴρ ἀξιόπιστος ... ὁ δὲ κακὸς,ἀνήρ | ἀξιόπιστος | κακός,paired singular subjects,a faithful man ... an evil man,Faithful man ... evil man,English supplies articles for faithful/evil man phrases.,reviewed,codex
+Proverbs 28:21,πρόσωπα δικαίων ... ὁ τοιοῦτος ... ψωμοῦ ἄρτου,δίκαιος | τοιοῦτος | ψωμός | ἄρτος,class group and object phrase,the righteous ... such a man ... a morsel of bread,righteous ... such man ... morsel of bread,English supplies articles for righteous/man/morsel phrases.,reviewed,codex
+Proverbs 28:22,ἀνὴρ βάσκανος ... ἐλεήμων,ἀνήρ | βάσκανος | ἐλεήμων,paired singular subjects,an envious man ... a merciful man,Envious man ... merciful man,English supplies articles for envious/merciful man phrases.,reviewed,codex
+Proverbs 28:23,ἀνθρώπου ὁδοὺς ... γλωσσοχαριτοῦντος,ἄνθρωπος | γλῶσσα,man and tongue phrases,the ways of a man ... the tongue,the ways of man ... tongue,English supplies articles for man and tongue phrases.,reviewed,codex
+Proverbs 28:25,ἄπιστος ἀνὴρ,ἄπιστος | ἀνήρ,singular subject,A faithless man,Faithless man,English supplies a for the faithless-man phrase.,reviewed,codex
+Proverbs 28:26,θρασείᾳ καρδίᾳ ... ὁ τοιοῦτος ἄφρων,καρδία | ἄφρων,heart and predicate phrase,a bold heart ... that man is a fool,bold heart ... that man fool,English supplies a and is for bold-heart/fool syntax.,reviewed,codex
+Proverbs 28:27,πτωχοῖς,πτωχός,plural class object,the poor,poor,English supplies the for the poor.,reviewed,codex

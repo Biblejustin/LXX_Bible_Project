@@ -2021,7 +2021,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: Because to the man who is good before him he gave wisdom and knowledge and gladness, but to the sinner he gave distraction, to add and to gather in order to give to one good before the face of God; because this too is vanity and choice of spirit.
-- OT clues: Prov.13.22 (43) -> Good man will inherit sons of sons, but the wealth of the ungodly is stored up for the righteous. || Job.27.16-Job.27.17 (41) -> If he gathers silver like earth, and prepares gold like clay, || Prov.28.8 (29) -> One multiplying wealth with interest and increase gathers it for one showing mercy to poor. || Isa.3.10-Isa.3.11 (21) -> Saying, Let us bind righteous one, because he is inconvenient to us; therefore they will eat produce of their works.
+- OT clues: Prov.13.22 (43) -> Good man will inherit sons of sons, but the wealth of the ungodly is stored up for the righteous. || Job.27.16-Job.27.17 (41) -> If he gathers silver like earth, and prepares gold like clay, || Prov.28.8 (29) -> One multiplying wealth with interest and increase gathers it for one showing mercy to the poor. || Isa.3.10-Isa.3.11 (21) -> Saying, Let us bind righteous one, because he is inconvenient to us; therefore they will eat produce of their works.
 - NT clues: John.16.24 (21) -> Until now have all of you asked nothing in my name: ask, and all of you shall receive, that your joy may be full. || Col.3.16-Col.3.17 (18) -> Let the (o. logos) word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
 ## Ecclesiastes 7:20

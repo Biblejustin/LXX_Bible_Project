@@ -39237,15 +39237,6 @@ Method:
 - mt: My transgression is sealed up in a bag, and you sew up mine iniquity.
 - brenton: And thou hast sealed up my transgressions in a bag, and marked if I have been guilty of any transgression unawares.
 
-### Proverbs 28:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.271`
-- fresh_brenton_ratio: `0.642`
-- fresh: Through sins of ungodly judgments are stirred up, but shrewd man will quench them.
-- mt: For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.
-- brenton: By reason of the sins of ungodly men quarrels arise; but a wise man will quell them.
-
 ### Psalms 6:3
 - priority: `0`
 - importance: `none`
@@ -45744,6 +45735,15 @@ Method:
 - mt: Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - brenton: For the sons of Manasse according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,
 
+### Proverbs 28:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.306`
+- fresh_brenton_ratio: `0.370`
+- fresh: One guaranteeing a man guilty of murder will be a fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to a lawless nation.
+- mt: A man that does violence to the blood of any person shall flee to the pit; let no man stay him.
+- brenton: He that becomes surety for a man charged with murder shall be an exile, and not in safety.
+
 ### Jeremiah 23:2
 - priority: `0`
 - importance: `none`
@@ -46940,15 +46940,6 @@ Method:
 - fresh: And in all these things we are making a faithful covenant and writing it, and all our rulers, our Levites, and our priests are sealing it.
 - mt: Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 - brenton: And over them that sealed were Neemias the Artasastha, son of Achalia, and Zedekias,
-
-### Proverbs 28:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.313`
-- fresh_brenton_ratio: `0.341`
-- fresh: One guaranteeing man guilty of murder will be fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to lawless nation.
-- mt: A man that does violence to the blood of any person shall flee to the pit; let no man stay him.
-- brenton: He that becomes surety for a man charged with murder shall be an exile, and not in safety.
 
 ### Genesis 22:3
 - priority: `0`
@@ -51108,6 +51099,15 @@ Method:
 - mt: Nevertheless I am continually with you: you have held me by my right hand.
 - brenton: Forget not the voice of thy suppliants: let the pride of them that hate thee continually ascend before thee.
 
+### Proverbs 28:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.335`
+- fresh_brenton_ratio: `0.643`
+- fresh: Through sins of the ungodly judgments are stirred up, but a shrewd man will quench them.
+- mt: For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.
+- brenton: By reason of the sins of ungodly men quarrels arise; but a wise man will quell them.
+
 ### Proverbs 7:10
 - priority: `0`
 - importance: `none`
@@ -51971,15 +51971,6 @@ Method:
 - fresh: And all wall of Jerusalem around, force of Chaldeans with chief cook, tore down.
 - mt: And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.
 - brenton: And the host of the Chaldeans that was with the captain of the guard pulled down all the wall of Jerusalem round about.
-
-### Proverbs 28:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.340`
-- fresh_brenton_ratio: `0.442`
-- fresh: Strong man in ungodliness slanders poor; like sweeping and useless rain.
-- mt: A poor man that oppresses the poor is like a sweeping rain which left no food.
-- brenton: A bold man oppresses the poor by ungodly deeds. As an impetuous and unprofitable rain,
 
 ### Psalms 112:4
 - priority: `0`
@@ -54635,15 +54626,6 @@ Method:
 - fresh: And the sons of Israel were reviewed and came to meet them, and Israel camped opposite them like two flocks of goats, and Syria filled the land.
 - mt: And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
 - brenton: And the children of Israel were numbered, and came to meet them: and Israel encamped before them as two little flocks of goats, but Syria filled the land.
-
-### Proverbs 28:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.354`
-- fresh_brenton_ratio: `0.892`
-- fresh: In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
-- mt: When the wicked rise, men hide themselves: but when they perish, the righteous increase.
-- brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
 
 ### Psalms 95:7
 - priority: `0`
@@ -61944,6 +61926,15 @@ Method:
 - mt: The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
 - brenton: God is gone up with a shout, the Lord with a sound of a trumpet.
 
+### Proverbs 28:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.400`
+- fresh_brenton_ratio: `0.875`
+- fresh: In the places of the ungodly the righteous groan, but in their destruction the righteous will multiply.
+- mt: When the wicked rise, men hide themselves: but when they perish, the righteous increase.
+- brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
+
 ### Nehemiah 11:26
 - priority: `0`
 - importance: `none`
@@ -64311,15 +64302,6 @@ Method:
 - mt: And the other lamb shall you offer at even: as the food offering of the morning, and as the drink offering thereof, you shall offer it, a sacrifice made by fire, of a sweet savour unto the LORD.
 - brenton: And the second lamb thou shalt offer toward evening; thou shalt offer it according to its meat-offering and according to its drink-offering for a smell of sweet savour to the Lord.
 
-### Proverbs 28:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.420`
-- fresh_brenton_ratio: `0.732`
-- fresh: King lacking revenues is great slanderer, but one hating injustice will live long time.
-- mt: The prince that wants understanding is also a great oppressor: but he that hates covetousness shall prolong his days.
-- brenton: A king in need of revenues is a great oppressor: but he that hates injustice shall live a long time.
-
 ### Joshua 8:8
 - priority: `0`
 - importance: `none`
@@ -65922,6 +65904,15 @@ Method:
 - mt: And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, You are my people; and they shall say, You are my God.
 - brenton: And it shall come to pass in that day, saith the Lord, I will hearken to the heaven, and it shall hearken to the earth;
 
+### Proverbs 28:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.432`
+- fresh_brenton_ratio: `0.794`
+- fresh: Through help of the righteous much glory comes, but in the places of the ungodly men are caught.
+- mt: When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.
+- brenton: By reason of the help of righteous men great glory arises: but in the places of the ungodly men are caught.
+
 ### Exodus 40:29
 - priority: `0`
 - importance: `none`
@@ -66912,15 +66903,6 @@ Method:
 - mt: Know you the time when the wild goats of the rock bring forth? or can you mark when the hinds do calve?
 - brenton: Say if thou knowest the time of the bringing forth of the wild goats of the rock, and if thou hast marked the calving of the hinds:
 
-### Proverbs 28:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.441`
-- fresh_brenton_ratio: `0.785`
-- fresh: Through help of righteous much glory comes, but in the places of ungodly men are caught.
-- mt: When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.
-- brenton: By reason of the help of righteous men great glory arises: but in the places of the ungodly men are caught.
-
 ### Job 37:15
 - priority: `0`
 - importance: `none`
@@ -67775,6 +67757,15 @@ Method:
 - fresh: And you shall make its dishes and censers and libation bowls and cups with which you shall pour offerings. You shall make them of pure gold.
 - mt: And you shall make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover likewise: of pure gold shall you make them.
 - brenton: And thou shalt make its dishes and its censers, and its bowls, and its cups, with which thou shalt offer drink-offerings: of pure gold shalt thou make them.
+
+### Proverbs 28:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.447`
+- fresh_brenton_ratio: `0.772`
+- fresh: A king lacking revenues is a great slanderer, but one hating injustice will live a long time.
+- mt: The prince that wants understanding is also a great oppressor: but he that hates covetousness shall prolong his days.
+- brenton: A king in need of revenues is a great oppressor: but he that hates injustice shall live a long time.
 
 ### 2 Chronicles 14:5
 - priority: `0`
@@ -71943,6 +71934,15 @@ Method:
 - mt: And I will cast abominable filth upon you, and make you vile, and will set you as a gazing-stock.
 - brenton: And I will cast abominable filth upon thee according to thine unclean ways, and will make thee a public example.
 
+### Proverbs 28:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.480`
+- fresh_brenton_ratio: `0.650`
+- fresh: A faithless man judges vainly, but one trusting in the Lord will be diligent.
+- mt: He that is of a proud heart stirs up strife: but he that puts his trust in the LORD shall be made fat.
+- brenton: An unbelieving man judges rashly: but he that trusts in the Lord will act carefully.
+
 ### Ezekiel 7:12
 - priority: `0`
 - importance: `none`
@@ -73770,6 +73770,15 @@ Method:
 - mt: As for the wheels, it was cried unto them in my hearing, O wheel.
 - brenton: And these wheels were called Gelgel in my hearing.
 
+### Proverbs 28:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.492`
+- fresh_brenton_ratio: `0.709`
+- fresh: One not respecting faces of the righteous is not good; such a man will be sold for a morsel of bread.
+- mt: To have respect of persons is not good: for for a piece of bread that man will transgress.
+- brenton: He that reverences not the persons of the just is not good: such a one will sell a man for a morsel of bread.
+
 ### 1 Chronicles 12:12
 - priority: `0`
 - importance: `none`
@@ -74426,15 +74435,6 @@ Method:
 - fresh: And after this the tribes of the Canaanites were scattered.
 - mt: And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.
 - brenton: and the Aradian, and the Samarean, and the Amathite; and after this the tribes of the Chananites were dispersed.
-
-### Proverbs 28:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.497`
-- fresh_brenton_ratio: `0.646`
-- fresh: Those forsaking law praise ungodliness, but those loving law wrap wall around themselves.
-- mt: They that forsake the law praise the wicked: but such as keep the law contend with them.
-- brenton: so they that forsake the law praise ungodliness; but they that love the law fortify themselves with a wall.
 
 ### Proverbs 5:20
 - priority: `0`
@@ -75399,15 +75399,6 @@ Method:
 - mt: But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.
 - brenton: The paths of the ungodly shall perish out of the earth, and transgressors shall be driven away from it.
 
-### Proverbs 28:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.503`
-- fresh_brenton_ratio: `0.687`
-- fresh: One not respecting faces of righteous is not good; such man will be sold for morsel of bread.
-- mt: To have respect of persons is not good: for for a piece of bread that man will transgress.
-- brenton: He that reverences not the persons of the just is not good: such a one will sell a man for a morsel of bread.
-
 ### 1 Kings 6:20
 - priority: `0`
 - importance: `none`
@@ -75434,15 +75425,6 @@ Method:
 - fresh: An ungodly one does unjust works, but for the seed of righteous ones there is reward of truth.
 - mt: The wicked works a deceitful work: but to him that sows righteousness shall be a sure reward.
 - brenton: An ungodly man performs unrighteous works: but the seed of the righteous is a reward of truth.
-
-### Proverbs 28:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.503`
-- fresh_brenton_ratio: `0.751`
-- fresh: One casting away father or mother and thinking he does not sin is partner of an ungodly man.
-- mt: Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer.
-- brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
 
 ### Nahum 3:1
 - priority: `0`
@@ -76011,6 +75993,15 @@ Method:
 - mt: And when the fowls came down upon the carcasses, Abram drove them away.
 - brenton: And birds came down upon the bodies, even upon the divided parts of them, and Abram sat down by them.
 
+### Proverbs 28:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.507`
+- fresh_brenton_ratio: `0.743`
+- fresh: One casting away father or mother and thinking he does not sin is a partner of an ungodly man.
+- mt: Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer.
+- brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
+
 ### Isaiah 5:8
 - priority: `0`
 - importance: `none`
@@ -76550,15 +76541,6 @@ Method:
 - fresh: And who is one examining his works? Or who said, You did unjust things?
 - mt: Who has commanded with authority him his way? or who can say, You have wrought iniquity?
 - brenton: And who is he that examines his works? or who can say, He has wrought injustice?
-
-### Proverbs 28:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.510`
-- fresh_brenton_ratio: `0.717`
-- fresh: Hungry lion and thirsty wolf is tyrant, being poor, over needy people.
-- mt: As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.
-- brenton: A hungry lion and a thirsty wolf is he, who, being poor, rules over a poor nation.
 
 ### Hosea 13:1
 - priority: `0`
@@ -77180,6 +77162,15 @@ Method:
 - fresh: that the gladness of the ungodly is a sudden fall, and the joy of lawless men is destruction?
 - mt: That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?
 - brenton: But the mirth of the ungodly is a signal downfall, and the joy of transgressors is destruction:
+
+### Proverbs 28:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.514`
+- fresh_brenton_ratio: `0.759`
+- fresh: An envious man hurries to become rich and does not know that a merciful man will master him.
+- mt: He that hastes to be rich has an evil eye, and considers not that poverty shall come upon him.
+- brenton: An envious man makes haste to be rich, and knows not that the merciful man will have the mastery over him.
 
 ### 1 Chronicles 12:36
 - priority: `0`
@@ -77954,15 +77945,6 @@ Method:
 - fresh: Shrewd man, seeing evil man punished strongly, is himself disciplined; but fools pass by and suffer loss.
 - mt: A prudent man forsees the evil, and hides himself: but the simple pass on, and are punished.
 - brenton: An intelligent man seeing a bad man severely punished is himself instructed, but fools pass by and are punished.
-
-### Proverbs 28:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.519`
-- fresh_brenton_ratio: `0.647`
-- fresh: One giving to poor will not be in need, but one turning away his eye will be in much want.
-- mt: He that gives unto the poor shall not lack: but he that hides his eyes shall have many a curse.
-- brenton: He that gives to the poor shall not be in want: but he that turns away his eye from him shall be in great distress.
 
 ### Isaiah 30:2
 - priority: `0`
@@ -79197,15 +79179,6 @@ Method:
 - mt: Desire not the night, when people are cut off in their place.
 - brenton: And draw not forth all the mighty men by night, so that the people should go up instead of them.
 
-### Proverbs 28:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.526`
-- fresh_brenton_ratio: `0.632`
-- fresh: Faithful man will be greatly blessed, but evil man will not go unpunished.
-- mt: A faithful man shall abound with blessings: but he that makes haste to be rich shall not be innocent.
-- brenton: A man worthy of credit shall be much blessed: but the wicked shall not be unpunished.
-
 ### Proverbs 7:12
 - priority: `0`
 - importance: `none`
@@ -79881,15 +79854,6 @@ Method:
 - mt: I, even I, am he that comforts you: who are you, that you should be afraid of a man that shall die, and of the son of man which shall be made as grass;
 - brenton: I, even I, am he that comforts thee: consider who thou art, that thou wast afraid of mortal man, and of the son of man, who are withered as grass.
 
-### Proverbs 28:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.530`
-- fresh_brenton_ratio: `0.630`
-- fresh: One leading upright astray in evil way will himself fall into corruption; but lawless will pass by good things and not enter into them.
-- mt: Whoso causes the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.
-- brenton: He that causes upright men to err in an evil way, himself shall fall into destruction: transgressors also shall pass by prosperity, but shall not enter into it.
-
 ### Exodus 30:37
 - priority: `0`
 - importance: `none`
@@ -80186,15 +80150,6 @@ Method:
 - fresh: And you remained in Kadesh many days, however many days you remained.
 - mt: So all of you abode in Kadesh many days, according unto the days that all of you abode there.
 - brenton: And ye dwelt in Cades many days, as many days as ye dwelt there.
-
-### Proverbs 28:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.532`
-- fresh_brenton_ratio: `0.645`
-- fresh: Faithless man judges vainly, but one trusting in the Lord will be diligent.
-- mt: He that is of a proud heart stirs up strife: but he that puts his trust in the LORD shall be made fat.
-- brenton: An unbelieving man judges rashly: but he that trusts in the Lord will act carefully.
 
 ### Nehemiah 12:29
 - priority: `0`
@@ -80582,6 +80537,15 @@ Method:
 - fresh: As I saw Ephraim for hunting, they presented their children, and Ephraim to bring out his children for piercing.
 - mt: Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.
 - brenton: Ephraim, even as I saw, gave their children for a prey; yea, Ephraim was ready to bring out his children to slaughter.
+
+### Proverbs 28:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.534`
+- fresh_brenton_ratio: `0.613`
+- fresh: A faithful man will be greatly blessed, but an evil man will not go unpunished.
+- mt: A faithful man shall abound with blessings: but he that makes haste to be rich shall not be innocent.
+- brenton: A man worthy of credit shall be much blessed: but the wicked shall not be unpunished.
 
 ### Job 33:21
 - priority: `0`
@@ -83688,15 +83652,6 @@ Method:
 - mt: Hell from beneath is moved for you to meet you at your coming: it stirs up the dead for you, even all the chief ones of the earth; it has raised up from their thrones all the kings of the nations.
 - brenton: Hell from beneath is provoked to meet thee: all the great ones that have ruled over the earth have risen up together against thee, they that have raised up from their thrones all the kings of the nations.
 
-### Proverbs 28:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.550`
-- fresh_brenton_ratio: `0.430`
-- fresh: One multiplying wealth with interest and increase gathers it for one showing mercy to poor.
-- mt: He that by interest and unjust gain increases his substance, he shall gather it for him that will pity the poor.
-- brenton: He that increases his wealth by usuries and unjust gains, gathers it for him that pities the poor.
-
 ### Ezekiel 12:4
 - priority: `0`
 - importance: `none`
@@ -83958,6 +83913,15 @@ Method:
 - mt: This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
 - brenton: These are the loaves—we took them hot for our journey on the day on which we came out to come to you; and now they are dried and become mouldy.
 
+### Proverbs 28:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.551`
+- fresh_brenton_ratio: `0.673`
+- fresh: One giving to the poor will not be in need, but one turning away his eye will be in much want.
+- mt: He that gives unto the poor shall not lack: but he that hides his eyes shall have many a curse.
+- brenton: He that gives to the poor shall not be in want: but he that turns away his eye from him shall be in great distress.
+
 ### 1 Samuel 14:13
 - priority: `0`
 - importance: `none`
@@ -84020,15 +83984,6 @@ Method:
 - fresh: and Achiel household steward, and Eliab son of Saph over the family line, and Adoniram son of Abda over the levies,
 - mt: And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
 - brenton: And Achisar was steward, and Eliac the chief steward; and Eliab the son of Saph was over the family: and Adoniram the son of Audon over the tribute.
-
-### Proverbs 28:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.551`
-- fresh_brenton_ratio: `0.737`
-- fresh: Envious man hurries to become rich and does not know that merciful man will master him.
-- mt: He that hastes to be rich has an evil eye, and considers not that poverty shall come upon him.
-- brenton: An envious man makes haste to be rich, and knows not that the merciful man will have the mastery over him.
 
 ### Joshua 19:49
 - priority: `0`
@@ -85272,6 +85227,15 @@ Method:
 - mt: Have I any pleasure at all that the wicked should die? says the Lord GOD: and not that he should return from his ways, and live?
 - brenton: Shall I at all desire the death of the sinner, saith the Lord, as I desire that he should turn from his evil way, and live?
 
+### Proverbs 28:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.557`
+- fresh_brenton_ratio: `0.693`
+- fresh: Those forsaking the law praise ungodliness, but those loving the law wrap a wall around themselves.
+- mt: They that forsake the law praise the wicked: but such as keep the law contend with them.
+- brenton: so they that forsake the law praise ungodliness; but they that love the law fortify themselves with a wall.
+
 ### 1 Samuel 20:26
 - priority: `0`
 - importance: `none`
@@ -85550,6 +85514,15 @@ Method:
 - fresh: And this is what they shall give, all who pass through the visitation: half the didrachm, according to the didrachm of the sanctuary. Twenty obols to the didrachm. But the half-didrachm is an offering to the Lord.
 - mt: This they shall give, every one that passes among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the LORD.
 - brenton: And this is what they shall give, as many as pass the survey, half a didrachm which is according to the didrachm of the sanctuary: twenty oboli go to the didrachm, but the half of the didrachm is the offering to the Lord.
+
+### Proverbs 28:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.559`
+- fresh_brenton_ratio: `0.463`
+- fresh: One multiplying wealth with interest and increase gathers it for one showing mercy to the poor.
+- mt: He that by interest and unjust gain increases his substance, he shall gather it for him that will pity the poor.
+- brenton: He that increases his wealth by usuries and unjust gains, gathers it for him that pities the poor.
 
 ### Judges 20:38
 - priority: `0`
@@ -86504,6 +86477,15 @@ Method:
 - fresh: One dwelling in heavens will laugh at them, and the Lord will mock them.
 - mt: He that sits in the heavens shall laugh: the LORD shall have them in derision.
 - brenton: He that dwells in the heavens shall laugh them to scorn, and the Lord shall mock them.
+
+### Proverbs 28:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.562`
+- fresh_brenton_ratio: `0.758`
+- fresh: A hungry lion and a thirsty wolf is a tyrant, being poor, over a needy people.
+- mt: As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.
+- brenton: A hungry lion and a thirsty wolf is he, who, being poor, rules over a poor nation.
 
 ### Ezekiel 32:31
 - priority: `0`
@@ -89763,6 +89745,15 @@ Method:
 - mt: Also you shall lie down, and none shall make you afraid; yea, many shall make suit unto you.
 - brenton: For thou shalt be at ease, and there shall be no one to fight against thee; and many shall charge, and make supplication to thee.
 
+### Proverbs 28:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.579`
+- fresh_brenton_ratio: `0.494`
+- fresh: A strong man in ungodliness slanders the poor; he is like sweeping and useless rain.
+- mt: A poor man that oppresses the poor is like a sweeping rain which left no food.
+- brenton: A bold man oppresses the poor by ungodly deeds. As an impetuous and unprofitable rain,
+
 ### Ezra 2:16
 - priority: `0`
 - importance: `none`
@@ -91679,6 +91670,15 @@ Method:
 - fresh: And Pharaoh said to Hadad, In what are you lacking with me? And behold, you seek to go away to your land. And Hadad said to him, In sending away, send me away. And Hadad returned to his land.
 - mt: Then Pharaoh said unto him, But what have you lacked with me, that, behold, you seek to go to yours own country? And he answered, Nothing: nevertheless let me go in any way.
 - brenton: And Pharao said to Ader, What lackest thou with me? that lo! thou seekest to depart to thy country? and Ader said to him, By all means let me go. So Ader returned to his country;
+
+### Proverbs 28:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.586`
+- fresh_brenton_ratio: `0.640`
+- fresh: One leading the upright astray in an evil way will himself fall into corruption; but the lawless will pass by good things and not enter into them.
+- mt: Whoso causes the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.
+- brenton: He that causes upright men to err in an evil way, himself shall fall into destruction: transgressors also shall pass by prosperity, but shall not enter into it.
 
 ### Exodus 21:36
 - priority: `0`
@@ -95667,15 +95667,6 @@ Method:
 - mt: Behold, every one that uses proverbs shall use this proverb against you, saying, As is the mother, so is her daughter.
 - brenton: These are all the things they have spoken against thee in a proverb, saying,
 
-### Proverbs 28:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.602`
-- fresh_brenton_ratio: `0.690`
-- fresh: One trusting in bold heart, that man fool; but one walking in wisdom will be saved.
-- mt: He that trusts in his own heart is a fool: but whoso walks wisely, he shall be delivered.
-- brenton: He that trusts to a bold heart, such an one is a fool: but he that walks in wisdom shall be safe.
-
 ### Psalms 149:9
 - priority: `0`
 - importance: `none`
@@ -98322,15 +98313,6 @@ Method:
 - mt: The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
 - brenton: A stout-hearted man shall be filled with his own ways; and a good man with his own thoughts.
 
-### Proverbs 28:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.611`
-- fresh_brenton_ratio: `0.727`
-- fresh: An ungodly one flees with none pursuing, but righteous trusts like a lion.
-- mt: The wicked flee when no man pursues: but the righteous are bold as a lion.
-- brenton: The ungodly man flees when no one pursues: but the righteous is confident as a lion.
-
 ### 2 Chronicles 24:7
 - priority: `0`
 - importance: `none`
@@ -98862,6 +98844,15 @@ Method:
 - mt: He that walks with wise men shall be wise: but a companion of fools shall be destroyed.
 - brenton: If thou walkest with wise men thou shalt be wise: but he that walks with fools shall be known.
 
+### Proverbs 28:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.613`
+- fresh_brenton_ratio: `0.725`
+- fresh: An ungodly one flees with none pursuing, but a righteous one trusts like a lion.
+- mt: The wicked flee when no man pursues: but the righteous are bold as a lion.
+- brenton: The ungodly man flees when no one pursues: but the righteous is confident as a lion.
+
 ### Isaiah 41:15
 - priority: `0`
 - importance: `none`
@@ -99050,6 +99041,15 @@ Method:
 - fresh: But if they blow with one, all the chiefs, the leaders of Israel, shall come near to you.
 - mt: And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto you.
 - brenton: And if they shall sound with one, all the rulers even the princes of Israel shall come to thee.
+
+### Proverbs 28:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.614`
+- fresh_brenton_ratio: `0.708`
+- fresh: Blessed is the man who trembles always in reverence, but one hardening the heart will fall into evils.
+- mt: Happy is the man that fears always: but he that hardens his heart shall fall into mischief.
+- brenton: Blessed is the man who religiously fears always: but the hard of heart shall fall into mischiefs.
 
 ### Job 37:1
 - priority: `0`
@@ -99492,15 +99492,6 @@ Method:
 - mt: The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.
 - brenton: the children of Saphatia, the children of Ettel, the children of Phacarath, the children of Sabaim, the children of Emim.
 
-### Proverbs 28:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.616`
-- fresh_brenton_ratio: `0.577`
-- fresh: Rich man wise to himself, but poor understanding man will expose him.
-- mt: The rich man is wise in his own conceit; but the poor that has understanding searches him out.
-- brenton: A rich man is wise in his own conceit; but an intelligent poor man will condemn him.
-
 ### Job 36:29
 - priority: `0`
 - importance: `none`
@@ -99815,15 +99806,6 @@ Method:
 - fresh: And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 - mt: Have you not known? have you not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, faints not, neither is weary? there is no searching of his understanding.
 - brenton: And now, hast thou not known? hast thou not heard? the eternal God, the God that formed the ends of the earth, shall not hunger, nor be weary, and there is no searching of his understanding.
-
-### Proverbs 28:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.617`
-- fresh_brenton_ratio: `0.713`
-- fresh: One reproving the ways of man will have more favor than one flattering with tongue.
-- mt: He that rebukes a man afterwards shall find more favour than he that flatters with the tongue.
-- brenton: He that reproves a man's ways shall have more favour than he that flatters with the tongue.
 
 ### 1 Kings 1:35
 - priority: `0`
@@ -101895,6 +101877,15 @@ Method:
 - mt: And the arches thereof were toward the utter court; and palm trees were upon the posts thereof: and the going up to it had eight steps.
 - brenton: from the porch to the outer court: and there were palm-trees to the post thereof, and eight steps.
 
+### Proverbs 28:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.624`
+- fresh_brenton_ratio: `0.740`
+- fresh: One trusting in a bold heart, that man is a fool; but one walking in wisdom will be saved.
+- mt: He that trusts in his own heart is a fool: but whoso walks wisely, he shall be delivered.
+- brenton: He that trusts to a bold heart, such an one is a fool: but he that walks in wisdom shall be safe.
+
 ### Genesis 42:10
 - priority: `0`
 - importance: `none`
@@ -103739,15 +103730,6 @@ Method:
 - fresh: Let Israel rejoice over one making him, and sons of Zion exult over their king.
 - mt: Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 - brenton: Let Israel rejoice in him that made him; and let the children of Sion exult in their king.
-
-### Proverbs 28:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.630`
-- fresh_brenton_ratio: `0.706`
-- fresh: Blessed is the man who trembles always in reverence, but hardening heart will fall into evils.
-- mt: Happy is the man that fears always: but he that hardens his heart shall fall into mischief.
-- brenton: Blessed is the man who religiously fears always: but the hard of heart shall fall into mischiefs.
 
 ### Numbers 11:15
 - priority: `0`
@@ -110526,6 +110508,15 @@ Method:
 - mt: And in all yours abominations and your whoredoms you have not remembered the days of your youth, when you were naked and bare, and were polluted in your blood.
 - brenton: This is beyond all thy fornication, and thou didst not remember thine infancy, when thou wast naked and bare, and didst live though defiled in thy blood.
 
+### Proverbs 28:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.651`
+- fresh_brenton_ratio: `0.641`
+- fresh: A rich man is wise to himself, but a poor understanding man will expose him.
+- mt: The rich man is wise in his own conceit; but the poor that has understanding searches him out.
+- brenton: A rich man is wise in his own conceit; but an intelligent poor man will condemn him.
+
 ### Genesis 37:8
 - priority: `0`
 - importance: `none`
@@ -111020,6 +111011,15 @@ Method:
 - fresh: And he brought me into the entrance at back of the gate, into the chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
 - mt: After he brought me through the entry, which was at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there was a place on the two sides westward.
 - brenton: And he brought me into the entrance of the place behind the gate, into the chamber of the sanctuary belonging to the priests, that looks toward the north: and, behold, there was a place set apart.
+
+### Proverbs 28:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.652`
+- fresh_brenton_ratio: `0.734`
+- fresh: One reproving the ways of a man will have more favor than one flattering with the tongue.
+- mt: He that rebukes a man afterwards shall find more favour than he that flatters with the tongue.
+- brenton: He that reproves a man's ways shall have more favour than he that flatters with the tongue.
 
 ### Numbers 15:11
 - priority: `0`
@@ -147561,15 +147561,6 @@ Method:
 - mt: Therefore thus says the Lord GOD; An adversary there shall be even round about the land; and he shall bring down your strength from you, and your palaces shall be spoiled.
 - brenton: Therefore thus saith the Lord God; O Tyre, thy land shall be made desolate round about thee; and he shall bring down thy strength out of thee, and thy countries shall be spoiled.
 
-### Proverbs 28:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.748`
-- fresh_brenton_ratio: `0.713`
-- fresh: One turning his ear away from hearing law, even his prayer is abominated.
-- mt: He that turns away his ear from hearing the law, even his prayer shall be abomination.
-- brenton: He that turns away his ear from hearing the law, even he has made his prayer abominable.
-
 ### Genesis 34:8
 - priority: `0`
 - importance: `none`
@@ -160205,6 +160196,15 @@ Method:
 - fresh: And the whole assembly of the people, all the tribes of Israel, stood in the gathering of the people of God, four hundred thousand foot men drawing sword.
 - mt: And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword.
 - brenton: And all the tribes of Israel stood before the Lord in the assembly of the people of God, four hundred thousand footmen that drew sword.
+
+### Proverbs 28:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.780`
+- fresh_brenton_ratio: `0.745`
+- fresh: One turning his ear away from hearing the law, even his prayer is abominated.
+- mt: He that turns away his ear from hearing the law, even his prayer shall be abomination.
+- brenton: He that turns away his ear from hearing the law, even he has made his prayer abominable.
 
 ### 2 Chronicles 8:7
 - priority: `0`

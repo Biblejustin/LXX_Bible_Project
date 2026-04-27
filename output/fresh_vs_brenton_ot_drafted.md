@@ -153432,37 +153432,37 @@ Note:
 ### Proverbs 28:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: An ungodly one flees with none pursuing, but righteous trusts like a lion.
+- fresh: An ungodly one flees with none pursuing, but a righteous one trusts like a lion.
 - brenton: The ungodly man flees when no one pursues: but the righteous is confident as a lion.
 
 ### Proverbs 28:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Through sins of ungodly judgments are stirred up, but shrewd man will quench them.
+- fresh: Through sins of the ungodly judgments are stirred up, but a shrewd man will quench them.
 - brenton: By reason of the sins of ungodly men quarrels arise; but a wise man will quell them.
 
 ### Proverbs 28:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Strong man in ungodliness slanders poor; like sweeping and useless rain.
+- fresh: A strong man in ungodliness slanders the poor; he is like sweeping and useless rain.
 - brenton: A bold man oppresses the poor by ungodly deeds. As an impetuous and unprofitable rain,
 
 ### Proverbs 28:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those forsaking law praise ungodliness, but those loving law wrap wall around themselves.
+- fresh: Those forsaking the law praise ungodliness, but those loving the law wrap a wall around themselves.
 - brenton: so they that forsake the law praise ungodliness; but they that love the law fortify themselves with a wall.
 
 ### Proverbs 28:5
@@ -153495,46 +153495,46 @@ Note:
 ### Proverbs 28:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One multiplying wealth with interest and increase gathers it for one showing mercy to poor.
+- fresh: One multiplying wealth with interest and increase gathers it for one showing mercy to the poor.
 - brenton: He that increases his wealth by usuries and unjust gains, gathers it for him that pities the poor.
 
 ### Proverbs 28:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One turning his ear away from hearing law, even his prayer is abominated.
+- fresh: One turning his ear away from hearing the law, even his prayer is abominated.
 - brenton: He that turns away his ear from hearing the law, even he has made his prayer abominable.
 
 ### Proverbs 28:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One leading upright astray in evil way will himself fall into corruption; but lawless will pass by good things and not enter into them.
+- fresh: One leading the upright astray in an evil way will himself fall into corruption; but the lawless will pass by good things and not enter into them.
 - brenton: He that causes upright men to err in an evil way, himself shall fall into destruction: transgressors also shall pass by prosperity, but shall not enter into it.
 
 ### Proverbs 28:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rich man wise to himself, but poor understanding man will expose him.
+- fresh: A rich man is wise to himself, but a poor understanding man will expose him.
 - brenton: A rich man is wise in his own conceit; but an intelligent poor man will condemn him.
 
 ### Proverbs 28:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Through help of righteous much glory comes, but in the places of ungodly men are caught.
+- fresh: Through help of the righteous much glory comes, but in the places of the ungodly men are caught.
 - brenton: By reason of the help of righteous men great glory arises: but in the places of the ungodly men are caught.
 
 ### Proverbs 28:13
@@ -153549,37 +153549,37 @@ Note:
 ### Proverbs 28:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is the man who trembles always in reverence, but hardening heart will fall into evils.
+- fresh: Blessed is the man who trembles always in reverence, but one hardening the heart will fall into evils.
 - brenton: Blessed is the man who religiously fears always: but the hard of heart shall fall into mischiefs.
 
 ### Proverbs 28:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hungry lion and thirsty wolf is tyrant, being poor, over needy people.
+- fresh: A hungry lion and a thirsty wolf is a tyrant, being poor, over a needy people.
 - brenton: A hungry lion and a thirsty wolf is he, who, being poor, rules over a poor nation.
 
 ### Proverbs 28:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: King lacking revenues is great slanderer, but one hating injustice will live long time.
+- fresh: A king lacking revenues is a great slanderer, but one hating injustice will live a long time.
 - brenton: A king in need of revenues is a great oppressor: but he that hates injustice shall live a long time.
 
 ### Proverbs 28:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One guaranteeing man guilty of murder will be fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to lawless nation.
+- fresh: One guaranteeing a man guilty of murder will be a fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to a lawless nation.
 - brenton: He that becomes surety for a man charged with murder shall be an exile, and not in safety.
 
 ### Proverbs 28:18
@@ -153603,37 +153603,37 @@ Note:
 ### Proverbs 28:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Faithful man will be greatly blessed, but evil man will not go unpunished.
+- fresh: A faithful man will be greatly blessed, but an evil man will not go unpunished.
 - brenton: A man worthy of credit shall be much blessed: but the wicked shall not be unpunished.
 
 ### Proverbs 28:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One not respecting faces of righteous is not good; such man will be sold for morsel of bread.
+- fresh: One not respecting faces of the righteous is not good; such a man will be sold for a morsel of bread.
 - brenton: He that reverences not the persons of the just is not good: such a one will sell a man for a morsel of bread.
 
 ### Proverbs 28:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Envious man hurries to become rich and does not know that merciful man will master him.
+- fresh: An envious man hurries to become rich and does not know that a merciful man will master him.
 - brenton: An envious man makes haste to be rich, and knows not that the merciful man will have the mastery over him.
 
 ### Proverbs 28:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One reproving the ways of man will have more favor than one flattering with tongue.
+- fresh: One reproving the ways of a man will have more favor than one flattering with the tongue.
 - brenton: He that reproves a man's ways shall have more favour than he that flatters with the tongue.
 
 ### Proverbs 28:24
@@ -153642,34 +153642,34 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One casting away father or mother and thinking he does not sin is partner of an ungodly man.
+- fresh: One casting away father or mother and thinking he does not sin is a partner of an ungodly man.
 - brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
 
 ### Proverbs 28:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Faithless man judges vainly, but one trusting in the Lord will be diligent.
+- fresh: A faithless man judges vainly, but one trusting in the Lord will be diligent.
 - brenton: An unbelieving man judges rashly: but he that trusts in the Lord will act carefully.
 
 ### Proverbs 28:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One trusting in bold heart, that man fool; but one walking in wisdom will be saved.
+- fresh: One trusting in a bold heart, that man is a fool; but one walking in wisdom will be saved.
 - brenton: He that trusts to a bold heart, such an one is a fool: but he that walks in wisdom shall be safe.
 
 ### Proverbs 28:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One giving to poor will not be in need, but one turning away his eye will be in much want.
+- fresh: One giving to the poor will not be in need, but one turning away his eye will be in much want.
 - brenton: He that gives to the poor shall not be in want: but he that turns away his eye from him shall be in great distress.
 
 ### Proverbs 28:28
@@ -153678,7 +153678,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
+- fresh: In the places of the ungodly the righteous groan, but in their destruction the righteous will multiply.
 - brenton: In the places of ungodly men the righteous mourn: but in their destruction the righteous shall be multiplied.
 
 ### Proverbs 29:1

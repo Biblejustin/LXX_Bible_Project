@@ -69520,19 +69520,19 @@ Son, from me you have strong sayings for your life and for the life of your atte
 
 **Proverbs 28:1**
 
-An ungodly one flees with none pursuing, but righteous trusts like a lion.
+An ungodly one flees with none pursuing, but a righteous one trusts like a lion.
 
 **Proverbs 28:2**
 
-Through sins of ungodly judgments are stirred up, but shrewd man will quench them.
+Through sins of the ungodly judgments are stirred up, but a shrewd man will quench them.
 
 **Proverbs 28:3**
 
-Strong man in ungodliness slanders poor; like sweeping and useless rain.
+A strong man in ungodliness slanders the poor; he is like sweeping and useless rain.
 
 **Proverbs 28:4**
 
-Those forsaking law praise ungodliness, but those loving law wrap wall around themselves.
+Those forsaking the law praise ungodliness, but those loving the law wrap a wall around themselves.
 
 **Proverbs 28:5**
 
@@ -69548,23 +69548,23 @@ An understanding son keeps the law, but one shepherding prodigality dishonors hi
 
 **Proverbs 28:8**
 
-One multiplying wealth with interest and increase gathers it for one showing mercy to poor.
+One multiplying wealth with interest and increase gathers it for one showing mercy to the poor.
 
 **Proverbs 28:9**
 
-One turning his ear away from hearing law, even his prayer is abominated.
+One turning his ear away from hearing the law, even his prayer is abominated.
 
 **Proverbs 28:10**
 
-One leading upright astray in evil way will himself fall into corruption; but lawless will pass by good things and not enter into them.
+One leading the upright astray in an evil way will himself fall into corruption; but the lawless will pass by good things and not enter into them.
 
 **Proverbs 28:11**
 
-Rich man wise to himself, but poor understanding man will expose him.
+A rich man is wise to himself, but a poor understanding man will expose him.
 
 **Proverbs 28:12**
 
-Through help of righteous much glory comes, but in the places of ungodly men are caught.
+Through help of the righteous much glory comes, but in the places of the ungodly men are caught.
 
 **Proverbs 28:13**
 
@@ -69572,19 +69572,19 @@ One covering his ungodliness will not prosper, but one confessing rebukes will b
 
 **Proverbs 28:14**
 
-Blessed is the man who trembles always in reverence, but hardening heart will fall into evils.
+Blessed is the man who trembles always in reverence, but one hardening the heart will fall into evils.
 
 **Proverbs 28:15**
 
-Hungry lion and thirsty wolf is tyrant, being poor, over needy people.
+A hungry lion and a thirsty wolf is a tyrant, being poor, over a needy people.
 
 **Proverbs 28:16**
 
-King lacking revenues is great slanderer, but one hating injustice will live long time.
+A king lacking revenues is a great slanderer, but one hating injustice will live a long time.
 
 **Proverbs 28:17**
 
-One guaranteeing man guilty of murder will be fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to lawless nation.
+One guaranteeing a man guilty of murder will be a fugitive and not in safety. Discipline your son and he will love you and give adornment to your soul; he will not listen to a lawless nation.
 
 **Proverbs 28:18**
 
@@ -69596,39 +69596,39 @@ One working his own land will be filled with breads, but one pursuing idleness w
 
 **Proverbs 28:20**
 
-Faithful man will be greatly blessed, but evil man will not go unpunished.
+A faithful man will be greatly blessed, but an evil man will not go unpunished.
 
 **Proverbs 28:21**
 
-One not respecting faces of righteous is not good; such man will be sold for morsel of bread.
+One not respecting faces of the righteous is not good; such a man will be sold for a morsel of bread.
 
 **Proverbs 28:22**
 
-Envious man hurries to become rich and does not know that merciful man will master him.
+An envious man hurries to become rich and does not know that a merciful man will master him.
 
 **Proverbs 28:23**
 
-One reproving the ways of man will have more favor than one flattering with tongue.
+One reproving the ways of a man will have more favor than one flattering with the tongue.
 
 **Proverbs 28:24**
 
-One casting away father or mother and thinking he does not sin is partner of an ungodly man.
+One casting away father or mother and thinking he does not sin is a partner of an ungodly man.
 
 **Proverbs 28:25**
 
-Faithless man judges vainly, but one trusting in the Lord will be diligent.
+A faithless man judges vainly, but one trusting in the Lord will be diligent.
 
 **Proverbs 28:26**
 
-One trusting in bold heart, that man fool; but one walking in wisdom will be saved.
+One trusting in a bold heart, that man is a fool; but one walking in wisdom will be saved.
 
 **Proverbs 28:27**
 
-One giving to poor will not be in need, but one turning away his eye will be in much want.
+One giving to the poor will not be in need, but one turning away his eye will be in much want.
 
 **Proverbs 28:28**
 
-In the places of ungodly the righteous groan, but in their destruction the righteous will multiply.
+In the places of the ungodly the righteous groan, but in their destruction the righteous will multiply.
 
 ### Chapter 29
 
