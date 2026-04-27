@@ -5,7 +5,9 @@ import json
 import sys
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List
+
+from fresh_bible.book_scope import filter_rows_by_scope
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -59,41 +61,6 @@ def ensure_source_columns(rows: List[Dict[str, str]]) -> None:
     missing = [column for column in REQUIRED_SOURCE_COLUMNS if column not in rows[0]]
     if missing:
         raise ValueError(f"Missing source columns: {', '.join(missing)}")
-
-
-def matches_book(row: Dict[str, str], book: Optional[str]) -> bool:
-    if not book:
-        return True
-    wanted = book.strip().lower()
-    return (
-        row.get("book_name", "").strip().lower() == wanted
-        or row.get("book_code", "").strip().lower() == wanted
-    )
-
-
-def filter_rows_by_scope(
-    rows: List[Dict[str, str]],
-    book: Optional[str],
-    chapter: Optional[int],
-    chapter_start: Optional[int],
-    chapter_end: Optional[int],
-) -> List[Dict[str, str]]:
-    filtered: List[Dict[str, str]] = []
-    for row in rows:
-        if not matches_book(row, book):
-            continue
-        row_chapter = row.get("chapter", "").strip()
-        if not row_chapter:
-            continue
-        chapter_value = int(row_chapter)
-        if chapter is not None and chapter_value != chapter:
-            continue
-        if chapter_start is not None and chapter_value < chapter_start:
-            continue
-        if chapter_end is not None and chapter_value > chapter_end:
-            continue
-        filtered.append(row)
-    return filtered
 
 
 def group_by_ref(rows: List[Dict[str, str]]) -> Dict[str, List[Dict[str, str]]]:

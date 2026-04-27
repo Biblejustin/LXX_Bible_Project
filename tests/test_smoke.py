@@ -15,6 +15,8 @@ for import_path in (ROOT, ROOT / "scripts"):
     if import_path_text not in sys.path:
         sys.path.insert(0, import_path_text)
 
+from fresh_bible.book_scope import filter_rows_by_scope
+
 
 SOURCE_COLUMNS = {
     "ref",
@@ -46,6 +48,18 @@ def csv_rows(relative_path: str) -> list[dict[str, str]]:
 
 def sha256(relative_path: str) -> str:
     return hashlib.sha256((ROOT / relative_path).read_bytes()).hexdigest()
+
+
+def test_book_scope_filters_book_and_chapter_range() -> None:
+    rows = [
+        {"book_code": "MAT", "book_name": "Matthew", "chapter": "1", "verse": "1"},
+        {"book_code": "MAT", "book_name": "Matthew", "chapter": "2", "verse": "1"},
+        {"book_code": "MRK", "book_name": "Mark", "chapter": "1", "verse": "1"},
+    ]
+
+    scoped = filter_rows_by_scope(rows, "MAT", None, 2, None)
+    assert [(row["book_code"], row["chapter"]) for row in scoped] == [("MAT", "2")]
+    assert filter_rows_by_scope(rows, "Mark", 1, None, None) == [rows[2]]
 
 
 def test_fresh_source_csv_shapes() -> None:

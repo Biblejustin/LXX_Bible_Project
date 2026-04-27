@@ -22,6 +22,8 @@ from typing import Any, Callable, Iterable, TypeVar
 from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 
+from fresh_bible.book_scope import filter_items_by_book
+
 try:
     from build_study_bible import (
         OPENBIBLE_BOOK_MAP,
@@ -961,21 +963,6 @@ def load_verses(path: Path) -> list[Verse]:
             )
         )
     return verses
-
-
-def verse_matches_book(verse: Verse, book: str | None) -> bool:
-    if not book:
-        return True
-    wanted = book.strip().casefold()
-    return wanted in {verse.book_code.casefold(), verse.book_name.casefold()}
-
-
-def filter_verses_by_book(verses: list[Verse], book: str | None) -> list[Verse]:
-    selected = [verse for verse in verses if verse_matches_book(verse, book)]
-    if book and not selected:
-        available = ", ".join(dict.fromkeys(verse.book_name for verse in verses))
-        raise SystemExit(f"No verses matched --book {book!r}. Available books: {available}")
-    return selected
 
 
 MT_ONLY_COMPLETENESS_REFS = {f"Jeremiah 40:{verse}" for verse in range(14, 27)}
@@ -2907,7 +2894,13 @@ def main() -> None:
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
 
-    verses = filter_verses_by_book(load_verses(args.source), args.book)
+    verses = filter_items_by_book(
+        load_verses(args.source),
+        args.book,
+        book_name=lambda verse: verse.book_name,
+        book_code=lambda verse: verse.book_code,
+        item_label="verse",
+    )
     versification_map, versification_map_diag = load_versification_map(args.versification_map)
     variant_decisions, variant_decision_counts = load_variant_decisions(args.translation_decisions)
     base_notes, note_counts = load_translation_notes(args.footnotes, variant_decisions)
