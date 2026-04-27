@@ -73496,19 +73496,19 @@ And it will be in that day, they will trumpet with the great trumpet, and those 
 
 **Isaiah 28:1**
 
-Woe to crown of insolence, hired drinkers of Ephraim, flower fallen from glory on top of fat mountain, drunken without wine.
+Woe to the crown of insolence, the hired drinkers of Ephraim, the flower fallen from glory on the top of the fat mountain, the drunken ones without wine.
 
 **Isaiah 28:2**
 
-Behold, strong and hard is the wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
+Behold, strong and hard is the wrath of the Lord, as hail rushing down without shelter, a force rushing down as much water dragging land; with hands he will make rest to the earth.
 
 **Isaiah 28:3**
 
-And with feet will be trampled crown of insolence, hired drinkers of Ephraim.
+And with feet the crown of insolence, the hired drinkers of Ephraim, will be trampled.
 
 **Isaiah 28:4**
 
-And fallen flower of hope of glory on top of high mountain will be like early fig, one seeing it before taking it in hand will want to swallow it.
+And the fallen flower of hope of glory on the top of the high mountain will be like an early fig; the one seeing it before taking it in his hand will want to swallow it.
 
 **Isaiah 28:5**
 
@@ -73516,19 +73516,19 @@ In that day the Lord of hosts will be a crown of hope, a woven thing of glory, t
 
 **Isaiah 28:6**
 
-They will be left upon spirit of judgment for judgment and strength preventing slaughter.
+They will be left upon a spirit of judgment for judgment and strength preventing slaughter.
 
 **Isaiah 28:7**
 
-For these are misled with wine, they wandered because of strong drink; priest and prophet were astonished because of wine, shaken from drunkenness of strong drink, wandered. This is vision.
+For these are misled with wine, they wandered because of strong drink; the priest and the prophet were astonished because of the wine, shaken from the drunkenness of strong drink, wandered. This is a vision.
 
 **Isaiah 28:8**
 
-Will this one eat this counsel? For this counsel because of greed.
+Will this one eat this counsel? For this is the counsel because of greed.
 
 **Isaiah 28:9**
 
-To whom did we announce evils, and to whom did we announce message? Those weaned from milk, those pulled from the breast.
+To whom did we announce evils, and to whom did we announce a message? The ones weaned from milk, the ones pulled from the breast.
 
 **Isaiah 28:10**
 
@@ -73540,19 +73540,19 @@ By contempt of lips, by another tongue, because they will speak to this people,
 
 **Isaiah 28:12**
 
-saying to it, This rest to hungry one, and this crushing; and they did not want to hear.
+saying to it, This rest to a hungry one, and this crushing; and they did not want to hear.
 
 **Isaiah 28:13**
 
-And oracle of the Lord God will be to them, affliction upon affliction, hope upon hope, yet a little, yet a little, so that they may go and fall backward and be in danger and be crushed and captured.
+And the oracle of the Lord God will be to them, affliction upon affliction, hope upon hope, yet a little, yet a little, so that they may go and fall backward and be in danger and be crushed and captured.
 
 **Isaiah 28:14**
 
-Therefore hear the word of the Lord, afflicted men and rulers of this people in Jerusalem,
+Therefore hear the word of the Lord, you afflicted men and rulers of this people in Jerusalem,
 
 **Isaiah 28:15**
 
-because you said, We made covenant with Hades and agreements with death. Storm carried along, if it passes, certainly will not come upon us. We set falsehood as our hope, and by lie we will be covered.
+because you said, We made a covenant with Hades and agreements with death. A storm carried along, if it passes, certainly will not come upon us. We set falsehood as our hope, and by a lie we will be covered.
 
 **Isaiah 28:16**
 

@@ -5113,6 +5113,42 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "on the holy mountain in Jerusalem" in by_ref["Isaiah 27:13"][
         "draft_translation"
     ]
+    assert "the crown of insolence" in by_ref["Isaiah 28:1"][
+        "draft_translation"
+    ]
+    assert "the hired drinkers of Ephraim" in by_ref["Isaiah 28:1"][
+        "draft_translation"
+    ]
+    assert "a force rushing down" in by_ref["Isaiah 28:2"]["draft_translation"]
+    assert "will be trampled" in by_ref["Isaiah 28:3"]["draft_translation"]
+    assert "the fallen flower" in by_ref["Isaiah 28:4"]["draft_translation"]
+    assert "like an early fig" in by_ref["Isaiah 28:4"]["draft_translation"]
+    assert "upon a spirit of judgment" in by_ref["Isaiah 28:6"][
+        "draft_translation"
+    ]
+    assert "the priest and the prophet" in by_ref["Isaiah 28:7"][
+        "draft_translation"
+    ]
+    assert "This is a vision" in by_ref["Isaiah 28:7"]["draft_translation"]
+    assert "announce a message" in by_ref["Isaiah 28:9"]["draft_translation"]
+    assert "The ones weaned from milk" in by_ref["Isaiah 28:9"][
+        "draft_translation"
+    ]
+    assert "This rest to a hungry one" in by_ref["Isaiah 28:12"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 28:13"]["draft_translation"].startswith(
+        "And the oracle of the Lord God"
+    )
+    assert "you afflicted men and rulers" in by_ref["Isaiah 28:14"][
+        "draft_translation"
+    ]
+    assert "We made a covenant with Hades" in by_ref["Isaiah 28:15"][
+        "draft_translation"
+    ]
+    assert "by a lie we will be covered" in by_ref["Isaiah 28:15"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

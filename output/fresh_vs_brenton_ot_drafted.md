@@ -162141,37 +162141,37 @@ Note:
 ### Isaiah 28:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to crown of insolence, hired drinkers of Ephraim, flower fallen from glory on top of fat mountain, drunken without wine.
+- fresh: Woe to the crown of insolence, the hired drinkers of Ephraim, the flower fallen from glory on the top of the fat mountain, the drunken ones without wine.
 - brenton: Woe to the crown of pride, the hirelings of Ephraim, the flower that has fallen from the glory of the top of the fertile mountain, they that are drunken without wine.
 
 ### Isaiah 28:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, strong and hard is the wrath of the Lord, as hail rushing down without shelter, force rushing down as much water dragging land; with hand he will make rest to earth.
+- fresh: Behold, strong and hard is the wrath of the Lord, as hail rushing down without shelter, a force rushing down as much water dragging land; with hands he will make rest to the earth.
 - brenton: Behold, the anger of the Lord is strong and severe, as descending hail where there is no shelter, violently descending; as a great body of water sweeping away the soil, he shall make rest for the land.
 
 ### Isaiah 28:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And with feet will be trampled crown of insolence, hired drinkers of Ephraim.
+- fresh: And with feet the crown of insolence, the hired drinkers of Ephraim, will be trampled.
 - brenton: The crown of pride, the hirelings of Ephraim, shall be beaten down with the hands and with the feet.
 
 ### Isaiah 28:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And fallen flower of hope of glory on top of high mountain will be like early fig, one seeing it before taking it in hand will want to swallow it.
+- fresh: And the fallen flower of hope of glory on the top of the high mountain will be like an early fig; the one seeing it before taking it in his hand will want to swallow it.
 - brenton: And the fading flower of the glorious hope on the top of the high mountain shall be as the early fig; he that sees it, before he takes it into his hand, will desire to swallow it down.
 
 ### Isaiah 28:5
@@ -162186,37 +162186,37 @@ Note:
 ### Isaiah 28:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will be left upon spirit of judgment for judgment and strength preventing slaughter.
+- fresh: They will be left upon a spirit of judgment for judgment and strength preventing slaughter.
 - brenton: They shall be left in the spirit of judgment for judgment, and for the strength of them that hinder slaying.
 
 ### Isaiah 28:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For these are misled with wine, they wandered because of strong drink; priest and prophet were astonished because of wine, shaken from drunkenness of strong drink, wandered. This is vision.
+- fresh: For these are misled with wine, they wandered because of strong drink; the priest and the prophet were astonished because of the wine, shaken from the drunkenness of strong drink, wandered. This is a vision.
 - brenton: For these have trespassed through wine; they have erred through strong drink: the priest and the prophet are mad through strong drink, they are swallowed up by reason of wine, they have staggered through drunkenness; they have erred: this is their vision.
 
 ### Isaiah 28:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will this one eat this counsel? For this counsel because of greed.
+- fresh: Will this one eat this counsel? For this is the counsel because of greed.
 - brenton: A curse shall devour this counsel, for this is their counsel for the sake of covetousness.
 
 ### Isaiah 28:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom did we announce evils, and to whom did we announce message? Those weaned from milk, those pulled from the breast.
+- fresh: To whom did we announce evils, and to whom did we announce a message? The ones weaned from milk, the ones pulled from the breast.
 - brenton: To whom have we reported evils? and to whom have we reported a message? even to those that are weaned from the milk, who are drawn from the breast.
 
 ### Isaiah 28:10
@@ -162240,37 +162240,37 @@ Note:
 ### Isaiah 28:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying to it, This rest to hungry one, and this crushing; and they did not want to hear.
+- fresh: saying to it, This rest to a hungry one, and this crushing; and they did not want to hear.
 - brenton: This is the rest to him that is hungry, and this is the calamity: but they would not hear.
 
 ### Isaiah 28:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And oracle of the Lord God will be to them, affliction upon affliction, hope upon hope, yet a little, yet a little, so that they may go and fall backward and be in danger and be crushed and captured.
+- fresh: And the oracle of the Lord God will be to them, affliction upon affliction, hope upon hope, yet a little, yet a little, so that they may go and fall backward and be in danger and be crushed and captured.
 - brenton: Therefore the oracle of God shall be to them affliction on affliction, hope on hope, yet a little, and yet a little, that they may go and fall backward; and they shall be crushed and shall be in danger, and shall be taken.
 
 ### Isaiah 28:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear the word of the Lord, afflicted men and rulers of this people in Jerusalem,
+- fresh: Therefore hear the word of the Lord, you afflicted men and rulers of this people in Jerusalem,
 - brenton: Therefore hear ye the word of the Lord, ye afflicted men, and ye princes of this people that is in Jerusalem.
 
 ### Isaiah 28:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because you said, We made covenant with Hades and agreements with death. Storm carried along, if it passes, certainly will not come upon us. We set falsehood as our hope, and by lie we will be covered.
+- fresh: because you said, We made a covenant with Hades and agreements with death. A storm carried along, if it passes, certainly will not come upon us. We set falsehood as our hope, and by a lie we will be covered.
 - brenton: Because ye have said, We have made a covenant with Hades, and agreements with death; if the rushing storm should pass, it shall not come upon us: we have made falsehood our hope, and by falsehood shall we be protected:
 
 ### Isaiah 28:16
