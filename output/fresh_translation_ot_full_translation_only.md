@@ -53960,7 +53960,7 @@ They put naked men to sleep unjustly, and took away bread from hungry men.
 
 **Job 24:11**
 
-In narrow places they lay in wait unjustly, and they did not know righteous way.
+In narrow places they lay in wait unjustly, and they did not know a righteous way.
 
 **Job 24:12**
 
@@ -54212,7 +54212,7 @@ He set order for darkness, and he himself searches out every limit, stone of glo
 
 **Job 28:4**
 
-Torrent breaks off from dust, and those forgetting righteous way grew weak among mortals.
+Torrent breaks off from dust, and those forgetting a righteous way grew weak among mortals.
 
 **Job 28:5**
 
@@ -56042,7 +56042,7 @@ Serve the Lord in fear and rejoice in him with trembling.
 
 **Psalms 2:12**
 
-Take hold of instruction lest the Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
+Take hold of instruction lest the Lord be angered and you perish from a righteous way when his wrath is quickly kindled. Blessed are all who trust in him.
 
 ### Chapter 3
 
@@ -57232,7 +57232,7 @@ All ends of the earth will remember and turn to the Lord, and all families of na
 
 **Psalms 21:29**
 
-Because kingdom belongs to the Lord, and he rules nations.
+Because the kingdom belongs to the Lord, and he rules over the nations.
 
 **Psalms 21:30**
 
@@ -63710,7 +63710,7 @@ For end, of David, psalm. O God, my praise, do not pass over in silence,
 
 **Psalms 108:2**
 
-because the mouth of sinner and the mouth of deceitful one opened against me; they spoke against me with deceitful tongue.
+because the mouth of a sinner and the mouth of a deceitful one opened against me; they spoke against me with a deceitful tongue.
 
 **Psalms 108:3**
 
@@ -65004,11 +65004,11 @@ Song of ascents. To the Lord, in my being afflicted, I cried, and he heard me.
 
 **Psalms 119:2**
 
-Lord, rescue my soul from unjust lips and from deceitful tongue.
+Lord, rescue my soul from unjust lips and from a deceitful tongue.
 
 **Psalms 119:3**
 
-What should be given to you, and what should be added to you, against deceitful tongue?
+What should be given to you, and what should be added to you, against a deceitful tongue?
 
 **Psalms 119:4**
 

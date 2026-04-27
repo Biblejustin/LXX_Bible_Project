@@ -119309,10 +119309,10 @@ Note:
 ### Job 24:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In narrow places they lay in wait unjustly, and they did not know righteous way.
+- fresh: In narrow places they lay in wait unjustly, and they did not know a righteous way.
 - brenton: They have unrighteously laid wait in narrow places, and have not known the righteous way.
 
 ### Job 24:12
@@ -119858,10 +119858,10 @@ Note:
 ### Job 28:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Torrent breaks off from dust, and those forgetting righteous way grew weak among mortals.
+- fresh: Torrent breaks off from dust, and those forgetting a righteous way grew weak among mortals.
 - brenton: There is a cutting off of the torrent by reason of dust: so they that forget the right way are weakened; they are removed from among men.
 
 ### Job 28:5
@@ -123901,10 +123901,10 @@ Note:
 ### Psalms 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Take hold of instruction lest the Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
+- fresh: Take hold of instruction lest the Lord be angered and you perish from a righteous way when his wrath is quickly kindled. Blessed are all who trust in him.
 - brenton: Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him.
 
 ### Psalms 3:1
@@ -126493,10 +126493,10 @@ Note:
 ### Psalms 21:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because kingdom belongs to the Lord, and he rules nations.
+- fresh: Because the kingdom belongs to the Lord, and he rules over the nations.
 - brenton: For the kingdom is the Lord's; and he is the governor of the nations.
 
 ### Psalms 21:30
@@ -140677,10 +140677,10 @@ Note:
 ### Psalms 108:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because the mouth of sinner and the mouth of deceitful one opened against me; they spoke against me with deceitful tongue.
+- fresh: because the mouth of a sinner and the mouth of a deceitful one opened against me; they spoke against me with a deceitful tongue.
 - brenton: for the mouth of the sinner and the mouth of the crafty man have been opened against me: they have spoken against me with a crafty tongue.
 
 ### Psalms 108:3
@@ -143539,19 +143539,19 @@ Note:
 ### Psalms 119:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, rescue my soul from unjust lips and from deceitful tongue.
+- fresh: Lord, rescue my soul from unjust lips and from a deceitful tongue.
 - brenton: Deliver my soul, O Lord, from unjust lips, and from a deceitful tongue.
 
 ### Psalms 119:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What should be given to you, and what should be added to you, against deceitful tongue?
+- fresh: What should be given to you, and what should be added to you, against a deceitful tongue?
 - brenton: What should be given to thee, and what should be added to thee, for thy crafty tongue?
 
 ### Psalms 119:4

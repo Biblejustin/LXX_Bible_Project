@@ -2565,6 +2565,14 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the angel speaking with me" in by_ref["Zechariah 6:5"]["draft_translation"]
     assert "touching the pupil of his eye" in by_ref["Zechariah 2:12"]["draft_translation"]
     assert "carrying the measure" in by_ref["Zechariah 5:10"]["draft_translation"]
+    assert "perish from a righteous way" in by_ref["Psalms 2:12"]["draft_translation"]
+    assert "Blessed are all who trust in him" in by_ref["Psalms 2:12"]["draft_translation"]
+    assert by_ref["Psalms 21:29"]["draft_translation"].startswith("Because the kingdom belongs to the Lord")
+    assert "rules over the nations" in by_ref["Psalms 21:29"]["draft_translation"]
+    assert "the mouth of a sinner and the mouth of a deceitful one" in by_ref["Psalms 108:2"]["draft_translation"]
+    assert "with a deceitful tongue" in by_ref["Psalms 108:2"]["draft_translation"]
+    assert "from a deceitful tongue" in by_ref["Psalms 119:2"]["draft_translation"]
+    assert "against a deceitful tongue" in by_ref["Psalms 119:3"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -2831,7 +2839,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "people answered the king saying" in by_ref["2 Chronicles 10:16"][
         "draft_translation"
     ]
-    assert "because the mouth of sinner and the mouth of deceitful one" in by_ref[
+    assert "because the mouth of a sinner and the mouth of a deceitful one" in by_ref[
         "Psalms 108:2"
     ]["draft_translation"]
     assert by_ref["Isaiah 11:3"]["draft_translation"].startswith("The spirit of fear of God")

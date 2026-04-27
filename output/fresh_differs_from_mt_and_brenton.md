@@ -17300,6 +17300,15 @@ Rows: 20939
 - mt: And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send you away. And Saul arose, and they went out both of them, he and Samuel, abroad.
 - brenton: And it came to pass when the morning dawned, that Samuel called Saul on the roof, saying, Rise up, and I will dismiss thee. And Saul arose, and he and Samuel went out.
 
+## Psalms 119:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.152`
+- fresh_brenton_ratio: `0.757`
+- fresh: What should be given to you, and what should be added to you, against a deceitful tongue?
+- mt: They also do no iniquity: they walk in his ways.
+- brenton: What should be given to thee, and what should be added to thee, for thy crafty tongue?
+
 ## 2 Kings 16:17
 - priority: `0`
 - importance: `none`
@@ -17470,15 +17479,6 @@ Rows: 20939
 - fresh: They strengthened for themselves evil word; they told of hiding snares. They said, Who will see them?
 - mt: When I remember you upon my bed, and meditate on you in the night watches.
 - brenton: They have set up for themselves an evil matter, they have given counsel to hide snares; they have said, Who shall see them?
-
-## Psalms 119:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.154`
-- fresh_brenton_ratio: `0.766`
-- fresh: What should be given to you, and what should be added to you, against deceitful tongue?
-- mt: They also do no iniquity: they walk in his ways.
-- brenton: What should be given to thee, and what should be added to thee, for thy crafty tongue?
 
 ## 1 Kings 21:18
 - priority: `0`
@@ -37253,6 +37253,15 @@ Rows: 20939
 - mt: For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open tomb; they flatter with their tongue.
 - brenton: Lead me, O Lord, in thy righteousness because of mine enemies; make my way plain before thy face.
 
+## Psalms 108:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.297`
+- fresh_brenton_ratio: `0.771`
+- fresh: because the mouth of a sinner and the mouth of a deceitful one opened against me; they spoke against me with a deceitful tongue.
+- mt: Awake, psaltery and harp: I myself will awake early.
+- brenton: for the mouth of the sinner and the mouth of the crafty man have been opened against me: they have spoken against me with a crafty tongue.
+
 ## Jeremiah 38:27
 - priority: `0`
 - importance: `none`
@@ -39286,15 +39295,6 @@ Rows: 20939
 - fresh: Lord, you brought up my soul from Hades; you saved me from those going down into pit.
 - mt: The voice of the LORD is powerful; the voice of the LORD is full of majesty.
 - brenton: O Lord, thou hast brought up my soul from Hades, thou hast delivered me from among them that go down to the pit.
-
-## Psalms 108:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.308`
-- fresh_brenton_ratio: `0.766`
-- fresh: because the mouth of sinner and the mouth of deceitful one opened against me; they spoke against me with deceitful tongue.
-- mt: Awake, psaltery and harp: I myself will awake early.
-- brenton: for the mouth of the sinner and the mouth of the crafty man have been opened against me: they have spoken against me with a crafty tongue.
 
 ## Psalms 86:6
 - priority: `0`
@@ -42779,6 +42779,15 @@ Rows: 20939
 - mt: But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us.
 - brenton: Then Ananias took the yokes from the neck of Jeremias in the sight of all the people, and broke them to pieces.
 
+## Job 24:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.327`
+- fresh_brenton_ratio: `0.563`
+- fresh: In narrow places they lay in wait unjustly, and they did not know a righteous way.
+- mt: Which make oil within their walls, and tread their winepresses, and suffer thirst.
+- brenton: They have unrighteously laid wait in narrow places, and have not known the righteous way.
+
 ## Psalms 49:20
 - priority: `0`
 - importance: `none`
@@ -43570,15 +43579,6 @@ Rows: 20939
 - fresh: Hallelujah. Of Haggai and Zechariah. Praise the Lord, my soul.
 - mt: I will extol you, my God, O king; and I will bless your name for ever and ever.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
-
-## Job 24:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.331`
-- fresh_brenton_ratio: `0.558`
-- fresh: In narrow places they lay in wait unjustly, and they did not know righteous way.
-- mt: Which make oil within their walls, and tread their winepresses, and suffer thirst.
-- brenton: They have unrighteously laid wait in narrow places, and have not known the righteous way.
 
 ## Isaiah 11:3
 - priority: `0`
@@ -50996,6 +50996,15 @@ Rows: 20939
 - mt: All these were the children of Asher, heads of their father's house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were able to the war and to battle was twenty and six thousand men.
 - brenton: All these were the sons of Aser, all heads of families, choice, mighty men, chief leaders: their number for battle array—their number was twenty-six thousand men.
 
+## Psalms 119:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.372`
+- fresh_brenton_ratio: `0.840`
+- fresh: Lord, rescue my soul from unjust lips and from a deceitful tongue.
+- mt: Blessed are they that keep his testimonies, and that seek him with the whole heart.
+- brenton: Deliver my soul, O Lord, from unjust lips, and from a deceitful tongue.
+
 ## Exodus 38:23
 - priority: `0`
 - importance: `none`
@@ -51958,15 +51967,6 @@ Rows: 20939
 - fresh: And the Lord showed me four craftsmen.
 - mt: And, behold, the angel that talked with me went forth, and another angel went out to meet him,
 - brenton: And the Lord shewed me four artificers.
-
-## Psalms 119:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.378`
-- fresh_brenton_ratio: `0.822`
-- fresh: Lord, rescue my soul from unjust lips and from deceitful tongue.
-- mt: Blessed are they that keep his testimonies, and that seek him with the whole heart.
-- brenton: Deliver my soul, O Lord, from unjust lips, and from a deceitful tongue.
 
 ## 1 Chronicles 7:7
 - priority: `0`
@@ -59546,15 +59546,6 @@ Rows: 20939
 - mt: The children of Gibeon, ninety and five.
 - brenton: The children of Gabaon, ninety-five.
 
-## Job 28:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.436`
-- fresh_brenton_ratio: `0.543`
-- fresh: Torrent breaks off from dust, and those forgetting righteous way grew weak among mortals.
-- mt: The flood breaks out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.
-- brenton: There is a cutting off of the torrent by reason of dust: so they that forget the right way are weakened; they are removed from among men.
-
 ## Isaiah 24:7
 - priority: `0`
 - importance: `none`
@@ -61435,6 +61426,15 @@ Rows: 20939
 - fresh: The righteous one will rejoice in the Lord and hope upon him, and all straight in heart will be praised.
 - mt: But the king shall rejoice in God; every one that swears by him shall glory: but the mouth of them that speak lies shall be stopped.
 - brenton: The righteous shall rejoice in the Lord, and hope on him, and all the upright in heart shall be praised.
+
+## Job 28:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.451`
+- fresh_brenton_ratio: `0.538`
+- fresh: Torrent breaks off from dust, and those forgetting a righteous way grew weak among mortals.
+- mt: The flood breaks out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.
+- brenton: There is a cutting off of the torrent by reason of dust: so they that forget the right way are weakened; they are removed from among men.
 
 ## Job 20:9
 - priority: `0`
@@ -115517,15 +115517,6 @@ Rows: 20939
 - mt: The waters wear the stones: you wash away the things which grow out of the dust of the earth; and you destroys the hope of man.
 - brenton: The waters wear the stones, and waters falling headlong overflow a heap of the earth: and thou destroyest the hope of man.
 
-## Psalms 2:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.685`
-- fresh_brenton_ratio: `0.726`
-- fresh: Take hold of instruction lest the Lord be angered and you perish from righteous way when his wrath is quickly kindled. Blessed all who trust in him.
-- mt: Kiss the Son, lest he be angry, and all of you perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
-- brenton: Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him.
-
 ## 1 Samuel 25:11
 - priority: `0`
 - importance: `none`
@@ -120160,6 +120151,15 @@ Rows: 20939
 - fresh: Thus the Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
 - mt: Thus he showed me: and, behold, the LORD stood upon a wall made by a plumb-line, with a plumb-line in his hand.
 - brenton: Thus the Lord shewed me; and behold, he stood upon a wall of adamant, and in his hand was an adamant.
+
+## Psalms 2:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.697`
+- fresh_brenton_ratio: `0.743`
+- fresh: Take hold of instruction lest the Lord be angered and you perish from a righteous way when his wrath is quickly kindled. Blessed are all who trust in him.
+- mt: Kiss the Son, lest he be angry, and all of you perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
+- brenton: Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him.
 
 ## 2 Samuel 18:29
 - priority: `0`
