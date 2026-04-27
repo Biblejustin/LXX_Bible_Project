@@ -4953,6 +4953,38 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the king of the Assyrians will lead the captivity" in by_ref[
         "Isaiah 20:4"
     ]["draft_translation"]
+    assert by_ref["Isaiah 21:1"]["draft_translation"].startswith(
+        "The vision of the wilderness"
+    )
+    assert "the envoys of the Persians" in by_ref["Isaiah 21:2"][
+        "draft_translation"
+    ]
+    assert "set a watchman" in by_ref["Isaiah 21:6"]["draft_translation"]
+    assert "a rider of a donkey" in by_ref["Isaiah 21:7"]["draft_translation"]
+    assert "The vision of Edom" in by_ref["Isaiah 21:11"]["draft_translation"]
+    assert "the glory of the sons of Kedar" in by_ref["Isaiah 21:16"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 22:1"]["draft_translation"].startswith(
+        "The word of the valley of Zion"
+    )
+    assert "The city is full of shouting" in by_ref["Isaiah 22:2"][
+        "draft_translation"
+    ]
+    assert "there is a day of trouble" in by_ref["Isaiah 22:5"][
+        "draft_translation"
+    ]
+    assert "the hidden things of the houses" in by_ref["Isaiah 22:9"][
+        "draft_translation"
+    ]
+    assert "Shebna the steward" in by_ref["Isaiah 22:15"]["draft_translation"]
+    assert "a memorial in a high place" in by_ref["Isaiah 22:16"][
+        "draft_translation"
+    ]
+    assert "as a father to the dwellers" in by_ref["Isaiah 22:21"][
+        "draft_translation"
+    ]
+    assert "the glory of David" in by_ref["Isaiah 22:22"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

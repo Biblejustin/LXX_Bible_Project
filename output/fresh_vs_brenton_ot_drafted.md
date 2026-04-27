@@ -160980,19 +160980,19 @@ Note:
 ### Isaiah 21:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of the wilderness: as storm through wilderness would pass through, coming from fearful land.
+- fresh: The vision of the wilderness: as a storm through a wilderness would pass through, coming from a fearful land.
 - brenton: The Vision of the Desert.
 
 ### Isaiah 21:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hard vision was reported to me: lawless one acts lawlessly, and outlaw acts as outlaw. Against me Elamites and envoys of Persians come upon me. Now I will groan and comfort myself.
+- fresh: A hard vision was reported to me: a lawless one acts lawlessly, and an outlaw acts as an outlaw. Against me the Elamites and the envoys of the Persians come upon me. Now I will groan and comfort myself.
 - brenton: so a fearful and a grievous vision was declared to me: he that is treacherous deals treacherously, the transgressor transgresses. The Elamites are upon me, and the ambassadors of the Persians come against me: now will I groan and comfort myself.
 
 ### Isaiah 21:3
@@ -161016,46 +161016,46 @@ Note:
 ### Isaiah 21:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Prepare table; drink, eat. Rise up, rulers; prepare shields.
+- fresh: Prepare the table; drink, eat. Rise up, rulers; prepare the shields.
 - brenton: Prepare the table, eat, drink: arise, ye princes, and prepare your shields.
 
 ### Isaiah 21:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus the Lord said to me: Having gone, set watchman for yourself, and what you see, report.
+- fresh: Because thus the Lord said to me: Having gone, set a watchman for yourself, and what you see, report.
 - brenton: For thus said the Lord to me, Go and station a watchman for thyself, and declare whatever thou shalt see.
 
 ### Isaiah 21:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw riders, two horsemen, rider of donkey and rider of camel. Listen, great listening.
+- fresh: And I saw riders, two horsemen, a rider of a donkey and a rider of a camel. Listen with great listening.
 - brenton: And I saw two mounted horsemen, and a rider on an ass, and a rider on a camel.
 
 ### Isaiah 21:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And call Uriah to lookout of the Lord. And he said, I stood continually by day, and on camp I stood whole night.
+- fresh: And call Uriah to the lookout of the Lord. And he said, I stood continually by day, and on the camp I stood the whole night.
 - brenton: Hearken with great attention, and call thou Urias to the watch-tower: the Lord has spoken. I stood continually during the day, and I stood in the camp all the night:
 
 ### Isaiah 21:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And look, he comes, rider of pair. And answering he said, Babylon has fallen, and all her carved images and handmade things have been shattered to ground.
+- fresh: And look, he comes, a rider of a pair. And answering he said, Babylon has fallen, and all her carved images and handmade things have been shattered to the ground.
 - brenton: and, behold, he comes riding in a chariot and pair: and he answered and said, Babylon is fallen, is fallen; and all her images and her idols have been crushed to the ground.
 
 ### Isaiah 21:10
@@ -161070,82 +161070,82 @@ Note:
 ### Isaiah 21:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of Edom: To me one calls from Seir, Guard ramparts.
+- fresh: The vision of Edom: To me one calls from Seir, Guard the ramparts.
 - brenton: The Vision of Idumea.
 
 ### Isaiah 21:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I guard morning and night. If you seek, seek, and dwell with me.
+- fresh: I guard the morning and the night. If you seek, seek, and dwell with me.
 - brenton: I watch in the morning and the night: if thou wouldest enquire, enquire, and dwell by me.
 
 ### Isaiah 21:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the forest at evening you will sleep, on road, Dedan.
+- fresh: In the forest at evening you will sleep, on the road, Dedan.
 - brenton: Thou mayest lodge in the forest in the evening, or in the way of Dædan.
 
 ### Isaiah 21:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bring water to one thirsty; you dwelling in the land of Tema, meet fugitives with bread,
+- fresh: Bring water to the thirsty one; you dwelling in the land of Tema, meet the fugitives with bread,
 - brenton: Ye that dwell in the country of Thæman, bring water to meet him that is thirsty;
 
 ### Isaiah 21:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because of multitude of fugitives and multitude of wanderers and multitude of sword and multitude of stretched bows and multitude of fallen in war.
+- fresh: because of the multitude of fugitives and the multitude of wanderers and the multitude of sword and the multitude of stretched bows and the multitude of fallen in the war.
 - brenton: meet the fugitives with bread, because of the multitude of the slain, and because of the multitude of them that lose their way, and because of the multitude of swords, and because of the multitude of bent bows, and because of the multitude of them that have fallen in war.
 
 ### Isaiah 21:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus the Lord said to me: Yet one year, as year of hired worker, glory of sons of Kedar will fail.
+- fresh: Because thus the Lord said to me: Yet one year, as a year of a hired worker, the glory of the sons of Kedar will fail.
 - brenton: For thus said the Lord to me, Yet a year, as the year of an hireling, and the glory of the sons of Kedar shall fail:
 
 ### Isaiah 21:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remnant of arrows of mighty sons of Kedar will be few, because the Lord God of Israel spoke.
+- fresh: And the remnant of arrows of the mighty sons of Kedar will be few, because the Lord God of Israel spoke.
 - brenton: and the remnant of the strong bows of the sons of Kedar shall be small: for the Lord God of Israel has spoken it.
 
 ### Isaiah 22:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word of valley of Zion: What happened to you now that all of you went up to housetops?
+- fresh: The word of the valley of Zion: What happened to you now that all of you went up to the housetops?
 - brenton: The Word of the Valley of Sion.
 
 ### Isaiah 22:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: City full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
+- fresh: The city is full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
 - brenton: The city is filled with shouting men: thy slain are not slain with swords, nor are thy dead those who have died in battle.
 
 ### Isaiah 22:3
@@ -161169,64 +161169,64 @@ Note:
 ### Isaiah 22:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because day of trouble and destruction and trampling and wandering from the Lord of hosts in the valley of Zion; they wander from small to great, they wander on mountains.
+- fresh: Because there is a day of trouble and destruction and trampling and wandering from the Lord of hosts in the valley of Zion; they wander from small to great, they wander on the mountains.
 - brenton: For it is a day of trouble, and of destruction, and of treading down, and there is perplexity sent from the Lord of hosts: they wander in the valley of Sion; they wander from the least to the greatest on the mountains.
 
 ### Isaiah 22:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elamites took quivers, riders, men on horses, and gathering of battle-line.
+- fresh: And the Elamites took quivers, riders, men on horses, and a gathering of battle-line.
 - brenton: And the Elamites took their quivers, and there were men mounted on horses, and there was a gathering for battle.
 
 ### Isaiah 22:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your choice valleys will be filled with chariots, and horsemen will shut your gates.
+- fresh: And your choice valleys will be filled with chariots, and the horsemen will shut your gates.
 - brenton: And it shall be that thy choice valleys shall be filled with chariots, and horsemen shall block up thy gates.
 
 ### Isaiah 22:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will uncover gates of Judah, and in that day they will look to choice houses of the city.
+- fresh: And they will uncover the gates of Judah, and in that day they will look to the choice houses of the city.
 - brenton: And they shall uncover the gates of Juda, and they shall look in that day on the choice houses of the city.
 
 ### Isaiah 22:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will uncover hidden things of houses of citadel of David, and saw that they are many, and that they turned water of old pool into the city.
+- fresh: And they will uncover the hidden things of the houses of the citadel of David, and saw that they are many, and that they turned the water of the old pool into the city.
 - brenton: And they shall uncover the secret places of the houses of the citadel of David: and they saw that they were many, and that one had turned the water of the old pool into the city;
 
 ### Isaiah 22:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And that they pulled down houses of Jerusalem into fortification for the wall of the city.
+- fresh: And that they pulled down the houses of Jerusalem into a fortification for the wall of the city.
 - brenton: and that they had pulled down the houses of Jerusalem, to fortify the wall of the city.
 
 ### Isaiah 22:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from the beginning, and one who built it you did not see.
+- fresh: And you made water for yourselves between the two walls inside the old pool, and you did not look to the one who made it from the beginning, and the one who built it you did not see.
 - brenton: And ye procured to yourselves water between the two walls within the ancient pool: but ye looked not to him that made it from the beginning, and regarded not him that created it.
 
 ### Isaiah 22:12
@@ -161259,37 +161259,37 @@ Note:
 ### Isaiah 22:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord of hosts: Go into chamber to Sobna the steward and say to him,
+- fresh: Thus says the Lord of hosts: Go into the chamber to Shebna the steward and say to him,
 - brenton: Thus saith the Lord of hosts, Go into the chamber, to Somnas the treasurer, and say to him, Why art thou here?
 
 ### Isaiah 22:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What do you have here, and what is here to you, that you cut out for yourself here tomb and made for yourself memorial in high place and carved for yourself dwelling in rock?
+- fresh: What do you have here, and what is here to you, that you cut out for yourself here a tomb and made for yourself a memorial in a high place and carved for yourself a dwelling in a rock?
 - brenton: and what hast thou to do here, that thou hast here hewn thyself a sepulchre, and madest thyself a sepulchre on high, and hast graven for thyself a dwelling in the rock?
 
 ### Isaiah 22:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look now, the Lord of hosts will throw out and pulverize man and remove your robe.
+- fresh: Look now, the Lord of hosts will throw out and pulverize a man and remove your robe.
 - brenton: Behold now, the Lord of hosts casts forth and will utterly destroy such a man, and will take away thy robe and thy glorious crown,
 
 ### Isaiah 22:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your glorious crown, and he will throw you into great and immeasurable land, and there you will die, and he will make your beautiful chariot dishonor and your ruler's house into trampling.
+- fresh: And your glorious crown, and he will throw you into a great and immeasurable land, and there you will die, and he will make your beautiful chariot into dishonor and your ruler's house into trampling.
 - brenton: and will cast thee into a great and unmeasured land, and there thou shalt die: and he will bring thy fair chariot to shame, and the house of thy prince to be trodden down.
 
 ### Isaiah 22:19
@@ -161313,37 +161313,37 @@ Note:
 ### Isaiah 22:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will clothe him with your robe and give your crown to him, and your authority and your stewardship I will give into his hands, and he will be as father to dwellers in Jerusalem and dwellers in Judah.
+- fresh: And I will clothe him with your robe and give your crown to him, and your authority and your stewardship I will give into his hands, and he will be as a father to the dwellers in Jerusalem and the dwellers in Judah.
 - brenton: and I will put on him thy robe, and I will grant him thy crown with power, and I will give thy stewardship into his hands: and he shall be as a father to them that dwell in Jerusalem, and to them that dwell in Juda.
 
 ### Isaiah 22:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give glory of David to him, and he will rule, and there will not be one contradicting.
+- fresh: And I will give the glory of David to him, and he will rule, and there will not be one contradicting.
 - brenton: And I will give him the glory of David; and he shall rule, and there shall be none to speak against him: and I will give him the key of the house of David upon his shoulder; and he shall open, and there shall be none to shut; and he shall shut, and there shall be none to open.
 
 ### Isaiah 22:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set him ruler in trustworthy place, and he will be for the throne of glory of the house of his father.
+- fresh: And I will set him as a ruler in a trustworthy place, and he will be for a throne of glory of the house of his father.
 - brenton: And I will make him a ruler in a sure place, and he shall be for a glorious throne of his father's house.
 
 ### Isaiah 22:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whole glorious thing in the house of his father will be trusting on him, from small to great, and they will be hanging from him.
+- fresh: And every glorious one in the house of his father will be trusting on him, from small to great, and they will be hanging from him.
 - brenton: And every one that is glorious in the house of his father shall trust in him, from the least to the greatest; and they shall depend upon him in that day.
 
 ### Isaiah 22:25

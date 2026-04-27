@@ -72966,11 +72966,11 @@ And the dwellers in this island will say, Look, we were trusting to flee to them
 
 **Isaiah 21:1**
 
-Vision of the wilderness: as storm through wilderness would pass through, coming from fearful land.
+The vision of the wilderness: as a storm through a wilderness would pass through, coming from a fearful land.
 
 **Isaiah 21:2**
 
-Hard vision was reported to me: lawless one acts lawlessly, and outlaw acts as outlaw. Against me Elamites and envoys of Persians come upon me. Now I will groan and comfort myself.
+A hard vision was reported to me: a lawless one acts lawlessly, and an outlaw acts as an outlaw. Against me the Elamites and the envoys of the Persians come upon me. Now I will groan and comfort myself.
 
 **Isaiah 21:3**
 
@@ -72982,23 +72982,23 @@ My heart wanders and lawlessness baptizes me; my soul has stood into fear.
 
 **Isaiah 21:5**
 
-Prepare table; drink, eat. Rise up, rulers; prepare shields.
+Prepare the table; drink, eat. Rise up, rulers; prepare the shields.
 
 **Isaiah 21:6**
 
-Because thus the Lord said to me: Having gone, set watchman for yourself, and what you see, report.
+Because thus the Lord said to me: Having gone, set a watchman for yourself, and what you see, report.
 
 **Isaiah 21:7**
 
-And I saw riders, two horsemen, rider of donkey and rider of camel. Listen, great listening.
+And I saw riders, two horsemen, a rider of a donkey and a rider of a camel. Listen with great listening.
 
 **Isaiah 21:8**
 
-And call Uriah to lookout of the Lord. And he said, I stood continually by day, and on camp I stood whole night.
+And call Uriah to the lookout of the Lord. And he said, I stood continually by day, and on the camp I stood the whole night.
 
 **Isaiah 21:9**
 
-And look, he comes, rider of pair. And answering he said, Babylon has fallen, and all her carved images and handmade things have been shattered to ground.
+And look, he comes, a rider of a pair. And answering he said, Babylon has fallen, and all her carved images and handmade things have been shattered to the ground.
 
 **Isaiah 21:10**
 
@@ -73006,41 +73006,41 @@ Hear, you left behind and you being pained; hear what the Lord of hosts, God of 
 
 **Isaiah 21:11**
 
-Vision of Edom: To me one calls from Seir, Guard ramparts.
+The vision of Edom: To me one calls from Seir, Guard the ramparts.
 
 **Isaiah 21:12**
 
-I guard morning and night. If you seek, seek, and dwell with me.
+I guard the morning and the night. If you seek, seek, and dwell with me.
 
 **Isaiah 21:13**
 
-In the forest at evening you will sleep, on road, Dedan.
+In the forest at evening you will sleep, on the road, Dedan.
 
 **Isaiah 21:14**
 
-Bring water to one thirsty; you dwelling in the land of Tema, meet fugitives with bread,
+Bring water to the thirsty one; you dwelling in the land of Tema, meet the fugitives with bread,
 
 **Isaiah 21:15**
 
-because of multitude of fugitives and multitude of wanderers and multitude of sword and multitude of stretched bows and multitude of fallen in war.
+because of the multitude of fugitives and the multitude of wanderers and the multitude of sword and the multitude of stretched bows and the multitude of fallen in the war.
 
 **Isaiah 21:16**
 
-Because thus the Lord said to me: Yet one year, as year of hired worker, glory of sons of Kedar will fail.
+Because thus the Lord said to me: Yet one year, as a year of a hired worker, the glory of the sons of Kedar will fail.
 
 **Isaiah 21:17**
 
-And the remnant of arrows of mighty sons of Kedar will be few, because the Lord God of Israel spoke.
+And the remnant of arrows of the mighty sons of Kedar will be few, because the Lord God of Israel spoke.
 
 ### Chapter 22
 
 **Isaiah 22:1**
 
-Word of valley of Zion: What happened to you now that all of you went up to housetops?
+The word of the valley of Zion: What happened to you now that all of you went up to the housetops?
 
 **Isaiah 22:2**
 
-City full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
+The city is full of shouting, vanity; your wounded are not wounded by sword, nor are your dead from war.
 
 **Isaiah 22:3**
 
@@ -73052,31 +73052,31 @@ Because of this I said, Leave me; I will weep bitterly. Do not insist to comfort
 
 **Isaiah 22:5**
 
-Because day of trouble and destruction and trampling and wandering from the Lord of hosts in the valley of Zion; they wander from small to great, they wander on mountains.
+Because there is a day of trouble and destruction and trampling and wandering from the Lord of hosts in the valley of Zion; they wander from small to great, they wander on the mountains.
 
 **Isaiah 22:6**
 
-And Elamites took quivers, riders, men on horses, and gathering of battle-line.
+And the Elamites took quivers, riders, men on horses, and a gathering of battle-line.
 
 **Isaiah 22:7**
 
-And your choice valleys will be filled with chariots, and horsemen will shut your gates.
+And your choice valleys will be filled with chariots, and the horsemen will shut your gates.
 
 **Isaiah 22:8**
 
-And they will uncover gates of Judah, and in that day they will look to choice houses of the city.
+And they will uncover the gates of Judah, and in that day they will look to the choice houses of the city.
 
 **Isaiah 22:9**
 
-And they will uncover hidden things of houses of citadel of David, and saw that they are many, and that they turned water of old pool into the city.
+And they will uncover the hidden things of the houses of the citadel of David, and saw that they are many, and that they turned the water of the old pool into the city.
 
 **Isaiah 22:10**
 
-And that they pulled down houses of Jerusalem into fortification for the wall of the city.
+And that they pulled down the houses of Jerusalem into a fortification for the wall of the city.
 
 **Isaiah 22:11**
 
-And you made water for yourselves between two walls inside old pool, and you did not look to one who made it from the beginning, and one who built it you did not see.
+And you made water for yourselves between the two walls inside the old pool, and you did not look to the one who made it from the beginning, and the one who built it you did not see.
 
 **Isaiah 22:12**
 
@@ -73092,19 +73092,19 @@ And these things are uncovered in the ears of the Lord of hosts: this sin will c
 
 **Isaiah 22:15**
 
-Thus says the Lord of hosts: Go into chamber to Sobna the steward and say to him,
+Thus says the Lord of hosts: Go into the chamber to Shebna the steward and say to him,
 
 **Isaiah 22:16**
 
-What do you have here, and what is here to you, that you cut out for yourself here tomb and made for yourself memorial in high place and carved for yourself dwelling in rock?
+What do you have here, and what is here to you, that you cut out for yourself here a tomb and made for yourself a memorial in a high place and carved for yourself a dwelling in a rock?
 
 **Isaiah 22:17**
 
-Look now, the Lord of hosts will throw out and pulverize man and remove your robe.
+Look now, the Lord of hosts will throw out and pulverize a man and remove your robe.
 
 **Isaiah 22:18**
 
-And your glorious crown, and he will throw you into great and immeasurable land, and there you will die, and he will make your beautiful chariot dishonor and your ruler's house into trampling.
+And your glorious crown, and he will throw you into a great and immeasurable land, and there you will die, and he will make your beautiful chariot into dishonor and your ruler's house into trampling.
 
 **Isaiah 22:19**
 
@@ -73116,19 +73116,19 @@ And it will be in that day, I will call my servant Eliakim son of Hilkiah.
 
 **Isaiah 22:21**
 
-And I will clothe him with your robe and give your crown to him, and your authority and your stewardship I will give into his hands, and he will be as father to dwellers in Jerusalem and dwellers in Judah.
+And I will clothe him with your robe and give your crown to him, and your authority and your stewardship I will give into his hands, and he will be as a father to the dwellers in Jerusalem and the dwellers in Judah.
 
 **Isaiah 22:22**
 
-And I will give glory of David to him, and he will rule, and there will not be one contradicting.
+And I will give the glory of David to him, and he will rule, and there will not be one contradicting.
 
 **Isaiah 22:23**
 
-And I will set him ruler in trustworthy place, and he will be for the throne of glory of the house of his father.
+And I will set him as a ruler in a trustworthy place, and he will be for a throne of glory of the house of his father.
 
 **Isaiah 22:24**
 
-And whole glorious thing in the house of his father will be trusting on him, from small to great, and they will be hanging from him.
+And every glorious one in the house of his father will be trusting on him, from small to great, and they will be hanging from him.
 
 **Isaiah 22:25**
 
