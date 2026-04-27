@@ -4278,6 +4278,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 1:1"]["draft_translation"].startswith("The Proverbs of Solomon")
     assert "hope may be on the Lord" in by_ref["Proverbs 22:19"]["draft_translation"]
     assert by_ref["Song of Solomon 1:1"]["draft_translation"].startswith("The Song of Songs")
+    assert "the scent of your perfumes is above all spices" in by_ref[
+        "Song of Solomon 1:3"
+    ]["draft_translation"]
+    assert "The king brought me into his chamber" in by_ref["Song of Solomon 1:4"][
+        "draft_translation"
+    ]
+    assert "the sun looked past me" in by_ref["Song of Solomon 1:6"][
+        "draft_translation"
+    ]
+    assert "go out on the heels of the flocks" in by_ref["Song of Solomon 1:8"][
+        "draft_translation"
+    ]
+    assert "your eyes are doves" in by_ref["Song of Solomon 1:15"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

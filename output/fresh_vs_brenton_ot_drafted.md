@@ -156523,19 +156523,19 @@ Note:
 ### Song of Solomon 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And scent of your perfumes above all spices; your name is poured-out perfume, therefore young women loved you.
+- fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
 - brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
 
 ### Song of Solomon 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+- fresh: They drew you; after you, into the scent of your perfumes we will run. The king brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
 - brenton: They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into his closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.
 
 ### Song of Solomon 1:5
@@ -156550,10 +156550,10 @@ Note:
 ### Song of Solomon 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not look at me because I am darkened, because sun looked past me. Sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
+- fresh: Do not look at me because I am darkened, because the sun looked past me. The sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
 - brenton: Look not upon me, because I am dark, because the sun has looked unfavourably upon me: my mother's sons strove with me; they made me keeper in the vineyards; I have not kept my own vineyard.
 
 ### Song of Solomon 1:7
@@ -156568,28 +156568,28 @@ Note:
 ### Song of Solomon 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
+- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
 - brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
 
 ### Song of Solomon 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To my mare among chariots of Pharaoh I likened you, my dear one.
+- fresh: To my mare among the chariots of Pharaoh I likened you, my dear one.
 - brenton: I have likened thee, my companion, to my horses in the chariots of Pharao.
 
 ### Song of Solomon 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How beautiful your cheeks as turtledoves, your neck as necklaces.
+- fresh: How beautiful are your cheeks as turtledoves, your neck as necklaces.
 - brenton: How are thy cheeks beautiful as those of a dove, thy neck as chains!
 
 ### Song of Solomon 1:11
@@ -156604,55 +156604,55 @@ Note:
 ### Song of Solomon 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until king is at his recline, my nard gave its scent.
+- fresh: Until the king is at his recline, my nard gave its scent.
 - brenton: So long as the king was at table, my spikenard gave forth its smell.
 
 ### Song of Solomon 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bundle of myrrh my beloved to me; between my breasts he will lodge.
+- fresh: A bundle of myrrh is my beloved to me; between my breasts he will lodge.
 - brenton: My kinsman is to me a bundle of myrrh; he shall lie between my breasts.
 
 ### Song of Solomon 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Cluster of cypress my beloved to me in vineyards of En-gedi.
+- fresh: A cluster of cypress is my beloved to me in the vineyards of En-gedi.
 - brenton: My kinsman is to me a cluster of camphor in the vineyards of Engaddi.
 
 ### Song of Solomon 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes doves.
+- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves.
 - brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves.
 
 ### Song of Solomon 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, you are beautiful, my beloved, and indeed lovely; our bed shadowed.
+- fresh: Look, you are beautiful, my beloved, and indeed lovely; our bed is shadowed.
 - brenton: Behold, thou art fair, my kinsman, yea, beautiful, overshadowing our bed.
 
 ### Song of Solomon 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beams of our houses cedars, our rafters cypresses.
+- fresh: The beams of our houses are cedars, our rafters are cypresses.
 - brenton: The beams of our house are cedars, our ceilings are of cypress.
 
 ### Song of Solomon 2:1

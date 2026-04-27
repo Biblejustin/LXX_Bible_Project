@@ -2368,6 +2368,17 @@ Rows: 233
 - OT clues: Amos.9.11-Amos.9.15 (15) -> In that day I will raise up tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age, || Isa.14.1-Isa.14.2 (12) -> And the Lord will have mercy on Jacob and will still choose Israel, and they will rest upon their land, and resident alien will be added to them and added to the house of Jacob. || Amos.9.8 (10) -> Behold, eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord. || Isa.60.21 (8) -> All your people righteous, and forever they will inherit land, keeping the plant, work of his hands, for glory.
 - NT clues: Rev.21.27 (15) -> And there shall in no wise enter into it any thing that defiles, neither whatsoever works abomination, or makes a lie: but they which are written in the Lamb's book of life. || Joel.3.19-Joel.3.21 (10) -> Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land. || Joel.2.32 (9) -> And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD has said, and in the remnant whom the LORD shall call.
 
+## Song of Solomon 1:4
+- score: 15
+- latest review status: keep
+- top vote: 8
+- OT crossrefs: 4
+- NT crossrefs: 4
+- shared-family hits: 0
+- fresh: They drew you; after you, into the scent of your perfumes we will run. The king brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+- OT clues: Hos.11.4 (8) -> With ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look upon him; I will prevail for him. || Jer.31.3 (4) -> Because the voice of criers from Horonaim, destruction and great crushing. || Isa.25.8 (3) -> Death was swallowed after growing strong, and again God took away every tear from every face; reproach of the people he took away from all the earth, for the mouth of the Lord spoke. || Isa.45.25 (3) -> From the Lord all seed of sons of Israel will be justified, and in God be glorified.
+- NT clues: John.6.44 (8) -> No man can come to me, except the Father which has sent me draw him: and I will raise him up at the last day. || Ps.45.14-Ps.45.15 (7) -> She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto you. || John.12.32 (5) -> And I, if I be lifted up from the earth, will draw all men unto me.
+
 ## Song of Solomon 1:7
 - score: 15
 - latest review status: keep
@@ -2488,35 +2499,24 @@ Rows: 233
 - OT clues: Isa.29.14 (7) -> Because of this, behold, I will add to move this people and will move them, and wisdom of wise I will destroy, and understanding of understanding ones I will hide. || Job.5.12-Job.5.14 (4) -> turning aside counsels of the crafty, and their hands will never do what is true, || Ps.33.10 (3) -> Fear the Lord, his holy ones, because there is no lack to those fearing him. || Isa.19.13-Isa.19.14 (2) -> The princes of Zoan failed, and the princes of Memphis were exalted, and they will lead Egypt astray by tribes.
 - NT clues: 1Cor.3.19-1Cor.3.20 (1) -> For the wisdom of this world is foolishness with God. For it is written, He takes the wise in their own craftiness.
 
-## Song of Solomon 2:3
+## Song of Solomon 1:3
 - score: 13
-- latest review status: revised
-- top vote: 7
+- latest review status: keep
+- top vote: 9
 - OT crossrefs: 4
 - NT crossrefs: 4
 - shared-family hits: 0
-- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
-- OT clues: Song.8.5 (7) -> Who is this coming up whitened, leaning on her beloved? Under apple tree I awakened you; there your mother travailed with you, there she travailed, the one who bore you. || Isa.25.4 (6) -> For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged. || Isa.32.2 (6) -> And man will be hiding his words and will be hidden as from carried water, and will appear in Zion as glorious flowing river in thirsty land. || Ezek.47.12 (3) -> And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
-- NT clues: Heb.1.1-Heb.1.6 (6) -> God, who at several times and in divers manners spoke in time past unto the fathers by the prophets, || Heb.12.2 (5) -> Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God. || John.1.14-John.1.18 (4) -> And the Word (o. logos) was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+- fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
+- OT clues: Eccl.7.1 (9) -> A good name is above good oil, and the day of death above the day of his birth. || Exod.30.23-Exod.30.28 (8) -> And you, take sweet spices: five hundred shekels of choice-flowing myrrh, and half that amount, two hundred fifty of sweet cinnamon, and two hundred fifty of sweet calamus, || Song.4.10 (8) -> How beautiful your breasts, my sister bride; how beautiful your breasts beyond wine, and scent of your garments above all spices. || Ps.45.7-Ps.45.8 (7) -> Nations were troubled, kingdoms bowed; he gave his voice, earth was shaken.
+- NT clues: John.12.3 (8) -> Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment. || Phil.2.9-Phil.2.10 (7) -> Wherefore God also has highly exalted him, and given him a name which is above every name: || Rev.14.4 (6) -> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb anywhere he goes. These were redeemed from among men, being the first-fruits unto God and to the Lamb.
 
-## Song of Solomon 2:9
+## Song of Solomon 1:8
 - score: 13
-- latest review status: revised
+- latest review status: keep
 - top vote: 6
-- OT crossrefs: 3
-- NT crossrefs: 5
+- OT crossrefs: 2
+- NT crossrefs: 6
 - shared-family hits: 0
-- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
-- OT clues: Song.8.14 (6) -> Flee, my beloved, and be like a gazelle or a fawn of deer on the mountains of spices. || Song.2.17 (5) -> Until day breathes and shadows move, turn back; be like, my beloved, a gazelle or fawn of deer on cleft mountains. || 2Sam.2.18 (2) -> And there were there three sons of Zeruiah: Joab and Abishai and Asahel, and Asahel was swift in his feet like one gazelle in the field.
-- NT clues: 1Cor.13.12 (2) -> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. || 1Pet.1.10-1Pet.1.12 (2) -> Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: || 2Cor.3.13-2Cor.3.18 (2) -> And not as Moses, which put a vail over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:
-
-## Song of Solomon 3:1
-- score: 13
-- latest review status: revised
-- top vote: 10
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
-- OT clues: Song.1.7 (9) -> Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions? || Song.5.6 (9) -> I opened, I, to my beloved; my beloved passed by. My soul went out at his word. I sought him and did not find him; I called him and he did not answer me. || Isa.55.6 (8) -> Seek God, and when you find him call on him when he draws near you. || Isa.26.9 (7) -> Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon earth. Learn righteousness, dwellers on earth.
-- NT clues: 1Pet.1.8 (10) -> Whom having not seen, all of you love; in whom, though now all of you see him not, yet believing, all of you rejoice with joy unspeakable and full of glory:
+- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
+- OT clues: Song.6.1 (6) -> Where did your beloved go, beautiful among women? Where did your beloved look away, and we will seek him with you? || Song.5.9 (5) -> What is your beloved beyond beloved, beautiful among women? What is your beloved beyond beloved, that thus you bound us by oath?
+- NT clues: Heb.11.4-Heb.11.40 (3) -> By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaks. || Jas.2.21 (3) -> Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? || Jas.5.10 (3) -> Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.

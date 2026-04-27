@@ -3,7 +3,7 @@
 Theme-first review pack for highest-value Brenton vs fresh translation differences.
 
 ## Creation / Anthropology
-- rows: 60
+- rows: 59
 - 1 Kings 2:35 → score 32
 - Deuteronomy 12:21 → score 30
 - Joshua 22:5 → score 29
@@ -29,7 +29,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Isaiah 9:6 → score 24
 
 ## Theology / Divine Identity
-- rows: 107
+- rows: 108
 - Exodus 20:24 → score 35
 - Deuteronomy 16:2 → score 31
 - 2 Chronicles 12:13 → score 30
@@ -68,7 +68,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Numbers 6:14 → score 22
 
 ## Covenant / Law / Judgment
-- rows: 78
+- rows: 79
 - Leviticus 4:31 → score 34
 - Nehemiah 10:34 → score 30
 - Deuteronomy 17:8 → score 29

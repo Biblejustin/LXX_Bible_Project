@@ -6,13 +6,13 @@ Use CSV for edits.
 Use MD for reading order.
 
 ## Theme Counts
-- anthropology: 60
-- covenant/law: 78
+- anthropology: 59
+- covenant/law: 79
 - death/afterlife: 1
 - kingship: 105
 - ritual: 75
 - textual/lexical: 62
-- theology: 107
+- theology: 108
 
 ## Top 50
 - 1. Exodus 20:24 | score 35 | theology, ritual, kingship, textual/lexical | keep

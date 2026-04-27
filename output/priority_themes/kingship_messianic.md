@@ -467,6 +467,13 @@ Books: 36
 - fresh: The glory of God hides a word, but the glory of the king honors matters.
 - brenton: The glory of God conceals a matter: but the glory of a king honours business.
 
+## Song of Solomon 1:4
+- score: 15
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, righteousness; crossref_top_vote=8; reco=keep
+- keywords: king, righteousness
+- fresh: They drew you; after you, into the scent of your perfumes we will run. The king brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+- brenton: They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into his closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.
+
 ## Song of Solomon 1:7
 - score: 15
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd, soul; crossref_top_vote=8; reco=keep
@@ -474,19 +481,12 @@ Books: 36
 - fresh: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
 - brenton: Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one that is veiled by the flocks of thy companions.
 
-## Song of Solomon 2:3
+## Song of Solomon 1:8
 - score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved; crossref_top_vote=7; reco=keep
-- keywords: beloved
-- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
-- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
-
-## Song of Solomon 2:9
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved; crossref_top_vote=6; reco=keep
-- keywords: beloved
-- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
-- brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=shepherd; crossref_top_vote=6; reco=keep
+- keywords: shepherd
+- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
+- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
 
 ## Song of Solomon 5:6
 - score: 15

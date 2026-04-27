@@ -2,7 +2,7 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 60
+Rows: 59
 Books: 31
 
 ## Genesis 1:2
@@ -221,13 +221,6 @@ Books: 31
 - keywords: shepherd, soul
 - fresh: Tell me, you whom my soul loved, where do you shepherd, where do you rest at noon, lest I become as one veiled over flocks of your companions?
 - brenton: Tell me, thou whom my soul loves, where thou tendest thy flock, where thou causest them to rest at noon, lest I become as one that is veiled by the flocks of thy companions.
-
-## Song of Solomon 3:1
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=soul; crossref_top_vote=10; reco=keep
-- keywords: soul
-- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
-- brenton: By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.
 
 ## Song of Solomon 5:6
 - score: 15

@@ -70928,11 +70928,11 @@ Let him kiss me with kisses of his mouth, because your breasts are better than w
 
 **Song of Solomon 1:3**
 
-And scent of your perfumes above all spices; your name is poured-out perfume, therefore young women loved you.
+And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
 
 **Song of Solomon 1:4**
 
-They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+They drew you; after you, into the scent of your perfumes we will run. The king brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
 
 **Song of Solomon 1:5**
 
@@ -70940,7 +70940,7 @@ Black I am and beautiful, daughters of Jerusalem, like tents of Kedar, like skin
 
 **Song of Solomon 1:6**
 
-Do not look at me because I am darkened, because sun looked past me. Sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
+Do not look at me because I am darkened, because the sun looked past me. The sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
 
 **Song of Solomon 1:7**
 
@@ -70948,15 +70948,15 @@ Tell me, you whom my soul loved, where do you shepherd, where do you rest at noo
 
 **Song of Solomon 1:8**
 
-If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
+If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
 
 **Song of Solomon 1:9**
 
-To my mare among chariots of Pharaoh I likened you, my dear one.
+To my mare among the chariots of Pharaoh I likened you, my dear one.
 
 **Song of Solomon 1:10**
 
-How beautiful your cheeks as turtledoves, your neck as necklaces.
+How beautiful are your cheeks as turtledoves, your neck as necklaces.
 
 **Song of Solomon 1:11**
 
@@ -70964,27 +70964,27 @@ We will make for you likenesses of gold with marks of silver.
 
 **Song of Solomon 1:12**
 
-Until king is at his recline, my nard gave its scent.
+Until the king is at his recline, my nard gave its scent.
 
 **Song of Solomon 1:13**
 
-Bundle of myrrh my beloved to me; between my breasts he will lodge.
+A bundle of myrrh is my beloved to me; between my breasts he will lodge.
 
 **Song of Solomon 1:14**
 
-Cluster of cypress my beloved to me in vineyards of En-gedi.
+A cluster of cypress is my beloved to me in the vineyards of En-gedi.
 
 **Song of Solomon 1:15**
 
-Look, you are beautiful, my dear one, look, you are beautiful; your eyes doves.
+Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves.
 
 **Song of Solomon 1:16**
 
-Look, you are beautiful, my beloved, and indeed lovely; our bed shadowed.
+Look, you are beautiful, my beloved, and indeed lovely; our bed is shadowed.
 
 **Song of Solomon 1:17**
 
-Beams of our houses cedars, our rafters cypresses.
+The beams of our houses are cedars, our rafters are cypresses.
 
 ### Chapter 2
 

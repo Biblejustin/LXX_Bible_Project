@@ -8761,6 +8761,15 @@ Method:
 - mt: O LORD, how long shall I cry, and you will not hear! even cry out unto you of violence, and you will not save!
 - brenton: How long, O Lord, shall I cry out, and thou wilt not hearken? how long shall I cry out to thee being injured, and thou wilt not save?
 
+### Song of Solomon 1:4
+- priority: `15`
+- importance: `high`
+- fresh_mt_ratio: `0.706`
+- fresh_brenton_ratio: `0.077`
+- fresh: They drew you; after you, into the scent of your perfumes we will run. The king brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
+- mt: Draw me, we will run after you: the king has brought me into his chambers: we will be glad and rejoice in you, we will remember your love more than wine: the upright love you.
+- brenton: They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into his closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.
+
 ### Haggai 2:4
 - priority: `15`
 - importance: `high`
@@ -8842,23 +8851,14 @@ Method:
 - mt: All the men of your confederacy have brought you even to the border: the men that were at peace with you have deceived you, and prevailed against you; that they eat your bread have laid a wound under you: there is none understanding in him.
 - brenton: They sent thee to thy coasts: all the men of thy covenant have withstood thee; thine allies have prevailed against thee, they have set snares under thee: they have no understanding.
 
-### Song of Solomon 3:1
+### Song of Solomon 1:3
 - priority: `13`
 - importance: `high`
-- fresh_mt_ratio: `0.468`
-- fresh_brenton_ratio: `0.584`
-- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
-- mt: By night on my bed I sought him whom my soul loves: I sought him, but I found him not.
-- brenton: By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.
-
-### Song of Solomon 2:9
-- priority: `13`
-- importance: `high`
-- fresh_mt_ratio: `0.603`
-- fresh_brenton_ratio: `0.634`
-- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
-- mt: My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.
-- brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
+- fresh_mt_ratio: `0.557`
+- fresh_brenton_ratio: `0.648`
+- fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
+- mt: Because of the savour of your good ointments your name is as ointment poured forth, therefore do the virgins love you.
+- brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
 
 ### Obadiah 1:16
 - priority: `13`
@@ -8878,6 +8878,15 @@ Method:
 - mt: The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 - brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
 
+### Song of Solomon 1:8
+- priority: `13`
+- importance: `high`
+- fresh_mt_ratio: `0.676`
+- fresh_brenton_ratio: `0.631`
+- fresh: If you do not know yourself, beautiful among women, go out on the heels of the flocks and shepherd your young goats by the tents of the shepherds.
+- mt: If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
+- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
+
 ### Obadiah 1:15
 - priority: `13`
 - importance: `high`
@@ -8886,15 +8895,6 @@ Method:
 - fresh: Because the day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
 - mt: For the day of the LORD is near upon all the heathen: as you have done, it shall be done unto you: your reward shall return upon yours own head.
 - brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
-
-### Song of Solomon 2:3
-- priority: `13`
-- importance: `high`
-- fresh_mt_ratio: `0.754`
-- fresh_brenton_ratio: `0.694`
-- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
-- mt: As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.
-- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ### Obadiah 1:8
 - priority: `13`
@@ -40990,15 +40990,6 @@ Method:
 - mt: So that he will not give to any of them of the flesh of his children whom he shall eat: because he has nothing left him in the siege, and in the strictness, wherewith yours enemies shall distress you in all your gates.
 - brenton: so as not to give to one of them of the flesh of his children, whom he shall eat, because of his having nothing left him in thy straitness, and in thy affliction, with which thine enemies shall afflict thee in all thy cities.
 
-### Song of Solomon 1:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.281`
-- fresh_brenton_ratio: `0.436`
-- fresh: To my mare among chariots of Pharaoh I likened you, my dear one.
-- mt: I have compared you, O my love, to a company of horses in Pharaoh's chariots.
-- brenton: I have likened thee, my companion, to my horses in the chariots of Pharao.
-
 ### Jeremiah 27:2
 - priority: `0`
 - importance: `none`
@@ -42249,6 +42240,15 @@ Method:
 - fresh: And Pekah son of Remaliah, his officer, conspired against him and struck him in Samaria opposite the king's house with Argob and with Aria, and with him were fifty men from the four hundred, and he killed him and reigned in his place.
 - mt: But Pekah the son of Remaliah, a captain of his, conspired against him, and stroke him in Samaria, in the palace of the king's house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
 - brenton: And Phakee the son of Romelias, his officer, conspired against him, and smote him in Samaria in the front of the king's house, with Argob and Aria, and with him there were fifty men of the four hundred: and he slew him, and reigned in his stead.
+
+### Song of Solomon 1:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.288`
+- fresh_brenton_ratio: `0.482`
+- fresh: To my mare among the chariots of Pharaoh I likened you, my dear one.
+- mt: I have compared you, O my love, to a company of horses in Pharaoh's chariots.
+- brenton: I have likened thee, my companion, to my horses in the chariots of Pharao.
 
 ### Psalms 73:17
 - priority: `0`
@@ -69331,6 +69331,15 @@ Method:
 - mt: Then he opens the ears of men, and seals their instruction,
 - brenton: then opens he the understanding of men: he scares them with such fearful visions:
 
+### Song of Solomon 1:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.460`
+- fresh_brenton_ratio: `0.541`
+- fresh: How beautiful are your cheeks as turtledoves, your neck as necklaces.
+- mt: Your cheeks are comely with rows of jewels, your neck with chains of gold.
+- brenton: How are thy cheeks beautiful as those of a dove, thy neck as chains!
+
 ### Job 22:20
 - priority: `0`
 - importance: `none`
@@ -70411,6 +70420,15 @@ Method:
 - mt: Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.
 - brenton: Now Heli was ninety years old, and his eyes were fixed, and he saw not.
 
+### Song of Solomon 3:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.468`
+- fresh_brenton_ratio: `0.584`
+- fresh: On my bed by nights I sought the one my soul loved; I sought him and did not find him; I called him and he did not answer me.
+- mt: By night on my bed I sought him whom my soul loves: I sought him, but I found him not.
+- brenton: By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.
+
 ### Proverbs 17:23
 - priority: `0`
 - importance: `none`
@@ -71148,15 +71166,6 @@ Method:
 - fresh: Anything that dies of itself or is torn, from birds or from livestock, the priests will not eat.
 - mt: The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
 - brenton: And the priests shall eat no bird or beast that dies of itself, or is taken of wild beasts.
-
-### Song of Solomon 1:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.474`
-- fresh_brenton_ratio: `0.558`
-- fresh: How beautiful your cheeks as turtledoves, your neck as necklaces.
-- mt: Your cheeks are comely with rows of jewels, your neck with chains of gold.
-- brenton: How are thy cheeks beautiful as those of a dove, thy neck as chains!
 
 ### Isaiah 25:11
 - priority: `0`
@@ -78799,15 +78808,6 @@ Method:
 - mt: And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
 - brenton: And that which remained of the spoil which the warriors took, was—of the sheep, six hundred and seventy-five thousand:
 
-### Song of Solomon 1:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.524`
-- fresh_brenton_ratio: `0.598`
-- fresh: Until king is at his recline, my nard gave its scent.
-- mt: While the king sits at his table, my spikenard sends forth the smell thereof.
-- brenton: So long as the king was at table, my spikenard gave forth its smell.
-
 ### Isaiah 56:10
 - priority: `0`
 - importance: `none`
@@ -81291,15 +81291,6 @@ Method:
 - fresh: And Rabshakeh turned back and found king besieging Libnah, and the king of the Assyrians heard that
 - mt: So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 - brenton: So Rabsaces returned, and found the king of the Assyrians besieging Lobna: for he had heard that he had departed from Lachis.
-
-### Song of Solomon 1:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.538`
-- fresh_brenton_ratio: `0.592`
-- fresh: And scent of your perfumes above all spices; your name is poured-out perfume, therefore young women loved you.
-- mt: Because of the savour of your good ointments your name is as ointment poured forth, therefore do the virgins love you.
-- brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
 
 ### Song of Solomon 3:3
 - priority: `0`
@@ -87826,6 +87817,15 @@ Method:
 - mt: Though you, Israel, play the harlot, yet let not Judah offend; and come not all of you unto Gilgal, neither go all of you up to Bethaven, nor swear, The LORD lives.
 - brenton: But thou, Israel, be not ignorant, and go ye not, men of Juda, to Galgala; and go not up to the house of On, and swear not by the living Lord.
 
+### Song of Solomon 1:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.569`
+- fresh_brenton_ratio: `0.628`
+- fresh: Until the king is at his recline, my nard gave its scent.
+- mt: While the king sits at his table, my spikenard sends forth the smell thereof.
+- brenton: So long as the king was at table, my spikenard gave forth its smell.
+
 ### Numbers 1:49
 - priority: `0`
 - importance: `none`
@@ -89103,15 +89103,6 @@ Method:
 - fresh: Sons of arrogant men did not tread it, nor did lion pass over it.
 - mt: The lion's whelps have not trodden it, nor the fierce lion passed by it.
 - brenton: neither have the sons of the proud trodden it, a lion has not passed upon it.
-
-### Song of Solomon 1:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.576`
-- fresh_brenton_ratio: `0.567`
-- fresh: Cluster of cypress my beloved to me in vineyards of En-gedi.
-- mt: My beloved is unto me as a cluster of camphire in the vineyards of Engedi.
-- brenton: My kinsman is to me a cluster of camphor in the vineyards of Engaddi.
 
 ### 1 Kings 3:6
 - priority: `0`
@@ -95512,15 +95503,6 @@ Method:
 - mt: Speak you also unto the children of Israel, saying, Verily my sabbaths all of you shall keep: for it is a sign between me and you throughout your generations; that all of you may know that I am the LORD that does sanctify you.
 - brenton: Do thou also charge the children of Israel, saying, Take heed and keep my sabbaths; for they are a sign with me and among you throughout your generations, that ye may know that I am the Lord that sanctifies you.
 
-### Song of Solomon 1:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.602`
-- fresh_brenton_ratio: `0.489`
-- fresh: Look, you are beautiful, my beloved, and indeed lovely; our bed shadowed.
-- mt: Behold, you are fair, my beloved, yea, pleasant: also our bed is green.
-- brenton: Behold, thou art fair, my kinsman, yea, beautiful, overshadowing our bed.
-
 ### Job 35:15
 - priority: `0`
 - importance: `none`
@@ -95898,6 +95880,15 @@ Method:
 - fresh: Your silver you shall not give to him at interest, and your food you shall not give to him for increase.
 - mt: You shall not give him your money upon interest, nor lend him your victuals for increase.
 - brenton: Thou shalt not lend thy money to him at interest, and thou shalt not lend thy meat to him to be returned with increase.
+
+### Song of Solomon 2:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.603`
+- fresh_brenton_ratio: `0.634`
+- fresh: My beloved is like a gazelle or a fawn of deer on the mountains of Bethel. Look, he stands behind our wall, peering through windows, looking through lattices.
+- mt: My beloved is like a roe or a young hart: behold, he stands behind our wall, he looks forth at the windows, showing himself through the lattice.
+- brenton: My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.
 
 ### Ezra 2:36
 - priority: `0`
@@ -98095,6 +98086,15 @@ Method:
 - mt: And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
 - brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
 
+### Song of Solomon 1:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.611`
+- fresh_brenton_ratio: `0.526`
+- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes are doves.
+- mt: Behold, you are fair, my love; behold, you are fair; you have doves' eyes.
+- brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves.
+
 ### Joshua 15:12
 - priority: `0`
 - importance: `none`
@@ -98868,15 +98868,6 @@ Method:
 - fresh: Death was swallowed after growing strong, and again God took away every tear from every face; reproach of the people he took away from all the earth, for the mouth of the Lord spoke.
 - mt: He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD has spoken it.
 - brenton: Death has prevailed and swallowed men up; but again the Lord God has taken away every tear from every face. He has taken away the reproach of his people from all the earth: for the mouth of the Lord has spoken it.
-
-### Song of Solomon 1:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.614`
-- fresh_brenton_ratio: `0.486`
-- fresh: Look, you are beautiful, my dear one, look, you are beautiful; your eyes doves.
-- mt: Behold, you are fair, my love; behold, you are fair; you have doves' eyes.
-- brenton: Behold, thou art fair, my companion; behold, thou art fair; thine eyes are doves.
 
 ### Isaiah 10:25
 - priority: `0`
@@ -99849,6 +99840,15 @@ Method:
 - fresh: And Jehiel and Azaziah and Nahath and Asahel and Jerimoth and Jozabad and Eliel and Samachia and Maath and Benaiah and his sons were set under Cononiah and Shimei his brother, as King Hezekiah and Azariah leader of the house of the Lord commanded.
 - mt: And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
 - brenton: And Jeiel, and Ozias, and Naeth, and Asael, and Jerimoth, and Jozabad, and Eliel, and Samachia, and Maath, and Banaias, and his sons, were appointed by Chonenias and Semei his brother, as Ezekias the king, and Azarias who was over the house of the Lord commanded.
+
+### Song of Solomon 1:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.618`
+- fresh_brenton_ratio: `0.478`
+- fresh: Look, you are beautiful, my beloved, and indeed lovely; our bed is shadowed.
+- mt: Behold, you are fair, my beloved, yea, pleasant: also our bed is green.
+- brenton: Behold, thou art fair, my kinsman, yea, beautiful, overshadowing our bed.
 
 ### Nehemiah 7:58
 - priority: `0`
@@ -101676,6 +101676,15 @@ Method:
 - fresh: Because this command that I command you today is not excessively hard, nor is it far from you.
 - mt: For this commandment which I command you this day, it is not hidden from you, neither is it far off.
 - brenton: For this command which I give thee this day is not grievous, neither is it far from thee.
+
+### Song of Solomon 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.624`
+- fresh_brenton_ratio: `0.618`
+- fresh: A cluster of cypress is my beloved to me in the vineyards of En-gedi.
+- mt: My beloved is unto me as a cluster of camphire in the vineyards of Engedi.
+- brenton: My kinsman is to me a cluster of camphor in the vineyards of Engaddi.
 
 ### Jeremiah 4:6
 - priority: `0`
@@ -109750,15 +109759,6 @@ Method:
 - mt: How beautiful upon the mountains are the feet of him that brings good tidings, that publishes peace; that brings good tidings of good, that publishes salvation; that says unto Zion, Your God reigns!
 - brenton: as a season of beauty upon the mountains, as the feet of one preaching glad tidings of peace, as one preaching good news: for I will publish thy salvation, saying, O Sion, thy God shall reign.
 
-### Song of Solomon 1:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.649`
-- fresh_brenton_ratio: `0.616`
-- fresh: If you do not know yourself, beautiful among women, go out on heels of flocks and shepherd your young goats by tents of shepherds.
-- mt: If you know not, O you fairest among women, go your way forth by the footsteps of the flock, and feed your kids beside the shepherds' tents.
-- brenton: If thou know not thyself, thou fair one among women, go thou forth by the footsteps of the flocks, and feed thy kids by the shepherds' tents.
-
 ### Jeremiah 13:14
 - priority: `0`
 - importance: `none`
@@ -117022,15 +117022,6 @@ Method:
 - mt: And he said unto him, If your presence go not with me, carry us not up behind.
 - brenton: And he says to him, If thou go not up with us thyself, bring me not up hence.
 
-### Song of Solomon 1:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.671`
-- fresh_brenton_ratio: `0.653`
-- fresh: Do not look at me because I am darkened, because sun looked past me. Sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
-- mt: Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
-- brenton: Look not upon me, because I am dark, because the sun has looked unfavourably upon me: my mother's sons strove with me; they made me keeper in the vineyards; I have not kept my own vineyard.
-
 ### Job 7:8
 - priority: `0`
 - importance: `none`
@@ -118561,15 +118552,6 @@ Method:
 - mt: In the LORD shall all the seed of Israel be justified, and shall glory.
 - brenton: By the Lord shall they be justified, and in God shall all the seed of the children of Israel be glorified.
 
-### Song of Solomon 1:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.675`
-- fresh_brenton_ratio: `0.582`
-- fresh: Bundle of myrrh my beloved to me; between my breasts he will lodge.
-- mt: A bundle of myrrh is my well-beloved unto me; he shall lie all night between my breasts.
-- brenton: My kinsman is to me a bundle of myrrh; he shall lie between my breasts.
-
 ### Ezekiel 48:28
 - priority: `0`
 - importance: `none`
@@ -119541,6 +119523,15 @@ Method:
 - fresh: And this cursed water shall enter into your belly to make the belly swell and to make your thigh fall away. And the woman shall say, Amen, amen.
 - mt: And this water that causes the curse shall go into your bowels, to make your belly to swell, and your thigh to rot: And the woman shall say, Amen, amen.
 - brenton: and this water bringing the curse shall enter into thy womb to cause thy belly to swell, and thy thigh to rot. And the woman shall say, So be it, So be it.
+
+### Song of Solomon 1:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.678`
+- fresh_brenton_ratio: `0.661`
+- fresh: Do not look at me because I am darkened, because the sun looked past me. The sons of my mother fought in me; they set me keeping vineyards; my own vineyard I did not keep.
+- mt: Look not upon me, because I am black, because the sun has looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.
+- brenton: Look not upon me, because I am dark, because the sun has looked unfavourably upon me: my mother's sons strove with me; they made me keeper in the vineyards; I have not kept my own vineyard.
 
 ### 2 Chronicles 7:18
 - priority: `0`
@@ -127984,15 +127975,6 @@ Method:
 - mt: Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
 - brenton: Gather together to me the heads of your tribes, and your elders, and your judges, and your officers, that I may speak in their ears all these words; and I call both heaven and earth to witness against them.
 
-### Song of Solomon 1:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.700`
-- fresh_brenton_ratio: `0.078`
-- fresh: They drew you; after you, into scent of your perfumes we will run. King brought me into his chamber. We will rejoice and be glad in you; we will love your breasts more than wine; the upright loved you.
-- mt: Draw me, we will run after you: the king has brought me into his chambers: we will be glad and rejoice in you, we will remember your love more than wine: the upright love you.
-- brenton: They have drawn thee: we will run after thee, for the smell of thine ointments: the king has brought me into his closet: let us rejoice and be glad in thee; we will love thy breasts more than wine: righteousness loves thee.
-
 ### Amos 3:14
 - priority: `0`
 - importance: `none`
@@ -135381,6 +135363,15 @@ Method:
 - fresh: And Jesse brought Shammah, and he said, Neither in this one has the Lord chosen.
 - mt: Then Jesse made Shammah to pass by. And he said, Neither has the LORD chosen this.
 - brenton: And Jessæ caused Sama to pass by: and he said, Neither has God chosen this one.
+
+### Song of Solomon 1:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.718`
+- fresh_brenton_ratio: `0.561`
+- fresh: A bundle of myrrh is my beloved to me; between my breasts he will lodge.
+- mt: A bundle of myrrh is my well-beloved unto me; he shall lie all night between my breasts.
+- brenton: My kinsman is to me a bundle of myrrh; he shall lie between my breasts.
 
 ### Numbers 36:12
 - priority: `0`
@@ -143473,15 +143464,6 @@ Method:
 - mt: Can yours heart endure, or can yours hands be strong, in the days that I shall deal with you? I the LORD have spoken it, and will do it.
 - brenton: shall thy heart endure? shall thine hands be strong in the days which I bring upon thee? I the Lord have spoken, and will do it.
 
-### Song of Solomon 1:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.738`
-- fresh_brenton_ratio: `0.734`
-- fresh: Beams of our houses cedars, our rafters cypresses.
-- mt: The beams of our house are cedar, and our rafters of fir.
-- brenton: The beams of our house are cedars, our ceilings are of cypress.
-
 ### 1 Kings 17:18
 - priority: `0`
 - importance: `none`
@@ -149997,6 +149979,15 @@ Method:
 - fresh: You shall do no injustice in judgment. You shall not take the face of the poor, nor marvel at the face of the powerful. In righteousness you shall judge your neighbor.
 - mt: All of you shall do no unrighteousness in judgment: you shall not respect the person of the poor, nor honor the person of the mighty: but in righteousness shall you judge your neighbour.
 - brenton: Thou shalt not act unjustly in judgment: thou shalt not accept the person of the poor, nor admire the person of the mighty; with justice shalt thou judge thy neighbour.
+
+### Song of Solomon 2:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.754`
+- fresh_brenton_ratio: `0.694`
+- fresh: As an apple tree among trees of the grove, so my beloved in the midst of sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
+- mt: As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.
+- brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
 ### Genesis 41:40
 - priority: `0`
@@ -167484,6 +167475,15 @@ Method:
 - fresh: And it came to be when humans began to become many on the earth, and daughters were born to them,
 - mt: And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 - brenton: And it came to pass when men began to be numerous upon the earth, and daughters were born to them,
+
+### Song of Solomon 1:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.800`
+- fresh_brenton_ratio: `0.860`
+- fresh: The beams of our houses are cedars, our rafters are cypresses.
+- mt: The beams of our house are cedar, and our rafters of fir.
+- brenton: The beams of our house are cedars, our ceilings are of cypress.
 
 ### Genesis 30:7
 - priority: `0`

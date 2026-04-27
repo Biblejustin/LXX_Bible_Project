@@ -2,8 +2,8 @@
 
 Name, identity, attributes, titles, and direct God-language.
 
-Rows: 107
-Books: 38
+Rows: 108
+Books: 39
 
 ## Genesis 24:7
 - score: 22
@@ -417,6 +417,13 @@ Books: 38
 - keywords: glory, god, soul
 - fresh: A man to whom God gives wealth and possessions and glory, so that his soul lacks nothing of all he desires, yet God does not empower him to eat from it, because a foreign man will eat it. This is vanity and grievous sickness.
 - brenton: a man to whom God shall give wealth, and substance, and honour, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.
+
+## Song of Solomon 1:3
+- score: 13
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=name; crossref_top_vote=9; reco=keep
+- keywords: name
+- fresh: And the scent of your perfumes is above all spices; your name is poured-out perfume, therefore young women loved you.
+- brenton: And the smell of thine ointments is better than all spices: thy name is ointment poured forth; therefore do the young maidens love thee.
 
 ## Isaiah 12:2
 - score: 27
