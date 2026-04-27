@@ -163635,25 +163635,25 @@ Note:
 ### Isaiah 36:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in fourteenth year of reigning Hezekiah, Sennacherib king of the Assyrians went up against fortified cities of Judah and took them.
+- fresh: And it happened in the fourteenth year of the reign of Hezekiah, Sennacherib king of the Assyrians went up against the fortified cities of Judah and took them.
 - brenton: Now it came to pass in the fourteenth year of the reign of Ezekias, that Sennacherim, king of the Assyrians, came up against the strong cities of Judea, and took them.
 
 ### Isaiah 36:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of the Assyrians sent Rabshakeh from Lachish into Jerusalem to King Hezekiah with much force, and he stood by conduit of upper pool on the road of fuller's field.
+- fresh: And the king of the Assyrians sent Rabshakeh from Lachish into Jerusalem to King Hezekiah with a great force, and he stood by the conduit of the upper pool on the road of fuller's field.
 - brenton: And the king of the Assyrians sent Rabsaces out of Laches to Jerusalem to king Ezekias with a large force: and he stood by the conduit of the upper pool in the way of the fuller's field.
 
 ### Isaiah 36:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And Eliakim son of Hilkiah the steward went out to him, and Shebna the scribe, and Joah son of Asaph the recorder.
@@ -163662,28 +163662,28 @@ Note:
 ### Isaiah 36:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Rabshakeh said to them, Say to Hezekiah, Thus says great king, king of the Assyrians, In what are you trusting?
+- fresh: And Rabshakeh said to them, Say to Hezekiah, Thus says the great king, king of the Assyrians, In what are you trusting?
 - brenton: And Rabsaces said to them, Say to Ezekias, Thus says the great king, the king of the Assyrians, Why art thou secure?
 
 ### Isaiah 36:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Is battle-line made by counsel or words of lips? And now in what do you trust, that you disobey me?
+- fresh: Is a battle-line made by counsel or words of lips? And now in what do you trust, that you disobey me?
 - brenton: Is war carried on with counsel and mere words of the lips? and now on whom dost thou trust, that thou rebellest against me?
 
 ### Isaiah 36:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, you trust in this broken reed-rod, in Egypt. Whoever leans on it, it will enter his hand. Thus is Pharaoh king of Egypt and all trusting on him.
+- fresh: Behold, you trust in this broken reed-rod, in Egypt. Whoever leans on it, it will enter his hand. Thus is Pharaoh king of Egypt and all those trusting on him.
 - brenton: Behold, thou trustest on this bruised staff of reed, on Egypt: as soon as a man leans upon it, it shall go into his hand, and pierce it: so is Pharao king of Egypt and all that trust in him.
 
 ### Isaiah 36:7
@@ -163698,19 +163698,19 @@ Note:
 ### Isaiah 36:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: now make bargain with my lord king of the Assyrians, and I will give you two thousand horses, if you can give riders upon them.
+- fresh: now make a bargain with my lord, the king of the Assyrians, and I will give you two thousand horses, if you can give riders upon them.
 - brenton: yet now make an agreement with my lord the king of the Assyrians, and I will give you two thousand horses, if ye shall be able to set riders upon them.
 
 ### Isaiah 36:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And how can you turn away face of one governor? Slaves are those trusting in Egyptians for horse and rider.
+- fresh: And how can you turn away the face of one governor? The ones trusting in the Egyptians are slaves for horse and rider.
 - brenton: And how can ye then turn to the face of the satraps? They that trust on the Egyptians for horse and rider are our servants.
 
 ### Isaiah 36:10
@@ -163725,37 +163725,37 @@ Note:
 ### Isaiah 36:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into the ears of men on wall?
+- fresh: And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into the ears of the men on the wall?
 - brenton: Then Eliakim and Somnas and Joach said to him, Speak to thy servants in the Syrian tongue; for we understand it: and speak not to us in the Jewish tongue: and wherefore speakest thou in the ears of the men on the wall?
 
 ### Isaiah 36:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Rabshakeh said to them, Was my lord not sent to speak these words to your lord or to you? Was it not rather to men sitting on wall, so that they may eat dung and drink urine with you together?
+- fresh: And Rabshakeh said to them, Was my lord not sent to speak these words to your lord or to you? Was it not rather to the men sitting on the wall, so that they may eat dung and drink urine with you together?
 - brenton: And Rabsaces said to them, Has my lord sent me to your lord or to you, to speak these words? has he not sent me to the men that sit on the wall, that they may eat dung, and drink their water together with you?
 
 ### Isaiah 36:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Rabshakeh stood and cried with great voice in Judean and said, Hear words of great king, king of the Assyrians.
+- fresh: And Rabshakeh stood and cried with a great voice in Judean and said, Hear the words of the great king, king of the Assyrians.
 - brenton: And Rabsaces stood, and cried with a loud voice in the Jewish language, and said, Hear ye the words of the great king, the king of the Assyrians:
 
 ### Isaiah 36:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says king: Do not let Hezekiah deceive you with words that will not be able to rescue you.
+- fresh: Thus says the king: Do not let Hezekiah deceive you with words that will not be able to rescue you.
 - brenton: thus says the king, Let not Ezekias deceive you with words: he will not be able to deliver you.
 
 ### Isaiah 36:15
@@ -163770,64 +163770,64 @@ Note:
 ### Isaiah 36:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hear Hezekiah. Thus says king of the Assyrians: If you want to be blessed, come out to me and eat each his vine and figs and drink water of your cisterns,
+- fresh: Do not hear Hezekiah. Thus says the king of the Assyrians: If you want to be blessed, come out to me and eat each one his vine and his figs and drink water of your cisterns,
 - brenton: Hearken not to Ezekias: thus says the king of the Assyrians, If ye wish to be blessed, come out to me: and ye shall eat every one of his vine and his fig-trees, and ye shall drink water out of your own cisterns;
 
 ### Isaiah 36:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: until I come and take you into a land like your land, land of grain and wine and breads and vineyards.
+- fresh: until I come and take you into a land like your land, a land of grain and wine and breads and vineyards.
 - brenton: until I come and take you to a land, like your own land, a land of corn and wine, and bread and vineyards.
 
 ### Isaiah 36:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not let Hezekiah deceive you, saying, Your God will rescue you. Did gods of nations each rescue its own land from the hand of the king of the Assyrians?
+- fresh: Do not let Hezekiah deceive you, saying, Your God will rescue you. Did the gods of the nations each rescue its own land from the hand of the king of the Assyrians?
 - brenton: Let not Ezekias deceive you, saying, God will deliver you. Have the gods of the nations delivered each one his own land out of the hand of the king of the Assyrians?
 
 ### Isaiah 36:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Where is god of Hamath and Arpad, and where god of the city of Sepharvaim? Were they able to rescue Samaria from my hand?
+- fresh: Where is the god of Hamath and Arpad, and where is the god of the city of Sepharvaim? Were they able to rescue Samaria from my hand?
 - brenton: Where is the god of Emath, and Arphath? and where is the god of Eppharuaim? have they been able to deliver Samaria out of my hand?
 
 ### Isaiah 36:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who of all gods of these nations rescued its land from my hand, that God will rescue Jerusalem from my hand?
+- fresh: Who of all the gods of these nations rescued its land from my hand, that the God of Jerusalem will rescue Jerusalem from my hand?
 - brenton: Which is the god of all these nations, that has delivered his land out of my hand, that God should deliver Jerusalem out of my hand?
 
 ### Isaiah 36:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they were silent, and no one answered him word, because the king commanded no one to answer.
+- fresh: And they were silent, and no one answered him a word, because the king commanded no one to answer.
 - brenton: And they were silent, and none answered him a word; because the king had commanded that none should answer.
 
 ### Isaiah 36:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Eliakim son of Hilkiah the steward and Shebna scribe of force and Joah son of Asaph the recorder came to Hezekiah, tearing tunics, and reported to him the words of Rabshakeh.
+- fresh: And Eliakim son of Hilkiah the steward and Shebna the scribe of force and Joah son of Asaph the recorder came to Hezekiah, tearing their tunics, and reported to him the words of Rabshakeh.
 - brenton: And Heliakim the son of Chelcias, the steward, and Somnas the military scribe, and Joach the son of Asaph, the recorder, came in to Ezekias, having their garments rent, and they reported to him the words of Rabsaces.
 
 ### Isaiah 37:1

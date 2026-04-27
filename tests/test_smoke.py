@@ -5654,6 +5654,88 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "eternal gladness will be over their heads" in by_ref[
         "Isaiah 35:10"
     ]["draft_translation"]
+    assert "in the fourteenth year of the reign of Hezekiah" in by_ref[
+        "Isaiah 36:1"
+    ]["draft_translation"]
+    assert "against the fortified cities of Judah" in by_ref["Isaiah 36:1"][
+        "draft_translation"
+    ]
+    assert "with a great force" in by_ref["Isaiah 36:2"][
+        "draft_translation"
+    ]
+    assert "by the conduit of the upper pool" in by_ref["Isaiah 36:2"][
+        "draft_translation"
+    ]
+    assert "Shebna the scribe" in by_ref["Isaiah 36:3"]["draft_translation"]
+    assert "Thus says the great king" in by_ref["Isaiah 36:4"][
+        "draft_translation"
+    ]
+    assert "Is a battle-line made" in by_ref["Isaiah 36:5"][
+        "draft_translation"
+    ]
+    assert "all those trusting on him" in by_ref["Isaiah 36:6"][
+        "draft_translation"
+    ]
+    assert "make a bargain with my lord" in by_ref["Isaiah 36:8"][
+        "draft_translation"
+    ]
+    assert "the king of the Assyrians" in by_ref["Isaiah 36:8"][
+        "draft_translation"
+    ]
+    assert "turn away the face of one governor" in by_ref["Isaiah 36:9"][
+        "draft_translation"
+    ]
+    assert "The ones trusting in the Egyptians" in by_ref["Isaiah 36:9"][
+        "draft_translation"
+    ]
+    assert "ears of the men on the wall" in by_ref["Isaiah 36:11"][
+        "draft_translation"
+    ]
+    assert "to the men sitting on the wall" in by_ref["Isaiah 36:12"][
+        "draft_translation"
+    ]
+    assert "with a great voice" in by_ref["Isaiah 36:13"][
+        "draft_translation"
+    ]
+    assert "Hear the words of the great king" in by_ref["Isaiah 36:13"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 36:14"]["draft_translation"].startswith(
+        "Thus says the king"
+    )
+    assert "Thus says the king of the Assyrians" in by_ref["Isaiah 36:16"][
+        "draft_translation"
+    ]
+    assert "eat each one his vine and his figs" in by_ref["Isaiah 36:16"][
+        "draft_translation"
+    ]
+    assert "a land of grain and wine" in by_ref["Isaiah 36:17"][
+        "draft_translation"
+    ]
+    assert "the gods of the nations" in by_ref["Isaiah 36:18"][
+        "draft_translation"
+    ]
+    assert "the god of Hamath and Arpad" in by_ref["Isaiah 36:19"][
+        "draft_translation"
+    ]
+    assert "the god of the city of Sepharvaim" in by_ref["Isaiah 36:19"][
+        "draft_translation"
+    ]
+    assert "all the gods of these nations" in by_ref["Isaiah 36:20"][
+        "draft_translation"
+    ]
+    assert "the God of Jerusalem" in by_ref["Isaiah 36:20"][
+        "draft_translation"
+    ]
+    assert "answered him a word" in by_ref["Isaiah 36:21"][
+        "draft_translation"
+    ]
+    assert "Shebna the scribe of force" in by_ref["Isaiah 36:22"][
+        "draft_translation"
+    ]
+    assert "tearing their tunics" in by_ref["Isaiah 36:22"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

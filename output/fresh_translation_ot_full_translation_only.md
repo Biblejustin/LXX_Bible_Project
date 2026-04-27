@@ -74176,11 +74176,11 @@ And those gathered for the Lord will return and come into Zion with gladness, an
 
 **Isaiah 36:1**
 
-And it happened in fourteenth year of reigning Hezekiah, Sennacherib king of the Assyrians went up against fortified cities of Judah and took them.
+And it happened in the fourteenth year of the reign of Hezekiah, Sennacherib king of the Assyrians went up against the fortified cities of Judah and took them.
 
 **Isaiah 36:2**
 
-And the king of the Assyrians sent Rabshakeh from Lachish into Jerusalem to King Hezekiah with much force, and he stood by conduit of upper pool on the road of fuller's field.
+And the king of the Assyrians sent Rabshakeh from Lachish into Jerusalem to King Hezekiah with a great force, and he stood by the conduit of the upper pool on the road of fuller's field.
 
 **Isaiah 36:3**
 
@@ -74188,15 +74188,15 @@ And Eliakim son of Hilkiah the steward went out to him, and Shebna the scribe, a
 
 **Isaiah 36:4**
 
-And Rabshakeh said to them, Say to Hezekiah, Thus says great king, king of the Assyrians, In what are you trusting?
+And Rabshakeh said to them, Say to Hezekiah, Thus says the great king, king of the Assyrians, In what are you trusting?
 
 **Isaiah 36:5**
 
-Is battle-line made by counsel or words of lips? And now in what do you trust, that you disobey me?
+Is a battle-line made by counsel or words of lips? And now in what do you trust, that you disobey me?
 
 **Isaiah 36:6**
 
-Behold, you trust in this broken reed-rod, in Egypt. Whoever leans on it, it will enter his hand. Thus is Pharaoh king of Egypt and all trusting on him.
+Behold, you trust in this broken reed-rod, in Egypt. Whoever leans on it, it will enter his hand. Thus is Pharaoh king of Egypt and all those trusting on him.
 
 **Isaiah 36:7**
 
@@ -74204,11 +74204,11 @@ But if you say, We have trusted in the Lord our God—
 
 **Isaiah 36:8**
 
-now make bargain with my lord king of the Assyrians, and I will give you two thousand horses, if you can give riders upon them.
+now make a bargain with my lord, the king of the Assyrians, and I will give you two thousand horses, if you can give riders upon them.
 
 **Isaiah 36:9**
 
-And how can you turn away face of one governor? Slaves are those trusting in Egyptians for horse and rider.
+And how can you turn away the face of one governor? The ones trusting in the Egyptians are slaves for horse and rider.
 
 **Isaiah 36:10**
 
@@ -74216,19 +74216,19 @@ And now did we go up against this land without the Lord to war against it?
 
 **Isaiah 36:11**
 
-And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into the ears of men on wall?
+And Eliakim and Shebna and Joah said to him, Speak to your servants in Syrian, for we hear, and do not speak to us in Judean. Why do you speak into the ears of the men on the wall?
 
 **Isaiah 36:12**
 
-And Rabshakeh said to them, Was my lord not sent to speak these words to your lord or to you? Was it not rather to men sitting on wall, so that they may eat dung and drink urine with you together?
+And Rabshakeh said to them, Was my lord not sent to speak these words to your lord or to you? Was it not rather to the men sitting on the wall, so that they may eat dung and drink urine with you together?
 
 **Isaiah 36:13**
 
-And Rabshakeh stood and cried with great voice in Judean and said, Hear words of great king, king of the Assyrians.
+And Rabshakeh stood and cried with a great voice in Judean and said, Hear the words of the great king, king of the Assyrians.
 
 **Isaiah 36:14**
 
-Thus says king: Do not let Hezekiah deceive you with words that will not be able to rescue you.
+Thus says the king: Do not let Hezekiah deceive you with words that will not be able to rescue you.
 
 **Isaiah 36:15**
 
@@ -74236,31 +74236,31 @@ And do not let Hezekiah say to you that God will rescue you and this city certai
 
 **Isaiah 36:16**
 
-Do not hear Hezekiah. Thus says king of the Assyrians: If you want to be blessed, come out to me and eat each his vine and figs and drink water of your cisterns,
+Do not hear Hezekiah. Thus says the king of the Assyrians: If you want to be blessed, come out to me and eat each one his vine and his figs and drink water of your cisterns,
 
 **Isaiah 36:17**
 
-until I come and take you into a land like your land, land of grain and wine and breads and vineyards.
+until I come and take you into a land like your land, a land of grain and wine and breads and vineyards.
 
 **Isaiah 36:18**
 
-Do not let Hezekiah deceive you, saying, Your God will rescue you. Did gods of nations each rescue its own land from the hand of the king of the Assyrians?
+Do not let Hezekiah deceive you, saying, Your God will rescue you. Did the gods of the nations each rescue its own land from the hand of the king of the Assyrians?
 
 **Isaiah 36:19**
 
-Where is god of Hamath and Arpad, and where god of the city of Sepharvaim? Were they able to rescue Samaria from my hand?
+Where is the god of Hamath and Arpad, and where is the god of the city of Sepharvaim? Were they able to rescue Samaria from my hand?
 
 **Isaiah 36:20**
 
-Who of all gods of these nations rescued its land from my hand, that God will rescue Jerusalem from my hand?
+Who of all the gods of these nations rescued its land from my hand, that the God of Jerusalem will rescue Jerusalem from my hand?
 
 **Isaiah 36:21**
 
-And they were silent, and no one answered him word, because the king commanded no one to answer.
+And they were silent, and no one answered him a word, because the king commanded no one to answer.
 
 **Isaiah 36:22**
 
-And Eliakim son of Hilkiah the steward and Shebna scribe of force and Joah son of Asaph the recorder came to Hezekiah, tearing tunics, and reported to him the words of Rabshakeh.
+And Eliakim son of Hilkiah the steward and Shebna the scribe of force and Joah son of Asaph the recorder came to Hezekiah, tearing their tunics, and reported to him the words of Rabshakeh.
 
 ### Chapter 37
 
