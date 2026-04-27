@@ -9159,15 +9159,6 @@ Method:
 - mt: Therefore I am full of the fury of the LORD; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days.
 - brenton: And I allowed my wrath to come to the full, yet I kept it in, and did not utterly destroy them: I will pour it out on the children without, and on the assembly of young men together: for man and woman shall be taken together, the old man with him that is full of days.
 
-### Ecclesiastes 2:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.009`
-- fresh_brenton_ratio: `0.076`
-- fresh: I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for the sons of men they will do under the sun, the number of days of their life.
-- mt: I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.
-- brenton: And I examined whether my heart would excite my flesh as with wine, (though my heart guided me in wisdom,) and I desired to lay hold of mirth, until I should see of what kind is the good to the sons of men, which they should do under the sun all the days of their life.
-
 ### Leviticus 27:28
 - priority: `0`
 - importance: `none`
@@ -9437,6 +9428,15 @@ Method:
 - fresh: And even on the male servants and on the female servants in those days I will pour out from my Spirit.
 - mt: I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
 - brenton: And on my servants and on my handmaids in those days will I pour out of my Spirit.
+
+### Ecclesiastes 2:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.013`
+- fresh_brenton_ratio: `0.130`
+- fresh: I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good there is for the sons of man, which they will do under the sun for the number of days of their life.
+- mt: I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.
+- brenton: And I examined whether my heart would excite my flesh as with wine, (though my heart guided me in wisdom,) and I desired to lay hold of mirth, until I should see of what kind is the good to the sons of men, which they should do under the sun all the days of their life.
 
 ### Numbers 18:23
 - priority: `0`
@@ -57705,15 +57705,6 @@ Method:
 - mt: And Jehoash the king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give your daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle.
 - brenton: And Joas the king of Israel sent to Amessias king of Juda, saying, The thistle that was in Libanus sent to the cedar that was in Libanus, saying, Give my daughter to thy son to wife: and the wild beasts of the field that were in Libanus passed by and trod down the thistle.
 
-### Ecclesiastes 2:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.372`
-- fresh_brenton_ratio: `0.590`
-- fresh: I gathered for myself also silver and gold and treasures of kings and provinces; I made for myself singers and singing women and delights of sons of men, cupbearer and cupbearers.
-- mt: I gathered me also silver and gold, and the exclusive treasure of kings and of the provinces: I got me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.
-- brenton: Moreover I collected for myself both silver and gold also, and the peculiar treasures of kings and provinces: I procured me singing men and singing women, and delights of the sons of men, a butler and female cupbearers.
-
 ### Psalms 107:13
 - priority: `0`
 - importance: `none`
@@ -61250,6 +61241,15 @@ Method:
 - fresh: One watering mountains from his upper rooms; from the fruit of your works earth will be satisfied.
 - mt: Like a father pities his children, so the LORD pities them that fear him.
 - brenton: He waters the mountains from his chambers: the earth shall be satisfied with the fruit of thy works.
+
+### Ecclesiastes 2:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.395`
+- fresh_brenton_ratio: `0.635`
+- fresh: I gathered for myself also silver and gold and treasures of kings and of the provinces; I made for myself singers and singing women and delights of the sons of man, a cupbearer and cupbearers.
+- mt: I gathered me also silver and gold, and the exclusive treasure of kings and of the provinces: I got me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.
+- brenton: Moreover I collected for myself both silver and gold also, and the peculiar treasures of kings and provinces: I procured me singing men and singing women, and delights of the sons of men, a butler and female cupbearers.
 
 ### Job 27:10
 - priority: `0`
@@ -93759,15 +93759,6 @@ Method:
 - mt: Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man was under their wings.
 - brenton: Each one had four faces, and each one had eight wings; and under their wings was the likeness of men's hands.
 
-### Ecclesiastes 2:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.595`
-- fresh_brenton_ratio: `0.599`
-- fresh: I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all before me in Jerusalem.
-- mt: I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
-- brenton: I got servants and maidens, and servants were born to me in the house: also I had abundant possession of flocks and herds, beyond all who were before me in Jerusalem.
-
 ### 1 Chronicles 29:14
 - priority: `0`
 - importance: `none`
@@ -94298,6 +94289,15 @@ Method:
 - fresh: And under firmament their wings stretched, winging one to the other, to each two joined, covering their bodies.
 - mt: And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 - brenton: And their wings were spread out under the firmament, reaching one to the other; two wings to each, covering their bodies.
+
+### Ecclesiastes 2:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.597`
+- fresh_brenton_ratio: `0.637`
+- fresh: I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all who were before me in Jerusalem.
+- mt: I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
+- brenton: I got servants and maidens, and servants were born to me in the house: also I had abundant possession of flocks and herds, beyond all who were before me in Jerusalem.
 
 ### Genesis 8:7
 - priority: `0`
@@ -98790,15 +98790,6 @@ Method:
 - mt: And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath.
 - brenton: And when we heard it we were amazed in our heart, and there was no longer any spirit in any of us because of you, for the Lord your God is God in heaven above, and on the earth beneath.
 
-### Ecclesiastes 2:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.613`
-- fresh_brenton_ratio: `0.706`
-- fresh: I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too vanity.
-- mt: I said in mine heart, Go to now, I will prove you with delight, therefore enjoy pleasure: and, behold, this also is vanity.
-- brenton: I said in my heart, Come now, I will prove thee with mirth, and behold thou good: and, behold, this is also vanity.
-
 ### Jeremiah 14:10
 - priority: `0`
 - importance: `none`
@@ -101525,15 +101516,6 @@ Method:
 - fresh: Is it good to you if I act unjustly, that you reject works of your hands, but give heed to the counsel of the ungodly?
 - mt: Is it good unto you that you should oppress, that you should despise the work of yours hands, and shine upon the counsel of the wicked?
 - brenton: Is it good before thee if I be unrighteous? for thou hast disowned the work of thy hands, and attended to the counsel of the ungodly.
-
-### Ecclesiastes 2:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.623`
-- fresh_brenton_ratio: `0.676`
-- fresh: I made pools of waters for myself, to water from them forest sprouting trees.
-- mt: I made me pools of water, to water therewith the wood that brings forth trees:
-- brenton: I made me pools of water, to water from them the timber-bearing wood.
 
 ### Nehemiah 3:24
 - priority: `0`
@@ -104703,6 +104685,15 @@ Method:
 - mt: Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.
 - brenton: Zabulon shall dwell on the coast, and he shall be by a haven of ships, and shall extend to Sidon.
 
+### Ecclesiastes 2:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.633`
+- fresh_brenton_ratio: `0.705`
+- fresh: I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too is vanity.
+- mt: I said in mine heart, Go to now, I will prove you with delight, therefore enjoy pleasure: and, behold, this also is vanity.
+- brenton: I said in my heart, Come now, I will prove thee with mirth, and behold thou good: and, behold, this is also vanity.
+
 ### Jeremiah 20:2
 - priority: `0`
 - importance: `none`
@@ -107312,6 +107303,15 @@ Method:
 - fresh: And they did not know what will be before her, says the Lord, those storing up injustice and misery in their lands.
 - mt: For they know not to do right, says the LORD, who store up violence and robbery in their palaces.
 - brenton: And she knew not what things would come against her, saith the Lord, even those that store up wrong and misery in their countries.
+
+### Ecclesiastes 2:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.641`
+- fresh_brenton_ratio: `0.653`
+- fresh: I made pools of waters for myself, to water from them a forest sprouting trees.
+- mt: I made me pools of water, to water therewith the wood that brings forth trees:
+- brenton: I made me pools of water, to water from them the timber-bearing wood.
 
 ### Isaiah 44:4
 - priority: `0`
@@ -117177,6 +117177,15 @@ Method:
 - mt: Moreover you shall make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shall you make them.
 - brenton: And thou shalt make the tabernacle, ten curtains of fine linen spun, and blue and purple, and scarlet spun with cherubs; thou shalt make them with work of a weaver.
 
+### Ecclesiastes 2:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.671`
+- fresh_brenton_ratio: `0.711`
+- fresh: And I saw that wisdom has surplus over folly as the surplus of light over darkness.
+- mt: Then I saw that wisdom excels folly, as far as light excels darkness.
+- brenton: And I saw that wisdom excels folly, as much as light excels darkness.
+
 ### Ezekiel 30:11
 - priority: `0`
 - importance: `none`
@@ -119039,15 +119048,6 @@ Method:
 - fresh: And it was reported to the house of David, saying, Aram agreed with Ephraim, and his soul and soul of his people were stirred as when tree in the forest is shaken by wind.
 - mt: And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
 - brenton: And a message was brought to the house of David, saying, Aram has conspired with Ephraim. And his soul was amazed, and the soul of his people, as in a wood a tree is moved by the wind.
-
-### Ecclesiastes 2:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.676`
-- fresh_brenton_ratio: `0.703`
-- fresh: And I saw that wisdom has surplus over folly as surplus of light over darkness.
-- mt: Then I saw that wisdom excels folly, as far as light excels darkness.
-- brenton: And I saw that wisdom excels folly, as much as light excels darkness.
 
 ### 2 Chronicles 26:3
 - priority: `0`
@@ -133179,15 +133179,6 @@ Method:
 - mt: The breaker has come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.
 - brenton: they have broken through, and passed the gate, and gone out by it: and their king has gone out before them, and the Lord shall lead them.
 
-### Ecclesiastes 2:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.712`
-- fresh_brenton_ratio: `0.709`
-- fresh: And all my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
-- mt: And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
-- brenton: And whatever mine eyes desired, I withheld not from them, I withheld not my heart from all my mirth: for my heart rejoiced in all my labour; and this was my portion of all my labour.
-
 ### Genesis 4:15
 - priority: `0`
 - importance: `none`
@@ -133592,6 +133583,15 @@ Method:
 - fresh: And to his son I will give the two scepters, so that there may be a setting for my servant David all the days before me in Jerusalem, the city that I chose for myself to put my name there.
 - mt: And unto his son will I give one tribe, that David my servant may have a light always before me in Jerusalem, the city which I have chosen me to put my name there.
 - brenton: But to his son I will give the two remaining tribes, that my servant David may have an establishment continually before me in Jerusalem, the city which I have chosen for myself to put my name there.
+
+### Ecclesiastes 2:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.713`
+- fresh_brenton_ratio: `0.711`
+- fresh: And all that my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
+- mt: And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
+- brenton: And whatever mine eyes desired, I withheld not from them, I withheld not my heart from all my mirth: for my heart rejoiced in all my labour; and this was my portion of all my labour.
 
 ### 2 Chronicles 8:9
 - priority: `0`
@@ -136482,15 +136482,6 @@ Method:
 - mt: Now therefore beware, I pray you, and drink not wine nor strong drink, and eat not any unclean thing:
 - brenton: And now be very cautious, and drink no wine nor strong drink, and eat no unclean thing;
 
-### Ecclesiastes 2:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.720`
-- fresh_brenton_ratio: `0.766`
-- fresh: And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under the sun.
-- mt: Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.
-- brenton: And I looked on all my works which my hands had wrought, and on my labour which I laboured to perform: and, behold, all was vanity and waywardness of spirit, and there is no advantage under the sun.
-
 ### Numbers 7:53
 - priority: `0`
 - importance: `none`
@@ -138569,6 +138560,15 @@ Method:
 - fresh: And Solomon awoke, and behold, it was a dream. And he rose and comes to Jerusalem and stood before the altar that was before the ark of the covenant of the Lord in Zion and offered whole burnt offerings and made peace offerings and made a great drinking-feast for himself and for all his servants.
 - mt: And Solomon awoke; and, behold, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
 - brenton: And Solomon awoke, and, behold, it was a dream: and he arose and came to Jerusalem, and stood before the altar that was in front of the ark of the covenant of the Lord in Sion: and he offered whole-burnt-offerings, and sacrificed peace-offerings, and made a great banquet for himself and all his servants.
+
+### Ecclesiastes 2:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.771`
+- fresh: And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all is vanity and choice of spirit, and there is no surplus under the sun.
+- mt: Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.
+- brenton: And I looked on all my works which my hands had wrought, and on my labour which I laboured to perform: and, behold, all was vanity and waywardness of spirit, and there is no advantage under the sun.
 
 ### 2 Chronicles 5:14
 - priority: `0`

@@ -154667,10 +154667,10 @@ Note:
 ### Ecclesiastes 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too vanity.
+- fresh: I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too is vanity.
 - brenton: I said in my heart, Come now, I will prove thee with mirth, and behold thou good: and, behold, this is also vanity.
 
 ### Ecclesiastes 2:2
@@ -154685,10 +154685,10 @@ Note:
 ### Ecclesiastes 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for the sons of men they will do under the sun, the number of days of their life.
+- fresh: I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good there is for the sons of man, which they will do under the sun for the number of days of their life.
 - brenton: And I examined whether my heart would excite my flesh as with wine, (though my heart guided me in wisdom,) and I desired to lay hold of mirth, until I should see of what kind is the good to the sons of men, which they should do under the sun all the days of their life.
 
 ### Ecclesiastes 2:4
@@ -154712,28 +154712,28 @@ Note:
 ### Ecclesiastes 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I made pools of waters for myself, to water from them forest sprouting trees.
+- fresh: I made pools of waters for myself, to water from them a forest sprouting trees.
 - brenton: I made me pools of water, to water from them the timber-bearing wood.
 
 ### Ecclesiastes 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all before me in Jerusalem.
+- fresh: I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all who were before me in Jerusalem.
 - brenton: I got servants and maidens, and servants were born to me in the house: also I had abundant possession of flocks and herds, beyond all who were before me in Jerusalem.
 
 ### Ecclesiastes 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I gathered for myself also silver and gold and treasures of kings and provinces; I made for myself singers and singing women and delights of sons of men, cupbearer and cupbearers.
+- fresh: I gathered for myself also silver and gold and treasures of kings and of the provinces; I made for myself singers and singing women and delights of the sons of man, a cupbearer and cupbearers.
 - brenton: Moreover I collected for myself both silver and gold also, and the peculiar treasures of kings and provinces: I procured me singing men and singing women, and delights of the sons of men, a butler and female cupbearers.
 
 ### Ecclesiastes 2:9
@@ -154748,19 +154748,19 @@ Note:
 ### Ecclesiastes 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
+- fresh: And all that my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
 - brenton: And whatever mine eyes desired, I withheld not from them, I withheld not my heart from all my mirth: for my heart rejoiced in all my labour; and this was my portion of all my labour.
 
 ### Ecclesiastes 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under the sun.
+- fresh: And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all is vanity and choice of spirit, and there is no surplus under the sun.
 - brenton: And I looked on all my works which my hands had wrought, and on my labour which I laboured to perform: and, behold, all was vanity and waywardness of spirit, and there is no advantage under the sun.
 
 ### Ecclesiastes 2:12
@@ -154775,10 +154775,10 @@ Note:
 ### Ecclesiastes 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw that wisdom has surplus over folly as surplus of light over darkness.
+- fresh: And I saw that wisdom has surplus over folly as the surplus of light over darkness.
 - brenton: And I saw that wisdom excels folly, as much as light excels darkness.
 
 ### Ecclesiastes 2:14

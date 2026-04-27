@@ -70080,7 +70080,7 @@ Because in much wisdom is much knowledge, and the one adding knowledge will add 
 
 **Ecclesiastes 2:1**
 
-I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too vanity.
+I said in my heart, "Come now, I will test you in gladness and see in good," and look, this too is vanity.
 
 **Ecclesiastes 2:2**
 
@@ -70088,7 +70088,7 @@ To laughter I said, "Madness," and to gladness, "What does this do?"
 
 **Ecclesiastes 2:3**
 
-I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good for the sons of men they will do under the sun, the number of days of their life.
+I examined in my heart to draw my flesh into wine, and my heart led in wisdom, and to take hold upon folly until I should see what good there is for the sons of man, which they will do under the sun for the number of days of their life.
 
 **Ecclesiastes 2:4**
 
@@ -70100,15 +70100,15 @@ I made gardens and parks for myself, and planted in them every fruit tree.
 
 **Ecclesiastes 2:6**
 
-I made pools of waters for myself, to water from them forest sprouting trees.
+I made pools of waters for myself, to water from them a forest sprouting trees.
 
 **Ecclesiastes 2:7**
 
-I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all before me in Jerusalem.
+I acquired male servants and female servants, and home-born servants became mine; and much possession of herds and flocks became mine beyond all who were before me in Jerusalem.
 
 **Ecclesiastes 2:8**
 
-I gathered for myself also silver and gold and treasures of kings and provinces; I made for myself singers and singing women and delights of sons of men, cupbearer and cupbearers.
+I gathered for myself also silver and gold and treasures of kings and of the provinces; I made for myself singers and singing women and delights of the sons of man, a cupbearer and cupbearers.
 
 **Ecclesiastes 2:9**
 
@@ -70116,11 +70116,11 @@ And I grew great and increased beyond all before me in Jerusalem, and my wisdom 
 
 **Ecclesiastes 2:10**
 
-And all my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
+And all that my eyes asked, I did not withhold from them; I did not restrain my heart from any gladness, because my heart rejoiced in all my toil, and this became my portion from all my toil.
 
 **Ecclesiastes 2:11**
 
-And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all vanity and choice of spirit, and there is no surplus under the sun.
+And I looked on all my works which my hands made and on toil in which I toiled to do, and look, all is vanity and choice of spirit, and there is no surplus under the sun.
 
 **Ecclesiastes 2:12**
 
@@ -70128,7 +70128,7 @@ And I looked to see wisdom and wandering and folly, because what kind of man wil
 
 **Ecclesiastes 2:13**
 
-And I saw that wisdom has surplus over folly as surplus of light over darkness.
+And I saw that wisdom has surplus over folly as the surplus of light over darkness.
 
 **Ecclesiastes 2:14**
 

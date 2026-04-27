@@ -3179,6 +3179,17 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "look, all is vanity" in by_ref["Ecclesiastes 1:14"]["draft_translation"]
     assert "in much wisdom is much knowledge" in by_ref["Ecclesiastes 1:18"]["draft_translation"]
     assert "the one adding knowledge" in by_ref["Ecclesiastes 1:18"]["draft_translation"]
+    assert by_ref["Ecclesiastes 2:1"]["draft_translation"].endswith("this too is vanity.")
+    assert "what good there is for the sons of man" in by_ref["Ecclesiastes 2:3"]["draft_translation"]
+    assert "for the number of days" in by_ref["Ecclesiastes 2:3"]["draft_translation"]
+    assert "a forest sprouting trees" in by_ref["Ecclesiastes 2:6"]["draft_translation"]
+    assert "beyond all who were before me" in by_ref["Ecclesiastes 2:7"]["draft_translation"]
+    assert "treasures of kings and of the provinces" in by_ref["Ecclesiastes 2:8"]["draft_translation"]
+    assert "delights of the sons of man" in by_ref["Ecclesiastes 2:8"]["draft_translation"]
+    assert "a cupbearer and cupbearers" in by_ref["Ecclesiastes 2:8"]["draft_translation"]
+    assert "all that my eyes asked" in by_ref["Ecclesiastes 2:10"]["draft_translation"]
+    assert "look, all is vanity" in by_ref["Ecclesiastes 2:11"]["draft_translation"]
+    assert "as the surplus of light over darkness" in by_ref["Ecclesiastes 2:13"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
@@ -4005,7 +4016,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "breath of the spirit of your wrath" in by_ref["Psalms 17:16"][
         "draft_translation"
     ]
-    assert "under the sun, the number of days" in by_ref["Ecclesiastes 2:3"][
+    assert "under the sun for the number of days" in by_ref["Ecclesiastes 2:3"][
         "draft_translation"
     ]
     assert "for the number of days" in by_ref["Ezekiel 4:5"]["draft_translation"]
