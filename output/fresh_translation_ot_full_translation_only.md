@@ -56356,11 +56356,11 @@ when my enemy turns back. They will grow weak and perish from your face,
 
 **Psalms 9:5**
 
-because you made my judgment and my case. You sat upon throne, one judging righteousness.
+because you made my judgment and my case. You sat upon a throne, judging righteousness.
 
 **Psalms 9:6**
 
-You rebuked nations, and ungodly man perished. Their name you wiped out into age and into age of age.
+You rebuked nations, and the ungodly man perished. Their name you wiped out into age and into age of age.
 
 **Psalms 9:7**
 
@@ -56376,7 +56376,7 @@ And he himself will judge inhabited world in righteousness; he will judge people
 
 **Psalms 9:10**
 
-And the Lord became refuge for poor man, helper in opportunities, in affliction.
+And the Lord became a refuge for the poor man, a helper in opportunities, in affliction.
 
 **Psalms 9:11**
 
@@ -56388,7 +56388,7 @@ Sing praise to the Lord dwelling in Zion; announce among nations his deeds.
 
 **Psalms 9:13**
 
-Because, seeking out their bloods, he remembered; he did not forget cry of poor men.
+Because, seeking out their bloods, he remembered; he did not forget the cry of poor men.
 
 **Psalms 9:14**
 
@@ -56404,7 +56404,7 @@ Nations were trapped in corruption which they made; in this snare which they hid
 
 **Psalms 9:17**
 
-The Lord is known, making judgments; in the works of his hands sinner was caught. Song of interlude.
+The Lord is known, making judgments; in the works of his hands the sinner was caught. Song of interlude.
 
 **Psalms 9:18**
 
@@ -56412,7 +56412,7 @@ Let sinners turn back into Hades, all nations forgetting God.
 
 **Psalms 9:19**
 
-Because poor man will not be forgotten to end, and endurance of poor men will not perish into age.
+Because the poor man will not be forgotten to the end, and endurance of poor men will not perish into age.
 
 **Psalms 9:20**
 
@@ -56428,11 +56428,11 @@ Why, Lord, have you stood far off, overlooking in opportunities, in affliction?
 
 **Psalms 9:23**
 
-When ungodly man acts proudly, poor man is set on fire; they are caught in schemes which they devise.
+When the ungodly man acts proudly, the poor man is set on fire; they are caught in schemes which they devise.
 
 **Psalms 9:24**
 
-Because sinner is praised in the desires of his soul, and unjust man is blessed.
+Because the sinner is praised in the desires of his soul, and the unjust man is blessed.
 
 **Psalms 9:25**
 
@@ -56452,11 +56452,11 @@ His mouth is full of curse and bitterness and deceit; under his tongue are toil 
 
 **Psalms 9:29**
 
-He sits in ambush with rich men in hidden places to kill innocent man; his eyes look toward poor man.
+He sits in ambush with rich men in hidden places to kill an innocent man; his eyes look toward the poor man.
 
 **Psalms 9:30**
 
-He lies in ambush in hidden place like a lion in its den, lying in ambush to seize poor man, to seize poor man by dragging him away.
+He lies in ambush in a hidden place like a lion in its den, lying in ambush to seize a poor man, to seize a poor man by dragging him away.
 
 **Psalms 9:31**
 
@@ -56472,15 +56472,15 @@ Rise up, Lord God; let your hand be lifted high. Do not forget poor men.
 
 **Psalms 9:34**
 
-For what reason did ungodly man provoke God? For he said in his heart, He will not seek out.
+For what reason did the ungodly man provoke God? For he said in his heart, He will not seek out.
 
 **Psalms 9:35**
 
-You see, because you observe toil and wrath, to hand them over into your hands. To you poor man is left; you were helper to orphan.
+You see, because you observe toil and wrath, to hand them over into your hands. To you the poor man is left; you were a helper to an orphan.
 
 **Psalms 9:36**
 
-Break arm of sinner and evil man; his sin will be sought and by no means found because of it.
+Break the arm of the sinner and evil man; his sin will be sought and by no means found because of it.
 
 **Psalms 9:37**
 
@@ -56488,11 +56488,11 @@ The Lord will reign into age and into age of age; nations, you will perish from 
 
 **Psalms 9:38**
 
-The desire of poor men the Lord heard; to preparation of their heart your ear attended,
+The Lord heard the desire of poor men; your ear attended to the preparation of their heart,
 
 **Psalms 9:39**
 
-to judge orphan and lowly man, so that man upon earth may no longer add to acting great.
+to judge an orphan and a lowly man, so that man upon earth may no longer add to acting great.
 
 ### Chapter 10
 

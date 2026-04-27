@@ -2,7 +2,7 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 105
+Rows: 104
 Books: 35
 
 ## Genesis 24:7
@@ -305,13 +305,6 @@ Books: 35
 - keywords: altar, god, law, lord, servant
 - fresh: to offer whole burnt offerings to the Lord on the altar of whole burnt offerings continually, morning and evening, and according to all things written in the law of the Lord, whatever he commanded for the sons of Israel by the hand of Moses servant of God,
 - brenton: to offer up whole-burnt-offerings to the Lord on the altar of whole-burnt-offerings continually morning and evening, and according to all things written in the law of the Lord, which he commanded the children of Israel by Moses the servant of God.
-
-## 2 Chronicles 6:20
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
-- keywords: name, servant
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ## 2 Chronicles 9:8
 - score: 28

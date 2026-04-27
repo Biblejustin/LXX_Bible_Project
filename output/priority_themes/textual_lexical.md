@@ -2,7 +2,7 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 58
+Rows: 59
 Books: 22
 
 ## Genesis 1:2
@@ -263,6 +263,13 @@ Books: 22
 - keywords: being, covenant, god, holy, lord, name
 - fresh: Now set your hearts and your souls to seek the Lord your God, and rise and build a sanctuary to the Lord your God, to bring the ark of the covenant of the Lord and the holy vessels of God into the house being built for the name of the Lord.
 - brenton: Now set your hearts and souls to seek after the Lord your God: and rise, and build a sanctuary to your God to carry in the ark of the covenant of the Lord, and the holy vessels of God, into the house that is to be built to the name of the Lord.
+
+## 2 Chronicles 6:14
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=9; reco=keep
+- keywords: covenant, god, lord, mercy
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- brenton: and said,
 
 ## 2 Chronicles 7:14
 - score: 28

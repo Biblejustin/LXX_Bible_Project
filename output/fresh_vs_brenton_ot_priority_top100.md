@@ -156,6 +156,13 @@ Rows: 100
 - fresh: And he said to the Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed the holy ark in the house which Solomon son of David king of Israel built, and the king said, It is not for you to carry anything on your shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
+## 2 Chronicles 6:14
+- book: 2 Chronicles
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=9; reco=keep
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- brenton: and said,
+
 ## Deuteronomy 14:23
 - book: Deuteronomy
 - score: 24
@@ -379,13 +386,6 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, king, lord, servant; crossref_top_vote=6; reco=keep
 - fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
 - brenton: And now let my lord the king hear the word of his servant. If God stirs thee up against me, let thine offering be acceptable: but if the sons of men, they are cursed before the Lord, for they have cast me out this day so that I should not be established in the inheritance of the Lord, saying, Go, serve other gods.
-
-## 2 Chronicles 6:20
-- book: 2 Chronicles
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=name, servant; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=5; crossref_shared_family=2; nt_eng=support:3/soften:3/mixed:3; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ## 2 Samuel 3:21
 - book: 2 Samuel

@@ -124576,19 +124576,19 @@ Note:
 ### Psalms 9:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because you made my judgment and my case. You sat upon throne, one judging righteousness.
+- fresh: because you made my judgment and my case. You sat upon a throne, judging righteousness.
 - brenton: For thou hast maintained my cause and my right; thou satest on the throne, that judgest righteousness.
 
 ### Psalms 9:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You rebuked nations, and ungodly man perished. Their name you wiped out into age and into age of age.
+- fresh: You rebuked nations, and the ungodly man perished. Their name you wiped out into age and into age of age.
 - brenton: Thou hast rebuked the nations, and the ungodly one has perished; thou hast blotted out their name for ever, even for ever and ever.
 
 ### Psalms 9:7
@@ -124621,10 +124621,10 @@ Note:
 ### Psalms 9:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord became refuge for poor man, helper in opportunities, in affliction.
+- fresh: And the Lord became a refuge for the poor man, a helper in opportunities, in affliction.
 - brenton: The Lord also is become a refuge for the poor, a seasonable help, in affliction.
 
 ### Psalms 9:11
@@ -124648,10 +124648,10 @@ Note:
 ### Psalms 9:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because, seeking out their bloods, he remembered; he did not forget cry of poor men.
+- fresh: Because, seeking out their bloods, he remembered; he did not forget the cry of poor men.
 - brenton: For he remembered them, in making inquisition for blood: he has not forgotten the supplication of the poor.
 
 ### Psalms 9:14
@@ -124684,10 +124684,10 @@ Note:
 ### Psalms 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is known, making judgments; in the works of his hands sinner was caught. Song of interlude.
+- fresh: The Lord is known, making judgments; in the works of his hands the sinner was caught. Song of interlude.
 - brenton: The Lord is known as executing judgments: the sinner is taken in the works of his hands. A song of Pause.
 
 ### Psalms 9:18
@@ -124702,10 +124702,10 @@ Note:
 ### Psalms 9:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because poor man will not be forgotten to end, and endurance of poor men will not perish into age.
+- fresh: Because the poor man will not be forgotten to the end, and endurance of poor men will not perish into age.
 - brenton: For the poor shall not be forgotten for ever: the patience of the needy ones shall not perish for ever.
 
 ### Psalms 9:20
@@ -124738,19 +124738,19 @@ Note:
 ### Psalms 9:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When ungodly man acts proudly, poor man is set on fire; they are caught in schemes which they devise.
+- fresh: When the ungodly man acts proudly, the poor man is set on fire; they are caught in schemes which they devise.
 - brenton: While the ungodly one acts proudly, the poor is hotly pursued: the wicked are taken in the crafty counsels which they imagine.
 
 ### Psalms 9:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because sinner is praised in the desires of his soul, and unjust man is blessed.
+- fresh: Because the sinner is praised in the desires of his soul, and the unjust man is blessed.
 - brenton: Because the sinner praises himself for the desires of his heart; and the unjust one blesses himself.
 
 ### Psalms 9:25
@@ -124792,19 +124792,19 @@ Note:
 ### Psalms 9:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He sits in ambush with rich men in hidden places to kill innocent man; his eyes look toward poor man.
+- fresh: He sits in ambush with rich men in hidden places to kill an innocent man; his eyes look toward the poor man.
 - brenton: He lies in wait with rich men in secret places, in order to slay the innocent: his eyes are set against the poor.
 
 ### Psalms 9:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He lies in ambush in hidden place like a lion in its den, lying in ambush to seize poor man, to seize poor man by dragging him away.
+- fresh: He lies in ambush in a hidden place like a lion in its den, lying in ambush to seize a poor man, to seize a poor man by dragging him away.
 - brenton: He lies in wait in secret as a lion in his den: he lies in wait to ravish the poor, to ravish the poor when he draws him after him: he will bring him down in his snare.
 
 ### Psalms 9:31
@@ -124837,28 +124837,28 @@ Note:
 ### Psalms 9:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For what reason did ungodly man provoke God? For he said in his heart, He will not seek out.
+- fresh: For what reason did the ungodly man provoke God? For he said in his heart, He will not seek out.
 - brenton: Wherefore has the wicked provoked God? for he has said in his heart, He will not require it.
 
 ### Psalms 9:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You see, because you observe toil and wrath, to hand them over into your hands. To you poor man is left; you were helper to orphan.
+- fresh: You see, because you observe toil and wrath, to hand them over into your hands. To you the poor man is left; you were a helper to an orphan.
 - brenton: Thou seest it; for thou dost observe trouble and wrath, to deliver them into thy hands: the poor has been left to thee; thou wast a helper to the orphan.
 
 ### Psalms 9:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Break arm of sinner and evil man; his sin will be sought and by no means found because of it.
+- fresh: Break the arm of the sinner and evil man; his sin will be sought and by no means found because of it.
 - brenton: Break thou the arm of the sinner and wicked man: his sin shall be sought for, and shall not be found.
 
 ### Psalms 9:37
@@ -124873,19 +124873,19 @@ Note:
 ### Psalms 9:38
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The desire of poor men the Lord heard; to preparation of their heart your ear attended,
+- fresh: The Lord heard the desire of poor men; your ear attended to the preparation of their heart,
 - brenton: The Lord has heard the desire of the poor: thine ear has inclined to the preparation of their heart;
 
 ### Psalms 9:39
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to judge orphan and lowly man, so that man upon earth may no longer add to acting great.
+- fresh: to judge an orphan and a lowly man, so that man upon earth may no longer add to acting great.
 - brenton: to plead for the orphan and afflicted, that man may no more boast upon the earth.
 
 ### Psalms 10:1

@@ -237,6 +237,17 @@ Rows: 233
 - OT clues: 1Chr.23.26 (5) -> And Levites were no longer carrying tent and all its vessels for its service. || 2Chr.17.8-2Chr.17.9 (4) -> and with them Levites Samouias and Nethaniah and Zebadiah and Jaasiel and Shemiramoth and Jonathan and Adonijah and Tobijah, the Levites, and with them Elishama and Jehoram, the priests. || 2Chr.30.22 (4) -> And Hezekiah spoke to every heart of Levites, those understanding good understanding for the Lord, and they completed feast of unleavened bread seven days, sacrificing sacrifices of salvation and giving thanks to the Lord God of their fathers. || Deut.33.10 (4) -> They shall declare your ordinances to Jacob and your law to Israel. They shall place incense in your anger, always upon your altar.
 - NT clues: 2Cor.4.5 (3) -> For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
 
+## 2 Chronicles 6:14
+- score: 24
+- latest review status: keep
+- top vote: 9
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- OT clues: Exod.15.11 (9) -> "Who is like you among gods, O Lord? Who is like you, glorified among holy ones, wondrous in glories, doing wonders?" || Deut.7.9 (7) -> And you shall know that the Lord your God, this one is God, faithful God, keeping covenant and mercy with those who love him and with those who keep his commands, to a thousand generations, || Neh.1.5 (5) -> And I said, Please, O Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments, || Ps.89.6 (5) -> In morning let it flower and pass away; in evening let it fall, grow hard, and dry up.
+- NT clues: 1Thess.2.12 (5) -> That all of you would walk worthy of God, who has called you unto his kingdom and glory. || Luke.1.54-Luke.1.55 (5) -> He has helped his servant Israel, in remembrance of his mercy; || Ps.89.28 (5) -> My mercy will I keep for him for evermore, and my covenant shall stand fast with him.
+
 ## Deuteronomy 14:23
 - score: 24
 - latest review status: keep
@@ -581,16 +592,6 @@ Rows: 233
 - fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
 - OT clues: 2Sam.14.16 (6) -> Because the king will listen to rescue his servant from the hand of the man seeking to remove me and my son from the inheritance of God. || 2Sam.16.11 (5) -> And David said to Abishai and to all his servants, Behold, my son who came out of my belly seeks my life, and how much more now this Benjamite. Leave him to curse, because the Lord told him. || 2Sam.20.19 (5) -> I am one of the peaceful, of the strongholds of Israel, but you seek to put to death a city and a mother-city in Israel. Why are you drowning the inheritance of the Lord? || 1Chr.21.1 (4) -> And slanderer stood up against Israel and stirred David to number Israel.
 - NT clues: 1Sam.18.10 (4) -> And it came to pass on the next day, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand. || Gal.1.8-Gal.1.9 (4) -> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
-
-## 2 Chronicles 6:20
-- score: 21
-- latest review status: keep
-- top vote: 5
-- OT crossrefs: 8
-- NT crossrefs: 0
-- shared-family hits: 2
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- OT clues: Ps.34.15 (5) -> And against me they rejoiced and gathered together; scourges gathered upon me and I did not know; they were torn apart and were not pierced through. || 2Chr.6.6 (4) -> but I chose Jerusalem for my name to be there, and I chose David to be over my people Israel. || Dan.6.10 (4) -> And thus King Darius established and confirmed it. || Ps.121.5 (4) -> Because there thrones sat for judgment, thrones over the house of David.
 
 ## 2 Samuel 3:21
 - score: 21

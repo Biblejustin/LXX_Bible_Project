@@ -382,14 +382,14 @@ Method:
 
 ## MT-Leaning vs Brenton
 
-### 2 Chronicles 6:20
-- priority: `21`
+### 2 Chronicles 6:14
+- priority: `24`
 - importance: `high`
-- fresh_mt_ratio: `0.858`
-- fresh_brenton_ratio: `0.125`
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+- fresh_mt_ratio: `0.864`
+- fresh_brenton_ratio: `0.094`
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
+- brenton: and said,
 
 ### Genesis 24:40
 - priority: `21`
@@ -535,15 +535,6 @@ Method:
 - mt: And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, says the Lord GOD.
 - brenton: And I will execute my vengeance on Idumea by the hand of my people Israel: and they shall deal in Idumea according to mine anger and according to my wrath, and they shall know my vengeance, saith the Lord.
 
-### 2 Chronicles 6:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.864`
-- fresh_brenton_ratio: `0.094`
-- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
-- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
-- brenton: and said,
-
 ### Leviticus 8:23
 - priority: `0`
 - importance: `none`
@@ -624,6 +615,15 @@ Method:
 - fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before the ark of God, and Obededom and Iia were gatekeepers of the ark of God.
 - mt: And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark.
 - brenton: And Somnia, and Josaphat, and Nathanael, and Amasai, and Zacharia, and Banæa, and Eliezer, the priests, were sounding with trumpets before the ark of God: and Abdedom and Jeia were door-keepers of the ark of God.
+
+### 2 Chronicles 6:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.858`
+- fresh_brenton_ratio: `0.125`
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
+- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ### Ecclesiastes 6:12
 - priority: `0`
@@ -7134,6 +7134,15 @@ Method:
 - mt: He has showed you, O man, what is good; and what does the LORD require of you, but to do justly, and to love mercy, and to walk humbly with your God?
 - brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
 
+### 2 Chronicles 6:14
+- priority: `24`
+- importance: `high`
+- fresh_mt_ratio: `0.864`
+- fresh_brenton_ratio: `0.094`
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
+- brenton: and said,
+
 ### 2 Kings 17:34
 - priority: `23`
 - importance: `high`
@@ -7520,15 +7529,6 @@ Method:
 - fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
 - mt: And he said unto me, The LORD, before whom I walk, will send his angel with you, and prosper your way; and you shall take a wife for my son of my kindred, and of my father's house:
 - brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
-
-### 2 Chronicles 6:20
-- priority: `21`
-- importance: `high`
-- fresh_mt_ratio: `0.858`
-- fresh_brenton_ratio: `0.125`
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ### Numbers 16:3
 - priority: `20`
@@ -33279,15 +33279,6 @@ Method:
 - mt: And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 - brenton: And the children of Israel brought up the bones of Joseph out of Egypt, and buried them in Sicima, in the portion of the land which Jacob bought of the Amorites who dwelt in Sicima for a hundred ewe-lambs; and he gave it to Joseph for a portion.
 
-### Psalms 9:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.234`
-- fresh_brenton_ratio: `0.446`
-- fresh: Because, seeking out their bloods, he remembered; he did not forget cry of poor men.
-- mt: Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, you that lift me up from the gates of death:
-- brenton: For he remembered them, in making inquisition for blood: he has not forgotten the supplication of the poor.
-
 ### Psalms 16:10
 - priority: `0`
 - importance: `none`
@@ -34070,6 +34061,15 @@ Method:
 - fresh: In your ordinances I will meditate; I will not forget your words.
 - mt: The right hand of the LORD is exalted: the right hand of the LORD does valiantly.
 - brenton: I will meditate on thine ordinances: I will not forget thy words.
+
+### Psalms 9:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.239`
+- fresh_brenton_ratio: `0.624`
+- fresh: Because the poor man will not be forgotten to the end, and endurance of poor men will not perish into age.
+- mt: Arise, O LORD; let not man prevail: let the heathen be judged in your sight.
+- brenton: For the poor shall not be forgotten for ever: the patience of the needy ones shall not perish for ever.
 
 ### Psalms 62:7
 - priority: `0`
@@ -37860,15 +37860,6 @@ Method:
 - mt: The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the LORD?
 - brenton: for thee to use the gold for things of gold, and the silver for things of silver, and for every work by the hand of the artificers. And who is willing to dedicate himself in work this day for the Lord?
 
-### Psalms 9:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.263`
-- fresh_brenton_ratio: `0.551`
-- fresh: because you made my judgment and my case. You sat upon throne, one judging righteousness.
-- mt: You have rebuked the heathen, you have destroyed the wicked, you have put out their name for ever and ever.
-- brenton: For thou hast maintained my cause and my right; thou satest on the throne, that judgest righteousness.
-
 ### Psalms 3:7
 - priority: `0`
 - importance: `none`
@@ -38390,6 +38381,15 @@ Method:
 - fresh: For the Lord had made the camp of Syria hear a sound of chariot and a sound of horse and a sound of great force, and one man said to his brother, Behold now, the king of Israel has hired against us the kings of the Hittites and the kings of Egypt to come against us.
 - mt: For the LORD had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel has hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 - brenton: For the Lord had made the army of Syria to hear a sound of chariots, and a sound of horses, even the sound of a great host: and each man said to his fellow, Now has the king of Israel hired against us the kings of the Chettites, and the kings of Egypt, to come against us.
+
+### Psalms 9:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.266`
+- fresh_brenton_ratio: `0.557`
+- fresh: because you made my judgment and my case. You sat upon a throne, judging righteousness.
+- mt: You have rebuked the heathen, you have destroyed the wicked, you have put out their name for ever and ever.
+- brenton: For thou hast maintained my cause and my right; thou satest on the throne, that judgest righteousness.
 
 ### Psalms 37:13
 - priority: `0`
@@ -41460,6 +41460,15 @@ Method:
 - mt: And Pharaoh said, I will let you go, that all of you may sacrifice to the LORD your God in the wilderness; only all of you shall not go very far away: implore for me.
 - brenton: And Pharao hardened his heart, even on this occasion, and he would not send the people away.
 
+### Psalms 9:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.283`
+- fresh_brenton_ratio: `0.728`
+- fresh: And the Lord became a refuge for the poor man, a helper in opportunities, in affliction.
+- mt: And they that know your name will put their trust in you: for you, LORD, have not forsaken them that seek you.
+- brenton: The Lord also is become a refuge for the poor, a seasonable help, in affliction.
+
 ### Jeremiah 37:20
 - priority: `0`
 - importance: `none`
@@ -44294,15 +44303,6 @@ Method:
 - fresh: And seek peace of land into which I exiled you there, and pray concerning them to the Lord, because in its peace there will be peace for you.
 - mt: It may be they will present their supplication before the LORD, and will return every one from his evil way: for great is the anger and the fury that the LORD has pronounced against this people.
 - brenton: And seek the peace of the land into which I have carried you captive, and ye shall pray to the Lord for the people: for in its peace ye shall have peace.
-
-### Psalms 9:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.298`
-- fresh_brenton_ratio: `0.707`
-- fresh: The Lord is known, making judgments; in the works of his hands sinner was caught. Song of interlude.
-- mt: The wicked shall be turned into hell, and all the nations that forget God.
-- brenton: The Lord is known as executing judgments: the sinner is taken in the works of his hands. A song of Pause.
 
 ### Psalms 139:6
 - priority: `0`
@@ -47751,15 +47751,6 @@ Method:
 - mt: You tell my wanderings: put you my tears into your bottle: are they not in your book?
 - brenton: My heart, O God, is ready, my heart is ready: I will sing, yea will sing psalms.
 
-### Psalms 9:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.317`
-- fresh_brenton_ratio: `0.675`
-- fresh: And the Lord became refuge for poor man, helper in opportunities, in affliction.
-- mt: And they that know your name will put their trust in you: for you, LORD, have not forsaken them that seek you.
-- brenton: The Lord also is become a refuge for the poor, a seasonable help, in affliction.
-
 ### Psalms 31:6
 - priority: `0`
 - importance: `none`
@@ -49506,6 +49497,15 @@ Method:
 - mt: Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.
 - brenton: Thy wife shall be as a fruitful vine on the sides of thy house: thy children as young olive-plants round about thy table.
 
+### Psalms 9:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.326`
+- fresh_brenton_ratio: `0.620`
+- fresh: You rebuked nations, and the ungodly man perished. Their name you wiped out into age and into age of age.
+- mt: O you enemy, destructions are come to a perpetual end: and you have destroyed cities; their memorial is perished with them.
+- brenton: Thou hast rebuked the nations, and the ungodly one has perished; thou hast blotted out their name for ever, even for ever and ever.
+
 ### Isaiah 28:17
 - priority: `0`
 - importance: `none`
@@ -50640,15 +50640,6 @@ Method:
 - mt: The wind goes toward the south, and turns about unto the north; it whirls about continually, and the wind returns again according to his circuits.
 - brenton: arising there it proceeds southward, and goes round toward the north. The wind goes round and round, and the wind returns to its circuits.
 
-### Psalms 9:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.332`
-- fresh_brenton_ratio: `0.596`
-- fresh: You rebuked nations, and ungodly man perished. Their name you wiped out into age and into age of age.
-- mt: O you enemy, destructions are come to a perpetual end: and you have destroyed cities; their memorial is perished with them.
-- brenton: Thou hast rebuked the nations, and the ungodly one has perished; thou hast blotted out their name for ever, even for ever and ever.
-
 ### Psalms 65:7
 - priority: `0`
 - importance: `none`
@@ -50819,15 +50810,6 @@ Method:
 - fresh: Be exalted, judge of earth; repay recompense to proud ones.
 - mt: Your throne is established of old: you are from everlasting.
 - brenton: Be thou exalted, thou that judgest the earth: render a reward to the proud.
-
-### Psalms 9:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.333`
-- fresh_brenton_ratio: `0.609`
-- fresh: Because poor man will not be forgotten to end, and endurance of poor men will not perish into age.
-- mt: Arise, O LORD; let not man prevail: let the heathen be judged in your sight.
-- brenton: For the poor shall not be forgotten for ever: the patience of the needy ones shall not perish for ever.
 
 ### Proverbs 21:24
 - priority: `0`
@@ -51125,6 +51107,15 @@ Method:
 - fresh: and, going, they served other gods and bowed to them, whom they did not know, and he had not allotted them.
 - mt: Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 - brenton: And men shall say, Because they forsook the covenant of the Lord God of their fathers, the things which he appointed to their fathers, when he brought them out of the land of Egypt:
+
+### Psalms 9:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.335`
+- fresh_brenton_ratio: `0.468`
+- fresh: Because, seeking out their bloods, he remembered; he did not forget the cry of poor men.
+- mt: Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, you that lift me up from the gates of death:
+- brenton: For he remembered them, in making inquisition for blood: he has not forgotten the supplication of the poor.
 
 ### Psalms 78:13
 - priority: `0`
@@ -57839,6 +57830,15 @@ Method:
 - fresh: To one striking great kings, because his mercy forever.
 - mt: They have ears, but they hear not; neither is there any breath in their mouths.
 - brenton: To him who smote great kings: for his mercy endures for ever:
+
+### Psalms 9:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.372`
+- fresh_brenton_ratio: `0.693`
+- fresh: The Lord is known, making judgments; in the works of his hands the sinner was caught. Song of interlude.
+- mt: The wicked shall be turned into hell, and all the nations that forget God.
+- brenton: The Lord is known as executing judgments: the sinner is taken in the works of his hands. A song of Pause.
 
 ### 1 Samuel 24:18
 - priority: `0`
@@ -183543,6 +183543,15 @@ Method:
 - mt: And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten.
 - brenton: And on the fifteenth day of this month is a feast; seven days ye shall eat unleavened bread.
 
+### 2 Chronicles 6:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.858`
+- fresh_brenton_ratio: `0.125`
+- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
+- mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
+- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
+
 ### Joshua 14:2
 - priority: `0`
 - importance: `none`
@@ -184685,15 +184694,6 @@ Method:
 - fresh: And it came to pass in that night, the word of the Lord came to Nathan, saying,
 - mt: And it came to pass the same night, that the word of God came to Nathan, saying,
 - brenton: And it came to pass in that night, that the word of the Lord came to Nathan, saying,
-
-### 2 Chronicles 6:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.864`
-- fresh_brenton_ratio: `0.094`
-- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
-- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
-- brenton: and said,
 
 ### Lamentations 3:31
 - priority: `0`

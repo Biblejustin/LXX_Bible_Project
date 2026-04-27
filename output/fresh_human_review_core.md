@@ -335,6 +335,21 @@ Rows: 234
 - fresh: And he said to the Levites, mighty in all Israel, when they had sanctified themselves to the Lord and placed the holy ark in the house which Solomon son of David king of Israel built, and the king said, It is not for you to carry anything on your shoulders. Now then minister to the Lord your God and to his people Israel.
 - brenton: And he told the Levites that were able to act in all Israel, that they should consecrate themselves to the Lord: and they put the holy ark in the house which Solomon the son of David king of Israel built: and the king said, Ye must not carry anything on your shoulders: now then minister to the Lord your God, and to his people Israel.
 
+## 2 Chronicles 6:14
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- brenton: and said,
+
 ## Deuteronomy 14:23
 - priority: `24`
 - importance: `high`
@@ -814,21 +829,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And now let my lord the king hear the word of his servant. If God stirs you up against me, may he smell your sacrifices. But if sons of men, cursed are these before the Lord, because they cast me out today from being established in the inheritance of the Lord, saying, Go, serve other gods.
 - brenton: And now let my lord the king hear the word of his servant. If God stirs thee up against me, let thine offering be acceptable: but if the sons of men, they are cursed before the Lord, for they have cast me out this day so that I should not be established in the inheritance of the Lord, saying, Go, serve other gods.
-
-## 2 Chronicles 6:20
-- priority: `21`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; nt=3; nt_eng=9; nt_eng_reco=keep; reco=keep
-- nt refs: Acts 15:17, James 2:7, Romans 2:17
-- nt english witnesses: checked `9`, support `3`, soften `3`, mixed `3`
-- nt english recommendation: `keep`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
-- brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
 
 ## 2 Samuel 3:21
 - priority: `21`

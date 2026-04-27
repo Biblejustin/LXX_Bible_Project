@@ -2592,6 +2592,27 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "for the kingdom and for holy things and for Israel" in by_ref["2 Chronicles 29:21"][
         "draft_translation"
     ]
+    assert "You sat upon a throne, judging righteousness" in by_ref["Psalms 9:5"]["draft_translation"]
+    assert "the ungodly man perished" in by_ref["Psalms 9:6"]["draft_translation"]
+    assert "a refuge for the poor man" in by_ref["Psalms 9:10"]["draft_translation"]
+    assert "the cry of poor men" in by_ref["Psalms 9:13"]["draft_translation"]
+    assert "the sinner was caught" in by_ref["Psalms 9:17"]["draft_translation"]
+    assert "the poor man will not be forgotten to the end" in by_ref["Psalms 9:19"][
+        "draft_translation"
+    ]
+    assert "When the ungodly man acts proudly, the poor man" in by_ref["Psalms 9:23"][
+        "draft_translation"
+    ]
+    assert "the sinner is praised" in by_ref["Psalms 9:24"]["draft_translation"]
+    assert "an innocent man" in by_ref["Psalms 9:29"]["draft_translation"]
+    assert "in a hidden place" in by_ref["Psalms 9:30"]["draft_translation"]
+    assert "the ungodly man provoke God" in by_ref["Psalms 9:34"]["draft_translation"]
+    assert "the poor man is left" in by_ref["Psalms 9:35"]["draft_translation"]
+    assert "Break the arm of the sinner and evil man" in by_ref["Psalms 9:36"][
+        "draft_translation"
+    ]
+    assert by_ref["Psalms 9:38"]["draft_translation"].startswith("The Lord heard")
+    assert "an orphan and a lowly man" in by_ref["Psalms 9:39"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
