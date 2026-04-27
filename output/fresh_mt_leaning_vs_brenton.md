@@ -5708,6 +5708,15 @@ Rows: 724
 - mt: The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran.
 - brenton: And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.
 
+## 2 Kings 25:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.698`
+- fresh: And his allowance, a continual allowance, was given to him from the king's house, a day's portion on its day, all the days of his life.
+- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
+- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
+
 ## Job 31:4
 - priority: `0`
 - importance: `none`
@@ -5851,15 +5860,6 @@ Rows: 724
 - fresh: And all the men of the tower of Shechem heard, and they entered into the stronghold of the house of Baal-covenant.
 - mt: And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith.
 - brenton: And all the men of the tower of Sychem heard, and came to the gathering of Bæthel-berith.
-
-## 2 Kings 25:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.782`
-- fresh_brenton_ratio: `0.674`
-- fresh: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
-- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
-- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
 
 ## Exodus 29:6
 - priority: `0`

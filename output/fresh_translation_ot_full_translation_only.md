@@ -3120,7 +3120,7 @@ But Isaac answered and said to Esau, If I made him your lord and made all his br
 
 **Genesis 27:38**
 
-But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And Isaac was pierced, and Esau cried aloud and wept.
+But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And when Isaac was cut to the heart, Esau cried aloud and wept.
 
 **Genesis 27:39**
 
@@ -4018,7 +4018,7 @@ And Hamor father of Shechem went out to Jacob to speak with him.
 
 **Genesis 34:7**
 
-And Jacob's sons came from the plain. And when they heard, the men were pierced and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
+And Jacob's sons came from the plain. And when they heard, the men were cut to the heart, and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
 
 **Genesis 34:8**
 
@@ -11922,7 +11922,7 @@ And fire came out from the Lord and consumed them, and they died before the Lord
 
 **Leviticus 10:3**
 
-And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was pierced.
+And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was cut to the heart.
 
 **Leviticus 10:4**
 
@@ -29206,7 +29206,7 @@ The bow of the mighty weakened, and the weak girded themselves with strength.
 
 **1 Samuel 2:5**
 
-Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one many in children became weak.
+Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
 
 **1 Samuel 2:6**
 
@@ -36308,7 +36308,7 @@ to incline our hearts toward him, to walk in all his ways and keep all his comma
 
 **1 Kings 8:59**
 
-And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
+And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, each day's matter on its day,
 
 **1 Kings 8:60**
 
@@ -37736,7 +37736,7 @@ And he was greatly abominated by going after abominations, according to all that
 
 **1 Kings 20:27**
 
-And because of the word, as Ahab was pierced to the heart from before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
+And because of the word, as Ahab was cut to the heart before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
 
 **1 Kings 20:28**
 
@@ -37744,7 +37744,7 @@ And the word of the Lord came by the hand of his servant Elijah concerning Ahab,
 
 **1 Kings 20:29**
 
-Have you seen how Ahab was pierced to the heart from before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
+Have you seen how Ahab was cut to the heart before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
 
 ### Chapter 21
 
@@ -41048,7 +41048,7 @@ And he changed the garments of his prison, and he ate bread continually before h
 
 **2 Kings 25:30**
 
-And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
+And his allowance, a continual allowance, was given to him from the king's house, a day's portion on its day, all the days of his life.
 
 ## 1 Chronicles
 
@@ -45510,7 +45510,7 @@ And according to the matter of each day, for offering according to commandments 
 
 **2 Chronicles 8:14**
 
-And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to the matter of day in its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
+And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to each day's matter on its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
 
 **2 Chronicles 8:15**
 
@@ -53454,7 +53454,7 @@ engraved with iron stylus and lead, or cut into rocks.
 
 **Job 19:25**
 
-For I know that eternal is the one about to free me upon earth.
+For I know that eternal is the one who is about to free me upon earth.
 
 **Job 19:26**
 
@@ -76114,7 +76114,7 @@ No one speaks righteous things, nor is there true judgment. They trust in vaniti
 
 **Isaiah 59:5**
 
-They hatch eggs of asps and weave spider's web, and one about to eat their eggs, breaking one, finds a viper in it.
+They hatch eggs of asps and weave spider's web, and the one who is about to eat their eggs, breaking one, finds a viper in it.
 
 **Isaiah 59:6**
 
@@ -90186,7 +90186,7 @@ Gather people, sanctify assembly, choose elders, gather infants nursing breasts.
 
 **Joel 2:17**
 
-Between the base of the altar the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
+At the base of the altar, the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
 
 **Joel 2:18**
 

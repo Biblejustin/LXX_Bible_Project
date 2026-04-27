@@ -153,7 +153,7 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
 
     assert "cast a trance on Adam" in by_ref["Genesis 2:21"]["draft_translation"]
     assert "keep watch for your head" in by_ref["Genesis 3:15"]["draft_translation"]
-    assert by_ref["Job 19:25"]["draft_translation"] == "For I know that eternal is the one about to free me upon earth."
+    assert by_ref["Job 19:25"]["draft_translation"] == "For I know that eternal is the one who is about to free me upon earth."
     assert "The gods who did not make" in by_ref["Jeremiah 10:11"]["draft_translation"]
     assert "The gods of nations" in by_ref["Daniel 4:37"]["draft_translation"]
     assert by_ref["Ecclesiastes 3:1"]["draft_translation"].startswith("For all things there is a time")
@@ -2520,7 +2520,19 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "mouth of the lions' den" in by_ref["Daniel 6:20"]["draft_translation"]
     assert by_ref["Hosea 14:10"]["draft_translation"].startswith("Who is wise")
     assert "Because the ways of the Lord are straight" in by_ref["Hosea 14:10"]["draft_translation"]
-    assert by_ref["Joel 2:17"]["draft_translation"].startswith("Between the base of the altar")
+    assert "the men were cut to the heart" in by_ref["Genesis 34:7"]["draft_translation"]
+    assert by_ref["Genesis 27:38"]["draft_translation"].startswith("But Esau said to his father")
+    assert "when Isaac was cut to the heart" in by_ref["Genesis 27:38"]["draft_translation"]
+    assert "Aaron was cut to the heart" in by_ref["Leviticus 10:3"]["draft_translation"]
+    assert "the one with many children became weak" in by_ref["1 Samuel 2:5"]["draft_translation"]
+    assert "each day's matter on its day" in by_ref["1 Kings 8:59"]["draft_translation"]
+    assert "Ahab was cut to the heart before the Lord" in by_ref["1 Kings 20:27"]["draft_translation"]
+    assert "Ahab was cut to the heart before me" in by_ref["1 Kings 20:29"]["draft_translation"]
+    assert "a day's portion on its day" in by_ref["2 Kings 25:30"]["draft_translation"]
+    assert "each day's matter on its day" in by_ref["2 Chronicles 8:14"]["draft_translation"]
+    assert "the one who is about to free me" in by_ref["Job 19:25"]["draft_translation"]
+    assert "the one who is about to eat their eggs" in by_ref["Isaiah 59:5"]["draft_translation"]
+    assert by_ref["Joel 2:17"]["draft_translation"].startswith("At the base of the altar")
     assert "Spare, O Lord, your people" in by_ref["Joel 2:17"]["draft_translation"]
     assert "say among the nations" in by_ref["Joel 2:17"]["draft_translation"]
     assert "did not know the thought of the Lord" in by_ref["Micah 4:12"]["draft_translation"]

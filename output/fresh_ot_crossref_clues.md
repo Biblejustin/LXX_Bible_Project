@@ -736,7 +736,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: Not to us, Lord, not to us, but to your name give glory, upon your mercy and your truth.
-- OT clues: Ps.68.6 (15) -> O God, you knew my foolishness, and my trespasses were not hidden from you. || 1Sam.2.5 (14) -> Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one many in children became weak. || Gen.21.5-Gen.21.7 (14) -> And Abraham was one hundred years old when Isaac his son came to be for him. || Gen.30.22-Gen.30.23 (14) -> And God remembered Rachel, and God heard her and opened her womb,
+- OT clues: Ps.68.6 (15) -> O God, you knew my foolishness, and my trespasses were not hidden from you. || 1Sam.2.5 (14) -> Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak. || Gen.21.5-Gen.21.7 (14) -> And Abraham was one hundred years old when Isaac his son came to be for him. || Gen.30.22-Gen.30.23 (14) -> And God remembered Rachel, and God heard her and opened her womb,
 - NT clues: Luke.1.13-Luke.1.15 (12) -> But the angel said unto him, Fear not, Zacharias: for your prayer is heard; and your wife Elisabeth shall bear you a son, and you shall call his name John. || Gal.4.27 (10) -> For it is written, Rejoice, you barren that bear not; break forth and cry, you that travail not: for the desolate has many more children than she which has an husband.
 
 ## Psalms 19:7

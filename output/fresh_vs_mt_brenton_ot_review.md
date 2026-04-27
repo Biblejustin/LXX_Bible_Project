@@ -6088,6 +6088,15 @@ Method:
 - mt: The sons of Ezer; Bilhan, and Zavan, and Jakan. The sons of Dishan; Uz, and Aran.
 - brenton: And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.
 
+### 2 Kings 25:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.698`
+- fresh: And his allowance, a continual allowance, was given to him from the king's house, a day's portion on its day, all the days of his life.
+- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
+- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
+
 ### Job 31:4
 - priority: `0`
 - importance: `none`
@@ -6231,15 +6240,6 @@ Method:
 - fresh: And all the men of the tower of Shechem heard, and they entered into the stronghold of the house of Baal-covenant.
 - mt: And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith.
 - brenton: And all the men of the tower of Sychem heard, and came to the gathering of Bæthel-berith.
-
-### 2 Kings 25:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.782`
-- fresh_brenton_ratio: `0.674`
-- fresh: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
-- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
-- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
 
 ### Exodus 29:6
 - priority: `0`
@@ -9392,6 +9392,15 @@ Method:
 - fresh: And there is abundance of water in heaven, and he brought up clouds from the end of the earth, made lightning for rain, and brought out light from his treasuries.
 - mt: When he utters his voice, there is a multitude of waters in the heavens, and he causes the vapours to ascend from the ends of the earth; he makes lightnings with rain, and brings forth the wind out of his treasures.
 - brenton: and set abundance of waters in the sky, and brought up clouds from the ends of the earth; he made lightnings for the rain, and brought forth light out of his treasures.
+
+### Joel 2:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.012`
+- fresh_brenton_ratio: `0.017`
+- fresh: At the base of the altar, the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
+- mt: Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare your people, O LORD, and give not yours heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
+- brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
 
 ### 1 Samuel 31:4
 - priority: `0`
@@ -14460,15 +14469,6 @@ Method:
 - mt: And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam stroke the ass, to turn her into the way.
 - brenton: And when the ass saw the angel of God standing opposite in the way, and his sword drawn in his hand, then the ass turned aside out of the way, and went into the field; and Balaam smote the ass with his staff to direct her in the way.
 
-### Joel 2:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.052`
-- fresh_brenton_ratio: `0.062`
-- fresh: Between the base of the altar the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
-- mt: Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare your people, O LORD, and give not yours heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?
-- brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
-
 ### 2 Samuel 8:2
 - priority: `0`
 - importance: `none`
@@ -15567,15 +15567,6 @@ Method:
 - mt: And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spoke the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.
 - brenton: And it came to pass when he saw the ear-rings and the bracelets on the hands of his sister, and when he heard the words of Rebecca his sister, saying, Thus the man spoke to me, that he went to the man, as he stood by the camels at the well.
 
-### 2 Chronicles 8:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.061`
-- fresh_brenton_ratio: `0.146`
-- fresh: And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to the matter of day in its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
-- mt: And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
-- brenton: And he established, according to the order of his father David, the courses of the priests, and that according to their public ministrations: and the Levites were appointed over their charges, to praise and minister before the priests according to the daily order: and the porters were appointed according to their courses to the different gates: for thus were the commandments of David the man of God.
-
 ### Leviticus 7:34
 - priority: `0`
 - importance: `none`
@@ -15647,6 +15638,15 @@ Method:
 - fresh: And what was made for one day was one calf, and six choice sheep, and a goat were made for me, and every ten days wine in abundance for all. Yet with these I did not seek bread of exaction, because service was heavy upon this people.
 - mt: Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.
 - brenton: And there came to me for one day one calf, and I had six choice sheep and a goat; and every ten days wine in abundance of all sorts: yet with these I required not the bread of extortion, because the bondage was heavy upon this people.
+
+### 2 Chronicles 8:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.062`
+- fresh_brenton_ratio: `0.147`
+- fresh: And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to each day's matter on its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
+- mt: And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
+- brenton: And he established, according to the order of his father David, the courses of the priests, and that according to their public ministrations: and the Levites were appointed over their charges, to praise and minister before the priests according to the daily order: and the porters were appointed according to their courses to the different gates: for thus were the commandments of David the man of God.
 
 ### Jeremiah 31:12
 - priority: `0`
@@ -21156,15 +21156,6 @@ Method:
 - mt: How say all of you, We are mighty and strong men for the war?
 - brenton: that they returned to Joanan.
 
-### 1 Kings 8:59
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.116`
-- fresh_brenton_ratio: `0.817`
-- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
-- mt: And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
-- brenton: And let these words, which I have prayed before the Lord our God, be near to the Lord our God day and night, to maintain the cause of thy servant, and the cause of thy people Israel for ever.
-
 ### Exodus 36:6
 - priority: `0`
 - importance: `none`
@@ -21299,6 +21290,15 @@ Method:
 - fresh: who did not deal deceitfully with his tongue, nor do evil to his neighbor, and did not take reproach against those near him.
 - mt: They are all gone aside, they are all together become filthy: there is none that does good, no, not one.
 - brenton: Who has not spoken craftily with his tongue, neither has done evil to his neighbour, nor taken up a reproach against them that dwelt nearest to him.
+
+### 1 Kings 8:59
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.118`
+- fresh_brenton_ratio: `0.830`
+- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, each day's matter on its day,
+- mt: And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
+- brenton: And let these words, which I have prayed before the Lord our God, be near to the Lord our God day and night, to maintain the cause of thy servant, and the cause of thy people Israel for ever.
 
 ### 1 Samuel 13:14
 - priority: `0`
@@ -30984,6 +30984,15 @@ Method:
 - mt: And I will pour out mine indignation upon you, I will blow against you in the fire of my wrath, and deliver you into the hand of brutish men, and skilful to destroy.
 - brenton: Thou hast taken off the mitre and put on the crown, it shall not have such another after it: thou hast abased that which was high, and exalted that which was low.
 
+### Genesis 34:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.218`
+- fresh_brenton_ratio: `0.506`
+- fresh: And Jacob's sons came from the plain. And when they heard, the men were cut to the heart, and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
+- mt: And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very angry, because he had wrought folly in Israel in lying with Jacob's daughter: which thing ought not to be done.
+- brenton: And the sons of Jacob came from the plain; and when they heard, the men were deeply pained, and it was very grievous to them, because the man wrought folly in Israel, having lain with the daughter of Jacob, and so it must not be.
+
 ### Nahum 2:3
 - priority: `0`
 - importance: `none`
@@ -31640,15 +31649,6 @@ Method:
 - fresh: And the cows went straight on the road, on the road to Beth-shemesh, in one path they went, and they toiled and did not turn aside right or left, and the satraps of the foreigners went after it until the borders of Beth-shemesh.
 - mt: And the cattle took the straight way to the way of Bethshemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Bethshemesh.
 - brenton: And the cows went straight on the way to the way of Bæthsamys, they went along one track; and laboured, and turned not aside to the right hand or to the left, and the lords of the Philistines went after it as far as the coasts of Bæthsamys.
-
-### Genesis 34:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.223`
-- fresh_brenton_ratio: `0.530`
-- fresh: And Jacob's sons came from the plain. And when they heard, the men were pierced and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
-- mt: And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very angry, because he had wrought folly in Israel in lying with Jacob's daughter: which thing ought not to be done.
-- brenton: And the sons of Jacob came from the plain; and when they heard, the men were deeply pained, and it was very grievous to them, because the man wrought folly in Israel, having lain with the daughter of Jacob, and so it must not be.
 
 ### Psalms 15:4
 - priority: `0`
@@ -41487,6 +41487,15 @@ Method:
 - mt: And the five pillars of it with their hooks: and he overlaid their capitals and their fillets with gold: but their five sockets were of brass.
 - brenton: And they put it on the border of blue, so that it should be on the mitre above, as the Lord commanded Moses.
 
+### 1 Kings 20:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.283`
+- fresh_brenton_ratio: `0.829`
+- fresh: Have you seen how Ahab was cut to the heart before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
+- mt: And they pitched one opposite to the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
+- brenton: Hast thou seen how Achaab has been pricked to the heart before me? I will not bring on the evil in his days, but in his son's days will I bring on the evil.
+
 ### Nehemiah 9:24
 - priority: `0`
 - importance: `none`
@@ -43304,15 +43313,6 @@ Method:
 - fresh: And they opened wide their mouth upon me; they said, Good, good, our eyes saw.
 - mt: Evil shall slay the wicked: and they that hate the righteous shall be desolate.
 - brenton: And they opened wide their mouth upon me; they said, Aha, aha, our eyes have seen it.
-
-### 1 Kings 20:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.293`
-- fresh_brenton_ratio: `0.831`
-- fresh: Have you seen how Ahab was pierced to the heart from before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
-- mt: And they pitched one opposite to the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
-- brenton: Hast thou seen how Achaab has been pricked to the heart before me? I will not bring on the evil in his days, but in his son's days will I bring on the evil.
 
 ### Psalms 17:13
 - priority: `0`
@@ -50388,15 +50388,6 @@ Method:
 - mt: And the contrary is in you from other women in your whoredoms, whereas none follows you to commit whoredoms: and in that you give a reward, and no reward is given unto you, therefore you are contrary.
 - brenton: And there has happened in thee perverseness in thy fornication beyond other women, and they have committed fornication with thee, in that thou givest hires over and above, and hires were not given to thee; and thus perverseness happened in thee.
 
-### 1 Kings 20:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.331`
-- fresh_brenton_ratio: `0.180`
-- fresh: And because of the word, as Ahab was pierced to the heart from before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
-- mt: And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.
-- brenton: And because of the word, Achaab was pierced with sorrow before the Lord, and he both went weeping, and rent his garment, and girt sackcloth upon his body, and fasted; he put on sackcloth also in the day that he smote Nabuthai the Jezraelite, and went his way.
-
 ### 2 Chronicles 2:16
 - priority: `0`
 - importance: `none`
@@ -52601,6 +52592,15 @@ Method:
 - fresh: And on the first day you shall take splendid fruit of trees and branches of palms and boughs of leafy tree and willows and branches of chaste tree from the torrent, to rejoice before the Lord your God seven days.
 - mt: And all of you shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and all of you shall rejoice before the LORD your God seven days.
 - brenton: And on the first day ye shall take goodly fruit of trees, and branches of palm trees, and thick boughs of trees, and willows, and branches of osiers from the brook, to rejoice before the Lord your God seven days in the year.
+
+### 1 Kings 20:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.343`
+- fresh_brenton_ratio: `0.571`
+- fresh: And because of the word, as Ahab was cut to the heart before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
+- mt: And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.
+- brenton: And because of the word, Achaab was pierced with sorrow before the Lord, and he both went weeping, and rent his garment, and girt sackcloth upon his body, and fasted; he put on sackcloth also in the day that he smote Nabuthai the Jezraelite, and went his way.
 
 ### Psalms 107:8
 - priority: `0`
@@ -82068,6 +82068,15 @@ Method:
 - mt: Therefore I will be unto them as a lion: as a leopard by the way will I observe them:
 - brenton: And I will be to them as a panther, and as a leopard.
 
+### Job 19:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.541`
+- fresh_brenton_ratio: `0.704`
+- fresh: For I know that eternal is the one who is about to free me upon earth.
+- mt: For I know that my redeemer lives, and that he shall stand at the latter day upon the earth:
+- brenton: For I know that he is eternal who is about to deliver me,
+
 ### Joshua 6:17
 - priority: `0`
 - importance: `none`
@@ -85506,15 +85515,6 @@ Method:
 - mt: O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 - brenton: From the time the hills existed Israel has sinned: there they stood: war waged against the children of iniquity
 
-### 1 Samuel 2:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.558`
-- fresh_brenton_ratio: `0.669`
-- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one many in children became weak.
-- mt: They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren has born seven; and she that has many children is waxed feeble.
-- brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
-
 ### Joshua 19:24
 - priority: `0`
 - importance: `none`
@@ -87360,15 +87360,6 @@ Method:
 - mt: For the waters of Nimrim shall be desolate: for the hay is withered away, the grass fails, there is no green thing.
 - brenton: The water of Nemerim shall be desolate, and the grass thereof shall fail: for there shall be no green grass.
 
-### Job 19:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.566`
-- fresh_brenton_ratio: `0.678`
-- fresh: For I know that eternal is the one about to free me upon earth.
-- mt: For I know that my redeemer lives, and that he shall stand at the latter day upon the earth:
-- brenton: For I know that he is eternal who is about to deliver me,
-
 ### Ezekiel 33:32
 - priority: `0`
 - importance: `none`
@@ -87809,6 +87800,15 @@ Method:
 - fresh: And I brought out blind people, and eyes exist yet equally blind, and deaf having ears.
 - mt: Bring forth the blind people that have eyes, and the deaf that have ears.
 - brenton: and I have brought forth the blind people; for their eyes are alike blind, and they that have ears are deaf.
+
+### 1 Samuel 2:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.568`
+- fresh_brenton_ratio: `0.658`
+- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
+- mt: They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren has born seven; and she that has many children is waxed feeble.
+- brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
 
 ### Leviticus 18:6
 - priority: `0`
@@ -92327,6 +92327,15 @@ Method:
 - fresh: And they will gird on sackcloth, and stupor will cover them, and upon every face shame, and upon every head baldness.
 - mt: They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads.
 - brenton: And they shall gird themselves with sackcloth, and amazement shall cover them; and shame shall be upon them, even upon every face, and baldness upon every head.
+
+### Isaiah 59:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.588`
+- fresh_brenton_ratio: `0.647`
+- fresh: They hatch eggs of asps and weave spider's web, and the one who is about to eat their eggs, breaking one, finds a viper in it.
+- mt: They hatch cockatrice' eggs, and weave the spider's web: he that eats of their eggs dies, and that which is crushed breaks out into a viper.
+- brenton: They have hatched asps' eggs, and weave a spider's web: and he that is going to eat of their eggs, having crushed an addled egg, has found also in it a basilisk.
 
 ### Hosea 5:12
 - priority: `0`
@@ -97241,15 +97250,6 @@ Method:
 - fresh: Throw your lot in among us; let us all get common purse, and let one pouch be among us."
 - mt: Cast in your lot among us; let us all have one purse:
 - brenton: but do thou cast in thy lot with us, and let us all provide a common purse, and let us have one pouch:
-
-### Isaiah 59:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.607`
-- fresh_brenton_ratio: `0.636`
-- fresh: They hatch eggs of asps and weave spider's web, and one about to eat their eggs, breaking one, finds a viper in it.
-- mt: They hatch cockatrice' eggs, and weave the spider's web: he that eats of their eggs dies, and that which is crushed breaks out into a viper.
-- brenton: They have hatched asps' eggs, and weave a spider's web: and he that is going to eat of their eggs, having crushed an addled egg, has found also in it a basilisk.
 
 ### Micah 1:8
 - priority: `0`
@@ -112893,6 +112893,15 @@ Method:
 - mt: Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD has avenged him of his enemies.
 - brenton: And Achimaas the son of Sadoc said, Let me run now and carry glad tidings to the king, for the Lord has delivered him from the hand of his enemies.
 
+### Genesis 27:38
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.657`
+- fresh_brenton_ratio: `0.767`
+- fresh: But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And when Isaac was cut to the heart, Esau cried aloud and wept.
+- mt: And Esau said unto his father, Have you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
+- brenton: And Esau said to his father, Hast thou only one blessing, father? Bless, I pray thee, me also, father. And Isaac being troubled, Esau cried aloud and wept.
+
 ### 2 Samuel 8:11
 - priority: `0`
 - importance: `none`
@@ -120930,15 +120939,6 @@ Method:
 - mt: For who is God, save the LORD? and who is a rock, save our God?
 - brenton: Who is strong, but the Lord? and who will be a Creator except our God?
 
-### Genesis 27:38
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.787`
-- fresh: But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And Isaac was pierced, and Esau cried aloud and wept.
-- mt: And Esau said unto his father, Have you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
-- brenton: And Esau said to his father, Hast thou only one blessing, father? Bless, I pray thee, me also, father. And Isaac being troubled, Esau cried aloud and wept.
-
 ### Job 10:19
 - priority: `0`
 - importance: `none`
@@ -124277,6 +124277,15 @@ Method:
 - fresh: And they shall not go in to look suddenly upon the holy things and die.
 - mt: But they shall not go in to see when the holy things are covered, lest they die.
 - brenton: And so they shall by no means go in to look suddenly upon the holy things, and die.
+
+### Leviticus 10:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.690`
+- fresh_brenton_ratio: `0.331`
+- fresh: And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was cut to the heart.
+- mt: Then Moses said unto Aaron, This is it that the LORD spoke, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
+- brenton: And Moses said to Aaron, This is the thing which the Lord spoke, saying, I will be sanctified among them that draw nigh to me, and I will be glorified in the whole congregation; and Aaron was pricked in his heart.
 
 ### Job 12:8
 - priority: `0`
@@ -135608,15 +135617,6 @@ Method:
 - fresh: Instead of bronze I will bring you gold, and instead of iron I will bring you silver, and instead of wood bronze, and instead of stones iron. And I will give your rulers in peace and your overseers in righteousness.
 - mt: For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make your officers peace, and yours exactors righteousness.
 - brenton: And for brass I will bring thee gold, and for iron I will bring thee silver, and instead of wood I will bring thee brass, and instead of stones, iron; and I will make thy princes peaceable, and thine overseers righteous.
-
-### Leviticus 10:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.718`
-- fresh_brenton_ratio: `0.421`
-- fresh: And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was pierced.
-- mt: Then Moses said unto Aaron, This is it that the LORD spoke, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
-- brenton: And Moses said to Aaron, This is the thing which the Lord spoke, saying, I will be sanctified among them that draw nigh to me, and I will be glorified in the whole congregation; and Aaron was pricked in his heart.
 
 ### 1 Samuel 16:9
 - priority: `0`
@@ -161052,15 +161052,6 @@ Method:
 - mt: Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto you? And Hezekiah said, They are come from a far country unto me, even from Babylon.
 - brenton: And Esaias the prophet came to king Ezekias, and said to him, What say these men? and whence came they to thee? and Ezekias said, They are come to me from a land afar off, from Babylon.
 
-### 2 Kings 25:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.782`
-- fresh_brenton_ratio: `0.674`
-- fresh: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
-- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
-- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
-
 ### Exodus 21:7
 - priority: `0`
 - importance: `none`
@@ -170105,6 +170096,15 @@ Method:
 - fresh: And Abimelech said to him, What is this you did to us? One of my people might almost have slept with your wife, and you would have brought guilt on us in ignorance.
 - mt: And Abimelech said, What is this you have done unto us? one of the people might lightly have lien with your wife, and you should have brought guiltiness upon us.
 - brenton: And Abimelech said to him, Why hast thou done this to us? one of my kindred within a little had lain with thy wife, and thou wouldest have brought a sin of ignorance upon us.
+
+### 2 Kings 25:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.808`
+- fresh_brenton_ratio: `0.698`
+- fresh: And his allowance, a continual allowance, was given to him from the king's house, a day's portion on its day, all the days of his life.
+- mt: And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
+- brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
 
 ### Numbers 3:3
 - priority: `0`

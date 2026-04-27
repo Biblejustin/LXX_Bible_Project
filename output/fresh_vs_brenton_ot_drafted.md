@@ -6913,7 +6913,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And Isaac was pierced, and Esau cried aloud and wept.
+- fresh: But Esau said to his father, Do you have only one blessing, father? Bless me too, father. And when Isaac was cut to the heart, Esau cried aloud and wept.
 - brenton: And Esau said to his father, Hast thou only one blessing, father? Bless, I pray thee, me also, father. And Isaac being troubled, Esau cried aloud and wept.
 
 ### Genesis 27:39
@@ -8902,7 +8902,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jacob's sons came from the plain. And when they heard, the men were pierced and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
+- fresh: And Jacob's sons came from the plain. And when they heard, the men were cut to the heart, and it was very grievous to them, because he had done a shameful thing in Israel by lying with Jacob's daughter, and so it will not be.
 - brenton: And the sons of Jacob came from the plain; and when they heard, the men were deeply pained, and it was very grievous to them, because the man wrought folly in Israel, having lain with the daughter of Jacob, and so it must not be.
 
 ### Genesis 34:8
@@ -26384,7 +26384,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was pierced.
+- fresh: And Moses said to Aaron, This is what the Lord said, saying, Among those drawing near to me I will be sanctified, and before all the congregation I will be glorified. And Aaron was cut to the heart.
 - brenton: And Moses said to Aaron, This is the thing which the Lord spoke, saying, I will be sanctified among them that draw nigh to me, and I will be glorified in the whole congregation; and Aaron was pricked in his heart.
 
 ### Leviticus 10:4
@@ -64637,7 +64637,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one many in children became weak.
+- fresh: Those full of breads were made less, and the hungry left the land, because the barren one bore seven, and the one with many children became weak.
 - brenton: They that were full of bread are brought low; and the hungry have forsaken the land; for the barren has born seven, and she that abounded in children has waxed feeble.
 
 ### 1 Samuel 2:6
@@ -80337,7 +80337,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, the matter of each day in its day,
+- fresh: And let these words, which I have entreated before the Lord our God, be near to the Lord our God day and night, to do the justice of your servant and the justice of his people Israel, each day's matter on its day,
 - brenton: And let these words, which I have prayed before the Lord our God, be near to the Lord our God day and night, to maintain the cause of thy servant, and the cause of thy people Israel for ever.
 
 ### 1 Kings 8:60
@@ -83496,7 +83496,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And because of the word, as Ahab was pierced to the heart from before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
+- fresh: And because of the word, as Ahab was cut to the heart before the Lord and went weeping, he tore his tunic and girded sackcloth upon his body and fasted and put on sackcloth on the day when he struck Naboth the Jezreelite.
 - brenton: And because of the word, Achaab was pierced with sorrow before the Lord, and he both went weeping, and rent his garment, and girt sackcloth upon his body, and fasted; he put on sackcloth also in the day that he smote Nabuthai the Jezraelite, and went his way.
 
 ### 1 Kings 20:28
@@ -83514,7 +83514,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Have you seen how Ahab was pierced to the heart from before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
+- fresh: Have you seen how Ahab was cut to the heart before me? I will not bring the evil in his days, but in the days of his son I will bring the evil.
 - brenton: Hast thou seen how Achaab has been pricked to the heart before me? I will not bring on the evil in his days, but in his son's days will I bring on the evil.
 
 ### 1 Kings 21:1
@@ -90824,7 +90824,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his allowance, a continual allowance, was given to him from the king's house, a matter of a day in its day, all the days of his life.
+- fresh: And his allowance, a continual allowance, was given to him from the king's house, a day's portion on its day, all the days of his life.
 - brenton: And his portion, a continual portion, was given him out of the house of the king, a daily rate for every day all the days of his life.
 
 ## 1 Chronicles
@@ -100692,7 +100692,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to the matter of day in its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
+- fresh: And he established according to the ordinance of David divisions of priests according to their services, and Levites in their charges to praise and minister before priests according to each day's matter on its day, and gatekeepers in their divisions for gate and gate, because thus were commandments of David man of God.
 - brenton: And he established, according to the order of his father David, the courses of the priests, and that according to their public ministrations: and the Levites were appointed over their charges, to praise and minister before the priests according to the daily order: and the porters were appointed according to their courses to the different gates: for thus were the commandments of David the man of God.
 
 ### 2 Chronicles 8:15
@@ -118196,7 +118196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For I know that eternal is the one about to free me upon earth.
+- fresh: For I know that eternal is the one who is about to free me upon earth.
 - brenton: For I know that he is eternal who is about to deliver me,
 
 ### Job 19:26
@@ -167895,7 +167895,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They hatch eggs of asps and weave spider's web, and one about to eat their eggs, breaking one, finds a viper in it.
+- fresh: They hatch eggs of asps and weave spider's web, and the one who is about to eat their eggs, breaking one, finds a viper in it.
 - brenton: They have hatched asps' eggs, and weave a spider's web: and he that is going to eat of their eggs, having crushed an addled egg, has found also in it a basilisk.
 
 ### Isaiah 59:6
@@ -198912,7 +198912,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Between the base of the altar the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
+- fresh: At the base of the altar, the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
 - brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
 
 ### Joel 2:18
