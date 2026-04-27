@@ -5609,6 +5609,51 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the earth kept her children" in by_ref["Isaiah 34:15"][
         "draft_translation"
     ]
+    assert "let the wilderness exult and bloom as a lily" in by_ref[
+        "Isaiah 35:1"
+    ]["draft_translation"]
+    assert "the deserts of the Jordan" in by_ref["Isaiah 35:2"][
+        "draft_translation"
+    ]
+    assert "the height of God" in by_ref["Isaiah 35:2"]["draft_translation"]
+    assert "Strengthen the loosened hands" in by_ref["Isaiah 35:3"][
+        "draft_translation"
+    ]
+    assert "the ears of the deaf" in by_ref["Isaiah 35:5"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 35:6"]["draft_translation"].startswith(
+        "Then the lame one"
+    )
+    assert "the tongue of stammerers" in by_ref["Isaiah 35:6"][
+        "draft_translation"
+    ]
+    assert "a ravine in a thirsty land" in by_ref["Isaiah 35:6"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 35:7"]["draft_translation"].startswith(
+        "And the dry place"
+    )
+    assert "in the thirsty land" in by_ref["Isaiah 35:7"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 35:8"]["draft_translation"].startswith(
+        "There will be a pure way"
+    )
+    assert "called a holy way" in by_ref["Isaiah 35:8"]["draft_translation"]
+    assert "an unclean one" in by_ref["Isaiah 35:8"]["draft_translation"]
+    assert "the scattered ones" in by_ref["Isaiah 35:8"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 35:9"]["draft_translation"].startswith(
+        "And a lion"
+    )
+    assert "any of the evil beasts" in by_ref["Isaiah 35:9"][
+        "draft_translation"
+    ]
+    assert "eternal gladness will be over their heads" in by_ref[
+        "Isaiah 35:10"
+    ]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

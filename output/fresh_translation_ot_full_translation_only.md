@@ -74134,15 +74134,15 @@ And he himself will cast lots to them, and his hand divided to them to graze for
 
 **Isaiah 35:1**
 
-Rejoice, thirsty wilderness; let wilderness exult and bloom as lily.
+Rejoice, thirsty wilderness; let the wilderness exult and bloom as a lily.
 
 **Isaiah 35:2**
 
-And deserts of Jordan will blossom and exult, and glory of Lebanon was given to it, and honor of Carmel, and my people will see the glory of the Lord and height of God.
+And the deserts of the Jordan will blossom and exult, and the glory of Lebanon was given to it, and the honor of Carmel, and my people will see the glory of the Lord and the height of God.
 
 **Isaiah 35:3**
 
-Strengthen loosened hands and disabled knees.
+Strengthen the loosened hands and disabled knees.
 
 **Isaiah 35:4**
 
@@ -74150,27 +74150,27 @@ Comfort the faint-hearted in mind; be strong, do not fear. Behold, our God repay
 
 **Isaiah 35:5**
 
-Then the eyes of the blind will be opened and ears of the deaf will hear.
+Then the eyes of the blind will be opened and the ears of the deaf will hear.
 
 **Isaiah 35:6**
 
-Then lame one will leap as a deer and tongue of stammerers will be clear, because water burst in the wilderness and ravine in thirsty land.
+Then the lame one will leap as a deer and the tongue of stammerers will be clear, because water burst in the wilderness and a ravine in a thirsty land.
 
 **Isaiah 35:7**
 
-And dry place will be marshes, and in thirsty land there will be a spring of water. There will be the joy of birds, a camp of reed and marsh.
+And the dry place will be marshes, and in the thirsty land there will be a spring of water. There will be the joy of birds, a camp of reed and marsh.
 
 **Isaiah 35:8**
 
-There will be pure way, and it will be called holy way, and unclean one certainly will not pass there, nor will there be unclean way there; but scattered ones will walk on it and certainly will not wander.
+There will be a pure way, and it will be called a holy way, and an unclean one certainly will not pass there, nor will there be an unclean way there; but the scattered ones will walk on it and certainly will not wander.
 
 **Isaiah 35:9**
 
-And lion will not be there, nor any evil beasts come up upon it, nor certainly be found there, but redeemed ones will walk in it.
+And a lion will not be there, nor will any of the evil beasts come up upon it, nor certainly be found there, but redeemed ones will walk in it.
 
 **Isaiah 35:10**
 
-And those gathered for the Lord will return and come into Zion with gladness, and eternal gladness over their heads, for praise and exultation and gladness will seize them; pain and grief and groaning fled.
+And those gathered for the Lord will return and come into Zion with gladness, and eternal gladness will be over their heads, for praise and exultation and gladness will seize them; pain and grief and groaning fled.
 
 ### Chapter 36
 

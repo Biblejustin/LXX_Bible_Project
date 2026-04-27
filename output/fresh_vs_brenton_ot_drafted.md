@@ -163545,28 +163545,28 @@ Note:
 ### Isaiah 35:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rejoice, thirsty wilderness; let wilderness exult and bloom as lily.
+- fresh: Rejoice, thirsty wilderness; let the wilderness exult and bloom as a lily.
 - brenton: Be glad, thou thirsty desert: let the wilderness exult, and flower as the lily.
 
 ### Isaiah 35:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And deserts of Jordan will blossom and exult, and glory of Lebanon was given to it, and honor of Carmel, and my people will see the glory of the Lord and height of God.
+- fresh: And the deserts of the Jordan will blossom and exult, and the glory of Lebanon was given to it, and the honor of Carmel, and my people will see the glory of the Lord and the height of God.
 - brenton: And the desert places of Jordan shall blossom and rejoice; the glory of Libanus has been given to it, and the honour of Carmel; and my people shall see the glory of the Lord, and the majesty of God.
 
 ### Isaiah 35:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Strengthen loosened hands and disabled knees.
+- fresh: Strengthen the loosened hands and disabled knees.
 - brenton: Be strong, ye relaxed hands and palsied knees.
 
 ### Isaiah 35:4
@@ -163581,55 +163581,55 @@ Note:
 ### Isaiah 35:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then the eyes of the blind will be opened and ears of the deaf will hear.
+- fresh: Then the eyes of the blind will be opened and the ears of the deaf will hear.
 - brenton: Then shall the eyes of the blind be opened, and the ears of the deaf shall hear.
 
 ### Isaiah 35:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then lame one will leap as a deer and tongue of stammerers will be clear, because water burst in the wilderness and ravine in thirsty land.
+- fresh: Then the lame one will leap as a deer and the tongue of stammerers will be clear, because water burst in the wilderness and a ravine in a thirsty land.
 - brenton: Then shall the lame man leap as an hart, and the tongue of the stammerers shall speak plainly; for water has burst forth in the desert, and a channel of water in a thirsty land.
 
 ### Isaiah 35:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And dry place will be marshes, and in thirsty land there will be a spring of water. There will be the joy of birds, a camp of reed and marsh.
+- fresh: And the dry place will be marshes, and in the thirsty land there will be a spring of water. There will be the joy of birds, a camp of reed and marsh.
 - brenton: And the dry land shall become pools, and a fountain of water shall be poured into the thirsty land; there shall there be a joy of birds, ready habitations and marshes.
 
 ### Isaiah 35:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There will be pure way, and it will be called holy way, and unclean one certainly will not pass there, nor will there be unclean way there; but scattered ones will walk on it and certainly will not wander.
+- fresh: There will be a pure way, and it will be called a holy way, and an unclean one certainly will not pass there, nor will there be an unclean way there; but the scattered ones will walk on it and certainly will not wander.
 - brenton: There shall be there a pure way, and it shall be called a holy way; and there shall not pass by there any unclean person, neither shall there be there an unclean way; but the dispersed shall walk on it, and they shall not go astray.
 
 ### Isaiah 35:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And lion will not be there, nor any evil beasts come up upon it, nor certainly be found there, but redeemed ones will walk in it.
+- fresh: And a lion will not be there, nor will any of the evil beasts come up upon it, nor certainly be found there, but redeemed ones will walk in it.
 - brenton: And there shall be no lion there, neither shall any evil beast go up upon it, nor at all be found there; but the redeemed and gathered on the Lord's behalf, shall walk in it,
 
 ### Isaiah 35:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those gathered for the Lord will return and come into Zion with gladness, and eternal gladness over their heads, for praise and exultation and gladness will seize them; pain and grief and groaning fled.
+- fresh: And those gathered for the Lord will return and come into Zion with gladness, and eternal gladness will be over their heads, for praise and exultation and gladness will seize them; pain and grief and groaning fled.
 - brenton: and shall return, and come to Sion with joy, and everlasting joy shall be over their head; for on their head shall be praise and exultation, and joy shall take possession of them: sorrow and pain, and groaning have fled away.
 
 ### Isaiah 36:1
