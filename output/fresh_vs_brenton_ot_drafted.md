@@ -155684,19 +155684,19 @@ Note:
 ### Ecclesiastes 7:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Good that you take hold in this, and from that do not let your hand rest, because one fearing God will come out with all these.
+- fresh: It is good that you take hold in this, and from that do not let your hand rest, because the one fearing God will come out with all these.
 - brenton: It is well for thee to hold fast by this; also by this defile not thine hand: for to them that fear God all things shall come forth well.
 
 ### Ecclesiastes 7:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Wisdom will help the wise above ten rulers who are in the city.
+- fresh: Wisdom will help the wise man above ten rulers who are in the city.
 - brenton: Wisdom will help the wise man more than ten mighty men which are in the city.
 
 ### Ecclesiastes 7:20
@@ -155711,10 +155711,10 @@ Note:
 ### Ecclesiastes 7:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed to all words they may speak, do not set your heart, so that you may not hear your servant cursing you.
+- fresh: And indeed to all the words they may speak, do not set your heart, so that you may not hear your servant cursing you.
 - brenton: Also take no heed to all the words which ungodly men shall speak; lest thou hear thy servant cursing thee.
 
 ### Ecclesiastes 7:22
@@ -155747,37 +155747,37 @@ Note:
 ### Ecclesiastes 7:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know ungodly folly and hardness and madness.
+- fresh: I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know the folly of an ungodly one and hardness and madness.
 - brenton: I and my heart went round about to know, and to examine, and to seek wisdom, and the account of things, and to know the folly and trouble and madness of the ungodly man.
 
 ### Ecclesiastes 7:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I find more bitter than death the woman whose heart is hunting nets and seines, her hands bonds; good one before the face of God will be rescued from her, and sinner will be caught in her.
+- fresh: And I find more bitter than death the woman whose heart is hunting nets and seines, and her hands are bonds; the good one before the face of God will be rescued from her, and the sinner will be caught in her.
 - brenton: And I find her to be, and I will pronounce to be more bitter than death the woman which is a snare, and her heart nets, who has a band in her hands: he that is good in the sight of God shall be delivered from her; but the sinner shall be caught by her.
 
 ### Ecclesiastes 7:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, this I found, said Ecclesiastes, one by one to find reckoning.
+- fresh: Look, this I found, said the Ecclesiastes, one by one to find a reckoning.
 - brenton: Behold, this have I found, said the Preacher, seeking by one at a time to find out the account,
 
 ### Ecclesiastes 7:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Which my soul still sought and I did not find: one man among thousand I found, but woman among all these I did not find.
+- fresh: Which my soul still sought and I did not find: one man among a thousand I found, but a woman among all these I did not find.
 - brenton: which my soul sought after, but I found not: for I have found one man of a thousand; but a woman in all these I have not found.
 
 ### Ecclesiastes 7:29

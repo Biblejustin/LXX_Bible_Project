@@ -70542,11 +70542,11 @@ Do not be very ungodly, and do not become hard, lest you die not in your time.
 
 **Ecclesiastes 7:18**
 
-Good that you take hold in this, and from that do not let your hand rest, because one fearing God will come out with all these.
+It is good that you take hold in this, and from that do not let your hand rest, because the one fearing God will come out with all these.
 
 **Ecclesiastes 7:19**
 
-Wisdom will help the wise above ten rulers who are in the city.
+Wisdom will help the wise man above ten rulers who are in the city.
 
 **Ecclesiastes 7:20**
 
@@ -70554,7 +70554,7 @@ Because there is not a righteous man on earth who will do good and not sin.
 
 **Ecclesiastes 7:21**
 
-And indeed to all words they may speak, do not set your heart, so that you may not hear your servant cursing you.
+And indeed to all the words they may speak, do not set your heart, so that you may not hear your servant cursing you.
 
 **Ecclesiastes 7:22**
 
@@ -70570,19 +70570,19 @@ and it was far from me, far beyond what it was, and deep, deep; who will find it
 
 **Ecclesiastes 7:25**
 
-I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know ungodly folly and hardness and madness.
+I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know the folly of an ungodly one and hardness and madness.
 
 **Ecclesiastes 7:26**
 
-And I find more bitter than death the woman whose heart is hunting nets and seines, her hands bonds; good one before the face of God will be rescued from her, and sinner will be caught in her.
+And I find more bitter than death the woman whose heart is hunting nets and seines, and her hands are bonds; the good one before the face of God will be rescued from her, and the sinner will be caught in her.
 
 **Ecclesiastes 7:27**
 
-Look, this I found, said Ecclesiastes, one by one to find reckoning.
+Look, this I found, said the Ecclesiastes, one by one to find a reckoning.
 
 **Ecclesiastes 7:28**
 
-Which my soul still sought and I did not find: one man among thousand I found, but woman among all these I did not find.
+Which my soul still sought and I did not find: one man among a thousand I found, but a woman among all these I did not find.
 
 **Ecclesiastes 7:29**
 

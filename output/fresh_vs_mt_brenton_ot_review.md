@@ -85711,15 +85711,6 @@ Method:
 - mt: And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about.
 - brenton: And Moses gave to them, even to the sons of Gad and the sons of Ruben, and to the half tribe of Manasse of the sons of Joseph, the kingdom of Seon king of the Amorites, and the kingdom of Og king of Basan, the land and its cities with its coasts, the cities of the land round about.
 
-### Ecclesiastes 7:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.560`
-- fresh_brenton_ratio: `0.594`
-- fresh: Look, this I found, said Ecclesiastes, one by one to find reckoning.
-- mt: Behold, this have I found, says the preacher, counting one by one, to find out the account:
-- brenton: Behold, this have I found, said the Preacher, seeking by one at a time to find out the account,
-
 ### Hosea 4:16
 - priority: `0`
 - importance: `none`
@@ -98725,6 +98716,15 @@ Method:
 - mt: Therefore he knows their works, and he overturns them in the night, so that they are destroyed.
 - brenton: Who discovers their works, and will bring night about upon them, and they shall be brought low.
 
+### Ecclesiastes 7:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.613`
+- fresh_brenton_ratio: `0.606`
+- fresh: And indeed to all the words they may speak, do not set your heart, so that you may not hear your servant cursing you.
+- mt: Also take no heed unto all words that are spoken; lest you hear your servant curse you:
+- brenton: Also take no heed to all the words which ungodly men shall speak; lest thou hear thy servant cursing thee.
+
 ### Ezekiel 23:26
 - priority: `0`
 - importance: `none`
@@ -102243,15 +102243,6 @@ Method:
 - fresh: Except to the land of the sons of Ammon we did not come near, all adjoining the torrent Jabbok, and the cities in the hill country, just as the Lord our God commanded us.
 - mt: Only unto the land of the children of Ammon you came not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.
 - brenton: Only we did not draw near to the children of Amman, even all the parts bordering on the brook Jaboc, and the cities in the mountain country, as the Lord our God charged us.
-
-### Ecclesiastes 7:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.626`
-- fresh_brenton_ratio: `0.579`
-- fresh: And indeed to all words they may speak, do not set your heart, so that you may not hear your servant cursing you.
-- mt: Also take no heed unto all words that are spoken; lest you hear your servant curse you:
-- brenton: Also take no heed to all the words which ungodly men shall speak; lest thou hear thy servant cursing thee.
 
 ### Job 27:11
 - priority: `0`
@@ -107292,6 +107283,15 @@ Method:
 - fresh: And you took your sons and your daughters whom you bore and sacrificed them to them for consumption. Was your whoring a small thing?
 - mt: Moreover you have taken your sons and your daughters, whom you have borne unto me, and these have you sacrificed unto them to be devoured. Is this of your whoredoms a small matter,
 - brenton: And thou tookest thy sons and thy daughters, whom thou borest, and didst sacrifice these to them to be destroyed. Thou didst go a-whoring as if that were little,
+
+### Ecclesiastes 7:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.641`
+- fresh_brenton_ratio: `0.621`
+- fresh: Look, this I found, said the Ecclesiastes, one by one to find a reckoning.
+- mt: Behold, this have I found, says the preacher, counting one by one, to find out the account:
+- brenton: Behold, this have I found, said the Preacher, seeking by one at a time to find out the account,
 
 ### Isaiah 40:18
 - priority: `0`
@@ -114088,15 +114088,6 @@ Method:
 - mt: And I will drive you from your station, and from your state shall he pull you down.
 - brenton: And thou shalt be removed from thy stewardship, and from thy place.
 
-### Ecclesiastes 7:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.662`
-- fresh_brenton_ratio: `0.783`
-- fresh: Wisdom will help the wise above ten rulers who are in the city.
-- mt: Wisdom strengthens the wise more than ten mighty men which are in the city.
-- brenton: Wisdom will help the wise man more than ten mighty men which are in the city.
-
 ### Job 12:25
 - priority: `0`
 - importance: `none`
@@ -116374,15 +116365,6 @@ Method:
 - mt: And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 - brenton: And it came to pass in that length of time, that Moses having grown, went out to his brethren the sons of Israel: and having noticed their distress, he sees an Egyptian smiting a certain Hebrew of his brethren the children of Israel.
 
-### Ecclesiastes 7:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.669`
-- fresh_brenton_ratio: `0.434`
-- fresh: Good that you take hold in this, and from that do not let your hand rest, because one fearing God will come out with all these.
-- mt: It is good that you should take hold of this; yea, also from this withdraw not yours hand: for he that fears God shall come out of them all.
-- brenton: It is well for thee to hold fast by this; also by this defile not thine hand: for to them that fear God all things shall come forth well.
-
 ### Ezekiel 46:4
 - priority: `0`
 - importance: `none`
@@ -117291,6 +117273,15 @@ Method:
 - fresh: And in those days I saw the Jews who had seated Ashdodite, Ammonite, and Moabite women.
 - mt: In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:
 - brenton: And in those days I saw the Jews who had married women of Ashdod, of Ammon, and of Moab:
+
+### Ecclesiastes 7:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.671`
+- fresh_brenton_ratio: `0.789`
+- fresh: Wisdom will help the wise man above ten rulers who are in the city.
+- mt: Wisdom strengthens the wise more than ten mighty men which are in the city.
+- brenton: Wisdom will help the wise man more than ten mighty men which are in the city.
 
 ### Zechariah 9:1
 - priority: `0`
@@ -129874,6 +129865,15 @@ Method:
 - mt: Therefore thus says the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.
 - brenton: therefore thus saith the Lord; I will also stretch out my hand upon Idumea, and will utterly destroy out of it man and beast; and will make it desolate; and they that are pursued out of Thæman shall fall by the sword.
 
+### Ecclesiastes 7:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.704`
+- fresh_brenton_ratio: `0.463`
+- fresh: It is good that you take hold in this, and from that do not let your hand rest, because the one fearing God will come out with all these.
+- mt: It is good that you should take hold of this; yea, also from this withdraw not yours hand: for he that fears God shall come out of them all.
+- brenton: It is well for thee to hold fast by this; also by this defile not thine hand: for to them that fear God all things shall come forth well.
+
 ### Judges 2:21
 - priority: `0`
 - importance: `none`
@@ -135904,6 +135904,15 @@ Method:
 - mt: And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and stroke the host; for the host was secure.
 - brenton: And Gedeon went up by the way of them that dwelt in tents, eastward of Nabai and Jegebal; and he smote the host, and the host was secure.
 
+### Ecclesiastes 7:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.719`
+- fresh_brenton_ratio: `0.680`
+- fresh: I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know the folly of an ungodly one and hardness and madness.
+- mt: I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
+- brenton: I and my heart went round about to know, and to examine, and to seek wisdom, and the account of things, and to know the folly and trouble and madness of the ungodly man.
+
 ### 2 Samuel 7:21
 - priority: `0`
 - importance: `none`
@@ -139234,15 +139243,6 @@ Method:
 - mt: Then Tatnai, governor on this side the river, Shetharboznai, and their companions, according to that which Darius the king had sent, so they did speedily.
 - brenton: Then Thanthanai the governor on this side beyond the river, Satharbuzanai, and his fellow-servants, according to that which king Darius sent, so they did diligently.
 
-### Ecclesiastes 7:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.727`
-- fresh_brenton_ratio: `0.692`
-- fresh: I circled, I and my heart, to know and to inspect and to seek wisdom and reckoning, and to know ungodly folly and hardness and madness.
-- mt: I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
-- brenton: I and my heart went round about to know, and to examine, and to seek wisdom, and the account of things, and to know the folly and trouble and madness of the ungodly man.
-
 ### Proverbs 17:25
 - priority: `0`
 - importance: `none`
@@ -142212,15 +142212,6 @@ Method:
 - fresh: If he brings a lamb as his gift, he shall bring it before the Lord.
 - mt: If he offer a lamb for his offering, then shall he offer it before the LORD.
 - brenton: If he bring a lamb for his gift, he shall bring it before the Lord.
-
-### Ecclesiastes 7:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.735`
-- fresh_brenton_ratio: `0.226`
-- fresh: And I find more bitter than death the woman whose heart is hunting nets and seines, her hands bonds; good one before the face of God will be rescued from her, and sinner will be caught in her.
-- mt: And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleases God shall escape from her; but the sinner shall be taken by her.
-- brenton: And I find her to be, and I will pronounce to be more bitter than death the woman which is a snare, and her heart nets, who has a band in her hands: he that is good in the sight of God shall be delivered from her; but the sinner shall be caught by her.
 
 ### Genesis 32:18
 - priority: `0`
@@ -146640,6 +146631,15 @@ Method:
 - fresh: And Saul said, I brought them from Amalek, the things that the people preserved, the strongest of the flock and of the herds, so that they may be sacrificed to the Lord your God, and the rest I destroyed.
 - mt: And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD your God; and the rest we have utterly destroyed.
 - brenton: And Saul said, I have brought them out of Amalec, that which the people preserved, even the best of the sheep, and of the cattle, that it might be sacrificed to the Lord thy God, and the rest have I utterly destroyed.
+
+### Ecclesiastes 7:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.746`
+- fresh_brenton_ratio: `0.218`
+- fresh: And I find more bitter than death the woman whose heart is hunting nets and seines, and her hands are bonds; the good one before the face of God will be rescued from her, and the sinner will be caught in her.
+- mt: And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleases God shall escape from her; but the sinner shall be taken by her.
+- brenton: And I find her to be, and I will pronounce to be more bitter than death the woman which is a snare, and her heart nets, who has a band in her hands: he that is good in the sight of God shall be delivered from her; but the sinner shall be caught by her.
 
 ### Job 29:16
 - priority: `0`
@@ -154471,15 +154471,6 @@ Method:
 - mt: In any case you shall deliver him the pledge again when the sun goes down, that he may sleep in his own raiment, and bless you: and it shall be righteousness unto you before the LORD your God.
 - brenton: Thou shalt surely restore his pledge at sunset, and he shall sleep in his garment, and he shall bless thee; and it shall be mercy to thee before the Lord thy God.
 
-### Ecclesiastes 7:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.765`
-- fresh_brenton_ratio: `0.725`
-- fresh: Which my soul still sought and I did not find: one man among thousand I found, but woman among all these I did not find.
-- mt: Which yet my soul seeks, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
-- brenton: which my soul sought after, but I found not: for I have found one man of a thousand; but a woman in all these I have not found.
-
 ### Judges 9:41
 - priority: `0`
 - importance: `none`
@@ -162084,6 +162075,15 @@ Method:
 - fresh: And it happened so, and Gideon rose early the next day and squeezed the fleece, and the dew ran out of the fleece, a bowl full of water.
 - mt: And it was so: for he rose up early on the next day, and thrust the fleece together, and wrung the dew out of the fleece, a bowl full of water.
 - brenton: And it was so: and he rose up early in the morning, and wrung the fleece, and dew dropped from the fleece, a bowl full of water.
+
+### Ecclesiastes 7:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.785`
+- fresh_brenton_ratio: `0.746`
+- fresh: Which my soul still sought and I did not find: one man among a thousand I found, but a woman among all these I did not find.
+- mt: Which yet my soul seeks, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
+- brenton: which my soul sought after, but I found not: for I have found one man of a thousand; but a woman in all these I have not found.
 
 ### 1 Chronicles 26:1
 - priority: `0`

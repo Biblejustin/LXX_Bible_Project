@@ -4101,7 +4101,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "Whether good or evil, the voice of the Lord"
     )
     assert by_ref["Ecclesiastes 7:19"]["draft_translation"].startswith(
-        "Wisdom will help the wise"
+        "Wisdom will help the wise man"
     )
     assert by_ref["Proverbs 24:7"]["draft_translation"].startswith(
         "Wisdom and good understanding are at"
@@ -5036,6 +5036,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "but the heart of fools" in by_ref["Proverbs 12:23"]["draft_translation"]
     assert by_ref["Ecclesiastes 7:4"]["draft_translation"].startswith("The heart of the wise is")
     assert "and the heart of fools is" in by_ref["Ecclesiastes 7:4"]["draft_translation"]
+    assert "the one fearing God" in by_ref["Ecclesiastes 7:18"]["draft_translation"]
+    assert "the good one before the face of God" in by_ref["Ecclesiastes 7:26"]["draft_translation"]
+    assert "one man among a thousand" in by_ref["Ecclesiastes 7:28"]["draft_translation"]
     assert "the heart of the king will perish and the heart of the rulers" in by_ref[
         "Jeremiah 4:9"
     ]["draft_translation"]
