@@ -60106,6 +60106,15 @@ Method:
 - mt: And Ashan with her suburbs, and Bethshemesh with her suburbs:
 - brenton: And of the tribe of Aser; Maasal and her suburbs, and Abdon and her suburbs,
 
+### Ecclesiastes 10:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.387`
+- fresh_brenton_ratio: `0.690`
+- fresh: Deadly flies rot a compound of perfumed oil; a little wisdom is held precious above great glory of folly.
+- mt: Dead flies cause the ointment of the apothecary to send forth a stinking savour: so does a little folly him that is in reputation for wisdom and honour.
+- brenton: Pestilent flies will corrupt a preparation of sweet ointment: and a little wisdom is more precious than great glory of folly.
+
 ### Habakkuk 1:3
 - priority: `0`
 - importance: `none`
@@ -61275,15 +61284,6 @@ Method:
 - fresh: For do not say that there will not be inspection of man, and inspection for him from the Lord.
 - mt: For he has said, It profits a man nothing that he should delight himself with God.
 - brenton: For thou shouldest not say, There shall be no visitation of a man, whereas there is a visitation on him from the Lord.
-
-### Ecclesiastes 10:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.395`
-- fresh_brenton_ratio: `0.670`
-- fresh: Deadly flies rot compound of perfumed oil; a little wisdom held precious above great glory of folly.
-- mt: Dead flies cause the ointment of the apothecary to send forth a stinking savour: so does a little folly him that is in reputation for wisdom and honour.
-- brenton: Pestilent flies will corrupt a preparation of sweet ointment: and a little wisdom is more precious than great glory of folly.
 
 ### Psalms 28:6
 - priority: `0`
@@ -63543,15 +63543,6 @@ Method:
 - fresh: Measure and choenix will be alike, so that choenix takes a tenth of a homer and measure takes a tenth of a homer; according to the homer they will be equal.
 - mt: The ephah and the bath shall be of one measure, that the bath may contain the tenth part of an homer, and the ephah the tenth part of an homer: the measure thereof shall be after the homer.
 - brenton: And in like manner there shall be one chœnix as a measure of capacity; the tenth of the gomor shall be the chœnix, and the tenth of the gomor shall be in fair proportion to the gomor.
-
-### Ecclesiastes 10:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.414`
-- fresh_brenton_ratio: `0.506`
-- fresh: If snake bites without whispering, there is no surplus for charmer.
-- mt: Surely the serpent will bite without enchantment; and a babbler is no better.
-- brenton: If a serpent bite when there is no charmer's whisper, then there is no advantage to the charmer.
 
 ### Zechariah 1:15
 - priority: `0`
@@ -68350,15 +68341,6 @@ Method:
 - mt: And the LORD has performed his word that he spoke, and I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built an house for the name of the LORD God of Israel.
 - brenton: And the Lord has confirmed the word that he spoke, and I am risen up in the place of my father David, and I have sat down on the throne of Israel, as the Lord spoke, and I have built the house to the name of the Lord God of Israel.
 
-### Ecclesiastes 10:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.452`
-- fresh_brenton_ratio: `0.398`
-- fresh: If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill is wisdom.
-- mt: If the iron be blunt, and he do not sharpen the edge, then must he put to more strength: but wisdom is profitable to direct.
-- brenton: If the axe-head should fall off, then the man troubles his countenance, and he must put forth more strength: and in that case skill is of no advantage to a man.
-
 ### 2 Kings 14:28
 - priority: `0`
 - importance: `none`
@@ -69222,6 +69204,15 @@ Method:
 - fresh: And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for beloved one and those with him like day of grief.
 - mt: And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end thereof as a bitter day.
 - brenton: and I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth on all loins, and baldness on every head; and I will make them as the mourning of a beloved friend, and those with them as a day of grief.
+
+### Ecclesiastes 10:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.459`
+- fresh_brenton_ratio: `0.542`
+- fresh: If the snake bites without whispering, there is no surplus for the charmer.
+- mt: Surely the serpent will bite without enchantment; and a babbler is no better.
+- brenton: If a serpent bite when there is no charmer's whisper, then there is no advantage to the charmer.
 
 ### Isaiah 16:12
 - priority: `0`
@@ -70698,6 +70689,15 @@ Method:
 - fresh: And the borders shall turn for you from the south to the ascent of Akrabbim and shall pass Sena, and its exit shall be south of Kadesh-Barnea and shall go out to the camp of Arad and shall pass Azmon.
 - mt: And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
 - brenton: And your border shall go round you from the south to the ascent of Acrabin, and shall proceed by Ennac, and the going forth of it shall be southward to Cades Barne, and it shall go forth to the village of Arad, and shall proceed by Asemona.
+
+### Ecclesiastes 10:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.471`
+- fresh_brenton_ratio: `0.431`
+- fresh: If the iron grows dull and he has disturbed its face, then he will strengthen force; and the surplus for skill is wisdom.
+- mt: If the iron be blunt, and he do not sharpen the edge, then must he put to more strength: but wisdom is profitable to direct.
+- brenton: If the axe-head should fall off, then the man troubles his countenance, and he must put forth more strength: and in that case skill is of no advantage to a man.
 
 ### Ezra 2:26
 - priority: `0`
@@ -72733,15 +72733,6 @@ Method:
 - mt: You shall not follow a multitude to do evil; neither shall you speak in a cause to decline after many to shift judgment:
 - brenton: Thou shalt not associate with the multitude for evil; thou shalt not join thyself with a multitude to turn aside with the majority so as to shut out judgment.
 
-### Ecclesiastes 10:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.485`
-- fresh_brenton_ratio: `0.709`
-- fresh: And indeed on road whenever fool walks, his heart will lack, and what he thinks is all folly.
-- mt: Yea also, when he that is a fool walks by the way, his wisdom fails him, and he says to every one that he is a fool.
-- brenton: Yea, and whenever a fool walks by the way, his heart will fail him, and all that he thinks of is folly.
-
 ### Jeremiah 5:26
 - priority: `0`
 - importance: `none`
@@ -72903,15 +72894,6 @@ Method:
 - fresh: Cases of your ornament will be humbled and mourn, and you will be left alone and dashed to ground.
 - mt: And her gates shall lament and mourn; and she being desolate shall sit upon the ground.
 - brenton: And the stores of your ornaments shall mourn, and thou shalt be left alone, and shalt be levelled with the ground.
-
-### Ecclesiastes 10:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.486`
-- fresh_brenton_ratio: `0.691`
-- fresh: In sloth roof-beam will be brought low, and in idleness of hands house will drip.
-- mt: By much slothfulness the building decays; and through idleness of the hands the house drops through.
-- brenton: By slothful neglect a building will be brought low: and by idleness of the hands the house will fall to pieces.
 
 ### 1 Kings 6:23
 - priority: `0`
@@ -73434,6 +73416,15 @@ Method:
 - fresh: Did you not call me as house and father and leader of your virginity?
 - mt: Will you not from this time cry unto me, My father, you are the guide of my youth?
 - brenton: Hast thou not called me as it were a home, and the father and guide of thy virgin-time?
+
+### Ecclesiastes 10:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.490`
+- fresh_brenton_ratio: `0.708`
+- fresh: And indeed on the road whenever a fool walks, his heart will lack, and what he thinks is all folly.
+- mt: Yea also, when he that is a fool walks by the way, his wisdom fails him, and he says to every one that he is a fool.
+- brenton: Yea, and whenever a fool walks by the way, his heart will fail him, and all that he thinks of is folly.
 
 ### Judges 8:25
 - priority: `0`
@@ -79339,15 +79330,6 @@ Method:
 - mt: Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.
 - brenton: Better is an entertainment of herbs with friendliness and kindness, than a feast of calves, with enmity.
 
-### Ecclesiastes 10:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.527`
-- fresh_brenton_ratio: `0.600`
-- fresh: Even in your conscience do not curse king, and in the chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
-- mt: Curse not the king, no not in your thought; and curse not the rich in your bedchamber: for a bird of the air shall carry the voice, and that which has wings shall tell the matter.
-- brenton: Even in thy conscience, curse not the king; and curse not the rich in thy bedchamber: for a bird of the air shall carry thy voice, and that which has wings shall report thy speech.
-
 ### Isaiah 59:10
 - priority: `0`
 - importance: `none`
@@ -81679,15 +81661,6 @@ Method:
 - mt: In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.
 - brenton: The son of a king is in the light of life; and they that are in favour with him are as a cloud of latter rain.
 
-### Ecclesiastes 10:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.540`
-- fresh_brenton_ratio: `0.494`
-- fresh: One digging pit will fall into it, and snake will bite one pulling down wall.
-- mt: He that digs a pit shall fall into it; and whoso breaks an hedge, a serpent shall bite him.
-- brenton: He that digs a pit shall fall into it; and him that breaks down a hedge a serpent shall bite.
-
 ### Song of Solomon 4:7
 - priority: `0`
 - importance: `none`
@@ -83227,6 +83200,15 @@ Method:
 - mt: Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 - brenton: And now divide this land by lot to the nine tribes, and to the half tribe of Manasse.
 
+### Ecclesiastes 10:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.548`
+- fresh_brenton_ratio: `0.617`
+- fresh: Even in your conscience do not curse a king, and in the chambers of your bedchambers do not curse a rich man, because a bird of heaven will carry the voice, and the winged one will report a word.
+- mt: Curse not the king, no not in your thought; and curse not the rich in your bedchamber: for a bird of the air shall carry the voice, and that which has wings shall tell the matter.
+- brenton: Even in thy conscience, curse not the king; and curse not the rich in thy bedchamber: for a bird of the air shall carry thy voice, and that which has wings shall report thy speech.
+
 ### Job 39:29
 - priority: `0`
 - importance: `none`
@@ -84504,6 +84486,15 @@ Method:
 - fresh: Striking, you struck Edom, and your heart lifted you up. Be glorified by sitting in your house. Why do you provoke evil against yourself, so that you fall, you and Judah with you?
 - mt: You have indeed smitten Edom, and yours heart has lifted you up: glory of this, and tarry at home: for why should you meddle to your hurt, that you should fall, even you, and Judah with you?
 - brenton: Thou hast smitten and wounded Edom, and thy heart has lifted thee up: stay at home and glorify thyself; for wherefore art thou quarrelsome to thy hurt? So both thou wilt fall and Juda with thee.
+
+### Ecclesiastes 10:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.554`
+- fresh_brenton_ratio: `0.556`
+- fresh: The one digging a pit will fall into it, and a snake will bite the one pulling down a wall.
+- mt: He that digs a pit shall fall into it; and whoso breaks an hedge, a serpent shall bite him.
+- brenton: He that digs a pit shall fall into it; and him that breaks down a hedge a serpent shall bite.
 
 ### Genesis 50:9
 - priority: `0`
@@ -89761,15 +89752,6 @@ Method:
 - mt: For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.
 - brenton: Whereas the workman made it, and it is not God; wherefore thy calf, Samaria, was a deceiver:
 
-### Ecclesiastes 10:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.579`
-- fresh_brenton_ratio: `0.610`
-- fresh: There is evil I saw under the sun, like involuntary thing that went out from the face of ruler.
-- mt: There is an evil which I have seen under the sun, as an error which proceeds from the ruler:
-- brenton: There is an evil which I have seen under the sun, wherein an error has proceeded from the ruler.
-
 ### Numbers 31:53
 - priority: `0`
 - importance: `none`
@@ -91192,6 +91174,15 @@ Method:
 - mt: By the swords of the mighty will I cause your multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.
 - brenton: with the swords of mighty men; and I will cast down thy strength: they are all destroying ones from the nations, and they shall destroy the pride of Egypt, and all her strength shall be crushed.
 
+### Ecclesiastes 10:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.584`
+- fresh_brenton_ratio: `0.724`
+- fresh: In sloth the roof-beam will be brought low, and in idleness of hands the house will drip.
+- mt: By much slothfulness the building decays; and through idleness of the hands the house drops through.
+- brenton: By slothful neglect a building will be brought low: and by idleness of the hands the house will fall to pieces.
+
 ### Isaiah 22:7
 - priority: `0`
 - importance: `none`
@@ -92047,6 +92038,15 @@ Method:
 - mt: Passing through the street near her corner; and he went the way to her house,
 - brenton: and speaking, in the dark of the evening,
 
+### Ecclesiastes 10:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.588`
+- fresh_brenton_ratio: `0.450`
+- fresh: For laughter they make bread, and wine gladdens the living ones, and silver answers all things.
+- mt: A feast is made for laughter, and wine makes merry: but money answers all things.
+- brenton: Men prepare bread for laughter, and wine and oil that the living should rejoice: but to money all things will humbly yield obedience.
+
 ### Hosea 10:13
 - priority: `0`
 - importance: `none`
@@ -92568,15 +92568,6 @@ Method:
 - fresh: But fears and the sound of night, fear falling on men,
 - mt: In thoughts from the visions of the night, when deep sleep falls on men,
 - brenton: But as when terror falls upon men, with dread and a sound in the night,
-
-### Ecclesiastes 10:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.590`
-- fresh_brenton_ratio: `0.431`
-- fresh: For laughter they make bread, and wine gladdens living ones, and silver answers all things.
-- mt: A feast is made for laughter, and wine makes merry: but money answers all things.
-- brenton: Men prepare bread for laughter, and wine and oil that the living should rejoice: but to money all things will humbly yield obedience.
 
 ### Ezekiel 27:34
 - priority: `0`
@@ -98158,6 +98149,15 @@ Method:
 - mt: And his armour bearer said unto him, Do all that is in yours heart: turn you; behold, I am with you according to your heart.
 - brenton: And his armour-bearer said to him, Do all that thine heart inclines toward: behold, I am with thee, my heart is as thy heart.
 
+### Ecclesiastes 10:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.611`
+- fresh_brenton_ratio: `0.608`
+- fresh: There is evil I saw under the sun, like an involuntary thing that went out from the face of the ruler.
+- mt: There is an evil which I have seen under the sun, as an error which proceeds from the ruler:
+- brenton: There is an evil which I have seen under the sun, wherein an error has proceeded from the ruler.
+
 ### Isaiah 10:27
 - priority: `0`
 - importance: `none`
@@ -99939,6 +99939,15 @@ Method:
 - fresh: and for your cattle and for the wild animals in your land. All its produce shall be for eating.
 - mt: And for your cattle, and for the beast that are in your land, shall all the increase thereof be food.
 - brenton: And for thy cattle, and for the wild beasts that are in thy land, shall every fruit of it be for food.
+
+### Ecclesiastes 10:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.618`
+- fresh_brenton_ratio: `0.639`
+- fresh: The one removing stones will be hurt by them; the one splitting wood will be endangered by them.
+- mt: Whoso removes stones shall be hurt therewith; and he that cleaves wood shall be endangered thereby.
+- brenton: He that removes stones shall be troubled thereby; he that cleaves wood shall be endangered thereby.
 
 ### Isaiah 38:6
 - priority: `0`
@@ -103575,15 +103584,6 @@ Method:
 - fresh: And now let not my lord the king set on his heart a word, saying, All the sons of the king have died, because only Amnon has died.
 - mt: Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead.
 - brenton: And now let not my lord the king take the matter to heart, saying, All the king's sons are dead: for Amnon only of them all is dead.
-
-### Ecclesiastes 10:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.630`
-- fresh_brenton_ratio: `0.620`
-- fresh: One removing stones will be hurt by them; one splitting woods will be endangered by them.
-- mt: Whoso removes stones shall be hurt therewith; and he that cleaves wood shall be endangered thereby.
-- brenton: He that removes stones shall be troubled thereby; he that cleaves wood shall be endangered thereby.
 
 ### Psalms 149:3
 - priority: `0`
@@ -108202,15 +108202,6 @@ Method:
 - mt: Behold, the days come, says the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that sows seed; and the mountains shall drop sweet wine, and all the hills shall melt.
 - brenton: Behold, the days come, saith the Lord, when the harvest shall overtake the vintage, and the grapes shall ripen at seedtime; and the mountains shall drop sweet wine, and all the hills shall be planted.
 
-### Ecclesiastes 10:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.644`
-- fresh_brenton_ratio: `0.633`
-- fresh: If spirit of ruler rises upon you, do not leave your place, because healing will put great sins to rest.
-- mt: If the spirit of the ruler rise up against you, leave not your place; for yielding pacifies great offences.
-- brenton: If the spirit of the ruler rise up against thee, leave not thy place; for soothing will put an end to great offences.
-
 ### Leviticus 14:32
 - priority: `0`
 - importance: `none`
@@ -110793,15 +110784,6 @@ Method:
 - fresh: Because you became forsaken and hated and there was none to help, I will make you everlasting exultation, joy of generation to generation.
 - mt: Whereas you has been forsaken and hated, so that no man went through you, I will make you an eternal excellency, a joy of many generations.
 - brenton: Because thou hast become desolate and hated, and there was no helper, therefore I will make thee a perpetual gladness, a joy of many generations.
-
-### Ecclesiastes 10:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.652`
-- fresh_brenton_ratio: `0.662`
-- fresh: I saw slaves on horses and rulers walking like slaves on earth.
-- mt: I have seen servants upon horses, and princes walking as servants upon the earth.
-- brenton: I have seen servants upon horses, and princes walking as servants on the earth.
 
 ### Deuteronomy 22:4
 - priority: `0`
@@ -115617,15 +115599,6 @@ Method:
 - fresh: You shall not stretch him hard in toil, and you shall fear the Lord your God.
 - mt: You shall not rule over him with rigour; but shall fear your God.
 - brenton: Thou shalt not oppress him with labour, and shalt fear the Lord thy God.
-
-### Ecclesiastes 10:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.667`
-- fresh_brenton_ratio: `0.704`
-- fresh: The words of the mouth of the wise are favor, and lips of fool will swallow him.
-- mt: The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.
-- brenton: The words of a wise mouth are gracious: but the lips of a fool will swallow him up.
 
 ### Leviticus 25:18
 - priority: `0`
@@ -120631,6 +120604,15 @@ Method:
 - mt: And the ass said unto Balaam, Am not I yours ass, upon which you have ridden ever since I was yours unto this day? was I ever known to do so unto you? And he said, Nay.
 - brenton: And the ass says to Balaam, Am not I thine ass on which thou hast ridden since thy youth till this day? did I ever do thus to thee, utterly disregarding thee? and he said, No.
 
+### Ecclesiastes 10:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.681`
+- fresh_brenton_ratio: `0.681`
+- fresh: The heart of the wise is at his right, and the heart of a fool is at his left.
+- mt: A wise man's heart is at his right hand; but a fool's heart at his left.
+- brenton: A wise man's heart is at his right hand; but a fool's heart at his left.
+
 ### Proverbs 5:14
 - priority: `0`
 - importance: `none`
@@ -121008,15 +120990,6 @@ Method:
 - fresh: You were filled with dishonor instead of glory. Drink, you too, and be shaken. Cup of the Lord's right hand has gone around to you, and dishonor gathered upon your glory.
 - mt: You are filled with shame for glory: drink you also, and let your foreskin be uncovered: the cup of the LORD's right hand shall be turned unto you, and shameful spewing shall be on your glory.
 - brenton: Drink thou also thy fill of disgrace instead of glory: shake, O heart, and quake, the cup of the right hand of the Lord has come round upon thee, and dishonour has gathered upon thy glory.
-
-### Ecclesiastes 10:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.682`
-- fresh_brenton_ratio: `0.682`
-- fresh: The heart of the wise at his right, and heart of fool at his left.
-- mt: A wise man's heart is at his right hand; but a fool's heart at his left.
-- brenton: A wise man's heart is at his right hand; but a fool's heart at his left.
 
 ### 1 Chronicles 15:22
 - priority: `0`
@@ -123034,6 +123007,15 @@ Method:
 - mt: And you shall put some of yours honour upon him, that all the congregation of the children of Israel may be obedient.
 - brenton: And thou shalt put of thy glory upon him, that the children of Israel may hearken to him.
 
+### Ecclesiastes 10:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.687`
+- fresh_brenton_ratio: `0.764`
+- fresh: Blessed are you, land whose king is a son of nobles, and your rulers will eat at the right time in strength and will not be ashamed.
+- mt: Blessed are you, O land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!
+- brenton: Blessed art thou, O land, whose king is a son of nobles, and whose princes shall eat seasonably, for strength, and shall not be ashamed.
+
 ### 1 Samuel 20:34
 - priority: `0`
 - importance: `none`
@@ -124401,15 +124383,6 @@ Method:
 - fresh: And it happened after these words that it was reported to Abraham, saying, Look, Milcah also has borne sons to Nahor your brother,
 - mt: And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she has also born children unto your brother Nahor;
 - brenton: And it came to pass after these things, that it was reported to Abraam, saying, Behold, Melcha herself too has born sons to Nachor thy brother,
-
-### Ecclesiastes 10:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.690`
-- fresh_brenton_ratio: `0.794`
-- fresh: Woe to you, city whose king young, and your rulers eat in morning.
-- mt: Woe to you, O land, when your king is a child, and your princes eat in the morning!
-- brenton: Woe to thee, O city, whose king is young, and thy princes eat in the morning!
 
 ### Ezekiel 12:2
 - priority: `0`
@@ -126004,6 +125977,15 @@ Method:
 - mt: And Moses said unto the judges of Israel, Slay all of you every one his men that were joined unto Baalpeor.
 - brenton: And Moses said to the tribes of Israel, Slay ye every one his friend that is consecrated to Beel-phegor.
 
+### Ecclesiastes 10:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.695`
+- fresh_brenton_ratio: `0.682`
+- fresh: If the spirit of the ruler rises upon you, do not leave your place, because healing will put great sins to rest.
+- mt: If the spirit of the ruler rise up against you, leave not your place; for yielding pacifies great offences.
+- brenton: If the spirit of the ruler rise up against thee, leave not thy place; for soothing will put an end to great offences.
+
 ### 2 Chronicles 6:39
 - priority: `0`
 - importance: `none`
@@ -127417,15 +127399,6 @@ Method:
 - mt: The two pillars, one sea, and twelve brazen bulls that were under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
 - brenton: And the two pillars, and the one sea, and the twelve brazen oxen under the sea, which things king Solomon made for the house of the Lord; the brass of which articles was without weight.
 
-### Ecclesiastes 10:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.698`
-- fresh_brenton_ratio: `0.776`
-- fresh: Blessed are you, land whose king is a son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
-- mt: Blessed are you, O land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!
-- brenton: Blessed art thou, O land, whose king is a son of nobles, and whose princes shall eat seasonably, for strength, and shall not be ashamed.
-
 ### Proverbs 5:1
 - priority: `0`
 - importance: `none`
@@ -128137,6 +128110,15 @@ Method:
 - mt: Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.
 - brenton: saying, Blessed be my people that is in Egypt, and that is among the Assyrians, and Israel mine inheritance.
 
+### Ecclesiastes 10:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.700`
+- fresh_brenton_ratio: `0.661`
+- fresh: And the fool multiplies words; a man does not know what has happened, and what will be after him, who will tell him?
+- mt: A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
+- brenton: A fool moreover multiplies words: man knows not what has been, nor what will be: who shall tell him what will come after him?
+
 ### Judges 9:19
 - priority: `0`
 - importance: `none`
@@ -128523,15 +128505,6 @@ Method:
 - fresh: There they will cry out, and he will by no means hear, because of arrogance of evil men.
 - mt: There they cry, but none gives answer, because of the pride of evil men.
 - brenton: There they shall cry, and none shall hearken, even because of the insolence of wicked men.
-
-### Ecclesiastes 10:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.701`
-- fresh_brenton_ratio: `0.678`
-- fresh: And fool multiplies words; man does not know what has happened, and what will be after him, who will tell him?
-- mt: A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
-- brenton: A fool moreover multiplies words: man knows not what has been, nor what will be: who shall tell him what will come after him?
 
 ### Genesis 30:30
 - priority: `0`
@@ -129036,6 +129009,15 @@ Method:
 - fresh: And she hurried and lowered the water jar from herself onto her arm and said, Drink, and I will water your camels too. And I drank, and she watered the camels too.
 - mt: And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give your camels drink also: so I drank, and she made the camels drink also.
 - brenton: And she hasted and let down her pitcher on her arm from her head, and said, Drink thou, and I will give thy camels drink; and I drank, and she gave the camels drink.
+
+### Ecclesiastes 10:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.702`
+- fresh_brenton_ratio: `0.702`
+- fresh: The fool was given in great heights, and rich men will sit in a low place.
+- mt: Folly is set in great dignity, and the rich sit in low place.
+- brenton: The fool has been set in very high places, while rich men would sit in a low one.
 
 ### Jeremiah 1:19
 - priority: `0`
@@ -131106,6 +131088,15 @@ Method:
 - fresh: And now let the fear of the Lord be upon you, and keep and do, because with the Lord our God there is no injustice, nor regard of face, nor taking of gifts.
 - mt: Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.
 - brenton: And now let the fear of the Lord be upon you, and be wary, and do your duty: for there is no unrighteousness with the Lord our God, neither is it for him to respect persons, nor to take bribes.
+
+### Ecclesiastes 10:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.707`
+- fresh_brenton_ratio: `0.690`
+- fresh: I saw slaves on horses and rulers walking like slaves upon the earth.
+- mt: I have seen servants upon horses, and princes walking as servants upon the earth.
+- brenton: I have seen servants upon horses, and princes walking as servants on the earth.
 
 ### 1 Kings 17:7
 - priority: `0`
@@ -137866,15 +137857,6 @@ Method:
 - mt: It shall be health to your navel, and marrow to your bones.
 - brenton: Then shall there be health to thy body, and good keeping to thy bones.
 
-### Ecclesiastes 10:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.724`
-- fresh_brenton_ratio: `0.653`
-- fresh: A fool was given in great heights, and rich men will sit in low place.
-- mt: Folly is set in great dignity, and the rich sit in low place.
-- brenton: The fool has been set in very high places, while rich men would sit in a low one.
-
 ### Deuteronomy 28:36
 - priority: `0`
 - importance: `none`
@@ -142860,6 +142842,15 @@ Method:
 - fresh: And a famine came upon the land, and Abram went down into Egypt to live as a foreigner there, because the famine grew strong upon the land.
 - mt: And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land.
 - brenton: And there was a famine in the land, and Abram went down to Egypt to sojourn there, because the famine prevailed in the land.
+
+### Ecclesiastes 10:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.736`
+- fresh_brenton_ratio: `0.776`
+- fresh: The words of the mouth of the wise are favor, and the lips of a fool will swallow him.
+- mt: The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.
+- brenton: The words of a wise mouth are gracious: but the lips of a fool will swallow him up.
 
 ### 1 Kings 19:13
 - priority: `0`
@@ -149448,6 +149439,15 @@ Method:
 - fresh: Praise him, heavens of heavens, and water above heavens.
 - mt: Praise him, all of you heavens of heavens, and all of you waters that be above the heavens.
 - brenton: Praise him, ye heavens of heavens, and the water that is above the heavens.
+
+### Ecclesiastes 10:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.853`
+- fresh: Woe to you, city, whose king is young, and your rulers eat in the morning.
+- mt: Woe to you, O land, when your king is a child, and your princes eat in the morning!
+- brenton: Woe to thee, O city, whose king is young, and thy princes eat in the morning!
 
 ### 1 Samuel 22:11
 - priority: `0`
@@ -168115,15 +168115,6 @@ Method:
 - mt: And if the prophet be deceived when he has spoken a thing, I the LORD have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.
 - brenton: And if a prophet should cause to err and should speak, I the Lord have caused that prophet to err, and will stretch out my hand upon him, and will utterly destroy him from the midst of my people Israel.
 
-### Ecclesiastes 10:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.802`
-- fresh_brenton_ratio: `0.831`
-- fresh: The beginning of the words of his mouth is folly, and last of his mouth is evil madness.
-- mt: The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
-- brenton: The beginning of the words of his mouth is folly: and the end of his talk mischievous madness.
-
 ### Judges 6:22
 - priority: `0`
 - importance: `none`
@@ -172920,6 +172911,15 @@ Method:
 - fresh: And he did evil in the eyes of the Lord. He did not depart from all the sins of Jeroboam son of Nebat, who made Israel sin.
 - mt: And he did that which was evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 - brenton: And he did that which was evil in the eyes of the Lord: he departed not from all the sins of Jeroboam the son of Nabat, who led Israel to sin.
+
+### Ecclesiastes 10:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.846`
+- fresh: The beginning of the words of his mouth is folly, and the last of his mouth is evil madness.
+- mt: The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
+- brenton: The beginning of the words of his mouth is folly: and the end of his talk mischievous madness.
 
 ### 1 Kings 9:4
 - priority: `0`

@@ -156107,127 +156107,127 @@ Note:
 ### Ecclesiastes 10:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Deadly flies rot compound of perfumed oil; a little wisdom held precious above great glory of folly.
+- fresh: Deadly flies rot a compound of perfumed oil; a little wisdom is held precious above great glory of folly.
 - brenton: Pestilent flies will corrupt a preparation of sweet ointment: and a little wisdom is more precious than great glory of folly.
 
 ### Ecclesiastes 10:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The heart of the wise at his right, and heart of fool at his left.
+- fresh: The heart of the wise is at his right, and the heart of a fool is at his left.
 - brenton: A wise man's heart is at his right hand; but a fool's heart at his left.
 
 ### Ecclesiastes 10:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed on road whenever fool walks, his heart will lack, and what he thinks is all folly.
+- fresh: And indeed on the road whenever a fool walks, his heart will lack, and what he thinks is all folly.
 - brenton: Yea, and whenever a fool walks by the way, his heart will fail him, and all that he thinks of is folly.
 
 ### Ecclesiastes 10:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If spirit of ruler rises upon you, do not leave your place, because healing will put great sins to rest.
+- fresh: If the spirit of the ruler rises upon you, do not leave your place, because healing will put great sins to rest.
 - brenton: If the spirit of the ruler rise up against thee, leave not thy place; for soothing will put an end to great offences.
 
 ### Ecclesiastes 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is evil I saw under the sun, like involuntary thing that went out from the face of ruler.
+- fresh: There is evil I saw under the sun, like an involuntary thing that went out from the face of the ruler.
 - brenton: There is an evil which I have seen under the sun, wherein an error has proceeded from the ruler.
 
 ### Ecclesiastes 10:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A fool was given in great heights, and rich men will sit in low place.
+- fresh: The fool was given in great heights, and rich men will sit in a low place.
 - brenton: The fool has been set in very high places, while rich men would sit in a low one.
 
 ### Ecclesiastes 10:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw slaves on horses and rulers walking like slaves on earth.
+- fresh: I saw slaves on horses and rulers walking like slaves upon the earth.
 - brenton: I have seen servants upon horses, and princes walking as servants on the earth.
 
 ### Ecclesiastes 10:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One digging pit will fall into it, and snake will bite one pulling down wall.
+- fresh: The one digging a pit will fall into it, and a snake will bite the one pulling down a wall.
 - brenton: He that digs a pit shall fall into it; and him that breaks down a hedge a serpent shall bite.
 
 ### Ecclesiastes 10:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One removing stones will be hurt by them; one splitting woods will be endangered by them.
+- fresh: The one removing stones will be hurt by them; the one splitting wood will be endangered by them.
 - brenton: He that removes stones shall be troubled thereby; he that cleaves wood shall be endangered thereby.
 
 ### Ecclesiastes 10:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill is wisdom.
+- fresh: If the iron grows dull and he has disturbed its face, then he will strengthen force; and the surplus for skill is wisdom.
 - brenton: If the axe-head should fall off, then the man troubles his countenance, and he must put forth more strength: and in that case skill is of no advantage to a man.
 
 ### Ecclesiastes 10:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If snake bites without whispering, there is no surplus for charmer.
+- fresh: If the snake bites without whispering, there is no surplus for the charmer.
 - brenton: If a serpent bite when there is no charmer's whisper, then there is no advantage to the charmer.
 
 ### Ecclesiastes 10:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The words of the mouth of the wise are favor, and lips of fool will swallow him.
+- fresh: The words of the mouth of the wise are favor, and the lips of a fool will swallow him.
 - brenton: The words of a wise mouth are gracious: but the lips of a fool will swallow him up.
 
 ### Ecclesiastes 10:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The beginning of the words of his mouth is folly, and last of his mouth is evil madness.
+- fresh: The beginning of the words of his mouth is folly, and the last of his mouth is evil madness.
 - brenton: The beginning of the words of his mouth is folly: and the end of his talk mischievous madness.
 
 ### Ecclesiastes 10:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And fool multiplies words; man does not know what has happened, and what will be after him, who will tell him?
+- fresh: And the fool multiplies words; a man does not know what has happened, and what will be after him, who will tell him?
 - brenton: A fool moreover multiplies words: man knows not what has been, nor what will be: who shall tell him what will come after him?
 
 ### Ecclesiastes 10:15
@@ -156242,46 +156242,46 @@ Note:
 ### Ecclesiastes 10:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to you, city whose king young, and your rulers eat in morning.
+- fresh: Woe to you, city, whose king is young, and your rulers eat in the morning.
 - brenton: Woe to thee, O city, whose king is young, and thy princes eat in the morning!
 
 ### Ecclesiastes 10:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed are you, land whose king is a son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
+- fresh: Blessed are you, land whose king is a son of nobles, and your rulers will eat at the right time in strength and will not be ashamed.
 - brenton: Blessed art thou, O land, whose king is a son of nobles, and whose princes shall eat seasonably, for strength, and shall not be ashamed.
 
 ### Ecclesiastes 10:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In sloth roof-beam will be brought low, and in idleness of hands house will drip.
+- fresh: In sloth the roof-beam will be brought low, and in idleness of hands the house will drip.
 - brenton: By slothful neglect a building will be brought low: and by idleness of the hands the house will fall to pieces.
 
 ### Ecclesiastes 10:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For laughter they make bread, and wine gladdens living ones, and silver answers all things.
+- fresh: For laughter they make bread, and wine gladdens the living ones, and silver answers all things.
 - brenton: Men prepare bread for laughter, and wine and oil that the living should rejoice: but to money all things will humbly yield obedience.
 
 ### Ecclesiastes 10:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Even in your conscience do not curse king, and in the chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
+- fresh: Even in your conscience do not curse a king, and in the chambers of your bedchambers do not curse a rich man, because a bird of heaven will carry the voice, and the winged one will report a word.
 - brenton: Even in thy conscience, curse not the king; and curse not the rich in thy bedchamber: for a bird of the air shall carry thy voice, and that which has wings shall report thy speech.
 
 ### Ecclesiastes 11:1

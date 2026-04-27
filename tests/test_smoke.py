@@ -3572,6 +3572,15 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 13:14"]["draft_translation"].startswith(
         "The law of the wise is a fountain of life"
     )
+    assert "the heart of a fool is at his left" in by_ref["Ecclesiastes 10:2"][
+        "draft_translation"
+    ]
+    assert "the spirit of the ruler" in by_ref["Ecclesiastes 10:4"][
+        "draft_translation"
+    ]
+    assert by_ref["Ecclesiastes 10:8"]["draft_translation"].startswith(
+        "The one digging a pit"
+    )
     assert by_ref["Ecclesiastes 10:12"]["draft_translation"].startswith(
         "The words of the mouth of the wise"
     )
@@ -3702,6 +3711,10 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Ecclesiastes 10:15"]["draft_translation"].startswith(
         "The toil of fools will weary them"
     )
+    assert "whose king is young" in by_ref["Ecclesiastes 10:16"]["draft_translation"]
+    assert "do not curse a king" in by_ref["Ecclesiastes 10:20"][
+        "draft_translation"
+    ]
     assert "The dwellers of rock will rejoice" in by_ref["Isaiah 42:11"]["draft_translation"]
     assert "The face of a prostitute became yours" in by_ref["Jeremiah 3:3"]["draft_translation"]
     assert by_ref["Hosea 9:7"]["draft_translation"].startswith(

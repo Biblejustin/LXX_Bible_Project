@@ -70736,59 +70736,59 @@ Wisdom is good above weapons of war, and one sinner will destroy much good.
 
 **Ecclesiastes 10:1**
 
-Deadly flies rot compound of perfumed oil; a little wisdom held precious above great glory of folly.
+Deadly flies rot a compound of perfumed oil; a little wisdom is held precious above great glory of folly.
 
 **Ecclesiastes 10:2**
 
-The heart of the wise at his right, and heart of fool at his left.
+The heart of the wise is at his right, and the heart of a fool is at his left.
 
 **Ecclesiastes 10:3**
 
-And indeed on road whenever fool walks, his heart will lack, and what he thinks is all folly.
+And indeed on the road whenever a fool walks, his heart will lack, and what he thinks is all folly.
 
 **Ecclesiastes 10:4**
 
-If spirit of ruler rises upon you, do not leave your place, because healing will put great sins to rest.
+If the spirit of the ruler rises upon you, do not leave your place, because healing will put great sins to rest.
 
 **Ecclesiastes 10:5**
 
-There is evil I saw under the sun, like involuntary thing that went out from the face of ruler.
+There is evil I saw under the sun, like an involuntary thing that went out from the face of the ruler.
 
 **Ecclesiastes 10:6**
 
-A fool was given in great heights, and rich men will sit in low place.
+The fool was given in great heights, and rich men will sit in a low place.
 
 **Ecclesiastes 10:7**
 
-I saw slaves on horses and rulers walking like slaves on earth.
+I saw slaves on horses and rulers walking like slaves upon the earth.
 
 **Ecclesiastes 10:8**
 
-One digging pit will fall into it, and snake will bite one pulling down wall.
+The one digging a pit will fall into it, and a snake will bite the one pulling down a wall.
 
 **Ecclesiastes 10:9**
 
-One removing stones will be hurt by them; one splitting woods will be endangered by them.
+The one removing stones will be hurt by them; the one splitting wood will be endangered by them.
 
 **Ecclesiastes 10:10**
 
-If iron grows dull and he has disturbed its face, then he will strengthen force; and surplus for skill is wisdom.
+If the iron grows dull and he has disturbed its face, then he will strengthen force; and the surplus for skill is wisdom.
 
 **Ecclesiastes 10:11**
 
-If snake bites without whispering, there is no surplus for charmer.
+If the snake bites without whispering, there is no surplus for the charmer.
 
 **Ecclesiastes 10:12**
 
-The words of the mouth of the wise are favor, and lips of fool will swallow him.
+The words of the mouth of the wise are favor, and the lips of a fool will swallow him.
 
 **Ecclesiastes 10:13**
 
-The beginning of the words of his mouth is folly, and last of his mouth is evil madness.
+The beginning of the words of his mouth is folly, and the last of his mouth is evil madness.
 
 **Ecclesiastes 10:14**
 
-And fool multiplies words; man does not know what has happened, and what will be after him, who will tell him?
+And the fool multiplies words; a man does not know what has happened, and what will be after him, who will tell him?
 
 **Ecclesiastes 10:15**
 
@@ -70796,23 +70796,23 @@ The toil of fools will weary them, because one did not know how to go into a cit
 
 **Ecclesiastes 10:16**
 
-Woe to you, city whose king young, and your rulers eat in morning.
+Woe to you, city, whose king is young, and your rulers eat in the morning.
 
 **Ecclesiastes 10:17**
 
-Blessed are you, land whose king is a son of nobles, and your rulers will eat at right time in strength and will not be ashamed.
+Blessed are you, land whose king is a son of nobles, and your rulers will eat at the right time in strength and will not be ashamed.
 
 **Ecclesiastes 10:18**
 
-In sloth roof-beam will be brought low, and in idleness of hands house will drip.
+In sloth the roof-beam will be brought low, and in idleness of hands the house will drip.
 
 **Ecclesiastes 10:19**
 
-For laughter they make bread, and wine gladdens living ones, and silver answers all things.
+For laughter they make bread, and wine gladdens the living ones, and silver answers all things.
 
 **Ecclesiastes 10:20**
 
-Even in your conscience do not curse king, and in the chambers of your bedchambers do not curse rich man, because bird of heaven will carry voice, and winged one will report word.
+Even in your conscience do not curse a king, and in the chambers of your bedchambers do not curse a rich man, because a bird of heaven will carry the voice, and the winged one will report a word.
 
 ### Chapter 11
 

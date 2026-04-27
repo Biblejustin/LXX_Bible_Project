@@ -167,13 +167,13 @@
     }
   },
   "logos_note_rows": 36,
-  "decision_rows": 5722,
+  "decision_rows": 5741,
   "footnote_rows": 23032,
   "variant_rows": 54,
   "decision_status_counts": {
     "todo": 0,
     "drafted": 562,
-    "reviewed": 5159
+    "reviewed": 5178
   },
   "footnote_status_counts": {
     "todo": 0,
