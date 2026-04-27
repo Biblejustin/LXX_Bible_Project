@@ -164724,118 +164724,118 @@ Note:
 ### Isaiah 41:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Renew yourselves to me, islands, for rulers will change strength. Let them come near and speak together; then let them announce judgment.
+- fresh: Renew yourselves to me, islands, for the rulers will change strength. Let them come near and speak together; then let them announce judgment.
 - brenton: Hold a feast to me, ye islands: for the princes shall renew their strength: let them draw nigh and speak together: then let them declare judgment.
 
 ### Isaiah 41:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who raised from east righteousness? He called it to his feet and it will go. He will give nations before him and astonish kings and give their swords into earth and their bows as driven brushwood.
+- fresh: Who raised righteousness from the east? He called it to his feet and it will go. He will give nations before him and astonish kings and give their swords into the earth and their bows as driven brushwood.
 - brenton: Who raised up righteousness from the east, and called it to his feet, so that it should go? shall appoint it an adversary of Gentiles, and shall dismay kings, and bury their swords in the earth, and cast forth their bows and arrows as sticks?
 
 ### Isaiah 41:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will pursue them and pass through in peace, way of his feet.
+- fresh: And he will pursue them and pass through in peace, the way of his feet.
 - brenton: And he shall pursue them; the way of his feet shall proceed in peace.
 
 ### Isaiah 41:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who worked and did these things? He called it from generations of beginning. I am God, first, and in things coming I am.
+- fresh: Who worked and did these things? He called it from the generations of beginning. I am God, first, and in the things coming I am.
 - brenton: Who has wrought and done these things? he has called it who called it from the generations of old; I God, the first and to all futurity, I AM.
 
 ### Isaiah 41:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations saw and feared; ends of the earth drew near and came together.
+- fresh: The nations saw and feared; the ends of the earth drew near and came together.
 - brenton: The nations saw, and feared; the ends of the earth drew nigh, and came together,
 
 ### Isaiah 41:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Each judging for neighbor and saying to brother, Help.
+- fresh: Each one judging for his neighbor and saying to his brother, Help.
 - brenton: every one judging for his neighbour and that to assist his brother: and one will say,
 
 ### Isaiah 41:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Craftsman strengthened, and bronze-smith striking hammer while driving. At one time he says, Joint is good; they strengthened them with nails and they will not be moved.
+- fresh: A craftsman strengthened, and a bronze-smith striking with a hammer while driving. At one time he says, The joint is good; they strengthened them with nails and they will not be moved.
 - brenton: The artificer has become strong, and the coppersmith that smites with the hammer, and forges also: sometimes he will say, It is a piece well joined: they have fastened them with nails; they will fix them, and they shall not be moved.
 
 ### Isaiah 41:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, Israel, my servant, Jacob whom I chose, seed of Abraham whom I loved,
+- fresh: But you, Israel, my servant, Jacob whom I chose, the seed of Abraham whom I loved,
 - brenton: But thou, Israel, art my servant Jacob, and he whom I have chosen, the seed of Abraam, whom I have loved:
 
 ### Isaiah 41:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: whom I took hold from edges of earth and called from its watchpoints, and I said to you, You are my servant; I chose you and did not abandon you.
+- fresh: whom I took hold from the edges of the earth and called from its watchpoints, and I said to you, You are my servant; I chose you and did not abandon you.
 - brenton: whom I have taken hold of from the ends of the earth, and from the high places of it I have called thee, and said to thee, Thou art my servant; I have chosen thee, and I have not forsaken thee.
 
 ### Isaiah 41:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not fear, for I am with you; do not wander, for I am your God, one strengthening you and helping you, and I secured you by my right righteous hand.
+- fresh: Do not fear, for I am with you; do not wander, for I am your God, the one strengthening you and helping you, and I secured you by my right righteous hand.
 - brenton: Fear not; for I am with thee: wander not; for I am thy God, who have strengthened thee; and I have helped thee, and have established thee with my just right hand.
 
 ### Isaiah 41:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, all opposing you will be ashamed and put to shame, for they will be as not existing, and all your adversaries will perish.
+- fresh: Behold, all those opposing you will be ashamed and put to shame, for they will be as not existing, and all your adversaries will perish.
 - brenton: Behold, all thine adversaries shall be ashamed and confounded; for they shall be as if they were not: and all thine opponents shall perish.
 
 ### Isaiah 41:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will seek them and certainly not find men who rage against you, for those fighting against you will be as not existing and will not be.
+- fresh: You will seek them and certainly not find the men who rage against you, for the ones fighting against you will be as not existing and will not be.
 - brenton: Thou shalt seek them, and thou shalt not find the men who shall insolently rage against thee: for they shall be as if they were not, and they that war against thee shall not be.
 
 ### Isaiah 41:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For I am your God, holding your right hand, saying to you, Do not fear.
+- fresh: For I am your God, the one holding your right hand, saying to you, Do not fear.
 - brenton: For I am thy God, who holdeth thy right hand, who saith to thee,
 
 ### Isaiah 41:14
@@ -164850,19 +164850,19 @@ Note:
 ### Isaiah 41:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I made you as new threshing wheels of wagon, saw-toothed, and you will thresh mountains and make hills fine and make them as dust.
+- fresh: Behold, I made you as new threshing wheels of a wagon, saw-toothed, and you will thresh the mountains and make the hills fine and make them as dust.
 - brenton: Behold, I have made thee as new saw-shaped threshing wheels of a waggon; and thou shalt thresh the mountains, and beat the hills to powder, and make them as chaff:
 
 ### Isaiah 41:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will winnow them, and wind will take them and storm scatter them. But you will rejoice in the holy things of Israel, and they will exult.
+- fresh: And you will winnow them, and a wind will take them and a storm scatter them. But you will rejoice in the holy things of Israel, and they will exult.
 - brenton: and thou shalt winnow them, and the wind shall carry them away, and a tempest shall scatter them: but thou shalt rejoice in the holy ones of Israel.
 
 ### Isaiah 41:17

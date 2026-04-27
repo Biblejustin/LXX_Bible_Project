@@ -6047,6 +6047,71 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "grow wings like eagles" in by_ref["Isaiah 40:31"][
         "draft_translation"
     ]
+    assert "for the rulers will change strength" in by_ref["Isaiah 41:1"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 41:2"]["draft_translation"].startswith(
+        "Who raised righteousness from the east"
+    )
+    assert "their swords into the earth" in by_ref["Isaiah 41:2"][
+        "draft_translation"
+    ]
+    assert "the way of his feet" in by_ref["Isaiah 41:3"][
+        "draft_translation"
+    ]
+    assert "from the generations of beginning" in by_ref["Isaiah 41:4"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 41:5"]["draft_translation"].startswith(
+        "The nations saw"
+    )
+    assert "the ends of the earth" in by_ref["Isaiah 41:5"][
+        "draft_translation"
+    ]
+    assert "Each one judging for his neighbor" in by_ref["Isaiah 41:6"][
+        "draft_translation"
+    ]
+    assert "saying to his brother" in by_ref["Isaiah 41:6"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 41:7"]["draft_translation"].startswith(
+        "A craftsman"
+    )
+    assert "with a hammer" in by_ref["Isaiah 41:7"]["draft_translation"]
+    assert "The joint is good" in by_ref["Isaiah 41:7"]["draft_translation"]
+    assert "the seed of Abraham" in by_ref["Isaiah 41:8"][
+        "draft_translation"
+    ]
+    assert "from the edges of the earth" in by_ref["Isaiah 41:9"][
+        "draft_translation"
+    ]
+    assert "the one strengthening you" in by_ref["Isaiah 41:10"][
+        "draft_translation"
+    ]
+    assert "all those opposing you" in by_ref["Isaiah 41:11"][
+        "draft_translation"
+    ]
+    assert "the men who rage against you" in by_ref["Isaiah 41:12"][
+        "draft_translation"
+    ]
+    assert "the ones fighting against you" in by_ref["Isaiah 41:12"][
+        "draft_translation"
+    ]
+    assert "the one holding your right hand" in by_ref["Isaiah 41:13"][
+        "draft_translation"
+    ]
+    assert "wheels of a wagon" in by_ref["Isaiah 41:15"][
+        "draft_translation"
+    ]
+    assert "thresh the mountains" in by_ref["Isaiah 41:15"][
+        "draft_translation"
+    ]
+    assert "make the hills fine" in by_ref["Isaiah 41:15"][
+        "draft_translation"
+    ]
+    assert "a wind will take them and a storm" in by_ref["Isaiah 41:16"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

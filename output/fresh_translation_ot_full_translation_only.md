@@ -74670,55 +74670,55 @@ But those enduring for God will change strength, they will grow wings like eagle
 
 **Isaiah 41:1**
 
-Renew yourselves to me, islands, for rulers will change strength. Let them come near and speak together; then let them announce judgment.
+Renew yourselves to me, islands, for the rulers will change strength. Let them come near and speak together; then let them announce judgment.
 
 **Isaiah 41:2**
 
-Who raised from east righteousness? He called it to his feet and it will go. He will give nations before him and astonish kings and give their swords into earth and their bows as driven brushwood.
+Who raised righteousness from the east? He called it to his feet and it will go. He will give nations before him and astonish kings and give their swords into the earth and their bows as driven brushwood.
 
 **Isaiah 41:3**
 
-And he will pursue them and pass through in peace, way of his feet.
+And he will pursue them and pass through in peace, the way of his feet.
 
 **Isaiah 41:4**
 
-Who worked and did these things? He called it from generations of beginning. I am God, first, and in things coming I am.
+Who worked and did these things? He called it from the generations of beginning. I am God, first, and in the things coming I am.
 
 **Isaiah 41:5**
 
-Nations saw and feared; ends of the earth drew near and came together.
+The nations saw and feared; the ends of the earth drew near and came together.
 
 **Isaiah 41:6**
 
-Each judging for neighbor and saying to brother, Help.
+Each one judging for his neighbor and saying to his brother, Help.
 
 **Isaiah 41:7**
 
-Craftsman strengthened, and bronze-smith striking hammer while driving. At one time he says, Joint is good; they strengthened them with nails and they will not be moved.
+A craftsman strengthened, and a bronze-smith striking with a hammer while driving. At one time he says, The joint is good; they strengthened them with nails and they will not be moved.
 
 **Isaiah 41:8**
 
-But you, Israel, my servant, Jacob whom I chose, seed of Abraham whom I loved,
+But you, Israel, my servant, Jacob whom I chose, the seed of Abraham whom I loved,
 
 **Isaiah 41:9**
 
-whom I took hold from edges of earth and called from its watchpoints, and I said to you, You are my servant; I chose you and did not abandon you.
+whom I took hold from the edges of the earth and called from its watchpoints, and I said to you, You are my servant; I chose you and did not abandon you.
 
 **Isaiah 41:10**
 
-Do not fear, for I am with you; do not wander, for I am your God, one strengthening you and helping you, and I secured you by my right righteous hand.
+Do not fear, for I am with you; do not wander, for I am your God, the one strengthening you and helping you, and I secured you by my right righteous hand.
 
 **Isaiah 41:11**
 
-Behold, all opposing you will be ashamed and put to shame, for they will be as not existing, and all your adversaries will perish.
+Behold, all those opposing you will be ashamed and put to shame, for they will be as not existing, and all your adversaries will perish.
 
 **Isaiah 41:12**
 
-You will seek them and certainly not find men who rage against you, for those fighting against you will be as not existing and will not be.
+You will seek them and certainly not find the men who rage against you, for the ones fighting against you will be as not existing and will not be.
 
 **Isaiah 41:13**
 
-For I am your God, holding your right hand, saying to you, Do not fear.
+For I am your God, the one holding your right hand, saying to you, Do not fear.
 
 **Isaiah 41:14**
 
@@ -74726,11 +74726,11 @@ Jacob, little one; Israel, I helped you, says God, one redeeming you, Israel.
 
 **Isaiah 41:15**
 
-Behold, I made you as new threshing wheels of wagon, saw-toothed, and you will thresh mountains and make hills fine and make them as dust.
+Behold, I made you as new threshing wheels of a wagon, saw-toothed, and you will thresh the mountains and make the hills fine and make them as dust.
 
 **Isaiah 41:16**
 
-And you will winnow them, and wind will take them and storm scatter them. But you will rejoice in the holy things of Israel, and they will exult.
+And you will winnow them, and a wind will take them and a storm scatter them. But you will rejoice in the holy things of Israel, and they will exult.
 
 **Isaiah 41:17**
 
