@@ -4357,6 +4357,21 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "His throat is sweetness" in by_ref["Song of Solomon 5:16"][
         "draft_translation"
     ]
+    assert "I am to my beloved" in by_ref["Song of Solomon 6:3"][
+        "draft_translation"
+    ]
+    assert "awe-inspiring as battle-lines" in by_ref["Song of Solomon 6:4"][
+        "draft_translation"
+    ]
+    assert "Your lips are like a scarlet cord" in by_ref[
+        "Song of Solomon 6:7"
+    ]["draft_translation"]
+    assert "beautiful as the moon, chosen as the sun" in by_ref[
+        "Song of Solomon 6:10"
+    ]["draft_translation"]
+    assert "Into a garden of walnut trees" in by_ref["Song of Solomon 6:11"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]

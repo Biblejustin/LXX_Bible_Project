@@ -52454,6 +52454,15 @@ Rows: 20937
 - mt: And Isaac dug again the wells of water, which they had dug in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.
 - brenton: And Isaac dug again the wells of water, which the servants of his father Abraam had dug, and the Phylistines had stopped them, after the death of his father Abraam; and he gave them names, according to the names by which his father named them.
 
+## Song of Solomon 6:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.383`
+- fresh_brenton_ratio: `0.479`
+- fresh: Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
+- mt: As a piece of a pomegranate are your temples within your locks.
+- brenton: Thy cheek is like the rind of a pomegranate, being seen without thy veil.
+
 ## Exodus 38:20
 - priority: `0`
 - importance: `none`
@@ -60184,15 +60193,6 @@ Rows: 20937
 - fresh: And now did we go up against this land without the Lord to war against it?
 - mt: And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.
 - brenton: And now, Have we come up against this land to fight against it without the Lord? The Lord said to me, Go up against this land, and destroy it.
-
-## Song of Solomon 6:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.443`
-- fresh_brenton_ratio: `0.432`
-- fresh: As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
-- mt: As a piece of a pomegranate are your temples within your locks.
-- brenton: Thy cheek is like the rind of a pomegranate, being seen without thy veil.
 
 ## Micah 7:5
 - priority: `0`
@@ -68366,15 +68366,6 @@ Rows: 20937
 - mt: Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray you, to your servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.
 - brenton: And Heliakim the son of Chelkias, and Somnas, and Joas, said to Rapsakes, Speak now to thy servants in the Syrian language, for we understand it; and speak not with us in the Jewish language: and why dost thou speak in the ears of the people that are on the wall?
 
-## Song of Solomon 6:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.503`
-- fresh_brenton_ratio: `0.509`
-- fresh: Into garden of walnut I went down, to see among produce of torrent, to see whether vine blossomed, pomegranates bloomed. There I will give my breasts to you.
-- mt: I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished and the pomegranates budded.
-- brenton: I went down to the garden of nuts, to look at the fruits of the valley, to see if the vine flowered, if the pomegranates blossomed.
-
 ## Job 18:7
 - priority: `0`
 - importance: `none`
@@ -76115,6 +76106,15 @@ Rows: 20937
 - mt: Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before.
 - brenton: Neither shall they take to themselves to wife a widow, or one that is put away, but a virgin of the seed of Israel: but if there should happen to be a priest's widow, they shall take her.
 
+## Song of Solomon 6:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.547`
+- fresh_brenton_ratio: `0.540`
+- fresh: Into a garden of walnut trees I went down, to see among the produce of the torrent, to see whether the vine blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
+- mt: I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished and the pomegranates budded.
+- brenton: I went down to the garden of nuts, to look at the fruits of the valley, to see if the vine flowered, if the pomegranates blossomed.
+
 ## Numbers 11:35
 - priority: `0`
 - importance: `none`
@@ -76132,15 +76132,6 @@ Rows: 20937
 - fresh: Behold, these things we searched out. These are what we heard. But you, know for yourself if you did anything.
 - mt: Lo this, we have searched it, so it is; hear it, and know you it for your good.
 - brenton: Behold, we have thus sought out these matters; these are what we have heard: but do thou reflect with thyself, if thou hast done anything wrong.
-
-## Song of Solomon 6:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.547`
-- fresh_brenton_ratio: `0.587`
-- fresh: My soul did not know; it set me among chariots of Amminadab.
-- mt: Before even I was aware, my soul made me like the chariots of Amminadib.
-- brenton: There I will give thee my breasts: my soul knew it not: it made me as the chariots of Aminadab.
 
 ## Ecclesiastes 11:1
 - priority: `0`
@@ -80128,15 +80119,6 @@ Rows: 20937
 - fresh: Do, son, what I command you, and save yourself, for you came into the hands of evil men through your friend. Go, do not grow slack, but press your friend whom you guaranteed.
 - mt: Do this now, my son, and deliver yourself, when you are come into the hand of your friend; go, humble yourself, and make sure your friend.
 - brenton: My son, do what I command thee, and deliver thyself; for on thy friend's account thou art come into the power of evil men: faint not, but stir up even thy friend for whom thou art become surety.
-
-## Song of Solomon 6:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.566`
-- fresh_brenton_ratio: `0.605`
-- fresh: Who is this looking forth as dawn, beautiful as moon, chosen as sun, awe as battle-lines?
-- mt: Who is she that looks forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?
-- brenton: Who is this that looks forth as the morning, fair as the moon, choice as the sun, terrible as armies set in array?
 
 ## Isaiah 8:1
 - priority: `0`
@@ -85880,6 +85862,15 @@ Rows: 20937
 - mt: The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
 - brenton: Beth. The precious sons of Zion, who were equalled in value with gold, how are they counted as earthen vessels, the works of the hands of the potter!
 
+## Song of Solomon 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.591`
+- fresh_brenton_ratio: `0.623`
+- fresh: My soul did not know; it set me among the chariots of Amminadab.
+- mt: Before even I was aware, my soul made me like the chariots of Amminadib.
+- brenton: There I will give thee my breasts: my soul knew it not: it made me as the chariots of Aminadab.
+
 ## Proverbs 2:10
 - priority: `0`
 - importance: `none`
@@ -91172,6 +91163,15 @@ Rows: 20937
 - mt: And it shall come to pass in that day, that his burden shall be taken away from off your shoulder, and his yoke from off your neck, and the yoke shall be destroyed because of the anointing.
 - brenton: And it shall come to pass in that day, that his yoke shall be taken away from thy shoulder, and his fear from thee, and the yoke shall be destroyed from off your shoulders.
 
+## Song of Solomon 6:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.611`
+- fresh_brenton_ratio: `0.648`
+- fresh: Who is this looking forth as dawn, beautiful as the moon, chosen as the sun, awe-inspiring as battle-lines?
+- mt: Who is she that looks forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?
+- brenton: Who is this that looks forth as the morning, fair as the moon, choice as the sun, terrible as armies set in array?
+
 ## Isaiah 2:10
 - priority: `0`
 - importance: `none`
@@ -95483,15 +95483,6 @@ Rows: 20937
 - mt: And thus shall you do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.
 - brenton: And thus shalt thou perform their purification: thou shalt sprinkle them with water of purification, and a razor shall come upon the whole of their body, and they shall wash their garments, and shall be clean.
 
-## Song of Solomon 6:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.627`
-- fresh_brenton_ratio: `0.391`
-- fresh: Beautiful you, my dear one, as Delight; lovely as Jerusalem; awe as battle-lines.
-- mt: You are beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
-- brenton: Thou art fair, my companion, as Pleasure, beautiful as Jerusalem, terrible as armies set in array.
-
 ## Zephaniah 3:12
 - priority: `0`
 - importance: `none`
@@ -97948,15 +97939,6 @@ Rows: 20937
 - fresh: And he built the city all around and fought and took the city.
 - mt: And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.
 - brenton: And he fortified the city round about.
-
-## Song of Solomon 6:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.634`
-- fresh_brenton_ratio: `0.593`
-- fresh: Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
-- mt: Your teeth are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them.
-- brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing, all of them bearing twins, and there is none barren among them: thy lips are as a thread of scarlet, and thy speech is comely.
 
 ## 2 Chronicles 12:12
 - priority: `0`
@@ -108253,6 +108235,15 @@ Rows: 20937
 - fresh: Because in faithlessness the house of Israel and the house of Judah acted faithlessly toward me, says the Lord.
 - mt: For the house of Israel and the house of Judah have dealt very treacherously against me, says the LORD.
 - brenton: For the house of Israel have indeed dealt treacherously against me, saith the Lord: the house of Juda also
+
+## Song of Solomon 6:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.667`
+- fresh_brenton_ratio: `0.459`
+- fresh: You are beautiful, my dear one, as Delight; lovely as Jerusalem; awe-inspiring as battle-lines.
+- mt: You are beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
+- brenton: Thou art fair, my companion, as Pleasure, beautiful as Jerusalem, terrible as armies set in array.
 
 ## Judges 6:32
 - priority: `0`
@@ -132824,6 +132815,15 @@ Rows: 20937
 - mt: He causes it to come, whether for correction, or for his land, or for mercy.
 - brenton: this has been appointed by him on the earth, whether for correction, or for his land, or if he shall find him an object for mercy.
 
+## Song of Solomon 6:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.729`
+- fresh_brenton_ratio: `0.652`
+- fresh: Your teeth are like a herd of shorn sheep that came up from washing, all bearing twins, and there is not a barren one among them.
+- mt: Your teeth are as a flock of sheep which go up from the washing, whereof every one bears twins, and there is not one barren among them.
+- brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing, all of them bearing twins, and there is none barren among them: thy lips are as a thread of scarlet, and thy speech is comely.
+
 ## Deuteronomy 22:8
 - priority: `0`
 - importance: `none`
@@ -138907,15 +138907,6 @@ Rows: 20937
 - fresh: And their lot came to be Beersheba and Sheba and Moladah,
 - mt: And they had in their inheritance Beersheba, and Sheba, and Moladah,
 - brenton: And their lot was Beersabee, and Samaa, and Caladam,
-
-## Song of Solomon 6:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.744`
-- fresh_brenton_ratio: `0.686`
-- fresh: Turn your eyes from before me, because they gave me wings. Your hair like herds of goats that appeared from Gilead.
-- mt: Turn away yours eyes from me, for they have overcome me: your hair is as a flock of goats that appear from Gilead.
-- brenton: Turn away thine eyes from before me, for they have ravished me: thy hair is as flocks of goats which have appeared from Galaad.
 
 ## 2 Chronicles 24:17
 - priority: `0`
@@ -145990,6 +145981,15 @@ Rows: 20937
 - fresh: And next to them were sons of men of Jericho, and next to them sons of Zaccur son of Imri.
 - mt: And next unto him built the men of Jericho. And next to them built Zaccur the son of Imri.
 - brenton: And they builded by the side of the men of Jericho, and by the side of the sons of Zacchur, the son of Amari.
+
+## Song of Solomon 6:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.761`
+- fresh_brenton_ratio: `0.703`
+- fresh: Turn your eyes from before me, because they gave me wings. Your hair is like herds of goats that appeared from Gilead.
+- mt: Turn away yours eyes from me, for they have overcome me: your hair is as a flock of goats that appear from Gilead.
+- brenton: Turn away thine eyes from before me, for they have ravished me: thy hair is as flocks of goats which have appeared from Galaad.
 
 ## Exodus 33:2
 - priority: `0`
@@ -155044,15 +155044,6 @@ Rows: 20937
 - fresh: And the king did not listen to people, because turn came from God, so that the Lord might raise up his word which he spoke by the hand of Ahijah the Shilonite concerning Jeroboam son of Nebat.
 - mt: So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spoke by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
 - brenton: And the king hearkened not to the people, for there was a change of their minds from God, saying, The Lord has confirmed his word, which he spoke by the hand of Achia the Selonite concerning Jeroboam the son of Nabat, and concerning all Israel;
-
-## Song of Solomon 6:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.785`
-- fresh_brenton_ratio: `0.519`
-- fresh: I to my beloved, and my beloved to me, one shepherding among lilies.
-- mt: I am my beloved's, and my beloved is mine: he feeds among the lilies.
-- brenton: I am my kinsman's, and my kinsman is mine, who feeds among the lilies.
 
 ## Genesis 9:3
 - priority: `0`
@@ -166213,6 +166204,15 @@ Rows: 20937
 - fresh: And shame consumed labors of our fathers from our youth, their sheep and their calves and their sons and their daughters.
 - mt: For shame has devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
 - brenton: But shame has consumed the labours of our fathers from our youth; their sheep and their calves, and their sons and their daughters.
+
+## Song of Solomon 6:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.819`
+- fresh_brenton_ratio: `0.579`
+- fresh: I am to my beloved, and my beloved is to me, the one shepherding among the lilies.
+- mt: I am my beloved's, and my beloved is mine: he feeds among the lilies.
+- brenton: I am my kinsman's, and my kinsman is mine, who feeds among the lilies.
 
 ## Ezekiel 15:8
 - priority: `0`

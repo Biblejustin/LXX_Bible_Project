@@ -71246,23 +71246,23 @@ My beloved went down into his garden, into bowls of spice, to shepherd in garden
 
 **Song of Solomon 6:3**
 
-I to my beloved, and my beloved to me, one shepherding among lilies.
+I am to my beloved, and my beloved is to me, the one shepherding among the lilies.
 
 **Song of Solomon 6:4**
 
-Beautiful you, my dear one, as Delight; lovely as Jerusalem; awe as battle-lines.
+You are beautiful, my dear one, as Delight; lovely as Jerusalem; awe-inspiring as battle-lines.
 
 **Song of Solomon 6:5**
 
-Turn your eyes from before me, because they gave me wings. Your hair like herds of goats that appeared from Gilead.
+Turn your eyes from before me, because they gave me wings. Your hair is like herds of goats that appeared from Gilead.
 
 **Song of Solomon 6:6**
 
-Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
+Your teeth are like a herd of shorn sheep that came up from washing, all bearing twins, and there is not a barren one among them.
 
 **Song of Solomon 6:7**
 
-As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
+Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
 
 **Song of Solomon 6:8**
 
@@ -71274,15 +71274,15 @@ One is my dove, my perfect one; one to her mother, chosen to one who bore her. D
 
 **Song of Solomon 6:10**
 
-Who is this looking forth as dawn, beautiful as moon, chosen as sun, awe as battle-lines?
+Who is this looking forth as dawn, beautiful as the moon, chosen as the sun, awe-inspiring as battle-lines?
 
 **Song of Solomon 6:11**
 
-Into garden of walnut I went down, to see among produce of torrent, to see whether vine blossomed, pomegranates bloomed. There I will give my breasts to you.
+Into a garden of walnut trees I went down, to see among the produce of the torrent, to see whether the vine blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
 
 **Song of Solomon 6:12**
 
-My soul did not know; it set me among chariots of Amminadab.
+My soul did not know; it set me among the chariots of Amminadab.
 
 ### Chapter 7
 

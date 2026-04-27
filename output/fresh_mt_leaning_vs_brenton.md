@@ -2117,15 +2117,6 @@ Rows: 726
 - mt: And the king said unto her, What disturbs you? And she answered, I am indeed a widow woman, and mine husband is dead.
 - brenton: And the king said to her, What is the matter with thee?
 
-## Song of Solomon 6:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.785`
-- fresh_brenton_ratio: `0.519`
-- fresh: I to my beloved, and my beloved to me, one shepherding among lilies.
-- mt: I am my beloved's, and my beloved is mine: he feeds among the lilies.
-- brenton: I am my kinsman's, and my kinsman is mine, who feeds among the lilies.
-
 ## 1 Chronicles 15:17
 - priority: `0`
 - importance: `none`
@@ -2332,6 +2323,15 @@ Rows: 726
 - fresh: And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
 - mt: And weighed unto them the silver, and the gold, and the vessels, even the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel there present, had offered:
 - brenton: And I weighed to them the silver, and the gold, and the vessels of the first-fruits of the house of our God, which the king, and his councillors, and his princes, and all Israel that were found, had dedicated.
+
+## Song of Solomon 6:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.819`
+- fresh_brenton_ratio: `0.579`
+- fresh: I am to my beloved, and my beloved is to me, the one shepherding among the lilies.
+- mt: I am my beloved's, and my beloved is mine: he feeds among the lilies.
+- brenton: I am my kinsman's, and my kinsman is mine, who feeds among the lilies.
 
 ## 1 Chronicles 26:2
 - priority: `0`

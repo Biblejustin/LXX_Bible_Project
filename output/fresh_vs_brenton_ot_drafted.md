@@ -157216,46 +157216,46 @@ Note:
 ### Song of Solomon 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I to my beloved, and my beloved to me, one shepherding among lilies.
+- fresh: I am to my beloved, and my beloved is to me, the one shepherding among the lilies.
 - brenton: I am my kinsman's, and my kinsman is mine, who feeds among the lilies.
 
 ### Song of Solomon 6:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beautiful you, my dear one, as Delight; lovely as Jerusalem; awe as battle-lines.
+- fresh: You are beautiful, my dear one, as Delight; lovely as Jerusalem; awe-inspiring as battle-lines.
 - brenton: Thou art fair, my companion, as Pleasure, beautiful as Jerusalem, terrible as armies set in array.
 
 ### Song of Solomon 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn your eyes from before me, because they gave me wings. Your hair like herds of goats that appeared from Gilead.
+- fresh: Turn your eyes from before me, because they gave me wings. Your hair is like herds of goats that appeared from Gilead.
 - brenton: Turn away thine eyes from before me, for they have ravished me: thy hair is as flocks of goats which have appeared from Galaad.
 
 ### Song of Solomon 6:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your teeth like a herd of shorn sheep that came up from washing, all bearing twins, and barren one not among them.
+- fresh: Your teeth are like a herd of shorn sheep that came up from washing, all bearing twins, and there is not a barren one among them.
 - brenton: Thy teeth are as flocks of shorn sheep, that have gone up from the washing, all of them bearing twins, and there is none barren among them: thy lips are as a thread of scarlet, and thy speech is comely.
 
 ### Song of Solomon 6:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As scarlet cord your lips, and your speech beautiful; as a piece of pomegranate your cheek behind your veil.
+- fresh: Your lips are like a scarlet cord, and your speech is beautiful; your cheek is like a piece of pomegranate behind your veil.
 - brenton: Thy cheek is like the rind of a pomegranate, being seen without thy veil.
 
 ### Song of Solomon 6:8
@@ -157279,28 +157279,28 @@ Note:
 ### Song of Solomon 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is this looking forth as dawn, beautiful as moon, chosen as sun, awe as battle-lines?
+- fresh: Who is this looking forth as dawn, beautiful as the moon, chosen as the sun, awe-inspiring as battle-lines?
 - brenton: Who is this that looks forth as the morning, fair as the moon, choice as the sun, terrible as armies set in array?
 
 ### Song of Solomon 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Into garden of walnut I went down, to see among produce of torrent, to see whether vine blossomed, pomegranates bloomed. There I will give my breasts to you.
+- fresh: Into a garden of walnut trees I went down, to see among the produce of the torrent, to see whether the vine blossomed, whether the pomegranates bloomed. There I will give my breasts to you.
 - brenton: I went down to the garden of nuts, to look at the fruits of the valley, to see if the vine flowered, if the pomegranates blossomed.
 
 ### Song of Solomon 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My soul did not know; it set me among chariots of Amminadab.
+- fresh: My soul did not know; it set me among the chariots of Amminadab.
 - brenton: There I will give thee my breasts: my soul knew it not: it made me as the chariots of Aminadab.
 
 ### Song of Solomon 7:1
