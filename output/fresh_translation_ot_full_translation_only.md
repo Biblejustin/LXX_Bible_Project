@@ -71414,7 +71414,7 @@ Hear, heaven, and give ear, earth, because the Lord spoke: Sons I begot and rais
 
 **Isaiah 1:3**
 
-Ox knew one acquiring it, and donkey manger of its master; but Israel did not know me, and people did not understand me.
+The ox knew the one acquiring it, and the donkey the manger of its master; but Israel did not know me, and the people did not understand me.
 
 **Isaiah 1:4**
 
@@ -71422,7 +71422,7 @@ Woe, sinful nation, people full of sins, evil seed, lawless sons. You abandoned 
 
 **Isaiah 1:5**
 
-Why still be struck, adding lawlessness? Every head into pain and every heart into grief.
+Why still be struck, adding lawlessness? Every head is in pain and every heart in grief.
 
 **Isaiah 1:6**
 
@@ -71430,11 +71430,11 @@ From feet to head neither wound nor bruise nor burning stripe; there is no salve
 
 **Isaiah 1:7**
 
-Your land desolate, your cities burned with fire; your country before you foreigners devour it, and it has been desolated, overthrown by foreign peoples.
+Your land is desolate, your cities burned with fire; foreigners devour your country before you, and it has been desolated, overthrown by foreign peoples.
 
 **Isaiah 1:8**
 
-The daughter of Zion will be left as a tent in vineyard, and as watch-hut in cucumber patch, as a city under siege.
+The daughter of Zion will be left as a tent in a vineyard, and as a watch-hut in a cucumber patch, as a city under siege.
 
 **Isaiah 1:9**
 
@@ -71446,7 +71446,7 @@ Hear the word of the Lord, rulers of Sodom; heed the law of God, people of Gomor
 
 **Isaiah 1:11**
 
-What to me multitude of your sacrifices, says the Lord? I am full of whole burnt offerings of rams and fat of lambs, and blood of bulls and goats I do not want.
+What is the multitude of your sacrifices to me, says the Lord? I am full of whole burnt offerings of rams and fat of lambs, and blood of bulls and goats I do not want.
 
 **Isaiah 1:12**
 
@@ -71454,7 +71454,7 @@ Not even when you come to appear to me. For who sought these from your hands, to
 
 **Isaiah 1:13**
 
-You will not continue. If you bring fine flour, it is vain; incense is abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
+You will not continue. If you bring fine flour, it is vain; incense is an abomination to me. Your new moons and Sabbaths and a great day I do not endure, fasting and idleness.
 
 **Isaiah 1:14**
 
@@ -71462,7 +71462,7 @@ Your new moons and your feasts my soul hates; you became fullness to me; no long
 
 **Isaiah 1:15**
 
-When you stretch out hands to me, I will turn my eyes from you; and if you multiply supplication, I will not hear you, because your hands full of blood.
+When you stretch out hands to me, I will turn my eyes from you; and if you multiply supplication, I will not hear you, because your hands are full of blood.
 
 **Isaiah 1:16**
 
@@ -71470,7 +71470,7 @@ Wash, become clean, remove evils from your souls before my eyes; stop from your 
 
 **Isaiah 1:17**
 
-Learn to do good, seek judgment, rescue one being wronged, judge for orphan, justify widow.
+Learn to do good, seek judgment, rescue one being wronged, judge for the orphan, justify the widow.
 
 **Isaiah 1:18**
 
@@ -71478,19 +71478,19 @@ Come and let us reason together, says the Lord. And if your sins are as scarlet,
 
 **Isaiah 1:19**
 
-If you are willing and listen to me, good things of land you will eat.
+If you are willing and listen to me, the good things of the land you will eat.
 
 **Isaiah 1:20**
 
-If not willing nor listen to me, sword will devour you, for the mouth of the Lord spoke these things.
+If you are not willing and do not listen to me, a sword will devour you, for the mouth of the Lord spoke these things.
 
 **Isaiah 1:21**
 
-How faithful city Zion became prostitute, full of judgment, in which righteousness slept, but now murderers.
+How the faithful city Zion became a prostitute, full of judgment, in which righteousness slept, but now murderers.
 
 **Isaiah 1:22**
 
-Your silver unapproved, your tavern-keepers mix wine with water.
+Your silver is unapproved, your tavern-keepers mix wine with water.
 
 **Isaiah 1:23**
 
@@ -71498,7 +71498,7 @@ Your rulers disobey, companions of thieves, loving gifts, pursuing repayment; no
 
 **Isaiah 1:24**
 
-Therefore thus says the Master, the Lord of hosts, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
+Therefore thus says the Master, the Lord of hosts, Woe to the mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
 
 **Isaiah 1:25**
 
@@ -71522,11 +71522,11 @@ Because they will be ashamed over their idols which they wanted, and they were p
 
 **Isaiah 1:30**
 
-For they will be as terebinth that has cast off leaves, and as orchard having no water.
+For they will be as a terebinth that has cast off leaves, and as an orchard having no water.
 
 **Isaiah 1:31**
 
-Their strength will be as stalk of tow and their works as sparks of fire, and lawless and sinners will be burned together, and there will not be one to quench.
+Their strength will be as a stalk of tow and their works as sparks of fire, and lawless and sinners will be burned together, and there will not be one to quench.
 
 ### Chapter 2
 
@@ -71536,11 +71536,11 @@ The word that came from the Lord to Isaiah son of Amoz concerning Judah and conc
 
 **Isaiah 2:2**
 
-Because in the last days the mountain of the Lord and the house of God will be manifest on peaks of mountains, and will be lifted above hills, and all nations will come upon it.
+Because in the last days the mountain of the Lord and the house of God will be manifest on the peaks of mountains, and will be lifted above the hills, and all nations will come upon it.
 
 **Isaiah 2:3**
 
-Many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
+Many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion the law will come out, and the word of the Lord from Jerusalem.
 
 **Isaiah 2:4**
 
@@ -71552,15 +71552,15 @@ And now, house of Jacob, come, let us walk in the light of the Lord.
 
 **Isaiah 2:6**
 
-For he let go his people, house of Israel, because their land was filled as from the beginning with divinations as land of foreigners, and many foreign sons were born to them.
+For he let go his people, house of Israel, because their land was filled as from the beginning with divinations, as the land of foreigners, and many foreign sons were born to them.
 
 **Isaiah 2:7**
 
-Their land filled with silver and gold, and there was no number of their treasures, and land filled with horses, and there was no number of their chariots.
+Their land was filled with silver and gold, and there was no number of their treasures, and the land was filled with horses, and there was no number of their chariots.
 
 **Isaiah 2:8**
 
-Their land filled with abominations, works of their hands, and they bowed to what their fingers made.
+Their land was filled with abominations, works of their hands, and they bowed to what their fingers made.
 
 **Isaiah 2:9**
 
@@ -71568,15 +71568,15 @@ Man bent down, and male was humbled, and I will certainly not let them go.
 
 **Isaiah 2:10**
 
-And now enter rocks and hide in earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+And now enter the rocks and hide in the earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 
 **Isaiah 2:11**
 
-For eyes of the Lord high, but man low, and the height of men will be humbled, and the Lord alone will be exalted in that day.
+For the eyes of the Lord are high, but man is low, and the height of men will be humbled, and the Lord alone will be exalted in that day.
 
 **Isaiah 2:12**
 
-For the day of the Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
+For the day of the Lord of hosts is upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 
 **Isaiah 2:13**
 
@@ -71592,7 +71592,7 @@ And upon every high tower and every high wall.
 
 **Isaiah 2:16**
 
-And upon every ship of sea and upon every sight of beauty of ships.
+And upon every ship of the sea and upon every sight of beauty of ships.
 
 **Isaiah 2:17**
 
@@ -71604,7 +71604,7 @@ All handmade things they will utterly hide.
 
 **Isaiah 2:19**
 
-Carrying them into caves and fissures of rocks and hollows of earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+Carrying them into the caves and into the fissures of the rocks and into the hollows of the earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 
 **Isaiah 2:20**
 
@@ -71612,21 +71612,21 @@ For in that day man will throw out his silver and gold abominations, which they 
 
 **Isaiah 2:21**
 
-To enter hollows of solid rock and fissures of rocks from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+To enter the hollows of solid rock and the fissures of rocks from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 
 ### Chapter 3
 
 **Isaiah 3:1**
 
-Look now, Master, the Lord of hosts, will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
+Look now, the Master, the Lord of hosts, will take from Judah and Jerusalem a strong man and a strong woman, strength of bread and strength of water,
 
 **Isaiah 3:2**
 
-giant and strong man and man of war, and judge and prophet and diviner and elder,
+a giant and a strong man and a man of war, and a judge and a prophet and a diviner and an elder,
 
 **Isaiah 3:3**
 
-and captain of fifty and wonderful counselor and wise craftsman and understanding listener.
+and a captain of fifty and a wonderful counselor and a wise craftsman and an understanding listener.
 
 **Isaiah 3:4**
 
@@ -71634,15 +71634,15 @@ I will appoint youths their rulers, and mockers will lord over them.
 
 **Isaiah 3:5**
 
-The people will fall together, man against man and man against his neighbor; child will strike against elder, dishonorable one against honorable.
+The people will fall together, man against man and man against his neighbor; a child will strike against an elder, the dishonorable one against the honorable.
 
 **Isaiah 3:6**
 
-Because man will seize his brother or one of his father's household, saying, You have clothing, become our leader, and let my food be under you.
+Because a man will seize his brother or one of his father's household, saying, You have clothing, become our leader, and let my food be under you.
 
 **Isaiah 3:7**
 
-He will answer and say in that day, I will not be your leader, for in my house there is neither bread nor clothing; I will not be leader of this people.
+He will answer and say in that day, I will not be your leader, for in my house there is neither bread nor clothing; I will not be the leader of this people.
 
 **Isaiah 3:8**
 
@@ -71650,19 +71650,19 @@ Because Jerusalem is abandoned and Judah has fallen, and their tongues with lawl
 
 **Isaiah 3:9**
 
-Shame of their face stood against them, and their sin they announced as Sodom and made it plain. Woe to their soul, because they planned evil counsel against themselves.
+The shame of their face stood against them, and their sin they announced as Sodom and made it plain. Woe to their soul, because they planned evil counsel against themselves.
 
 **Isaiah 3:10**
 
-Saying, Let us bind righteous one, because he is inconvenient to us; therefore they will eat produce of their works.
+Saying, Let us bind the righteous one, because he is inconvenient to us; therefore they will eat the produce of their works.
 
 **Isaiah 3:11**
 
-Woe to lawless one; evil will happen to him according to the works of his hands.
+Woe to the lawless one; evil will happen to him according to the works of his hands.
 
 **Isaiah 3:12**
 
-My people, your exactors glean you, and those collecting dues lord over you. My people, those calling you blessed lead you astray and trouble path of your feet.
+My people, your exactors glean you, and those collecting dues lord over you. My people, those calling you blessed lead you astray and trouble the path of your feet.
 
 **Isaiah 3:13**
 
@@ -71670,31 +71670,31 @@ But now the Lord will stand for judgment and stand to judge his people.
 
 **Isaiah 3:14**
 
-The Lord himself will come into judgment with the elders of his people and with their rulers: But you, why did you burn my vineyard, and spoil of poor in your houses?
+The Lord himself will come into judgment with the elders of his people and with their rulers: But you, why did you burn my vineyard, and the spoil of the poor in your houses?
 
 **Isaiah 3:15**
 
-Why do you wrong my people and shame face of poor?
+Why do you wrong my people and shame the face of the poor?
 
 **Isaiah 3:16**
 
-Thus says the Lord: Because daughters of Zion were lifted high and walked with high neck and with winks of eyes and in walking of feet dragging tunics together and playing together with feet,
+Thus says the Lord: Because the daughters of Zion were lifted high and walked with a high neck and with winks of eyes and in the walking of feet, dragging tunics together and playing together with feet,
 
 **Isaiah 3:17**
 
-God will humble ruling daughters of Zion, and the Lord will uncover their form.
+God will humble the ruling daughters of Zion, and the Lord will uncover their form.
 
 **Isaiah 3:18**
 
-In that day the Lord will take away glory of their clothing and their ornaments and braids and hair-nets and crescent-moons,
+In that day the Lord will take away the glory of their clothing and their ornaments and braids and hair-nets and crescent-moons,
 
 **Isaiah 3:19**
 
-and the hangings and ornament of their face,
+and the hangings and the ornament of their face,
 
 **Isaiah 3:20**
 
-and arrangement of ornament of glory and bracelets and armlets and headdress and wrist-bands and rings and earrings,
+and the arrangement of the ornament of glory and bracelets and armlets and headdress and wrist-bands and rings and earrings,
 
 **Isaiah 3:21**
 
@@ -71702,7 +71702,7 @@ and purple garments and garments bordered in purple,
 
 **Isaiah 3:22**
 
-and robes for house and transparent Laconian cloths,
+and robes for the house and transparent Laconian cloths,
 
 **Isaiah 3:23**
 
@@ -71710,7 +71710,7 @@ and fine linen and blue and scarlet and linen woven together with gold and blue,
 
 **Isaiah 3:24**
 
-It will be, instead of sweet smell is dust, and instead of belt you will bind with rope, and instead of golden ornament of head you will have baldness because of your works, and instead of tunic bordered in purple you will gird yourself with sackcloth.
+It will be, instead of a sweet smell there will be dust, and instead of a belt you will bind with rope, and instead of the golden ornament of the head you will have baldness because of your works, and instead of a tunic bordered in purple you will gird yourself with sackcloth.
 
 **Isaiah 3:25**
 
@@ -71718,7 +71718,7 @@ Your most beautiful son whom you love will fall by sword, and your mighty men wi
 
 **Isaiah 3:26**
 
-Cases of your ornament will be humbled and mourn, and you will be left alone and dashed to ground.
+The cases of your ornament will be humbled and mourn, and you will be left alone and dashed to the ground.
 
 ### Chapter 4
 
@@ -71728,23 +71728,23 @@ Seven women will seize one man, saying, We will eat our bread and wear our cloth
 
 **Isaiah 4:2**
 
-In that day God will shine forth in counsel with glory upon earth, to lift up and glorify the remnant of Israel.
+In that day God will shine forth in counsel with glory upon the earth, to lift up and glorify the remnant of Israel.
 
 **Isaiah 4:3**
 
-It shall be that one left in Zion and one left in Jerusalem will be called holy, all written for life in Jerusalem.
+It shall be that the one left in Zion and the one left in Jerusalem will be called holy, all who are written for life in Jerusalem.
 
 **Isaiah 4:4**
 
-Because the Lord will wash filth of sons and daughters of Zion and cleanse blood from their midst by the spirit of judgment and spirit of burning.
+Because the Lord will wash the filth of the sons and daughters of Zion and cleanse the blood from their midst by the spirit of judgment and the spirit of burning.
 
 **Isaiah 4:5**
 
-He will come and there will be over every place of Mount Zion and all around her a cloud will overshadow by day, like smoke, and like light of burning fire by night. Over all glory it will be covered.
+He will come, and over every place of Mount Zion and all around her, a cloud will overshadow by day, like smoke, and like light of burning fire by night. Over all the glory it will be covered.
 
 **Isaiah 4:6**
 
-And it will be for shade from heat and for shelter and hiding from harshness and rain.
+And it will be for shade from the heat and for shelter and hiding from harshness and rain.
 
 ### Chapter 5
 

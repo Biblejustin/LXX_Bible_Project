@@ -157578,10 +157578,10 @@ Note:
 ### Isaiah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ox knew one acquiring it, and donkey manger of its master; but Israel did not know me, and people did not understand me.
+- fresh: The ox knew the one acquiring it, and the donkey the manger of its master; but Israel did not know me, and the people did not understand me.
 - brenton: The ox knows his owner, and the ass his master's crib: but Israel does not know me, and the people has not regarded me.
 
 ### Isaiah 1:4
@@ -157596,10 +157596,10 @@ Note:
 ### Isaiah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why still be struck, adding lawlessness? Every head into pain and every heart into grief.
+- fresh: Why still be struck, adding lawlessness? Every head is in pain and every heart in grief.
 - brenton: Why should ye be smitten any more, transgressing more and more? the whole head is pained, and the whole heart sad.
 
 ### Isaiah 1:6
@@ -157614,19 +157614,19 @@ Note:
 ### Isaiah 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your land desolate, your cities burned with fire; your country before you foreigners devour it, and it has been desolated, overthrown by foreign peoples.
+- fresh: Your land is desolate, your cities burned with fire; foreigners devour your country before you, and it has been desolated, overthrown by foreign peoples.
 - brenton: Your land is desolate, your cities burned with fire: your land, strangers devour it in your presence, and it is made desolate, overthrown by strange nations.
 
 ### Isaiah 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The daughter of Zion will be left as a tent in vineyard, and as watch-hut in cucumber patch, as a city under siege.
+- fresh: The daughter of Zion will be left as a tent in a vineyard, and as a watch-hut in a cucumber patch, as a city under siege.
 - brenton: The daughter of Sion shall be deserted as a tent in a vineyard, and as a storehouse of fruits in a garden of cucumbers, as a besieged city.
 
 ### Isaiah 1:9
@@ -157650,10 +157650,10 @@ Note:
 ### Isaiah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What to me multitude of your sacrifices, says the Lord? I am full of whole burnt offerings of rams and fat of lambs, and blood of bulls and goats I do not want.
+- fresh: What is the multitude of your sacrifices to me, says the Lord? I am full of whole burnt offerings of rams and fat of lambs, and blood of bulls and goats I do not want.
 - brenton: Of what value to me is the abundance of your sacrifices? saith the Lord: I am full of whole-burnt-offerings of rams; and I delight not in the fat of lambs, and the blood of bulls and goats:
 
 ### Isaiah 1:12
@@ -157668,10 +157668,10 @@ Note:
 ### Isaiah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will not continue. If you bring fine flour, it is vain; incense is abomination to me. Your new moons and Sabbaths and great day I do not endure, fasting and idleness.
+- fresh: You will not continue. If you bring fine flour, it is vain; incense is an abomination to me. Your new moons and Sabbaths and a great day I do not endure, fasting and idleness.
 - brenton: Though ye bring fine flour, it is vain; incense is an abomination to me; I cannot bear your new moons, and your sabbaths, and the great day;
 
 ### Isaiah 1:14
@@ -157686,10 +157686,10 @@ Note:
 ### Isaiah 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When you stretch out hands to me, I will turn my eyes from you; and if you multiply supplication, I will not hear you, because your hands full of blood.
+- fresh: When you stretch out hands to me, I will turn my eyes from you; and if you multiply supplication, I will not hear you, because your hands are full of blood.
 - brenton: When ye stretch forth your hands, I will turn away mine eyes from you: and though ye make many supplications, I will not hearken to you; for your hands are full of blood.
 
 ### Isaiah 1:16
@@ -157704,10 +157704,10 @@ Note:
 ### Isaiah 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Learn to do good, seek judgment, rescue one being wronged, judge for orphan, justify widow.
+- fresh: Learn to do good, seek judgment, rescue one being wronged, judge for the orphan, justify the widow.
 - brenton: learn to do well; diligently seek judgment, deliver him that is suffering wrong, plead for the orphan, and obtain justice for the widow.
 
 ### Isaiah 1:18
@@ -157722,37 +157722,37 @@ Note:
 ### Isaiah 1:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you are willing and listen to me, good things of land you will eat.
+- fresh: If you are willing and listen to me, the good things of the land you will eat.
 - brenton: And if ye be willing, and hearken to me, ye shall eat the good of the land:
 
 ### Isaiah 1:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If not willing nor listen to me, sword will devour you, for the mouth of the Lord spoke these things.
+- fresh: If you are not willing and do not listen to me, a sword will devour you, for the mouth of the Lord spoke these things.
 - brenton: but if ye be not willing, nor hearken to me, a sword shall devour you: for the mouth of the Lord has spoken this.
 
 ### Isaiah 1:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How faithful city Zion became prostitute, full of judgment, in which righteousness slept, but now murderers.
+- fresh: How the faithful city Zion became a prostitute, full of judgment, in which righteousness slept, but now murderers.
 - brenton: How has the faithful city Sion, once full of judgment, become a harlot! wherein righteousness lodged, but now murderers.
 
 ### Isaiah 1:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your silver unapproved, your tavern-keepers mix wine with water.
+- fresh: Your silver is unapproved, your tavern-keepers mix wine with water.
 - brenton: Your silver is worthless, thy wine merchants mix the wine with water.
 
 ### Isaiah 1:23
@@ -157767,10 +157767,10 @@ Note:
 ### Isaiah 1:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Master, the Lord of hosts, Woe to mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
+- fresh: Therefore thus says the Master, the Lord of hosts, Woe to the mighty ones of Israel. For my anger will not cease against opponents, and I will execute judgment against my enemies.
 - brenton: Therefore thus saith the Lord, the Lord of hosts, Woe to the mighty men of Israel; for my wrath shall not cease against mine adversaries, and I will execute judgment on mine enemies.
 
 ### Isaiah 1:25
@@ -157821,19 +157821,19 @@ Note:
 ### Isaiah 1:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they will be as terebinth that has cast off leaves, and as orchard having no water.
+- fresh: For they will be as a terebinth that has cast off leaves, and as an orchard having no water.
 - brenton: For they shall be as a turpentine tree that has cast its leaves, and as a garden that has no water.
 
 ### Isaiah 1:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Their strength will be as stalk of tow and their works as sparks of fire, and lawless and sinners will be burned together, and there will not be one to quench.
+- fresh: Their strength will be as a stalk of tow and their works as sparks of fire, and lawless and sinners will be burned together, and there will not be one to quench.
 - brenton: And their strength shall be as a thread of tow, and their works as sparks, and the transgressors and the sinners shall be burnt up together, and there shall be none to quench them.
 
 ### Isaiah 2:1
@@ -157848,19 +157848,19 @@ Note:
 ### Isaiah 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in the last days the mountain of the Lord and the house of God will be manifest on peaks of mountains, and will be lifted above hills, and all nations will come upon it.
+- fresh: Because in the last days the mountain of the Lord and the house of God will be manifest on the peaks of mountains, and will be lifted above the hills, and all nations will come upon it.
 - brenton: For in the last days the mountain of the Lord shall be glorious, and the house of God shall be on the top of the mountains, and it shall be exalted above the hills; and all nations shall come to it.
 
 ### Isaiah 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion law will come out, and the word of the Lord from Jerusalem.
+- fresh: Many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and he will announce his way to us, and we will walk in it. For from Zion the law will come out, and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will tell us his way, and we will walk in it: for out of Sion shall go forth the law, and the word of the Lord out of Jerusalem.
 
 ### Isaiah 2:4
@@ -157884,28 +157884,28 @@ Note:
 ### Isaiah 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For he let go his people, house of Israel, because their land was filled as from the beginning with divinations as land of foreigners, and many foreign sons were born to them.
+- fresh: For he let go his people, house of Israel, because their land was filled as from the beginning with divinations, as the land of foreigners, and many foreign sons were born to them.
 - brenton: For he has forsaken his people the house of Israel, because their land is filled as at the beginning with divinations, as the land of the Philistines, and many strange children were born to them.
 
 ### Isaiah 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Their land filled with silver and gold, and there was no number of their treasures, and land filled with horses, and there was no number of their chariots.
+- fresh: Their land was filled with silver and gold, and there was no number of their treasures, and the land was filled with horses, and there was no number of their chariots.
 - brenton: For their land is filled with silver and gold, and there was no number of their treasures; their land also is filled with horses, and there was no number of their chariots.
 
 ### Isaiah 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Their land filled with abominations, works of their hands, and they bowed to what their fingers made.
+- fresh: Their land was filled with abominations, works of their hands, and they bowed to what their fingers made.
 - brenton: And the land is filled with abominations, even the works of their hands; and they have worshipped the works which their fingers made.
 
 ### Isaiah 2:9
@@ -157920,28 +157920,28 @@ Note:
 ### Isaiah 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now enter rocks and hide in earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+- fresh: And now enter the rocks and hide in the earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 - brenton: Now therefore enter ye into the rocks, and hide yourselves in the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For eyes of the Lord high, but man low, and the height of men will be humbled, and the Lord alone will be exalted in that day.
+- fresh: For the eyes of the Lord are high, but man is low, and the height of men will be humbled, and the Lord alone will be exalted in that day.
 - brenton: For the eyes of the Lord are high, but man is low; and the haughtiness of men shall be brought low, and the Lord alone shall be exalted in that day.
 
 ### Isaiah 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the day of the Lord of hosts upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
+- fresh: For the day of the Lord of hosts is upon every insolent and proud one, and upon every high and lofty thing, and they will be humbled.
 - brenton: For the day of the Lord of hosts shall be upon every one that is proud and haughty, and upon every one that is high and towering, and they shall be brought down;
 
 ### Isaiah 2:13
@@ -157974,10 +157974,10 @@ Note:
 ### Isaiah 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And upon every ship of sea and upon every sight of beauty of ships.
+- fresh: And upon every ship of the sea and upon every sight of beauty of ships.
 - brenton: and upon every ship of the sea, and upon every display of fine ships.
 
 ### Isaiah 2:17
@@ -158001,10 +158001,10 @@ Note:
 ### Isaiah 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Carrying them into caves and fissures of rocks and hollows of earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+- fresh: Carrying them into the caves and into the fissures of the rocks and into the hollows of the earth from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 - brenton: having carried them into the caves, and into the clefts of the rocks, and into the caverns of the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 2:20
@@ -158019,37 +158019,37 @@ Note:
 ### Isaiah 2:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To enter hollows of solid rock and fissures of rocks from the face of the fear of the Lord and from the glory of his strength when he rises to shatter earth.
+- fresh: To enter the hollows of solid rock and the fissures of rocks from the face of the fear of the Lord and from the glory of his strength when he rises to shatter the earth.
 - brenton: to enter into the caverns of the solid rock, and into the clefts of the rocks, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.
 
 ### Isaiah 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look now, Master, the Lord of hosts, will take from Judah and Jerusalem strong man and strong woman, strength of bread and strength of water,
+- fresh: Look now, the Master, the Lord of hosts, will take from Judah and Jerusalem a strong man and a strong woman, strength of bread and strength of water,
 - brenton: Behold now, the Lord, the Lord of hosts, will take away from Jerusalem and from Judea the mighty man and mighty woman, the strength of bread, and the strength of water,
 
 ### Isaiah 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: giant and strong man and man of war, and judge and prophet and diviner and elder,
+- fresh: a giant and a strong man and a man of war, and a judge and a prophet and a diviner and an elder,
 - brenton: the great and mighty man, the warrior and the judge, and the prophet, and the counsellor, and the elder,
 
 ### Isaiah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and captain of fifty and wonderful counselor and wise craftsman and understanding listener.
+- fresh: and a captain of fifty and a wonderful counselor and a wise craftsman and an understanding listener.
 - brenton: the captain of fifty also, and the honourable counsellor, and the wise artificer, and the intelligent hearer.
 
 ### Isaiah 3:4
@@ -158064,28 +158064,28 @@ Note:
 ### Isaiah 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The people will fall together, man against man and man against his neighbor; child will strike against elder, dishonorable one against honorable.
+- fresh: The people will fall together, man against man and man against his neighbor; a child will strike against an elder, the dishonorable one against the honorable.
 - brenton: And the people shall fall, man upon man, and every man upon his neighbour: the child shall insult the elder man, and the base the honourable.
 
 ### Isaiah 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because man will seize his brother or one of his father's household, saying, You have clothing, become our leader, and let my food be under you.
+- fresh: Because a man will seize his brother or one of his father's household, saying, You have clothing, become our leader, and let my food be under you.
 - brenton: For a man shall lay hold of his brother, as one of his father's household, saying, Thou hast raiment, be thou our ruler, and let my meat be under thee.
 
 ### Isaiah 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will answer and say in that day, I will not be your leader, for in my house there is neither bread nor clothing; I will not be leader of this people.
+- fresh: He will answer and say in that day, I will not be your leader, for in my house there is neither bread nor clothing; I will not be the leader of this people.
 - brenton: And he shall answer in that day, and say, I will not be thy ruler; for I have no bread in my house, nor raiment: I will not be the ruler of this people.
 
 ### Isaiah 3:8
@@ -158100,37 +158100,37 @@ Note:
 ### Isaiah 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shame of their face stood against them, and their sin they announced as Sodom and made it plain. Woe to their soul, because they planned evil counsel against themselves.
+- fresh: The shame of their face stood against them, and their sin they announced as Sodom and made it plain. Woe to their soul, because they planned evil counsel against themselves.
 - brenton: Wherefore now their glory has been brought low, and the shame of their countenance has withstood them, and they have proclaimed their sin as Sodom, and made it manifest.
 
 ### Isaiah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Saying, Let us bind righteous one, because he is inconvenient to us; therefore they will eat produce of their works.
+- fresh: Saying, Let us bind the righteous one, because he is inconvenient to us; therefore they will eat the produce of their works.
 - brenton: Woe to their soul, for they have devised an evil counsel against themselves, saying against themselves, Let us bind the just, for he is burdensome to us: therefore shall they eat the fruits of their works.
 
 ### Isaiah 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to lawless one; evil will happen to him according to the works of his hands.
+- fresh: Woe to the lawless one; evil will happen to him according to the works of his hands.
 - brenton: Woe to the transgressor! evils shall happen to him according to the works of his hands.
 
 ### Isaiah 3:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My people, your exactors glean you, and those collecting dues lord over you. My people, those calling you blessed lead you astray and trouble path of your feet.
+- fresh: My people, your exactors glean you, and those collecting dues lord over you. My people, those calling you blessed lead you astray and trouble the path of your feet.
 - brenton: O my people, your exactors strip you, and extortioners rule over you: O my people, they that pronounce you blessed lead you astray, and pervert the path of your feet.
 
 ### Isaiah 3:13
@@ -158145,64 +158145,64 @@ Note:
 ### Isaiah 3:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord himself will come into judgment with the elders of his people and with their rulers: But you, why did you burn my vineyard, and spoil of poor in your houses?
+- fresh: The Lord himself will come into judgment with the elders of his people and with their rulers: But you, why did you burn my vineyard, and the spoil of the poor in your houses?
 - brenton: The Lord himself shall enter into judgment with the elders of the people, and with their rulers: but why have ye set my vineyard on fire, and why is the spoil of the poor in your houses?
 
 ### Isaiah 3:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why do you wrong my people and shame face of poor?
+- fresh: Why do you wrong my people and shame the face of the poor?
 - brenton: Why do ye wrong my people, and shame the face of the poor?
 
 ### Isaiah 3:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Because daughters of Zion were lifted high and walked with high neck and with winks of eyes and in walking of feet dragging tunics together and playing together with feet,
+- fresh: Thus says the Lord: Because the daughters of Zion were lifted high and walked with a high neck and with winks of eyes and in the walking of feet, dragging tunics together and playing together with feet,
 - brenton: Thus saith the Lord, Because the daughters of Sion are haughty, and have walked with an outstretched neck, and with winking of the eyes, and motion of the feet, at the same time drawing their garments in trains, and at the same time sporting with their feet:
 
 ### Isaiah 3:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God will humble ruling daughters of Zion, and the Lord will uncover their form.
+- fresh: God will humble the ruling daughters of Zion, and the Lord will uncover their form.
 - brenton: therefore the Lord will humble the chief daughters of Sion, and the Lord will expose their form in that day;
 
 ### Isaiah 3:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day the Lord will take away glory of their clothing and their ornaments and braids and hair-nets and crescent-moons,
+- fresh: In that day the Lord will take away the glory of their clothing and their ornaments and braids and hair-nets and crescent-moons,
 - brenton: and the Lord will take away the glory of their raiment, the curls and the fringes, and the crescents,
 
 ### Isaiah 3:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and the hangings and ornament of their face,
+- fresh: and the hangings and the ornament of their face,
 - brenton: and the chains, and the ornaments of their faces,
 
 ### Isaiah 3:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and arrangement of ornament of glory and bracelets and armlets and headdress and wrist-bands and rings and earrings,
+- fresh: and the arrangement of the ornament of glory and bracelets and armlets and headdress and wrist-bands and rings and earrings,
 - brenton: and the array of glorious ornaments, and the armlets, and the bracelets, and the wreathed work, and the finger-rings, and the ornaments for the right hand, and the ear-rings,
 
 ### Isaiah 3:21
@@ -158217,10 +158217,10 @@ Note:
 ### Isaiah 3:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and robes for house and transparent Laconian cloths,
+- fresh: and robes for the house and transparent Laconian cloths,
 - brenton: and the shawls to be worn in the house, and the Spartan transparent dresses,
 
 ### Isaiah 3:23
@@ -158235,10 +158235,10 @@ Note:
 ### Isaiah 3:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It will be, instead of sweet smell is dust, and instead of belt you will bind with rope, and instead of golden ornament of head you will have baldness because of your works, and instead of tunic bordered in purple you will gird yourself with sackcloth.
+- fresh: It will be, instead of a sweet smell there will be dust, and instead of a belt you will bind with rope, and instead of the golden ornament of the head you will have baldness because of your works, and instead of a tunic bordered in purple you will gird yourself with sackcloth.
 - brenton: And there shall be instead of a sweet smell, dust; and instead of a girdle, thou shalt gird thyself with a rope; and instead of a golden ornament for the head, thou shalt have baldness on account of thy works; and instead of a tunic with a scarlet ground, thou shalt gird thyself with sackcloth.
 
 ### Isaiah 3:25
@@ -158253,10 +158253,10 @@ Note:
 ### Isaiah 3:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Cases of your ornament will be humbled and mourn, and you will be left alone and dashed to ground.
+- fresh: The cases of your ornament will be humbled and mourn, and you will be left alone and dashed to the ground.
 - brenton: And the stores of your ornaments shall mourn, and thou shalt be left alone, and shalt be levelled with the ground.
 
 ### Isaiah 4:1
@@ -158271,46 +158271,46 @@ Note:
 ### Isaiah 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day God will shine forth in counsel with glory upon earth, to lift up and glorify the remnant of Israel.
+- fresh: In that day God will shine forth in counsel with glory upon the earth, to lift up and glorify the remnant of Israel.
 - brenton: And in that day God shall shine gloriously in counsel on the earth, to exalt and glorify the remnant of Israel.
 
 ### Isaiah 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It shall be that one left in Zion and one left in Jerusalem will be called holy, all written for life in Jerusalem.
+- fresh: It shall be that the one left in Zion and the one left in Jerusalem will be called holy, all who are written for life in Jerusalem.
 - brenton: And it shall be, that the remnant left in Sion, and the remnant left in Jerusalem, even all that are appointed to life in Jerusalem, shall be called holy.
 
 ### Isaiah 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord will wash filth of sons and daughters of Zion and cleanse blood from their midst by the spirit of judgment and spirit of burning.
+- fresh: Because the Lord will wash the filth of the sons and daughters of Zion and cleanse the blood from their midst by the spirit of judgment and the spirit of burning.
 - brenton: For the Lord shall wash away the filth of the sons and daughters of Sion, and shall purge out the blood from the midst of them, with the spirit of judgment, and the spirit of burning.
 
 ### Isaiah 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will come and there will be over every place of Mount Zion and all around her a cloud will overshadow by day, like smoke, and like light of burning fire by night. Over all glory it will be covered.
+- fresh: He will come, and over every place of Mount Zion and all around her, a cloud will overshadow by day, like smoke, and like light of burning fire by night. Over all the glory it will be covered.
 - brenton: And he shall come, and it shall be with regard to every place of mount Sion, yea, all the region round about it shall a cloud overshadow by day, and there shall be as it were the smoke and light of fire burning by night: and upon all the glory shall be a defence.
 
 ### Isaiah 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be for shade from heat and for shelter and hiding from harshness and rain.
+- fresh: And it will be for shade from the heat and for shelter and hiding from harshness and rain.
 - brenton: And it shall be for a shadow from the heat, and as a shelter and a hiding-place from inclemency of weather and from rain.
 
 ### Isaiah 5:1

@@ -388,7 +388,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 1
 - Cross-references: 27
 
-**Isaiah 1:3** Ox knew one acquiring it, and donkey manger of its master; but Israel did not know me, and people did not understand me.
+**Isaiah 1:3** The ox knew the one acquiring it, and the donkey the manger of its master; but Israel did not know me, and the people did not understand me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15

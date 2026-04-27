@@ -3410,7 +3410,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "like a herd of shorn sheep" in by_ref["Song of Solomon 4:2"]["draft_translation"]
     assert "is like a piece of pomegranate" in by_ref["Song of Solomon 4:3"]["draft_translation"]
     assert "Set me as a seal" in by_ref["Song of Solomon 8:6"]["draft_translation"]
-    assert "as a tent in vineyard" in by_ref["Isaiah 1:8"]["draft_translation"]
+    assert "as a tent in a vineyard" in by_ref["Isaiah 1:8"]["draft_translation"]
     assert "as a city under siege" in by_ref["Isaiah 1:8"]["draft_translation"]
     assert "strong like an oak" in by_ref["Amos 2:9"]["draft_translation"]
     assert "as a flying bird" in by_ref["Isaiah 16:2"]["draft_translation"]
@@ -4403,6 +4403,52 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert by_ref["Isaiah 1:1"]["draft_translation"].startswith("The vision which Isaiah")
+    assert "The ox knew the one acquiring it" in by_ref["Isaiah 1:3"][
+        "draft_translation"
+    ]
+    assert "because your hands are full of blood" in by_ref["Isaiah 1:15"][
+        "draft_translation"
+    ]
+    assert "the good things of the land you will eat" in by_ref["Isaiah 1:19"][
+        "draft_translation"
+    ]
+    assert "Your silver is unapproved" in by_ref["Isaiah 1:22"][
+        "draft_translation"
+    ]
+    assert "as a terebinth" in by_ref["Isaiah 1:30"]["draft_translation"]
+    assert "For from Zion the law will come out" in by_ref["Isaiah 2:3"][
+        "draft_translation"
+    ]
+    assert "Their land was filled with silver and gold" in by_ref["Isaiah 2:7"][
+        "draft_translation"
+    ]
+    assert "For the eyes of the Lord are high" in by_ref["Isaiah 2:11"][
+        "draft_translation"
+    ]
+    assert "the day of the Lord of hosts is upon" in by_ref["Isaiah 2:12"][
+        "draft_translation"
+    ]
+    assert "a giant and a strong man and a man of war" in by_ref["Isaiah 3:2"][
+        "draft_translation"
+    ]
+    assert "a child will strike against an elder" in by_ref["Isaiah 3:5"][
+        "draft_translation"
+    ]
+    assert "the righteous one" in by_ref["Isaiah 3:10"]["draft_translation"]
+    assert "the path of your feet" in by_ref["Isaiah 3:12"]["draft_translation"]
+    assert "shame the face of the poor" in by_ref["Isaiah 3:15"][
+        "draft_translation"
+    ]
+    assert "the glory of their clothing" in by_ref["Isaiah 3:18"][
+        "draft_translation"
+    ]
+    assert "instead of a sweet smell there will be dust" in by_ref["Isaiah 3:24"][
+        "draft_translation"
+    ]
+    assert "the one left in Zion" in by_ref["Isaiah 4:3"]["draft_translation"]
+    assert "wash the filth of the sons and daughters of Zion" in by_ref[
+        "Isaiah 4:4"
+    ]["draft_translation"]
     assert by_ref["Isaiah 13:1"]["draft_translation"].startswith("The vision which Isaiah")
     assert "great is the day of Jezreel" in by_ref["Hosea 2:2"]["draft_translation"]
     assert "stand amazed at the Lord" in by_ref["Hosea 3:5"]["draft_translation"]
