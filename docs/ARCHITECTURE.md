@@ -70,6 +70,11 @@ keeps the same source/review steps, writes generated files under
 the Logos Bible-source DOCX. It is for iteration only; release artifacts still
 come from `make build-nt`.
 
+`make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
+ignored outputs under `output/working/nt_book/` and
+`output/working/logos_nt_book/`. It still refreshes the generated NT source CSV
+first so script-level wording changes are reflected before the scoped build.
+
 ## Private Research Boundary
 
 Private or copyrighted local material must stay in ignored paths:

@@ -1,4 +1,4 @@
-.PHONY: setup test build-ot checkpoint-ot build-ot-review build-nt build-nt-fast clean-working
+.PHONY: setup test build-ot checkpoint-ot build-ot-review build-nt build-nt-fast build-nt-book clean-working
 
 PYTHON ?= python3
 
@@ -30,6 +30,13 @@ build-nt-fast:
 	$(PYTHON) scripts/build_nt_tr_vs_ukjv_review.py
 	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/tr_greek/nt_full.csv --output output/working/nt_fast/fresh_translation_nt_tr_full.md --translation-only-output output/working/nt_fast/fresh_translation_nt_tr_translation_only.md --diagnostics output/working/nt_fast/fresh_translation_nt_tr_diagnostics.json
 	$(PYTHON) scripts/build_fresh_logos_bible.py --testament nt --source data/raw/tr_greek/nt_full.csv --logos-docx output/working/logos_nt_fast/fresh_translation_nt_tr_logos_bible.docx --mt-bridge-docx output/working/logos_nt_fast/fresh_translation_nt_tr_reference_notes.docx --proof-docx output/working/logos_nt_fast/fresh_translation_nt_tr_proofreading.docx --diagnostics output/working/logos_nt_fast/fresh_translation_nt_tr_diagnostics.json --readme output/working/logos_nt_fast/README.md --preview output/working/logos_nt_fast/fresh_translation_nt_tr_preview.md --docx-compresslevel 1 --skip-docx-validation --docx-output-set logos-only
+
+build-nt-book:
+	@test -n "$(BOOK)" || (echo 'Usage: make build-nt-book BOOK=Matthew'; exit 1)
+	rm -rf output/working/nt_book output/working/logos_nt_book
+	$(PYTHON) scripts/apply_nt_tr_literal_revision.py
+	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/tr_greek/nt_full.csv --book "$(BOOK)" --output output/working/nt_book/fresh_translation_nt_tr_full.md --translation-only-output output/working/nt_book/fresh_translation_nt_tr_translation_only.md --diagnostics output/working/nt_book/fresh_translation_nt_tr_diagnostics.json
+	$(PYTHON) scripts/build_fresh_logos_bible.py --testament nt --book "$(BOOK)" --source data/raw/tr_greek/nt_full.csv --logos-docx output/working/logos_nt_book/fresh_translation_nt_tr_logos_bible.docx --mt-bridge-docx output/working/logos_nt_book/fresh_translation_nt_tr_reference_notes.docx --proof-docx output/working/logos_nt_book/fresh_translation_nt_tr_proofreading.docx --diagnostics output/working/logos_nt_book/fresh_translation_nt_tr_diagnostics.json --readme output/working/logos_nt_book/README.md --preview output/working/logos_nt_book/fresh_translation_nt_tr_preview.md --docx-compresslevel 1 --skip-docx-validation --docx-output-set logos-only
 
 clean-working:
 	rm -rf output/working

@@ -67,11 +67,13 @@ For fast NT iteration without touching committed release outputs:
 
 ```bash
 make build-nt-fast
+make build-nt-book BOOK=Matthew
 ```
 
 That target writes ignored artifacts under `output/working/`, lowers DOCX ZIP
 compression, skips DOCX validation, and emits only the Logos Bible-source DOCX.
-Use `make build-nt` before publishing.
+Use `make build-nt-book` for one-book review loops. Use `make build-nt` before
+publishing.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 
