@@ -165327,64 +165327,64 @@ Note:
 ### Isaiah 43:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God, one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
+- fresh: Thus says the Lord God, the one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all the fugitives, and the Chaldeans will be bound in ships.
 - brenton: Thus saith the Lord God that redeems you, the Holy One of Israel; For your sakes I will send to Babylon, and I will stir up all that flee, and the Chaldeans shall be bound in ships.
 
 ### Isaiah 43:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I am the Lord God, your Holy One, one showing Israel your king.
+- fresh: I am the Lord God, your Holy One, the one showing Israel your king.
 - brenton: I am the Lord God, your Holy One, who have appointed for Israel your king.
 
 ### Isaiah 43:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, one giving way in sea and path in strong water,
+- fresh: Thus says the Lord, the one giving a way in the sea and a path in strong water,
 - brenton: Thus saith the Lord, who makes a way in the sea, and a path in the mighty water;
 
 ### Isaiah 43:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: one bringing out chariot and horse and strong crowd. But they slept and will not rise; they were quenched as extinguished flax.
+- fresh: the one bringing out chariots and horse and a strong crowd. But they slept and will not rise; they were quenched as extinguished flax.
 - brenton: who brought forth chariots and horse, and a mighty multitude: but they have lain down, and shall not rise: they are extinct, as quenched flax.
 
 ### Isaiah 43:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not remember former things and do not consider ancient things.
+- fresh: Do not remember the former things and do not consider the ancient things.
 - brenton: Remember ye not the former things, and consider not the ancient things.
 
 ### Isaiah 43:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I make new things which now will spring up, and you will know them, and I will make in the wilderness a way and in dry land rivers.
+- fresh: Behold, I make the new things which now will spring up, and you will know them, and I will make in the wilderness a way and in the dry land rivers.
 - brenton: Behold, I will do new things, which shall presently spring forth, and ye shall know them: and I will make a way in the wilderness, and rivers in the dry land.
 
 ### Isaiah 43:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beasts of field, sirens and daughters of ostriches, will bless me, because I gave water in the wilderness and rivers in dry land to give drink to my chosen race,
+- fresh: The beasts of the field, sirens and daughters of ostriches, will bless me, because I gave water in the wilderness and rivers in the dry land to give drink to my chosen race,
 - brenton: The beasts of the field shall bless me, the owls and young ostriches; for I have given water in the wilderness, and rivers in the dry land, to give drink to my chosen race,
 
 ### Isaiah 43:21
@@ -165408,28 +165408,28 @@ Note:
 ### Isaiah 43:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You did not bring me sheep of your burnt offerings, nor glorify me in your sacrifices, nor make me toil with frankincense.
+- fresh: You did not bring me sheep of your burnt offering, nor glorify me in your sacrifices, nor make me toil with frankincense.
 - brenton: Thou hast not brought me the sheep of thy whole-burnt-offering; neither hast thou glorified me with thy sacrifices. I have not caused thee to serve with sacrifices, neither have I wearied thee with frankincense.
 
 ### Isaiah 43:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nor did you buy me incense with silver, nor did I desire fat of your sacrifices, but in your sins and injustices I stood before you.
+- fresh: Nor did you buy me incense with silver, nor did I desire the fat of your sacrifices, but in your sins and injustices I stood before you.
 - brenton: Neither hast thou purchased for me victims for silver, neither have I desired the fat of thy sacrifices: but thou didst stand before me in thy sins, and in thine iniquities.
 
 ### Isaiah 43:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I am, I am, one wiping out your lawlessnesses, and certainly I will not remember.
+- fresh: I am, I am, the one wiping out your lawlessnesses, and certainly I will not remember.
 - brenton: I, even I, am he that blots out thy transgressions for mine own sake, and thy sins; and I will not remember them.
 
 ### Isaiah 43:26
@@ -165453,10 +165453,10 @@ Note:
 ### Isaiah 43:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers defiled my holy things, and I gave Jacob to destruction and Israel to reproach.
+- fresh: And the rulers defiled my holy things, and I gave Jacob to destruction and Israel to reproach.
 - brenton: And the princes have defiled my sanctuaries: so I gave Jacob to enemies to destroy, and Israel to reproach.
 
 ### Isaiah 44:1

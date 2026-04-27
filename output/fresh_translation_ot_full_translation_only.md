@@ -74942,31 +74942,31 @@ Still from the beginning, and there is no one rescuing from my hands. I will do,
 
 **Isaiah 43:14**
 
-Thus says the Lord God, one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
+Thus says the Lord God, the one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all the fugitives, and the Chaldeans will be bound in ships.
 
 **Isaiah 43:15**
 
-I am the Lord God, your Holy One, one showing Israel your king.
+I am the Lord God, your Holy One, the one showing Israel your king.
 
 **Isaiah 43:16**
 
-Thus says the Lord, one giving way in sea and path in strong water,
+Thus says the Lord, the one giving a way in the sea and a path in strong water,
 
 **Isaiah 43:17**
 
-one bringing out chariot and horse and strong crowd. But they slept and will not rise; they were quenched as extinguished flax.
+the one bringing out chariots and horse and a strong crowd. But they slept and will not rise; they were quenched as extinguished flax.
 
 **Isaiah 43:18**
 
-Do not remember former things and do not consider ancient things.
+Do not remember the former things and do not consider the ancient things.
 
 **Isaiah 43:19**
 
-Behold, I make new things which now will spring up, and you will know them, and I will make in the wilderness a way and in dry land rivers.
+Behold, I make the new things which now will spring up, and you will know them, and I will make in the wilderness a way and in the dry land rivers.
 
 **Isaiah 43:20**
 
-Beasts of field, sirens and daughters of ostriches, will bless me, because I gave water in the wilderness and rivers in dry land to give drink to my chosen race,
+The beasts of the field, sirens and daughters of ostriches, will bless me, because I gave water in the wilderness and rivers in the dry land to give drink to my chosen race,
 
 **Isaiah 43:21**
 
@@ -74978,15 +74978,15 @@ Not now did I call you, Jacob, nor did I make you weary, Israel.
 
 **Isaiah 43:23**
 
-You did not bring me sheep of your burnt offerings, nor glorify me in your sacrifices, nor make me toil with frankincense.
+You did not bring me sheep of your burnt offering, nor glorify me in your sacrifices, nor make me toil with frankincense.
 
 **Isaiah 43:24**
 
-Nor did you buy me incense with silver, nor did I desire fat of your sacrifices, but in your sins and injustices I stood before you.
+Nor did you buy me incense with silver, nor did I desire the fat of your sacrifices, but in your sins and injustices I stood before you.
 
 **Isaiah 43:25**
 
-I am, I am, one wiping out your lawlessnesses, and certainly I will not remember.
+I am, I am, the one wiping out your lawlessnesses, and certainly I will not remember.
 
 **Isaiah 43:26**
 
@@ -74998,7 +74998,7 @@ Your first fathers and their rulers acted lawlessly against me.
 
 **Isaiah 43:28**
 
-And rulers defiled my holy things, and I gave Jacob to destruction and Israel to reproach.
+And the rulers defiled my holy things, and I gave Jacob to destruction and Israel to reproach.
 
 ### Chapter 44
 

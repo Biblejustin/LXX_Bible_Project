@@ -6328,6 +6328,54 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "no one rescuing" in by_ref["Isaiah 43:13"]["draft_translation"]
+    assert "the one redeeming you" in by_ref["Isaiah 43:14"][
+        "draft_translation"
+    ]
+    assert "all the fugitives" in by_ref["Isaiah 43:14"][
+        "draft_translation"
+    ]
+    assert "the Chaldeans" in by_ref["Isaiah 43:14"]["draft_translation"]
+    assert "the one showing Israel" in by_ref["Isaiah 43:15"][
+        "draft_translation"
+    ]
+    assert "the one giving a way in the sea" in by_ref["Isaiah 43:16"][
+        "draft_translation"
+    ]
+    assert "a path in strong water" in by_ref["Isaiah 43:16"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 43:17"]["draft_translation"].startswith(
+        "the one bringing out chariots"
+    )
+    assert "a strong crowd" in by_ref["Isaiah 43:17"]["draft_translation"]
+    assert "the former things" in by_ref["Isaiah 43:18"][
+        "draft_translation"
+    ]
+    assert "the ancient things" in by_ref["Isaiah 43:18"][
+        "draft_translation"
+    ]
+    assert "the new things" in by_ref["Isaiah 43:19"]["draft_translation"]
+    assert "in the dry land rivers" in by_ref["Isaiah 43:19"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 43:20"]["draft_translation"].startswith(
+        "The beasts of the field"
+    )
+    assert "rivers in the dry land" in by_ref["Isaiah 43:20"][
+        "draft_translation"
+    ]
+    assert "your burnt offering" in by_ref["Isaiah 43:23"][
+        "draft_translation"
+    ]
+    assert "the fat of your sacrifices" in by_ref["Isaiah 43:24"][
+        "draft_translation"
+    ]
+    assert "the one wiping out your lawlessnesses" in by_ref["Isaiah 43:25"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 43:28"]["draft_translation"].startswith(
+        "And the rulers"
+    )
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
