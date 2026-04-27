@@ -66402,7 +66402,7 @@ And he will understand proverb and dark saying, sayings of wise and riddles.
 
 **Proverbs 1:7**
 
-The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise.
+The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline.
 
 **Proverbs 1:8**
 
@@ -66698,7 +66698,7 @@ For if you sit, you will be fearless; if you sleep, you will sleep sweetly.
 
 **Proverbs 3:25**
 
-And you will not fear terror coming, nor assaults of ungodly when they come.
+And you will not fear terror coming, nor assaults of the ungodly when they come.
 
 **Proverbs 3:26**
 
@@ -66792,7 +66792,7 @@ Take hold of my discipline; do not let go, but guard it for yourself as your lif
 
 **Proverbs 4:14**
 
-Do not go upon the ways of ungodly, nor envy ways of lawless men.
+Do not go upon the ways of the ungodly, nor envy ways of lawless men.
 
 **Proverbs 4:15**
 
@@ -67362,7 +67362,7 @@ Leave folly and live, and seek understanding so that you may live, and set strai
 
 **Proverbs 9:7**
 
-One disciplining evil men will receive dishonor for himself, and rebuking ungodly will blame himself.
+One disciplining evil men will receive dishonor for himself, and rebuking the ungodly man will blame himself.
 
 **Proverbs 9:8**
 
@@ -67468,11 +67468,11 @@ The wise hide perception, but the mouth of the rash approaches ruin.
 
 **Proverbs 10:15**
 
-Possession of rich strong city, but ruin of ungodly poverty.
+Possession of the rich is a strong city, but poverty is ruin of the ungodly.
 
 **Proverbs 10:16**
 
-The works of the righteous produce life, but fruits of ungodly sins.
+The works of the righteous produce life, but fruits of the ungodly produce sins.
 
 **Proverbs 10:17**
 
@@ -67488,7 +67488,7 @@ In much speech you will not escape sin, but sparing lips you will be understandi
 
 **Proverbs 10:20**
 
-Refined silver tongue of righteous, but heart of ungodly will fail.
+The tongue of the righteous is refined silver, but the heart of the ungodly will fail.
 
 **Proverbs 10:21**
 
@@ -67516,7 +67516,7 @@ Like sour grape to teeth and smoke to eyes, so lawlessness to those using it.
 
 **Proverbs 10:27**
 
-The fear of the Lord adds days, but years of ungodly will be shortened.
+The fear of the Lord adds days, but years of the ungodly will be shortened.
 
 **Proverbs 10:28**
 
@@ -67550,7 +67550,7 @@ Wherever insolence enters, there also dishonor; but mouth of humble meditates wi
 
 **Proverbs 11:3**
 
-When righteous dies, he leaves regret, but destruction of ungodly comes readily and gladly.
+When a righteous one dies, he leaves regret, but destruction of the ungodly comes readily and gladly.
 
 **Proverbs 11:5**
 
@@ -67562,15 +67562,15 @@ The righteousness of the upright rescues them, but lawless are caught by their o
 
 **Proverbs 11:7**
 
-When a righteous man dies, hope does not perish, but boast of ungodly perishes.
+When a righteous man dies, hope does not perish, but boast of the ungodly perishes.
 
 **Proverbs 11:8**
 
-A righteous one escapes from a trap, and ungodly is handed over in his place.
+A righteous one escapes from a trap, and the ungodly one is handed over in his place.
 
 **Proverbs 11:9**
 
-In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
+In the mouth of the ungodly is a snare to citizens, but perception of the righteous is a good way.
 
 **Proverbs 11:10**
 
@@ -67578,7 +67578,7 @@ In good things of the righteous, a city prospered.
 
 **Proverbs 11:11**
 
-But by mouths of ungodly it was torn down.
+But by the mouths of the ungodly it was torn down.
 
 **Proverbs 11:12**
 
@@ -67610,7 +67610,7 @@ An ungodly one does unjust works, but for the seed of righteous ones there is re
 
 **Proverbs 11:19**
 
-A righteous son is born for life, but pursuit of ungodly for death.
+A righteous son is born for life, but pursuit of the ungodly is for death.
 
 **Proverbs 11:20**
 
@@ -67700,7 +67700,7 @@ Better man in dishonor serving himself than one putting honor round himself and 
 
 **Proverbs 12:10**
 
-A righteous one pities the souls of his cattle, but inward parts of ungodly pitiless.
+A righteous one pities the souls of his cattle, but inward parts of the ungodly are pitiless.
 
 **Proverbs 12:11**
 
@@ -67708,7 +67708,7 @@ One working his own land will be filled with breads, but those pursuing empty th
 
 **Proverbs 12:12**
 
-Desires of ungodly evil, but roots of pious in strongholds.
+Desires of the ungodly are evil, but roots of the pious are in strongholds.
 
 **Proverbs 12:13**
 
@@ -67744,7 +67744,7 @@ Deceit in the heart of one devising evils, but those willing peace will rejoice.
 
 **Proverbs 12:21**
 
-Nothing unjust will please righteous, but ungodly will be filled with evils.
+Nothing unjust will please the righteous, but the ungodly will be filled with evils.
 
 **Proverbs 12:22**
 
@@ -67764,7 +67764,7 @@ A fearful word troubles the heart of a righteous man, but a good message gladden
 
 **Proverbs 12:26**
 
-A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
+A discerning righteous one will be his own friend, but counsels of the ungodly are harsh. Evil will pursue sinners, but the way of the ungodly will mislead them.
 
 **Proverbs 12:27**
 

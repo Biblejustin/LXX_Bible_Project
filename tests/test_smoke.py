@@ -2741,6 +2741,66 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the righteous will multiply" in by_ref["Proverbs 28:28"]["draft_translation"]
     assert "sinful man is a great snare" in by_ref["Proverbs 29:6"]["draft_translation"]
     assert "the righteous will be in joy" in by_ref["Proverbs 29:6"]["draft_translation"]
+    assert "the ungodly will despise wisdom and discipline" in by_ref["Proverbs 1:7"][
+        "draft_translation"
+    ]
+    assert "assaults of the ungodly" in by_ref["Proverbs 3:25"]["draft_translation"]
+    assert "the ways of the ungodly" in by_ref["Proverbs 4:14"]["draft_translation"]
+    assert "rebuking the ungodly man" in by_ref["Proverbs 9:7"]["draft_translation"]
+    assert "poverty is ruin of the ungodly" in by_ref["Proverbs 10:15"][
+        "draft_translation"
+    ]
+    assert "fruits of the ungodly produce sins" in by_ref["Proverbs 10:16"][
+        "draft_translation"
+    ]
+    assert "The tongue of the righteous is refined silver" in by_ref["Proverbs 10:20"][
+        "draft_translation"
+    ]
+    assert "the heart of the ungodly will fail" in by_ref["Proverbs 10:20"][
+        "draft_translation"
+    ]
+    assert "years of the ungodly will be shortened" in by_ref["Proverbs 10:27"][
+        "draft_translation"
+    ]
+    assert "destruction of the ungodly comes" in by_ref["Proverbs 11:3"][
+        "draft_translation"
+    ]
+    assert "boast of the ungodly perishes" in by_ref["Proverbs 11:7"][
+        "draft_translation"
+    ]
+    assert "the ungodly one is handed over" in by_ref["Proverbs 11:8"][
+        "draft_translation"
+    ]
+    assert "mouth of the ungodly is a snare" in by_ref["Proverbs 11:9"][
+        "draft_translation"
+    ]
+    assert "by the mouths of the ungodly" in by_ref["Proverbs 11:11"][
+        "draft_translation"
+    ]
+    assert "pursuit of the ungodly is for death" in by_ref["Proverbs 11:19"][
+        "draft_translation"
+    ]
+    assert "inward parts of the ungodly are pitiless" in by_ref["Proverbs 12:10"][
+        "draft_translation"
+    ]
+    assert "Desires of the ungodly are evil" in by_ref["Proverbs 12:12"][
+        "draft_translation"
+    ]
+    assert "roots of the pious are in strongholds" in by_ref["Proverbs 12:12"][
+        "draft_translation"
+    ]
+    assert "Nothing unjust will please the righteous" in by_ref["Proverbs 12:21"][
+        "draft_translation"
+    ]
+    assert "the ungodly will be filled with evils" in by_ref["Proverbs 12:21"][
+        "draft_translation"
+    ]
+    assert "counsels of the ungodly are harsh" in by_ref["Proverbs 12:26"][
+        "draft_translation"
+    ]
+    assert "the way of the ungodly will mislead them" in by_ref["Proverbs 12:26"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

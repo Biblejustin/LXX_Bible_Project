@@ -34224,6 +34224,15 @@ Method:
 - mt: The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
 - brenton: Help us, O God our Saviour; for the glory of thy name, O Lord, deliver us; and be merciful to our sins, for thy name's sake.
 
+### Proverbs 11:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.240`
+- fresh_brenton_ratio: `0.790`
+- fresh: When a righteous one dies, he leaves regret, but destruction of the ungodly comes readily and gladly.
+- mt: The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
+- brenton: When a just man dies he leaves regret: but the destruction of the ungodly is speedy, and causes joy.
+
 ### Leviticus 16:33
 - priority: `0`
 - importance: `none`
@@ -34988,6 +34997,15 @@ Method:
 - fresh: As far as east from west, he removed our lawlessnesses from us.
 - mt: But you, O LORD, shall endure for ever; and your remembrance unto all generations.
 - brenton: As far as the east is from the west, so far has he removed our transgressions from us.
+
+### Proverbs 11:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.245`
+- fresh_brenton_ratio: `0.754`
+- fresh: In the mouth of the ungodly is a snare to citizens, but perception of the righteous is a good way.
+- mt: An hypocrite with his mouth destroys his neighbour: but through knowledge shall the just be delivered.
+- brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Ezekiel 9:8
 - priority: `0`
@@ -41649,15 +41667,6 @@ Method:
 - mt: But they set their abominations in the house, which is called by my name, to defile it.
 - brenton: Howl, ye shepherds, and cry; and lament, ye rams of the flock: for your days have been completed for slaughter, and ye shall fall as the choice rams.
 
-### Proverbs 11:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.284`
-- fresh_brenton_ratio: `0.746`
-- fresh: When righteous dies, he leaves regret, but destruction of ungodly comes readily and gladly.
-- mt: The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
-- brenton: When a just man dies he leaves regret: but the destruction of the ungodly is speedy, and causes joy.
-
 ### Job 6:14
 - priority: `0`
 - importance: `none`
@@ -42261,6 +42270,15 @@ Method:
 - mt: For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver.
 - brenton: And do thou go on, sharpen thyself on the right and on the left whithersoever thy face may set itself.
 
+### Proverbs 9:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.288`
+- fresh_brenton_ratio: `0.661`
+- fresh: One disciplining evil men will receive dishonor for himself, and rebuking the ungodly man will blame himself.
+- mt: He that reproves a scorner gets to himself shame: and he that rebukes a wicked man gets himself a blot.
+- brenton: He that reproves evil men shall get dishonour to himself; and he that rebukes an ungodly man shall disgrace himself.
+
 ### Psalms 121:7
 - priority: `0`
 - importance: `none`
@@ -42341,15 +42359,6 @@ Method:
 - fresh: And now the Lord my God has given me rest all around. There is no adversary, and there is no evil encounter.
 - mt: And Solomon's builders and Hiram's builders did hew them, and the Gibalites also: so they prepared timber and stones to build the house.
 - brenton: And now the Lord my God has given me rest round about; there is no one plotting against me, and there is no evil trespass against me.
-
-### Proverbs 11:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.288`
-- fresh_brenton_ratio: `0.778`
-- fresh: But by mouths of ungodly it was torn down.
-- mt: By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
-- brenton: but by the mouths of ungodly men it is overthrown.
 
 ### Psalms 80:14
 - priority: `0`
@@ -44528,15 +44537,6 @@ Method:
 - fresh: And if Israel was not for mockery to you, was he found in your thefts, because you were fighting against him?
 - mt: Behold, the days come, says the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast.
 - brenton: For surely Israel was to thee a laughing-stock, and was found among thy thefts, because thou didst fight against him.
-
-### Proverbs 9:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.300`
-- fresh_brenton_ratio: `0.648`
-- fresh: One disciplining evil men will receive dishonor for himself, and rebuking ungodly will blame himself.
-- mt: He that reproves a scorner gets to himself shame: and he that rebukes a wicked man gets himself a blot.
-- brenton: He that reproves evil men shall get dishonour to himself; and he that rebukes an ungodly man shall disgrace himself.
 
 ### 1 Kings 7:49
 - priority: `0`
@@ -51999,15 +51999,6 @@ Method:
 - mt: And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.
 - brenton: And the host of the Chaldeans that was with the captain of the guard pulled down all the wall of Jerusalem round about.
 
-### Proverbs 1:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.340`
-- fresh_brenton_ratio: `0.399`
-- fresh: The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise.
-- mt: The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.
-- brenton: The fear of the Lord is the beginning of wisdom; and there is good understanding to all that practise it: and piety toward God is the beginning of discernment; but the ungodly will set at nought wisdom and instruction.
-
 ### Proverbs 28:3
 - priority: `0`
 - importance: `none`
@@ -52097,6 +52088,15 @@ Method:
 - fresh: Gilead mine and Manasseh mine, and Ephraim strength of my head, Judah my king.
 - mt: Because of his strength will I wait upon you: for God is my defence.
 - brenton: Galaad is mine, and Manasse is mine; and Ephraim is the strength of my head;
+
+### Proverbs 11:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.340`
+- fresh_brenton_ratio: `0.796`
+- fresh: But by the mouths of the ungodly it was torn down.
+- mt: By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
+- brenton: but by the mouths of ungodly men it is overthrown.
 
 ### Numbers 26:58
 - priority: `0`
@@ -58002,15 +58002,6 @@ Method:
 - mt: Who has given him a charge over the earth? or who has disposed the whole world?
 - brenton: And who is he that made the whole world under heaven, and all things therein?
 
-### Proverbs 4:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.373`
-- fresh_brenton_ratio: `0.662`
-- fresh: Do not go upon the ways of ungodly, nor envy ways of lawless men.
-- mt: Enter not into the path of the wicked, and go not in the way of evil men.
-- brenton: Go not in the ways of the ungodly, neither covet the ways of transgressors.
-
 ### Proverbs 29:25
 - priority: `0`
 - importance: `none`
@@ -58416,15 +58407,6 @@ Method:
 - mt: If you says, Behold, we knew it not; does not he that ponders the heart consider it? and he that keeps your soul, does not he know it? and shall not he render to every man according to his works?
 - brenton: But if thou shouldest say, I know not this man; know that the Lord knows the hearts of all; and he that formed breath for all, he knows all things, who renders to every man according to his works.
 
-### Proverbs 11:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.375`
-- fresh_brenton_ratio: `0.769`
-- fresh: In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
-- mt: An hypocrite with his mouth destroys his neighbour: but through knowledge shall the just be delivered.
-- brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
-
 ### Jeremiah 48:3
 - priority: `0`
 - importance: `none`
@@ -58631,6 +58613,15 @@ Method:
 - fresh: I was silent; will I also always be silent and endure? I held firm. As woman giving birth I will be amazed and dry up together.
 - mt: I have long time held my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.
 - brenton: I have been silent: shall I also always be silent and forbear? I have endured like a travailing woman: I will now amaze and wither at once.
+
+### Proverbs 4:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.377`
+- fresh_brenton_ratio: `0.700`
+- fresh: Do not go upon the ways of the ungodly, nor envy ways of lawless men.
+- mt: Enter not into the path of the wicked, and go not in the way of evil men.
+- brenton: Go not in the ways of the ungodly, neither covet the ways of transgressors.
 
 ### Jeremiah 36:27
 - priority: `0`
@@ -62556,6 +62547,15 @@ Method:
 - mt: Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows.
 - brenton: So I set men in the lowest part of the place behind the wall in the lurking-places, I even set the people according to their families, with their swords, their spears, and their bows.
 
+### Proverbs 1:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.405`
+- fresh_brenton_ratio: `0.489`
+- fresh: The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline.
+- mt: The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.
+- brenton: The fear of the Lord is the beginning of wisdom; and there is good understanding to all that practise it: and piety toward God is the beginning of discernment; but the ungodly will set at nought wisdom and instruction.
+
 ### Psalms 145:9
 - priority: `0`
 - importance: `none`
@@ -63185,15 +63185,6 @@ Method:
 - fresh: Shame of father they uncovered in you, and woman set apart in uncleanness they humbled in you.
 - mt: In you have they discovered their fathers' nakedness: in you have they humbled her that was set apart for pollution.
 - brenton: In thee they have uncovered the father's shame; and in thee they have humbled her that was set apart for uncleanness.
-
-### Proverbs 3:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.410`
-- fresh_brenton_ratio: `0.517`
-- fresh: And you will not fear terror coming, nor assaults of ungodly when they come.
-- mt: Be not afraid of sudden fear, neither of the desolation of the wicked, when it comes.
-- brenton: And thou shalt not be afraid of alarm coming upon thee, neither of approaching attacks of ungodly men.
 
 ### 1 Chronicles 28:17
 - priority: `0`
@@ -68109,6 +68100,15 @@ Method:
 - mt: Hoshea, Hananiah, Hashub,
 - brenton: Osee, Anania, Asub,
 
+### Proverbs 3:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.450`
+- fresh_brenton_ratio: `0.506`
+- fresh: And you will not fear terror coming, nor assaults of the ungodly when they come.
+- mt: Be not afraid of sudden fear, neither of the desolation of the wicked, when it comes.
+- brenton: And thou shalt not be afraid of alarm coming upon thee, neither of approaching attacks of ungodly men.
+
 ### Job 24:8
 - priority: `0`
 - importance: `none`
@@ -69378,15 +69378,6 @@ Method:
 - mt: And the LORD said unto Moses, Say unto Aaron, Stretch out your rod, and strike the dust of the land, that it may become lice throughout all the land of Egypt.
 - brenton: And the Lord said to Moses, Rise up early in the morning, and stand before Pharao: and, behold, he will go forth to the water, and thou shalt say to him, These things says the Lord: Send away my people, that they may serve me in the wilderness.
 
-### Proverbs 12:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.459`
-- fresh_brenton_ratio: `0.740`
-- fresh: Nothing unjust will please righteous, but ungodly will be filled with evils.
-- mt: There shall no evil happen to the just: but the wicked shall be filled with mischief.
-- brenton: No injustice will please a just man; but the ungodly will be filled with mischief.
-
 ### Isaiah 34:11
 - priority: `0`
 - importance: `none`
@@ -69818,15 +69809,6 @@ Method:
 - fresh: For cry joined border of Moabite land, its howl as far as well of Elim.
 - mt: For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim.
 - brenton: For the cry has reached the border of the region of Moab, even of Agalim; and her howling has gone as far as the well of Ælim.
-
-### Proverbs 10:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.463`
-- fresh_brenton_ratio: `0.629`
-- fresh: Refined silver tongue of righteous, but heart of ungodly will fail.
-- mt: The tongue of the just is as choice silver: the heart of the wicked is little worth.
-- brenton: The tongue of the just is tried silver; but the heart of the ungodly shall fail.
 
 ### Isaiah 49:1
 - priority: `0`
@@ -71889,15 +71871,6 @@ Method:
 - mt: The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
 - brenton: That sorely oppress the people of the land with injustice, and commit robbery; oppressing the poor and needy, and not dealing justly with the stranger.
 
-### Proverbs 12:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.479`
-- fresh_brenton_ratio: `0.642`
-- fresh: A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
-- mt: The righteous is more excellent than his neighbour: but the way of the wicked seduces them.
-- brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
-
 ### Leviticus 21:13
 - priority: `0`
 - importance: `none`
@@ -73311,6 +73284,15 @@ Method:
 - mt: Whilst it is yet in his greenness, and not cut down, it withers before any other herb.
 - brenton: When it is yet on the root, and though it has not been cut down, does not any herb wither before it has received moisture?
 
+### Proverbs 12:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.488`
+- fresh_brenton_ratio: `0.624`
+- fresh: A discerning righteous one will be his own friend, but counsels of the ungodly are harsh. Evil will pursue sinners, but the way of the ungodly will mislead them.
+- mt: The righteous is more excellent than his neighbour: but the way of the wicked seduces them.
+- brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
+
 ### Genesis 42:19
 - priority: `0`
 - importance: `none`
@@ -74580,15 +74562,6 @@ Method:
 - mt: The righteous also shall hold on his way, and he that has clean hands shall be stronger and stronger.
 - brenton: But let the faithful hold on his own way, and let him that is pure of hands take courage.
 
-### Proverbs 11:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.497`
-- fresh_brenton_ratio: `0.787`
-- fresh: A righteous one escapes from a trap, and ungodly is handed over in his place.
-- mt: The righteous is delivered out of trouble, and the wicked comes in his position.
-- brenton: A righteous man escapes from a snare, and the ungodly man is delivered up in his place.
-
 ### Genesis 31:20
 - priority: `0`
 - importance: `none`
@@ -75452,15 +75425,6 @@ Method:
 - fresh: Do not use force against poor, for he is poor, and do not dishonor weak man in gates.
 - mt: Rob not the poor, because he is poor: neither oppress the afflicted in the gate:
 - brenton: Do no violence to the poor, for he is needy: neither dishonour the helpless man in the gates.
-
-### Proverbs 12:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.503`
-- fresh_brenton_ratio: `0.656`
-- fresh: A righteous one pities the souls of his cattle, but inward parts of ungodly pitiless.
-- mt: A righteous man regards the life of his beast: but the tender mercies of the wicked are cruel.
-- brenton: A righteous man has pity for the lives of his cattle; but the bowels of the ungodly are unmerciful.
 
 ### Job 4:11
 - priority: `0`
@@ -76541,6 +76505,15 @@ Method:
 - fresh: And her prostitution became as nothing, and she committed adultery with wood and stone.
 - mt: And it came to pass through the levity of her whoredom, that she defiled the land, and committed adultery with stones and with stocks.
 - brenton: And her fornication was nothing accounted of; and she committed adultery with wood and stone.
+
+### Proverbs 11:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.509`
+- fresh_brenton_ratio: `0.821`
+- fresh: A righteous one escapes from a trap, and the ungodly one is handed over in his place.
+- mt: The righteous is delivered out of trouble, and the wicked comes in his position.
+- brenton: A righteous man escapes from a snare, and the ungodly man is delivered up in his place.
 
 ### Numbers 24:7
 - priority: `0`
@@ -80853,15 +80826,6 @@ Method:
 - mt: And that he would show you the secrets of wisdom, that they are double to that which is! Know therefore that God exacts of you less than yours iniquity deserves.
 - brenton: Then shall he declare to thee the power of wisdom; for it shall be double of that which is with thee: and then shalt thou know, that a just recompence of thy sins has come to thee from the Lord.
 
-### Proverbs 10:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.535`
-- fresh_brenton_ratio: `0.603`
-- fresh: Possession of rich strong city, but ruin of ungodly poverty.
-- mt: The rich man's wealth is his strong city: the destruction of the poor is their poverty.
-- brenton: The wealth of rich men is a strong city; but poverty is the ruin of the ungodly.
-
 ### Ezekiel 34:2
 - priority: `0`
 - importance: `none`
@@ -81023,15 +80987,6 @@ Method:
 - fresh: Thought fountain of life to those having it, but discipline of fools evil.
 - mt: Understanding is a wellspring of life unto him that has it: but the instruction of fools is folly.
 - brenton: Understanding is a fountain of life to its possessors; but the instruction of fools is evil.
-
-### Proverbs 12:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.536`
-- fresh_brenton_ratio: `0.612`
-- fresh: Desires of ungodly evil, but roots of pious in strongholds.
-- mt: The wicked desires the net of evil men: but the root of the righteous yields fruit.
-- brenton: The desires of the ungodly are evil; but the roots of the godly are firmly set.
 
 ### Deuteronomy 28:54
 - priority: `0`
@@ -82833,14 +82788,14 @@ Method:
 - mt: That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.
 - brenton: even to destroy the Assyrians upon my land, and upon my mountains: and they shall be for trampling; and their yoke shall be taken away from them, and their glory shall be taken away from their shoulders.
 
-### Proverbs 11:19
+### Proverbs 10:15
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.544`
-- fresh_brenton_ratio: `0.822`
-- fresh: A righteous son is born for life, but pursuit of ungodly for death.
-- mt: As righteousness tends to life: so he that pursues evil pursues it to his own death.
-- brenton: A righteous son is born for life: but the persecution of the ungodly ends in death.
+- fresh_brenton_ratio: `0.803`
+- fresh: Possession of the rich is a strong city, but poverty is ruin of the ungodly.
+- mt: The rich man's wealth is his strong city: the destruction of the poor is their poverty.
+- brenton: The wealth of rich men is a strong city; but poverty is the ruin of the ungodly.
 
 ### 1 Samuel 1:28
 - priority: `0`
@@ -85523,6 +85478,15 @@ Method:
 - fresh: and Elon and its set-apart lands, and Gathrimmon and its set-apart lands, four cities.
 - mt: Aijalon with her suburbs, Gathrimmon with her suburbs; four cities.
 - brenton: and Ælon and its suburbs; and Getheremmon and its suburbs: four cities.
+
+### Proverbs 12:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.558`
+- fresh_brenton_ratio: `0.765`
+- fresh: Nothing unjust will please the righteous, but the ungodly will be filled with evils.
+- mt: There shall no evil happen to the just: but the wicked shall be filled with mischief.
+- brenton: No injustice will please a just man; but the ungodly will be filled with mischief.
 
 ### 2 Chronicles 4:11
 - priority: `0`
@@ -88638,6 +88602,15 @@ Method:
 - mt: And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
 - brenton: and Samaias the Gabaonite a mighty man among the thirty, and over the thirty;
 
+### Proverbs 11:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.571`
+- fresh_brenton_ratio: `0.863`
+- fresh: A righteous son is born for life, but pursuit of the ungodly is for death.
+- mt: As righteousness tends to life: so he that pursues evil pursues it to his own death.
+- brenton: A righteous son is born for life: but the persecution of the ungodly ends in death.
+
 ### Numbers 9:23
 - priority: `0`
 - importance: `none`
@@ -89978,6 +89951,15 @@ Method:
 - fresh: And it happened when we came to the lodging-place and opened our bags, each man's money was in his bag. We have now brought our money back in our hands by weight,
 - mt: And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man's money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand.
 - brenton: And it came to pass, when we came to unlade, and opened our sacks, there was also this money of each in his sack; we have now brought back our money by weight in our hands.
+
+### Proverbs 12:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.579`
+- fresh_brenton_ratio: `0.713`
+- fresh: A righteous one pities the souls of his cattle, but inward parts of the ungodly are pitiless.
+- mt: A righteous man regards the life of his beast: but the tender mercies of the wicked are cruel.
+- brenton: A righteous man has pity for the lives of his cattle; but the bowels of the ungodly are unmerciful.
 
 ### Leviticus 11:20
 - priority: `0`
@@ -91338,6 +91320,15 @@ Method:
 - mt: Therefore thus says the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
 - brenton: Therefore thus saith the Lord concerning the house of Jacob, whom he set apart from Abraam, Jacob shall not now be ashamed, neither shall he now change countenance.
 
+### Proverbs 12:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.584`
+- fresh_brenton_ratio: `0.787`
+- fresh: Desires of the ungodly are evil, but roots of the pious are in strongholds.
+- mt: The wicked desires the net of evil men: but the root of the righteous yields fruit.
+- brenton: The desires of the ungodly are evil; but the roots of the godly are firmly set.
+
 ### Isaiah 61:6
 - priority: `0`
 - importance: `none`
@@ -92111,6 +92102,15 @@ Method:
 - fresh: And there was hail, and the fire flaming in the hail, and the hail was very, very great, such as had not happened in Egypt from the time a nation came to be upon it.
 - mt: So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
 - brenton: So there was hail and flaming fire mingled with hail; and the hail was very great, such as was not in Egypt, from the time there was a nation upon it.
+
+### Proverbs 11:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.587`
+- fresh_brenton_ratio: `0.817`
+- fresh: When a righteous man dies, hope does not perish, but boast of the ungodly perishes.
+- mt: When a wicked man dies, his expectation shall perish: and the hope of unjust men perishes.
+- brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ### Isaiah 49:15
 - priority: `0`
@@ -98915,15 +98915,6 @@ Method:
 - fresh: And he spared his soul from death and him from falling in war.
 - mt: He keeps back his soul from the pit, and his life from perishing by the sword.
 - brenton: He spares also his soul from death, and suffers him not to fall in war.
-
-### Proverbs 11:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.613`
-- fresh_brenton_ratio: `0.788`
-- fresh: When a righteous man dies, hope does not perish, but boast of ungodly perishes.
-- mt: When a wicked man dies, his expectation shall perish: and the hope of unjust men perishes.
-- brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ### Genesis 46:33
 - priority: `0`
@@ -110823,6 +110814,15 @@ Method:
 - mt: Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,
 - brenton: And the men of Israel gather themselves together, and come to Armathaim to Samuel,
 
+### Proverbs 10:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.651`
+- fresh_brenton_ratio: `0.889`
+- fresh: The tongue of the righteous is refined silver, but the heart of the ungodly will fail.
+- mt: The tongue of the just is as choice silver: the heart of the wicked is little worth.
+- brenton: The tongue of the just is tried silver; but the heart of the ungodly shall fail.
+
 ### Genesis 14:7
 - priority: `0`
 - importance: `none`
@@ -120606,6 +120606,15 @@ Method:
 - mt: He puts my feet in the stocks, he marks all my paths.
 - brenton: And he has put my foot in the stocks, and has watched all my ways.
 
+### Proverbs 10:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.680`
+- fresh_brenton_ratio: `0.975`
+- fresh: The works of the righteous produce life, but fruits of the ungodly produce sins.
+- mt: The labour of the righteous tends to life: the fruit of the wicked to sin.
+- brenton: The works of the righteous produce life; but the fruits of the ungodly produce sins.
+
 ### Ecclesiastes 3:1
 - priority: `0`
 - importance: `none`
@@ -120974,15 +120983,6 @@ Method:
 - fresh: And the Lord said to me, I have spoken to you once and twice, saying, I have seen this people, and behold, it is a stiff-necked people.
 - mt: Furthermore the LORD spoke unto me, saying, I have seen this people, and, behold, it is a stubborn people:
 - brenton: And the Lord spoke to me, saying, I have spoken to thee once and again, saying, I have seen this people, and, behold, it is a stiff-necked people.
-
-### Proverbs 10:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.681`
-- fresh_brenton_ratio: `0.892`
-- fresh: The works of the righteous produce life, but fruits of ungodly sins.
-- mt: The labour of the righteous tends to life: the fruit of the wicked to sin.
-- brenton: The works of the righteous produce life; but the fruits of the ungodly produce sins.
 
 ### Exodus 20:13
 - priority: `0`
@@ -162861,15 +162861,6 @@ Method:
 - mt: Then went king David in, and sat before the LORD, and he said, Who am I, O Lord GOD? and what is my house, that you have brought me until now?
 - brenton: And king David came in, and sat before the Lord, and said, Who am I, O Lord, my Lord, and what is my house, that thou hast loved me hitherto?
 
-### Proverbs 10:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.787`
-- fresh_brenton_ratio: `0.854`
-- fresh: The fear of the Lord adds days, but years of ungodly will be shortened.
-- mt: The fear of the LORD prolongs days: but the years of the wicked shall be shortened.
-- brenton: The fear of the Lord adds length of days: but the years of the ungodly shall be shortened.
-
 ### Hosea 1:5
 - priority: `0`
 - importance: `none`
@@ -169358,6 +169349,15 @@ Method:
 - fresh: But the Levites by the tribe of their fathers were not counted among the sons of Israel.
 - mt: But the Levites after the tribe of their fathers were not numbered among them.
 - brenton: But the Levites of the tribe of their family were not counted among the children of Israel.
+
+### Proverbs 10:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.805`
+- fresh_brenton_ratio: `0.882`
+- fresh: The fear of the Lord adds days, but years of the ungodly will be shortened.
+- mt: The fear of the LORD prolongs days: but the years of the wicked shall be shortened.
+- brenton: The fear of the Lord adds length of days: but the years of the ungodly shall be shortened.
 
 ### 1 Samuel 14:51
 - priority: `0`

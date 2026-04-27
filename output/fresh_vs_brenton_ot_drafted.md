@@ -146538,10 +146538,10 @@ Note:
 ### Proverbs 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise.
+- fresh: The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline.
 - brenton: The fear of the Lord is the beginning of wisdom; and there is good understanding to all that practise it: and piety toward God is the beginning of discernment; but the ungodly will set at nought wisdom and instruction.
 
 ### Proverbs 1:8
@@ -147195,10 +147195,10 @@ Note:
 ### Proverbs 3:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will not fear terror coming, nor assaults of ungodly when they come.
+- fresh: And you will not fear terror coming, nor assaults of the ungodly when they come.
 - brenton: And thou shalt not be afraid of alarm coming upon thee, neither of approaching attacks of ungodly men.
 
 ### Proverbs 3:26
@@ -147402,10 +147402,10 @@ Note:
 ### Proverbs 4:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not go upon the ways of ungodly, nor envy ways of lawless men.
+- fresh: Do not go upon the ways of the ungodly, nor envy ways of lawless men.
 - brenton: Go not in the ways of the ungodly, neither covet the ways of transgressors.
 
 ### Proverbs 4:15
@@ -148662,10 +148662,10 @@ Note:
 ### Proverbs 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One disciplining evil men will receive dishonor for himself, and rebuking ungodly will blame himself.
+- fresh: One disciplining evil men will receive dishonor for himself, and rebuking the ungodly man will blame himself.
 - brenton: He that reproves evil men shall get dishonour to himself; and he that rebukes an ungodly man shall disgrace himself.
 
 ### Proverbs 9:8
@@ -148896,19 +148896,19 @@ Note:
 ### Proverbs 10:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Possession of rich strong city, but ruin of ungodly poverty.
+- fresh: Possession of the rich is a strong city, but poverty is ruin of the ungodly.
 - brenton: The wealth of rich men is a strong city; but poverty is the ruin of the ungodly.
 
 ### Proverbs 10:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The works of the righteous produce life, but fruits of ungodly sins.
+- fresh: The works of the righteous produce life, but fruits of the ungodly produce sins.
 - brenton: The works of the righteous produce life; but the fruits of the ungodly produce sins.
 
 ### Proverbs 10:17
@@ -148941,10 +148941,10 @@ Note:
 ### Proverbs 10:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Refined silver tongue of righteous, but heart of ungodly will fail.
+- fresh: The tongue of the righteous is refined silver, but the heart of the ungodly will fail.
 - brenton: The tongue of the just is tried silver; but the heart of the ungodly shall fail.
 
 ### Proverbs 10:21
@@ -149004,10 +149004,10 @@ Note:
 ### Proverbs 10:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The fear of the Lord adds days, but years of ungodly will be shortened.
+- fresh: The fear of the Lord adds days, but years of the ungodly will be shortened.
 - brenton: The fear of the Lord adds length of days: but the years of the ungodly shall be shortened.
 
 ### Proverbs 10:28
@@ -149076,10 +149076,10 @@ Note:
 ### Proverbs 11:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When righteous dies, he leaves regret, but destruction of ungodly comes readily and gladly.
+- fresh: When a righteous one dies, he leaves regret, but destruction of the ungodly comes readily and gladly.
 - brenton: When a just man dies he leaves regret: but the destruction of the ungodly is speedy, and causes joy.
 
 ### Proverbs 11:5
@@ -149103,28 +149103,28 @@ Note:
 ### Proverbs 11:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: When a righteous man dies, hope does not perish, but boast of ungodly perishes.
+- fresh: When a righteous man dies, hope does not perish, but boast of the ungodly perishes.
 - brenton: At the death of a just man his hope does not perish: but the boast of the ungodly perishes.
 
 ### Proverbs 11:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous one escapes from a trap, and ungodly is handed over in his place.
+- fresh: A righteous one escapes from a trap, and the ungodly one is handed over in his place.
 - brenton: A righteous man escapes from a snare, and the ungodly man is delivered up in his place.
 
 ### Proverbs 11:9
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In the mouth of ungodly is a snare to citizens, but perception of the righteous is a good way.
+- fresh: In the mouth of the ungodly is a snare to citizens, but perception of the righteous is a good way.
 - brenton: In the mouth of ungodly men is a snare to citizens: but the understanding of righteous men is prosperous.
 
 ### Proverbs 11:10
@@ -149139,10 +149139,10 @@ Note:
 ### Proverbs 11:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But by mouths of ungodly it was torn down.
+- fresh: But by the mouths of the ungodly it was torn down.
 - brenton: but by the mouths of ungodly men it is overthrown.
 
 ### Proverbs 11:12
@@ -149211,10 +149211,10 @@ Note:
 ### Proverbs 11:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous son is born for life, but pursuit of ungodly for death.
+- fresh: A righteous son is born for life, but pursuit of the ungodly is for death.
 - brenton: A righteous son is born for life: but the persecution of the ungodly ends in death.
 
 ### Proverbs 11:20
@@ -149409,10 +149409,10 @@ Note:
 ### Proverbs 12:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous one pities the souls of his cattle, but inward parts of ungodly pitiless.
+- fresh: A righteous one pities the souls of his cattle, but inward parts of the ungodly are pitiless.
 - brenton: A righteous man has pity for the lives of his cattle; but the bowels of the ungodly are unmerciful.
 
 ### Proverbs 12:11
@@ -149427,10 +149427,10 @@ Note:
 ### Proverbs 12:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Desires of ungodly evil, but roots of pious in strongholds.
+- fresh: Desires of the ungodly are evil, but roots of the pious are in strongholds.
 - brenton: The desires of the ungodly are evil; but the roots of the godly are firmly set.
 
 ### Proverbs 12:13
@@ -149508,10 +149508,10 @@ Note:
 ### Proverbs 12:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nothing unjust will please righteous, but ungodly will be filled with evils.
+- fresh: Nothing unjust will please the righteous, but the ungodly will be filled with evils.
 - brenton: No injustice will please a just man; but the ungodly will be filled with mischief.
 
 ### Proverbs 12:22
@@ -149553,10 +149553,10 @@ Note:
 ### Proverbs 12:26
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: A discerning righteous one will be his own friend, but counsels of ungodly are harsh. Evil will pursue sinners, but the way of ungodly will mislead them.
+- fresh: A discerning righteous one will be his own friend, but counsels of the ungodly are harsh. Evil will pursue sinners, but the way of the ungodly will mislead them.
 - brenton: A just arbitrator shall be his own friend; but mischief shall pursue sinners; and the way of ungodly men shall lead them astray.
 
 ### Proverbs 12:27

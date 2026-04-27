@@ -1367,7 +1367,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: The beginning of wisdom is the fear of the Lord, and the counsel of holy ones is understanding. For knowing law belongs to good mind.
-- OT clues: Ps.111.10 (72) -> The sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish. || Job.28.28 (61) -> And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding. || Prov.1.7 (51) -> The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but wisdom and discipline ungodly will despise. || Eccl.12.13 (41) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
+- OT clues: Ps.111.10 (72) -> The sinner will see and be angry; he will gnash his teeth and melt away; desire of sinners will perish. || Job.28.28 (61) -> And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding. || Prov.1.7 (51) -> The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline. || Eccl.12.13 (41) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
 - NT clues: John.17.3 (21) -> And this is life eternal, that they might know you the only true God, and Jesus Christ, whom you have sent. || 1John.5.20 (20) -> And we know that the Son of God has come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 
 ## Psalms 24:1
