@@ -3786,7 +3786,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     )
     assert "the wealth of the ungodly ceased" in by_ref["Isaiah 24:8"]["draft_translation"]
     assert by_ref["Isaiah 30:26"]["draft_translation"].startswith(
-        "And the light of moon will be as the light of sun"
+        "And the light of the moon will be as the light of the sun"
     )
     assert by_ref["Isaiah 32:17"]["draft_translation"].startswith(
         "And the works of righteousness will be peace"
@@ -4209,7 +4209,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Isaiah 29:20"]["draft_translation"].startswith("The lawless one failed")
     assert by_ref["Isaiah 33:14"]["draft_translation"].startswith("The lawless in Zion")
     assert "There will be the joy of birds" in by_ref["Isaiah 35:7"]["draft_translation"]
-    assert "where there was hope of help for him" in by_ref["Isaiah 30:32"]["draft_translation"]
+    assert "where there was the hope of help for him" in by_ref["Isaiah 30:32"]["draft_translation"]
     assert by_ref["Job 29:16"]["draft_translation"].startswith("I was a father to weak men")
     assert "This one was the father of Ziph" in by_ref["1 Chronicles 2:42"]["draft_translation"]
     assert "Maon was the father of Bethzur" in by_ref["1 Chronicles 2:45"]["draft_translation"]
@@ -5313,6 +5313,49 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "in a rich and spacious place" in by_ref["Isaiah 30:23"][
+        "draft_translation"
+    ]
+    assert "the oxen working the land" in by_ref["Isaiah 30:24"][
+        "draft_translation"
+    ]
+    assert "mixed with barley" in by_ref["Isaiah 30:24"]["draft_translation"]
+    assert "water passing through" in by_ref["Isaiah 30:25"][
+        "draft_translation"
+    ]
+    assert "the crushing of his people" in by_ref["Isaiah 30:26"][
+        "draft_translation"
+    ]
+    assert "the pain of your blow" in by_ref["Isaiah 30:26"][
+        "draft_translation"
+    ]
+    assert "his wrath is burning with glory" in by_ref["Isaiah 30:27"][
+        "draft_translation"
+    ]
+    assert "The oracle of his lips" in by_ref["Isaiah 30:27"][
+        "draft_translation"
+    ]
+    assert "in a ravine" in by_ref["Isaiah 30:28"]["draft_translation"]
+    assert "up to the neck" in by_ref["Isaiah 30:28"]["draft_translation"]
+    assert "trouble the nations" in by_ref["Isaiah 30:28"][
+        "draft_translation"
+    ]
+    assert "with a flute" in by_ref["Isaiah 30:29"]["draft_translation"]
+    assert "to the God of Israel" in by_ref["Isaiah 30:29"][
+        "draft_translation"
+    ]
+    assert "the glory of his voice" in by_ref["Isaiah 30:30"][
+        "draft_translation"
+    ]
+    assert "the wrath of his arm" in by_ref["Isaiah 30:30"][
+        "draft_translation"
+    ]
+    assert "the Assyrians will be defeated by the blow" in by_ref[
+        "Isaiah 30:31"
+    ]["draft_translation"]
+    assert "a deep ravine was prepared" in by_ref["Isaiah 30:33"][
+        "draft_translation"
+    ]
+    assert "the wrath of the Lord is as a ravine" in by_ref["Isaiah 30:33"][
         "draft_translation"
     ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]

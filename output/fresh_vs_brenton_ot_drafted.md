@@ -162825,91 +162825,91 @@ Note:
 ### Isaiah 30:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your bulls and oxen working land will eat prepared straw mixed in barley.
+- fresh: Your bulls and the oxen working the land will eat prepared straw mixed with barley.
 - brenton: Your bulls and your oxen that till the ground, shall eat chaff mixed with winnowed barley.
 
 ### Isaiah 30:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And on every high mountain and lofty hill there will be passing water in that day when many perish and towers fall.
+- fresh: And on every high mountain and every lofty hill there will be water passing through in that day when many perish and towers fall.
 - brenton: And there shall be upon every lofty mountain and upon every high hill, water running in that day, when many shall perish, and when the towers shall fall.
 
 ### Isaiah 30:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the light of moon will be as the light of sun, and the light of sun will be sevenfold in the day when the Lord heals crushing of his people and will heal pain of your blow.
+- fresh: And the light of the moon will be as the light of the sun, and the light of the sun will be sevenfold in the day when the Lord heals the crushing of his people and will heal the pain of your blow.
 - brenton: And the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold in the day when the Lord shall heal the breach of his people, and shall heal the pain of thy wound.
 
 ### Isaiah 30:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, the name of the Lord comes after much time, burning is wrath with glory. Oracle of his lips full of wrath, and anger of wrath as fire will eat.
+- fresh: Behold, the name of the Lord comes after much time; his wrath is burning with glory. The oracle of his lips is an oracle full of wrath, and the anger of his wrath will eat like fire.
 - brenton: Behold, the name of the Lord comes after a long time, burning wrath: the word of his lips is with glory, a word full of anger, and the anger of his wrath shall devour as fire.
 
 ### Isaiah 30:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his spirit will come as water in ravine dragging along up to neck, and it will be divided to trouble nations with vain wandering, and wandering will pursue them and seize them before face.
+- fresh: And his spirit will come as water in a ravine dragging along up to the neck, and it will be divided to trouble the nations with vain wandering, and wandering will pursue them and seize them before their face.
 - brenton: And his breath, as rushing water in a valley, shall reach as far as the neck, and be divided, to confound the nations for their vain error: error also shall pursue them, and overtake them.
 
 ### Isaiah 30:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Must you not rejoice continually and go into my holy things continually, as those keeping feast and as those rejoicing to enter with flute into the mountain of the Lord, to God of Israel?
+- fresh: Must you not rejoice continually and go into my holy things continually, as those keeping feast and as those rejoicing to enter with a flute into the mountain of the Lord, to the God of Israel?
 - brenton: Must ye always rejoice, and go into my holy places continually, as they that keep a feast? and must ye go with a pipe, as those that rejoice, into the mountain of the Lord, to the God of Israel?
 
 ### Isaiah 30:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God will make glory of his voice heard and show wrath of his arm with fury and anger and devouring flame, he will thunder violently, and as water and hail rushing down by force.
+- fresh: And God will make the glory of his voice heard and show the wrath of his arm with fury and anger and a devouring flame; he will thunder violently, and like water and hail rushing down by force.
 - brenton: And the Lord shall make his glorious voice to be heard, and the wrath of his arm, to make a display with wrath and anger and devouring flame: he shall lighten terribly, and his wrath shall be as water and violent hail.
 
 ### Isaiah 30:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For by the voice of the Lord Assyrians will be defeated by blow with which he strikes them.
+- fresh: For by the voice of the Lord the Assyrians will be defeated by the blow with which he strikes them.
 - brenton: For by the voice of the Lord the Assyrians shall be overcome, even by the stroke wherewith he shall smite them.
 
 ### Isaiah 30:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And around him there will be where there was hope of help for him, on which he trusted. With flutes and lyres they will war against him by change of turns.
+- fresh: And around him there will be where there was the hope of help for him, on which he trusted. With flutes and lyres they will war against him by change of turns.
 - brenton: And it shall happen to him from every side, that they from whom their hope of assistance was, in which he trusted, themselves shall war against him in turn with drums and with harp.
 
 ### Isaiah 30:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For beforehand you will be demanded, lest perhaps deep ravine was prepared also for you to reign, wood laid, fire and much wood; The wrath of the Lord as ravine burning with sulfur.
+- fresh: For beforehand you will be demanded, lest perhaps a deep ravine was prepared also for you to reign, wood laid, fire and much wood; the wrath of the Lord is as a ravine burning with sulfur.
 - brenton: For thou shalt be required before thy time: has it been prepared for thee also to reign? nay, God has prepared for thee a deep trench, wood piled, fire and much wood: the wrath of the Lord shall be as a trench kindled with sulphur.
 
 ### Isaiah 31:1
