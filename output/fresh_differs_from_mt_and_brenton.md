@@ -758,6 +758,15 @@ Rows: 20937
 - mt: And you, Solomon my son, know you the God of your father, and serve him with a perfect heart and with a willing mind: for the LORD searches all hearts, and understands all the imaginations of the thoughts: if you seek him, he will be found of you; but if you forsake him, he will cast you off for ever.
 - brenton: And now, my son Solomon, know the God of thy fathers, and serve him with a perfect heart and willing soul: for the Lord searches all hearts, and knows every thought: if thou seek him, he will be found of thee; but if thou shouldest forsake him, he will forsake thee for ever.
 
+## Ecclesiastes 5:7
+- priority: `20`
+- importance: `high`
+- fresh_mt_ratio: `0.223`
+- fresh_brenton_ratio: `0.132`
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
+- mt: For in the multitude of dreams and many words there are also divers vanities: but fear you God.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
+
 ## 1 Kings 13:2
 - priority: `20`
 - importance: `high`
@@ -1351,15 +1360,6 @@ Rows: 20937
 - fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - mt: Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts has sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts.
 - brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
-
-## Ecclesiastes 5:7
-- priority: `17`
-- importance: `high`
-- fresh_mt_ratio: `0.060`
-- fresh_brenton_ratio: `0.136`
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
-- mt: For in the multitude of dreams and many words there are also divers vanities: but fear you God.
-- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ## Judges 2:14
 - priority: `17`
@@ -6302,6 +6302,15 @@ Rows: 20937
 - mt: Take you a roll of a book, and write therein all the words that I have spoken unto you against Israel, and against Judah, and against all the nations, from the day I spoke unto you, from the days of Josiah, even unto this day.
 - brenton: (after the departure of Jechonias the king and the queen, and the eunuchs, and every freeman, and bondman, and artificer, out of Jerusalem;)
 
+## Ecclesiastes 5:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.042`
+- fresh_brenton_ratio: `0.781`
+- fresh: And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this is a gift of God.
+- mt: Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he takes under the sun all the days of his life, which God gives him: for it is his portion.
+- brenton: Yea, and as for every man to whom God has given wealth and possessions, and has given him power to eat thereof, and to receive his portion, and to rejoice in his labour; this is the gift of God.
+
 ## Jeremiah 42:2
 - priority: `0`
 - importance: `none`
@@ -6454,15 +6463,6 @@ Rows: 20937
 - fresh: and it shall eat the offspring of your cattle and the produce of your land, so as not to leave for you grain, wine, oil, the herds of your cattle and the flocks of your sheep, until it destroys you.
 - mt: And he shall eat the fruit of your cattle, and the fruit of your land, until you be destroyed: which also shall not leave you either corn, wine, or oil, or the increase of your cattle, or flocks of your sheep, until he have destroyed you.
 - brenton: And it shall eat up the young of thy cattle, and the fruits of thy land, so as not to leave to thee corn, wine, oil, the herds of thine oxen, and the flocks of thy sheep, until it shall have destroyed thee;
-
-## Ecclesiastes 5:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.043`
-- fresh_brenton_ratio: `0.769`
-- fresh: And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
-- mt: Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he takes under the sun all the days of his life, which God gives him: for it is his portion.
-- brenton: Yea, and as for every man to whom God has given wealth and possessions, and has given him power to eat thereof, and to receive his portion, and to rejoice in his labour; this is the gift of God.
 
 ## Jeremiah 47:3
 - priority: `0`
@@ -18875,6 +18875,15 @@ Rows: 20937
 - mt: The LORD judge between me and you, and the LORD avenge me of you: but mine hand shall not be upon you.
 - brenton: And behold, the skirt of thy mantle is in my hand, I cut off the skirt, and did not slay thee: know then and see to-day, there is no evil in my hand, nor impiety, nor rebellion; and I have not sinned against thee, yet thou layest snares for my soul to take it.
 
+## Ecclesiastes 5:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.168`
+- fresh_brenton_ratio: `0.121`
+- fresh: Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this is his portion.
+- mt: All his days also he eats in darkness, and he has much sorrow and wrath with his sickness.
+- brenton: Behold, I have seen good, that it is a fine thing for a man to eat and to drink, and to see good in all his labour in which he may labour under the sun, all the number of the days of his life which God has given to him: for it is his portion.
+
 ## Nehemiah 4:15
 - priority: `0`
 - importance: `none`
@@ -19126,15 +19135,6 @@ Rows: 20937
 - fresh: And I will set my jealousy in you, and they will act with you in a fury of wrath. Your nose and your ears they will remove, and your remnant they will cast down by sword. They will take your sons and daughters, and your remnant fire will devour.
 - mt: And I will set my jealousy against you, and they shall deal furiously with you: they shall take away your nose and yours ears; and your remnant shall fall by the sword: they shall take your sons and your daughters; and your residue shall be devoured by the fire.
 - brenton: And I will bring upon thee my jealousy, and they shall deal with thee in great wrath: they shall take away thy nose and thine ears; and shall cast down thy remnant with the sword: they shall take thy sons and thy daughters; and thy remnant fire shall devour.
-
-## Ecclesiastes 5:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.170`
-- fresh_brenton_ratio: `0.118`
-- fresh: Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this his portion.
-- mt: All his days also he eats in darkness, and he has much sorrow and wrath with his sickness.
-- brenton: Behold, I have seen good, that it is a fine thing for a man to eat and to drink, and to see good in all his labour in which he may labour under the sun, all the number of the days of his life which God has given to him: for it is his portion.
 
 ## 2 Samuel 1:21
 - priority: `0`
@@ -20288,6 +20288,15 @@ Rows: 20937
 - mt: The LORD tries the righteous: but the wicked and him that loves violence his soul hates.
 - brenton: who have said, We will magnify our tongue; our lips are our own: who is Lord of us?
 
+## Ecclesiastes 5:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.181`
+- fresh_brenton_ratio: `0.879`
+- fresh: And that wealth will perish in an evil distraction, and he begot a son and there is nothing in his hand.
+- mt: There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.
+- brenton: And that wealth shall perish in an evil trouble: and the man begets a son, and there is nothing in his hand.
+
 ## Numbers 8:12
 - priority: `0`
 - importance: `none`
@@ -20675,15 +20684,6 @@ Rows: 20937
 - mt: And he made thereunto four pillars of shittim wood, and overlaid them with gold: their hooks were of gold; and he cast for them four sockets of silver.
 - brenton: and their girdles of fine linen, and blue, and purple, and scarlet spun, the work of an embroiderer, according as the Lord commanded Moses.
 
-## Ecclesiastes 5:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.185`
-- fresh_brenton_ratio: `0.851`
-- fresh: And that wealth will perish in evil distraction, and he begot son and there is nothing in his hand.
-- mt: There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.
-- brenton: And that wealth shall perish in an evil trouble: and the man begets a son, and there is nothing in his hand.
-
 ## Psalms 39:8
 - priority: `0`
 - importance: `none`
@@ -21034,15 +21034,6 @@ Rows: 20937
 - fresh: My strength, toward you I will keep watch, because God my supporter.
 - mt: The righteous shall rejoice when he sees the vengeance: he shall wash his feet in the blood of the wicked.
 - brenton: I will keep my strength, looking to thee; for thou, O God, art my helper.
-
-## Ecclesiastes 5:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.189`
-- fresh_brenton_ratio: `0.598`
-- fresh: Sweet sleep of servant, whether little or much he eats; but fullness of rich man will not let him sleep.
-- mt: When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?
-- brenton: The sleep of a servant is sweet, whether he eat little or much: but to one who is satiated with wealth, there is none that suffers him to sleep.
 
 ## Psalms 39:11
 - priority: `0`
@@ -22961,6 +22952,15 @@ Rows: 20937
 - mt: And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.
 - brenton: And he saw his first-fruits, that there the land of the princes gathered with the chiefs of the people was divided; the Lord wrought righteousness, and his judgment with Israel.
 
+## Ecclesiastes 5:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.209`
+- fresh_brenton_ratio: `0.745`
+- fresh: One loving silver will not be filled with silver, and who loved produce in their abundance? This too is vanity.
+- mt: Moreover the profit of the earth is for all: the king himself is served by the field.
+- brenton: He that loves silver shall not be satisfied with silver: and who has loved gain, in the abundance thereof? this is also vanity.
+
 ## Psalms 45:9
 - priority: `0`
 - importance: `none`
@@ -23428,15 +23428,6 @@ Rows: 20937
 - fresh: To do your will, O my God, I wanted, and your law in the midst of my belly.
 - mt: I was dumb, I opened not my mouth; because you did it.
 - brenton: I desired to do thy will, O my God, and thy law in the midst of mine heart.
-
-## Ecclesiastes 5:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.213`
-- fresh_brenton_ratio: `0.746`
-- fresh: One loving silver will not be filled with silver, and who loved produce in their abundance? This too vanity.
-- mt: Moreover the profit of the earth is for all: the king himself is served by the field.
-- brenton: He that loves silver shall not be satisfied with silver: and who has loved gain, in the abundance thereof? this is also vanity.
 
 ## 1 Chronicles 6:31
 - priority: `0`
@@ -28262,6 +28253,15 @@ Rows: 20937
 - mt: I will praise you: for you have heard me, and are become my salvation.
 - brenton: Thou hast rebuked the proud: cursed are they that turn aside from thy commandments.
 
+## Ecclesiastes 5:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.246`
+- fresh_brenton_ratio: `0.720`
+- fresh: There is a sickness I saw under the sun: wealth kept by its owner for his harm.
+- mt: The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
+- brenton: There is an infirmity which I have seen under the sun, namely, wealth kept for its owner to his hurt.
+
 ## Psalms 35:12
 - priority: `0`
 - importance: `none`
@@ -29243,6 +29243,15 @@ Rows: 20937
 - mt: Be you exalted, LORD, in yours own strength: so will we sing and praise your power.
 - brenton: Many bullocks have compassed me: fat bulls have beset me round.
 
+## Ecclesiastes 5:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.252`
+- fresh_brenton_ratio: `0.674`
+- fresh: In the multitude of good things, the eaters of it multiplied, and what advantage is there for its owner except seeing with his eyes?
+- mt: He that loves silver shall not be satisfied with silver; nor he that loves abundance with increase: this is also vanity.
+- brenton: In the multitude of good they are increased that eat it: and what virtue has the owner, but the right of beholding it with his eyes?
+
 ## Psalms 110:6
 - priority: `0`
 - importance: `none`
@@ -30133,15 +30142,6 @@ Rows: 20937
 - fresh: Why do you boast in evil, mighty one, in lawlessness whole day?
 - mt: For I acknowledge my transgressions: and my sin is ever before me.
 - brenton: Why dost thou, O mighty man, boast of iniquity in thy mischief? All the day
-
-## Ecclesiastes 5:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.258`
-- fresh_brenton_ratio: `0.661`
-- fresh: In the multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
-- mt: He that loves silver shall not be satisfied with silver; nor he that loves abundance with increase: this is also vanity.
-- brenton: In the multitude of good they are increased that eat it: and what virtue has the owner, but the right of beholding it with his eyes?
 
 ## Isaiah 25:5
 - priority: `0`
@@ -32051,15 +32051,6 @@ Rows: 20937
 - mt: Lift not up your horn on high: speak not with a stiff neck.
 - brenton: Thou dost wonderfully shine forth from the everlasting mountains.
 
-## Ecclesiastes 5:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.269`
-- fresh_brenton_ratio: `0.705`
-- fresh: There is sickness I saw under the sun: wealth kept by its owner for his harm.
-- mt: The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
-- brenton: There is an infirmity which I have seen under the sun, namely, wealth kept for its owner to his hurt.
-
 ## Psalms 68:3
 - priority: `0`
 - importance: `none`
@@ -32221,6 +32212,15 @@ Rows: 20937
 - fresh: And if you do not wish to vow, there is no sin in you.
 - mt: That which is gone out of your lips you shall keep and perform; even a freewill offering, according as you have vowed unto the LORD your God, which you have promised with your mouth.
 - brenton: But if thou shouldest be unwilling to vow, it is not sin in thee.
+
+## Ecclesiastes 5:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.270`
+- fresh_brenton_ratio: `0.609`
+- fresh: And this too is an evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
+- mt: As he came out of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.
+- brenton: And this is also an evil infirmity: for as he came, so also shall he return: and what is his gain, for which he vainly labours?
 
 ## Psalms 50:9
 - priority: `0`
@@ -33355,15 +33355,6 @@ Rows: 20937
 - fresh: Your throne, O God, forever and ever; rod of uprightness rod of your kingdom.
 - mt: But you have saved us from our enemies, and have put them to shame that hated us.
 - brenton: Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a sceptre of righteousness.
-
-## Ecclesiastes 5:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.276`
-- fresh_brenton_ratio: `0.591`
-- fresh: And this too evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
-- mt: As he came out of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.
-- brenton: And this is also an evil infirmity: for as he came, so also shall he return: and what is his gain, for which he vainly labours?
 
 ## Psalms 106:6
 - priority: `0`
@@ -36659,6 +36650,15 @@ Rows: 20937
 - mt: Jerusalem is built as a city that is compact together:
 - brenton: Have pity upon us, O Lord, have pity upon us: for we are exceedingly filled with contempt.
 
+## Ecclesiastes 5:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.294`
+- fresh_brenton_ratio: `0.707`
+- fresh: Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin the works of your hands.
+- mt: Better is it that you should not vow, than that you should vow and not pay.
+- brenton: Suffer not thy mouth to lead thy flesh to sin; and say not in the presence of God, It was an error: lest God be angry at thy voice, and destroy the works of thy hands.
+
 ## Psalms 32:8
 - priority: `0`
 - importance: `none`
@@ -37496,15 +37496,6 @@ Rows: 20937
 - mt: That your foot may be dipped in the blood of yours enemies, and the tongue of your dogs in the same.
 - brenton: Let their table before them be for a snare, and for a recompence, and for a stumbling-block.
 
-## Ecclesiastes 5:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.299`
-- fresh_brenton_ratio: `0.691`
-- fresh: Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin works of your hands.
-- mt: Better is it that you should not vow, than that you should vow and not pay.
-- brenton: Suffer not thy mouth to lead thy flesh to sin; and say not in the presence of God, It was an error: lest God be angry at thy voice, and destroy the works of thy hands.
-
 ## Job 31:28
 - priority: `0`
 - importance: `none`
@@ -37990,6 +37981,15 @@ Rows: 20937
 - fresh: Because day and night your hand grew heavy upon me; I was turned into misery when thorn was fixed in. Interlude.
 - mt: Pull me out of the net that they have laid privately for me: for you are my strength.
 - brenton: For day and night thy hand was heavy upon me: I became thoroughly miserable while a thorn was fastened in me. Pause.
+
+## Ecclesiastes 5:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.302`
+- fresh_brenton_ratio: `0.680`
+- fresh: The sleep of a servant is sweet, whether little or much he eats; but the fullness of a rich man will not let him sleep.
+- mt: When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?
+- brenton: The sleep of a servant is sweet, whether he eat little or much: but to one who is satiated with wealth, there is none that suffers him to sleep.
 
 ## Job 18:4
 - priority: `0`
@@ -39701,15 +39701,6 @@ Rows: 20937
 - mt: Oh that you would rend the heavens, that you would come down, that the mountains might flow down at your presence,
 - brenton: as wax melts before the fire; and fire shall burn up the enemies, and thy name shall be manifest among the adversaries: at thy presence the nations shall be troubled,
 
-## Ecclesiastes 5:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.311`
-- fresh_brenton_ratio: `0.611`
-- fresh: Because dream comes in the multitude of distraction, and voice of fool in the multitude of words.
-- mt: Be not rash with your mouth, and let not yours heart be hasty to utter any thing before God: for God is in heaven, and you upon earth: therefore let your words be few.
-- brenton: For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.
-
 ## Ecclesiastes 5:16
 - priority: `0`
 - importance: `none`
@@ -40807,6 +40798,15 @@ Rows: 20937
 - fresh: And it came to pass after Amaziah came from striking Edom, he brought to them gods of sons of Seir and set them up for himself as gods, and bowed before them and burned sacrifice to them.
 - mt: Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them.
 - brenton: And it came to pass, after Amasias had returned from smiting Idumea, that he brought home the gods of the children of Seir, and set them up for himself as gods, and bowed down before them, and he sacrificed to them.
+
+## Ecclesiastes 5:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.317`
+- fresh_brenton_ratio: `0.576`
+- fresh: Because a dream comes in the multitude of distraction, and the voice of a fool in the multitude of words.
+- mt: Be not rash with your mouth, and let not yours heart be hasty to utter any thing before God: for God is in heaven, and you upon earth: therefore let your words be few.
+- brenton: For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.
 
 ## Jeremiah 26:6
 - priority: `0`
@@ -49952,15 +49952,6 @@ Rows: 20937
 - mt: How then can man be justified with God? or how can he be clean that is born of a woman?
 - brenton: For how shall a mortal be just before the Lord? or who that is born of a woman shall purify himself?
 
-## Ecclesiastes 5:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.367`
-- fresh_brenton_ratio: `0.687`
-- fresh: Do not hurry with your mouth, and let not your heart hasten to bring out word before the face of God, because God in heaven and you on earth; on this let your words be few.
-- mt: Keep your foot when you go to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
-- brenton: Be not hasty with thy mouth, and let not thine heart be swift to utter anything before God; for God is in heaven above, and thou upon earth: therefore let thy words be few.
-
 ## Isaiah 5:10
 - priority: `0`
 - importance: `none`
@@ -52390,6 +52381,15 @@ Rows: 20937
 - fresh: Do not say, "As he treated me, so I will treat him; I will repay him what he wronged me."
 - mt: Say not, I will do so to him as he has done to me: I will render to the man according to his work.
 - brenton: Say not, As he has treated me, so will I treat him, and I will avenge myself on him for that wherein he has injured me.
+
+## Ecclesiastes 5:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.382`
+- fresh_brenton_ratio: `0.680`
+- fresh: Do not hurry with your mouth, and let not your heart hasten to bring out a word before the face of God, because God is in heaven and you are on earth; on this let your words be few.
+- mt: Keep your foot when you go to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
+- brenton: Be not hasty with thy mouth, and let not thine heart be swift to utter anything before God; for God is in heaven above, and thou upon earth: therefore let thy words be few.
 
 ## Isaiah 35:1
 - priority: `0`

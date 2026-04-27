@@ -1112,10 +1112,10 @@ Use:
 - brenton: For God has given to the man who is good in his sight, wisdom, and knowledge, and joy: but he has given to the sinner trouble, to add and to heap up, that he may give to him that is good before God; for this is also vanity and waywardness of spirit.
 
 ### Ecclesiastes 5:7
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
 - crossref top vote: 13
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
 - brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ### Ecclesiastes 6:2

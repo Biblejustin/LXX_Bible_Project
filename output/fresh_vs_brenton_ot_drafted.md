@@ -155252,19 +155252,19 @@ Note:
 ### Ecclesiastes 5:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not hurry with your mouth, and let not your heart hasten to bring out word before the face of God, because God in heaven and you on earth; on this let your words be few.
+- fresh: Do not hurry with your mouth, and let not your heart hasten to bring out a word before the face of God, because God is in heaven and you are on earth; on this let your words be few.
 - brenton: Be not hasty with thy mouth, and let not thine heart be swift to utter anything before God; for God is in heaven above, and thou upon earth: therefore let thy words be few.
 
 ### Ecclesiastes 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because dream comes in the multitude of distraction, and voice of fool in the multitude of words.
+- fresh: Because a dream comes in the multitude of distraction, and the voice of a fool in the multitude of words.
 - brenton: For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.
 
 ### Ecclesiastes 5:3
@@ -155288,10 +155288,10 @@ Note:
 ### Ecclesiastes 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin works of your hands.
+- fresh: Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin the works of your hands.
 - brenton: Suffer not thy mouth to lead thy flesh to sin; and say not in the presence of God, It was an error: lest God be angry at thy voice, and destroy the works of thy hands.
 
 ### Ecclesiastes 5:6
@@ -155306,10 +155306,10 @@ Note:
 ### Ecclesiastes 5:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
 - brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ### Ecclesiastes 5:8
@@ -155324,46 +155324,46 @@ Note:
 ### Ecclesiastes 5:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One loving silver will not be filled with silver, and who loved produce in their abundance? This too vanity.
+- fresh: One loving silver will not be filled with silver, and who loved produce in their abundance? This too is vanity.
 - brenton: He that loves silver shall not be satisfied with silver: and who has loved gain, in the abundance thereof? this is also vanity.
 
 ### Ecclesiastes 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
+- fresh: In the multitude of good things, the eaters of it multiplied, and what advantage is there for its owner except seeing with his eyes?
 - brenton: In the multitude of good they are increased that eat it: and what virtue has the owner, but the right of beholding it with his eyes?
 
 ### Ecclesiastes 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sweet sleep of servant, whether little or much he eats; but fullness of rich man will not let him sleep.
+- fresh: The sleep of a servant is sweet, whether little or much he eats; but the fullness of a rich man will not let him sleep.
 - brenton: The sleep of a servant is sweet, whether he eat little or much: but to one who is satiated with wealth, there is none that suffers him to sleep.
 
 ### Ecclesiastes 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is sickness I saw under the sun: wealth kept by its owner for his harm.
+- fresh: There is a sickness I saw under the sun: wealth kept by its owner for his harm.
 - brenton: There is an infirmity which I have seen under the sun, namely, wealth kept for its owner to his hurt.
 
 ### Ecclesiastes 5:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And that wealth will perish in evil distraction, and he begot son and there is nothing in his hand.
+- fresh: And that wealth will perish in an evil distraction, and he begot a son and there is nothing in his hand.
 - brenton: And that wealth shall perish in an evil trouble: and the man begets a son, and there is nothing in his hand.
 
 ### Ecclesiastes 5:14
@@ -155378,10 +155378,10 @@ Note:
 ### Ecclesiastes 5:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this too evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
+- fresh: And this too is an evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
 - brenton: And this is also an evil infirmity: for as he came, so also shall he return: and what is his gain, for which he vainly labours?
 
 ### Ecclesiastes 5:16
@@ -155396,19 +155396,19 @@ Note:
 ### Ecclesiastes 5:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this his portion.
+- fresh: Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this is his portion.
 - brenton: Behold, I have seen good, that it is a fine thing for a man to eat and to drink, and to see good in all his labour in which he may labour under the sun, all the number of the days of his life which God has given to him: for it is his portion.
 
 ### Ecclesiastes 5:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
+- fresh: And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this is a gift of God.
 - brenton: Yea, and as for every man to whom God has given wealth and possessions, and has given him power to eat thereof, and to receive his portion, and to rejoice in his labour; this is the gift of God.
 
 ### Ecclesiastes 5:19

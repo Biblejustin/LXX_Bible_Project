@@ -2,8 +2,8 @@
 
 Fallback bucket for hard wording, textual variation, lexical judgment.
 
-Rows: 59
-Books: 22
+Rows: 60
+Books: 23
 
 ## Genesis 1:2
 - score: 21
@@ -319,6 +319,13 @@ Books: 22
 - keywords: altar, god, holy, law, lord, sacrifice, sin
 - fresh: for the bread of the presence and sacrifice of the continual offering and for the continual whole burnt offering of the Sabbaths, of the new moons, for the feasts and for the holy things and for the sin offerings to make atonement concerning Israel, and for the works of the house of our God.
 - brenton: And we cast lots for the office of wood-bearing, we the priests, and the Levites, and the people, to bring wood into the house of our God, according to the house of our families, at certain set times, year by year, to burn on the altar of the Lord our God, as it is written in the law:
+
+## Ecclesiastes 5:7
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
+- keywords: judgment, justice, righteousness
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ## Isaiah 9:6
 - score: 24

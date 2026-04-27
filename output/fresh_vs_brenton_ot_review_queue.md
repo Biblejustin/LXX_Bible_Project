@@ -11,7 +11,7 @@ Use MD for reading order.
 - death/afterlife: 1
 - kingship: 105
 - ritual: 75
-- textual/lexical: 59
+- textual/lexical: 60
 - theology: 107
 
 ## Top 50

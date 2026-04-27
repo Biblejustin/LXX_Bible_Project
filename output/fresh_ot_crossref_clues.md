@@ -912,6 +912,17 @@ Rows: 233
 - OT clues: Exod.20.6 (22) -> "and showing mercy into thousands for those who love me and keep my commandments." || Deut.5.10 (15) -> and showing mercy to thousands, to those who love me and keep my commands. || Exod.34.6-Exod.34.7 (13) -> And the Lord passed before his face and proclaimed, "The Lord God, compassionate and merciful, slow to anger and very merciful and true, || Dan.9.5-Dan.9.12 (12) -> We sinned, we acted unjustly, we acted impiously, and we departed and transgressed your commands and your judgments.
 - NT clues: Rom.8.28 (26) -> And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
+## Ecclesiastes 5:7
+- score: 20
+- latest review status: keep
+- top vote: 13
+- OT crossrefs: 7
+- NT crossrefs: 1
+- shared-family hits: 0
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
+- OT clues: Eccl.12.13 (13) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
+- NT clues: Matt.12.36 (13) -> But I say unto you, That every idle word (o. rhema) that men shall speak, they shall give account (o. logos) thereof in the day of judgment.
+
 ## Ezekiel 39:25
 - score: 20
 - latest review status: keep
@@ -1280,7 +1291,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
-- OT clues: Prov.21.3 (41) -> Doing righteous things and speaking truth more pleasing to God than blood sacrifices. || 1Sam.15.22 (34) -> And Samuel said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams. || Amos.5.21 (30) -> I hated, I rejected your feasts, and I will by no means smell your festivals. || Eccl.5.1 (29) -> Do not hurry with your mouth, and let not your heart hasten to bring out word before the face of God, because God in heaven and you on earth; on this let your words be few.
+- OT clues: Prov.21.3 (41) -> Doing righteous things and speaking truth more pleasing to God than blood sacrifices. || 1Sam.15.22 (34) -> And Samuel said, Is it acceptable to the Lord, whole burnt offerings and sacrifices, as hearing the voice of the Lord? Behold, hearing is better than sacrifice, and listening than the fat of rams. || Amos.5.21 (30) -> I hated, I rejected your feasts, and I will by no means smell your festivals. || Eccl.5.1 (29) -> Do not hurry with your mouth, and let not your heart hasten to bring out a word before the face of God, because God is in heaven and you are on earth; on this let your words be few.
 - NT clues: Matt.9.13 (62) -> But go all of you and learn what that means, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance. || Matt.12.7 (48) -> But if all of you had known what this means, I will have mercy, and not sacrifice, all of you would not have condemned the guiltless.
 
 ## Job 1:1
@@ -1685,17 +1696,6 @@ Rows: 233
 - fresh: Because the Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
 - OT clues: Gen.18.17 (56) -> And the Lord said, Shall I hide from Abraham my servant what I am doing? || Dan.9.22-Dan.9.27 (35) -> And he came and spoke with me and said, Daniel, now I came out to show you understanding. || Gen.6.13 (32) -> And the Lord God said to Noah, 'The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth.' || Dan.10.21 (27) -> But I will plainly show you first things in the writing of truth, and no one was helping with me concerning these things except Michael the angel.
 - NT clues: John.15.15 (66) -> Henceforth I call you not servants; for the servant knows not what his lord does: but I have called you friends; for all things that I have heard of my Father I have made known unto you. || Ps.25.14 (52) -> The secret of the LORD is with them that fear him; and he will show them his covenant. || Rev.1.1 (44) -> The Revelation of Jesus Christ, which God gave unto him, to show unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
-
-## Ecclesiastes 5:7
-- score: 17
-- latest review status: keep
-- top vote: 13
-- OT crossrefs: 7
-- NT crossrefs: 1
-- shared-family hits: 0
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
-- OT clues: Eccl.12.13 (13) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> Who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
-- NT clues: Matt.12.36 (13) -> But I say unto you, That every idle word (o. rhema) that men shall speak, they shall give account (o. logos) thereof in the day of judgment.
 
 ## Ecclesiastes 6:2
 - score: 17

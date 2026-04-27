@@ -70346,11 +70346,11 @@ Guard your foot whenever you go into the house of God, and draw near to hear rat
 
 **Ecclesiastes 5:1**
 
-Do not hurry with your mouth, and let not your heart hasten to bring out word before the face of God, because God in heaven and you on earth; on this let your words be few.
+Do not hurry with your mouth, and let not your heart hasten to bring out a word before the face of God, because God is in heaven and you are on earth; on this let your words be few.
 
 **Ecclesiastes 5:2**
 
-Because dream comes in the multitude of distraction, and voice of fool in the multitude of words.
+Because a dream comes in the multitude of distraction, and the voice of a fool in the multitude of words.
 
 **Ecclesiastes 5:3**
 
@@ -70362,7 +70362,7 @@ Better that you not vow than that you vow and not pay.
 
 **Ecclesiastes 5:5**
 
-Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin works of your hands.
+Do not give your mouth to make your flesh sin, and do not say before the face of God that it was ignorance, lest God grow angry at your voice and ruin the works of your hands.
 
 **Ecclesiastes 5:6**
 
@@ -70370,7 +70370,7 @@ Because in the multitude of dreams and vanities and many words, instead fear God
 
 **Ecclesiastes 5:7**
 
-If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
+If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
 
 **Ecclesiastes 5:8**
 
@@ -70378,23 +70378,23 @@ And land's surplus in everything is king over cultivated field.
 
 **Ecclesiastes 5:9**
 
-One loving silver will not be filled with silver, and who loved produce in their abundance? This too vanity.
+One loving silver will not be filled with silver, and who loved produce in their abundance? This too is vanity.
 
 **Ecclesiastes 5:10**
 
-In the multitude of good things, eaters of it multiplied, and what advantage for its owner except seeing with his eyes?
+In the multitude of good things, the eaters of it multiplied, and what advantage is there for its owner except seeing with his eyes?
 
 **Ecclesiastes 5:11**
 
-Sweet sleep of servant, whether little or much he eats; but fullness of rich man will not let him sleep.
+The sleep of a servant is sweet, whether little or much he eats; but the fullness of a rich man will not let him sleep.
 
 **Ecclesiastes 5:12**
 
-There is sickness I saw under the sun: wealth kept by its owner for his harm.
+There is a sickness I saw under the sun: wealth kept by its owner for his harm.
 
 **Ecclesiastes 5:13**
 
-And that wealth will perish in evil distraction, and he begot son and there is nothing in his hand.
+And that wealth will perish in an evil distraction, and he begot a son and there is nothing in his hand.
 
 **Ecclesiastes 5:14**
 
@@ -70402,7 +70402,7 @@ As he came out from his mother's womb, naked he will return to go as he came, an
 
 **Ecclesiastes 5:15**
 
-And this too evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
+And this too is an evil sickness: just as he came, so he also will depart, and what surplus to him because he toils for wind?
 
 **Ecclesiastes 5:16**
 
@@ -70410,11 +70410,11 @@ And indeed all his days in darkness and mourning and much wrath and sickness and
 
 **Ecclesiastes 5:17**
 
-Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this his portion.
+Look, what I saw good, what is beautiful is to eat and to drink and to see goodness in all his toil with which he toils under the sun, the number of days of his life which God gave him, because this is his portion.
 
 **Ecclesiastes 5:18**
 
-And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this gift of God.
+And indeed every man to whom God gave wealth and possessions and empowered him to eat from it and to take his portion and rejoice in his toil, this is a gift of God.
 
 **Ecclesiastes 5:19**
 

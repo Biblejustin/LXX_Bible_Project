@@ -16,7 +16,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - 1 Samuel 26:19 → score 21
 
 ## Textual / Lexical Crux
-- rows: 59
+- rows: 60
 - Exodus 20:24 → score 35
 - Leviticus 4:31 → score 34
 - 1 Kings 2:35 → score 32

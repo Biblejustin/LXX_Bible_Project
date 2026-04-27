@@ -1295,6 +1295,21 @@ Rows: 234
 - fresh: And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
 - brenton: 
 
+## Ecclesiastes 5:7
+- priority: `20`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
+- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
+
 ## Ezekiel 39:25
 - priority: `20`
 - importance: `high`
@@ -2359,21 +2374,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: Because the Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
 - brenton: For the Lord God will do nothing, without revealing instruction to his servants the prophets.
-
-## Ecclesiastes 5:7
-- priority: `17`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in province, do not marvel over matter, because high one watches over high one, and high ones over them.
-- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
 ## Ecclesiastes 6:2
 - priority: `17`
