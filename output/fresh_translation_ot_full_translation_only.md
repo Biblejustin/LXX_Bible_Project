@@ -54134,7 +54134,7 @@ Yet let my enemies be as overthrow of ungodly men, and those rising against me a
 
 **Job 27:8**
 
-For what hope is there for ungodly man, that he clings, trusting upon the Lord? Will he be saved?
+For what hope is there for an ungodly man, that he clings, trusting upon the Lord? Will he be saved?
 
 **Job 27:9**
 
@@ -55164,7 +55164,7 @@ Know that the Lord will by no means reject blameless one, mighty in the strength
 
 **Job 36:6**
 
-He will by no means keep ungodly man alive, but will give judgment to poor men.
+He will by no means keep an ungodly man alive, but will give judgment to poor men.
 
 **Job 36:7**
 
@@ -56514,7 +56514,7 @@ The Lord is in his holy temple; the Lord's throne is in heaven. His eyes look to
 
 **Psalms 10:5**
 
-The Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
+The Lord examines the righteous man and the ungodly man, but one loving injustice hates his own soul.
 
 **Psalms 10:6**
 
@@ -58290,7 +58290,7 @@ Wait for the Lord and keep his way, and he will lift you up to inherit earth; wh
 
 **Psalms 36:35**
 
-I saw ungodly man highly exalted and lifted up like cedars of Lebanon.
+I saw an ungodly man highly exalted and lifted up like cedars of Lebanon.
 
 **Psalms 36:36**
 
@@ -68778,11 +68778,11 @@ False witness will perish, but obedient man, being guarded, will speak.
 
 **Proverbs 21:29**
 
-An ungodly man stands shameless in face, but upright man himself understands his ways.
+An ungodly man stands shameless in face, but the upright man himself understands his ways.
 
 **Proverbs 21:30**
 
-No wisdom, no courage, no counsel against ungodly man.
+No wisdom, no courage, no counsel against the ungodly man.
 
 **Proverbs 21:31**
 
@@ -69612,7 +69612,7 @@ One reproving the ways of man will have more favor than one flattering with tong
 
 **Proverbs 28:24**
 
-One casting away father or mother and thinking he does not sin is partner of ungodly man.
+One casting away father or mother and thinking he does not sin is partner of an ungodly man.
 
 **Proverbs 28:25**
 
@@ -70640,7 +70640,7 @@ Who sinned did evil from then and from length to him; yet I know that good will 
 
 **Ecclesiastes 8:13**
 
-And good will not be for ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
+And good will not be for the ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
 
 **Ecclesiastes 8:14**
 
@@ -75878,7 +75878,7 @@ Seek God, and when you find him call on him when he draws near you.
 
 **Isaiah 55:7**
 
-Let ungodly man leave his ways and lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
+Let the ungodly man leave his ways and the lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
 
 **Isaiah 55:8**
 

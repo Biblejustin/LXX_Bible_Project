@@ -119687,10 +119687,10 @@ Note:
 ### Job 27:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For what hope is there for ungodly man, that he clings, trusting upon the Lord? Will he be saved?
+- fresh: For what hope is there for an ungodly man, that he clings, trusting upon the Lord? Will he be saved?
 - brenton: For what is the hope of the ungodly, that he holds to it? will he indeed trust in the Lord and be saved?
 
 ### Job 27:9
@@ -121964,10 +121964,10 @@ Note:
 ### Job 36:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will by no means keep ungodly man alive, but will give judgment to poor men.
+- fresh: He will by no means keep an ungodly man alive, but will give judgment to poor men.
 - brenton: he will not by any means save alive the ungodly: and he will grant the judgment of the poor.
 
 ### Job 36:7
@@ -124927,10 +124927,10 @@ Note:
 ### Psalms 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
+- fresh: The Lord examines the righteous man and the ungodly man, but one loving injustice hates his own soul.
 - brenton: The Lord tries the righteous and the ungodly: and he that loves unrighteousness hates his own soul.
 
 ### Psalms 10:6
@@ -128806,10 +128806,10 @@ Note:
 ### Psalms 36:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw ungodly man highly exalted and lifted up like cedars of Lebanon.
+- fresh: I saw an ungodly man highly exalted and lifted up like cedars of Lebanon.
 - brenton: I saw the ungodly very highly exalting himself, and lifting himself up like the cedars of Libanus.
 
 ### Psalms 36:36
@@ -151794,19 +151794,19 @@ Note:
 ### Proverbs 21:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: An ungodly man stands shameless in face, but upright man himself understands his ways.
+- fresh: An ungodly man stands shameless in face, but the upright man himself understands his ways.
 - brenton: An ungodly man impudently withstands with his face; but the upright man himself understands his ways.
 
 ### Proverbs 21:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: No wisdom, no courage, no counsel against ungodly man.
+- fresh: No wisdom, no courage, no counsel against the ungodly man.
 - brenton: There is no wisdom, there is no courage, there is no counsel against the ungodly.
 
 ### Proverbs 21:31
@@ -153639,10 +153639,10 @@ Note:
 ### Proverbs 28:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One casting away father or mother and thinking he does not sin is partner of ungodly man.
+- fresh: One casting away father or mother and thinking he does not sin is partner of an ungodly man.
 - brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
 
 ### Proverbs 28:25
@@ -155900,10 +155900,10 @@ Note:
 ### Ecclesiastes 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And good will not be for ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
+- fresh: And good will not be for the ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
 - brenton: but it shall not be well with the ungodly, and he shall not prolong his days, which are as a shadow; forasmuch as he fears not before God.
 
 ### Ecclesiastes 8:14
@@ -167379,10 +167379,10 @@ Note:
 ### Isaiah 55:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let ungodly man leave his ways and lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
+- fresh: Let the ungodly man leave his ways and the lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
 - brenton: let the ungodly leave his ways, and the transgressor his counsels: and let him return to the Lord, and he shall find mercy; for he shall abundantly pardon your sins.
 
 ### Isaiah 55:8

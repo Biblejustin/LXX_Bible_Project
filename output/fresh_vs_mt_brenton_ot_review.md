@@ -50082,6 +50082,15 @@ Method:
 - mt: Sing unto the LORD, bless his name; show forth his salvation from day to day.
 - brenton: Cloud and darkness are round about him; righteousness and judgment are the establishment of his throne.
 
+### Psalms 10:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.329`
+- fresh_brenton_ratio: `0.765`
+- fresh: The Lord examines the righteous man and the ungodly man, but one loving injustice hates his own soul.
+- mt: His ways are always grievous; your judgments are far above out of his sight: as for all his enemies, he puffs at them.
+- brenton: The Lord tries the righteous and the ungodly: and he that loves unrighteousness hates his own soul.
+
 ### Psalms 106:29
 - priority: `0`
 - importance: `none`
@@ -50657,15 +50666,6 @@ Method:
 - fresh: God settles solitary ones in a house, bringing out chained ones in manliness, likewise those provoking, those dwelling in tombs.
 - mt: God shall bless us; and all the ends of the earth shall fear him.
 - brenton: God settles the solitary in a house; leading forth prisoners mightily, also them that act provokingly, even them that dwell in tombs.
-
-### Psalms 10:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.332`
-- fresh_brenton_ratio: `0.713`
-- fresh: The Lord examines righteous man and ungodly man, but one loving injustice hates his own soul.
-- mt: His ways are always grievous; your judgments are far above out of his sight: as for all his enemies, he puffs at them.
-- brenton: The Lord tries the righteous and the ungodly: and he that loves unrighteousness hates his own soul.
 
 ### Jeremiah 49:1
 - priority: `0`
@@ -55824,6 +55824,15 @@ Method:
 - mt: And it shall come to pass, if all of you shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,
 - brenton: Now if ye will indeed hearken to all the commands which I charge thee this day, to love the Lord thy God, and to serve him with all thy heart, and with all thy soul,
 
+### Job 27:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.361`
+- fresh_brenton_ratio: `0.670`
+- fresh: For what hope is there for an ungodly man, that he clings, trusting upon the Lord? Will he be saved?
+- mt: For what is the hope of the hypocrite, though he has gained, when God takes away his soul?
+- brenton: For what is the hope of the ungodly, that he holds to it? will he indeed trust in the Lord and be saved?
+
 ### Psalms 56:12
 - priority: `0`
 - importance: `none`
@@ -56912,15 +56921,6 @@ Method:
 - fresh: For how will mortal be righteous before the Lord, or who could cleanse himself, one born of woman?
 - mt: How then can man be justified with God? or how can he be clean that is born of a woman?
 - brenton: For how shall a mortal be just before the Lord? or who that is born of a woman shall purify himself?
-
-### Job 27:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.367`
-- fresh_brenton_ratio: `0.670`
-- fresh: For what hope is there for ungodly man, that he clings, trusting upon the Lord? Will he be saved?
-- mt: For what is the hope of the hypocrite, though he has gained, when God takes away his soul?
-- brenton: For what is the hope of the ungodly, that he holds to it? will he indeed trust in the Lord and be saved?
 
 ### Ecclesiastes 5:1
 - priority: `0`
@@ -59217,6 +59217,15 @@ Method:
 - mt: Eliab his son, Jeroham his son, Elkanah his son.
 - brenton: the son of Adai, the son of Ætham, the son of Zammam, the son of Semei,
 
+### Job 36:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.381`
+- fresh_brenton_ratio: `0.694`
+- fresh: He will by no means keep an ungodly man alive, but will give judgment to poor men.
+- mt: He perserves not the life of the wicked: but gives right to the poor.
+- brenton: he will not by any means save alive the ungodly: and he will grant the judgment of the poor.
+
 ### Psalms 47:1
 - priority: `0`
 - importance: `none`
@@ -60575,15 +60584,6 @@ Method:
 - fresh: and so as not to build houses to dwell there, and vineyard and field and seed did not come to be for us.
 - mt: And said unto them, Thus says the LORD, the God of Israel, unto whom all of you sent me to present your supplication before him;
 - brenton: and so as to build no houses to dwell in: and we have had no vineyard, nor field, nor seed:
-
-### Job 36:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.389`
-- fresh_brenton_ratio: `0.695`
-- fresh: He will by no means keep ungodly man alive, but will give judgment to poor men.
-- mt: He perserves not the life of the wicked: but gives right to the poor.
-- brenton: he will not by any means save alive the ungodly: and he will grant the judgment of the poor.
 
 ### Job 5:22
 - priority: `0`
@@ -73599,15 +73599,6 @@ Method:
 - mt: Will you not from this time cry unto me, My father, you are the guide of my youth?
 - brenton: Hast thou not called me as it were a home, and the father and guide of thy virgin-time?
 
-### Proverbs 28:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.490`
-- fresh_brenton_ratio: `0.731`
-- fresh: One casting away father or mother and thinking he does not sin is partner of ungodly man.
-- mt: Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer.
-- brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
-
 ### Judges 8:25
 - priority: `0`
 - importance: `none`
@@ -75569,6 +75560,15 @@ Method:
 - fresh: An ungodly one does unjust works, but for the seed of righteous ones there is reward of truth.
 - mt: The wicked works a deceitful work: but to him that sows righteousness shall be a sure reward.
 - brenton: An ungodly man performs unrighteous works: but the seed of the righteous is a reward of truth.
+
+### Proverbs 28:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.503`
+- fresh_brenton_ratio: `0.751`
+- fresh: One casting away father or mother and thinking he does not sin is partner of an ungodly man.
+- mt: Whoso robs his father or his mother, and says, It is no transgression; the same is the companion of a destroyer.
+- brenton: He that casts off father or mother, and thinks he sins not; the same is partaker with an ungodly man.
 
 ### Nahum 3:1
 - priority: `0`
@@ -83283,6 +83283,15 @@ Method:
 - mt: Before even I was aware, my soul made me like the chariots of Amminadib.
 - brenton: There I will give thee my breasts: my soul knew it not: it made me as the chariots of Aminadab.
 
+### Ecclesiastes 8:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.547`
+- fresh_brenton_ratio: `0.618`
+- fresh: And good will not be for the ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
+- mt: But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he fears not before God.
+- brenton: but it shall not be well with the ungodly, and he shall not prolong his days, which are as a shadow; forasmuch as he fears not before God.
+
 ### Job 26:5
 - priority: `0`
 - importance: `none`
@@ -83363,15 +83372,6 @@ Method:
 - fresh: And now divide this land as an inheritance to the nine tribes and to the half-tribe of Manasseh. From the Jordan as far as the great sea toward the setting of the sun you shall give it; the great sea shall define it.
 - mt: Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 - brenton: And now divide this land by lot to the nine tribes, and to the half tribe of Manasse.
-
-### Ecclesiastes 8:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.548`
-- fresh_brenton_ratio: `0.597`
-- fresh: And good will not be for ungodly man, and he will not lengthen days in shadow, because he does not fear before the face of God.
-- mt: But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he fears not before God.
-- brenton: but it shall not be well with the ungodly, and he shall not prolong his days, which are as a shadow; forasmuch as he fears not before God.
 
 ### Ecclesiastes 7:3
 - priority: `0`
@@ -87917,15 +87917,6 @@ Method:
 - fresh: And the Lord heard the voice of Israel and handed over the Canaanite into his hand, and he devoted him and his cities to destruction, and they called the name of that place Devoted Destruction.
 - mt: And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
 - brenton: And the Lord hearkened to the voice of Israel, and delivered the Chananite into his power; and Israel devoted him and his cities, and they called the name of that place Anathema.
-
-### Proverbs 21:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.568`
-- fresh_brenton_ratio: `0.798`
-- fresh: An ungodly man stands shameless in face, but upright man himself understands his ways.
-- mt: A wicked man hardens his face: but as for the upright, he directs his way.
-- brenton: An ungodly man impudently withstands with his face; but the upright man himself understands his ways.
 
 ### Exodus 21:19
 - priority: `0`
@@ -96512,6 +96503,15 @@ Method:
 - fresh: And the Lord destroyed from before you great and strong nations, and no one stood against you until this day.
 - mt: For the LORD has driven out from before you great nations and strong: but as for you, no man has been able to stand before you unto this day.
 - brenton: And the Lord shall destroy them before you, even great and strong nations; and no one has stood before us until this day.
+
+### Proverbs 21:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.604`
+- fresh_brenton_ratio: `0.824`
+- fresh: An ungodly man stands shameless in face, but the upright man himself understands his ways.
+- mt: A wicked man hardens his face: but as for the upright, he directs his way.
+- brenton: An ungodly man impudently withstands with his face; but the upright man himself understands his ways.
 
 ### Jeremiah 52:34
 - priority: `0`
@@ -110103,15 +110103,6 @@ Method:
 - mt: And it shall be, if it make you answer of peace, and open unto you, then it shall be, that all the people that is found therein shall be tributaries unto you, and they shall serve you.
 - brenton: If then they should answer peaceably to thee, and open to thee, it shall be that all the people found in it shall be tributary and subject to thee.
 
-### Isaiah 55:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.649`
-- fresh_brenton_ratio: `0.784`
-- fresh: Let ungodly man leave his ways and lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
-- mt: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.
-- brenton: let the ungodly leave his ways, and the transgressor his counsels: and let him return to the Lord, and he shall find mercy; for he shall abundantly pardon your sins.
-
 ### Hosea 6:11
 - priority: `0`
 - importance: `none`
@@ -117690,15 +117681,6 @@ Method:
 - mt: And the priest shall pour of the oil into the palm of his own left hand:
 - brenton: And the priest shall pour of the oil on his own left hand.
 
-### Proverbs 21:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.672`
-- fresh_brenton_ratio: `0.729`
-- fresh: No wisdom, no courage, no counsel against ungodly man.
-- mt: There is no wisdom nor understanding nor counsel against the LORD.
-- brenton: There is no wisdom, there is no courage, there is no counsel against the ungodly.
-
 ### Song of Solomon 5:8
 - priority: `0`
 - importance: `none`
@@ -120551,6 +120533,15 @@ Method:
 - fresh: Thus says the Lord God, one redeeming you, the Holy One of Israel: Because of you I will send into Babylon and stir up all fugitives, and Chaldeans will be bound in ships.
 - mt: Thus says the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships.
 - brenton: Thus saith the Lord God that redeems you, the Holy One of Israel; For your sakes I will send to Babylon, and I will stir up all that flee, and the Chaldeans shall be bound in ships.
+
+### Isaiah 55:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.680`
+- fresh_brenton_ratio: `0.813`
+- fresh: Let the ungodly man leave his ways and the lawless man his counsels, and let him turn to the Lord, and he will receive mercy, because he will abundantly forgive your sins.
+- mt: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.
+- brenton: let the ungodly leave his ways, and the transgressor his counsels: and let him return to the Lord, and he shall find mercy; for he shall abundantly pardon your sins.
 
 ### Job 32:4
 - priority: `0`
@@ -135392,6 +135383,15 @@ Method:
 - fresh: Yet the people were burning incense on the high places, because a house was not yet built for the name of the Lord until now.
 - mt: Only the people sacrificed in high places, because there was no house built unto the name of the LORD, until those days.
 - brenton: Nevertheless the people burnt incense on the high places, because a house had not yet been built to the Lord.
+
+### Proverbs 21:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.717`
+- fresh_brenton_ratio: `0.767`
+- fresh: No wisdom, no courage, no counsel against the ungodly man.
+- mt: There is no wisdom nor understanding nor counsel against the LORD.
+- brenton: There is no wisdom, there is no courage, there is no counsel against the ungodly.
 
 ### 2 Kings 17:35
 - priority: `0`

@@ -2409,7 +2409,7 @@ Rows: 233
 - NT crossrefs: 1
 - shared-family hits: 0
 - fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
-- OT clues: Prov.21.30 (22) -> No wisdom, no courage, no counsel against ungodly man. || Ps.21.11 (22) -> Upon you I was cast from womb; from the belly of my mother you are my God. || Ps.33.10 (21) -> Fear the Lord, his holy ones, because there is no lack to those fearing him. || Ps.2.1-Ps.2.4 (14) -> Why did nations rage, and peoples meditate empty things?
+- OT clues: Prov.21.30 (22) -> No wisdom, no courage, no counsel against the ungodly man. || Ps.21.11 (22) -> Upon you I was cast from womb; from the belly of my mother you are my God. || Ps.33.10 (21) -> Fear the Lord, his holy ones, because there is no lack to those fearing him. || Ps.2.1-Ps.2.4 (14) -> Why did nations rage, and peoples meditate empty things?
 - NT clues: 2Cor.10.5 (16) -> Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
 ## Nahum 3:5

@@ -2613,6 +2613,19 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert by_ref["Psalms 9:38"]["draft_translation"].startswith("The Lord heard")
     assert "an orphan and a lowly man" in by_ref["Psalms 9:39"]["draft_translation"]
+    assert "For what hope is there for an ungodly man" in by_ref["Job 27:8"]["draft_translation"]
+    assert "keep an ungodly man alive" in by_ref["Job 36:6"]["draft_translation"]
+    assert "examines the righteous man and the ungodly man" in by_ref["Psalms 10:5"][
+        "draft_translation"
+    ]
+    assert "I saw an ungodly man" in by_ref["Psalms 36:35"]["draft_translation"]
+    assert "the upright man himself understands" in by_ref["Proverbs 21:29"]["draft_translation"]
+    assert "against the ungodly man" in by_ref["Proverbs 21:30"]["draft_translation"]
+    assert "partner of an ungodly man" in by_ref["Proverbs 28:24"]["draft_translation"]
+    assert "for the ungodly man" in by_ref["Ecclesiastes 8:13"]["draft_translation"]
+    assert "Let the ungodly man leave his ways and the lawless man" in by_ref["Isaiah 55:7"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]
