@@ -5186,6 +5186,38 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the Lord of hosts: the wonders" in by_ref["Isaiah 28:29"][
         "draft_translation"
     ]
+    assert "its strength and its wealth" in by_ref["Isaiah 29:2"][
+        "draft_translation"
+    ]
+    assert "throw a palisade around you" in by_ref["Isaiah 29:3"][
+        "draft_translation"
+    ]
+    assert "humbled to the earth" in by_ref["Isaiah 29:4"]["draft_translation"]
+    assert "dust from a wheel" in by_ref["Isaiah 29:5"]["draft_translation"]
+    assert "there will be a visitation" in by_ref["Isaiah 29:6"][
+        "draft_translation"
+    ]
+    assert "a storm carried along" in by_ref["Isaiah 29:6"][
+        "draft_translation"
+    ]
+    assert "the wealth of all nations" in by_ref["Isaiah 29:7"][
+        "draft_translation"
+    ]
+    assert "as a thirsty man dreams" in by_ref["Isaiah 29:8"][
+        "draft_translation"
+    ]
+    assert "by a spirit of stupor" in by_ref["Isaiah 29:10"][
+        "draft_translation"
+    ]
+    assert "as the words of this sealed book" in by_ref["Isaiah 29:11"][
+        "draft_translation"
+    ]
+    assert "to a man knowing letters" in by_ref["Isaiah 29:11"][
+        "draft_translation"
+    ]
+    assert "the hands of a man not knowing letters" in by_ref["Isaiah 29:12"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

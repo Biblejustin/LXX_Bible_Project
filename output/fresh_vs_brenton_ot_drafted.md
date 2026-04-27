@@ -162411,64 +162411,64 @@ Note:
 ### Isaiah 29:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For I will afflict Ariel, and its strength and wealth will be mine.
+- fresh: For I will afflict Ariel, and its strength and its wealth will be mine.
 - brenton: For I will grievously afflict Ariel: and her strength and her wealth shall be mine.
 
 ### Isaiah 29:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will circle around you as David and throw palisade around you and set towers around you.
+- fresh: And I will circle around you as David and throw a palisade around you and set towers around you.
 - brenton: And I will compass thee about like David, and will raise a mound about thee, and set up towers round thee.
 
 ### Isaiah 29:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your words will be humbled to earth, and your words will sink into earth, and your voice will be as those calling from earth, and to ground your voice will grow weak.
+- fresh: And your words will be humbled to the earth, and your words will sink into the earth, and your voice will be as those calling from the earth, and to the ground your voice will grow weak.
 - brenton: And thy words shall be brought down to the earth, and thy words shall sink down to the earth, and thy voice shall be as they that speak out of the earth, and thy voice shall be lowered to the ground.
 
 ### Isaiah 29:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the wealth of the ungodly will be as dust from wheel and as carried chaff, and it will be as a moment suddenly.
+- fresh: And the wealth of the ungodly will be as dust from a wheel and as carried chaff, and it will be as a moment suddenly.
 - brenton: But the wealth of the ungodly shall be as dust from a wheel, and the multitude of them that oppress thee as flying chaff, and it shall be suddenly as a moment,
 
 ### Isaiah 29:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For from the Lord of hosts there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
+- fresh: For from the Lord of hosts there will be a visitation with thunder and earthquake and a great voice, a storm carried along and a consuming flame of fire.
 - brenton: from the Lord of hosts: for there shall be a visitation with thunder, and earthquake, and a loud noise, a rushing tempest, and devouring flame of fire.
 
 ### Isaiah 29:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And wealth of all nations who campaigned against Ariel and all campaigning against Jerusalem and all gathered against her and afflicting her will be as one dreaming in sleep.
+- fresh: And the wealth of all nations who campaigned against Ariel and all campaigning against Jerusalem and all gathered against her and afflicting her will be as one dreaming in sleep.
 - brenton: And the wealth of all the nations together, as many as have fought against Ariel, and all they that war against Jerusalem, and all who are gathered against her, and they that distress her, shall be as one that dreams in sleep by night.
 
 ### Isaiah 29:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will be as those in sleep drinking and eating, and when they rise, their dream vain; and as thirsty man dreams as if drinking, and rising still thirsts, and his soul hoped for emptiness. Thus wealth of all nations who campaigned against Mount Zion will be.
+- fresh: And they will be as those in a sleep drinking and eating, and when they rise, their dream will be vain; and as a thirsty man dreams as if drinking, and rising still thirsts, and his soul hoped for emptiness. Thus the wealth of all nations who campaigned against Mount Zion will be.
 - brenton: And as men drink and eat in sleep, and when they have arisen, the dream is vain: and as a thirsty man dreams as if he drank, and having arisen is still thirsty, and his soul has desired in vain: so shall be the wealth of all the nations, as many as have fought against the mount Sion.
 
 ### Isaiah 29:9
@@ -162483,28 +162483,28 @@ Note:
 ### Isaiah 29:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord has given you drink by the spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing hidden things.
+- fresh: Because the Lord has given you drink by a spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing the hidden things.
 - brenton: For the Lord has made you to drink a spirit of deep sleep; and he shall close their eyes, and the eyes of their prophets and of their rulers, who see secret things.
 
 ### Isaiah 29:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all these words will be to you as words of this sealed book. If they give it to man knowing letters, saying, Read these things, he will say, I cannot read, for it is sealed.
+- fresh: And all these words will be to you as the words of this sealed book. If they give it to a man knowing letters, saying, Read these things, he will say, I cannot read, for it is sealed.
 - brenton: And all these things shall be to you as the words of this sealed book, which if they shall give to a learned man, saying, Read this, he shall then say, I cannot read it, for it is sealed.
 
 ### Isaiah 29:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this book will be given into the hands of man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
+- fresh: And this book will be given into the hands of a man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
 - brenton: And this book shall be given into the hands of a man that is unlearned, and one shall say to him, Read this; and he shall say, I am not learned.
 
 ### Isaiah 29:13

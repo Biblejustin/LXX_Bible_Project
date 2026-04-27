@@ -73618,31 +73618,31 @@ Woe, city Ariel, which David warred against. Gather produce, year upon year, for
 
 **Isaiah 29:2**
 
-For I will afflict Ariel, and its strength and wealth will be mine.
+For I will afflict Ariel, and its strength and its wealth will be mine.
 
 **Isaiah 29:3**
 
-And I will circle around you as David and throw palisade around you and set towers around you.
+And I will circle around you as David and throw a palisade around you and set towers around you.
 
 **Isaiah 29:4**
 
-And your words will be humbled to earth, and your words will sink into earth, and your voice will be as those calling from earth, and to ground your voice will grow weak.
+And your words will be humbled to the earth, and your words will sink into the earth, and your voice will be as those calling from the earth, and to the ground your voice will grow weak.
 
 **Isaiah 29:5**
 
-And the wealth of the ungodly will be as dust from wheel and as carried chaff, and it will be as a moment suddenly.
+And the wealth of the ungodly will be as dust from a wheel and as carried chaff, and it will be as a moment suddenly.
 
 **Isaiah 29:6**
 
-For from the Lord of hosts there will be visitation with thunder and earthquake and great voice, storm carried along and consuming flame of fire.
+For from the Lord of hosts there will be a visitation with thunder and earthquake and a great voice, a storm carried along and a consuming flame of fire.
 
 **Isaiah 29:7**
 
-And wealth of all nations who campaigned against Ariel and all campaigning against Jerusalem and all gathered against her and afflicting her will be as one dreaming in sleep.
+And the wealth of all nations who campaigned against Ariel and all campaigning against Jerusalem and all gathered against her and afflicting her will be as one dreaming in sleep.
 
 **Isaiah 29:8**
 
-And they will be as those in sleep drinking and eating, and when they rise, their dream vain; and as thirsty man dreams as if drinking, and rising still thirsts, and his soul hoped for emptiness. Thus wealth of all nations who campaigned against Mount Zion will be.
+And they will be as those in a sleep drinking and eating, and when they rise, their dream will be vain; and as a thirsty man dreams as if drinking, and rising still thirsts, and his soul hoped for emptiness. Thus the wealth of all nations who campaigned against Mount Zion will be.
 
 **Isaiah 29:9**
 
@@ -73650,15 +73650,15 @@ Grow weak and be stunned and carouse, not from strong drink nor from wine.
 
 **Isaiah 29:10**
 
-Because the Lord has given you drink by the spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing hidden things.
+Because the Lord has given you drink by a spirit of stupor and will shut their eyes, and their prophets and their rulers, those seeing the hidden things.
 
 **Isaiah 29:11**
 
-And all these words will be to you as words of this sealed book. If they give it to man knowing letters, saying, Read these things, he will say, I cannot read, for it is sealed.
+And all these words will be to you as the words of this sealed book. If they give it to a man knowing letters, saying, Read these things, he will say, I cannot read, for it is sealed.
 
 **Isaiah 29:12**
 
-And this book will be given into the hands of man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
+And this book will be given into the hands of a man not knowing letters, and they will say to him, Read this, and he will say, I do not know letters.
 
 **Isaiah 29:13**
 
