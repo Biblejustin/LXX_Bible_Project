@@ -164175,28 +164175,28 @@ Note:
 ### Isaiah 38:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in that time Hezekiah grew weak unto death, and Isaiah son of Amoz the prophet came to him and said to him, Thus says the Lord: Arrange concerning your house, for you die and will not live.
+- fresh: And it happened at that time Hezekiah grew weak unto death, and Isaiah son of Amoz the prophet came to him and said to him, Thus says the Lord: Arrange concerning your house, for you die and will not live.
 - brenton: And it came to pass at that time, that Ezekias was sick even to death. And Esaias the prophet the son of Amos came to him, and said to him, Thus saith the Lord, Give orders concerning thy house: for thou shalt die, and not live.
 
 ### Isaiah 38:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah turned his face toward wall and prayed to the Lord,
+- fresh: And Hezekiah turned his face toward the wall and prayed to the Lord,
 - brenton: And Ezekias turned his face to the wall, and prayed to the Lord, saying,
 
 ### Isaiah 38:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, Remember, Lord, how I walked before you with truth in true heart, and I did pleasing things before you. And Hezekiah wept with great weeping.
+- fresh: saying, Remember, Lord, how I walked before you with truth in a true heart, and I did the pleasing things before you. And Hezekiah wept with great weeping.
 - brenton: Remember, O Lord, how I have walked before thee in truth, with a true heart, and have done that which was pleasing in thy sight. And Ezekias wept bitterly.
 
 ### Isaiah 38:4
@@ -164229,82 +164229,82 @@ Note:
 ### Isaiah 38:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this is a sign to you from the Lord that God will do this word:
+- fresh: And this is the sign to you from the Lord that God will do this word:
 - brenton: And this shall be a sign to thee from the Lord, that God will do this thing;
 
 ### Isaiah 38:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: shadow of stair-steps which sun went down, ten steps of the house of your father, I will turn back the sun ten steps. And sun went up ten steps which shadow had gone down.
+- fresh: I will turn back the shadow of the stair-steps by which the sun went down, the ten steps of the house of your father; I will turn back the sun the ten steps. And the sun went up the ten steps by which the shadow had gone down.
 - brenton: behold, I will turn back the shadow of the degrees of the dial by which ten degrees on the house of thy father the sun has gone down—I will turn back the sun the ten degrees; so the sun went back the ten degrees by which the shadow had gone down.
 
 ### Isaiah 38:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Prayer of Hezekiah king of Judah when he grew weak and rose from his weakness.
+- fresh: A prayer of Hezekiah king of Judah when he grew weak and rose from his weakness.
 - brenton: The Prayer of Ezekias king of Judea, when he had been sick, and was recovered from his sickness.
 
 ### Isaiah 38:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, In height of my days, in the gates of Hades I will leave remaining years.
+- fresh: I said, In the height of my days, in the gates of Hades I will leave the remaining years.
 - brenton: I said in the end of my days, I shall go to the gates of the grave: I shall part with the remainder of my years.
 
 ### Isaiah 38:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, I will certainly no longer see salvation of God on earth; I will certainly no longer see man.
+- fresh: I said, I will certainly no longer see the salvation of God on the earth; I will certainly no longer see a man.
 - brenton: I said, I shall no more at all see the salvation of God in the land of the living: I shall no more at all see the salvation of Israel on the earth: I shall no more at all see man.
 
 ### Isaiah 38:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From my kin I left remnant of my life; it went out and departed from me as one striking tent. My spirit by me became as weaver's web coming near to cut off; in that day I was handed over.
+- fresh: From my kin I left the remnant of my life; it went out and departed from me as one striking a tent. My spirit by me became as a weaver's web coming near to cut off; in that day I was handed over.
 - brenton: My life has failed from among my kindred: I have parted with the remainder of my life: it has gone forth and departed from me, as one that having pitched a tent takes it down again: my breath was with me as a weaver's web, when she that weaves draws nigh to cut off the thread.
 
 ### Isaiah 38:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until morning, as a lion, thus he crushed my bones. For from day until night I was handed over.
+- fresh: Until morning, as a lion, thus he crushed my bones. For from the day until the night I was handed over.
 - brenton: In that day I was given up as to a lion until the morning: so has he broken all my bones: for I was so given up from day even to night.
 
 ### Isaiah 38:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As swallow thus I will cry, and as dove thus I will meditate, for my eyes failed from looking into the height of heaven, toward the Lord who delivered me.
+- fresh: As a swallow thus I will cry, and as a dove thus I will meditate, for my eyes failed from looking into the height of heaven, toward the Lord who delivered me.
 - brenton: As a swallow, so will I cry, and as a dove, so do I mourn: for mine eyes have failed with looking to the height of heaven to the Lord, who has delivered me,
 
 ### Isaiah 38:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he took away pain of my soul.
+- fresh: And he took away the pain of my soul.
 - brenton: and removed the sorrow of my soul.
 
 ### Isaiah 38:16
@@ -164328,46 +164328,46 @@ Note:
 ### Isaiah 38:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For those in Hades will not praise you, nor will dead bless you, nor will those in Hades hope in your mercy.
+- fresh: For those in Hades will not praise you, nor will the dead bless you, nor will those in Hades hope in your mercy.
 - brenton: For they that are in the grave shall not praise thee, neither shall the dead bless thee, neither shall they that are in Hades hope for thy mercy.
 
 ### Isaiah 38:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Living ones will bless you, as also I; for from today I will make children who will announce your righteousness.
+- fresh: The living ones will bless you, as also I; for from today I will make children who will announce your righteousness.
 - brenton: The living shall bless thee, as I also do: for from this day shall I beget children, who shall declare thy righteousness,
 
 ### Isaiah 38:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord of my salvation, and I will not stop blessing you with psaltery all days of my life before the house of God.
+- fresh: Lord of my salvation, and I will not stop blessing you with a psaltery all the days of my life before the house of God.
 - brenton: O God of my salvation; and I will not cease blessing thee with the psaltery all the days of my life before the house of God.
 
 ### Isaiah 38:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said to Hezekiah, Take cake of figs and rub and apply as poultice, and you will be healthy.
+- fresh: And Isaiah said to Hezekiah, Take a cake of figs and rub and apply as poultice, and you will be healthy.
 - brenton: Now Esaias had said to Ezekias; Take a cake of figs, and mash them, and apply them as a plaister, and thou shalt be well.
 
 ### Isaiah 38:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah said, This is a sign that I will go up into the house of the Lord God.
+- fresh: And Hezekiah said, This is the sign that I will go up into the house of the Lord God.
 - brenton: And Ezekias said, This is a sign to Ezekias, that I shall go up to the house of God.
 
 ### Isaiah 39:1

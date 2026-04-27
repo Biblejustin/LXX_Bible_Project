@@ -74420,15 +74420,15 @@ And while he was bowing in the house of Nisroch his ancestral god, Adrammelech a
 
 **Isaiah 38:1**
 
-And it happened in that time Hezekiah grew weak unto death, and Isaiah son of Amoz the prophet came to him and said to him, Thus says the Lord: Arrange concerning your house, for you die and will not live.
+And it happened at that time Hezekiah grew weak unto death, and Isaiah son of Amoz the prophet came to him and said to him, Thus says the Lord: Arrange concerning your house, for you die and will not live.
 
 **Isaiah 38:2**
 
-And Hezekiah turned his face toward wall and prayed to the Lord,
+And Hezekiah turned his face toward the wall and prayed to the Lord,
 
 **Isaiah 38:3**
 
-saying, Remember, Lord, how I walked before you with truth in true heart, and I did pleasing things before you. And Hezekiah wept with great weeping.
+saying, Remember, Lord, how I walked before you with truth in a true heart, and I did the pleasing things before you. And Hezekiah wept with great weeping.
 
 **Isaiah 38:4**
 
@@ -74444,39 +74444,39 @@ and from the hand of the king of the Assyrians I will save you and shield over t
 
 **Isaiah 38:7**
 
-And this is a sign to you from the Lord that God will do this word:
+And this is the sign to you from the Lord that God will do this word:
 
 **Isaiah 38:8**
 
-shadow of stair-steps which sun went down, ten steps of the house of your father, I will turn back the sun ten steps. And sun went up ten steps which shadow had gone down.
+I will turn back the shadow of the stair-steps by which the sun went down, the ten steps of the house of your father; I will turn back the sun the ten steps. And the sun went up the ten steps by which the shadow had gone down.
 
 **Isaiah 38:9**
 
-Prayer of Hezekiah king of Judah when he grew weak and rose from his weakness.
+A prayer of Hezekiah king of Judah when he grew weak and rose from his weakness.
 
 **Isaiah 38:10**
 
-I said, In height of my days, in the gates of Hades I will leave remaining years.
+I said, In the height of my days, in the gates of Hades I will leave the remaining years.
 
 **Isaiah 38:11**
 
-I said, I will certainly no longer see salvation of God on earth; I will certainly no longer see man.
+I said, I will certainly no longer see the salvation of God on the earth; I will certainly no longer see a man.
 
 **Isaiah 38:12**
 
-From my kin I left remnant of my life; it went out and departed from me as one striking tent. My spirit by me became as weaver's web coming near to cut off; in that day I was handed over.
+From my kin I left the remnant of my life; it went out and departed from me as one striking a tent. My spirit by me became as a weaver's web coming near to cut off; in that day I was handed over.
 
 **Isaiah 38:13**
 
-Until morning, as a lion, thus he crushed my bones. For from day until night I was handed over.
+Until morning, as a lion, thus he crushed my bones. For from the day until the night I was handed over.
 
 **Isaiah 38:14**
 
-As swallow thus I will cry, and as dove thus I will meditate, for my eyes failed from looking into the height of heaven, toward the Lord who delivered me.
+As a swallow thus I will cry, and as a dove thus I will meditate, for my eyes failed from looking into the height of heaven, toward the Lord who delivered me.
 
 **Isaiah 38:15**
 
-And he took away pain of my soul.
+And he took away the pain of my soul.
 
 **Isaiah 38:16**
 
@@ -74488,23 +74488,23 @@ For you chose my soul so it might not perish, and you threw all my sins behind m
 
 **Isaiah 38:18**
 
-For those in Hades will not praise you, nor will dead bless you, nor will those in Hades hope in your mercy.
+For those in Hades will not praise you, nor will the dead bless you, nor will those in Hades hope in your mercy.
 
 **Isaiah 38:19**
 
-Living ones will bless you, as also I; for from today I will make children who will announce your righteousness.
+The living ones will bless you, as also I; for from today I will make children who will announce your righteousness.
 
 **Isaiah 38:20**
 
-Lord of my salvation, and I will not stop blessing you with psaltery all days of my life before the house of God.
+Lord of my salvation, and I will not stop blessing you with a psaltery all the days of my life before the house of God.
 
 **Isaiah 38:21**
 
-And Isaiah said to Hezekiah, Take cake of figs and rub and apply as poultice, and you will be healthy.
+And Isaiah said to Hezekiah, Take a cake of figs and rub and apply as poultice, and you will be healthy.
 
 **Isaiah 38:22**
 
-And Hezekiah said, This is a sign that I will go up into the house of the Lord God.
+And Hezekiah said, This is the sign that I will go up into the house of the Lord God.
 
 ### Chapter 39
 

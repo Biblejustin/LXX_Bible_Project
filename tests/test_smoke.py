@@ -5849,6 +5849,66 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Adrammelech and Sharezer" in by_ref["Isaiah 37:38"][
         "draft_translation"
     ]
+    assert "happened at that time" in by_ref["Isaiah 38:1"][
+        "draft_translation"
+    ]
+    assert "toward the wall" in by_ref["Isaiah 38:2"]["draft_translation"]
+    assert "in a true heart" in by_ref["Isaiah 38:3"]["draft_translation"]
+    assert "the pleasing things" in by_ref["Isaiah 38:3"][
+        "draft_translation"
+    ]
+    assert "this is the sign to you" in by_ref["Isaiah 38:7"][
+        "draft_translation"
+    ]
+    assert "the shadow of the stair-steps" in by_ref["Isaiah 38:8"][
+        "draft_translation"
+    ]
+    assert "the sun went up the ten steps" in by_ref["Isaiah 38:8"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 38:9"]["draft_translation"].startswith(
+        "A prayer of Hezekiah"
+    )
+    assert "In the height of my days" in by_ref["Isaiah 38:10"][
+        "draft_translation"
+    ]
+    assert "the remaining years" in by_ref["Isaiah 38:10"][
+        "draft_translation"
+    ]
+    assert "the salvation of God on the earth" in by_ref["Isaiah 38:11"][
+        "draft_translation"
+    ]
+    assert "see a man" in by_ref["Isaiah 38:11"]["draft_translation"]
+    assert "the remnant of my life" in by_ref["Isaiah 38:12"][
+        "draft_translation"
+    ]
+    assert "as one striking a tent" in by_ref["Isaiah 38:12"][
+        "draft_translation"
+    ]
+    assert "as a weaver's web" in by_ref["Isaiah 38:12"][
+        "draft_translation"
+    ]
+    assert "from the day until the night" in by_ref["Isaiah 38:13"][
+        "draft_translation"
+    ]
+    assert "As a swallow" in by_ref["Isaiah 38:14"]["draft_translation"]
+    assert "as a dove" in by_ref["Isaiah 38:14"]["draft_translation"]
+    assert "the pain of my soul" in by_ref["Isaiah 38:15"][
+        "draft_translation"
+    ]
+    assert "nor will the dead bless you" in by_ref["Isaiah 38:18"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 38:19"]["draft_translation"].startswith(
+        "The living ones"
+    )
+    assert "with a psaltery all the days of my life" in by_ref[
+        "Isaiah 38:20"
+    ]["draft_translation"]
+    assert "Take a cake of figs" in by_ref["Isaiah 38:21"][
+        "draft_translation"
+    ]
+    assert "This is the sign" in by_ref["Isaiah 38:22"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
