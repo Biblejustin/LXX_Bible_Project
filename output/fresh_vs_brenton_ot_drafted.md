@@ -100113,10 +100113,10 @@ Note:
 ### 2 Chronicles 6:14
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
 - brenton: and said,
 
 ### 2 Chronicles 6:15
@@ -103327,9 +103327,9 @@ Note:
 
 - importance: high
 - decisions: 1
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with whole heart. And there was none in the house of Ahaziah strong enough for kingdom.
+- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with all his heart. And there was none in the house of Ahaziah strong enough for the kingdom.
 - brenton: And he gave orders to seek Ochozias: and they took him while he was healing his wounds in Samaria, and they brought him to Jeu, and he slew him; and they buried him, for they said, He is the son of Josaphat, who sought the Lord with all his heart.
 
 ### 2 Chronicles 22:10
@@ -104751,7 +104751,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
+- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for the kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
 - brenton: And he brought seven calves, seven rams, seven lambs, seven kids of goats for a sin-offering, for the kingdom, and for the holy things, and for Israel: and he told the priests the sons of Aaron to go up to the altar of the Lord.
 
 ### 2 Chronicles 29:22
@@ -124549,10 +124549,10 @@ Note:
 ### Psalms 9:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will confess to you, Lord, with whole heart; I will recount all your wondrous deeds.
+- fresh: I will confess to you, Lord, with all my heart; I will recount all your wondrous deeds.
 - brenton: I will give thanks to thee, O Lord, with my whole heart; I will recount all thy wonderful works.
 
 ### Psalms 9:3
@@ -131002,10 +131002,10 @@ Note:
 ### Psalms 51:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You loved all words of engulfing, deceitful tongue.
+- fresh: You loved all words of engulfing, a deceitful tongue.
 - brenton: Thou hast loved all words of destruction, and a deceitful tongue.
 
 ### Psalms 51:7
@@ -136483,10 +136483,10 @@ Note:
 ### Psalms 85:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will confess to you, Lord my God, with whole heart, and I will glorify your name forever.
+- fresh: I will confess to you, Lord my God, with all my heart, and I will glorify your name forever.
 - brenton: I will give thee thanks, O Lord my God, with all my heart; and I will glorify thy name for ever.
 
 ### Psalms 85:13
@@ -141010,10 +141010,10 @@ Note:
 ### Psalms 110:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Alleluia. I will confess to you, Lord, with whole heart, in the council of straight ones and gathering.
+- fresh: Alleluia. I will confess to you, Lord, with all my heart, in the council of straight ones and gathering.
 - brenton: Alleluia.
 
 ### Psalms 110:2
@@ -141955,10 +141955,10 @@ Note:
 ### Psalms 118:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed are those searching out his testimonies; with whole heart they will seek him.
+- fresh: Blessed are those searching out his testimonies; with all their heart they will seek him.
 - brenton: Blessed are they that search out his testimonies: they will diligently seek him with the whole heart.
 
 ### Psalms 118:3
@@ -142027,10 +142027,10 @@ Note:
 ### Psalms 118:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With whole heart I sought you; do not push me away from your commandments.
+- fresh: With all my heart I sought you; do not push me away from your commandments.
 - brenton: With my whole heart have I diligently sought thee: cast me not away from thy commandments.
 
 ### Psalms 118:11
@@ -142243,10 +142243,10 @@ Note:
 ### Psalms 118:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Make me understand, and I will search out your law and keep it with whole heart.
+- fresh: Make me understand, and I will search out your law and keep it with all my heart.
 - brenton: Instruct me, and I will search out thy law, and will keep it with my whole heart.
 
 ### Psalms 118:35
@@ -142459,10 +142459,10 @@ Note:
 ### Psalms 118:58
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I entreated your face with whole heart; have mercy on me according to your saying.
+- fresh: I entreated your face with all my heart; have mercy on me according to your saying.
 - brenton: I besought thy favour with my whole heart: have mercy upon me according to thy word.
 
 ### Psalms 118:59
@@ -142558,10 +142558,10 @@ Note:
 ### Psalms 118:69
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Injustice of proud ones multiplied upon me; but I with whole heart will search out your commandments.
+- fresh: Injustice of proud ones multiplied upon me; but I will search out your commandments with all my heart.
 - brenton: The injustice of the proud has been multiplied against me: but I will search out thy commandments with all my heart.
 
 ### Psalms 118:70
@@ -143242,10 +143242,10 @@ Note:
 ### Psalms 118:145
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Qoph. I cried with whole heart; hear me, Lord; I will seek out your statutes.
+- fresh: Qoph. I cried with all my heart; hear me, Lord; I will seek out your statutes.
 - brenton: I cried with my whole heart; hear me, O Lord: I will search out thine ordinances.
 
 ### Psalms 118:146
@@ -144943,10 +144943,10 @@ Note:
 ### Psalms 137:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Of David. I will give thanks to you, Lord, with whole heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
+- fresh: Of David. I will give thanks to you, Lord, with all my heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
 - brenton: A Psalm for David, of Aggæus and Zacharias.
 
 ### Psalms 137:2
@@ -147015,10 +147015,10 @@ Note:
 ### Proverbs 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be trusting with whole heart in God, and do not exalt yourself on your own wisdom.
+- fresh: Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
 - brenton: Trust in God with all thine heart; and be not exalted in thine own wisdom.
 
 ### Proverbs 3:6
@@ -169739,10 +169739,10 @@ Note:
 ### Jeremiah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in all these things faithless Judah did not return to me with whole heart, but in falsehood.
+- fresh: And in all these things faithless Judah did not return to me with all her heart, but in falsehood.
 - brenton: And for all these things faithless Juda turned not to me with all her heart, but falsely.
 
 ### Jeremiah 3:11

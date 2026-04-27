@@ -45250,7 +45250,7 @@ For Solomon made bronze platform and set it in the midst of court of sanctuary, 
 
 **2 Chronicles 6:14**
 
-And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
+And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
 
 **2 Chronicles 6:15**
 
@@ -46710,7 +46710,7 @@ And it came to pass when Jehu avenged the house of Ahab and found rulers of Juda
 
 **2 Chronicles 22:9**
 
-And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with whole heart. And there was none in the house of Ahaziah strong enough for kingdom.
+And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with all his heart. And there was none in the house of Ahaziah strong enough for the kingdom.
 
 **2 Chronicles 22:10**
 
@@ -47356,7 +47356,7 @@ And Hezekiah the king rose early and gathered rulers of the city and went up to 
 
 **2 Chronicles 29:21**
 
-And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
+And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for the kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
 
 **2 Chronicles 29:22**
 
@@ -56344,7 +56344,7 @@ For end. Concerning hidden things of son. Psalm of David.
 
 **Psalms 9:2**
 
-I will confess to you, Lord, with whole heart; I will recount all your wondrous deeds.
+I will confess to you, Lord, with all my heart; I will recount all your wondrous deeds.
 
 **Psalms 9:3**
 
@@ -59296,7 +59296,7 @@ You loved evil beyond goodness, injustice beyond speaking righteousness. Interlu
 
 **Psalms 51:6**
 
-You loved all words of engulfing, deceitful tongue.
+You loved all words of engulfing, a deceitful tongue.
 
 **Psalms 51:7**
 
@@ -61800,7 +61800,7 @@ Guide me, Lord, in your way, and I will walk in your truth; let my heart rejoice
 
 **Psalms 85:12**
 
-I will confess to you, Lord my God, with whole heart, and I will glorify your name forever.
+I will confess to you, Lord my God, with all my heart, and I will glorify your name forever.
 
 **Psalms 85:13**
 
@@ -63862,7 +63862,7 @@ From torrent in way he will drink; therefore he will lift up head.
 
 **Psalms 110:1**
 
-Alleluia. I will confess to you, Lord, with whole heart, in the council of straight ones and gathering.
+Alleluia. I will confess to you, Lord, with all my heart, in the council of straight ones and gathering.
 
 **Psalms 110:2**
 
@@ -64298,7 +64298,7 @@ Alleluia. Aleph. Blessed blameless ones in way, those walking in the law of the 
 
 **Psalms 118:2**
 
-Blessed are those searching out his testimonies; with whole heart they will seek him.
+Blessed are those searching out his testimonies; with all their heart they will seek him.
 
 **Psalms 118:3**
 
@@ -64330,7 +64330,7 @@ Beth. In what will young man set straight his way? In keeping your words.
 
 **Psalms 118:10**
 
-With whole heart I sought you; do not push me away from your commandments.
+With all my heart I sought you; do not push me away from your commandments.
 
 **Psalms 118:11**
 
@@ -64426,7 +64426,7 @@ He. Give law to me, Lord, way of your ordinances, and I will seek it continually
 
 **Psalms 118:34**
 
-Make me understand, and I will search out your law and keep it with whole heart.
+Make me understand, and I will search out your law and keep it with all my heart.
 
 **Psalms 118:35**
 
@@ -64522,7 +64522,7 @@ Heth. My portion, Lord, I said, to keep your law.
 
 **Psalms 118:58**
 
-I entreated your face with whole heart; have mercy on me according to your saying.
+I entreated your face with all my heart; have mercy on me according to your saying.
 
 **Psalms 118:59**
 
@@ -64566,7 +64566,7 @@ You good, Lord, and in your goodness teach me your ordinances.
 
 **Psalms 118:69**
 
-Injustice of proud ones multiplied upon me; but I with whole heart will search out your commandments.
+Injustice of proud ones multiplied upon me; but I will search out your commandments with all my heart.
 
 **Psalms 118:70**
 
@@ -64870,7 +64870,7 @@ Your testimonies righteousness forever; make me understand and I will live.
 
 **Psalms 118:145**
 
-Qoph. I cried with whole heart; hear me, Lord; I will seek out your statutes.
+Qoph. I cried with all my heart; hear me, Lord; I will seek out your statutes.
 
 **Psalms 118:146**
 
@@ -65664,7 +65664,7 @@ Blessed is the one who will seize and dash your infants against rock.
 
 **Psalms 137:1**
 
-Of David. I will give thanks to you, Lord, with whole heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
+Of David. I will give thanks to you, Lord, with all my heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
 
 **Psalms 137:2**
 
@@ -66618,7 +66618,7 @@ And plan good things before the Lord and men.
 
 **Proverbs 3:5**
 
-Be trusting with whole heart in God, and do not exalt yourself on your own wisdom.
+Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
 
 **Proverbs 3:6**
 
@@ -76956,7 +76956,7 @@ And her prostitution became as nothing, and she committed adultery with wood and
 
 **Jeremiah 3:10**
 
-And in all these things faithless Judah did not return to me with whole heart, but in falsehood.
+And in all these things faithless Judah did not return to me with all her heart, but in falsehood.
 
 **Jeremiah 3:11**
 

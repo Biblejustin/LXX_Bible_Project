@@ -6563,6 +6563,15 @@ Rows: 20939
 - mt: Now it came to pass, that at what time the chest was brought unto the king's office by the hand of the Levites, and when they saw that there was much money, the king's scribe and the high priest's officer came and emptied the chest, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance.
 - brenton: And it came to pass, when they brought in the box to the officers of the king by the hand of the Levites, and when they saw that the money was more than sufficient, then came the king's scribe, and the officer of the high priest, and emptied the box, and restored it to its place. Thus they did day by day, and collected much money.
 
+## 2 Chronicles 22:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.044`
+- fresh_brenton_ratio: `0.255`
+- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with all his heart. And there was none in the house of Ahaziah strong enough for the kingdom.
+- mt: And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
+- brenton: And he gave orders to seek Ochozias: and they took him while he was healing his wounds in Samaria, and they brought him to Jeu, and he slew him; and they buried him, for they said, He is the son of Josaphat, who sought the Lord with all his heart.
+
 ## Ezekiel 27:11
 - priority: `0`
 - importance: `none`
@@ -6616,15 +6625,6 @@ Rows: 20939
 - fresh: Then tax-document of King Artaxerxes was read before Rehum and Shimshai the scribe and their fellow-servants, and they went in haste to Jerusalem and into Judah and stopped them with horses and force.
 - mt: Now when the copy of king Artaxerxes' letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power.
 - brenton: Then the tribute-gatherer of king Arthasastha read the letter before Reum the chancellor, and Sampsa the scribe, and his fellow-servants: and they went in haste to Jerusalem and through Juda, and caused them to cease with horses and an armed force.
-
-## 2 Chronicles 22:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.045`
-- fresh_brenton_ratio: `0.209`
-- fresh: And he told them to seek Ahaziah, and they seized him while he was being healed in Samaria and brought him to Jehu, and he killed him and buried him, because they said, He is a son of Jehoshaphat who sought the Lord with whole heart. And there was none in the house of Ahaziah strong enough for kingdom.
-- mt: And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
-- brenton: And he gave orders to seek Ochozias: and they took him while he was healing his wounds in Samaria, and they brought him to Jeu, and he slew him; and they buried him, for they said, He is the son of Josaphat, who sought the Lord with all his heart.
 
 ## 1 Chronicles 12:18
 - priority: `0`
@@ -23267,6 +23267,15 @@ Rows: 20939
 - mt: Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.
 - brenton: The sun arises, and they shall be gathered together, and shall lie down in their dens.
 
+## Psalms 118:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.212`
+- fresh_brenton_ratio: `0.658`
+- fresh: With all my heart I sought you; do not push me away from your commandments.
+- mt: All nations compassed me about: but in the name of the LORD will I destroy them.
+- brenton: With my whole heart have I diligently sought thee: cast me not away from thy commandments.
+
 ## Joel 1:4
 - priority: `0`
 - importance: `none`
@@ -23410,15 +23419,6 @@ Rows: 20939
 - fresh: And he increased his people exceedingly and strengthened it beyond its enemies.
 - mt: O LORD, how manifold are your works! in wisdom have you made them all: the earth is full of your riches.
 - brenton: And he increased his people greatly, and made them stronger than their enemies.
-
-## Psalms 118:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.213`
-- fresh_brenton_ratio: `0.700`
-- fresh: With whole heart I sought you; do not push me away from your commandments.
-- mt: All nations compassed me about: but in the name of the LORD will I destroy them.
-- brenton: With my whole heart have I diligently sought thee: cast me not away from thy commandments.
 
 ## Psalms 39:9
 - priority: `0`
@@ -25229,6 +25229,15 @@ Rows: 20939
 - mt: I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
 - brenton: Turn not away thy face from me: in the day when I am afflicted, incline thine ear to me: in the day when I shall call upon thee, speedily hear me.
 
+## Psalms 51:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.227`
+- fresh_brenton_ratio: `0.772`
+- fresh: You loved all words of engulfing, a deceitful tongue.
+- mt: Behold, you desire truth in the inward parts: and in the hidden part you shall make me to know wisdom.
+- brenton: Thou hast loved all words of destruction, and a deceitful tongue.
+
 ## Psalms 102:2
 - priority: `0`
 - importance: `none`
@@ -25705,15 +25714,6 @@ Rows: 20939
 - fresh: And judgment comes upon the land of Mishor, upon Helon and upon Iassa and upon Mephaath,
 - mt: Set you up guideposts, make you high heaps: set yours heart toward the highway, even the way which you went: return, O virgin of Israel, return to these your cities.
 - brenton: And judgment is coming against the land of Misor, upon Chelon, and Rephas, and Mophas,
-
-## Psalms 51:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.230`
-- fresh_brenton_ratio: `0.750`
-- fresh: You loved all words of engulfing, deceitful tongue.
-- mt: Behold, you desire truth in the inward parts: and in the hidden part you shall make me to know wisdom.
-- brenton: Thou hast loved all words of destruction, and a deceitful tongue.
 
 ## Jeremiah 38:26
 - priority: `0`
@@ -27821,6 +27821,15 @@ Rows: 20939
 - mt: And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
 - brenton: And the sons of Ruben the first-born of Israel according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their heads, were—all males from twenty years old and upward, every one that went out with the host—
 
+## Psalms 137:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.244`
+- fresh_brenton_ratio: `0.193`
+- fresh: Of David. I will give thanks to you, Lord, with all my heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
+- mt: By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+- brenton: A Psalm for David, of Aggæus and Zacharias.
+
 ## Psalms 16:1
 - priority: `0`
 - importance: `none`
@@ -27991,15 +28000,6 @@ Rows: 20939
 - fresh: And Azariah the chief priest for the house of Zadok said to him, From when firstfruits began to be brought into the house of the Lord, we ate and drank and left over, because the Lord blessed his people, and we still left over this great abundance.
 - mt: And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD has blessed his people; and that which is left is this great store.
 - brenton: And Azarias the priest, the chief over the house of Sadoc, spoke to him, and said, From the time that the first-fruits began to be brought into the house of the Lord, we have eaten and drunk, and left even abundantly; for the Lord has blessed his people, and we have left to this amount.
-
-## Psalms 137:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.245`
-- fresh_brenton_ratio: `0.194`
-- fresh: Of David. I will give thanks to you, Lord, with whole heart, because you heard sayings of my mouth; before angels I will sing psalms to you.
-- mt: By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
-- brenton: A Psalm for David, of Aggæus and Zacharias.
 
 ## Psalms 94:1
 - priority: `0`
@@ -36281,15 +36281,6 @@ Rows: 20939
 - mt: Moreover all these curses shall come upon you, and shall pursue you, and overtake you, till you be destroyed; because you hearkened not unto the voice of the LORD your God, to keep his commandments and his statutes which he commanded you:
 - brenton: And all these curses shall come upon thee, and shall pursue thee, and shall overtake thee, until he shall have consumed thee, and until he shall have destroyed thee; because thou didst not hearken to the voice of the Lord thy God, to keep his commands, and his ordinances which he has commanded thee.
 
-## Psalms 110:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.293`
-- fresh_brenton_ratio: `0.151`
-- fresh: Alleluia. I will confess to you, Lord, with whole heart, in the council of straight ones and gathering.
-- mt: The LORD said unto my Lord, Sit you at my right hand, until I make yours enemies your footstool.
-- brenton: Alleluia.
-
 ## Nehemiah 7:17
 - priority: `0`
 - importance: `none`
@@ -40475,15 +40466,6 @@ Rows: 20939
 - mt: Thus says the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring your sons in their arms, and your daughters shall be carried upon their shoulders.
 - brenton: Thus saith the Lord, even the Lord, Behold, I lift up mine hand to the nations, and I will lift up my signal to the islands: and they shall bring thy sons in their bosom, and shall bear thy daughters on their shoulders.
 
-## 2 Chronicles 29:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.315`
-- fresh_brenton_ratio: `0.548`
-- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
-- mt: And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD.
-- brenton: And he brought seven calves, seven rams, seven lambs, seven kids of goats for a sin-offering, for the kingdom, and for the holy things, and for Israel: and he told the priests the sons of Aaron to go up to the altar of the Lord.
-
 ## Hosea 12:4
 - priority: `0`
 - importance: `none`
@@ -43850,6 +43832,15 @@ Rows: 20939
 - mt: And when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul is vexed within her: and the LORD has hid it from me, and has not told me.
 - brenton: And she came to Elisaie to the mountain, and laid hold of his feet; and Giezi drew near to thrust her away. And Elisaie said, Let her alone, for her soul is much grieved in her, and the Lord has hidden it from me, and has not told it me.
 
+## Psalms 110:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.333`
+- fresh_brenton_ratio: `0.150`
+- fresh: Alleluia. I will confess to you, Lord, with all my heart, in the council of straight ones and gathering.
+- mt: The LORD said unto my Lord, Sit you at my right hand, until I make yours enemies your footstool.
+- brenton: Alleluia.
+
 ## Ezra 2:8
 - priority: `0`
 - importance: `none`
@@ -46532,6 +46523,15 @@ Rows: 20939
 - mt: Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - brenton: For the sons of Dan according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,
 
+## 2 Chronicles 29:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.347`
+- fresh_brenton_ratio: `0.543`
+- fresh: And they brought seven calves, seven rams, seven lambs, seven male goats of goats for sin, for the kingdom and for holy things and for Israel, and he told sons of Aaron the priests to go up upon the altar of the Lord.
+- mt: And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD.
+- brenton: And he brought seven calves, seven rams, seven lambs, seven kids of goats for a sin-offering, for the kingdom, and for the holy things, and for Israel: and he told the priests the sons of Aaron to go up to the altar of the Lord.
+
 ## Isaiah 54:15
 - priority: `0`
 - importance: `none`
@@ -46594,15 +46594,6 @@ Rows: 20939
 - fresh: And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made reign over Judah.
 - mt: The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
 - brenton: And Sedekias the son of Josias reigned instead of Joakim, whom Nabuchodonosor appointed to reign over Juda.
-
-## Psalms 85:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.347`
-- fresh_brenton_ratio: `0.782`
-- fresh: I will confess to you, Lord my God, with whole heart, and I will glorify your name forever.
-- mt: Yea, the LORD shall give that which is good; and our land shall yield her increase.
-- brenton: I will give thee thanks, O Lord my God, with all my heart; and I will glorify thy name for ever.
 
 ## Psalms 34:9
 - priority: `0`
@@ -47026,6 +47017,15 @@ Rows: 20939
 - fresh: Father and mother they reviled in you, and toward sojourner they behaved unjustly. In you orphan and widow they oppressed.
 - mt: In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow.
 - brenton: In thee they have reviled father and mother; and in thee they have behaved unjustly toward the stranger: they have oppressed the orphan and widow.
+
+## Psalms 118:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.350`
+- fresh_brenton_ratio: `0.656`
+- fresh: Blessed are those searching out his testimonies; with all their heart they will seek him.
+- mt: Let Israel now say, that his mercy endures for ever.
+- brenton: Blessed are they that search out his testimonies: they will diligently seek him with the whole heart.
 
 ## Psalms 141:2
 - priority: `0`
@@ -48943,15 +48943,6 @@ Rows: 20939
 - fresh: And it shall be, if indeed you listen to all his commands that I command you today, to love the Lord your God and to serve him from your whole heart and from your whole soul,
 - mt: And it shall come to pass, if all of you shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,
 - brenton: Now if ye will indeed hearken to all the commands which I charge thee this day, to love the Lord thy God, and to serve him with all thy heart, and with all thy soul,
-
-## Psalms 118:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.361`
-- fresh_brenton_ratio: `0.648`
-- fresh: Blessed are those searching out his testimonies; with whole heart they will seek him.
-- mt: Let Israel now say, that his mercy endures for ever.
-- brenton: Blessed are they that search out his testimonies: they will diligently seek him with the whole heart.
 
 ## Psalms 56:12
 - priority: `0`
@@ -55757,6 +55748,15 @@ Rows: 20939
 - mt: Nevertheless he saved them for his name's sake, that he might make his mighty power to be known.
 - brenton: Let them acknowledge to the Lord his mercies, and his wonderful works to the children of men.
 
+## Psalms 85:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.405`
+- fresh_brenton_ratio: `0.833`
+- fresh: I will confess to you, Lord my God, with all my heart, and I will glorify your name forever.
+- mt: Yea, the LORD shall give that which is good; and our land shall yield her increase.
+- brenton: I will give thee thanks, O Lord my God, with all my heart; and I will glorify thy name for ever.
+
 ## Nehemiah 4:10
 - priority: `0`
 - importance: `none`
@@ -58367,6 +58367,15 @@ Rows: 20939
 - mt: And her adversary also provoked her sore, in order to make her fret, because the LORD had shut up her womb.
 - brenton: For the Lord gave her no child in her affliction, and according to the despondency of her affliction; and she was dispirited on this account, that the Lord shut up her womb so as not to give her a child.
 
+## Psalms 9:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.427`
+- fresh_brenton_ratio: `0.709`
+- fresh: I will confess to you, Lord, with all my heart; I will recount all your wondrous deeds.
+- mt: I will be glad and rejoice in you: I will sing praise to your name, O you most High.
+- brenton: I will give thanks to thee, O Lord, with my whole heart; I will recount all thy wonderful works.
+
 ## Job 5:26
 - priority: `0`
 - importance: `none`
@@ -58618,15 +58627,6 @@ Rows: 20939
 - fresh: And you set me for byword among nations, and I became a laughingstock to them.
 - mt: He has made me also a byword of the people; and in old times I was as a timbrel.
 - brenton: But thou hast made me a byword among the nations, and I am become a scorn to them.
-
-## Psalms 9:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.429`
-- fresh_brenton_ratio: `0.747`
-- fresh: I will confess to you, Lord, with whole heart; I will recount all your wondrous deeds.
-- mt: I will be glad and rejoice in you: I will sing praise to your name, O you most High.
-- brenton: I will give thanks to thee, O Lord, with my whole heart; I will recount all thy wonderful works.
 
 ## Psalms 112:2
 - priority: `0`
@@ -74359,15 +74359,6 @@ Rows: 20939
 - fresh: Sit down then, and let there not be injustice; and again come together with righteous judgment.
 - mt: Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.
 - brenton: Sit down now, and let there not be unrighteousness; and unite again with the just.
-
-## Proverbs 3:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.537`
-- fresh_brenton_ratio: `0.539`
-- fresh: Be trusting with whole heart in God, and do not exalt yourself on your own wisdom.
-- mt: Trust in the LORD with all yours heart; and lean not unto yours own understanding.
-- brenton: Trust in God with all thine heart; and be not exalted in thine own wisdom.
 
 ## Ecclesiastes 8:5
 - priority: `0`
@@ -99137,6 +99128,15 @@ Rows: 20939
 - mt: Which long for death, but it comes not; and dig for it more than for hid treasures;
 - brenton: who desire death, and obtain it not, digging for it as for treasures;
 
+## Jeremiah 3:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.636`
+- fresh_brenton_ratio: `0.842`
+- fresh: And in all these things faithless Judah did not return to me with all her heart, but in falsehood.
+- mt: And yet for all this her treacherous sister Judah has not turned unto me with her whole heart, but feignedly, says the LORD.
+- brenton: And for all these things faithless Juda turned not to me with all her heart, but falsely.
+
 ## 1 Chronicles 15:19
 - priority: `0`
 - importance: `none`
@@ -106742,15 +106742,6 @@ Rows: 20939
 - mt: And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD.
 - brenton: the priest shall offer these on the altar: it is a sacrifice of sweet savour, a burnt-offering to the Lord.
 
-## Jeremiah 3:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.660`
-- fresh_brenton_ratio: `0.796`
-- fresh: And in all these things faithless Judah did not return to me with whole heart, but in falsehood.
-- mt: And yet for all this her treacherous sister Judah has not turned unto me with her whole heart, but feignedly, says the LORD.
-- brenton: And for all these things faithless Juda turned not to me with all her heart, but falsely.
-
 ## Deuteronomy 8:10
 - priority: `0`
 - importance: `none`
@@ -107713,6 +107704,15 @@ Rows: 20939
 - fresh: Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon beast of burden, a young foal.
 - mt: Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, your King comes unto you: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 - brenton: Rejoice greatly, O daughter of Sion; proclaim it aloud, O daughter of Jerusalem; behold, the King is coming to thee, just, and a Saviour; he is meek and riding on an ass, and a young foal.
+
+## Proverbs 3:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.663`
+- fresh_brenton_ratio: `0.735`
+- fresh: Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
+- mt: Trust in the LORD with all yours heart; and lean not unto yours own understanding.
+- brenton: Trust in God with all thine heart; and be not exalted in thine own wisdom.
 
 ## 1 Samuel 14:35
 - priority: `0`
@@ -170453,15 +170453,6 @@ Rows: 20939
 - mt: And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
 - brenton: And the ark of the covenant of the Lord arrived, and came to the city of David; and Melchol the daughter of Saul looked down through the window, and saw king David dancing and playing: and she despised him in her heart.
 
-## 2 Chronicles 6:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.833`
-- fresh_brenton_ratio: `0.096`
-- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
-- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
-- brenton: and said,
-
 ## 1 Chronicles 16:36
 - priority: `0`
 - importance: `none`
@@ -177805,6 +177796,15 @@ Rows: 20939
 - fresh: And it came to pass in that night, the word of the Lord came to Nathan, saying,
 - mt: And it came to pass the same night, that the word of God came to Nathan, saying,
 - brenton: And it came to pass in that night, that the word of the Lord came to Nathan, saying,
+
+## 2 Chronicles 6:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.864`
+- fresh_brenton_ratio: `0.094`
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
+- brenton: and said,
 
 ## Lamentations 3:31
 - priority: `0`

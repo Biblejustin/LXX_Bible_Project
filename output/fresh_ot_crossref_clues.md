@@ -546,7 +546,7 @@ Rows: 233
 - NT crossrefs: 3
 - shared-family hits: 0
 - fresh: Mercy and truth met together; righteousness and peace kissed.
-- OT clues: Ps.34.9-Ps.34.10 (106) -> But my soul will rejoice in the Lord, delighting in his salvation. || Prov.2.7 (97) -> And he treasures up salvation for those walking straight; he will shield their journey, || Ps.85.12 (54) -> I will confess to you, Lord my God, with whole heart, and I will glorify your name forever. || Prov.10.9 (50) -> One walking simply walks confidently, but one twisting his ways will be known.
+- OT clues: Ps.34.9-Ps.34.10 (106) -> But my soul will rejoice in the Lord, delighting in his salvation. || Prov.2.7 (97) -> And he treasures up salvation for those walking straight; he will shield their journey, || Ps.85.12 (54) -> I will confess to you, Lord my God, with all my heart, and I will glorify your name forever. || Prov.10.9 (50) -> One walking simply walks confidently, but one twisting his ways will be known.
 - NT clues: Matt.6.33 (76) -> But seek all of you first the kingdom of God, and his righteousness; and all these things shall be added unto you. || Phil.4.19 (72) -> But my God shall supply all your need according to his riches in glory by Christ Jesus. || John.8.12 (43) -> Then spoke Jesus again unto them, saying, I am the light of the world: he that follows me shall not walk in darkness, but shall have the light of life.
 
 ## Zechariah 12:10

@@ -2573,6 +2573,25 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "with a deceitful tongue" in by_ref["Psalms 108:2"]["draft_translation"]
     assert "from a deceitful tongue" in by_ref["Psalms 119:2"]["draft_translation"]
     assert "against a deceitful tongue" in by_ref["Psalms 119:3"]["draft_translation"]
+    assert "a deceitful tongue" in by_ref["Psalms 51:6"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 85:12"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 110:1"]["draft_translation"]
+    assert "with all their heart they will seek him" in by_ref["Psalms 118:2"]["draft_translation"]
+    assert by_ref["Psalms 118:10"]["draft_translation"].startswith("With all my heart")
+    assert "keep it with all my heart" in by_ref["Psalms 118:34"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 118:58"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 118:69"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 118:145"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 137:1"]["draft_translation"]
+    assert "with all your heart" in by_ref["Proverbs 3:5"]["draft_translation"]
+    assert "with all her heart" in by_ref["Jeremiah 3:10"]["draft_translation"]
+    assert "with all their heart" in by_ref["2 Chronicles 6:14"]["draft_translation"]
+    assert "with all my heart" in by_ref["Psalms 9:2"]["draft_translation"]
+    assert "with all his heart" in by_ref["2 Chronicles 22:9"]["draft_translation"]
+    assert "strong enough for the kingdom" in by_ref["2 Chronicles 22:9"]["draft_translation"]
+    assert "for the kingdom and for holy things and for Israel" in by_ref["2 Chronicles 29:21"][
+        "draft_translation"
+    ]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

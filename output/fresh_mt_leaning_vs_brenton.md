@@ -155,6 +155,15 @@ Rows: 723
 - mt: And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, says the Lord GOD.
 - brenton: And I will execute my vengeance on Idumea by the hand of my people Israel: and they shall deal in Idumea according to mine anger and according to my wrath, and they shall know my vengeance, saith the Lord.
 
+## 2 Chronicles 6:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.864`
+- fresh_brenton_ratio: `0.094`
+- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with all their heart,
+- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
+- brenton: and said,
+
 ## Leviticus 8:23
 - priority: `0`
 - importance: `none`
@@ -235,15 +244,6 @@ Rows: 723
 - fresh: And Shebaniah and Jehoshaphat and Nathanael and Amasai and Zechariah and Benaiah and Eliezer, the priests, were blowing trumpets before the ark of God, and Obededom and Iia were gatekeepers of the ark of God.
 - mt: And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark.
 - brenton: And Somnia, and Josaphat, and Nathanael, and Amasai, and Zacharia, and Banæa, and Eliezer, the priests, were sounding with trumpets before the ark of God: and Abdedom and Jeia were door-keepers of the ark of God.
-
-## 2 Chronicles 6:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.833`
-- fresh_brenton_ratio: `0.096`
-- fresh: And he said, Lord God of Israel, there is no God like you in heaven and on earth, keeping covenant and mercy for your servants walking before you with whole heart,
-- mt: And said, O LORD God of Israel, there is no God like you in the heaven, nor in the earth; which keep covenant, and show mercy unto your servants, that walk before you with all their hearts:
-- brenton: and said,
 
 ## Ecclesiastes 6:12
 - priority: `0`
