@@ -3158,6 +3158,27 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "in the latter days" in by_ref["Proverbs 31:26"]["draft_translation"]
     assert "vain is beauty of a woman" in by_ref["Proverbs 31:30"]["draft_translation"]
     assert "for a prudent woman is blessed" in by_ref["Proverbs 31:30"]["draft_translation"]
+    assert by_ref["Ecclesiastes 1:2"]["draft_translation"].endswith("all things are vanity.")
+    assert by_ref["Ecclesiastes 1:3"]["draft_translation"].startswith("What surplus is there for a man")
+    assert by_ref["Ecclesiastes 1:4"]["draft_translation"].startswith("A generation goes")
+    assert "the earth stands into the age" in by_ref["Ecclesiastes 1:4"]["draft_translation"]
+    assert by_ref["Ecclesiastes 1:5"]["draft_translation"].startswith("And the sun rises")
+    assert "toward the south" in by_ref["Ecclesiastes 1:6"]["draft_translation"]
+    assert "toward the north" in by_ref["Ecclesiastes 1:6"]["draft_translation"]
+    assert "into the sea" in by_ref["Ecclesiastes 1:7"]["draft_translation"]
+    assert "to the place where the torrents go" in by_ref["Ecclesiastes 1:7"]["draft_translation"]
+    assert "a man will not be able to speak" in by_ref["Ecclesiastes 1:8"]["draft_translation"]
+    assert "the eye will not be filled" in by_ref["Ecclesiastes 1:8"]["draft_translation"]
+    assert "the ear filled from hearing" in by_ref["Ecclesiastes 1:8"]["draft_translation"]
+    assert "this is what will happen" in by_ref["Ecclesiastes 1:9"]["draft_translation"]
+    assert "this is what will be done" in by_ref["Ecclesiastes 1:9"]["draft_translation"]
+    assert "in the ages that came before us" in by_ref["Ecclesiastes 1:10"]["draft_translation"]
+    assert "memory for the first things" in by_ref["Ecclesiastes 1:11"]["draft_translation"]
+    assert "with the things yet to be at the end" in by_ref["Ecclesiastes 1:11"]["draft_translation"]
+    assert "because God gave evil distraction" in by_ref["Ecclesiastes 1:13"]["draft_translation"]
+    assert "look, all is vanity" in by_ref["Ecclesiastes 1:14"]["draft_translation"]
+    assert "in much wisdom is much knowledge" in by_ref["Ecclesiastes 1:18"]["draft_translation"]
+    assert "the one adding knowledge" in by_ref["Ecclesiastes 1:18"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

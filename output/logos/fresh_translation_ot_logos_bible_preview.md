@@ -349,13 +349,13 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Ecclesiastes 1:2** Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
-- Translation/textual notes: 0
+**Ecclesiastes 1:2** Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 20
 
-**Ecclesiastes 1:3** What surplus for man in all his toil with which he toils under the sun?
-- Translation/textual notes: 0
+**Ecclesiastes 1:3** What surplus is there for a man in all his toil with which he toils under the sun?
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 21
 

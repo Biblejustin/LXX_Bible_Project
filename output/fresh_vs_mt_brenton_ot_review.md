@@ -50586,15 +50586,6 @@ Method:
 - mt: He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
 - brenton: For ye work iniquities in your hearts in the earth: your hands plot unrighteousness.
 
-### Ecclesiastes 1:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.332`
-- fresh_brenton_ratio: `0.578`
-- fresh: rising there. It goes toward south and circles toward north; circling its circles the wind goes, and on its circles the wind returns.
-- mt: The wind goes toward the south, and turns about unto the north; it whirls about continually, and the wind returns again according to his circuits.
-- brenton: arising there it proceeds southward, and goes round toward the north. The wind goes round and round, and the wind returns to its circuits.
-
 ### Psalms 65:7
 - priority: `0`
 - importance: `none`
@@ -69261,15 +69252,6 @@ Method:
 - mt: Let her be as the loving hind and pleasant roe; let her breasts satisfy you at all times; and be you ravished always with her love.
 - brenton: Let thy loving hart and thy graceful colt company with thee, and let her be considered thine own, and be with thee at all times; for ravished with her love thou shalt be greatly increased.
 
-### Ecclesiastes 1:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.459`
-- fresh_brenton_ratio: `0.584`
-- fresh: Because in much wisdom much knowledge, and one adding knowledge will add pain.
-- mt: For in much wisdom is much grief: and he that increases knowledge increases sorrow.
-- brenton: For in the abundance of wisdom is abundance of knowledge; and he that increases knowledge will increase sorrow.
-
 ### Proverbs 25:23
 - priority: `0`
 - importance: `none`
@@ -71970,15 +71952,6 @@ Method:
 - mt: And from the wicked their light is withheld, and the high arm shall be broken.
 - brenton: And hast thou removed light from the ungodly, and crushed the arm of the proud?
 
-### Ecclesiastes 1:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.480`
-- fresh_brenton_ratio: `0.754`
-- fresh: Who will speak and say, "Look, this is new"? It already happened in ages that came before us.
-- mt: Is there any thing whereof it may be said, See, this is new? it has been already of old time, which was before us.
-- brenton: Who is he that shall speak and say, Behold, this is new? it has already been in the ages that have passed before us.
-
 ### Exodus 23:5
 - priority: `0`
 - importance: `none`
@@ -73481,6 +73454,15 @@ Method:
 - fresh: And they said, Giving, we will give. And he spread out his garment, and there each man threw a gold earring from his spoil.
 - mt: And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the earrings of his prey.
 - brenton: And they said, We will certainly give them: and he opened his garment, and each man cast therein an earring of his spoils.
+
+### Ecclesiastes 1:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.490`
+- fresh_brenton_ratio: `0.778`
+- fresh: Who will speak and say, "Look, this is new"? It already happened in the ages that came before us.
+- mt: Is there any thing whereof it may be said, See, this is new? it has been already of old time, which was before us.
+- brenton: Who is he that shall speak and say, Behold, this is new? it has already been in the ages that have passed before us.
 
 ### Numbers 7:42
 - priority: `0`
@@ -77451,6 +77433,15 @@ Method:
 - mt: All of you shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 - brenton: Ye shall eat the flesh of mighty men, and ye shall drink the blood of the princes of the earth, rams, and calves and goats, and they are all fatted calves.
 
+### Ecclesiastes 1:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.516`
+- fresh_brenton_ratio: `0.658`
+- fresh: There is no memory for the first things, and even for the last things that come there will be no memory for them with the things yet to be at the end.
+- mt: There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
+- brenton: There is no memorial to the first things; neither to the things that have been last shall their memorial be with them that shall be at the last time.
+
 ### Ezra 2:69
 - priority: `0`
 - importance: `none`
@@ -79971,15 +79962,6 @@ Method:
 - mt: The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami.
 - brenton: the children of Saphatia, the children of Atil, the children of Phacherath, the children of Aseboim, the children of Emei.
 
-### Ecclesiastes 1:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.531`
-- fresh_brenton_ratio: `0.609`
-- fresh: There is no memory for first things, and even for last things that come there will be no memory for them with things yet to be at end.
-- mt: There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
-- brenton: There is no memorial to the first things; neither to the things that have been last shall their memorial be with them that shall be at the last time.
-
 ### Proverbs 17:15
 - priority: `0`
 - importance: `none`
@@ -81428,6 +81410,15 @@ Method:
 - fresh: Jonah said to them, Lift me and throw me into sea, and sea will quiet from you, because I know this great surge is upon you because of me.
 - mt: And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.
 - brenton: And Jonas said to them, Take me up, and cast me into the sea, and the sea shall be calm to you: for I know that for my sake this great tempest is upon you.
+
+### Ecclesiastes 1:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.538`
+- fresh_brenton_ratio: `0.649`
+- fresh: rising there. It goes toward the south and circles toward the north; circling its circles the wind goes, and on its circles the wind returns.
+- mt: The wind goes toward the south, and turns about unto the north; it whirls about continually, and the wind returns again according to his circuits.
+- brenton: arising there it proceeds southward, and goes round toward the north. The wind goes round and round, and the wind returns to its circuits.
 
 ### Isaiah 35:6
 - priority: `0`
@@ -84740,15 +84731,6 @@ Method:
 - fresh: And he shall not enter upon any dead person. For his father or his mother he shall not defile himself.
 - mt: Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;
 - brenton: neither shall he go in to any dead body, neither shall he defile himself for his father or his mother.
-
-### Ecclesiastes 1:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.555`
-- fresh_brenton_ratio: `0.555`
-- fresh: All words are wearisome; man will not be able to speak, and eye will not be filled with seeing, nor ear filled from hearing.
-- mt: All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
-- brenton: All things are full of labour; a man will not be able to speak of them: neither shall the eye be satisfied with seeing, neither shall the ear be filled with hearing.
 
 ### Exodus 26:17
 - priority: `0`
@@ -94299,6 +94281,15 @@ Method:
 - mt: He that spares his rod hates his son: but he that loves him chastens him early.
 - brenton: He that spares the rod hates his son: but he that loves, carefully chastens him.
 
+### Ecclesiastes 1:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.597`
+- fresh_brenton_ratio: `0.633`
+- fresh: What happened, this is what will happen; and what has been done, this is what will be done; and there is nothing fresh under the sun.
+- mt: The thing that has been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
+- brenton: What is that which has been? the very thing which shall be: and what is that which has been done? the very thing which shall be done: and there is no new thing under the sun.
+
 ### Ezekiel 1:23
 - priority: `0`
 - importance: `none`
@@ -94487,6 +94478,15 @@ Method:
 - fresh: And it came to be in the time of Solomon's old age, and his heart was not perfect with the Lord his God like the heart of David his father, and the foreign women turned aside his heart after their gods.
 - mt: For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father.
 - brenton: And it came to pass in the time of the old age of Solomon, that his heart was not perfect with the Lord his God, as was the heart of David his father. And the strange women turned away his heart after their gods.
+
+### Ecclesiastes 1:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.598`
+- fresh_brenton_ratio: `0.604`
+- fresh: Because in much wisdom is much knowledge, and the one adding knowledge will add pain.
+- mt: For in much wisdom is much grief: and he that increases knowledge increases sorrow.
+- brenton: For in the abundance of wisdom is abundance of knowledge; and he that increases knowledge will increase sorrow.
 
 ### Deuteronomy 28:60
 - priority: `0`
@@ -95622,15 +95622,6 @@ Method:
 - mt: And it repented the LORD that he had made man on the earth, and it grieved him at his heart.
 - brenton: then God laid it to heart that he had made man upon the earth, and he pondered it deeply.
 
-### Ecclesiastes 1:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.602`
-- fresh_brenton_ratio: `0.664`
-- fresh: What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under the sun.
-- mt: The thing that has been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
-- brenton: What is that which has been? the very thing which shall be: and what is that which has been done? the very thing which shall be done: and there is no new thing under the sun.
-
 ### 2 Chronicles 19:3
 - priority: `0`
 - importance: `none`
@@ -96683,15 +96674,6 @@ Method:
 - fresh: Sacrifice and drink offering were removed from the house of the Lord. Mourn, priests serving at altar.
 - mt: The food offering and the drink offering is cut off from the house of the LORD; the priests, the LORD's ministers, mourn.
 - brenton: The meat-offering and drink-offering are removed from the house of the Lord: mourn, ye priests that serve at the altar of the Lord.
-
-### Ecclesiastes 1:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.605`
-- fresh_brenton_ratio: `0.793`
-- fresh: And sun rises and sun sets and draws to its place,
-- mt: The sun also arises, and the sun goes down, and hastes to his place where he arose.
-- brenton: And the sun arises, and the sun goes down and draws toward its place;
 
 ### Isaiah 41:21
 - priority: `0`
@@ -98213,15 +98195,6 @@ Method:
 - fresh: And it will be in that day his fear will be removed from you and his yoke from your shoulder, and yoke will be destroyed from your shoulders.
 - mt: And it shall come to pass in that day, that his burden shall be taken away from off your shoulder, and his yoke from off your neck, and the yoke shall be destroyed because of the anointing.
 - brenton: And it shall come to pass in that day, that his yoke shall be taken away from thy shoulder, and his fear from thee, and the yoke shall be destroyed from off your shoulders.
-
-### Ecclesiastes 1:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.611`
-- fresh_brenton_ratio: `0.649`
-- fresh: All torrents go into sea, yet sea will not be filled; to place where torrents go, there they return to go.
-- mt: All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
-- brenton: All the rivers run into the sea; and yet the sea is not filled: to the place whence the rivers come, thither they return again.
 
 ### Isaiah 2:10
 - priority: `0`
@@ -112956,6 +112929,15 @@ Method:
 - mt: The heart of the prudent gets knowledge; and the ear of the wise seeks knowledge.
 - brenton: The heart of the sensible man purchases discretion; and the ears of the wise seek understanding.
 
+### Ecclesiastes 1:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.658`
+- fresh_brenton_ratio: `0.730`
+- fresh: What surplus is there for a man in all his toil with which he toils under the sun?
+- mt: What profit has a man of all his labour which he takes under the sun?
+- brenton: What advantage is there to a man in all his labour that he takes under the sun?
+
 ### Genesis 29:24
 - priority: `0`
 - importance: `none`
@@ -116448,6 +116430,15 @@ Method:
 - mt: And the burnt offering that the prince shall offer unto the LORD in the sabbath day shall be six lambs without blemish, and a ram without blemish.
 - brenton: And the prince shall offer whole-burnt-offerings to the Lord on the sabbath-day, six lambs without blemish, and a ram without blemish;
 
+### Ecclesiastes 1:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.669`
+- fresh_brenton_ratio: `0.577`
+- fresh: All words are wearisome; a man will not be able to speak, and the eye will not be filled with seeing, nor the ear filled from hearing.
+- mt: All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
+- brenton: All things are full of labour; a man will not be able to speak of them: neither shall the eye be satisfied with seeing, neither shall the ear be filled with hearing.
+
 ### Ezekiel 16:42
 - priority: `0`
 - importance: `none`
@@ -117797,6 +117788,15 @@ Method:
 - fresh: And he said, Why is my lord pursuing after his servant? Because in what have I sinned, and what wrongdoing has been found in me?
 - mt: And he said, Wherefore does my lord thus pursue after his servant? for what have I done? or what evil is in mine hand?
 - brenton: And he said, Why does my lord thus pursue after his servant? for in what have I sinned? and what unrighteousness has been found in me?
+
+### Ecclesiastes 1:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.672`
+- fresh_brenton_ratio: `0.871`
+- fresh: And the sun rises and the sun sets and draws to its place,
+- mt: The sun also arises, and the sun goes down, and hastes to his place where he arose.
+- brenton: And the sun arises, and the sun goes down and draws toward its place;
 
 ### Genesis 46:8
 - priority: `0`
@@ -129957,6 +129957,15 @@ Method:
 - mt: And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?
 - brenton: and said, Wherefore, O Lord God of Israel, has this come to pass, that to-day one tribe should be counted as missing from Israel?
 
+### Ecclesiastes 1:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.704`
+- fresh_brenton_ratio: `0.711`
+- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because God gave evil distraction to the sons of man to be distracted in it.
+- mt: And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised therewith.
+- brenton: And I applied my heart to seek out and examine by wisdom concerning all things that are done under heaven, for God has given to the sons of men an evil trouble to be troubled therewith.
+
 ### Ezekiel 14:18
 - priority: `0`
 - importance: `none`
@@ -131415,15 +131424,6 @@ Method:
 - mt: Turn you us unto you, O LORD, and we shall be turned; renew our days as of old.
 - brenton: Turn us, O Lord, to thee, and we shall be turned; and renew our days as before.
 
-### Ecclesiastes 1:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.707`
-- fresh_brenton_ratio: `0.864`
-- fresh: Generation goes and generation comes, but earth stands into age.
-- mt: One generation passes away, and another generation comes: but the earth abides for ever.
-- brenton: A generation goes, and a generation comes: but the earth stands for ever.
-
 ### Zechariah 1:13
 - priority: `0`
 - importance: `none`
@@ -132413,15 +132413,6 @@ Method:
 - fresh: And seven sons and three daughters were born to him.
 - mt: He had also seven sons and three daughters.
 - brenton: And there were born to him seven sons and three daughters.
-
-### Ecclesiastes 1:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.710`
-- fresh_brenton_ratio: `0.649`
-- fresh: What surplus for man in all his toil with which he toils under the sun?
-- mt: What profit has a man of all his labour which he takes under the sun?
-- brenton: What advantage is there to a man in all his labour that he takes under the sun?
 
 ### Ezekiel 12:6
 - priority: `0`
@@ -139335,15 +139326,6 @@ Method:
 - mt: And when his armour bearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
 - brenton: And his armour-bearer saw that Saul was dead, and he fell also himself upon his sword, and died with him.
 
-### Ecclesiastes 1:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.727`
-- fresh_brenton_ratio: `0.711`
-- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to the sons of man to be distracted in it.
-- mt: And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail has God given to the sons of man to be exercised therewith.
-- brenton: And I applied my heart to seek out and examine by wisdom concerning all things that are done under heaven, for God has given to the sons of men an evil trouble to be troubled therewith.
-
 ### Ezekiel 3:7
 - priority: `0`
 - importance: `none`
@@ -143942,15 +143924,6 @@ Method:
 - fresh: And forty years you sustained them in the wilderness. They did not lack. Their garments did not grow old, and their feet did not split.
 - mt: Yea, forty years did you sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.
 - brenton: And thou didst sustain them forty years in the wilderness; thou didst not allow anything to fail them: their garments did not wax old, and their feet were not bruised.
-
-### Ecclesiastes 1:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.739`
-- fresh_brenton_ratio: `0.670`
-- fresh: I saw all works done under the sun, and look, all vanity and choice of spirit.
-- mt: I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
-- brenton: I beheld all the works that were wrought under the sun; and, behold, all were vanity and waywardness of spirit.
 
 ### Genesis 37:32
 - priority: `0`
@@ -149442,6 +149415,15 @@ Method:
 - mt: And his servants conspired against him, and slew him in his own house.
 - brenton: And his servants conspired against him, and slew him in his house.
 
+### Ecclesiastes 1:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.752`
+- fresh_brenton_ratio: `0.780`
+- fresh: All torrents go into the sea, yet the sea will not be filled; to the place where the torrents go, there they return to go.
+- mt: All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
+- brenton: All the rivers run into the sea; and yet the sea is not filled: to the place whence the rivers come, thither they return again.
+
 ### 2 Chronicles 5:8
 - priority: `0`
 - importance: `none`
@@ -151007,6 +150989,15 @@ Method:
 - fresh: And in the prophets of Samaria I saw lawless things. They prophesied by Baal and led my people Israel astray.
 - mt: And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to go astray.
 - brenton: And in the prophets of Samaria I have seen lawless deeds; they prophesied by Baal, and led my people Israel astray.
+
+### Ecclesiastes 1:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.755`
+- fresh_brenton_ratio: `0.917`
+- fresh: A generation goes and a generation comes, but the earth stands into the age.
+- mt: One generation passes away, and another generation comes: but the earth abides for ever.
+- brenton: A generation goes, and a generation comes: but the earth stands for ever.
 
 ### Ezekiel 12:10
 - priority: `0`
@@ -152717,6 +152708,15 @@ Method:
 - fresh: As I live, says the Lord, if Jeconiah son of Jehoiakim king of Judah becomes signet on my right hand, even from there I will pull you away.
 - mt: As I live, says the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck you thence;
 - brenton: As I live, saith the Lord, though Jechonias son of Joakim king of Juda were indeed the seal upon my right hand, thence would I pluck thee;
+
+### Ecclesiastes 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.760`
+- fresh_brenton_ratio: `0.670`
+- fresh: I saw all works done under the sun, and look, all is vanity and choice of spirit.
+- mt: I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
+- brenton: I beheld all the works that were wrought under the sun; and, behold, all were vanity and waywardness of spirit.
 
 ### Job 28:6
 - priority: `0`
@@ -165696,6 +165696,15 @@ Method:
 - mt: And the people took their dough before it was leavened, their kneading troughs being bound up in their clothes upon their shoulders.
 - brenton: And the people took their dough before their meal was leavened, bound up as it was in their garments, on their shoulders.
 
+### Ecclesiastes 1:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.795`
+- fresh_brenton_ratio: `0.822`
+- fresh: Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
+- mt: Vanity of vanities, says the Preacher, vanity of vanities; all is vanity.
+- brenton: Vanity of vanities, said the Preacher, vanity of vanities; all is vanity.
+
 ### Genesis 48:22
 - priority: `0`
 - importance: `none`
@@ -172940,15 +172949,6 @@ Method:
 - fresh: And he did evil in the eyes of the Lord. He did not depart from all the sins of Jeroboam son of Nebat, who made Israel sin.
 - mt: And he did that which was evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 - brenton: And he did that which was evil in the eyes of the Lord: he departed not from all the sins of Jeroboam the son of Nabat, who led Israel to sin.
-
-### Ecclesiastes 1:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.817`
-- fresh_brenton_ratio: `0.845`
-- fresh: Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
-- mt: Vanity of vanities, says the Preacher, vanity of vanities; all is vanity.
-- brenton: Vanity of vanities, said the Preacher, vanity of vanities; all is vanity.
 
 ### 1 Kings 9:4
 - priority: `0`

@@ -154514,91 +154514,91 @@ Note:
 ### Ecclesiastes 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
+- fresh: Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
 - brenton: Vanity of vanities, said the Preacher, vanity of vanities; all is vanity.
 
 ### Ecclesiastes 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What surplus for man in all his toil with which he toils under the sun?
+- fresh: What surplus is there for a man in all his toil with which he toils under the sun?
 - brenton: What advantage is there to a man in all his labour that he takes under the sun?
 
 ### Ecclesiastes 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Generation goes and generation comes, but earth stands into age.
+- fresh: A generation goes and a generation comes, but the earth stands into the age.
 - brenton: A generation goes, and a generation comes: but the earth stands for ever.
 
 ### Ecclesiastes 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sun rises and sun sets and draws to its place,
+- fresh: And the sun rises and the sun sets and draws to its place,
 - brenton: And the sun arises, and the sun goes down and draws toward its place;
 
 ### Ecclesiastes 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: rising there. It goes toward south and circles toward north; circling its circles the wind goes, and on its circles the wind returns.
+- fresh: rising there. It goes toward the south and circles toward the north; circling its circles the wind goes, and on its circles the wind returns.
 - brenton: arising there it proceeds southward, and goes round toward the north. The wind goes round and round, and the wind returns to its circuits.
 
 ### Ecclesiastes 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All torrents go into sea, yet sea will not be filled; to place where torrents go, there they return to go.
+- fresh: All torrents go into the sea, yet the sea will not be filled; to the place where the torrents go, there they return to go.
 - brenton: All the rivers run into the sea; and yet the sea is not filled: to the place whence the rivers come, thither they return again.
 
 ### Ecclesiastes 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All words are wearisome; man will not be able to speak, and eye will not be filled with seeing, nor ear filled from hearing.
+- fresh: All words are wearisome; a man will not be able to speak, and the eye will not be filled with seeing, nor the ear filled from hearing.
 - brenton: All things are full of labour; a man will not be able to speak of them: neither shall the eye be satisfied with seeing, neither shall the ear be filled with hearing.
 
 ### Ecclesiastes 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under the sun.
+- fresh: What happened, this is what will happen; and what has been done, this is what will be done; and there is nothing fresh under the sun.
 - brenton: What is that which has been? the very thing which shall be: and what is that which has been done? the very thing which shall be done: and there is no new thing under the sun.
 
 ### Ecclesiastes 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who will speak and say, "Look, this is new"? It already happened in ages that came before us.
+- fresh: Who will speak and say, "Look, this is new"? It already happened in the ages that came before us.
 - brenton: Who is he that shall speak and say, Behold, this is new? it has already been in the ages that have passed before us.
 
 ### Ecclesiastes 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no memory for first things, and even for last things that come there will be no memory for them with things yet to be at end.
+- fresh: There is no memory for the first things, and even for the last things that come there will be no memory for them with the things yet to be at the end.
 - brenton: There is no memorial to the first things; neither to the things that have been last shall their memorial be with them that shall be at the last time.
 
 ### Ecclesiastes 1:12
@@ -154613,19 +154613,19 @@ Note:
 ### Ecclesiastes 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to the sons of man to be distracted in it.
+- fresh: And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because God gave evil distraction to the sons of man to be distracted in it.
 - brenton: And I applied my heart to seek out and examine by wisdom concerning all things that are done under heaven, for God has given to the sons of men an evil trouble to be troubled therewith.
 
 ### Ecclesiastes 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw all works done under the sun, and look, all vanity and choice of spirit.
+- fresh: I saw all works done under the sun, and look, all is vanity and choice of spirit.
 - brenton: I beheld all the works that were wrought under the sun; and, behold, all were vanity and waywardness of spirit.
 
 ### Ecclesiastes 1:15
@@ -154658,10 +154658,10 @@ Note:
 ### Ecclesiastes 1:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in much wisdom much knowledge, and one adding knowledge will add pain.
+- fresh: Because in much wisdom is much knowledge, and the one adding knowledge will add pain.
 - brenton: For in the abundance of wisdom is abundance of knowledge; and he that increases knowledge will increase sorrow.
 
 ### Ecclesiastes 2:1

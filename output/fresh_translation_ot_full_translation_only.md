@@ -70010,43 +70010,43 @@ The words of Ecclesiastes, son of David, king of Israel in Jerusalem.
 
 **Ecclesiastes 1:2**
 
-Vanity of vanities, said Ecclesiastes; vanity of vanities, all things vanity.
+Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
 
 **Ecclesiastes 1:3**
 
-What surplus for man in all his toil with which he toils under the sun?
+What surplus is there for a man in all his toil with which he toils under the sun?
 
 **Ecclesiastes 1:4**
 
-Generation goes and generation comes, but earth stands into age.
+A generation goes and a generation comes, but the earth stands into the age.
 
 **Ecclesiastes 1:5**
 
-And sun rises and sun sets and draws to its place,
+And the sun rises and the sun sets and draws to its place,
 
 **Ecclesiastes 1:6**
 
-rising there. It goes toward south and circles toward north; circling its circles the wind goes, and on its circles the wind returns.
+rising there. It goes toward the south and circles toward the north; circling its circles the wind goes, and on its circles the wind returns.
 
 **Ecclesiastes 1:7**
 
-All torrents go into sea, yet sea will not be filled; to place where torrents go, there they return to go.
+All torrents go into the sea, yet the sea will not be filled; to the place where the torrents go, there they return to go.
 
 **Ecclesiastes 1:8**
 
-All words are wearisome; man will not be able to speak, and eye will not be filled with seeing, nor ear filled from hearing.
+All words are wearisome; a man will not be able to speak, and the eye will not be filled with seeing, nor the ear filled from hearing.
 
 **Ecclesiastes 1:9**
 
-What happened, this will be what happens; and what has been done, this what will be done; and there is nothing fresh under the sun.
+What happened, this is what will happen; and what has been done, this is what will be done; and there is nothing fresh under the sun.
 
 **Ecclesiastes 1:10**
 
-Who will speak and say, "Look, this is new"? It already happened in ages that came before us.
+Who will speak and say, "Look, this is new"? It already happened in the ages that came before us.
 
 **Ecclesiastes 1:11**
 
-There is no memory for first things, and even for last things that come there will be no memory for them with things yet to be at end.
+There is no memory for the first things, and even for the last things that come there will be no memory for them with the things yet to be at the end.
 
 **Ecclesiastes 1:12**
 
@@ -70054,11 +70054,11 @@ I, Ecclesiastes, became king over Israel in Jerusalem.
 
 **Ecclesiastes 1:13**
 
-And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because evil distraction God gave to the sons of man to be distracted in it.
+And I gave my heart to seek out and to inspect in wisdom concerning all things happening under heaven, because God gave evil distraction to the sons of man to be distracted in it.
 
 **Ecclesiastes 1:14**
 
-I saw all works done under the sun, and look, all vanity and choice of spirit.
+I saw all works done under the sun, and look, all is vanity and choice of spirit.
 
 **Ecclesiastes 1:15**
 
@@ -70074,7 +70074,7 @@ And I gave my heart to know wisdom and knowledge, parables and skill; I knew tha
 
 **Ecclesiastes 1:18**
 
-Because in much wisdom much knowledge, and one adding knowledge will add pain.
+Because in much wisdom is much knowledge, and the one adding knowledge will add pain.
 
 ### Chapter 2
 
