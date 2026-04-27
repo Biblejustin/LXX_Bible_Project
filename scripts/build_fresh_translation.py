@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 import argparse
-import csv
 import json
-import sys
 from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List
 
 from fresh_bible.book_scope import filter_rows_by_scope
+from fresh_bible.pipeline_common import load_csv
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -38,16 +37,6 @@ REQUIRED_SOURCE_COLUMNS = [
     "syntax_notes",
     "draft_translation",
 ]
-
-csv.field_size_limit(sys.maxsize)
-
-
-def load_csv_rows(path: Path) -> List[Dict[str, str]]:
-    if not path.exists():
-        return []
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
-
 
 def load_json(path: Path) -> Dict[str, object]:
     if not path.exists():
@@ -347,7 +336,7 @@ def main() -> None:
     translation_only_output_path = Path(args.translation_only_output)
     diagnostics_path = Path(args.diagnostics)
 
-    source_rows = load_csv_rows(source_path)
+    source_rows = load_csv(source_path)
     ensure_source_columns(source_rows)
     selected_rows = filter_rows_by_scope(
         source_rows,
@@ -358,10 +347,10 @@ def main() -> None:
     )
     if not selected_rows:
         raise ValueError("No source rows matched requested scope.")
-    logos_rows = load_csv_rows(logos_path)
-    decisions_rows = load_csv_rows(decisions_path)
-    footnote_rows = load_csv_rows(footnotes_path)
-    variant_rows = load_csv_rows(variants_path)
+    logos_rows = load_csv(logos_path)
+    decisions_rows = load_csv(decisions_path)
+    footnote_rows = load_csv(footnotes_path)
+    variant_rows = load_csv(variants_path)
     stack = load_json(stack_path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)

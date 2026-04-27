@@ -6,11 +6,8 @@ from __future__ import annotations
 import argparse
 import csv
 import difflib
-import hashlib
 import html
 import json
-import os
-import pickle
 import re
 import sqlite3
 import sys
@@ -23,6 +20,8 @@ from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 
 from fresh_bible.book_scope import filter_items_by_book
+from fresh_bible.cache import cached_result
+from fresh_bible.pipeline_common import load_csv, load_required_csv
 
 try:
     from build_study_bible import (
@@ -98,86 +97,22 @@ DOCX_DEFAULT_COMPRESSLEVEL = 9
 T = TypeVar("T")
 
 
-def ingest_cache_enabled() -> bool:
-    value = os.environ.get("FRESH_BIBLE_DISABLE_CACHE", "").strip().casefold()
-    return value not in {"1", "true", "yes", "on"}
-
-
-def cache_relative_path(path: Path) -> str:
-    try:
-        return path.resolve().relative_to(ROOT).as_posix()
-    except ValueError:
-        return path.as_posix()
-
-
-def file_cache_fingerprint(path: Path) -> dict[str, object]:
-    if not path.exists():
-        return {
-            "path": cache_relative_path(path),
-            "exists": False,
-            "size": None,
-            "mtime_ns": None,
-        }
-    stat = path.stat()
-    return {
-        "path": cache_relative_path(path),
-        "exists": True,
-        "size": stat.st_size,
-        "mtime_ns": stat.st_mtime_ns,
-    }
-
-
-def ingest_cache_key(label: str, dependencies: Iterable[Path], params: dict[str, object]) -> str:
-    payload = {
-        "version": INGEST_CACHE_VERSION,
-        "label": label,
-        "params": params,
-        "dependencies": [file_cache_fingerprint(path) for path in dependencies],
-    }
-    return hashlib.sha256(json.dumps(payload, sort_keys=True).encode("utf-8")).hexdigest()
-
-
 def cached_ingest_result(
     label: str,
     dependencies: Iterable[Path],
     params: dict[str, object],
     producer: Callable[[], T],
 ) -> tuple[T, dict[str, object]]:
-    enabled = ingest_cache_enabled()
-    diagnostics: dict[str, object] = {
-        "enabled": enabled,
-        "version": INGEST_CACHE_VERSION,
-    }
-    if not enabled:
-        return producer(), diagnostics
-
-    key = ingest_cache_key(label, dependencies, params)
-    cache_path = CACHE_DIR / f"{label}-{key}.pickle"
-    diagnostics.update(
-        {
-            "key": key[:16],
-            "path": cache_relative_path(cache_path),
-            "hit": False,
-        }
+    return cached_result(
+        label=label,
+        dependencies=dependencies,
+        params=params,
+        producer=producer,
+        cache_dir=CACHE_DIR,
+        root=ROOT,
+        version=INGEST_CACHE_VERSION,
+        disable_env="FRESH_BIBLE_DISABLE_CACHE",
     )
-    if cache_path.exists():
-        try:
-            with cache_path.open("rb") as handle:
-                return pickle.load(handle), {**diagnostics, "hit": True}
-        except Exception as exc:
-            diagnostics["read_error"] = f"{type(exc).__name__}: {exc}"
-
-    result = producer()
-    try:
-        CACHE_DIR.mkdir(parents=True, exist_ok=True)
-        tmp_path = cache_path.with_suffix(cache_path.suffix + ".tmp")
-        with tmp_path.open("wb") as handle:
-            pickle.dump(result, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        os.replace(tmp_path, cache_path)
-        diagnostics["written"] = True
-    except Exception as exc:
-        diagnostics["write_error"] = f"{type(exc).__name__}: {exc}"
-    return result, diagnostics
 
 TESTAMENT_CONFIG = {
     "ot": {
@@ -946,7 +881,7 @@ def styles_xml() -> str:
 
 
 def load_verses(path: Path) -> list[Verse]:
-    rows = load_csv(path)
+    rows = load_required_csv(path)
     verses: list[Verse] = []
     for row in rows:
         draft = row.get("draft_translation", "").strip()
@@ -1005,7 +940,7 @@ def load_translation_notes(
     path: Path,
     variant_decisions: dict[str, dict[str, str]] | None = None,
 ) -> tuple[dict[str, list[TranslationNote]], dict[str, int]]:
-    rows = load_csv(path)
+    rows = load_required_csv(path)
     grouped: dict[str, list[TranslationNote]] = defaultdict(list)
     counts = Counter()
     variant_decisions = variant_decisions or {}
@@ -1514,11 +1449,6 @@ def is_generic_or_brenton_only_note(row: dict[str, str]) -> bool:
 def is_mt_lxx_difference_note(row: dict[str, str]) -> bool:
     haystack = f"{row.get('footnote_text', '')} {row.get('source_basis', '')}"
     return bool(MT_LXX_DIFFERENCE_RE.search(haystack))
-
-
-def load_csv(path: Path) -> list[dict[str, str]]:
-    with path.open("r", encoding="utf-8", newline="") as handle:
-        return list(csv.DictReader(handle))
 
 
 def load_book_intros(path: Path) -> tuple[dict[str, dict[str, str]], dict[str, object]]:

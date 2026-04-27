@@ -18,6 +18,10 @@ csv.field_size_limit(sys.maxsize)
 def load_csv(path: Path) -> list[dict[str, str]]:
     if not path.exists():
         return []
+    return load_required_csv(path)
+
+
+def load_required_csv(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8", newline="") as handle:
         return list(csv.DictReader(handle))
 
