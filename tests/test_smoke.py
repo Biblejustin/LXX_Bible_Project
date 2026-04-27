@@ -4753,7 +4753,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")
     assert by_ref["Isaiah 31:9"]["draft_translation"].endswith(
-        "Blessed is the one having seed in Zion and household in Jerusalem."
+        "Blessed is the one having seed in Zion and a household in Jerusalem."
     )
     assert by_ref["Psalms 65:20"]["draft_translation"].startswith("Blessed be God,")
     assert by_ref["Psalms 67:36"]["draft_translation"].endswith("Blessed be God.")
@@ -5356,6 +5356,55 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "the wrath of the Lord is as a ravine" in by_ref["Isaiah 30:33"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 31:1"]["draft_translation"].startswith(
+        "Woe to those going down"
+    )
+    assert "trusting in horses and in chariots" in by_ref["Isaiah 31:1"][
+        "draft_translation"
+    ]
+    assert "against the houses of evil men" in by_ref["Isaiah 31:2"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 31:3"]["draft_translation"].startswith(
+        "An Egyptian is a man and not God"
+    )
+    assert "horses are flesh" in by_ref["Isaiah 31:3"]["draft_translation"]
+    assert "the helpers will tire" in by_ref["Isaiah 31:3"][
+        "draft_translation"
+    ]
+    assert "As a lion or a lion's cub" in by_ref["Isaiah 31:4"][
+        "draft_translation"
+    ]
+    assert "over the prey it took" in by_ref["Isaiah 31:4"][
+        "draft_translation"
+    ]
+    assert "the mountains are filled" in by_ref["Isaiah 31:4"][
+        "draft_translation"
+    ]
+    assert "the multitude of wrath is terrified" in by_ref["Isaiah 31:4"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 31:5"]["draft_translation"].startswith(
+        "As flying birds"
+    )
+    assert "you who are counseling" in by_ref["Isaiah 31:6"][
+        "draft_translation"
+    ]
+    assert "the men will reject their handmade things of silver and gold" in by_ref[
+        "Isaiah 31:7"
+    ]["draft_translation"]
+    assert "nor will the sword of a human devour him" in by_ref["Isaiah 31:8"][
+        "draft_translation"
+    ]
+    assert "the young men will be for defeat" in by_ref["Isaiah 31:8"][
+        "draft_translation"
+    ]
+    assert "as by a trench around a rock" in by_ref["Isaiah 31:9"][
+        "draft_translation"
+    ]
+    assert "but the one fleeing will be caught" in by_ref["Isaiah 31:9"][
         "draft_translation"
     ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]

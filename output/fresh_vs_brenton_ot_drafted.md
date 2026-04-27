@@ -162915,82 +162915,82 @@ Note:
 ### Isaiah 31:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe those going down to Egypt for help, those trusting in horses and chariots, for they are many, and in horses, a very great multitude, and were not trusting in the Holy One of Israel and did not seek God.
+- fresh: Woe to those going down to Egypt for help, those trusting in horses and in chariots, for they are many, and in horses, a very great multitude, and they were not trusting in the Holy One of Israel and did not seek God.
 - brenton: Woe to them that go down to Egypt for help, who trust in horses and chariots, for they are many; and in horses, which are a great multitude; and have not trusted in the Holy One of Israel, and have not sought the Lord.
 
 ### Isaiah 31:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he himself, being wise, brought evils upon them, and his word certainly will not be nullified, and he will rise against houses of evil men and against their vain hope.
+- fresh: And he himself, being wise, brought evils upon them, and his word certainly will not be nullified, and he will rise against the houses of evil men and against their vain hope.
 - brenton: Therefore he has wisely brought evils upon them, and his word shall not be frustrated; and he shall rise up against the houses of wicked men, and against their vain hope,
 
 ### Isaiah 31:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Egyptian is man and not God, flesh of horses and there is no help. But the Lord will bring his hand upon them, and helpers will tire and together all will perish.
+- fresh: An Egyptian is a man and not God; horses are flesh, and there is no help. But the Lord will bring his hand upon them, and the helpers will tire and together all will perish.
 - brenton: even an Egyptian, a man, and not God; the flesh of horses, and there is no help in them: but the Lord shall bring his hand upon them, and the helpers shall fail, and all shall perish together.
 
 ### Isaiah 31:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus the Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus the Lord of hosts will come down to campaign against Mount Zion and her mountains.
+- fresh: Because thus the Lord said to me: As a lion or a lion's cub roars over the prey it took and cries over it until the mountains are filled with its voice and they are defeated and the multitude of wrath is terrified, thus the Lord of hosts will come down to campaign against Mount Zion and her mountains.
 - brenton: For thus said the Lord to me, As a lion would roar, or a lion's whelp over prey which he has taken, and cry over it, until the mountains are filled with his voice, and the animals are awe-struck and tremble at the fierceness of his wrath: so the Lord of hosts shall descend to fight upon the mount Sion, even upon her mountains.
 
 ### Isaiah 31:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As birds flying, thus the Lord will shield over Jerusalem and rescue and preserve and save.
+- fresh: As flying birds, thus the Lord will shield over Jerusalem and rescue and preserve and save.
 - brenton: As birds flying, so shall the Lord of hosts defend; he shall defend Jerusalem, and he shall rescue, and save and deliver.
 
 ### Isaiah 31:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn back, you counseling deep and lawless counsel.
+- fresh: Turn back, you who are counseling deep and lawless counsel.
 - brenton: Turn, ye children of Israel, who devise a deep and sinful counsel.
 
 ### Isaiah 31:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because in that day men will reject their silver and gold handmade things which their hands made.
+- fresh: Because in that day the men will reject their handmade things of silver and gold which their hands made.
 - brenton: For in that day men shall renounce their silver idols and their golden idols, which their hands made.
 
 ### Isaiah 31:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Asshur will fall, not by the sword of man, nor sword of human devour him; and he will flee, not from the face of the sword, and young men will be for defeat.
+- fresh: And Asshur will fall, not by the sword of man, nor will the sword of a human devour him; and he will flee, not from the face of the sword, and the young men will be for defeat.
 - brenton: And the Assyrian shall fall: not the sword of a great man, nor the sword of a mean man shall devour him; neither shall he flee from the face of the sword: but the young men shall be overthrown:
 
 ### Isaiah 31:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and household in Jerusalem.
+- fresh: For they will be seized as by a trench around a rock and be defeated; but the one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and a household in Jerusalem.
 - brenton: for they shall be compassed with rocks as with a trench, and shall be worsted; and he that flees shall be taken. Thus saith the Lord, Blessed is he that has a seed in Sion, and household friends in Jerusalem.
 
 ### Isaiah 32:1

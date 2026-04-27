@@ -73846,39 +73846,39 @@ For beforehand you will be demanded, lest perhaps a deep ravine was prepared als
 
 **Isaiah 31:1**
 
-Woe those going down to Egypt for help, those trusting in horses and chariots, for they are many, and in horses, a very great multitude, and were not trusting in the Holy One of Israel and did not seek God.
+Woe to those going down to Egypt for help, those trusting in horses and in chariots, for they are many, and in horses, a very great multitude, and they were not trusting in the Holy One of Israel and did not seek God.
 
 **Isaiah 31:2**
 
-And he himself, being wise, brought evils upon them, and his word certainly will not be nullified, and he will rise against houses of evil men and against their vain hope.
+And he himself, being wise, brought evils upon them, and his word certainly will not be nullified, and he will rise against the houses of evil men and against their vain hope.
 
 **Isaiah 31:3**
 
-Egyptian is man and not God, flesh of horses and there is no help. But the Lord will bring his hand upon them, and helpers will tire and together all will perish.
+An Egyptian is a man and not God; horses are flesh, and there is no help. But the Lord will bring his hand upon them, and the helpers will tire and together all will perish.
 
 **Isaiah 31:4**
 
-Because thus the Lord said to me: As lion or lion's cub roars over prey it took and cries over it until mountains are filled with its voice and they are defeated and multitude of wrath terrified, thus the Lord of hosts will come down to campaign against Mount Zion and her mountains.
+Because thus the Lord said to me: As a lion or a lion's cub roars over the prey it took and cries over it until the mountains are filled with its voice and they are defeated and the multitude of wrath is terrified, thus the Lord of hosts will come down to campaign against Mount Zion and her mountains.
 
 **Isaiah 31:5**
 
-As birds flying, thus the Lord will shield over Jerusalem and rescue and preserve and save.
+As flying birds, thus the Lord will shield over Jerusalem and rescue and preserve and save.
 
 **Isaiah 31:6**
 
-Turn back, you counseling deep and lawless counsel.
+Turn back, you who are counseling deep and lawless counsel.
 
 **Isaiah 31:7**
 
-Because in that day men will reject their silver and gold handmade things which their hands made.
+Because in that day the men will reject their handmade things of silver and gold which their hands made.
 
 **Isaiah 31:8**
 
-And Asshur will fall, not by the sword of man, nor sword of human devour him; and he will flee, not from the face of the sword, and young men will be for defeat.
+And Asshur will fall, not by the sword of man, nor will the sword of a human devour him; and he will flee, not from the face of the sword, and the young men will be for defeat.
 
 **Isaiah 31:9**
 
-For they will be seized as by trench around rock and be defeated; but one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and household in Jerusalem.
+For they will be seized as by a trench around a rock and be defeated; but the one fleeing will be caught. Thus says the Lord: Blessed is the one having seed in Zion and a household in Jerusalem.
 
 ### Chapter 32
 
