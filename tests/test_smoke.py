@@ -2982,6 +2982,41 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "The words of whisperers are soft" in by_ref["Proverbs 26:22"]["draft_translation"]
     assert by_ref["Proverbs 26:28"]["draft_translation"].startswith("A lying tongue")
     assert "an unchecked mouth makes disorders" in by_ref["Proverbs 26:28"]["draft_translation"]
+    assert "what the next day will bring forth" in by_ref["Proverbs 27:1"]["draft_translation"]
+    assert by_ref["Proverbs 27:2"]["draft_translation"].startswith("Let a neighbor")
+    assert "a stranger, not your own lips" in by_ref["Proverbs 27:2"]["draft_translation"]
+    assert by_ref["Proverbs 27:3"]["draft_translation"].startswith("A heavy stone")
+    assert "the anger of a fool is heavier" in by_ref["Proverbs 27:3"]["draft_translation"]
+    assert "Wounds of a friend are more trustworthy" in by_ref["Proverbs 27:6"]["draft_translation"]
+    assert "kisses of an enemy" in by_ref["Proverbs 27:6"]["draft_translation"]
+    assert by_ref["Proverbs 27:7"]["draft_translation"].startswith("A soul")
+    assert "to a needy soul" in by_ref["Proverbs 27:7"]["draft_translation"]
+    assert "when a bird flies down" in by_ref["Proverbs 27:8"]["draft_translation"]
+    assert "so a man enslaves himself" in by_ref["Proverbs 27:8"]["draft_translation"]
+    assert "the heart delights" in by_ref["Proverbs 27:9"]["draft_translation"]
+    assert "the soul is torn apart" in by_ref["Proverbs 27:9"]["draft_translation"]
+    assert "enter the house of your brother" in by_ref["Proverbs 27:10"]["draft_translation"]
+    assert "Better a nearby friend" in by_ref["Proverbs 27:10"]["draft_translation"]
+    assert by_ref["Proverbs 27:12"]["draft_translation"].startswith("A shrewd man")
+    assert "an insolent man passed by" in by_ref["Proverbs 27:13"]["draft_translation"]
+    assert "blesses a friend early in the morning with a loud voice" in by_ref["Proverbs 27:14"]["draft_translation"]
+    assert "Drops drive a man" in by_ref["Proverbs 27:15"]["draft_translation"]
+    assert "on a winter day" in by_ref["Proverbs 27:15"]["draft_translation"]
+    assert "a scolding woman" in by_ref["Proverbs 27:15"]["draft_translation"]
+    assert by_ref["Proverbs 27:16"]["draft_translation"].startswith("A north wind is a hard wind")
+    assert "a man sharpens the face of a companion" in by_ref["Proverbs 27:17"]["draft_translation"]
+    assert "One planting a fig tree" in by_ref["Proverbs 27:18"]["draft_translation"]
+    assert "so neither are the thoughts of men" in by_ref["Proverbs 27:19"]["draft_translation"]
+    assert "the eyes of men are insatiable" in by_ref["Proverbs 27:20"]["draft_translation"]
+    assert "fixing an eye is an abomination" in by_ref["Proverbs 27:20"]["draft_translation"]
+    assert "undisciplined men are unrestrained" in by_ref["Proverbs 27:20"]["draft_translation"]
+    assert "a man is tested through the mouth" in by_ref["Proverbs 27:21"]["draft_translation"]
+    assert "The heart of a lawless man" in by_ref["Proverbs 27:21"]["draft_translation"]
+    assert "an upright heart seeks knowledge" in by_ref["Proverbs 27:21"]["draft_translation"]
+    assert "scourge a fool" in by_ref["Proverbs 27:22"]["draft_translation"]
+    assert "Know well the souls of your flock" in by_ref["Proverbs 27:23"]["draft_translation"]
+    assert "strength and power are not forever for a man" in by_ref["Proverbs 27:24"]["draft_translation"]
+    assert "honor the field" in by_ref["Proverbs 27:26"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

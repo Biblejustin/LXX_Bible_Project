@@ -69410,15 +69410,15 @@ A lying tongue hates truth, and an unchecked mouth makes disorders.
 
 **Proverbs 27:1**
 
-Do not boast about things for tomorrow, for you do not know what next day will bring forth.
+Do not boast about things for tomorrow, for you do not know what the next day will bring forth.
 
 **Proverbs 27:2**
 
-Let neighbor praise you, not your own mouth; stranger, not your own lips.
+Let a neighbor praise you, not your own mouth; a stranger, not your own lips.
 
 **Proverbs 27:3**
 
-Heavy stone and burdensome sand, but anger of fool heavier than both.
+A heavy stone and burdensome sand, but the anger of a fool is heavier than both.
 
 **Proverbs 27:4**
 
@@ -69430,23 +69430,23 @@ Better revealed rebukes than hidden friendship.
 
 **Proverbs 27:6**
 
-Wounds of friend more trustworthy than willing kisses of enemy.
+Wounds of a friend are more trustworthy than willing kisses of an enemy.
 
 **Proverbs 27:7**
 
-Soul in fullness mocks honeycombs, but to needy soul even bitter things seem sweet.
+A soul in fullness mocks honeycombs, but to a needy soul even bitter things seem sweet.
 
 **Proverbs 27:8**
 
-As when bird flies down from its own nest, so man enslaves himself when alienated from his own places.
+As when a bird flies down from its own nest, so a man enslaves himself when alienated from his own places.
 
 **Proverbs 27:9**
 
-With perfumes and wines and incense heart delights, but soul is torn apart by mishaps.
+With perfumes and wines and incense the heart delights, but the soul is torn apart by mishaps.
 
 **Proverbs 27:10**
 
-Do not forsake your friend or ancestral friend, and do not enter house of your brother when unfortunate. Better nearby friend than brother dwelling far away.
+Do not forsake your friend or ancestral friend, and do not enter the house of your brother when unfortunate. Better a nearby friend than a brother dwelling far away.
 
 **Proverbs 27:11**
 
@@ -69454,55 +69454,55 @@ Become wise, son, so that your heart may rejoice, and turn reproachful words awa
 
 **Proverbs 27:12**
 
-Shrewd man hid himself when evils came on; fools, coming on, will pay damage.
+A shrewd man hid himself when evils came on; fools, coming on, will pay damage.
 
 **Proverbs 27:13**
 
-Take away his garment, for insolent man passed by, who destroys strangers' things.
+Take away his garment, for an insolent man passed by, who destroys strangers' things.
 
 **Proverbs 27:14**
 
-Whoever blesses friend early in morning with loud voice will seem no different from one cursing.
+Whoever blesses a friend early in the morning with a loud voice will seem no different from one cursing.
 
 **Proverbs 27:15**
 
-Drops drive man out of his house in winter day; likewise scolding woman from her own house.
+Drops drive a man out of his house on a winter day; likewise a scolding woman from her own house.
 
 **Proverbs 27:16**
 
-North wind hard wind, yet by name is called dexterous.
+A north wind is a hard wind, yet by name it is called dexterous.
 
 **Proverbs 27:17**
 
-Iron sharpens iron, and man sharpens face of companion.
+Iron sharpens iron, and a man sharpens the face of a companion.
 
 **Proverbs 27:18**
 
-One planting fig tree will eat its fruits, and one guarding his own master will be honored.
+One planting a fig tree will eat its fruits, and one guarding his own master will be honored.
 
 **Proverbs 27:19**
 
-As faces are not alike to faces, so neither thoughts of men.
+As faces are not alike to faces, so neither are the thoughts of men.
 
 **Proverbs 27:20**
 
-Hades and destruction are not filled up; likewise eyes of men insatiable. One fixing eye is abomination to the Lord, and undisciplined men unrestrained in tongue.
+Hades and destruction are not filled up; likewise the eyes of men are insatiable. One fixing an eye is an abomination to the Lord, and undisciplined men are unrestrained in tongue.
 
 **Proverbs 27:21**
 
-Testing for silver and refining for gold, but man tested through mouth of those praising him. The heart of lawless man seeks evils, but upright heart seeks knowledge.
+Testing for silver and refining for gold, but a man is tested through the mouth of those praising him. The heart of a lawless man seeks evils, but an upright heart seeks knowledge.
 
 **Proverbs 27:22**
 
-If you scourge fool in the midst of council dishonoring him, you still will not strip away his folly.
+If you scourge a fool in the midst of council dishonoring him, you still will not strip away his folly.
 
 **Proverbs 27:23**
 
-Know well souls of your flock, and set your heart on your herds,
+Know well the souls of your flock, and set your heart on your herds,
 
 **Proverbs 27:24**
 
-because strength and power not forever for man, nor does he hand down from generation to generation.
+because strength and power are not forever for a man, nor does he hand down from generation to generation.
 
 **Proverbs 27:25**
 
@@ -69510,7 +69510,7 @@ Take care of greens in the field and you will cut grass, and gather mountain hay
 
 **Proverbs 27:26**
 
-so that you may have sheep for clothing; honor field so that lambs may be yours.
+so that you may have sheep for clothing; honor the field so that lambs may be yours.
 
 **Proverbs 27:27**
 

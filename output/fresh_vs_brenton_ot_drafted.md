@@ -153189,28 +153189,28 @@ Note:
 ### Proverbs 27:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not boast about things for tomorrow, for you do not know what next day will bring forth.
+- fresh: Do not boast about things for tomorrow, for you do not know what the next day will bring forth.
 - brenton: Boast not of to-morrow; for thou knowest not what the next day shall bring forth.
 
 ### Proverbs 27:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let neighbor praise you, not your own mouth; stranger, not your own lips.
+- fresh: Let a neighbor praise you, not your own mouth; a stranger, not your own lips.
 - brenton: Let thy neighbour, and not thine own mouth, praise thee; a stranger, and not thine own lips.
 
 ### Proverbs 27:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Heavy stone and burdensome sand, but anger of fool heavier than both.
+- fresh: A heavy stone and burdensome sand, but the anger of a fool is heavier than both.
 - brenton: A stone is heavy, and sand cumbersome; but a fool's wrath is heavier than both.
 
 ### Proverbs 27:4
@@ -153234,46 +153234,46 @@ Note:
 ### Proverbs 27:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Wounds of friend more trustworthy than willing kisses of enemy.
+- fresh: Wounds of a friend are more trustworthy than willing kisses of an enemy.
 - brenton: The wounds of a friend are more to be trusted than the spontaneous kisses of an enemy.
 
 ### Proverbs 27:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Soul in fullness mocks honeycombs, but to needy soul even bitter things seem sweet.
+- fresh: A soul in fullness mocks honeycombs, but to a needy soul even bitter things seem sweet.
 - brenton: A full soul scorns honeycombs; but to a hungry soul even bitter things appear sweet.
 
 ### Proverbs 27:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As when bird flies down from its own nest, so man enslaves himself when alienated from his own places.
+- fresh: As when a bird flies down from its own nest, so a man enslaves himself when alienated from his own places.
 - brenton: As when a bird flies down from its own nest, so a man is brought into bondage whenever he estranges himself from his own place.
 
 ### Proverbs 27:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With perfumes and wines and incense heart delights, but soul is torn apart by mishaps.
+- fresh: With perfumes and wines and incense the heart delights, but the soul is torn apart by mishaps.
 - brenton: The heart delights in ointments and wines and perfumes: but the soul is broken by calamities.
 
 ### Proverbs 27:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not forsake your friend or ancestral friend, and do not enter house of your brother when unfortunate. Better nearby friend than brother dwelling far away.
+- fresh: Do not forsake your friend or ancestral friend, and do not enter the house of your brother when unfortunate. Better a nearby friend than a brother dwelling far away.
 - brenton: Thine own friend, and thy father's friend, forsake not; and when thou art in distress go not into thy brother's house: better is a friend that is near than a brother living far off.
 
 ### Proverbs 27:11
@@ -153288,118 +153288,118 @@ Note:
 ### Proverbs 27:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shrewd man hid himself when evils came on; fools, coming on, will pay damage.
+- fresh: A shrewd man hid himself when evils came on; fools, coming on, will pay damage.
 - brenton: A wise man, when evils are approaching, hides himself; but fools pass on, and will be punished.
 
 ### Proverbs 27:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Take away his garment, for insolent man passed by, who destroys strangers' things.
+- fresh: Take away his garment, for an insolent man passed by, who destroys strangers' things.
 - brenton: Take away the man's garment, (for a scorner has passed by) whoever lays waste another's goods.
 
 ### Proverbs 27:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whoever blesses friend early in morning with loud voice will seem no different from one cursing.
+- fresh: Whoever blesses a friend early in the morning with a loud voice will seem no different from one cursing.
 - brenton: Whosoever shall bless a friend in the morning with a loud voice, shall seem to differ nothing from one who curses him.
 
 ### Proverbs 27:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Drops drive man out of his house in winter day; likewise scolding woman from her own house.
+- fresh: Drops drive a man out of his house on a winter day; likewise a scolding woman from her own house.
 - brenton: On a stormy day drops of rain drive a man out of his house; so also does a railing woman drive a man out of his own house.
 
 ### Proverbs 27:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: North wind hard wind, yet by name is called dexterous.
+- fresh: A north wind is a hard wind, yet by name it is called dexterous.
 - brenton: The north wind is sharp, but it is called by name propitious.
 
 ### Proverbs 27:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Iron sharpens iron, and man sharpens face of companion.
+- fresh: Iron sharpens iron, and a man sharpens the face of a companion.
 - brenton: Iron sharpens iron; and a man sharpens his friend's countenance.
 
 ### Proverbs 27:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One planting fig tree will eat its fruits, and one guarding his own master will be honored.
+- fresh: One planting a fig tree will eat its fruits, and one guarding his own master will be honored.
 - brenton: He that plants a fig-tree shall eat the fruits of it: so he that waits on his own master shall be honoured.
 
 ### Proverbs 27:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As faces are not alike to faces, so neither thoughts of men.
+- fresh: As faces are not alike to faces, so neither are the thoughts of men.
 - brenton: As faces are not like other faces, so neither are the thoughts of men.
 
 ### Proverbs 27:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hades and destruction are not filled up; likewise eyes of men insatiable. One fixing eye is abomination to the Lord, and undisciplined men unrestrained in tongue.
+- fresh: Hades and destruction are not filled up; likewise the eyes of men are insatiable. One fixing an eye is an abomination to the Lord, and undisciplined men are unrestrained in tongue.
 - brenton: Hell and destruction are not filled; so also are the eyes of men insatiable.
 
 ### Proverbs 27:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Testing for silver and refining for gold, but man tested through mouth of those praising him. The heart of lawless man seeks evils, but upright heart seeks knowledge.
+- fresh: Testing for silver and refining for gold, but a man is tested through the mouth of those praising him. The heart of a lawless man seeks evils, but an upright heart seeks knowledge.
 - brenton: Fire is the trial for silver and gold; and a man is tried by the mouth of them that praise him.
 
 ### Proverbs 27:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you scourge fool in the midst of council dishonoring him, you still will not strip away his folly.
+- fresh: If you scourge a fool in the midst of council dishonoring him, you still will not strip away his folly.
 - brenton: Though thou scourge a fool, disgracing him in the midst of the council, thou wilt still in no wise remove his folly from him.
 
 ### Proverbs 27:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Know well souls of your flock, and set your heart on your herds,
+- fresh: Know well the souls of your flock, and set your heart on your herds,
 - brenton: Do thou thoroughly know the number of thy flock, and pay attention to thine herds.
 
 ### Proverbs 27:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because strength and power not forever for man, nor does he hand down from generation to generation.
+- fresh: because strength and power are not forever for a man, nor does he hand down from generation to generation.
 - brenton: For a man has not strength and power for ever; neither does he transmit it from generation to generation.
 
 ### Proverbs 27:25
@@ -153414,10 +153414,10 @@ Note:
 ### Proverbs 27:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: so that you may have sheep for clothing; honor field so that lambs may be yours.
+- fresh: so that you may have sheep for clothing; honor the field so that lambs may be yours.
 - brenton: that thou mayest have wool of sheep for clothing: pay attention to the land, that thou mayest have lambs.
 
 ### Proverbs 27:27

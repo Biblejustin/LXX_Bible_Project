@@ -3395,15 +3395,6 @@ Rows: 723
 - mt: And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
 - brenton: And Abenner the son of Ner went forth, and the servants of Jebosthe the son of Saul, from Manaem to Gabaon.
 
-## Proverbs 27:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.837`
-- fresh_brenton_ratio: `0.667`
-- fresh: Let neighbor praise you, not your own mouth; stranger, not your own lips.
-- mt: Let another man praise you, and not yours own mouth; a stranger, and not yours own lips.
-- brenton: Let thy neighbour, and not thine own mouth, praise thee; a stranger, and not thine own lips.
-
 ## 1 Chronicles 7:36
 - priority: `0`
 - importance: `none`
@@ -3844,6 +3835,15 @@ Rows: 723
 - fresh: And Moses and Eleazar the priest and all the leaders of the congregation went out to meet them outside the camp.
 - mt: And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
 - brenton: And Moses and Eleazar the priest and all the rulers of the synagogue went forth out of the camp to meet them.
+
+## Proverbs 27:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.841`
+- fresh_brenton_ratio: `0.688`
+- fresh: Let a neighbor praise you, not your own mouth; a stranger, not your own lips.
+- mt: Let another man praise you, and not yours own mouth; a stranger, and not yours own lips.
+- brenton: Let thy neighbour, and not thine own mouth, praise thee; a stranger, and not thine own lips.
 
 ## Deuteronomy 1:2
 - priority: `0`

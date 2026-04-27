@@ -44408,15 +44408,6 @@ Rows: 20939
 - mt: And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities.
 - brenton: And it came to pass when Joshua and all Israel ceased destroying them utterly with a very great slaughter, that they that escaped took refuge in the strong cities.
 
-## Proverbs 27:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.336`
-- fresh_brenton_ratio: `0.595`
-- fresh: North wind hard wind, yet by name is called dexterous.
-- mt: Whosoever hides her hides the wind, and the ointment of his right hand, which betrayed itself.
-- brenton: The north wind is sharp, but it is called by name propitious.
-
 ## Job 24:2
 - priority: `0`
 - importance: `none`
@@ -48710,15 +48701,6 @@ Rows: 20939
 - mt: O Israel, you have destroyed yourself; but in me is yours help.
 - brenton: O Israel, who will aid thee in thy destruction?
 
-## Proverbs 27:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.360`
-- fresh_brenton_ratio: `0.600`
-- fresh: so that you may have sheep for clothing; honor field so that lambs may be yours.
-- mt: The lambs are for your clothing, and the goats are the price of the field.
-- brenton: that thou mayest have wool of sheep for clothing: pay attention to the land, that thou mayest have lambs.
-
 ## Psalms 5:1
 - priority: `0`
 - importance: `none`
@@ -49825,6 +49807,15 @@ Rows: 20939
 - fresh: Lord our God, acquire us; Lord, apart from you we know no other; we name your name.
 - mt: O LORD our God, other lords beside you have had dominion over us: but by you only will we make mention of your name.
 - brenton: O Lord our God, take possession of us: O Lord, we know not any other beside thee: we name thy name.
+
+## Proverbs 27:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.366`
+- fresh_brenton_ratio: `0.645`
+- fresh: A north wind is a hard wind, yet by name it is called dexterous.
+- mt: Whosoever hides her hides the wind, and the ointment of his right hand, which betrayed itself.
+- brenton: The north wind is sharp, but it is called by name propitious.
 
 ## Psalms 146:3
 - priority: `0`
@@ -52112,15 +52103,6 @@ Rows: 20939
 - mt: Nevertheless they did not hearken, but they did after their former manner.
 - brenton: Neither shall ye comply with their practice, which they follow.
 
-## Proverbs 27:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.380`
-- fresh_brenton_ratio: `0.593`
-- fresh: Drops drive man out of his house in winter day; likewise scolding woman from her own house.
-- mt: A continual dropping in a very rainy day and a contentious woman are alike.
-- brenton: On a stormy day drops of rain drive a man out of his house; so also does a railing woman drive a man out of his own house.
-
 ## Job 7:15
 - priority: `0`
 - importance: `none`
@@ -52714,6 +52696,15 @@ Rows: 20939
 - fresh: And sons were born to Joseph in the land of Egypt, whom Asenath daughter of Potiphera priest of Heliopolis bore to him, Manasseh and Ephraim. And there were sons of Manasseh, whom the Syrian concubine bore to him, Machir. And Machir begot Gilead. And the sons of Ephraim, brother of Manasseh, were Shuthelah and Tahan. And the sons of Shuthelah were Eran.
 - mt: And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
 - brenton: And there were sons born to Joseph in the land of Egypt, whom Aseneth, the daughter of Petephres, priest of Heliopolis, bore to him, even Manasses and Ephraim. And there were sons born to Manasses, which the Syrian concubine bore to him, even Machir. And Machir begot Galaad. And the sons of Ephraim, the brother of Manasses; Sutalaam, and Taam. And the sons of Sutalaam; Edom.
+
+## Proverbs 27:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.384`
+- fresh_brenton_ratio: `0.491`
+- fresh: Testing for silver and refining for gold, but a man is tested through the mouth of those praising him. The heart of a lawless man seeks evils, but an upright heart seeks knowledge.
+- mt: As the fining pot for silver, and the furnace for gold; so is a man to his praise.
+- brenton: Fire is the trial for silver and gold; and a man is tried by the mouth of them that praise him.
 
 ## Habakkuk 3:9
 - priority: `0`
@@ -53723,15 +53714,6 @@ Rows: 20939
 - mt: But if he shall any ways make them void after that he has heard them; then he shall bear her iniquity.
 - brenton: But if he be wholly silent at her from day to day, then shall he bind upon her all her vows; and he shall confirm to her the obligations which she has bound upon herself, because he held his peace at her in the day in which he heard her.
 
-## Proverbs 27:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.390`
-- fresh_brenton_ratio: `0.463`
-- fresh: Testing for silver and refining for gold, but man tested through mouth of those praising him. The heart of lawless man seeks evils, but upright heart seeks knowledge.
-- mt: As the fining pot for silver, and the furnace for gold; so is a man to his praise.
-- brenton: Fire is the trial for silver and gold; and a man is tried by the mouth of them that praise him.
-
 ## 1 Samuel 20:14
 - priority: `0`
 - importance: `none`
@@ -53875,6 +53857,15 @@ Rows: 20939
 - fresh: For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it not be shaken.
 - mt: He that is so impoverished that he has no oblation chooses a tree that will not rot; he seeks unto him a cunning workman to prepare a graven image, that shall not be moved.
 - brenton: For the artificer chooses out a wood that will not rot, and will wisely enquire how he shall set up his image, and that so that it should not be moved.
+
+## Proverbs 27:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.391`
+- fresh_brenton_ratio: `0.595`
+- fresh: Drops drive a man out of his house on a winter day; likewise a scolding woman from her own house.
+- mt: A continual dropping in a very rainy day and a contentious woman are alike.
+- brenton: On a stormy day drops of rain drive a man out of his house; so also does a railing woman drive a man out of his own house.
 
 ## Isaiah 47:14
 - priority: `0`
@@ -54722,15 +54713,6 @@ Rows: 20939
 - mt: How much less to him that accepts not the persons of princes, nor regards the rich more than the poor? for they all are the work of his hands.
 - brenton: Such a one as would not reverence the face of an honourable man, neither knows how to give honour to the great, so as that their persons should be respected.
 
-## Proverbs 27:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.398`
-- fresh_brenton_ratio: `0.503`
-- fresh: Shrewd man hid himself when evils came on; fools, coming on, will pay damage.
-- mt: A prudent man forsees the evil, and hides himself; but the simple pass on, and are punished.
-- brenton: A wise man, when evils are approaching, hides himself; but fools pass on, and will be punished.
-
 ## Job 24:13
 - priority: `0`
 - importance: `none`
@@ -55324,6 +55306,15 @@ Rows: 20939
 - fresh: Pouring dishonor on rulers, but healing humble ones.
 - mt: He pours contempt upon princes, and weakens the strength of the mighty.
 - brenton: He pours dishonour upon princes, and heals the lowly.
+
+## Proverbs 27:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.403`
+- fresh_brenton_ratio: `0.620`
+- fresh: so that you may have sheep for clothing; honor the field so that lambs may be yours.
+- mt: The lambs are for your clothing, and the goats are the price of the field.
+- brenton: that thou mayest have wool of sheep for clothing: pay attention to the land, that thou mayest have lambs.
 
 ## Job 39:21
 - priority: `0`
@@ -57053,6 +57044,15 @@ Rows: 20939
 - mt: These ten times have all of you reproached me: all of you are not ashamed that all of you make yourselves strange to me.
 - brenton: Ye speak against me; ye do not feel for me, but bear hard upon me.
 
+## Proverbs 27:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.417`
+- fresh_brenton_ratio: `0.521`
+- fresh: A shrewd man hid himself when evils came on; fools, coming on, will pay damage.
+- mt: A prudent man forsees the evil, and hides himself; but the simple pass on, and are punished.
+- brenton: A wise man, when evils are approaching, hides himself; but fools pass on, and will be punished.
+
 ## Amos 7:13
 - priority: `0`
 - importance: `none`
@@ -57827,6 +57827,15 @@ Rows: 20939
 - mt: He shall eat the bread of his God, both of the most holy, and of the holy.
 - brenton: The gifts of God are most holy, and he shall eat of the holy things.
 
+## Proverbs 27:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.423`
+- fresh_brenton_ratio: `0.675`
+- fresh: Take away his garment, for an insolent man passed by, who destroys strangers' things.
+- mt: Take his garment that is guarantor for a stranger, and take a pledge of him for a strange woman.
+- brenton: Take away the man's garment, (for a scorner has passed by) whoever lays waste another's goods.
+
 ## Psalms 18:15
 - priority: `0`
 - importance: `none`
@@ -58060,15 +58069,6 @@ Rows: 20939
 - fresh: If only someone might weigh my anger, and lift my pains together in balance.
 - mt: Oh that my grief were thoroughly weighed, and my calamity laid in the balances together!
 - brenton: Oh that one would indeed weigh the wrath that is upon me, and take up my griefs in a balance together!
-
-## Proverbs 27:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.425`
-- fresh_brenton_ratio: `0.457`
-- fresh: With perfumes and wines and incense heart delights, but soul is torn apart by mishaps.
-- mt: Ointment and perfume rejoice the heart: so does the sweetness of a man's friend by hearty counsel.
-- brenton: The heart delights in ointments and wines and perfumes: but the soul is broken by calamities.
 
 ## 1 Samuel 13:21
 - priority: `0`
@@ -58771,15 +58771,6 @@ Rows: 20939
 - fresh: I guard morning and night. If you seek, seek, and dwell with me.
 - mt: The watchman said, The morning comes, and also the night: if all of you will enquire, enquire all of you: return, come.
 - brenton: I watch in the morning and the night: if thou wouldest enquire, enquire, and dwell by me.
-
-## Proverbs 27:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.430`
-- fresh_brenton_ratio: `0.663`
-- fresh: Take away his garment, for insolent man passed by, who destroys strangers' things.
-- mt: Take his garment that is guarantor for a stranger, and take a pledge of him for a strange woman.
-- brenton: Take away the man's garment, (for a scorner has passed by) whoever lays waste another's goods.
 
 ## Job 14:10
 - priority: `0`
@@ -60608,15 +60599,6 @@ Rows: 20939
 - mt: And Samson said unto them, Though all of you have done this, yet will I be avenged of you, and after that I will cease.
 - brenton: And Sampson said to them, Though ye may have dealt thus with her, verily I will be avenged of you, and afterwards I will cease.
 
-## Proverbs 27:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.445`
-- fresh_brenton_ratio: `0.615`
-- fresh: If you scourge fool in the midst of council dishonoring him, you still will not strip away his folly.
-- mt: Though you should bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
-- brenton: Though thou scourge a fool, disgracing him in the midst of the council, thou wilt still in no wise remove his folly from him.
-
 ## Isaiah 32:7
 - priority: `0`
 - importance: `none`
@@ -60949,15 +60931,6 @@ Rows: 20939
 - fresh: Keep king's mouth, and because of word of God's oath do not hurry.
 - mt: I counsel you to keep the king's commandment, and that in regard of the oath of God.
 - brenton: Observe the commandment of the king, and that because of the word of the oath of God.
-
-## Proverbs 27:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.448`
-- fresh_brenton_ratio: `0.526`
-- fresh: Hades and destruction are not filled up; likewise eyes of men insatiable. One fixing eye is abomination to the Lord, and undisciplined men unrestrained in tongue.
-- mt: Hell and destruction are never full; so the eyes of man are never satisfied.
-- brenton: Hell and destruction are not filled; so also are the eyes of men insatiable.
 
 ## Isaiah 46:5
 - priority: `0`
@@ -62534,6 +62507,15 @@ Rows: 20939
 - mt: All these had taken strange wives: and some of them had wives by whom they had children.
 - brenton: All these had taken strange wives, and had begotten sons of them.
 
+## Proverbs 27:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.460`
+- fresh_brenton_ratio: `0.628`
+- fresh: If you scourge a fool in the midst of council dishonoring him, you still will not strip away his folly.
+- mt: Though you should bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
+- brenton: Though thou scourge a fool, disgracing him in the midst of the council, thou wilt still in no wise remove his folly from him.
+
 ## Job 8:5
 - priority: `0`
 - importance: `none`
@@ -64036,6 +64018,15 @@ Rows: 20939
 - fresh: My vineyard mine before me. Thousand to you, Solomon, and two hundred to those keeping its fruit.
 - mt: My vineyard, which is mine, is before me: you, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
 - brenton: My vineyard, even mine, is before me; Solomon shall have a thousand, and they that keep its fruit two hundred.
+
+## Proverbs 27:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.472`
+- fresh_brenton_ratio: `0.520`
+- fresh: Hades and destruction are not filled up; likewise the eyes of men are insatiable. One fixing an eye is an abomination to the Lord, and undisciplined men are unrestrained in tongue.
+- mt: Hell and destruction are never full; so the eyes of man are never satisfied.
+- brenton: Hell and destruction are not filled; so also are the eyes of men insatiable.
 
 ## Proverbs 14:21
 - priority: `0`
@@ -66791,6 +66782,15 @@ Rows: 20939
 - mt: Then will I also walk contrary unto you, and will punish you yet seven times for your sins.
 - brenton: I also will walk with you with a perverse spirit, and I also will smite you seven times for your sins.
 
+## Proverbs 27:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.492`
+- fresh_brenton_ratio: `0.481`
+- fresh: With perfumes and wines and incense the heart delights, but the soul is torn apart by mishaps.
+- mt: Ointment and perfume rejoice the heart: so does the sweetness of a man's friend by hearty counsel.
+- brenton: The heart delights in ointments and wines and perfumes: but the soul is broken by calamities.
+
 ## Ezekiel 23:43
 - priority: `0`
 - importance: `none`
@@ -67312,15 +67312,6 @@ Rows: 20939
 - fresh: But as much as they humbled them, so much more they became many and grew exceedingly, exceedingly strong, and the Egyptians were disgusted by the sons of Israel.
 - mt: But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
 - brenton: But as they humbled them, by so much they multiplied, and grew exceedingly strong; and the Egyptians greatly abhorred the children of Israel.
-
-## Proverbs 27:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.495`
-- fresh_brenton_ratio: `0.768`
-- fresh: Whoever blesses friend early in morning with loud voice will seem no different from one cursing.
-- mt: He that blesses his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
-- brenton: Whosoever shall bless a friend in the morning with a loud voice, shall seem to differ nothing from one who curses him.
 
 ## Exodus 26:3
 - priority: `0`
@@ -69968,15 +69959,6 @@ Rows: 20939
 - mt: Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.
 - brenton: The strange children feigned obedience to me; they hearkened to me as soon as they heard.
 
-## Proverbs 27:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.512`
-- fresh_brenton_ratio: `0.488`
-- fresh: Do not forsake your friend or ancestral friend, and do not enter house of your brother when unfortunate. Better nearby friend than brother dwelling far away.
-- mt: Yours own friend, and your father's friend, forsake not; neither go into your brother's house in the day of your calamity: for better is a neighbour that is near than a brother far off.
-- brenton: Thine own friend, and thy father's friend, forsake not; and when thou art in distress go not into thy brother's house: better is a friend that is near than a brother living far off.
-
 ## 2 Chronicles 35:7
 - priority: `0`
 - importance: `none`
@@ -70813,6 +70795,15 @@ Rows: 20939
 - fresh: And he went out to meet Asa and all Judah and Benjamin and said, Hear me, Asa and all Judah and Benjamin: The Lord is with you while you are with him, and if you seek him, he will be found by you, and if you forsake him, he will forsake you.
 - mt: And he went out to meet Asa, and said unto him, Hear all of you me, Asa, and all Judah and Benjamin; The LORD is with you, while all of you be with him; and if all of you seek him, he will be found of you; but if all of you forsake him, he will forsake you.
 - brenton: and he went out to meet Asa, and all Juda and Benjamin, and said, Hear me, Asa, and all Juda and Benjamin. The Lord is with you, while ye are with him; and if ye seek him out, he will be found of you; but if ye forsake him, he will forsake you.
+
+## Proverbs 27:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.518`
+- fresh_brenton_ratio: `0.494`
+- fresh: Do not forsake your friend or ancestral friend, and do not enter the house of your brother when unfortunate. Better a nearby friend than a brother dwelling far away.
+- mt: Yours own friend, and your father's friend, forsake not; neither go into your brother's house in the day of your calamity: for better is a neighbour that is near than a brother far off.
+- brenton: Thine own friend, and thy father's friend, forsake not; and when thou art in distress go not into thy brother's house: better is a friend that is near than a brother living far off.
 
 ## 2 Kings 25:12
 - priority: `0`
@@ -72443,15 +72434,6 @@ Rows: 20939
 - mt: Fear all of you not, neither be afraid: have not I told you from that time, and have declared it? all of you are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.
 - brenton: Hide not yourselves, nor go astray: have ye not heard from the beginning, and have not I told you? ye are witnesses if there is a God beside me.
 
-## Proverbs 27:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.526`
-- fresh_brenton_ratio: `0.736`
-- fresh: because strength and power not forever for man, nor does he hand down from generation to generation.
-- mt: For riches are not for ever: and does the crown endure to every generation?
-- brenton: For a man has not strength and power for ever; neither does he transmit it from generation to generation.
-
 ## Job 31:23
 - priority: `0`
 - importance: `none`
@@ -72820,6 +72802,15 @@ Rows: 20939
 - fresh: And Saul clothed David with a cloak and put a bronze helmet around his head.
 - mt: And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of armour formed by chains.
 - brenton: And Saul clothed David with a military coat, and put his brazen helmet on his head.
+
+## Proverbs 27:19
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.528`
+- fresh_brenton_ratio: `0.955`
+- fresh: As faces are not alike to faces, so neither are the thoughts of men.
+- mt: As in water face answers to face, so the heart of man to man.
+- brenton: As faces are not like other faces, so neither are the thoughts of men.
 
 ## Isaiah 39:4
 - priority: `0`
@@ -73207,6 +73198,15 @@ Rows: 20939
 - fresh: Because this people disobedient, lying sons, who did not want to hear the law of God,
 - mt: That this is a rebellious people, lying children, children that will not hear the law of the LORD:
 - brenton: For the people is disobedient, false children, who would not hear the law of God:
+
+## Proverbs 27:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.531`
+- fresh_brenton_ratio: `0.715`
+- fresh: because strength and power are not forever for a man, nor does he hand down from generation to generation.
+- mt: For riches are not for ever: and does the crown endure to every generation?
+- brenton: For a man has not strength and power for ever; neither does he transmit it from generation to generation.
 
 ## 1 Samuel 15:29
 - priority: `0`
@@ -74134,15 +74134,6 @@ Rows: 20939
 - fresh: Ephraim, partner of idols, set stumbling blocks for himself.
 - mt: Ephraim is joined to idols: let him alone.
 - brenton: Ephraim, joined with idols, has laid stumbling-blocks in his own way.
-
-## Proverbs 27:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.536`
-- fresh_brenton_ratio: `0.680`
-- fresh: Wounds of friend more trustworthy than willing kisses of enemy.
-- mt: Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
-- brenton: The wounds of a friend are more to be trusted than the spontaneous kisses of an enemy.
 
 ## Jeremiah 6:28
 - priority: `0`
@@ -78401,15 +78392,6 @@ Rows: 20939
 - mt: Nevertheless Saul spoke not any thing that day: for he thought, Something has befallen him, he is not clean; surely he is not clean.
 - brenton: And Saul said nothing on that day, for he said, It seems to have fallen out that he is not clean, because he has not purified himself.
 
-## Proverbs 27:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.557`
-- fresh_brenton_ratio: `0.729`
-- fresh: As when bird flies down from its own nest, so man enslaves himself when alienated from his own places.
-- mt: As a bird that wanders from her nest, so is a man that wanders from his place.
-- brenton: As when a bird flies down from its own nest, so a man is brought into bondage whenever he estranges himself from his own place.
-
 ## Job 33:17
 - priority: `0`
 - importance: `none`
@@ -79670,6 +79652,15 @@ Rows: 20939
 - mt: Your lamb shall be without blemish, a male of the first year: all of you shall take it out from the sheep, or from the goats:
 - brenton: It shall be to you a lamb unblemished, a male of a year old: ye shall take it of the lambs and the kids.
 
+## Proverbs 27:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.562`
+- fresh_brenton_ratio: `0.813`
+- fresh: Whoever blesses a friend early in the morning with a loud voice will seem no different from one cursing.
+- mt: He that blesses his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
+- brenton: Whosoever shall bless a friend in the morning with a loud voice, shall seem to differ nothing from one who curses him.
+
 ## Isaiah 2:11
 - priority: `0`
 - importance: `none`
@@ -80083,15 +80074,6 @@ Rows: 20939
 - fresh: Any man of the sons of Israel or of the newcomers dwelling among you who slaughters a calf or a sheep or a goat in the camp, or who slaughters it outside the camp,
 - mt: Whosoever there be of the house of Israel, that kills an ox, or lamb, or goat, in the camp, or that kills it out of the camp,
 - brenton: Every man of the children of Israel, or of the strangers abiding among you, who shall kill a calf, or a sheep, or a goat in the camp, or who shall kill it out of the camp,
-
-## Proverbs 27:19
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.564`
-- fresh_brenton_ratio: `0.889`
-- fresh: As faces are not alike to faces, so neither thoughts of men.
-- mt: As in water face answers to face, so the heart of man to man.
-- brenton: As faces are not like other faces, so neither are the thoughts of men.
 
 ## Hosea 10:14
 - priority: `0`
@@ -81632,6 +81614,15 @@ Rows: 20939
 - mt: Wise men lay up knowledge: but the mouth of the foolish is near destruction.
 - brenton: The wise will hide discretion; but the mouth of the hasty draws near to ruin.
 
+## Proverbs 27:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.571`
+- fresh_brenton_ratio: `0.756`
+- fresh: Wounds of a friend are more trustworthy than willing kisses of an enemy.
+- mt: Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
+- brenton: The wounds of a friend are more to be trusted than the spontaneous kisses of an enemy.
+
 ## Genesis 33:12
 - priority: `0`
 - importance: `none`
@@ -82810,6 +82801,15 @@ Rows: 20939
 - fresh: Let him not see milking of nomads, nor pastures of honey and butter.
 - mt: He shall not see the rivers, the floods, the brooks of honey and butter.
 - brenton: Let him not see the milk of the pastures, nor the supplies of honey and butter.
+
+## Proverbs 27:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.578`
+- fresh_brenton_ratio: `0.751`
+- fresh: As when a bird flies down from its own nest, so a man enslaves himself when alienated from his own places.
+- mt: As a bird that wanders from her nest, so is a man that wanders from his place.
+- brenton: As when a bird flies down from its own nest, so a man is brought into bondage whenever he estranges himself from his own place.
 
 ## Genesis 31:50
 - priority: `0`
@@ -86627,15 +86627,6 @@ Rows: 20939
 - mt: And you shall speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister unto me in the priest's office.
 - brenton: And speak thou to all those who are wise in understanding, whom I have filled with the spirit of wisdom and perception; and they shall make the holy apparel of Aaron for the sanctuary, in which apparel he shall minister to me as priest.
 
-## Proverbs 27:23
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.594`
-- fresh_brenton_ratio: `0.507`
-- fresh: Know well souls of your flock, and set your heart on your herds,
-- mt: Be you diligent to know the state of your flocks, and look well to your herds.
-- brenton: Do thou thoroughly know the number of thy flock, and pay attention to thine herds.
-
 ## Ecclesiastes 8:16
 - priority: `0`
 - importance: `none`
@@ -89894,6 +89885,15 @@ Rows: 20939
 - mt: Your raiment waxed not old upon you, neither did your foot swell, these forty years.
 - brenton: Thy garments grew not old from off thee, thy shoes were not worn from off thee, thy feet were not painfully hardened, lo! these forty years.
 
+## Proverbs 27:23
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.606`
+- fresh_brenton_ratio: `0.521`
+- fresh: Know well the souls of your flock, and set your heart on your herds,
+- mt: Be you diligent to know the state of your flocks, and look well to your herds.
+- brenton: Do thou thoroughly know the number of thy flock, and pay attention to thine herds.
+
 ## Habakkuk 2:15
 - priority: `0`
 - importance: `none`
@@ -92423,6 +92423,15 @@ Rows: 20939
 - mt: The waters made him great, the deep set him up on high with her rivers running round about his plants, and sent her little rivers unto all the trees of the field.
 - brenton: The water nourished him, the depth made him grow tall; she led her rivers round about his plants, and she sent forth her streams to all the trees of the field.
 
+## Proverbs 27:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.615`
+- fresh_brenton_ratio: `0.694`
+- fresh: One planting a fig tree will eat its fruits, and one guarding his own master will be honored.
+- mt: Whoso keeps the fig tree shall eat the fruit thereof: so he that waits on his master shall be honoured.
+- brenton: He that plants a fig-tree shall eat the fruits of it: so he that waits on his own master shall be honoured.
+
 ## Isaiah 41:23
 - priority: `0`
 - importance: `none`
@@ -94033,15 +94042,6 @@ Rows: 20939
 - fresh: And Ahab did evil before the Lord. He did worse than all those before him.
 - mt: And Ahab the son of Omri did evil in the sight of the LORD above all that were before him.
 - brenton: And Achaab did that which was evil in the sight of the Lord, and did more wickedly than all that were before him.
-
-## Proverbs 27:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.621`
-- fresh_brenton_ratio: `0.680`
-- fresh: One planting fig tree will eat its fruits, and one guarding his own master will be honored.
-- mt: Whoso keeps the fig tree shall eat the fruit thereof: so he that waits on his master shall be honoured.
-- brenton: He that plants a fig-tree shall eat the fruits of it: so he that waits on his own master shall be honoured.
 
 ## Ezekiel 48:14
 - priority: `0`
@@ -96374,6 +96374,15 @@ Rows: 20939
 - mt: The third to Harim, the fourth to Seorim,
 - brenton: the third to Charib, the fourth to Seorim,
 
+## Proverbs 27:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.629`
+- fresh_brenton_ratio: `0.627`
+- fresh: A heavy stone and burdensome sand, but the anger of a fool is heavier than both.
+- mt: A stone is heavy, and the sand weighty; but a fool's wrath is heavier than them both.
+- brenton: A stone is heavy, and sand cumbersome; but a fool's wrath is heavier than both.
+
 ## Genesis 1:3
 - priority: `0`
 - importance: `none`
@@ -98461,15 +98470,6 @@ Rows: 20939
 - fresh: And a man from whom an emission of seed goes out shall bathe all his body in water and be unclean until evening.
 - mt: And if any man's seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.
 - brenton: And the man whose seed of copulation shall happen to go forth from him, shall then wash his whole body, and shall be unclean until evening.
-
-## Proverbs 27:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.635`
-- fresh_brenton_ratio: `0.634`
-- fresh: Heavy stone and burdensome sand, but anger of fool heavier than both.
-- mt: A stone is heavy, and the sand weighty; but a fool's wrath is heavier than them both.
-- brenton: A stone is heavy, and sand cumbersome; but a fool's wrath is heavier than both.
 
 ## Numbers 11:10
 - priority: `0`
@@ -110369,6 +110369,15 @@ Rows: 20939
 - mt: And you shall slay the ram, and you shall take his blood, and sprinkle it round about upon the altar.
 - brenton: And thou shalt kill it, and take the blood and pour it on the altar round about.
 
+## Proverbs 27:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.671`
+- fresh_brenton_ratio: `0.744`
+- fresh: Do not boast about things for tomorrow, for you do not know what the next day will bring forth.
+- mt: Boast not yourself of tomorrow; for you know not what a day may bring forth.
+- brenton: Boast not of to-morrow; for thou knowest not what the next day shall bring forth.
+
 ## Isaiah 53:7
 - priority: `0`
 - importance: `none`
@@ -116165,15 +116174,6 @@ Rows: 20939
 - mt: But unto Cain and to his offering he had not respect. And Cain was very angry, and his countenance fell.
 - brenton: but Cain and his sacrifices he regarded not, and Cain was exceedingly sorrowful and his countenance fell.
 
-## Proverbs 27:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.687`
-- fresh_brenton_ratio: `0.726`
-- fresh: Do not boast about things for tomorrow, for you do not know what next day will bring forth.
-- mt: Boast not yourself of tomorrow; for you know not what a day may bring forth.
-- brenton: Boast not of to-morrow; for thou knowest not what the next day shall bring forth.
-
 ## Genesis 3:4
 - priority: `0`
 - importance: `none`
@@ -120971,15 +120971,6 @@ Rows: 20939
 - mt: And Manoah said, Now let your words come to pass. How shall we order the child, and how shall we do unto him?
 - brenton: And Manoë said, Now shall thy word come to pass: what shall be the ordering of the child, and our dealings with him?
 
-## Proverbs 27:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.699`
-- fresh_brenton_ratio: `0.736`
-- fresh: Soul in fullness mocks honeycombs, but to needy soul even bitter things seem sweet.
-- mt: The full soul loathes an honeycomb; but to the hungry soul every bitter thing is sweet.
-- brenton: A full soul scorns honeycombs; but to a hungry soul even bitter things appear sweet.
-
 ## Joshua 11:5
 - priority: `0`
 - importance: `none`
@@ -124031,15 +124022,6 @@ Rows: 20939
 - mt: And their food offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:
 - brenton: Their meat-offering and their drink-offering shall be to the calves and to the rams and to the lambs according to their number, according to their ordinance.
 
-## Proverbs 27:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.706`
-- fresh_brenton_ratio: `0.754`
-- fresh: Iron sharpens iron, and man sharpens face of companion.
-- mt: Iron sharpens iron; so a man sharpens the countenance of his friend.
-- brenton: Iron sharpens iron; and a man sharpens his friend's countenance.
-
 ## Numbers 29:27
 - priority: `0`
 - importance: `none`
@@ -124066,6 +124048,15 @@ Rows: 20939
 - fresh: And he said, What do you see, Amos? And I said, A vessel of birdlime. And the Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
 - mt: And he said, Amos, what see you? And I said, A basket of summer fruit. Then said the LORD unto me, The end has come upon my people of Israel; I will not again pass by them any more.
 - brenton: And he said, What seest thou, Amos? And I said, A fowler's basket. And the Lord said to me, The end is come upon my people Israel; I will not pass by them any more.
+
+## Proverbs 27:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.706`
+- fresh_brenton_ratio: `0.766`
+- fresh: A soul in fullness mocks honeycombs, but to a needy soul even bitter things seem sweet.
+- mt: The full soul loathes an honeycomb; but to the hungry soul every bitter thing is sweet.
+- brenton: A full soul scorns honeycombs; but to a hungry soul even bitter things appear sweet.
 
 ## 1 Samuel 13:19
 - priority: `0`
@@ -144271,6 +144262,15 @@ Rows: 20939
 - fresh: Blessed are the offspring of your womb and the produce of your land, the herds of your cattle and the flocks of your sheep.
 - mt: Blessed shall be the fruit of your body, and the fruit of your ground, and the fruit of your cattle, the increase of your cattle, and the flocks of your sheep.
 - brenton: Blessed shall be the offspring of thy body, and the fruits of thy land, and the herds of thy oxen, and the flocks of thy sheep.
+
+## Proverbs 27:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.756`
+- fresh_brenton_ratio: `0.770`
+- fresh: Iron sharpens iron, and a man sharpens the face of a companion.
+- mt: Iron sharpens iron; so a man sharpens the countenance of his friend.
+- brenton: Iron sharpens iron; and a man sharpens his friend's countenance.
 
 ## 1 Samuel 25:23
 - priority: `0`
@@ -171479,15 +171479,6 @@ Rows: 20939
 - mt: And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
 - brenton: And Mosellemia's first-born son was Zacharias, the second Jadiel, the third Zabadia, the fourth Jenuel,
 
-## Proverbs 27:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.837`
-- fresh_brenton_ratio: `0.667`
-- fresh: Let neighbor praise you, not your own mouth; stranger, not your own lips.
-- mt: Let another man praise you, and not yours own mouth; a stranger, and not yours own lips.
-- brenton: Let thy neighbour, and not thine own mouth, praise thee; a stranger, and not thine own lips.
-
 ## Deuteronomy 15:16
 - priority: `0`
 - importance: `none`
@@ -172450,6 +172441,15 @@ Rows: 20939
 - fresh: All shining lights in heaven I will darken over you and give darkness on your land, says the Lord God.
 - mt: All the bright lights of heaven will I make dark over you, and set darkness upon your land, says the Lord GOD.
 - brenton: All the bodies that give light in the sky, shall be darkened over thee, and I will bring darkness upon the earth, saith the Lord God.
+
+## Proverbs 27:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.841`
+- fresh_brenton_ratio: `0.688`
+- fresh: Let a neighbor praise you, not your own mouth; a stranger, not your own lips.
+- mt: Let another man praise you, and not yours own mouth; a stranger, and not yours own lips.
+- brenton: Let thy neighbour, and not thine own mouth, praise thee; a stranger, and not thine own lips.
 
 ## Genesis 46:30
 - priority: `0`
