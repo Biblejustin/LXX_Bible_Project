@@ -156377,91 +156377,91 @@ Note:
 ### Ecclesiastes 12:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
+- fresh: And remember the one who created you in the days of your youth, until the days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
 - brenton: And remember thy Creator in the days of thy youth, before the days of evil come, and the years overtake thee in which thou shalt say, I have no pleasure in them.
 
 ### Ecclesiastes 12:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until sun and light and moon and stars are not darkened and clouds return after rain.
+- fresh: Until the sun and the light and the moon and the stars are not darkened and the clouds return after the rain.
 - brenton: While the sun and light are not darkened, nor the moon and the stars; nor the clouds return after the rain:
 
 ### Ecclesiastes 12:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In day whenever guards of the house will be shaken and men of strength twisted and grinders cease because they became few and those seeing through openings grow dark,
+- fresh: In the day whenever the guards of the house will be shaken and the men of strength twisted and the grinders cease because they became few and those seeing through the openings grow dark,
 - brenton: in the day wherein the keepers of the house shall tremble, and the mighty men shall become bent, and the grinding women cease because they have become few, and the women looking out at the windows be dark;
 
 ### Ecclesiastes 12:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and doors in market will be shut in weakness of sound of grinder, and he will rise at the sound of sparrow, and all daughters of song will be brought low.
+- fresh: and doors in the market will be shut in the weakness of the sound of the grinder, and he will rise at the sound of the sparrow, and all daughters of song will be brought low.
 - brenton: and they shall shut the doors in the market-place, because of the weakness of the voice of her that grinds at the mill; and he shall rise up at the voice of the sparrow, and all the daughters of song shall be brought low;
 
 ### Ecclesiastes 12:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to the house of his age, and mourners circled in market.
+- fresh: And indeed they will look from a height and terrors will be in the road, and the almond will blossom and the locust will grow fat and the caperberry will be scattered, because a man went to the house of his age, and mourners circled in the market.
 - brenton: and they shall look up, and fears shall be in the way, and the almond tree shall blossom, and the locust shall increase, and the caper shall be scattered: because man has gone to his eternal home, and the mourners have gone about the market:
 
 ### Ecclesiastes 12:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until silver cord is not overturned and flower of gold crushed and water jar broken at spring and wheel crushed upon pit.
+- fresh: Until the silver cord is not overturned and the flower of gold crushed and a water jar broken at the spring and the wheel crushed upon the pit.
 - brenton: before the silver cord be let go, or the choice gold be broken, or the pitcher be broken at the fountain, or the wheel run down to the cistern;
 
 ### Ecclesiastes 12:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And dust returns upon earth as it was, and spirit returns to God who gave it.
+- fresh: And the dust returns upon the earth as it was, and the spirit returns to God who gave it.
 - brenton: before the dust also return to the earth as it was, and the spirit return to God who gave it.
 
 ### Ecclesiastes 12:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vanity of vanities, said Ecclesiastes; all vanity.
+- fresh: Vanity of vanities, said the Ecclesiastes; all is vanity.
 - brenton: Vanity of vanities, said the Preacher; all is vanity.
 
 ### Ecclesiastes 12:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And beyond that, because Ecclesiastes became wise, he still taught knowledge with people, and his ear traced out ordered parables.
+- fresh: And beyond that, because the Ecclesiastes became wise, he still taught knowledge with the people, and his ear traced out ordered parables.
 - brenton: And because the Preacher was wise above others, so it was that he taught man excellent knowledge, and the ear will trace out the parables.
 
 ### Ecclesiastes 12:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
+- fresh: The Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
 - brenton: The Preacher sought diligently to find out acceptable words, and a correct writing, even words of truth.
 
 ### Ecclesiastes 12:11
@@ -156476,19 +156476,19 @@ Note:
 ### Ecclesiastes 12:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My son, beware to make many books, there is no end, and much study is weariness of flesh.
+- fresh: My son, beware of making many books; there is no end, and much study is weariness of flesh.
 - brenton: And moreover, my son, guard thyself by means of them: of making many books there is no end; and much study is a weariness of the flesh.
 
 ### Ecclesiastes 12:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
+- fresh: The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man.
 - brenton: Hear the end of the matter, the sum: Fear God, and keep his commandments: for this is the whole man.
 
 ### Ecclesiastes 12:14

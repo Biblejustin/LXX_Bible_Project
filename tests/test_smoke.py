@@ -4920,6 +4920,13 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "his flock, the house of Judah" in by_ref["Zechariah 10:3"]["draft_translation"]
     assert by_ref["Job 6:25"]["draft_translation"].startswith("As it seems, the words of truth")
     assert "answering the words of truth" in by_ref["Proverbs 22:21"]["draft_translation"]
+    assert "remember the one who created you" in by_ref["Ecclesiastes 12:1"][
+        "draft_translation"
+    ]
+    assert "the dust returns upon the earth" in by_ref["Ecclesiastes 12:7"][
+        "draft_translation"
+    ]
+    assert "all is vanity" in by_ref["Ecclesiastes 12:8"]["draft_translation"]
     assert "the City of Letters" in by_ref["Joshua 15:15"]["draft_translation"]
     assert "the City of Arba" in by_ref["Joshua 14:15"]["draft_translation"]
     assert "above the Gate of Ephraim" in by_ref["Nehemiah 12:39"]["draft_translation"]

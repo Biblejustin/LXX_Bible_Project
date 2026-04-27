@@ -6491,6 +6491,15 @@ Rows: 20937
 - mt: Then was Abner very angry for the words of Ishbosheth, and said, Am I a dog's head, which against Judah do show kindness this day unto the house of Saul your father, to his brethren, and to his friends, and have not delivered you into the hand of David, that you charge me to day with a fault concerning this woman?
 - brenton: And Abenner was very angry with Jebosthe for this saying; and Abenner said to him, Am I a dog's head? I have this day wrought kindness with the house of Saul thy father, and with his brethren and friends, and have not gone over to the house of David, and dost thou this day seek a charge against me concerning injury to a woman?
 
+## Ecclesiastes 12:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.044`
+- fresh_brenton_ratio: `0.042`
+- fresh: And indeed they will look from a height and terrors will be in the road, and the almond will blossom and the locust will grow fat and the caperberry will be scattered, because a man went to the house of his age, and mourners circled in the market.
+- mt: Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goes to his eternal home, and the mourners go about the streets:
+- brenton: and they shall look up, and fears shall be in the way, and the almond tree shall blossom, and the locust shall increase, and the caper shall be scattered: because man has gone to his eternal home, and the mourners have gone about the market:
+
 ## Jeremiah 19:7
 - priority: `0`
 - importance: `none`
@@ -7021,15 +7030,6 @@ Rows: 20937
 - fresh: And all dwelling on this land have heard that you are Lord among this people, that you, Lord, are seen eye to eye, and your cloud stands over them, and in a pillar of cloud you go before them by day and in a pillar of fire by night.
 - mt: And they will tell it to the inhabitants of this land: for they have heard that you LORD are among this people, that you LORD are seen face to face, and that your cloud stands over them, and that you go before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
 - brenton: Moreover all the dwellers upon this land have heard that thou art Lord in the midst of this people, who, O Lord, art seen by them face to face, and thy cloud rests upon them, and thou goest before them by day in a pillar of a cloud, and by night in a pillar of fire.
-
-## Ecclesiastes 12:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.048`
-- fresh_brenton_ratio: `0.045`
-- fresh: And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to the house of his age, and mourners circled in market.
-- mt: Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goes to his eternal home, and the mourners go about the streets:
-- brenton: and they shall look up, and fears shall be in the way, and the almond tree shall blossom, and the locust shall increase, and the caper shall be scattered: because man has gone to his eternal home, and the mourners have gone about the market:
 
 ## Isaiah 65:16
 - priority: `0`
@@ -64145,15 +64145,6 @@ Rows: 20937
 - mt: Let not mercy and truth forsake you: bind them about your neck; write them upon the table of yours heart:
 - brenton: Let not mercy and truth forsake thee; but bind them about thy neck:
 
-## Ecclesiastes 12:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.473`
-- fresh_brenton_ratio: `0.494`
-- fresh: Until silver cord is not overturned and flower of gold crushed and water jar broken at spring and wheel crushed upon pit.
-- mt: Before even the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
-- brenton: before the silver cord be let go, or the choice gold be broken, or the pitcher be broken at the fountain, or the wheel run down to the cistern;
-
 ## Proverbs 6:31
 - priority: `0`
 - importance: `none`
@@ -73766,15 +73757,6 @@ Rows: 20937
 - mt: The LORD called your name, A green olive tree, fair, and of goodly fruit: with the noise of a great tumult he has kindled fire upon it, and the branches of it are broken.
 - brenton: The Lord called thy name a fair olive tree, of a goodly shade in appearance, at the noise of its being lopped, fire was kindled against it; great is the affliction coming upon thee: her branches are become good for nothing.
 
-## Ecclesiastes 12:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.535`
-- fresh_brenton_ratio: `0.109`
-- fresh: and doors in market will be shut in weakness of sound of grinder, and he will rise at the sound of sparrow, and all daughters of song will be brought low.
-- mt: And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;
-- brenton: and they shall shut the doors in the market-place, because of the weakness of the voice of her that grinds at the mill; and he shall rise up at the voice of the sparrow, and all the daughters of song shall be brought low;
-
 ## Leviticus 4:4
 - priority: `0`
 - importance: `none`
@@ -77843,6 +77825,15 @@ Rows: 20937
 - mt: And he said, All of you have taken away my gods which I made, and the priest, and all of you are gone away: and what have I more? and what is this that all of you say unto me, What disturbs you?
 - brenton: And Michaias said, Because ye have taken my graven image which I made, and my priest, and are gone; and what have I remaining? and what is this that ye say to me, Why criest thou?
 
+## Ecclesiastes 12:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.555`
+- fresh_brenton_ratio: `0.587`
+- fresh: And beyond that, because the Ecclesiastes became wise, he still taught knowledge with the people, and his ear traced out ordered parables.
+- mt: And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.
+- brenton: And because the Preacher was wise above others, so it was that he taught man excellent knowledge, and the ear will trace out the parables.
+
 ## Deuteronomy 25:3
 - priority: `0`
 - importance: `none`
@@ -78040,6 +78031,15 @@ Rows: 20937
 - fresh: Let his possessions fail his sons; he will repay it to him, and he will know.
 - mt: God lays up his iniquity for his children: he rewards him, and he shall know it.
 - brenton: Let his substance fail to supply his children: God shall recompense him, and he shall know it.
+
+## Ecclesiastes 12:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.556`
+- fresh_brenton_ratio: `0.598`
+- fresh: Until the silver cord is not overturned and the flower of gold crushed and a water jar broken at the spring and the wheel crushed upon the pit.
+- mt: Before even the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
+- brenton: before the silver cord be let go, or the choice gold be broken, or the pitcher be broken at the fountain, or the wheel run down to the cistern;
 
 ## Job 37:8
 - priority: `0`
@@ -82837,15 +82837,6 @@ Rows: 20937
 - fresh: And yet look upon my petition, Lord God of Israel, to hear the delight with which your servant prays before you today,
 - mt: Yet have you respect unto the prayer of your servant, and to his supplication, O LORD my God, to hearken unto the cry and to the prayer, which your servant prays before you to day:
 - brenton: Yet, O Lord God of Israel, thou shalt look upon my petition, to hear the prayer which thy servant prays to thee in thy presence this day,
-
-## Ecclesiastes 12:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.579`
-- fresh_brenton_ratio: `0.582`
-- fresh: And beyond that, because Ecclesiastes became wise, he still taught knowledge with people, and his ear traced out ordered parables.
-- mt: And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.
-- brenton: And because the Preacher was wise above others, so it was that he taught man excellent knowledge, and the ear will trace out the parables.
 
 ## Hosea 8:6
 - priority: `0`
@@ -88921,15 +88912,6 @@ Rows: 20937
 - fresh: And he went away again into the camp. Thus he did for six days.
 - mt: And the second day they compassed the city once, and returned into the camp: so they did six days.
 - brenton: And all the rest of the multitude compassed the city six times from within a short distance, and went back again into the camp; this they did six days.
-
-## Ecclesiastes 12:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.603`
-- fresh_brenton_ratio: `0.528`
-- fresh: Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
-- mt: The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.
-- brenton: The Preacher sought diligently to find out acceptable words, and a correct writing, even words of truth.
 
 ## Nehemiah 7:54
 - priority: `0`
@@ -96959,6 +96941,15 @@ Rows: 20937
 - mt: And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god.
 - brenton: And it came to pass when Gedeon was dead, that the children of Israel turned, and went a whoring after Baalim, and made for themselves a covenant with Baal that he should be their god.
 
+## Ecclesiastes 12:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.631`
+- fresh_brenton_ratio: `0.558`
+- fresh: The Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
+- mt: The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.
+- brenton: The Preacher sought diligently to find out acceptable words, and a correct writing, even words of truth.
+
 ## Proverbs 10:8
 - priority: `0`
 - importance: `none`
@@ -97579,15 +97570,6 @@ Rows: 20937
 - fresh: And they saw the place where the God of Israel had stood. And under his feet was like the work of sapphire brick, and like the appearance of the firmament of heaven in purity.
 - mt: And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.
 - brenton: And they saw the place where the God of Israel stood; and under his feet was as it were a work of sapphire slabs, and as it were the appearance of the firmament of heaven in its purity.
-
-## Ecclesiastes 12:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.633`
-- fresh_brenton_ratio: `0.077`
-- fresh: In day whenever guards of the house will be shaken and men of strength twisted and grinders cease because they became few and those seeing through openings grow dark,
-- mt: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
-- brenton: in the day wherein the keepers of the house shall tremble, and the mighty men shall become bent, and the grinding women cease because they have become few, and the women looking out at the windows be dark;
 
 ## 1 Chronicles 15:27
 - priority: `0`
@@ -106499,6 +106481,15 @@ Rows: 20937
 - mt: And when your herds and your flocks multiply, and your silver and your gold is multiplied, and all that you have is multiplied;
 - brenton: and thy oxen and thy sheep are multiplied to thee, and thy silver and thy gold are multiplied to thee, and all thy possessions are multiplied to thee,
 
+## Ecclesiastes 12:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.660`
+- fresh_brenton_ratio: `0.713`
+- fresh: And remember the one who created you in the days of your youth, until the days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
+- mt: Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw nigh, when you shall say, I have no pleasure in them;
+- brenton: And remember thy Creator in the days of thy youth, before the days of evil come, and the years overtake thee in which thou shalt say, I have no pleasure in them.
+
 ## Genesis 38:15
 - priority: `0`
 - importance: `none`
@@ -110189,15 +110180,6 @@ Rows: 20937
 - mt: We got our bread with the peril of our lives because of the sword of the wilderness.
 - brenton: We shall bring in our bread with danger of our lives, because of the sword of the wilderness.
 
-## Ecclesiastes 12:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.671`
-- fresh_brenton_ratio: `0.706`
-- fresh: And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
-- mt: Remember now your Creator in the days of your youth, while the evil days come not, nor the years draw nigh, when you shall say, I have no pleasure in them;
-- brenton: And remember thy Creator in the days of thy youth, before the days of evil come, and the years overtake thee in which thou shalt say, I have no pleasure in them.
-
 ## Exodus 26:1
 - priority: `0`
 - importance: `none`
@@ -113473,15 +113455,6 @@ Rows: 20937
 - fresh: and to Janoah and Ataroth and their villages, and it will come to Jericho and come out to the Jordan.
 - mt: And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
 - brenton: and to Macho, and Ataroth, and these are their villages; and they will come to Jericho, and will issue at Jordan.
-
-## Ecclesiastes 12:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.680`
-- fresh_brenton_ratio: `0.796`
-- fresh: End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
-- mt: Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
-- brenton: Hear the end of the matter, the sum: Fear God, and keep his commandments: for this is the whole man.
 
 ## Exodus 24:14
 - priority: `0`
@@ -123734,6 +123707,15 @@ Rows: 20937
 - mt: In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus says the LORD, Set yours house in order: for you shall die, and not live.
 - brenton: And it came to pass at that time, that Ezekias was sick even to death. And Esaias the prophet the son of Amos came to him, and said to him, Thus saith the Lord, Give orders concerning thy house: for thou shalt die, and not live.
 
+## Ecclesiastes 12:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.706`
+- fresh_brenton_ratio: `0.093`
+- fresh: In the day whenever the guards of the house will be shaken and the men of strength twisted and the grinders cease because they became few and those seeing through the openings grow dark,
+- mt: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
+- brenton: in the day wherein the keepers of the house shall tremble, and the mighty men shall become bent, and the grinding women cease because they have become few, and the women looking out at the windows be dark;
+
 ## Genesis 1:21
 - priority: `0`
 - importance: `none`
@@ -129611,6 +129593,15 @@ Rows: 20937
 - mt: And that lord answered the man of God, and said, Now, behold, if the LORD should make windows in heaven, might such a thing be? And he said, Behold, you shall see it with yours eyes, but shall not eat thereof.
 - brenton: And the officer answered Elisaie, and said, Behold, if the Lord makes flood-gates in heaven, shall this thing be? and Elisaie said, Behold, thou shalt see it with thine eyes, but thou shalt not eat thereof.
 
+## Ecclesiastes 12:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.720`
+- fresh_brenton_ratio: `0.845`
+- fresh: The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man.
+- mt: Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
+- brenton: Hear the end of the matter, the sum: Fear God, and keep his commandments: for this is the whole man.
+
 ## Genesis 28:19
 - priority: `0`
 - importance: `none`
@@ -130582,15 +130573,6 @@ Rows: 20937
 - fresh: And they said to him, Thus says Hezekiah: This day is a day of affliction and rebuke and provocation, because sons came as far as birth pains and there is no strength for the woman giving birth.
 - mt: And they said unto him, Thus says Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.
 - brenton: And they said to him, Thus says Ezekias, This day is a day of tribulation, and rebuke, and provocation: for the children are come to the travail-pangs, but the mother has no strength.
-
-## Ecclesiastes 12:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.723`
-- fresh_brenton_ratio: `0.660`
-- fresh: Until sun and light and moon and stars are not darkened and clouds return after rain.
-- mt: While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
-- brenton: While the sun and light are not darkened, nor the moon and the stars; nor the clouds return after the rain:
 
 ## Genesis 49:8
 - priority: `0`
@@ -138269,15 +138251,6 @@ Rows: 20937
 - mt: In that day, says the LORD of hosts, will I take you, O Zerubbabel, my servant, the son of Shealtiel, says the LORD, and will make you as a signet: for I have chosen you, says the LORD of hosts.
 - brenton: In that day, saith the Lord Almighty, I will take thee, O Zorobabel, the son of Salathiel, my servant, saith the Lord, and will make thee as a seal: for I have chosen thee, saith the Lord Almighty.
 
-## Ecclesiastes 12:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.742`
-- fresh_brenton_ratio: `0.784`
-- fresh: Vanity of vanities, said Ecclesiastes; all vanity.
-- mt: Vanity of vanities, says the preacher; all is vanity.
-- brenton: Vanity of vanities, said the Preacher; all is vanity.
-
 ## Leviticus 25:36
 - priority: `0`
 - importance: `none`
@@ -141886,6 +141859,15 @@ Rows: 20937
 - fresh: Faithful witness does not lie, but unjust witness kindles lies.
 - mt: A faithful witness will not lie: but a false witness will utter lies.
 - brenton: A faithful witness does not lie; but an unjust witness kindles falsehoods.
+
+## Ecclesiastes 12:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.165`
+- fresh: and doors in the market will be shut in the weakness of the sound of the grinder, and he will rise at the sound of the sparrow, and all daughters of song will be brought low.
+- mt: And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;
+- brenton: and they shall shut the doors in the market-place, because of the weakness of the voice of her that grinds at the mill; and he shall rise up at the voice of the sparrow, and all the daughters of song shall be brought low;
 
 ## Leviticus 21:10
 - priority: `0`
@@ -155567,15 +155549,6 @@ Rows: 20937
 - mt: And you shall make fifty clasps of gold, and couple the curtains together with the clasps: and it shall be one tabernacle.
 - brenton: And thou shalt make fifty golden rings; and thou shalt join the curtains to each other with the rings, and it shall be one tabernacle.
 
-## Ecclesiastes 12:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.786`
-- fresh_brenton_ratio: `0.744`
-- fresh: My son, beware to make many books, there is no end, and much study is weariness of flesh.
-- mt: And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
-- brenton: And moreover, my son, guard thyself by means of them: of making many books there is no end; and much study is a weariness of the flesh.
-
 ## Leviticus 13:26
 - priority: `0`
 - importance: `none`
@@ -155638,15 +155611,6 @@ Rows: 20937
 - fresh: And the rest of the matters of Baasha and all that he did and his acts of power, behold, are these not written in the Book of the Matters of the Days of the kings of Israel?
 - mt: Now the rest of the acts of Baasha, and what he did, and his might, are they not written in the book of the chronicles of the kings of Israel?
 - brenton: Now the rest of the history of Baasa, and all that he did, and his mighty acts, behold, are not these written in the book of the chronicles of the kings of Israel?
-
-## Ecclesiastes 12:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.786`
-- fresh_brenton_ratio: `0.807`
-- fresh: And dust returns upon earth as it was, and spirit returns to God who gave it.
-- mt: Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
-- brenton: before the dust also return to the earth as it was, and the spirit return to God who gave it.
 
 ## Exodus 27:18
 - priority: `0`
@@ -165962,6 +165926,15 @@ Rows: 20937
 - mt: If a man or woman have a plague upon the head or the beard;
 - brenton: And if a man or a woman have in them a plague of leprosy in the head or the beard;
 
+## Ecclesiastes 12:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.817`
+- fresh_brenton_ratio: `0.774`
+- fresh: My son, beware of making many books; there is no end, and much study is weariness of flesh.
+- mt: And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
+- brenton: And moreover, my son, guard thyself by means of them: of making many books there is no end; and much study is a weariness of the flesh.
+
 ## Zechariah 5:5
 - priority: `0`
 - importance: `none`
@@ -168886,6 +168859,15 @@ Rows: 20937
 - fresh: And the king of the Assyrians sent Rabshakeh from Lachish into Jerusalem to King Hezekiah with much force, and he stood by conduit of upper pool on the road of fuller's field.
 - mt: And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the launderer's field.
 - brenton: And the king of the Assyrians sent Rabsaces out of Laches to Jerusalem to king Ezekias with a large force: and he stood by the conduit of the upper pool in the way of the fuller's field.
+
+## Ecclesiastes 12:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.827`
+- fresh_brenton_ratio: `0.865`
+- fresh: Vanity of vanities, said the Ecclesiastes; all is vanity.
+- mt: Vanity of vanities, says the preacher; all is vanity.
+- brenton: Vanity of vanities, said the Preacher; all is vanity.
 
 ## Leviticus 8:17
 - priority: `0`
@@ -178013,6 +177995,15 @@ Rows: 20937
 - mt: And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.
 - brenton: And the Lord shall be king over all the earth: in that day there shall be one Lord, and his name one,
 
+## Ecclesiastes 12:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.865`
+- fresh_brenton_ratio: `0.888`
+- fresh: And the dust returns upon the earth as it was, and the spirit returns to God who gave it.
+- mt: Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
+- brenton: before the dust also return to the earth as it was, and the spirit return to God who gave it.
+
 ## Numbers 10:15
 - priority: `0`
 - importance: `none`
@@ -178516,6 +178507,15 @@ Rows: 20937
 - fresh: On the ninth day of the month, famine became strong in the city, and there was no bread for the people of the land.
 - mt: And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land.
 - brenton: And the famine prevailed in the city, and there was no bread for the people of the land.
+
+## Ecclesiastes 12:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.868`
+- fresh_brenton_ratio: `0.792`
+- fresh: Until the sun and the light and the moon and the stars are not darkened and the clouds return after the rain.
+- mt: While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:
+- brenton: While the sun and light are not darkened, nor the moon and the stars; nor the clouds return after the rain:
 
 ## 1 Chronicles 1:33
 - priority: `0`

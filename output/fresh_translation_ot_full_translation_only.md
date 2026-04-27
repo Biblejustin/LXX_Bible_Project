@@ -70860,43 +70860,43 @@ And remove anger from your heart and put evil from your flesh, because youth and
 
 **Ecclesiastes 12:1**
 
-And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
+And remember the one who created you in the days of your youth, until the days of evil do not come and years arrive in which you will say, "There is no delight for me in them."
 
 **Ecclesiastes 12:2**
 
-Until sun and light and moon and stars are not darkened and clouds return after rain.
+Until the sun and the light and the moon and the stars are not darkened and the clouds return after the rain.
 
 **Ecclesiastes 12:3**
 
-In day whenever guards of the house will be shaken and men of strength twisted and grinders cease because they became few and those seeing through openings grow dark,
+In the day whenever the guards of the house will be shaken and the men of strength twisted and the grinders cease because they became few and those seeing through the openings grow dark,
 
 **Ecclesiastes 12:4**
 
-and doors in market will be shut in weakness of sound of grinder, and he will rise at the sound of sparrow, and all daughters of song will be brought low.
+and doors in the market will be shut in the weakness of the sound of the grinder, and he will rise at the sound of the sparrow, and all daughters of song will be brought low.
 
 **Ecclesiastes 12:5**
 
-And indeed they will look from height and terrors in road, and almond will blossom and locust will grow fat and caperberry will be scattered, because man went to the house of his age, and mourners circled in market.
+And indeed they will look from a height and terrors will be in the road, and the almond will blossom and the locust will grow fat and the caperberry will be scattered, because a man went to the house of his age, and mourners circled in the market.
 
 **Ecclesiastes 12:6**
 
-Until silver cord is not overturned and flower of gold crushed and water jar broken at spring and wheel crushed upon pit.
+Until the silver cord is not overturned and the flower of gold crushed and a water jar broken at the spring and the wheel crushed upon the pit.
 
 **Ecclesiastes 12:7**
 
-And dust returns upon earth as it was, and spirit returns to God who gave it.
+And the dust returns upon the earth as it was, and the spirit returns to God who gave it.
 
 **Ecclesiastes 12:8**
 
-Vanity of vanities, said Ecclesiastes; all vanity.
+Vanity of vanities, said the Ecclesiastes; all is vanity.
 
 **Ecclesiastes 12:9**
 
-And beyond that, because Ecclesiastes became wise, he still taught knowledge with people, and his ear traced out ordered parables.
+And beyond that, because the Ecclesiastes became wise, he still taught knowledge with the people, and his ear traced out ordered parables.
 
 **Ecclesiastes 12:10**
 
-Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
+The Ecclesiastes sought much to find words of delight, and written uprightness, the words of truth.
 
 **Ecclesiastes 12:11**
 
@@ -70904,11 +70904,11 @@ The words of the wise are as goads, and as nails planted, those from gatherings 
 
 **Ecclesiastes 12:12**
 
-My son, beware to make many books, there is no end, and much study is weariness of flesh.
+My son, beware of making many books; there is no end, and much study is weariness of flesh.
 
 **Ecclesiastes 12:13**
 
-End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
+The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man.
 
 **Ecclesiastes 12:14**
 

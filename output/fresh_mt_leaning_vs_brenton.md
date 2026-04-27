@@ -1,6 +1,6 @@
 # Fresh MT-Leaning vs Brenton
 
-Rows: 723
+Rows: 724
 
 ## 2 Chronicles 6:14
 - priority: `24`
@@ -784,6 +784,15 @@ Rows: 723
 - fresh: Fifty loops you shall make on the one curtain, and fifty loops on the part of the curtain at the coupling of the second, matching one another.
 - mt: Fifty loops shall you make in the one curtain, and fifty loops shall you make in the edge of the curtain that is in the coupling of the second; that the loops may take hold one of another.
 - brenton: Fifty loops shalt thou make for one curtain, and fifty loops shalt thou make on the part of the curtain answering to the coupling of the second, opposite each other, corresponding to each other at each point.
+
+## Ecclesiastes 12:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.165`
+- fresh: and doors in the market will be shut in the weakness of the sound of the grinder, and he will rise at the sound of the sparrow, and all daughters of song will be brought low.
+- mt: And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of music shall be brought low;
+- brenton: and they shall shut the doors in the market-place, because of the weakness of the voice of her that grinds at the mill; and he shall rise up at the voice of the sparrow, and all the daughters of song shall be brought low;
 
 ## Exodus 34:1
 - priority: `0`

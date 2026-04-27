@@ -169,7 +169,7 @@ Rows: 233
 - NT crossrefs: 3
 - shared-family hits: 0
 - fresh: And God formed the human from the dust of the earth and breathed into his face the breath of life, and the human became a living soul.
-- OT clues: Eccl.12.7 (41) -> And dust returns upon earth as it was, and spirit returns to God who gave it. || Job.33.4 (41) -> Divine spirit made me, and breath of Almighty teaches me. || Isa.64.8 (34) -> Do not be very angry with us and do not remember our sins in season. And now look, because we all your people. || Job.27.3 (21) -> as long as my breath is still in me and divine spirit in my nostrils,
+- OT clues: Eccl.12.7 (41) -> And the dust returns upon the earth as it was, and the spirit returns to God who gave it. || Job.33.4 (41) -> Divine spirit made me, and breath of Almighty teaches me. || Isa.64.8 (34) -> Do not be very angry with us and do not remember our sins in season. And now look, because we all your people. || Job.27.3 (21) -> as long as my breath is still in me and divine spirit in my nostrils,
 - NT clues: 1Cor.15.45 (40) -> And so it is written, The first man Adam was made a living soul; the last Adam was made a life-giving spirit. (o. pneuma) || Acts.17.25 (27) -> Neither is worshipped with men's hands, as though he needed any thing, seeing he gives to all life, and breath, and all things; || 1Cor.15.47 (24) -> The first man is of the earth, earthy; the second man is the Lord from heaven.
 
 ## Isaiah 12:2
@@ -623,7 +623,7 @@ Rows: 233
 - NT crossrefs: 3
 - shared-family hits: 0
 - fresh: Rejoice, young man, in your youth, and let your heart do you good in the days of your youth, and walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you in judgment.
-- OT clues: Eccl.12.14 (45) -> Because with every work God will bring into judgment, with every overlooked thing, whether good or whether evil. || Eccl.12.1 (28) -> And remember one who created you in the days of your youth, until days of evil do not come and years arrive in which you will say, "There is no delight for me in them." || Eccl.3.17 (23) -> I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work." || Lam.3.27 (23) -> Good for man when he bears yoke in his youth.
+- OT clues: Eccl.12.14 (45) -> Because with every work God will bring into judgment, with every overlooked thing, whether good or whether evil. || Eccl.12.1 (28) -> And remember the one who created you in the days of your youth, until the days of evil do not come and years arrive in which you will say, "There is no delight for me in them." || Eccl.3.17 (23) -> I said in my heart, "The righteous and the ungodly God will judge, because there is a season for every matter and over every work." || Lam.3.27 (23) -> Good for man when he bears yoke in his youth.
 - NT clues: 1John.2.15-1John.2.16 (35) -> Love not the world, neither the things that are in the world. If any man love the world, the love (o. agape) of the Father is not in him. || 2Cor.5.10 (20) -> For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he has done, whether it be good or bad. || Heb.9.27 (9) -> And as it is appointed unto men once to die, but after this the judgment:
 
 ## Exodus 14:13
@@ -942,7 +942,7 @@ Rows: 233
 - NT crossrefs: 1
 - shared-family hits: 0
 - fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
-- OT clues: Eccl.12.13 (13) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
+- OT clues: Eccl.12.13 (13) -> The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
 - NT clues: Matt.12.36 (13) -> But I say unto you, That every idle word (o. rhema) that men shall speak, they shall give account (o. logos) thereof in the day of judgment.
 
 ## Ezekiel 39:25
@@ -1400,7 +1400,7 @@ Rows: 233
 - NT crossrefs: 2
 - shared-family hits: 0
 - fresh: The beginning of wisdom is the fear of the Lord, and the counsel of holy ones is understanding. For knowing law belongs to good mind.
-- OT clues: Ps.111.10 (72) -> The sinner will see and be angry; he will gnash his teeth and melt away; the desire of sinners will perish. || Job.28.28 (61) -> And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding. || Prov.1.7 (51) -> The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline. || Eccl.12.13 (41) -> End of matter, all is heard: fear God and keep his commandments, because this is the whole man.
+- OT clues: Ps.111.10 (72) -> The sinner will see and be angry; he will gnash his teeth and melt away; the desire of sinners will perish. || Job.28.28 (61) -> And he said to man, Behold, godliness is wisdom, and to abstain from evils is understanding. || Prov.1.7 (51) -> The beginning of wisdom is fear of God; good understanding for all doing it; piety toward God beginning of perception, but the ungodly will despise wisdom and discipline. || Eccl.12.13 (41) -> The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man.
 - NT clues: John.17.3 (21) -> And this is life eternal, that they might know you the only true God, and Jesus Christ, whom you have sent. || 1John.5.20 (20) -> And we know that the Son of God has come, and has given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 
 ## Psalms 24:1
