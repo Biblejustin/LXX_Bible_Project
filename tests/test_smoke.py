@@ -5997,6 +5997,56 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Isaiah 40:17"]["draft_translation"].startswith(
         "And all the nations"
     )
+    assert "liken the Lord" in by_ref["Isaiah 40:18"]["draft_translation"]
+    assert "a craftsman make an image" in by_ref["Isaiah 40:19"][
+        "draft_translation"
+    ]
+    assert "construct a likeness" in by_ref["Isaiah 40:19"][
+        "draft_translation"
+    ]
+    assert "a craftsman wisely seeks" in by_ref["Isaiah 40:20"][
+        "draft_translation"
+    ]
+    assert "the foundations of the earth" in by_ref["Isaiah 40:21"][
+        "draft_translation"
+    ]
+    assert "The one holding the circuit of the earth" in by_ref[
+        "Isaiah 40:22"
+    ]["draft_translation"]
+    assert "heaven as a vault" in by_ref["Isaiah 40:22"][
+        "draft_translation"
+    ]
+    assert "made the earth as nothing" in by_ref["Isaiah 40:23"][
+        "draft_translation"
+    ]
+    assert "take root in the earth" in by_ref["Isaiah 40:24"][
+        "draft_translation"
+    ]
+    assert "a storm will take them up" in by_ref["Isaiah 40:24"][
+        "draft_translation"
+    ]
+    assert "Lift your eyes on high" in by_ref["Isaiah 40:26"][
+        "draft_translation"
+    ]
+    assert "the one bringing out his array" in by_ref["Isaiah 40:26"][
+        "draft_translation"
+    ]
+    assert "The eternal God" in by_ref["Isaiah 40:28"][
+        "draft_translation"
+    ]
+    assert "the God who prepared the ends of the earth" in by_ref[
+        "Isaiah 40:28"
+    ]["draft_translation"]
+    assert "the hungry ones" in by_ref["Isaiah 40:29"]["draft_translation"]
+    assert "the young men will hunger" in by_ref["Isaiah 40:30"][
+        "draft_translation"
+    ]
+    assert "the chosen youths" in by_ref["Isaiah 40:30"][
+        "draft_translation"
+    ]
+    assert "grow wings like eagles" in by_ref["Isaiah 40:31"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

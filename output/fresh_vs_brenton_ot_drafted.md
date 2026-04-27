@@ -164598,64 +164598,64 @@ Note:
 ### Isaiah 40:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom did you liken Lord, and to what likeness did you liken him?
+- fresh: To whom did you liken the Lord, and to what likeness did you liken him?
 - brenton: To whom have ye compared the Lord? and with what likeness have ye compared him?
 
 ### Isaiah 40:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did not craftsman make image, or goldsmith having melted gold gilded it and construct likeness?
+- fresh: Did not a craftsman make an image, or a goldsmith having melted gold gilded it and construct a likeness?
 - brenton: Has not the artificer made an image, or the goldsmith having melted gold, gilt it over, and made it a similitude?
 
 ### Isaiah 40:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it not be shaken.
+- fresh: For incorrupt wood is chosen; a craftsman wisely seeks how to set his image so it not be shaken.
 - brenton: For the artificer chooses out a wood that will not rot, and will wisely enquire how he shall set up his image, and that so that it should not be moved.
 
 ### Isaiah 40:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of the earth?
+- fresh: Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know the foundations of the earth?
 - brenton: Will ye not know? will ye not hear? has it not been told you of old? Have ye not known the foundations of the earth?
 
 ### Isaiah 40:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One holding circuit of earth, and those dwelling in it as locusts, one setting heaven as vault and stretching it as a tent to dwell in,
+- fresh: The one holding the circuit of the earth, and those dwelling in it as locusts, the one setting heaven as a vault and stretching it as a tent to dwell in,
 - brenton: It is he that comprehends the circle of the earth, and the inhabitants in it are as grasshoppers; he that set up the heaven as a chamber, and stretched it out as a tent to dwell in:
 
 ### Isaiah 40:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: one giving rulers to rule into nothing, and made earth as nothing.
+- fresh: the one giving rulers to rule into nothing, and made the earth as nothing.
 - brenton: he that appoints princes to rule as nothing, and has made the earth as nothing.
 
 ### Isaiah 40:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they certainly will not sow, nor plant, nor their root certainly take root into earth; he breathed upon them and they dried up, and storm will take them up as brushwood.
+- fresh: For they certainly will not sow, nor plant, nor their root certainly take root in the earth; he breathed upon them and they dried up, and a storm will take them up as brushwood.
 - brenton: For they shall not plant, neither shall they sow, neither shall their root be fixed in the ground: he has blown upon them, and they are withered, and a storm shall carry them away like sticks.
 
 ### Isaiah 40:25
@@ -164670,10 +164670,10 @@ Note:
 ### Isaiah 40:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lift eyes on high and see who showed all these, one bringing out his array by number; he will call all by name. From much glory and strength of power nothing escaped you.
+- fresh: Lift your eyes on high and see who showed all these, the one bringing out his array by number; he will call all by name. From much glory and strength of power nothing escaped you.
 - brenton: Lift up your eyes on high, and see, who has displayed all these things? even he that brings forth his host by number: he shall call them all by name by means of his great glory, and by the power of his might: nothing has escaped thee.
 
 ### Isaiah 40:27
@@ -164688,37 +164688,37 @@ Note:
 ### Isaiah 40:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
+- fresh: And now did you not know? Did you not hear? The eternal God, the God who prepared the ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 - brenton: And now, hast thou not known? hast thou not heard? the eternal God, the God that formed the ends of the earth, shall not hunger, nor be weary, and there is no searching of his understanding.
 
 ### Isaiah 40:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Giving strength to hungry ones and grief to those not pained.
+- fresh: Giving strength to the hungry ones and grief to those not pained.
 - brenton: He gives strength to the hungry, and sorrow to them that are not suffering.
 
 ### Isaiah 40:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For young men will hunger and grow weary, and chosen youths will be weak.
+- fresh: For the young men will hunger and grow weary, and the chosen youths will be weak.
 - brenton: For the young men shall hunger, and the youths shall be weary, and the choice men shall be powerless:
 
 ### Isaiah 40:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But those enduring for God will change strength, they will grow wings as eagles, they will run and not grow weary, they will walk and not hunger.
+- fresh: But those enduring for God will change strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
 - brenton: but they that wait on God shall renew their strength; they shall put forth new feathers like eagles; they shall run, and not be weary; they shall walk, and not hunger.
 
 ### Isaiah 41:1

@@ -74612,31 +74612,31 @@ And all the nations are as nothing and were reckoned into nothing.
 
 **Isaiah 40:18**
 
-To whom did you liken Lord, and to what likeness did you liken him?
+To whom did you liken the Lord, and to what likeness did you liken him?
 
 **Isaiah 40:19**
 
-Did not craftsman make image, or goldsmith having melted gold gilded it and construct likeness?
+Did not a craftsman make an image, or a goldsmith having melted gold gilded it and construct a likeness?
 
 **Isaiah 40:20**
 
-For incorrupt wood is chosen; craftsman wisely seeks how to set his image so it not be shaken.
+For incorrupt wood is chosen; a craftsman wisely seeks how to set his image so it not be shaken.
 
 **Isaiah 40:21**
 
-Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know foundations of the earth?
+Will you not know? Will you not hear? Was it not announced to you from the beginning? Did you not know the foundations of the earth?
 
 **Isaiah 40:22**
 
-One holding circuit of earth, and those dwelling in it as locusts, one setting heaven as vault and stretching it as a tent to dwell in,
+The one holding the circuit of the earth, and those dwelling in it as locusts, the one setting heaven as a vault and stretching it as a tent to dwell in,
 
 **Isaiah 40:23**
 
-one giving rulers to rule into nothing, and made earth as nothing.
+the one giving rulers to rule into nothing, and made the earth as nothing.
 
 **Isaiah 40:24**
 
-For they certainly will not sow, nor plant, nor their root certainly take root into earth; he breathed upon them and they dried up, and storm will take them up as brushwood.
+For they certainly will not sow, nor plant, nor their root certainly take root in the earth; he breathed upon them and they dried up, and a storm will take them up as brushwood.
 
 **Isaiah 40:25**
 
@@ -74644,7 +74644,7 @@ Now then to whom did you liken me, that I shall be exalted, said the Holy One.
 
 **Isaiah 40:26**
 
-Lift eyes on high and see who showed all these, one bringing out his array by number; he will call all by name. From much glory and strength of power nothing escaped you.
+Lift your eyes on high and see who showed all these, the one bringing out his array by number; he will call all by name. From much glory and strength of power nothing escaped you.
 
 **Isaiah 40:27**
 
@@ -74652,19 +74652,19 @@ So do not say, Jacob, and what did you speak, Israel? My way was hidden from God
 
 **Isaiah 40:28**
 
-And now did you not know? Did you not hear? Eternal God, God who prepared ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
+And now did you not know? Did you not hear? The eternal God, the God who prepared the ends of the earth, will not hunger nor grow weary, nor is there finding out of his wisdom.
 
 **Isaiah 40:29**
 
-Giving strength to hungry ones and grief to those not pained.
+Giving strength to the hungry ones and grief to those not pained.
 
 **Isaiah 40:30**
 
-For young men will hunger and grow weary, and chosen youths will be weak.
+For the young men will hunger and grow weary, and the chosen youths will be weak.
 
 **Isaiah 40:31**
 
-But those enduring for God will change strength, they will grow wings as eagles, they will run and not grow weary, they will walk and not hunger.
+But those enduring for God will change strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
 
 ### Chapter 41
 
