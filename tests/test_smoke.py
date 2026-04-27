@@ -3521,7 +3521,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "a wolf will graze together with a lamb" in by_ref["Isaiah 11:6"][
         "draft_translation"
     ]
-    assert by_ref["Isaiah 19:3"]["draft_translation"].startswith("And the spirit of Egyptians")
+    assert by_ref["Isaiah 19:3"]["draft_translation"].startswith(
+        "And the spirit of the Egyptians"
+    )
     assert by_ref["Isaiah 61:1"]["draft_translation"].startswith("The Spirit of the Lord on me")
     assert by_ref["Jeremiah 4:12"]["draft_translation"].startswith("The spirit of fullness")
     assert by_ref["Ezekiel 11:5"]["draft_translation"].startswith("And the Spirit of the Lord fell")
@@ -4917,6 +4919,40 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the birds of heaven and the beasts of the earth" in by_ref[
         "Isaiah 18:6"
     ]["draft_translation"]
+    assert by_ref["Isaiah 19:1"]["draft_translation"].startswith(
+        "A vision of Egypt"
+    )
+    assert "on a swift cloud" in by_ref["Isaiah 19:1"]["draft_translation"]
+    assert "the spirit of the Egyptians" in by_ref["Isaiah 19:3"][
+        "draft_translation"
+    ]
+    assert "water from the sea" in by_ref["Isaiah 19:5"]["draft_translation"]
+    assert "the green rush" in by_ref["Isaiah 19:7"]["draft_translation"]
+    assert "the princes of Zoan" in by_ref["Isaiah 19:11"]["draft_translation"]
+    assert "a spirit of wandering" in by_ref["Isaiah 19:14"][
+        "draft_translation"
+    ]
+    assert "the land of the Jews" in by_ref["Isaiah 19:17"]["draft_translation"]
+    assert "an altar to the Lord" in by_ref["Isaiah 19:19"]["draft_translation"]
+    assert "the Egyptians will know the Lord" in by_ref["Isaiah 19:21"][
+        "draft_translation"
+    ]
+    assert "a way from Egypt to the Assyrians" in by_ref["Isaiah 19:23"][
+        "draft_translation"
+    ]
+    assert "Blessed is my people" in by_ref["Isaiah 19:25"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 20:1"]["draft_translation"].startswith("In the year")
+    assert "sent by Sargon king of the Assyrians" in by_ref["Isaiah 20:1"][
+        "draft_translation"
+    ]
+    assert "the sackcloth off your waist" in by_ref["Isaiah 20:2"][
+        "draft_translation"
+    ]
+    assert "the king of the Assyrians will lead the captivity" in by_ref[
+        "Isaiah 20:4"
+    ]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
@@ -5100,7 +5136,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Psalms 67:16"]["draft_translation"].startswith("The mountain of God")
     assert by_ref["Psalms 113:17"]["draft_translation"].startswith("The house of Israel hoped")
     assert by_ref["Isaiah 6:10"]["draft_translation"].startswith("For the heart of this people")
-    assert by_ref["Isaiah 19:17"]["draft_translation"].startswith("And the land of Jews")
+    assert by_ref["Isaiah 19:17"]["draft_translation"].startswith(
+        "And the land of the Jews"
+    )
     assert by_ref["Isaiah 52:8"]["draft_translation"].startswith("Because the voice of your watchmen")
     assert by_ref["Jeremiah 27:43"]["draft_translation"].startswith("The king of Babylon heard")
     assert by_ref["Jeremiah 33:24"]["draft_translation"].startswith("But the hand of Ahikam")

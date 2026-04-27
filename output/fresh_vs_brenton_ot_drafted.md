@@ -160701,28 +160701,28 @@ Note:
 ### Isaiah 19:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of Egypt: Behold, the Lord sits on swift cloud and will come into Egypt, and handmade things of Egypt will be shaken from before him and their heart will be defeated within them.
+- fresh: A vision of Egypt: Behold, the Lord sits on a swift cloud and will come into Egypt, and the handmade things of Egypt will be shaken from before him and their heart will be defeated within them.
 - brenton: The Vision of Egypt.
 
 ### Isaiah 19:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Egyptians will rise against Egyptians, and man will war with his brother and man with his neighbor, city against city and law against law.
+- fresh: And the Egyptians will rise against Egyptians, and a man will war with his brother and a man with his neighbor, city against city and law against law.
 - brenton: And the Egyptians shall be stirred up against the Egyptians: and a man shall fight against his brother, and a man against his neighbour, city against city, and law against law.
 
 ### Isaiah 19:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the spirit of Egyptians will be troubled within them, and I will scatter their counsel, and they will ask their gods and their carved images and those speaking from earth and ventriloquists.
+- fresh: And the spirit of the Egyptians will be troubled within them, and I will scatter their counsel, and they will ask their gods and their carved images and those speaking from the earth and the ventriloquists.
 - brenton: And the spirit of the Egyptians shall be troubled within them; and I will frustrate their counsel: and they shall enquire of their gods and their images, and them that speak out of the earth, and them that have in them a divining spirit.
 
 ### Isaiah 19:4
@@ -160737,46 +160737,46 @@ Note:
 ### Isaiah 19:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Egyptians will drink water from sea, and river will fail and dry up.
+- fresh: And the Egyptians will drink water from the sea, and the river will fail and dry up.
 - brenton: And the Egyptians shall drink the water that is by the sea, but the river shall fail, and be dried up.
 
 ### Isaiah 19:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rivers will fail, and channels of the river, and every collection of water will dry up, and in every marsh reed and papyrus.
+- fresh: And the rivers will fail, and the channels of the river, and every collection of water will dry up, and every marsh of reed and papyrus.
 - brenton: And the streams shall fail, and the canals of the river; and every reservoir of water shall be dried up, in every marsh also of reed and papyrus.
 
 ### Isaiah 19:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And green rush, all around river, and everything sown by the river will dry up, wind-blasted.
+- fresh: And the green rush, all around the river, and everything sown by the river will dry up, wind-blasted.
 - brenton: And all the green herbage round about the river, and everything sown by the side of the river, shall be blasted with the wind and dried up.
 
 ### Isaiah 19:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And fishermen will groan, and all casting hook into the river will groan, and those throwing drag-nets and casting nets will mourn.
+- fresh: And the fishermen will groan, and all casting a hook into the river will groan, and those throwing drag-nets and casting nets will mourn.
 - brenton: And the fishermen shall groan, and all that cast a hook into the river shall groan; they also that cast nets, and the anglers shall mourn.
 
 ### Isaiah 19:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And shame will seize those working split flax and those working fine linen.
+- fresh: And shame will seize those working the split flax and those working the fine linen.
 - brenton: And shame shall come upon them that work fine flax, and them that make fine linen.
 
 ### Isaiah 19:10
@@ -160791,10 +160791,10 @@ Note:
 ### Isaiah 19:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And princes of Zoan will be fools, wise counselors of the king; their counsel will be made foolish. How will you say to the king, We are sons of wise men, sons of ancient kings?
+- fresh: And the princes of Zoan will be fools, the wise counselors of the king; their counsel will be made foolish. How will you say to the king, We are sons of wise men, sons of ancient kings?
 - brenton: And the princes of Tanis shall be fools: as for the king's wise counsellors, their counsel shall be turned into folly: how will ye say to the king, We are sons of wise men, sons of ancient kings?
 
 ### Isaiah 19:12
@@ -160818,37 +160818,37 @@ Note:
 ### Isaiah 19:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the Lord mixed in them spirit of wandering, and they led Egypt astray in all their works, as drunk man and vomiting man wander together.
+- fresh: For the Lord mixed in them a spirit of wandering, and they led Egypt astray in all their works, as a drunk man and a vomiting man wander together.
 - brenton: For the Lord has prepared for them a spirit of error, and they have caused Egypt to err in all their works, as one staggers who is drunken and vomits also.
 
 ### Isaiah 19:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will not be for Egyptians work which head and tail, beginning and end, will do.
+- fresh: And there will not be for the Egyptians a work which head and tail, beginning and end, will do.
 - brenton: And there shall be no work to the Egyptians, which shall make head or tail, or beginning or end.
 
 ### Isaiah 19:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Egyptians will be as women, in fear and trembling from the face of the hand of the Lord of hosts which he himself lays upon them.
+- fresh: In that day the Egyptians will be as women, in fear and trembling from the face of the hand of the Lord of hosts which he himself lays upon them.
 - brenton: But in that day the Egyptians shall be as women, in fear and in trembling because of the hand of the Lord of hosts, which he shall bring upon them.
 
 ### Isaiah 19:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the land of Jews will be terror to Egyptians; whoever names it to them, they will fear because of counsel which the Lord has counseled against it.
+- fresh: And the land of the Jews will be a terror to the Egyptians; whoever names it to them, they will fear because of the counsel which the Lord has counseled against it.
 - brenton: And the land of the Jews shall be for a terror to the Egyptians: whosoever shall name it to them, they shall fear, because of the counsel which the Lord of hosts has purposed concerning it.
 
 ### Isaiah 19:18
@@ -160863,109 +160863,109 @@ Note:
 ### Isaiah 19:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day there will be altar to the Lord in the land of Egyptians and pillar to the Lord by its border.
+- fresh: In that day there will be an altar to the Lord in the land of the Egyptians and a pillar to the Lord by its border.
 - brenton: In that day there shall be an altar to the Lord in the land of the Egyptians, and a pillar to the Lord by its border.
 
 ### Isaiah 19:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be for sign forever to the Lord in the land of Egypt, because they will cry to the Lord because of those afflicting them, and the Lord will send them man who will save them; by judging he will save them.
+- fresh: And it will be for a sign forever to the Lord in the land of Egypt, because they will cry to the Lord because of those afflicting them, and the Lord will send them a man who will save them; by judging he will save them.
 - brenton: And it shall be for a sign to the Lord for ever in the land of Egypt: for they shall presently cry to the Lord by reason of them that afflict them, and he shall send them a man who shall save them; he shall judge and save them.
 
 ### Isaiah 19:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will be known to Egyptians, and Egyptians will know Lord in that day, and they will make sacrifices and vow vows to the Lord and pay them.
+- fresh: And the Lord will be known to the Egyptians, and the Egyptians will know the Lord in that day, and they will make sacrifices and vow vows to the Lord and pay them.
 - brenton: And the Lord shall be known to the Egyptians, and the Egyptians shall know the Lord in that day; and they shall offer sacrifices, and shall vow vows to the Lord, and pay them.
 
 ### Isaiah 19:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will strike Egyptians with great blow and heal them; he will heal, and they will turn to the Lord, and he will hear them and heal them.
+- fresh: And the Lord will strike the Egyptians with a great blow and heal them; he will heal, and they will turn to the Lord, and he will hear them and heal them.
 - brenton: And the Lord shall smite the Egyptians with a stroke, and shall completely heal them: and they shall return to the Lord, and he shall hear them, and thoroughly heal them.
 
 ### Isaiah 19:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day there will be way from Egypt to Assyrians, and Assyrians will enter Egypt and Egyptians will go to Assyrians, and Egyptians will serve Assyrians.
+- fresh: In that day there will be a way from Egypt to the Assyrians, and the Assyrians will enter Egypt and the Egyptians will go to the Assyrians, and the Egyptians will serve the Assyrians.
 - brenton: In that day there shall be a way from Egypt to the Assyrians, and the Assyrians shall enter into Egypt, and the Egyptians shall go to the Assyrians, and the Egyptians shall serve the Assyrians.
 
 ### Isaiah 19:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day Israel will be third among Assyrians and Egyptians, blessed in the land
+- fresh: In that day Israel will be third among the Assyrians and the Egyptians, blessed in the land
 - brenton: In that day shall Israel be third with the Egyptians and the Assyrians, blessed in the land which the Lord of hosts has blessed,
 
 ### Isaiah 19:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: which the Lord of hosts blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
+- fresh: which the Lord of hosts blessed, saying, Blessed is my people in Egypt, and among the Assyrians, and my inheritance, Israel.
 - brenton: saying, Blessed be my people that is in Egypt, and that is among the Assyrians, and Israel mine inheritance.
 
 ### Isaiah 20:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In year Tartan entered into Ashdod, when sent by Sargon king of the Assyrians, and he warred against Ashdod and captured it,
+- fresh: In the year Tartan entered into Ashdod, when he was sent by Sargon king of the Assyrians, and he warred against Ashdod and captured it,
 - brenton: In the year when Tanathan came to Azotus, when he was sent by Arna king of the Assyrians, and warred against Azotus, and took it;
 
 ### Isaiah 20:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: then the Lord spoke to Isaiah, saying, Go and take sackcloth off your waist and loosen sandals from your feet. And he did so, walking naked and barefoot.
+- fresh: then the Lord spoke to Isaiah, saying, Go and take the sackcloth off your waist and loosen the sandals from your feet. And he did so, walking naked and barefoot.
 - brenton: then the Lord spoke to Esaias the son of Amos, saying, Go and take the sackcloth off thy loins, and loose thy sandals from off thy feet, and do thus, going naked and barefoot.
 
 ### Isaiah 20:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said, As Isaiah my servant has walked naked and barefoot three years, so signs and wonders will be to Egyptians and Ethiopians.
+- fresh: And the Lord said, As Isaiah my servant has walked naked and barefoot for three years, so signs and wonders will be to the Egyptians and Ethiopians.
 - brenton: And the Lord said, As my servant Esaias has walked naked and barefoot three years, there shall be three years for signs and wonders to the Egyptians and Ethiopians;
 
 ### Isaiah 20:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus king of the Assyrians will lead captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with the shame of Egypt uncovered.
+- fresh: Because thus the king of the Assyrians will lead the captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with the shame of Egypt uncovered.
 - brenton: for thus shall the king of the Assyrians lead the captivity of Egypt and the Ethiopians, young men and old, naked and barefoot, having the shame of Egypt exposed.
 
 ### Isaiah 20:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Egyptians will be ashamed, defeated because of Ethiopians on whom they were trusting; for Egyptians were their glory.
+- fresh: And the Egyptians will be ashamed, defeated because of the Ethiopians on whom they were trusting; for the Egyptians were their glory.
 - brenton: And the Egyptians being defeated shall be ashamed of the Ethiopians, in whom they had trusted; for they were their glory.
 
 ### Isaiah 20:6

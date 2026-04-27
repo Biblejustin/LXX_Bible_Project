@@ -72838,15 +72838,15 @@ At that time gifts will be brought to the Lord of hosts from a people afflicted 
 
 **Isaiah 19:1**
 
-Vision of Egypt: Behold, the Lord sits on swift cloud and will come into Egypt, and handmade things of Egypt will be shaken from before him and their heart will be defeated within them.
+A vision of Egypt: Behold, the Lord sits on a swift cloud and will come into Egypt, and the handmade things of Egypt will be shaken from before him and their heart will be defeated within them.
 
 **Isaiah 19:2**
 
-And Egyptians will rise against Egyptians, and man will war with his brother and man with his neighbor, city against city and law against law.
+And the Egyptians will rise against Egyptians, and a man will war with his brother and a man with his neighbor, city against city and law against law.
 
 **Isaiah 19:3**
 
-And the spirit of Egyptians will be troubled within them, and I will scatter their counsel, and they will ask their gods and their carved images and those speaking from earth and ventriloquists.
+And the spirit of the Egyptians will be troubled within them, and I will scatter their counsel, and they will ask their gods and their carved images and those speaking from the earth and the ventriloquists.
 
 **Isaiah 19:4**
 
@@ -72854,23 +72854,23 @@ And I will hand over Egypt into the hands of harsh lords, and harsh kings will r
 
 **Isaiah 19:5**
 
-And Egyptians will drink water from sea, and river will fail and dry up.
+And the Egyptians will drink water from the sea, and the river will fail and dry up.
 
 **Isaiah 19:6**
 
-And rivers will fail, and channels of the river, and every collection of water will dry up, and in every marsh reed and papyrus.
+And the rivers will fail, and the channels of the river, and every collection of water will dry up, and every marsh of reed and papyrus.
 
 **Isaiah 19:7**
 
-And green rush, all around river, and everything sown by the river will dry up, wind-blasted.
+And the green rush, all around the river, and everything sown by the river will dry up, wind-blasted.
 
 **Isaiah 19:8**
 
-And fishermen will groan, and all casting hook into the river will groan, and those throwing drag-nets and casting nets will mourn.
+And the fishermen will groan, and all casting a hook into the river will groan, and those throwing drag-nets and casting nets will mourn.
 
 **Isaiah 19:9**
 
-And shame will seize those working split flax and those working fine linen.
+And shame will seize those working the split flax and those working the fine linen.
 
 **Isaiah 19:10**
 
@@ -72878,7 +72878,7 @@ And those weaving them will be in pain, and all making beer will grieve and pain
 
 **Isaiah 19:11**
 
-And princes of Zoan will be fools, wise counselors of the king; their counsel will be made foolish. How will you say to the king, We are sons of wise men, sons of ancient kings?
+And the princes of Zoan will be fools, the wise counselors of the king; their counsel will be made foolish. How will you say to the king, We are sons of wise men, sons of ancient kings?
 
 **Isaiah 19:12**
 
@@ -72890,19 +72890,19 @@ The princes of Zoan failed, and the princes of Memphis were exalted, and they wi
 
 **Isaiah 19:14**
 
-For the Lord mixed in them spirit of wandering, and they led Egypt astray in all their works, as drunk man and vomiting man wander together.
+For the Lord mixed in them a spirit of wandering, and they led Egypt astray in all their works, as a drunk man and a vomiting man wander together.
 
 **Isaiah 19:15**
 
-And there will not be for Egyptians work which head and tail, beginning and end, will do.
+And there will not be for the Egyptians a work which head and tail, beginning and end, will do.
 
 **Isaiah 19:16**
 
-In that day Egyptians will be as women, in fear and trembling from the face of the hand of the Lord of hosts which he himself lays upon them.
+In that day the Egyptians will be as women, in fear and trembling from the face of the hand of the Lord of hosts which he himself lays upon them.
 
 **Isaiah 19:17**
 
-And the land of Jews will be terror to Egyptians; whoever names it to them, they will fear because of counsel which the Lord has counseled against it.
+And the land of the Jews will be a terror to the Egyptians; whoever names it to them, they will fear because of the counsel which the Lord has counseled against it.
 
 **Isaiah 19:18**
 
@@ -72910,53 +72910,53 @@ In that day there will be five cities in Egypt speaking the language of Canaan a
 
 **Isaiah 19:19**
 
-In that day there will be altar to the Lord in the land of Egyptians and pillar to the Lord by its border.
+In that day there will be an altar to the Lord in the land of the Egyptians and a pillar to the Lord by its border.
 
 **Isaiah 19:20**
 
-And it will be for sign forever to the Lord in the land of Egypt, because they will cry to the Lord because of those afflicting them, and the Lord will send them man who will save them; by judging he will save them.
+And it will be for a sign forever to the Lord in the land of Egypt, because they will cry to the Lord because of those afflicting them, and the Lord will send them a man who will save them; by judging he will save them.
 
 **Isaiah 19:21**
 
-And the Lord will be known to Egyptians, and Egyptians will know Lord in that day, and they will make sacrifices and vow vows to the Lord and pay them.
+And the Lord will be known to the Egyptians, and the Egyptians will know the Lord in that day, and they will make sacrifices and vow vows to the Lord and pay them.
 
 **Isaiah 19:22**
 
-And the Lord will strike Egyptians with great blow and heal them; he will heal, and they will turn to the Lord, and he will hear them and heal them.
+And the Lord will strike the Egyptians with a great blow and heal them; he will heal, and they will turn to the Lord, and he will hear them and heal them.
 
 **Isaiah 19:23**
 
-In that day there will be way from Egypt to Assyrians, and Assyrians will enter Egypt and Egyptians will go to Assyrians, and Egyptians will serve Assyrians.
+In that day there will be a way from Egypt to the Assyrians, and the Assyrians will enter Egypt and the Egyptians will go to the Assyrians, and the Egyptians will serve the Assyrians.
 
 **Isaiah 19:24**
 
-In that day Israel will be third among Assyrians and Egyptians, blessed in the land
+In that day Israel will be third among the Assyrians and the Egyptians, blessed in the land
 
 **Isaiah 19:25**
 
-which the Lord of hosts blessed, saying, Blessed my people in Egypt, and in Assyrians, and my inheritance Israel.
+which the Lord of hosts blessed, saying, Blessed is my people in Egypt, and among the Assyrians, and my inheritance, Israel.
 
 ### Chapter 20
 
 **Isaiah 20:1**
 
-In year Tartan entered into Ashdod, when sent by Sargon king of the Assyrians, and he warred against Ashdod and captured it,
+In the year Tartan entered into Ashdod, when he was sent by Sargon king of the Assyrians, and he warred against Ashdod and captured it,
 
 **Isaiah 20:2**
 
-then the Lord spoke to Isaiah, saying, Go and take sackcloth off your waist and loosen sandals from your feet. And he did so, walking naked and barefoot.
+then the Lord spoke to Isaiah, saying, Go and take the sackcloth off your waist and loosen the sandals from your feet. And he did so, walking naked and barefoot.
 
 **Isaiah 20:3**
 
-And the Lord said, As Isaiah my servant has walked naked and barefoot three years, so signs and wonders will be to Egyptians and Ethiopians.
+And the Lord said, As Isaiah my servant has walked naked and barefoot for three years, so signs and wonders will be to the Egyptians and Ethiopians.
 
 **Isaiah 20:4**
 
-Because thus king of the Assyrians will lead captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with the shame of Egypt uncovered.
+Because thus the king of the Assyrians will lead the captivity of Egypt and Ethiopians, young men and elders, naked and barefoot, with the shame of Egypt uncovered.
 
 **Isaiah 20:5**
 
-And Egyptians will be ashamed, defeated because of Ethiopians on whom they were trusting; for Egyptians were their glory.
+And the Egyptians will be ashamed, defeated because of the Ethiopians on whom they were trusting; for the Egyptians were their glory.
 
 **Isaiah 20:6**
 
