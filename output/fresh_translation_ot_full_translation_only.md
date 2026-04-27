@@ -74510,19 +74510,19 @@ And Hezekiah said, This is the sign that I will go up into the house of the Lord
 
 **Isaiah 39:1**
 
-At that time Merodach son of Laadan, king of Babylon, sent letters and envoys and gifts to Hezekiah, for he heard he grew weak unto death and rose.
+At that time Merodach son of Laadan, king of Babylon, sent letters and envoys and gifts to Hezekiah, for he heard that he grew weak unto death and rose.
 
 **Isaiah 39:2**
 
-And Hezekiah rejoiced greatly over them and showed them house of perfumes and myrrh and incenses and ointment and silver and gold and all houses of vessels of treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
+And Hezekiah rejoiced greatly over them and showed them the house of perfumes and myrrh and incenses and ointment and silver and gold and all the houses of the vessels of the treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
 
 **Isaiah 39:3**
 
-And Isaiah the prophet came to King Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From far land they came to me, from Babylon.
+And Isaiah the prophet came to King Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From a far land they came to me, from Babylon.
 
 **Isaiah 39:4**
 
-And Isaiah said, What did they see in your house? And Hezekiah said, They saw all things in my house, and there is nothing in my house which they did not see, and also things in my treasures.
+And Isaiah said, What did they see in your house? And Hezekiah said, They saw all the things in my house, and there is nothing in my house which they did not see, and also the things in my treasures.
 
 **Isaiah 39:5**
 
@@ -74530,15 +74530,15 @@ And Isaiah said to him, Hear the word of the Lord of hosts.
 
 **Isaiah 39:6**
 
-Behold, days come, says the Lord, and they will take all things in your house and whatever your fathers gathered until this day into Babylon, and they certainly will not leave anything, but God said,
+Behold, the days are coming, says the Lord, and they will take all the things in your house and whatever your fathers gathered until this day into Babylon, and they certainly will not leave anything, but God said,
 
 **Isaiah 39:7**
 
-and from your children whom you begot they will take and make eunuchs in the house of the king of Babylonians.
+and from your children whom you begot they will take and make eunuchs in the house of the king of the Babylonians.
 
 **Isaiah 39:8**
 
-And Hezekiah said to Isaiah, Good word of the Lord which he spoke. Let there be peace and righteousness in my days.
+And Hezekiah said to Isaiah, The word of the Lord which he spoke is good. Let there be peace and righteousness in my days.
 
 ### Chapter 40
 

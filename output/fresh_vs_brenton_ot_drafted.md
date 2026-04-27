@@ -164373,37 +164373,37 @@ Note:
 ### Isaiah 39:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At that time Merodach son of Laadan, king of Babylon, sent letters and envoys and gifts to Hezekiah, for he heard he grew weak unto death and rose.
+- fresh: At that time Merodach son of Laadan, king of Babylon, sent letters and envoys and gifts to Hezekiah, for he heard that he grew weak unto death and rose.
 - brenton: At that time Marodach Baladan, the son of Baladan, the king of Babylonia, sent letters and ambassadors and gifts to Ezekias: for he had heard that he had been sick even to death, and was recovered.
 
 ### Isaiah 39:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah rejoiced greatly over them and showed them house of perfumes and myrrh and incenses and ointment and silver and gold and all houses of vessels of treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
+- fresh: And Hezekiah rejoiced greatly over them and showed them the house of perfumes and myrrh and incenses and ointment and silver and gold and all the houses of the vessels of the treasury and all that was in his treasures, and there was nothing that Hezekiah did not show in his house.
 - brenton: And Ezekias was glad of their coming, and he shewed them the house of his spices, and of silver, and gold, and myrrh, and incense, and ointment, and all the houses of his treasures, and all that he had in his stores: and there was nothing in his house, nor in all his dominion, which Ezekias did not shew.
 
 ### Isaiah 39:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah the prophet came to King Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From far land they came to me, from Babylon.
+- fresh: And Isaiah the prophet came to King Hezekiah and said to him, What do these men say, and from where did they come to you? And Hezekiah said, From a far land they came to me, from Babylon.
 - brenton: And Esaias the prophet came to king Ezekias, and said to him, What say these men? and whence came they to thee? and Ezekias said, They are come to me from a land afar off, from Babylon.
 
 ### Isaiah 39:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said, What did they see in your house? And Hezekiah said, They saw all things in my house, and there is nothing in my house which they did not see, and also things in my treasures.
+- fresh: And Isaiah said, What did they see in your house? And Hezekiah said, They saw all the things in my house, and there is nothing in my house which they did not see, and also the things in my treasures.
 - brenton: And Esaias said, What have they seen in thine house? and Ezekias said, They have seen everything in my house; and there is nothing in my house which they have not seen: yea, also the possessions in my treasuries.
 
 ### Isaiah 39:5
@@ -164418,28 +164418,28 @@ Note:
 ### Isaiah 39:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and they will take all things in your house and whatever your fathers gathered until this day into Babylon, and they certainly will not leave anything, but God said,
+- fresh: Behold, the days are coming, says the Lord, and they will take all the things in your house and whatever your fathers gathered until this day into Babylon, and they certainly will not leave anything, but God said,
 - brenton: Behold, the days come, when they shall take all the things that are in thine house, and all that thy fathers have gathered until this day, shall go to Babylon; and they shall not leave anything at all: and God hath said,
 
 ### Isaiah 39:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and from your children whom you begot they will take and make eunuchs in the house of the king of Babylonians.
+- fresh: and from your children whom you begot they will take and make eunuchs in the house of the king of the Babylonians.
 - brenton: that they shall take also of thy children whom thou shalt beget; and they shall make them eunuchs in the house of the king of the Babylonians.
 
 ### Isaiah 39:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah said to Isaiah, Good word of the Lord which he spoke. Let there be peace and righteousness in my days.
+- fresh: And Hezekiah said to Isaiah, The word of the Lord which he spoke is good. Let there be peace and righteousness in my days.
 - brenton: And Ezekias said to Esaias, Good is the word of the Lord, which he hath spoken: let there, I pray, be peace and righteousness in my days.
 
 ### Isaiah 40:1

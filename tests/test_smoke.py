@@ -5909,6 +5909,34 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "This is the sign" in by_ref["Isaiah 38:22"]["draft_translation"]
+    assert "he heard that he grew weak" in by_ref["Isaiah 39:1"][
+        "draft_translation"
+    ]
+    assert "the house of perfumes" in by_ref["Isaiah 39:2"][
+        "draft_translation"
+    ]
+    assert "all the houses of the vessels of the treasury" in by_ref[
+        "Isaiah 39:2"
+    ]["draft_translation"]
+    assert "From a far land" in by_ref["Isaiah 39:3"]["draft_translation"]
+    assert "all the things in my house" in by_ref["Isaiah 39:4"][
+        "draft_translation"
+    ]
+    assert "the things in my treasures" in by_ref["Isaiah 39:4"][
+        "draft_translation"
+    ]
+    assert "the days are coming" in by_ref["Isaiah 39:6"][
+        "draft_translation"
+    ]
+    assert "all the things in your house" in by_ref["Isaiah 39:6"][
+        "draft_translation"
+    ]
+    assert "the king of the Babylonians" in by_ref["Isaiah 39:7"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 39:8"]["draft_translation"].startswith(
+        "And Hezekiah said to Isaiah, The word of the Lord"
+    )
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
