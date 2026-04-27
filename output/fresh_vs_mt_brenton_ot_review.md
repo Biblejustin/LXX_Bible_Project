@@ -47544,15 +47544,6 @@ Method:
 - mt: He loves transgression that loves strife: and he that exalts his gate seeks destruction.
 - brenton: A lover of sin rejoices in strifes;
 
-### Proverbs 29:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.316`
-- fresh_brenton_ratio: `0.682`
-- fresh: When ungodly people are many, sins become many, but when they fall, righteous people are put in fear.
-- mt: When the wicked are multiplied, transgression increases: but the righteous shall see their fall.
-- brenton: When the ungodly abound, sins abound: but when they fall, the righteous are warned.
-
 ### Psalms 8:4
 - priority: `0`
 - importance: `none`
@@ -49172,15 +49163,6 @@ Method:
 - fresh: For young men will hunger and grow weary, and chosen youths will be weak.
 - mt: Even the youths shall faint and be weary, and the young men shall utterly fall:
 - brenton: For the young men shall hunger, and the youths shall be weary, and the choice men shall be powerless:
-
-### Proverbs 29:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.324`
-- fresh_brenton_ratio: `0.692`
-- fresh: One preparing net on the face of his own friend wraps it around his own feet.
-- mt: A man that flatters his neighbour spreads a net for his feet.
-- brenton: He that prepares a net in the way of his own friend, entangles his own feet in it.
 
 ### Psalms 136:6
 - priority: `0`
@@ -56697,6 +56679,15 @@ Method:
 - mt: Put not your trust in princes, nor in the son of man, in whom there is no help.
 - brenton: He heals the broken in heart, and binds up their wounds.
 
+### Proverbs 29:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.366`
+- fresh_brenton_ratio: `0.734`
+- fresh: A man who rebukes is better than a stiff-necked man; for when he suddenly catches fire, there is no healing.
+- mt: He, that being often reproved hardens his neck, shall suddenly be destroyed, and that without remedy.
+- brenton: A reprover is better than a stiff-necked man: for when the latter is suddenly set on fire, there shall be no remedy.
+
 ### Exodus 36:14
 - priority: `0`
 - importance: `none`
@@ -59757,15 +59748,6 @@ Method:
 - mt: And I that am the LORD your God from the land of Egypt will yet make you to dwell in tabernacles, as in the days of the solemn feast.
 - brenton: And Ephraim said, Nevertheless I am rich, I have found refreshment to myself. None of his labours shall be found available to him, by reason of the sins which he has committed.
 
-### Proverbs 29:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.385`
-- fresh_brenton_ratio: `0.670`
-- fresh: Better man rebuking stiff-necked man; for when he suddenly catches fire, there is no healing.
-- mt: He, that being often reproved hardens his neck, shall suddenly be destroyed, and that without remedy.
-- brenton: A reprover is better than a stiff-necked man: for when the latter is suddenly set on fire, there shall be no remedy.
-
 ### Psalms 107:6
 - priority: `0`
 - importance: `none`
@@ -61836,6 +61818,15 @@ Method:
 - mt: Many days and years shall all of you be troubled, all of you careless women: for the vintage shall fail, the gathering shall not come.
 - brenton: Remember for a full year in pain, yet with hope: the vintage has been cut off, it has ceased, it shall by no means come again.
 
+### Proverbs 29:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.400`
+- fresh_brenton_ratio: `0.640`
+- fresh: One preparing a net before his own friend wraps it around his own feet.
+- mt: A man that flatters his neighbour spreads a net for his feet.
+- brenton: He that prepares a net in the way of his own friend, entangles his own feet in it.
+
 ### Ezekiel 18:5
 - priority: `0`
 - importance: `none`
@@ -62384,15 +62375,6 @@ Method:
 - fresh: Show us, Lord, your mercy, and give us your salvation.
 - mt: O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
 - brenton: Shew us thy mercy, O Lord, and grant us thy salvation.
-
-### Proverbs 29:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.404`
-- fresh_brenton_ratio: `0.730`
-- fresh: A wise man will judge nations, but base man growing angry is laughed at and does not shrink back.
-- mt: If a wise man contends with a foolish man, whether he rage or laugh, there is no rest.
-- brenton: A wise man shall judge nations: but a worthless man being angry laughs and fears not.
 
 ### Deuteronomy 11:2
 - priority: `0`
@@ -64221,15 +64203,6 @@ Method:
 - mt: All you beasts of the field, come to devour, yea, all you beasts in the forest.
 - brenton: All ye beasts of the field, come, devour, all ye beasts of the forest.
 
-### Proverbs 29:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.419`
-- fresh_brenton_ratio: `0.769`
-- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
-- mt: The righteous considers the cause of the poor: but the wicked regards not to know it.
-- brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
-
 ### Psalms 95:6
 - priority: `0`
 - importance: `none`
@@ -64562,6 +64535,15 @@ Method:
 - fresh: All things contrary to foolish man, but lips of wise weapons of perception.
 - mt: Go from the presence of a foolish man, when you perceive not in him the lips of knowledge.
 - brenton: All things are adverse to a foolish man; but wise lips are the weapons of discretion.
+
+### Proverbs 29:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.422`
+- fresh_brenton_ratio: `0.733`
+- fresh: A wise man will judge nations, but a base man growing angry is laughed at and does not shrink back.
+- mt: If a wise man contends with a foolish man, whether he rage or laugh, there is no rest.
+- brenton: A wise man shall judge nations: but a worthless man being angry laughs and fears not.
 
 ### Genesis 41:47
 - priority: `0`
@@ -66516,6 +66498,15 @@ Method:
 - mt: But you shall surely kill him; yours hand shall be first upon him to put him to death, and afterwards the hand of all the people.
 - brenton: thou shalt not consent to him, neither shalt thou hearken to him; and thine eye shall not spare him, thou shalt feel no regret for him, neither shalt thou at all protect him:
 
+### Proverbs 29:26
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.437`
+- fresh_brenton_ratio: `0.649`
+- fresh: Many attend to the faces of the leaders, but from the Lord justice comes to a man.
+- mt: Many seek the ruler's favour; but every man's judgment comes from the LORD.
+- brenton: Many wait on the favour of rulers; but justice comes to a man from the Lord.
+
 ### Isaiah 13:3
 - priority: `0`
 - importance: `none`
@@ -67938,15 +67929,6 @@ Method:
 - mt: My desire is that Job may be tried unto the end because of his answers for wicked men.
 - brenton: Howbeit do thou learn, Job: no longer make answer as the foolish:
 
-### Proverbs 29:26
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.449`
-- fresh_brenton_ratio: `0.667`
-- fresh: Many attend to the faces of leaders, but from the Lord justice comes to a man.
-- mt: Many seek the ruler's favour; but every man's judgment comes from the LORD.
-- brenton: Many wait on the favour of rulers; but justice comes to a man from the Lord.
-
 ### Proverbs 23:5
 - priority: `0`
 - importance: `none`
@@ -69153,15 +69135,6 @@ Method:
 - mt: And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an armour of jacket, that it be not rent.
 - brenton: And the opening of it shall be in the middle having a fringe round about the opening, the work of the weaver, woven together in the joining of the same piece that it might not be rent.
 
-### Proverbs 29:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.458`
-- fresh_brenton_ratio: `0.626`
-- fresh: A righteous king raises up a land, but lawless man digs it down.
-- mt: The king by judgment establishes the land: but he that receives gifts overthrows it.
-- brenton: A righteous king establishes a country: but a transgressor destroys it.
-
 ### Ezekiel 29:15
 - priority: `0`
 - importance: `none`
@@ -70224,6 +70197,15 @@ Method:
 - mt: And to them which were in Aroer, and to them which were in Siphmoth, and to them which were in Eshtemoa,
 - brenton: And to those in Aroer, and to those in Ammadi, and to those in Saphi, and to those in Esthie,
 
+### Proverbs 29:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.466`
+- fresh_brenton_ratio: `0.647`
+- fresh: A righteous king raises up a land, but a lawless man digs it down.
+- mt: The king by judgment establishes the land: but he that receives gifts overthrows it.
+- brenton: A righteous king establishes a country: but a transgressor destroys it.
+
 ### Isaiah 16:1
 - priority: `0`
 - importance: `none`
@@ -70259,6 +70241,15 @@ Method:
 - fresh: And I also will act in wrath. My eye will not spare, nor will I have mercy.
 - mt: Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 - brenton: Therefore will I deal with them in wrath: mine eye shall not spare, nor will I have any mercy.
+
+### Proverbs 29:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.466`
+- fresh_brenton_ratio: `0.753`
+- fresh: When a man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
+- mt: Whoso loves wisdom rejoices his father: but he that keeps company with harlots spends his substance.
+- brenton: When a man loves wisdom, his father rejoices: but he that keeps harlots will waste wealth.
 
 ### Ezekiel 39:28
 - priority: `0`
@@ -70376,6 +70367,15 @@ Method:
 - fresh: And the king said to them, You say, This is my living son, and this one's son is the dead one. And you say, No, but my son is the living one, and your son is the dead one.
 - mt: Then said the king, The one says, This is my son that lives, and your son is the dead: and the other says, Nay; but your son is the dead, and my son is the living.
 - brenton: And the king said to them, Thou sayest, This is my son, even the living one, and this woman's son is the dead one: and thou sayest, No, but the living is my son, and the dead is thy son.
+
+### Proverbs 29:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.467`
+- fresh_brenton_ratio: `0.821`
+- fresh: A righteous one knows how to judge for the poor, but the ungodly one does not understand knowledge, and for a poor man there is no discerning mind.
+- mt: The righteous considers the cause of the poor: but the wicked regards not to know it.
+- brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
 
 ### Job 3:2
 - priority: `0`
@@ -70826,15 +70826,6 @@ Method:
 - fresh: And the people spoke to King Rehoboam, saying,
 - mt: That they sent and called him. And Jeroboam and all the congregation of Israel came, and spoke unto Rehoboam, saying,
 - brenton: And the people spoke to king Roboam, saying, Thy father made our yoke heavy;
-
-### Proverbs 29:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.471`
-- fresh_brenton_ratio: `0.739`
-- fresh: When man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
-- mt: Whoso loves wisdom rejoices his father: but he that keeps company with harlots spends his substance.
-- brenton: When a man loves wisdom, his father rejoices: but he that keeps harlots will waste wealth.
 
 ### Numbers 30:3
 - priority: `0`
@@ -82428,6 +82419,15 @@ Method:
 - mt: Awake, all of you drunkards, and weep; and wail, all you drinkers of wine, because of the new wine; for it is cut off from your mouth.
 - brenton: Awake, ye drunkards, from your wine, and weep: mourn, all ye that drink wine to drunkenness: for joy and gladness are removed from your mouth.
 
+### Proverbs 29:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.543`
+- fresh_brenton_ratio: `0.800`
+- fresh: When the ungodly are many, sins become many, but when they fall, the righteous are put in fear.
+- mt: When the wicked are multiplied, transgression increases: but the righteous shall see their fall.
+- brenton: When the ungodly abound, sins abound: but when they fall, the righteous are warned.
+
 ### Genesis 9:4
 - priority: `0`
 - importance: `none`
@@ -88773,6 +88773,15 @@ Method:
 - mt: Now therefore, I pray you, hearken you also unto the voice of yours handmaid, and let me set a morsel of bread before you; and eat, that you may have strength, when you go on your way.
 - brenton: And now hearken, I pray thee, to the voice of thine handmaid, and I will set before thee a morsel of bread, and eat, and thou shalt be strengthened, for thou wilt be going on thy way.
 
+### Proverbs 29:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.573`
+- fresh_brenton_ratio: `0.704`
+- fresh: For a sinful man is a great snare, but the righteous will be in joy and gladness.
+- mt: In the transgression of an evil man there is a snare: but the righteous does sing and rejoice.
+- brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
+
 ### Job 31:21
 - priority: `0`
 - importance: `none`
@@ -89493,6 +89502,15 @@ Method:
 - mt: Therefore is judgment far from us, neither does justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.
 - brenton: Therefore has judgment departed from them, and righteousness shall not overtake them: while they waited for light, darkness came upon them; while they waited for brightness, they walked in perplexity.
 
+### Proverbs 29:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.577`
+- fresh_brenton_ratio: `0.821`
+- fresh: When a lender and debtor meet one another, the Lord oversees both.
+- mt: The poor and the deceitful man meet together: the LORD lightens both their eyes.
+- brenton: When the creditor and debtor meet together, the Lord oversees them both.
+
 ### Joshua 15:14
 - priority: `0`
 - importance: `none`
@@ -90104,15 +90122,6 @@ Method:
 - fresh: All sayings of my mouth with righteousness; nothing in them crooked or twisted.
 - mt: All the words of my mouth are in righteousness; there is nothing perverse or perverse in them.
 - brenton: All the words of my mouth are in righteousness; there is nothing in them wrong or perverse.
-
-### Proverbs 29:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.580`
-- fresh_brenton_ratio: `0.713`
-- fresh: For sinful man is a great snare, but the righteous will be in joy and gladness.
-- mt: In the transgression of an evil man there is a snare: but the righteous does sing and rejoice.
-- brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
 
 ### Ezekiel 47:17
 - priority: `0`
@@ -90969,15 +90978,6 @@ Method:
 - mt: The eye also of the adulterer waits for the twilight, saying, No eye shall see me: and disguises his face.
 - brenton: and the eye of the adulterer has watched for the darkness, saying, Eye shall not perceive me, and he puts a covering on his face.
 
-### Proverbs 29:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.583`
-- fresh_brenton_ratio: `0.733`
-- fresh: Men partakers of blood hate holy man, but upright will seek his soul.
-- mt: The bloodthirsty hate the upright: but the just seek his soul.
-- brenton: Bloody men hate a holy person, but the upright will seek his soul.
-
 ### Deuteronomy 9:22
 - priority: `0`
 - importance: `none`
@@ -91833,14 +91833,14 @@ Method:
 - mt: A whip for the horse, a bridle for the ass, and a rod for the fool's back.
 - brenton: As a whip for a horse, and a goad for an ass, so is a rod for a simple nation.
 
-### Proverbs 29:13
+### Proverbs 29:10
 - priority: `0`
 - importance: `none`
 - fresh_mt_ratio: `0.586`
-- fresh_brenton_ratio: `0.818`
-- fresh: When lender and debtor meet one another, the Lord oversees both.
-- mt: The poor and the deceitful man meet together: the LORD lightens both their eyes.
-- brenton: When the creditor and debtor meet together, the Lord oversees them both.
+- fresh_brenton_ratio: `0.788`
+- fresh: Men partaking in blood hate a holy man, but the upright will seek his soul.
+- mt: The bloodthirsty hate the upright: but the just seek his soul.
+- brenton: Bloody men hate a holy person, but the upright will seek his soul.
 
 ### 2 Samuel 1:11
 - priority: `0`
@@ -102507,15 +102507,6 @@ Method:
 - mt: Behold now, I have ordered my cause; I know that I shall be justified.
 - brenton: Behold, I am near my judgment: I know that I shall appear evidently just.
 
-### Proverbs 29:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.626`
-- fresh_brenton_ratio: `0.892`
-- fresh: When a king judges poor men in truth, his throne will be established as a testimony.
-- mt: The king that faithfully judges the poor, his throne shall be established for ever.
-- brenton: When a king judges the poor in truth, his throne shall be established for a testimony.
-
 ### Joshua 19:39
 - priority: `0`
 - importance: `none`
@@ -105440,15 +105431,6 @@ Method:
 - fresh: You went out for the salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds to neck. Pause.
 - mt: You went forth for the salvation of your people, even for salvation with yours anointed; you wounded the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 - brenton: Thou wentest forth for the salvation of thy people, to save thine anointed: thou shalt bring death on the heads of transgressors; thou hast brought bands upon their neck. Pause.
-
-### Proverbs 29:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.635`
-- fresh_brenton_ratio: `0.720`
-- fresh: An unjust man is an abomination to righteous people, and a straight way is an abomination to a lawless man.
-- mt: An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
-- brenton: A righteous man is an abomination to an unrighteous man, and the direct way is an abomination to the sinner.
 
 ### Micah 7:10
 - priority: `0`
@@ -112542,15 +112524,6 @@ Method:
 - mt: Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.
 - brenton: And the porters; Acub, Telamin, and their brethren, a hundred and seventy-two.
 
-### Proverbs 29:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.656`
-- fresh_brenton_ratio: `0.819`
-- fresh: When righteous are praised, peoples rejoice; but when ungodly rulers rule, men groan.
-- mt: When the righteous are in authority, the people rejoice: but when the wicked bears rule, the people mourn.
-- brenton: When the righteous are praised, the people will rejoice: but when the ungodly rule, men mourn.
-
 ### Jeremiah 24:3
 - priority: `0`
 - importance: `none`
@@ -118968,6 +118941,15 @@ Method:
 - mt: And the king lamented over Abner, and said, Died Abner as a fool dies?
 - brenton: And the king mourned over Abenner, and said, Shall Abenner die according to the death of Nabal?
 
+### Proverbs 29:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.675`
+- fresh_brenton_ratio: `0.940`
+- fresh: When a king judges the poor in truth, his throne will be established as a testimony.
+- mt: The king that faithfully judges the poor, his throne shall be established for ever.
+- brenton: When a king judges the poor in truth, his throne shall be established for a testimony.
+
 ### Job 15:17
 - priority: `0`
 - importance: `none`
@@ -121478,6 +121460,15 @@ Method:
 - fresh: And Jair the Manassite went and took their camps and named them Jair Camps.
 - mt: And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.
 - brenton: And Jair the son of Manasse went and took their villages, and called them the villages of Jair.
+
+### Proverbs 29:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.683`
+- fresh_brenton_ratio: `0.731`
+- fresh: An unjust man is an abomination to the righteous, and a straight way is an abomination to a lawless man.
+- mt: An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
+- brenton: A righteous man is an abomination to an unrighteous man, and the direct way is an abomination to the sinner.
 
 ### Ezekiel 15:3
 - priority: `0`
@@ -126860,6 +126851,15 @@ Method:
 - fresh: And they will know that I am the Lord their God, and they are my people, house of Israel, says the Lord.
 - mt: Thus shall they know that I the LORD their God am with them, and that they, even the house of Israel, are my people, says the Lord GOD.
 - brenton: And they shall know that I am the Lord their God, and they my people. O house of Israel, saith the Lord God,
+
+### Proverbs 29:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.696`
+- fresh_brenton_ratio: `0.907`
+- fresh: When the righteous are praised, peoples rejoice; but when the ungodly rule, men groan.
+- mt: When the righteous are in authority, the people rejoice: but when the wicked bears rule, the people mourn.
+- brenton: When the righteous are praised, the people will rejoice: but when the ungodly rule, men mourn.
 
 ### Exodus 19:11
 - priority: `0`

@@ -69634,31 +69634,31 @@ In the places of the ungodly the righteous groan, but in their destruction the r
 
 **Proverbs 29:1**
 
-Better man rebuking stiff-necked man; for when he suddenly catches fire, there is no healing.
+A man who rebukes is better than a stiff-necked man; for when he suddenly catches fire, there is no healing.
 
 **Proverbs 29:2**
 
-When righteous are praised, peoples rejoice; but when ungodly rulers rule, men groan.
+When the righteous are praised, peoples rejoice; but when the ungodly rule, men groan.
 
 **Proverbs 29:3**
 
-When man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
+When a man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
 
 **Proverbs 29:4**
 
-A righteous king raises up a land, but lawless man digs it down.
+A righteous king raises up a land, but a lawless man digs it down.
 
 **Proverbs 29:5**
 
-One preparing net on the face of his own friend wraps it around his own feet.
+One preparing a net before his own friend wraps it around his own feet.
 
 **Proverbs 29:6**
 
-For sinful man is a great snare, but the righteous will be in joy and gladness.
+For a sinful man is a great snare, but the righteous will be in joy and gladness.
 
 **Proverbs 29:7**
 
-A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
+A righteous one knows how to judge for the poor, but the ungodly one does not understand knowledge, and for a poor man there is no discerning mind.
 
 **Proverbs 29:8**
 
@@ -69666,11 +69666,11 @@ Lawless men set a city on fire, but wise men turned wrath back.
 
 **Proverbs 29:9**
 
-A wise man will judge nations, but base man growing angry is laughed at and does not shrink back.
+A wise man will judge nations, but a base man growing angry is laughed at and does not shrink back.
 
 **Proverbs 29:10**
 
-Men partakers of blood hate holy man, but upright will seek his soul.
+Men partaking in blood hate a holy man, but the upright will seek his soul.
 
 **Proverbs 29:11**
 
@@ -69682,11 +69682,11 @@ When a king listens to an unjust word, all who are under him are lawless.
 
 **Proverbs 29:13**
 
-When lender and debtor meet one another, the Lord oversees both.
+When a lender and debtor meet one another, the Lord oversees both.
 
 **Proverbs 29:14**
 
-When a king judges poor men in truth, his throne will be established as a testimony.
+When a king judges the poor in truth, his throne will be established as a testimony.
 
 **Proverbs 29:15**
 
@@ -69694,7 +69694,7 @@ Blows and reproofs give wisdom, but a wandering child shames his parents.
 
 **Proverbs 29:16**
 
-When ungodly people are many, sins become many, but when they fall, righteous people are put in fear.
+When the ungodly are many, sins become many, but when they fall, the righteous are put in fear.
 
 **Proverbs 29:17**
 
@@ -69734,11 +69734,11 @@ fearing and being ashamed before men, they were tripped up; but one trusting in 
 
 **Proverbs 29:26**
 
-Many attend to the faces of leaders, but from the Lord justice comes to a man.
+Many attend to the faces of the leaders, but from the Lord justice comes to a man.
 
 **Proverbs 29:27**
 
-An unjust man is an abomination to righteous people, and a straight way is an abomination to a lawless man.
+An unjust man is an abomination to the righteous, and a straight way is an abomination to a lawless man.
 
 ### Chapter 30
 

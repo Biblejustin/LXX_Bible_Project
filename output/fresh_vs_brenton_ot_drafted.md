@@ -153684,46 +153684,46 @@ Note:
 ### Proverbs 29:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better man rebuking stiff-necked man; for when he suddenly catches fire, there is no healing.
+- fresh: A man who rebukes is better than a stiff-necked man; for when he suddenly catches fire, there is no healing.
 - brenton: A reprover is better than a stiff-necked man: for when the latter is suddenly set on fire, there shall be no remedy.
 
 ### Proverbs 29:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When righteous are praised, peoples rejoice; but when ungodly rulers rule, men groan.
+- fresh: When the righteous are praised, peoples rejoice; but when the ungodly rule, men groan.
 - brenton: When the righteous are praised, the people will rejoice: but when the ungodly rule, men mourn.
 
 ### Proverbs 29:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
+- fresh: When a man loves wisdom, his father rejoices; but one shepherding prostitutes destroys wealth.
 - brenton: When a man loves wisdom, his father rejoices: but he that keeps harlots will waste wealth.
 
 ### Proverbs 29:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous king raises up a land, but lawless man digs it down.
+- fresh: A righteous king raises up a land, but a lawless man digs it down.
 - brenton: A righteous king establishes a country: but a transgressor destroys it.
 
 ### Proverbs 29:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One preparing net on the face of his own friend wraps it around his own feet.
+- fresh: One preparing a net before his own friend wraps it around his own feet.
 - brenton: He that prepares a net in the way of his own friend, entangles his own feet in it.
 
 ### Proverbs 29:6
@@ -153732,7 +153732,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For sinful man is a great snare, but the righteous will be in joy and gladness.
+- fresh: For a sinful man is a great snare, but the righteous will be in joy and gladness.
 - brenton: A great snare is spread for a sinner: but the righteous shall be in joy and gladness.
 
 ### Proverbs 29:7
@@ -153741,7 +153741,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A righteous one knows how to judge poor men, but ungodly does not understand knowledge, and for a poor man there is no discerning mind.
+- fresh: A righteous one knows how to judge for the poor, but the ungodly one does not understand knowledge, and for a poor man there is no discerning mind.
 - brenton: A righteous man knows how to judge for the poor: but the ungodly understands not knowledge; and the poor man has not an understanding mind.
 
 ### Proverbs 29:8
@@ -153756,19 +153756,19 @@ Note:
 ### Proverbs 29:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A wise man will judge nations, but base man growing angry is laughed at and does not shrink back.
+- fresh: A wise man will judge nations, but a base man growing angry is laughed at and does not shrink back.
 - brenton: A wise man shall judge nations: but a worthless man being angry laughs and fears not.
 
 ### Proverbs 29:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Men partakers of blood hate holy man, but upright will seek his soul.
+- fresh: Men partaking in blood hate a holy man, but the upright will seek his soul.
 - brenton: Bloody men hate a holy person, but the upright will seek his soul.
 
 ### Proverbs 29:11
@@ -153792,19 +153792,19 @@ Note:
 ### Proverbs 29:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When lender and debtor meet one another, the Lord oversees both.
+- fresh: When a lender and debtor meet one another, the Lord oversees both.
 - brenton: When the creditor and debtor meet together, the Lord oversees them both.
 
 ### Proverbs 29:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When a king judges poor men in truth, his throne will be established as a testimony.
+- fresh: When a king judges the poor in truth, his throne will be established as a testimony.
 - brenton: When a king judges the poor in truth, his throne shall be established for a testimony.
 
 ### Proverbs 29:15
@@ -153819,10 +153819,10 @@ Note:
 ### Proverbs 29:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When ungodly people are many, sins become many, but when they fall, righteous people are put in fear.
+- fresh: When the ungodly are many, sins become many, but when they fall, the righteous are put in fear.
 - brenton: When the ungodly abound, sins abound: but when they fall, the righteous are warned.
 
 ### Proverbs 29:17
@@ -153909,19 +153909,19 @@ Note:
 ### Proverbs 29:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Many attend to the faces of leaders, but from the Lord justice comes to a man.
+- fresh: Many attend to the faces of the leaders, but from the Lord justice comes to a man.
 - brenton: Many wait on the favour of rulers; but justice comes to a man from the Lord.
 
 ### Proverbs 29:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: An unjust man is an abomination to righteous people, and a straight way is an abomination to a lawless man.
+- fresh: An unjust man is an abomination to the righteous, and a straight way is an abomination to a lawless man.
 - brenton: A righteous man is an abomination to an unrighteous man, and the direct way is an abomination to the sinner.
 
 ### Proverbs 30:1

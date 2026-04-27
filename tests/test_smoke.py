@@ -3057,6 +3057,25 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "that man is a fool" in by_ref["Proverbs 28:26"]["draft_translation"]
     assert "giving to the poor" in by_ref["Proverbs 28:27"]["draft_translation"]
     assert "places of the ungodly" in by_ref["Proverbs 28:28"]["draft_translation"]
+    assert by_ref["Proverbs 29:1"]["draft_translation"].startswith("A man who rebukes")
+    assert "than a stiff-necked man" in by_ref["Proverbs 29:1"]["draft_translation"]
+    assert "When the righteous are praised" in by_ref["Proverbs 29:2"]["draft_translation"]
+    assert "when the ungodly rule" in by_ref["Proverbs 29:2"]["draft_translation"]
+    assert by_ref["Proverbs 29:3"]["draft_translation"].startswith("When a man loves wisdom")
+    assert "a lawless man digs it down" in by_ref["Proverbs 29:4"]["draft_translation"]
+    assert "preparing a net before his own friend" in by_ref["Proverbs 29:5"]["draft_translation"]
+    assert by_ref["Proverbs 29:6"]["draft_translation"].startswith("For a sinful man")
+    assert "judge for the poor" in by_ref["Proverbs 29:7"]["draft_translation"]
+    assert "the ungodly one does not understand" in by_ref["Proverbs 29:7"]["draft_translation"]
+    assert "but a base man" in by_ref["Proverbs 29:9"]["draft_translation"]
+    assert "hate a holy man" in by_ref["Proverbs 29:10"]["draft_translation"]
+    assert "the upright will seek" in by_ref["Proverbs 29:10"]["draft_translation"]
+    assert by_ref["Proverbs 29:13"]["draft_translation"].startswith("When a lender")
+    assert "judges the poor" in by_ref["Proverbs 29:14"]["draft_translation"]
+    assert by_ref["Proverbs 29:16"]["draft_translation"].startswith("When the ungodly are many")
+    assert "the righteous are put in fear" in by_ref["Proverbs 29:16"]["draft_translation"]
+    assert "faces of the leaders" in by_ref["Proverbs 29:26"]["draft_translation"]
+    assert "abomination to the righteous" in by_ref["Proverbs 29:27"]["draft_translation"]
     assert by_ref["Haggai 1:1"]["draft_translation"].startswith("In the second year of Darius the king")
     assert "Haggai the prophet" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "the high priest" in by_ref["Haggai 1:1"]["draft_translation"]

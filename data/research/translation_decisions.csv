@@ -5368,7 +5368,7 @@ Psalms 101:1,τῷ πτωχῷ,πτωχός,articular heading phrase,the poor ma
 Psalms 106:41,πένητι,πένης,dative singular class noun,a poor man,poor man,English supplies a for readable singular idiom.,reviewed,codex
 Proverbs 19:4,ὁ δὲ πτωχὸς ... τοῦ ὑπάρχοντος φίλου,πτωχός | φίλος,articular contrast phrase,the poor man ... the friend he has,poor man ... friend he has,English supplies articles for the articular poor-man and friend phrases.,reviewed,codex
 Proverbs 28:6,πτωχὸς ... πλουσίου ψευδοῦς,πτωχός | πλούσιος | ψευδής,comparative singular contrast,a poor man ... a rich liar,poor man ... rich liar,English supplies articles for readable singular idiom.,reviewed,codex
-Proverbs 29:7,πτωχῷ,πτωχός,dative singular class noun,for a poor man,for poor man,English supplies a for readable singular idiom.,reviewed,codex
+Proverbs 29:7,πενιχροῖς ... ὁ δὲ ἀσεβὴς ... πτωχῷ,πενιχρός | ἀσεβής | πτωχός,poor and ungodly class phrases,for the poor ... the ungodly one ... for a poor man,for poor ... ungodly ... for poor man,English supplies the for poor and ungodly class phrases and a for the poor-man phrase.,reviewed,codex
 Ecclesiastes 5:7,συκοφαντίαν πένητος,πένης,genitive singular class noun,slander of a poor man,slander of poor man,English supplies a for readable singular idiom.,reviewed,codex
 Ecclesiastes 6:8,ὁ πένης,πένης,articular subject,the poor man,poor man,English supplies the for the articular subject.,reviewed,codex
 Ecclesiastes 9:15,ἄνδρα πένητα σοφόν,ἀνήρ | πένης | σοφός,singular object phrase,a poor wise man,poor wise man,English supplies a for readable singular idiom.,reviewed,codex
@@ -5407,7 +5407,7 @@ Proverbs 12:3,ῥίζαι τῶν δικαίων,ῥίζα | δίκαιος,geni
 Proverbs 12:26,ἐπιγνώμων δίκαιος,ἐπιγνώμων | δίκαιος,singular subject phrase,a discerning righteous one,knowing righteous,English renders the compact singular subject as a readable righteous-one phrase.,reviewed,codex
 Proverbs 24:16,ὁ δίκαιος,δίκαιος,articular singular subject,the righteous,righteous,English supplies the for the articular subject.,reviewed,codex
 Proverbs 28:28,τόποις ἀσεβῶν ... δίκαιοι ... δίκαιοι,ἀσεβής | δίκαιος,plural class groups,the ungodly ... the righteous ... the righteous,ungodly ... righteous ... righteous,English supplies the for readable class-group idiom.,reviewed,codex
-Proverbs 29:6,δίκαιος δὲ,δίκαιος,contrastive singular subject,the righteous,righteous,English supplies the for the contrastive righteous subject.,reviewed,codex
+Proverbs 29:6,ἁμαρτάνοντι ἀνδρὶ ... δίκαιος δὲ,ἀνήρ | ἁμαρτάνω | δίκαιος,sinful-man and righteous subject phrases,a sinful man ... the righteous,sinful man ... righteous,English supplies articles/linking syntax for sinful man and righteous subject.,reviewed,codex
 Proverbs 1:7,σοφίαν δὲ καὶ παιδείαν ἀσεβεῖς ἐξουθενήσουσιν,σοφία | παιδεία | ἀσεβής,plural subject clause,the ungodly will despise wisdom and discipline,wisdom and discipline ungodly will despise,English supplies the and reorders the clause for readable syntax.,reviewed,codex
 Proverbs 3:25,ὁρμὰς ἀσεβῶν,ὁρμή | ἀσεβής,genitive plural phrase,assaults of the ungodly,assaults of ungodly,English supplies the for readable class-group idiom.,reviewed,codex
 Proverbs 4:14,ὁδοὺς ἀσεβῶν,ὁδός | ἀσεβής,genitive plural phrase,ways of the ungodly,ways of ungodly,English supplies the for readable class-group idiom.,reviewed,codex
@@ -5532,3 +5532,15 @@ Proverbs 28:23,ἀνθρώπου ὁδοὺς ... γλωσσοχαριτοῦν�
 Proverbs 28:25,ἄπιστος ἀνὴρ,ἄπιστος | ἀνήρ,singular subject,A faithless man,Faithless man,English supplies a for the faithless-man phrase.,reviewed,codex
 Proverbs 28:26,θρασείᾳ καρδίᾳ ... ὁ τοιοῦτος ἄφρων,καρδία | ἄφρων,heart and predicate phrase,a bold heart ... that man is a fool,bold heart ... that man fool,English supplies a and is for bold-heart/fool syntax.,reviewed,codex
 Proverbs 28:27,πτωχοῖς,πτωχός,plural class object,the poor,poor,English supplies the for the poor.,reviewed,codex
+Proverbs 29:1,ἀνὴρ ἐλέγχων ... ἀνδρὸς σκληροτραχήλου,ἀνήρ | ἐλέγχω | σκληροτράχηλος,comparative man phrase,a man who rebukes ... a stiff-necked man,man rebuking ... stiff-necked man,English supplies articles and relative phrasing for readable comparison syntax.,reviewed,codex
+Proverbs 29:2,δικαίων ... ἀσεβῶν,δίκαιος | ἀσεβής,plural class groups,the righteous ... the ungodly,righteous ... ungodly,English supplies the for righteous and ungodly class groups.,reviewed,codex
+Proverbs 29:3,ἀνδρὸς φιλοῦντος σοφίαν,ἀνήρ | σοφία,genitive man phrase,a man loves wisdom,man loves wisdom,English supplies a for the man phrase.,reviewed,codex
+Proverbs 29:4,ἀνὴρ δὲ παράνομος,ἀνήρ | παράνομος,contrastive singular subject,a lawless man,lawless man,English supplies a for the lawless-man phrase.,reviewed,codex
+Proverbs 29:5,δίκτυον ἐπὶ πρόσωπον,δίκτυον | πρόσωπον,net and face idiom,a net before his own friend,net on face of his own friend,English supplies a for net and renders before for the face-of idiom.,reviewed,codex
+Proverbs 29:9,ἀνὴρ δὲ φαῦλος,ἀνήρ | φαῦλος,contrastive singular subject,a base man,base man,English supplies a for the base-man phrase.,reviewed,codex
+Proverbs 29:10,ὅσιον ... οἱ δὲ εὐθεῖς,ὅσιος | εὐθύς,singular object and plural class group,a holy man ... the upright,holy man ... upright,English supplies a for holy man and the for upright class group.,reviewed,codex
+Proverbs 29:13,δανειστοῦ καὶ χρεωφειλέτου,δανειστής | χρεωφειλέτης,paired singular genitives,a lender and debtor,lender and debtor,English supplies a for the lender/debtor phrase.,reviewed,codex
+Proverbs 29:14,πτωχούς,πτωχός,plural class object,the poor,poor men,English supplies the for the poor.,reviewed,codex
+Proverbs 29:16,ἀσεβῶν ... οἱ δὲ δίκαιοι,ἀσεβής | δίκαιος,plural class groups,the ungodly ... the righteous,ungodly ... righteous,English supplies the for ungodly and righteous class groups.,reviewed,codex
+Proverbs 29:26,πρόσωπα ἡγουμένων,πρόσωπον | ἡγούμενος,leader-face phrase,the faces of the leaders,faces of leaders,English supplies the for the leaders.,reviewed,codex
+Proverbs 29:27,δικαίοις,δίκαιος,plural class dative,the righteous,righteous people,English supplies the for the righteous class group.,reviewed,codex

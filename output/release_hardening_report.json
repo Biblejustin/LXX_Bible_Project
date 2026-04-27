@@ -334,10 +334,10 @@
   "active_marker_hits": [],
   "blocking_text_artifacts": [],
   "repeated_word_candidates": [],
-  "review_status_total": 608,
+  "review_status_total": 622,
   "review_status_counts": {
     "keep": 308,
-    "revised": 300
+    "revised": 314
   },
   "priority_open_count": 0,
   "priority_open_examples": [],
