@@ -70276,7 +70276,7 @@ And I saw there is no good except that man will rejoice in his works, because th
 
 **Ecclesiastes 4:1**
 
-And I turned and saw all slanders happening under the sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
+And I turned and saw all the slanders happening under the sun, and look, the tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
 
 **Ecclesiastes 4:2**
 
@@ -70284,11 +70284,11 @@ And I praised the dead, those already having died, above the living who are stil
 
 **Ecclesiastes 4:3**
 
-And better than both these, whoever not yet came to be, who did not see evil work done under the sun.
+And better than both these is the one who has not yet come to be, who did not see the evil work done under the sun.
 
 **Ecclesiastes 4:4**
 
-And I saw all toil and all manliness of work, that it is jealousy of man from his companion; and this too vanity and choice of spirit.
+And I saw all the toil and all the manliness of the work, that it is jealousy of a man from his companion; and this too is vanity and choice of spirit.
 
 **Ecclesiastes 4:5**
 
@@ -70296,7 +70296,7 @@ A fool folded his hands and ate his own flesh.
 
 **Ecclesiastes 4:6**
 
-Better one handful of rest than filling of two hands of toil and choice of spirit.
+Better one handful of rest than the filling of two hands with toil and choice of spirit.
 
 **Ecclesiastes 4:7**
 
@@ -70304,43 +70304,43 @@ And I turned and saw vanity under the sun:
 
 **Ecclesiastes 4:8**
 
-There is one and there is not second, and indeed son and brother are not to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too vanity and evil distraction.
+There is one and there is no second, and indeed there is no son or brother to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too is vanity and an evil distraction.
 
 **Ecclesiastes 4:9**
 
-Two are good above one, because they have good reward in their toil.
+The two are good above the one, because they have a good reward in their toil.
 
 **Ecclesiastes 4:10**
 
-Because if they fall, one will raise his partner, and woe to the one when he falls and there is no second to raise him.
+Because if they fall, the one will raise his partner, and woe to the one when he falls and there is no second to raise him.
 
 **Ecclesiastes 4:11**
 
-And also if two lie down, there is warmth to them; but one, how will he be warmed?
+And also if two lie down, there is warmth to them; but the one, how will he be warmed?
 
 **Ecclesiastes 4:12**
 
-And if one overpowers, two will stand against him, and threefold cord will not quickly be torn apart.
+And if the one overpowers, the two will stand against him, and the threefold cord will not quickly be torn apart.
 
 **Ecclesiastes 4:13**
 
-Better poor and wise child than old and foolish king who no longer knew how to heed.
+Better a poor and wise child than an old and foolish king who no longer knew how to heed.
 
 **Ecclesiastes 4:14**
 
-Because from the house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
+Because from the house of the prisoners he will come out to reign, because indeed in his kingdom he was born poor.
 
 **Ecclesiastes 4:15**
 
-I saw all living who walk under the sun with young second one who will stand in his place.
+I saw all the living who walk under the sun with the second young man who will stand in his place.
 
 **Ecclesiastes 4:16**
 
-There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too vanity and choice of spirit.
+There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too is vanity and choice of spirit.
 
 **Ecclesiastes 4:17**
 
-Guard your foot whenever you go into the house of God, and draw near to hear rather than to give sacrifice of fools, for they are not knowing to do evil.
+Guard your foot whenever you go into the house of God, and draw near to hear rather than to give the sacrifice of fools, for they are not knowing to do evil.
 
 ### Chapter 5
 

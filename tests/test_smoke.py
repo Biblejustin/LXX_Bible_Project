@@ -3614,6 +3614,12 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Ecclesiastes 4:5"]["draft_translation"].startswith(
         "A fool folded his hands"
     )
+    assert "all the slanders happening under the sun" in by_ref["Ecclesiastes 4:1"]["draft_translation"]
+    assert "this too is vanity" in by_ref["Ecclesiastes 4:4"]["draft_translation"]
+    assert "There is one and there is no second" in by_ref["Ecclesiastes 4:8"]["draft_translation"]
+    assert by_ref["Ecclesiastes 4:13"]["draft_translation"].startswith(
+        "Better a poor and wise child"
+    )
     assert "judgments of the Lord are true" in by_ref["Psalms 18:10"]["draft_translation"]
     assert by_ref["Psalms 32:4"]["draft_translation"].startswith(
         "Because the word of the Lord is straight"
@@ -4951,7 +4957,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "served as priest in his place" in by_ref["Deuteronomy 10:6"]["draft_translation"]
     assert "reigned in his place" in by_ref["1 Kings 14:31"]["draft_translation"]
     assert "would reign in his place" in by_ref["2 Kings 3:27"]["draft_translation"]
-    assert "who will stand in his place" in by_ref["Ecclesiastes 4:15"]["draft_translation"]
+    assert "the second young man who will stand in his place" in by_ref["Ecclesiastes 4:15"]["draft_translation"]
     assert "Who will give my death instead of you? I, instead of you" in by_ref["2 Samuel 19:1"]["draft_translation"]
     assert "made bronze arms in their place" in by_ref["1 Kings 14:27"]["draft_translation"]
     assert "put satraps in their place" in by_ref["1 Kings 21:24"]["draft_translation"]

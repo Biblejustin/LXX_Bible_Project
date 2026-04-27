@@ -155099,10 +155099,10 @@ Note:
 ### Ecclesiastes 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I turned and saw all slanders happening under the sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
+- fresh: And I turned and saw all the slanders happening under the sun, and look, the tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
 - brenton: So I returned, and saw all the oppressions that were done under the sun: and behold the tear of the oppressed, and they had no comforter; and on the side of them that oppressed them was power; but they had no comforter:
 
 ### Ecclesiastes 4:2
@@ -155117,19 +155117,19 @@ Note:
 ### Ecclesiastes 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And better than both these, whoever not yet came to be, who did not see evil work done under the sun.
+- fresh: And better than both these is the one who has not yet come to be, who did not see the evil work done under the sun.
 - brenton: Better also than both these is he who has not yet been, who has not seen all the evil work that is done under the sun.
 
 ### Ecclesiastes 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw all toil and all manliness of work, that it is jealousy of man from his companion; and this too vanity and choice of spirit.
+- fresh: And I saw all the toil and all the manliness of the work, that it is jealousy of a man from his companion; and this too is vanity and choice of spirit.
 - brenton: And I saw all labour, and all the diligent work, that this is a man's envy from his neighbour. This is also vanity and waywardness of spirit.
 
 ### Ecclesiastes 4:5
@@ -155144,10 +155144,10 @@ Note:
 ### Ecclesiastes 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better one handful of rest than filling of two hands of toil and choice of spirit.
+- fresh: Better one handful of rest than the filling of two hands with toil and choice of spirit.
 - brenton: Better is a handful of rest than two handfuls of trouble and waywardness of spirit.
 
 ### Ecclesiastes 4:7
@@ -155162,91 +155162,91 @@ Note:
 ### Ecclesiastes 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is one and there is not second, and indeed son and brother are not to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too vanity and evil distraction.
+- fresh: There is one and there is no second, and indeed there is no son or brother to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too is vanity and an evil distraction.
 - brenton: There is one alone, and there is not a second; yea, he has neither son nor brother: yet there is no end to all his labour; neither is his eye satisfied with wealth; and for whom do I labour, and deprive my soul of good? this is also vanity, and an evil trouble.
 
 ### Ecclesiastes 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Two are good above one, because they have good reward in their toil.
+- fresh: The two are good above the one, because they have a good reward in their toil.
 - brenton: Two are better than one, seeing they have a good reward for their labour.
 
 ### Ecclesiastes 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if they fall, one will raise his partner, and woe to the one when he falls and there is no second to raise him.
+- fresh: Because if they fall, the one will raise his partner, and woe to the one when he falls and there is no second to raise him.
 - brenton: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls, and there is not a second to lift him up.
 
 ### Ecclesiastes 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And also if two lie down, there is warmth to them; but one, how will he be warmed?
+- fresh: And also if two lie down, there is warmth to them; but the one, how will he be warmed?
 - brenton: Also if two should lie together, they also get heat: but how shall one be warmed alone?
 
 ### Ecclesiastes 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if one overpowers, two will stand against him, and threefold cord will not quickly be torn apart.
+- fresh: And if the one overpowers, the two will stand against him, and the threefold cord will not quickly be torn apart.
 - brenton: And if one should prevail against him, the two shall withstand him; and a threefold cord shall not be quickly broken.
 
 ### Ecclesiastes 4:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better poor and wise child than old and foolish king who no longer knew how to heed.
+- fresh: Better a poor and wise child than an old and foolish king who no longer knew how to heed.
 - brenton: Better is a poor and wise child than an old and foolish king, who knows not how to take heed any longer.
 
 ### Ecclesiastes 4:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from the house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
+- fresh: Because from the house of the prisoners he will come out to reign, because indeed in his kingdom he was born poor.
 - brenton: For he shall come forth out of the house of the prisoners to reign, because he also that was in his kingdom has become poor.
 
 ### Ecclesiastes 4:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw all living who walk under the sun with young second one who will stand in his place.
+- fresh: I saw all the living who walk under the sun with the second young man who will stand in his place.
 - brenton: I beheld all the living who were walking under the sun, with the second youth who shall stand up in each one's place.
 
 ### Ecclesiastes 4:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too vanity and choice of spirit.
+- fresh: There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too is vanity and choice of spirit.
 - brenton: There is no end to all the people, to all who were before them: and the last shall not rejoice in him: for this also is vanity and waywardness of spirit.
 
 ### Ecclesiastes 4:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Guard your foot whenever you go into the house of God, and draw near to hear rather than to give sacrifice of fools, for they are not knowing to do evil.
+- fresh: Guard your foot whenever you go into the house of God, and draw near to hear rather than to give the sacrifice of fools, for they are not knowing to do evil.
 - brenton: Keep thy foot, whensoever thou goest to the house of God; and when thou art near to hear, let thy sacrifice be better than the gift of fools: for they know not that they are doing evil.
 
 ### Ecclesiastes 5:1

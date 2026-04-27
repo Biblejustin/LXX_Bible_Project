@@ -12395,15 +12395,6 @@ Rows: 20937
 - mt: Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
 - brenton: And Joseph came and told Pharao, saying, My father, and my brethren, and their cattle, and their oxen, and all their possessions, are come out of the land of Chanaan, and, behold, they are in the land of Gesem.
 
-## Ecclesiastes 4:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.095`
-- fresh_brenton_ratio: `0.172`
-- fresh: And I turned and saw all slanders happening under the sun, and look, tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
-- mt: So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
-- brenton: So I returned, and saw all the oppressions that were done under the sun: and behold the tear of the oppressed, and they had no comforter; and on the side of them that oppressed them was power; but they had no comforter:
-
 ## 2 Chronicles 28:12
 - priority: `0`
 - importance: `none`
@@ -13367,6 +13358,15 @@ Rows: 20937
 - mt: What thing shall I take to witness for you? what thing shall I liken to you, O daughter of Jerusalem? what shall I equal to you, that I may comfort you, O virgin daughter of Zion? for your breach is great like the sea: who can heal you?
 - brenton: Mem. What shall I testify to thee, or what shall I compare to thee, O daughter of Jerusalem? who shall save and comfort thee, O virgin daughter of Sion? for the cup of thy destruction is enlarged: who shall heal thee?
 
+## Ecclesiastes 4:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.106`
+- fresh_brenton_ratio: `0.106`
+- fresh: There is one and there is no second, and indeed there is no son or brother to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too is vanity and an evil distraction.
+- mt: There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.
+- brenton: There is one alone, and there is not a second; yea, he has neither son nor brother: yet there is no end to all his labour; neither is his eye satisfied with wealth; and for whom do I labour, and deprive my soul of good? this is also vanity, and an evil trouble.
+
 ## 2 Kings 18:32
 - priority: `0`
 - importance: `none`
@@ -13555,15 +13555,6 @@ Rows: 20937
 - fresh: Because the meeting of the sons of man and the meeting of the beast are one meeting for them; as the death of this one, so the death of that one, and one spirit is in all, and what did man have more than beast? Nothing, because all is vanity.
 - mt: For that which befalls the sons of men befalls beasts; even one thing befalls them: as the one dies, so dies the other; yea, they have all one breath; so that a man has no preeminence above a beast: for all is vanity.
 - brenton: Also to them is the event of the sons of man, and the event of the brute; one event befalls them: as is the death of the one, so also the death of the other; and there is one breath to all: and what has the man more than the brute? nothing; for all is vanity.
-
-## Ecclesiastes 4:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.108`
-- fresh_brenton_ratio: `0.108`
-- fresh: There is one and there is not second, and indeed son and brother are not to him, and there is no end to all his toil; yet his eye is not filled with wealth. "And for whom do I toil and deprive my soul from goodness?" And this too vanity and evil distraction.
-- mt: There is one alone, and there is not a second; yea, he has neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither says he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.
-- brenton: There is one alone, and there is not a second; yea, he has neither son nor brother: yet there is no end to all his labour; neither is his eye satisfied with wealth; and for whom do I labour, and deprive my soul of good? this is also vanity, and an evil trouble.
 
 ## Isaiah 42:16
 - priority: `0`
@@ -13825,6 +13816,15 @@ Rows: 20937
 - fresh: And they buried him in tomb which he dug for himself in the City of David and laid him on bier, and they filled it with spices and kinds of perfumed ointments, and they made for him very great funeral.
 - mt: And they buried him in his own sepulchers, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries' are: and they made a very great burning for him.
 - brenton: And they buried him in the sepulchre which he had dug for himself in the city of David, and they laid him on a bed, and filled it with spices and all kinds of perfumes of the apothecaries; and they made for him a very great funeral.
+
+## Ecclesiastes 4:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.111`
+- fresh_brenton_ratio: `0.188`
+- fresh: And I turned and saw all the slanders happening under the sun, and look, the tears of those slandered, and there is no comforter for them, and from the hand of those slandering them is strength, and there is no comforter for them.
+- mt: So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+- brenton: So I returned, and saw all the oppressions that were done under the sun: and behold the tear of the oppressed, and they had no comforter; and on the side of them that oppressed them was power; but they had no comforter:
 
 ## Zechariah 12:6
 - priority: `0`
@@ -64802,15 +64802,6 @@ Rows: 20937
 - mt: None that go unto her return again, neither take they hold of the paths of life.
 - brenton: None that go by her shall return, neither shall they take hold of right paths, for they are not apprehended of the years of life.
 
-## Ecclesiastes 4:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.478`
-- fresh_brenton_ratio: `0.667`
-- fresh: And I saw all toil and all manliness of work, that it is jealousy of man from his companion; and this too vanity and choice of spirit.
-- mt: Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
-- brenton: And I saw all labour, and all the diligent work, that this is a man's envy from his neighbour. This is also vanity and waywardness of spirit.
-
 ## Proverbs 19:25
 - priority: `0`
 - importance: `none`
@@ -77708,6 +77699,15 @@ Rows: 20937
 - mt: Does the plowman plow all day to sow? does he open and break the clods of his ground?
 - brenton: Will the ploughman plough all the day? or will he prepare the seed beforehand, before he tills the ground?
 
+## Ecclesiastes 4:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.554`
+- fresh_brenton_ratio: `0.669`
+- fresh: And I saw all the toil and all the manliness of the work, that it is jealousy of a man from his companion; and this too is vanity and choice of spirit.
+- mt: Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
+- brenton: And I saw all labour, and all the diligent work, that this is a man's envy from his neighbour. This is also vanity and waywardness of spirit.
+
 ## Jeremiah 10:21
 - priority: `0`
 - importance: `none`
@@ -79129,6 +79129,15 @@ Rows: 20937
 - fresh: Like sour grape to teeth and smoke to eyes, so lawlessness to those using it.
 - mt: As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.
 - brenton: As a sour grape is hurtful to the teeth, and smoke to the eyes, so iniquity hurts those that practise it.
+
+## Ecclesiastes 4:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.561`
+- fresh_brenton_ratio: `0.614`
+- fresh: And also if two lie down, there is warmth to them; but the one, how will he be warmed?
+- mt: Again, if two lie together, then they have heat: but how can one be warm alone?
+- brenton: Also if two should lie together, they also get heat: but how shall one be warmed alone?
 
 ## Hosea 4:8
 - priority: `0`
@@ -82063,15 +82072,6 @@ Rows: 20937
 - fresh: But I planted you fruitful vine, wholly true. How did you turn into bitterness, foreign vine?
 - mt: Yet I had planted you a noble vine, wholly a right seed: how then are you turned into the degenerate plant of a strange vine unto me?
 - brenton: Yet I planted thee a fruitful vine, entirely of the right sort: how art thou a strange vine turned to bitterness!
-
-## Ecclesiastes 4:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.575`
-- fresh_brenton_ratio: `0.630`
-- fresh: And also if two lie down, there is warmth to them; but one, how will he be warmed?
-- mt: Again, if two lie together, then they have heat: but how can one be warm alone?
-- brenton: Also if two should lie together, they also get heat: but how shall one be warmed alone?
 
 ## Zephaniah 3:15
 - priority: `0`
@@ -87635,6 +87635,15 @@ Rows: 20937
 - mt: I have written to him the great things of my law, but they were counted as a strange thing.
 - brenton: I will write down a multitude of commands for him; but his statutes are accounted strange things, even the beloved altars.
 
+## Ecclesiastes 4:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.598`
+- fresh_brenton_ratio: `0.684`
+- fresh: Because from the house of the prisoners he will come out to reign, because indeed in his kingdom he was born poor.
+- mt: For out of prison he comes to reign; whereas also he that is born in his kingdom becomes poor.
+- brenton: For he shall come forth out of the house of the prisoners to reign, because he also that was in his kingdom has become poor.
+
 ## 2 Samuel 15:4
 - priority: `0`
 - importance: `none`
@@ -89417,15 +89426,6 @@ Rows: 20937
 - mt: And you shall eat it as barley cakes, and you shall bake it with dung that comes out of man, in their sight.
 - brenton: And thou shalt eat them as a barley cake: thou shalt bake them before their eyes in man's dung.
 
-## Ecclesiastes 4:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.604`
-- fresh_brenton_ratio: `0.726`
-- fresh: Because if they fall, one will raise his partner, and woe to the one when he falls and there is no second to raise him.
-- mt: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls; for he has not another to help him up.
-- brenton: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls, and there is not a second to lift him up.
-
 ## 2 Chronicles 9:19
 - priority: `0`
 - importance: `none`
@@ -91054,15 +91054,6 @@ Rows: 20937
 - fresh: And if your brother becomes poor and grows weak in his hands beside you, you shall take hold of him as of a newcomer and a resident, and your brother shall live with you.
 - mt: And if your brother be becoming poor, and fallen in decay with you; then you shall relieve him: yea, though he be a stranger, or a sojourner; that he may live with you.
 - brenton: And if thy brother who is with thee become poor, and he fail in resources with thee, thou shalt help him as a stranger and a sojourner, and thy brother shall live with thee.
-
-## Ecclesiastes 4:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.610`
-- fresh_brenton_ratio: `0.661`
-- fresh: Because from the house of prisoners he will come out to reign, because indeed in his kingdom he was born poor.
-- mt: For out of prison he comes to reign; whereas also he that is born in his kingdom becomes poor.
-- brenton: For he shall come forth out of the house of the prisoners to reign, because he also that was in his kingdom has become poor.
 
 ## 1 Samuel 17:2
 - priority: `0`
@@ -95888,6 +95879,15 @@ Rows: 20937
 - mt: I hearkened and heard, but they spoke not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rushes into the battle.
 - brenton: Hearken, I pray you, and hear: will they not speak thus, There is no man that repents of his wickedness, saying, What have I done? the runner has failed from his course, as a tired horse in his neighing.
 
+## Ecclesiastes 4:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.627`
+- fresh_brenton_ratio: `0.746`
+- fresh: Because if they fall, the one will raise his partner, and woe to the one when he falls and there is no second to raise him.
+- mt: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls; for he has not another to help him up.
+- brenton: For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls, and there is not a second to lift him up.
+
 ## Jeremiah 16:12
 - priority: `0`
 - importance: `none`
@@ -96013,6 +96013,15 @@ Rows: 20937
 - fresh: And you with evil weakness, in disease of belly, until your belly comes out with sickness from day to day.
 - mt: And you shall have great sickness by disease of your bowels, until your bowels fall out by reason of the sickness day by day.
 - brenton: and thou shalt be afflicted with a grievous disease, with a disease of the bowels, until thy bowels shall fall out day by day with the sickness.
+
+## Ecclesiastes 4:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.628`
+- fresh_brenton_ratio: `0.598`
+- fresh: And if the one overpowers, the two will stand against him, and the threefold cord will not quickly be torn apart.
+- mt: And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
+- brenton: And if one should prevail against him, the two shall withstand him; and a threefold cord shall not be quickly broken.
 
 ## Job 31:36
 - priority: `0`
@@ -101468,15 +101477,6 @@ Rows: 20937
 - mt: He has also established them for ever and ever: he has made a decree which shall not pass.
 - brenton: He has established them for ever, even for ever and ever: he has made an ordinance, and it shall not pass away.
 
-## Ecclesiastes 4:6
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.644`
-- fresh_brenton_ratio: `0.748`
-- fresh: Better one handful of rest than filling of two hands of toil and choice of spirit.
-- mt: Better is an handful with quietness, than both the hands full with travail and vexation of spirit.
-- brenton: Better is a handful of rest than two handfuls of trouble and waywardness of spirit.
-
 ## Jonah 1:6
 - priority: `0`
 - importance: `none`
@@ -102061,15 +102061,6 @@ Rows: 20937
 - fresh: Deep water is counsel in the heart of man, but prudent man will draw it out.
 - mt: Counsel in the heart of man is like deep water; but a man of understanding will draw it out.
 - brenton: Counsel in a man's heart is deep water; but a prudent man will draw it out.
-
-## Ecclesiastes 4:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.646`
-- fresh_brenton_ratio: `0.613`
-- fresh: And if one overpowers, two will stand against him, and threefold cord will not quickly be torn apart.
-- mt: And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
-- brenton: And if one should prevail against him, the two shall withstand him; and a threefold cord shall not be quickly broken.
 
 ## 2 Samuel 23:21
 - priority: `0`
@@ -105427,6 +105418,15 @@ Rows: 20937
 - fresh: Because from Jerusalem those left will go out and those being saved from Mount Zion. The zeal of the Lord of hosts will do these things.
 - mt: For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this.
 - brenton: for out of Jerusalem there shall be a remnant, and the saved ones out of mount Sion: the zeal of the Lord of hosts shall perform this.
+
+## Ecclesiastes 4:6
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.656`
+- fresh_brenton_ratio: `0.698`
+- fresh: Better one handful of rest than the filling of two hands with toil and choice of spirit.
+- mt: Better is an handful with quietness, than both the hands full with travail and vexation of spirit.
+- brenton: Better is a handful of rest than two handfuls of trouble and waywardness of spirit.
 
 ## Numbers 3:23
 - priority: `0`
@@ -110071,6 +110071,15 @@ Rows: 20937
 - fresh: See, these come from far away; these from north, and these from sea; and others from the land of Persians.
 - mt: Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
 - brenton: Behold, these shall come from far: and these from the north and the west, and others from the land of the Persians.
+
+## Ecclesiastes 4:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.670`
+- fresh_brenton_ratio: `0.812`
+- fresh: And better than both these is the one who has not yet come to be, who did not see the evil work done under the sun.
+- mt: Yea, better is he than either of them, which has not yet been, who has not seen the evil work that is done under the sun.
+- brenton: Better also than both these is he who has not yet been, who has not seen all the evil work that is done under the sun.
 
 ## Jeremiah 5:13
 - priority: `0`
@@ -123113,15 +123122,6 @@ Rows: 20937
 - mt: Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.
 - brenton: And all the people of the land went into the house of Baal, and tore down it and its altars, and they ground his images to powder, and they slew Matthan the priest of Baal before his altars.
 
-## Ecclesiastes 4:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.704`
-- fresh_brenton_ratio: `0.749`
-- fresh: I saw all living who walk under the sun with young second one who will stand in his place.
-- mt: I considered all the living which walk under the sun, with the second child that shall stand up in his position.
-- brenton: I beheld all the living who were walking under the sun, with the second youth who shall stand up in each one's place.
-
 ## Genesis 27:13
 - priority: `0`
 - importance: `none`
@@ -124345,15 +124345,6 @@ Rows: 20937
 - fresh: O house of Jacob, saying, Has the spirit of the Lord been provoked? Are these his practices? Are not his words good with him, and have they walked uprightly?
 - mt: O you that are named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walks uprightly?
 - brenton: who says, The house of Jacob has provoked the Spirit of the Lord; are not these his practices? Are not the Lord's words right with him? and have they not proceeded correctly?
-
-## Ecclesiastes 4:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.707`
-- fresh_brenton_ratio: `0.738`
-- fresh: And better than both these, whoever not yet came to be, who did not see evil work done under the sun.
-- mt: Yea, better is he than either of them, which has not yet been, who has not seen the evil work that is done under the sun.
-- brenton: Better also than both these is he who has not yet been, who has not seen all the evil work that is done under the sun.
 
 ## Numbers 34:20
 - priority: `0`
@@ -137126,15 +137117,6 @@ Rows: 20937
 - mt: We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours.
 - brenton: We will go over armed before the Lord into the land of Chanaan, and ye shall give us our inheritance beyond Jordan.
 
-## Ecclesiastes 4:13
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.739`
-- fresh_brenton_ratio: `0.789`
-- fresh: Better poor and wise child than old and foolish king who no longer knew how to heed.
-- mt: Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
-- brenton: Better is a poor and wise child than an old and foolish king, who knows not how to take heed any longer.
-
 ## Ruth 3:5
 - priority: `0`
 - importance: `none`
@@ -138466,15 +138448,6 @@ Rows: 20937
 - fresh: And I will make him faithful in my house and in his kingdom forever, and his throne shall stand upright forever.
 - mt: But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
 - brenton: And I will establish him in my house and in his kingdom for ever; and his throne shall be set up for ever.
-
-## Ecclesiastes 4:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.742`
-- fresh_brenton_ratio: `0.844`
-- fresh: There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too vanity and choice of spirit.
-- mt: There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
-- brenton: There is no end to all the people, to all who were before them: and the last shall not rejoice in him: for this also is vanity and waywardness of spirit.
 
 ## 2 Samuel 15:7
 - priority: `0`
@@ -143408,6 +143381,15 @@ Rows: 20937
 - mt: Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the utmost coast of the salt sea eastward:
 - brenton: And your southern side shall be from the wilderness of Sin to the border of Edom, and your border southward shall extend on the side of the salt sea eastward.
 
+## Ecclesiastes 4:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.754`
+- fresh_brenton_ratio: `0.806`
+- fresh: I saw all the living who walk under the sun with the second young man who will stand in his place.
+- mt: I considered all the living which walk under the sun, with the second child that shall stand up in his position.
+- brenton: I beheld all the living who were walking under the sun, with the second youth who shall stand up in each one's place.
+
 ## 2 Samuel 13:3
 - priority: `0`
 - importance: `none`
@@ -143488,6 +143470,15 @@ Rows: 20937
 - fresh: And I said to them, 'Whoever has gold ornaments, strip them off.' And they gave them to me, and I threw them into the fire, and out came this calf."
 - mt: And I said unto them, Whosoever has any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
 - brenton: And I said to them, If any one has golden ornaments, take them off; and they gave them me, and I cast them into the fire, and there came out this calf.
+
+## Ecclesiastes 4:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.754`
+- fresh_brenton_ratio: `0.855`
+- fresh: There is no end to all the people, to all who were before them; yet those last will not rejoice in him, because this too is vanity and choice of spirit.
+- mt: There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.
+- brenton: There is no end to all the people, to all who were before them: and the last shall not rejoice in him: for this also is vanity and waywardness of spirit.
 
 ## Ezekiel 34:24
 - priority: `0`
@@ -148826,15 +148817,6 @@ Rows: 20937
 - mt: And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.
 - brenton: And the king of Egypt came no more out of his land: for the king of Babylon took away all that belonged to the king of Egypt from the river of Egypt as far as the river Euphrates.
 
-## Ecclesiastes 4:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.768`
-- fresh_brenton_ratio: `0.701`
-- fresh: Two are good above one, because they have good reward in their toil.
-- mt: Two are better than one; because they have a good reward for their labour.
-- brenton: Two are better than one, seeing they have a good reward for their labour.
-
 ## 2 Chronicles 6:15
 - priority: `0`
 - importance: `none`
@@ -150994,6 +150976,15 @@ Rows: 20937
 - fresh: they melted down money found in the house of the Lord and gave it into the hand of overseers and into the hand of those doing work.
 - mt: And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.
 - brenton: And they have collected the money that was found in the house of the Lord, and given it into the hand of the overseers, and into the hand of them that do the work.
+
+## Ecclesiastes 4:13
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.773`
+- fresh_brenton_ratio: `0.821`
+- fresh: Better a poor and wise child than an old and foolish king who no longer knew how to heed.
+- mt: Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
+- brenton: Better is a poor and wise child than an old and foolish king, who knows not how to take heed any longer.
 
 ## 1 Samuel 17:3
 - priority: `0`
@@ -154774,6 +154765,15 @@ Rows: 20937
 - fresh: And when the tent is taken down, the Levites shall take it down, and when the tent camps, the Levites shall set it up. And the stranger who comes near shall die.
 - mt: And when the tabernacle sets forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that comes nigh shall be put to death.
 - brenton: And in removing the tabernacle, the Levites shall take it down, and in pitching the tabernacle they shall set it up: and let the stranger that advances to touch it die.
+
+## Ecclesiastes 4:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.784`
+- fresh_brenton_ratio: `0.721`
+- fresh: The two are good above the one, because they have a good reward in their toil.
+- mt: Two are better than one; because they have a good reward for their labour.
+- brenton: Two are better than one, seeing they have a good reward for their labour.
 
 ## Job 7:12
 - priority: `0`
