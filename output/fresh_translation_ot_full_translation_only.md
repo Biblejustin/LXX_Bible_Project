@@ -72342,11 +72342,11 @@ And the high ones will fall by a sword, and Lebanon with the high ones will fall
 
 **Isaiah 11:1**
 
-And rod will come out from the root of Jesse, and flower from root will go up.
+And a rod will come out from the root of Jesse, and a flower from the root will go up.
 
 **Isaiah 11:2**
 
-And the Spirit of God will rest upon him, a spirit of wisdom and understanding, spirit of counsel and strength, spirit of knowledge and piety.
+And the Spirit of God will rest upon him, a spirit of wisdom and understanding, a spirit of counsel and strength, a spirit of knowledge and piety.
 
 **Isaiah 11:3**
 
@@ -72354,7 +72354,7 @@ The spirit of fear of God will fill him; not according to glory will he judge, n
 
 **Isaiah 11:4**
 
-But he will judge humble in judgment and reprove humble of earth, and strike earth with word of his mouth, and by spirit through lips he will kill ungodly.
+But he will judge the humble in judgment and reprove the humble of the earth, and strike the earth with the word of his mouth, and by spirit through lips he will kill the ungodly.
 
 **Isaiah 11:5**
 
@@ -72362,47 +72362,47 @@ And righteousness will be girded about his loins and truth wrapped round his sid
 
 **Isaiah 11:6**
 
-And wolf will graze together with lamb, and leopard will rest together with kid, and calf and bull and lion together will graze, and little child will lead them.
+And a wolf will graze together with a lamb, and a leopard will rest together with a kid, and a calf and a bull and a lion together will graze, and a little child will lead them.
 
 **Isaiah 11:7**
 
-And ox and bear will graze together, and together their young will be, and lion and ox together will eat straw.
+And an ox and a bear will graze together, and together their young will be, and a lion and an ox together will eat straw.
 
 **Isaiah 11:8**
 
-And infant child over hole of asps, and over bed of offspring of asps will lay hand.
+And an infant child will lay his hand over a hole of asps and over a bed of offspring of asps.
 
 **Isaiah 11:9**
 
-And they will certainly not do evil nor be able to destroy anyone upon my holy mountain, because whole world was filled to know Lord, as much water covers seas.
+And they will certainly not do evil nor be able to destroy anyone upon my holy mountain, because the whole world was filled to know the Lord, as much water covers the seas.
 
 **Isaiah 11:10**
 
-And it will be in that day, root of Jesse and one rising to rule nations; on him nations will hope, and his rest will be honor.
+And it will be in that day, the root of Jesse and the one rising to rule nations; on him nations will hope, and his rest will be honor.
 
 **Isaiah 11:11**
 
-And it will be in that day, the Lord will add to show his hand, to be zealous for remnant left of his people which might be left from Assyrians and Egypt and Babylon and Ethiopia and from Elamites and from the east of sun and from Arabia.
+And it will be in that day, the Lord will add to show his hand, to be zealous for the remnant left of his people which might be left from the Assyrians and Egypt and Babylon and Ethiopia and from the Elamites and from the east of the sun and from Arabia.
 
 **Isaiah 11:12**
 
-And he will raise sign to nations and gather lost of Israel, and dispersed of Judah he will gather from four wings of earth.
+And he will raise a sign to the nations and gather the lost of Israel, and the dispersed of Judah he will gather from the four wings of the earth.
 
 **Isaiah 11:13**
 
-And zeal of Ephraim will be removed and enemies of Judah will perish; Ephraim will not be jealous of Judah and Judah will not oppress Ephraim.
+And the zeal of Ephraim will be removed and the enemies of Judah will perish; Ephraim will not be jealous of Judah and Judah will not oppress Ephraim.
 
 **Isaiah 11:14**
 
-And they will fly in ships of foreigners, sea together they will plunder, and easterners and Edom, and upon Moab first they will lay hands, and sons of Ammon will obey first.
+And they will fly in ships of foreigners; the sea together they will plunder, and the easterners and Edom, and upon Moab first they will lay hands, and the sons of Ammon will obey first.
 
 **Isaiah 11:15**
 
-And the Lord will make sea of Egypt desolate and lay his hand upon the river with violent spirit and strike seven ravines, so as to pass through it in sandals.
+And the Lord will make the sea of Egypt desolate and lay his hand upon the river with a violent spirit and strike seven ravines, so as to pass through it in sandals.
 
 **Isaiah 11:16**
 
-And there will be passage for my people left in Egypt, and it will be for Israel as day when he came out from the land of Egypt.
+And there will be a passage for my people left in Egypt, and it will be for Israel as the day when he came out from the land of Egypt.
 
 ### Chapter 12
 
@@ -72420,15 +72420,15 @@ And you will draw water with gladness from the springs of salvation.
 
 **Isaiah 12:4**
 
-And you will say in that day, sing hymn to the Lord, cry his name, announce among nations his glorious things, remember that his name was exalted.
+And you will say in that day, sing a hymn to the Lord, cry his name, announce among the nations his glorious things, remember that his name was exalted.
 
 **Isaiah 12:5**
 
-Sing hymn to the name of the Lord, because he did high things; announce these in all the earth.
+Sing a hymn to the name of the Lord, because he did high things; announce these in all the earth.
 
 **Isaiah 12:6**
 
-Exult and rejoice, dwellers of Zion, because the Holy One of Israel was exalted in the midst of her.
+Exult and rejoice, the dwellers of Zion, because the Holy One of Israel was exalted in her midst.
 
 ### Chapter 13
 

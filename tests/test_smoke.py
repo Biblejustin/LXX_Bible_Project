@@ -3509,6 +3509,12 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "Psalms 108:2"
     ]["draft_translation"]
     assert by_ref["Isaiah 11:3"]["draft_translation"].startswith("The spirit of fear of God")
+    assert "a rod will come out from the root of Jesse" in by_ref["Isaiah 11:1"][
+        "draft_translation"
+    ]
+    assert "a wolf will graze together with a lamb" in by_ref["Isaiah 11:6"][
+        "draft_translation"
+    ]
     assert by_ref["Isaiah 19:3"]["draft_translation"].startswith("And the spirit of Egyptians")
     assert by_ref["Isaiah 61:1"]["draft_translation"].startswith("The Spirit of the Lord on me")
     assert by_ref["Jeremiah 4:12"]["draft_translation"].startswith("The spirit of fullness")
@@ -4593,6 +4599,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "transgress the commandments of the Lord" in by_ref["2 Chronicles 24:20"]["draft_translation"]
     assert "Because you forsake the Lord" in by_ref["2 Chronicles 24:20"]["draft_translation"]
     assert by_ref["Isaiah 11:2"]["draft_translation"].startswith("And the Spirit of God will rest")
+    assert "a spirit of counsel and strength" in by_ref["Isaiah 11:2"]["draft_translation"]
     assert "in the Spirit of God" in by_ref["Ezekiel 11:24"]["draft_translation"]
     assert "from the tribe of Judah" in by_ref["Haggai 1:1"]["draft_translation"]
     assert "before the face of the Most High" in by_ref["Lamentations 3:35"]["draft_translation"]
@@ -4652,6 +4659,11 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "in the ears of all the people" in by_ref["Jeremiah 43:10"]["draft_translation"]
     assert "into the ears of all the people" in by_ref["Jeremiah 35:7"]["draft_translation"]
     assert "from the root of Jesse" in by_ref["Isaiah 11:1"]["draft_translation"]
+    assert "a flower from the root" in by_ref["Isaiah 11:1"]["draft_translation"]
+    assert "the whole world was filled to know the Lord" in by_ref["Isaiah 11:9"][
+        "draft_translation"
+    ]
+    assert "sing a hymn to the Lord" in by_ref["Isaiah 12:4"]["draft_translation"]
     assert "to the top of cliff" in by_ref["2 Chronicles 25:12"]["draft_translation"]
     assert "from the top of Senir" in by_ref["Song of Solomon 4:8"]["draft_translation"]
     assert "at the corner of the court" in by_ref["Ezekiel 46:21"]["draft_translation"]

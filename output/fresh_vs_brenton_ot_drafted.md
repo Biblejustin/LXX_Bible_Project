@@ -159621,19 +159621,19 @@ Note:
 ### Isaiah 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And rod will come out from the root of Jesse, and flower from root will go up.
+- fresh: And a rod will come out from the root of Jesse, and a flower from the root will go up.
 - brenton: And there shall come forth a rod out of the root of Jesse, and a blossom shall come up from his root:
 
 ### Isaiah 11:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Spirit of God will rest upon him, a spirit of wisdom and understanding, spirit of counsel and strength, spirit of knowledge and piety.
+- fresh: And the Spirit of God will rest upon him, a spirit of wisdom and understanding, a spirit of counsel and strength, a spirit of knowledge and piety.
 - brenton: and the Spirit of God shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and godliness shall fill him;
 
 ### Isaiah 11:3
@@ -159648,10 +159648,10 @@ Note:
 ### Isaiah 11:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But he will judge humble in judgment and reprove humble of earth, and strike earth with word of his mouth, and by spirit through lips he will kill ungodly.
+- fresh: But he will judge the humble in judgment and reprove the humble of the earth, and strike the earth with the word of his mouth, and by spirit through lips he will kill the ungodly.
 - brenton: but he shall judge the cause of the lowly, and shall reprove the lowly of the earth: and he shall smite the earth with the word of his mouth, and with the breath of his lips shall he destroy the ungodly one.
 
 ### Isaiah 11:5
@@ -159666,10 +159666,10 @@ Note:
 ### Isaiah 11:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And wolf will graze together with lamb, and leopard will rest together with kid, and calf and bull and lion together will graze, and little child will lead them.
+- fresh: And a wolf will graze together with a lamb, and a leopard will rest together with a kid, and a calf and a bull and a lion together will graze, and a little child will lead them.
 - brenton: And the wolf shall feed with the lamb, and the leopard shall lie down with the kid; and the young calf and bull and lion shall feed together; and a little child shall lead them.
 
 ### Isaiah 11:7
@@ -159678,52 +159678,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And ox and bear will graze together, and together their young will be, and lion and ox together will eat straw.
+- fresh: And an ox and a bear will graze together, and together their young will be, and a lion and an ox together will eat straw.
 - brenton: And the ox and bear shall feed together; and their young shall be together: and the lion shall eat straw like the ox.
 
 ### Isaiah 11:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And infant child over hole of asps, and over bed of offspring of asps will lay hand.
+- fresh: And an infant child will lay his hand over a hole of asps and over a bed of offspring of asps.
 - brenton: And an infant shall put his hand on the holes of asps, and on the nest of young asps.
 
 ### Isaiah 11:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will certainly not do evil nor be able to destroy anyone upon my holy mountain, because whole world was filled to know Lord, as much water covers seas.
+- fresh: And they will certainly not do evil nor be able to destroy anyone upon my holy mountain, because the whole world was filled to know the Lord, as much water covers the seas.
 - brenton: And they shall not hurt, nor shall they at all be able to destroy any one on my holy mountain: for the whole world is filled with the knowledge of the Lord, as much water covers the seas.
 
 ### Isaiah 11:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, root of Jesse and one rising to rule nations; on him nations will hope, and his rest will be honor.
+- fresh: And it will be in that day, the root of Jesse and the one rising to rule nations; on him nations will hope, and his rest will be honor.
 - brenton: And in that day there shall be a root of Jesse, and he that shall arise to rule over the Gentiles; in him shall the Gentiles trust, and his rest shall be glorious.
 
 ### Isaiah 11:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, the Lord will add to show his hand, to be zealous for remnant left of his people which might be left from Assyrians and Egypt and Babylon and Ethiopia and from Elamites and from the east of sun and from Arabia.
+- fresh: And it will be in that day, the Lord will add to show his hand, to be zealous for the remnant left of his people which might be left from the Assyrians and Egypt and Babylon and Ethiopia and from the Elamites and from the east of the sun and from Arabia.
 - brenton: And it shall be in that day, that the Lord shall again shew his hand, to be zealous for the remnant that is left of the people, which shall be left by the Assyrians, and that from Egypt, and from the country of Babylon, and from Ethiopia, and from the Elamites, and from the rising of the sun, and out of Arabia.
 
 ### Isaiah 11:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will raise sign to nations and gather lost of Israel, and dispersed of Judah he will gather from four wings of earth.
+- fresh: And he will raise a sign to the nations and gather the lost of Israel, and the dispersed of Judah he will gather from the four wings of the earth.
 - brenton: And he shall lift up a standard for the nations, and he shall gather the lost ones of Israel, and he shall gather the dispersed of Juda from the four corners of the earth.
 
 ### Isaiah 11:13
@@ -159732,34 +159732,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And zeal of Ephraim will be removed and enemies of Judah will perish; Ephraim will not be jealous of Judah and Judah will not oppress Ephraim.
+- fresh: And the zeal of Ephraim will be removed and the enemies of Judah will perish; Ephraim will not be jealous of Judah and Judah will not oppress Ephraim.
 - brenton: And the envy of Ephraim shall be taken away, and the enemies of Juda shall perish: Ephraim shall not envy Juda, and Juda shall not afflict Ephraim.
 
 ### Isaiah 11:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will fly in ships of foreigners, sea together they will plunder, and easterners and Edom, and upon Moab first they will lay hands, and sons of Ammon will obey first.
+- fresh: And they will fly in ships of foreigners; the sea together they will plunder, and the easterners and Edom, and upon Moab first they will lay hands, and the sons of Ammon will obey first.
 - brenton: And they shall fly in the ships of the Philistines: they shall at the same time spoil the sea, and them that come from the east, and Idumea: and they shall lay their hands on Moab first; but the children of Ammon shall first obey them.
 
 ### Isaiah 11:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will make sea of Egypt desolate and lay his hand upon the river with violent spirit and strike seven ravines, so as to pass through it in sandals.
+- fresh: And the Lord will make the sea of Egypt desolate and lay his hand upon the river with a violent spirit and strike seven ravines, so as to pass through it in sandals.
 - brenton: And the Lord shall make desolate the sea of Egypt; and he shall lay his hand on the river with a strong wind, and he shall smite the seven channels, so that men shall pass through it dry-shod.
 
 ### Isaiah 11:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will be passage for my people left in Egypt, and it will be for Israel as day when he came out from the land of Egypt.
+- fresh: And there will be a passage for my people left in Egypt, and it will be for Israel as the day when he came out from the land of Egypt.
 - brenton: And there shall be a passage for my people that is left in Egypt: and it shall be to Israel as the day when he came forth out of the land of Egypt.
 
 ### Isaiah 12:1
@@ -159792,10 +159792,10 @@ Note:
 ### Isaiah 12:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say in that day, sing hymn to the Lord, cry his name, announce among nations his glorious things, remember that his name was exalted.
+- fresh: And you will say in that day, sing a hymn to the Lord, cry his name, announce among the nations his glorious things, remember that his name was exalted.
 - brenton: And in that day thou shalt say, Sing to the Lord, call aloud upon his name, proclaim his glorious deeds among the Gentiles; make mention that his name is exalted.
 
 ### Isaiah 12:5
@@ -159804,16 +159804,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing hymn to the name of the Lord, because he did high things; announce these in all the earth.
+- fresh: Sing a hymn to the name of the Lord, because he did high things; announce these in all the earth.
 - brenton: Sing praise to the name of the Lord; for he has done great things: declare this in all the earth.
 
 ### Isaiah 12:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Exult and rejoice, dwellers of Zion, because the Holy One of Israel was exalted in the midst of her.
+- fresh: Exult and rejoice, the dwellers of Zion, because the Holy One of Israel was exalted in her midst.
 - brenton: Exalt and rejoice, ye that dwell in Sion: for the Holy One of Israel is exalted in the midst of her.
 
 ### Isaiah 13:1
