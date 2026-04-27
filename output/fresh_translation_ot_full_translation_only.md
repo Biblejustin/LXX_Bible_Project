@@ -70424,7 +70424,7 @@ Because he will not remember many days of his life, because God distracts him in
 
 **Ecclesiastes 6:1**
 
-There is evil I saw under the sun, and it is much upon man.
+There is an evil I saw under the sun, and it is much upon man.
 
 **Ecclesiastes 6:2**
 
@@ -70432,7 +70432,7 @@ A man to whom God gives wealth and possessions and glory, so that his soul lacks
 
 **Ecclesiastes 6:3**
 
-If man should beget hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said stillborn better than he.
+If a man should beget a hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said the stillborn is better than he.
 
 **Ecclesiastes 6:4**
 
@@ -70440,7 +70440,7 @@ Because in vanity it came and in darkness it goes, and in darkness its name will
 
 **Ecclesiastes 6:5**
 
-And indeed it did not see sun and did not know; rest to this more than to that one.
+And indeed it did not see the sun and did not know; rest is to this one more than to that one.
 
 **Ecclesiastes 6:6**
 
@@ -70448,27 +70448,27 @@ And if he lived a thousand years twice over and did not see good, do not all go 
 
 **Ecclesiastes 6:7**
 
-All toil of man for his mouth, yet soul will not be filled.
+All the toil of man is for his mouth, yet the soul will not be filled.
 
 **Ecclesiastes 6:8**
 
-Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
+Because what surplus is there for the wise man over the fool? Because the poor man knows how to walk before life.
 
 **Ecclesiastes 6:9**
 
-Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
+Better the sight of the eyes than the wandering of the soul; this too is vanity and choice of spirit.
 
 **Ecclesiastes 6:10**
 
-Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with one stronger than he.
+Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with the one stronger than he.
 
 **Ecclesiastes 6:11**
 
-Because there are many words multiplying vanity; what surplus to man?
+Because there are many words multiplying vanity; what surplus is there to man?
 
 **Ecclesiastes 6:12**
 
-Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+Because who knows what is good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
 
 ### Chapter 7
 

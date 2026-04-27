@@ -155423,10 +155423,10 @@ Note:
 ### Ecclesiastes 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There is evil I saw under the sun, and it is much upon man.
+- fresh: There is an evil I saw under the sun, and it is much upon man.
 - brenton: There is an evil which I have seen under the sun, and it is abundant with man:
 
 ### Ecclesiastes 6:2
@@ -155441,10 +155441,10 @@ Note:
 ### Ecclesiastes 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If man should beget hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said stillborn better than he.
+- fresh: If a man should beget a hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said the stillborn is better than he.
 - brenton: If a man beget a hundred children, and live many years, yea, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.
 
 ### Ecclesiastes 6:4
@@ -155459,10 +155459,10 @@ Note:
 ### Ecclesiastes 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And indeed it did not see sun and did not know; rest to this more than to that one.
+- fresh: And indeed it did not see the sun and did not know; rest is to this one more than to that one.
 - brenton: Moreover he has not seen the sun, nor known rest: there is no more rest to this one than another.
 
 ### Ecclesiastes 6:6
@@ -155477,55 +155477,55 @@ Note:
 ### Ecclesiastes 6:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All toil of man for his mouth, yet soul will not be filled.
+- fresh: All the toil of man is for his mouth, yet the soul will not be filled.
 - brenton: All the labour of a man is for his mouth, and yet the appetite shall not be satisfied.
 
 ### Ecclesiastes 6:8
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
+- fresh: Because what surplus is there for the wise man over the fool? Because the poor man knows how to walk before life.
 - brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
 
 ### Ecclesiastes 6:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
+- fresh: Better the sight of the eyes than the wandering of the soul; this too is vanity and choice of spirit.
 - brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
 
 ### Ecclesiastes 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with one stronger than he.
+- fresh: Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with the one stronger than he.
 - brenton: If anything has been, its name has already been called: and it is known what man is; neither can he contend with him who is stronger than he.
 
 ### Ecclesiastes 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because there are many words multiplying vanity; what surplus to man?
+- fresh: Because there are many words multiplying vanity; what surplus is there to man?
 - brenton: For there are many things which increase vanity.
 
 ### Ecclesiastes 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+- fresh: Because who knows what is good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
 - brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
 
 ### Ecclesiastes 7:1

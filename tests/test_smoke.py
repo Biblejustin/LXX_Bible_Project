@@ -2650,6 +2650,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "slander of a poor man" in by_ref["Ecclesiastes 5:7"]["draft_translation"]
     assert "in a province" in by_ref["Ecclesiastes 5:7"]["draft_translation"]
+    assert "for the wise man over the fool" in by_ref["Ecclesiastes 6:8"]["draft_translation"]
     assert "Because the poor man knows" in by_ref["Ecclesiastes 6:8"]["draft_translation"]
     assert "a poor wise man" in by_ref["Ecclesiastes 9:15"]["draft_translation"]
     assert "the wisdom of the poor man is despised" in by_ref["Ecclesiastes 9:16"][
@@ -3843,6 +3844,10 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "This too is vanity" in by_ref["Ecclesiastes 5:9"]["draft_translation"]
     assert "this is his portion" in by_ref["Ecclesiastes 5:17"]["draft_translation"]
     assert by_ref["Ecclesiastes 5:18"]["draft_translation"].endswith("this is a gift of God.")
+    assert by_ref["Ecclesiastes 6:1"]["draft_translation"].startswith("There is an evil")
+    assert "the stillborn is better" in by_ref["Ecclesiastes 6:3"]["draft_translation"]
+    assert "All the toil of man is for his mouth" in by_ref["Ecclesiastes 6:7"]["draft_translation"]
+    assert "what surplus is there to man" in by_ref["Ecclesiastes 6:11"]["draft_translation"]
     assert by_ref["Jeremiah 31:16"]["draft_translation"].startswith("Near is the day of Moab")
     assert by_ref["Zephaniah 1:15"]["draft_translation"].startswith("That day is a day of wrath")
     assert "he is a messenger of the Lord Almighty" in by_ref["Malachi 2:7"]["draft_translation"]

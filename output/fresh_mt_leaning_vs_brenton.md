@@ -227,6 +227,15 @@ Rows: 723
 - mt: If your people go out to war against their enemies by the way that you shall send them, and they pray unto you toward this city which you have chosen, and the house which I have built for your name;
 - brenton: And if thy people shall go forth to war against their enemies by the way by which thou shalt send them, and shall pray to thee toward this city which thou hast chosen, and toward the house which I have built to thy name;
 
+## Ecclesiastes 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.763`
+- fresh_brenton_ratio: `0.020`
+- fresh: Because who knows what is good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
+- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
+
 ## 1 Chronicles 15:24
 - priority: `0`
 - importance: `none`
@@ -244,15 +253,6 @@ Rows: 723
 - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
 - mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
 - brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
-
-## Ecclesiastes 6:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.020`
-- fresh: Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
-- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
-- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
 
 ## 2 Samuel 15:24
 - priority: `0`
@@ -4556,6 +4556,15 @@ Rows: 723
 - mt: And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
 - brenton: And he went thence to Navath in Rama: and there came the Spirit of God upon him also, and he went on prophesying till he came to Navath in Rama.
 
+## Ecclesiastes 6:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.712`
+- fresh: Better the sight of the eyes than the wandering of the soul; this too is vanity and choice of spirit.
+- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
+- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
+
 ## Exodus 28:35
 - priority: `0`
 - importance: `none`
@@ -5842,15 +5851,6 @@ Rows: 723
 - fresh: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 - mt: And if he strike him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death.
 - brenton: And if he should smite him with an iron instrument, and the man should die, he is a murderer; let the murderer by all means be put to death.
-
-## Ecclesiastes 6:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.798`
-- fresh_brenton_ratio: `0.690`
-- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
-- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
-- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
 
 ## Judges 9:46
 - priority: `0`

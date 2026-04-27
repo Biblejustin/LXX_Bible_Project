@@ -614,6 +614,15 @@ Method:
 - mt: If your people go out to war against their enemies by the way that you shall send them, and they pray unto you toward this city which you have chosen, and the house which I have built for your name;
 - brenton: And if thy people shall go forth to war against their enemies by the way by which thou shalt send them, and shall pray to thee toward this city which thou hast chosen, and toward the house which I have built to thy name;
 
+### Ecclesiastes 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.763`
+- fresh_brenton_ratio: `0.020`
+- fresh: Because who knows what is good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
+- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
+
 ### 1 Chronicles 15:24
 - priority: `0`
 - importance: `none`
@@ -631,15 +640,6 @@ Method:
 - fresh: that your eyes may be open upon this house day and night, upon this place where you said your name would be called there, to hear the prayer which your servant prays toward this place.
 - mt: That yours eyes may be open upon this house day and night, upon the place whereof you have said that you would put your name there; to hearken unto the prayer which your servant prays toward this place.
 - brenton: so that thine eyes should be open over this house by day and by night, towards this place, whereon thou saidst thy name should be called, so as to hear the prayer which thy servant prays towards this house.
-
-### Ecclesiastes 6:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.020`
-- fresh: Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
-- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
-- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
 
 ### 2 Samuel 15:24
 - priority: `0`
@@ -4943,6 +4943,15 @@ Method:
 - mt: And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
 - brenton: And he went thence to Navath in Rama: and there came the Spirit of God upon him also, and he went on prophesying till he came to Navath in Rama.
 
+### Ecclesiastes 6:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.712`
+- fresh: Better the sight of the eyes than the wandering of the soul; this too is vanity and choice of spirit.
+- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
+- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
+
 ### Exodus 28:35
 - priority: `0`
 - importance: `none`
@@ -6229,15 +6238,6 @@ Method:
 - fresh: But if he strikes him with an iron tool and he dies, he is a murderer. The murderer shall surely be put to death.
 - mt: And if he strike him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death.
 - brenton: And if he should smite him with an iron instrument, and the man should die, he is a murderer; let the murderer by all means be put to death.
-
-### Ecclesiastes 6:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.798`
-- fresh_brenton_ratio: `0.690`
-- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
-- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
-- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
 
 ### Judges 9:46
 - priority: `0`
@@ -22621,15 +22621,6 @@ Method:
 - mt: And it came to pass, when he began to reign, as soon as he sat on his throne, that he slew all the house of Baasha: he left him not one that pisses against a wall, neither of his kinsfolks, nor of his friends.
 - brenton: And it came to pass when he reigned, when he sat upon his throne,
 
-### Ecclesiastes 6:3
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.135`
-- fresh_brenton_ratio: `0.208`
-- fresh: If man should beget hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said stillborn better than he.
-- mt: If a man brought forth an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.
-- brenton: If a man beget a hundred children, and live many years, yea, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.
-
 ### Exodus 13:3
 - priority: `0`
 - importance: `none`
@@ -24960,6 +24951,15 @@ Method:
 - fresh: And the Lord, angered with wrath against Moses, said, 'Look, is not Aaron the Levite your brother? I know that speaking he will speak for you. And look, he himself will come out to meet you, and seeing you, he will rejoice within himself.'
 - mt: And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite your brother? I know that he can speak well. And also, behold, he comes forth to meet you: and when he sees you, he will be glad in his heart.
 - brenton: And the Lord was greatly angered against Moses, and said, Lo! is not Aaron the Levite thy brother? I know that he will surely speak to thee; and, behold, he will come forth to meet thee, and beholding thee he will rejoice within himself.
+
+### Ecclesiastes 6:3
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.160`
+- fresh_brenton_ratio: `0.253`
+- fresh: If a man should beget a hundred and live many years, and however many days of his years may be, and his soul is not filled from good, and indeed burial did not happen for him, I said the stillborn is better than he.
+- mt: If a man brought forth an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.
+- brenton: If a man beget a hundred children, and live many years, yea, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.
 
 ### 1 Samuel 31:7
 - priority: `0`
@@ -67117,15 +67117,6 @@ Method:
 - mt: When the waves of death compassed me, the floods of ungodly men made me afraid;
 - brenton: For the troubles of death compassed me, the floods of iniquity amazed me:
 
-### Ecclesiastes 6:5
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.443`
-- fresh_brenton_ratio: `0.537`
-- fresh: And indeed it did not see sun and did not know; rest to this more than to that one.
-- mt: Moreover he has not seen the sun, nor known any thing: this has more rest than the other.
-- brenton: Moreover he has not seen the sun, nor known rest: there is no more rest to this one than another.
-
 ### Ezekiel 24:13
 - priority: `0`
 - importance: `none`
@@ -80779,15 +80770,6 @@ Method:
 - mt: Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do.
 - brenton: And there shall be no work to the Egyptians, which shall make head or tail, or beginning or end.
 
-### Ecclesiastes 6:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.535`
-- fresh_brenton_ratio: `0.671`
-- fresh: Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with one stronger than he.
-- mt: That which has been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
-- brenton: If anything has been, its name has already been called: and it is known what man is; neither can he contend with him who is stronger than he.
-
 ### Deuteronomy 32:35
 - priority: `0`
 - importance: `none`
@@ -82093,6 +82075,15 @@ Method:
 - mt: If my step has turned out of the way, and mine heart walked after mine eyes, and if any blot has cleaved to mine hands;
 - brenton: if my foot has turned aside out of the way, or if mine heart has followed mine eye, and if too I have touched gifts with my hands;
 
+### Ecclesiastes 6:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.542`
+- fresh_brenton_ratio: `0.676`
+- fresh: Whatever came to be, its name already has been called, and it has been known what man is; and he will not be able to be judged with the one stronger than he.
+- mt: That which has been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.
+- brenton: If anything has been, its name has already been called: and it is known what man is; neither can he contend with him who is stronger than he.
+
 ### Proverbs 29:24
 - priority: `0`
 - importance: `none`
@@ -82461,6 +82452,15 @@ Method:
 - fresh: And he said to me, This water going out into the Galilee toward east and going down into the Arabah and coming to the sea, to the water of the outlet, will heal the waters.
 - mt: Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
 - brenton: And he said to me, This is the water that goes forth to Galilee that lies eastward, and it is gone down to Arabia, and has reached as far as to the sea to the outlet of the water: and it shall heal the waters.
+
+### Ecclesiastes 6:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.544`
+- fresh_brenton_ratio: `0.439`
+- fresh: Because there are many words multiplying vanity; what surplus is there to man?
+- mt: Seeing there be many things that increase vanity, what is man the better?
+- brenton: For there are many things which increase vanity.
 
 ### Jeremiah 11:15
 - priority: `0`
@@ -83802,15 +83802,6 @@ Method:
 - fresh: And it was reported to Solomon, saying that Joab fled to the tent of the Lord, and behold, he holds the horns of the altar. And Solomon sent to Joab, saying, What has happened to you that you fled to the altar? And Joab said, Because I feared from before you, and I fled to the Lord. And King Solomon sent Benaiah son of Jehoiada, saying, Go and kill him and bury him.
 - mt: And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, he is by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him.
 - brenton: And it was told Solomon, saying, Joab has fled to the tabernacle of the Lord, and lo! he has hold of the horns of the altar. And king Solomon sent to Joab, saying, What ails thee, that thou hast fled to the altar? and Joab said, Because I was afraid of thee, and fled for refuge to the Lord. And Solomon sent Banæas son of Jodae, saying, Go and slay him, and bury him.
-
-### Ecclesiastes 6:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.551`
-- fresh_brenton_ratio: `0.474`
-- fresh: Because there are many words multiplying vanity; what surplus to man?
-- mt: Seeing there be many things that increase vanity, what is man the better?
-- brenton: For there are many things which increase vanity.
 
 ### Isaiah 3:20
 - priority: `0`
@@ -86304,6 +86295,15 @@ Method:
 - fresh: And I saw, and behold, one wheel on earth adjoining the living beings, for the four.
 - mt: Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 - brenton: And I looked, and, behold, the four had each one wheel on the ground near the living creatures.
+
+### Ecclesiastes 6:5
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.562`
+- fresh_brenton_ratio: `0.591`
+- fresh: And indeed it did not see the sun and did not know; rest is to this one more than to that one.
+- mt: Moreover he has not seen the sun, nor known any thing: this has more rest than the other.
+- brenton: Moreover he has not seen the sun, nor known rest: there is no more rest to this one than another.
 
 ### 1 Chronicles 9:33
 - priority: `0`
@@ -110128,6 +110128,15 @@ Method:
 - mt: Thus says the LORD, your redeemer, and he that formed you from the womb, I am the LORD that makes all things; that stretches forth the heavens alone; that spreads abroad the earth by myself;
 - brenton: Thus saith the Lord that redeems thee, and who formed thee from the womb, I am the Lord that performs all things: I stretched out the heaven alone, and established the earth.
 
+### Ecclesiastes 6:8
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.650`
+- fresh_brenton_ratio: `0.673`
+- fresh: Because what surplus is there for the wise man over the fool? Because the poor man knows how to walk before life.
+- mt: For what has the wise more than the fool? what has the poor, that knows to walk before the living?
+- brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
+
 ### Isaiah 57:4
 - priority: `0`
 - importance: `none`
@@ -112242,15 +112251,6 @@ Method:
 - fresh: And whenever king entered the house of the Lord, guards and runners entered and then returned to chamber of runners.
 - mt: And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.
 - brenton: And it came to pass, when the king went into the house of the Lord, the guards and the footmen went in, and they that returned to meet the footmen.
-
-### Ecclesiastes 6:8
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.656`
-- fresh_brenton_ratio: `0.641`
-- fresh: Because what surplus for wise man over fool? Because the poor man knows how to walk before life.
-- mt: For what has the wise more than the fool? what has the poor, that knows to walk before the living?
-- brenton: For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?
 
 ### Isaiah 30:16
 - priority: `0`
@@ -119343,15 +119343,6 @@ Method:
 - fresh: and Og king of Bashan, left over from the giants, dwelling in Ashtaroth and in Edrei,
 - mt: And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 - brenton: And Og king of Basan, who dwelt in Astaroth and in Edrain, was left of the giants
-
-### Ecclesiastes 6:7
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.677`
-- fresh_brenton_ratio: `0.667`
-- fresh: All toil of man for his mouth, yet soul will not be filled.
-- mt: All the labour of man is for his mouth, and yet the appetite is not filled.
-- brenton: All the labour of a man is for his mouth, and yet the appetite shall not be satisfied.
 
 ### Ecclesiastes 9:14
 - priority: `0`
@@ -139297,15 +139288,6 @@ Method:
 - mt: But the house of Israel will not hearken unto you; for they will not hearken unto me: for all the house of Israel are shameless and hardhearted.
 - brenton: But the house of Israel will not be willing to hearken to thee; for they will not hearken to me: for all the house of Israel are stubborn and hard-hearted.
 
-### Ecclesiastes 6:1
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.727`
-- fresh_brenton_ratio: `0.722`
-- fresh: There is evil I saw under the sun, and it is much upon man.
-- mt: There is an evil which I have seen under the sun, and it is common among men:
-- brenton: There is an evil which I have seen under the sun, and it is abundant with man:
-
 ### Genesis 37:16
 - priority: `0`
 - importance: `none`
@@ -149224,15 +149206,6 @@ Method:
 - mt: The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field:
 - brenton: The voice of one saying, Cry; and I said, What shall I cry? All flesh is grass, and all the glory of man as the flower of grass.
 
-### Ecclesiastes 6:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.752`
-- fresh_brenton_ratio: `0.020`
-- fresh: Because who knows what good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
-- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
-- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
-
 ### Numbers 1:2
 - priority: `0`
 - importance: `none`
@@ -151095,6 +151068,15 @@ Method:
 - fresh: Because your eyes have seen all the great works of the Lord, all that he did for you today.
 - mt: But your eyes have seen all the great acts of the LORD which he did.
 - brenton: for your eyes have seen all the mighty works of the Lord, which he wrought among you to-day.
+
+### Ecclesiastes 6:1
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.756`
+- fresh_brenton_ratio: `0.750`
+- fresh: There is an evil I saw under the sun, and it is much upon man.
+- mt: There is an evil which I have seen under the sun, and it is common among men:
+- brenton: There is an evil which I have seen under the sun, and it is abundant with man:
 
 ### Deuteronomy 28:4
 - priority: `0`
@@ -153814,6 +153796,15 @@ Method:
 - mt: And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:
 - brenton: And the Lord said to Moses and Aaron, This is the law of the passover: no stranger shall eat of it.
 
+### Ecclesiastes 6:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.763`
+- fresh_brenton_ratio: `0.020`
+- fresh: Because who knows what is good for man in life, the number of days of his vain life, and he made them in shadow? Because who will tell man what will be after him under the sun?
+- mt: For who knows what is good for man in this life, all the days of his vain life which he spends as a shadow? for who can tell a man what shall be after him under the sun?
+- brenton: What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?
+
 ### Genesis 24:5
 - priority: `0`
 - importance: `none`
@@ -154902,6 +154893,15 @@ Method:
 - fresh: And Gehazi passed before her and placed the staff on the face of the boy, but there was no voice and there was no hearing, and he returned to meet him and reported to him, saying, The boy did not wake up.
 - mt: And Gehazi passed on before them, and laid the staff upon the face of the child; but there was neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.
 - brenton: And Giezi went on before her, and laid his staff on the child's face: but there was neither voice nor any hearing. So he returned to meet him, and told him, saying, The child is not awaked.
+
+### Ecclesiastes 6:7
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.766`
+- fresh_brenton_ratio: `0.750`
+- fresh: All the toil of man is for his mouth, yet the soul will not be filled.
+- mt: All the labour of man is for his mouth, and yet the appetite is not filled.
+- brenton: All the labour of a man is for his mouth, and yet the appetite shall not be satisfied.
 
 ### Nehemiah 9:9
 - priority: `0`
@@ -166575,15 +166575,6 @@ Method:
 - fresh: And the Lord was enraged in anger against Israel and drove them round in the wilderness forty years until all the generation doing evil before the Lord was consumed.
 - mt: And the LORD's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed.
 - brenton: And the Lord was very angry with Israel; and for forty years he caused them to wander in the wilderness, until all the generation which did evil in the sight of the Lord was extinct.
-
-### Ecclesiastes 6:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.798`
-- fresh_brenton_ratio: `0.690`
-- fresh: Better sight of the eyes than wandering of the soul; this too is vanity and choice of spirit.
-- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
-- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
 
 ### Genesis 35:12
 - priority: `0`
@@ -180183,6 +180174,15 @@ Method:
 - fresh: And the priest shall take some of the blood of the sin-offering with his finger and place it on the horns of the altar of whole burnt offering, and he shall pour out all its blood at the base of the altar of whole burnt offering.
 - mt: And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:
 - brenton: And the priest shall take of the blood of the sin-offering with his finger, and shall put it on the horns of the altar of whole-burnt-offerings, and he shall pour out all its blood by the bottom of the altar of whole-burnt-offering.
+
+### Ecclesiastes 6:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.845`
+- fresh_brenton_ratio: `0.712`
+- fresh: Better the sight of the eyes than the wandering of the soul; this too is vanity and choice of spirit.
+- mt: Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.
+- brenton: The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.
 
 ### Nehemiah 13:11
 - priority: `0`
