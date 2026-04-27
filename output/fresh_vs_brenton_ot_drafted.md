@@ -163392,73 +163392,73 @@ Note:
 ### Isaiah 34:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come near, nations, and hear; rulers, hear. Let earth and those in it hear, inhabited world and people in it.
+- fresh: Come near, nations, and hear; rulers, hear. Let the earth and those in it hear, the inhabited world and the people in it.
 - brenton: Draw near, ye nations; and hearken, ye princes; let the earth hear, and they that are in it; the world, and the people that are therein.
 
 ### Isaiah 34:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the wrath of the Lord upon all nations and anger upon their number, to destroy them and hand them over into slaughter.
+- fresh: Because the wrath of the Lord is upon all the nations, and anger is upon their number, to destroy them and hand them over into slaughter.
 - brenton: For the wrath of the Lord is upon all nations, and his anger upon the number of them, to destroy them, and give them up to slaughter.
 
 ### Isaiah 34:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their wounded will be thrown out, and their dead, and their smell will go up, and mountains will be soaked from their blood.
+- fresh: And their wounded will be thrown out, and their dead, and their smell will go up, and the mountains will be soaked from their blood.
 - brenton: And their slain shall be cast forth, and their corpses; and their ill savour shall come up, and the mountains shall be made wet with their blood.
 
 ### Isaiah 34:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And heaven will be rolled like book, and all stars will fall as leaves from vine and as leaf falls from fig tree.
+- fresh: And heaven will be rolled like a book, and all the stars will fall as leaves from a vine and as a leaf falls from a fig tree.
 - brenton: And all the powers of the heavens shall melt, and the sky shall be rolled up like a scroll: and all the stars shall fall like leaves from a vine, and as leaves fall from a fig-tree.
 
 ### Isaiah 34:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My sword became drunk in heaven; behold, upon Edom it will come down and upon people of destruction with judgment.
+- fresh: My sword became drunk in heaven; behold, upon Edom it will come down and upon the people of destruction with judgment.
 - brenton: My sword has been made drunk in heaven: behold, it shall come down upon Idumea, and with judgment upon the people doomed to destruction.
 
 ### Isaiah 34:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sword of the Lord was filled with blood, fattened from the fat of lambs and from the fat of goats and rams, because sacrifice to the Lord in Besor and great slaughter in Edom.
+- fresh: The sword of the Lord was filled with blood, fattened from the fat of lambs and from the fat of goats and rams, because there is a sacrifice to the Lord in Bozrah and a great slaughter in Edom.
 - brenton: The sword of the Lord is filled with blood, it is glutted with fat, with the blood of goats and lambs, and with the fat of goats and rams: for the Lord has a sacrifice in Bosor, and a great slaughter in Idumea.
 
 ### Isaiah 34:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And mighty ones will fall with them, and rams and bulls, and land will be drunk from blood, and from their fat it will be filled.
+- fresh: And the mighty ones will fall with them, and the rams and the bulls, and the land will be drunk from the blood, and from their fat it will be filled.
 - brenton: And the mighty ones shall fall with them, and the rams and the bulls; and the land shall be soaked with blood, and shall be filled with their fat.
 
 ### Isaiah 34:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the day of judgment of the Lord and year of repayment of judgment of Zion.
+- fresh: For it is the day of judgment of the Lord and the year of repayment of judgment of Zion.
 - brenton: For it is the day of the judgment of the Lord, and the year of the recompence of Sion in judgment.
 
 ### Isaiah 34:9
@@ -163482,10 +163482,10 @@ Note:
 ### Isaiah 34:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And birds and hedgehogs and ibises and ravens will dwell in it, and measuring cord of desert will be cast upon it, and donkey-centaurs will dwell in it.
+- fresh: And birds and hedgehogs and ibises and ravens will dwell in it, and a measuring cord of desert will be cast upon it, and donkey-centaurs will dwell in it.
 - brenton: and for a long time birds and hedgehogs, and ibises and ravens shall dwell in it: and the measuring line of desolation shall be cast over it, and satyrs shall dwell in it.
 
 ### Isaiah 34:12
@@ -163518,10 +163518,10 @@ Note:
 ### Isaiah 34:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There hedgehog nested and earth kept her children in safety. There deer met and saw each other's faces.
+- fresh: There a hedgehog nested and the earth kept her children in safety. There deer met and saw each other's faces.
 - brenton: There has the hedgehog made its nest, and the earth has safely preserved its young: there have the deer met, and seen one another's faces.
 
 ### Isaiah 34:16

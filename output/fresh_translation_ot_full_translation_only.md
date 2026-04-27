@@ -74064,35 +74064,35 @@ And the people dwelling in them will certainly not say, I am weary, for their si
 
 **Isaiah 34:1**
 
-Come near, nations, and hear; rulers, hear. Let earth and those in it hear, inhabited world and people in it.
+Come near, nations, and hear; rulers, hear. Let the earth and those in it hear, the inhabited world and the people in it.
 
 **Isaiah 34:2**
 
-Because the wrath of the Lord upon all nations and anger upon their number, to destroy them and hand them over into slaughter.
+Because the wrath of the Lord is upon all the nations, and anger is upon their number, to destroy them and hand them over into slaughter.
 
 **Isaiah 34:3**
 
-And their wounded will be thrown out, and their dead, and their smell will go up, and mountains will be soaked from their blood.
+And their wounded will be thrown out, and their dead, and their smell will go up, and the mountains will be soaked from their blood.
 
 **Isaiah 34:4**
 
-And heaven will be rolled like book, and all stars will fall as leaves from vine and as leaf falls from fig tree.
+And heaven will be rolled like a book, and all the stars will fall as leaves from a vine and as a leaf falls from a fig tree.
 
 **Isaiah 34:5**
 
-My sword became drunk in heaven; behold, upon Edom it will come down and upon people of destruction with judgment.
+My sword became drunk in heaven; behold, upon Edom it will come down and upon the people of destruction with judgment.
 
 **Isaiah 34:6**
 
-Sword of the Lord was filled with blood, fattened from the fat of lambs and from the fat of goats and rams, because sacrifice to the Lord in Besor and great slaughter in Edom.
+The sword of the Lord was filled with blood, fattened from the fat of lambs and from the fat of goats and rams, because there is a sacrifice to the Lord in Bozrah and a great slaughter in Edom.
 
 **Isaiah 34:7**
 
-And mighty ones will fall with them, and rams and bulls, and land will be drunk from blood, and from their fat it will be filled.
+And the mighty ones will fall with them, and the rams and the bulls, and the land will be drunk from the blood, and from their fat it will be filled.
 
 **Isaiah 34:8**
 
-For the day of judgment of the Lord and year of repayment of judgment of Zion.
+For it is the day of judgment of the Lord and the year of repayment of judgment of Zion.
 
 **Isaiah 34:9**
 
@@ -74104,7 +74104,7 @@ Night and day it will not be quenched forever, and its smoke will go up forever;
 
 **Isaiah 34:11**
 
-And birds and hedgehogs and ibises and ravens will dwell in it, and measuring cord of desert will be cast upon it, and donkey-centaurs will dwell in it.
+And birds and hedgehogs and ibises and ravens will dwell in it, and a measuring cord of desert will be cast upon it, and donkey-centaurs will dwell in it.
 
 **Isaiah 34:12**
 
@@ -74120,7 +74120,7 @@ And demons will meet donkey-centaurs, and one will cry to another. There donkey-
 
 **Isaiah 34:15**
 
-There hedgehog nested and earth kept her children in safety. There deer met and saw each other's faces.
+There a hedgehog nested and the earth kept her children in safety. There deer met and saw each other's faces.
 
 **Isaiah 34:16**
 

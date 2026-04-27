@@ -5560,6 +5560,55 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "loosen the sails" in by_ref["Isaiah 33:23"]["draft_translation"]
     assert "lift a signal" in by_ref["Isaiah 33:23"]["draft_translation"]
     assert "many lame ones" in by_ref["Isaiah 33:23"]["draft_translation"]
+    assert "Let the earth and those in it hear" in by_ref["Isaiah 34:1"][
+        "draft_translation"
+    ]
+    assert "the inhabited world and the people in it" in by_ref["Isaiah 34:1"][
+        "draft_translation"
+    ]
+    assert "wrath of the Lord is upon all the nations" in by_ref["Isaiah 34:2"][
+        "draft_translation"
+    ]
+    assert "the mountains will be soaked" in by_ref["Isaiah 34:3"][
+        "draft_translation"
+    ]
+    assert "rolled like a book" in by_ref["Isaiah 34:4"][
+        "draft_translation"
+    ]
+    assert "all the stars will fall" in by_ref["Isaiah 34:4"][
+        "draft_translation"
+    ]
+    assert "from a fig tree" in by_ref["Isaiah 34:4"]["draft_translation"]
+    assert "upon Edom it will come down" in by_ref["Isaiah 34:5"][
+        "draft_translation"
+    ]
+    assert "upon the people of destruction" in by_ref["Isaiah 34:5"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 34:6"]["draft_translation"].startswith(
+        "The sword of the Lord"
+    )
+    assert "in Bozrah and a great slaughter in Edom" in by_ref["Isaiah 34:6"][
+        "draft_translation"
+    ]
+    assert "the mighty ones will fall" in by_ref["Isaiah 34:7"][
+        "draft_translation"
+    ]
+    assert "the rams and the bulls" in by_ref["Isaiah 34:7"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 34:8"]["draft_translation"].startswith(
+        "For it is the day"
+    )
+    assert "a measuring cord of desert" in by_ref["Isaiah 34:11"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 34:15"]["draft_translation"].startswith(
+        "There a hedgehog"
+    )
+    assert "the earth kept her children" in by_ref["Isaiah 34:15"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
