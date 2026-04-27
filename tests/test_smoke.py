@@ -6296,6 +6296,38 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "each of them" in by_ref["Isaiah 42:25"]["draft_translation"]
     assert "his soul" in by_ref["Isaiah 42:25"]["draft_translation"]
+    assert "the one making you" in by_ref["Isaiah 43:1"][
+        "draft_translation"
+    ]
+    assert "the one forming you" in by_ref["Isaiah 43:1"][
+        "draft_translation"
+    ]
+    assert "a flame will not burn you" in by_ref["Isaiah 43:2"][
+        "draft_translation"
+    ]
+    assert "the one saving you" in by_ref["Isaiah 43:3"][
+        "draft_translation"
+    ]
+    assert "From the east" in by_ref["Isaiah 43:5"]["draft_translation"]
+    assert "from the west" in by_ref["Isaiah 43:5"]["draft_translation"]
+    assert "to the north" in by_ref["Isaiah 43:6"]["draft_translation"]
+    assert "to the south" in by_ref["Isaiah 43:6"]["draft_translation"]
+    assert "from a far land" in by_ref["Isaiah 43:6"]["draft_translation"]
+    assert "a blind people" in by_ref["Isaiah 43:8"]["draft_translation"]
+    assert "deaf ones having ears" in by_ref["Isaiah 43:8"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 43:9"]["draft_translation"].startswith(
+        "All the nations"
+    )
+    assert "the things from the beginning" in by_ref["Isaiah 43:9"][
+        "draft_translation"
+    ]
+    assert "say true things" in by_ref["Isaiah 43:9"]["draft_translation"]
+    assert "the servant whom I chose" in by_ref["Isaiah 43:10"][
+        "draft_translation"
+    ]
+    assert "no one rescuing" in by_ref["Isaiah 43:13"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

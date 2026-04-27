@@ -74890,15 +74890,15 @@ And he brought upon them the anger of his wrath and war prevailed over them, and
 
 **Isaiah 43:1**
 
-And now thus says the Lord God, one making you, Jacob, one forming you, Israel: Do not fear, because I redeemed you; I called you by your name; you are mine.
+And now thus says the Lord God, the one making you, Jacob, the one forming you, Israel: Do not fear, because I redeemed you; I called you by your name; you are mine.
 
 **Isaiah 43:2**
 
-And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you.
+And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; a flame will not burn you.
 
 **Isaiah 43:3**
 
-Because I am the Lord your God, the Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
+Because I am the Lord your God, the Holy One of Israel, the one saving you. I made Egypt and Ethiopia and Syene your exchange.
 
 **Isaiah 43:4**
 
@@ -74906,11 +74906,11 @@ Since you became precious before me, you were glorified and I loved you, and I w
 
 **Isaiah 43:5**
 
-Do not fear, because I am with you. From east I will bring your seed, and from west I will gather you.
+Do not fear, because I am with you. From the east I will bring your seed, and from the west I will gather you.
 
 **Isaiah 43:6**
 
-I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from the ends of the earth,
+I will say to the north, Bring, and to the south, Do not hinder; bring my sons from a far land and my daughters from the ends of the earth,
 
 **Isaiah 43:7**
 
@@ -74918,15 +74918,15 @@ all as many as are called by my name, for in my glory I prepared him and formed 
 
 **Isaiah 43:8**
 
-And I brought out blind people, and eyes exist yet equally blind, and deaf having ears.
+And I brought out a blind people, and eyes exist yet equally blind, and deaf ones having ears.
 
 **Isaiah 43:9**
 
-All nations were gathered together, and rulers will gather. Who among them announces these things, or who from the beginning will announce to you? Let them bring their witnesses and be justified and say truth.
+All the nations were gathered together, and rulers will gather. Who among them announces these things, or who from the things from the beginning will announce to you? Let them bring their witnesses and be justified and say true things.
 
 **Isaiah 43:10**
 
-Become witnesses to me, and I witness, says the Lord God, and servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be.
+Become witnesses to me, and I witness, says the Lord God, and the servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be.
 
 **Isaiah 43:11**
 
@@ -74938,7 +74938,7 @@ I announced and saved; I reproached, and there was no foreigner among you. You a
 
 **Isaiah 43:13**
 
-Still from the beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
+Still from the beginning, and there is no one rescuing from my hands. I will do, and who will turn it back?
 
 **Isaiah 43:14**
 

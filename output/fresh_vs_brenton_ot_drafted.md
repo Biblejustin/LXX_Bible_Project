@@ -165210,28 +165210,28 @@ Note:
 ### Isaiah 43:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now thus says the Lord God, one making you, Jacob, one forming you, Israel: Do not fear, because I redeemed you; I called you by your name; you are mine.
+- fresh: And now thus says the Lord God, the one making you, Jacob, the one forming you, Israel: Do not fear, because I redeemed you; I called you by your name; you are mine.
 - brenton: And now thus saith the Lord God that made thee, O Jacob, and formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.
 
 ### Isaiah 43:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; flame will not burn you.
+- fresh: And if you pass through water, I am with you, and rivers will not flood you, and if you pass through fire, you certainly will not be burned; a flame will not burn you.
 - brenton: And if thou pass through water, I am with thee; and the rivers shall not overflow thee: and if thou go through fire, thou shalt not be burned; the flame shall not burn thee.
 
 ### Isaiah 43:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I am the Lord your God, the Holy One of Israel, one saving you. I made Egypt and Ethiopia and Syene your exchange.
+- fresh: Because I am the Lord your God, the Holy One of Israel, the one saving you. I made Egypt and Ethiopia and Syene your exchange.
 - brenton: For I am the Lord thy God, the Holy One of Israel, that saves thee: I have made Egypt and Ethiopia thy ransom, and given Soene for thee.
 
 ### Isaiah 43:4
@@ -165246,19 +165246,19 @@ Note:
 ### Isaiah 43:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not fear, because I am with you. From east I will bring your seed, and from west I will gather you.
+- fresh: Do not fear, because I am with you. From the east I will bring your seed, and from the west I will gather you.
 - brenton: Fear not; for I am with thee: I will bring thy seed from the east, and will gather thee from the west.
 
 ### Isaiah 43:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will say to north, Bring, and to south, Do not hinder; bring my sons from far land and my daughters from the ends of the earth,
+- fresh: I will say to the north, Bring, and to the south, Do not hinder; bring my sons from a far land and my daughters from the ends of the earth,
 - brenton: I will say to the north, Bring; and to the south, Keep not back; bring my sons from the land afar off, and my daughters from the ends of the earth;
 
 ### Isaiah 43:7
@@ -165273,28 +165273,28 @@ Note:
 ### Isaiah 43:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought out blind people, and eyes exist yet equally blind, and deaf having ears.
+- fresh: And I brought out a blind people, and eyes exist yet equally blind, and deaf ones having ears.
 - brenton: and I have brought forth the blind people; for their eyes are alike blind, and they that have ears are deaf.
 
 ### Isaiah 43:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All nations were gathered together, and rulers will gather. Who among them announces these things, or who from the beginning will announce to you? Let them bring their witnesses and be justified and say truth.
+- fresh: All the nations were gathered together, and rulers will gather. Who among them announces these things, or who from the things from the beginning will announce to you? Let them bring their witnesses and be justified and say true things.
 - brenton: All the nations are gathered together, and princes shall be gathered out of them: who will declare these things? or who will declare to you things from the beginning? let them bring forth their witnesses, and be justified; and let them hear, and declare the truth.
 
 ### Isaiah 43:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Become witnesses to me, and I witness, says the Lord God, and servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be.
+- fresh: Become witnesses to me, and I witness, says the Lord God, and the servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be.
 - brenton: Be ye my witnesses, and I too am a witness, saith the Lord God, and my servant whom I have chosen: that ye may know, and believe, and understand that I am he: before me there was no other God, and after me there shall be none.
 
 ### Isaiah 43:11
@@ -165318,10 +165318,10 @@ Note:
 ### Isaiah 43:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Still from the beginning, and there is none rescuing from my hands. I will do, and who will turn it back?
+- fresh: Still from the beginning, and there is no one rescuing from my hands. I will do, and who will turn it back?
 - brenton: even from the beginning; and there is none that can deliver out of my hands: I will work, and who shall turn it back?
 
 ### Isaiah 43:14
