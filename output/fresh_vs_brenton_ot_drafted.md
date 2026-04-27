@@ -161727,73 +161727,73 @@ Note:
 ### Isaiah 25:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord my God, I will glorify you, I will hymn your name, because you did wondrous things, ancient counsel, true; let it be, Lord.
+- fresh: O Lord my God, I will glorify you, I will hymn your name, because you did wondrous things, ancient counsel, true; let it be, O Lord.
 - brenton: O Lord God, I will glorify thee, I will sing to thy name; for thou hast done wonderful things, even an ancient and faithful counsel. So be it.
 
 ### Isaiah 25:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you made cities into mound, strong cities so that their foundations fall; city of ungodly certainly will not be built forever.
+- fresh: Because you made cities into a mound, strong cities so that their foundations fall; the city of the ungodly certainly will not be built forever.
 - brenton: For thou hast made cities a heap, even cities made strong that their foundations should not fall: the city of ungodly men shall not be built for ever.
 
 ### Isaiah 25:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this poor people will bless you, and cities of men being wronged will bless you.
+- fresh: Because of this the poor people will bless you, and the cities of men being wronged will bless you.
 - brenton: Therefore shall the poor people bless thee, and cities of injured men shall bless thee.
 
 ### Isaiah 25:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged.
+- fresh: For you became a helper to every humble city and a shelter to those losing heart through want; from evil men you will rescue them, a shelter for the thirsty ones and a spirit of men being wronged.
 - brenton: For thou hast been a helper to every lowly city, and a shelter to them that were disheartened by reason of poverty: thou shalt deliver them from wicked men: thou hast been a shelter of them that thirst, and a refreshing air to injured men.
 
 ### Isaiah 25:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will bless you as faint-hearted thirsty men in Zion, from ungodly men to whom you handed us over.
+- fresh: They will bless you as the faint-hearted thirsty men in Zion, from the ungodly men to whom you handed us over.
 - brenton: We were as faint-hearted men thirsting in Sion, by reason of ungodly men to whom thou didst deliver us.
 
 ### Isaiah 25:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord of hosts will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
+- fresh: And the Lord of hosts will make for all the nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
 - brenton: And the Lord of hosts shall make a feast for all the nations: on this mount they shall drink gladness, they shall drink wine:
 
 ### Isaiah 25:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On this mountain hand over all these things to nations, for this counsel upon all nations.
+- fresh: On this mountain hand over all these things to the nations, for this counsel is upon all the nations.
 - brenton: they shall anoint themselves with ointment in this mountain. Impart thou all these things to the nations; for this is God's counsel upon all the nations.
 
 ### Isaiah 25:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Death was swallowed after growing strong, and again God took away every tear from every face; reproach of the people he took away from all the earth, for the mouth of the Lord spoke.
+- fresh: Death was swallowed after growing strong, and again God took away every tear from every face; the reproach of the people he took away from all the earth, for the mouth of the Lord spoke.
 - brenton: Death has prevailed and swallowed men up; but again the Lord God has taken away every tear from every face. He has taken away the reproach of his people from all the earth: for the mouth of the Lord has spoken it.
 
 ### Isaiah 25:9
@@ -161808,10 +161808,10 @@ Note:
 ### Isaiah 25:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because God will give rest on this mountain, and Moabite land will be trampled as they tread threshing floor with wagons.
+- fresh: Because God will give a rest on this mountain, and the Moabite land will be trampled as they tread a threshing floor with wagons.
 - brenton: God will give rest on this mountain, and the country of Moab shall be trodden down, as they tread the floor with waggons.
 
 ### Isaiah 25:11
@@ -161826,28 +161826,28 @@ Note:
 ### Isaiah 25:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And height of refuge of your wall he will humble, and it will come down to ground.
+- fresh: And the height of the refuge of your wall he will humble, and it will come down to the ground.
 - brenton: And he shall bring down the height of the refuge of the wall, and it shall come down even to the ground.
 
 ### Isaiah 26:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day they will sing this song in the land of Judah, saying, Behold, strong city, and he will set salvation for us as wall and outer wall.
+- fresh: In that day they will sing this song in the land of Judah, saying, Behold, a strong city, and he will set salvation for us as a wall and outer wall.
 - brenton: In that day they shall sing this song in the land of Judea; Behold a strong city; and he shall make salvation its wall and bulwark.
 
 ### Isaiah 26:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Open gates; let people enter, keeping righteousness and keeping truth,
+- fresh: Open the gates; let a people enter, keeping righteousness and keeping truth,
 - brenton: Open ye the gates, let the nation enter that keeps righteousness, and keeps truth,
 
 ### Isaiah 26:3
@@ -161856,34 +161856,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: upholding truth and keeping peace because upon you
+- fresh: upholding truth and keeping peace, because upon you
 - brenton: supporting truth, and keeping peace: for on thee, O Lord,
 
 ### Isaiah 26:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: they hoped, Lord, forever, great eternal God.
+- fresh: they hoped, O Lord, forever, the great eternal God.
 - brenton: they have trusted with confidence for ever, the great, the eternal God;
 
 ### Isaiah 26:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who humbled and brought down those dwelling on heights, strong cities; you will throw down and bring to ground,
+- fresh: Who humbled and brought down those dwelling on the heights, the strong cities; you will throw down and bring to the ground,
 - brenton: who hast humbled and brought down them that dwell on high, thou shalt cast down strong cities, and bring them to the ground.
 
 ### Isaiah 26:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and feet of gentle and humble will tread them.
+- fresh: and the feet of the gentle and humble will tread them.
 - brenton: And the feet of the meek and lowly shall trample them.
 
 ### Isaiah 26:7
@@ -161907,118 +161907,118 @@ Note:
 ### Isaiah 26:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon earth. Learn righteousness, dwellers on earth.
+- fresh: Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon the earth. Learn righteousness, you dwellers on the earth.
 - brenton: which our soul longs for: my spirit seeks thee very early in the morning, O God, for thy commandments are a light on the earth: learn righteousness, ye that dwell upon the earth.
 
 ### Isaiah 26:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For ungodly ceased; he certainly will not learn righteousness on earth, he certainly will not do truth. Let ungodly be taken away so that he not see the glory of the Lord.
+- fresh: For the ungodly ceased; he certainly will not learn righteousness on the earth, he certainly will not do truth. Let the ungodly be taken away so that he not see the glory of the Lord.
 - brenton: For the ungodly one is put down: no one who will not learn righteousness on the earth, shall be able to do the truth: let the ungodly be taken away, that he see not the glory of the Lord.
 
 ### Isaiah 26:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, your arm is high and they did not know; but knowing they will be ashamed. Zeal will seize untrained people, and now fire will eat opponents.
+- fresh: O Lord, your arm is high and they did not know; but knowing they will be ashamed. Zeal will seize an untrained people, and now fire will eat the opponents.
 - brenton: O Lord, thine arm is exalted, yet they knew it not: but when they know they shall be ashamed: jealousy shall seize upon an untaught nation, and now fire shall devour the adversaries.
 
 ### Isaiah 26:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord our God, give us peace, for you gave all things to us.
+- fresh: O Lord our God, give us peace, for you gave all things to us.
 - brenton: O Lord our God, give us peace: for thou hast rendered to us all things.
 
 ### Isaiah 26:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord our God, acquire us; Lord, apart from you we know no other; we name your name.
+- fresh: O Lord our God, acquire us; O Lord, apart from you we know no other; we name your name.
 - brenton: O Lord our God, take possession of us: O Lord, we know not any other beside thee: we name thy name.
 
 ### Isaiah 26:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But dead certainly will not see life, nor physicians certainly raise them; because of this you brought and destroyed and took away every male of them.
+- fresh: But the dead certainly will not see life, nor the physicians certainly raise them; because of this you brought and destroyed and took away every male of them.
 - brenton: But the dead shall not see life, neither shall physicians by any means raise them up: therefore thou hast brought wrath upon them, and slain them, and hast taken away every male of them. Bring more evils upon them, O Lord;
 
 ### Isaiah 26:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Add evils to them, Lord; add evils to all glorious ones of earth.
+- fresh: Add evils to them, O Lord; add evils to all the glorious ones of the earth.
 - brenton: bring more evils on the glorious ones of the earth.
 
 ### Isaiah 26:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, in affliction we remembered you; in affliction your discipline small to us.
+- fresh: O Lord, in affliction we remembered you; in affliction your discipline was small to us.
 - brenton: Lord, in affliction I remembered thee; thy chastening was to us with small affliction.
 
 ### Isaiah 26:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as a woman in labor comes near to bearing and in her pain cried out, so we became to your beloved because of your fear, Lord.
+- fresh: And as a woman in labor comes near to bearing and in her pain cried out, so we became to your beloved because of your fear, O Lord.
 - brenton: And as a woman in travail draws nigh to be delivered, and cries out in her pain; so have we been to thy beloved.
 
 ### Isaiah 26:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In womb we conceived and were in labor and gave birth to spirit of your salvation. We worked on earth, but dwellers on earth will fall.
+- fresh: In the womb we conceived and were in labor and gave birth to a spirit of your salvation. We worked on the earth, but the dwellers on the earth will fall.
 - brenton: We have conceived, O Lord, because of thy fear, and have been in pain, and have brought forth the breath of thy salvation, which we have wrought upon the earth: we shall not fall, but all that dwell upon the land shall fall.
 
 ### Isaiah 26:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Dead will rise and those in tombs will be raised, and those in earth will rejoice, for dew from you is healing to them, but land of ungodly will fall.
+- fresh: The dead will rise and those in the tombs will be raised, and those in the earth will rejoice, for the dew from you is healing to them, but the land of the ungodly will fall.
 - brenton: The dead shall rise, and they that are in the tombs shall be raised, and they that are in the earth shall rejoice: for the dew from thee is healing to them: but the land of the ungodly shall perish.
 
 ### Isaiah 26:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go, my people, enter your chambers, shut your door, hide yourself a little, as much as little, until anger of the Lord passes.
+- fresh: Go, my people, enter your chambers, shut your door, hide yourself a little, as much as little, until the anger of the Lord passes.
 - brenton: Go, my people, enter into thy closets, shut thy door, hide thyself for a little season, until the anger of the Lord have passed away.
 
 ### Isaiah 26:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For behold, the Lord from holy place brings wrath upon dwellers on earth, and earth will uncover its blood and will not cover those killed.
+- fresh: For behold, the Lord from the holy place brings wrath upon the dwellers on the earth, and the earth will uncover its blood and will not cover those killed.
 - brenton: For, behold, the Lord is bringing wrath from his holy place upon the dwellers on the earth: the earth also shall disclose her blood, and shall not cover her slain.
 
 ### Isaiah 27:1

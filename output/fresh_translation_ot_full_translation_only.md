@@ -73306,35 +73306,35 @@ And the brick will melt and the wall will fall, because the Lord will reign in Z
 
 **Isaiah 25:1**
 
-Lord my God, I will glorify you, I will hymn your name, because you did wondrous things, ancient counsel, true; let it be, Lord.
+O Lord my God, I will glorify you, I will hymn your name, because you did wondrous things, ancient counsel, true; let it be, O Lord.
 
 **Isaiah 25:2**
 
-Because you made cities into mound, strong cities so that their foundations fall; city of ungodly certainly will not be built forever.
+Because you made cities into a mound, strong cities so that their foundations fall; the city of the ungodly certainly will not be built forever.
 
 **Isaiah 25:3**
 
-Because of this poor people will bless you, and cities of men being wronged will bless you.
+Because of this the poor people will bless you, and the cities of men being wronged will bless you.
 
 **Isaiah 25:4**
 
-For you became helper to every humble city and shelter to those losing heart through want; from evil men you will rescue them, shelter for thirsty ones and spirit of men being wronged.
+For you became a helper to every humble city and a shelter to those losing heart through want; from evil men you will rescue them, a shelter for the thirsty ones and a spirit of men being wronged.
 
 **Isaiah 25:5**
 
-They will bless you as faint-hearted thirsty men in Zion, from ungodly men to whom you handed us over.
+They will bless you as the faint-hearted thirsty men in Zion, from the ungodly men to whom you handed us over.
 
 **Isaiah 25:6**
 
-And the Lord of hosts will make for all nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
+And the Lord of hosts will make for all the nations on this mountain; they will drink gladness, they will drink wine, they will anoint themselves with perfume.
 
 **Isaiah 25:7**
 
-On this mountain hand over all these things to nations, for this counsel upon all nations.
+On this mountain hand over all these things to the nations, for this counsel is upon all the nations.
 
 **Isaiah 25:8**
 
-Death was swallowed after growing strong, and again God took away every tear from every face; reproach of the people he took away from all the earth, for the mouth of the Lord spoke.
+Death was swallowed after growing strong, and again God took away every tear from every face; the reproach of the people he took away from all the earth, for the mouth of the Lord spoke.
 
 **Isaiah 25:9**
 
@@ -73342,7 +73342,7 @@ And they will say in that day, Behold our God on whom we hoped, and we rejoiced 
 
 **Isaiah 25:10**
 
-Because God will give rest on this mountain, and Moabite land will be trampled as they tread threshing floor with wagons.
+Because God will give a rest on this mountain, and the Moabite land will be trampled as they tread a threshing floor with wagons.
 
 **Isaiah 25:11**
 
@@ -73350,33 +73350,33 @@ And he will let down his hands, as he himself humbled to destroy, and he will hu
 
 **Isaiah 25:12**
 
-And height of refuge of your wall he will humble, and it will come down to ground.
+And the height of the refuge of your wall he will humble, and it will come down to the ground.
 
 ### Chapter 26
 
 **Isaiah 26:1**
 
-In that day they will sing this song in the land of Judah, saying, Behold, strong city, and he will set salvation for us as wall and outer wall.
+In that day they will sing this song in the land of Judah, saying, Behold, a strong city, and he will set salvation for us as a wall and outer wall.
 
 **Isaiah 26:2**
 
-Open gates; let people enter, keeping righteousness and keeping truth,
+Open the gates; let a people enter, keeping righteousness and keeping truth,
 
 **Isaiah 26:3**
 
-upholding truth and keeping peace because upon you
+upholding truth and keeping peace, because upon you
 
 **Isaiah 26:4**
 
-they hoped, Lord, forever, great eternal God.
+they hoped, O Lord, forever, the great eternal God.
 
 **Isaiah 26:5**
 
-Who humbled and brought down those dwelling on heights, strong cities; you will throw down and bring to ground,
+Who humbled and brought down those dwelling on the heights, the strong cities; you will throw down and bring to the ground,
 
 **Isaiah 26:6**
 
-and feet of gentle and humble will tread them.
+and the feet of the gentle and humble will tread them.
 
 **Isaiah 26:7**
 
@@ -73388,55 +73388,55 @@ For the way of the Lord is judgment; we hoped in your name and in remembrance.
 
 **Isaiah 26:9**
 
-Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon earth. Learn righteousness, dwellers on earth.
+Our soul desires you by night; my spirit rises early toward you, O God, because your ordinances are light upon the earth. Learn righteousness, you dwellers on the earth.
 
 **Isaiah 26:10**
 
-For ungodly ceased; he certainly will not learn righteousness on earth, he certainly will not do truth. Let ungodly be taken away so that he not see the glory of the Lord.
+For the ungodly ceased; he certainly will not learn righteousness on the earth, he certainly will not do truth. Let the ungodly be taken away so that he not see the glory of the Lord.
 
 **Isaiah 26:11**
 
-Lord, your arm is high and they did not know; but knowing they will be ashamed. Zeal will seize untrained people, and now fire will eat opponents.
+O Lord, your arm is high and they did not know; but knowing they will be ashamed. Zeal will seize an untrained people, and now fire will eat the opponents.
 
 **Isaiah 26:12**
 
-Lord our God, give us peace, for you gave all things to us.
+O Lord our God, give us peace, for you gave all things to us.
 
 **Isaiah 26:13**
 
-Lord our God, acquire us; Lord, apart from you we know no other; we name your name.
+O Lord our God, acquire us; O Lord, apart from you we know no other; we name your name.
 
 **Isaiah 26:14**
 
-But dead certainly will not see life, nor physicians certainly raise them; because of this you brought and destroyed and took away every male of them.
+But the dead certainly will not see life, nor the physicians certainly raise them; because of this you brought and destroyed and took away every male of them.
 
 **Isaiah 26:15**
 
-Add evils to them, Lord; add evils to all glorious ones of earth.
+Add evils to them, O Lord; add evils to all the glorious ones of the earth.
 
 **Isaiah 26:16**
 
-Lord, in affliction we remembered you; in affliction your discipline small to us.
+O Lord, in affliction we remembered you; in affliction your discipline was small to us.
 
 **Isaiah 26:17**
 
-And as a woman in labor comes near to bearing and in her pain cried out, so we became to your beloved because of your fear, Lord.
+And as a woman in labor comes near to bearing and in her pain cried out, so we became to your beloved because of your fear, O Lord.
 
 **Isaiah 26:18**
 
-In womb we conceived and were in labor and gave birth to spirit of your salvation. We worked on earth, but dwellers on earth will fall.
+In the womb we conceived and were in labor and gave birth to a spirit of your salvation. We worked on the earth, but the dwellers on the earth will fall.
 
 **Isaiah 26:19**
 
-Dead will rise and those in tombs will be raised, and those in earth will rejoice, for dew from you is healing to them, but land of ungodly will fall.
+The dead will rise and those in the tombs will be raised, and those in the earth will rejoice, for the dew from you is healing to them, but the land of the ungodly will fall.
 
 **Isaiah 26:20**
 
-Go, my people, enter your chambers, shut your door, hide yourself a little, as much as little, until anger of the Lord passes.
+Go, my people, enter your chambers, shut your door, hide yourself a little, as much as little, until the anger of the Lord passes.
 
 **Isaiah 26:21**
 
-For behold, the Lord from holy place brings wrath upon dwellers on earth, and earth will uncover its blood and will not cover those killed.
+For behold, the Lord from the holy place brings wrath upon the dwellers on the earth, and the earth will uncover its blood and will not cover those killed.
 
 ### Chapter 27
 

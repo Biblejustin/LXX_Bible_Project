@@ -5028,6 +5028,56 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "into a stronghold and into a prison" in by_ref["Isaiah 24:22"][
         "draft_translation"
     ]
+    assert by_ref["Isaiah 25:1"]["draft_translation"].startswith(
+        "O Lord my God"
+    )
+    assert "the city of the ungodly" in by_ref["Isaiah 25:2"][
+        "draft_translation"
+    ]
+    assert "the poor people will bless you" in by_ref["Isaiah 25:3"][
+        "draft_translation"
+    ]
+    assert "a shelter for the thirsty ones" in by_ref["Isaiah 25:4"][
+        "draft_translation"
+    ]
+    assert "all the nations on this mountain" in by_ref["Isaiah 25:6"][
+        "draft_translation"
+    ]
+    assert "the reproach of the people" in by_ref["Isaiah 25:8"][
+        "draft_translation"
+    ]
+    assert "the Moabite land" in by_ref["Isaiah 25:10"]["draft_translation"]
+    assert "to the ground" in by_ref["Isaiah 25:12"]["draft_translation"]
+    assert "Behold, a strong city" in by_ref["Isaiah 26:1"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 26:2"]["draft_translation"].startswith(
+        "Open the gates"
+    )
+    assert "O Lord, forever, the great eternal God" in by_ref["Isaiah 26:4"][
+        "draft_translation"
+    ]
+    assert "those dwelling on the heights" in by_ref["Isaiah 26:5"][
+        "draft_translation"
+    ]
+    assert "upon the earth" in by_ref["Isaiah 26:9"]["draft_translation"]
+    assert "For the ungodly ceased" in by_ref["Isaiah 26:10"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 26:11"]["draft_translation"].startswith("O Lord")
+    assert "the dead certainly will not see life" in by_ref["Isaiah 26:14"][
+        "draft_translation"
+    ]
+    assert "all the glorious ones of the earth" in by_ref["Isaiah 26:15"][
+        "draft_translation"
+    ]
+    assert "In the womb we conceived" in by_ref["Isaiah 26:18"][
+        "draft_translation"
+    ]
+    assert "those in the tombs" in by_ref["Isaiah 26:19"]["draft_translation"]
+    assert "until the anger of the Lord passes" in by_ref["Isaiah 26:20"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
