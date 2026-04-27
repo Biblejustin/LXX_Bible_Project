@@ -165102,109 +165102,109 @@ Note:
 ### Isaiah 42:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I was silent; will I also always be silent and endure? I held firm. As woman giving birth I will be amazed and dry up together.
+- fresh: I was silent; will I also always be silent and endure? I held firm. As a woman giving birth I will be amazed and dry up together.
 - brenton: I have been silent: shall I also always be silent and forbear? I have endured like a travailing woman: I will now amaze and wither at once.
 
 ### Isaiah 42:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make rivers into islands and marshes I will dry up.
+- fresh: And I will make rivers into islands and dry up marshes.
 - brenton: I will make desolate mountains and hills, and will dry up all their grass; and I will make the rivers islands, and dry up the pools.
 
 ### Isaiah 42:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make darkness for them into light and crooked things into straight. These words I will do and not abandon them.
+- fresh: And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make the darkness for them into light and the crooked things into straight things. These words I will do and not abandon them.
 - brenton: And I will bring the blind by a way that they knew not, and I will cause them to tread paths which they have not known: I will turn darkness into light for them, and crooked things into straight. These things will I do, and will not forsake them.
 
 ### Isaiah 42:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But they turned backward. Be ashamed with shame, those trusting in carved things, those saying to molten images, You are our gods.
+- fresh: But they turned backward. Be ashamed with shame, the ones trusting in the carved things, the ones saying to the molten images, You are our gods.
 - brenton: But they are turned back: be ye utterly ashamed that trust in graven images, who say to the molten images, Ye are our gods.
 
 ### Isaiah 42:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Deaf ones, hear; blind ones, look up to see.
+- fresh: The deaf ones, hear; the blind ones, look up to see.
 - brenton: Hear, ye deaf, and look up, ye blind, to see.
 
 ### Isaiah 42:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And who blind except my servants, and deaf except those ruling them? And the servants of God were blinded.
+- fresh: And who is blind except my servants, and deaf except the ones ruling them? And the servants of God were blinded.
 - brenton: And who is blind, but my servants? and deaf, but they that rule over them? yea, the servants of God have been made blind.
 
 ### Isaiah 42:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You saw many times and did not keep watch; ears were opened and you did not hear.
+- fresh: You saw many times and did not keep watch; the ears were opened and you did not hear.
 - brenton: Ye have often seen, and have not taken heed; your ears have been opened, and ye have not heard.
 
 ### Isaiah 42:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord God wanted that he should be justified and magnify praise, and I saw.
+- fresh: The Lord God wanted him to be justified and to magnify praise, and I saw.
 - brenton: The Lord God has taken counsel that he might be justified, and might magnify his praise.
 
 ### Isaiah 42:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people became plundered and pillaged, for snare in storerooms everywhere and in houses together where they hid them. They became for plunder and there was none rescuing, spoil and none saying, Give back.
+- fresh: And the people became plundered and pillaged, for the snare was in the storerooms everywhere and in houses together where they hid them. They became for plunder, and there was no one rescuing, spoil and no one saying, Give back.
 - brenton: And I beheld, and the people were spoiled and plundered: for there is a snare in the secret chambers everywhere, and in the houses also, where they have hidden them: they became a spoil, and there was no one that delivered the prey, and there was none who said, Restore.
 
 ### Isaiah 42:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who among you will give ear to these things, will hear for things coming?
+- fresh: Who among you will give ear to these things, will hear for the things coming?
 - brenton: Who is there among you that will give ear to these things? hearken ye to the things which are coming to pass.
 
 ### Isaiah 42:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who gave Jacob for plunder and Israel to those spoiling him? Was it not God against whom they sinned, and they did not want to walk in his ways nor hear his law?
+- fresh: Who gave Jacob for plunder and Israel to the ones spoiling him? Was it not God against whom they sinned, and they did not want to walk in his ways nor hear his law?
 - brenton: For what did he give Jacob up to spoil, and Israel to them that plundered him? Did not God do it against whom they sinned? and they would not walk in his ways, nor hearken to his law.
 
 ### Isaiah 42:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought upon them anger of his wrath and war prevailed over them, and those burning them around, each did not know nor set it on soul.
+- fresh: And he brought upon them the anger of his wrath and war prevailed over them, and the ones burning them around, each of them did not know nor set it on his soul.
 - brenton: So he brought upon them the fury of his wrath; and the war, and those that burnt round about them, prevailed against them; yet no one of them knew it, neither did they lay it to heart.
 
 ### Isaiah 43:1

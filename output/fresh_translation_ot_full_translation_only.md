@@ -74840,51 +74840,51 @@ The Lord God of powers will go out and crush war, stir up zeal and shout against
 
 **Isaiah 42:14**
 
-I was silent; will I also always be silent and endure? I held firm. As woman giving birth I will be amazed and dry up together.
+I was silent; will I also always be silent and endure? I held firm. As a woman giving birth I will be amazed and dry up together.
 
 **Isaiah 42:15**
 
-And I will make rivers into islands and marshes I will dry up.
+And I will make rivers into islands and dry up marshes.
 
 **Isaiah 42:16**
 
-And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make darkness for them into light and crooked things into straight. These words I will do and not abandon them.
+And I will lead the blind in a way they did not know, and I will make paths for them that they did not know how to tread. I will make the darkness for them into light and the crooked things into straight things. These words I will do and not abandon them.
 
 **Isaiah 42:17**
 
-But they turned backward. Be ashamed with shame, those trusting in carved things, those saying to molten images, You are our gods.
+But they turned backward. Be ashamed with shame, the ones trusting in the carved things, the ones saying to the molten images, You are our gods.
 
 **Isaiah 42:18**
 
-Deaf ones, hear; blind ones, look up to see.
+The deaf ones, hear; the blind ones, look up to see.
 
 **Isaiah 42:19**
 
-And who blind except my servants, and deaf except those ruling them? And the servants of God were blinded.
+And who is blind except my servants, and deaf except the ones ruling them? And the servants of God were blinded.
 
 **Isaiah 42:20**
 
-You saw many times and did not keep watch; ears were opened and you did not hear.
+You saw many times and did not keep watch; the ears were opened and you did not hear.
 
 **Isaiah 42:21**
 
-The Lord God wanted that he should be justified and magnify praise, and I saw.
+The Lord God wanted him to be justified and to magnify praise, and I saw.
 
 **Isaiah 42:22**
 
-And the people became plundered and pillaged, for snare in storerooms everywhere and in houses together where they hid them. They became for plunder and there was none rescuing, spoil and none saying, Give back.
+And the people became plundered and pillaged, for the snare was in the storerooms everywhere and in houses together where they hid them. They became for plunder, and there was no one rescuing, spoil and no one saying, Give back.
 
 **Isaiah 42:23**
 
-Who among you will give ear to these things, will hear for things coming?
+Who among you will give ear to these things, will hear for the things coming?
 
 **Isaiah 42:24**
 
-Who gave Jacob for plunder and Israel to those spoiling him? Was it not God against whom they sinned, and they did not want to walk in his ways nor hear his law?
+Who gave Jacob for plunder and Israel to the ones spoiling him? Was it not God against whom they sinned, and they did not want to walk in his ways nor hear his law?
 
 **Isaiah 42:25**
 
-And he brought upon them anger of his wrath and war prevailed over them, and those burning them around, each did not know nor set it on soul.
+And he brought upon them the anger of his wrath and war prevailed over them, and the ones burning them around, each of them did not know nor set it on his soul.
 
 ### Chapter 43
 

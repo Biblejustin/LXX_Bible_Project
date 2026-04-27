@@ -6243,6 +6243,59 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "draft_translation"
     ]
     assert "in the islands" in by_ref["Isaiah 42:12"]["draft_translation"]
+    assert "As a woman giving birth" in by_ref["Isaiah 42:14"][
+        "draft_translation"
+    ]
+    assert "dry up marshes" in by_ref["Isaiah 42:15"]["draft_translation"]
+    assert "the darkness for them into light" in by_ref["Isaiah 42:16"][
+        "draft_translation"
+    ]
+    assert "the crooked things into straight things" in by_ref["Isaiah 42:16"][
+        "draft_translation"
+    ]
+    assert "the ones trusting in the carved things" in by_ref["Isaiah 42:17"][
+        "draft_translation"
+    ]
+    assert "the ones saying to the molten images" in by_ref["Isaiah 42:17"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 42:18"]["draft_translation"].startswith(
+        "The deaf ones"
+    )
+    assert "the blind ones" in by_ref["Isaiah 42:18"]["draft_translation"]
+    assert "who is blind" in by_ref["Isaiah 42:19"]["draft_translation"]
+    assert "the ones ruling them" in by_ref["Isaiah 42:19"][
+        "draft_translation"
+    ]
+    assert "the ears were opened" in by_ref["Isaiah 42:20"][
+        "draft_translation"
+    ]
+    assert "wanted him to be justified" in by_ref["Isaiah 42:21"][
+        "draft_translation"
+    ]
+    assert "the snare was in the storerooms" in by_ref["Isaiah 42:22"][
+        "draft_translation"
+    ]
+    assert "there was no one rescuing" in by_ref["Isaiah 42:22"][
+        "draft_translation"
+    ]
+    assert "no one saying, Give back" in by_ref["Isaiah 42:22"][
+        "draft_translation"
+    ]
+    assert "the things coming" in by_ref["Isaiah 42:23"][
+        "draft_translation"
+    ]
+    assert "the ones spoiling him" in by_ref["Isaiah 42:24"][
+        "draft_translation"
+    ]
+    assert "the anger of his wrath" in by_ref["Isaiah 42:25"][
+        "draft_translation"
+    ]
+    assert "the ones burning them around" in by_ref["Isaiah 42:25"][
+        "draft_translation"
+    ]
+    assert "each of them" in by_ref["Isaiah 42:25"]["draft_translation"]
+    assert "his soul" in by_ref["Isaiah 42:25"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
