@@ -74266,11 +74266,11 @@ And Eliakim son of Hilkiah the steward and Shebna the scribe of force and Joah s
 
 **Isaiah 37:1**
 
-And it happened when King Hezekiah heard, he tore garments and put on sackcloth and went up into the house of the Lord.
+And it happened when King Hezekiah heard, he tore his garments and put on sackcloth and went up into the house of the Lord.
 
 **Isaiah 37:2**
 
-And he sent Eliakim the steward and Shebna the scribe and elders of priests clothed with sackcloths to Isaiah son of Amoz the prophet.
+And he sent Eliakim the steward and Shebna the scribe and the elders of the priests clothed with sackcloths to Isaiah son of Amoz the prophet.
 
 **Isaiah 37:3**
 
@@ -74278,7 +74278,7 @@ And they said to him, Thus says Hezekiah: Today is a day of affliction and repro
 
 **Isaiah 37:4**
 
-May the Lord your God hear words of Rabshakeh, whom king of the Assyrians sent to reproach living God and to reproach words which the Lord your God heard, and you will pray to the Lord your God concerning these remnants.
+May the Lord your God hear the words of Rabshakeh, whom the king of the Assyrians sent to reproach the living God and to reproach the words which the Lord your God heard, and you will pray to the Lord your God concerning these remnants.
 
 **Isaiah 37:5**
 
@@ -74286,19 +74286,19 @@ And the servants of the king came to Isaiah.
 
 **Isaiah 37:6**
 
-And Isaiah said to them, Thus you will say to your lord: Thus says the Lord, Do not fear from words which you heard, with which envoys of the king of the Assyrians reproached me.
+And Isaiah said to them, Thus you will say to your lord: Thus says the Lord, Do not fear from the words which you heard, with which the envoys of the king of the Assyrians reproached me.
 
 **Isaiah 37:7**
 
-Behold, I cast spirit into him, and hearing report he will turn back to his own land and fall by sword in his own land.
+Behold, I cast a spirit into him, and hearing a report he will turn back to his own land and fall by a sword in his own land.
 
 **Isaiah 37:8**
 
-And Rabshakeh turned back and found king besieging Libnah, and the king of the Assyrians heard that
+And Rabshakeh turned back and found the king besieging Libnah, and the king of the Assyrians heard that
 
 **Isaiah 37:9**
 
-Tirhakah king of Ethiopians went out to besiege him. And hearing, he turned back and sent messengers to Hezekiah, saying,
+Tirhakah king of the Ethiopians went out to besiege him. And hearing, he turned back and sent messengers to Hezekiah, saying,
 
 **Isaiah 37:10**
 
@@ -74306,19 +74306,19 @@ Thus you will say to Hezekiah king of Judah: Do not let your God, on whom you tr
 
 **Isaiah 37:11**
 
-Did you not hear what the kings of the Assyrians did to the whole earth, how they destroyed?
+Did you not hear what the kings of the Assyrians did to the whole earth, how they destroyed it?
 
 **Isaiah 37:12**
 
-Did gods of nations rescue them, whom my fathers destroyed, Gozan and Haran and Rezeph which are in the land of Thaimad?
+Did the gods of the nations rescue them, whom my fathers destroyed, Gozan and Haran and Rezeph which are in the land of Theemath?
 
 **Isaiah 37:13**
 
-Where are kings of Hamath and Arpad and city of Sepharvaim, Hena, Ivvah?
+Where are the kings of Hamath and Arpad and the city of Sepharvaim, Hena, Ivvah?
 
 **Isaiah 37:14**
 
-And Hezekiah took book from messengers and opened it before the Lord.
+And Hezekiah took the book from the messengers and opened it before the Lord.
 
 **Isaiah 37:15**
 
@@ -74326,23 +74326,23 @@ And Hezekiah prayed to the Lord, saying,
 
 **Isaiah 37:16**
 
-Lord of hosts, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
+Lord of hosts, God of Israel, the one sitting upon the cherubim, you alone are God of every kingdom of the inhabited world; you made heaven and earth.
 
 **Isaiah 37:17**
 
-Hear, Lord; look, Lord; and see words which Sennacherib sent to reproach living God.
+Hear, Lord; look, Lord; and see the words which Sennacherib sent to reproach the living God.
 
 **Isaiah 37:18**
 
-For truly kings of Assyrians made whole inhabited world and their land desolate
+For truly the kings of the Assyrians made the whole inhabited world and their land desolate
 
 **Isaiah 37:19**
 
-and threw their idols into fire, for they were not gods but works of the hands of men, wood and stones, and they destroyed them.
+and threw their idols into the fire, for they were not gods but works of the hands of men, wood and stones, and they destroyed them.
 
 **Isaiah 37:20**
 
-But you, Lord our God, save us from their hand so that every kingdom of earth may know that you alone are God.
+But you, Lord our God, save us from their hand so that every kingdom of the earth may know that you alone are God.
 
 **Isaiah 37:21**
 
@@ -74350,7 +74350,7 @@ And Isaiah son of Amoz was sent to Hezekiah and said to him, Thus says the Lord 
 
 **Isaiah 37:22**
 
-This word God spoke concerning him: Virgin daughter Zion despised you and mocked you; after you daughter Jerusalem shook head.
+This is the word which God spoke concerning him: The virgin daughter Zion despised you and mocked you; at you the daughter Jerusalem shook her head.
 
 **Isaiah 37:23**
 
@@ -74358,19 +74358,19 @@ Whom did you reproach and provoke? Against whom did you raise your voice and did
 
 **Isaiah 37:24**
 
-Because through envoys you reproached Lord. For you said, In the multitude of my chariots I went up into the height of mountains and into far parts of Lebanon, and I cut down height of its cedar and beauty of cypress and entered height of region of the forest.
+Because through envoys you reproached the Lord. For you said, In the multitude of my chariots I went up into the height of mountains and into the far parts of Lebanon, and I cut down the height of its cedar and the beauty of cypress and entered the height of a region of the forest.
 
 **Isaiah 37:25**
 
-And I set bridge and made waters desolate and every gathering of waters.
+And I set a bridge and made the waters desolate and every gathering of waters.
 
 **Isaiah 37:26**
 
-Did you not hear long ago what I did? From ancient days I arranged them. But now I displayed to lay nations waste in strongholds and dwellers in fortified cities.
+Did you not hear long ago what I did? From ancient days I arranged them. But now I displayed it to lay the nations waste in strongholds and the dwellers in fortified cities.
 
 **Isaiah 37:27**
 
-I let go hands and they dried up and became as dry grass upon housetops and as field-grass.
+I let go the hands and they dried up and became as dry grass upon housetops and as field-grass.
 
 **Isaiah 37:28**
 
@@ -74378,27 +74378,27 @@ And now your resting and your going out and your coming in I know.
 
 **Isaiah 37:29**
 
-And your anger, with which you raged, and your bitterness came up to me, and I will put hook into your nose and bridle on your lips and turn you back by way in which you came.
+And your anger, with which you raged, and your bitterness came up to me, and I will put a hook into your nose and a bridle on your lips and turn you back by the way in which you came.
 
 **Isaiah 37:30**
 
-And this is a sign to you: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
+And this is the sign to you: Eat this year what you sowed, and in the second year the remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
 
 **Isaiah 37:31**
 
-And those left in Judah will put forth root down and make seed upward.
+And those left in Judah will put forth a root down and make seed upward.
 
 **Isaiah 37:32**
 
-Because from Jerusalem those left will go out and those being saved from Mount Zion. The zeal of the Lord of hosts will do these things.
+Because from Jerusalem the ones left will go out and the ones being saved from Mount Zion. The zeal of the Lord of hosts will do these things.
 
 **Isaiah 37:33**
 
-Because of this thus says the Lord concerning king of the Assyrians: He certainly will not enter this city, nor certainly cast arrow on it, nor certainly bring shield against it, nor certainly circle palisade around it.
+Because of this thus says the Lord concerning the king of the Assyrians: He certainly will not enter this city, nor certainly cast an arrow on it, nor certainly bring a shield against it, nor certainly circle a palisade around it.
 
 **Isaiah 37:34**
 
-But by way he came, by it he will turn back, thus says the Lord.
+But by the way he came, by it he will turn back, thus says the Lord.
 
 **Isaiah 37:35**
 
@@ -74406,7 +74406,7 @@ I will shield over this city to save it for my sake and for David my servant.
 
 **Isaiah 37:36**
 
-And the angel of the Lord went out and killed from camp of Assyrians one hundred eighty-five thousand, and rising early in morning they found all bodies dead.
+And the angel of the Lord went out and killed from the camp of the Assyrians one hundred eighty-five thousand, and rising early in the morning they found all the bodies dead.
 
 **Isaiah 37:37**
 

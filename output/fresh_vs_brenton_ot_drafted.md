@@ -163833,19 +163833,19 @@ Note:
 ### Isaiah 37:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when King Hezekiah heard, he tore garments and put on sackcloth and went up into the house of the Lord.
+- fresh: And it happened when King Hezekiah heard, he tore his garments and put on sackcloth and went up into the house of the Lord.
 - brenton: And it came to pass, when king Ezekias heard it, that he rent his clothes, and put on sackcloth, and went up to the house of the Lord.
 
 ### Isaiah 37:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he sent Eliakim the steward and Shebna the scribe and elders of priests clothed with sackcloths to Isaiah son of Amoz the prophet.
+- fresh: And he sent Eliakim the steward and Shebna the scribe and the elders of the priests clothed with sackcloths to Isaiah son of Amoz the prophet.
 - brenton: And he sent Heliakim the steward, and Somnas the scribe, and the elders of the priests clothed with sackcloth, to Esaias the son of Amos, the prophet. And they said to him, Thus says Ezekias,
 
 ### Isaiah 37:3
@@ -163860,10 +163860,10 @@ Note:
 ### Isaiah 37:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: May the Lord your God hear words of Rabshakeh, whom king of the Assyrians sent to reproach living God and to reproach words which the Lord your God heard, and you will pray to the Lord your God concerning these remnants.
+- fresh: May the Lord your God hear the words of Rabshakeh, whom the king of the Assyrians sent to reproach the living God and to reproach the words which the Lord your God heard, and you will pray to the Lord your God concerning these remnants.
 - brenton: May the Lord thy God hear the words of Rabsaces, which the king of the Assyrians has sent, to reproach the living God, even to reproach with the words which the Lord thy God has heard: therefore thou shalt pray to thy Lord for these that are left.
 
 ### Isaiah 37:5
@@ -163878,37 +163878,37 @@ Note:
 ### Isaiah 37:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Isaiah said to them, Thus you will say to your lord: Thus says the Lord, Do not fear from words which you heard, with which envoys of the king of the Assyrians reproached me.
+- fresh: And Isaiah said to them, Thus you will say to your lord: Thus says the Lord, Do not fear from the words which you heard, with which the envoys of the king of the Assyrians reproached me.
 - brenton: And Esaias said to them, Thus shall ye say to your master, Thus saith the Lord, Be not thou afraid at the words which thou hast heard, wherewith the ambassadors of the king of the Assyrians have reproached me.
 
 ### Isaiah 37:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I cast spirit into him, and hearing report he will turn back to his own land and fall by sword in his own land.
+- fresh: Behold, I cast a spirit into him, and hearing a report he will turn back to his own land and fall by a sword in his own land.
 - brenton: Behold, I will send a blast upon him, and he shall hear a report, and return to his own country, and he shall fall by the sword in his own land.
 
 ### Isaiah 37:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Rabshakeh turned back and found king besieging Libnah, and the king of the Assyrians heard that
+- fresh: And Rabshakeh turned back and found the king besieging Libnah, and the king of the Assyrians heard that
 - brenton: So Rabsaces returned, and found the king of the Assyrians besieging Lobna: for he had heard that he had departed from Lachis.
 
 ### Isaiah 37:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Tirhakah king of Ethiopians went out to besiege him. And hearing, he turned back and sent messengers to Hezekiah, saying,
+- fresh: Tirhakah king of the Ethiopians went out to besiege him. And hearing, he turned back and sent messengers to Hezekiah, saying,
 - brenton: And Tharaca king of the Ethiopians went forth to attack him. And when he heard it, he turned aside, and sent messengers to Ezekias, saying,
 
 ### Isaiah 37:10
@@ -163923,37 +163923,37 @@ Note:
 ### Isaiah 37:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did you not hear what the kings of the Assyrians did to the whole earth, how they destroyed?
+- fresh: Did you not hear what the kings of the Assyrians did to the whole earth, how they destroyed it?
 - brenton: Hast thou not heard what the kings of the Assyrians have done, how they have destroyed the whole earth? and shalt thou be delivered?
 
 ### Isaiah 37:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did gods of nations rescue them, whom my fathers destroyed, Gozan and Haran and Rezeph which are in the land of Thaimad?
+- fresh: Did the gods of the nations rescue them, whom my fathers destroyed, Gozan and Haran and Rezeph which are in the land of Theemath?
 - brenton: Have the gods of the nations which my fathers destroyed delivered them, both Gozan, and Charrhan, and Rapheth, which are in the land of Theemath?
 
 ### Isaiah 37:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Where are kings of Hamath and Arpad and city of Sepharvaim, Hena, Ivvah?
+- fresh: Where are the kings of Hamath and Arpad and the city of Sepharvaim, Hena, Ivvah?
 - brenton: Where are the kings of Emath? and where is the king of Arphath? and where is the king of the city of Eppharuaim, and of Anagugana?
 
 ### Isaiah 37:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hezekiah took book from messengers and opened it before the Lord.
+- fresh: And Hezekiah took the book from the messengers and opened it before the Lord.
 - brenton: And Ezekias received the letter from the messengers, and read it, and went up to the house of the Lord, and opened it before the Lord.
 
 ### Isaiah 37:15
@@ -163968,46 +163968,46 @@ Note:
 ### Isaiah 37:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord of hosts, God of Israel, one sitting upon cherubim, you alone are God of every kingdom of inhabited world; you made heaven and earth.
+- fresh: Lord of hosts, God of Israel, the one sitting upon the cherubim, you alone are God of every kingdom of the inhabited world; you made heaven and earth.
 - brenton: O Lord of hosts, God of Israel, who sittest upon the cherubs, thou alone art the God of every kingdom of the world: thou hast made heaven and earth.
 
 ### Isaiah 37:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear, Lord; look, Lord; and see words which Sennacherib sent to reproach living God.
+- fresh: Hear, Lord; look, Lord; and see the words which Sennacherib sent to reproach the living God.
 - brenton: Incline thine ear, O Lord, hearken, O Lord; open thine eyes, O Lord, look, O Lord: and behold the words of Sennacherim, which he has sent to reproach the living God.
 
 ### Isaiah 37:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For truly kings of Assyrians made whole inhabited world and their land desolate
+- fresh: For truly the kings of the Assyrians made the whole inhabited world and their land desolate
 - brenton: For of a truth, Lord, the kings of the Assyrians have laid waste the whole world, and the countries thereof,
 
 ### Isaiah 37:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and threw their idols into fire, for they were not gods but works of the hands of men, wood and stones, and they destroyed them.
+- fresh: and threw their idols into the fire, for they were not gods but works of the hands of men, wood and stones, and they destroyed them.
 - brenton: and have cast their idols into the fire: for they were no gods, but the work of men's hands, wood and stone; and they have cast them away.
 
 ### Isaiah 37:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, Lord our God, save us from their hand so that every kingdom of earth may know that you alone are God.
+- fresh: But you, Lord our God, save us from their hand so that every kingdom of the earth may know that you alone are God.
 - brenton: But now, O Lord our God, deliver us from his hands, that every kingdom of the earth may know that thou art God alone.
 
 ### Isaiah 37:21
@@ -164022,10 +164022,10 @@ Note:
 ### Isaiah 37:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This word God spoke concerning him: Virgin daughter Zion despised you and mocked you; after you daughter Jerusalem shook head.
+- fresh: This is the word which God spoke concerning him: The virgin daughter Zion despised you and mocked you; at you the daughter Jerusalem shook her head.
 - brenton: This is the word which God has spoken concerning him; The virgin daughter of Sion has despised thee, and mocked thee; the daughter of Jerusalem has shaken her head at thee.
 
 ### Isaiah 37:23
@@ -164040,37 +164040,37 @@ Note:
 ### Isaiah 37:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because through envoys you reproached Lord. For you said, In the multitude of my chariots I went up into the height of mountains and into far parts of Lebanon, and I cut down height of its cedar and beauty of cypress and entered height of region of the forest.
+- fresh: Because through envoys you reproached the Lord. For you said, In the multitude of my chariots I went up into the height of mountains and into the far parts of Lebanon, and I cut down the height of its cedar and the beauty of cypress and entered the height of a region of the forest.
 - brenton: For thou hast reproached the Lord by messengers; for thou hast said, With the multitude of chariots have I ascended to the height of mountains, and to the sides of Libanus; and I have cropped the height of his cedars and the beauty of his cypresses; and I entered into the height of the forest region:
 
 ### Isaiah 37:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I set bridge and made waters desolate and every gathering of waters.
+- fresh: And I set a bridge and made the waters desolate and every gathering of waters.
 - brenton: and I have made a bridge, and dried up the waters, and every pool of water.
 
 ### Isaiah 37:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did you not hear long ago what I did? From ancient days I arranged them. But now I displayed to lay nations waste in strongholds and dwellers in fortified cities.
+- fresh: Did you not hear long ago what I did? From ancient days I arranged them. But now I displayed it to lay the nations waste in strongholds and the dwellers in fortified cities.
 - brenton: Hast thou not heard of these things which I did of old? I appointed them from ancient times; but now have I manifested my purpose of desolating nations in their strong holds, and them that dwell in strong cities.
 
 ### Isaiah 37:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I let go hands and they dried up and became as dry grass upon housetops and as field-grass.
+- fresh: I let go the hands and they dried up and became as dry grass upon housetops and as field-grass.
 - brenton: I weakened their hands, and they withered; and they became as dry grass on the house-tops, and as grass.
 
 ### Isaiah 37:28
@@ -164085,55 +164085,55 @@ Note:
 ### Isaiah 37:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your anger, with which you raged, and your bitterness came up to me, and I will put hook into your nose and bridle on your lips and turn you back by way in which you came.
+- fresh: And your anger, with which you raged, and your bitterness came up to me, and I will put a hook into your nose and a bridle on your lips and turn you back by the way in which you came.
 - brenton: And thy wrath wherewith thou hast been enraged, and thy rancour has come up to me; therefore I will put a hook in thy nose, and a bit in thy lips, and will turn thee back by the way by which thou camest.
 
 ### Isaiah 37:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And this is a sign to you: Eat this year what you sowed, and in the second year remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
+- fresh: And this is the sign to you: Eat this year what you sowed, and in the second year the remnant, and in the third year sow and reap and plant vineyards and eat their fruit.
 - brenton: And this shall be a sign to thee, Eat this year what thou hast sown; and the second year that which is left: and the third year sow, and reap, and plant vineyards, and eat the fruit of them.
 
 ### Isaiah 37:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those left in Judah will put forth root down and make seed upward.
+- fresh: And those left in Judah will put forth a root down and make seed upward.
 - brenton: And they that are left in Judea shall take root downward, and bear fruit upward:
 
 ### Isaiah 37:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from Jerusalem those left will go out and those being saved from Mount Zion. The zeal of the Lord of hosts will do these things.
+- fresh: Because from Jerusalem the ones left will go out and the ones being saved from Mount Zion. The zeal of the Lord of hosts will do these things.
 - brenton: for out of Jerusalem there shall be a remnant, and the saved ones out of mount Sion: the zeal of the Lord of hosts shall perform this.
 
 ### Isaiah 37:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this thus says the Lord concerning king of the Assyrians: He certainly will not enter this city, nor certainly cast arrow on it, nor certainly bring shield against it, nor certainly circle palisade around it.
+- fresh: Because of this thus says the Lord concerning the king of the Assyrians: He certainly will not enter this city, nor certainly cast an arrow on it, nor certainly bring a shield against it, nor certainly circle a palisade around it.
 - brenton: Therefore thus saith the Lord concerning the king of the Assyrians, He shall not enter into this city, nor cast a weapon against it, nor bring a shield against it, nor make a rampart round it.
 
 ### Isaiah 37:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But by way he came, by it he will turn back, thus says the Lord.
+- fresh: But by the way he came, by it he will turn back, thus says the Lord.
 - brenton: But by the way by which he came, by it shall he return, and shall not enter into this city: thus saith the Lord.
 
 ### Isaiah 37:35
@@ -164148,10 +164148,10 @@ Note:
 ### Isaiah 37:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the angel of the Lord went out and killed from camp of Assyrians one hundred eighty-five thousand, and rising early in morning they found all bodies dead.
+- fresh: And the angel of the Lord went out and killed from the camp of the Assyrians one hundred eighty-five thousand, and rising early in the morning they found all the bodies dead.
 - brenton: And the angel of the Lord went forth, and slew out of the camp of the Assyrians a hundred and eighty-five thousand: and they arose in the morning and found all these bodies dead.
 
 ### Isaiah 37:37
@@ -164166,7 +164166,7 @@ Note:
 ### Isaiah 37:38
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And while he was bowing in the house of Nisroch his ancestral god, Adrammelech and Sharezer his sons struck him with swords, but they escaped into Armenia, and Esarhaddon his son reigned in his place.

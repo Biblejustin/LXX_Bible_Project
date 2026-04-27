@@ -5736,6 +5736,119 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "tearing their tunics" in by_ref["Isaiah 36:22"][
         "draft_translation"
     ]
+    assert "tore his garments" in by_ref["Isaiah 37:1"]["draft_translation"]
+    assert "the elders of the priests" in by_ref["Isaiah 37:2"][
+        "draft_translation"
+    ]
+    assert "hear the words of Rabshakeh" in by_ref["Isaiah 37:4"][
+        "draft_translation"
+    ]
+    assert "the living God" in by_ref["Isaiah 37:4"]["draft_translation"]
+    assert "the envoys of the king of the Assyrians" in by_ref[
+        "Isaiah 37:6"
+    ]["draft_translation"]
+    assert "I cast a spirit into him" in by_ref["Isaiah 37:7"][
+        "draft_translation"
+    ]
+    assert "hearing a report" in by_ref["Isaiah 37:7"]["draft_translation"]
+    assert "found the king besieging Libnah" in by_ref["Isaiah 37:8"][
+        "draft_translation"
+    ]
+    assert "Tirhakah king of the Ethiopians" in by_ref["Isaiah 37:9"][
+        "draft_translation"
+    ]
+    assert "how they destroyed it" in by_ref["Isaiah 37:11"][
+        "draft_translation"
+    ]
+    assert "the gods of the nations" in by_ref["Isaiah 37:12"][
+        "draft_translation"
+    ]
+    assert "Rezeph which are in the land of Theemath" in by_ref[
+        "Isaiah 37:12"
+    ]["draft_translation"]
+    assert "the kings of Hamath and Arpad" in by_ref["Isaiah 37:13"][
+        "draft_translation"
+    ]
+    assert "the city of Sepharvaim, Hena, Ivvah" in by_ref[
+        "Isaiah 37:13"
+    ]["draft_translation"]
+    assert "took the book from the messengers" in by_ref["Isaiah 37:14"][
+        "draft_translation"
+    ]
+    assert "the one sitting upon the cherubim" in by_ref["Isaiah 37:16"][
+        "draft_translation"
+    ]
+    assert "every kingdom of the inhabited world" in by_ref["Isaiah 37:16"][
+        "draft_translation"
+    ]
+    assert "see the words which Sennacherib sent" in by_ref[
+        "Isaiah 37:17"
+    ]["draft_translation"]
+    assert "the kings of the Assyrians made the whole inhabited world" in by_ref[
+        "Isaiah 37:18"
+    ]["draft_translation"]
+    assert "into the fire" in by_ref["Isaiah 37:19"]["draft_translation"]
+    assert "every kingdom of the earth" in by_ref["Isaiah 37:20"][
+        "draft_translation"
+    ]
+    assert "The virgin daughter Zion" in by_ref["Isaiah 37:22"][
+        "draft_translation"
+    ]
+    assert "the daughter Jerusalem shook her head" in by_ref[
+        "Isaiah 37:22"
+    ]["draft_translation"]
+    assert "you reproached the Lord" in by_ref["Isaiah 37:24"][
+        "draft_translation"
+    ]
+    assert "the far parts of Lebanon" in by_ref["Isaiah 37:24"][
+        "draft_translation"
+    ]
+    assert "I set a bridge" in by_ref["Isaiah 37:25"]["draft_translation"]
+    assert "lay the nations waste" in by_ref["Isaiah 37:26"][
+        "draft_translation"
+    ]
+    assert "the dwellers in fortified cities" in by_ref["Isaiah 37:26"][
+        "draft_translation"
+    ]
+    assert "I let go the hands" in by_ref["Isaiah 37:27"][
+        "draft_translation"
+    ]
+    assert "put a hook into your nose and a bridle" in by_ref[
+        "Isaiah 37:29"
+    ]["draft_translation"]
+    assert "this is the sign to you" in by_ref["Isaiah 37:30"][
+        "draft_translation"
+    ]
+    assert "in the second year the remnant" in by_ref["Isaiah 37:30"][
+        "draft_translation"
+    ]
+    assert "put forth a root down" in by_ref["Isaiah 37:31"][
+        "draft_translation"
+    ]
+    assert "the ones left will go out" in by_ref["Isaiah 37:32"][
+        "draft_translation"
+    ]
+    assert "concerning the king of the Assyrians" in by_ref[
+        "Isaiah 37:33"
+    ]["draft_translation"]
+    assert "cast an arrow" in by_ref["Isaiah 37:33"]["draft_translation"]
+    assert "bring a shield" in by_ref["Isaiah 37:33"]["draft_translation"]
+    assert "circle a palisade" in by_ref["Isaiah 37:33"]["draft_translation"]
+    assert by_ref["Isaiah 37:34"]["draft_translation"].startswith(
+        "But by the way"
+    )
+    assert "from the camp of the Assyrians" in by_ref["Isaiah 37:36"][
+        "draft_translation"
+    ]
+    assert "all the bodies dead" in by_ref["Isaiah 37:36"][
+        "draft_translation"
+    ]
+    assert "Nisroch his ancestral god" in by_ref["Isaiah 37:38"][
+        "draft_translation"
+    ]
+    assert "Adrammelech and Sharezer" in by_ref["Isaiah 37:38"][
+        "draft_translation"
+    ]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
