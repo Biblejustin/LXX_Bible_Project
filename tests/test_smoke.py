@@ -3737,7 +3737,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "do not curse a king" in by_ref["Ecclesiastes 10:20"][
         "draft_translation"
     ]
-    assert "The dwellers of rock will rejoice" in by_ref["Isaiah 42:11"]["draft_translation"]
+    assert "The dwellers of the rock will rejoice" in by_ref["Isaiah 42:11"][
+        "draft_translation"
+    ]
     assert "The face of a prostitute became yours" in by_ref["Jeremiah 3:3"]["draft_translation"]
     assert by_ref["Hosea 9:7"]["draft_translation"].startswith(
         "The days of vengeance have come; the days of your repayment have come"
@@ -6183,6 +6185,64 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the ones leading you astray" in by_ref["Isaiah 41:29"][
         "draft_translation"
     ]
+    assert "judgment to the nations" in by_ref["Isaiah 42:1"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 42:3"]["draft_translation"].startswith(
+        "A crushed reed"
+    )
+    assert "in truth he will bring judgment" in by_ref["Isaiah 42:3"][
+        "draft_translation"
+    ]
+    assert "upon the earth" in by_ref["Isaiah 42:4"]["draft_translation"]
+    assert "the nations will hope in his name" in by_ref["Isaiah 42:4"][
+        "draft_translation"
+    ]
+    assert "the one making heaven" in by_ref["Isaiah 42:5"][
+        "draft_translation"
+    ]
+    assert "the one establishing the earth" in by_ref["Isaiah 42:5"][
+        "draft_translation"
+    ]
+    assert "the things in it" in by_ref["Isaiah 42:5"]["draft_translation"]
+    assert "breath to the people" in by_ref["Isaiah 42:5"][
+        "draft_translation"
+    ]
+    assert "into a covenant of a race" in by_ref["Isaiah 42:6"][
+        "draft_translation"
+    ]
+    assert "into a light of nations" in by_ref["Isaiah 42:6"][
+        "draft_translation"
+    ]
+    assert "open the eyes of the blind" in by_ref["Isaiah 42:7"][
+        "draft_translation"
+    ]
+    assert "out of a prison house" in by_ref["Isaiah 42:7"][
+        "draft_translation"
+    ]
+    assert "this is my name" in by_ref["Isaiah 42:8"]["draft_translation"]
+    assert "to the carved things" in by_ref["Isaiah 42:8"][
+        "draft_translation"
+    ]
+    assert "the former things came" in by_ref["Isaiah 42:9"][
+        "draft_translation"
+    ]
+    assert "the new things" in by_ref["Isaiah 42:9"]["draft_translation"]
+    assert "a new hymn" in by_ref["Isaiah 42:10"]["draft_translation"]
+    assert "into the sea" in by_ref["Isaiah 42:10"]["draft_translation"]
+    assert "the islands and those dwelling in them" in by_ref["Isaiah 42:10"][
+        "draft_translation"
+    ]
+    assert by_ref["Isaiah 42:11"]["draft_translation"].startswith(
+        "Rejoice, the wilderness"
+    )
+    assert "the dwellers in Kedar" in by_ref["Isaiah 42:11"][
+        "draft_translation"
+    ]
+    assert "from the tops of the mountains" in by_ref["Isaiah 42:11"][
+        "draft_translation"
+    ]
+    assert "in the islands" in by_ref["Isaiah 42:12"]["draft_translation"]
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]

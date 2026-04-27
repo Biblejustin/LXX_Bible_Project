@@ -164985,10 +164985,10 @@ Note:
 ### Isaiah 42:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to nations.
+- fresh: Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to the nations.
 - brenton: Jacob is my servant, I will help him: Israel is my chosen, my soul has accepted him; I have put my Spirit upon him; he shall bring forth judgment to the Gentiles.
 
 ### Isaiah 42:2
@@ -165003,91 +165003,91 @@ Note:
 ### Isaiah 42:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Crushed reed he will not break, and smoking flax he will not quench, but into truth he will bring judgment.
+- fresh: A crushed reed he will not break, and smoking flax he will not quench, but in truth he will bring judgment.
 - brenton: A bruised reed shall he not break, and smoking flax shall he not quench; but he shall bring forth judgment to truth.
 
 ### Isaiah 42:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He will shine out and will not be broken until he sets judgment upon earth, and nations will hope on his name.
+- fresh: He will shine out and will not be broken until he sets judgment upon the earth, and the nations will hope in his name.
 - brenton: He shall shine out, and shall not be discouraged, until he have set judgment on the earth: and in his name shall the Gentiles trust.
 
 ### Isaiah 42:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God, one making heaven and stretching it, one establishing earth and things in it, and giving breath to people on it and spirit to those walking on it.
+- fresh: Thus says the Lord God, the one making heaven and stretching it, the one establishing the earth and the things in it, and giving breath to the people on it and spirit to those walking on it.
 - brenton: Thus saith the Lord God, who made the heaven, and established it; who settled the earth, and the things in it, and gives breath to the people on it, and spirit to them that tread on it:
 
 ### Isaiah 42:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I, the Lord God, called you in righteousness and will hold your hand and strengthen you, and I gave you into covenant of race, into light of nations,
+- fresh: I, the Lord God, called you in righteousness and will hold your hand and strengthen you, and I gave you into a covenant of a race, into a light of nations,
 - brenton: I the Lord God have called thee in righteousness, and will hold thine hand, and will strengthen thee: and I have given thee for the covenant of a race, for a light of the Gentiles;
 
 ### Isaiah 42:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to open eyes of blind, bring bound ones out of bonds and those sitting in darkness out of prison house.
+- fresh: to open the eyes of the blind, bring bound ones out of bonds and those sitting in darkness out of a prison house.
 - brenton: to open the eyes of the blind, to bring the bound and them that sit in darkness out of bonds and the prison-house.
 
 ### Isaiah 42:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I, the Lord God, this my name. My glory I will not give to another, nor my virtues to carved things.
+- fresh: I, the Lord God, this is my name. My glory I will not give to another, nor my virtues to the carved things.
 - brenton: I am the Lord God: that is my name: I will not give my glory to another, nor my praises to graven images.
 
 ### Isaiah 42:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, former things came, and new things which I announce; before they spring up, they were made clear to you.
+- fresh: Behold, the former things came, and the new things which I announce; before they spring up, they were made clear to you.
 - brenton: Behold, the ancient things have come to pass, and so will the new things which I tell you: yea, before I tell them they are made known to you.
 
 ### Isaiah 42:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sing to the Lord new hymn, his beginning; glorify his name from the end of the earth, those going down into sea and sailing it, islands and those dwelling in them.
+- fresh: Sing to the Lord a new hymn, his beginning; glorify his name from the end of the earth, those going down into the sea and sailing it, the islands and those dwelling in them.
 - brenton: Sing a new hymn to the Lord: ye who are his dominion, glorify his name from the end of the earth: ye that go down to the sea, and sail upon it; the islands, and they that dwell in them.
 
 ### Isaiah 42:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rejoice, wilderness and its villages, camps and dwellers in Kedar. The dwellers of rock will rejoice; from tops of mountains they will cry out.
+- fresh: Rejoice, the wilderness and its villages, the camps and the dwellers in Kedar. The dwellers of the rock will rejoice; from the tops of the mountains they will cry out.
 - brenton: Rejoice, thou wilderness, and the villages thereof, the hamlets, and the dwellers in Kedar: the inhabitants of the rock shall rejoice, they shall shout from the top of the mountains.
 
 ### Isaiah 42:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will give glory to God, and in islands announce his virtues.
+- fresh: They will give glory to God, and in the islands announce his virtues.
 - brenton: They shall give glory to God, and shall proclaim his praises in the islands.
 
 ### Isaiah 42:13

@@ -74788,7 +74788,7 @@ For the ones making you and the ones leading you astray are vain.
 
 **Isaiah 42:1**
 
-Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to nations.
+Jacob my servant, I will help him; Israel my chosen one, my soul accepted him. I gave my Spirit upon him; he will bring judgment to the nations.
 
 **Isaiah 42:2**
 
@@ -74796,43 +74796,43 @@ He will not cry out nor raise up, nor will his voice be heard outside.
 
 **Isaiah 42:3**
 
-Crushed reed he will not break, and smoking flax he will not quench, but into truth he will bring judgment.
+A crushed reed he will not break, and smoking flax he will not quench, but in truth he will bring judgment.
 
 **Isaiah 42:4**
 
-He will shine out and will not be broken until he sets judgment upon earth, and nations will hope on his name.
+He will shine out and will not be broken until he sets judgment upon the earth, and the nations will hope in his name.
 
 **Isaiah 42:5**
 
-Thus says the Lord God, one making heaven and stretching it, one establishing earth and things in it, and giving breath to people on it and spirit to those walking on it.
+Thus says the Lord God, the one making heaven and stretching it, the one establishing the earth and the things in it, and giving breath to the people on it and spirit to those walking on it.
 
 **Isaiah 42:6**
 
-I, the Lord God, called you in righteousness and will hold your hand and strengthen you, and I gave you into covenant of race, into light of nations,
+I, the Lord God, called you in righteousness and will hold your hand and strengthen you, and I gave you into a covenant of a race, into a light of nations,
 
 **Isaiah 42:7**
 
-to open eyes of blind, bring bound ones out of bonds and those sitting in darkness out of prison house.
+to open the eyes of the blind, bring bound ones out of bonds and those sitting in darkness out of a prison house.
 
 **Isaiah 42:8**
 
-I, the Lord God, this my name. My glory I will not give to another, nor my virtues to carved things.
+I, the Lord God, this is my name. My glory I will not give to another, nor my virtues to the carved things.
 
 **Isaiah 42:9**
 
-Behold, former things came, and new things which I announce; before they spring up, they were made clear to you.
+Behold, the former things came, and the new things which I announce; before they spring up, they were made clear to you.
 
 **Isaiah 42:10**
 
-Sing to the Lord new hymn, his beginning; glorify his name from the end of the earth, those going down into sea and sailing it, islands and those dwelling in them.
+Sing to the Lord a new hymn, his beginning; glorify his name from the end of the earth, those going down into the sea and sailing it, the islands and those dwelling in them.
 
 **Isaiah 42:11**
 
-Rejoice, wilderness and its villages, camps and dwellers in Kedar. The dwellers of rock will rejoice; from tops of mountains they will cry out.
+Rejoice, the wilderness and its villages, the camps and the dwellers in Kedar. The dwellers of the rock will rejoice; from the tops of the mountains they will cry out.
 
 **Isaiah 42:12**
 
-They will give glory to God, and in islands announce his virtues.
+They will give glory to God, and in the islands announce his virtues.
 
 **Isaiah 42:13**
 
