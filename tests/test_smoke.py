@@ -2583,7 +2583,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "all the woods of Lebanon" in by_ref["Song of Solomon 4:14"]["draft_translation"]
     assert "all the first perfumes" in by_ref["Song of Solomon 4:14"]["draft_translation"]
     assert "like a gazelle or a fawn of deer" in by_ref["Song of Solomon 8:14"]["draft_translation"]
-    assert "from the priests dwelling in Anathoth" in by_ref["Jeremiah 1:1"]["draft_translation"]
+    assert "from the priests, who dwelt in Anathoth" in by_ref["Jeremiah 1:1"]["draft_translation"]
     assert "the judgment of a man before the face of the Most High" in by_ref["Lamentations 3:35"]["draft_translation"]
     assert by_ref["Ezekiel 1:1"]["draft_translation"].startswith("And it happened in the thirtieth year")
     assert "the heavens were opened" in by_ref["Ezekiel 1:1"]["draft_translation"]
