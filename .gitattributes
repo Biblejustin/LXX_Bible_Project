@@ -1,0 +1,4 @@
+*.md text eol=lf
+*.py text eol=lf
+output/*.csv text eol=lf
+data/research/*.csv text eol=lf
