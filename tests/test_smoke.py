@@ -3884,7 +3884,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "And those from the west will fear"
     )
     assert by_ref["Jeremiah 3:21"]["draft_translation"].startswith(
-        "A voice from lips was heard"
+        "A voice was heard from lips"
     )
     assert by_ref["Jeremiah 32:37"]["draft_translation"].startswith(
         "And the remnants of peace will cease"
