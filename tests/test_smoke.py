@@ -3415,7 +3415,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "like a wheel" in by_ref["Psalms 82:14"]["draft_translation"]
     assert "comes like a storm" in by_ref["Proverbs 1:27"]["draft_translation"]
     assert "like a river of peace" in by_ref["Isaiah 66:12"]["draft_translation"]
-    assert "like a torrent flooding glory" in by_ref["Isaiah 66:12"]["draft_translation"]
+    assert "like a torrent flooding the glory" in by_ref["Isaiah 66:12"]["draft_translation"]
     assert "like a skin-bag, like a garment eaten by moth" in by_ref["Job 13:28"]["draft_translation"]
     assert "like a garment, and like a cloak" in by_ref["Psalms 101:27"]["draft_translation"]
     assert "my salvation like a cloud" in by_ref["Job 30:15"]["draft_translation"]
