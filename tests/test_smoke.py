@@ -3,6 +3,7 @@ import hashlib
 import importlib.util
 import json
 import re
+import subprocess
 import sys
 import zipfile
 from pathlib import Path
@@ -87,6 +88,51 @@ def test_review_csv_shapes() -> None:
     ]
     issues = [issue for path in paths for issue in csv_shape_issues(path)]
     assert not issues, "\n".join(format_csv_shape_issue(issue) for issue in issues[:10])
+
+
+def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
+    target = tmp_path / "review.csv"
+    target.write_text("ref,note\n", encoding="utf-8")
+
+    result = subprocess.run(
+        [sys.executable, str(ROOT / "scripts" / "append_review_csv_rows.py"), str(target)],
+        input="Jeremiah 1:1\tcomma, inside field\n",
+        text=True,
+        capture_output=True,
+        check=True,
+    )
+
+    rows = list(csv.DictReader(target.open("r", encoding="utf-8", newline="")))
+    assert rows == [{"ref": "Jeremiah 1:1", "note": "comma, inside field"}]
+    assert not csv_shape_issues(target)
+    assert "appended_rows" in result.stdout
+
+
+def test_safe_csv_update_quotes_commas_and_preserves_unchanged_rows(tmp_path: Path) -> None:
+    target = tmp_path / "source.csv"
+    target.write_bytes(b"ref,draft_translation\r\nJeremiah 1:1,old\r\nJeremiah 1:2,keep\r\n")
+
+    result = subprocess.run(
+        [
+            sys.executable,
+            str(ROOT / "scripts" / "update_csv_column_from_tsv.py"),
+            str(target),
+        ],
+        input="Jeremiah 1:1\tnew, with comma\n",
+        text=True,
+        capture_output=True,
+        check=True,
+    )
+
+    data = target.read_bytes()
+    assert b"Jeremiah 1:2,keep\r\n" in data
+    assert b'"new, with comma"' in data
+    rows = list(csv.DictReader(target.open("r", encoding="utf-8", newline="")))
+    assert rows == [
+        {"ref": "Jeremiah 1:1", "draft_translation": "new, with comma"},
+        {"ref": "Jeremiah 1:2", "draft_translation": "keep"},
+    ]
+    assert "updated_rows" in result.stdout
 
 
 def test_tr_manifest_matches_imported_csv() -> None:
