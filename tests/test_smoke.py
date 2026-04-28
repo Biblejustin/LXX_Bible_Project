@@ -3591,9 +3591,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "The glory of God hides a word"
     )
     assert by_ref["Isaiah 60:13"]["draft_translation"].startswith("The glory of Lebanon")
-    assert by_ref["Isaiah 64:9"]["draft_translation"].startswith(
-        "The city of your holy one became"
-    )
+    assert by_ref["Isaiah 64:9"]["draft_translation"].startswith("Your holy city became")
     assert by_ref["Jeremiah 52:5"]["draft_translation"].startswith(
         "And the city came into siege"
     )
