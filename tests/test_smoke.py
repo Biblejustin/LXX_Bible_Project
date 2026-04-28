@@ -3402,7 +3402,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "fly like an eagle eager to eat" in by_ref["Habakkuk 1:8"]["draft_translation"]
     assert by_ref["Jeremiah 30:16"]["draft_translation"].startswith("Behold, like an eagle")
     assert "like an eagle against the house of the Lord" in by_ref["Hosea 8:1"]["draft_translation"]
-    assert "as a young man dwelling with a virgin" in by_ref["Isaiah 62:5"]["draft_translation"]
+    assert "as a young man lives with a virgin" in by_ref["Isaiah 62:5"]["draft_translation"]
     assert "as a bridegroom rejoices over a bride" in by_ref["Isaiah 62:5"]["draft_translation"]
     assert "anoint him as a ruler over my people Israel" in by_ref["1 Samuel 9:16"]["draft_translation"]
     assert "faithful as a prophet to the Lord" in by_ref["1 Samuel 3:20"]["draft_translation"]
