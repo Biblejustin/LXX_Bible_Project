@@ -6925,7 +6925,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "hearts chosen by the Lord" in by_ref["Proverbs 17:3"]["draft_translation"]
     assert "hear the voice of his servant" in by_ref["Isaiah 50:10"]["draft_translation"]
     assert "Redeemed by the Lord" in by_ref["Isaiah 62:12"]["draft_translation"]
-    assert "wounded will be by the Lord" in by_ref["Isaiah 66:16"]["draft_translation"]
+    assert "many will be wounded by the Lord" in by_ref["Isaiah 66:16"]["draft_translation"]
     assert "slain by the Lord" in by_ref["Jeremiah 32:33"]["draft_translation"]
     assert "the name of the city is Burial Place, and the land will be cleansed" in by_ref[
         "Ezekiel 39:16"
