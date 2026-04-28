@@ -16,6 +16,7 @@ for import_path in (ROOT, ROOT / "scripts"):
         sys.path.insert(0, import_path_text)
 
 from fresh_bible.book_scope import filter_rows_by_scope
+from fresh_bible.csv_shape import csv_shape_issues, format_csv_shape_issue
 
 
 SOURCE_COLUMNS = {
@@ -76,6 +77,16 @@ def test_fresh_source_csv_shapes() -> None:
     assert [row["ref"] for row in ot_rows if row["greek_text"] == "MT-only insertion; no LXX Greek row"] == [
         f"Jeremiah 40:{verse}" for verse in range(14, 27)
     ]
+
+
+def test_review_csv_shapes() -> None:
+    paths = [
+        ROOT / "data" / "research" / "translation_footnotes.csv",
+        ROOT / "data" / "research" / "translation_decisions.csv",
+        ROOT / "data" / "research" / "reviewed_phrase_guards.csv",
+    ]
+    issues = [issue for path in paths for issue in csv_shape_issues(path)]
+    assert not issues, "\n".join(format_csv_shape_issue(issue) for issue in issues[:10])
 
 
 def test_tr_manifest_matches_imported_csv() -> None:

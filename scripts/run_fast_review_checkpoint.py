@@ -8,12 +8,12 @@ and DOCX rebuilds; run `make checkpoint-ot` only at batch/release boundaries.
 from __future__ import annotations
 
 import argparse
-import csv
 import subprocess
 import sys
 import time
 from pathlib import Path
 
+from fresh_bible.csv_shape import assert_csv_shapes
 import review_chunk_helper as helper
 
 
@@ -22,18 +22,10 @@ DECISIONS = ROOT / "data/research/translation_decisions.csv"
 
 
 def csv_shape_check(paths: list[Path]) -> None:
-    for path in paths:
-        if not path.exists():
-            continue
-        with path.open("r", encoding="utf-8", newline="") as handle:
-            rows = list(csv.reader(handle))
-        if not rows:
-            raise SystemExit(f"Empty CSV: {path}")
-        width = len(rows[0])
-        bad = [(index + 1, len(row)) for index, row in enumerate(rows) if len(row) != width]
-        if bad:
-            preview = ", ".join(f"line {line} width {row_width}" for line, row_width in bad[:10])
-            raise SystemExit(f"CSV shape failure in {path}: {preview}")
+    try:
+        assert_csv_shapes(paths)
+    except ValueError as error:
+        raise SystemExit(f"CSV shape failure:\n{error}") from error
 
 
 def run_pytest(testament: str) -> None:
