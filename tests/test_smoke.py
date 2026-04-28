@@ -6947,7 +6947,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the heart of the king will perish and the heart of the rulers" in by_ref[
         "Jeremiah 4:9"
     ]["draft_translation"]
-    assert "the voice of weeping and the voice of cry" in by_ref["Isaiah 65:19"]["draft_translation"]
+    assert "a voice of weeping and a voice of crying" in by_ref["Isaiah 65:19"]["draft_translation"]
     assert "the sound of a shout of joy" in by_ref["Ezra 3:13"]["draft_translation"]
     assert "the sound of wings of living beings" in by_ref["Ezekiel 3:13"]["draft_translation"]
     assert "the sound of wings of cherubim" in by_ref["Ezekiel 10:5"]["draft_translation"]
