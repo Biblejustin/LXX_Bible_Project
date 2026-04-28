@@ -6516,7 +6516,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "in the glory of the Lord" in by_ref["Isaiah 24:14"]["draft_translation"]
     assert "from the produce of your land" in by_ref["Isaiah 30:23"]["draft_translation"]
     assert "say to the cities of Judah" in by_ref["Isaiah 40:9"]["draft_translation"]
-    assert "in the dark place of earth" in by_ref["Isaiah 45:19"]["draft_translation"]
+    assert "in a dark place of the earth" in by_ref["Isaiah 45:19"]["draft_translation"]
     assert "to the generations of generations" in by_ref["Isaiah 51:8"]["draft_translation"]
     assert "by the strength of his arm" in by_ref["Isaiah 62:8"]["draft_translation"]
     assert "to whom the word of God came" in by_ref["Jeremiah 1:2"]["draft_translation"]
