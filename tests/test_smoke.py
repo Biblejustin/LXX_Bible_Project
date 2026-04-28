@@ -3583,7 +3583,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Isaiah 19:3"]["draft_translation"].startswith(
         "And the spirit of the Egyptians"
     )
-    assert by_ref["Isaiah 61:1"]["draft_translation"].startswith("The Spirit of the Lord on me")
+    assert by_ref["Isaiah 61:1"]["draft_translation"].startswith("The Spirit of the Lord is on me")
     assert by_ref["Jeremiah 4:12"]["draft_translation"].startswith("The spirit of fullness")
     assert by_ref["Ezekiel 11:5"]["draft_translation"].startswith("And the Spirit of the Lord fell")
     assert "but the word of our God remains" in by_ref["Isaiah 40:8"]["draft_translation"]
