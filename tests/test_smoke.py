@@ -3396,7 +3396,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "hunger like a dog" in by_ref["Psalms 58:7"]["draft_translation"]
     assert "like a calf not taught" in by_ref["Jeremiah 38:18"]["draft_translation"]
     assert "Like a bear and like a dove" in by_ref["Isaiah 59:11"]["draft_translation"]
-    assert "like a horse through wilderness" in by_ref["Isaiah 63:13"]["draft_translation"]
+    assert "like a horse through a wilderness" in by_ref["Isaiah 63:13"]["draft_translation"]
     assert "as a deer struck in liver" in by_ref["Proverbs 7:23"]["draft_translation"]
     assert "soar high like an eagle" in by_ref["Obadiah 1:4"]["draft_translation"]
     assert "fly like an eagle eager to eat" in by_ref["Habakkuk 1:8"]["draft_translation"]
