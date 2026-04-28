@@ -4244,7 +4244,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "all Edomites became David's servants" in by_ref["1 Chronicles 18:13"]["draft_translation"]
     assert "they will be portions for foxes" in by_ref["Psalms 62:11"]["draft_translation"]
     assert "there will be folds for flocks" in by_ref["Isaiah 65:10"]["draft_translation"]
-    assert "the valley of Achor for the rest of herds" in by_ref["Isaiah 65:10"]["draft_translation"]
+    assert "the valley of Achor as a resting place for herds" in by_ref[
+        "Isaiah 65:10"
+    ]["draft_translation"]
     assert "the house of Israel was ashamed of Bethel" in by_ref["Jeremiah 31:13"]["draft_translation"]
     assert "until the time of completion" in by_ref["Daniel 9:26"]["draft_translation"]
     assert "until the time of the completion of war" in by_ref["Daniel 9:27"]["draft_translation"]
@@ -6584,7 +6586,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "Sun for the authority of day" in by_ref["Psalms 135:8"]["draft_translation"]
     assert "for the words of songs" in by_ref["Psalms 136:3"]["draft_translation"]
     assert "for the days of times" in by_ref["Isaiah 30:8"]["draft_translation"]
-    assert "for the rest of herds" in by_ref["Isaiah 65:10"]["draft_translation"]
+    assert "as a resting place for herds" in by_ref["Isaiah 65:10"]["draft_translation"]
     assert "toward the hands of their masters" in by_ref["Psalms 122:2"]["draft_translation"]
     assert "when the chiefs of chariots saw" in by_ref["2 Chronicles 18:31"]["draft_translation"]
     assert "in which is the breath of life" in by_ref["Genesis 6:17"]["draft_translation"]
