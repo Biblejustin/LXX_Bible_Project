@@ -3994,7 +3994,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Job 38:28"]["draft_translation"].startswith("Who is the father of rain")
     assert by_ref["Job 40:9"]["draft_translation"].startswith("Or is your arm against the Lord")
     assert "it is the king of all things in waters" in by_ref["Job 41:26"]["draft_translation"]
-    assert "where is the wrath of one afflicting you" in by_ref["Isaiah 51:13"]["draft_translation"]
+    assert "where is the wrath of the one afflicting you" in by_ref["Isaiah 51:13"]["draft_translation"]
     assert "Where is the multitude of your mercy" in by_ref["Isaiah 63:15"]["draft_translation"]
     assert "is the portion of Jacob" in by_ref["Jeremiah 10:16"]["draft_translation"]
     assert "it is a land of carved images" in by_ref["Jeremiah 27:38"]["draft_translation"]
