@@ -4635,7 +4635,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the house of God will be manifest" in by_ref["Isaiah 2:2"]["draft_translation"]
     assert "the house of Jacob is in a snare" in by_ref["Isaiah 8:14"]["draft_translation"]
     assert "the house of Judah will come" in by_ref["Jeremiah 3:18"]["draft_translation"]
-    assert "so the house of Israel proved faithless" in by_ref["Jeremiah 3:20"]["draft_translation"]
+    assert "so the house of Israel acted faithlessly" in by_ref["Jeremiah 3:20"]["draft_translation"]
     assert "the house of Israel and the house of Judah acted faithlessly" in by_ref["Jeremiah 5:11"]["draft_translation"]
     assert "and the house of Judah broke my covenant" in by_ref["Jeremiah 11:10"]["draft_translation"]
     assert "brought up the house of Israel" in by_ref["Jeremiah 16:15"]["draft_translation"]
