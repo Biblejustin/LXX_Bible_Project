@@ -6803,7 +6803,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "reported to him the words of Rabshakeh" in by_ref["Isaiah 36:22"]["draft_translation"]
     assert "tear apart the strength of kings" in by_ref["Isaiah 45:1"]["draft_translation"]
-    assert "for the army of heaven" in by_ref["Jeremiah 7:18"]["draft_translation"]
+    assert "for the host of heaven" in by_ref["Jeremiah 7:18"]["draft_translation"]
     assert "Do not hear the words of prophets" in by_ref["Jeremiah 23:16"]["draft_translation"]
     assert "make the land of Babylon" in by_ref["Jeremiah 28:29"]["draft_translation"]
     assert "give them the land of Israel" in by_ref["Ezekiel 11:17"]["draft_translation"]
