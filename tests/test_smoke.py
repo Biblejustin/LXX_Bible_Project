@@ -6521,7 +6521,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by the strength of his arm" in by_ref["Isaiah 62:8"]["draft_translation"]
     assert "to whom the word of God came" in by_ref["Jeremiah 1:2"]["draft_translation"]
     assert "from the cities of Judah" in by_ref["Jeremiah 7:34"]["draft_translation"]
-    assert "after the pleasures of their evil heart" in by_ref["Jeremiah 9:13"]["draft_translation"]
+    assert "after the things pleasing to their evil heart" in by_ref["Jeremiah 9:13"]["draft_translation"]
     assert "upon the inhabitants of Anathoth" in by_ref["Jeremiah 11:23"]["draft_translation"]
     assert "in the prophets of Samaria" in by_ref["Jeremiah 23:13"]["draft_translation"]
     assert "by the works of your hands" in by_ref["Jeremiah 25:6"]["draft_translation"]
