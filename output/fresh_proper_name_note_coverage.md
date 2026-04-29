@@ -21,7 +21,7 @@ Policy:
 - `Moab` (place, 168x, first Genesis 19:37) — logos_primary_place_atlas_link_preserved
 - `Zion` (transliterated_form, 167x, first Deuteronomy 4:48) — not_classified
 - `Jerusalem` (place, 144x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
-- `Gilead` (transliterated_form, 126x, first Genesis 31:21) — not_classified
+- `Gilead` (transliterated_form, 125x, first Genesis 31:21) — not_classified
 - `Syria` (place, 119x, first Genesis 25:20) — logos_primary_place_atlas_link_preserved
 - `Samaria` (transliterated_form, 118x, first Judges 10:1) — not_classified
 - `Egyptians` (people_group, 114x, first Genesis 12:12) — logos_primary_entity

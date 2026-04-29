@@ -199253,10 +199253,10 @@ Note:
 ### Amos 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, the Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
+- fresh: And he said, The Lord spoke out from Zion and gave his voice from Jerusalem; the pastures of the shepherds mourned, and the top of Carmel dried up.
 - brenton: And he said, The Lord has spoken out of Sion, and has uttered his voice out of Jerusalem; and the pastures of the shepherds have mourned, and the top of Carmel is dried up.
 
 ### Amos 1:3
@@ -199271,28 +199271,28 @@ Note:
 ### Amos 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire into the house of Hazael, and it will devour foundations of Ben-hadad.
+- fresh: And I will send fire into the house of Hazael, and it will devour the foundations of Ben-hadad.
 - brenton: And I will send a fire on the house of Azael, and it shall devour the foundations of the son of Ader.
 
 ### Amos 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will shatter bars of Damascus and destroy inhabitants from the plain of On and cut off tribe from the men of Haran, and people of Syria called by name will be led captive, says the Lord.
+- fresh: And I will shatter the bars of Damascus and destroy the inhabitants from the plain of On and cut off a tribe from the men of Haran, and the people of Syria called by name will be led captive, says the Lord.
 - brenton: And I will break to pieces the bars of Damascus, and will destroy the inhabitants out of the plain of On, and will cut in pieces a tribe out of the men of Charrhan: and the famous people of Syria shall be led captive, saith the Lord.
 
 ### Amos 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Gaza and for four I will not turn them away, because they took captive captivity of Solomon to shut them up into Edom.
+- fresh: Thus says the Lord: For three impieties of Gaza and for four I will not turn them away, because they took captive the captivity of Solomon to shut them up into Edom.
 - brenton: Thus saith the Lord; For three sins of Gaza, and for four, I will not turn away from them; because they took prisoners the captivity of Solomon, to shut them up into Idumea.
 
 ### Amos 1:7
@@ -199307,19 +199307,19 @@ Note:
 ### Amos 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy inhabitants from Ashdod, and tribe will be removed from Ashkelon, and I will bring my hand upon Ekron, and remnant of the foreigners will perish, says the Lord.
+- fresh: And I will destroy the inhabitants from Ashdod, and a tribe will be removed from Ashkelon, and I will bring my hand upon Ekron, and the remnant of the foreigners will perish, says the Lord.
 - brenton: And I will destroy the inhabitants out of Azotus, and a tribe shall be cut off from Ascalon, and I will stretch out my hand upon Accaron: and the remnant of the Philistines shall perish, saith the Lord.
 
 ### Amos 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Tyre and for four I will not turn her away, because they shut up captivity of Solomon into Edom and did not remember covenant of brothers.
+- fresh: Thus says the Lord: For three impieties of Tyre and for four I will not turn her away, because they shut up the captivity of Solomon into Edom and did not remember the covenant of brothers.
 - brenton: Thus saith the Lord; For three transgressions of Tyre, and for four, I will not turn away from it; because they shut up the prisoners of Solomon into Idumea, and remembered not the covenant of brethren.
 
 ### Amos 1:10
@@ -199334,37 +199334,37 @@ Note:
 ### Amos 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Edom and for four I will not turn them away, because they pursued their brother with sword and ruined womb upon earth, and seized their horror as witness, and kept their rushing force for strife.
+- fresh: Thus says the Lord: For three impieties of Edom and for four I will not turn them away, because they pursued their brother with a sword and ruined womb upon earth, and seized their horror as witness, and kept their rushing force for strife.
 - brenton: Thus saith the Lord; For three sins of Idumea, and for four, I will not turn away from them; because they pursued their brother with the sword, and destroyed the mother upon the earth, and summoned up his anger for a testimony, and kept up his fury to the end.
 
 ### Amos 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire into Teman, and it will devour foundations of her walls.
+- fresh: And I will send fire into Teman, and it will devour the foundations of her walls.
 - brenton: And I will send forth a fire upon Thaman, and it shall devour the foundations of her walls.
 
 ### Amos 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of sons of Ammon and for four I will not turn him away, because they ripped open pregnant women of Gilead in order to widen their borders.
+- fresh: Thus says the Lord: For three impieties of the sons of Ammon and for four I will not turn him away, because they ripped open pregnant women of the Gileadites in order to widen their borders.
 - brenton: Thus saith the Lord; For three sins of the children of Ammon, and for four, I will not turn away from him; because they ripped up the women with child of the Galaadites, that they might widen their coasts.
 
 ### Amos 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will kindle fire on the walls of Rabbah, and it will devour her foundations with shouting in the day of war, and it will be shaken in the day of her completion.
+- fresh: And I will kindle a fire on the walls of Rabbah, and it will devour her foundations with shouting in the day of war, and she will be shaken in the day of her completion.
 - brenton: And I will kindle a fire on the walls of Rabbath, and it shall devour her foundations with shouting in the day of war, and she shall be shaken in the days of her destruction:
 
 ### Amos 1:15

@@ -90346,7 +90346,7 @@ The words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Je
 
 **Amos 1:2**
 
-And he said, the Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
+And he said, The Lord spoke out from Zion and gave his voice from Jerusalem; the pastures of the shepherds mourned, and the top of Carmel dried up.
 
 **Amos 1:3**
 
@@ -90354,15 +90354,15 @@ And the Lord said, For three impieties of Damascus and for four I will not turn 
 
 **Amos 1:4**
 
-And I will send fire into the house of Hazael, and it will devour foundations of Ben-hadad.
+And I will send fire into the house of Hazael, and it will devour the foundations of Ben-hadad.
 
 **Amos 1:5**
 
-And I will shatter bars of Damascus and destroy inhabitants from the plain of On and cut off tribe from the men of Haran, and people of Syria called by name will be led captive, says the Lord.
+And I will shatter the bars of Damascus and destroy the inhabitants from the plain of On and cut off a tribe from the men of Haran, and the people of Syria called by name will be led captive, says the Lord.
 
 **Amos 1:6**
 
-Thus says the Lord: For three impieties of Gaza and for four I will not turn them away, because they took captive captivity of Solomon to shut them up into Edom.
+Thus says the Lord: For three impieties of Gaza and for four I will not turn them away, because they took captive the captivity of Solomon to shut them up into Edom.
 
 **Amos 1:7**
 
@@ -90370,11 +90370,11 @@ And I will send fire on the walls of Gaza, and it will devour her foundations.
 
 **Amos 1:8**
 
-And I will destroy inhabitants from Ashdod, and tribe will be removed from Ashkelon, and I will bring my hand upon Ekron, and remnant of the foreigners will perish, says the Lord.
+And I will destroy the inhabitants from Ashdod, and a tribe will be removed from Ashkelon, and I will bring my hand upon Ekron, and the remnant of the foreigners will perish, says the Lord.
 
 **Amos 1:9**
 
-Thus says the Lord: For three impieties of Tyre and for four I will not turn her away, because they shut up captivity of Solomon into Edom and did not remember covenant of brothers.
+Thus says the Lord: For three impieties of Tyre and for four I will not turn her away, because they shut up the captivity of Solomon into Edom and did not remember the covenant of brothers.
 
 **Amos 1:10**
 
@@ -90382,19 +90382,19 @@ And I will send fire on the walls of Tyre, and it will devour her foundations.
 
 **Amos 1:11**
 
-Thus says the Lord: For three impieties of Edom and for four I will not turn them away, because they pursued their brother with sword and ruined womb upon earth, and seized their horror as witness, and kept their rushing force for strife.
+Thus says the Lord: For three impieties of Edom and for four I will not turn them away, because they pursued their brother with a sword and ruined womb upon earth, and seized their horror as witness, and kept their rushing force for strife.
 
 **Amos 1:12**
 
-And I will send fire into Teman, and it will devour foundations of her walls.
+And I will send fire into Teman, and it will devour the foundations of her walls.
 
 **Amos 1:13**
 
-Thus says the Lord: For three impieties of sons of Ammon and for four I will not turn him away, because they ripped open pregnant women of Gilead in order to widen their borders.
+Thus says the Lord: For three impieties of the sons of Ammon and for four I will not turn him away, because they ripped open pregnant women of the Gileadites in order to widen their borders.
 
 **Amos 1:14**
 
-And I will kindle fire on the walls of Rabbah, and it will devour her foundations with shouting in the day of war, and it will be shaken in the day of her completion.
+And I will kindle a fire on the walls of Rabbah, and it will devour her foundations with shouting in the day of war, and she will be shaken in the day of her completion.
 
 **Amos 1:15**
 

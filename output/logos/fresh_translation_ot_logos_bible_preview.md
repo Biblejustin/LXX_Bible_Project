@@ -502,7 +502,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 22
 
-**Amos 1:2** And he said, the Lord spoke out from Zion and gave his voice from Jerusalem, and pastures of shepherds mourned, and top of Carmel dried up.
+**Amos 1:2** And he said, The Lord spoke out from Zion and gave his voice from Jerusalem; the pastures of the shepherds mourned, and the top of Carmel dried up.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
