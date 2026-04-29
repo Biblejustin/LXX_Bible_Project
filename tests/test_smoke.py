@@ -3428,7 +3428,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "upon the whole earth" in by_ref["Isaiah 28:22"]["draft_translation"]
     assert "what the kings of the Assyrians did to the whole earth" in by_ref["Isaiah 37:11"]["draft_translation"]
     assert "Will the plowman plow the whole earth all day" in by_ref["Isaiah 45:9"]["draft_translation"]
-    assert "all beasts of the whole earth" in by_ref["Ezekiel 32:4"]["draft_translation"]
+    assert "all the beasts of the whole earth" in by_ref["Ezekiel 32:4"]["draft_translation"]
     assert by_ref["Ezekiel 35:14"]["draft_translation"].startswith("Thus says the Lord: In the joy of the whole earth")
     assert "the house of Jacob is in a snare" in by_ref["Isaiah 8:14"]["draft_translation"]
     assert "the house of Joseph a flame, and the house of Esau stubble" in by_ref["Obadiah 1:18"]["draft_translation"]
