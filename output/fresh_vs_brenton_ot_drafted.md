@@ -204048,10 +204048,10 @@ Note:
 ### Zechariah 2:2
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to the angel speaking with me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
+- fresh: And I said to the angel speaking with me, What are these, lord? And he said to me, These are the horns that scattered Judah and Israel.
 - brenton: And I said to the angel that spoke with me, What are these things, my lord? And he said to me, These are the horns that have scattered Juda, and Israel, and Jerusalem.
 
 ### Zechariah 2:3
@@ -204066,10 +204066,10 @@ Note:
 ### Zechariah 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, What are these coming to do? And he said to me, These are horns that scattered Judah and Israel; they broke them down, and no one lifted head among them. And these came to sharpen them in their hands, the four horns, the nations lifting horn against the land of the Lord to scatter it.
+- fresh: And I said, What are these coming to do? And he said to me, These are the horns that scattered Judah and Israel; they broke them down, and no one among them lifted a head. And these came to sharpen them for their hands, the four horns, the nations lifting a horn against the land of the Lord to scatter it.
 - brenton: And I said, What are these coming to do? And he said, These are the horns that scattered Juda, and they broke Israel in pieces, and none of them lifted up his head: and these are come forth to sharpen them for their hands, even the four horns, the nations that lifted up the horn against the land of the Lord to scatter it.
 
 ### Zechariah 2:5
@@ -204102,46 +204102,46 @@ Note:
 ### Zechariah 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and said to him, Run, and speak to that young man, saying: Jerusalem will be inhabited fruitfully because of multitude of humans and cattle in her midst.
+- fresh: and said to him, Run, and speak to that young man, saying: Jerusalem will be inhabited fruitfully because of the multitude of humans and cattle in her midst.
 - brenton: and spoke to him, saying, Run and speak to that young man, saying,
 
 ### Zechariah 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will be to her, says the Lord, a wall of fire all around, and I will be glory in her midst.
+- fresh: And I will be to her, says the Lord, a wall of fire all around, and I will be for glory in her midst.
 - brenton: And I will be to her, saith the Lord, a wall of fire round about, and I will be for a glory in the midst of her.
 
 ### Zechariah 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ho, ho, flee from the land of the north, says the Lord, because from four winds of heaven I will gather you, says the Lord.
+- fresh: Ho, ho, flee from the land of the north, says the Lord, because from the four winds of heaven I will gather you, says the Lord.
 - brenton: Ho, ho, flee from the land of the north, saith the Lord: for I will gather you from the four winds of heaven, saith the Lord,
 
 ### Zechariah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To Zion, be rescued, you dwelling with daughter Babylon.
+- fresh: To Zion, be rescued, you who dwell with daughter Babylon.
 - brenton: even to Sion: deliver yourselves, ye that dwell with the daughter of Babylon.
 
 ### Zechariah 2:12
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching the pupil of his eye.
+- fresh: Because thus says the Lord Almighty: After glory he sent me against the nations that plundered you, because one touching you is like one touching the pupil of his eye.
 - brenton: For thus saith the Lord Almighty; After the glory has he sent me to the nations that spoiled you: for he that touches you is as one that touches the apple of his eye.
 
 ### Zechariah 2:13
@@ -204174,10 +204174,10 @@ Note:
 ### Zechariah 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will inherit Judah, his portion, upon holy land, and he will still choose Jerusalem.
+- fresh: And the Lord will inherit Judah, his portion, upon the holy land, and he will still choose Jerusalem.
 - brenton: And the Lord shall inherit Juda his portion in the holy land, and he will yet choose Jerusalem.
 
 ### Zechariah 2:17

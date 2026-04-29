@@ -92552,7 +92552,7 @@ And I lifted my eyes and saw, and behold, four horns.
 
 **Zechariah 2:2**
 
-And I said to the angel speaking with me, What are these, lord? And he said to me, These are horns that scattered Judah and Israel.
+And I said to the angel speaking with me, What are these, lord? And he said to me, These are the horns that scattered Judah and Israel.
 
 **Zechariah 2:3**
 
@@ -92560,7 +92560,7 @@ And the Lord showed me four craftsmen.
 
 **Zechariah 2:4**
 
-And I said, What are these coming to do? And he said to me, These are horns that scattered Judah and Israel; they broke them down, and no one lifted head among them. And these came to sharpen them in their hands, the four horns, the nations lifting horn against the land of the Lord to scatter it.
+And I said, What are these coming to do? And he said to me, These are the horns that scattered Judah and Israel; they broke them down, and no one among them lifted a head. And these came to sharpen them for their hands, the four horns, the nations lifting a horn against the land of the Lord to scatter it.
 
 **Zechariah 2:5**
 
@@ -92576,23 +92576,23 @@ And behold, the angel speaking with me stood, and another angel went out to meet
 
 **Zechariah 2:8**
 
-and said to him, Run, and speak to that young man, saying: Jerusalem will be inhabited fruitfully because of multitude of humans and cattle in her midst.
+and said to him, Run, and speak to that young man, saying: Jerusalem will be inhabited fruitfully because of the multitude of humans and cattle in her midst.
 
 **Zechariah 2:9**
 
-And I will be to her, says the Lord, a wall of fire all around, and I will be glory in her midst.
+And I will be to her, says the Lord, a wall of fire all around, and I will be for glory in her midst.
 
 **Zechariah 2:10**
 
-Ho, ho, flee from the land of the north, says the Lord, because from four winds of heaven I will gather you, says the Lord.
+Ho, ho, flee from the land of the north, says the Lord, because from the four winds of heaven I will gather you, says the Lord.
 
 **Zechariah 2:11**
 
-To Zion, be rescued, you dwelling with daughter Babylon.
+To Zion, be rescued, you who dwell with daughter Babylon.
 
 **Zechariah 2:12**
 
-Because thus says the Lord Almighty: After glory he sent me against nations that plundered you, because one touching you is like one touching the pupil of his eye.
+Because thus says the Lord Almighty: After glory he sent me against the nations that plundered you, because one touching you is like one touching the pupil of his eye.
 
 **Zechariah 2:13**
 
@@ -92608,7 +92608,7 @@ And many nations will flee for refuge to the Lord in that day and will be for hi
 
 **Zechariah 2:16**
 
-And the Lord will inherit Judah, his portion, upon holy land, and he will still choose Jerusalem.
+And the Lord will inherit Judah, his portion, upon the holy land, and he will still choose Jerusalem.
 
 **Zechariah 2:17**
 
