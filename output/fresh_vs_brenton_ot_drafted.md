@@ -203225,10 +203225,10 @@ Note:
 ### Zephaniah 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Gather together and be bound together, undisciplined nation,
+- fresh: Gather together and be bound together, O undisciplined nation,
 - brenton: Be ye gathered and closely joined together, O unchastened nation;
 
 ### Zephaniah 2:2
@@ -203243,118 +203243,118 @@ Note:
 ### Zephaniah 2:3
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Seek the Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in the day of the Lord's wrath.
+- fresh: Seek the Lord, all humble of earth; work judgment and seek righteousness, and answer these things, so that you may be sheltered in the day of the Lord's wrath.
 - brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
 
 ### Zephaniah 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Gaza will be plundered, and Ashkelon will be for destruction, and Ashdod will be cast out at noon, and Ekron uprooted.
+- fresh: Because Gaza will be plundered, and Ashkelon will be for disappearance, and Ashdod will be cast out at noon, and Ekron will be uprooted.
 - brenton: For Gaza shall be utterly spoiled, and Ascalon shall be destroyed; and Azotus shall be cast forth at noon-day, and Accaron shall be rooted up.
 
 ### Zephaniah 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe, inhabitants of tract of sea, resident Cretans. The word of the Lord is upon you, Canaan, land of foreigners, and I will destroy you from habitation.
+- fresh: Woe, inhabitants of the measuring-line of the sea, resident Cretans. The word of the Lord is upon you, Canaan, land of foreigners, and I will destroy you from habitation.
 - brenton: Woe to them that dwell on the border of the sea, neighbours of the Cretans! the word of the Lord is against you, O Chanaan, land of the Philistines, and I will destroy you out of your dwelling-place.
 
 ### Zephaniah 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Crete will be a pasture of flocks and a sheepfold.
+- fresh: And Crete will be a pasture of flocks and a sheepfold of sheep.
 - brenton: And Crete shall be a pasture of flocks, and a fold of sheep.
 
 ### Zephaniah 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the tract of sea will belong to the remnant of the house of Judah. Upon them they will pasture; in the houses of Ashkelon at evening they will lodge before the sons of Judah, because the Lord their God visited them and turned back their captivity.
+- fresh: And the measuring-line of the sea will belong to the remnant of the house of Judah. Upon them they will pasture; in the houses of Ashkelon at evening they will lodge from before the sons of Judah, because the Lord their God has visited them and turned back their captivity.
 - brenton: And the sea coast shall be for the remnant of the house of Juda; they shall pasture upon them in the houses of Ascalon; they shall rest in the evening because of the children of Juda; for the Lord their God has visited them, and he will turn away their captivity.
 
 ### Zephaniah 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I heard reproaches of Moab and taunts of sons of Ammon, with which they reproached my people and magnified themselves against my borders.
+- fresh: I heard reproaches of Moab and insults of sons of Ammon, with which they reproached my people and magnified themselves against my borders.
 - brenton: I have heard the revilings of Moab, and the insults of the children of Ammon, wherewith they have reviled my people, and magnified themselves against my coasts.
 
 ### Zephaniah 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore, as I live, says the Lord of forces, God of Israel, Moab will be as Sodom and the sons of Ammon as Gomorrah, and Damascus left behind like a heap of the threshing-floor and desolated forever; the remnant of my people will plunder them, and the remnant of my nation will inherit them.
+- fresh: Therefore, as I live, says the Lord of forces, God of Israel, Moab will be as Sodom and the sons of Ammon as Gomorrah, and Damascus will be left behind like a heap of the threshing-floor and made desolate forever; the remnant of my people will plunder them, and the remnant of my nation will inherit them.
 - brenton: Therefore, as I live, saith the Lord of hosts, the God of Israel, Moab shall be as Sodoma, and the children of Ammon as Gomorrha; and Damascus shall be left as a heap of the threshing-floor, and desolate for ever: and the remnant of my people shall plunder them, and the remnant of my nation shall inherit them.
 
 ### Zephaniah 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This to them in return for their arrogance, because they reproached and magnified themselves against the Lord Almighty.
+- fresh: This is to them in return for their arrogance, because they reproached and magnified themselves against the Lord Almighty.
 - brenton: This is their punishment in return for their haughtiness, because they have reproached and magnified themselves against the Lord Almighty.
 
 ### Zephaniah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord will appear against them and destroy all gods of the nations of the earth, and all islands of nations will worship him, each from his place.
+- fresh: The Lord will appear against them and utterly destroy all the gods of the nations of the earth, and all the islands of nations will worship him, each from his place.
 - brenton: The Lord shall appear against them, and shall utterly destroy all the gods of the nations of the earth; and they shall worship him every one from his place, even all the islands of the nations.
 
 ### Zephaniah 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you Ethiopians are wounded by my sword.
+- fresh: And you Ethiopians are wounded ones of my sword.
 - brenton: Ye Ethiopians also are the slain of my sword.
 
 ### Zephaniah 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will stretch out his hand against north and destroy Assyrian and make Nineveh into disappearance, waterless as desert.
+- fresh: And he will stretch out his hand against the north and destroy the Assyrian and make Nineveh a disappearance, waterless as a desert.
 - brenton: And he shall stretch forth his hand against the north and destroy the Assyrian, and make Nineve a dry wilderness, even as a desert.
 
 ### Zephaniah 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And flocks will pasture in her midst and all beasts of the earth, and chameleons and hedgehogs will lie in her carved places, and beasts will cry out in her ditches, ravens in her gates, because cedar is her height.
+- fresh: And flocks and all the beasts of the earth will pasture in her midst, and chameleons and hedgehogs will lie in her ceilings, and beasts will cry out in her breaches, ravens in her gateways, because her stature is cedar.
 - brenton: And flocks, and all the wild beasts of the land, and chameleons shall feed in the midst thereof: and hedgehogs shall lodge in the ceilings thereof; and wild beasts shall cry in the breaches thereof, and ravens in her porches, whereas her loftiness was as a cedar.
 
 ### Zephaniah 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: This is city that made light, dwelling in hope, saying in her heart, I am, and there is none besides me. How she became for destruction, pasture of beasts. Everyone passing through her will hiss and wave his hands.
+- fresh: This is the city that made light, dwelling in hope, saying in her heart, I am, and there is no one after me anymore. How she became for disappearance, a pasture of beasts. Everyone passing through her will hiss and wave his hands.
 - brenton: This is the scornful city that dwells securely, that says in her heart, I am, and there is no longer any to be after me: how is she become desolate, a habitation of wild beasts! every one that passes through her shall hiss, and shake his hands.
 
 ### Zephaniah 3:1

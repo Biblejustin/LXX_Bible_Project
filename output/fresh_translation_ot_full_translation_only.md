@@ -92174,7 +92174,7 @@ And their silver and their gold will certainly not be able to rescue them in the
 
 **Zephaniah 2:1**
 
-Gather together and be bound together, undisciplined nation,
+Gather together and be bound together, O undisciplined nation,
 
 **Zephaniah 2:2**
 
@@ -92182,55 +92182,55 @@ before you come to be like a passing flower, before the Lord's wrath comes upon 
 
 **Zephaniah 2:3**
 
-Seek the Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in the day of the Lord's wrath.
+Seek the Lord, all humble of earth; work judgment and seek righteousness, and answer these things, so that you may be sheltered in the day of the Lord's wrath.
 
 **Zephaniah 2:4**
 
-Because Gaza will be plundered, and Ashkelon will be for destruction, and Ashdod will be cast out at noon, and Ekron uprooted.
+Because Gaza will be plundered, and Ashkelon will be for disappearance, and Ashdod will be cast out at noon, and Ekron will be uprooted.
 
 **Zephaniah 2:5**
 
-Woe, inhabitants of tract of sea, resident Cretans. The word of the Lord is upon you, Canaan, land of foreigners, and I will destroy you from habitation.
+Woe, inhabitants of the measuring-line of the sea, resident Cretans. The word of the Lord is upon you, Canaan, land of foreigners, and I will destroy you from habitation.
 
 **Zephaniah 2:6**
 
-And Crete will be a pasture of flocks and a sheepfold.
+And Crete will be a pasture of flocks and a sheepfold of sheep.
 
 **Zephaniah 2:7**
 
-And the tract of sea will belong to the remnant of the house of Judah. Upon them they will pasture; in the houses of Ashkelon at evening they will lodge before the sons of Judah, because the Lord their God visited them and turned back their captivity.
+And the measuring-line of the sea will belong to the remnant of the house of Judah. Upon them they will pasture; in the houses of Ashkelon at evening they will lodge from before the sons of Judah, because the Lord their God has visited them and turned back their captivity.
 
 **Zephaniah 2:8**
 
-I heard reproaches of Moab and taunts of sons of Ammon, with which they reproached my people and magnified themselves against my borders.
+I heard reproaches of Moab and insults of sons of Ammon, with which they reproached my people and magnified themselves against my borders.
 
 **Zephaniah 2:9**
 
-Therefore, as I live, says the Lord of forces, God of Israel, Moab will be as Sodom and the sons of Ammon as Gomorrah, and Damascus left behind like a heap of the threshing-floor and desolated forever; the remnant of my people will plunder them, and the remnant of my nation will inherit them.
+Therefore, as I live, says the Lord of forces, God of Israel, Moab will be as Sodom and the sons of Ammon as Gomorrah, and Damascus will be left behind like a heap of the threshing-floor and made desolate forever; the remnant of my people will plunder them, and the remnant of my nation will inherit them.
 
 **Zephaniah 2:10**
 
-This to them in return for their arrogance, because they reproached and magnified themselves against the Lord Almighty.
+This is to them in return for their arrogance, because they reproached and magnified themselves against the Lord Almighty.
 
 **Zephaniah 2:11**
 
-The Lord will appear against them and destroy all gods of the nations of the earth, and all islands of nations will worship him, each from his place.
+The Lord will appear against them and utterly destroy all the gods of the nations of the earth, and all the islands of nations will worship him, each from his place.
 
 **Zephaniah 2:12**
 
-And you Ethiopians are wounded by my sword.
+And you Ethiopians are wounded ones of my sword.
 
 **Zephaniah 2:13**
 
-And he will stretch out his hand against north and destroy Assyrian and make Nineveh into disappearance, waterless as desert.
+And he will stretch out his hand against the north and destroy the Assyrian and make Nineveh a disappearance, waterless as a desert.
 
 **Zephaniah 2:14**
 
-And flocks will pasture in her midst and all beasts of the earth, and chameleons and hedgehogs will lie in her carved places, and beasts will cry out in her ditches, ravens in her gates, because cedar is her height.
+And flocks and all the beasts of the earth will pasture in her midst, and chameleons and hedgehogs will lie in her ceilings, and beasts will cry out in her breaches, ravens in her gateways, because her stature is cedar.
 
 **Zephaniah 2:15**
 
-This is city that made light, dwelling in hope, saying in her heart, I am, and there is none besides me. How she became for destruction, pasture of beasts. Everyone passing through her will hiss and wave his hands.
+This is the city that made light, dwelling in hope, saying in her heart, I am, and there is no one after me anymore. How she became for disappearance, a pasture of beasts. Everyone passing through her will hiss and wave his hands.
 
 ### Chapter 3
 
