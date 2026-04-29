@@ -92490,23 +92490,23 @@ And you will say to them, Thus says the Lord Almighty: Return to me, and I will 
 
 **Zechariah 1:4**
 
-And do not become like your fathers, to whom former prophets called, saying, Thus says the Lord Almighty: Turn from your evil ways and from your evil practices. But they did not pay attention to hear me, says the Lord.
+And do not become like your fathers, to whom the former prophets called, saying, Thus says the Lord Almighty: Turn from your evil ways and from your evil practices. But they did not pay attention to listen to me, says the Lord.
 
 **Zechariah 1:5**
 
-Where are your fathers? And will prophets live forever?
+Where are your fathers? And will the prophets live forever?
 
 **Zechariah 1:6**
 
-Yet receive my words and my statutes, whatever I command in my Spirit to my servants the prophets, which overtook your fathers. And they answered and said, Just as the Lord Almighty was arrayed to do according to our ways and according to our practices, so he has done to us.
+Yet receive my words and my statutes, whatever I command by my Spirit to my servants the prophets, which overtook your fathers. And they answered and said, Just as the Lord Almighty was set to do according to our ways and according to our practices, so he did to us.
 
 **Zechariah 1:7**
 
-On the twenty-fourth day of eleventh month, this is month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+On the twenty-fourth day of the eleventh month, this is the month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 
 **Zechariah 1:8**
 
-I saw by night, and behold, a man mounted on red horse, and he stood between two shadowed mountains, and behind him were red, dappled, varied, and white horses.
+I saw by night, and behold, a man mounted on a red horse, and he stood between the two shadowed mountains, and behind him were red, dappled, varied, and white horses.
 
 **Zechariah 1:9**
 
@@ -92514,11 +92514,11 @@ And I said, What are these, lord? And the angel speaking with me said to me, I w
 
 **Zechariah 1:10**
 
-And man standing between mountains answered and said to me, These are ones the Lord sent to patrol earth.
+And the man standing between the mountains answered and said to me, These are the ones the Lord sent to patrol the earth.
 
 **Zechariah 1:11**
 
-And they answered angel of the Lord standing between mountains and said, We have patrolled all the earth, and behold, all the earth is inhabited and at rest.
+And they answered the angel of the Lord standing between the mountains and said, We have patrolled all the earth, and behold, all the earth is inhabited and at rest.
 
 **Zechariah 1:12**
 
@@ -92534,15 +92534,15 @@ And the angel speaking with me said to me, Cry out, saying, Thus says the Lord A
 
 **Zechariah 1:15**
 
-and with great anger I am angry against nations joining attack, because I was angry a little, but they joined in for evils.
+and with great anger I am angry against the nations joining attack, because I was angry a little, but they joined in for evils.
 
 **Zechariah 1:16**
 
-Therefore thus says the Lord: I will return to Jerusalem with compassion, and my house will be rebuilt in her, says the Lord Almighty, and measuring line will still be stretched over Jerusalem.
+Therefore thus says the Lord: I will return to Jerusalem with compassion, and my house will be rebuilt in her, says the Lord Almighty, and a measuring line will still be stretched over Jerusalem.
 
 **Zechariah 1:17**
 
-And angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: Cities will still overflow with good things, and the Lord will still have mercy on Zion and still choose Jerusalem.
+And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: The cities will still overflow with good things, and the Lord will still have mercy on Zion and still choose Jerusalem.
 
 ### Chapter 2
 

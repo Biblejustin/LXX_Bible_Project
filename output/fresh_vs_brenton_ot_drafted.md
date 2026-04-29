@@ -203913,46 +203913,46 @@ Note:
 ### Zechariah 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And do not become like your fathers, to whom former prophets called, saying, Thus says the Lord Almighty: Turn from your evil ways and from your evil practices. But they did not pay attention to hear me, says the Lord.
+- fresh: And do not become like your fathers, to whom the former prophets called, saying, Thus says the Lord Almighty: Turn from your evil ways and from your evil practices. But they did not pay attention to listen to me, says the Lord.
 - brenton: And be ye not as your fathers, whom the prophets before charged, saying, Thus saith the Lord Almighty: Turn ye from your evil ways, and from your evil practices: but they hearkened not, and attended not to hearken to me, saith the Lord.
 
 ### Zechariah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Where are your fathers? And will prophets live forever?
+- fresh: Where are your fathers? And will the prophets live forever?
 - brenton: Where are your fathers, and the prophets? Will they live for ever?
 
 ### Zechariah 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet receive my words and my statutes, whatever I command in my Spirit to my servants the prophets, which overtook your fathers. And they answered and said, Just as the Lord Almighty was arrayed to do according to our ways and according to our practices, so he has done to us.
+- fresh: Yet receive my words and my statutes, whatever I command by my Spirit to my servants the prophets, which overtook your fathers. And they answered and said, Just as the Lord Almighty was set to do according to our ways and according to our practices, so he did to us.
 - brenton: But do ye receive my words and mine ordinances, all that I command by my Spirit to my servants the prophets, who lived in the days of your fathers; and they answered and said, As the Lord Almighty determined to do to us, according to our ways, and according to our practices, so has he done to us.
 
 ### Zechariah 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On the twenty-fourth day of eleventh month, this is month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
+- fresh: On the twenty-fourth day of the eleventh month, this is the month Sebat, in the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - brenton: On the twenty-fourth day in the eleventh month, this is the month Sabat, in the second year of the reign of Darius, the word of the Lord came to Zacharias, the son of Barachias, the son of Addo, the prophet, saying,
 
 ### Zechariah 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw by night, and behold, a man mounted on red horse, and he stood between two shadowed mountains, and behind him were red, dappled, varied, and white horses.
+- fresh: I saw by night, and behold, a man mounted on a red horse, and he stood between the two shadowed mountains, and behind him were red, dappled, varied, and white horses.
 - brenton: I saw by night, and behold a man mounted on a red horse, and he stood between the shady mountains; and behind him were red horses, and grey, and piebald, and white.
 
 ### Zechariah 1:9
@@ -203967,19 +203967,19 @@ Note:
 ### Zechariah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And man standing between mountains answered and said to me, These are ones the Lord sent to patrol earth.
+- fresh: And the man standing between the mountains answered and said to me, These are the ones the Lord sent to patrol the earth.
 - brenton: And the man that stood between the mountains answered, and said to me, These are they whom the Lord has sent forth to go round the earth.
 
 ### Zechariah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they answered angel of the Lord standing between mountains and said, We have patrolled all the earth, and behold, all the earth is inhabited and at rest.
+- fresh: And they answered the angel of the Lord standing between the mountains and said, We have patrolled all the earth, and behold, all the earth is inhabited and at rest.
 - brenton: And they answered the angel of the Lord that stood between the mountains, and said, We have gone round all the earth, and, behold, all the earth is inhabited, and is at rest.
 
 ### Zechariah 1:12
@@ -204012,28 +204012,28 @@ Note:
 ### Zechariah 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and with great anger I am angry against nations joining attack, because I was angry a little, but they joined in for evils.
+- fresh: and with great anger I am angry against the nations joining attack, because I was angry a little, but they joined in for evils.
 - brenton: And I am very angry with the heathen that combine to attack her: forasmuch as I indeed was a little angry, but they combined to attack her for evil.
 
 ### Zechariah 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: I will return to Jerusalem with compassion, and my house will be rebuilt in her, says the Lord Almighty, and measuring line will still be stretched over Jerusalem.
+- fresh: Therefore thus says the Lord: I will return to Jerusalem with compassion, and my house will be rebuilt in her, says the Lord Almighty, and a measuring line will still be stretched over Jerusalem.
 - brenton: Therefore thus saith the Lord: I will return to Jerusalem with compassion; and my house shall be rebuilt in her, saith the Lord Almighty, and a measuring line shall yet be stretched out over Jerusalem.
 
 ### Zechariah 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: Cities will still overflow with good things, and the Lord will still have mercy on Zion and still choose Jerusalem.
+- fresh: And the angel speaking with me said to me, Cry out, saying, Thus says the Lord Almighty: The cities will still overflow with good things, and the Lord will still have mercy on Zion and still choose Jerusalem.
 - brenton: And the angel that spoke with me said to me, Cry yet, and say, Thus saith the Lord Almighty; Yet shall cities be spread abroad through prosperity; and the Lord shall yet have mercy upon Sion, and shall choose Jerusalem.
 
 ### Zechariah 2:1
