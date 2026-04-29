@@ -85484,39 +85484,39 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 28:2**
 
-And you, son of man, say to the ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am god, I have dwelt in dwelling of God in the heart of the sea, but you are man and not god, and you set your heart as the heart of a god,
+And you, son of man, say to the ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am God; I have dwelt in the dwelling of God in the heart of the sea, but you are a man and not God, and you set your heart as the heart of God,
 
 **Ezekiel 28:3**
 
-Are you wiser than Daniel? Wise men did not instruct you in their knowledge.
+Are you wiser than Daniel? Have wise men not instructed you in their knowledge?
 
 **Ezekiel 28:4**
 
-Was it not by your knowledge or by your understanding that you made power for yourself, and gold and silver in your treasuries?
+Was it not by your knowledge or by your understanding that you gained power for yourself, and gold and silver in your treasuries?
 
 **Ezekiel 28:5**
 
-In your much knowledge and your trade you multiplied your power; your heart was exalted in your power.
+In your abundant knowledge and your trade you multiplied your power; your heart was exalted in your power.
 
 **Ezekiel 28:6**
 
-Therefore thus says the Lord: Since you set your heart as the heart of a god,
+Therefore thus says the Lord: Since you set your heart as the heart of God,
 
 **Ezekiel 28:7**
 
-therefore behold, I bring against you foreigners, scourges from nations, and they will draw their swords against you and against beauty of your knowledge, and they will spread your beauty for destruction.
+because of this, behold, I bring against you foreign scourges from nations, and they will draw their swords against you and against the beauty of your knowledge, and they will lay your beauty down to destruction.
 
 **Ezekiel 28:8**
 
-And they will bring you down, and you will die death of wounded in the heart of the sea.
+And they will bring you down, and you will die the death of the wounded in the heart of the sea.
 
 **Ezekiel 28:9**
 
-Surely you will not say, I am god, before those killing you. You are man and not god in their multitude.
+Will you indeed say, I am God, before those killing you? But you are a man and not God among a multitude.
 
 **Ezekiel 28:10**
 
-You will die deaths of uncircumcised by the hands of foreigners, because I have spoken, says the Lord.
+You will die the death of the uncircumcised by the hands of foreigners, because I have spoken, says the Lord.
 
 **Ezekiel 28:11**
 
@@ -85524,35 +85524,35 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 28:12**
 
-Son of man, take lamentation over ruler of Tyre and say to him, Thus says the Lord God: You are seal of likeness and crown of beauty.
+Son of man, take up a lamentation over the ruler of Tyre and say to him, Thus says the Lord God: You are a seal of likeness and a crown of beauty.
 
 **Ezekiel 28:13**
 
-In delight of paradise of God you came to be. Every precious stone you clothed yourself with: sardius and topaz and emerald and carbuncle and sapphire and jasper and silver and gold and ligurion and agate and amethyst and chrysolite and beryl and onyx; with gold you filled your treasures and your storehouses in you from day you were created.
+You came to be in the delight of the paradise of God. You clothed yourself with every precious stone: sardius and topaz and emerald and carbuncle and sapphire and jasper and silver and gold and ligurion and agate and amethyst and chrysolite and beryl and onyx; and with gold you filled your treasures and your storehouses within you from the day you were created.
 
 **Ezekiel 28:14**
 
-With cherub I placed you on holy mountain of God; you came to be in the midst of fiery stones.
+With the cherub I placed you on the holy mountain of God; you came to be in the midst of fiery stones.
 
 **Ezekiel 28:15**
 
-You were blameless in your days from day you were created until injustices were found in you.
+You were blameless in your days from the day you were created until injustices were found in you.
 
 **Ezekiel 28:16**
 
-From the abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from the mountain of God, and cherub led you out from the midst of fiery stones.
+From the abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from the mountain of God, and the cherub led you out from the midst of fiery stones.
 
 **Ezekiel 28:17**
 
-Your heart was exalted over your beauty; your knowledge was corrupted with your beauty. Because of the multitude of your sins I cast you upon ground; before kings I gave you to be made example.
+Your heart was exalted because of your beauty; your knowledge was corrupted with your beauty. Because of the multitude of your sins I cast you upon the ground; before kings I gave you to be made an example.
 
 **Ezekiel 28:18**
 
-Because of the multitude of your sins and injustices of your trade you profaned your holy things, and I will bring out fire from your midst; this will devour you, and I will give you for ashes on your land before all seeing you.
+Because of the multitude of your sins and the injustices of your trade you profaned your holy things, and I will bring out fire from your midst; this will devour you, and I will give you as ashes on your land before all those seeing you.
 
 **Ezekiel 28:19**
 
-And all knowing you among the nations will shudder over you; you became destruction and will no longer exist forever.
+And all those who know you among the nations will shudder over you; you became a destruction and will no longer exist forever.
 
 **Ezekiel 28:20**
 
@@ -85564,23 +85564,23 @@ Son of man, set your face toward Sidon and prophesy against her,
 
 **Ezekiel 28:22**
 
-and say, Thus says the Lord: Behold, I am against you, Sidon, and I will be glorified in you, and you will know that I am the Lord when I do judgments in you and be sanctified in you.
+and say, Thus says the Lord: Behold, I am against you, Sidon, and I will be glorified in you, and you will know that I am the Lord when I execute judgments in you and am sanctified in you.
 
 **Ezekiel 28:23**
 
-Blood and death in your streets, and wounded will fall by swords in you, around you, and they will know that I am the Lord.
+Blood and death will be in your streets, and wounded ones will fall by swords in you, all around you, and they will know that I am the Lord.
 
 **Ezekiel 28:24**
 
-And there will no longer be to the house of Israel thorn of bitterness and pricking briar of pain from all around them, from those dishonoring them, and they will know that I am the Lord.
+And there will no longer be for the house of Israel a thorn of bitterness and a pricking briar of pain from all those around them who dishonored them, and they will know that I am the Lord.
 
 **Ezekiel 28:25**
 
-Thus says the Lord God: And I will gather Israel from nations where they were scattered there, and I will be sanctified in them before peoples and nations, and they will dwell on their land that I gave to my servant Jacob.
+Thus says the Lord God: And I will gather Israel from the nations where they were scattered, and I will be sanctified in them before the peoples and the nations, and they will dwell on their land which I gave to my servant Jacob.
 
 **Ezekiel 28:26**
 
-And they will dwell on it in hope and build houses and plant vineyards and dwell in hope, when I do judgment on all dishonoring them around them, and they will know that I am the Lord their God and God of their fathers.
+And they will dwell on it in hope and build houses and plant vineyards and dwell in hope, when I execute judgment against all those dishonoring them around them, and they will know that I am the Lord their God and the God of their fathers.
 
 ### Chapter 29
 

@@ -188553,82 +188553,82 @@ Note:
 ### Ezekiel 28:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, say to the ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am god, I have dwelt in dwelling of God in the heart of the sea, but you are man and not god, and you set your heart as the heart of a god,
+- fresh: And you, son of man, say to the ruler of Tyre, Thus says the Lord: Because your heart was exalted and you said, I am God; I have dwelt in the dwelling of God in the heart of the sea, but you are a man and not God, and you set your heart as the heart of God,
 - brenton: And thou, son of man, say to the prince of Tyrus, Thus saith the Lord; Because thine heart has been exalted, and thou hast said, I am God, I have inhabited the dwelling of God in the heart of the sea; yet thou art man and not God, though thou hast set thine heart as the heart of God:
 
 ### Ezekiel 28:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Are you wiser than Daniel? Wise men did not instruct you in their knowledge.
+- fresh: Are you wiser than Daniel? Have wise men not instructed you in their knowledge?
 - brenton: art thou wiser than Daniel? or have not the wise instructed thee with their knowledge?
 
 ### Ezekiel 28:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Was it not by your knowledge or by your understanding that you made power for yourself, and gold and silver in your treasuries?
+- fresh: Was it not by your knowledge or by your understanding that you gained power for yourself, and gold and silver in your treasuries?
 - brenton: Hast thou gained power for thyself by thine own knowledge or thine own prudence, and gotten gold and silver in thy treasures?
 
 ### Ezekiel 28:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In your much knowledge and your trade you multiplied your power; your heart was exalted in your power.
+- fresh: In your abundant knowledge and your trade you multiplied your power; your heart was exalted in your power.
 - brenton: By thy abundant knowledge and thy traffic thou hast multiplied thy power; thy heart has been lifted up by thy power.
 
 ### Ezekiel 28:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Since you set your heart as the heart of a god,
+- fresh: Therefore thus says the Lord: Since you set your heart as the heart of God,
 - brenton: Therefore thus saith the Lord; Since thou hast set thine heart as the heart of God;
 
 ### Ezekiel 28:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore behold, I bring against you foreigners, scourges from nations, and they will draw their swords against you and against beauty of your knowledge, and they will spread your beauty for destruction.
+- fresh: because of this, behold, I bring against you foreign scourges from nations, and they will draw their swords against you and against the beauty of your knowledge, and they will lay your beauty down to destruction.
 - brenton: because of this, behold, I will bring on thee strange plagues from the nations; and they shall draw their swords against thee, and against the beauty of thy knowledge,
 
 ### Ezekiel 28:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will bring you down, and you will die death of wounded in the heart of the sea.
+- fresh: And they will bring you down, and you will die the death of the wounded in the heart of the sea.
 - brenton: and they shall bring down thy beauty to destruction. And they shall bring thee down; and thou shalt die the death of the slain in the heart of the sea.
 
 ### Ezekiel 28:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Surely you will not say, I am god, before those killing you. You are man and not god in their multitude.
+- fresh: Will you indeed say, I am God, before those killing you? But you are a man and not God among a multitude.
 - brenton: Wilt thou indeed say, I am God, before them that slay thee? whereas thou art man, and not God.
 
 ### Ezekiel 28:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will die deaths of uncircumcised by the hands of foreigners, because I have spoken, says the Lord.
+- fresh: You will die the death of the uncircumcised by the hands of foreigners, because I have spoken, says the Lord.
 - brenton: Thou shalt perish by the hands of strangers among the multitude of the uncircumcised: for I have spoken it, saith the Lord.
 
 ### Ezekiel 28:11
@@ -188643,73 +188643,73 @@ Note:
 ### Ezekiel 28:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, take lamentation over ruler of Tyre and say to him, Thus says the Lord God: You are seal of likeness and crown of beauty.
+- fresh: Son of man, take up a lamentation over the ruler of Tyre and say to him, Thus says the Lord God: You are a seal of likeness and a crown of beauty.
 - brenton: Son of man, take up a lamentation for the prince of Tyre, and say to him, Thus saith the Lord God; Thou art a seal of resemblance, and crown of beauty.
 
 ### Ezekiel 28:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In delight of paradise of God you came to be. Every precious stone you clothed yourself with: sardius and topaz and emerald and carbuncle and sapphire and jasper and silver and gold and ligurion and agate and amethyst and chrysolite and beryl and onyx; with gold you filled your treasures and your storehouses in you from day you were created.
+- fresh: You came to be in the delight of the paradise of God. You clothed yourself with every precious stone: sardius and topaz and emerald and carbuncle and sapphire and jasper and silver and gold and ligurion and agate and amethyst and chrysolite and beryl and onyx; and with gold you filled your treasures and your storehouses within you from the day you were created.
 - brenton: Thou wast in the delight of the paradise of God; thou hast bound upon thee every precious stone, the sardius, and topaz, and emerald, and carbuncle, and sapphire, and jasper, and silver, and gold, and ligure, and agate, and amethyst, and chrysolite, and beryl, and onyx: and thou hast filled thy treasures and thy stores in thee with gold.
 
 ### Ezekiel 28:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: With cherub I placed you on holy mountain of God; you came to be in the midst of fiery stones.
+- fresh: With the cherub I placed you on the holy mountain of God; you came to be in the midst of fiery stones.
 - brenton: From the day that thou wast created thou wast with the cherub: I set thee on the holy mount of God; thou wast in the midst of the stones of fire.
 
 ### Ezekiel 28:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You were blameless in your days from day you were created until injustices were found in you.
+- fresh: You were blameless in your days from the day you were created until injustices were found in you.
 - brenton: Thou wast faultless in thy days, from the day that thou wast created, until iniquity was found in thee.
 
 ### Ezekiel 28:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from the mountain of God, and cherub led you out from the midst of fiery stones.
+- fresh: From the abundance of your trade you filled your storehouses with lawlessness and sinned, and you were wounded from the mountain of God, and the cherub led you out from the midst of fiery stones.
 - brenton: Of the abundance of thy merchandise thou hast filled thy storehouses with iniquity, and hast sinned: therefore thou hast been cast down wounded from the mount of God, and the cherub has brought thee out of the midst of the stones of fire.
 
 ### Ezekiel 28:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Your heart was exalted over your beauty; your knowledge was corrupted with your beauty. Because of the multitude of your sins I cast you upon ground; before kings I gave you to be made example.
+- fresh: Your heart was exalted because of your beauty; your knowledge was corrupted with your beauty. Because of the multitude of your sins I cast you upon the ground; before kings I gave you to be made an example.
 - brenton: Thy heart has been lifted up because of thy beauty; thy knowledge has been corrupted with thy beauty: because of the multitude of thy sins I have cast thee to the ground, I have caused thee to be put to open shame before kings.
 
 ### Ezekiel 28:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of the multitude of your sins and injustices of your trade you profaned your holy things, and I will bring out fire from your midst; this will devour you, and I will give you for ashes on your land before all seeing you.
+- fresh: Because of the multitude of your sins and the injustices of your trade you profaned your holy things, and I will bring out fire from your midst; this will devour you, and I will give you as ashes on your land before all those seeing you.
 - brenton: Because of the multitude of thy sins and the iniquities of thy merchandise, I have profaned thy sacred things; and I will bring fire out of the midst of thee, this shall devour thee; and I will make thee to be ashes upon thy land before all that see thee.
 
 ### Ezekiel 28:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And all knowing you among the nations will shudder over you; you became destruction and will no longer exist forever.
+- fresh: And all those who know you among the nations will shudder over you; you became a destruction and will no longer exist forever.
 - brenton: And all that know thee among the nations shall groan over thee: thou art gone to destruction, and thou shalt not exist any more.
 
 ### Ezekiel 28:20
@@ -188733,46 +188733,46 @@ Note:
 ### Ezekiel 28:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Behold, I am against you, Sidon, and I will be glorified in you, and you will know that I am the Lord when I do judgments in you and be sanctified in you.
+- fresh: and say, Thus says the Lord: Behold, I am against you, Sidon, and I will be glorified in you, and you will know that I am the Lord when I execute judgments in you and am sanctified in you.
 - brenton: and say,
 
 ### Ezekiel 28:23
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Blood and death in your streets, and wounded will fall by swords in you, around you, and they will know that I am the Lord.
+- fresh: Blood and death will be in your streets, and wounded ones will fall by swords in you, all around you, and they will know that I am the Lord.
 - brenton: Blood and death shall be in thy streets; and men wounded with swords shall fall in thee and on every side of thee; and they shall know that I am the Lord.
 
 ### Ezekiel 28:24
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will no longer be to the house of Israel thorn of bitterness and pricking briar of pain from all around them, from those dishonoring them, and they will know that I am the Lord.
+- fresh: And there will no longer be for the house of Israel a thorn of bitterness and a pricking briar of pain from all those around them who dishonored them, and they will know that I am the Lord.
 - brenton: And there shall no more be in the house of Israel a thorn of bitterness and a pricking briar proceeding from them that are round about them, who dishonoured them; and they shall know that I am the Lord.
 
 ### Ezekiel 28:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: And I will gather Israel from nations where they were scattered there, and I will be sanctified in them before peoples and nations, and they will dwell on their land that I gave to my servant Jacob.
+- fresh: Thus says the Lord God: And I will gather Israel from the nations where they were scattered, and I will be sanctified in them before the peoples and the nations, and they will dwell on their land which I gave to my servant Jacob.
 - brenton: Thus saith the Lord God; I will also gather Israel from the nations, among whom they have been scattered, and I will be sanctified among them, and before the peoples and nations: and they shall dwell upon their land, which I gave to my servant Jacob.
 
 ### Ezekiel 28:26
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will dwell on it in hope and build houses and plant vineyards and dwell in hope, when I do judgment on all dishonoring them around them, and they will know that I am the Lord their God and God of their fathers.
+- fresh: And they will dwell on it in hope and build houses and plant vineyards and dwell in hope, when I execute judgment against all those dishonoring them around them, and they will know that I am the Lord their God and the God of their fathers.
 - brenton: Yea, they shall dwell upon it safely, and they shall build houses, and plant vineyards, and dwell securely, when I shall execute judgment on all that have dishonoured them, even on those that are round about them; and they shall know that I am the Lord their God, and the God of their fathers.
 
 ### Ezekiel 29:1
