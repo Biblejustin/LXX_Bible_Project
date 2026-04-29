@@ -199532,10 +199532,10 @@ Note:
 ### Amos 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Only you I knew from all the tribes of the earth; therefore I will avenge upon you all your sins.
+- fresh: Only you I knew out of all the tribes of the earth; therefore I will avenge upon you all your sins.
 - brenton: You especially have I known out of all the families of the earth: therefore will I take vengeance upon you for all your sins.
 
 ### Amos 3:3
@@ -199550,28 +199550,28 @@ Note:
 ### Amos 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Will lion roar from his forest having no prey? Will cub give his voice from his den at all unless he seizes something?
+- fresh: Will a lion roar from his forest, having no prey? Will a cub give his voice from his den at all unless he seizes something?
 - brenton: Will a lion roar out of his thicket if he has no prey? will a lion's whelp utter his voice at all out of his lair, if he have taken nothing?
 
 ### Amos 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Will bird fall upon earth without a snare? Will trap spring from earth without catching something?
+- fresh: Will a bird fall upon the earth without a fowler? Will a snare spring up on the earth without catching something?
 - brenton: Will a bird fall on the earth without a fowler? will a snare be taken up from the earth without having taken anything?
 
 ### Amos 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Will trumpet sound in a city and people not be frightened? Will there be evil in a city that the Lord has not done?
+- fresh: Will a trumpet sound in a city and the people not be frightened? Will there be evil in a city that the Lord has not done?
 - brenton: Shall the trumpet sound in the city, and the people not be alarmed? shall there be evil in a city which the Lord has not wrought?
 
 ### Amos 3:7
@@ -199586,46 +199586,46 @@ Note:
 ### Amos 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lion will roar, and who will not fear? The Lord God has spoken, and who will not prophesy?
+- fresh: A lion will roar, and who will not fear? The Lord God has spoken, and who will not prophesy?
 - brenton: A lion shall roar, and who will not be alarmed? the Lord God has spoken, and who will not prophesy?
 
 ### Amos 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Report to lands in Assyria and to lands of Egypt and say, Gather on the mountain of Samaria and see many wonders in the midst of her and oppression in her.
+- fresh: Proclaim to the regions among the Assyrians and to the regions of Egypt, and say, Gather yourselves on the mountain of Samaria, and see many wonders in her midst and the oppression in her.
 - brenton: Proclaim it to the regions among the Assyrians, and to the regions of Egypt, and say, Gather yourselves to the mountain of Samaria, and behold many wonderful things in the midst of it, and the oppression that is in it.
 
 ### Amos 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they did not know what will be before her, says the Lord, those storing up injustice and misery in their lands.
+- fresh: And she did not know what will be before her, says the Lord: those storing up injustice and misery in their regions.
 - brenton: And she knew not what things would come against her, saith the Lord, even those that store up wrong and misery in their countries.
 
 ### Amos 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: Tyre, all around your land will be made desolate, and he will bring down your strength from you, and your lands will be plundered.
+- fresh: Therefore thus says the Lord God: Tyre, your land all around will be made desolate, and he will bring down your strength from you, and your regions will be plundered.
 - brenton: Therefore thus saith the Lord God; O Tyre, thy land shall be made desolate round about thee; and he shall bring down thy strength out of thee, and thy countries shall be spoiled.
 
 ### Amos 3:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Just as a shepherd snatches from lion's mouth two legs or tip of an ear, so sons of Israel dwelling in Samaria will be snatched away, opposite tribe and in Damascus priests.
+- fresh: Thus says the Lord: Just as a shepherd snatches out from the mouth of the lion two legs or the tip of an ear, so the sons of Israel dwelling in Samaria will be snatched out before a tribe, and priests in Damascus.
 - brenton: Thus saith the Lord; As when a shepherd rescues from the mouth of a lion two legs or a piece of an ear, so shall be drawn forth the children of Israel who dwell in Samaria in the presence of a foreign tribe, and in Damascus.
 
 ### Amos 3:13
@@ -199640,19 +199640,19 @@ Note:
 ### Amos 3:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because on the day when I avenge impieties of Israel upon him, I will also avenge upon altars of Bethel, and horns of altar will be dug down and fall upon the earth.
+- fresh: Because on the day when I avenge the impieties of Israel upon him, I will also avenge upon the altars of Bethel, and the horns of the altar will be dug down and will fall upon the earth.
 - brenton: For in the day wherein I shall take vengeance of the sins of Israel upon him, I will also take vengeance on the altars of Bæthel: and the horns of the altar shall be broken down, and they shall fall upon the ground.
 
 ### Amos 3:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will pour together and strike winter house against summer house, and ivory houses will perish, and many other houses will be added, says the Lord.
+- fresh: I will confound and strike the turreted house upon the summer house, and ivory houses will perish, and many other houses will be added, says the Lord.
 - brenton: I will crush and smite the turreted-house upon the summer-house; and the ivory-houses shall be destroyed, and many other houses also, saith the Lord.
 
 ### Amos 4:1

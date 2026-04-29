@@ -90474,7 +90474,7 @@ Hear this word that the Lord spoke against you, house of Israel, and against eve
 
 **Amos 3:2**
 
-Only you I knew from all the tribes of the earth; therefore I will avenge upon you all your sins.
+Only you I knew out of all the tribes of the earth; therefore I will avenge upon you all your sins.
 
 **Amos 3:3**
 
@@ -90482,15 +90482,15 @@ Will two walk together at all unless they make themselves known to each other?
 
 **Amos 3:4**
 
-Will lion roar from his forest having no prey? Will cub give his voice from his den at all unless he seizes something?
+Will a lion roar from his forest, having no prey? Will a cub give his voice from his den at all unless he seizes something?
 
 **Amos 3:5**
 
-Will bird fall upon earth without a snare? Will trap spring from earth without catching something?
+Will a bird fall upon the earth without a fowler? Will a snare spring up on the earth without catching something?
 
 **Amos 3:6**
 
-Will trumpet sound in a city and people not be frightened? Will there be evil in a city that the Lord has not done?
+Will a trumpet sound in a city and the people not be frightened? Will there be evil in a city that the Lord has not done?
 
 **Amos 3:7**
 
@@ -90498,23 +90498,23 @@ Because the Lord God will never do a thing unless he reveals his discipline to h
 
 **Amos 3:8**
 
-Lion will roar, and who will not fear? The Lord God has spoken, and who will not prophesy?
+A lion will roar, and who will not fear? The Lord God has spoken, and who will not prophesy?
 
 **Amos 3:9**
 
-Report to lands in Assyria and to lands of Egypt and say, Gather on the mountain of Samaria and see many wonders in the midst of her and oppression in her.
+Proclaim to the regions among the Assyrians and to the regions of Egypt, and say, Gather yourselves on the mountain of Samaria, and see many wonders in her midst and the oppression in her.
 
 **Amos 3:10**
 
-And they did not know what will be before her, says the Lord, those storing up injustice and misery in their lands.
+And she did not know what will be before her, says the Lord: those storing up injustice and misery in their regions.
 
 **Amos 3:11**
 
-Therefore thus says the Lord God: Tyre, all around your land will be made desolate, and he will bring down your strength from you, and your lands will be plundered.
+Therefore thus says the Lord God: Tyre, your land all around will be made desolate, and he will bring down your strength from you, and your regions will be plundered.
 
 **Amos 3:12**
 
-Thus says the Lord: Just as a shepherd snatches from lion's mouth two legs or tip of an ear, so sons of Israel dwelling in Samaria will be snatched away, opposite tribe and in Damascus priests.
+Thus says the Lord: Just as a shepherd snatches out from the mouth of the lion two legs or the tip of an ear, so the sons of Israel dwelling in Samaria will be snatched out before a tribe, and priests in Damascus.
 
 **Amos 3:13**
 
@@ -90522,11 +90522,11 @@ Hear and testify to the house of Jacob, says the Lord God Almighty.
 
 **Amos 3:14**
 
-Because on the day when I avenge impieties of Israel upon him, I will also avenge upon altars of Bethel, and horns of altar will be dug down and fall upon the earth.
+Because on the day when I avenge the impieties of Israel upon him, I will also avenge upon the altars of Bethel, and the horns of the altar will be dug down and will fall upon the earth.
 
 **Amos 3:15**
 
-I will pour together and strike winter house against summer house, and ivory houses will perish, and many other houses will be added, says the Lord.
+I will confound and strike the turreted house upon the summer house, and ivory houses will perish, and many other houses will be added, says the Lord.
 
 ### Chapter 4
 
