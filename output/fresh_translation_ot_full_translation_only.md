@@ -91302,7 +91302,7 @@ Shave yourself and shear yourself for your tender children; widen your widowhood
 
 **Micah 2:1**
 
-They became ones devising troubles and working evils on their beds; at dawn they completed them, because they did not lift their hands to God.
+They became ones devising troubles and working evils on their beds; at dawn they completed them, because they did not lift up their hands to God.
 
 **Micah 2:2**
 
@@ -91310,47 +91310,47 @@ And they coveted fields and plundered orphans and oppressed houses and plundered
 
 **Micah 2:3**
 
-Therefore thus says the Lord: Behold, I devise evils against this tribe, from which you will not remove your necks, and you will not walk upright suddenly, because time is evil.
+Therefore thus says the Lord: Behold, I devise evils against this tribe, from which you will not lift up your necks, and you will not walk upright suddenly, because the time is evil.
 
 **Micah 2:4**
 
-In that day a parable will be taken up against you and lamented in song, saying, Misery, we were made miserable. Portion of my people was measured with line, and there was no one to hinder him from turning it back; our fields were divided.
+In that day a parable will be taken up against you, and a lamentation will be lamented in song, saying, Misery, we were made miserable. The portion of my people was measured with a line, and there was no one to hinder him from turning it back; our fields were divided.
 
 **Micah 2:5**
 
-Therefore there will not be for you one casting line by lot in the assembly of the Lord.
+Therefore there will not be for you one casting a line by lot in the assembly of the Lord.
 
 **Micah 2:6**
 
-Do not weep with tears, and let them not weep over these things, because reproaches will not be put away.
+Do not weep with tears, neither let them weep over these things, because reproaches will not be put away.
 
 **Micah 2:7**
 
-O house of Jacob, saying, Has the spirit of the Lord been provoked? Are these his practices? Are not his words good with him, and have they walked uprightly?
+You who say, Has the house of Jacob provoked the spirit of the Lord? Are these his practices? Are not his words good with him, and have they walked uprightly?
 
 **Micah 2:8**
 
-But before, my people stood up as an enemy against his peace; they stripped off his skin to remove shattered hope of war.
+And before, my people stood up in enmity against his peace; they flayed his hide to remove hope in the shattering of war.
 
 **Micah 2:9**
 
-Therefore leaders of my people will be cast out from their houses of luxury; because of their evil practices they were driven out. Come near, everlasting mountains.
+Therefore leaders of my people will be cast out from their houses of luxury; because of their evil practices they were driven out. Draw near to everlasting mountains.
 
 **Micah 2:10**
 
-Rise and go, because this is not your rest. Because of uncleanness you were ruined with destruction.
+Rise up and go, because this is not your rest. Because of uncleanness you were destroyed with destruction.
 
 **Micah 2:11**
 
-You were pursued by no pursuer. Spirit set falsehood and dripped to you into wine and strong drink, and it will be from drop of this people.
+You were pursued, with no one pursuing. A spirit set up falsehood and dropped to you for wine and strong drink, and it will be from the drop of this people.
 
 **Micah 2:12**
 
-Jacob will surely be gathered with all; I will surely receive the remnant of Israel. I will set their turning together like sheep in distress, like a flock in the midst of their fold; they will spring out from humans.
+Jacob will surely be gathered with all; I will surely receive the remnant of Israel. I will set their return together like sheep in distress, like a flock in the midst of their fold; they will spring out from among humans.
 
 **Micah 2:13**
 
-By the breach before their face they breached and passed through gate and went out by it, and their king went out before their face, and the Lord will lead them.
+Through the breach before their face they broke through and passed through a gate and went out by it, and their king went out before their face, and the Lord will lead them.
 
 ### Chapter 3
 

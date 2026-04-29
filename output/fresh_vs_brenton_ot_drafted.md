@@ -201329,10 +201329,10 @@ Note:
 ### Micah 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They became ones devising troubles and working evils on their beds; at dawn they completed them, because they did not lift their hands to God.
+- fresh: They became ones devising troubles and working evils on their beds; at dawn they completed them, because they did not lift up their hands to God.
 - brenton: They meditated troubles, and wrought wickedness on their beds, and they put it in execution with the daylight; for they have not lifted up their hands to God.
 
 ### Micah 2:2
@@ -201347,100 +201347,100 @@ Note:
 ### Micah 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I devise evils against this tribe, from which you will not remove your necks, and you will not walk upright suddenly, because time is evil.
+- fresh: Therefore thus says the Lord: Behold, I devise evils against this tribe, from which you will not lift up your necks, and you will not walk upright suddenly, because the time is evil.
 - brenton: Therefore thus saith the Lord; Behold, I devise evils against this family, out of which ye shall not lift up your necks, neither shall ye walk upright speedily: for the time is evil.
 
 ### Micah 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day a parable will be taken up against you and lamented in song, saying, Misery, we were made miserable. Portion of my people was measured with line, and there was no one to hinder him from turning it back; our fields were divided.
+- fresh: In that day a parable will be taken up against you, and a lamentation will be lamented in song, saying, Misery, we were made miserable. The portion of my people was measured with a line, and there was no one to hinder him from turning it back; our fields were divided.
 - brenton: In that day shall a parable be taken up against you, and a plaintive lamentation shall be uttered, saying, We are thoroughly miserable: the portion of my people has been measured out with a line, and there was none to hinder him so as to turn him back; your fields have been divided.
 
 ### Micah 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore there will not be for you one casting line by lot in the assembly of the Lord.
+- fresh: Therefore there will not be for you one casting a line by lot in the assembly of the Lord.
 - brenton: Therefore thou shalt have no one to cast a line for the lot.
 
 ### Micah 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not weep with tears, and let them not weep over these things, because reproaches will not be put away.
+- fresh: Do not weep with tears, neither let them weep over these things, because reproaches will not be put away.
 - brenton: Weep not with tears in the assembly of the Lord, neither let any weep for these things; for he shall not remove the reproaches,
 
 ### Micah 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: O house of Jacob, saying, Has the spirit of the Lord been provoked? Are these his practices? Are not his words good with him, and have they walked uprightly?
+- fresh: You who say, Has the house of Jacob provoked the spirit of the Lord? Are these his practices? Are not his words good with him, and have they walked uprightly?
 - brenton: who says, The house of Jacob has provoked the Spirit of the Lord; are not these his practices? Are not the Lord's words right with him? and have they not proceeded correctly?
 
 ### Micah 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: But before, my people stood up as an enemy against his peace; they stripped off his skin to remove shattered hope of war.
+- fresh: And before, my people stood up in enmity against his peace; they flayed his hide to remove hope in the shattering of war.
 - brenton: Even beforetime my people withstood him as an enemy against his peace; they have stripped off his skin to remove hope in the conflict of war.
 
 ### Micah 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore leaders of my people will be cast out from their houses of luxury; because of their evil practices they were driven out. Come near, everlasting mountains.
+- fresh: Therefore leaders of my people will be cast out from their houses of luxury; because of their evil practices they were driven out. Draw near to everlasting mountains.
 - brenton: The leaders of my people shall be cast forth from their luxurious houses; they are rejected because of their evil practices; draw ye near to the everlasting mountains.
 
 ### Micah 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise and go, because this is not your rest. Because of uncleanness you were ruined with destruction.
+- fresh: Rise up and go, because this is not your rest. Because of uncleanness you were destroyed with destruction.
 - brenton: Arise thou, and depart; for this is not thy rest because of uncleanness: ye have been utterly destroyed;
 
 ### Micah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: You were pursued by no pursuer. Spirit set falsehood and dripped to you into wine and strong drink, and it will be from drop of this people.
+- fresh: You were pursued, with no one pursuing. A spirit set up falsehood and dropped to you for wine and strong drink, and it will be from the drop of this people.
 - brenton: ye have fled, no one pursuing you: thy spirit has framed falsehood, it has dropped on thee for wine and strong drink. But it shall come to pass, that out of the dropping of this people,
 
 ### Micah 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Jacob will surely be gathered with all; I will surely receive the remnant of Israel. I will set their turning together like sheep in distress, like a flock in the midst of their fold; they will spring out from humans.
+- fresh: Jacob will surely be gathered with all; I will surely receive the remnant of Israel. I will set their return together like sheep in distress, like a flock in the midst of their fold; they will spring out from among humans.
 - brenton: Jacob shall be completely gathered with all his people: I will surely receive the remnant of Israel; I will cause them to return together, as sheep in trouble, as a flock in the midst of their fold: they shall rush forth from among men through the breach made before them:
 
 ### Micah 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: By the breach before their face they breached and passed through gate and went out by it, and their king went out before their face, and the Lord will lead them.
+- fresh: Through the breach before their face they broke through and passed through a gate and went out by it, and their king went out before their face, and the Lord will lead them.
 - brenton: they have broken through, and passed the gate, and gone out by it: and their king has gone out before them, and the Lord shall lead them.
 
 ### Micah 3:1
