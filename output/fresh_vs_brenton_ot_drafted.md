@@ -197836,7 +197836,7 @@ Note:
 ### Hosea 9:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Do not rejoice, Israel, nor be glad like the peoples, because you prostituted yourself away from your God. You loved gifts on every threshing floor of grain.
@@ -197845,7 +197845,7 @@ Note:
 ### Hosea 9:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Threshing floor and winepress did not know them, and the wine deceived them.
@@ -197854,79 +197854,79 @@ Note:
 ### Hosea 9:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not dwell in the land of the Lord; Ephraim dwelt in Egypt, and in Assyria they will eat unclean things.
+- fresh: They did not dwell in the land of the Lord; Ephraim dwelt in Egypt, and among Assyrians they will eat unclean things.
 - brenton: They dwelt not in the Lord's land: Ephraim dwelt in Egypt, and they shall eat unclean things among the Assyrians.
 
 ### Hosea 9:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not pour out wine to the Lord, and their sacrifices could not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their own souls; they will not enter into the house of the Lord.
+- fresh: They did not pour out wine to the Lord, and their sacrifices did not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their souls; they will not enter into the house of the Lord.
 - brenton: They have not offered wine to the Lord, neither have their sacrifices been sweet to him, but as the bread of mourning to them; all that eat them shall be defiled; for their bread for their soul shall not enter into the house of the Lord.
 
 ### Hosea 9:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What will you do in the day of assembly and in the day of feast of the Lord?
+- fresh: What will you do in the day of assembly and in the day of the feast of the Lord?
 - brenton: What will ye do in the day of the general assembly, and in the day of the feast of the Lord?
 
 ### Hosea 9:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, they will go from misery. Egypt will receive them, and Memphis will bury them; Michmash, destruction will inherit their silver; thorns will be in their tents.
+- fresh: Therefore behold, they will go from the misery of Egypt, and Memphis will receive them, and Michmash will bury them. Destruction will inherit their silver; thorns will be in their tents.
 - brenton: Therefore, behold, they go forth from the trouble of Egypt, and Memphis shall receive them, and Machmas shall bury them: as for their silver, destruction shall inherit it; thorns shall be in their tents.
 
 ### Hosea 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The days of vengeance have come; the days of your repayment have come, and Israel will be afflicted like prophet out of his mind, man carried by spirit, because multitude of your injustices increased your madness.
+- fresh: The days of vengeance have come; the days of your repayment have come, and Israel will be afflicted like the prophet out of his mind, a spirit-bearing man. Because of the multitude of your injustices, your madness was multiplied.
 - brenton: The days of vengeance are come, the days of thy recompense are come; and Israel shall be afflicted as the prophet that is mad, as a man deranged: by reason of the multitude of thine iniquities thy madness has abounded.
 
 ### Hosea 9:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim, a watchman with God, prophet, a crooked snare on all his ways; they drove madness deep in the house of the Lord.
+- fresh: The watchman of Ephraim was with God; the prophet is a crooked snare on all his ways; they fixed madness deep in the house of the Lord.
 - brenton: The watchman of Ephraim was with God: the prophet is a crooked snare in all his ways: they have established madness in the house of God.
 
 ### Hosea 9:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They were corrupted as in the days of the hill; he will remember their injustice; he will avenge their sins.
+- fresh: They were corrupted according to the days of the hill; he will remember his injustice; he will avenge his sins.
 - brenton: They have corrupted themselves according to the days of the hill: he will remember their iniquities, he will take vengeance on their sins.
 
 ### Hosea 9:10
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Like a grape in the wilderness I found Israel, and like an early fig on a fig tree I saw their fathers. They entered to Baal-peor and were estranged to shame, and beloved ones became like those abhorred.
+- fresh: Like a grape in the wilderness I found Israel, and like an early watchman in a fig tree I saw their fathers. They entered to Baal-peor and were estranged to shame, and beloved ones became like those abhorred.
 - brenton: I found Israel as grapes in the wilderness, and I saw their fathers as an early watchman in a fig-tree: they went in to Beel-phegor, and were shamefully estranged, and the abominable became as the beloved.
 
 ### Hosea 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Ephraim, like a bird, their glories flew away from births and birth-pangs and conceptions.
@@ -197935,7 +197935,7 @@ Note:
 ### Hosea 9:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because even if they rear their children, they will become childless from men, because woe is also to them; my flesh is from them.
@@ -197944,43 +197944,43 @@ Note:
 ### Hosea 9:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: As I saw Ephraim for hunting, they presented their children, and Ephraim to bring out his children for piercing.
+- fresh: Ephraim, as I saw, they presented their children for hunting, and Ephraim is to bring out his children for piercing.
 - brenton: Ephraim, even as I saw, gave their children for a prey; yea, Ephraim was ready to bring out his children to slaughter.
 
 ### Hosea 9:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Give to them, Lord. What will you give them? Give them barren womb and dry breasts.
+- fresh: Give to them, Lord. What will you give them? Give them a childless womb and dry breasts.
 - brenton: Give them, O Lord: what wilt thou give them? a miscarrying womb, and dry breasts.
 
 ### Hosea 9:15
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: All their evils are in Gilgal, because there I hated them. Because of evils of their practices I will cast them out of my house. I will not continue to love them; all their rulers are disobedient.
+- fresh: All their evils are in Gilgal, because there I hated them. Because of the evils of their practices I will cast them out of my house. I will not continue to love them; all their rulers are disobedient.
 - brenton: All their wickedness is in Galgal: for there I hated them: because of the wickedness of their practices, I will cast them out of my house, I will not love them any more: all their princes are disobedient.
 
 ### Hosea 9:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim suffered; its roots dried up; it will no longer bear fruit. Even if they bear children, I will kill desires of their womb.
+- fresh: Ephraim suffered; his roots dried up; it will no longer bear fruit. Even if they bear children, I will kill the desires of their womb.
 - brenton: Ephraim is sick, he is dried up at his roots, he shall in no wise any more bear fruit: wherefore even if they should beget children, I will kill the desired fruit of their womb.
 
 ### Hosea 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: God will reject them because they did not listen to him, and they will be wanderers among the nations.

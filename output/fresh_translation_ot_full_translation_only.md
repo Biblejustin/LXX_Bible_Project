@@ -89702,35 +89702,35 @@ Threshing floor and winepress did not know them, and the wine deceived them.
 
 **Hosea 9:3**
 
-They did not dwell in the land of the Lord; Ephraim dwelt in Egypt, and in Assyria they will eat unclean things.
+They did not dwell in the land of the Lord; Ephraim dwelt in Egypt, and among Assyrians they will eat unclean things.
 
 **Hosea 9:4**
 
-They did not pour out wine to the Lord, and their sacrifices could not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their own souls; they will not enter into the house of the Lord.
+They did not pour out wine to the Lord, and their sacrifices did not please him. To them they are like bread of mourning; all eating them will be defiled, because their breads are for their souls; they will not enter into the house of the Lord.
 
 **Hosea 9:5**
 
-What will you do in the day of assembly and in the day of feast of the Lord?
+What will you do in the day of assembly and in the day of the feast of the Lord?
 
 **Hosea 9:6**
 
-Therefore behold, they will go from misery. Egypt will receive them, and Memphis will bury them; Michmash, destruction will inherit their silver; thorns will be in their tents.
+Therefore behold, they will go from the misery of Egypt, and Memphis will receive them, and Michmash will bury them. Destruction will inherit their silver; thorns will be in their tents.
 
 **Hosea 9:7**
 
-The days of vengeance have come; the days of your repayment have come, and Israel will be afflicted like prophet out of his mind, man carried by spirit, because multitude of your injustices increased your madness.
+The days of vengeance have come; the days of your repayment have come, and Israel will be afflicted like the prophet out of his mind, a spirit-bearing man. Because of the multitude of your injustices, your madness was multiplied.
 
 **Hosea 9:8**
 
-Ephraim, a watchman with God, prophet, a crooked snare on all his ways; they drove madness deep in the house of the Lord.
+The watchman of Ephraim was with God; the prophet is a crooked snare on all his ways; they fixed madness deep in the house of the Lord.
 
 **Hosea 9:9**
 
-They were corrupted as in the days of the hill; he will remember their injustice; he will avenge their sins.
+They were corrupted according to the days of the hill; he will remember his injustice; he will avenge his sins.
 
 **Hosea 9:10**
 
-Like a grape in the wilderness I found Israel, and like an early fig on a fig tree I saw their fathers. They entered to Baal-peor and were estranged to shame, and beloved ones became like those abhorred.
+Like a grape in the wilderness I found Israel, and like an early watchman in a fig tree I saw their fathers. They entered to Baal-peor and were estranged to shame, and beloved ones became like those abhorred.
 
 **Hosea 9:11**
 
@@ -89742,19 +89742,19 @@ Because even if they rear their children, they will become childless from men, b
 
 **Hosea 9:13**
 
-As I saw Ephraim for hunting, they presented their children, and Ephraim to bring out his children for piercing.
+Ephraim, as I saw, they presented their children for hunting, and Ephraim is to bring out his children for piercing.
 
 **Hosea 9:14**
 
-Give to them, Lord. What will you give them? Give them barren womb and dry breasts.
+Give to them, Lord. What will you give them? Give them a childless womb and dry breasts.
 
 **Hosea 9:15**
 
-All their evils are in Gilgal, because there I hated them. Because of evils of their practices I will cast them out of my house. I will not continue to love them; all their rulers are disobedient.
+All their evils are in Gilgal, because there I hated them. Because of the evils of their practices I will cast them out of my house. I will not continue to love them; all their rulers are disobedient.
 
 **Hosea 9:16**
 
-Ephraim suffered; its roots dried up; it will no longer bear fruit. Even if they bear children, I will kill desires of their womb.
+Ephraim suffered; his roots dried up; it will no longer bear fruit. Even if they bear children, I will kill the desires of their womb.
 
 **Hosea 9:17**
 

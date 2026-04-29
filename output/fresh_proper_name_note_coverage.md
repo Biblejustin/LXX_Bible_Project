@@ -25,7 +25,7 @@ Policy:
 - `Syria` (place, 119x, first Genesis 25:20) — logos_primary_place_atlas_link_preserved
 - `Samaria` (transliterated_form, 118x, first Judges 10:1) — not_classified
 - `Egyptians` (people_group, 114x, first Genesis 12:12) — logos_primary_entity
-- `Assyrians` (people_group, 111x, first Genesis 2:14) — logos_primary_entity
+- `Assyrians` (people_group, 112x, first Genesis 2:14) — logos_primary_entity
 - `Ammon` (transliterated_form, 107x, first Numbers 21:24) — not_classified
 - `Edom` (place, 97x, first Genesis 25:30) — logos_primary_place_atlas_link_preserved
 - `Jehoshaphat` (person, 90x, first 2 Samuel 8:16) — logos_alias_entity
