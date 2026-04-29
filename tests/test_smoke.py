@@ -6611,7 +6611,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the sight of loins" in by_ref["Ezekiel 1:27"]["draft_translation"]
     assert "over the affairs of Babylon" in by_ref["Daniel 2:48"]["draft_translation"]
     assert "against the sons of your people" in by_ref["Daniel 8:19"]["draft_translation"]
-    assert "on the furrows of a field" in by_ref["Hosea 10:4"]["draft_translation"]
+    assert "on the fallow ground of a field" in by_ref["Hosea 10:4"]["draft_translation"]
     assert "from the mount of Esau" in by_ref["Obadiah 1:8"]["draft_translation"]
     assert "at the right of lamp-bowl" in by_ref["Zechariah 4:3"]["draft_translation"]
     assert "And for the sons of Aaron" in by_ref["1 Chronicles 24:1"]["draft_translation"]
