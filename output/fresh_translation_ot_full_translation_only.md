@@ -86658,11 +86658,11 @@ And I will be magnified and sanctified and glorified, and I will be known before
 
 **Ezekiel 39:1**
 
-And you, son of man, prophesy over Gog and say, Thus says the Lord: Behold, I am against you, Gog, ruler of Rosh, Meshech, and Tubal.
+And you, son of man, prophesy against Gog and say, Thus says the Lord: Behold, I am against you, Gog, ruler of Rosh, Meshech, and Tubal.
 
 **Ezekiel 39:2**
 
-And I will gather you and lead you and bring you up from farthest north and bring you upon the mountains of Israel.
+And I will gather you and lead you and bring you up from the farthest north and bring you upon the mountains of Israel.
 
 **Ezekiel 39:3**
 
@@ -86670,7 +86670,7 @@ And I will destroy your bow from your left hand and your arrows from your right 
 
 **Ezekiel 39:4**
 
-Upon the mountains of Israel you will fall, you and all around you and nations with you. I have given you to flocks of birds, to every bird, and to all the beasts of the field to be devoured.
+Upon the mountains of Israel you will fall, you and all those around you, and the nations that are with you will be given to multitudes of birds, to every bird; and I have given you to all the beasts of the field to be devoured.
 
 **Ezekiel 39:5**
 
@@ -86678,43 +86678,43 @@ Upon the face of the plain you will fall, because I have spoken, says the Lord.
 
 **Ezekiel 39:6**
 
-And I will send fire upon Gog, and islands will be inhabited in peace, and they will know that I am the Lord.
+And I will send fire upon Gog, and the islands will be inhabited in peace, and they will know that I am the Lord.
 
 **Ezekiel 39:7**
 
-And my holy name will be made known in the midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
+And my holy name will be known in the midst of my people Israel, and my holy name will no longer be profaned, and the nations will know that I am the Lord, holy in Israel.
 
 **Ezekiel 39:8**
 
-Behold, it comes, and you will know that it will be, says the Lord God. This is the day about which I spoke.
+Behold, it has come, and you will know that it will be, says the Lord God. This is the day in which I spoke.
 
 **Ezekiel 39:9**
 
-And inhabitants of cities of Israel will go out and burn weapons, shields and spears and bows and arrows and hand-staves and lances, and they will burn fire with them seven years.
+And the inhabitants of the cities of Israel will go out and burn the weapons, shields and spears and bows and arrows and hand-staves and lances, and they will keep fire burning with them for seven years.
 
 **Ezekiel 39:10**
 
-And they will not take wood from field nor cut from forests, but rather they will burn the weapons with fire and plunder those who plundered them and spoil those who spoiled them, says the Lord.
+And they will not take wood from the field nor cut from the forests, but rather they will burn the weapons with fire and plunder those who plundered them and spoil those who spoiled them, says the Lord.
 
 **Ezekiel 39:11**
 
-And it will be on that day I will give to Gog well-known place, a tomb in Israel, the burial place of those coming toward the sea, and they will wall up the mouth of the ravine and bury Gog there and all his multitude, and it will be called Valley, burial place of Gog.
+And it will be on that day, I will give Gog a notable place, a tomb in Israel, the burial place of those coming toward the sea; and they will wall up the mouth of the ravine and bury Gog there and all his multitude, and it will be called the Valley, Gog's Burial Place.
 
 **Ezekiel 39:12**
 
-And the house of Israel will bury them so that land may be cleansed in seven months.
+And the house of Israel will bury them so that the land may be cleansed in seven months.
 
 **Ezekiel 39:13**
 
-And all the people of the land will bury them, and it will be to them for renown on the day I was glorified, says the Lord.
+And all the people of the land will bury them, and it will be to them for renown on the day when I was glorified, says the Lord.
 
 **Ezekiel 39:14**
 
-And men will appoint for continual duty, going through the land to bury those left on the face of land, to cleanse it; after seven months they will search.
+And they will appoint men continually to pass through the land, to bury those left on the face of the land and cleanse it; after the seven months they will search.
 
 **Ezekiel 39:15**
 
-And everyone passing through the land and seeing a human bone will build beside it a marker until buriers bury it in Valley, burial place of Gog.
+And everyone passing through the land and seeing a human bone will build beside it a marker until the buriers bury it in the Valley, Gog's Burial Place.
 
 **Ezekiel 39:16**
 
@@ -86722,11 +86722,11 @@ And indeed the name of the city is Burial Place, and the land will be cleansed.
 
 **Ezekiel 39:17**
 
-And you, son of man, say, Thus says the Lord: Say to every bird and to all the beasts of the field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, great sacrifice on the mountains of Israel, and eat flesh and drink blood.
+And you, son of man, say, Thus says the Lord: Say to every bird and to all the beasts of the field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, a great sacrifice on the mountains of Israel, and eat flesh and drink blood.
 
 **Ezekiel 39:18**
 
-Flesh of giants you will eat and blood of rulers of the earth you will drink, rams and calves and goats, all fattened calves.
+The flesh of giants you will eat and the blood of rulers of the earth you will drink, rams and calves and goats, all fattened calves.
 
 **Ezekiel 39:19**
 
@@ -86734,11 +86734,11 @@ And you will eat fat to fullness and drink blood to drunkenness from my sacrific
 
 **Ezekiel 39:20**
 
-And you will be filled at my table with horse and rider, giant and every man of war, says the Lord.
+And you will be filled at my table with horse and rider, a giant and every man of war, says the Lord.
 
 **Ezekiel 39:21**
 
-And I will give my glory among you, and all nations will see my judgment that I did and my hand that I brought upon them.
+And I will give my glory among you, and all the nations will see my judgment that I carried out and my hand that I brought upon them.
 
 **Ezekiel 39:22**
 
@@ -86746,7 +86746,7 @@ And the house of Israel will know that I am the Lord their God from this day and
 
 **Ezekiel 39:23**
 
-And all nations will know that because of their sins house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into the hands of their enemies, and they all fell by sword.
+And all the nations will know that because of their sins the house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into the hands of their enemies, and they all fell by the sword.
 
 **Ezekiel 39:24**
 
@@ -86754,19 +86754,19 @@ According to their uncleannesses and according to their lawless deeds I dealt wi
 
 **Ezekiel 39:25**
 
-Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
+Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be zealous for my holy name.
 
 **Ezekiel 39:26**
 
-And they will bear their own dishonor and the injustice by which they acted unjustly when they dwell on their land in peace and there is no one frightening them.
+And they will bear their own dishonor and the injustice by which they acted unjustly when they are settled on their land in peace and there is no one frightening them.
 
 **Ezekiel 39:27**
 
-When I turn them back from nations and gather them from lands of nations and am sanctified in them before nations,
+When I turn them back from the nations and gather them from lands of the nations, I will be sanctified in them before the nations,
 
 **Ezekiel 39:28**
 
-then they will know that I am the Lord their God, in my appearing to them among nations.
+then they will know that I am the Lord their God when I appear to them among the nations.
 
 **Ezekiel 39:29**
 

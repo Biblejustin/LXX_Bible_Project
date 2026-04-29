@@ -191145,25 +191145,25 @@ Note:
 ### Ezekiel 39:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, prophesy over Gog and say, Thus says the Lord: Behold, I am against you, Gog, ruler of Rosh, Meshech, and Tubal.
+- fresh: And you, son of man, prophesy against Gog and say, Thus says the Lord: Behold, I am against you, Gog, ruler of Rosh, Meshech, and Tubal.
 - brenton: And thou, son of man, prophesy against Gog, and say, Thus saith the Lord; Behold, I am against thee, O Gog, Rhos prince of Mesoch and Thobel:
 
 ### Ezekiel 39:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will gather you and lead you and bring you up from farthest north and bring you upon the mountains of Israel.
+- fresh: And I will gather you and lead you and bring you up from the farthest north and bring you upon the mountains of Israel.
 - brenton: and I will assemble thee, and guide thee, and raise thee up on the extremity of the north, and I will bring thee up upon the mountains of Israel.
 
 ### Ezekiel 39:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will destroy your bow from your left hand and your arrows from your right hand and cast you down.
@@ -191172,16 +191172,16 @@ Note:
 ### Ezekiel 39:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon the mountains of Israel you will fall, you and all around you and nations with you. I have given you to flocks of birds, to every bird, and to all the beasts of the field to be devoured.
+- fresh: Upon the mountains of Israel you will fall, you and all those around you, and the nations that are with you will be given to multitudes of birds, to every bird; and I have given you to all the beasts of the field to be devoured.
 - brenton: and thou and all that belong to thee shall fall, and the nations that are with thee shall be given to multitudes of birds, even to every fowl, and I have given thee to all the wild beasts of the field to be devoured.
 
 ### Ezekiel 39:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Upon the face of the plain you will fall, because I have spoken, says the Lord.
@@ -191190,97 +191190,97 @@ Note:
 ### Ezekiel 39:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire upon Gog, and islands will be inhabited in peace, and they will know that I am the Lord.
+- fresh: And I will send fire upon Gog, and the islands will be inhabited in peace, and they will know that I am the Lord.
 - brenton: And I will send a fire upon Gog, and the islands shall be securely inhabited: and they shall know that I am the Lord.
 
 ### Ezekiel 39:7
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And my holy name will be made known in the midst of my people Israel, and my holy name will no longer be profaned, and nations will know that I am the Lord, holy in Israel.
+- fresh: And my holy name will be known in the midst of my people Israel, and my holy name will no longer be profaned, and the nations will know that I am the Lord, holy in Israel.
 - brenton: And my holy name shall be known in the midst of my people Israel; and my holy name shall no more be profaned: and the nations shall know that I am the Lord, the Holy One in Israel.
 
 ### Ezekiel 39:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, it comes, and you will know that it will be, says the Lord God. This is the day about which I spoke.
+- fresh: Behold, it has come, and you will know that it will be, says the Lord God. This is the day in which I spoke.
 - brenton: Behold it is come, and thou shalt know that it shall be, saith the Lord God; this is the day concerning which I have spoken.
 
 ### Ezekiel 39:9
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And inhabitants of cities of Israel will go out and burn weapons, shields and spears and bows and arrows and hand-staves and lances, and they will burn fire with them seven years.
+- fresh: And the inhabitants of the cities of Israel will go out and burn the weapons, shields and spears and bows and arrows and hand-staves and lances, and they will keep fire burning with them for seven years.
 - brenton: And they that inhabit the cities of Israel shall come forth, and make a fire with the arms, the shields and spears, and bows and arrows, and hand-staves, and lances, and they shall keep fire burning with them for seven years:
 
 ### Ezekiel 39:10
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will not take wood from field nor cut from forests, but rather they will burn the weapons with fire and plunder those who plundered them and spoil those who spoiled them, says the Lord.
+- fresh: And they will not take wood from the field nor cut from the forests, but rather they will burn the weapons with fire and plunder those who plundered them and spoil those who spoiled them, says the Lord.
 - brenton: and they shall not take any wood out of the field, neither shall they cut any out of the forests, but they shall burn the weapons with fire: and they shall plunder those that plundered them, and spoil those that spoiled them, saith the Lord.
 
 ### Ezekiel 39:11
 
 - importance: high
-- decisions: 0
+- decisions: 7
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be on that day I will give to Gog well-known place, a tomb in Israel, the burial place of those coming toward the sea, and they will wall up the mouth of the ravine and bury Gog there and all his multitude, and it will be called Valley, burial place of Gog.
+- fresh: And it will be on that day, I will give Gog a notable place, a tomb in Israel, the burial place of those coming toward the sea; and they will wall up the mouth of the ravine and bury Gog there and all his multitude, and it will be called the Valley, Gog's Burial Place.
 - brenton: And it shall come to pass that in that day I will give to Gog a place of renown, a tomb in Israel, the burial-place of them that approach the sea: and they shall build round about the outlet of the valley, and there they shall bury Gog and all his multitude: and the place shall then be called the burial-place of Gog.
 
 ### Ezekiel 39:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the house of Israel will bury them so that land may be cleansed in seven months.
+- fresh: And the house of Israel will bury them so that the land may be cleansed in seven months.
 - brenton: And the house of Israel shall bury them, that the land may be cleansed in the space of seven months.
 
 ### Ezekiel 39:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the people of the land will bury them, and it will be to them for renown on the day I was glorified, says the Lord.
+- fresh: And all the people of the land will bury them, and it will be to them for renown on the day when I was glorified, says the Lord.
 - brenton: Yea, all the people of the land shall bury them; and it shall be to them a place of renown in the day wherein it was glorified, saith the Lord.
 
 ### Ezekiel 39:14
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And men will appoint for continual duty, going through the land to bury those left on the face of land, to cleanse it; after seven months they will search.
+- fresh: And they will appoint men continually to pass through the land, to bury those left on the face of the land and cleanse it; after the seven months they will search.
 - brenton: And they shall appoint men continually to go over the land, to bury them that have been left on the face of the earth, to cleanse it after the space of seven months, and they shall seek them out.
 
 ### Ezekiel 39:15
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And everyone passing through the land and seeing a human bone will build beside it a marker until buriers bury it in Valley, burial place of Gog.
+- fresh: And everyone passing through the land and seeing a human bone will build beside it a marker until the buriers bury it in the Valley, Gog's Burial Place.
 - brenton: And every one that goes through the land, and sees a man's bone, shall set up a mark by it, until the buriers shall have buried it in the valley, the burial-place of Gog.
 
 ### Ezekiel 39:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And indeed the name of the city is Burial Place, and the land will be cleansed.
@@ -191289,25 +191289,25 @@ Note:
 ### Ezekiel 39:17
 
 - importance: high
-- decisions: 0
+- decisions: 7
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, say, Thus says the Lord: Say to every bird and to all the beasts of the field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, great sacrifice on the mountains of Israel, and eat flesh and drink blood.
+- fresh: And you, son of man, say, Thus says the Lord: Say to every bird and to all the beasts of the field, Gather and come; gather from all around to my sacrifice that I have sacrificed for you, a great sacrifice on the mountains of Israel, and eat flesh and drink blood.
 - brenton: And thou, son of man, say, Thus saith the Lord; Say to every winged bird, and to all the wild beasts of the field,
 
 ### Ezekiel 39:18
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Flesh of giants you will eat and blood of rulers of the earth you will drink, rams and calves and goats, all fattened calves.
+- fresh: The flesh of giants you will eat and the blood of rulers of the earth you will drink, rams and calves and goats, all fattened calves.
 - brenton: Ye shall eat the flesh of mighty men, and ye shall drink the blood of the princes of the earth, rams, and calves and goats, and they are all fatted calves.
 
 ### Ezekiel 39:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And you will eat fat to fullness and drink blood to drunkenness from my sacrifice that I have sacrificed for you.
@@ -191316,19 +191316,19 @@ Note:
 ### Ezekiel 39:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will be filled at my table with horse and rider, giant and every man of war, says the Lord.
+- fresh: And you will be filled at my table with horse and rider, a giant and every man of war, says the Lord.
 - brenton: And ye shall be filled at my table, eating horse, and rider, and mighty man, and every warrior, saith the Lord.
 
 ### Ezekiel 39:21
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give my glory among you, and all nations will see my judgment that I did and my hand that I brought upon them.
+- fresh: And I will give my glory among you, and all the nations will see my judgment that I carried out and my hand that I brought upon them.
 - brenton: And I will set my glory among you, and all the nations shall see my judgment which I have wrought, and my hand which I have brought upon them.
 
 ### Ezekiel 39:22
@@ -191343,10 +191343,10 @@ Note:
 ### Ezekiel 39:23
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And all nations will know that because of their sins house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into the hands of their enemies, and they all fell by sword.
+- fresh: And all the nations will know that because of their sins the house of Israel was taken captive, because they rejected me and I turned my face away from them and handed them over into the hands of their enemies, and they all fell by the sword.
 - brenton: And all the nations shall know that the house of Israel were led captive because of their sins, because they rebelled against me, and I turned away my face from them, and delivered them into the hands of their enemies, and they all fell by the sword.
 
 ### Ezekiel 39:24
@@ -191361,37 +191361,37 @@ Note:
 ### Ezekiel 39:25
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be zealous for my holy name.
 - brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
 ### Ezekiel 39:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will bear their own dishonor and the injustice by which they acted unjustly when they dwell on their land in peace and there is no one frightening them.
+- fresh: And they will bear their own dishonor and the injustice by which they acted unjustly when they are settled on their land in peace and there is no one frightening them.
 - brenton: And they shall bear their reproach, and the iniquity which they committed when they dwelt upon their land in peace. Yet there shall be none to terrify them
 
 ### Ezekiel 39:27
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When I turn them back from nations and gather them from lands of nations and am sanctified in them before nations,
+- fresh: When I turn them back from the nations and gather them from lands of the nations, I will be sanctified in them before the nations,
 - brenton: when I have brought them back from the nations, and gathered them out of the countries of the nations: and I will be sanctified among them in the presence of the nations.
 
 ### Ezekiel 39:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: then they will know that I am the Lord their God, in my appearing to them among nations.
+- fresh: then they will know that I am the Lord their God when I appear to them among the nations.
 - brenton: And they shall know that I am the Lord their God, when I have been manifested to them among the nations.
 
 ### Ezekiel 39:29
