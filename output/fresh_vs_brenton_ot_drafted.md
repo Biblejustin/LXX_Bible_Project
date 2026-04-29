@@ -197989,16 +197989,16 @@ Note:
 ### Hosea 10:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Israel, a flourishing vine, its fruit prospered. According to the multitude of its fruits he multiplied the altars; according to goodness of his land he built pillars.
+- fresh: Israel, a flourishing vine, her fruit prospered. According to the multitude of his fruits he multiplied the altars; according to the goodness of his land he built pillars.
 - brenton: Israel is a vine with goodly branches, her fruit is abundant: according to the multitude of her fruits she has multiplied her altars; according to the wealth of his land, he has set up pillars.
 
 ### Hosea 10:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: They divided their hearts; now they will be destroyed. He himself will dig down their altars; their pillars will suffer.
@@ -198007,7 +198007,7 @@ Note:
 ### Hosea 10:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because now they will say, We have no king, because we did not fear the Lord. And the king, what will he do for us?
@@ -198016,43 +198016,43 @@ Note:
 ### Hosea 10:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Speaking words, false excuses, they will make covenant; judgment springs up like weed on the furrows of a field.
+- fresh: Speaking words, false excuses, he will make a covenant; judgment will spring up like weed on the fallow ground of a field.
 - brenton: and what should a king do for us, speaking false professions as his words? he will make a covenant: judgment shall spring up as a weed on the soil of the field.
 
 ### Hosea 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: For calf of the house of On, inhabitants of Samaria will dwell as strangers, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
+- fresh: The inhabitants of Samaria will dwell near the calf of the house of On, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
 - brenton: The inhabitants of Samaria shall dwell near the calf of the house of On; for the people of it mourned for it: and as they provoked him, they shall rejoice at his glory, because he has departed from them.
 
 ### Hosea 10:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And binding it they carried it away to Assyrians as a guest-gift to King Jareb. Ephraim will receive shame, and Israel will be ashamed in his counsel.
+- fresh: And after binding it they carried it away to Assyrians as a guest-gift to King Jareb. Ephraim will receive it as a gift, and Israel will be ashamed in his counsel.
 - brenton: And having bound it for the Assyrians, they carried it away as presents to king Jarim: Ephraim shall receive a gift, and Israel shall be ashamed of his counsel.
 
 ### Hosea 10:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Samaria threw away her king like twig on the face of water.
+- fresh: Samaria threw away her king like a twig on the face of water.
 - brenton: Samaria has cast off her king as a twig on the surface of the water.
 
 ### Hosea 10:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And altars of On, sins of Israel, will be removed; thorns and thistles will come up on their altars, and they will say to mountains, Cover us, and to hills, Fall on us.
@@ -198061,64 +198061,64 @@ Note:
 ### Hosea 10:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From time of the hills Israel sinned; there they stood. War on children of injustice will not overtake them on the hill.
+- fresh: From time of the hills Israel sinned; there they stood. War against children of injustice will not overtake them on the hill.
 - brenton: From the time the hills existed Israel has sinned: there they stood: war waged against the children of iniquity
 
 ### Hosea 10:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: He came to discipline them, and peoples will be gathered against them when they are disciplined in their two injustices.
+- fresh: It came to discipline them, and peoples will be gathered against them when they are disciplined in their two injustices.
 - brenton: to chastise them shall not overtake them on the hill, the nations shall be gathered against them, when they are chastened for their two sins.
 
 ### Hosea 10:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim is a heifer taught to love victory, but I will come upon the beauty of her neck. I will mount Ephraim and silence Judah; Jacob will strengthen him.
+- fresh: Ephraim is a heifer taught to love victory, but I will come upon the beauty of her neck. I will mount Ephraim and pass over Judah in silence; Jacob will prevail against him.
 - brenton: Ephraim is a heifer taught to love victory, but I will come upon the fairest part of her neck: I will mount Ephraim; I will pass over Juda in silence; Jacob shall prevail against him.
 
 ### Hosea 10:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Sow for yourselves into righteousness; reap into fruit of life. Give yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you.
+- fresh: Sow for yourselves into righteousness; reap into fruit of life. Light for yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you.
 - brenton: Sow to yourselves for righteousness, gather in for the fruit of life: light ye for yourselves the light of knowledge; seek the Lord till the fruits of righteousness come upon you.
 
 ### Hosea 10:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Why did you keep silence for impiety and reap its injustices? You ate fruit of lies, because you hoped in your chariots and in the multitude of your strength.
+- fresh: Why did you pass over impiety in silence and reap its injustices? You ate false fruit, because you hoped in your chariots and in the multitude of your strength.
 - brenton: Wherefore have ye passed over ungodliness in silence, and reaped the sins of it? ye have eaten false fruit; for thou hast trusted in thy sins, in the abundance of thy power.
 
 ### Hosea 10:14
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And destruction will rise up among your people, and all your fortified things will go away, as a ruler Shalman from the house of Jerubbaal, in the day of war, leveled mother upon children.
+- fresh: And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from the house of Jerubbaal. In the days of war they leveled mother upon children.
 - brenton: Therefore shall destruction rise up among thy people, and all thy strong places shall be ruined: as prince Solomon departed out of the house of Jeroboam, in the days of battle they dashed the mother to the ground upon the children,
 
 ### Hosea 10:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus I will do to you, house of Israel, because of face of your evils. At dawn they threw away, king of Israel was thrown away.
+- fresh: Thus I will do to you, house of Israel, because of the face of your evils. At dawn they were thrown away; the king of Israel was thrown away.
 - brenton: thus will I do to you, O house of Israel, because of the unrighteousness of your sins.
 
 ### Hosea 11:1

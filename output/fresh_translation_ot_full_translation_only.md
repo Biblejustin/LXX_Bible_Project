@@ -89764,7 +89764,7 @@ God will reject them because they did not listen to him, and they will be wander
 
 **Hosea 10:1**
 
-Israel, a flourishing vine, its fruit prospered. According to the multitude of its fruits he multiplied the altars; according to goodness of his land he built pillars.
+Israel, a flourishing vine, her fruit prospered. According to the multitude of his fruits he multiplied the altars; according to the goodness of his land he built pillars.
 
 **Hosea 10:2**
 
@@ -89776,19 +89776,19 @@ Because now they will say, We have no king, because we did not fear the Lord. An
 
 **Hosea 10:4**
 
-Speaking words, false excuses, they will make covenant; judgment springs up like weed on the furrows of a field.
+Speaking words, false excuses, he will make a covenant; judgment will spring up like weed on the fallow ground of a field.
 
 **Hosea 10:5**
 
-For calf of the house of On, inhabitants of Samaria will dwell as strangers, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
+The inhabitants of Samaria will dwell near the calf of the house of On, because his people mourned over it, and as they embittered him they will rejoice over his glory, because it was removed from him.
 
 **Hosea 10:6**
 
-And binding it they carried it away to Assyrians as a guest-gift to King Jareb. Ephraim will receive shame, and Israel will be ashamed in his counsel.
+And after binding it they carried it away to Assyrians as a guest-gift to King Jareb. Ephraim will receive it as a gift, and Israel will be ashamed in his counsel.
 
 **Hosea 10:7**
 
-Samaria threw away her king like twig on the face of water.
+Samaria threw away her king like a twig on the face of water.
 
 **Hosea 10:8**
 
@@ -89796,31 +89796,31 @@ And altars of On, sins of Israel, will be removed; thorns and thistles will come
 
 **Hosea 10:9**
 
-From time of the hills Israel sinned; there they stood. War on children of injustice will not overtake them on the hill.
+From time of the hills Israel sinned; there they stood. War against children of injustice will not overtake them on the hill.
 
 **Hosea 10:10**
 
-He came to discipline them, and peoples will be gathered against them when they are disciplined in their two injustices.
+It came to discipline them, and peoples will be gathered against them when they are disciplined in their two injustices.
 
 **Hosea 10:11**
 
-Ephraim is a heifer taught to love victory, but I will come upon the beauty of her neck. I will mount Ephraim and silence Judah; Jacob will strengthen him.
+Ephraim is a heifer taught to love victory, but I will come upon the beauty of her neck. I will mount Ephraim and pass over Judah in silence; Jacob will prevail against him.
 
 **Hosea 10:12**
 
-Sow for yourselves into righteousness; reap into fruit of life. Give yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you.
+Sow for yourselves into righteousness; reap into fruit of life. Light for yourselves light of knowledge. Seek the Lord until fruits of righteousness come to you.
 
 **Hosea 10:13**
 
-Why did you keep silence for impiety and reap its injustices? You ate fruit of lies, because you hoped in your chariots and in the multitude of your strength.
+Why did you pass over impiety in silence and reap its injustices? You ate false fruit, because you hoped in your chariots and in the multitude of your strength.
 
 **Hosea 10:14**
 
-And destruction will rise up among your people, and all your fortified things will go away, as a ruler Shalman from the house of Jerubbaal, in the day of war, leveled mother upon children.
+And destruction will rise up among your people, and all your fortified things will go away, as ruler Shalman from the house of Jerubbaal. In the days of war they leveled mother upon children.
 
 **Hosea 10:15**
 
-Thus I will do to you, house of Israel, because of face of your evils. At dawn they threw away, king of Israel was thrown away.
+Thus I will do to you, house of Israel, because of the face of your evils. At dawn they were thrown away; the king of Israel was thrown away.
 
 ### Chapter 11
 
