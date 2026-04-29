@@ -202710,28 +202710,28 @@ Note:
 ### Habakkuk 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will stand on my guard-post and step upon rock and watch to see what he will speak in me and what I will answer concerning my reproof.
+- fresh: I will stand upon my watch and step upon a rock and watch to see what he will speak in me and what I should answer concerning my reproof.
 - brenton: I will stand upon my watch, and mount upon the rock, and watch to see what he will say by me, and what I shall answer when I am reproved.
 
 ### Habakkuk 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord answered me and said, Write vision and make it clear on tablet, so that reader may run with it.
+- fresh: And the Lord answered me and said, Write a vision clearly on a tablet, so that the one reading these things may run.
 - brenton: And the Lord answered me and said, Write the vision, and that plainly on a tablet, that he that reads it may run.
 
 ### Habakkuk 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because vision is still for time, and it will rise to end and not for emptiness. If it delays, wait for it, because coming it will come and certainly not tarry.
+- fresh: Because vision is still for a time, and it will rise to completion and not for emptiness. If he delays, wait for him, because coming he will come and certainly not tarry.
 - brenton: For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.
 
 ### Habakkuk 2:4
@@ -202746,73 +202746,73 @@ Note:
 ### Habakkuk 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: But wine-drinker and contemptuous man, boaster, will certainly accomplish nothing. He widened his soul like Hades, and like death he is not filled, and he will gather to himself all nations and receive to himself all peoples.
+- fresh: But the wine-drinker and contemptuous man, a boaster, will certainly accomplish nothing. He widened his soul as Hades, and he, as death, is not filled, and he will gather to himself all the nations and receive to himself all the peoples.
 - brenton: But the arrogant man and the scorner, the boastful man, shall not finish anything; who has enlarged his desire as the grave, and like death he is never satisfied, and he will gather to himself all the nations, and will receive to himself all the peoples.
 
 ### Habakkuk 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Will not all these take up proverb against him and riddle for his tale and say, Woe to one multiplying what is not his, how long? and making his yoke heavy with thickness.
+- fresh: Will not all these take up a parable against him and a riddle for his tale and say, Woe to the one multiplying for himself the things that are not his! How long? And weighing down his yoke heavily.
 - brenton: Shall not all these take up a parable against him? and a proverb to tell against him? and they shall say, Woe to him that multiplies to himself the possessions which are not his! how long? and who heavily loads his yoke.
 
 ### Habakkuk 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because suddenly those biting him will rise, and your plotters will awake, and you will be plunder to them.
+- fresh: Because suddenly those biting him will rise, and your plotters will awake, and you will be for plunder to them.
 - brenton: For suddenly there shall arise up those that bite him, and they that plot against thee shall awake, and thou shalt be a plunder to them.
 
 ### Habakkuk 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you plundered many nations, all remaining peoples will plunder you, because of the blood of humans and impiety of land and city and all dwelling in it.
+- fresh: Because you plundered many nations, all the remaining peoples will plunder you, because of the blood of humans and impiety of land and city and all those dwelling in it.
 - brenton: Because thou hast spoiled many nations, all the nations that are left shall spoil thee, because of the blood of men, and the sins of the land and city, and of all that dwell in it.
 
 ### Habakkuk 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one grasping evil grasping for his house, to set his nest on high, to be torn away from the hand of evils.
+- fresh: Woe to the one grasping evil gain for his house, to set his nest on high, to be torn away from the hand of evils.
 - brenton: Woe to him that covets an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evils.
 
 ### Habakkuk 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You planned shame for your house; you finished many peoples, and your soul sinned.
+- fresh: You planned shame for your house; you brought many peoples to an end, and your soul sinned.
 - brenton: Thou hast devised shame to thy house, thou hast utterly destroyed many nations, and thy soul has sinned.
 
 ### Habakkuk 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because stone from wall will cry out, and beam from timber will speak these things.
+- fresh: Because a stone from wall will cry out, and a beetle from timber will speak these things.
 - brenton: For the stone shall cry out of the wall, and the beetle out of the timber shall speak.
 
 ### Habakkuk 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one building a city in bloodshed and preparing a city in injustices.
+- fresh: Woe to the one building a city in bloodshed and preparing a city in injustices.
 - brenton: Woe to him that builds a city with blood, and establishes a city by unrighteousness.
 
 ### Habakkuk 2:13
@@ -202836,46 +202836,46 @@ Note:
 ### Habakkuk 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one giving drink to his neighbor, a muddy overthrow, and making him drunk so as to look on their caves.
+- fresh: Woe to the one giving drink to his neighbor, a muddy overthrow, and making him drunk so that he may look on their caves.
 - brenton: Woe to him that gives his neighbour to drink the thick lees of wine, and intoxicates him, that he may look upon their secret parts.
 
 ### Habakkuk 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You were filled with dishonor instead of glory. Drink, you too, and be shaken. Cup of the Lord's right hand has gone around to you, and dishonor gathered upon your glory.
+- fresh: Drink a filling of dishonor instead of glory, you too, and be shaken and quake. The cup of the Lord's right hand has gone around to you, and dishonor gathered upon your glory.
 - brenton: Drink thou also thy fill of disgrace instead of glory: shake, O heart, and quake, the cup of the right hand of the Lord has come round upon thee, and dishonour has gathered upon thy glory.
 
 ### Habakkuk 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because impiety of Lebanon will cover you, and misery of beasts will terrify you, because of the blood of humans and impiety of land and city and all dwelling in it.
+- fresh: Because impiety of Lebanon will cover you, and misery of beasts will terrify you, because of the blood of humans and impiety of land and city and all those dwelling in it.
 - brenton: For the ungodliness of Libanus shall cover thee, and distress because of wild beasts shall dismay thee, because of the blood of men, and the sins of the land and city, and of all that dwell in it.
 
 ### Habakkuk 2:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: What profit is carved image, because they carved it? They made cast image, false imagination, because maker trusted in his creation to make dumb idols.
+- fresh: What does a carved image profit, because they carved it? They formed it as a cast image, a false imagination, because the one who formed it trusted in his formation to make dumb idols.
 - brenton: What profits it the graven image, that they have graven it? one has made it a molten work, a false image; for the maker has trusted in his work, to make dumb idols.
 
 ### Habakkuk 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one saying to wood, Awake, rise up, and to stone, Be lifted. And this is imagination. It is plated with gold and silver, and no spirit is in it.
+- fresh: Woe to the one saying to the wood, Awake, rise up, and to the stone, Be lifted. And it is imagination, but this is a plating of gold and silver, and there is no breath in it.
 - brenton: Woe to him that says to the wood, Awake, arise; and to the stone, Be thou exalted! whereas it is an image, and this is a casting of gold and silver, and there is no breath in it.
 
 ### Habakkuk 2:20

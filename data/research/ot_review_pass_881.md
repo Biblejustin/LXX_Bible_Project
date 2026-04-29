@@ -9,4 +9,4 @@ Changes:
 Validation:
 - Fast CSV shape check passed for source, footnotes, decisions, and reviewed phrase guards.
 - `python3 scripts/run_fast_review_checkpoint.py --testament ot --refs 'Habakkuk 2:18-20'` passed.
-- Full aggregate/DOCX checkpoint intentionally deferred for chapter boundary.
+- Full aggregate/DOCX checkpoint passed at the Habakkuk 2 boundary.

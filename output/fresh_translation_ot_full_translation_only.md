@@ -91938,15 +91938,15 @@ Because of this he will cast his net, and continually to kill nations he will no
 
 **Habakkuk 2:1**
 
-I will stand on my guard-post and step upon rock and watch to see what he will speak in me and what I will answer concerning my reproof.
+I will stand upon my watch and step upon a rock and watch to see what he will speak in me and what I should answer concerning my reproof.
 
 **Habakkuk 2:2**
 
-And the Lord answered me and said, Write vision and make it clear on tablet, so that reader may run with it.
+And the Lord answered me and said, Write a vision clearly on a tablet, so that the one reading these things may run.
 
 **Habakkuk 2:3**
 
-Because vision is still for time, and it will rise to end and not for emptiness. If it delays, wait for it, because coming it will come and certainly not tarry.
+Because vision is still for a time, and it will rise to completion and not for emptiness. If he delays, wait for him, because coming he will come and certainly not tarry.
 
 **Habakkuk 2:4**
 
@@ -91954,35 +91954,35 @@ If he should draw back, my soul has no pleasure in him; but the righteous one wi
 
 **Habakkuk 2:5**
 
-But wine-drinker and contemptuous man, boaster, will certainly accomplish nothing. He widened his soul like Hades, and like death he is not filled, and he will gather to himself all nations and receive to himself all peoples.
+But the wine-drinker and contemptuous man, a boaster, will certainly accomplish nothing. He widened his soul as Hades, and he, as death, is not filled, and he will gather to himself all the nations and receive to himself all the peoples.
 
 **Habakkuk 2:6**
 
-Will not all these take up proverb against him and riddle for his tale and say, Woe to one multiplying what is not his, how long? and making his yoke heavy with thickness.
+Will not all these take up a parable against him and a riddle for his tale and say, Woe to the one multiplying for himself the things that are not his! How long? And weighing down his yoke heavily.
 
 **Habakkuk 2:7**
 
-Because suddenly those biting him will rise, and your plotters will awake, and you will be plunder to them.
+Because suddenly those biting him will rise, and your plotters will awake, and you will be for plunder to them.
 
 **Habakkuk 2:8**
 
-Because you plundered many nations, all remaining peoples will plunder you, because of the blood of humans and impiety of land and city and all dwelling in it.
+Because you plundered many nations, all the remaining peoples will plunder you, because of the blood of humans and impiety of land and city and all those dwelling in it.
 
 **Habakkuk 2:9**
 
-Woe to one grasping evil grasping for his house, to set his nest on high, to be torn away from the hand of evils.
+Woe to the one grasping evil gain for his house, to set his nest on high, to be torn away from the hand of evils.
 
 **Habakkuk 2:10**
 
-You planned shame for your house; you finished many peoples, and your soul sinned.
+You planned shame for your house; you brought many peoples to an end, and your soul sinned.
 
 **Habakkuk 2:11**
 
-Because stone from wall will cry out, and beam from timber will speak these things.
+Because a stone from wall will cry out, and a beetle from timber will speak these things.
 
 **Habakkuk 2:12**
 
-Woe to one building a city in bloodshed and preparing a city in injustices.
+Woe to the one building a city in bloodshed and preparing a city in injustices.
 
 **Habakkuk 2:13**
 
@@ -91994,23 +91994,23 @@ Because earth will be filled to know the glory of the Lord as water will cover t
 
 **Habakkuk 2:15**
 
-Woe to one giving drink to his neighbor, a muddy overthrow, and making him drunk so as to look on their caves.
+Woe to the one giving drink to his neighbor, a muddy overthrow, and making him drunk so that he may look on their caves.
 
 **Habakkuk 2:16**
 
-You were filled with dishonor instead of glory. Drink, you too, and be shaken. Cup of the Lord's right hand has gone around to you, and dishonor gathered upon your glory.
+Drink a filling of dishonor instead of glory, you too, and be shaken and quake. The cup of the Lord's right hand has gone around to you, and dishonor gathered upon your glory.
 
 **Habakkuk 2:17**
 
-Because impiety of Lebanon will cover you, and misery of beasts will terrify you, because of the blood of humans and impiety of land and city and all dwelling in it.
+Because impiety of Lebanon will cover you, and misery of beasts will terrify you, because of the blood of humans and impiety of land and city and all those dwelling in it.
 
 **Habakkuk 2:18**
 
-What profit is carved image, because they carved it? They made cast image, false imagination, because maker trusted in his creation to make dumb idols.
+What does a carved image profit, because they carved it? They formed it as a cast image, a false imagination, because the one who formed it trusted in his formation to make dumb idols.
 
 **Habakkuk 2:19**
 
-Woe to one saying to wood, Awake, rise up, and to stone, Be lifted. And this is imagination. It is plated with gold and silver, and no spirit is in it.
+Woe to the one saying to the wood, Awake, rise up, and to the stone, Be lifted. And it is imagination, but this is a plating of gold and silver, and there is no breath in it.
 
 **Habakkuk 2:20**
 
