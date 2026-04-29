@@ -187647,79 +187647,79 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me in ninth year, in the tenth month, on the tenth of the month, saying,
+- fresh: And the word of the Lord came to me in the ninth year, in the tenth month, on the tenth of the month, saying,
 - brenton: And the word of the Lord came to me, in the ninth year, in the tenth month, on the tenth day of the month, saying,
 
 ### Ezekiel 24:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, write for yourself this day, from this day from which king of Babylon pressed hard against Jerusalem, from this very day.
+- fresh: Son of man, write for yourself this day, from this day on which the king of Babylon pressed hard against Jerusalem, from this very day.
 - brenton: Son of man, write for thyself daily from this day, on which the king of Babylon set himself against Jerusalem, even from this day.
 
 ### Ezekiel 24:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And speak to provoking house a parable, and say to them, Thus says the Lord: Set on the cooking pot and pour water into it,
+- fresh: And speak a parable against the provoking house, and say to them, Thus says the Lord: Set on the cooking pot and pour water into it,
 - brenton: And speak a parable to the provoking house, and thou shalt say to them,
 
 ### Ezekiel 24:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and put into it the pieces, every good piece, thigh and shoulder, stripped from bones.
+- fresh: and put into it the pieces, every good piece, leg and shoulder, stripped from the bones.
 - brenton: and put the pieces into it, every prime piece, the leg and shoulder taken off from the bones,
 
 ### Ezekiel 24:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Taken from choice cattle, and kindle the bones under them. It boiled, boiled, and its bones were cooked in its midst.
+- fresh: taken from choice livestock, and kindle the bones under them. It boiled, boiled, and its bones were cooked in its midst.
 - brenton: which are taken from choice cattle, and burn the bones under them: her bones are boiled and cooked in the midst of her.
 
 ### Ezekiel 24:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: O city of bloods, pot in which there is rust in it and its rust did not go out from it. Piece by piece it was brought out; lot did not fall on it.
+- fresh: Therefore thus says the Lord: O city of bloods, a pot in which there is rust, and its rust did not go out from it. Piece by piece it was brought out; no lot fell on it.
 - brenton: Therefore thus saith the Lord; O bloody city, the caldron in which there is scum, and the scum has not gone out of, she has brought it forth piece by piece, no lot has fallen upon it.
 
 ### Ezekiel 24:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because her blood is in her midst. Upon bare rock I placed it; I did not pour it on ground to cover earth over it.
+- fresh: Because her blood is in her midst. Upon bare rock I placed it; I did not pour it on the ground so as to cover it with earth.
 - brenton: For her blood is in the midst of her; I have set it upon a smooth rock: I have not poured it out upon the earth, so that the earth should cover it;
 
 ### Ezekiel 24:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So that wrath might rise for vengeance, to be avenged, I gave her blood upon bare rock, so that it should not be covered.
+- fresh: So that wrath might rise for vengeance, to take vengeance, I gave her blood upon bare rock, so that it should not be covered.
 - brenton: that my wrath should come up for complete vengeance to be taken: I set her blood upon a smooth rock, so as not to cover it.
 
 ### Ezekiel 24:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: I too will magnify the pile.
+- fresh: Therefore thus says the Lord: I too will enlarge the pile.
 - brenton: Therefore thus saith the Lord, I will also make the firebrand great,
 
 ### Ezekiel 24:10
@@ -187734,10 +187734,10 @@ Note:
 ### Ezekiel 24:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And set it upon the coals so that its bronze may burn and become hot and its uncleanness may melt within it and its rust fail away.
+- fresh: And set it upon the coals so that its bronze may burn and become hot and its uncleanness may melt within it and its rust may disappear.
 - brenton: and that it may stand upon the coals, that her brass may be thoroughly heated, and be melted in the midst of her filthiness, and her scum may be consumed,
 
 ### Ezekiel 24:12
@@ -187746,25 +187746,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And her much rust will not go out from her; her rust will be put to shame.
+- fresh: And her abundant rust will not go out from her; her rust will be put to shame.
 - brenton: and her abundant scum may not come forth of her.
 
 ### Ezekiel 24:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you were defiling yourself, and if you will not be cleansed any longer until I fill up my wrath,
+- fresh: Because you were defiling yourself, what if you are not cleansed any longer until I fill up my wrath?
 - brenton: Her scum shall become shameful, because thou didst defile thyself: and what if thou shalt be purged no more until I have accomplished my wrath?
 
 ### Ezekiel 24:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I, the Lord, have spoken, and it will come, and I will do it. I will not delay, nor will I show mercy. According to your ways and according to your thoughts I judge you, says the Lord. Therefore I judge you according to your bloods and according to your thoughts, you unclean one, well-known and much provoking.
+- fresh: I, the Lord, have spoken, and it will come, and I will act. I will not delay, nor will I show mercy. According to your ways and according to your thoughts I judge you, says the Lord. Therefore I judge you according to your bloods and according to your thoughts; I judge you, the unclean one, notorious and abundant in provoking.
 - brenton: I the Lord have spoken; and it shall come, and I will do it; I will not delay, neither will I have any mercy: I will judge thee, saith the Lord, according to thy ways, and according to thy devices: therefore will I judge thee according to thy bloodshed, and according to thy devices will I judge thee, thou unclean, notorious, and abundantly provoking one.
 
 ### Ezekiel 24:15
@@ -187779,10 +187779,10 @@ Note:
 ### Ezekiel 24:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, behold, I take from you desire of your eyes in ordered stroke. You must not mourn, nor must you weep.
+- fresh: Son of man, behold, I take from you the desire of your eyes by an ordered stroke. You must not mourn, nor must you weep.
 - brenton: Son of man, behold I take from thee the desire of thine eyes by violence: thou shalt not lament, neither shalt thou weep.
 
 ### Ezekiel 24:17
@@ -187791,16 +187791,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Groaning of blood of your loins is mourning; it will not be. Your hair will not be braided upon you and your sandals will be on your feet. You will not be comforted by their lips, and bread of men you will not eat.
+- fresh: The groaning of blood of your loins is mourning; it will not be. Your hair will not be braided on you, and your sandals will be on your feet. You will not be comforted by their lips, and bread of men you will not eat.
 - brenton: Thou shalt groan for blood, and have mourning upon thy loins; thy hair shall not be braided upon thee, and thy sandals shall be on thy feet; thou shalt in no wise be comforted by their lips, and thou shalt not eat the bread of men.
 
 ### Ezekiel 24:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I spoke to people in morning as it was commanded me, and my wife died at evening, and I did in morning as it was ordered me.
+- fresh: And I spoke to the people in the morning as it was commanded me, and my wife died in the evening, and I did in the morning as it was ordered me.
 - brenton: And I spoke to the people in the morning, as he commanded me in the evening, and I did in the morning as it was commanded me.
 
 ### Ezekiel 24:19
@@ -187824,28 +187824,28 @@ Note:
 ### Ezekiel 24:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to the house of Israel, Thus says the Lord: Behold, I profane my holy things, arrogance of your strength, desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
+- fresh: Say to the house of Israel, Thus says the Lord: Behold, I profane my holy things, the boasting of your strength, the desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
 - brenton: Say to the house of Israel,
 
 ### Ezekiel 24:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will do as I did. You will not be comforted from their mouth, and bread of men you will not eat.
+- fresh: And you will do as I did. You will not be comforted by their mouth, and bread of men you will not eat.
 - brenton: And ye shall do as I have done: ye shall not be comforted at their mouth, and ye shall not eat the bread of men.
 
 ### Ezekiel 24:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your hair will be on your head and your sandals on your feet. You will neither mourn nor weep, and you will melt away in your injustices and each will comfort his brother.
+- fresh: And your hair will be on your head and your sandals on your feet. You will neither mourn nor weep, and you will melt away in your injustices, and each of you will comfort his brother.
 - brenton: And your hair shall be upon your head, and your shoes on your feet: neither shall ye at all lament or weep; but ye shall pine away in your iniquities, and shall comfort every one his brother.
 
 ### Ezekiel 24:24
@@ -187860,28 +187860,28 @@ Note:
 ### Ezekiel 24:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, is it not on the day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
+- fresh: And you, son of man, will it not be on the day when I take from them their strength, the exaltation of their boasting, the desire of their eyes and the exaltation of their soul, their sons and their daughters,
 - brenton: And thou, son of man, shall it not be in the day when I take their strength from them, the pride of their boasting, the desires of their eyes, and the pride of their soul, their sons and their daughters,
 
 ### Ezekiel 24:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: on that day one escaping will come to you to announce it in your ears?
+- fresh: on that day the one escaping will come to you to announce it in your ears?
 - brenton: that in that day he that escapes shall come to thee, to tell it thee in thine ears?
 
 ### Ezekiel 24:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On that day your mouth will be opened toward one escaping, and you will speak and no longer be mute, and you will be to them for sign, and they will know that I am the Lord.
+- fresh: On that day your mouth will be opened to the one escaping, and you will speak and no longer be mute, and you will be to them as a sign, and they will know that I am the Lord.
 - brenton: In that day thy mouth shall be opened to him that escapes; thou shalt speak, and shalt be no longer dumb: and thou shalt be for a sign to them, and they shall know that I am the Lord.
 
 ### Ezekiel 25:1

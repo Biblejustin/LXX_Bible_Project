@@ -85072,39 +85072,39 @@ And your impiety will be given upon you, and the sins of your thoughts you will 
 
 **Ezekiel 24:1**
 
-And the word of the Lord came to me in ninth year, in the tenth month, on the tenth of the month, saying,
+And the word of the Lord came to me in the ninth year, in the tenth month, on the tenth of the month, saying,
 
 **Ezekiel 24:2**
 
-Son of man, write for yourself this day, from this day from which king of Babylon pressed hard against Jerusalem, from this very day.
+Son of man, write for yourself this day, from this day on which the king of Babylon pressed hard against Jerusalem, from this very day.
 
 **Ezekiel 24:3**
 
-And speak to provoking house a parable, and say to them, Thus says the Lord: Set on the cooking pot and pour water into it,
+And speak a parable against the provoking house, and say to them, Thus says the Lord: Set on the cooking pot and pour water into it,
 
 **Ezekiel 24:4**
 
-and put into it the pieces, every good piece, thigh and shoulder, stripped from bones.
+and put into it the pieces, every good piece, leg and shoulder, stripped from the bones.
 
 **Ezekiel 24:5**
 
-Taken from choice cattle, and kindle the bones under them. It boiled, boiled, and its bones were cooked in its midst.
+taken from choice livestock, and kindle the bones under them. It boiled, boiled, and its bones were cooked in its midst.
 
 **Ezekiel 24:6**
 
-Therefore thus says the Lord: O city of bloods, pot in which there is rust in it and its rust did not go out from it. Piece by piece it was brought out; lot did not fall on it.
+Therefore thus says the Lord: O city of bloods, a pot in which there is rust, and its rust did not go out from it. Piece by piece it was brought out; no lot fell on it.
 
 **Ezekiel 24:7**
 
-Because her blood is in her midst. Upon bare rock I placed it; I did not pour it on ground to cover earth over it.
+Because her blood is in her midst. Upon bare rock I placed it; I did not pour it on the ground so as to cover it with earth.
 
 **Ezekiel 24:8**
 
-So that wrath might rise for vengeance, to be avenged, I gave her blood upon bare rock, so that it should not be covered.
+So that wrath might rise for vengeance, to take vengeance, I gave her blood upon bare rock, so that it should not be covered.
 
 **Ezekiel 24:9**
 
-Therefore thus says the Lord: I too will magnify the pile.
+Therefore thus says the Lord: I too will enlarge the pile.
 
 **Ezekiel 24:10**
 
@@ -85112,19 +85112,19 @@ And I will multiply the wood and kindle the fire so that the flesh may melt and 
 
 **Ezekiel 24:11**
 
-And set it upon the coals so that its bronze may burn and become hot and its uncleanness may melt within it and its rust fail away.
+And set it upon the coals so that its bronze may burn and become hot and its uncleanness may melt within it and its rust may disappear.
 
 **Ezekiel 24:12**
 
-And her much rust will not go out from her; her rust will be put to shame.
+And her abundant rust will not go out from her; her rust will be put to shame.
 
 **Ezekiel 24:13**
 
-Because you were defiling yourself, and if you will not be cleansed any longer until I fill up my wrath,
+Because you were defiling yourself, what if you are not cleansed any longer until I fill up my wrath?
 
 **Ezekiel 24:14**
 
-I, the Lord, have spoken, and it will come, and I will do it. I will not delay, nor will I show mercy. According to your ways and according to your thoughts I judge you, says the Lord. Therefore I judge you according to your bloods and according to your thoughts, you unclean one, well-known and much provoking.
+I, the Lord, have spoken, and it will come, and I will act. I will not delay, nor will I show mercy. According to your ways and according to your thoughts I judge you, says the Lord. Therefore I judge you according to your bloods and according to your thoughts; I judge you, the unclean one, notorious and abundant in provoking.
 
 **Ezekiel 24:15**
 
@@ -85132,15 +85132,15 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 24:16**
 
-Son of man, behold, I take from you desire of your eyes in ordered stroke. You must not mourn, nor must you weep.
+Son of man, behold, I take from you the desire of your eyes by an ordered stroke. You must not mourn, nor must you weep.
 
 **Ezekiel 24:17**
 
-Groaning of blood of your loins is mourning; it will not be. Your hair will not be braided upon you and your sandals will be on your feet. You will not be comforted by their lips, and bread of men you will not eat.
+The groaning of blood of your loins is mourning; it will not be. Your hair will not be braided on you, and your sandals will be on your feet. You will not be comforted by their lips, and bread of men you will not eat.
 
 **Ezekiel 24:18**
 
-And I spoke to people in morning as it was commanded me, and my wife died at evening, and I did in morning as it was ordered me.
+And I spoke to the people in the morning as it was commanded me, and my wife died in the evening, and I did in the morning as it was ordered me.
 
 **Ezekiel 24:19**
 
@@ -85152,15 +85152,15 @@ And I said to them, The word of the Lord came to me, saying,
 
 **Ezekiel 24:21**
 
-Say to the house of Israel, Thus says the Lord: Behold, I profane my holy things, arrogance of your strength, desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
+Say to the house of Israel, Thus says the Lord: Behold, I profane my holy things, the boasting of your strength, the desire of your eyes and what your souls spare, and your sons and your daughters whom you left behind will fall by sword.
 
 **Ezekiel 24:22**
 
-And you will do as I did. You will not be comforted from their mouth, and bread of men you will not eat.
+And you will do as I did. You will not be comforted by their mouth, and bread of men you will not eat.
 
 **Ezekiel 24:23**
 
-And your hair will be on your head and your sandals on your feet. You will neither mourn nor weep, and you will melt away in your injustices and each will comfort his brother.
+And your hair will be on your head and your sandals on your feet. You will neither mourn nor weep, and you will melt away in your injustices, and each of you will comfort his brother.
 
 **Ezekiel 24:24**
 
@@ -85168,15 +85168,15 @@ And Ezekiel will be for you a sign; according to all that he did you will do whe
 
 **Ezekiel 24:25**
 
-And you, son of man, is it not on the day when I take from them their strength, raising up of their boasting, desire of their eyes and raising up of their soul, their sons and their daughters,
+And you, son of man, will it not be on the day when I take from them their strength, the exaltation of their boasting, the desire of their eyes and the exaltation of their soul, their sons and their daughters,
 
 **Ezekiel 24:26**
 
-on that day one escaping will come to you to announce it in your ears?
+on that day the one escaping will come to you to announce it in your ears?
 
 **Ezekiel 24:27**
 
-On that day your mouth will be opened toward one escaping, and you will speak and no longer be mute, and you will be to them for sign, and they will know that I am the Lord.
+On that day your mouth will be opened to the one escaping, and you will speak and no longer be mute, and you will be to them as a sign, and they will know that I am the Lord.
 
 ### Chapter 25
 
