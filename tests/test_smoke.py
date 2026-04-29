@@ -3451,7 +3451,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "all the beasts of the whole earth" in by_ref["Ezekiel 32:4"]["draft_translation"]
     assert by_ref["Ezekiel 35:14"]["draft_translation"].startswith("Thus says the Lord: In the joy of the whole earth")
     assert "the house of Jacob is in a snare" in by_ref["Isaiah 8:14"]["draft_translation"]
-    assert "the house of Joseph a flame, and the house of Esau stubble" in by_ref["Obadiah 1:18"]["draft_translation"]
+    assert "the house of Joseph a flame, and the house of Esau for stubble" in by_ref[
+        "Obadiah 1:18"
+    ]["draft_translation"]
     assert by_ref["Micah 2:7"]["draft_translation"].startswith("O house of Jacob, saying, Has the spirit of the Lord")
     assert "like a lion ready for the hunt" in by_ref["Psalms 16:12"]["draft_translation"]
     assert "like a lion among beasts of the forest" in by_ref["Micah 5:7"]["draft_translation"]
