@@ -197161,7 +197161,7 @@ Note:
 ### Hosea 4:1
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
 - fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against the inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
@@ -197170,7 +197170,7 @@ Note:
 ### Hosea 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Curse and lie and murder and theft and adultery have been poured out upon the land, and bloods mix with bloods.
@@ -197179,34 +197179,34 @@ Note:
 ### Hosea 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore the land will mourn and be diminished with all inhabiting it, with the beasts of the field and with reptiles of the earth and with birds of heaven, and fish of the sea will fail.
+- fresh: Therefore the land will mourn and be diminished with all inhabiting it, with the beasts of the field and with the reptiles of the earth and with the birds of heaven, and the fish of the sea will fail.
 - brenton: Therefore shall the land mourn, and shall be diminished with all that dwell in it, with the wild beasts of the field, and the reptiles of the earth, and with the birds of the sky, and the fish of the sea shall fail:
 
 ### Hosea 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Let no one judge and let no one rebuke, for my people are like priest contradicted.
+- fresh: Let no one judge and let no one rebuke, for my people are like a priest being contradicted.
 - brenton: that neither any one may plead, nor any one reprove another: but my people are as a priest spoken against.
 
 ### Hosea 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will grow weak by day, and prophet with you will also grow weak by night; I made your mother like you.
+- fresh: And you will grow weak by day, and a prophet with you will also grow weak by night; I made your mother like you.
 - brenton: Therefore they shall fall by day, and the prophet with thee shall fall: I have compared thy mother unto night.
 
 ### Hosea 4:6
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
 - fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
@@ -197215,7 +197215,7 @@ Note:
 ### Hosea 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: According to their multitude, so they sinned against me; I will turn their glory into dishonor.
@@ -197224,25 +197224,25 @@ Note:
 ### Hosea 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will eat sins of my people, and in their injustices they will take their souls.
+- fresh: They will eat the sins of my people, and in their injustices they will take their souls.
 - brenton: They will devour the sins of my people, and will set their hearts on their iniquities.
 
 ### Hosea 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, like people so priest; and I will avenge on him his ways and repay him his counsels.
+- fresh: And it will be, as the people, so also the priest; and I will avenge on him for his ways and repay him his counsels.
 - brenton: And the priest shall be as the people: and I will avenge on them their ways, and I will recompense to them their counsels.
 
 ### Hosea 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And they will eat and will not be filled; they prostituted themselves and will not be made straight, because they abandoned the Lord so as not to keep him.
@@ -197251,43 +197251,43 @@ Note:
 ### Hosea 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whoredom and wine and drunkenness took heart of my people.
+- fresh: Whoredom and wine and drunkenness took the heart of my people.
 - brenton: The heart of my people has gladly engaged in fornication and wine and strong drink.
 
 ### Hosea 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They were asking by symbols, and by his rod it was reporting to him. They were led astray by the spirit of whoredom and prostituted themselves away from their God.
+- fresh: They were asking by symbols, and by his rods they were reporting to him. They were led astray by the spirit of whoredom and prostituted themselves away from their God.
 - brenton: They asked counsel by means of signs, and they reported answer to them by their staves: they have gone astray in a spirit of whoredom, and gone grievously a-whoring from their God.
 
 ### Hosea 4:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: On the tops of mountains they were sacrificing, and on hills they were burning offerings under oak and white poplar and shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
+- fresh: On the tops of mountains they were sacrificing, and on the hills they were sacrificing under an oak and a white poplar and a shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
 - brenton: They have sacrificed on the tops of the mountains, and on the hills they have sacrificed under the oak and poplar, and under the shady tree, because the shade was good: therefore your daughters shall go a-whoring, and your daughters-in-law shall commit adultery.
 
 ### Hosea 4:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will not visit your daughters when they prostitute themselves, nor your brides when they commit adultery, because they themselves mingled with prostitutes and were sacrificing with those initiated, and people with understanding were entwined with prostitute.
+- fresh: And I will not visit your daughters when they prostitute themselves, nor your brides when they commit adultery, because they themselves mingled with prostitutes and were sacrificing with those initiated, and the people with understanding were entwined with a prostitute.
 - brenton: And I will not visit upon your daughters when they shall commit fornication, nor your daughters-in-law when they shall commit adultery: for they themselves mingled themselves with harlots, and sacrificed with polluted ones, and the people that understood not entangled itself with a harlot.
 
 ### Hosea 4:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: But you, Israel, do not be ignorant, and Judah, do not enter into Gilgal, and do not go up to the house of On, and do not swear, As the Lord lives.
@@ -197296,16 +197296,16 @@ Note:
 ### Hosea 4:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because like maddened heifer Israel maddened itself; now the Lord will pasture them like lamb in open place.
+- fresh: Because like a maddened heifer Israel was maddened; now the Lord will pasture them like a lamb in a broad place.
 - brenton: For Israel was maddened like a mad heifer: now the Lord will feed them as a lamb in a wide place.
 
 ### Hosea 4:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Ephraim, partner of idols, set stumbling blocks for himself.
@@ -197314,19 +197314,19 @@ Note:
 ### Hosea 4:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: He raged with Canaanites; in prostituting they prostituted themselves; they loved dishonor from their own snorting.
+- fresh: He chose the Canaanites; in prostituting they prostituted themselves; they loved dishonor from their own boasting.
 - brenton: He has chosen the Chananites: they have grievously gone a-whoring: they have loved dishonour through her insolence.
 
 ### Hosea 4:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: A swirling of spirit you are in its wings, and they will be put to shame because of their altars.
+- fresh: You are a swirling wind in her wings, and they will be put to shame because of their altars.
 - brenton: Thou art a blast of wind in her wings, and they shall be ashamed because of their altars.
 
 ### Hosea 5:1

@@ -89392,15 +89392,15 @@ Curse and lie and murder and theft and adultery have been poured out upon the la
 
 **Hosea 4:3**
 
-Therefore the land will mourn and be diminished with all inhabiting it, with the beasts of the field and with reptiles of the earth and with birds of heaven, and fish of the sea will fail.
+Therefore the land will mourn and be diminished with all inhabiting it, with the beasts of the field and with the reptiles of the earth and with the birds of heaven, and the fish of the sea will fail.
 
 **Hosea 4:4**
 
-Let no one judge and let no one rebuke, for my people are like priest contradicted.
+Let no one judge and let no one rebuke, for my people are like a priest being contradicted.
 
 **Hosea 4:5**
 
-And you will grow weak by day, and prophet with you will also grow weak by night; I made your mother like you.
+And you will grow weak by day, and a prophet with you will also grow weak by night; I made your mother like you.
 
 **Hosea 4:6**
 
@@ -89412,11 +89412,11 @@ According to their multitude, so they sinned against me; I will turn their glory
 
 **Hosea 4:8**
 
-They will eat sins of my people, and in their injustices they will take their souls.
+They will eat the sins of my people, and in their injustices they will take their souls.
 
 **Hosea 4:9**
 
-And it will be, like people so priest; and I will avenge on him his ways and repay him his counsels.
+And it will be, as the people, so also the priest; and I will avenge on him for his ways and repay him his counsels.
 
 **Hosea 4:10**
 
@@ -89424,19 +89424,19 @@ And they will eat and will not be filled; they prostituted themselves and will n
 
 **Hosea 4:11**
 
-Whoredom and wine and drunkenness took heart of my people.
+Whoredom and wine and drunkenness took the heart of my people.
 
 **Hosea 4:12**
 
-They were asking by symbols, and by his rod it was reporting to him. They were led astray by the spirit of whoredom and prostituted themselves away from their God.
+They were asking by symbols, and by his rods they were reporting to him. They were led astray by the spirit of whoredom and prostituted themselves away from their God.
 
 **Hosea 4:13**
 
-On the tops of mountains they were sacrificing, and on hills they were burning offerings under oak and white poplar and shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
+On the tops of mountains they were sacrificing, and on the hills they were sacrificing under an oak and a white poplar and a shady tree, because shelter is good. Therefore your daughters will prostitute themselves and your brides will commit adultery.
 
 **Hosea 4:14**
 
-And I will not visit your daughters when they prostitute themselves, nor your brides when they commit adultery, because they themselves mingled with prostitutes and were sacrificing with those initiated, and people with understanding were entwined with prostitute.
+And I will not visit your daughters when they prostitute themselves, nor your brides when they commit adultery, because they themselves mingled with prostitutes and were sacrificing with those initiated, and the people with understanding were entwined with a prostitute.
 
 **Hosea 4:15**
 
@@ -89444,7 +89444,7 @@ But you, Israel, do not be ignorant, and Judah, do not enter into Gilgal, and do
 
 **Hosea 4:16**
 
-Because like maddened heifer Israel maddened itself; now the Lord will pasture them like lamb in open place.
+Because like a maddened heifer Israel was maddened; now the Lord will pasture them like a lamb in a broad place.
 
 **Hosea 4:17**
 
@@ -89452,11 +89452,11 @@ Ephraim, partner of idols, set stumbling blocks for himself.
 
 **Hosea 4:18**
 
-He raged with Canaanites; in prostituting they prostituted themselves; they loved dishonor from their own snorting.
+He chose the Canaanites; in prostituting they prostituted themselves; they loved dishonor from their own boasting.
 
 **Hosea 4:19**
 
-A swirling of spirit you are in its wings, and they will be put to shame because of their altars.
+You are a swirling wind in her wings, and they will be put to shame because of their altars.
 
 ### Chapter 5
 
