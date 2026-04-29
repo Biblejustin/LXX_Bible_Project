@@ -7,12 +7,12 @@ This preview shows the first three verses of each book with note/cross-reference
 **Genesis 1:1** In the beginning, God made heaven and earth.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 77
+- Cross-references: 71
 
 **Genesis 1:2** But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 8
+- Cross-references: 4
 
 **Genesis 1:3** And God said, 'Let light come to be.' And light came to be.
 - Translation/textual notes: 0
@@ -347,7 +347,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ecclesiastes 1:1** The words of Ecclesiastes, son of David, king of Israel in Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 12
+- Cross-references: 9
 
 **Ecclesiastes 1:2** Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
 - Translation/textual notes: 1
@@ -398,7 +398,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from the priests, who dwelt in Anathoth in the land of Benjamin,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 10
+- Cross-references: 5
 
 **Jeremiah 1:2** to whom the word of God came in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign,
 - Translation/textual notes: 0
@@ -442,7 +442,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of the Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 13
+- Cross-references: 8
 
 ## Daniel
 
@@ -466,12 +466,12 @@ This preview shows the first three verses of each book with note/cross-reference
 **Hosea 1:1** The word of the Lord that came to Hosea son of Beeri in the days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 16
+- Cross-references: 8
 
 **Hosea 1:2** The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself a wife of whoredom and children of whoredom, because the land, prostituting itself, will prostitute itself away from the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 19
+- Cross-references: 17
 
 **Hosea 1:3** And he went and took Gomer daughter of Diblaim, and she conceived and bore him a son.
 - Translation/textual notes: 0
@@ -483,7 +483,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Joel 1:1** The word of the Lord that came to Joel son of Pethuel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 5
+- Cross-references: 1
 
 **Joel 1:2** Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in the days of your fathers?
 - Translation/textual notes: 0
@@ -602,7 +602,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Zephaniah 1:1** The word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon king of Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 6
+- Cross-references: 2
 
 **Zephaniah 1:2** Let all things utterly fail from the face of the earth, says the Lord.
 - Translation/textual notes: 0
@@ -641,7 +641,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Zechariah 1:2** The Lord was angry with your fathers with great anger.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 19
+- Cross-references: 0
 
 **Zechariah 1:3** And you will say to them, Thus says the Lord Almighty: Return to me, and I will return to you, says the Lord.
 - Translation/textual notes: 0

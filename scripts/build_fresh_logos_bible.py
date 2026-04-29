@@ -13,7 +13,7 @@ import sqlite3
 import sys
 import zipfile
 from collections import Counter, defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Any, Callable, Iterable, TypeVar
 from xml.etree import ElementTree as ET
@@ -39,6 +39,7 @@ try:
         extract_tsk_crossrefs,
         load_kjv_versification,
         parse_brenton_usfm,
+        parse_cross_reference,
         parse_openbible_crossrefs,
         parse_tsk_module,
     )
@@ -58,6 +59,7 @@ except ImportError:  # pragma: no cover - supports module execution from repo ro
         extract_tsk_crossrefs,
         load_kjv_versification,
         parse_brenton_usfm,
+        parse_cross_reference,
         parse_openbible_crossrefs,
         parse_tsk_module,
     )
@@ -316,12 +318,14 @@ class CrossReferenceNote:
     trigger_phrase: str
     refs: tuple[str, ...]
     source: str
+    display_phrase: str = ""
 
     @property
     def display_text(self) -> str:
+        phrase = self.display_phrase or self.trigger_phrase
         prefix = (
-            f'Cross-references for "{self.trigger_phrase}": '
-            if self.trigger_phrase
+            f'Cross-references for "{phrase}": '
+            if phrase
             else "Cross-references: "
         )
         return prefix + "; ".join(self.refs) + "."
@@ -1682,6 +1686,99 @@ def should_anchor_crossref_trigger(trigger: str) -> bool:
     return True
 
 
+BROAD_SINGLE_WORD_CROSSREF_TRIGGERS = {
+    "beginning",
+    "child",
+    "children",
+    "city",
+    "day",
+    "days",
+    "daughter",
+    "daughters",
+    "earth",
+    "face",
+    "god",
+    "hand",
+    "heart",
+    "house",
+    "king",
+    "land",
+    "lord",
+    "man",
+    "men",
+    "mouth",
+    "name",
+    "people",
+    "son",
+    "sons",
+    "soul",
+    "spirit",
+    "way",
+    "ways",
+    "wife",
+    "wives",
+    "word",
+    "words",
+}
+
+
+def broad_single_word_crossref_trigger(trigger: str) -> bool:
+    words = re.findall(r"[A-Za-z0-9]+", trigger.casefold())
+    return len(words) == 1 and words[0] in BROAD_SINGLE_WORD_CROSSREF_TRIGGERS
+
+
+def crossref_book_code(ref: str) -> str:
+    parsed = parse_cross_reference(ref.split("-", 1)[0].strip())
+    return parsed[0] if parsed else ""
+
+
+def thin_broad_single_word_crossref_note(
+    note: CrossReferenceNote,
+    verse: Verse,
+) -> CrossReferenceNote | None:
+    if note.source != "tsk" or not broad_single_word_crossref_trigger(note.trigger_phrase):
+        return note
+    verse_book_code = verse.tsk_key[0]
+    kept_refs = tuple(ref for ref in note.refs if crossref_book_code(ref) == verse_book_code)
+    if not kept_refs:
+        return None
+    return replace(note, refs=kept_refs)
+
+
+def localize_crossref_note_phrase(
+    note: CrossReferenceNote,
+    verse_text: str,
+) -> CrossReferenceNote:
+    trigger = note.trigger_phrase.strip()
+    if not trigger:
+        return note
+    found = find_trigger_span(verse_text, trigger)
+    if not found:
+        return replace(note, trigger_phrase="", display_phrase="")
+    start, end = found
+    fresh_phrase = verse_text[start:end]
+    return replace(note, trigger_phrase=fresh_phrase, display_phrase=fresh_phrase)
+
+
+def prepare_crossref_notes_for_verse(
+    verse: Verse,
+    notes: list[CrossReferenceNote],
+) -> list[CrossReferenceNote]:
+    prepared: list[CrossReferenceNote] = []
+    for note in notes:
+        note = CrossReferenceNote(
+            trigger_phrase=getattr(note, "trigger_phrase", ""),
+            refs=tuple(getattr(note, "refs", ())),
+            source=getattr(note, "source", ""),
+            display_phrase=getattr(note, "display_phrase", ""),
+        )
+        thinned = thin_broad_single_word_crossref_note(note, verse)
+        if not thinned:
+            continue
+        prepared.append(localize_crossref_note_phrase(thinned, verse.text))
+    return prepared
+
+
 def extract_tsk_crossref_groups(raw_text: str) -> list[CrossReferenceNote]:
     groups: list[CrossReferenceNote] = []
     blocks = TSK_PARAGRAPH_RE.findall(raw_text)
@@ -1809,6 +1906,7 @@ def build_crossrefs_for_verses(
                 source_counts["openbible_fallback"] += 1
                 cleaned = tuple(canonicalize_cross_references([format_openbible_ref(ref) for ref in refs]))
                 notes = [CrossReferenceNote(trigger_phrase="", refs=cleaned, source="openbible")]
+        notes = prepare_crossref_notes_for_verse(verse, notes)
         notes = [note for note in notes if note.refs]
         if notes:
             by_ref[verse.ref] = notes
@@ -2613,7 +2711,7 @@ def build_readme(
         else "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
     )
     crossref_note = (
-        "- Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. See root `NOTICE.md` for public-domain/CC-BY attribution details."
+        "- Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors only when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. Broad single-word catchword groups are thinned to same-book links or dropped to avoid loose thematic jumps. See root `NOTICE.md` for public-domain/CC-BY attribution details."
         if crossrefs_enabled
         else "- Cross-references: omitted because `--no-crossrefs` was used."
     )

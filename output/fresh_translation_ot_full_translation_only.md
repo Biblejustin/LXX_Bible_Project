@@ -89830,15 +89830,15 @@ Because Israel was an infant, and I loved him, and from Egypt I called his child
 
 **Hosea 11:2**
 
-As I called them, so they were being driven from my face. They were sacrificing to the Baals and burning incense to carved things.
+As I called them, so they went away from my face; they themselves were sacrificing to the Baals and burning incense to carved things.
 
 **Hosea 11:3**
 
-And I bound Ephraim together; I took him on my arm, and they did not know that I heal them.
+And I bound Ephraim's feet together; I took him on my arm, and they did not know that I heal them.
 
 **Hosea 11:4**
 
-With ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look upon him; I will prevail for him.
+In ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look toward him; I will prevail for him.
 
 **Hosea 11:5**
 

@@ -198124,7 +198124,7 @@ Note:
 ### Hosea 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because Israel was an infant, and I loved him, and from Egypt I called his children.
@@ -198133,28 +198133,28 @@ Note:
 ### Hosea 11:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: As I called them, so they were being driven from my face. They were sacrificing to the Baals and burning incense to carved things.
+- fresh: As I called them, so they went away from my face; they themselves were sacrificing to the Baals and burning incense to carved things.
 - brenton: As I called them, so they departed from my presence: they sacrificed to Baalim, and burnt incense to graven images.
 
 ### Hosea 11:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I bound Ephraim together; I took him on my arm, and they did not know that I heal them.
+- fresh: And I bound Ephraim's feet together; I took him on my arm, and they did not know that I heal them.
 - brenton: Yet I bound the feet of Ephraim, I took him on my arm; but they knew not that I healed them.
 
 ### Hosea 11:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: With ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look upon him; I will prevail for him.
+- fresh: In ruin of men I stretched them out, in bonds of my love, and I will be to them like one striking a man on his jaws, and I will look toward him; I will prevail for him.
 - brenton: When men were destroyed, I drew them with the bands of my love: and I will be to them as a man smiting another on his cheek: and I will have respect to him, I will prevail with him.
 
 ### Hosea 11:5

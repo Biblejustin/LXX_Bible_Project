@@ -286,6 +286,26 @@ def test_reviewed_phrase_guards_match_source() -> None:
             raise AssertionError(f"Unsupported reviewed phrase guard mode: {mode}")
 
 
+def test_crossref_notes_use_fresh_language_and_drop_loose_single_word_links() -> None:
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import build_fresh_logos_bible as logos_builder
+
+    verses = logos_builder.load_verses(ROOT / "data/raw/lxx_greek/ot_full.csv")
+    hosea_1_2 = next(verse for verse in verses if verse.ref == "Hosea 1:2")
+    crossrefs, _diag = logos_builder.build_crossrefs_for_verses(
+        [hosea_1_2],
+        "ot",
+        enabled=True,
+    )
+
+    notes = crossrefs["Hosea 1:2"]
+    display_text = "\n".join(note.display_text for note in notes)
+    assert "Mark 1:1" not in display_text
+    assert 'Cross-references for "beginning"' not in display_text
+    assert 'Cross-references for "children": Hos 2:4.' in display_text
+    assert "2Pet 2:14" not in display_text
+
+
 def test_common_lord_article_formulas_are_normalized() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     formulas = (
